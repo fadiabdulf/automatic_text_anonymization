@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Catherine Mouchet</title>
+<link/>https://en.wikipedia.org/wiki/Catherine_Mouchet
+<annotated>0</annotated>
+<originalabstract>Catherine Mouchet (born 21 August 1959) is a French actress.
+She studied at the Conservatoire de Paris, following the courses of Jacques Lassalle and Claude Régy. Her performance in the film Thérèse, directed by Alain Cavalier, won her the César Award for Most Promising Actress for 1987.</originalabstract>
+<abstract>Catherine_Mouchet ( born 21_August_1959 ) is a_French_actress . She studied at the_Conservatoire_de_Paris , following the_courses of Jacques_Lassalle and Claude_Régy . Her_performance in the_film_Thérèse , directed by Alain_Cavalier , won her_the_César_Award for Most_Promising_Actress for 1987 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Catherine'), (10, 'Mouchet'), (18, '('), (19, 'born'), (24, '21'), (27, 'August'), (34, '1959'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'actress'), (59, '.'), (61, 'She'), (65, 'studied'), (73, 'at'), (76, 'the'), (80, 'Conservatoire'), (94, 'de'), (97, 'Paris'), (102, ','), (104, 'following'), (114, 'the'), (118, 'courses'), (126, 'of'), (129, 'Jacques'), (137, 'Lassalle'), (146, 'and'), (150, 'Claude'), (157, 'Régy'), (161, '.'), (163, 'Her'), (167, 'performance'), (179, 'in'), (182, 'the'), (186, 'film'), (191, 'Thérèse'), (198, ','), (200, 'directed'), (209, 'by'), (212, 'Alain'), (218, 'Cavalier'), (226, ','), (228, 'won'), (232, 'her'), (236, 'the'), (240, 'César'), (246, 'Award'), (252, 'for'), (256, 'Most'), (261, 'Promising'), (271, 'Actress'), (279, 'for'), (283, '1987'), (287, '.')])</stanford_tokens>
+<opennlp_chunks>[('Catherine Mouchet',0, 17), ('21 August 1959',24, 38), ('a French actress',43, 59), ('the Conservatoire de Paris',76, 102), ('the courses',114, 125), ('Jacques Lassalle',129, 145), ('Claude Régy',150, 161), ('Her performance',163, 178), ('the film Thérèse',182, 198), ('Alain Cavalier',212, 226), ('her the César Award',232, 251), ('Most Promising Actress',256, 278)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'FW', 'NNP', ',', 'VBG', 'DT', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'PRP$', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Catherine'), (10, 'Mouchet'), (18, '('), (19, 'born'), (24, '21'), (27, 'August'), (34, '1959'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'actress'), (59, '.'), (61, 'She'), (65, 'studied'), (73, 'at'), (76, 'the'), (80, 'Conservatoire'), (94, 'de'), (97, 'Paris'), (102, ','), (104, 'following'), (114, 'the'), (118, 'courses'), (126, 'of'), (129, 'Jacques'), (137, 'Lassalle'), (146, 'and'), (150, 'Claude'), (157, 'Régy'), (161, '.'), (163, 'Her'), (167, 'performance'), (179, 'in'), (182, 'the'), (186, 'film'), (191, 'Thérèse'), (198, ','), (200, 'directed'), (209, 'by'), (212, 'Alain'), (218, 'Cavalier'), (226, ','), (228, 'won'), (232, 'her'), (236, 'the'), (240, 'César'), (246, 'Award'), (252, 'for'), (256, 'Most'), (261, 'Promising'), (271, 'Actress'), (279, 'for'), (283, '1987'), (287, '.')])</spacy_tokens>
+<spacy_chunks>[('Catherine Mouchet', 0, 17), ('21 August 1959', 24, 38), ('a French actress', 43, 59), ('the Conservatoire de Paris', 76, 102), ('the courses', 114, 125), ('Jacques Lassalle', 129, 145), ('Claude Régy', 150, 161), ('Her performance', 163, 178), ('the film', 182, 190), ('Thérèse', 191, 198), ('Alain Cavalier', 212, 226), ('the César Award', 236, 251), ('César Award for Most Promising Actress', 240, 278)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'FW', 'NNP', ',', 'VBG', 'DT', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'PRP', 'DT', 'NNP', 'NNP', 'IN', 'JJS', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

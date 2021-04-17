@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elizabeth Berkley</title>
+<link/>https://en.wikipedia.org/wiki/Elizabeth_Berkley
+<annotated>0</annotated>
+<originalabstract>Elizabeth Berkley Lauren (born July 28, 1972) is an American actress and  reality show personality. Berkley's most notable roles were as Jessie Spano in the television series Saved by the Bell, and as Nomi Malone in the 1995 Paul Verhoeven film Showgirls.</originalabstract>
+<abstract>Elizabeth_Berkley_Lauren ( born July_28_,_1972 ) is an_American_actress_and_reality show personality . Berkley 's_most_notable_roles were as Jessie_Spano in the_television_series Saved by the_Bell , and as Nomi_Malone in the_1995_Paul_Verhoeven_film_Showgirls .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Berkley'), (18, 'Lauren'), (25, '('), (26, 'born'), (31, 'July'), (36, '28'), (38, ','), (40, '1972'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (69, 'and'), (74, 'reality'), (82, 'show'), (87, 'personality'), (98, '.'), (100, 'Berkley'), (107, '\'s'), (110, 'most'), (115, 'notable'), (123, 'roles'), (129, 'were'), (134, 'as'), (137, 'Jessie'), (144, 'Spano'), (150, 'in'), (153, 'the'), (157, 'television'), (168, 'series'), (175, 'Saved'), (181, 'by'), (184, 'the'), (188, 'Bell'), (192, ','), (194, 'and'), (198, 'as'), (201, 'Nomi'), (206, 'Malone'), (213, 'in'), (216, 'the'), (220, '1995'), (225, 'Paul'), (230, 'Verhoeven'), (240, 'film'), (245, 'Showgirls'), (254, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elizabeth Berkley Lauren',0, 24), ('July 28, 1972',31, 44), ('an American actress and  reality',49, 81), ('\'s most notable roles',107, 128), ('Jessie Spano',137, 149), ('the television series',153, 174), ('the Bell',184, 192), ('Nomi Malone',201, 212), ('the 1995 Paul Verhoeven film Showgirls',216, 254)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'VBP', 'NN', '.', 'NNP', 'POS', 'JJS', 'JJ', 'NNS', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'VBN', 'IN', 'DT', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Berkley'), (18, 'Lauren'), (25, '('), (26, 'born'), (31, 'July'), (36, '28'), (38, ','), (40, '1972'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (69, 'and'), (74, 'reality'), (82, 'show'), (87, 'personality'), (98, '.'), (100, 'Berkley'), (107, "'s"), (110, 'most'), (115, 'notable'), (123, 'roles'), (129, 'were'), (134, 'as'), (137, 'Jessie'), (144, 'Spano'), (150, 'in'), (153, 'the'), (157, 'television'), (168, 'series'), (175, 'Saved'), (181, 'by'), (184, 'the'), (188, 'Bell'), (192, ','), (194, 'and'), (198, 'as'), (201, 'Nomi'), (206, 'Malone'), (213, 'in'), (216, 'the'), (220, '1995'), (225, 'Paul'), (230, 'Verhoeven'), (240, 'film'), (245, 'Showgirls'), (254, '.')])</spacy_tokens>
+<spacy_chunks>[('Elizabeth Berkley Lauren', 0, 24), ('July 28, 1972', 31, 44), ('an American actress', 49, 68), ('reality show personality', 74, 98), ("Berkley's most notable roles", 100, 128), ('Jessie Spano', 137, 149), ('the television series', 153, 174), ('Saved by the Bell', 175, 192), ('Nomi Malone', 201, 212), ('the 1995 Paul Verhoeven film Showgirls', 216, 254)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', '.', 'NNP', 'POS', 'RBS', 'JJ', 'NNS', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'VBN', 'IN', 'DT', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

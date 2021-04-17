@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Liz May Brice</title>
+<link/>https://en.wikipedia.org/wiki/Liz_May_Brice
+<annotated>0</annotated>
+<originalabstract>Elizabeth May Brice (born 8 September 1975) is an English actress. She is known for roles such as the convicted murderer Pat Kerrigan on ITV1's Bad Girls.</originalabstract>
+<abstract>Elizabeth_May_Brice ( born 8_September_1975 ) is an_English_actress . She is_known for roles such_as the_convicted_murderer_Pat_Kerrigan on ITV1 's_Bad_Girls .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'May'), (14, 'Brice'), (20, '('), (21, 'born'), (26, '8'), (28, 'September'), (38, '1975'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'English'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'is'), (74, 'known'), (80, 'for'), (84, 'roles'), (90, 'such'), (95, 'as'), (98, 'the'), (102, 'convicted'), (112, 'murderer'), (121, 'Pat'), (125, 'Kerrigan'), (134, 'on'), (137, 'ITV1'), (141, '\'s'), (144, 'Bad'), (148, 'Girls'), (153, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elizabeth May Brice',0, 19), ('8 September 1975',26, 42), ('an English actress',47, 65), ('is known',71, 79), ('such as',90, 97), ('the convicted murderer Pat Kerrigan',98, 133), ('\'s Bad Girls',141, 153)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'VBN', 'NN', 'NNP', 'NNP', 'IN', 'NN', 'POS', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'May'), (14, 'Brice'), (20, '('), (21, 'born'), (26, '8'), (28, 'September'), (38, '1975'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'English'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'is'), (74, 'known'), (80, 'for'), (84, 'roles'), (90, 'such'), (95, 'as'), (98, 'the'), (102, 'convicted'), (112, 'murderer'), (121, 'Pat'), (125, 'Kerrigan'), (134, 'on'), (137, 'ITV1'), (141, "'s"), (144, 'Bad'), (148, 'Girls'), (153, '.')])</spacy_tokens>
+<spacy_chunks>[('Elizabeth May Brice', 0, 19), ('8 September 1975', 26, 42), ('an English actress', 47, 65), ('the convicted murderer', 98, 120), ('Pat Kerrigan', 121, 133), ("ITV1's Bad Girls", 137, 153)]</spacy_chunks>
+<spacy_pos>['NNP', 'MD', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'VBN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

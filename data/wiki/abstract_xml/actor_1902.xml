@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mike Douglas</title>
+<link/>https://en.wikipedia.org/wiki/Mike_Douglas
+<annotated>0</annotated>
+<originalabstract>Michael Delaney Dowd Jr. (August 11, 1920 – August 11, 2006), known as Mike Douglas, was an American "Big Band" era singer, entertainer, television talk show host (The Mike Douglas Show), and actor.</originalabstract>
+<abstract>Michael_Delaney_Dowd_Jr. ( August_11_,_1920 – August_11_,_2006 ) , known as Mike_Douglas , was an_American_"_Big_Band_"_era_singer , entertainer , television_talk_show_host ( The_Mike_Douglas_Show ) , and actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michael'), (8, 'Delaney'), (16, 'Dowd'), (21, 'Jr.'), (25, '('), (26, 'August'), (33, '11'), (35, ','), (37, '1920'), (42, '–'), (44, 'August'), (51, '11'), (53, ','), (55, '2006'), (59, ')'), (60, ','), (62, 'known'), (68, 'as'), (71, 'Mike'), (76, 'Douglas'), (83, ','), (85, 'was'), (89, 'an'), (92, 'American'), (101, '"'), (102, 'Big'), (106, 'Band'), (110, '"'), (112, 'era'), (116, 'singer'), (122, ','), (124, 'entertainer'), (135, ','), (137, 'television'), (148, 'talk'), (153, 'show'), (158, 'host'), (163, '('), (164, 'The'), (168, 'Mike'), (173, 'Douglas'), (181, 'Show'), (185, ')'), (186, ','), (188, 'and'), (192, 'actor'), (197, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michael Delaney Dowd Jr.',0, 24), ('August 11, 1920',26, 41), ('August 11, 2006',44, 59), ('Mike Douglas',71, 83), ('an American "Big Band" era singer',89, 122), ('television talk show host',137, 162), ('The Mike Douglas Show',164, 185)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', '``', 'JJ', 'NN', '\'\'', 'NN', 'NN', ',', 'NN', ',', 'NN', 'NN', 'NN', 'NN', '-LRB-', 'DT', 'NNP', 'NNP', 'NNP', '-RRB-', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michael'), (8, 'Delaney'), (16, 'Dowd'), (21, 'Jr.'), (25, '('), (26, 'August'), (33, '11'), (35, ','), (37, '1920'), (42, '–'), (44, 'August'), (51, '11'), (53, ','), (55, '2006'), (59, ')'), (60, ','), (62, 'known'), (68, 'as'), (71, 'Mike'), (76, 'Douglas'), (83, ','), (85, 'was'), (89, 'an'), (92, 'American'), (101, '"'), (102, 'Big'), (106, 'Band'), (110, '"'), (112, 'era'), (116, 'singer'), (122, ','), (124, 'entertainer'), (135, ','), (137, 'television'), (148, 'talk'), (153, 'show'), (158, 'host'), (163, '('), (164, 'The'), (168, 'Mike'), (173, 'Douglas'), (181, 'Show'), (185, ')'), (186, ','), (188, 'and'), (192, 'actor'), (197, '.')])</spacy_tokens>
+<spacy_chunks>[('Michael Delaney Dowd Jr.', 0, 24), ('August 11, 1920', 26, 41), ('August 11, 2006', 44, 59), ('Mike Douglas', 71, 83), ('an American "Big Band" era singer, entertainer, television talk show host', 89, 162), ('The Mike Douglas Show', 164, 185)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', '``', 'NNP', 'NNP', "''", 'NN', 'NN', ',', 'NN', ',', 'NN', 'NN', 'NN', 'NN', '-LRB-', 'DT', 'NNP', 'NNP', 'NNP', '-RRB-', ',', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

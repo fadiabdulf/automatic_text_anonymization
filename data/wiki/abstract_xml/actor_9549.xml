@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>René Blancard</title>
+<link/>https://en.wikipedia.org/wiki/Ren%C3%A9_Blancard
+<annotated>0</annotated>
+<originalabstract>René Blancard (12 March 1897 – 5 November 1965) was a French film actor. He appeared in 80 films between 1922 and 1965.</originalabstract>
+<abstract>René_Blancard ( 12_March_1897 – 5_November_1965 ) was a_French_film_actor . He appeared in 80_films between 1922_and_1965 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'René'), (5, 'Blancard'), (14, '('), (15, '12'), (18, 'March'), (24, '1897'), (29, '–'), (31, '5'), (33, 'November'), (42, '1965'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French'), (61, 'film'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'appeared'), (85, 'in'), (88, '80'), (91, 'films'), (97, 'between'), (105, '1922'), (110, 'and'), (114, '1965'), (118, '.')])</stanford_tokens>
+<opennlp_chunks>[('René Blancard',0, 13), ('12 March 1897',15, 28), ('5 November 1965',31, 46), ('a French film actor',52, 71), ('80 films',88, 96), ('1922 and 1965',105, 118)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'René'), (5, 'Blancard'), (14, '('), (15, '12'), (18, 'March'), (24, '1897'), (29, '–'), (31, '5'), (33, 'November'), (42, '1965'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French'), (61, 'film'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'appeared'), (85, 'in'), (88, '80'), (91, 'films'), (97, 'between'), (105, '1922'), (110, 'and'), (114, '1965'), (118, '.')])</spacy_tokens>
+<spacy_chunks>[('René Blancard', 0, 13), ('12 March 1897', 15, 28), ('5 November 1965', 31, 46), ('a French film actor', 52, 71), ('80 films', 88, 96)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

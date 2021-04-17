@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wendy Schaal</title>
+<link/>https://en.wikipedia.org/wiki/Wendy_Schaal
+<annotated>0</annotated>
+<originalabstract>Wendy K. Schaal (born July 2, 1954) is an American actress and voice-over artist best known for her work in Joe Dante films such as Innerspace, The 'Burbs and Small Soldiers. Since 2005, she has primarily worked in cartoon voice acting, most notably voicing Francine Smith in the animated comedy American Dad!</originalabstract>
+<abstract>Wendy_K._Schaal ( born July_2_,_1954 ) is an_American_actress and voice-over_artist best_known for her_work in Joe_Dante_films such_as Innerspace , The_'_Burbs and Small_Soldiers . Since 2005 , she has_primarily_worked in cartoon_voice acting , most_notably voicing Francine_Smith in the_animated_comedy American_Dad !</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wendy'), (6, 'K.'), (9, 'Schaal'), (16, '('), (17, 'born'), (22, 'July'), (27, '2'), (28, ','), (30, '1954'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (59, 'and'), (63, 'voice-over'), (74, 'artist'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'work'), (105, 'in'), (108, 'Joe'), (112, 'Dante'), (118, 'films'), (124, 'such'), (129, 'as'), (132, 'Innerspace'), (142, ','), (144, 'The'), (148, '\''), (149, 'Burbs'), (155, 'and'), (159, 'Small'), (165, 'Soldiers'), (173, '.'), (175, 'Since'), (181, '2005'), (185, ','), (187, 'she'), (191, 'has'), (195, 'primarily'), (205, 'worked'), (212, 'in'), (215, 'cartoon'), (223, 'voice'), (229, 'acting'), (235, ','), (237, 'most'), (242, 'notably'), (250, 'voicing'), (258, 'Francine'), (267, 'Smith'), (273, 'in'), (276, 'the'), (280, 'animated'), (289, 'comedy'), (296, 'American'), (305, 'Dad'), (308, '!')])</stanford_tokens>
+<opennlp_chunks>[('Wendy K. Schaal',0, 15), ('July 2, 1954',22, 34), ('an American actress',39, 58), ('voice-over artist',63, 80), ('best known',81, 91), ('her work',96, 104), ('Joe Dante films',108, 123), ('such as',124, 131), ('The \'Burbs',144, 154), ('Small Soldiers',159, 173), ('has primarily worked',191, 211), ('cartoon voice',215, 228), ('most notably',237, 249), ('Francine Smith',258, 272), ('the animated comedy',276, 295), ('American Dad',296, 308)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNS', 'JJ', 'IN', 'NNP', ',', 'DT', '``', 'NNS', 'CC', 'JJ', 'NNS', '.', 'IN', 'CD', ',', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'NN', 'VBG', ',', 'RBS', 'RB', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'JJ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wendy'), (6, 'K.'), (9, 'Schaal'), (16, '('), (17, 'born'), (22, 'July'), (27, '2'), (28, ','), (30, '1954'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (59, 'and'), (63, 'voice'), (68, '-'), (69, 'over'), (74, 'artist'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'work'), (105, 'in'), (108, 'Joe'), (112, 'Dante'), (118, 'films'), (124, 'such'), (129, 'as'), (132, 'Innerspace'), (142, ','), (144, 'The'), (148, "'"), (149, 'Burbs'), (155, 'and'), (159, 'Small'), (165, 'Soldiers'), (173, '.'), (175, 'Since'), (181, '2005'), (185, ','), (187, 'she'), (191, 'has'), (195, 'primarily'), (205, 'worked'), (212, 'in'), (215, 'cartoon'), (223, 'voice'), (229, 'acting'), (235, ','), (237, 'most'), (242, 'notably'), (250, 'voicing'), (258, 'Francine'), (267, 'Smith'), (273, 'in'), (276, 'the'), (280, 'animated'), (289, 'comedy'), (296, 'American'), (305, 'Dad'), (308, '!')])</spacy_tokens>
+<spacy_chunks>[('Wendy K. Schaal', 0, 15), ('July 2, 1954', 22, 34), ('an American actress', 39, 58), ('voice-over artist', 63, 80), ('her work', 96, 104), ('Joe Dante films', 108, 123), ('Innerspace', 132, 142), ("The 'Burbs and Small Soldiers", 144, 173), ('cartoon voice', 215, 228), ('Francine Smith', 258, 272), ('the animated comedy American Dad', 276, 308), ('American Dad!', 296, 309)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'HYPH', 'RP', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNS', 'JJ', 'IN', 'NNP', ',', 'DT', '``', 'NNP', 'CC', 'NNP', 'NNPS', '.', 'IN', 'CD', ',', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'NN', 'VBG', ',', 'RBS', 'RB', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'VBN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

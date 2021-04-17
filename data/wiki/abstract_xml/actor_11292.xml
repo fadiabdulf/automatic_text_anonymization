@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mamo Clark</title>
+<link/>https://en.wikipedia.org/wiki/Mamo_Clark
+<annotated>0</annotated>
+<originalabstract>Mamo Clark (December 6, 1914 – December 18, 1986), sometimes billed as Mamo, was a Hawaiian-born American actress and author.</originalabstract>
+<abstract>Mamo_Clark ( December_6_,_1914 – December_18_,_1986 ) , sometimes billed as Mamo , was a_Hawaiian-born_American_actress_and_author .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mamo'), (5, 'Clark'), (11, '('), (12, 'December'), (21, '6'), (22, ','), (24, '1914'), (29, '–'), (31, 'December'), (40, '18'), (42, ','), (44, '1986'), (48, ')'), (49, ','), (51, 'sometimes'), (61, 'billed'), (68, 'as'), (71, 'Mamo'), (75, ','), (77, 'was'), (81, 'a'), (83, 'Hawaiian-born'), (97, 'American'), (106, 'actress'), (114, 'and'), (118, 'author'), (124, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mamo Clark',0, 10), ('December 6, 1914',12, 28), ('December 18, 1986',31, 48), ('a Hawaiian-born American actress and author',81, 124)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBD', 'IN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mamo'), (5, 'Clark'), (11, '('), (12, 'December'), (21, '6'), (22, ','), (24, '1914'), (29, '–'), (31, 'December'), (40, '18'), (42, ','), (44, '1986'), (48, ')'), (49, ','), (51, 'sometimes'), (61, 'billed'), (68, 'as'), (71, 'Mamo'), (75, ','), (77, 'was'), (81, 'a'), (83, 'Hawaiian'), (91, '-'), (92, 'born'), (97, 'American'), (106, 'actress'), (114, 'and'), (118, 'author'), (124, '.')])</spacy_tokens>
+<spacy_chunks>[('Mamo Clark', 0, 10), ('(December', 11, 20), ('December 6, 1914', 12, 28), ('December 18, 1986', 31, 48), ('a Hawaiian-born American actress', 81, 113), ('author', 118, 124)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', ',', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

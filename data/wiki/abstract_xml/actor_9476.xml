@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean Angelo</title>
+<link/>https://en.wikipedia.org/wiki/Jean_Angelo
+<annotated>0</annotated>
+<originalabstract>Jean Angelo (17 May 1888 - 26 November 1933) born Jean-Jacques Barthélémy was a French film actor of silent movies and early talkies. He was often a leading man playing romantic or athletic roles. Angelo was born and died in Paris.</originalabstract>
+<abstract>Jean_Angelo ( 17_May_1888 - 26 November_1933 ) born Jean-Jacques_Barthélémy was a_French_film_actor of silent_movies and early_talkies . He was often a_leading_man playing romantic_or_athletic_roles . Angelo was_born and died in Paris .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean'), (5, 'Angelo'), (12, '('), (13, '17'), (16, 'May'), (20, '1888'), (25, '-'), (27, '26'), (30, 'November'), (39, '1933'), (43, ')'), (45, 'born'), (50, 'Jean-Jacques'), (63, 'Barthélémy'), (74, 'was'), (78, 'a'), (80, 'French'), (87, 'film'), (92, 'actor'), (98, 'of'), (101, 'silent'), (108, 'movies'), (115, 'and'), (119, 'early'), (125, 'talkies'), (132, '.'), (134, 'He'), (137, 'was'), (141, 'often'), (147, 'a'), (149, 'leading'), (157, 'man'), (161, 'playing'), (169, 'romantic'), (178, 'or'), (181, 'athletic'), (190, 'roles'), (195, '.'), (197, 'Angelo'), (204, 'was'), (208, 'born'), (213, 'and'), (217, 'died'), (222, 'in'), (225, 'Paris'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean Angelo',0, 11), ('17 May 1888',13, 24), ('November 1933',30, 43), ('Jean-Jacques Barthélémy',50, 73), ('a French film actor',78, 97), ('silent movies',101, 114), ('early talkies',119, 132), ('a leading man',147, 160), ('romantic or athletic roles',169, 195), ('was born',204, 212)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBN', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'RB', 'DT', 'VBG', 'NN', 'NN', 'JJ', 'CC', 'JJ', 'NNS', '.', 'NNP', 'VBD', 'VBN', 'CC', 'VBD', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (5, 'Angelo'), (12, '('), (13, '17'), (16, 'May'), (20, '1888'), (25, '-'), (27, '26'), (30, 'November'), (39, '1933'), (43, ')'), (45, 'born'), (50, 'Jean'), (54, '-'), (55, 'Jacques'), (63, 'Barthélémy'), (74, 'was'), (78, 'a'), (80, 'French'), (87, 'film'), (92, 'actor'), (98, 'of'), (101, 'silent'), (108, 'movies'), (115, 'and'), (119, 'early'), (125, 'talkies'), (132, '.'), (134, 'He'), (137, 'was'), (141, 'often'), (147, 'a'), (149, 'leading'), (157, 'man'), (161, 'playing'), (169, 'romantic'), (178, 'or'), (181, 'athletic'), (190, 'roles'), (195, '.'), (197, 'Angelo'), (204, 'was'), (208, 'born'), (213, 'and'), (217, 'died'), (222, 'in'), (225, 'Paris'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean Angelo', 0, 11), ('17 May 1888', 13, 24), ('26 November 1933', 27, 43), ('Jean-Jacques Barthélémy', 50, 73), ('a French film actor', 78, 97), ('silent movies', 101, 114), ('early talkies', 119, 132), ('a leading man', 147, 160), ('romantic or athletic roles', 169, 195)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'NNP', 'HYPH', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'RB', 'DT', 'VBG', 'NN', 'VBG', 'JJ', 'CC', 'JJ', 'NNS', '.', 'NNP', 'VBD', 'VBN', 'CC', 'VBD', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Bailey (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Bailey_(actor)
+<annotated>0</annotated>
+<originalabstract>John Wesley Bailey, Jr. (September 15, 1907 – February 1, 1980) was an American actor and daytime game show host. He was born in Hampton, Iowa, and died in Santa Monica, California.</originalabstract>
+<abstract>John_Wesley_Bailey , Jr. ( September_15_,_1907 – February_1_,_1980 ) was an_American_actor and daytime_game_show_host . He was_born in Hampton , Iowa , and died in Santa_Monica , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Wesley'), (12, 'Bailey'), (18, ','), (20, 'Jr.'), (24, '('), (25, 'September'), (35, '15'), (37, ','), (39, '1907'), (44, '–'), (46, 'February'), (55, '1'), (56, ','), (58, '1980'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (86, 'and'), (90, 'daytime'), (98, 'game'), (103, 'show'), (108, 'host'), (112, '.'), (114, 'He'), (117, 'was'), (121, 'born'), (126, 'in'), (129, 'Hampton'), (136, ','), (138, 'Iowa'), (142, ','), (144, 'and'), (148, 'died'), (153, 'in'), (156, 'Santa'), (162, 'Monica'), (168, ','), (170, 'California'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Wesley Bailey',0, 18), ('September 15, 1907',25, 43), ('February 1, 1980',46, 62), ('an American actor',68, 85), ('daytime game show host',90, 112), ('was born',117, 125), ('Santa Monica',156, 168)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Wesley'), (12, 'Bailey'), (18, ','), (20, 'Jr.'), (24, '('), (25, 'September'), (35, '15'), (37, ','), (39, '1907'), (44, '–'), (46, 'February'), (55, '1'), (56, ','), (58, '1980'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (86, 'and'), (90, 'daytime'), (98, 'game'), (103, 'show'), (108, 'host'), (112, '.'), (114, 'He'), (117, 'was'), (121, 'born'), (126, 'in'), (129, 'Hampton'), (136, ','), (138, 'Iowa'), (142, ','), (144, 'and'), (148, 'died'), (153, 'in'), (156, 'Santa'), (162, 'Monica'), (168, ','), (170, 'California'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('John Wesley Bailey', 0, 18), ('September 15, 1907', 25, 43), ('February 1, 1980', 46, 62), ('an American actor', 68, 85), ('daytime game show host', 90, 112), ('Hampton, Iowa', 129, 142), ('Santa Monica, California', 156, 180)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

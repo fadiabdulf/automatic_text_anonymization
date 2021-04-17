@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frankie Avalon</title>
+<link/>https://en.wikipedia.org/wiki/Frankie_Avalon
+<annotated>0</annotated>
+<originalabstract>Frankie Avalon (born Francis Thomas Avallone; September 18, 1940) is an Italian-American actor, singer, and former teen idol. Avalon had 31 charted U.S. Billboard singles from 1958 to late 1962, including the number one hits "Venus" and "Why" in 1959.</originalabstract>
+<abstract>Frankie_Avalon ( born Francis_Thomas_Avallone ; September_18_,_1940 ) is an_Italian-American_actor , singer , and former_teen_idol . Avalon had 31 charted U.S._Billboard_singles from 1958 to late_1962 , including the_number_one hits " Venus " and " Why " in 1959 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frankie'), (8, 'Avalon'), (15, '('), (16, 'born'), (21, 'Francis'), (29, 'Thomas'), (36, 'Avallone'), (44, ';'), (46, 'September'), (56, '18'), (58, ','), (60, '1940'), (64, ')'), (66, 'is'), (69, 'an'), (72, 'Italian-American'), (89, 'actor'), (94, ','), (96, 'singer'), (102, ','), (104, 'and'), (108, 'former'), (115, 'teen'), (120, 'idol'), (124, '.'), (126, 'Avalon'), (133, 'had'), (137, '31'), (140, 'charted'), (148, 'U.S.'), (153, 'Billboard'), (163, 'singles'), (171, 'from'), (176, '1958'), (181, 'to'), (184, 'late'), (189, '1962'), (193, ','), (195, 'including'), (205, 'the'), (209, 'number'), (216, 'one'), (220, 'hits'), (225, '"'), (226, 'Venus'), (231, '"'), (233, 'and'), (237, '"'), (238, 'Why'), (241, '"'), (243, 'in'), (246, '1959'), (250, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frankie Avalon',0, 14), ('Francis Thomas Avallone',21, 44), ('September 18, 1940',46, 64), ('an Italian-American actor',69, 94), ('former teen idol',108, 124), ('U.S. Billboard singles',148, 170), ('late 1962',184, 193), ('the number one',205, 219)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBD', 'CD', 'VBD', 'NNP', 'NNP', 'NNS', 'IN', 'CD', 'TO', 'JJ', 'CD', ',', 'VBG', 'DT', 'NN', 'CD', 'VBZ', '``', 'NNP', '\'\'', 'CC', '``', 'WRB', '\'\'', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frankie'), (8, 'Avalon'), (15, '('), (16, 'born'), (21, 'Francis'), (29, 'Thomas'), (36, 'Avallone'), (44, ';'), (46, 'September'), (56, '18'), (58, ','), (60, '1940'), (64, ')'), (66, 'is'), (69, 'an'), (72, 'Italian'), (79, '-'), (80, 'American'), (89, 'actor'), (94, ','), (96, 'singer'), (102, ','), (104, 'and'), (108, 'former'), (115, 'teen'), (120, 'idol'), (124, '.'), (126, 'Avalon'), (133, 'had'), (137, '31'), (140, 'charted'), (148, 'U.S.'), (153, 'Billboard'), (163, 'singles'), (171, 'from'), (176, '1958'), (181, 'to'), (184, 'late'), (189, '1962'), (193, ','), (195, 'including'), (205, 'the'), (209, 'number'), (216, 'one'), (220, 'hits'), (225, '"'), (226, 'Venus'), (231, '"'), (233, 'and'), (237, '"'), (238, 'Why'), (241, '"'), (243, 'in'), (246, '1959'), (250, '.')])</spacy_tokens>
+<spacy_chunks>[('Frankie Avalon', 0, 14), ('Francis Thomas Avallone', 21, 44), ('September 18, 1940', 46, 64), ('an Italian-American actor', 69, 94), ('singer', 96, 102), ('former teen idol', 108, 124), ('31 charted U.S. Billboard singles', 137, 170), ('"Venus', 225, 231)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBD', 'CD', 'VBN', 'NNP', 'NNP', 'NNS', 'IN', 'CD', 'IN', 'JJ', 'CD', ',', 'VBG', 'DT', 'NN', 'CD', 'VBZ', '``', 'NNP', "''", 'CC', '``', 'WRB', "''", 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

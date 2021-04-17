@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Diane Kurys</title>
+<link/>https://en.wikipedia.org/wiki/Diane_Kurys
+<annotated>0</annotated>
+<originalabstract>Diane Kurys (French: [djan kyʁis]; born 3 December 1948) is a French filmmaker and actress. She was born in Lyon, Rhône, France, the younger of two daughters born to Russian-Jewish parents who divorced when she was a child. Several of her films as director are semi-autobiographical.</originalabstract>
+<abstract>Diane_Kurys ( French : [_djan_kyʁis_] ; born_3_December_1948 ) is a_French_filmmaker_and_actress . She was_born in Lyon , Rhône , France , the younger_of_two_daughters born to Russian-Jewish_parents who divorced when she was a_child . Several of her_films as director are semi-autobiographical .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Diane'), (6, 'Kurys'), (12, '('), (13, 'French'), (19, ':'), (21, '['), (22, 'djan'), (27, 'kyʁis'), (32, ']'), (33, ';'), (35, 'born'), (40, '3'), (42, 'December'), (51, '1948'), (55, ')'), (57, 'is'), (60, 'a'), (62, 'French'), (69, 'filmmaker'), (79, 'and'), (83, 'actress'), (90, '.'), (92, 'She'), (96, 'was'), (100, 'born'), (105, 'in'), (108, 'Lyon'), (112, ','), (114, 'Rhône'), (119, ','), (121, 'France'), (127, ','), (129, 'the'), (133, 'younger'), (141, 'of'), (144, 'two'), (148, 'daughters'), (158, 'born'), (163, 'to'), (166, 'Russian-Jewish'), (181, 'parents'), (189, 'who'), (193, 'divorced'), (202, 'when'), (207, 'she'), (211, 'was'), (215, 'a'), (217, 'child'), (222, '.'), (224, 'Several'), (232, 'of'), (235, 'her'), (239, 'films'), (245, 'as'), (248, 'director'), (257, 'are'), (261, 'semi-autobiographical'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Diane Kurys',0, 11), ('[djan kyʁis]',21, 33), ('born 3 December 1948',35, 55), ('a French filmmaker and actress',60, 90), ('was born',96, 104), ('younger of two daughters',133, 157), ('Russian-Jewish parents',166, 188), ('a child',215, 222), ('her films',235, 244)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'JJ', 'NN', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'DT', 'JJR', 'IN', 'CD', 'NNS', 'VBN', 'TO', 'JJ', 'NNS', 'WP', 'VBD', 'WRB', 'PRP', 'VBD', 'DT', 'NN', '.', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'VBP', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Diane'), (6, 'Kurys'), (12, '('), (13, 'French'), (19, ':'), (21, '['), (22, 'djan'), (27, 'kyʁis'), (32, ']'), (33, ';'), (35, 'born'), (40, '3'), (42, 'December'), (51, '1948'), (55, ')'), (57, 'is'), (60, 'a'), (62, 'French'), (69, 'filmmaker'), (79, 'and'), (83, 'actress'), (90, '.'), (92, 'She'), (96, 'was'), (100, 'born'), (105, 'in'), (108, 'Lyon'), (112, ','), (114, 'Rhône'), (119, ','), (121, 'France'), (127, ','), (129, 'the'), (133, 'younger'), (141, 'of'), (144, 'two'), (148, 'daughters'), (158, 'born'), (163, 'to'), (166, 'Russian'), (173, '-'), (174, 'Jewish'), (181, 'parents'), (189, 'who'), (193, 'divorced'), (202, 'when'), (207, 'she'), (211, 'was'), (215, 'a'), (217, 'child'), (222, '.'), (224, 'Several'), (232, 'of'), (235, 'her'), (239, 'films'), (245, 'as'), (248, 'director'), (257, 'are'), (261, 'semi'), (265, '-'), (266, 'autobiographical'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Diane Kurys', 0, 11), ('(French', 12, 19), ('[djan kyʁis', 21, 32), ('3 December 1948', 40, 55), ('a French filmmaker', 60, 78), ('actress', 83, 90), ('France', 121, 127), ('two daughters', 144, 157), ('Russian-Jewish parents', 166, 188), ('a child', 215, 222), ('her films', 235, 244), ('director', 248, 256)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NN', 'NN', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'DT', 'JJR', 'IN', 'CD', 'NNS', 'VBN', 'IN', 'JJ', 'HYPH', 'JJ', 'NNS', 'WP', 'VBD', 'WRB', 'PRP', 'VBD', 'DT', 'NN', '.', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'VBP', 'JJ', 'JJ', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

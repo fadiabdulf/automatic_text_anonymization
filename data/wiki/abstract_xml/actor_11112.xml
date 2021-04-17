@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lynn Carlin</title>
+<link/>https://en.wikipedia.org/wiki/Lynn_Carlin
+<annotated>0</annotated>
+<originalabstract>Lynn Carlin (born Mary Lynn Reynolds on January 31, 1938, in Los Angeles) is an American actress.She was nominated for the Best Supporting Actress Oscar in 1968 for her role in Faces. Carlin made her stage debut in Clare Boothe Luce's The Women at the Laguna Beach Playhouse.</originalabstract>
+<abstract>Lynn_Carlin ( born Mary_Lynn_Reynolds on January_31_,_1938 , in Los_Angeles ) is an_American_actress.She was_nominated for the_Best_Supporting_Actress_Oscar in 1968 for her_role in Faces . Carlin made her_stage_debut in Clare_Boothe_Luce 's_The_Women at the_Laguna_Beach_Playhouse .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lynn'), (5, 'Carlin'), (12, '('), (13, 'born'), (18, 'Mary'), (23, 'Lynn'), (28, 'Reynolds'), (37, 'on'), (40, 'January'), (48, '31'), (50, ','), (52, '1938'), (56, ','), (58, 'in'), (61, 'Los'), (65, 'Angeles'), (72, ')'), (74, 'is'), (77, 'an'), (80, 'American'), (89, 'actress.She'), (101, 'was'), (105, 'nominated'), (115, 'for'), (119, 'the'), (123, 'Best'), (128, 'Supporting'), (139, 'Actress'), (147, 'Oscar'), (153, 'in'), (156, '1968'), (161, 'for'), (165, 'her'), (169, 'role'), (174, 'in'), (177, 'Faces'), (182, '.'), (184, 'Carlin'), (191, 'made'), (196, 'her'), (200, 'stage'), (206, 'debut'), (212, 'in'), (215, 'Clare'), (221, 'Boothe'), (228, 'Luce'), (232, '\'s'), (235, 'The'), (239, 'Women'), (245, 'at'), (248, 'the'), (252, 'Laguna'), (259, 'Beach'), (265, 'Playhouse'), (274, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lynn Carlin',0, 11), ('Mary Lynn Reynolds',18, 36), ('January 31, 1938',40, 56), ('Los Angeles',61, 72), ('an American actress.She',77, 100), ('was nominated',101, 114), ('the Best Supporting Actress Oscar',119, 152), ('her role',165, 173), ('her stage debut',196, 211), ('Clare Boothe Luce',215, 232), ('\'s The Women',232, 244), ('the Laguna Beach Playhouse',248, 274)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'DT', 'JJS', 'VBG', 'NN', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'NNS', '.', 'NNP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'DT', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lynn'), (5, 'Carlin'), (12, '('), (13, 'born'), (18, 'Mary'), (23, 'Lynn'), (28, 'Reynolds'), (37, 'on'), (40, 'January'), (48, '31'), (50, ','), (52, '1938'), (56, ','), (58, 'in'), (61, 'Los'), (65, 'Angeles'), (72, ')'), (74, 'is'), (77, 'an'), (80, 'American'), (89, 'actress'), (96, '.'), (97, 'She'), (101, 'was'), (105, 'nominated'), (115, 'for'), (119, 'the'), (123, 'Best'), (128, 'Supporting'), (139, 'Actress'), (147, 'Oscar'), (153, 'in'), (156, '1968'), (161, 'for'), (165, 'her'), (169, 'role'), (174, 'in'), (177, 'Faces'), (182, '.'), (184, 'Carlin'), (191, 'made'), (196, 'her'), (200, 'stage'), (206, 'debut'), (212, 'in'), (215, 'Clare'), (221, 'Boothe'), (228, 'Luce'), (232, "'s"), (235, 'The'), (239, 'Women'), (245, 'at'), (248, 'the'), (252, 'Laguna'), (259, 'Beach'), (265, 'Playhouse'), (274, '.')])</spacy_tokens>
+<spacy_chunks>[('Lynn Carlin', 0, 11), ('Mary Lynn Reynolds', 18, 36), ('January 31, 1938', 40, 56), ('Los Angeles', 61, 72), ('an American actress', 77, 96), ('the Best Supporting Actress Oscar', 119, 152), ('her role', 165, 173), ('her stage debut', 196, 211), ("Clare Boothe Luce's The Women", 215, 244), ('the Laguna Beach Playhouse', 248, 274)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'RBS', 'VBG', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '.', 'NNP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'DT', 'NNPS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

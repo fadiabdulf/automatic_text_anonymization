@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kathy Hilton</title>
+<link/>https://en.wikipedia.org/wiki/Kathy_Hilton
+<annotated>0</annotated>
+<originalabstract>Kathy Hilton (born Kathleen Elizabeth Avanzino, later Richards; March 13, 1959) is an American actress, socialite, fashion designer, and philanthropist. She is the mother of socialite Paris Hilton and fashion designer Nicky Hilton.</originalabstract>
+<abstract>Kathy_Hilton ( born Kathleen_Elizabeth_Avanzino , later Richards ; March_13_,_1959 ) is an_American_actress , socialite , fashion_designer , and philanthropist . She is the_mother of socialite_Paris_Hilton and fashion_designer_Nicky_Hilton .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kathy'), (6, 'Hilton'), (13, '('), (14, 'born'), (19, 'Kathleen'), (28, 'Elizabeth'), (38, 'Avanzino'), (46, ','), (48, 'later'), (54, 'Richards'), (62, ';'), (64, 'March'), (70, '13'), (72, ','), (74, '1959'), (78, ')'), (80, 'is'), (83, 'an'), (86, 'American'), (95, 'actress'), (102, ','), (104, 'socialite'), (113, ','), (115, 'fashion'), (123, 'designer'), (131, ','), (133, 'and'), (137, 'philanthropist'), (151, '.'), (153, 'She'), (157, 'is'), (160, 'the'), (164, 'mother'), (171, 'of'), (174, 'socialite'), (184, 'Paris'), (190, 'Hilton'), (197, 'and'), (201, 'fashion'), (209, 'designer'), (218, 'Nicky'), (224, 'Hilton'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kathy Hilton',0, 12), ('Kathleen Elizabeth Avanzino',19, 46), ('March 13, 1959',64, 78), ('an American actress',83, 102), ('fashion designer',115, 131), ('the mother',160, 170), ('socialite Paris Hilton',174, 196), ('fashion designer Nicky Hilton',201, 230)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'RB', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kathy'), (6, 'Hilton'), (13, '('), (14, 'born'), (19, 'Kathleen'), (28, 'Elizabeth'), (38, 'Avanzino'), (46, ','), (48, 'later'), (54, 'Richards'), (62, ';'), (64, 'March'), (70, '13'), (72, ','), (74, '1959'), (78, ')'), (80, 'is'), (83, 'an'), (86, 'American'), (95, 'actress'), (102, ','), (104, 'socialite'), (113, ','), (115, 'fashion'), (123, 'designer'), (131, ','), (133, 'and'), (137, 'philanthropist'), (151, '.'), (153, 'She'), (157, 'is'), (160, 'the'), (164, 'mother'), (171, 'of'), (174, 'socialite'), (184, 'Paris'), (190, 'Hilton'), (197, 'and'), (201, 'fashion'), (209, 'designer'), (218, 'Nicky'), (224, 'Hilton'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[('Kathy Hilton', 0, 12), ('(born Kathleen Elizabeth Avanzino', 13, 46), ('later Richards', 48, 62), ('March 13, 1959', 64, 78), ('an American actress', 83, 102), ('socialite', 104, 113), ('fashion designer', 115, 131), ('philanthropist', 137, 151), ('the mother', 160, 170), ('socialite Paris Hilton', 174, 196), ('fashion designer Nicky Hilton', 201, 230)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'RB', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

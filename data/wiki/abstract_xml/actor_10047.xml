@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean Murat</title>
+<link/>https://en.wikipedia.org/wiki/Jean_Murat
+<annotated>0</annotated>
+<originalabstract>Jean Murat (Périgueux, 13 July 1888 – Aix-en-Provence, 5 January 1968) was a French actor. He was married to the French actress Annabella.</originalabstract>
+<abstract>Jean_Murat ( Périgueux , 13_July_1888 – Aix-en-Provence , 5_January_1968 ) was a_French_actor . He was_married to the_French_actress_Annabella .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean'), (5, 'Murat'), (11, '('), (12, 'Périgueux'), (21, ','), (23, '13'), (26, 'July'), (31, '1888'), (36, '–'), (38, 'Aix-en-Provence'), (53, ','), (55, '5'), (57, 'January'), (65, '1968'), (69, ')'), (71, 'was'), (75, 'a'), (77, 'French'), (84, 'actor'), (89, '.'), (91, 'He'), (94, 'was'), (98, 'married'), (106, 'to'), (109, 'the'), (113, 'French'), (120, 'actress'), (128, 'Annabella'), (137, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean Murat',0, 10), ('13 July 1888',23, 35), ('5 January 1968',55, 69), ('a French actor',75, 89), ('was married',94, 105), ('the French actress Annabella',109, 137)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'DT', 'JJ', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (5, 'Murat'), (11, '('), (12, 'Périgueux'), (21, ','), (23, '13'), (26, 'July'), (31, '1888'), (36, '–'), (38, 'Aix'), (41, '-'), (42, 'en'), (44, '-'), (45, 'Provence'), (53, ','), (55, '5'), (57, 'January'), (65, '1968'), (69, ')'), (71, 'was'), (75, 'a'), (77, 'French'), (84, 'actor'), (89, '.'), (91, 'He'), (94, 'was'), (98, 'married'), (106, 'to'), (109, 'the'), (113, 'French'), (120, 'actress'), (128, 'Annabella'), (137, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean Murat', 0, 10), ('(Périgueux', 11, 21), ('13 July 1888', 23, 35), ('Aix-en-Provence', 38, 53), ('5 January 1968', 55, 69), ('a French actor', 75, 89), ('the French actress', 109, 127), ('Annabella', 128, 137)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ',', 'CD', 'NNP', 'CD', '.', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alexandre Fabre</title>
+<link/>https://en.wikipedia.org/wiki/Alexandre_Fabre
+<annotated>0</annotated>
+<originalabstract>Louis-Alexandre Fabre (born March 17, 1955), is a French actor, mostly known for his role of Charles Frémont in the series Plus belle la vie.</originalabstract>
+<abstract>Louis-Alexandre_Fabre ( born March_17_,_1955 ) , is a_French_actor , mostly_known for his_role of Charles_Frémont in the_series_Plus belle_la_vie .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Louis-Alexandre'), (16, 'Fabre'), (22, '('), (23, 'born'), (28, 'March'), (34, '17'), (36, ','), (38, '1955'), (42, ')'), (43, ','), (45, 'is'), (48, 'a'), (50, 'French'), (57, 'actor'), (62, ','), (64, 'mostly'), (71, 'known'), (77, 'for'), (81, 'his'), (85, 'role'), (90, 'of'), (93, 'Charles'), (101, 'Frémont'), (109, 'in'), (112, 'the'), (116, 'series'), (123, 'Plus'), (128, 'belle'), (134, 'la'), (137, 'vie'), (140, '.')])</stanford_tokens>
+<opennlp_chunks>[('Louis-Alexandre Fabre',0, 21), ('March 17, 1955',28, 42), ('a French actor',48, 62), ('mostly known',64, 76), ('his role',81, 89), ('Charles Frémont',93, 108), ('the series Plus',112, 127), ('belle la vie',128, 140)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'FW', 'FW', 'FW', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Louis'), (5, '-'), (6, 'Alexandre'), (16, 'Fabre'), (22, '('), (23, 'born'), (28, 'March'), (34, '17'), (36, ','), (38, '1955'), (42, ')'), (43, ','), (45, 'is'), (48, 'a'), (50, 'French'), (57, 'actor'), (62, ','), (64, 'mostly'), (71, 'known'), (77, 'for'), (81, 'his'), (85, 'role'), (90, 'of'), (93, 'Charles'), (101, 'Frémont'), (109, 'in'), (112, 'the'), (116, 'series'), (123, 'Plus'), (128, 'belle'), (134, 'la'), (137, 'vie'), (140, '.')])</spacy_tokens>
+<spacy_chunks>[('Louis-Alexandre Fabre', 0, 21), ('March 17, 1955', 28, 42), ('a French actor', 48, 62), ('his role', 81, 89), ('Charles Frémont', 93, 108), ('the series', 112, 122), ('Plus belle la vie', 123, 140)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'CC', 'FW', 'FW', 'FW', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

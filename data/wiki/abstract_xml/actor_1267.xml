@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bobby Clack (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Bobby_Clack_(actor)
+<annotated>0</annotated>
+<originalabstract>Bobby Clack (January 3, 1926 - April 3, 1986) was an American film actor during the Western B-movies era. Sometimes he is credited as Bobby Clark or Dusty Dixon. His father, Arnold Clack, also was a film actor.
+Clack was born in Spiro, Oklahoma, and died in Oregon at the age of 60.</originalabstract>
+<abstract>Bobby_Clack ( January_3_,_1926 - April_3_,_1986 ) was an_American_film_actor during the_Western_B-movies_era . Sometimes he is_credited as Bobby_Clark or Dusty_Dixon . His_father , Arnold_Clack , also was a_film_actor . Clack was_born in Spiro , Oklahoma , and died in Oregon at the_age of 60 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bobby'), (6, 'Clack'), (12, '('), (13, 'January'), (21, '3'), (22, ','), (24, '1926'), (29, '-'), (31, 'April'), (37, '3'), (38, ','), (40, '1986'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'film'), (67, 'actor'), (73, 'during'), (80, 'the'), (84, 'Western'), (92, 'B-movies'), (101, 'era'), (104, '.'), (106, 'Sometimes'), (116, 'he'), (119, 'is'), (122, 'credited'), (131, 'as'), (134, 'Bobby'), (140, 'Clark'), (146, 'or'), (149, 'Dusty'), (155, 'Dixon'), (160, '.'), (162, 'His'), (166, 'father'), (172, ','), (174, 'Arnold'), (181, 'Clack'), (186, ','), (188, 'also'), (193, 'was'), (197, 'a'), (199, 'film'), (204, 'actor'), (209, '.'), (211, 'Clack'), (217, 'was'), (221, 'born'), (226, 'in'), (229, 'Spiro'), (234, ','), (236, 'Oklahoma'), (244, ','), (246, 'and'), (250, 'died'), (255, 'in'), (258, 'Oregon'), (265, 'at'), (268, 'the'), (272, 'age'), (276, 'of'), (279, '60'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bobby Clack',0, 11), ('January 3, 1926',13, 28), ('April 3, 1986',31, 44), ('an American film actor',50, 72), ('the Western B-movies era',80, 104), ('is credited',119, 130), ('Bobby Clark',134, 145), ('Dusty Dixon',149, 160), ('His father',162, 172), ('Arnold Clack',174, 186), ('a film actor',197, 209), ('was born',217, 225), ('the age',268, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'NN', '.', 'RB', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP$', 'NN', ',', 'NNP', 'NNP', ',', 'RB', 'VBD', 'DT', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bobby'), (6, 'Clack'), (12, '('), (13, 'January'), (21, '3'), (22, ','), (24, '1926'), (29, '-'), (31, 'April'), (37, '3'), (38, ','), (40, '1986'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'film'), (67, 'actor'), (73, 'during'), (80, 'the'), (84, 'Western'), (92, 'B'), (93, '-'), (94, 'movies'), (101, 'era'), (104, '.'), (106, 'Sometimes'), (116, 'he'), (119, 'is'), (122, 'credited'), (131, 'as'), (134, 'Bobby'), (140, 'Clark'), (146, 'or'), (149, 'Dusty'), (155, 'Dixon'), (160, '.'), (162, 'His'), (166, 'father'), (172, ','), (174, 'Arnold'), (181, 'Clack'), (186, ','), (188, 'also'), (193, 'was'), (197, 'a'), (199, 'film'), (204, 'actor'), (209, '.'), (211, 'Clack'), (217, 'was'), (221, 'born'), (226, 'in'), (229, 'Spiro'), (234, ','), (236, 'Oklahoma'), (244, ','), (246, 'and'), (250, 'died'), (255, 'in'), (258, 'Oregon'), (265, 'at'), (268, 'the'), (272, 'age'), (276, 'of'), (279, '60'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('Bobby Clack', 0, 11), ('(January', 12, 20), ('January 3, 1926', 13, 28), ('April 3, 1986', 31, 44), ('an American film actor', 50, 72), ('the Western B-movies era', 80, 104), ('Bobby Clark', 134, 145), ('Dusty Dixon', 149, 160), ('His father', 162, 172), ('Arnold Clack', 174, 186), ('a film actor', 197, 209), ('Spiro, Oklahoma', 229, 244), ('Oregon', 258, 264), ('the age', 268, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'HYPH', 'NNS', 'NN', '.', 'RB', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP$', 'NN', ',', 'NNP', 'NNP', ',', 'RB', 'VBD', 'DT', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

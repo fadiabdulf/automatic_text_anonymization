@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alexis Peterman</title>
+<link/>https://en.wikipedia.org/wiki/Alexis_Peterman
+<annotated>0</annotated>
+<originalabstract>Alexis Peterman is an English actress best known for her role as receptionist Lauren Porter in the BBC soap opera, Doctors.</originalabstract>
+<abstract>Alexis_Peterman is an_English_actress best_known for her_role as receptionist_Lauren_Porter in the_BBC_soap_opera , Doctors .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alexis'), (7, 'Peterman'), (16, 'is'), (19, 'an'), (22, 'English'), (30, 'actress'), (38, 'best'), (43, 'known'), (49, 'for'), (53, 'her'), (57, 'role'), (62, 'as'), (65, 'receptionist'), (78, 'Lauren'), (85, 'Porter'), (92, 'in'), (95, 'the'), (99, 'BBC'), (103, 'soap'), (108, 'opera'), (113, ','), (115, 'Doctors'), (122, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alexis Peterman',0, 15), ('an English actress',19, 37), ('best known',38, 48), ('her role',53, 61), ('receptionist Lauren Porter',65, 91), ('the BBC soap opera',95, 113)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', ',', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alexis'), (7, 'Peterman'), (16, 'is'), (19, 'an'), (22, 'English'), (30, 'actress'), (38, 'best'), (43, 'known'), (49, 'for'), (53, 'her'), (57, 'role'), (62, 'as'), (65, 'receptionist'), (78, 'Lauren'), (85, 'Porter'), (92, 'in'), (95, 'the'), (99, 'BBC'), (103, 'soap'), (108, 'opera'), (113, ','), (115, 'Doctors'), (122, '.')])</spacy_tokens>
+<spacy_chunks>[('Alexis Peterman', 0, 15), ('an English actress', 19, 37), ('her role', 53, 61), ('receptionist Lauren Porter', 65, 91), ('the BBC soap opera', 95, 113), ('Doctors', 115, 122)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', ',', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

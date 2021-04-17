@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eddie Jemison</title>
+<link/>https://en.wikipedia.org/wiki/Eddie_Jemison
+<annotated>0</annotated>
+<originalabstract>Edward Francis Jemison, Jr. (born November 25, 1963) is an American film and television actor. He is known for his roles in the Ocean's Eleven trilogy and the television series Hung and iZombie.</originalabstract>
+<abstract>Edward_Francis_Jemison , Jr. ( born November_25_,_1963 ) is an_American_film_and_television_actor . He is_known for his_roles in the_Ocean 's_Eleven_trilogy and the_television_series_Hung_and_iZombie .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edward'), (7, 'Francis'), (15, 'Jemison'), (22, ','), (24, 'Jr.'), (28, '('), (29, 'born'), (34, 'November'), (43, '25'), (45, ','), (47, '1963'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'film'), (73, 'and'), (77, 'television'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'is'), (101, 'known'), (107, 'for'), (111, 'his'), (115, 'roles'), (121, 'in'), (124, 'the'), (128, 'Ocean'), (133, '\'s'), (136, 'Eleven'), (143, 'trilogy'), (151, 'and'), (155, 'the'), (159, 'television'), (170, 'series'), (177, 'Hung'), (182, 'and'), (186, 'iZombie'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edward Francis Jemison',0, 22), ('November 25, 1963',34, 51), ('an American film and television actor',56, 93), ('is known',98, 106), ('his roles',111, 120), ('the Ocean',124, 133), ('\'s Eleven trilogy',133, 150), ('the television series Hung and iZombie',155, 193)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'POS', 'CD', 'NN', 'CC', 'DT', 'NN', 'NN', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edward'), (7, 'Francis'), (15, 'Jemison'), (22, ','), (24, 'Jr.'), (28, '('), (29, 'born'), (34, 'November'), (43, '25'), (45, ','), (47, '1963'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'film'), (73, 'and'), (77, 'television'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'is'), (101, 'known'), (107, 'for'), (111, 'his'), (115, 'roles'), (121, 'in'), (124, 'the'), (128, 'Ocean'), (133, "'s"), (136, 'Eleven'), (143, 'trilogy'), (151, 'and'), (155, 'the'), (159, 'television'), (170, 'series'), (177, 'Hung'), (182, 'and'), (186, 'iZombie'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[('Edward Francis Jemison', 0, 22), ('November 25, 1963', 34, 51), ('an American film and television actor', 56, 93), ('his roles', 111, 120), ("the Ocean's Eleven trilogy", 124, 150), ('the television series', 155, 176), ('iZombie', 186, 193)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'POS', 'NNP', 'NN', 'CC', 'DT', 'NN', 'NN', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

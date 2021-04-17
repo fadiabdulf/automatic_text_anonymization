@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mireille Perrey</title>
+<link/>https://en.wikipedia.org/wiki/Mireille_Perrey
+<annotated>0</annotated>
+<originalabstract>Mireille Perrey (1904–1991) was a French stage and film actress. Perrey played some leading roles in the 1930s but gradually developed into a character actor, appearing in films such as the British comedy Hotel Sahara (1951). In 1964 she featured in The Umbrellas of Cherbourg.
+Between 1942 and 1947 she was a member of the Comédie-Française.</originalabstract>
+<abstract>Mireille_Perrey ( 1904 – 1991 ) was a_French_stage_and_film_actress . Perrey played some_leading_roles in the_1930s but gradually_developed into a_character_actor , appearing in films such_as the_British_comedy_Hotel_Sahara ( 1951_) . In 1964 she featured in The_Umbrellas of Cherbourg . Between 1942_and_1947 she was a_member of the_Comédie-Française .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mireille'), (9, 'Perrey'), (16, '('), (17, '1904'), (21, '–'), (22, '1991'), (26, ')'), (28, 'was'), (32, 'a'), (34, 'French'), (41, 'stage'), (47, 'and'), (51, 'film'), (56, 'actress'), (63, '.'), (65, 'Perrey'), (72, 'played'), (79, 'some'), (84, 'leading'), (92, 'roles'), (98, 'in'), (101, 'the'), (105, '1930s'), (111, 'but'), (115, 'gradually'), (125, 'developed'), (135, 'into'), (140, 'a'), (142, 'character'), (152, 'actor'), (157, ','), (159, 'appearing'), (169, 'in'), (172, 'films'), (178, 'such'), (183, 'as'), (186, 'the'), (190, 'British'), (198, 'comedy'), (205, 'Hotel'), (211, 'Sahara'), (218, '('), (219, '1951'), (223, ')'), (224, '.'), (226, 'In'), (229, '1964'), (234, 'she'), (238, 'featured'), (247, 'in'), (250, 'The'), (254, 'Umbrellas'), (264, 'of'), (267, 'Cherbourg'), (276, '.'), (278, 'Between'), (286, '1942'), (291, 'and'), (295, '1947'), (300, 'she'), (304, 'was'), (308, 'a'), (310, 'member'), (317, 'of'), (320, 'the'), (324, 'Comédie-Française'), (341, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mireille Perrey',0, 15), ('a French stage and film actress',32, 63), ('some leading roles',79, 97), ('the 1930s',101, 110), ('gradually developed',115, 134), ('a character actor',140, 157), ('such as',178, 185), ('the British comedy Hotel Sahara',186, 217), ('1951)',219, 224), ('The Umbrellas',250, 263), ('1942 and 1947',286, 299), ('a member',308, 316), ('the Comédie-Française',320, 341)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'VBG', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'RB', 'VBD', 'IN', 'DT', 'NN', 'NN', ',', 'VBG', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'CD', 'PRP', 'VBD', 'IN', 'DT', 'NNS', 'IN', 'NNP', '.', 'IN', 'CD', 'CC', 'CD', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mireille'), (9, 'Perrey'), (16, '('), (17, '1904–1991'), (26, ')'), (28, 'was'), (32, 'a'), (34, 'French'), (41, 'stage'), (47, 'and'), (51, 'film'), (56, 'actress'), (63, '.'), (65, 'Perrey'), (72, 'played'), (79, 'some'), (84, 'leading'), (92, 'roles'), (98, 'in'), (101, 'the'), (105, '1930s'), (111, 'but'), (115, 'gradually'), (125, 'developed'), (135, 'into'), (140, 'a'), (142, 'character'), (152, 'actor'), (157, ','), (159, 'appearing'), (169, 'in'), (172, 'films'), (178, 'such'), (183, 'as'), (186, 'the'), (190, 'British'), (198, 'comedy'), (205, 'Hotel'), (211, 'Sahara'), (218, '('), (219, '1951'), (223, ')'), (224, '.'), (226, 'In'), (229, '1964'), (234, 'she'), (238, 'featured'), (247, 'in'), (250, 'The'), (254, 'Umbrellas'), (264, 'of'), (267, 'Cherbourg'), (276, '.'), (278, 'Between'), (286, '1942'), (291, 'and'), (295, '1947'), (300, 'she'), (304, 'was'), (308, 'a'), (310, 'member'), (317, 'of'), (320, 'the'), (324, 'Comédie'), (331, '-'), (332, 'Française'), (341, '.')])</spacy_tokens>
+<spacy_chunks>[('Mireille Perrey', 0, 15), ('a French stage and film actress', 32, 63), ('some leading roles', 79, 97), ('the 1930s', 101, 110), ('a character actor', 140, 157), ('the British comedy', 186, 204), ('Hotel Sahara', 205, 217), ('The Umbrellas of Cherbourg', 250, 276), ('a member', 308, 316), ('the Comédie-Française', 320, 341)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'VBG', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NN', ',', 'VBG', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'CD', 'PRP', 'VBD', 'IN', 'DT', 'NNPS', 'IN', 'NNP', '.', 'IN', 'CD', 'CC', 'CD', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

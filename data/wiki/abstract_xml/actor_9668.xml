@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Loïc Corbery</title>
+<link/>https://en.wikipedia.org/wiki/Lo%C3%AFc_Corbery
+<annotated>0</annotated>
+<originalabstract>Loïc Corbery (born 9 June 1976) is a French actor and theatre director. He joined the Comédie-Française in 2005 and has been a sociétaire since 2010.</originalabstract>
+<abstract>Loïc_Corbery ( born_9_June_1976 ) is a_French_actor_and_theatre_director . He joined the_Comédie-Française in 2005 and has_been a_sociétaire since 2010 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Loïc'), (5, 'Corbery'), (13, '('), (14, 'born'), (19, '9'), (21, 'June'), (26, '1976'), (30, ')'), (32, 'is'), (35, 'a'), (37, 'French'), (44, 'actor'), (50, 'and'), (54, 'theatre'), (62, 'director'), (70, '.'), (72, 'He'), (75, 'joined'), (82, 'the'), (86, 'Comédie-Française'), (104, 'in'), (107, '2005'), (112, 'and'), (116, 'has'), (120, 'been'), (125, 'a'), (127, 'sociétaire'), (138, 'since'), (144, '2010'), (148, '.')])</stanford_tokens>
+<opennlp_chunks>[('Loïc Corbery',0, 12), ('born 9 June 1976',14, 30), ('a French actor and theatre director',35, 70), ('the Comédie-Française',82, 103), ('has been',116, 124), ('a sociétaire',125, 137)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'IN', 'CD', 'CC', 'VBZ', 'VBN', 'DT', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Loïc'), (5, 'Corbery'), (13, '('), (14, 'born'), (19, '9'), (21, 'June'), (26, '1976'), (30, ')'), (32, 'is'), (35, 'a'), (37, 'French'), (44, 'actor'), (50, 'and'), (54, 'theatre'), (62, 'director'), (70, '.'), (72, 'He'), (75, 'joined'), (82, 'the'), (86, 'Comédie'), (93, '-'), (94, 'Française'), (104, 'in'), (107, '2005'), (112, 'and'), (116, 'has'), (120, 'been'), (125, 'a'), (127, 'sociétaire'), (138, 'since'), (144, '2010'), (148, '.')])</spacy_tokens>
+<spacy_chunks>[('Loïc Corbery', 0, 12), ('9 June 1976', 19, 30), ('a French actor and theatre director', 35, 70), ('the Comédie-Française', 82, 103), ('a sociétaire', 125, 137)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'HYPH', 'NNP', 'IN', 'CD', 'CC', 'VBZ', 'VBN', 'DT', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

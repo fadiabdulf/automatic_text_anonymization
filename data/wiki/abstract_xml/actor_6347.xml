@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Larry Steers</title>
+<link/>https://en.wikipedia.org/wiki/Larry_Steers
+<annotated>0</annotated>
+<originalabstract>Lawrence Wells Steers (February 14, 1888 – February 15, 1951) was an American film actor.  He appeared in more than 550 films between 1917 and 1951. He was born in Indiana, and died in Woodland Hills, Los Angeles.</originalabstract>
+<abstract>Lawrence_Wells_Steers ( February_14_,_1888 – February_15_,_1951 ) was an_American_film_actor . He appeared in more_than_550_films between 1917_and_1951 . He was_born in Indiana , and died in Woodland_Hills , Los_Angeles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lawrence'), (9, 'Wells'), (15, 'Steers'), (22, '('), (23, 'February'), (32, '14'), (34, ','), (36, '1888'), (41, '–'), (43, 'February'), (52, '15'), (54, ','), (56, '1951'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'film'), (83, 'actor'), (88, '.'), (91, 'He'), (94, 'appeared'), (103, 'in'), (106, 'more'), (111, 'than'), (116, '550'), (120, 'films'), (126, 'between'), (134, '1917'), (139, 'and'), (143, '1951'), (147, '.'), (149, 'He'), (152, 'was'), (156, 'born'), (161, 'in'), (164, 'Indiana'), (171, ','), (173, 'and'), (177, 'died'), (182, 'in'), (185, 'Woodland'), (194, 'Hills'), (199, ','), (201, 'Los'), (205, 'Angeles'), (212, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lawrence Wells Steers',0, 21), ('February 14, 1888',23, 40), ('February 15, 1951',43, 60), ('an American film actor',66, 88), ('more than 550 films',106, 125), ('1917 and 1951',134, 147), ('was born',152, 160), ('Woodland Hills',185, 199), ('Los Angeles',201, 212)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lawrence'), (9, 'Wells'), (15, 'Steers'), (22, '('), (23, 'February'), (32, '14'), (34, ','), (36, '1888'), (41, '–'), (43, 'February'), (52, '15'), (54, ','), (56, '1951'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'film'), (83, 'actor'), (88, '.'), (91, 'He'), (94, 'appeared'), (103, 'in'), (106, 'more'), (111, 'than'), (116, '550'), (120, 'films'), (126, 'between'), (134, '1917'), (139, 'and'), (143, '1951'), (147, '.'), (149, 'He'), (152, 'was'), (156, 'born'), (161, 'in'), (164, 'Indiana'), (171, ','), (173, 'and'), (177, 'died'), (182, 'in'), (185, 'Woodland'), (194, 'Hills'), (199, ','), (201, 'Los'), (205, 'Angeles'), (212, '.')])</spacy_tokens>
+<spacy_chunks>[('Lawrence Wells Steers', 0, 21), ('February 14, 1888', 23, 40), ('February 15, 1951', 43, 60), ('an American film actor', 66, 88), ('more than 550 films', 106, 125), ('Indiana', 164, 171), ('Woodland Hills, Los Angeles', 185, 212)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNPS', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

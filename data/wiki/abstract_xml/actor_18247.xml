@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hannah Tointon</title>
+<link/>https://en.wikipedia.org/wiki/Hannah_Tointon
+<annotated>0</annotated>
+<originalabstract>Hannah Marie Tointon (born 28 December 1987) is an English actress. She is best known for playing Katy Fox in the Channel 4 soap opera Hollyoaks and Tara Brown in sitcom The Inbetweeners.</originalabstract>
+<abstract>Hannah_Marie_Tointon ( born_28_December_1987 ) is an_English_actress . She is_best_known for playing Katy_Fox in the_Channel_4_soap_opera_Hollyoaks and Tara_Brown in sitcom The_Inbetweeners .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hannah'), (7, 'Marie'), (13, 'Tointon'), (21, '('), (22, 'born'), (27, '28'), (30, 'December'), (39, '1987'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'English'), (59, 'actress'), (66, '.'), (68, 'She'), (72, 'is'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'playing'), (98, 'Katy'), (103, 'Fox'), (107, 'in'), (110, 'the'), (114, 'Channel'), (122, '4'), (124, 'soap'), (129, 'opera'), (135, 'Hollyoaks'), (145, 'and'), (149, 'Tara'), (154, 'Brown'), (160, 'in'), (163, 'sitcom'), (170, 'The'), (174, 'Inbetweeners'), (186, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hannah Marie Tointon',0, 20), ('born 28 December 1987',22, 43), ('an English actress',48, 66), ('is best known',72, 85), ('Katy Fox',98, 106), ('the Channel 4 soap opera Hollyoaks',110, 144), ('Tara Brown',149, 159), ('The Inbetweeners',170, 186)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CD', 'NN', 'NN', 'NNS', 'CC', 'NNP', 'NNP', 'IN', 'NN', 'DT', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hannah'), (7, 'Marie'), (13, 'Tointon'), (21, '('), (22, 'born'), (27, '28'), (30, 'December'), (39, '1987'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'English'), (59, 'actress'), (66, '.'), (68, 'She'), (72, 'is'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'playing'), (98, 'Katy'), (103, 'Fox'), (107, 'in'), (110, 'the'), (114, 'Channel'), (122, '4'), (124, 'soap'), (129, 'opera'), (135, 'Hollyoaks'), (145, 'and'), (149, 'Tara'), (154, 'Brown'), (160, 'in'), (163, 'sitcom'), (170, 'The'), (174, 'Inbetweeners'), (186, '.')])</spacy_tokens>
+<spacy_chunks>[('Hannah Marie Tointon', 0, 20), ('28 December 1987', 27, 43), ('an English actress', 48, 66), ('Katy Fox', 98, 106), ('the Channel 4 soap opera Hollyoaks', 110, 144), ('Tara Brown', 149, 159), ('sitcom', 163, 169), ('The Inbetweeners', 170, 186)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CD', 'NN', 'NN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

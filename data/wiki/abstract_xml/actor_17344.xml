@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Viola Tree</title>
+<link/>https://en.wikipedia.org/wiki/Viola_Tree
+<annotated>0</annotated>
+<originalabstract>Viola Tree (17 July 1884 – 15 November 1938) was an English actress, singer, playwright and author.  Daughter of the actor Herbert Beerbohm Tree, she made many of her early appearances with his company at His Majesty's Theatre.  Later she appeared in opera, variety, straight theatre and film.</originalabstract>
+<abstract>Viola_Tree ( 17_July_1884 – 15_November_1938 ) was an_English_actress , singer , playwright_and_author . Daughter of the_actor_Herbert_Beerbohm_Tree , she made many of her_early_appearances with his_company at His_Majesty 's_Theatre . Later she appeared in opera , variety , straight_theatre_and_film .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Viola'), (6, 'Tree'), (11, '('), (12, '17'), (15, 'July'), (20, '1884'), (25, '–'), (27, '15'), (30, 'November'), (39, '1938'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'actress'), (67, ','), (69, 'singer'), (75, ','), (77, 'playwright'), (88, 'and'), (92, 'author'), (98, '.'), (101, 'Daughter'), (110, 'of'), (113, 'the'), (117, 'actor'), (123, 'Herbert'), (131, 'Beerbohm'), (140, 'Tree'), (144, ','), (146, 'she'), (150, 'made'), (155, 'many'), (160, 'of'), (163, 'her'), (167, 'early'), (173, 'appearances'), (185, 'with'), (190, 'his'), (194, 'company'), (202, 'at'), (205, 'His'), (209, 'Majesty'), (216, '\'s'), (219, 'Theatre'), (226, '.'), (229, 'Later'), (235, 'she'), (239, 'appeared'), (248, 'in'), (251, 'opera'), (256, ','), (258, 'variety'), (265, ','), (267, 'straight'), (276, 'theatre'), (284, 'and'), (288, 'film'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Viola Tree',0, 10), ('17 July 1884',12, 24), ('15 November 1938',27, 43), ('an English actress',49, 67), ('playwright and author',77, 98), ('the actor Herbert Beerbohm Tree',113, 144), ('her early appearances',163, 184), ('his company',190, 201), ('His Majesty',205, 216), ('\'s Theatre',216, 226), ('straight theatre and film',267, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'JJ', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'PRP$', 'NNP', 'POS', 'NNP', '.', 'RB', 'PRP', 'VBD', 'IN', 'NN', ',', 'NN', ',', 'JJ', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Viola'), (6, 'Tree'), (11, '('), (12, '17'), (15, 'July'), (20, '1884'), (25, '–'), (27, '15'), (30, 'November'), (39, '1938'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'actress'), (67, ','), (69, 'singer'), (75, ','), (77, 'playwright'), (88, 'and'), (92, 'author'), (98, '.'), (101, 'Daughter'), (110, 'of'), (113, 'the'), (117, 'actor'), (123, 'Herbert'), (131, 'Beerbohm'), (140, 'Tree'), (144, ','), (146, 'she'), (150, 'made'), (155, 'many'), (160, 'of'), (163, 'her'), (167, 'early'), (173, 'appearances'), (185, 'with'), (190, 'his'), (194, 'company'), (202, 'at'), (205, 'His'), (209, 'Majesty'), (216, "'s"), (219, 'Theatre'), (226, '.'), (229, 'Later'), (235, 'she'), (239, 'appeared'), (248, 'in'), (251, 'opera'), (256, ','), (258, 'variety'), (265, ','), (267, 'straight'), (276, 'theatre'), (284, 'and'), (288, 'film'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Viola Tree', 0, 10), ('17 July 1884', 12, 24), ('15 November 1938', 27, 43), ('an English actress', 49, 67), ('singer', 69, 75), ('playwright', 77, 87), ('author', 92, 98), ('the actor', 113, 122), ('Herbert Beerbohm Tree', 123, 144), ('her early appearances', 163, 184), ('his company', 190, 201), ("His Majesty's Theatre", 205, 226), ('Variety', 258, 265), ('straight theatre', 267, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'JJ', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'PRP$', 'NNP', 'POS', 'NNP', '.', 'RBR', 'PRP', 'VBD', 'IN', 'NN', ',', 'NN', ',', 'JJ', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

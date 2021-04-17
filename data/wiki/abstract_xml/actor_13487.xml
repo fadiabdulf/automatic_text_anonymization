@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vicki Lewis</title>
+<link/>https://en.wikipedia.org/wiki/Vicki_Lewis
+<annotated>0</annotated>
+<originalabstract>Vicki Lewis (born March 17, 1960) is an American singer and actress of film, stage, and television. She is best known for her role as Beth in the NBC sitcom NewsRadio.</originalabstract>
+<abstract>Vicki_Lewis ( born March_17_,_1960 ) is an_American_singer_and_actress of film , stage , and television . She is_best_known for her_role as Beth in the_NBC_sitcom_NewsRadio .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vicki'), (6, 'Lewis'), (12, '('), (13, 'born'), (18, 'March'), (24, '17'), (26, ','), (28, '1960'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'singer'), (56, 'and'), (60, 'actress'), (68, 'of'), (71, 'film'), (75, ','), (77, 'stage'), (82, ','), (84, 'and'), (88, 'television'), (98, '.'), (100, 'She'), (104, 'is'), (107, 'best'), (112, 'known'), (118, 'for'), (122, 'her'), (126, 'role'), (131, 'as'), (134, 'Beth'), (139, 'in'), (142, 'the'), (146, 'NBC'), (150, 'sitcom'), (157, 'NewsRadio'), (166, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vicki Lewis',0, 11), ('March 17, 1960',18, 32), ('an American singer and actress',37, 67), ('is best known',104, 117), ('her role',122, 130), ('the NBC sitcom NewsRadio',142, 166)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vicki'), (6, 'Lewis'), (12, '('), (13, 'born'), (18, 'March'), (24, '17'), (26, ','), (28, '1960'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'singer'), (56, 'and'), (60, 'actress'), (68, 'of'), (71, 'film'), (75, ','), (77, 'stage'), (82, ','), (84, 'and'), (88, 'television'), (98, '.'), (100, 'She'), (104, 'is'), (107, 'best'), (112, 'known'), (118, 'for'), (122, 'her'), (126, 'role'), (131, 'as'), (134, 'Beth'), (139, 'in'), (142, 'the'), (146, 'NBC'), (150, 'sitcom'), (157, 'NewsRadio'), (166, '.')])</spacy_tokens>
+<spacy_chunks>[('Vicki Lewis', 0, 11), ('March 17, 1960', 18, 32), ('an American singer', 37, 55), ('actress', 60, 67), ('television', 88, 98), ('her role', 122, 130), ('the NBC sitcom NewsRadio', 142, 166)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Inman</title>
+<link/>https://en.wikipedia.org/wiki/John_Inman
+<annotated>0</annotated>
+<originalabstract>Frederick John Inman (28 June 1935 – 8 March 2007) known as  John Inman, was an English actor and singer best known for his role as Mr. Humphries in Are You Being Served?, a British sitcom between 1972 and 1985. He was also well known character actor in the United Kingdom as a pantomime dame.</originalabstract>
+<abstract>Frederick_John_Inman ( 28_June_1935 – 8_March_2007 ) known as John_Inman , was an_English_actor_and_singer best_known for his_role as Mr._Humphries in Are You Being_Served ? , a_British_sitcom between 1972_and_1985 . He was also well_known character_actor in the_United_Kingdom as a_pantomime_dame .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frederick'), (10, 'John'), (15, 'Inman'), (21, '('), (22, '28'), (25, 'June'), (30, '1935'), (35, '–'), (37, '8'), (39, 'March'), (45, '2007'), (49, ')'), (51, 'known'), (57, 'as'), (61, 'John'), (66, 'Inman'), (71, ','), (73, 'was'), (77, 'an'), (80, 'English'), (88, 'actor'), (94, 'and'), (98, 'singer'), (105, 'best'), (110, 'known'), (116, 'for'), (120, 'his'), (124, 'role'), (129, 'as'), (132, 'Mr.'), (136, 'Humphries'), (146, 'in'), (149, 'Are'), (153, 'You'), (157, 'Being'), (163, 'Served'), (169, '?'), (170, ','), (172, 'a'), (174, 'British'), (182, 'sitcom'), (189, 'between'), (197, '1972'), (202, 'and'), (206, '1985'), (210, '.'), (212, 'He'), (215, 'was'), (219, 'also'), (224, 'well'), (229, 'known'), (235, 'character'), (245, 'actor'), (251, 'in'), (254, 'the'), (258, 'United'), (265, 'Kingdom'), (273, 'as'), (276, 'a'), (278, 'pantomime'), (288, 'dame'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frederick John Inman',0, 20), ('28 June 1935',22, 34), ('8 March 2007',37, 49), ('John Inman',61, 71), ('an English actor and singer',77, 104), ('best known',105, 115), ('his role',120, 128), ('Mr. Humphries',132, 145), ('Being Served',157, 169), ('a British sitcom',172, 188), ('1972 and 1985',197, 210), ('well known',224, 234), ('character actor',235, 250), ('the United Kingdom',254, 272), ('a pantomime dame',276, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'VBP', 'PRP', 'VBG', 'VBN', '.', ',', 'DT', 'JJ', 'NN', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'RB', 'RB', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frederick'), (10, 'John'), (15, 'Inman'), (21, '('), (22, '28'), (25, 'June'), (30, '1935'), (35, '–'), (37, '8'), (39, 'March'), (45, '2007'), (49, ')'), (51, 'known'), (57, 'as'), (61, 'John'), (66, 'Inman'), (71, ','), (73, 'was'), (77, 'an'), (80, 'English'), (88, 'actor'), (94, 'and'), (98, 'singer'), (105, 'best'), (110, 'known'), (116, 'for'), (120, 'his'), (124, 'role'), (129, 'as'), (132, 'Mr.'), (136, 'Humphries'), (146, 'in'), (149, 'Are'), (153, 'You'), (157, 'Being'), (163, 'Served'), (169, '?'), (170, ','), (172, 'a'), (174, 'British'), (182, 'sitcom'), (189, 'between'), (197, '1972'), (202, 'and'), (206, '1985'), (210, '.'), (212, 'He'), (215, 'was'), (219, 'also'), (224, 'well'), (229, 'known'), (235, 'character'), (245, 'actor'), (251, 'in'), (254, 'the'), (258, 'United'), (265, 'Kingdom'), (273, 'as'), (276, 'a'), (278, 'pantomime'), (288, 'dame'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Frederick John Inman', 0, 20), ('(28 June', 21, 29), ('28 June 1935', 22, 34), ('8 March 2007', 37, 49), ('an English actor', 77, 93), ('singer', 98, 104), ('his role', 120, 128), ('Mr. Humphries', 132, 145), ('Are You Being Served?', 149, 170), ('British sitcom', 174, 188), ('well known character actor', 224, 250), ('the United Kingdom', 254, 272), ('a pantomime dame', 276, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'VBP', 'PRP', 'VBG', 'VBN', '.', ',', 'DT', 'JJ', 'NN', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'RB', 'RB', 'VBN', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

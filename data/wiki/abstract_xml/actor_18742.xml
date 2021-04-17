@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Denise Legeay</title>
+<link/>https://en.wikipedia.org/wiki/Denise_Legeay
+<annotated>0</annotated>
+<originalabstract>Denise Legeay (22 January 1898 – 27 May 1968) was a French film actress whose popularity peaked during the silent film era of the 1920s.
+Legeay made her film debut at age 23 in the 1921 film "L’infante à la rose" and would continue to act in films until 1926, including a ten episode film serial "Vingt ans après" in 1922.</originalabstract>
+<abstract>Denise_Legeay ( 22_January_1898 – 27_May_1968 ) was a_French_film_actress whose_popularity peaked during the_silent_film_era of the_1920s . Legeay made her_film_debut at age_23 in the_1921_film " L’infante_à_la rose " and would_continue_to_act in films until 1926 , including a_ten_episode_film_serial " Vingt_ans_après " in 1922 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Denise'), (7, 'Legeay'), (14, '('), (15, '22'), (18, 'January'), (26, '1898'), (31, '–'), (33, '27'), (36, 'May'), (40, '1968'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'French'), (59, 'film'), (64, 'actress'), (72, 'whose'), (78, 'popularity'), (89, 'peaked'), (96, 'during'), (103, 'the'), (107, 'silent'), (114, 'film'), (119, 'era'), (123, 'of'), (126, 'the'), (130, '1920s'), (135, '.'), (137, 'Legeay'), (144, 'made'), (149, 'her'), (153, 'film'), (158, 'debut'), (164, 'at'), (167, 'age'), (171, '23'), (174, 'in'), (177, 'the'), (181, '1921'), (186, 'film'), (191, '"'), (192, 'L’infante'), (202, 'à'), (204, 'la'), (207, 'rose'), (211, '"'), (213, 'and'), (217, 'would'), (223, 'continue'), (232, 'to'), (235, 'act'), (239, 'in'), (242, 'films'), (248, 'until'), (254, '1926'), (258, ','), (260, 'including'), (270, 'a'), (272, 'ten'), (276, 'episode'), (284, 'film'), (289, 'serial'), (296, '"'), (297, 'Vingt'), (303, 'ans'), (307, 'après'), (312, '"'), (314, 'in'), (317, '1922'), (321, '.')])</stanford_tokens>
+<opennlp_chunks>[('Denise Legeay',0, 13), ('22 January 1898',15, 30), ('27 May 1968',33, 44), ('a French film actress',50, 71), ('whose popularity',72, 88), ('the silent film era',103, 122), ('the 1920s',126, 135), ('her film debut',149, 163), ('age 23',167, 173), ('the 1921 film',177, 190), ('L’infante à la',192, 206), ('would continue to act',217, 238), ('a ten episode film serial',270, 295), ('Vingt ans après',297, 312)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', '.', 'NNP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'NN', 'CD', 'IN', 'DT', 'CD', 'NN', '``', 'NNP', 'NNP', 'NNP', 'VBD', '\'\'', 'CC', 'MD', 'VB', 'TO', 'VB', 'IN', 'NNS', 'IN', 'CD', ',', 'VBG', 'DT', 'CD', 'NN', 'NN', 'NN', '``', 'NNP', 'NN', 'NNS', '\'\'', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Denise'), (7, 'Legeay'), (14, '('), (15, '22'), (18, 'January'), (26, '1898'), (31, '–'), (33, '27'), (36, 'May'), (40, '1968'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'French'), (59, 'film'), (64, 'actress'), (72, 'whose'), (78, 'popularity'), (89, 'peaked'), (96, 'during'), (103, 'the'), (107, 'silent'), (114, 'film'), (119, 'era'), (123, 'of'), (126, 'the'), (130, '1920s'), (135, '.'), (137, 'Legeay'), (144, 'made'), (149, 'her'), (153, 'film'), (158, 'debut'), (164, 'at'), (167, 'age'), (171, '23'), (174, 'in'), (177, 'the'), (181, '1921'), (186, 'film'), (191, '"'), (192, 'L’infante'), (202, 'à'), (204, 'la'), (207, 'rose'), (211, '"'), (213, 'and'), (217, 'would'), (223, 'continue'), (232, 'to'), (235, 'act'), (239, 'in'), (242, 'films'), (248, 'until'), (254, '1926'), (258, ','), (260, 'including'), (270, 'a'), (272, 'ten'), (276, 'episode'), (284, 'film'), (289, 'serial'), (296, '"'), (297, 'Vingt'), (303, 'ans'), (307, 'après'), (312, '"'), (314, 'in'), (317, '1922'), (321, '.')])</spacy_tokens>
+<spacy_chunks>[('Denise Legeay', 0, 13), ('(22 January', 14, 25), ('22 January 1898', 15, 30), ('27 May 1968', 33, 44), ('a French film actress', 50, 71), ('whose popularity', 72, 88), ('the silent film era', 103, 122), ('her film debut', 149, 163), ('the 1921 film', 177, 190), ('a ten episode film', 270, 288), ('Film serial', 284, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'CD', '.', 'NNP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'NN', 'CD', 'IN', 'DT', 'CD', 'NN', '``', 'FW', 'FW', 'FW', 'VBD', "''", 'CC', 'MD', 'VB', 'TO', 'VB', 'IN', 'NNS', 'IN', 'CD', ',', 'VBG', 'DT', 'CD', 'NN', 'NN', 'NN', "''", 'FW', 'FW', 'FW', "''", 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Snitz Edwards</title>
+<link/>https://en.wikipedia.org/wiki/Snitz_Edwards
+<annotated>0</annotated>
+<originalabstract>Snitz Edwards  (born Edward Neumann, 1 January 1868 – 1 May 1937) was a stage and character actor of the early years of the silent film era into the 1930s.</originalabstract>
+<abstract>Snitz_Edwards ( born Edward_Neumann , 1_January_1868 – 1_May_1937 ) was a_stage_and_character_actor of the_early_years of the_silent_film_era into the_1930s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Snitz'), (6, 'Edwards'), (15, '('), (16, 'born'), (21, 'Edward'), (28, 'Neumann'), (35, ','), (37, '1'), (39, 'January'), (47, '1868'), (52, '–'), (54, '1'), (56, 'May'), (60, '1937'), (64, ')'), (66, 'was'), (70, 'a'), (72, 'stage'), (78, 'and'), (82, 'character'), (92, 'actor'), (98, 'of'), (101, 'the'), (105, 'early'), (111, 'years'), (117, 'of'), (120, 'the'), (124, 'silent'), (131, 'film'), (136, 'era'), (140, 'into'), (145, 'the'), (149, '1930s'), (154, '.')])</stanford_tokens>
+<opennlp_chunks>[('Snitz Edwards',0, 13), ('Edward Neumann',21, 35), ('1 January 1868',37, 51), ('1 May 1937',54, 64), ('a stage and character actor',70, 97), ('the early years',101, 116), ('the silent film era',120, 139), ('the 1930s',145, 154)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Snitz'), (6, 'Edwards'), (15, '('), (16, 'born'), (21, 'Edward'), (28, 'Neumann'), (35, ','), (37, '1'), (39, 'January'), (47, '1868'), (52, '–'), (54, '1'), (56, 'May'), (60, '1937'), (64, ')'), (66, 'was'), (70, 'a'), (72, 'stage'), (78, 'and'), (82, 'character'), (92, 'actor'), (98, 'of'), (101, 'the'), (105, 'early'), (111, 'years'), (117, 'of'), (120, 'the'), (124, 'silent'), (131, 'film'), (136, 'era'), (140, 'into'), (145, 'the'), (149, '1930s'), (154, '.')])</spacy_tokens>
+<spacy_chunks>[('Snitz Edwards', 0, 13), ('(born Edward Neumann', 15, 35), ('1 January 1868', 37, 51), ('1 May 1937', 54, 64), ('a stage and character actor', 70, 97), ('the early years', 101, 116), ('the silent film era', 120, 139), ('the 1930s', 145, 154)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

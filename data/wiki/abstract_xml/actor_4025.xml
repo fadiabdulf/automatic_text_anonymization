@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Larry Linville</title>
+<link/>https://en.wikipedia.org/wiki/Larry_Linville
+<annotated>0</annotated>
+<originalabstract>Lawrence Lavon Linville (September 29, 1939 – April 10, 2000) was an American actor known for his portrayal of the surgeon Major Frank Burns on the television series M*A*S*H.</originalabstract>
+<abstract>Lawrence_Lavon_Linville ( September_29_,_1939 – April_10_,_2000 ) was an_American_actor known for his_portrayal of the_surgeon Major_Frank_Burns on the_television_series_M * A_*_S * H.</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lawrence'), (9, 'Lavon'), (15, 'Linville'), (24, '('), (25, 'September'), (35, '29'), (37, ','), (39, '1939'), (44, '–'), (46, 'April'), (52, '10'), (54, ','), (56, '2000'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'actor'), (84, 'known'), (90, 'for'), (94, 'his'), (98, 'portrayal'), (108, 'of'), (111, 'the'), (115, 'surgeon'), (123, 'Major'), (129, 'Frank'), (135, 'Burns'), (141, 'on'), (144, 'the'), (148, 'television'), (159, 'series'), (166, 'M'), (167, '*'), (168, 'A'), (169, '*'), (170, 'S'), (171, '*'), (172, 'H.')])</stanford_tokens>
+<opennlp_chunks>[('Lawrence Lavon Linville',0, 23), ('September 29, 1939',25, 43), ('April 10, 2000',46, 60), ('an American actor',66, 83), ('his portrayal',94, 107), ('the surgeon',111, 122), ('Major Frank Burns',123, 140), ('the television series M',144, 167), ('A*S',168, 171)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'SYM', 'DT', 'SYM', 'NN', 'SYM', 'NN']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lawrence'), (9, 'Lavon'), (15, 'Linville'), (24, '('), (25, 'September'), (35, '29'), (37, ','), (39, '1939'), (44, '–'), (46, 'April'), (52, '10'), (54, ','), (56, '2000'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'actor'), (84, 'known'), (90, 'for'), (94, 'his'), (98, 'portrayal'), (108, 'of'), (111, 'the'), (115, 'surgeon'), (123, 'Major'), (129, 'Frank'), (135, 'Burns'), (141, 'on'), (144, 'the'), (148, 'television'), (159, 'series'), (166, 'M*A*S*H.')])</spacy_tokens>
+<spacy_chunks>[('Lawrence Lavon Linville', 0, 23), ('September 29, 1939', 25, 43), ('April 10, 2000', 46, 60), ('an American actor', 66, 83), ('his portrayal', 94, 107), ('the surgeon', 111, 122), ('Major Frank Burns', 123, 140), ('the television series', 144, 165), ('M*A*S*H.', 166, 174)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

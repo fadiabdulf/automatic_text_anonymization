@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Horace McMahon</title>
+<link/>https://en.wikipedia.org/wiki/Horace_McMahon
+<annotated>0</annotated>
+<originalabstract>Horace McMahon (May 17, 1906 – August 17, 1971) was an American actor. He was one of Hollywood's favorite heavies.
+McMahon began his acting career on Broadway, then appeared in many films and television series. In 1962, he received a Primetime Emmy Award nomination for his performance in the series Naked City (1958–1963).</originalabstract>
+<abstract>Horace_McMahon ( May_17_,_1906 – August_17 , 1971 ) was an_American_actor . He was one of Hollywood 's_favorite_heavies . McMahon began his_acting_career on Broadway , then appeared in many_films_and_television_series . In 1962 , he received a_Primetime_Emmy_Award_nomination for his_performance in the_series_Naked_City_(_1958 – 1963_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Horace'), (7, 'McMahon'), (15, '('), (16, 'May'), (20, '17'), (22, ','), (24, '1906'), (29, '–'), (31, 'August'), (38, '17'), (40, ','), (42, '1971'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'was'), (78, 'one'), (82, 'of'), (85, 'Hollywood'), (94, '\'s'), (97, 'favorite'), (106, 'heavies'), (113, '.'), (115, 'McMahon'), (123, 'began'), (129, 'his'), (133, 'acting'), (140, 'career'), (147, 'on'), (150, 'Broadway'), (158, ','), (160, 'then'), (165, 'appeared'), (174, 'in'), (177, 'many'), (182, 'films'), (188, 'and'), (192, 'television'), (203, 'series'), (209, '.'), (211, 'In'), (214, '1962'), (218, ','), (220, 'he'), (223, 'received'), (232, 'a'), (234, 'Primetime'), (244, 'Emmy'), (249, 'Award'), (255, 'nomination'), (266, 'for'), (270, 'his'), (274, 'performance'), (286, 'in'), (289, 'the'), (293, 'series'), (300, 'Naked'), (306, 'City'), (311, '('), (312, '1958'), (316, '–'), (317, '1963'), (321, ')'), (322, '.')])</stanford_tokens>
+<opennlp_chunks>[('Horace McMahon',0, 14), ('May 17, 1906',16, 28), ('August 17',31, 40), ('an American actor',52, 69), ('\'s favorite heavies',94, 113), ('his acting career',129, 146), ('many films and television series',177, 209), ('a Primetime Emmy Award nomination',232, 265), ('his performance',270, 285), ('the series Naked City (1958',289, 316), ('1963)',317, 322)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', 'IN', 'NNP', 'POS', 'JJ', 'NNS', '.', 'NNP', 'VBD', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', ',', 'RB', 'VBD', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Horace'), (7, 'McMahon'), (15, '('), (16, 'May'), (20, '17'), (22, ','), (24, '1906'), (29, '–'), (31, 'August'), (38, '17'), (40, ','), (42, '1971'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'was'), (78, 'one'), (82, 'of'), (85, 'Hollywood'), (94, "'s"), (97, 'favorite'), (106, 'heavies'), (113, '.'), (115, 'McMahon'), (123, 'began'), (129, 'his'), (133, 'acting'), (140, 'career'), (147, 'on'), (150, 'Broadway'), (158, ','), (160, 'then'), (165, 'appeared'), (174, 'in'), (177, 'many'), (182, 'films'), (188, 'and'), (192, 'television'), (203, 'series'), (209, '.'), (211, 'In'), (214, '1962'), (218, ','), (220, 'he'), (223, 'received'), (232, 'a'), (234, 'Primetime'), (244, 'Emmy'), (249, 'Award'), (255, 'nomination'), (266, 'for'), (270, 'his'), (274, 'performance'), (286, 'in'), (289, 'the'), (293, 'series'), (300, 'Naked'), (306, 'City'), (311, '('), (312, '1958–1963'), (321, ')'), (322, '.')])</spacy_tokens>
+<spacy_chunks>[('Horace McMahon', 0, 14), ('May 17, 1906', 16, 28), ('August 17, 1971', 31, 46), ('an American actor', 52, 69), ("Hollywood's favorite heavies", 85, 113), ('his acting career', 129, 146), ('Broadway', 150, 158), ('many films and television series', 177, 209), ('a Primetime Emmy Award nomination', 232, 265), ('his performance', 270, 285), ('the series', 289, 299), ('Naked City', 300, 310)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', 'IN', 'NNP', 'POS', 'JJ', 'NNS', '.', 'NNP', 'VBD', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', ',', 'RB', 'VBD', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Floy Clements</title>
+<link/>https://en.wikipedia.org/wiki/Floy_Clements
+<annotated>0</annotated>
+<originalabstract>Floy Mae Clements (née Stephens November 20, 1891 – September 29, 1973) was an African American politician in Illinois notable for being the first African American woman to serve in the Illinois General Assembly upon her election to the Illinois House of Representatives in 1958.</originalabstract>
+<abstract>Floy_Mae_Clements ( née_Stephens_November_20_,_1891 – September_29_,_1973 ) was an_African_American_politician in Illinois_notable for being the_first_African_American_woman to_serve in the_Illinois_General_Assembly upon her_election to the_Illinois_House of Representatives in 1958 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Floy'), (5, 'Mae'), (9, 'Clements'), (18, '('), (19, 'née'), (23, 'Stephens'), (32, 'November'), (41, '20'), (43, ','), (45, '1891'), (50, '–'), (52, 'September'), (62, '29'), (64, ','), (66, '1973'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'African'), (87, 'American'), (96, 'politician'), (107, 'in'), (110, 'Illinois'), (119, 'notable'), (127, 'for'), (131, 'being'), (137, 'the'), (141, 'first'), (147, 'African'), (155, 'American'), (164, 'woman'), (170, 'to'), (173, 'serve'), (179, 'in'), (182, 'the'), (186, 'Illinois'), (195, 'General'), (203, 'Assembly'), (212, 'upon'), (217, 'her'), (221, 'election'), (230, 'to'), (233, 'the'), (237, 'Illinois'), (246, 'House'), (252, 'of'), (255, 'Representatives'), (271, 'in'), (274, '1958'), (278, '.')])</stanford_tokens>
+<opennlp_chunks>[('Floy Mae Clements',0, 17), ('née Stephens November 20, 1891',19, 49), ('September 29, 1973',52, 70), ('an African American politician',76, 106), ('Illinois notable',110, 126), ('the first African American woman',137, 169), ('to serve',170, 178), ('the Illinois General Assembly',182, 211), ('her election',217, 229), ('the Illinois House',233, 251)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'NNP', 'JJ', 'IN', 'VBG', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'TO', 'VB', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'TO', 'DT', 'NNP', 'NNP', 'IN', 'NNPS', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Floy'), (5, 'Mae'), (9, 'Clements'), (18, '('), (19, 'née'), (23, 'Stephens'), (32, 'November'), (41, '20'), (43, ','), (45, '1891'), (50, '–'), (52, 'September'), (62, '29'), (64, ','), (66, '1973'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'African'), (87, 'American'), (96, 'politician'), (107, 'in'), (110, 'Illinois'), (119, 'notable'), (127, 'for'), (131, 'being'), (137, 'the'), (141, 'first'), (147, 'African'), (155, 'American'), (164, 'woman'), (170, 'to'), (173, 'serve'), (179, 'in'), (182, 'the'), (186, 'Illinois'), (195, 'General'), (203, 'Assembly'), (212, 'upon'), (217, 'her'), (221, 'election'), (230, 'to'), (233, 'the'), (237, 'Illinois'), (246, 'House'), (252, 'of'), (255, 'Representatives'), (271, 'in'), (274, '1958'), (278, '.')])</spacy_tokens>
+<spacy_chunks>[('Floy Mae Clements', 0, 17), ('née Stephens', 19, 31), ('November 20, 1891', 32, 49), ('September 29, 1973', 52, 70), ('an African American politician', 76, 106), ('Illinois', 110, 118), ('the first African American woman', 137, 169), ('the Illinois General Assembly', 182, 211), ('her election', 217, 229), ('the Illinois House', 233, 251), ('Illinois House of Representatives', 237, 270)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'NNP', 'JJ', 'IN', 'VBG', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'TO', 'VB', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNPS', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

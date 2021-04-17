@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gail Edwards</title>
+<link/>https://en.wikipedia.org/wiki/Gail_Edwards
+<annotated>0</annotated>
+<originalabstract>Gail June Edwards (born September 27, 1952) is an American former actress. She is known for her roles as Dot Higgins in ABC's It's a Living, Sharon LeMeure in NBC's Blossom, and Vicky Larson in ABC's Full House.</originalabstract>
+<abstract>Gail_June_Edwards ( born September_27_,_1952 ) is an_American_former_actress . She is_known for her_roles as Dot_Higgins in ABC 's_It 's a_Living_,_Sharon_LeMeure in NBC 's_Blossom , and Vicky_Larson in ABC 's_Full_House .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gail'), (5, 'June'), (10, 'Edwards'), (18, '('), (19, 'born'), (24, 'September'), (34, '27'), (36, ','), (38, '1952'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'former'), (66, 'actress'), (73, '.'), (75, 'She'), (79, 'is'), (82, 'known'), (88, 'for'), (92, 'her'), (96, 'roles'), (102, 'as'), (105, 'Dot'), (109, 'Higgins'), (117, 'in'), (120, 'ABC'), (123, '\'s'), (126, 'It'), (128, '\'s'), (131, 'a'), (133, 'Living'), (139, ','), (141, 'Sharon'), (148, 'LeMeure'), (156, 'in'), (159, 'NBC'), (162, '\'s'), (165, 'Blossom'), (172, ','), (174, 'and'), (178, 'Vicky'), (184, 'Larson'), (191, 'in'), (194, 'ABC'), (197, '\'s'), (200, 'Full'), (205, 'House'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gail June Edwards',0, 17), ('September 27, 1952',24, 42), ('an American former actress',47, 73), ('is known',79, 87), ('her roles',92, 101), ('Dot Higgins',105, 116), ('\'s It',123, 128), ('a Living, Sharon LeMeure',131, 155), ('\'s Blossom',162, 172), ('Vicky Larson',178, 190), ('\'s Full House',197, 210)]</opennlp_chunks>
+<stanford_pos>['NN', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'PRP', 'VBZ', 'DT', 'VBG', ',', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'JJ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gail'), (5, 'June'), (10, 'Edwards'), (18, '('), (19, 'born'), (24, 'September'), (34, '27'), (36, ','), (38, '1952'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'former'), (66, 'actress'), (73, '.'), (75, 'She'), (79, 'is'), (82, 'known'), (88, 'for'), (92, 'her'), (96, 'roles'), (102, 'as'), (105, 'Dot'), (109, 'Higgins'), (117, 'in'), (120, 'ABC'), (123, "'s"), (126, 'It'), (128, "'s"), (131, 'a'), (133, 'Living'), (139, ','), (141, 'Sharon'), (148, 'LeMeure'), (156, 'in'), (159, 'NBC'), (162, "'s"), (165, 'Blossom'), (172, ','), (174, 'and'), (178, 'Vicky'), (184, 'Larson'), (191, 'in'), (194, 'ABC'), (197, "'s"), (200, 'Full'), (205, 'House'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Gail June Edwards', 0, 17), ('September 27, 1952', 24, 42), ('an American former actress', 47, 73), ('her roles', 92, 101), ('Dot Higgins', 105, 116), ('a Living', 131, 139), ('Sharon LeMeure', 141, 155), ("NBC's Blossom", 159, 172), ('Vicky Larson', 178, 190), ("ABC's Full House", 194, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'PRP', 'VBZ', 'DT', 'NN', ',', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NN', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

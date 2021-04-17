@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mae Murray</title>
+<link/>https://en.wikipedia.org/wiki/Mae_Murray
+<annotated>0</annotated>
+<originalabstract>Mae Murray (born Marie Adrienne Koenig, May 10, 1885 – March 23, 1965) was an American actress, dancer, film producer, and screenwriter. Murray rose to fame during the silent film era and was known as "The Girl with the Bee-Stung Lips" and "The Gardenia of the Screen".</originalabstract>
+<abstract>Mae_Murray ( born Marie_Adrienne_Koenig , May_10 , 1885 – March_23_,_1965 ) was an_American_actress , dancer , film_producer , and screenwriter . Murray rose to fame during the_silent_film_era and was_known as " The_Girl with the_Bee-Stung_Lips_" and " The_Gardenia of the_Screen_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mae'), (4, 'Murray'), (11, '('), (12, 'born'), (17, 'Marie'), (23, 'Adrienne'), (32, 'Koenig'), (38, ','), (40, 'May'), (44, '10'), (46, ','), (48, '1885'), (53, '–'), (55, 'March'), (61, '23'), (63, ','), (65, '1965'), (69, ')'), (71, 'was'), (75, 'an'), (78, 'American'), (87, 'actress'), (94, ','), (96, 'dancer'), (102, ','), (104, 'film'), (109, 'producer'), (117, ','), (119, 'and'), (123, 'screenwriter'), (135, '.'), (137, 'Murray'), (144, 'rose'), (149, 'to'), (152, 'fame'), (157, 'during'), (164, 'the'), (168, 'silent'), (175, 'film'), (180, 'era'), (184, 'and'), (188, 'was'), (192, 'known'), (198, 'as'), (201, '"'), (202, 'The'), (206, 'Girl'), (211, 'with'), (216, 'the'), (220, 'Bee-Stung'), (230, 'Lips'), (234, '"'), (236, 'and'), (240, '"'), (241, 'The'), (245, 'Gardenia'), (254, 'of'), (257, 'the'), (261, 'Screen'), (267, '"'), (268, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mae Murray',0, 10), ('Marie Adrienne Koenig',17, 38), ('May 10',40, 46), ('March 23, 1965',55, 69), ('an American actress',75, 94), ('film producer',104, 117), ('the silent film era',164, 183), ('was known',188, 197), ('The Girl',202, 210), ('the Bee-Stung Lips"',216, 235), ('The Gardenia',241, 253), ('the Screen"',257, 268)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', '.', 'NNP', 'VBD', 'TO', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'CC', 'VBD', 'VBN', 'IN', '``', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'NNPS', '\'\'', 'CC', '``', 'DT', 'NNP', 'IN', 'DT', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mae'), (4, 'Murray'), (11, '('), (12, 'born'), (17, 'Marie'), (23, 'Adrienne'), (32, 'Koenig'), (38, ','), (40, 'May'), (44, '10'), (46, ','), (48, '1885'), (53, '–'), (55, 'March'), (61, '23'), (63, ','), (65, '1965'), (69, ')'), (71, 'was'), (75, 'an'), (78, 'American'), (87, 'actress'), (94, ','), (96, 'dancer'), (102, ','), (104, 'film'), (109, 'producer'), (117, ','), (119, 'and'), (123, 'screenwriter'), (135, '.'), (137, 'Murray'), (144, 'rose'), (149, 'to'), (152, 'fame'), (157, 'during'), (164, 'the'), (168, 'silent'), (175, 'film'), (180, 'era'), (184, 'and'), (188, 'was'), (192, 'known'), (198, 'as'), (201, '"'), (202, 'The'), (206, 'Girl'), (211, 'with'), (216, 'the'), (220, 'Bee'), (223, '-'), (224, 'Stung'), (230, 'Lips'), (234, '"'), (236, 'and'), (240, '"'), (241, 'The'), (245, 'Gardenia'), (254, 'of'), (257, 'the'), (261, 'Screen'), (267, '"'), (268, '.')])</spacy_tokens>
+<spacy_chunks>[('Mae Murray', 0, 10), ('(born Marie Adrienne Koenig', 11, 38), ('May 10, 1885', 40, 52), ('March 23, 1965', 55, 69), ('an American actress', 75, 94), ('dancer', 96, 102), ('film producer', 104, 117), ('screenwriter', 123, 135), ('the silent film era', 164, 183), ('"The Girl', 201, 210), ('the Bee-Stung Lips', 216, 234), ('"The Gardenia', 240, 253), ('the Screen', 257, 267)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', '.', 'NNP', 'VBD', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'CC', 'VBD', 'VBN', 'IN', '``', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'HYPH', 'NNP', 'NNPS', "''", 'CC', '``', 'DT', 'NNP', 'IN', 'DT', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

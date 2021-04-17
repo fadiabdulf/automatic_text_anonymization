@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Boris McGiver</title>
+<link/>https://en.wikipedia.org/wiki/Boris_McGiver
+<annotated>0</annotated>
+<originalabstract>Boris McGiver (born January 23, 1962) is an American actor. He is known for his roles in projects such as Lincoln, House of Cards, The Wire, Killing Kennedy, and Person of Interest.</originalabstract>
+<abstract>Boris_McGiver ( born January_23_,_1962 ) is an_American_actor . He is_known for his_roles in projects such_as Lincoln , House of Cards , The_Wire , Killing_Kennedy , and Person of Interest .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Boris'), (6, 'McGiver'), (14, '('), (15, 'born'), (20, 'January'), (28, '23'), (30, ','), (32, '1962'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (58, '.'), (60, 'He'), (63, 'is'), (66, 'known'), (72, 'for'), (76, 'his'), (80, 'roles'), (86, 'in'), (89, 'projects'), (98, 'such'), (103, 'as'), (106, 'Lincoln'), (113, ','), (115, 'House'), (121, 'of'), (124, 'Cards'), (129, ','), (131, 'The'), (135, 'Wire'), (139, ','), (141, 'Killing'), (149, 'Kennedy'), (156, ','), (158, 'and'), (162, 'Person'), (169, 'of'), (172, 'Interest'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('Boris McGiver',0, 13), ('January 23, 1962',20, 36), ('an American actor',41, 58), ('is known',63, 71), ('his roles',76, 85), ('such as',98, 105), ('The Wire',131, 139), ('Killing Kennedy',141, 156)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', ',', 'DT', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NN', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Boris'), (6, 'McGiver'), (14, '('), (15, 'born'), (20, 'January'), (28, '23'), (30, ','), (32, '1962'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (58, '.'), (60, 'He'), (63, 'is'), (66, 'known'), (72, 'for'), (76, 'his'), (80, 'roles'), (86, 'in'), (89, 'projects'), (98, 'such'), (103, 'as'), (106, 'Lincoln'), (113, ','), (115, 'House'), (121, 'of'), (124, 'Cards'), (129, ','), (131, 'The'), (135, 'Wire'), (139, ','), (141, 'Killing'), (149, 'Kennedy'), (156, ','), (158, 'and'), (162, 'Person'), (169, 'of'), (172, 'Interest'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('Boris McGiver', 0, 13), ('January 23, 1962', 20, 36), ('an American actor', 41, 58), ('his roles', 76, 85), ('projects', 89, 97), ('Lincoln', 106, 113), ('The Wire', 131, 139), ('Killing Kennedy', 141, 156), ('Person of Interest', 162, 180)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', ',', 'DT', 'NNP', ',', 'VBG', 'NNP', ',', 'CC', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

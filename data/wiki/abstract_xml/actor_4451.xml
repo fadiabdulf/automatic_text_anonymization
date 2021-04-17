@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul McCullough</title>
+<link/>https://en.wikipedia.org/wiki/Paul_McCullough
+<annotated>0</annotated>
+<originalabstract>Paul Johnston McCullough (March 27, 1883 – March 25, 1936) was an American actor and comedian who was one half of the comedy duo Clark and McCullough, along with fellow comedian Bobby Clark.</originalabstract>
+<abstract>Paul_Johnston_McCullough ( March_27_,_1883 – March_25_,_1936 ) was an_American_actor and comedian who was one_half of the_comedy_duo_Clark_and_McCullough , along with fellow_comedian_Bobby_Clark .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Johnston'), (14, 'McCullough'), (25, '('), (26, 'March'), (32, '27'), (34, ','), (36, '1883'), (41, '–'), (43, 'March'), (49, '25'), (51, ','), (53, '1936'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'actor'), (81, 'and'), (85, 'comedian'), (94, 'who'), (98, 'was'), (102, 'one'), (106, 'half'), (111, 'of'), (114, 'the'), (118, 'comedy'), (125, 'duo'), (129, 'Clark'), (135, 'and'), (139, 'McCullough'), (149, ','), (151, 'along'), (157, 'with'), (162, 'fellow'), (169, 'comedian'), (178, 'Bobby'), (184, 'Clark'), (189, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Johnston McCullough',0, 24), ('March 27, 1883',26, 40), ('March 25, 1936',43, 57), ('an American actor',63, 80), ('one half',102, 110), ('the comedy duo Clark and McCullough',114, 149), ('fellow comedian Bobby Clark',162, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'CD', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'CC', 'NNP', ',', 'IN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Johnston'), (14, 'McCullough'), (25, '('), (26, 'March'), (32, '27'), (34, ','), (36, '1883'), (41, '–'), (43, 'March'), (49, '25'), (51, ','), (53, '1936'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'actor'), (81, 'and'), (85, 'comedian'), (94, 'who'), (98, 'was'), (102, 'one'), (106, 'half'), (111, 'of'), (114, 'the'), (118, 'comedy'), (125, 'duo'), (129, 'Clark'), (135, 'and'), (139, 'McCullough'), (149, ','), (151, 'along'), (157, 'with'), (162, 'fellow'), (169, 'comedian'), (178, 'Bobby'), (184, 'Clark'), (189, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Johnston McCullough', 0, 24), ('March 27, 1883', 26, 40), ('March 25, 1936', 43, 57), ('an American actor', 63, 80), ('comedian', 85, 93), ('one half', 102, 110), ('the comedy duo', 114, 128), ('Clark and McCullough', 129, 149), ('fellow comedian Bobby Clark', 162, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'CD', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'CC', 'NNP', ',', 'IN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

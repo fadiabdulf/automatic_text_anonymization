@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jim Corey</title>
+<link/>https://en.wikipedia.org/wiki/Jim_Corey
+<annotated>0</annotated>
+<originalabstract>James Warren Corey (October 19, 1883 – January 10, 1956) was an American actor. He appeared in 315 films between 1914 and 1948. He was born in Nebraska and died in Los Angeles, California. His grave is located at Valhalla Memorial Park Cemetery.</originalabstract>
+<abstract>James_Warren_Corey ( October_19_,_1883 – January_10_,_1956 ) was an_American_actor . He appeared in 315_films between 1914_and_1948 . He was_born in Nebraska and died in Los_Angeles , California . His_grave is located at Valhalla_Memorial_Park_Cemetery .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Warren'), (13, 'Corey'), (19, '('), (20, 'October'), (28, '19'), (30, ','), (32, '1883'), (37, '–'), (39, 'January'), (47, '10'), (49, ','), (51, '1956'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actor'), (78, '.'), (80, 'He'), (83, 'appeared'), (92, 'in'), (95, '315'), (99, 'films'), (105, 'between'), (113, '1914'), (118, 'and'), (122, '1948'), (126, '.'), (128, 'He'), (131, 'was'), (135, 'born'), (140, 'in'), (143, 'Nebraska'), (152, 'and'), (156, 'died'), (161, 'in'), (164, 'Los'), (168, 'Angeles'), (175, ','), (177, 'California'), (187, '.'), (189, 'His'), (193, 'grave'), (199, 'is'), (202, 'located'), (210, 'at'), (213, 'Valhalla'), (222, 'Memorial'), (231, 'Park'), (236, 'Cemetery'), (244, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Warren Corey',0, 18), ('October 19, 1883',20, 36), ('January 10, 1956',39, 55), ('an American actor',61, 78), ('315 films',95, 104), ('1914 and 1948',113, 126), ('was born',131, 139), ('Los Angeles',164, 175), ('His grave',189, 198), ('Valhalla Memorial Park Cemetery',213, 244)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'PRP$', 'NN', 'VBZ', 'JJ', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Warren'), (13, 'Corey'), (19, '('), (20, 'October'), (28, '19'), (30, ','), (32, '1883'), (37, '–'), (39, 'January'), (47, '10'), (49, ','), (51, '1956'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actor'), (78, '.'), (80, 'He'), (83, 'appeared'), (92, 'in'), (95, '315'), (99, 'films'), (105, 'between'), (113, '1914'), (118, 'and'), (122, '1948'), (126, '.'), (128, 'He'), (131, 'was'), (135, 'born'), (140, 'in'), (143, 'Nebraska'), (152, 'and'), (156, 'died'), (161, 'in'), (164, 'Los'), (168, 'Angeles'), (175, ','), (177, 'California'), (187, '.'), (189, 'His'), (193, 'grave'), (199, 'is'), (202, 'located'), (210, 'at'), (213, 'Valhalla'), (222, 'Memorial'), (231, 'Park'), (236, 'Cemetery'), (244, '.')])</spacy_tokens>
+<spacy_chunks>[('James Warren Corey', 0, 18), ('(October', 19, 27), ('October 19, 1883', 20, 36), ('January 10, 1956', 39, 55), ('an American actor', 61, 78), ('315 films', 95, 104), ('Nebraska', 143, 151), ('Los Angeles, California', 164, 187), ('His grave', 189, 198), ('Valhalla Memorial Park Cemetery', 213, 244)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'PRP$', 'NN', 'VBZ', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

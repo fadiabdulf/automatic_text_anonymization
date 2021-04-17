@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Olivia Gray</title>
+<link/>https://en.wikipedia.org/wiki/Olivia_Gray
+<annotated>0</annotated>
+<originalabstract>Olive Gray (born Olivia Grant, 16 December 1994 in London, England) is an English actress best known for portraying Mia Stone in the children's television series Half-Moon Investigations based on the book by Eoin Colfer in 2009.</originalabstract>
+<abstract>Olive_Gray ( born Olivia_Grant , 16_December_1994 in London , England ) is an_English_actress best_known for portraying Mia_Stone in the_children 's_television_series_Half-Moon_Investigations based on the_book by Eoin_Colfer in 2009 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Olive'), (6, 'Gray'), (11, '('), (12, 'born'), (17, 'Olivia'), (24, 'Grant'), (29, ','), (31, '16'), (34, 'December'), (43, '1994'), (48, 'in'), (51, 'London'), (57, ','), (59, 'England'), (66, ')'), (68, 'is'), (71, 'an'), (74, 'English'), (82, 'actress'), (90, 'best'), (95, 'known'), (101, 'for'), (105, 'portraying'), (116, 'Mia'), (120, 'Stone'), (126, 'in'), (129, 'the'), (133, 'children'), (141, '\'s'), (144, 'television'), (155, 'series'), (162, 'Half-Moon'), (172, 'Investigations'), (187, 'based'), (193, 'on'), (196, 'the'), (200, 'book'), (205, 'by'), (208, 'Eoin'), (213, 'Colfer'), (220, 'in'), (223, '2009'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Olive Gray',0, 10), ('Olivia Grant',17, 29), ('16 December 1994',31, 47), ('an English actress',71, 89), ('best known',90, 100), ('Mia Stone',116, 125), ('the children',129, 141), ('\'s television series Half-Moon Investigations',141, 186), ('the book',196, 204), ('Eoin Colfer',208, 219)]</opennlp_chunks>
+<stanford_pos>['JJ', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NN', 'NNP', 'NNPS', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Olive'), (6, 'Gray'), (11, '('), (12, 'born'), (17, 'Olivia'), (24, 'Grant'), (29, ','), (31, '16'), (34, 'December'), (43, '1994'), (48, 'in'), (51, 'London'), (57, ','), (59, 'England'), (66, ')'), (68, 'is'), (71, 'an'), (74, 'English'), (82, 'actress'), (90, 'best'), (95, 'known'), (101, 'for'), (105, 'portraying'), (116, 'Mia'), (120, 'Stone'), (126, 'in'), (129, 'the'), (133, 'children'), (141, "'s"), (144, 'television'), (155, 'series'), (162, 'Half'), (166, '-'), (167, 'Moon'), (172, 'Investigations'), (187, 'based'), (193, 'on'), (196, 'the'), (200, 'book'), (205, 'by'), (208, 'Eoin'), (213, 'Colfer'), (220, 'in'), (223, '2009'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Olive Gray', 0, 10), ('born Olivia Grant', 12, 29), ('16 December 1994', 31, 47), ('London', 51, 57), ('England', 59, 66), ('an English actress', 71, 89), ('Mia Stone', 116, 125), ("the children's television series", 129, 161), ('Half-Moon Investigations', 162, 186), ('the book', 196, 204), ('Eoin Colfer', 208, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NN', 'NNP', 'HYPH', 'NNP', 'NNPS', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

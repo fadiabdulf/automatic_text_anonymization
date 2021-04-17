@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Viola Lyel</title>
+<link/>https://en.wikipedia.org/wiki/Viola_Lyel
+<annotated>0</annotated>
+<originalabstract>Viola Lyel (19 December 1896 – 14 August 1972) was an English actress. In a long stage career she appeared in the West End and on Broadway, for leading directors of the day, including Sir Barry Jackson, and Nigel Playfair. Her roles ranged from Shakespeare and Restoration comedy to melodrama and drawing room comedies.</originalabstract>
+<abstract>Viola_Lyel ( 19_December_1896 – 14_August_1972 ) was an_English_actress . In a_long_stage_career she appeared in the_West_End and on Broadway , for leading_directors of the_day , including Sir_Barry_Jackson , and Nigel_Playfair . Her_roles ranged from Shakespeare_and_Restoration_comedy to melodrama and drawing room_comedies .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Viola'), (6, 'Lyel'), (11, '('), (12, '19'), (15, 'December'), (24, '1896'), (29, '–'), (31, '14'), (34, 'August'), (41, '1972'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'English'), (62, 'actress'), (69, '.'), (71, 'In'), (74, 'a'), (76, 'long'), (81, 'stage'), (87, 'career'), (94, 'she'), (98, 'appeared'), (107, 'in'), (110, 'the'), (114, 'West'), (119, 'End'), (123, 'and'), (127, 'on'), (130, 'Broadway'), (138, ','), (140, 'for'), (144, 'leading'), (152, 'directors'), (162, 'of'), (165, 'the'), (169, 'day'), (172, ','), (174, 'including'), (184, 'Sir'), (188, 'Barry'), (194, 'Jackson'), (201, ','), (203, 'and'), (207, 'Nigel'), (213, 'Playfair'), (221, '.'), (223, 'Her'), (227, 'roles'), (233, 'ranged'), (240, 'from'), (245, 'Shakespeare'), (257, 'and'), (261, 'Restoration'), (273, 'comedy'), (280, 'to'), (283, 'melodrama'), (293, 'and'), (297, 'drawing'), (305, 'room'), (310, 'comedies'), (318, '.')])</stanford_tokens>
+<opennlp_chunks>[('Viola Lyel',0, 10), ('19 December 1896',12, 28), ('14 August 1972',31, 45), ('an English actress',51, 69), ('a long stage career',74, 93), ('the West End',110, 122), ('leading directors',144, 161), ('the day',165, 172), ('Sir Barry Jackson',184, 201), ('Nigel Playfair',207, 221), ('Her roles',223, 232), ('Shakespeare and Restoration comedy',245, 279), ('room comedies',305, 318)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'DT', 'JJ', 'NN', 'NN', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'IN', 'NNP', ',', 'IN', 'VBG', 'NNS', 'IN', 'DT', 'NN', ',', 'VBG', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.', 'PRP$', 'NNS', 'VBD', 'IN', 'NNP', 'CC', 'NNP', 'NN', 'TO', 'NN', 'CC', 'VBG', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Viola'), (6, 'Lyel'), (11, '('), (12, '19'), (15, 'December'), (24, '1896'), (29, '–'), (31, '14'), (34, 'August'), (41, '1972'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'English'), (62, 'actress'), (69, '.'), (71, 'In'), (74, 'a'), (76, 'long'), (81, 'stage'), (87, 'career'), (94, 'she'), (98, 'appeared'), (107, 'in'), (110, 'the'), (114, 'West'), (119, 'End'), (123, 'and'), (127, 'on'), (130, 'Broadway'), (138, ','), (140, 'for'), (144, 'leading'), (152, 'directors'), (162, 'of'), (165, 'the'), (169, 'day'), (172, ','), (174, 'including'), (184, 'Sir'), (188, 'Barry'), (194, 'Jackson'), (201, ','), (203, 'and'), (207, 'Nigel'), (213, 'Playfair'), (221, '.'), (223, 'Her'), (227, 'roles'), (233, 'ranged'), (240, 'from'), (245, 'Shakespeare'), (257, 'and'), (261, 'Restoration'), (273, 'comedy'), (280, 'to'), (283, 'melodrama'), (293, 'and'), (297, 'drawing'), (305, 'room'), (310, 'comedies'), (318, '.')])</spacy_tokens>
+<spacy_chunks>[('Viola Lyel', 0, 10), ('19 December 1896', 12, 28), ('14 August 1972', 31, 45), ('an English actress', 51, 69), ('a long stage career', 74, 93), ('the West End', 110, 122), ('Broadway', 130, 138), ('leading directors', 144, 161), ('the day', 165, 172), ('Sir Barry Jackson', 184, 201), ('Nigel Playfair', 207, 221), ('Her roles', 223, 232), ('Shakespeare and Restoration comedy', 245, 279), ('room comedies', 305, 318)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'DT', 'JJ', 'NN', 'NN', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'IN', 'NNP', ',', 'IN', 'VBG', 'NNS', 'IN', 'DT', 'NN', ',', 'VBG', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.', 'PRP$', 'NNS', 'VBD', 'IN', 'NNP', 'CC', 'NNP', 'NN', 'IN', 'NN', 'CC', 'VBG', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

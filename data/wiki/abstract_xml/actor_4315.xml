@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bruce Mars</title>
+<link/>https://en.wikipedia.org/wiki/Bruce_Mars
+<annotated>0</annotated>
+<originalabstract>Bruce Mars (born October 23, 1935), also known as Brother Paramananda, is a monk of the Self-Realization Fellowship in Los Angeles, California, and a former actor.</originalabstract>
+<abstract>Bruce_Mars ( born October_23_,_1935 ) , also_known as Brother_Paramananda , is a_monk of the_Self-Realization_Fellowship in Los_Angeles , California , and a_former_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bruce'), (6, 'Mars'), (11, '('), (12, 'born'), (17, 'October'), (25, '23'), (27, ','), (29, '1935'), (33, ')'), (34, ','), (36, 'also'), (41, 'known'), (47, 'as'), (50, 'Brother'), (58, 'Paramananda'), (69, ','), (71, 'is'), (74, 'a'), (76, 'monk'), (81, 'of'), (84, 'the'), (88, 'Self-Realization'), (105, 'Fellowship'), (116, 'in'), (119, 'Los'), (123, 'Angeles'), (130, ','), (132, 'California'), (142, ','), (144, 'and'), (148, 'a'), (150, 'former'), (157, 'actor'), (162, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bruce Mars',0, 10), ('October 23, 1935',17, 33), ('also known',36, 46), ('Brother Paramananda',50, 69), ('a monk',74, 80), ('the Self-Realization Fellowship',84, 115), ('Los Angeles',119, 130), ('a former actor',148, 162)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bruce'), (6, 'Mars'), (11, '('), (12, 'born'), (17, 'October'), (25, '23'), (27, ','), (29, '1935'), (33, ')'), (34, ','), (36, 'also'), (41, 'known'), (47, 'as'), (50, 'Brother'), (58, 'Paramananda'), (69, ','), (71, 'is'), (74, 'a'), (76, 'monk'), (81, 'of'), (84, 'the'), (88, 'Self'), (92, '-'), (93, 'Realization'), (105, 'Fellowship'), (116, 'in'), (119, 'Los'), (123, 'Angeles'), (130, ','), (132, 'California'), (142, ','), (144, 'and'), (148, 'a'), (150, 'former'), (157, 'actor'), (162, '.')])</spacy_tokens>
+<spacy_chunks>[('Bruce Mars', 0, 10), ('October 23, 1935', 17, 33), ('Brother Paramananda', 50, 69), ('a monk', 74, 80), ('the Self-Realization Fellowship', 84, 115), ('Los Angeles', 119, 130), ('California', 132, 142), ('a former actor', 148, 162)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'NNP', 'HYPH', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

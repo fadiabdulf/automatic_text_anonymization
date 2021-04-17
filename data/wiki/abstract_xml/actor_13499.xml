@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Audra Lindley</title>
+<link/>https://en.wikipedia.org/wiki/Audra_Lindley
+<annotated>0</annotated>
+<originalabstract>Audra Marie Lindley (September 24, 1918 – October 16, 1997) was an American actress, most famous for her role as landlady Helen Roper on the sitcom Three's Company and its spin-off, The Ropers.</originalabstract>
+<abstract>Audra_Marie_Lindley ( September_24_,_1918 – October_16_,_1997 ) was an_American_actress , most_famous for her_role as landlady_Helen_Roper on the_sitcom_Three 's_Company and its_spin-off , The_Ropers .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Audra'), (6, 'Marie'), (12, 'Lindley'), (20, '('), (21, 'September'), (31, '24'), (33, ','), (35, '1918'), (40, '–'), (42, 'October'), (50, '16'), (52, ','), (54, '1997'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actress'), (83, ','), (85, 'most'), (90, 'famous'), (97, 'for'), (101, 'her'), (105, 'role'), (110, 'as'), (113, 'landlady'), (122, 'Helen'), (128, 'Roper'), (134, 'on'), (137, 'the'), (141, 'sitcom'), (148, 'Three'), (153, '\'s'), (156, 'Company'), (164, 'and'), (168, 'its'), (172, 'spin-off'), (180, ','), (182, 'The'), (186, 'Ropers'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('Audra Marie Lindley',0, 19), ('September 24, 1918',21, 39), ('October 16, 1997',42, 58), ('an American actress',64, 83), ('most famous',85, 96), ('her role',101, 109), ('landlady Helen Roper',113, 133), ('the sitcom Three',137, 153), ('\'s Company',153, 163), ('its spin-off',168, 180), ('The Ropers',182, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'CD', 'POS', 'NN', 'CC', 'PRP$', 'NN', ',', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Audra'), (6, 'Marie'), (12, 'Lindley'), (20, '('), (21, 'September'), (31, '24'), (33, ','), (35, '1918'), (40, '–'), (42, 'October'), (50, '16'), (52, ','), (54, '1997'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actress'), (83, ','), (85, 'most'), (90, 'famous'), (97, 'for'), (101, 'her'), (105, 'role'), (110, 'as'), (113, 'landlady'), (122, 'Helen'), (128, 'Roper'), (134, 'on'), (137, 'the'), (141, 'sitcom'), (148, 'Three'), (153, "'s"), (156, 'Company'), (164, 'and'), (168, 'its'), (172, 'spin'), (176, '-'), (177, 'off'), (180, ','), (182, 'The'), (186, 'Ropers'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('Audra Marie Lindley', 0, 19), ('September 24, 1918', 21, 39), ('October 16, 1997', 42, 58), ('an American actress', 64, 83), ('her role', 101, 109), ('landlady Helen Roper', 113, 133), ('the sitcom', 137, 147), ("Three's Company", 148, 163), ('its spin-off', 168, 180), ('The Ropers', 182, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNPS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'POS', 'NNP', 'CC', 'PRP$', 'NN', 'HYPH', 'NN', ',', 'DT', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

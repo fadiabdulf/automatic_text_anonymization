@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nancy Dussault</title>
+<link/>https://en.wikipedia.org/wiki/Nancy_Dussault
+<annotated>0</annotated>
+<originalabstract>Nancy Dussault (born June 30, 1936) is an American actress and singer. She is best known for her role in the sitcom Too Close for Comfort (1980–1987). In a career spanning over half a century, Dussault received two Tony Award nominations.</originalabstract>
+<abstract>Nancy_Dussault ( born June_30_,_1936 ) is an_American_actress_and_singer . She is_best_known for her_role in the_sitcom Too Close for Comfort_(_1980 – 1987_) . In a_career_spanning over half_a_century , Dussault received two_Tony_Award_nominations .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nancy'), (6, 'Dussault'), (15, '('), (16, 'born'), (21, 'June'), (26, '30'), (28, ','), (30, '1936'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (59, 'and'), (63, 'singer'), (69, '.'), (71, 'She'), (75, 'is'), (78, 'best'), (83, 'known'), (89, 'for'), (93, 'her'), (97, 'role'), (102, 'in'), (105, 'the'), (109, 'sitcom'), (116, 'Too'), (120, 'Close'), (126, 'for'), (130, 'Comfort'), (138, '('), (139, '1980'), (143, '–'), (144, '1987'), (148, ')'), (149, '.'), (151, 'In'), (154, 'a'), (156, 'career'), (163, 'spanning'), (172, 'over'), (177, 'half'), (182, 'a'), (184, 'century'), (191, ','), (193, 'Dussault'), (202, 'received'), (211, 'two'), (215, 'Tony'), (220, 'Award'), (226, 'nominations'), (237, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nancy Dussault',0, 14), ('June 30, 1936',21, 34), ('an American actress and singer',39, 69), ('is best known',75, 88), ('her role',93, 101), ('the sitcom',105, 115), ('Comfort (1980',130, 143), ('1987)',144, 149), ('a career spanning',154, 171), ('half a century',177, 191), ('two Tony Award nominations',211, 237)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'RB', 'VB', 'IN', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'IN', 'DT', 'NN', 'VBG', 'IN', 'PDT', 'DT', 'NN', ',', 'NNP', 'VBD', 'CD', 'NNP', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nancy'), (6, 'Dussault'), (15, '('), (16, 'born'), (21, 'June'), (26, '30'), (28, ','), (30, '1936'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (59, 'and'), (63, 'singer'), (69, '.'), (71, 'She'), (75, 'is'), (78, 'best'), (83, 'known'), (89, 'for'), (93, 'her'), (97, 'role'), (102, 'in'), (105, 'the'), (109, 'sitcom'), (116, 'Too'), (120, 'Close'), (126, 'for'), (130, 'Comfort'), (138, '('), (139, '1980–1987'), (148, ')'), (149, '.'), (151, 'In'), (154, 'a'), (156, 'career'), (163, 'spanning'), (172, 'over'), (177, 'half'), (182, 'a'), (184, 'century'), (191, ','), (193, 'Dussault'), (202, 'received'), (211, 'two'), (215, 'Tony'), (220, 'Award'), (226, 'nominations'), (237, '.')])</spacy_tokens>
+<spacy_chunks>[('Nancy Dussault', 0, 14), ('June 30, 1936', 21, 34), ('an American actress', 39, 58), ('singer', 63, 69), ('her role', 93, 101), ('the sitcom', 105, 115), ('Too Close for Comfort', 116, 137), ('a career', 154, 162), ('half a century', 177, 191), ('two Tony Award nominations', 211, 237)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'RB', 'JJ', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'DT', 'NN', 'VBG', 'IN', 'PDT', 'DT', 'NN', ',', 'NNP', 'VBD', 'CD', 'NNP', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

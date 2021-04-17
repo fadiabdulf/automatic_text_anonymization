@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gabriel Barylli</title>
+<link/>https://en.wikipedia.org/wiki/Gabriel_Barylli
+<annotated>0</annotated>
+<originalabstract>Gabriel Barylli (born 31 May 1957) is an Austrian actor and film director. He has appeared in more than 40 films and television shows since 1981. He won the Silver St. George award for Best Actor for his role in A French Woman at the 19th Moscow International Film Festival.</originalabstract>
+<abstract>Gabriel_Barylli ( born 31_May_1957 ) is an_Austrian_actor_and_film_director . He has_appeared in more_than_40_films_and_television_shows since 1981 . He won the_Silver_St._George_award for Best_Actor for his_role in A_French_Woman at the_19th_Moscow_International_Film_Festival .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gabriel'), (8, 'Barylli'), (16, '('), (17, 'born'), (22, '31'), (25, 'May'), (29, '1957'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'Austrian'), (50, 'actor'), (56, 'and'), (60, 'film'), (65, 'director'), (73, '.'), (75, 'He'), (78, 'has'), (82, 'appeared'), (91, 'in'), (94, 'more'), (99, 'than'), (104, '40'), (107, 'films'), (113, 'and'), (117, 'television'), (128, 'shows'), (134, 'since'), (140, '1981'), (144, '.'), (146, 'He'), (149, 'won'), (153, 'the'), (157, 'Silver'), (164, 'St.'), (168, 'George'), (175, 'award'), (181, 'for'), (185, 'Best'), (190, 'Actor'), (196, 'for'), (200, 'his'), (204, 'role'), (209, 'in'), (212, 'A'), (214, 'French'), (221, 'Woman'), (227, 'at'), (230, 'the'), (234, '19th'), (239, 'Moscow'), (246, 'International'), (260, 'Film'), (265, 'Festival'), (273, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gabriel Barylli',0, 15), ('31 May 1957',22, 33), ('an Austrian actor and film director',38, 73), ('has appeared',78, 90), ('more than 40 films and television shows',94, 133), ('the Silver St. George award',153, 180), ('Best Actor',185, 195), ('his role',200, 208), ('A French Woman',212, 226), ('the 19th Moscow International Film Festival',230, 273)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'NNP', 'NNP', 'NN', 'IN', 'JJS', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gabriel'), (8, 'Barylli'), (16, '('), (17, 'born'), (22, '31'), (25, 'May'), (29, '1957'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'Austrian'), (50, 'actor'), (56, 'and'), (60, 'film'), (65, 'director'), (73, '.'), (75, 'He'), (78, 'has'), (82, 'appeared'), (91, 'in'), (94, 'more'), (99, 'than'), (104, '40'), (107, 'films'), (113, 'and'), (117, 'television'), (128, 'shows'), (134, 'since'), (140, '1981'), (144, '.'), (146, 'He'), (149, 'won'), (153, 'the'), (157, 'Silver'), (164, 'St.'), (168, 'George'), (175, 'award'), (181, 'for'), (185, 'Best'), (190, 'Actor'), (196, 'for'), (200, 'his'), (204, 'role'), (209, 'in'), (212, 'A'), (214, 'French'), (221, 'Woman'), (227, 'at'), (230, 'the'), (234, '19th'), (239, 'Moscow'), (246, 'International'), (260, 'Film'), (265, 'Festival'), (273, '.')])</spacy_tokens>
+<spacy_chunks>[('Gabriel Barylli', 0, 15), ('31 May 1957', 22, 33), ('an Austrian actor', 38, 55), ('Film director', 60, 73), ('more than 40 films', 94, 112), ('television shows', 117, 133), ('the Silver St. George award', 153, 180), ('Best Actor', 185, 195), ('his role', 200, 208), ('A French Woman', 212, 226), ('the 19th Moscow International Film Festival', 230, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

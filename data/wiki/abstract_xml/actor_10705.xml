@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Grace Benham</title>
+<link/>https://en.wikipedia.org/wiki/Grace_Benham
+<annotated>0</annotated>
+<originalabstract>Grace Benham (June 25, 1876 – November 19, 1968) was an American silent film actress.
+She was married to Ogden Crane.</originalabstract>
+<abstract>Grace_Benham ( June_25_,_1876 – November_19_,_1968 ) was an_American_silent_film_actress . She was_married to Ogden_Crane .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Grace'), (6, 'Benham'), (13, '('), (14, 'June'), (19, '25'), (21, ','), (23, '1876'), (28, '–'), (30, 'November'), (39, '19'), (41, ','), (43, '1968'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'silent'), (72, 'film'), (77, 'actress'), (84, '.'), (86, 'She'), (90, 'was'), (94, 'married'), (102, 'to'), (105, 'Ogden'), (111, 'Crane'), (116, '.')])</stanford_tokens>
+<opennlp_chunks>[('Grace Benham',0, 12), ('June 25, 1876',14, 27), ('November 19, 1968',30, 47), ('an American silent film actress',53, 84), ('was married',90, 101), ('Ogden Crane',105, 116)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Grace'), (6, 'Benham'), (13, '('), (14, 'June'), (19, '25'), (21, ','), (23, '1876'), (28, '–'), (30, 'November'), (39, '19'), (41, ','), (43, '1968'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'silent'), (72, 'film'), (77, 'actress'), (84, '.'), (86, 'She'), (90, 'was'), (94, 'married'), (102, 'to'), (105, 'Ogden'), (111, 'Crane'), (116, '.')])</spacy_tokens>
+<spacy_chunks>[('Grace Benham', 0, 12), ('June 25, 1876', 14, 27), ('November 19, 1968', 30, 47), ('an American silent film actress', 53, 84), ('Ogden Crane', 105, 116)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'JJ', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jules Berry</title>
+<link/>https://en.wikipedia.org/wiki/Jules_Berry
+<annotated>0</annotated>
+<originalabstract>Jules Berry (born Marie Louis Jules Paufichet; 9 February 1883 – 23 April 1951) was a French actor.</originalabstract>
+<abstract>Jules_Berry ( born Marie_Louis_Jules_Paufichet ; 9_February_1883 – 23_April_1951 ) was a_French_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jules'), (6, 'Berry'), (12, '('), (13, 'born'), (18, 'Marie'), (24, 'Louis'), (30, 'Jules'), (36, 'Paufichet'), (45, ';'), (47, '9'), (49, 'February'), (58, '1883'), (63, '–'), (65, '23'), (68, 'April'), (74, '1951'), (78, ')'), (80, 'was'), (84, 'a'), (86, 'French'), (93, 'actor'), (98, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jules Berry',0, 11), ('Marie Louis Jules Paufichet',18, 45), ('9 February 1883',47, 62), ('23 April 1951',65, 78), ('a French actor',84, 98)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jules'), (6, 'Berry'), (12, '('), (13, 'born'), (18, 'Marie'), (24, 'Louis'), (30, 'Jules'), (36, 'Paufichet'), (45, ';'), (47, '9'), (49, 'February'), (58, '1883'), (63, '–'), (65, '23'), (68, 'April'), (74, '1951'), (78, ')'), (80, 'was'), (84, 'a'), (86, 'French'), (93, 'actor'), (98, '.')])</spacy_tokens>
+<spacy_chunks>[('Jules Berry', 0, 11), ('born Marie Louis Jules Paufichet', 13, 45), ('9 February 1883', 47, 62), ('23 April 1951', 65, 78), ('a French actor', 84, 98)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

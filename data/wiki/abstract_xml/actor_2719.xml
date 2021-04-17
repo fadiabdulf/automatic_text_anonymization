@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eddie Gribbon</title>
+<link/>https://en.wikipedia.org/wiki/Eddie_Gribbon
+<annotated>0</annotated>
+<originalabstract>Eddie Gribbon (January 3, 1890 – September 29, 1965) was an American film actor. He appeared in 184 films from the 1910s to the 1950s. He was the brother of actor Harry Gribbon.</originalabstract>
+<abstract>Eddie_Gribbon ( January_3_,_1890 – September_29_,_1965 ) was an_American_film_actor . He appeared in 184_films from the_1910s to the_1950s . He was the_brother of actor_Harry_Gribbon .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eddie'), (6, 'Gribbon'), (14, '('), (15, 'January'), (23, '3'), (24, ','), (26, '1890'), (31, '–'), (33, 'September'), (43, '29'), (45, ','), (47, '1965'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'appeared'), (93, 'in'), (96, '184'), (100, 'films'), (106, 'from'), (111, 'the'), (115, '1910s'), (121, 'to'), (124, 'the'), (128, '1950s'), (133, '.'), (135, 'He'), (138, 'was'), (142, 'the'), (146, 'brother'), (154, 'of'), (157, 'actor'), (163, 'Harry'), (169, 'Gribbon'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eddie Gribbon',0, 13), ('January 3, 1890',15, 30), ('September 29, 1965',33, 51), ('an American film actor',57, 79), ('184 films',96, 105), ('the 1910s',111, 120), ('the 1950s',124, 133), ('the brother',142, 153), ('actor Harry Gribbon',157, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'DT', 'CD', 'TO', 'DT', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eddie'), (6, 'Gribbon'), (14, '('), (15, 'January'), (23, '3'), (24, ','), (26, '1890'), (31, '–'), (33, 'September'), (43, '29'), (45, ','), (47, '1965'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'appeared'), (93, 'in'), (96, '184'), (100, 'films'), (106, 'from'), (111, 'the'), (115, '1910s'), (121, 'to'), (124, 'the'), (128, '1950s'), (133, '.'), (135, 'He'), (138, 'was'), (142, 'the'), (146, 'brother'), (154, 'of'), (157, 'actor'), (163, 'Harry'), (169, 'Gribbon'), (176, '.')])</spacy_tokens>
+<spacy_chunks>[('Eddie Gribbon', 0, 13), ('(January', 14, 22), ('January 3, 1890', 15, 30), ('September 29, 1965', 33, 51), ('an American film actor', 57, 79), ('184 films', 96, 105), ('the 1950s', 124, 133), ('the brother', 142, 153), ('actor Harry Gribbon', 157, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'DT', 'CD', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

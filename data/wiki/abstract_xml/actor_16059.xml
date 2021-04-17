@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charlayne Woodard</title>
+<link/>https://en.wikipedia.org/wiki/Charlayne_Woodard
+<annotated>0</annotated>
+<originalabstract>Charlaine "Charlayne" Woodard (born December 29, 1953) is an American film, stage, and television actress and playwright. She has written four plays, titled Pretty Fire, Neat, In Real Life, which she starred in, and Flight.</originalabstract>
+<abstract>Charlaine_"_Charlayne_"_Woodard ( born December_29_,_1953 ) is an_American_film , stage , and television_actress_and_playwright . She has_written four_plays , titled Pretty_Fire , Neat , In Real_Life , which she starred in , and Flight .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charlaine'), (10, '"'), (11, 'Charlayne'), (20, '"'), (22, 'Woodard'), (30, '('), (31, 'born'), (36, 'December'), (45, '29'), (47, ','), (49, '1953'), (53, ')'), (55, 'is'), (58, 'an'), (61, 'American'), (70, 'film'), (74, ','), (76, 'stage'), (81, ','), (83, 'and'), (87, 'television'), (98, 'actress'), (106, 'and'), (110, 'playwright'), (120, '.'), (122, 'She'), (126, 'has'), (130, 'written'), (138, 'four'), (143, 'plays'), (148, ','), (150, 'titled'), (157, 'Pretty'), (164, 'Fire'), (168, ','), (170, 'Neat'), (174, ','), (176, 'In'), (179, 'Real'), (184, 'Life'), (188, ','), (190, 'which'), (196, 'she'), (200, 'starred'), (208, 'in'), (210, ','), (212, 'and'), (216, 'Flight'), (222, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charlaine "Charlayne" Woodard',0, 29), ('December 29, 1953',36, 53), ('an American film',58, 74), ('television actress and playwright',87, 120), ('has written',126, 137), ('four plays',138, 148), ('Pretty Fire',157, 168), ('Real Life',179, 188)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'CD', 'NNS', ',', 'VBN', 'NNP', 'NNP', ',', 'NNP', ',', 'IN', 'NNP', 'NNP', ',', 'WDT', 'PRP', 'VBD', 'IN', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charlaine'), (10, '"'), (11, 'Charlayne'), (20, '"'), (22, 'Woodard'), (30, '('), (31, 'born'), (36, 'December'), (45, '29'), (47, ','), (49, '1953'), (53, ')'), (55, 'is'), (58, 'an'), (61, 'American'), (70, 'film'), (74, ','), (76, 'stage'), (81, ','), (83, 'and'), (87, 'television'), (98, 'actress'), (106, 'and'), (110, 'playwright'), (120, '.'), (122, 'She'), (126, 'has'), (130, 'written'), (138, 'four'), (143, 'plays'), (148, ','), (150, 'titled'), (157, 'Pretty'), (164, 'Fire'), (168, ','), (170, 'Neat'), (174, ','), (176, 'In'), (179, 'Real'), (184, 'Life'), (188, ','), (190, 'which'), (196, 'she'), (200, 'starred'), (208, 'in'), (210, ','), (212, 'and'), (216, 'Flight'), (222, '.')])</spacy_tokens>
+<spacy_chunks>[('Charlaine "Charlayne" Woodard', 0, 29), ('December 29, 1953', 36, 53), ('an American film', 58, 74), ('television actress', 87, 105), ('playwright', 110, 120), ('four plays', 138, 148), ('Real Life', 179, 188), ('Flight', 216, 222)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'CD', 'NNS', ',', 'VBN', 'NNP', 'NNP', ',', 'NNP', ',', 'IN', 'JJ', 'NNP', ',', 'WDT', 'PRP', 'VBD', 'RB', ',', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

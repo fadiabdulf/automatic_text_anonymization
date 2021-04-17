@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Vincent</title>
+<link/>https://en.wikipedia.org/wiki/James_Vincent
+<annotated>0</annotated>
+<originalabstract>James Vincent (July 19, 1882 – July 12, 1957) was an American actor and film director of the silent era. He appeared in 23 films between 1910 and 1951, and directed 18 films between 1915 and 1931. He was born in Springfield, Massachusetts and died in New York, New York.</originalabstract>
+<abstract>James_Vincent ( July_19_,_1882 – July_12_,_1957 ) was an_American_actor_and_film_director of the_silent_era . He appeared in 23_films between 1910_and_1951 , and directed 18_films between 1915_and_1931 . He was_born in Springfield , Massachusetts and died in New_York , New_York .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Vincent'), (14, '('), (15, 'July'), (20, '19'), (22, ','), (24, '1882'), (29, '–'), (31, 'July'), (36, '12'), (38, ','), (40, '1957'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (68, 'and'), (72, 'film'), (77, 'director'), (86, 'of'), (89, 'the'), (93, 'silent'), (100, 'era'), (103, '.'), (105, 'He'), (108, 'appeared'), (117, 'in'), (120, '23'), (123, 'films'), (129, 'between'), (137, '1910'), (142, 'and'), (146, '1951'), (150, ','), (152, 'and'), (156, 'directed'), (165, '18'), (168, 'films'), (174, 'between'), (182, '1915'), (187, 'and'), (191, '1931'), (195, '.'), (197, 'He'), (200, 'was'), (204, 'born'), (209, 'in'), (212, 'Springfield'), (223, ','), (225, 'Massachusetts'), (239, 'and'), (243, 'died'), (248, 'in'), (251, 'New'), (255, 'York'), (259, ','), (261, 'New'), (265, 'York'), (269, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Vincent',0, 13), ('July 19, 1882',15, 28), ('July 12, 1957',31, 44), ('an American actor and film director',50, 85), ('the silent era',89, 103), ('23 films',120, 128), ('1910 and 1951',137, 150), ('18 films',165, 173), ('1915 and 1931',182, 195), ('was born',200, 208), ('New York',251, 259), ('New York',261, 269)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'CC', 'VBN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Vincent'), (14, '('), (15, 'July'), (20, '19'), (22, ','), (24, '1882'), (29, '–'), (31, 'July'), (36, '12'), (38, ','), (40, '1957'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (68, 'and'), (72, 'film'), (77, 'director'), (86, 'of'), (89, 'the'), (93, 'silent'), (100, 'era'), (103, '.'), (105, 'He'), (108, 'appeared'), (117, 'in'), (120, '23'), (123, 'films'), (129, 'between'), (137, '1910'), (142, 'and'), (146, '1951'), (150, ','), (152, 'and'), (156, 'directed'), (165, '18'), (168, 'films'), (174, 'between'), (182, '1915'), (187, 'and'), (191, '1931'), (195, '.'), (197, 'He'), (200, 'was'), (204, 'born'), (209, 'in'), (212, 'Springfield'), (223, ','), (225, 'Massachusetts'), (239, 'and'), (243, 'died'), (248, 'in'), (251, 'New'), (255, 'York'), (259, ','), (261, 'New'), (265, 'York'), (269, '.')])</spacy_tokens>
+<spacy_chunks>[('James Vincent', 0, 13), ('July 19, 1882', 15, 28), ('July 12, 1957', 31, 44), ('an American actor', 50, 67), ('Film director', 72, 85), ('the silent era', 89, 103), ('23 films', 120, 128), ('18 films', 165, 173), ('Springfield, Massachusetts', 212, 238), ('New York, New York', 251, 269)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'CC', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

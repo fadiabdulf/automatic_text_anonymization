@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rebecca Schull</title>
+<link/>https://en.wikipedia.org/wiki/Rebecca_Schull
+<annotated>0</annotated>
+<originalabstract>Rebecca Schull (born February 22, 1929) is an American stage, film and television actress, best known for her role as Fay Cochran in the NBC sitcom Wings (1990–1997).</originalabstract>
+<abstract>Rebecca_Schull ( born February_22_,_1929 ) is an_American_stage , film_and_television_actress , best_known for her_role as Fay_Cochran in the_NBC_sitcom_Wings ( 1990 – 1997 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rebecca'), (8, 'Schull'), (15, '('), (16, 'born'), (21, 'February'), (30, '22'), (32, ','), (34, '1929'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'stage'), (60, ','), (62, 'film'), (67, 'and'), (71, 'television'), (82, 'actress'), (89, ','), (91, 'best'), (96, 'known'), (102, 'for'), (106, 'her'), (110, 'role'), (115, 'as'), (118, 'Fay'), (122, 'Cochran'), (130, 'in'), (133, 'the'), (137, 'NBC'), (141, 'sitcom'), (148, 'Wings'), (154, '('), (155, '1990'), (159, '–'), (160, '1997'), (164, ')'), (165, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rebecca Schull',0, 14), ('February 22, 1929',21, 38), ('an American stage',43, 60), ('film and television actress',62, 89), ('best known',91, 101), ('her role',106, 114), ('Fay Cochran',118, 129), ('the NBC sitcom Wings',133, 153)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNS', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rebecca'), (8, 'Schull'), (15, '('), (16, 'born'), (21, 'February'), (30, '22'), (32, ','), (34, '1929'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'stage'), (60, ','), (62, 'film'), (67, 'and'), (71, 'television'), (82, 'actress'), (89, ','), (91, 'best'), (96, 'known'), (102, 'for'), (106, 'her'), (110, 'role'), (115, 'as'), (118, 'Fay'), (122, 'Cochran'), (130, 'in'), (133, 'the'), (137, 'NBC'), (141, 'sitcom'), (148, 'Wings'), (154, '('), (155, '1990–1997'), (164, ')'), (165, '.')])</spacy_tokens>
+<spacy_chunks>[('Rebecca Schull', 0, 14), ('February 22, 1929', 21, 38), ('an American stage', 43, 60), ('television', 71, 81), ('actress', 82, 89), ('her role', 106, 114), ('Fay Cochran', 118, 129), ('the NBC sitcom Wings', 133, 153), ('Wings (1990', 148, 159)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNPS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

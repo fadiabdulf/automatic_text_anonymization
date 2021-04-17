@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Larry Kert</title>
+<link/>https://en.wikipedia.org/wiki/Larry_Kert
+<annotated>0</annotated>
+<originalabstract>Larry Kert (born  Lawrence Frederick Kurt; December 5, 1930 – June 5, 1991) was an American actor, singer, and dancer. He is best known for creating the role of Tony in the original Broadway version of West Side Story.</originalabstract>
+<abstract>Larry_Kert ( born Lawrence_Frederick_Kurt ; December_5_,_1930 – June_5_,_1991 ) was an_American_actor , singer , and dancer . He is_best_known for creating the_role of Tony in the_original_Broadway_version of West_Side_Story .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Larry'), (6, 'Kert'), (11, '('), (12, 'born'), (18, 'Lawrence'), (27, 'Frederick'), (37, 'Kurt'), (41, ';'), (43, 'December'), (52, '5'), (53, ','), (55, '1930'), (60, '–'), (62, 'June'), (67, '5'), (68, ','), (70, '1991'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'actor'), (97, ','), (99, 'singer'), (105, ','), (107, 'and'), (111, 'dancer'), (117, '.'), (119, 'He'), (122, 'is'), (125, 'best'), (130, 'known'), (136, 'for'), (140, 'creating'), (149, 'the'), (153, 'role'), (158, 'of'), (161, 'Tony'), (166, 'in'), (169, 'the'), (173, 'original'), (182, 'Broadway'), (191, 'version'), (199, 'of'), (202, 'West'), (207, 'Side'), (212, 'Story'), (217, '.')])</stanford_tokens>
+<opennlp_chunks>[('Larry Kert',0, 10), ('Lawrence Frederick Kurt',18, 41), ('December 5, 1930',43, 59), ('June 5, 1991',62, 74), ('an American actor',80, 97), ('is best known',122, 135), ('the role',149, 157), ('the original Broadway version',169, 198), ('West Side Story',202, 217)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Larry'), (6, 'Kert'), (11, '('), (12, 'born'), (18, 'Lawrence'), (27, 'Frederick'), (37, 'Kurt'), (41, ';'), (43, 'December'), (52, '5'), (53, ','), (55, '1930'), (60, '–'), (62, 'June'), (67, '5'), (68, ','), (70, '1991'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'actor'), (97, ','), (99, 'singer'), (105, ','), (107, 'and'), (111, 'dancer'), (117, '.'), (119, 'He'), (122, 'is'), (125, 'best'), (130, 'known'), (136, 'for'), (140, 'creating'), (149, 'the'), (153, 'role'), (158, 'of'), (161, 'Tony'), (166, 'in'), (169, 'the'), (173, 'original'), (182, 'Broadway'), (191, 'version'), (199, 'of'), (202, 'West'), (207, 'Side'), (212, 'Story'), (217, '.')])</spacy_tokens>
+<spacy_chunks>[('Larry Kert', 0, 10), ('December 5, 1930', 43, 59), ('June 5, 1991', 62, 74), ('an American actor', 80, 97), ('singer', 99, 105), ('dancer', 111, 117), ('the role', 149, 157), ('the original Broadway version', 169, 198), ('West Side Story', 202, 217)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

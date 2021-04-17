@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lorànt Deutsch</title>
+<link/>https://en.wikipedia.org/wiki/Lor%C3%A0nt_Deutsch
+<annotated>0</annotated>
+<originalabstract>Lorànt Deutsch (French pronunciation: ​[lɔrɑ̃.dœtʃ], born Laszlo Matekovics on 27 October 1975), is a French actor and writer.
+Deutsch was born in Alençon to a Hungarian-Jewish father and a Romanian mother.
+
+Deutsch married actress Marie-Julie Baup on 3 October 2009. An ardent Catholic, Deutsch claims to be a royalist.</originalabstract>
+<abstract>Lorànt_Deutsch ( French_pronunciation : [_lɔrɑ̃.dœtʃ_] , born Laszlo_Matekovics on 27_October_1975 ) , is a_French_actor_and_writer . Deutsch was_born in Alençon to a_Hungarian-Jewish_father and a_Romanian_mother . Deutsch married actress_Marie-Julie_Baup on 3_October_2009 . An_ardent_Catholic , Deutsch claims_to_be a_royalist .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lorànt'), (7, 'Deutsch'), (15, '('), (16, 'French'), (23, 'pronunciation'), (36, ':'), (39, '['), (40, 'lɔrɑ̃.dœtʃ'), (50, ']'), (51, ','), (53, 'born'), (58, 'Laszlo'), (65, 'Matekovics'), (76, 'on'), (79, '27'), (82, 'October'), (90, '1975'), (94, ')'), (95, ','), (97, 'is'), (100, 'a'), (102, 'French'), (109, 'actor'), (115, 'and'), (119, 'writer'), (125, '.'), (127, 'Deutsch'), (135, 'was'), (139, 'born'), (144, 'in'), (147, 'Alençon'), (155, 'to'), (158, 'a'), (160, 'Hungarian-Jewish'), (177, 'father'), (184, 'and'), (188, 'a'), (190, 'Romanian'), (199, 'mother'), (205, '.'), (208, 'Deutsch'), (216, 'married'), (224, 'actress'), (232, 'Marie-Julie'), (244, 'Baup'), (249, 'on'), (252, '3'), (254, 'October'), (262, '2009'), (266, '.'), (268, 'An'), (271, 'ardent'), (278, 'Catholic'), (286, ','), (288, 'Deutsch'), (296, 'claims'), (303, 'to'), (306, 'be'), (309, 'a'), (311, 'royalist'), (319, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lorànt Deutsch',0, 14), ('French pronunciation',16, 36), ('[lɔrɑ̃.dœtʃ]',39, 51), ('Laszlo Matekovics',58, 75), ('27 October 1975',79, 94), ('a French actor and writer',100, 125), ('was born',135, 143), ('a Hungarian-Jewish father',158, 183), ('a Romanian mother',188, 205), ('actress Marie-Julie Baup',224, 248), ('3 October 2009',252, 266), ('An ardent Catholic',268, 286), ('claims to be',296, 308), ('a royalist',309, 319)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NN', ':', '-LRB-', 'NN', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'TO', 'DT', 'JJ', 'NN', 'CC', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', '.', 'DT', 'JJ', 'NNP', ',', 'NNP', 'VBZ', 'TO', 'VB', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lorànt'), (7, 'Deutsch'), (15, '('), (16, 'French'), (23, 'pronunciation'), (36, ':'), (38, '\u200b[lɔrɑ̃.dœtʃ'), (50, ']'), (51, ','), (53, 'born'), (58, 'Laszlo'), (65, 'Matekovics'), (76, 'on'), (79, '27'), (82, 'October'), (90, '1975'), (94, ')'), (95, ','), (97, 'is'), (100, 'a'), (102, 'French'), (109, 'actor'), (115, 'and'), (119, 'writer'), (125, '.'), (127, 'Deutsch'), (135, 'was'), (139, 'born'), (144, 'in'), (147, 'Alençon'), (155, 'to'), (158, 'a'), (160, 'Hungarian'), (169, '-'), (170, 'Jewish'), (177, 'father'), (184, 'and'), (188, 'a'), (190, 'Romanian'), (199, 'mother'), (205, '.'), (208, 'Deutsch'), (216, 'married'), (224, 'actress'), (232, 'Marie'), (237, '-'), (238, 'Julie'), (244, 'Baup'), (249, 'on'), (252, '3'), (254, 'October'), (262, '2009'), (266, '.'), (268, 'An'), (271, 'ardent'), (278, 'Catholic'), (286, ','), (288, 'Deutsch'), (296, 'claims'), (303, 'to'), (306, 'be'), (309, 'a'), (311, 'royalist'), (319, '.')])</spacy_tokens>
+<spacy_chunks>[('Lorànt Deutsch', 0, 14), ('French pronunciation', 16, 36), ('\u200b[lɔrɑ̃.dœtʃ', 38, 50), ('born Laszlo Matekovics', 53, 75), ('27 October 1975', 79, 94), ('a French actor', 100, 114), ('writer', 119, 125), ('Alençon', 147, 154), ('a Hungarian-Jewish father', 158, 183), ('a Romanian mother', 188, 205), ('Deutsch married actress Marie-Julie Baup', 208, 248), ('3 October 2009', 252, 266), ('a royalist', 309, 319)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'JJ', 'NN', ':', 'NNP', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'NN', 'NNP', 'HYPH', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', '.', 'DT', 'JJ', 'JJ', ',', 'NNP', 'NNS', 'TO', 'VB', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

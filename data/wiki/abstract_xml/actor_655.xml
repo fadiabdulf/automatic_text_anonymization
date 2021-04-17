@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Billy Bletcher</title>
+<link/>https://en.wikipedia.org/wiki/Billy_Bletcher
+<annotated>0</annotated>
+<originalabstract>William Bletcher (September 24, 1894 – January 5, 1979) was an American actor and voice actor. He is mostly well known for his role as the voice of Pete in the Mickey Mouse short films from 1932 to 1954.</originalabstract>
+<abstract>William_Bletcher ( September_24_,_1894 – January_5_,_1979 ) was an_American_actor_and_voice_actor . He is_mostly_well_known for his_role as the_voice of Pete in the_Mickey_Mouse_short_films from 1932 to 1954 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Bletcher'), (17, '('), (18, 'September'), (28, '24'), (30, ','), (32, '1894'), (37, '–'), (39, 'January'), (47, '5'), (48, ','), (50, '1979'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'actor'), (78, 'and'), (82, 'voice'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'is'), (101, 'mostly'), (108, 'well'), (113, 'known'), (119, 'for'), (123, 'his'), (127, 'role'), (132, 'as'), (135, 'the'), (139, 'voice'), (145, 'of'), (148, 'Pete'), (153, 'in'), (156, 'the'), (160, 'Mickey'), (167, 'Mouse'), (173, 'short'), (179, 'films'), (185, 'from'), (190, '1932'), (195, 'to'), (198, '1954'), (202, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Bletcher',0, 16), ('September 24, 1894',18, 36), ('January 5, 1979',39, 54), ('an American actor and voice actor',60, 93), ('is mostly well known',98, 118), ('his role',123, 131), ('the voice',135, 144), ('the Mickey Mouse short films',156, 184)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'JJ', 'NNS', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Bletcher'), (17, '('), (18, 'September'), (28, '24'), (30, ','), (32, '1894'), (37, '–'), (39, 'January'), (47, '5'), (48, ','), (50, '1979'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'actor'), (78, 'and'), (82, 'voice'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'is'), (101, 'mostly'), (108, 'well'), (113, 'known'), (119, 'for'), (123, 'his'), (127, 'role'), (132, 'as'), (135, 'the'), (139, 'voice'), (145, 'of'), (148, 'Pete'), (153, 'in'), (156, 'the'), (160, 'Mickey'), (167, 'Mouse'), (173, 'short'), (179, 'films'), (185, 'from'), (190, '1932'), (195, 'to'), (198, '1954'), (202, '.')])</spacy_tokens>
+<spacy_chunks>[('William Bletcher', 0, 16), ('(September', 17, 27), ('September 24, 1894', 18, 36), ('January 5, 1979', 39, 54), ('an American actor', 60, 77), ('voice actor', 82, 93), ('his role', 123, 131), ('the voice', 135, 144), ('the Mickey Mouse short films', 156, 184)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'JJ', 'NNS', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

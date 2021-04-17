@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Emma Samms</title>
+<link/>https://en.wikipedia.org/wiki/Emma_Samms
+<annotated>0</annotated>
+<originalabstract>Emma Elizabeth Wylie Samuelson MBE (born 28 August 1960), known professionally as Emma Samms, is a British actress and TV host, best known for her role as Holly Sutton on the American daytime soap opera General Hospital and for replacing Pamela Sue Martin as Fallon Carrington Colby on the prime time soap opera Dynasty.</originalabstract>
+<abstract>Emma_Elizabeth_Wylie_Samuelson_MBE ( born 28_August_1960 ) , known professionally as Emma_Samms , is a_British_actress_and_TV_host , best_known for her_role as Holly_Sutton on the_American_daytime_soap_opera_General_Hospital and for replacing Pamela_Sue_Martin as Fallon_Carrington_Colby on the_prime_time_soap_opera_Dynasty .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Emma'), (5, 'Elizabeth'), (15, 'Wylie'), (21, 'Samuelson'), (31, 'MBE'), (35, '('), (36, 'born'), (41, '28'), (44, 'August'), (51, '1960'), (55, ')'), (56, ','), (58, 'known'), (64, 'professionally'), (79, 'as'), (82, 'Emma'), (87, 'Samms'), (92, ','), (94, 'is'), (97, 'a'), (99, 'British'), (107, 'actress'), (115, 'and'), (119, 'TV'), (122, 'host'), (126, ','), (128, 'best'), (133, 'known'), (139, 'for'), (143, 'her'), (147, 'role'), (152, 'as'), (155, 'Holly'), (161, 'Sutton'), (168, 'on'), (171, 'the'), (175, 'American'), (184, 'daytime'), (192, 'soap'), (197, 'opera'), (203, 'General'), (211, 'Hospital'), (220, 'and'), (224, 'for'), (228, 'replacing'), (238, 'Pamela'), (245, 'Sue'), (249, 'Martin'), (256, 'as'), (259, 'Fallon'), (266, 'Carrington'), (277, 'Colby'), (283, 'on'), (286, 'the'), (290, 'prime'), (296, 'time'), (301, 'soap'), (306, 'opera'), (312, 'Dynasty'), (319, '.')])</stanford_tokens>
+<opennlp_chunks>[('Emma Elizabeth Wylie Samuelson MBE',0, 34), ('28 August 1960',41, 55), ('Emma Samms',82, 92), ('a British actress and TV host',97, 126), ('best known',128, 138), ('her role',143, 151), ('Holly Sutton',155, 167), ('the American daytime soap opera General Hospital',171, 219), ('Pamela Sue Martin',238, 255), ('Fallon Carrington Colby',259, 282), ('the prime time soap opera Dynasty',286, 319)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Emma'), (5, 'Elizabeth'), (15, 'Wylie'), (21, 'Samuelson'), (31, 'MBE'), (35, '('), (36, 'born'), (41, '28'), (44, 'August'), (51, '1960'), (55, ')'), (56, ','), (58, 'known'), (64, 'professionally'), (79, 'as'), (82, 'Emma'), (87, 'Samms'), (92, ','), (94, 'is'), (97, 'a'), (99, 'British'), (107, 'actress'), (115, 'and'), (119, 'TV'), (122, 'host'), (126, ','), (128, 'best'), (133, 'known'), (139, 'for'), (143, 'her'), (147, 'role'), (152, 'as'), (155, 'Holly'), (161, 'Sutton'), (168, 'on'), (171, 'the'), (175, 'American'), (184, 'daytime'), (192, 'soap'), (197, 'opera'), (203, 'General'), (211, 'Hospital'), (220, 'and'), (224, 'for'), (228, 'replacing'), (238, 'Pamela'), (245, 'Sue'), (249, 'Martin'), (256, 'as'), (259, 'Fallon'), (266, 'Carrington'), (277, 'Colby'), (283, 'on'), (286, 'the'), (290, 'prime'), (296, 'time'), (301, 'soap'), (306, 'opera'), (312, 'Dynasty'), (319, '.')])</spacy_tokens>
+<spacy_chunks>[('Emma Elizabeth Wylie Samuelson MBE', 0, 34), ('28 August 1960', 41, 55), ('Emma Samms', 82, 92), ('a British actress', 97, 114), ('TV host', 119, 126), ('her role', 143, 151), ('Holly Sutton', 155, 167), ('the American daytime soap opera General Hospital', 171, 219), ('Pamela Sue Martin', 238, 255), ('Fallon Carrington Colby', 259, 282), ('the prime time soap opera Dynasty', 286, 319)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

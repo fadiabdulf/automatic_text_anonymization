@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jane Kaczmarek</title>
+<link/>https://en.wikipedia.org/wiki/Jane_Kaczmarek
+<annotated>0</annotated>
+<originalabstract>Jane Frances Kaczmarek (; born December 21, 1955) is an American actress. She is best known for playing the character of Lois on the television series Malcolm in the Middle (2000–06). Kaczmarek is a three-time Golden Globe and seven-time Emmy Award nominee.</originalabstract>
+<abstract>Jane_Frances_Kaczmarek ( ; born December_21_,_1955 ) is an_American_actress . She is_best_known for playing the_character of Lois on the_television_series_Malcolm in the_Middle_(_2000 – 06_) . Kaczmarek is a_three-time_Golden_Globe and seven-time_Emmy_Award_nominee .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jane'), (5, 'Frances'), (13, 'Kaczmarek'), (23, '('), (24, ';'), (26, 'born'), (31, 'December'), (40, '21'), (42, ','), (44, '1955'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actress'), (72, '.'), (74, 'She'), (78, 'is'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'the'), (108, 'character'), (118, 'of'), (121, 'Lois'), (126, 'on'), (129, 'the'), (133, 'television'), (144, 'series'), (151, 'Malcolm'), (159, 'in'), (162, 'the'), (166, 'Middle'), (173, '('), (174, '2000'), (178, '–'), (179, '06'), (181, ')'), (182, '.'), (184, 'Kaczmarek'), (194, 'is'), (197, 'a'), (199, 'three-time'), (210, 'Golden'), (217, 'Globe'), (223, 'and'), (227, 'seven-time'), (238, 'Emmy'), (243, 'Award'), (249, 'nominee'), (256, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jane Frances Kaczmarek',0, 22), ('December 21, 1955',31, 48), ('an American actress',53, 72), ('is best known',78, 91), ('the character',104, 117), ('the television series Malcolm',129, 158), ('the Middle (2000',162, 178), ('06)',179, 182), ('a three-time Golden Globe',197, 222), ('seven-time Emmy Award nominee',227, 256)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'NNP', 'VBZ', 'DT', 'JJ', 'NNP', 'NNP', 'CC', 'JJ', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jane'), (5, 'Frances'), (13, 'Kaczmarek'), (23, '(;'), (26, 'born'), (31, 'December'), (40, '21'), (42, ','), (44, '1955'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actress'), (72, '.'), (74, 'She'), (78, 'is'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'the'), (108, 'character'), (118, 'of'), (121, 'Lois'), (126, 'on'), (129, 'the'), (133, 'television'), (144, 'series'), (151, 'Malcolm'), (159, 'in'), (162, 'the'), (166, 'Middle'), (173, '('), (174, '2000–06'), (181, ')'), (182, '.'), (184, 'Kaczmarek'), (194, 'is'), (197, 'a'), (199, 'three'), (204, '-'), (205, 'time'), (210, 'Golden'), (217, 'Globe'), (223, 'and'), (227, 'seven'), (232, '-'), (233, 'time'), (238, 'Emmy'), (243, 'Award'), (249, 'nominee'), (256, '.')])</spacy_tokens>
+<spacy_chunks>[('Jane Frances Kaczmarek', 0, 22), ('December 21, 1955', 31, 48), ('an American actress', 53, 72), ('the character', 104, 117), ('the television series', 129, 150), ('Malcolm in the Middle', 151, 172), ('(2000–06', 173, 181), ('a three-time Golden Globe', 197, 222), ('seven-time Emmy Award nominee', 227, 256)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NN', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'NNP', '-RRB-', '.', 'NNP', 'VBZ', 'DT', 'CD', 'HYPH', 'NN', 'NNP', 'NNP', 'CC', 'CD', 'HYPH', 'NN', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

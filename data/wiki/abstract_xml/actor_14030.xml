@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jan Miner</title>
+<link/>https://en.wikipedia.org/wiki/Jan_Miner
+<annotated>0</annotated>
+<originalabstract>Jan Miner (October 15, 1917 – February 15, 2004) was an American actress best known for her role as the character "Madge" the manicurist in Palmolive
+dish-washing detergent television commercials beginning in the 1960s.</originalabstract>
+<abstract>Jan_Miner ( October_15_,_1917 – February_15_,_2004 ) was an_American_actress best_known for her_role as the_character_"_Madge " the_manicurist in Palmolive_dish-washing_detergent_television_commercials beginning in the_1960s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jan'), (4, 'Miner'), (10, '('), (11, 'October'), (19, '15'), (21, ','), (23, '1917'), (28, '–'), (30, 'February'), (39, '15'), (41, ','), (43, '2004'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actress'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'her'), (92, 'role'), (97, 'as'), (100, 'the'), (104, 'character'), (114, '"'), (115, 'Madge'), (120, '"'), (122, 'the'), (126, 'manicurist'), (137, 'in'), (140, 'Palmolive'), (150, 'dish-washing'), (163, 'detergent'), (173, 'television'), (184, 'commercials'), (196, 'beginning'), (206, 'in'), (209, 'the'), (213, '1960s'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jan Miner',0, 9), ('October 15, 1917',11, 27), ('February 15, 2004',30, 47), ('an American actress',53, 72), ('best known',73, 83), ('her role',88, 96), ('the character "Madge',100, 120), ('the manicurist',122, 136), ('Palmolive dish-washing detergent television commercials',140, 195), ('the 1960s',209, 218)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', '``', 'NNP', '\'\'', 'DT', 'NN', 'IN', 'NNP', 'JJ', 'NN', 'NN', 'NNS', 'VBG', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jan'), (4, 'Miner'), (10, '('), (11, 'October'), (19, '15'), (21, ','), (23, '1917'), (28, '–'), (30, 'February'), (39, '15'), (41, ','), (43, '2004'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actress'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'her'), (92, 'role'), (97, 'as'), (100, 'the'), (104, 'character'), (114, '"'), (115, 'Madge'), (120, '"'), (122, 'the'), (126, 'manicurist'), (137, 'in'), (140, 'Palmolive'), (150, 'dish'), (154, '-'), (155, 'washing'), (163, 'detergent'), (173, 'television'), (184, 'commercials'), (196, 'beginning'), (206, 'in'), (209, 'the'), (213, '1960s'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Jan Miner', 0, 9), ('October 15, 1917', 11, 27), ('February 15, 2004', 30, 47), ('an American actress', 53, 72), ('her role', 88, 96), ('the character', 100, 113), ('"Madge" the manicurist', 114, 136), ('Palmolive', 140, 149), ('dish-washing detergent television commercials', 150, 195), ('the 1960s', 209, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', '``', 'NNP', "''", 'DT', 'NN', 'IN', 'NNP', 'NN', 'HYPH', 'NN', 'NN', 'NN', 'NNS', 'VBG', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

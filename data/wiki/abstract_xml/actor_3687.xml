@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ray Kinney</title>
+<link/>https://en.wikipedia.org/wiki/Ray_Kinney
+<annotated>0</annotated>
+<originalabstract>Ray Kinney (September 26, 1900 – February 1, 1972) was a singer, musician, composer, orchestra leader, and performer on radio, stage and screen.</originalabstract>
+<abstract>Ray_Kinney ( September_26_,_1900 – February_1_,_1972 ) was a_singer , musician , composer , orchestra_leader , and performer on radio_,_stage_and_screen .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ray'), (4, 'Kinney'), (11, '('), (12, 'September'), (22, '26'), (24, ','), (26, '1900'), (31, '–'), (33, 'February'), (42, '1'), (43, ','), (45, '1972'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'singer'), (63, ','), (65, 'musician'), (73, ','), (75, 'composer'), (83, ','), (85, 'orchestra'), (95, 'leader'), (101, ','), (103, 'and'), (107, 'performer'), (117, 'on'), (120, 'radio'), (125, ','), (127, 'stage'), (133, 'and'), (137, 'screen'), (143, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ray Kinney',0, 10), ('September 26, 1900',12, 30), ('February 1, 1972',33, 49), ('a singer',55, 63), ('orchestra leader',85, 101), ('radio, stage and screen',120, 143)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ray'), (4, 'Kinney'), (11, '('), (12, 'September'), (22, '26'), (24, ','), (26, '1900'), (31, '–'), (33, 'February'), (42, '1'), (43, ','), (45, '1972'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'singer'), (63, ','), (65, 'musician'), (73, ','), (75, 'composer'), (83, ','), (85, 'orchestra'), (95, 'leader'), (101, ','), (103, 'and'), (107, 'performer'), (117, 'on'), (120, 'radio'), (125, ','), (127, 'stage'), (133, 'and'), (137, 'screen'), (143, '.')])</spacy_tokens>
+<spacy_chunks>[('Ray Kinney', 0, 10), ('(September', 11, 21), ('September 26, 1900', 12, 30), ('February 1, 1972', 33, 49), ('a singer', 55, 63), ('musician', 65, 73), ('composer', 75, 83), ('orchestra leader', 85, 101), ('performer', 107, 116), ('screen', 137, 143)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

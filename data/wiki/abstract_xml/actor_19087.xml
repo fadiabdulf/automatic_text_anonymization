@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Clyde Cook (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Clyde_Cook_(actor)
+<annotated>0</annotated>
+<originalabstract>Clyde Wilfred Cook (16 December 1891 – 13 August 1984) was an Australian-born vaudevillian who went on to perform in Hollywood and whose career spanned the silent film era, talkies and television.</originalabstract>
+<abstract>Clyde_Wilfred_Cook ( 16_December_1891 – 13_August_1984 ) was an_Australian-born_vaudevillian who went on to_perform in Hollywood and whose_career spanned the_silent_film_era , talkies and television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Clyde'), (6, 'Wilfred'), (14, 'Cook'), (19, '('), (20, '16'), (23, 'December'), (32, '1891'), (37, '–'), (39, '13'), (42, 'August'), (49, '1984'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'Australian-born'), (78, 'vaudevillian'), (91, 'who'), (95, 'went'), (100, 'on'), (103, 'to'), (106, 'perform'), (114, 'in'), (117, 'Hollywood'), (127, 'and'), (131, 'whose'), (137, 'career'), (144, 'spanned'), (152, 'the'), (156, 'silent'), (163, 'film'), (168, 'era'), (171, ','), (173, 'talkies'), (181, 'and'), (185, 'television'), (195, '.')])</stanford_tokens>
+<opennlp_chunks>[('Clyde Wilfred Cook',0, 18), ('16 December 1891',20, 36), ('13 August 1984',39, 53), ('an Australian-born vaudevillian',59, 90), ('to perform',103, 113), ('whose career',131, 143), ('the silent film era',152, 171)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'TO', 'VB', 'IN', 'NNP', 'CC', 'WP$', 'NN', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NNS', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Clyde'), (6, 'Wilfred'), (14, 'Cook'), (19, '('), (20, '16'), (23, 'December'), (32, '1891'), (37, '–'), (39, '13'), (42, 'August'), (49, '1984'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'Australian'), (72, '-'), (73, 'born'), (78, 'vaudevillian'), (91, 'who'), (95, 'went'), (100, 'on'), (103, 'to'), (106, 'perform'), (114, 'in'), (117, 'Hollywood'), (127, 'and'), (131, 'whose'), (137, 'career'), (144, 'spanned'), (152, 'the'), (156, 'silent'), (163, 'film'), (168, 'era'), (171, ','), (173, 'talkies'), (181, 'and'), (185, 'television'), (195, '.')])</spacy_tokens>
+<spacy_chunks>[('Clyde Wilfred Cook', 0, 18), ('16 December 1891', 20, 36), ('13 August 1984', 39, 53), ('an Australian-born vaudevillian', 59, 90), ('Hollywood', 117, 126), ('whose career', 131, 143), ('the silent film era', 152, 171), ('talkies', 173, 180), ('television', 185, 195)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'WP', 'VBD', 'RP', 'TO', 'VB', 'IN', 'NNP', 'CC', 'WP$', 'NN', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NNS', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Zachary Knighton</title>
+<link/>https://en.wikipedia.org/wiki/Zachary_Knighton
+<annotated>0</annotated>
+<originalabstract>Zachary Andrew Knighton (born October 25, 1978) is an American actor, most widely known for starring as Dave Rose on the ABC comedy series Happy Endings. Prior to that, he co-starred as Dr. Bryce Varley on ABC's science fiction series FlashForward. He also starred in the FOX sitcom Weird Loners.</originalabstract>
+<abstract>Zachary_Andrew_Knighton ( born October_25_,_1978 ) is an_American_actor , most widely_known for starring as Dave_Rose on the_ABC_comedy_series_Happy_Endings . Prior to that , he co-starred as Dr._Bryce_Varley on ABC 's_science_fiction_series_FlashForward . He also starred in the_FOX_sitcom_Weird_Loners .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Zachary'), (8, 'Andrew'), (15, 'Knighton'), (24, '('), (25, 'born'), (30, 'October'), (38, '25'), (40, ','), (42, '1978'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, ','), (70, 'most'), (75, 'widely'), (82, 'known'), (88, 'for'), (92, 'starring'), (101, 'as'), (104, 'Dave'), (109, 'Rose'), (114, 'on'), (117, 'the'), (121, 'ABC'), (125, 'comedy'), (132, 'series'), (139, 'Happy'), (145, 'Endings'), (152, '.'), (154, 'Prior'), (160, 'to'), (163, 'that'), (167, ','), (169, 'he'), (172, 'co-starred'), (183, 'as'), (186, 'Dr.'), (190, 'Bryce'), (196, 'Varley'), (203, 'on'), (206, 'ABC'), (209, '\'s'), (212, 'science'), (220, 'fiction'), (228, 'series'), (235, 'FlashForward'), (247, '.'), (249, 'He'), (252, 'also'), (257, 'starred'), (265, 'in'), (268, 'the'), (272, 'FOX'), (276, 'sitcom'), (283, 'Weird'), (289, 'Loners'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Zachary Andrew Knighton',0, 23), ('October 25, 1978',30, 46), ('an American actor',51, 68), ('widely known',75, 87), ('Dave Rose',104, 113), ('the ABC comedy series Happy Endings',117, 152), ('Dr. Bryce Varley',186, 202), ('\'s science fiction series FlashForward',209, 247), ('the FOX sitcom Weird Loners',268, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'JJS', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'JJ', 'NNS', '.', 'RB', 'TO', 'DT', ',', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'NN', 'NN', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Zachary'), (8, 'Andrew'), (15, 'Knighton'), (24, '('), (25, 'born'), (30, 'October'), (38, '25'), (40, ','), (42, '1978'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, ','), (70, 'most'), (75, 'widely'), (82, 'known'), (88, 'for'), (92, 'starring'), (101, 'as'), (104, 'Dave'), (109, 'Rose'), (114, 'on'), (117, 'the'), (121, 'ABC'), (125, 'comedy'), (132, 'series'), (139, 'Happy'), (145, 'Endings'), (152, '.'), (154, 'Prior'), (160, 'to'), (163, 'that'), (167, ','), (169, 'he'), (172, 'co'), (174, '-'), (175, 'starred'), (183, 'as'), (186, 'Dr.'), (190, 'Bryce'), (196, 'Varley'), (203, 'on'), (206, 'ABC'), (209, "'s"), (212, 'science'), (220, 'fiction'), (228, 'series'), (235, 'FlashForward'), (247, '.'), (249, 'He'), (252, 'also'), (257, 'starred'), (265, 'in'), (268, 'the'), (272, 'FOX'), (276, 'sitcom'), (283, 'Weird'), (289, 'Loners'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Zachary Andrew Knighton', 0, 23), ('October 25, 1978', 30, 46), ('an American actor', 51, 68), ('Dave Rose', 104, 113), ('the ABC comedy series', 117, 138), ('Happy Endings', 139, 152), ('Dr. Bryce Varley', 186, 202), ("ABC's science fiction series FlashForward", 206, 247), ('the FOX sitcom Weird Loners', 268, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNPS', '.', 'RB', 'IN', 'DT', ',', 'PRP', 'VBZ', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'NN', 'NN', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'NN', 'JJ', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joan Valerie</title>
+<link/>https://en.wikipedia.org/wiki/Joan_Valerie
+<annotated>0</annotated>
+<originalabstract>Joan Valerie (July 15, 1911 in Rhinelander, Wisconsin - January 30, 1983 in Long Beach, California) was a Greek-American actress, who appeared mainly in B movies in the late 1930s and 1940s.</originalabstract>
+<abstract>Joan_Valerie ( July_15_,_1911 in Rhinelander , Wisconsin - January_30 , 1983 in Long_Beach , California ) was a_Greek-American_actress , who appeared mainly in B_movies in the_late_1930s_and_1940s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joan'), (5, 'Valerie'), (13, '('), (14, 'July'), (19, '15'), (21, ','), (23, '1911'), (28, 'in'), (31, 'Rhinelander'), (42, ','), (44, 'Wisconsin'), (54, '-'), (56, 'January'), (64, '30'), (66, ','), (68, '1983'), (73, 'in'), (76, 'Long'), (81, 'Beach'), (86, ','), (88, 'California'), (98, ')'), (100, 'was'), (104, 'a'), (106, 'Greek-American'), (121, 'actress'), (128, ','), (130, 'who'), (134, 'appeared'), (143, 'mainly'), (150, 'in'), (153, 'B'), (155, 'movies'), (162, 'in'), (165, 'the'), (169, 'late'), (174, '1930s'), (180, 'and'), (184, '1940s'), (189, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joan Valerie',0, 12), ('July 15, 1911',14, 27), ('January 30',56, 66), ('Long Beach',76, 86), ('a Greek-American actress',104, 128), ('B movies',153, 161), ('the late 1930s and 1940s',165, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'JJ', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'RB', 'IN', 'NN', 'NNS', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joan'), (5, 'Valerie'), (13, '('), (14, 'July'), (19, '15'), (21, ','), (23, '1911'), (28, 'in'), (31, 'Rhinelander'), (42, ','), (44, 'Wisconsin'), (54, '-'), (56, 'January'), (64, '30'), (66, ','), (68, '1983'), (73, 'in'), (76, 'Long'), (81, 'Beach'), (86, ','), (88, 'California'), (98, ')'), (100, 'was'), (104, 'a'), (106, 'Greek'), (111, '-'), (112, 'American'), (121, 'actress'), (128, ','), (130, 'who'), (134, 'appeared'), (143, 'mainly'), (150, 'in'), (153, 'B'), (155, 'movies'), (162, 'in'), (165, 'the'), (169, 'late'), (174, '1930s'), (180, 'and'), (184, '1940s'), (189, '.')])</spacy_tokens>
+<spacy_chunks>[('Joan Valerie', 0, 12), ('July 15, 1911', 14, 27), ('Rhinelander, Wisconsin', 31, 53), ('Wisconsin - January', 44, 63), ('January 30, 1983', 56, 72), ('Long Beach, California', 76, 98), ('a Greek-American actress', 104, 128), ('B movies', 153, 161), ('the late 1930s', 165, 179)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'WP', 'VBD', 'RB', 'IN', 'NNP', 'NNS', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tina Chen</title>
+<link/>https://en.wikipedia.org/wiki/Tina_Chen
+<annotated>0</annotated>
+<originalabstract>Tina Chen (Traditional Chinese: 陳婷) (November 2, 1943) is a Chinese-American stage, film, and television actress best known for her starring roles in the films Alice's Restaurant, Three Days of the Condor, and The Hawaiians.</originalabstract>
+<abstract>Tina_Chen ( Traditional_Chinese : 陳婷 ) ( November_2_,_1943 ) is a_Chinese-American_stage , film , and television_actress best_known for her_starring_roles in the_films_Alice 's_Restaurant , Three_Days of the_Condor , and The_Hawaiians .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tina'), (5, 'Chen'), (10, '('), (11, 'Traditional'), (23, 'Chinese'), (30, ':'), (32, '陳婷'), (34, ')'), (36, '('), (37, 'November'), (46, '2'), (47, ','), (49, '1943'), (53, ')'), (55, 'is'), (58, 'a'), (60, 'Chinese-American'), (77, 'stage'), (82, ','), (84, 'film'), (88, ','), (90, 'and'), (94, 'television'), (105, 'actress'), (113, 'best'), (118, 'known'), (124, 'for'), (128, 'her'), (132, 'starring'), (141, 'roles'), (147, 'in'), (150, 'the'), (154, 'films'), (160, 'Alice'), (165, '\'s'), (168, 'Restaurant'), (178, ','), (180, 'Three'), (186, 'Days'), (191, 'of'), (194, 'the'), (198, 'Condor'), (204, ','), (206, 'and'), (210, 'The'), (214, 'Hawaiians'), (223, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tina Chen',0, 9), ('Traditional Chinese',11, 30), ('November 2, 1943',37, 53), ('a Chinese-American stage',58, 82), ('television actress',94, 112), ('best known',113, 123), ('her starring roles',128, 146), ('the films Alice',150, 165), ('\'s Restaurant',165, 178), ('Three Days',180, 190), ('the Condor',194, 204), ('The Hawaiians',210, 223)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'JJ', 'NNPS', ':', 'CD', '-RRB-', '-LRB-', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'DT', 'NNS', 'NNP', 'POS', 'NNP', ',', 'CD', 'NNS', 'IN', 'DT', 'NNP', ',', 'CC', 'DT', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tina'), (5, 'Chen'), (10, '('), (11, 'Traditional'), (23, 'Chinese'), (30, ':'), (32, '陳婷'), (34, ')'), (36, '('), (37, 'November'), (46, '2'), (47, ','), (49, '1943'), (53, ')'), (55, 'is'), (58, 'a'), (60, 'Chinese'), (67, '-'), (68, 'American'), (77, 'stage'), (82, ','), (84, 'film'), (88, ','), (90, 'and'), (94, 'television'), (105, 'actress'), (113, 'best'), (118, 'known'), (124, 'for'), (128, 'her'), (132, 'starring'), (141, 'roles'), (147, 'in'), (150, 'the'), (154, 'films'), (160, 'Alice'), (165, "'s"), (168, 'Restaurant'), (178, ','), (180, 'Three'), (186, 'Days'), (191, 'of'), (194, 'the'), (198, 'Condor'), (204, ','), (206, 'and'), (210, 'The'), (214, 'Hawaiians'), (223, '.')])</spacy_tokens>
+<spacy_chunks>[('Traditional Chinese', 11, 30), ('November 2, 1943', 37, 53), ('a Chinese-American stage', 58, 82), ('television actress', 94, 112), ('her starring roles', 128, 146), ('the films', 150, 159), ("Alice's Restaurant", 160, 178), ('Three Days of the Condor', 180, 204), ('The Hawaiians', 210, 223)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'JJ', 'NNPS', ':', 'NN', '-RRB-', '-LRB-', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'DT', 'NNS', 'NNP', 'POS', 'NNP', ',', 'CD', 'NNS', 'IN', 'DT', 'NNP', ',', 'CC', 'DT', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

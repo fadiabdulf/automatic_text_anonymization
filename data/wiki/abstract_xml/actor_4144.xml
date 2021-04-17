@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alfred Lunt</title>
+<link/>https://en.wikipedia.org/wiki/Alfred_Lunt
+<annotated>0</annotated>
+<originalabstract>Alfred Davis Lunt, Jr. (August 12, 1892 – August 3, 1977) was an American stage director and actor who had a long-time professional partnership with his wife, actress Lynn Fontanne. Broadway's Lunt-Fontanne Theatre was named for them. Lunt was one of 20th century Broadway's leading male stars.</originalabstract>
+<abstract>Alfred_Davis_Lunt , Jr. ( August_12_,_1892 – August_3_,_1977 ) was an_American_stage_director and actor who had a_long-time_professional_partnership with his_wife , actress_Lynn_Fontanne . Broadway 's_Lunt-Fontanne_Theatre was_named for them . Lunt was one of 20th_century_Broadway 's_leading_male_stars .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alfred'), (7, 'Davis'), (13, 'Lunt'), (17, ','), (19, 'Jr.'), (23, '('), (24, 'August'), (31, '12'), (33, ','), (35, '1892'), (40, '–'), (42, 'August'), (49, '3'), (50, ','), (52, '1977'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'stage'), (80, 'director'), (89, 'and'), (93, 'actor'), (99, 'who'), (103, 'had'), (107, 'a'), (109, 'long-time'), (119, 'professional'), (132, 'partnership'), (144, 'with'), (149, 'his'), (153, 'wife'), (157, ','), (159, 'actress'), (167, 'Lynn'), (172, 'Fontanne'), (180, '.'), (182, 'Broadway'), (190, '\'s'), (193, 'Lunt-Fontanne'), (207, 'Theatre'), (215, 'was'), (219, 'named'), (225, 'for'), (229, 'them'), (233, '.'), (235, 'Lunt'), (240, 'was'), (244, 'one'), (248, 'of'), (251, '20th'), (256, 'century'), (264, 'Broadway'), (272, '\'s'), (275, 'leading'), (283, 'male'), (288, 'stars'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alfred Davis Lunt',0, 17), ('August 12, 1892',24, 39), ('August 3, 1977',42, 56), ('an American stage director',62, 88), ('a long-time professional partnership',107, 143), ('his wife',149, 157), ('actress Lynn Fontanne',159, 180), ('\'s Lunt-Fontanne Theatre',190, 214), ('was named',215, 224), ('20th century Broadway',251, 272), ('\'s leading male stars',272, 293)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'PRP$', 'NN', ',', 'NN', 'NNP', 'NNP', '.', 'NNP', 'POS', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'PRP', '.', 'NNP', 'VBD', 'CD', 'IN', 'JJ', 'NN', 'NNP', 'POS', 'VBG', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alfred'), (7, 'Davis'), (13, 'Lunt'), (17, ','), (19, 'Jr.'), (23, '('), (24, 'August'), (31, '12'), (33, ','), (35, '1892'), (40, '–'), (42, 'August'), (49, '3'), (50, ','), (52, '1977'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'stage'), (80, 'director'), (89, 'and'), (93, 'actor'), (99, 'who'), (103, 'had'), (107, 'a'), (109, 'long'), (113, '-'), (114, 'time'), (119, 'professional'), (132, 'partnership'), (144, 'with'), (149, 'his'), (153, 'wife'), (157, ','), (159, 'actress'), (167, 'Lynn'), (172, 'Fontanne'), (180, '.'), (182, 'Broadway'), (190, "'s"), (193, 'Lunt'), (197, '-'), (198, 'Fontanne'), (207, 'Theatre'), (215, 'was'), (219, 'named'), (225, 'for'), (229, 'them'), (233, '.'), (235, 'Lunt'), (240, 'was'), (244, 'one'), (248, 'of'), (251, '20th'), (256, 'century'), (264, 'Broadway'), (272, "'s"), (275, 'leading'), (283, 'male'), (288, 'stars'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('Alfred Davis Lunt', 0, 17), ('Jr. (August', 19, 30), ('August 12, 1892', 24, 39), ('August 3, 1977', 42, 56), ('an American stage director', 62, 88), ('a long-time professional partnership', 107, 143), ('his wife', 149, 157), ('actress Lynn Fontanne', 159, 180), ("Broadway's Lunt-Fontanne Theatre", 182, 214), ("20th century Broadway's leading male stars", 251, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'HYPH', 'NN', 'JJ', 'NN', 'IN', 'PRP$', 'NN', ',', 'NN', 'NNP', 'NNP', '.', 'NNP', 'POS', 'NNP', 'HYPH', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'PRP', '.', 'NNP', 'VBD', 'CD', 'IN', 'JJ', 'NN', 'NNP', 'POS', 'JJ', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

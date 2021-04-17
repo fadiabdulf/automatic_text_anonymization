@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ian Bohen</title>
+<link/>https://en.wikipedia.org/wiki/Ian_Bohen
+<annotated>0</annotated>
+<originalabstract>Ian Stuart Bohen (born September 24, 1976) is an American actor best known for his recurring role as Peter Hale in MTV's Teen Wolf. Bohen also appeared in a recurring role as Roy Hazelitt, who vied for the same woman as Don Draper, in AMC's Mad Men.</originalabstract>
+<abstract>Ian_Stuart_Bohen ( born September_24_,_1976 ) is an_American_actor best_known for his_recurring_role as Peter_Hale in MTV 's_Teen_Wolf . Bohen also appeared in a_recurring_role as Roy_Hazelitt , who vied for the_same_woman as Don_Draper , in AMC 's_Mad_Men .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ian'), (4, 'Stuart'), (11, 'Bohen'), (17, '('), (18, 'born'), (23, 'September'), (33, '24'), (35, ','), (37, '1976'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'his'), (83, 'recurring'), (93, 'role'), (98, 'as'), (101, 'Peter'), (107, 'Hale'), (112, 'in'), (115, 'MTV'), (118, '\'s'), (121, 'Teen'), (126, 'Wolf'), (130, '.'), (132, 'Bohen'), (138, 'also'), (143, 'appeared'), (152, 'in'), (155, 'a'), (157, 'recurring'), (167, 'role'), (172, 'as'), (175, 'Roy'), (179, 'Hazelitt'), (187, ','), (189, 'who'), (193, 'vied'), (198, 'for'), (202, 'the'), (206, 'same'), (211, 'woman'), (217, 'as'), (220, 'Don'), (224, 'Draper'), (230, ','), (232, 'in'), (235, 'AMC'), (238, '\'s'), (241, 'Mad'), (245, 'Men'), (248, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ian Stuart Bohen',0, 16), ('September 24, 1976',23, 41), ('an American actor',46, 63), ('best known',64, 74), ('his recurring role',79, 97), ('Peter Hale',101, 111), ('\'s Teen Wolf',118, 130), ('a recurring role',155, 171), ('Roy Hazelitt',175, 187), ('the same woman',202, 216), ('Don Draper',220, 230), ('\'s Mad Men',238, 248)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.', 'NNP', 'RB', 'VBD', 'IN', 'DT', 'VBG', 'NN', 'IN', 'NNP', 'NNP', ',', 'WP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ian'), (4, 'Stuart'), (11, 'Bohen'), (17, '('), (18, 'born'), (23, 'September'), (33, '24'), (35, ','), (37, '1976'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'his'), (83, 'recurring'), (93, 'role'), (98, 'as'), (101, 'Peter'), (107, 'Hale'), (112, 'in'), (115, 'MTV'), (118, "'s"), (121, 'Teen'), (126, 'Wolf'), (130, '.'), (132, 'Bohen'), (138, 'also'), (143, 'appeared'), (152, 'in'), (155, 'a'), (157, 'recurring'), (167, 'role'), (172, 'as'), (175, 'Roy'), (179, 'Hazelitt'), (187, ','), (189, 'who'), (193, 'vied'), (198, 'for'), (202, 'the'), (206, 'same'), (211, 'woman'), (217, 'as'), (220, 'Don'), (224, 'Draper'), (230, ','), (232, 'in'), (235, 'AMC'), (238, "'s"), (241, 'Mad'), (245, 'Men'), (248, '.')])</spacy_tokens>
+<spacy_chunks>[('Ian Stuart Bohen', 0, 16), ('September 24, 1976', 23, 41), ('an American actor', 46, 63), ('his recurring role', 79, 97), ('Peter Hale', 101, 111), ("MTV's Teen Wolf", 115, 130), ('a recurring role', 155, 171), ('Roy Hazelitt', 175, 187), ('the same woman', 202, 216), ('Don Draper', 220, 230), ("AMC's Mad Men", 235, 248)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.', 'NNP', 'RB', 'VBD', 'IN', 'DT', 'VBG', 'NN', 'IN', 'NNP', 'NNP', ',', 'WP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

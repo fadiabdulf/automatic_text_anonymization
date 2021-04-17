@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lenny Baker</title>
+<link/>https://en.wikipedia.org/wiki/Lenny_Baker
+<annotated>0</annotated>
+<originalabstract>Leonard Joel "Lenny" Baker (January 17, 1945 - April 12, 1982) was an American actor of stage, film, and screen, best known for his Tony Award-winning performance in I Love My Wife in 1977.</originalabstract>
+<abstract>Leonard_Joel_"_Lenny_"_Baker ( January_17_,_1945 - April_12_,_1982 ) was an_American_actor of stage , film , and screen , best_known for his_Tony_Award-winning_performance in I Love My_Wife in 1977 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leonard'), (8, 'Joel'), (13, '"'), (14, 'Lenny'), (19, '"'), (21, 'Baker'), (27, '('), (28, 'January'), (36, '17'), (38, ','), (40, '1945'), (45, '-'), (47, 'April'), (53, '12'), (55, ','), (57, '1982'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'American'), (79, 'actor'), (85, 'of'), (88, 'stage'), (93, ','), (95, 'film'), (99, ','), (101, 'and'), (105, 'screen'), (111, ','), (113, 'best'), (118, 'known'), (124, 'for'), (128, 'his'), (132, 'Tony'), (137, 'Award-winning'), (151, 'performance'), (163, 'in'), (166, 'I'), (168, 'Love'), (173, 'My'), (176, 'Wife'), (181, 'in'), (184, '1977'), (188, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leonard Joel "Lenny" Baker',0, 26), ('January 17, 1945',28, 44), ('April 12, 1982',47, 61), ('an American actor',67, 84), ('best known',113, 123), ('his Tony Award-winning performance',128, 162), ('My Wife',173, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNP', 'JJ', 'NN', 'IN', 'PRP', 'NNP', 'PRP$', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leonard'), (8, 'Joel'), (13, '"'), (14, 'Lenny'), (19, '"'), (21, 'Baker'), (27, '('), (28, 'January'), (36, '17'), (38, ','), (40, '1945'), (45, '-'), (47, 'April'), (53, '12'), (55, ','), (57, '1982'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'American'), (79, 'actor'), (85, 'of'), (88, 'stage'), (93, ','), (95, 'film'), (99, ','), (101, 'and'), (105, 'screen'), (111, ','), (113, 'best'), (118, 'known'), (124, 'for'), (128, 'his'), (132, 'Tony'), (137, 'Award'), (142, '-'), (143, 'winning'), (151, 'performance'), (163, 'in'), (166, 'I'), (168, 'Love'), (173, 'My'), (176, 'Wife'), (181, 'in'), (184, '1977'), (188, '.')])</spacy_tokens>
+<spacy_chunks>[('Leonard Joel "Lenny" Baker', 0, 26), ('January 17, 1945', 28, 44), ('April 12, 1982', 47, 61), ('an American actor', 67, 84), ('screen', 105, 111), ('his Tony Award-winning performance', 128, 162), ('I Love My Wife', 166, 180)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNP', 'NNP', 'HYPH', 'VBG', 'NN', 'IN', 'PRP', 'VBP', 'PRP$', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

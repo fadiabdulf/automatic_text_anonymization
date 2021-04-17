@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Thomas F. Duffy</title>
+<link/>https://en.wikipedia.org/wiki/Thomas_F._Duffy
+<annotated>0</annotated>
+<originalabstract>Thomas Francis Duffy (born November 9, 1955) is an American character actor, writer, musician, and athlete. He has appeared as the sadistic rapist Charles Wilson in Death Wish II, the paleontologist Dr. Robert Burke in The Lost World: Jurassic Park, and as the football-loving dad in Varsity Blues.</originalabstract>
+<abstract>Thomas_Francis_Duffy ( born November_9_,_1955 ) is an_American_character_actor , writer , musician , and athlete . He has_appeared as the_sadistic_rapist_Charles_Wilson in Death_Wish_II , the_paleontologist_Dr._Robert_Burke in The_Lost_World : Jurassic_Park , and as the_football-loving_dad in Varsity_Blues .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Thomas'), (7, 'Francis'), (15, 'Duffy'), (21, '('), (22, 'born'), (27, 'November'), (36, '9'), (37, ','), (39, '1955'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'character'), (70, 'actor'), (75, ','), (77, 'writer'), (83, ','), (85, 'musician'), (93, ','), (95, 'and'), (99, 'athlete'), (106, '.'), (108, 'He'), (111, 'has'), (115, 'appeared'), (124, 'as'), (127, 'the'), (131, 'sadistic'), (140, 'rapist'), (147, 'Charles'), (155, 'Wilson'), (162, 'in'), (165, 'Death'), (171, 'Wish'), (176, 'II'), (178, ','), (180, 'the'), (184, 'paleontologist'), (199, 'Dr.'), (203, 'Robert'), (210, 'Burke'), (216, 'in'), (219, 'The'), (223, 'Lost'), (228, 'World'), (233, ':'), (235, 'Jurassic'), (244, 'Park'), (248, ','), (250, 'and'), (254, 'as'), (257, 'the'), (261, 'football-loving'), (277, 'dad'), (281, 'in'), (284, 'Varsity'), (292, 'Blues'), (297, '.')])</stanford_tokens>
+<opennlp_chunks>[('Thomas Francis Duffy',0, 20), ('November 9, 1955',27, 43), ('an American character actor',48, 75), ('has appeared',111, 123), ('the sadistic rapist Charles Wilson',127, 161), ('Death Wish II',165, 178), ('the paleontologist Dr. Robert Burke',180, 215), ('The Lost World',219, 233), ('Jurassic Park',235, 248), ('the football-loving dad',257, 280), ('Varsity Blues',284, 297)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NN', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', ',', 'DT', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ':', 'JJ', 'NN', ',', 'CC', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Thomas'), (7, 'Francis'), (15, 'Duffy'), (21, '('), (22, 'born'), (27, 'November'), (36, '9'), (37, ','), (39, '1955'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'character'), (70, 'actor'), (75, ','), (77, 'writer'), (83, ','), (85, 'musician'), (93, ','), (95, 'and'), (99, 'athlete'), (106, '.'), (108, 'He'), (111, 'has'), (115, 'appeared'), (124, 'as'), (127, 'the'), (131, 'sadistic'), (140, 'rapist'), (147, 'Charles'), (155, 'Wilson'), (162, 'in'), (165, 'Death'), (171, 'Wish'), (176, 'II'), (178, ','), (180, 'the'), (184, 'paleontologist'), (199, 'Dr.'), (203, 'Robert'), (210, 'Burke'), (216, 'in'), (219, 'The'), (223, 'Lost'), (228, 'World'), (233, ':'), (235, 'Jurassic'), (244, 'Park'), (248, ','), (250, 'and'), (254, 'as'), (257, 'the'), (261, 'football'), (269, '-'), (270, 'loving'), (277, 'dad'), (281, 'in'), (284, 'Varsity'), (292, 'Blues'), (297, '.')])</spacy_tokens>
+<spacy_chunks>[('Thomas Francis Duffy', 0, 20), ('November 9, 1955', 27, 43), ('an American character actor', 48, 75), ('writer', 77, 83), ('musician', 85, 93), ('athlete', 99, 106), ('the sadistic rapist', 127, 146), ('Charles Wilson', 147, 161), ('Death Wish II', 165, 178), ('the paleontologist', 180, 198), ('Dr. Robert Burke', 199, 215), ('The Lost World: Jurassic Park', 219, 248), ('the football-loving dad', 257, 280), ('Varsity Blues', 284, 297)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', ',', 'DT', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ':', 'NNP', 'NNP', ',', 'CC', 'IN', 'DT', 'NN', 'HYPH', 'VBG', 'NN', 'IN', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

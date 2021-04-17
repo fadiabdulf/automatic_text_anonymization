@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tina Holmes</title>
+<link/>https://en.wikipedia.org/wiki/Tina_Holmes
+<annotated>0</annotated>
+<originalabstract>Tina Holmes (born July 13, 1973 in New York City, New York) is an American television and film actress.</originalabstract>
+<abstract>Tina_Holmes ( born July_13_,_1973 in New_York_City , New_York ) is an_American_television_and_film_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tina'), (5, 'Holmes'), (12, '('), (13, 'born'), (18, 'July'), (23, '13'), (25, ','), (27, '1973'), (32, 'in'), (35, 'New'), (39, 'York'), (44, 'City'), (48, ','), (50, 'New'), (54, 'York'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'American'), (75, 'television'), (86, 'and'), (90, 'film'), (95, 'actress'), (102, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tina Holmes',0, 11), ('July 13, 1973',18, 31), ('New York City',35, 48), ('New York',50, 58), ('an American television and film actress',63, 102)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tina'), (5, 'Holmes'), (12, '('), (13, 'born'), (18, 'July'), (23, '13'), (25, ','), (27, '1973'), (32, 'in'), (35, 'New'), (39, 'York'), (44, 'City'), (48, ','), (50, 'New'), (54, 'York'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'American'), (75, 'television'), (86, 'and'), (90, 'film'), (95, 'actress'), (102, '.')])</spacy_tokens>
+<spacy_chunks>[('Tina Holmes', 0, 11), ('July 13, 1973', 18, 31), ('New York City', 35, 48), ('an American television and film actress', 63, 102)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

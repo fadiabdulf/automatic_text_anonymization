@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Antonin Artaud</title>
+<link/>https://en.wikipedia.org/wiki/Antonin_Artaud
+<annotated>0</annotated>
+<originalabstract>Antoine Marie Joseph Artaud, better known as Antonin Artaud (French: [aʁto]; 4 September 1896 – 4 March 1948), was a French dramatist, poet, essayist, actor, and theatre director, widely recognized as one of the major figures of twentieth-century theatre and the  European avant-garde.</originalabstract>
+<abstract>Antoine_Marie_Joseph_Artaud , better_known as Antonin_Artaud ( French : [_aʁto_] ; 4_September_1896 – 4_March_1948 ) , was a_French_dramatist , poet , essayist , actor , and theatre_director , widely_recognized as one of the_major_figures of twentieth-century_theatre and the_European_avant-garde .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Antoine'), (8, 'Marie'), (14, 'Joseph'), (21, 'Artaud'), (27, ','), (29, 'better'), (36, 'known'), (42, 'as'), (45, 'Antonin'), (53, 'Artaud'), (60, '('), (61, 'French'), (67, ':'), (69, '['), (70, 'aʁto'), (74, ']'), (75, ';'), (77, '4'), (79, 'September'), (89, '1896'), (94, '–'), (96, '4'), (98, 'March'), (104, '1948'), (108, ')'), (109, ','), (111, 'was'), (115, 'a'), (117, 'French'), (124, 'dramatist'), (133, ','), (135, 'poet'), (139, ','), (141, 'essayist'), (149, ','), (151, 'actor'), (156, ','), (158, 'and'), (162, 'theatre'), (170, 'director'), (178, ','), (180, 'widely'), (187, 'recognized'), (198, 'as'), (201, 'one'), (205, 'of'), (208, 'the'), (212, 'major'), (218, 'figures'), (226, 'of'), (229, 'twentieth-century'), (247, 'theatre'), (255, 'and'), (259, 'the'), (264, 'European'), (273, 'avant-garde'), (284, '.')])</stanford_tokens>
+<opennlp_chunks>[('Antoine Marie Joseph Artaud',0, 27), ('better known',29, 41), ('Antonin Artaud',45, 59), ('[aʁto]',69, 75), ('4 September 1896',77, 93), ('4 March 1948',96, 108), ('a French dramatist',115, 133), ('theatre director',162, 178), ('widely recognized',180, 197), ('the major figures',208, 225), ('twentieth-century theatre',229, 254), ('the  European avant-garde',259, 284)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NN', '-RRB-', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'CD', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'JJ', 'NN', 'CC', 'DT', 'JJ', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Antoine'), (8, 'Marie'), (14, 'Joseph'), (21, 'Artaud'), (27, ','), (29, 'better'), (36, 'known'), (42, 'as'), (45, 'Antonin'), (53, 'Artaud'), (60, '('), (61, 'French'), (67, ':'), (69, '['), (70, 'aʁto'), (74, ']'), (75, ';'), (77, '4'), (79, 'September'), (89, '1896'), (94, '–'), (96, '4'), (98, 'March'), (104, '1948'), (108, ')'), (109, ','), (111, 'was'), (115, 'a'), (117, 'French'), (124, 'dramatist'), (133, ','), (135, 'poet'), (139, ','), (141, 'essayist'), (149, ','), (151, 'actor'), (156, ','), (158, 'and'), (162, 'theatre'), (170, 'director'), (178, ','), (180, 'widely'), (187, 'recognized'), (198, 'as'), (201, 'one'), (205, 'of'), (208, 'the'), (212, 'major'), (218, 'figures'), (226, 'of'), (229, 'twentieth'), (238, '-'), (239, 'century'), (247, 'theatre'), (255, 'and'), (259, 'the'), (264, 'European'), (273, 'avant'), (278, '-'), (279, 'garde'), (284, '.')])</spacy_tokens>
+<spacy_chunks>[('Antoine Marie Joseph Artaud', 0, 27), ('Antonin Artaud', 45, 59), ('(French', 60, 67), ('4 September 1896', 77, 93), ('4 March 1948', 96, 108), ('a French dramatist', 115, 133), ('essayist', 141, 149), ('theatre director', 162, 178), ('the major figures', 208, 225), ('Twentieth-century theatre', 229, 254), ('Theatre and', 247, 258), ('Avant-garde', 273, 284)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', ',', 'RBR', 'VBN', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NNS', '-RRB-', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'CD', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'JJ', 'HYPH', 'NN', 'NN', 'CC', 'DT', 'JJ', 'FW', 'HYPH', 'FW', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

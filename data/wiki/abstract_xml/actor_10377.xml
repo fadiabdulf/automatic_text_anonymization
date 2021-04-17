@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Viola Allen</title>
+<link/>https://en.wikipedia.org/wiki/Viola_Allen
+<annotated>0</annotated>
+<originalabstract>Viola Emily Allen (October 27, 1867 – May 9, 1948) was an American stage actress who played leading roles in Shakespeare and other plays, including many original plays.  She starred in over two dozen Broadway productions from 1885 to 1916.  Beginning in 1915, she appeared in three silent films.</originalabstract>
+<abstract>Viola_Emily_Allen ( October_27_,_1867 – May_9_,_1948 ) was an_American_stage_actress who played_leading roles in Shakespeare and other_plays , including many_original_plays . She starred in over_two_dozen_Broadway_productions from 1885 to 1916 . Beginning in 1915 , she appeared in three_silent_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Viola'), (6, 'Emily'), (12, 'Allen'), (18, '('), (19, 'October'), (27, '27'), (29, ','), (31, '1867'), (36, '–'), (38, 'May'), (42, '9'), (43, ','), (45, '1948'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'stage'), (73, 'actress'), (81, 'who'), (85, 'played'), (92, 'leading'), (100, 'roles'), (106, 'in'), (109, 'Shakespeare'), (121, 'and'), (125, 'other'), (131, 'plays'), (136, ','), (138, 'including'), (148, 'many'), (153, 'original'), (162, 'plays'), (167, '.'), (170, 'She'), (174, 'starred'), (182, 'in'), (185, 'over'), (190, 'two'), (194, 'dozen'), (200, 'Broadway'), (209, 'productions'), (221, 'from'), (226, '1885'), (231, 'to'), (234, '1916'), (238, '.'), (241, 'Beginning'), (251, 'in'), (254, '1915'), (258, ','), (260, 'she'), (264, 'appeared'), (273, 'in'), (276, 'three'), (282, 'silent'), (289, 'films'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Viola Emily Allen',0, 17), ('October 27, 1867',19, 35), ('May 9, 1948',38, 49), ('an American stage actress',55, 80), ('played leading',85, 99), ('other plays',125, 136), ('many original plays',148, 167), ('over two dozen Broadway productions',185, 220), ('three silent films',276, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'VBG', 'NNS', 'IN', 'NNP', 'CC', 'JJ', 'NNS', ',', 'VBG', 'JJ', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NN', 'NNP', 'NNS', 'IN', 'NNP', 'TO', 'CD', '.', 'VBG', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'CD', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Viola'), (6, 'Emily'), (12, 'Allen'), (18, '('), (19, 'October'), (27, '27'), (29, ','), (31, '1867'), (36, '–'), (38, 'May'), (42, '9'), (43, ','), (45, '1948'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'stage'), (73, 'actress'), (81, 'who'), (85, 'played'), (92, 'leading'), (100, 'roles'), (106, 'in'), (109, 'Shakespeare'), (121, 'and'), (125, 'other'), (131, 'plays'), (136, ','), (138, 'including'), (148, 'many'), (153, 'original'), (162, 'plays'), (167, '.'), (170, 'She'), (174, 'starred'), (182, 'in'), (185, 'over'), (190, 'two'), (194, 'dozen'), (200, 'Broadway'), (209, 'productions'), (221, 'from'), (226, '1885'), (231, 'to'), (234, '1916'), (238, '.'), (241, 'Beginning'), (251, 'in'), (254, '1915'), (258, ','), (260, 'she'), (264, 'appeared'), (273, 'in'), (276, 'three'), (282, 'silent'), (289, 'films'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Viola Emily Allen', 0, 17), ('(October', 18, 26), ('October 27, 1867', 19, 35), ('May 9, 1948', 38, 49), ('an American stage actress', 55, 80), ('leading roles', 92, 105), ('Shakespeare', 109, 120), ('other plays', 125, 136), ('many original plays', 148, 167), ('over two dozen Broadway productions', 185, 220), ('three silent films', 276, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'VBG', 'NNS', 'IN', 'NNP', 'CC', 'JJ', 'NNS', ',', 'VBG', 'JJ', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'RB', 'IN', 'CD', 'NN', 'NNP', 'NNS', 'IN', 'CD', 'IN', 'CD', '.', 'VBG', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'CD', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

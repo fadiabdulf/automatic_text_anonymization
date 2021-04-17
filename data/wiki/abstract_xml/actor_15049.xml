@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rhea Seehorn</title>
+<link/>https://en.wikipedia.org/wiki/Rhea_Seehorn
+<annotated>0</annotated>
+<originalabstract>Rhea Seehorn (; born May 12, 1972) is an American actress known for playing Kim Wexler in Better Call Saul. She is also known for prior roles in NBC's Whitney, ABC's I'm With Her and TNT's Franklin  Bash.</originalabstract>
+<abstract>Rhea_Seehorn ( ; born May_12_,_1972 ) is an_American_actress known for playing Kim_Wexler in Better_Call_Saul . She is_also_known for prior_roles in NBC 's_Whitney , ABC 's_I 'm With Her_and_TNT 's_Franklin_ .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rhea'), (5, 'Seehorn'), (13, '('), (14, ';'), (16, 'born'), (21, 'May'), (25, '12'), (27, ','), (29, '1972'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (58, 'known'), (64, 'for'), (68, 'playing'), (76, 'Kim'), (80, 'Wexler'), (87, 'in'), (90, 'Better'), (97, 'Call'), (102, 'Saul'), (106, '.'), (108, 'She'), (112, 'is'), (115, 'also'), (120, 'known'), (126, 'for'), (130, 'prior'), (136, 'roles'), (142, 'in'), (145, 'NBC'), (148, '\'s'), (151, 'Whitney'), (158, ','), (160, 'ABC'), (163, '\'s'), (166, 'I'), (167, '\'m'), (170, 'With'), (175, 'Her'), (179, 'and'), (183, 'TNT'), (186, '\'s'), (189, 'Franklin'), (198, ''), (200, 'Bash'), (204, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rhea Seehorn',0, 12), ('May 12, 1972',21, 33), ('an American actress',38, 57), ('Kim Wexler',76, 86), ('Better Call Saul',90, 106), ('is also known',112, 125), ('prior roles',130, 141), ('\'s Whitney',148, 158), ('\'s I',163, 167), ('Her and TNT',175, 186), ('\'s Franklin  Bash',186, 204)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'POS', 'NNP', ',', 'NNP', 'POS', 'PRP', 'VBP', 'IN', 'PRP$', 'CC', 'NNP', 'POS', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rhea'), (5, 'Seehorn'), (13, '(;'), (16, 'born'), (21, 'May'), (25, '12'), (27, ','), (29, '1972'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (58, 'known'), (64, 'for'), (68, 'playing'), (76, 'Kim'), (80, 'Wexler'), (87, 'in'), (90, 'Better'), (97, 'Call'), (102, 'Saul'), (106, '.'), (108, 'She'), (112, 'is'), (115, 'also'), (120, 'known'), (126, 'for'), (130, 'prior'), (136, 'roles'), (142, 'in'), (145, 'NBC'), (148, "'s"), (151, 'Whitney'), (158, ','), (160, 'ABC'), (163, "'s"), (166, 'I'), (167, "'m"), (170, 'With'), (175, 'Her'), (179, 'and'), (183, 'TNT'), (186, "'s"), (189, 'Franklin'), (199, 'Bash'), (203, '.')])</spacy_tokens>
+<spacy_chunks>[('Rhea Seehorn (;', 0, 15), ('May 12, 1972', 21, 33), ('an American actress', 38, 57), ('Kim Wexler', 76, 86), ('Better Call Saul', 90, 106), ('prior roles', 130, 141), ("NBC's Whitney", 145, 158), ("ABC's I", 160, 167), ("I'm with Her", 166, 178), ("Her and TNT's Franklin  Bash", 175, 203)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NN', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'POS', 'NNP', ',', 'NNP', 'POS', 'PRP', 'VBP', 'IN', 'PRP', 'CC', 'NNP', 'POS', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

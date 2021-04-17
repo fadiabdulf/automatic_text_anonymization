@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Edmon Ryan</title>
+<link/>https://en.wikipedia.org/wiki/Edmon_Ryan
+<annotated>0</annotated>
+<originalabstract>Edmon Ryan (June 5, 1905 — August 4, 1984) was an American theatre, film and television actor. A native of Kentucky, Edmon Ryan Mossbarger was the son of Isham Edward Mossbarger (1864–1936) and Pearl Shelton Mossbarger (1882–1976), He was born in Cecilia and died in Louisville.</originalabstract>
+<abstract>Edmon_Ryan ( June_5_,_1905 — August_4_,_1984 ) was an_American_theatre_,_film_and_television_actor . A_native of Kentucky , Edmon_Ryan_Mossbarger was the_son of Isham_Edward_Mossbarger_(_1864 – 1936_) and Pearl_Shelton_Mossbarger_(_1882 – 1976_) , He was_born in Cecilia and died in Louisville .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edmon'), (6, 'Ryan'), (11, '('), (12, 'June'), (17, '5'), (18, ','), (20, '1905'), (25, '—'), (27, 'August'), (34, '4'), (35, ','), (37, '1984'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'American'), (59, 'theatre'), (66, ','), (68, 'film'), (73, 'and'), (77, 'television'), (88, 'actor'), (93, '.'), (95, 'A'), (97, 'native'), (104, 'of'), (107, 'Kentucky'), (115, ','), (117, 'Edmon'), (123, 'Ryan'), (128, 'Mossbarger'), (139, 'was'), (143, 'the'), (147, 'son'), (151, 'of'), (154, 'Isham'), (160, 'Edward'), (167, 'Mossbarger'), (178, '('), (179, '1864'), (183, '–'), (184, '1936'), (188, ')'), (190, 'and'), (194, 'Pearl'), (200, 'Shelton'), (208, 'Mossbarger'), (219, '('), (220, '1882'), (224, '–'), (225, '1976'), (229, ')'), (230, ','), (232, 'He'), (235, 'was'), (239, 'born'), (244, 'in'), (247, 'Cecilia'), (255, 'and'), (259, 'died'), (264, 'in'), (267, 'Louisville'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edmon Ryan',0, 10), ('June 5, 1905',12, 24), ('August 4, 1984',27, 41), ('an American theatre, film and television actor',47, 93), ('A native',95, 103), ('Edmon Ryan Mossbarger',117, 138), ('the son',143, 150), ('Isham Edward Mossbarger (1864',154, 183), ('1936)',184, 189), ('Pearl Shelton Mossbarger (1882',194, 224), ('1976)',225, 230), ('was born',235, 243)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edmon'), (6, 'Ryan'), (11, '('), (12, 'June'), (17, '5'), (18, ','), (20, '1905'), (25, '—'), (27, 'August'), (34, '4'), (35, ','), (37, '1984'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'American'), (59, 'theatre'), (66, ','), (68, 'film'), (73, 'and'), (77, 'television'), (88, 'actor'), (93, '.'), (95, 'A'), (97, 'native'), (104, 'of'), (107, 'Kentucky'), (115, ','), (117, 'Edmon'), (123, 'Ryan'), (128, 'Mossbarger'), (139, 'was'), (143, 'the'), (147, 'son'), (151, 'of'), (154, 'Isham'), (160, 'Edward'), (167, 'Mossbarger'), (178, '('), (179, '1864–1936'), (188, ')'), (190, 'and'), (194, 'Pearl'), (200, 'Shelton'), (208, 'Mossbarger'), (219, '('), (220, '1882–1976'), (229, ')'), (230, ','), (232, 'He'), (235, 'was'), (239, 'born'), (244, 'in'), (247, 'Cecilia'), (255, 'and'), (259, 'died'), (264, 'in'), (267, 'Louisville'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Edmon Ryan', 0, 10), ('June 5, 1905', 12, 24), ('August 4, 1984', 27, 41), ('an American theatre, film and television actor', 47, 93), ('Kentucky', 107, 115), ('Edmon Ryan Mossbarger', 117, 138), ('the son', 143, 150), ('Isham Edward Mossbarger', 154, 177), ('Pearl Shelton Mossbarger', 194, 218), ('Cecilia', 247, 254), ('Louisville', 267, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

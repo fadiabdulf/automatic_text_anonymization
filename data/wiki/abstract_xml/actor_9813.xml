@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sami Frey</title>
+<link/>https://en.wikipedia.org/wiki/Sami_Frey
+<annotated>0</annotated>
+<originalabstract>Sami Frey (born Samuel Frei on 13 October 1937) is a French actor of Polish Jewish descent. Among the films he starred in are En compagnie d'Antonin Artaud (1993), in which he portrays French poet and playwright Antonin Artaud, and Bande à part (1964) by Jean-Luc Godard.</originalabstract>
+<abstract>Sami_Frey ( born Samuel_Frei on 13_October_1937 ) is a_French_actor of Polish_Jewish_descent . Among the_films he starred in are En_compagnie_d'Antonin_Artaud_(_1993_) , in which he portrays French_poet_and_playwright_Antonin_Artaud , and Bande_à_part ( 1964_) by Jean-Luc_Godard .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sami'), (5, 'Frey'), (10, '('), (11, 'born'), (16, 'Samuel'), (23, 'Frei'), (28, 'on'), (31, '13'), (34, 'October'), (42, '1937'), (46, ')'), (48, 'is'), (51, 'a'), (53, 'French'), (60, 'actor'), (66, 'of'), (69, 'Polish'), (76, 'Jewish'), (83, 'descent'), (90, '.'), (92, 'Among'), (98, 'the'), (102, 'films'), (108, 'he'), (111, 'starred'), (119, 'in'), (122, 'are'), (126, 'En'), (129, 'compagnie'), (139, 'd\'Antonin'), (149, 'Artaud'), (156, '('), (157, '1993'), (161, ')'), (162, ','), (164, 'in'), (167, 'which'), (173, 'he'), (176, 'portrays'), (185, 'French'), (192, 'poet'), (197, 'and'), (201, 'playwright'), (212, 'Antonin'), (220, 'Artaud'), (226, ','), (228, 'and'), (232, 'Bande'), (238, 'à'), (240, 'part'), (245, '('), (246, '1964'), (250, ')'), (252, 'by'), (255, 'Jean-Luc'), (264, 'Godard'), (270, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sami Frey',0, 9), ('Samuel Frei',16, 27), ('13 October 1937',31, 46), ('a French actor',51, 65), ('Polish Jewish descent',69, 90), ('the films',98, 107), ('En compagnie d\'Antonin Artaud (1993)',126, 162), ('French poet and playwright Antonin Artaud',185, 226), ('Bande à part',232, 244), ('1964)',246, 251), ('Jean-Luc Godard',255, 270)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'JJ', 'NN', '.', 'IN', 'DT', 'NNS', 'PRP', 'VBD', 'IN', 'VBP', 'JJ', 'NN', 'NN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBZ', 'JJ', 'NN', 'CC', 'NN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sami'), (5, 'Frey'), (10, '('), (11, 'born'), (16, 'Samuel'), (23, 'Frei'), (28, 'on'), (31, '13'), (34, 'October'), (42, '1937'), (46, ')'), (48, 'is'), (51, 'a'), (53, 'French'), (60, 'actor'), (66, 'of'), (69, 'Polish'), (76, 'Jewish'), (83, 'descent'), (90, '.'), (92, 'Among'), (98, 'the'), (102, 'films'), (108, 'he'), (111, 'starred'), (119, 'in'), (122, 'are'), (126, 'En'), (129, 'compagnie'), (139, "d'Antonin"), (149, 'Artaud'), (156, '('), (157, '1993'), (161, ')'), (162, ','), (164, 'in'), (167, 'which'), (173, 'he'), (176, 'portrays'), (185, 'French'), (192, 'poet'), (197, 'and'), (201, 'playwright'), (212, 'Antonin'), (220, 'Artaud'), (226, ','), (228, 'and'), (232, 'Bande'), (238, 'à'), (240, 'part'), (245, '('), (246, '1964'), (250, ')'), (252, 'by'), (255, 'Jean'), (259, '-'), (260, 'Luc'), (264, 'Godard'), (270, '.')])</spacy_tokens>
+<spacy_chunks>[('Sami Frey', 0, 9), ('Samuel Frei', 16, 27), ('13 October 1937', 31, 46), ('a French actor', 51, 65), ('Polish Jewish descent', 69, 90), ('the films', 98, 107), ("En compagnie d'Antonin Artaud", 126, 155), ('French poet', 185, 196), ('playwright Antonin Artaud', 201, 226), ('Bande à part', 232, 244), ('Jean-Luc Godard', 255, 270)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'JJ', 'NN', '.', 'IN', 'DT', 'NNS', 'PRP', 'VBD', 'IN', 'VBP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBZ', 'JJ', 'NN', 'CC', 'NN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', 'IN', 'NNP', 'HYPH', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

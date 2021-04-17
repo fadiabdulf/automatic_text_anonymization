@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sharyn Hodgson</title>
+<link/>https://en.wikipedia.org/wiki/Sharyn_Hodgson
+<annotated>0</annotated>
+<originalabstract>Sharyn Hodgson (born 25 August 1968) is a former Australian actress, best known for playing the role of original character of troubled teenager Carly Morris (later Luccini) in the popular soap opera, Home and Away (1988–91); with subsequent guest appearances reprising the part until 2008.</originalabstract>
+<abstract>Sharyn_Hodgson ( born 25_August_1968 ) is a_former_Australian_actress , best_known for playing the_role of original_character of troubled_teenager_Carly_Morris ( later_Luccini ) in the_popular_soap_opera , Home and Away ( 1988 – 91 ) ; with subsequent_guest_appearances reprising the_part until 2008 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sharyn'), (7, 'Hodgson'), (15, '('), (16, 'born'), (21, '25'), (24, 'August'), (31, '1968'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'former'), (49, 'Australian'), (60, 'actress'), (67, ','), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'playing'), (92, 'the'), (96, 'role'), (101, 'of'), (104, 'original'), (113, 'character'), (123, 'of'), (126, 'troubled'), (135, 'teenager'), (144, 'Carly'), (150, 'Morris'), (157, '('), (158, 'later'), (164, 'Luccini'), (171, ')'), (173, 'in'), (176, 'the'), (180, 'popular'), (188, 'soap'), (193, 'opera'), (198, ','), (200, 'Home'), (205, 'and'), (209, 'Away'), (214, '('), (215, '1988'), (219, '–'), (220, '91'), (222, ')'), (223, ';'), (225, 'with'), (230, 'subsequent'), (241, 'guest'), (247, 'appearances'), (259, 'reprising'), (269, 'the'), (273, 'part'), (278, 'until'), (284, '2008'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sharyn Hodgson',0, 14), ('25 August 1968',21, 35), ('a former Australian actress',40, 67), ('best known',69, 79), ('the role',92, 100), ('original character',104, 122), ('troubled teenager Carly Morris',126, 156), ('later Luccini',158, 171), ('the popular soap opera',176, 198), ('subsequent guest appearances',230, 258), ('the part',269, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'JJ', 'NN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', '-LRB-', 'RB', 'NNP', '-RRB-', 'IN', 'DT', 'JJ', 'NN', 'NN', ',', 'NNP', 'CC', 'RB', '-LRB-', 'CD', ':', 'CD', '-RRB-', ':', 'IN', 'JJ', 'NN', 'NNS', 'VBG', 'DT', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sharyn'), (7, 'Hodgson'), (15, '('), (16, 'born'), (21, '25'), (24, 'August'), (31, '1968'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'former'), (49, 'Australian'), (60, 'actress'), (67, ','), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'playing'), (92, 'the'), (96, 'role'), (101, 'of'), (104, 'original'), (113, 'character'), (123, 'of'), (126, 'troubled'), (135, 'teenager'), (144, 'Carly'), (150, 'Morris'), (157, '('), (158, 'later'), (164, 'Luccini'), (171, ')'), (173, 'in'), (176, 'the'), (180, 'popular'), (188, 'soap'), (193, 'opera'), (198, ','), (200, 'Home'), (205, 'and'), (209, 'Away'), (214, '('), (215, '1988–91'), (222, ')'), (223, ';'), (225, 'with'), (230, 'subsequent'), (241, 'guest'), (247, 'appearances'), (259, 'reprising'), (269, 'the'), (273, 'part'), (278, 'until'), (284, '2008'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Sharyn Hodgson', 0, 14), ('25 August 1968', 21, 35), ('a former Australian actress', 40, 67), ('the role', 92, 100), ('original character', 104, 122), ('troubled teenager Carly Morris', 126, 156), ('later Luccini', 158, 171), ('the popular soap opera', 176, 198), ('Home and Away', 200, 213), ('subsequent guest appearances', 230, 258), ('the part', 269, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'JJ', 'NN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', '-LRB-', 'RB', 'NNP', '-RRB-', 'IN', 'DT', 'JJ', 'NN', 'NN', ',', 'NNP', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', ':', 'IN', 'JJ', 'NN', 'NNS', 'VBG', 'DT', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

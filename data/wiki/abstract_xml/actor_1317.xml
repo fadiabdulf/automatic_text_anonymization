@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rory Cochrane</title>
+<link/>https://en.wikipedia.org/wiki/Rory_Cochrane
+<annotated>0</annotated>
+<originalabstract>Rory Cochrane (born February 28, 1972) is an American actor. He is known for playing Ron Slater in Dazed and Confused, Lucas in Empire Records, Lee Schatz in Argo, Freck in A Scanner Darkly and Tim Speedle in CSI: Miami.</originalabstract>
+<abstract>Rory_Cochrane ( born February_28_,_1972 ) is an_American_actor . He is_known for playing Ron_Slater in Dazed_and_Confused , Lucas in Empire_Records , Lee_Schatz in Argo , Freck in A_Scanner Darkly and Tim_Speedle in CSI : Miami .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rory'), (5, 'Cochrane'), (14, '('), (15, 'born'), (20, 'February'), (29, '28'), (31, ','), (33, '1972'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, '.'), (61, 'He'), (64, 'is'), (67, 'known'), (73, 'for'), (77, 'playing'), (85, 'Ron'), (89, 'Slater'), (96, 'in'), (99, 'Dazed'), (105, 'and'), (109, 'Confused'), (117, ','), (119, 'Lucas'), (125, 'in'), (128, 'Empire'), (135, 'Records'), (142, ','), (144, 'Lee'), (148, 'Schatz'), (155, 'in'), (158, 'Argo'), (162, ','), (164, 'Freck'), (170, 'in'), (173, 'A'), (175, 'Scanner'), (183, 'Darkly'), (190, 'and'), (194, 'Tim'), (198, 'Speedle'), (206, 'in'), (209, 'CSI'), (212, ':'), (214, 'Miami'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rory Cochrane',0, 13), ('February 28, 1972',20, 37), ('an American actor',42, 59), ('is known',64, 72), ('Ron Slater',85, 95), ('Dazed and Confused',99, 117), ('Empire Records',128, 142), ('Lee Schatz',144, 154), ('A Scanner',173, 182), ('Tim Speedle',194, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', ',', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'IN', 'DT', 'NNP', 'RB', 'CC', 'NNP', 'NNP', 'IN', 'NNP', ':', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rory'), (5, 'Cochrane'), (14, '('), (15, 'born'), (20, 'February'), (29, '28'), (31, ','), (33, '1972'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, '.'), (61, 'He'), (64, 'is'), (67, 'known'), (73, 'for'), (77, 'playing'), (85, 'Ron'), (89, 'Slater'), (96, 'in'), (99, 'Dazed'), (105, 'and'), (109, 'Confused'), (117, ','), (119, 'Lucas'), (125, 'in'), (128, 'Empire'), (135, 'Records'), (142, ','), (144, 'Lee'), (148, 'Schatz'), (155, 'in'), (158, 'Argo'), (162, ','), (164, 'Freck'), (170, 'in'), (173, 'A'), (175, 'Scanner'), (183, 'Darkly'), (190, 'and'), (194, 'Tim'), (198, 'Speedle'), (206, 'in'), (209, 'CSI'), (212, ':'), (214, 'Miami'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Rory Cochrane', 0, 13), ('February 28, 1972', 20, 37), ('an American actor', 42, 59), ('Ron Slater', 85, 95), ('Dazed and Confused', 99, 117), ('Empire Records', 128, 142), ('Lee Schatz', 144, 154), ('Argo, Freck', 158, 169), ('A Scanner Darkly', 173, 189), ('Tim Speedle', 194, 205), ('CSI: Miami', 209, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', ',', 'NNP', 'IN', 'NNP', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', ':', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

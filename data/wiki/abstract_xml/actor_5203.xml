@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Pearl</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Pearl
+<annotated>0</annotated>
+<originalabstract>Jack Pearl, born Jack Perlman (October 29, 1894 – December 25, 1982), was a vaudeville performer and a star of early radio. He was best known for his character Baron Munchausen.</originalabstract>
+<abstract>Jack_Pearl , born Jack_Perlman ( October_29_,_1894 – December_25_,_1982 ) , was a_vaudeville_performer and a_star of early_radio . He was_best_known for his_character_Baron_Munchausen .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jack'), (5, 'Pearl'), (10, ','), (12, 'born'), (17, 'Jack'), (22, 'Perlman'), (30, '('), (31, 'October'), (39, '29'), (41, ','), (43, '1894'), (48, '–'), (50, 'December'), (59, '25'), (61, ','), (63, '1982'), (67, ')'), (68, ','), (70, 'was'), (74, 'a'), (76, 'vaudeville'), (87, 'performer'), (97, 'and'), (101, 'a'), (103, 'star'), (108, 'of'), (111, 'early'), (117, 'radio'), (122, '.'), (124, 'He'), (127, 'was'), (131, 'best'), (136, 'known'), (142, 'for'), (146, 'his'), (150, 'character'), (160, 'Baron'), (166, 'Munchausen'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jack Pearl',0, 10), ('Jack Perlman',17, 29), ('October 29, 1894',31, 47), ('December 25, 1982',50, 67), ('a vaudeville performer',74, 96), ('a star',101, 107), ('early radio',111, 122), ('was best known',127, 141), ('his character Baron Munchausen',146, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'NN', 'NN', 'CC', 'DT', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jack'), (5, 'Pearl'), (10, ','), (12, 'born'), (17, 'Jack'), (22, 'Perlman'), (30, '('), (31, 'October'), (39, '29'), (41, ','), (43, '1894'), (48, '–'), (50, 'December'), (59, '25'), (61, ','), (63, '1982'), (67, ')'), (68, ','), (70, 'was'), (74, 'a'), (76, 'vaudeville'), (87, 'performer'), (97, 'and'), (101, 'a'), (103, 'star'), (108, 'of'), (111, 'early'), (117, 'radio'), (122, '.'), (124, 'He'), (127, 'was'), (131, 'best'), (136, 'known'), (142, 'for'), (146, 'his'), (150, 'character'), (160, 'Baron'), (166, 'Munchausen'), (176, '.')])</spacy_tokens>
+<spacy_chunks>[('Jack Pearl', 0, 10), ('born Jack Perlman', 12, 29), ('(October', 30, 38), ('October 29, 1894', 31, 47), ('December 25, 1982', 50, 67), ('a vaudeville performer', 74, 96), ('a star', 101, 107), ('early radio', 111, 122), ('his character', 146, 159), ('Baron Munchausen', 160, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBD', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'NN', 'NN', 'CC', 'DT', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

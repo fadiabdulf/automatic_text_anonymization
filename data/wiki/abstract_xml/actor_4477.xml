@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>J. P. McGowan</title>
+<link/>https://en.wikipedia.org/wiki/J._P._McGowan
+<annotated>0</annotated>
+<originalabstract>John Paterson McGowan (February 24, 1880 – March 26, 1952) was a pioneering Hollywood actor and director and occasionally a screenwriter and producer. J. P. McGowan, as he was usually known, remains the only Australian to have been made a life member of the Screen Directors Guild (now Directors Guild of America).</originalabstract>
+<abstract>John_Paterson_McGowan ( February_24 , 1880 – March_26_,_1952 ) was a_pioneering_Hollywood_actor_and_director and occasionally a_screenwriter_and_producer . J._P._McGowan , as he was_usually_known , remains the_only_Australian to_have_been_made a_life_member of the_Screen_Directors_Guild ( now Directors_Guild of America_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Paterson'), (14, 'McGowan'), (22, '('), (23, 'February'), (32, '24'), (34, ','), (36, '1880'), (41, '–'), (43, 'March'), (49, '26'), (51, ','), (53, '1952'), (57, ')'), (59, 'was'), (63, 'a'), (65, 'pioneering'), (76, 'Hollywood'), (86, 'actor'), (92, 'and'), (96, 'director'), (105, 'and'), (109, 'occasionally'), (122, 'a'), (124, 'screenwriter'), (137, 'and'), (141, 'producer'), (149, '.'), (151, 'J.'), (154, 'P.'), (157, 'McGowan'), (164, ','), (166, 'as'), (169, 'he'), (172, 'was'), (176, 'usually'), (184, 'known'), (189, ','), (191, 'remains'), (199, 'the'), (203, 'only'), (208, 'Australian'), (219, 'to'), (222, 'have'), (227, 'been'), (232, 'made'), (237, 'a'), (239, 'life'), (244, 'member'), (251, 'of'), (254, 'the'), (258, 'Screen'), (265, 'Directors'), (275, 'Guild'), (281, '('), (282, 'now'), (286, 'Directors'), (296, 'Guild'), (302, 'of'), (305, 'America'), (312, ')'), (313, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Paterson McGowan',0, 21), ('February 24',23, 34), ('March 26, 1952',43, 57), ('a pioneering Hollywood actor and director',63, 104), ('a screenwriter and producer',122, 149), ('J. P. McGowan',151, 164), ('was usually known',172, 189), ('the only Australian',199, 218), ('to have been made',219, 236), ('a life member',237, 250), ('the Screen Directors Guild',254, 280), ('Directors Guild',286, 301), ('America)',305, 313)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NNP', 'NN', 'CC', 'NN', 'CC', 'RB', 'DT', 'NN', 'CC', 'NN', '.', 'NNP', 'NNP', 'NNP', ',', 'IN', 'PRP', 'VBD', 'RB', 'VBN', ',', 'VBZ', 'DT', 'JJ', 'JJ', 'TO', 'VB', 'VBN', 'VBN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNS', 'NN', '-LRB-', 'RB', 'NNS', 'NN', 'IN', 'NNP', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Paterson'), (14, 'McGowan'), (22, '('), (23, 'February'), (32, '24'), (34, ','), (36, '1880'), (41, '–'), (43, 'March'), (49, '26'), (51, ','), (53, '1952'), (57, ')'), (59, 'was'), (63, 'a'), (65, 'pioneering'), (76, 'Hollywood'), (86, 'actor'), (92, 'and'), (96, 'director'), (105, 'and'), (109, 'occasionally'), (122, 'a'), (124, 'screenwriter'), (137, 'and'), (141, 'producer'), (149, '.'), (151, 'J.'), (154, 'P.'), (157, 'McGowan'), (164, ','), (166, 'as'), (169, 'he'), (172, 'was'), (176, 'usually'), (184, 'known'), (189, ','), (191, 'remains'), (199, 'the'), (203, 'only'), (208, 'Australian'), (219, 'to'), (222, 'have'), (227, 'been'), (232, 'made'), (237, 'a'), (239, 'life'), (244, 'member'), (251, 'of'), (254, 'the'), (258, 'Screen'), (265, 'Directors'), (275, 'Guild'), (281, '('), (282, 'now'), (286, 'Directors'), (296, 'Guild'), (302, 'of'), (305, 'America'), (312, ')'), (313, '.')])</spacy_tokens>
+<spacy_chunks>[('John Paterson McGowan', 0, 21), ('February 24, 1880', 23, 40), ('March 26, 1952', 43, 57), ('a pioneering Hollywood actor', 63, 91), ('director', 96, 104), ('occasionally a screenwriter', 109, 136), ('producer', 141, 149), ('J. P. McGowan', 151, 164), ('the only Australian', 199, 218), ('the Screen Directors Guild', 254, 280), ('now Directors Guild', 282, 301), ('America', 305, 312)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NNP', 'NN', 'CC', 'NN', 'CC', 'RB', 'DT', 'NN', 'CC', 'NN', '.', 'NNP', 'NNP', 'NNP', ',', 'IN', 'PRP', 'VBD', 'RB', 'VBN', ',', 'VBZ', 'DT', 'JJ', 'NNP', 'TO', 'VB', 'VBN', 'VBN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNPS', 'NNP', '-LRB-', 'RB', 'NNPS', 'NNP', 'IN', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brian Benben</title>
+<link/>https://en.wikipedia.org/wiki/Brian_Benben
+<annotated>0</annotated>
+<originalabstract>Brian Edward Benben (born June 18, 1956) is an American actor, best known for his role as Martin Tupper in the HBO comedy television series Dream On (1990–1996), and also known as Dr. Sheldon Wallace on ABC medical drama Private Practice (2008–2013). Benben is married to Madeleine Stowe.</originalabstract>
+<abstract>Brian_Edward_Benben ( born June_18_,_1956 ) is an_American_actor , best_known for his_role as Martin_Tupper in the_HBO_comedy_television_series_Dream On ( 1990 – 1996 ) , and also known as Dr._Sheldon_Wallace on ABC_medical_drama_Private_Practice ( 2008 – 2013 ) . Benben is_married to Madeleine_Stowe .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brian'), (6, 'Edward'), (13, 'Benben'), (20, '('), (21, 'born'), (26, 'June'), (31, '18'), (33, ','), (35, '1956'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (61, ','), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'role'), (87, 'as'), (90, 'Martin'), (97, 'Tupper'), (104, 'in'), (107, 'the'), (111, 'HBO'), (115, 'comedy'), (122, 'television'), (133, 'series'), (140, 'Dream'), (146, 'On'), (149, '('), (150, '1990'), (154, '–'), (155, '1996'), (159, ')'), (160, ','), (162, 'and'), (166, 'also'), (171, 'known'), (177, 'as'), (180, 'Dr.'), (184, 'Sheldon'), (192, 'Wallace'), (200, 'on'), (203, 'ABC'), (207, 'medical'), (215, 'drama'), (221, 'Private'), (229, 'Practice'), (238, '('), (239, '2008'), (243, '–'), (244, '2013'), (248, ')'), (249, '.'), (251, 'Benben'), (258, 'is'), (261, 'married'), (269, 'to'), (272, 'Madeleine'), (282, 'Stowe'), (287, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brian Edward Benben',0, 19), ('June 18, 1956',26, 39), ('an American actor',44, 61), ('best known',63, 73), ('his role',78, 86), ('Martin Tupper',90, 103), ('the HBO comedy television series Dream',107, 145), ('Dr. Sheldon Wallace',180, 199), ('ABC medical drama Private Practice',203, 237), ('is married',258, 268), ('Madeleine Stowe',272, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NN', 'IN', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'CC', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'JJ', 'NN', 'JJ', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'NNP', 'VBZ', 'VBN', 'TO', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brian'), (6, 'Edward'), (13, 'Benben'), (20, '('), (21, 'born'), (26, 'June'), (31, '18'), (33, ','), (35, '1956'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (61, ','), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'role'), (87, 'as'), (90, 'Martin'), (97, 'Tupper'), (104, 'in'), (107, 'the'), (111, 'HBO'), (115, 'comedy'), (122, 'television'), (133, 'series'), (140, 'Dream'), (146, 'On'), (149, '('), (150, '1990–1996'), (159, ')'), (160, ','), (162, 'and'), (166, 'also'), (171, 'known'), (177, 'as'), (180, 'Dr.'), (184, 'Sheldon'), (192, 'Wallace'), (200, 'on'), (203, 'ABC'), (207, 'medical'), (215, 'drama'), (221, 'Private'), (229, 'Practice'), (238, '('), (239, '2008–2013'), (248, ')'), (249, '.'), (251, 'Benben'), (258, 'is'), (261, 'married'), (269, 'to'), (272, 'Madeleine'), (282, 'Stowe'), (287, '.')])</spacy_tokens>
+<spacy_chunks>[('Brian Edward Benben', 0, 19), ('June 18, 1956', 26, 39), ('an American actor', 44, 61), ('his role', 78, 86), ('Martin Tupper', 90, 103), ('the HBO comedy television series', 107, 139), ('Dream On', 140, 148), ('Dr. Sheldon Wallace', 180, 199), ('ABC medical drama', 203, 220), ('Private Practice', 221, 237), ('2008–2013', 239, 248), ('Madeleine Stowe', 272, 287)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNP', 'IN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'JJ', 'NN', 'NNP', 'NN', '-LRB-', 'NNP', '-RRB-', '.', 'NNP', 'VBZ', 'JJ', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

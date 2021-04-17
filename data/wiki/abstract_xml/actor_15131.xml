@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elaine Shore</title>
+<link/>https://en.wikipedia.org/wiki/Elaine_Shore
+<annotated>0</annotated>
+<originalabstract>Elaine Shore (March 4, 1929 – March 19, 2007) was an American actress. Born in Chicago in 1929, she studied at the Goodman Theatre.</originalabstract>
+<abstract>Elaine_Shore ( March_4_,_1929 – March_19_,_2007 ) was an_American_actress . Born in Chicago in 1929 , she studied at the_Goodman_Theatre .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elaine'), (7, 'Shore'), (13, '('), (14, 'March'), (20, '4'), (21, ','), (23, '1929'), (28, '–'), (30, 'March'), (36, '19'), (38, ','), (40, '2007'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actress'), (69, '.'), (71, 'Born'), (76, 'in'), (79, 'Chicago'), (87, 'in'), (90, '1929'), (94, ','), (96, 'she'), (100, 'studied'), (108, 'at'), (111, 'the'), (115, 'Goodman'), (123, 'Theatre'), (130, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elaine Shore',0, 12), ('March 4, 1929',14, 27), ('March 19, 2007',30, 44), ('an American actress',50, 69), ('the Goodman Theatre',111, 130)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'IN', 'NNP', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elaine'), (7, 'Shore'), (13, '('), (14, 'March'), (20, '4'), (21, ','), (23, '1929'), (28, '–'), (30, 'March'), (36, '19'), (38, ','), (40, '2007'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actress'), (69, '.'), (71, 'Born'), (76, 'in'), (79, 'Chicago'), (87, 'in'), (90, '1929'), (94, ','), (96, 'she'), (100, 'studied'), (108, 'at'), (111, 'the'), (115, 'Goodman'), (123, 'Theatre'), (130, '.')])</spacy_tokens>
+<spacy_chunks>[('Elaine Shore', 0, 12), ('(March', 13, 19), ('March 4, 1929', 14, 27), ('March 19, 2007', 30, 44), ('an American actress', 50, 69), ('Chicago', 79, 86), ('the Goodman Theatre', 111, 130)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'IN', 'NNP', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

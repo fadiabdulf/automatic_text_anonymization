@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dallas Cairns</title>
+<link/>https://en.wikipedia.org/wiki/Dallas_Cairns
+<annotated>0</annotated>
+<originalabstract>Dallas Cairns (1883-1941) was an Australian actor and director of the silent film era.He was born in Frederick Dallas Cairns in Melbourne, Australia and died in London, England, UK.</originalabstract>
+<abstract>Dallas_Cairns ( 1883-1941 ) was an_Australian_actor_and_director of the_silent_film_era.He was_born in Frederick_Dallas_Cairns in Melbourne , Australia and died in London , England , UK .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dallas'), (7, 'Cairns'), (14, '('), (15, '1883-1941'), (24, ')'), (26, 'was'), (30, 'an'), (33, 'Australian'), (44, 'actor'), (50, 'and'), (54, 'director'), (63, 'of'), (66, 'the'), (70, 'silent'), (77, 'film'), (82, 'era.He'), (89, 'was'), (93, 'born'), (98, 'in'), (101, 'Frederick'), (111, 'Dallas'), (118, 'Cairns'), (125, 'in'), (128, 'Melbourne'), (137, ','), (139, 'Australia'), (149, 'and'), (153, 'died'), (158, 'in'), (161, 'London'), (167, ','), (169, 'England'), (176, ','), (178, 'UK'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dallas Cairns',0, 13), ('an Australian actor and director',30, 62), ('the silent film era.He',66, 88), ('was born',89, 97), ('Frederick Dallas Cairns',101, 124)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dallas'), (7, 'Cairns'), (14, '('), (15, '1883'), (19, '-'), (20, '1941'), (24, ')'), (26, 'was'), (30, 'an'), (33, 'Australian'), (44, 'actor'), (50, 'and'), (54, 'director'), (63, 'of'), (66, 'the'), (70, 'silent'), (77, 'film'), (82, 'era'), (85, '.'), (86, 'He'), (89, 'was'), (93, 'born'), (98, 'in'), (101, 'Frederick'), (111, 'Dallas'), (118, 'Cairns'), (125, 'in'), (128, 'Melbourne'), (137, ','), (139, 'Australia'), (149, 'and'), (153, 'died'), (158, 'in'), (161, 'London'), (167, ','), (169, 'England'), (176, ','), (178, 'UK'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('Dallas Cairns', 0, 13), ('an Australian actor', 30, 49), ('director', 54, 62), ('the silent film era', 66, 85), ('Frederick Dallas Cairns', 101, 124), ('Melbourne', 128, 137), ('London', 161, 167), ('England', 169, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

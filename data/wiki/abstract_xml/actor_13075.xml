@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leatrice Joy</title>
+<link/>https://en.wikipedia.org/wiki/Leatrice_Joy
+<annotated>0</annotated>
+<originalabstract>Leatrice Joy (born Leatrice Johanna Zeidler, November 7, 1893 – May 13, 1985) was an American actress most prolific during the silent film era.</originalabstract>
+<abstract>Leatrice_Joy ( born Leatrice_Johanna_Zeidler , November_7_,_1893 – May_13_,_1985 ) was an_American_actress_most_prolific during the_silent_film_era .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leatrice'), (9, 'Joy'), (13, '('), (14, 'born'), (19, 'Leatrice'), (28, 'Johanna'), (36, 'Zeidler'), (43, ','), (45, 'November'), (54, '7'), (55, ','), (57, '1893'), (62, '–'), (64, 'May'), (68, '13'), (70, ','), (72, '1985'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'American'), (94, 'actress'), (102, 'most'), (107, 'prolific'), (116, 'during'), (123, 'the'), (127, 'silent'), (134, 'film'), (139, 'era'), (142, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leatrice Joy',0, 12), ('Leatrice Johanna Zeidler',19, 43), ('November 7, 1893',45, 61), ('May 13, 1985',64, 76), ('an American actress most prolific',82, 115), ('the silent film era',123, 142)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leatrice'), (9, 'Joy'), (13, '('), (14, 'born'), (19, 'Leatrice'), (28, 'Johanna'), (36, 'Zeidler'), (43, ','), (45, 'November'), (54, '7'), (55, ','), (57, '1893'), (62, '–'), (64, 'May'), (68, '13'), (70, ','), (72, '1985'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'American'), (94, 'actress'), (102, 'most'), (107, 'prolific'), (116, 'during'), (123, 'the'), (127, 'silent'), (134, 'film'), (139, 'era'), (142, '.')])</spacy_tokens>
+<spacy_chunks>[('Leatrice Joy', 0, 12), ('(born Leatrice Johanna Zeidler', 13, 43), ('November 7, 1893', 45, 61), ('May 13, 1985', 64, 76), ('an American actress', 82, 101), ('the silent film era', 123, 142)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Merton</title>
+<link/>https://en.wikipedia.org/wiki/John_Merton
+<annotated>0</annotated>
+<originalabstract>John Merton (born Myrtland F. LaVarre, February 18, 1901 – September 19, 1959) was an American film actor. He appeared in more than 250 films between 1927 and 1959, mostly as a villain.
+Merton's wife, Esther, sued him for divorce in 1940. They had six children.</originalabstract>
+<abstract>John_Merton ( born Myrtland_F._LaVarre , February_18_,_1901 – September_19_,_1959 ) was an_American_film_actor . He appeared in more_than_250_films between 1927_and_1959 , mostly_as a_villain . Merton 's_wife , Esther , sued him for divorce in 1940 . They had six_children .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Merton'), (12, '('), (13, 'born'), (18, 'Myrtland'), (27, 'F.'), (30, 'LaVarre'), (37, ','), (39, 'February'), (48, '18'), (50, ','), (52, '1901'), (57, '–'), (59, 'September'), (69, '19'), (71, ','), (73, '1959'), (77, ')'), (79, 'was'), (83, 'an'), (86, 'American'), (95, 'film'), (100, 'actor'), (105, '.'), (107, 'He'), (110, 'appeared'), (119, 'in'), (122, 'more'), (127, 'than'), (132, '250'), (136, 'films'), (142, 'between'), (150, '1927'), (155, 'and'), (159, '1959'), (163, ','), (165, 'mostly'), (172, 'as'), (175, 'a'), (177, 'villain'), (184, '.'), (186, 'Merton'), (192, '\'s'), (195, 'wife'), (199, ','), (201, 'Esther'), (207, ','), (209, 'sued'), (214, 'him'), (218, 'for'), (222, 'divorce'), (230, 'in'), (233, '1940'), (237, '.'), (239, 'They'), (244, 'had'), (248, 'six'), (252, 'children'), (260, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Merton',0, 11), ('Myrtland F. LaVarre',18, 37), ('February 18, 1901',39, 56), ('September 19, 1959',59, 77), ('an American film actor',83, 105), ('more than 250 films',122, 141), ('1927 and 1959',150, 163), ('mostly as',165, 174), ('a villain',175, 184), ('\'s wife',192, 199), ('six children',248, 260)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'IN', 'DT', 'NN', '.', 'NNP', 'POS', 'NN', ',', 'NNP', ',', 'VBD', 'PRP', 'IN', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Merton'), (12, '('), (13, 'born'), (18, 'Myrtland'), (27, 'F.'), (30, 'LaVarre'), (37, ','), (39, 'February'), (48, '18'), (50, ','), (52, '1901'), (57, '–'), (59, 'September'), (69, '19'), (71, ','), (73, '1959'), (77, ')'), (79, 'was'), (83, 'an'), (86, 'American'), (95, 'film'), (100, 'actor'), (105, '.'), (107, 'He'), (110, 'appeared'), (119, 'in'), (122, 'more'), (127, 'than'), (132, '250'), (136, 'films'), (142, 'between'), (150, '1927'), (155, 'and'), (159, '1959'), (163, ','), (165, 'mostly'), (172, 'as'), (175, 'a'), (177, 'villain'), (184, '.'), (186, 'Merton'), (192, "'s"), (195, 'wife'), (199, ','), (201, 'Esther'), (207, ','), (209, 'sued'), (214, 'him'), (218, 'for'), (222, 'divorce'), (230, 'in'), (233, '1940'), (237, '.'), (239, 'They'), (244, 'had'), (248, 'six'), (252, 'children'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('John Merton', 0, 11), ('Myrtland F. LaVarre', 18, 37), ('February 18, 1901', 39, 56), ('– September', 57, 68), ('September 19, 1959', 59, 77), ('an American film actor', 83, 105), ('more than 250 films', 122, 141), ('a villain', 175, 184), ("Merton's wife", 186, 199), ('Esther', 201, 207), ('divorce', 222, 229), ('six children', 248, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'IN', 'DT', 'NN', '.', 'NNP', 'POS', 'NN', ',', 'NNP', ',', 'VBD', 'PRP', 'IN', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Molly Spotted Elk</title>
+<link/>https://en.wikipedia.org/wiki/Molly_Spotted_Elk
+<annotated>0</annotated>
+<originalabstract>Mary Nelson Archambaud (born Mary Alice Nelson; Penobscot pronunciation: Molly Dellis; November 17, 1903 – February 21, 1977), best known by her stage name Molly Spotted Elk, was a Penobscot Indian dancer, actress, and writer who was born on the Penobscot Indian Island Reservation, in Maine, U.S.</originalabstract>
+<abstract>Mary_Nelson Archambaud ( born Mary_Alice_Nelson ; Penobscot_pronunciation : Molly_Dellis ; November_17_,_1903 – February_21_,_1977 ) , best_known by her_stage_name_Molly Spotted Elk , was a_Penobscot_Indian_dancer , actress , and writer who was_born on the_Penobscot_Indian_Island_Reservation , in Maine , U.S.</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Nelson'), (12, 'Archambaud'), (23, '('), (24, 'born'), (29, 'Mary'), (34, 'Alice'), (40, 'Nelson'), (46, ';'), (48, 'Penobscot'), (58, 'pronunciation'), (71, ':'), (73, 'Molly'), (79, 'Dellis'), (85, ';'), (87, 'November'), (96, '17'), (98, ','), (100, '1903'), (105, '–'), (107, 'February'), (116, '21'), (118, ','), (120, '1977'), (124, ')'), (125, ','), (127, 'best'), (132, 'known'), (138, 'by'), (141, 'her'), (145, 'stage'), (151, 'name'), (156, 'Molly'), (162, 'Spotted'), (170, 'Elk'), (173, ','), (175, 'was'), (179, 'a'), (181, 'Penobscot'), (191, 'Indian'), (198, 'dancer'), (204, ','), (206, 'actress'), (213, ','), (215, 'and'), (219, 'writer'), (226, 'who'), (230, 'was'), (234, 'born'), (239, 'on'), (242, 'the'), (246, 'Penobscot'), (256, 'Indian'), (263, 'Island'), (270, 'Reservation'), (281, ','), (283, 'in'), (286, 'Maine'), (291, ','), (293, 'U.S.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Nelson',0, 11), ('Mary Alice Nelson',29, 46), ('Penobscot pronunciation',48, 71), ('Molly Dellis',73, 85), ('November 17, 1903',87, 104), ('February 21, 1977',107, 124), ('best known',127, 137), ('her stage name Molly',141, 161), ('a Penobscot Indian dancer',179, 204), ('was born',230, 238), ('the Penobscot Indian Island Reservation',242, 281)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'NN', ':', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'VBD', 'NNP', ',', 'VBD', 'DT', 'NNP', 'NNP', 'NN', ',', 'NN', ',', 'CC', 'NN', 'WP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'IN', 'NNP', ',', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Nelson'), (12, 'Archambaud'), (23, '('), (24, 'born'), (29, 'Mary'), (34, 'Alice'), (40, 'Nelson'), (46, ';'), (48, 'Penobscot'), (58, 'pronunciation'), (71, ':'), (73, 'Molly'), (79, 'Dellis'), (85, ';'), (87, 'November'), (96, '17'), (98, ','), (100, '1903'), (105, '–'), (107, 'February'), (116, '21'), (118, ','), (120, '1977'), (124, ')'), (125, ','), (127, 'best'), (132, 'known'), (138, 'by'), (141, 'her'), (145, 'stage'), (151, 'name'), (156, 'Molly'), (162, 'Spotted'), (170, 'Elk'), (173, ','), (175, 'was'), (179, 'a'), (181, 'Penobscot'), (191, 'Indian'), (198, 'dancer'), (204, ','), (206, 'actress'), (213, ','), (215, 'and'), (219, 'writer'), (226, 'who'), (230, 'was'), (234, 'born'), (239, 'on'), (242, 'the'), (246, 'Penobscot'), (256, 'Indian'), (263, 'Island'), (270, 'Reservation'), (281, ','), (283, 'in'), (286, 'Maine'), (291, ','), (293, 'U.S.')])</spacy_tokens>
+<spacy_chunks>[('Mary Nelson Archambaud', 0, 22), ('born Mary Alice Nelson', 24, 46), ('Penobscot pronunciation', 48, 71), ('Molly Dellis', 73, 85), ('November 17, 1903', 87, 104), ('February 21, 1977', 107, 124), ('her stage name', 141, 155), ('Molly Spotted Elk', 156, 173), ('a Penobscot Indian dancer', 179, 204), ('actress', 206, 213), ('writer', 219, 225), ('the Penobscot Indian Island Reservation', 242, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'NN', ':', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NNP', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'WP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'IN', 'NNP', ',', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

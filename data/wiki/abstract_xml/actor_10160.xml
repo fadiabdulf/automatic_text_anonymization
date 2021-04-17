@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean-Michel Rouzière</title>
+<link/>https://en.wikipedia.org/wiki/Jean-Michel_Rouzi%C3%A8re
+<annotated>0</annotated>
+<originalabstract>Jean-Michel Rouzière (died 13 February 1989) was a French comic actor and theatre head.</originalabstract>
+<abstract>Jean-Michel_Rouzière ( died 13_February_1989 ) was a_French_comic_actor_and_theatre_head .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean-Michel'), (12, 'Rouzière'), (21, '('), (22, 'died'), (27, '13'), (30, 'February'), (39, '1989'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'French'), (58, 'comic'), (64, 'actor'), (70, 'and'), (74, 'theatre'), (82, 'head'), (86, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean-Michel Rouzière',0, 20), ('13 February 1989',27, 43), ('a French comic actor and theatre head',49, 86)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBD', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (4, '-'), (5, 'Michel'), (12, 'Rouzière'), (21, '('), (22, 'died'), (27, '13'), (30, 'February'), (39, '1989'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'French'), (58, 'comic'), (64, 'actor'), (70, 'and'), (74, 'theatre'), (82, 'head'), (86, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean-Michel Rouzière', 0, 20), ('13 February 1989', 27, 43), ('a French comic actor', 49, 69), ('theatre head', 74, 86)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBD', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

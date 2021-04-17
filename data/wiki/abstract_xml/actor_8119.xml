@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jonathan Firth</title>
+<link/>https://en.wikipedia.org/wiki/Jonathan_Firth
+<annotated>0</annotated>
+<originalabstract>Jonathan Stephen Firth (born 6 April 1967) is an English actor best known for his roles in such noted British television productions as Middlemarch, Far from the Madding Crowd, and Victoria  Albert. He lives in Islington, North London.</originalabstract>
+<abstract>Jonathan_Stephen_Firth ( born 6_April_1967 ) is an_English_actor best_known for his_roles in such_noted_British_television_productions as Middlemarch , Far from the_Madding_Crowd , and Victoria_ . He lives in Islington , North_London .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Stephen'), (17, 'Firth'), (23, '('), (24, 'born'), (29, '6'), (31, 'April'), (37, '1967'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'English'), (57, 'actor'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'roles'), (88, 'in'), (91, 'such'), (96, 'noted'), (102, 'British'), (110, 'television'), (121, 'productions'), (133, 'as'), (136, 'Middlemarch'), (147, ','), (149, 'Far'), (153, 'from'), (158, 'the'), (162, 'Madding'), (170, 'Crowd'), (175, ','), (177, 'and'), (181, 'Victoria'), (190, ''), (192, 'Albert'), (198, '.'), (200, 'He'), (203, 'lives'), (209, 'in'), (212, 'Islington'), (221, ','), (223, 'North'), (229, 'London'), (235, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jonathan Stephen Firth',0, 22), ('6 April 1967',29, 41), ('an English actor',46, 62), ('best known',63, 73), ('his roles',78, 87), ('such noted British television productions',91, 132), ('the Madding Crowd',158, 175), ('Victoria  Albert',181, 198), ('North London',223, 235)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'VBN', 'JJ', 'NN', 'NNS', 'IN', 'NNP', ',', 'NNP', 'IN', 'DT', 'JJ', 'NN', ',', 'CC', 'NNP', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'IN', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Stephen'), (17, 'Firth'), (23, '('), (24, 'born'), (29, '6'), (31, 'April'), (37, '1967'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'English'), (57, 'actor'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'roles'), (88, 'in'), (91, 'such'), (96, 'noted'), (102, 'British'), (110, 'television'), (121, 'productions'), (133, 'as'), (136, 'Middlemarch'), (147, ','), (149, 'Far'), (153, 'from'), (158, 'the'), (162, 'Madding'), (170, 'Crowd'), (175, ','), (177, 'and'), (181, 'Victoria'), (191, 'Albert'), (197, '.'), (199, 'He'), (202, 'lives'), (208, 'in'), (211, 'Islington'), (220, ','), (222, 'North'), (228, 'London'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('Jonathan Stephen Firth', 0, 22), ('6 April 1967', 29, 41), ('an English actor', 46, 62), ('his roles', 78, 87), ('such noted British television productions', 91, 132), ('Middlemarch', 136, 147), ('Far from the Madding Crowd', 149, 175), ('Victoria', 181, 189), ('Albert', 191, 197), ('Islington', 211, 220), ('North London', 222, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'VBN', 'JJ', 'NN', 'NNS', 'IN', 'NNP', ',', 'RB', 'IN', 'DT', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'IN', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

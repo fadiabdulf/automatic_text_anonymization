@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Corey Allen</title>
+<link/>https://en.wikipedia.org/wiki/Corey_Allen
+<annotated>0</annotated>
+<originalabstract>Corey Allen (June 29, 1934 – June 27, 2010) was an American film and television director, writer, producer, and actor. He began his career as an actor but eventually became a television director. He may be best known for playing the character Buzz Gunderson in Nicholas Ray's Rebel Without a Cause (1955).</originalabstract>
+<abstract>Corey_Allen ( June_29_,_1934 – June_27_,_2010 ) was an_American_film_and_television_director , writer , producer , and actor . He began his_career as an_actor but eventually_became a_television_director . He may_be_best_known for playing the_character_Buzz_Gunderson in Nicholas_Ray 's_Rebel Without a_Cause_(_1955_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Corey'), (6, 'Allen'), (12, '('), (13, 'June'), (18, '29'), (20, ','), (22, '1934'), (27, '–'), (29, 'June'), (34, '27'), (36, ','), (38, '2010'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'film'), (65, 'and'), (69, 'television'), (80, 'director'), (88, ','), (90, 'writer'), (96, ','), (98, 'producer'), (106, ','), (108, 'and'), (112, 'actor'), (117, '.'), (119, 'He'), (122, 'began'), (128, 'his'), (132, 'career'), (139, 'as'), (142, 'an'), (145, 'actor'), (151, 'but'), (155, 'eventually'), (166, 'became'), (173, 'a'), (175, 'television'), (186, 'director'), (194, '.'), (196, 'He'), (199, 'may'), (203, 'be'), (206, 'best'), (211, 'known'), (217, 'for'), (221, 'playing'), (229, 'the'), (233, 'character'), (243, 'Buzz'), (248, 'Gunderson'), (258, 'in'), (261, 'Nicholas'), (270, 'Ray'), (273, '\'s'), (276, 'Rebel'), (282, 'Without'), (290, 'a'), (292, 'Cause'), (298, '('), (299, '1955'), (303, ')'), (304, '.')])</stanford_tokens>
+<opennlp_chunks>[('Corey Allen',0, 11), ('June 29, 1934',13, 26), ('June 27, 2010',29, 42), ('an American film and television director',48, 88), ('his career',128, 138), ('an actor',142, 150), ('eventually became',155, 172), ('a television director',173, 194), ('may be best known',199, 216), ('the character Buzz Gunderson',229, 257), ('Nicholas Ray',261, 273), ('\'s Rebel',273, 281), ('a Cause (1955)',290, 304)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'CC', 'RB', 'VBD', 'DT', 'NN', 'NN', '.', 'PRP', 'MD', 'VB', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Corey'), (6, 'Allen'), (12, '('), (13, 'June'), (18, '29'), (20, ','), (22, '1934'), (27, '–'), (29, 'June'), (34, '27'), (36, ','), (38, '2010'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'film'), (65, 'and'), (69, 'television'), (80, 'director'), (88, ','), (90, 'writer'), (96, ','), (98, 'producer'), (106, ','), (108, 'and'), (112, 'actor'), (117, '.'), (119, 'He'), (122, 'began'), (128, 'his'), (132, 'career'), (139, 'as'), (142, 'an'), (145, 'actor'), (151, 'but'), (155, 'eventually'), (166, 'became'), (173, 'a'), (175, 'television'), (186, 'director'), (194, '.'), (196, 'He'), (199, 'may'), (203, 'be'), (206, 'best'), (211, 'known'), (217, 'for'), (221, 'playing'), (229, 'the'), (233, 'character'), (243, 'Buzz'), (248, 'Gunderson'), (258, 'in'), (261, 'Nicholas'), (270, 'Ray'), (273, "'s"), (276, 'Rebel'), (282, 'Without'), (290, 'a'), (292, 'Cause'), (298, '('), (299, '1955'), (303, ')'), (304, '.')])</spacy_tokens>
+<spacy_chunks>[('Corey Allen', 0, 11), ('June 29, 1934', 13, 26), ('June 27, 2010', 29, 42), ('an American film and television director', 48, 88), ('writer', 90, 96), ('producer', 98, 106), ('his career', 128, 138), ('an actor', 142, 150), ('a television director', 173, 194), ('the character', 229, 242), ('Buzz Gunderson', 243, 257), ("Nicholas Ray's Rebel", 261, 281), ('Rebel Without A Cause', 276, 297)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'CC', 'RB', 'VBD', 'DT', 'NN', 'NN', '.', 'PRP', 'MD', 'VB', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

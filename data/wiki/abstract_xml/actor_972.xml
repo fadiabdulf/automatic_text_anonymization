@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Adam Busch</title>
+<link/>https://en.wikipedia.org/wiki/Adam_Busch
+<annotated>0</annotated>
+<originalabstract>Adam Richard Busch (born July 6, 1978) is an American actor, film director and singer best known starring as Warren Mears on the television series Buffy the Vampire Slayer. He also starred as Neal in the TBS comedy Men at Work. He appears in the webshow MyMusic on YouTube as Indie.</originalabstract>
+<abstract>Adam_Richard_Busch ( born July_6_,_1978 ) is an_American_actor , film_director_and_singer best known_starring as Warren_Mears on the_television_series_Buffy the_Vampire_Slayer . He also starred as Neal in the_TBS_comedy_Men at Work . He appears in the_webshow_MyMusic on YouTube as Indie .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Adam'), (5, 'Richard'), (13, 'Busch'), (19, '('), (20, 'born'), (25, 'July'), (30, '6'), (31, ','), (33, '1978'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, ','), (61, 'film'), (66, 'director'), (75, 'and'), (79, 'singer'), (86, 'best'), (91, 'known'), (97, 'starring'), (106, 'as'), (109, 'Warren'), (116, 'Mears'), (122, 'on'), (125, 'the'), (129, 'television'), (140, 'series'), (147, 'Buffy'), (153, 'the'), (157, 'Vampire'), (165, 'Slayer'), (171, '.'), (173, 'He'), (176, 'also'), (181, 'starred'), (189, 'as'), (192, 'Neal'), (197, 'in'), (200, 'the'), (204, 'TBS'), (208, 'comedy'), (215, 'Men'), (219, 'at'), (222, 'Work'), (226, '.'), (228, 'He'), (231, 'appears'), (239, 'in'), (242, 'the'), (246, 'webshow'), (254, 'MyMusic'), (262, 'on'), (265, 'YouTube'), (273, 'as'), (276, 'Indie'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('Adam Richard Busch',0, 18), ('July 6, 1978',25, 37), ('an American actor',42, 59), ('film director and singer',61, 85), ('known starring',91, 105), ('Warren Mears',109, 121), ('the television series Buffy',125, 152), ('the Vampire Slayer',153, 171), ('the TBS comedy Men',200, 218), ('the webshow MyMusic',242, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'RB', 'VBN', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'DT', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'IN', 'NN', '.', 'PRP', 'VBZ', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Adam'), (5, 'Richard'), (13, 'Busch'), (19, '('), (20, 'born'), (25, 'July'), (30, '6'), (31, ','), (33, '1978'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, ','), (61, 'film'), (66, 'director'), (75, 'and'), (79, 'singer'), (86, 'best'), (91, 'known'), (97, 'starring'), (106, 'as'), (109, 'Warren'), (116, 'Mears'), (122, 'on'), (125, 'the'), (129, 'television'), (140, 'series'), (147, 'Buffy'), (153, 'the'), (157, 'Vampire'), (165, 'Slayer'), (171, '.'), (173, 'He'), (176, 'also'), (181, 'starred'), (189, 'as'), (192, 'Neal'), (197, 'in'), (200, 'the'), (204, 'TBS'), (208, 'comedy'), (215, 'Men'), (219, 'at'), (222, 'Work'), (226, '.'), (228, 'He'), (231, 'appears'), (239, 'in'), (242, 'the'), (246, 'webshow'), (254, 'MyMusic'), (262, 'on'), (265, 'YouTube'), (273, 'as'), (276, 'Indie'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('Adam Richard Busch', 0, 18), ('July 6, 1978', 25, 37), ('an American actor', 42, 59), ('film director', 61, 74), ('singer', 79, 85), ('best known starring', 86, 105), ('Warren Mears', 109, 121), ('the television series', 125, 146), ('Buffy the Vampire Slayer', 147, 171), ('the TBS comedy Men', 200, 218), ('Men at Work', 215, 226), ('the webshow MyMusic', 242, 261), ('YouTube', 265, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'DT', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNP', '.', 'PRP', 'VBZ', 'IN', 'DT', 'NN', 'NNP', 'IN', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

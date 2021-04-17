@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tom Drake</title>
+<link/>https://en.wikipedia.org/wiki/Tom_Drake
+<annotated>0</annotated>
+<originalabstract>Tom Drake (born Alfred Sinclair Alderdice, August 5, 1918 – August 11, 1982) was an American actor. Drake made films starting in 1940 and continuing until the mid-1970s, and also made TV acting appearances.</originalabstract>
+<abstract>Tom_Drake ( born Alfred_Sinclair_Alderdice , August_5_,_1918 – August_11_,_1982 ) was an_American_actor . Drake made films starting in 1940 and continuing until the_mid-1970s , and also made TV_acting_appearances .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tom'), (4, 'Drake'), (10, '('), (11, 'born'), (16, 'Alfred'), (23, 'Sinclair'), (32, 'Alderdice'), (41, ','), (43, 'August'), (50, '5'), (51, ','), (53, '1918'), (58, '–'), (60, 'August'), (67, '11'), (69, ','), (71, '1982'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'American'), (93, 'actor'), (98, '.'), (100, 'Drake'), (106, 'made'), (111, 'films'), (117, 'starting'), (126, 'in'), (129, '1940'), (134, 'and'), (138, 'continuing'), (149, 'until'), (155, 'the'), (159, 'mid-1970s'), (168, ','), (170, 'and'), (174, 'also'), (179, 'made'), (184, 'TV'), (187, 'acting'), (194, 'appearances'), (205, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tom Drake',0, 9), ('Alfred Sinclair Alderdice',16, 41), ('August 5, 1918',43, 57), ('August 11, 1982',60, 75), ('an American actor',81, 98), ('the mid-1970s',155, 168), ('TV acting appearances',184, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'NNS', 'VBG', 'IN', 'CD', 'CC', 'VBG', 'IN', 'DT', 'NNS', ',', 'CC', 'RB', 'VBD', 'NN', 'VBG', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tom'), (4, 'Drake'), (10, '('), (11, 'born'), (16, 'Alfred'), (23, 'Sinclair'), (32, 'Alderdice'), (41, ','), (43, 'August'), (50, '5'), (51, ','), (53, '1918'), (58, '–'), (60, 'August'), (67, '11'), (69, ','), (71, '1982'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'American'), (93, 'actor'), (98, '.'), (100, 'Drake'), (106, 'made'), (111, 'films'), (117, 'starting'), (126, 'in'), (129, '1940'), (134, 'and'), (138, 'continuing'), (149, 'until'), (155, 'the'), (159, 'mid-1970s'), (168, ','), (170, 'and'), (174, 'also'), (179, 'made'), (184, 'TV'), (187, 'acting'), (194, 'appearances'), (205, '.')])</spacy_tokens>
+<spacy_chunks>[('Tom Drake', 0, 9), ('(born Alfred Sinclair Alderdice', 10, 41), ('August 5, 1918', 43, 57), ('August 11, 1982', 60, 75), ('an American actor', 81, 98), ('the mid-1970s', 155, 168)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'NNS', 'VBG', 'IN', 'CD', 'CC', 'VBG', 'IN', 'DT', 'NNS', ',', 'CC', 'RB', 'VBD', 'NN', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

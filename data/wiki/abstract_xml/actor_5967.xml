@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Travis Schuldt</title>
+<link/>https://en.wikipedia.org/wiki/Travis_Schuldt
+<annotated>0</annotated>
+<originalabstract>Travis Schuldt (born September 18, 1974) is an American actor. He originated the role of Ethan Winthrop on Passions, and played the recurring roles of Keith Dudemeister on Scrubs, Rick/Subway on Community, and Ben Smith on It's Always Sunny in Philadelphia.</originalabstract>
+<abstract>Travis_Schuldt ( born September_18_,_1974 ) is an_American_actor . He originated the_role of Ethan_Winthrop on Passions , and played the_recurring_roles of Keith_Dudemeister on Scrubs , Rick/Subway on Community , and Ben_Smith on It 's Always_Sunny in Philadelphia .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Travis'), (7, 'Schuldt'), (15, '('), (16, 'born'), (21, 'September'), (31, '18'), (33, ','), (35, '1974'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (61, '.'), (63, 'He'), (66, 'originated'), (77, 'the'), (81, 'role'), (86, 'of'), (89, 'Ethan'), (95, 'Winthrop'), (104, 'on'), (107, 'Passions'), (115, ','), (117, 'and'), (121, 'played'), (128, 'the'), (132, 'recurring'), (142, 'roles'), (148, 'of'), (151, 'Keith'), (157, 'Dudemeister'), (169, 'on'), (172, 'Scrubs'), (178, ','), (180, 'Rick/Subway'), (192, 'on'), (195, 'Community'), (204, ','), (206, 'and'), (210, 'Ben'), (214, 'Smith'), (220, 'on'), (223, 'It'), (225, '\'s'), (228, 'Always'), (235, 'Sunny'), (241, 'in'), (244, 'Philadelphia'), (256, '.')])</stanford_tokens>
+<opennlp_chunks>[('Travis Schuldt',0, 14), ('September 18, 1974',21, 39), ('an American actor',44, 61), ('the role',77, 85), ('Ethan Winthrop',89, 103), ('the recurring roles',128, 147), ('Keith Dudemeister',151, 168), ('Ben Smith',210, 219), ('Always Sunny',228, 240)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNPS', ',', 'CC', 'VBD', 'DT', 'VBG', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'PRP', 'VBZ', 'RB', 'JJ', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Travis'), (7, 'Schuldt'), (15, '('), (16, 'born'), (21, 'September'), (31, '18'), (33, ','), (35, '1974'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (61, '.'), (63, 'He'), (66, 'originated'), (77, 'the'), (81, 'role'), (86, 'of'), (89, 'Ethan'), (95, 'Winthrop'), (104, 'on'), (107, 'Passions'), (115, ','), (117, 'and'), (121, 'played'), (128, 'the'), (132, 'recurring'), (142, 'roles'), (148, 'of'), (151, 'Keith'), (157, 'Dudemeister'), (169, 'on'), (172, 'Scrubs'), (178, ','), (180, 'Rick'), (184, '/'), (185, 'Subway'), (192, 'on'), (195, 'Community'), (204, ','), (206, 'and'), (210, 'Ben'), (214, 'Smith'), (220, 'on'), (223, 'It'), (225, "'s"), (228, 'Always'), (235, 'Sunny'), (241, 'in'), (244, 'Philadelphia'), (256, '.')])</spacy_tokens>
+<spacy_chunks>[('Travis Schuldt', 0, 14), ('September 18, 1974', 21, 39), ('an American actor', 44, 61), ('the role', 77, 85), ('Ethan Winthrop', 89, 103), ('Passions', 107, 115), ('the recurring roles', 128, 147), ('Keith Dudemeister', 151, 168), ('Scrubs', 172, 178), ('Rick/Subway', 180, 191), ('Community', 195, 204), ('Ben Smith', 210, 219), ("It's Always Sunny in Philadelphia", 223, 256)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNPS', ',', 'CC', 'VBD', 'DT', 'VBG', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'SYM', 'NNP', 'IN', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'PRP', 'VBZ', 'RB', 'JJ', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maggie Steed</title>
+<link/>https://en.wikipedia.org/wiki/Maggie_Steed
+<annotated>0</annotated>
+<originalabstract>Maggie Steed (born Margaret Baker; 1 December 1946) is an English actress and comedian.</originalabstract>
+<abstract>Maggie_Steed ( born Margaret_Baker ; 1_December_1946 ) is an_English_actress_and_comedian .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maggie'), (7, 'Steed'), (13, '('), (14, 'born'), (19, 'Margaret'), (28, 'Baker'), (33, ';'), (35, '1'), (37, 'December'), (46, '1946'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'English'), (66, 'actress'), (74, 'and'), (78, 'comedian'), (86, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maggie Steed',0, 12), ('Margaret Baker',19, 33), ('1 December 1946',35, 50), ('an English actress and comedian',55, 86)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maggie'), (7, 'Steed'), (13, '('), (14, 'born'), (19, 'Margaret'), (28, 'Baker'), (33, ';'), (35, '1'), (37, 'December'), (46, '1946'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'English'), (66, 'actress'), (74, 'and'), (78, 'comedian'), (86, '.')])</spacy_tokens>
+<spacy_chunks>[('Maggie Steed', 0, 12), ('(born Margaret Baker', 13, 33), ('1 December 1946', 35, 50), ('an English actress', 55, 73), ('comedian', 78, 86)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

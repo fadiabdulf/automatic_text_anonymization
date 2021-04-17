@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maxie Rosenbloom</title>
+<link/>https://en.wikipedia.org/wiki/Maxie_Rosenbloom
+<annotated>0</annotated>
+<originalabstract>Max Everitt Rosenbloom (November 1, 1907 – March 6, 1976) was an American boxer, world boxing champion among light heavyweight champions of 1930-1934, member of the International Boxing Hall of Fame, actor, and television personality.</originalabstract>
+<abstract>Max_Everitt_Rosenbloom ( November_1_,_1907 – March_6_,_1976 ) was an_American_boxer , world_boxing_champion among light_heavyweight_champions of 1930-1934 , member of the_International_Boxing_Hall of Fame , actor , and television_personality .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Max'), (4, 'Everitt'), (12, 'Rosenbloom'), (23, '('), (24, 'November'), (33, '1'), (34, ','), (36, '1907'), (41, '–'), (43, 'March'), (49, '6'), (50, ','), (52, '1976'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'boxer'), (79, ','), (81, 'world'), (87, 'boxing'), (94, 'champion'), (103, 'among'), (109, 'light'), (115, 'heavyweight'), (127, 'champions'), (137, 'of'), (140, '1930-1934'), (149, ','), (151, 'member'), (158, 'of'), (161, 'the'), (165, 'International'), (179, 'Boxing'), (186, 'Hall'), (191, 'of'), (194, 'Fame'), (198, ','), (200, 'actor'), (205, ','), (207, 'and'), (211, 'television'), (222, 'personality'), (233, '.')])</stanford_tokens>
+<opennlp_chunks>[('Max Everitt Rosenbloom',0, 22), ('November 1, 1907',24, 40), ('March 6, 1976',43, 56), ('an American boxer',62, 79), ('world boxing champion',81, 102), ('light heavyweight champions',109, 136), ('the International Boxing Hall',161, 190), ('television personality',211, 233)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'NN', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'CD', ',', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NN', ',', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Max'), (4, 'Everitt'), (12, 'Rosenbloom'), (23, '('), (24, 'November'), (33, '1'), (34, ','), (36, '1907'), (41, '–'), (43, 'March'), (49, '6'), (50, ','), (52, '1976'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'boxer'), (79, ','), (81, 'world'), (87, 'boxing'), (94, 'champion'), (103, 'among'), (109, 'light'), (115, 'heavyweight'), (127, 'champions'), (137, 'of'), (140, '1930'), (144, '-'), (145, '1934'), (149, ','), (151, 'member'), (158, 'of'), (161, 'the'), (165, 'International'), (179, 'Boxing'), (186, 'Hall'), (191, 'of'), (194, 'Fame'), (198, ','), (200, 'actor'), (205, ','), (207, 'and'), (211, 'television'), (222, 'personality'), (233, '.')])</spacy_tokens>
+<spacy_chunks>[('Max Everitt Rosenbloom', 0, 22), ('November 1, 1907', 24, 40), ('March 6, 1976', 43, 56), ('an American boxer', 62, 79), ('world boxing champion', 81, 102), ('light heavyweight champions', 109, 136), ('member', 151, 157), ('the International Boxing Hall', 161, 190), ('International Boxing Hall of Fame', 165, 198), ('television personality', 211, 233)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'NN', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'CD', 'SYM', 'CD', ',', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NN', ',', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Thierry Frémont</title>
+<link/>https://en.wikipedia.org/wiki/Thierry_Fr%C3%A9mont
+<annotated>0</annotated>
+<originalabstract>Thierry Frémont (born 24 July 1962) is a French actor. He has appeared in more than 65 films and television shows since 1984. He starred in the 1991 film Fortune Express, which was entered into the 41st Berlin International Film Festival.</originalabstract>
+<abstract>Thierry_Frémont ( born 24_July_1962 ) is a_French_actor . He has_appeared in more_than_65_films_and_television_shows since 1984 . He starred in the_1991_film_Fortune_Express , which was_entered into the_41st_Berlin_International_Film_Festival .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Thierry'), (8, 'Frémont'), (16, '('), (17, 'born'), (22, '24'), (25, 'July'), (30, '1962'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'French'), (48, 'actor'), (53, '.'), (55, 'He'), (58, 'has'), (62, 'appeared'), (71, 'in'), (74, 'more'), (79, 'than'), (84, '65'), (87, 'films'), (93, 'and'), (97, 'television'), (108, 'shows'), (114, 'since'), (120, '1984'), (124, '.'), (126, 'He'), (129, 'starred'), (137, 'in'), (140, 'the'), (144, '1991'), (149, 'film'), (154, 'Fortune'), (162, 'Express'), (169, ','), (171, 'which'), (177, 'was'), (181, 'entered'), (189, 'into'), (194, 'the'), (198, '41st'), (203, 'Berlin'), (210, 'International'), (224, 'Film'), (229, 'Festival'), (237, '.')])</stanford_tokens>
+<opennlp_chunks>[('Thierry Frémont',0, 15), ('24 July 1962',22, 34), ('a French actor',39, 53), ('has appeared',58, 70), ('more than 65 films and television shows',74, 113), ('the 1991 film Fortune Express',140, 169), ('was entered',177, 188), ('the 41st Berlin International Film Festival',194, 237)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Thierry'), (8, 'Frémont'), (16, '('), (17, 'born'), (22, '24'), (25, 'July'), (30, '1962'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'French'), (48, 'actor'), (53, '.'), (55, 'He'), (58, 'has'), (62, 'appeared'), (71, 'in'), (74, 'more'), (79, 'than'), (84, '65'), (87, 'films'), (93, 'and'), (97, 'television'), (108, 'shows'), (114, 'since'), (120, '1984'), (124, '.'), (126, 'He'), (129, 'starred'), (137, 'in'), (140, 'the'), (144, '1991'), (149, 'film'), (154, 'Fortune'), (162, 'Express'), (169, ','), (171, 'which'), (177, 'was'), (181, 'entered'), (189, 'into'), (194, 'the'), (198, '41st'), (203, 'Berlin'), (210, 'International'), (224, 'Film'), (229, 'Festival'), (237, '.')])</spacy_tokens>
+<spacy_chunks>[('Thierry Frémont', 0, 15), ('24 July 1962', 22, 34), ('a French actor', 39, 53), ('more than 65 films', 74, 92), ('television shows', 97, 113), ('the 1991 film', 140, 153), ('Fortune Express', 154, 169), ('the 41st Berlin International Film Festival', 194, 237)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

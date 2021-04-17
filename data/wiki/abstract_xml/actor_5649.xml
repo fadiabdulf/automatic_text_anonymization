@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tex Ritter</title>
+<link/>https://en.wikipedia.org/wiki/Tex_Ritter
+<annotated>0</annotated>
+<originalabstract>Woodward Maurice "Tex" Ritter (January 12, 1905 – January 2, 1974) was an American country music singer and actor popular from the mid-1930s into the 1960s, and the patriarch of the Ritter acting family (son John and grandsons Jason and Tyler). He is a member of the Country Music Hall of Fame.</originalabstract>
+<abstract>Woodward_Maurice_"_Tex_"_Ritter ( January_12_,_1905 – January_2_,_1974 ) was an_American_country_music_singer_and_actor_popular from the_mid-1930s into the_1960s , and the_patriarch of the_Ritter_acting_family ( son John and grandsons_Jason_and_Tyler ) . He is a_member of the_Country_Music_Hall of Fame .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Woodward'), (9, 'Maurice'), (17, '"'), (18, 'Tex'), (21, '"'), (23, 'Ritter'), (30, '('), (31, 'January'), (39, '12'), (41, ','), (43, '1905'), (48, '–'), (50, 'January'), (58, '2'), (59, ','), (61, '1974'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'country'), (91, 'music'), (97, 'singer'), (104, 'and'), (108, 'actor'), (114, 'popular'), (122, 'from'), (127, 'the'), (131, 'mid-1930s'), (141, 'into'), (146, 'the'), (150, '1960s'), (155, ','), (157, 'and'), (161, 'the'), (165, 'patriarch'), (175, 'of'), (178, 'the'), (182, 'Ritter'), (189, 'acting'), (196, 'family'), (203, '('), (204, 'son'), (208, 'John'), (213, 'and'), (217, 'grandsons'), (227, 'Jason'), (233, 'and'), (237, 'Tyler'), (242, ')'), (243, '.'), (245, 'He'), (248, 'is'), (251, 'a'), (253, 'member'), (260, 'of'), (263, 'the'), (267, 'Country'), (275, 'Music'), (281, 'Hall'), (286, 'of'), (289, 'Fame'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('Woodward Maurice "Tex" Ritter',0, 29), ('January 12, 1905',31, 47), ('January 2, 1974',50, 65), ('an American country music singer and actor popular',71, 121), ('the mid-1930s',127, 140), ('the 1960s',146, 155), ('the patriarch',161, 174), ('the Ritter acting family',178, 202), ('grandsons Jason and Tyler',217, 242), ('a member',251, 259), ('the Country Music Hall',263, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', 'JJ', 'IN', 'DT', 'CD', 'IN', 'DT', 'NNS', ',', 'CC', 'DT', 'NN', 'IN', 'DT', 'NNP', 'VBG', 'NN', '-LRB-', 'NN', 'NNP', 'CC', 'NNS', 'NNP', 'CC', 'NNP', '-RRB-', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Woodward'), (9, 'Maurice'), (17, '"'), (18, 'Tex'), (21, '"'), (23, 'Ritter'), (30, '('), (31, 'January'), (39, '12'), (41, ','), (43, '1905'), (48, '–'), (50, 'January'), (58, '2'), (59, ','), (61, '1974'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'country'), (91, 'music'), (97, 'singer'), (104, 'and'), (108, 'actor'), (114, 'popular'), (122, 'from'), (127, 'the'), (131, 'mid-1930s'), (141, 'into'), (146, 'the'), (150, '1960s'), (155, ','), (157, 'and'), (161, 'the'), (165, 'patriarch'), (175, 'of'), (178, 'the'), (182, 'Ritter'), (189, 'acting'), (196, 'family'), (203, '('), (204, 'son'), (208, 'John'), (213, 'and'), (217, 'grandsons'), (227, 'Jason'), (233, 'and'), (237, 'Tyler'), (242, ')'), (243, '.'), (245, 'He'), (248, 'is'), (251, 'a'), (253, 'member'), (260, 'of'), (263, 'the'), (267, 'Country'), (275, 'Music'), (281, 'Hall'), (286, 'of'), (289, 'Fame'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('Woodward Maurice "Tex" Ritter', 0, 29), ('(January', 30, 38), ('January 12, 1905', 31, 47), ('January 2, 1974', 50, 65), ('an American country music singer', 71, 103), ('the mid-1930s', 127, 140), ('the 1960s', 146, 155), ('the patriarch', 161, 174), ('the Ritter acting family', 178, 202), ('grandsons Jason', 217, 232), ('a member', 251, 259), ('the Country Music Hall', 263, 285), ('Country Music Hall of Fame', 267, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', 'JJ', 'IN', 'DT', 'NNS', 'IN', 'DT', 'NNS', ',', 'CC', 'DT', 'NN', 'IN', 'DT', 'NNP', 'VBG', 'NN', '-LRB-', 'NN', 'NNP', 'CC', 'NNS', 'NNP', 'CC', 'NNP', '-RRB-', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles Eaton (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Charles_Eaton_(actor)
+<annotated>0</annotated>
+<originalabstract>Charles Eaton (June 22, 1910 – August 15, 2004) was an American juvenile stage and film performer, and the most important performing male member of the clan once referred to as the Seven Little Eatons. At one time or another, all the siblings appeared in The Ziegfeld Follies each year between 1918 through 1923.</originalabstract>
+<abstract>Charles_Eaton ( June_22_,_1910 – August_15_,_2004 ) was an_American_juvenile_stage_and_film_performer , and the_most_important_performing_male_member of the_clan once referred_to as the_Seven_Little_Eatons . At one_time or another , all_the_siblings appeared in The_Ziegfeld_Follies each_year between 1918 through 1923 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Eaton'), (14, '('), (15, 'June'), (20, '22'), (22, ','), (24, '1910'), (29, '–'), (31, 'August'), (38, '15'), (40, ','), (42, '2004'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'juvenile'), (73, 'stage'), (79, 'and'), (83, 'film'), (88, 'performer'), (97, ','), (99, 'and'), (103, 'the'), (107, 'most'), (112, 'important'), (122, 'performing'), (133, 'male'), (138, 'member'), (145, 'of'), (148, 'the'), (152, 'clan'), (157, 'once'), (162, 'referred'), (171, 'to'), (174, 'as'), (177, 'the'), (181, 'Seven'), (187, 'Little'), (194, 'Eatons'), (200, '.'), (202, 'At'), (205, 'one'), (209, 'time'), (214, 'or'), (217, 'another'), (224, ','), (226, 'all'), (230, 'the'), (234, 'siblings'), (243, 'appeared'), (252, 'in'), (255, 'The'), (259, 'Ziegfeld'), (268, 'Follies'), (276, 'each'), (281, 'year'), (286, 'between'), (294, '1918'), (299, 'through'), (307, '1923'), (311, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Eaton',0, 13), ('June 22, 1910',15, 28), ('August 15, 2004',31, 46), ('an American juvenile stage and film performer',52, 97), ('the most important performing male member',103, 144), ('the clan',148, 156), ('referred to',162, 173), ('the Seven Little Eatons',177, 200), ('one time',205, 213), ('all the siblings',226, 242), ('The Ziegfeld Follies',255, 275), ('each year',276, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'CC', 'DT', 'RBS', 'JJ', 'VBG', 'JJ', 'NN', 'IN', 'DT', 'NN', 'RB', 'VBD', 'TO', 'IN', 'DT', 'CD', 'JJ', 'NNPS', '.', 'IN', 'CD', 'NN', 'CC', 'DT', ',', 'PDT', 'DT', 'NNS', 'VBD', 'IN', 'DT', 'NNP', 'NNPS', 'DT', 'NN', 'IN', 'CD', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Eaton'), (14, '('), (15, 'June'), (20, '22'), (22, ','), (24, '1910'), (29, '–'), (31, 'August'), (38, '15'), (40, ','), (42, '2004'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'juvenile'), (73, 'stage'), (79, 'and'), (83, 'film'), (88, 'performer'), (97, ','), (99, 'and'), (103, 'the'), (107, 'most'), (112, 'important'), (122, 'performing'), (133, 'male'), (138, 'member'), (145, 'of'), (148, 'the'), (152, 'clan'), (157, 'once'), (162, 'referred'), (171, 'to'), (174, 'as'), (177, 'the'), (181, 'Seven'), (187, 'Little'), (194, 'Eatons'), (200, '.'), (202, 'At'), (205, 'one'), (209, 'time'), (214, 'or'), (217, 'another'), (224, ','), (226, 'all'), (230, 'the'), (234, 'siblings'), (243, 'appeared'), (252, 'in'), (255, 'The'), (259, 'Ziegfeld'), (268, 'Follies'), (276, 'each'), (281, 'year'), (286, 'between'), (294, '1918'), (299, 'through'), (307, '1923'), (311, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Eaton', 0, 13), ('June 22, 1910', 15, 28), ('August 15, 2004', 31, 46), ('an American juvenile stage', 52, 78), ('performer', 88, 97), ('the most important performing male member', 103, 144), ('the clan', 148, 156), ('The Seven Little Eatons', 177, 200), ('one time', 205, 213), ('all the siblings', 226, 242), ('The Ziegfeld Follies', 255, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'CC', 'DT', 'RBS', 'JJ', 'VBG', 'JJ', 'NN', 'IN', 'DT', 'NN', 'RB', 'VBD', 'IN', 'IN', 'DT', 'NNP', 'NNP', 'NNPS', '.', 'IN', 'CD', 'NN', 'CC', 'DT', ',', 'PDT', 'DT', 'NNS', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'DT', 'NN', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

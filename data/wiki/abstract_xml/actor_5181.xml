@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Moultrie Patten</title>
+<link/>https://en.wikipedia.org/wiki/Moultrie_Patten
+<annotated>0</annotated>
+<originalabstract>Moultrie Patten (June 10, 1919 – March 18, 2009) was an American actor and jazz musician. Patten was perhaps best known for his role as Walt the trapper on the American television series, Northern Exposure, which aired from 1990 until 1995. Patten appeared as Walt Kupfer from 1993 until the show's ending in 1995.</originalabstract>
+<abstract>Moultrie_Patten ( June_10_,_1919 – March_18_,_2009 ) was an_American_actor_and_jazz_musician . Patten was_perhaps_best_known for his_role as Walt the_trapper on the_American_television_series , Northern_Exposure , which aired from 1990 until 1995 . Patten appeared as Walt_Kupfer from 1993 until the_show 's_ending in 1995 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Moultrie'), (9, 'Patten'), (16, '('), (17, 'June'), (22, '10'), (24, ','), (26, '1919'), (31, '–'), (33, 'March'), (39, '18'), (41, ','), (43, '2009'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (71, 'and'), (75, 'jazz'), (80, 'musician'), (88, '.'), (90, 'Patten'), (97, 'was'), (101, 'perhaps'), (109, 'best'), (114, 'known'), (120, 'for'), (124, 'his'), (128, 'role'), (133, 'as'), (136, 'Walt'), (141, 'the'), (145, 'trapper'), (153, 'on'), (156, 'the'), (160, 'American'), (169, 'television'), (180, 'series'), (186, ','), (188, 'Northern'), (197, 'Exposure'), (205, ','), (207, 'which'), (213, 'aired'), (219, 'from'), (224, '1990'), (229, 'until'), (235, '1995'), (239, '.'), (241, 'Patten'), (248, 'appeared'), (257, 'as'), (260, 'Walt'), (265, 'Kupfer'), (272, 'from'), (277, '1993'), (282, 'until'), (288, 'the'), (292, 'show'), (296, '\'s'), (299, 'ending'), (306, 'in'), (309, '1995'), (313, '.')])</stanford_tokens>
+<opennlp_chunks>[('Moultrie Patten',0, 15), ('June 10, 1919',17, 30), ('March 18, 2009',33, 47), ('an American actor and jazz musician',53, 88), ('was perhaps best known',97, 119), ('his role',124, 132), ('the trapper',141, 152), ('the American television series',156, 186), ('Northern Exposure',188, 205), ('Walt Kupfer',260, 271), ('the show',288, 296), ('\'s ending',296, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NN', 'VBD', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', ',', 'JJ', 'NN', ',', 'WDT', 'VBD', 'IN', 'CD', 'IN', 'CD', '.', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'DT', 'NN', 'POS', 'VBG', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Moultrie'), (9, 'Patten'), (16, '('), (17, 'June'), (22, '10'), (24, ','), (26, '1919'), (31, '–'), (33, 'March'), (39, '18'), (41, ','), (43, '2009'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (71, 'and'), (75, 'jazz'), (80, 'musician'), (88, '.'), (90, 'Patten'), (97, 'was'), (101, 'perhaps'), (109, 'best'), (114, 'known'), (120, 'for'), (124, 'his'), (128, 'role'), (133, 'as'), (136, 'Walt'), (141, 'the'), (145, 'trapper'), (153, 'on'), (156, 'the'), (160, 'American'), (169, 'television'), (180, 'series'), (186, ','), (188, 'Northern'), (197, 'Exposure'), (205, ','), (207, 'which'), (213, 'aired'), (219, 'from'), (224, '1990'), (229, 'until'), (235, '1995'), (239, '.'), (241, 'Patten'), (248, 'appeared'), (257, 'as'), (260, 'Walt'), (265, 'Kupfer'), (272, 'from'), (277, '1993'), (282, 'until'), (288, 'the'), (292, 'show'), (296, "'s"), (299, 'ending'), (306, 'in'), (309, '1995'), (313, '.')])</spacy_tokens>
+<spacy_chunks>[('Moultrie Patten', 0, 15), ('June 10, 1919', 17, 30), ('March 18, 2009', 33, 47), ('an American actor and jazz musician', 53, 88), ('his role', 124, 132), ('the trapper', 141, 152), ('the American television series', 156, 186), ('Northern Exposure', 188, 205), ('Walt Kupfer', 260, 271), ('the show', 288, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', ',', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', 'IN', 'CD', '.', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'DT', 'NN', 'POS', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

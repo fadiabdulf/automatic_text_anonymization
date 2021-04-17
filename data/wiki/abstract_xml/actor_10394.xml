@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ramsay Ames</title>
+<link/>https://en.wikipedia.org/wiki/Ramsay_Ames
+<annotated>0</annotated>
+<originalabstract>Ramsay Ames (born Phillips Ames, March 30, 1919 – March 30, 1998) was a leading 1940s American B movie actress, model, dancer, pin-up girl and television host. She appeared in the film The Mummy's Ghost (1944), where she 
+played the Princess Ananka.</originalabstract>
+<abstract>Ramsay_Ames ( born Phillips_Ames , March_30_,_1919 – March_30_,_1998 ) was a_leading_1940s_American_B_movie_actress , model , dancer , pin-up_girl_and_television_host . She appeared in the_film The_Mummy 's_Ghost_(_1944_) , where she played the_Princess_Ananka .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ramsay'), (7, 'Ames'), (12, '('), (13, 'born'), (18, 'Phillips'), (27, 'Ames'), (31, ','), (33, 'March'), (39, '30'), (41, ','), (43, '1919'), (48, '–'), (50, 'March'), (56, '30'), (58, ','), (60, '1998'), (64, ')'), (66, 'was'), (70, 'a'), (72, 'leading'), (80, '1940s'), (86, 'American'), (95, 'B'), (97, 'movie'), (103, 'actress'), (110, ','), (112, 'model'), (117, ','), (119, 'dancer'), (125, ','), (127, 'pin-up'), (134, 'girl'), (139, 'and'), (143, 'television'), (154, 'host'), (158, '.'), (160, 'She'), (164, 'appeared'), (173, 'in'), (176, 'the'), (180, 'film'), (185, 'The'), (189, 'Mummy'), (194, '\'s'), (197, 'Ghost'), (203, '('), (204, '1944'), (208, ')'), (209, ','), (211, 'where'), (217, 'she'), (222, 'played'), (229, 'the'), (233, 'Princess'), (242, 'Ananka'), (248, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ramsay Ames',0, 11), ('Phillips Ames',18, 31), ('March 30, 1919',33, 47), ('March 30, 1998',50, 64), ('a leading 1940s American B movie actress',70, 110), ('pin-up girl and television host',127, 158), ('the film',176, 184), ('The Mummy',185, 194), ('\'s Ghost (1944)',194, 209), ('the Princess Ananka',229, 248)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'VBG', 'CD', 'JJ', 'NN', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'DT', 'NN', 'POS', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'WRB', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ramsay'), (7, 'Ames'), (12, '('), (13, 'born'), (18, 'Phillips'), (27, 'Ames'), (31, ','), (33, 'March'), (39, '30'), (41, ','), (43, '1919'), (48, '–'), (50, 'March'), (56, '30'), (58, ','), (60, '1998'), (64, ')'), (66, 'was'), (70, 'a'), (72, 'leading'), (80, '1940s'), (86, 'American'), (95, 'B'), (97, 'movie'), (103, 'actress'), (110, ','), (112, 'model'), (117, ','), (119, 'dancer'), (125, ','), (127, 'pin'), (130, '-'), (131, 'up'), (134, 'girl'), (139, 'and'), (143, 'television'), (154, 'host'), (158, '.'), (160, 'She'), (164, 'appeared'), (173, 'in'), (176, 'the'), (180, 'film'), (185, 'The'), (189, 'Mummy'), (194, "'s"), (197, 'Ghost'), (203, '('), (204, '1944'), (208, ')'), (209, ','), (211, 'where'), (217, 'she'), (222, 'played'), (229, 'the'), (233, 'Princess'), (242, 'Ananka'), (248, '.')])</spacy_tokens>
+<spacy_chunks>[('Ramsay Ames', 0, 11), ('(born Phillips Ames', 12, 31), ('March 30, 1919', 33, 47), ('March 30, 1998', 50, 64), ('a leading 1940s American B movie actress', 70, 110), ('dancer', 119, 125), ('pin-up girl and television host', 127, 158), ('the film', 176, 184), ("The Mummy's Ghost", 185, 202), ('the Princess Ananka', 229, 248)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'CD', 'JJ', 'NNP', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'HYPH', 'RP', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'DT', 'NNP', 'POS', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'WRB', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

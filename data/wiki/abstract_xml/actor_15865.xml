@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Debbie Weems</title>
+<link/>https://en.wikipedia.org/wiki/Debbie_Weems
+<annotated>0</annotated>
+<originalabstract>Deborah Weems (February 3, 1951 - February 22, 1978) was an American actress and singer. She is best remembered for her recurring roles on the children's television program Captain Kangaroo.</originalabstract>
+<abstract>Deborah_Weems ( February_3_,_1951 - February_22_,_1978 ) was an_American_actress_and_singer . She is_best_remembered for her_recurring_roles on the_children 's_television_program_Captain_Kangaroo .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Deborah'), (8, 'Weems'), (14, '('), (15, 'February'), (24, '3'), (25, ','), (27, '1951'), (32, '-'), (34, 'February'), (43, '22'), (45, ','), (47, '1978'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actress'), (77, 'and'), (81, 'singer'), (87, '.'), (89, 'She'), (93, 'is'), (96, 'best'), (101, 'remembered'), (112, 'for'), (116, 'her'), (120, 'recurring'), (130, 'roles'), (136, 'on'), (139, 'the'), (143, 'children'), (151, '\'s'), (154, 'television'), (165, 'program'), (173, 'Captain'), (181, 'Kangaroo'), (189, '.')])</stanford_tokens>
+<opennlp_chunks>[('Deborah Weems',0, 13), ('February 3, 1951',15, 31), ('February 22, 1978',34, 51), ('an American actress and singer',57, 87), ('is best remembered',93, 111), ('her recurring roles',116, 135), ('the children',139, 151), ('\'s television program Captain Kangaroo',151, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'JJS', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Deborah'), (8, 'Weems'), (14, '('), (15, 'February'), (24, '3'), (25, ','), (27, '1951'), (32, '-'), (34, 'February'), (43, '22'), (45, ','), (47, '1978'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actress'), (77, 'and'), (81, 'singer'), (87, '.'), (89, 'She'), (93, 'is'), (96, 'best'), (101, 'remembered'), (112, 'for'), (116, 'her'), (120, 'recurring'), (130, 'roles'), (136, 'on'), (139, 'the'), (143, 'children'), (151, "'s"), (154, 'television'), (165, 'program'), (173, 'Captain'), (181, 'Kangaroo'), (189, '.')])</spacy_tokens>
+<spacy_chunks>[('Deborah Weems', 0, 13), ('February 3, 1951', 15, 31), ('February 22, 1978', 34, 51), ('an American actress', 57, 76), ('singer', 81, 87), ('her recurring roles', 116, 135), ("the children's television program", 139, 172), ('Captain Kangaroo', 173, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

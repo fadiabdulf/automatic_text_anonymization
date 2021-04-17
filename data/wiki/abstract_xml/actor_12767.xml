@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Aggie Herring</title>
+<link/>https://en.wikipedia.org/wiki/Aggie_Herring
+<annotated>0</annotated>
+<originalabstract>Agnes "Aggie" Herring (February 4, 1876 – October 28, 1939) was an American actress. She appeared in 119 films between 1915 and 1939. She was born in San Francisco, California and died in Santa Monica, California.</originalabstract>
+<abstract>Agnes_"_Aggie_"_Herring ( February_4_,_1876 – October_28_,_1939 ) was an_American_actress . She appeared in 119_films between 1915_and_1939 . She was_born in San_Francisco , California and died in Santa_Monica , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Agnes'), (6, '"'), (7, 'Aggie'), (12, '"'), (14, 'Herring'), (22, '('), (23, 'February'), (32, '4'), (33, ','), (35, '1876'), (40, '–'), (42, 'October'), (50, '28'), (52, ','), (54, '1939'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actress'), (83, '.'), (85, 'She'), (89, 'appeared'), (98, 'in'), (101, '119'), (105, 'films'), (111, 'between'), (119, '1915'), (124, 'and'), (128, '1939'), (132, '.'), (134, 'She'), (138, 'was'), (142, 'born'), (147, 'in'), (150, 'San'), (154, 'Francisco'), (163, ','), (165, 'California'), (176, 'and'), (180, 'died'), (185, 'in'), (188, 'Santa'), (194, 'Monica'), (200, ','), (202, 'California'), (212, '.')])</stanford_tokens>
+<opennlp_chunks>[('Agnes "Aggie" Herring',0, 21), ('February 4, 1876',23, 39), ('October 28, 1939',42, 58), ('an American actress',64, 83), ('119 films',101, 110), ('1915 and 1939',119, 132), ('was born',138, 146), ('San Francisco',150, 163), ('Santa Monica',188, 200)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Agnes'), (6, '"'), (7, 'Aggie'), (12, '"'), (14, 'Herring'), (22, '('), (23, 'February'), (32, '4'), (33, ','), (35, '1876'), (40, '–'), (42, 'October'), (50, '28'), (52, ','), (54, '1939'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actress'), (83, '.'), (85, 'She'), (89, 'appeared'), (98, 'in'), (101, '119'), (105, 'films'), (111, 'between'), (119, '1915'), (124, 'and'), (128, '1939'), (132, '.'), (134, 'She'), (138, 'was'), (142, 'born'), (147, 'in'), (150, 'San'), (154, 'Francisco'), (163, ','), (165, 'California'), (176, 'and'), (180, 'died'), (185, 'in'), (188, 'Santa'), (194, 'Monica'), (200, ','), (202, 'California'), (212, '.')])</spacy_tokens>
+<spacy_chunks>[('Agnes "Aggie" Herring', 0, 21), ('February 4, 1876', 23, 39), ('October 28, 1939', 42, 58), ('an American actress', 64, 83), ('119 films', 101, 110), ('San Francisco, California', 150, 175), ('Santa Monica, California', 188, 212)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Irvin Willat</title>
+<link/>https://en.wikipedia.org/wiki/Irvin_Willat
+<annotated>0</annotated>
+<originalabstract>Irvin V. Willat (November 18, 1890 – April 17, 1976) was an American film director of the silent film era. He directed 39 films between 1917 and 1937. Early in his career Willat worked as a cinematographer on several films. His older brother Edwin Willat (1882–1950) was cinematographer on several silent films.</originalabstract>
+<abstract>Irvin_V._Willat ( November_18_,_1890 – April_17_,_1976 ) was an_American_film_director of the_silent_film_era . He directed 39_films between 1917_and_1937 . Early in his_career_Willat worked as a_cinematographer on several_films . His_older_brother_Edwin_Willat_(_1882 – 1950_) was cinematographer on several_silent_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Irvin'), (6, 'V.'), (9, 'Willat'), (16, '('), (17, 'November'), (26, '18'), (28, ','), (30, '1890'), (35, '–'), (37, 'April'), (43, '17'), (45, ','), (47, '1976'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'director'), (83, 'of'), (86, 'the'), (90, 'silent'), (97, 'film'), (102, 'era'), (105, '.'), (107, 'He'), (110, 'directed'), (119, '39'), (122, 'films'), (128, 'between'), (136, '1917'), (141, 'and'), (145, '1937'), (149, '.'), (151, 'Early'), (157, 'in'), (160, 'his'), (164, 'career'), (171, 'Willat'), (178, 'worked'), (185, 'as'), (188, 'a'), (190, 'cinematographer'), (206, 'on'), (209, 'several'), (217, 'films'), (222, '.'), (224, 'His'), (228, 'older'), (234, 'brother'), (242, 'Edwin'), (248, 'Willat'), (255, '('), (256, '1882'), (260, '–'), (261, '1950'), (265, ')'), (267, 'was'), (271, 'cinematographer'), (287, 'on'), (290, 'several'), (298, 'silent'), (305, 'films'), (310, '.')])</stanford_tokens>
+<opennlp_chunks>[('Irvin V. Willat',0, 15), ('November 18, 1890',17, 34), ('April 17, 1976',37, 51), ('an American film director',57, 82), ('the silent film era',86, 105), ('39 films',119, 127), ('1917 and 1937',136, 149), ('his career Willat',160, 177), ('a cinematographer',188, 205), ('several films',209, 222), ('His older brother Edwin Willat (1882',224, 260), ('1950)',261, 266), ('several silent films',290, 310)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'RB', 'IN', 'PRP$', 'NN', 'NN', 'VBD', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', '.', 'PRP$', 'JJR', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'NN', 'IN', 'JJ', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Irvin'), (6, 'V.'), (9, 'Willat'), (16, '('), (17, 'November'), (26, '18'), (28, ','), (30, '1890'), (35, '–'), (37, 'April'), (43, '17'), (45, ','), (47, '1976'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'director'), (83, 'of'), (86, 'the'), (90, 'silent'), (97, 'film'), (102, 'era'), (105, '.'), (107, 'He'), (110, 'directed'), (119, '39'), (122, 'films'), (128, 'between'), (136, '1917'), (141, 'and'), (145, '1937'), (149, '.'), (151, 'Early'), (157, 'in'), (160, 'his'), (164, 'career'), (171, 'Willat'), (178, 'worked'), (185, 'as'), (188, 'a'), (190, 'cinematographer'), (206, 'on'), (209, 'several'), (217, 'films'), (222, '.'), (224, 'His'), (228, 'older'), (234, 'brother'), (242, 'Edwin'), (248, 'Willat'), (255, '('), (256, '1882–1950'), (265, ')'), (267, 'was'), (271, 'cinematographer'), (287, 'on'), (290, 'several'), (298, 'silent'), (305, 'films'), (310, '.')])</spacy_tokens>
+<spacy_chunks>[('Irvin V. Willat', 0, 15), ('November 18, 1890', 17, 34), ('April 17, 1976', 37, 51), ('an American film director', 57, 82), ('the silent film era', 86, 105), ('39 films', 119, 127), ('his career', 160, 170), ('a cinematographer', 188, 205), ('several films', 209, 222), ('His older brother', 224, 241), ('Edwin Willat', 242, 254), ('several silent films', 290, 310)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'RB', 'IN', 'PRP$', 'NN', 'NNP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', '.', 'PRP$', 'JJR', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'NN', 'IN', 'JJ', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

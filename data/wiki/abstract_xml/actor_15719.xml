@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kaaren Verne</title>
+<link/>https://en.wikipedia.org/wiki/Kaaren_Verne
+<annotated>0</annotated>
+<originalabstract>Kaaren Verne (6 April 1918 – 23 December 1967), was a German-born actress. Sometimes billed as Karen Verne, she was originally a stage actress and member of the Berlin State Theatre.</originalabstract>
+<abstract>Kaaren_Verne ( 6_April_1918 – 23_December_1967 ) , was a_German-born_actress . Sometimes billed as Karen_Verne , she was originally a_stage_actress_and_member of the_Berlin_State_Theatre .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kaaren'), (7, 'Verne'), (13, '('), (14, '6'), (16, 'April'), (22, '1918'), (27, '–'), (29, '23'), (32, 'December'), (41, '1967'), (45, ')'), (46, ','), (48, 'was'), (52, 'a'), (54, 'German-born'), (66, 'actress'), (73, '.'), (75, 'Sometimes'), (85, 'billed'), (92, 'as'), (95, 'Karen'), (101, 'Verne'), (106, ','), (108, 'she'), (112, 'was'), (116, 'originally'), (127, 'a'), (129, 'stage'), (135, 'actress'), (143, 'and'), (147, 'member'), (154, 'of'), (157, 'the'), (161, 'Berlin'), (168, 'State'), (174, 'Theatre'), (181, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kaaren Verne',0, 12), ('6 April 1918',14, 26), ('23 December 1967',29, 45), ('a German-born actress',52, 73), ('Karen Verne',95, 106), ('a stage actress and member',127, 153), ('the Berlin State Theatre',157, 181)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'NN', 'CC', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kaaren'), (7, 'Verne'), (13, '('), (14, '6'), (16, 'April'), (22, '1918'), (27, '–'), (29, '23'), (32, 'December'), (41, '1967'), (45, ')'), (46, ','), (48, 'was'), (52, 'a'), (54, 'German'), (60, '-'), (61, 'born'), (66, 'actress'), (73, '.'), (75, 'Sometimes'), (85, 'billed'), (92, 'as'), (95, 'Karen'), (101, 'Verne'), (106, ','), (108, 'she'), (112, 'was'), (116, 'originally'), (127, 'a'), (129, 'stage'), (135, 'actress'), (143, 'and'), (147, 'member'), (154, 'of'), (157, 'the'), (161, 'Berlin'), (168, 'State'), (174, 'Theatre'), (181, '.')])</spacy_tokens>
+<spacy_chunks>[('Kaaren Verne', 0, 12), ('6 April 1918', 14, 26), ('23 December 1967', 29, 45), ('a German-born actress', 52, 73), ('Karen Verne', 95, 106), ('a stage actress', 127, 142), ('member', 147, 153), ('the Berlin State Theatre', 157, 181)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', '.', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'NN', 'CC', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

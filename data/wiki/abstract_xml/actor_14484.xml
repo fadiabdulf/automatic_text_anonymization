@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Amanda Peterson</title>
+<link/>https://en.wikipedia.org/wiki/Amanda_Peterson
+<annotated>0</annotated>
+<originalabstract>Amanda Peterson (born Phyllis Amanda Peterson, July 8, 1971 – July 3, 2015) was an American actress, most known for her role as Cindy Mancini in the 1987 comedy film Can't Buy Me Love.</originalabstract>
+<abstract>Amanda_Peterson ( born_Phyllis_Amanda_Peterson , July_8_,_1971 – July_3_,_2015 ) was an_American_actress , most_known for her_role as Cindy_Mancini in the_1987_comedy_film Ca_n't_Buy Me Love .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Amanda'), (7, 'Peterson'), (16, '('), (17, 'born'), (22, 'Phyllis'), (30, 'Amanda'), (37, 'Peterson'), (45, ','), (47, 'July'), (52, '8'), (53, ','), (55, '1971'), (60, '–'), (62, 'July'), (67, '3'), (68, ','), (70, '2015'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'actress'), (99, ','), (101, 'most'), (106, 'known'), (112, 'for'), (116, 'her'), (120, 'role'), (125, 'as'), (128, 'Cindy'), (134, 'Mancini'), (142, 'in'), (145, 'the'), (149, '1987'), (154, 'comedy'), (161, 'film'), (166, 'Ca'), (168, 'n\'t'), (172, 'Buy'), (176, 'Me'), (179, 'Love'), (183, '.')])</stanford_tokens>
+<opennlp_chunks>[('Amanda Peterson',0, 15), ('born Phyllis Amanda Peterson',17, 45), ('July 8, 1971',47, 59), ('July 3, 2015',62, 74), ('an American actress',80, 99), ('most known',101, 111), ('her role',116, 124), ('Cindy Mancini',128, 141), ('the 1987 comedy film',145, 165), ('Can\'t Buy',166, 175)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'MD', 'RB', 'VB', 'PRP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Amanda'), (7, 'Peterson'), (16, '('), (17, 'born'), (22, 'Phyllis'), (30, 'Amanda'), (37, 'Peterson'), (45, ','), (47, 'July'), (52, '8'), (53, ','), (55, '1971'), (60, '–'), (62, 'July'), (67, '3'), (68, ','), (70, '2015'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'actress'), (99, ','), (101, 'most'), (106, 'known'), (112, 'for'), (116, 'her'), (120, 'role'), (125, 'as'), (128, 'Cindy'), (134, 'Mancini'), (142, 'in'), (145, 'the'), (149, '1987'), (154, 'comedy'), (161, 'film'), (166, 'Ca'), (168, "n't"), (172, 'Buy'), (176, 'Me'), (179, 'Love'), (183, '.')])</spacy_tokens>
+<spacy_chunks>[('Amanda Peterson', 0, 15), ('Phyllis Amanda Peterson', 22, 45), ('July 8, 1971', 47, 59), ('July 3, 2015', 62, 74), ('an American actress', 80, 99), ('her role', 116, 124), ('Cindy Mancini', 128, 141), ('the 1987 comedy film', 145, 165), ("Can't Buy Me Love", 166, 183)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'MD', 'RB', 'VB', 'PRP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

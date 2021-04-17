@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Angus T. Jones</title>
+<link/>https://en.wikipedia.org/wiki/Angus_T._Jones
+<annotated>0</annotated>
+<originalabstract>Angus Turner Jones (born October 8, 1993) is an American actor. Jones is best known for playing Jake Harper in the CBS sitcom Two and a Half Men, for which he won two Young Artist Awards and a TV Land Award during his 10-year tenure as one of the show's main characters.</originalabstract>
+<abstract>Angus_Turner_Jones ( born October_8_,_1993 ) is an_American_actor . Jones is_best_known for playing Jake_Harper in the_CBS_sitcom Two and a_Half_Men , for which he won two_Young_Artist_Awards and a_TV_Land_Award during his_10-year_tenure as one of the_show 's_main_characters .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Angus'), (6, 'Turner'), (13, 'Jones'), (19, '('), (20, 'born'), (25, 'October'), (33, '8'), (34, ','), (36, '1993'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (62, '.'), (64, 'Jones'), (70, 'is'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'playing'), (96, 'Jake'), (101, 'Harper'), (108, 'in'), (111, 'the'), (115, 'CBS'), (119, 'sitcom'), (126, 'Two'), (130, 'and'), (134, 'a'), (136, 'Half'), (141, 'Men'), (144, ','), (146, 'for'), (150, 'which'), (156, 'he'), (159, 'won'), (163, 'two'), (167, 'Young'), (173, 'Artist'), (180, 'Awards'), (187, 'and'), (191, 'a'), (193, 'TV'), (196, 'Land'), (201, 'Award'), (207, 'during'), (214, 'his'), (218, '10-year'), (226, 'tenure'), (233, 'as'), (236, 'one'), (240, 'of'), (243, 'the'), (247, 'show'), (251, '\'s'), (254, 'main'), (259, 'characters'), (269, '.')])</stanford_tokens>
+<opennlp_chunks>[('Angus Turner Jones',0, 18), ('October 8, 1993',25, 40), ('an American actor',45, 62), ('is best known',70, 83), ('Jake Harper',96, 107), ('the CBS sitcom',111, 125), ('a Half Men',134, 144), ('two Young Artist Awards',163, 186), ('a TV Land Award',191, 206), ('his 10-year tenure',214, 232), ('the show',243, 251), ('\'s main characters',251, 269)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'CD', 'CC', 'DT', 'NN', 'NN', ',', 'IN', 'WDT', 'PRP', 'VBD', 'CD', 'JJ', 'NNP', 'NNS', 'CC', 'DT', 'NN', 'NN', 'NN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'CD', 'IN', 'DT', 'NN', 'POS', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Angus'), (6, 'Turner'), (13, 'Jones'), (19, '('), (20, 'born'), (25, 'October'), (33, '8'), (34, ','), (36, '1993'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (62, '.'), (64, 'Jones'), (70, 'is'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'playing'), (96, 'Jake'), (101, 'Harper'), (108, 'in'), (111, 'the'), (115, 'CBS'), (119, 'sitcom'), (126, 'Two'), (130, 'and'), (134, 'a'), (136, 'Half'), (141, 'Men'), (144, ','), (146, 'for'), (150, 'which'), (156, 'he'), (159, 'won'), (163, 'two'), (167, 'Young'), (173, 'Artist'), (180, 'Awards'), (187, 'and'), (191, 'a'), (193, 'TV'), (196, 'Land'), (201, 'Award'), (207, 'during'), (214, 'his'), (218, '10-year'), (226, 'tenure'), (233, 'as'), (236, 'one'), (240, 'of'), (243, 'the'), (247, 'show'), (251, "'s"), (254, 'main'), (259, 'characters'), (269, '.')])</spacy_tokens>
+<spacy_chunks>[('Angus Turner Jones', 0, 18), ('October 8, 1993', 25, 40), ('an American actor', 45, 62), ('Jake Harper', 96, 107), ('the CBS sitcom', 111, 125), ('Two and a Half Men', 126, 144), ('two Young Artist Awards', 163, 186), ('a TV Land Award', 191, 206), ('his 10-year tenure', 214, 232), ("the show's main characters", 243, 269)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'CD', 'CC', 'DT', 'NNP', 'NNP', ',', 'IN', 'WDT', 'PRP', 'VBD', 'CD', 'NNP', 'NNP', 'NNPS', 'CC', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'CD', 'IN', 'DT', 'NN', 'POS', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

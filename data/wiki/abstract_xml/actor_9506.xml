@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Léon Bary</title>
+<link/>https://en.wikipedia.org/wiki/L%C3%A9on_Bary
+<annotated>0</annotated>
+<originalabstract>Léon Bary (6 June 1880 – 7 January 1954) was a French actor. He appeared in 52 films between 1916 and 1955. He was born in Paris, France and died in Paris, aged 73.</originalabstract>
+<abstract>Léon_Bary ( 6_June_1880 – 7_January_1954 ) was a_French_actor . He appeared in 52_films between 1916_and_1955 . He was_born in Paris_,_France and died in Paris , aged 73 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Léon'), (5, 'Bary'), (10, '('), (11, '6'), (13, 'June'), (18, '1880'), (23, '–'), (25, '7'), (27, 'January'), (35, '1954'), (39, ')'), (41, 'was'), (45, 'a'), (47, 'French'), (54, 'actor'), (59, '.'), (61, 'He'), (64, 'appeared'), (73, 'in'), (76, '52'), (79, 'films'), (85, 'between'), (93, '1916'), (98, 'and'), (102, '1955'), (106, '.'), (108, 'He'), (111, 'was'), (115, 'born'), (120, 'in'), (123, 'Paris'), (128, ','), (130, 'France'), (137, 'and'), (141, 'died'), (146, 'in'), (149, 'Paris'), (154, ','), (156, 'aged'), (161, '73'), (163, '.')])</stanford_tokens>
+<opennlp_chunks>[('Léon Bary',0, 9), ('6 June 1880',11, 22), ('7 January 1954',25, 39), ('a French actor',45, 59), ('52 films',76, 84), ('1916 and 1955',93, 106), ('was born',111, 119), ('Paris, France',123, 136)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'JJ', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Léon'), (5, 'Bary'), (10, '('), (11, '6'), (13, 'June'), (18, '1880'), (23, '–'), (25, '7'), (27, 'January'), (35, '1954'), (39, ')'), (41, 'was'), (45, 'a'), (47, 'French'), (54, 'actor'), (59, '.'), (61, 'He'), (64, 'appeared'), (73, 'in'), (76, '52'), (79, 'films'), (85, 'between'), (93, '1916'), (98, 'and'), (102, '1955'), (106, '.'), (108, 'He'), (111, 'was'), (115, 'born'), (120, 'in'), (123, 'Paris'), (128, ','), (130, 'France'), (137, 'and'), (141, 'died'), (146, 'in'), (149, 'Paris'), (154, ','), (156, 'aged'), (161, '73'), (163, '.')])</spacy_tokens>
+<spacy_chunks>[('Léon Bary', 0, 9), ('6 June 1880', 11, 22), ('7 January 1954', 25, 39), ('a French actor', 45, 59), ('52 films', 76, 84), ('France', 130, 136)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'VBN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

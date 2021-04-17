@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arlene Dahl</title>
+<link/>https://en.wikipedia.org/wiki/Arlene_Dahl
+<annotated>0</annotated>
+<originalabstract>Arlene Carol Dahl (born August 11, 1925) is an American actress and former Metro-Goldwyn-Mayer contract star, who achieved notability during the 1950s. She has three children, the eldest of whom is actor Lorenzo Lamas.
+She is one of the last surviving stars from the Golden Age of Hollywood.</originalabstract>
+<abstract>Arlene_Carol_Dahl ( born August_11_,_1925 ) is an_American_actress and former_Metro-Goldwyn-Mayer_contract_star , who achieved notability during the_1950s . She has three_children , the_eldest of whom is actor_Lorenzo_Lamas . She is one of the_last_surviving_stars from the_Golden_Age of Hollywood .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arlene'), (7, 'Carol'), (13, 'Dahl'), (18, '('), (19, 'born'), (24, 'August'), (31, '11'), (33, ','), (35, '1925'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (64, 'and'), (68, 'former'), (75, 'Metro-Goldwyn-Mayer'), (95, 'contract'), (104, 'star'), (108, ','), (110, 'who'), (114, 'achieved'), (123, 'notability'), (134, 'during'), (141, 'the'), (145, '1950s'), (150, '.'), (152, 'She'), (156, 'has'), (160, 'three'), (166, 'children'), (174, ','), (176, 'the'), (180, 'eldest'), (187, 'of'), (190, 'whom'), (195, 'is'), (198, 'actor'), (204, 'Lorenzo'), (212, 'Lamas'), (217, '.'), (219, 'She'), (223, 'is'), (226, 'one'), (230, 'of'), (233, 'the'), (237, 'last'), (242, 'surviving'), (252, 'stars'), (258, 'from'), (263, 'the'), (267, 'Golden'), (274, 'Age'), (278, 'of'), (281, 'Hollywood'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arlene Carol Dahl',0, 17), ('August 11, 1925',24, 39), ('an American actress',44, 63), ('former Metro-Goldwyn-Mayer contract star',68, 108), ('the 1950s',141, 150), ('three children',160, 174), ('the eldest',176, 186), ('actor Lorenzo Lamas',198, 217), ('the last surviving stars',233, 257), ('the Golden Age',263, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NNP', 'NN', 'NN', ',', 'WP', 'VBD', 'NN', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBZ', 'CD', 'NNS', ',', 'DT', 'JJS', 'IN', 'WP', 'VBZ', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'CD', 'IN', 'DT', 'JJ', 'VBG', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arlene'), (7, 'Carol'), (13, 'Dahl'), (18, '('), (19, 'born'), (24, 'August'), (31, '11'), (33, ','), (35, '1925'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (64, 'and'), (68, 'former'), (75, 'Metro'), (80, '-'), (81, 'Goldwyn'), (88, '-'), (89, 'Mayer'), (95, 'contract'), (104, 'star'), (108, ','), (110, 'who'), (114, 'achieved'), (123, 'notability'), (134, 'during'), (141, 'the'), (145, '1950s'), (150, '.'), (152, 'She'), (156, 'has'), (160, 'three'), (166, 'children'), (174, ','), (176, 'the'), (180, 'eldest'), (187, 'of'), (190, 'whom'), (195, 'is'), (198, 'actor'), (204, 'Lorenzo'), (212, 'Lamas'), (217, '.'), (219, 'She'), (223, 'is'), (226, 'one'), (230, 'of'), (233, 'the'), (237, 'last'), (242, 'surviving'), (252, 'stars'), (258, 'from'), (263, 'the'), (267, 'Golden'), (274, 'Age'), (278, 'of'), (281, 'Hollywood'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('Arlene Carol Dahl', 0, 17), ('August 11, 1925', 24, 39), ('an American actress', 44, 63), ('former Metro-Goldwyn-Mayer contract star', 68, 108), ('notability', 123, 133), ('the 1950s', 141, 150), ('three children', 160, 174), ('actor Lorenzo Lamas', 198, 217), ('the last surviving stars', 233, 257), ('the Golden Age', 263, 277), ('Hollywood', 281, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', 'NN', 'NN', ',', 'WP', 'VBD', 'NN', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBZ', 'CD', 'NNS', ',', 'DT', 'JJS', 'IN', 'WP', 'VBZ', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'CD', 'IN', 'DT', 'JJ', 'VBG', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

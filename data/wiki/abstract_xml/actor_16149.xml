@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kim Zimmer</title>
+<link/>https://en.wikipedia.org/wiki/Kim_Zimmer
+<annotated>0</annotated>
+<originalabstract>Kimberly Jo Zimmer (born February 2, 1955) is an American actress, best known for her television roles as Echo DiSavoy on One Life to Live and as Reva Shayne on Guiding Light. She has won four Daytime Emmy Award for Outstanding Lead Actress in a Drama Series for the role in Guiding Light.</originalabstract>
+<abstract>Kimberly_Jo_Zimmer ( born February_2_,_1955 ) is an_American_actress , best_known for her_television_roles as Echo_DiSavoy on One_Life to_Live and as Reva_Shayne on Guiding_Light . She has_won four_Daytime_Emmy_Award for Outstanding_Lead_Actress in a_Drama_Series for the_role in Guiding_Light .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kimberly'), (9, 'Jo'), (12, 'Zimmer'), (19, '('), (20, 'born'), (25, 'February'), (34, '2'), (35, ','), (37, '1955'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, ','), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'television'), (97, 'roles'), (103, 'as'), (106, 'Echo'), (111, 'DiSavoy'), (119, 'on'), (122, 'One'), (126, 'Life'), (131, 'to'), (134, 'Live'), (139, 'and'), (143, 'as'), (146, 'Reva'), (151, 'Shayne'), (158, 'on'), (161, 'Guiding'), (169, 'Light'), (174, '.'), (176, 'She'), (180, 'has'), (184, 'won'), (188, 'four'), (193, 'Daytime'), (201, 'Emmy'), (206, 'Award'), (212, 'for'), (216, 'Outstanding'), (228, 'Lead'), (233, 'Actress'), (241, 'in'), (244, 'a'), (246, 'Drama'), (252, 'Series'), (259, 'for'), (263, 'the'), (267, 'role'), (272, 'in'), (275, 'Guiding'), (283, 'Light'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kimberly Jo Zimmer',0, 18), ('February 2, 1955',25, 41), ('an American actress',46, 65), ('best known',67, 77), ('her television roles',82, 102), ('Echo DiSavoy',106, 118), ('One Life',122, 130), ('to Live',131, 138), ('Reva Shayne',146, 157), ('Guiding Light',161, 174), ('has won',180, 187), ('four Daytime Emmy Award',188, 211), ('Outstanding Lead Actress',216, 240), ('a Drama Series',244, 258), ('the role',263, 271), ('Guiding Light',275, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'NN', 'TO', 'VB', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'CD', 'NNP', 'NNP', 'NN', 'IN', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kimberly'), (9, 'Jo'), (12, 'Zimmer'), (19, '('), (20, 'born'), (25, 'February'), (34, '2'), (35, ','), (37, '1955'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, ','), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'television'), (97, 'roles'), (103, 'as'), (106, 'Echo'), (111, 'DiSavoy'), (119, 'on'), (122, 'One'), (126, 'Life'), (131, 'to'), (134, 'Live'), (139, 'and'), (143, 'as'), (146, 'Reva'), (151, 'Shayne'), (158, 'on'), (161, 'Guiding'), (169, 'Light'), (174, '.'), (176, 'She'), (180, 'has'), (184, 'won'), (188, 'four'), (193, 'Daytime'), (201, 'Emmy'), (206, 'Award'), (212, 'for'), (216, 'Outstanding'), (228, 'Lead'), (233, 'Actress'), (241, 'in'), (244, 'a'), (246, 'Drama'), (252, 'Series'), (259, 'for'), (263, 'the'), (267, 'role'), (272, 'in'), (275, 'Guiding'), (283, 'Light'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Kimberly Jo Zimmer', 0, 18), ('February 2, 1955', 25, 41), ('an American actress', 46, 65), ('her television roles', 82, 102), ('Echo DiSavoy', 106, 118), ('One Life to Live', 122, 138), ('Reva Shayne', 146, 157), ('Guiding Light', 161, 174), ('four Daytime Emmy Award', 188, 211), ('Daytime Emmy Award for Outstanding Lead Actress in a Drama Series', 193, 258), ('the role', 263, 271)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'NN', 'TO', 'VB', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'CD', 'NNP', 'NNP', 'NNP', 'IN', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

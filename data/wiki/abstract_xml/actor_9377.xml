@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leonard Whiting</title>
+<link/>https://en.wikipedia.org/wiki/Leonard_Whiting
+<annotated>0</annotated>
+<originalabstract>Leonard Whiting (born 30 June 1950) is an English actor and singer who is best known for his role as Romeo in the 1968 Zeffirelli film version of Romeo and Juliet opposite Olivia Hussey's Juliet, a role which earned him the Golden Globe Award for New Star of the Year – Actor.</originalabstract>
+<abstract>Leonard_Whiting ( born_30_June_1950 ) is an_English_actor and singer who is_best_known for his_role as Romeo in the_1968_Zeffirelli_film_version of Romeo_and_Juliet_opposite_Olivia_Hussey 's_Juliet , a_role which earned him the_Golden_Globe_Award for New_Star of the_Year – Actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leonard'), (8, 'Whiting'), (16, '('), (17, 'born'), (22, '30'), (25, 'June'), (30, '1950'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actor'), (56, 'and'), (60, 'singer'), (67, 'who'), (71, 'is'), (74, 'best'), (79, 'known'), (85, 'for'), (89, 'his'), (93, 'role'), (98, 'as'), (101, 'Romeo'), (107, 'in'), (110, 'the'), (114, '1968'), (119, 'Zeffirelli'), (130, 'film'), (135, 'version'), (143, 'of'), (146, 'Romeo'), (152, 'and'), (156, 'Juliet'), (163, 'opposite'), (172, 'Olivia'), (179, 'Hussey'), (185, '\'s'), (188, 'Juliet'), (194, ','), (196, 'a'), (198, 'role'), (203, 'which'), (209, 'earned'), (216, 'him'), (220, 'the'), (224, 'Golden'), (231, 'Globe'), (237, 'Award'), (243, 'for'), (247, 'New'), (251, 'Star'), (256, 'of'), (259, 'the'), (263, 'Year'), (268, '–'), (270, 'Actor'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leonard Whiting',0, 15), ('born 30 June 1950',17, 34), ('an English actor',39, 55), ('is best known',71, 84), ('his role',89, 97), ('the 1968 Zeffirelli film version',110, 142), ('Romeo and Juliet opposite Olivia Hussey',146, 185), ('\'s Juliet',185, 194), ('a role',196, 202), ('the Golden Globe Award',220, 242), ('New Star',247, 255), ('the Year',259, 267)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NN', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'JJ', 'NNP', 'NNP', 'POS', 'NNP', ',', 'DT', 'NN', 'WDT', 'VBD', 'PRP', 'DT', 'NNP', 'NNP', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', ':', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leonard'), (8, 'Whiting'), (16, '('), (17, 'born'), (22, '30'), (25, 'June'), (30, '1950'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actor'), (56, 'and'), (60, 'singer'), (67, 'who'), (71, 'is'), (74, 'best'), (79, 'known'), (85, 'for'), (89, 'his'), (93, 'role'), (98, 'as'), (101, 'Romeo'), (107, 'in'), (110, 'the'), (114, '1968'), (119, 'Zeffirelli'), (130, 'film'), (135, 'version'), (143, 'of'), (146, 'Romeo'), (152, 'and'), (156, 'Juliet'), (163, 'opposite'), (172, 'Olivia'), (179, 'Hussey'), (185, "'s"), (188, 'Juliet'), (194, ','), (196, 'a'), (198, 'role'), (203, 'which'), (209, 'earned'), (216, 'him'), (220, 'the'), (224, 'Golden'), (231, 'Globe'), (237, 'Award'), (243, 'for'), (247, 'New'), (251, 'Star'), (256, 'of'), (259, 'the'), (263, 'Year'), (268, '–'), (270, 'Actor'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('Leonard Whiting', 0, 15), ('30 June 1950', 22, 34), ('an English actor', 39, 55), ('singer', 60, 66), ('his role', 89, 97), ('the 1968 Zeffirelli film version', 110, 142), ('Romeo and Juliet', 146, 162), ("Olivia Hussey's Juliet", 172, 194), ('a role', 196, 202), ('the Golden Globe Award', 220, 242), ('Golden Globe Award for New Star of the Year – Actor', 224, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NN', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', ',', 'DT', 'NN', 'WDT', 'VBD', 'PRP', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'HYPH', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

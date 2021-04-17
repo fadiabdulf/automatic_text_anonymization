@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Albert Burdon</title>
+<link/>https://en.wikipedia.org/wiki/Albert_Burdon
+<annotated>0</annotated>
+<originalabstract>Albert Burdon (1900–1981) was a British actor and comedian, born in South Shields, County Durham. His stage work included starring in a series of pantomimes at the Lyceum Theatre, London in the 1930s; and in the original production of Rodgers and Hart's Ever Green at the Adelphi Theatre in 1930.</originalabstract>
+<abstract>Albert_Burdon ( 1900 – 1981 ) was a_British_actor_and_comedian , born in South_Shields , County_Durham . His_stage_work included_starring in a_series of pantomimes at the_Lyceum_Theatre , London in the_1930s ; and in the_original_production of Rodgers and Hart 's Ever_Green at the_Adelphi_Theatre in 1930 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Albert'), (7, 'Burdon'), (14, '('), (15, '1900'), (19, '–'), (20, '1981'), (24, ')'), (26, 'was'), (30, 'a'), (32, 'British'), (40, 'actor'), (46, 'and'), (50, 'comedian'), (58, ','), (60, 'born'), (65, 'in'), (68, 'South'), (74, 'Shields'), (81, ','), (83, 'County'), (90, 'Durham'), (96, '.'), (98, 'His'), (102, 'stage'), (108, 'work'), (113, 'included'), (122, 'starring'), (131, 'in'), (134, 'a'), (136, 'series'), (143, 'of'), (146, 'pantomimes'), (157, 'at'), (160, 'the'), (164, 'Lyceum'), (171, 'Theatre'), (178, ','), (180, 'London'), (187, 'in'), (190, 'the'), (194, '1930s'), (199, ';'), (201, 'and'), (205, 'in'), (208, 'the'), (212, 'original'), (221, 'production'), (232, 'of'), (235, 'Rodgers'), (243, 'and'), (247, 'Hart'), (251, '\'s'), (254, 'Ever'), (259, 'Green'), (265, 'at'), (268, 'the'), (272, 'Adelphi'), (280, 'Theatre'), (288, 'in'), (291, '1930'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Albert Burdon',0, 13), ('a British actor and comedian',30, 58), ('South Shields',68, 81), ('County Durham',83, 96), ('His stage work',98, 112), ('included starring',113, 130), ('a series',134, 142), ('the Lyceum Theatre',160, 178), ('the 1930s',190, 199), ('the original production',208, 231), ('Ever Green',254, 264), ('the Adelphi Theatre',268, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'NN', 'VBD', 'VBG', 'IN', 'DT', 'NN', 'IN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'IN', 'DT', 'NNS', ':', 'CC', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'POS', 'RB', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Albert'), (7, 'Burdon'), (14, '('), (15, '1900–1981'), (24, ')'), (26, 'was'), (30, 'a'), (32, 'British'), (40, 'actor'), (46, 'and'), (50, 'comedian'), (58, ','), (60, 'born'), (65, 'in'), (68, 'South'), (74, 'Shields'), (81, ','), (83, 'County'), (90, 'Durham'), (96, '.'), (98, 'His'), (102, 'stage'), (108, 'work'), (113, 'included'), (122, 'starring'), (131, 'in'), (134, 'a'), (136, 'series'), (143, 'of'), (146, 'pantomimes'), (157, 'at'), (160, 'the'), (164, 'Lyceum'), (171, 'Theatre'), (178, ','), (180, 'London'), (187, 'in'), (190, 'the'), (194, '1930s'), (199, ';'), (201, 'and'), (205, 'in'), (208, 'the'), (212, 'original'), (221, 'production'), (232, 'of'), (235, 'Rodgers'), (243, 'and'), (247, 'Hart'), (251, "'s"), (254, 'Ever'), (259, 'Green'), (265, 'at'), (268, 'the'), (272, 'Adelphi'), (280, 'Theatre'), (288, 'in'), (291, '1930'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Albert Burdon', 0, 13), ('a British actor', 30, 45), ('comedian', 50, 58), ('South Shields', 68, 81), ('County Durham', 83, 96), ('His stage work', 98, 112), ('a series', 134, 142), ('pantomimes', 146, 156), ('the Lyceum Theatre', 160, 178), ('Lyceum Theatre, London', 164, 186), ('the 1930s', 190, 199), ('the original production', 208, 231), ('Rodgers and Hart', 235, 251), ('Ever Green', 254, 264), ('the Adelphi Theatre', 268, 287)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'NNP', 'NNPS', ',', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'NN', 'VBD', 'VBG', 'IN', 'DT', 'NN', 'IN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'IN', 'DT', 'NNS', ':', 'CC', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'VBZ', 'RB', 'JJ', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

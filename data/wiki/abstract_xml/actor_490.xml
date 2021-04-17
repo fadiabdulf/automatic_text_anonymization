@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brice Beckham</title>
+<link/>https://en.wikipedia.org/wiki/Brice_Beckham
+<annotated>0</annotated>
+<originalabstract>James Brice Beckham (born February 11, 1976 in Long Beach, California) is an American actor most famous for his role as Wesley T. Owens in the television sitcom Mr. Belvedere and for his role as Corey in I Hate My 30's. He currently lives in Los Angeles and is a member of LA's Namaste theater group.</originalabstract>
+<abstract>James_Brice_Beckham ( born February_11_,_1976 in Long_Beach , California ) is an_American_actor_most_famous for his_role as Wesley_T._Owens in the_television_sitcom_Mr._Belvedere and for his_role as Corey in I Hate My_30_'s . He currently lives in Los_Angeles and is a_member of LA 's_Namaste_theater_group .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Brice'), (12, 'Beckham'), (20, '('), (21, 'born'), (26, 'February'), (35, '11'), (37, ','), (39, '1976'), (44, 'in'), (47, 'Long'), (52, 'Beach'), (57, ','), (59, 'California'), (69, ')'), (71, 'is'), (74, 'an'), (77, 'American'), (86, 'actor'), (92, 'most'), (97, 'famous'), (104, 'for'), (108, 'his'), (112, 'role'), (117, 'as'), (120, 'Wesley'), (127, 'T.'), (130, 'Owens'), (136, 'in'), (139, 'the'), (143, 'television'), (154, 'sitcom'), (161, 'Mr.'), (165, 'Belvedere'), (175, 'and'), (179, 'for'), (183, 'his'), (187, 'role'), (192, 'as'), (195, 'Corey'), (201, 'in'), (204, 'I'), (206, 'Hate'), (211, 'My'), (214, '30'), (216, '\'s'), (218, '.'), (220, 'He'), (223, 'currently'), (233, 'lives'), (239, 'in'), (242, 'Los'), (246, 'Angeles'), (254, 'and'), (258, 'is'), (261, 'a'), (263, 'member'), (270, 'of'), (273, 'LA'), (275, '\'s'), (278, 'Namaste'), (286, 'theater'), (294, 'group'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Brice Beckham',0, 19), ('February 11, 1976',26, 43), ('Long Beach',47, 57), ('an American actor most famous',74, 103), ('his role',108, 116), ('Wesley T. Owens',120, 135), ('the television sitcom Mr. Belvedere',139, 174), ('his role',183, 191), ('My 30\'s',211, 218), ('Los Angeles',242, 253), ('a member',261, 269), ('\'s Namaste theater group',275, 299)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'JJ', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'PRP', 'VBP', 'PRP$', 'CD', 'POS', '.', 'PRP', 'RB', 'VBZ', 'IN', 'NNP', 'NNP', 'CC', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'POS', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Brice'), (12, 'Beckham'), (20, '('), (21, 'born'), (26, 'February'), (35, '11'), (37, ','), (39, '1976'), (44, 'in'), (47, 'Long'), (52, 'Beach'), (57, ','), (59, 'California'), (69, ')'), (71, 'is'), (74, 'an'), (77, 'American'), (86, 'actor'), (92, 'most'), (97, 'famous'), (104, 'for'), (108, 'his'), (112, 'role'), (117, 'as'), (120, 'Wesley'), (127, 'T.'), (130, 'Owens'), (136, 'in'), (139, 'the'), (143, 'television'), (154, 'sitcom'), (161, 'Mr.'), (165, 'Belvedere'), (175, 'and'), (179, 'for'), (183, 'his'), (187, 'role'), (192, 'as'), (195, 'Corey'), (201, 'in'), (204, 'I'), (206, 'Hate'), (211, 'My'), (214, '30'), (216, "'s"), (218, '.'), (220, 'He'), (223, 'currently'), (233, 'lives'), (239, 'in'), (242, 'Los'), (246, 'Angeles'), (254, 'and'), (258, 'is'), (261, 'a'), (263, 'member'), (270, 'of'), (273, 'LA'), (275, "'s"), (278, 'Namaste'), (286, 'theater'), (294, 'group'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('James Brice Beckham', 0, 19), ('February 11, 1976', 26, 43), ('Long Beach, California', 47, 69), ('an American actor', 74, 91), ('his role', 108, 116), ('Wesley T. Owens', 120, 135), ('the television sitcom', 139, 160), ('Mr. Belvedere', 161, 174), ("I Hate My 30's", 204, 218), ('Los Angeles', 242, 253), ('a member', 261, 269), ("LA's Namaste theater group", 273, 299)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'PRP', 'VBP', 'PRP$', 'CD', 'POS', '.', 'PRP', 'RB', 'VBZ', 'IN', 'NNP', 'NNP', 'CC', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'POS', 'NNP', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

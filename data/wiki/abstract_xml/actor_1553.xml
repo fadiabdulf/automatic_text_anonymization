@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lewis Croft</title>
+<link/>https://en.wikipedia.org/wiki/Lewis_Croft
+<annotated>0</annotated>
+<originalabstract>Lewis Croft (May 2, 1919 – April 29, 2008) was an American actor with dwarfism, best known for his role as a Munchkin soldier in the 1939 film "The Wizard of Oz".</originalabstract>
+<abstract>Lewis_Croft ( May_2_,_1919 – April_29_,_2008 ) was an_American_actor with dwarfism , best_known for his_role as a_Munchkin_soldier in the_1939_film " The_Wizard of Oz_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lewis'), (6, 'Croft'), (12, '('), (13, 'May'), (17, '2'), (18, ','), (20, '1919'), (25, '–'), (27, 'April'), (33, '29'), (35, ','), (37, '2008'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'American'), (59, 'actor'), (65, 'with'), (70, 'dwarfism'), (78, ','), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'his'), (99, 'role'), (104, 'as'), (107, 'a'), (109, 'Munchkin'), (118, 'soldier'), (126, 'in'), (129, 'the'), (133, '1939'), (138, 'film'), (143, '"'), (144, 'The'), (148, 'Wizard'), (155, 'of'), (158, 'Oz'), (160, '"'), (161, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lewis Croft',0, 11), ('May 2, 1919',13, 24), ('April 29, 2008',27, 41), ('an American actor',47, 64), ('best known',80, 90), ('his role',95, 103), ('a Munchkin soldier',107, 125), ('the 1939 film',129, 142), ('The Wizard',144, 154), ('Oz"',158, 161)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'DT', 'CD', 'NN', '``', 'DT', 'NNP', 'IN', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lewis'), (6, 'Croft'), (12, '('), (13, 'May'), (17, '2'), (18, ','), (20, '1919'), (25, '–'), (27, 'April'), (33, '29'), (35, ','), (37, '2008'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'American'), (59, 'actor'), (65, 'with'), (70, 'dwarfism'), (78, ','), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'his'), (99, 'role'), (104, 'as'), (107, 'a'), (109, 'Munchkin'), (118, 'soldier'), (126, 'in'), (129, 'the'), (133, '1939'), (138, 'film'), (143, '"'), (144, 'The'), (148, 'Wizard'), (155, 'of'), (158, 'Oz'), (160, '"'), (161, '.')])</spacy_tokens>
+<spacy_chunks>[('Lewis Croft', 0, 11), ('May 2, 1919', 13, 24), ('April 29, 2008', 27, 41), ('an American actor', 47, 64), ('Dwarfism', 70, 78), ('his role', 95, 103), ('a Munchkin soldier', 107, 125), ('the 1939 film', 129, 142), ('"The Wizard', 143, 154), ('The Wizard of Oz', 144, 160)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'DT', 'CD', 'NN', '``', 'DT', 'NNP', 'IN', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

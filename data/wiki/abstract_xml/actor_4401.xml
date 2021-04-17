@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ken Maynard</title>
+<link/>https://en.wikipedia.org/wiki/Ken_Maynard
+<annotated>0</annotated>
+<originalabstract>Kenneth Olin Maynard (July 21, 1895 – March 23, 1973) was an American motion picture stuntman and actor. He appeared in more than 90 films over 20 years with his white cowboy hat, fancy shirt, and a pair of six-shooters.</originalabstract>
+<abstract>Kenneth_Olin_Maynard ( July_21_,_1895 – March_23_,_1973 ) was an_American_motion_picture_stuntman_and_actor . He appeared in more_than_90_films over 20_years with his_white_cowboy_hat , fancy_shirt , and a_pair of six-shooters .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kenneth'), (8, 'Olin'), (13, 'Maynard'), (21, '('), (22, 'July'), (27, '21'), (29, ','), (31, '1895'), (36, '–'), (38, 'March'), (44, '23'), (46, ','), (48, '1973'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'motion'), (77, 'picture'), (85, 'stuntman'), (94, 'and'), (98, 'actor'), (103, '.'), (105, 'He'), (108, 'appeared'), (117, 'in'), (120, 'more'), (125, 'than'), (130, '90'), (133, 'films'), (139, 'over'), (144, '20'), (147, 'years'), (153, 'with'), (158, 'his'), (162, 'white'), (168, 'cowboy'), (175, 'hat'), (178, ','), (180, 'fancy'), (186, 'shirt'), (191, ','), (193, 'and'), (197, 'a'), (199, 'pair'), (204, 'of'), (207, 'six-shooters'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kenneth Olin Maynard',0, 20), ('July 21, 1895',22, 35), ('March 23, 1973',38, 52), ('an American motion picture stuntman and actor',58, 103), ('more than 90 films',120, 138), ('20 years',144, 152), ('his white cowboy hat',158, 178), ('fancy shirt',180, 191), ('a pair',197, 203)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', 'NN', ',', 'JJ', 'NN', ',', 'CC', 'DT', 'NN', 'IN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kenneth'), (8, 'Olin'), (13, 'Maynard'), (21, '('), (22, 'July'), (27, '21'), (29, ','), (31, '1895'), (36, '–'), (38, 'March'), (44, '23'), (46, ','), (48, '1973'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'motion'), (77, 'picture'), (85, 'stuntman'), (94, 'and'), (98, 'actor'), (103, '.'), (105, 'He'), (108, 'appeared'), (117, 'in'), (120, 'more'), (125, 'than'), (130, '90'), (133, 'films'), (139, 'over'), (144, '20'), (147, 'years'), (153, 'with'), (158, 'his'), (162, 'white'), (168, 'cowboy'), (175, 'hat'), (178, ','), (180, 'fancy'), (186, 'shirt'), (191, ','), (193, 'and'), (197, 'a'), (199, 'pair'), (204, 'of'), (207, 'six'), (210, '-'), (211, 'shooters'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Kenneth Olin Maynard', 0, 20), ('July 21, 1895', 22, 35), ('March 23, 1973', 38, 52), ('an American motion picture stuntman', 58, 93), ('more than 90 films', 120, 138), ('20 years', 144, 152), ('his white cowboy hat', 158, 178), ('fancy shirt', 180, 191), ('a pair', 197, 203), ('six-shooters', 207, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', 'NN', ',', 'JJ', 'NN', ',', 'CC', 'DT', 'NN', 'IN', 'CD', 'HYPH', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

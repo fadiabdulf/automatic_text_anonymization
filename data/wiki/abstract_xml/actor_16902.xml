@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Margaret Leahy</title>
+<link/>https://en.wikipedia.org/wiki/Margaret_Leahy
+<annotated>0</annotated>
+<originalabstract>Margaret Leahy (17 August 1902 – 17 February 1967) was a British actress. After winning a beauty contest, Leahy went on to make only one film in her very short-lived film career.</originalabstract>
+<abstract>Margaret_Leahy ( 17_August_1902 – 17_February_1967 ) was a_British_actress . After winning a_beauty_contest , Leahy went on to_make only_one_film in her_very_short-lived_film_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Margaret'), (9, 'Leahy'), (15, '('), (16, '17'), (19, 'August'), (26, '1902'), (31, '–'), (33, '17'), (36, 'February'), (45, '1967'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'British'), (65, 'actress'), (72, '.'), (74, 'After'), (80, 'winning'), (88, 'a'), (90, 'beauty'), (97, 'contest'), (104, ','), (106, 'Leahy'), (112, 'went'), (117, 'on'), (120, 'to'), (123, 'make'), (128, 'only'), (133, 'one'), (137, 'film'), (142, 'in'), (145, 'her'), (149, 'very'), (154, 'short-lived'), (166, 'film'), (171, 'career'), (177, '.')])</stanford_tokens>
+<opennlp_chunks>[('Margaret Leahy',0, 14), ('17 August 1902',16, 30), ('17 February 1967',33, 49), ('a British actress',55, 72), ('a beauty contest',88, 104), ('to make',120, 127), ('only one film',128, 141), ('her very short-lived film career',145, 177)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'VBG', 'DT', 'NN', 'NN', ',', 'NNP', 'VBD', 'IN', 'TO', 'VB', 'RB', 'CD', 'NN', 'IN', 'PRP$', 'JJ', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Margaret'), (9, 'Leahy'), (15, '('), (16, '17'), (19, 'August'), (26, '1902'), (31, '–'), (33, '17'), (36, 'February'), (45, '1967'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'British'), (65, 'actress'), (72, '.'), (74, 'After'), (80, 'winning'), (88, 'a'), (90, 'beauty'), (97, 'contest'), (104, ','), (106, 'Leahy'), (112, 'went'), (117, 'on'), (120, 'to'), (123, 'make'), (128, 'only'), (133, 'one'), (137, 'film'), (142, 'in'), (145, 'her'), (149, 'very'), (154, 'short'), (159, '-'), (160, 'lived'), (166, 'film'), (171, 'career'), (177, '.')])</spacy_tokens>
+<spacy_chunks>[('Margaret Leahy', 0, 14), ('17 August 1902', 16, 30), ('17 February 1967', 33, 49), ('a British actress', 55, 72), ('a beauty contest', 88, 104), ('only one film', 128, 141), ('her very short-lived film career', 145, 177)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'VBG', 'DT', 'NN', 'NN', ',', 'NNP', 'VBD', 'RP', 'TO', 'VB', 'RB', 'CD', 'NN', 'IN', 'PRP$', 'RB', 'RB', 'HYPH', 'VBN', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

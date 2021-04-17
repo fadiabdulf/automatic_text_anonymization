@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>French Stewart</title>
+<link/>https://en.wikipedia.org/wiki/French_Stewart
+<annotated>0</annotated>
+<originalabstract>Milton French-Stewart (born February 20, 1964), known professionally as French Stewart, is an American actor, known for his role as Harry Solomon on the 1990s sitcom 3rd Rock from the Sun and for his role as Chef Rudy on the sitcom Mom.</originalabstract>
+<abstract>Milton_French-Stewart ( born February_20_,_1964 ) , known professionally as French_Stewart , is an_American_actor , known for his_role as Harry Solomon on the_1990s_sitcom_3rd_Rock from the_Sun and for his_role as Chef_Rudy on the_sitcom_Mom .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Milton'), (7, 'French-Stewart'), (22, '('), (23, 'born'), (28, 'February'), (37, '20'), (39, ','), (41, '1964'), (45, ')'), (46, ','), (48, 'known'), (54, 'professionally'), (69, 'as'), (72, 'French'), (79, 'Stewart'), (86, ','), (88, 'is'), (91, 'an'), (94, 'American'), (103, 'actor'), (108, ','), (110, 'known'), (116, 'for'), (120, 'his'), (124, 'role'), (129, 'as'), (132, 'Harry'), (138, 'Solomon'), (146, 'on'), (149, 'the'), (153, '1990s'), (159, 'sitcom'), (166, '3rd'), (170, 'Rock'), (175, 'from'), (180, 'the'), (184, 'Sun'), (188, 'and'), (192, 'for'), (196, 'his'), (200, 'role'), (205, 'as'), (208, 'Chef'), (213, 'Rudy'), (218, 'on'), (221, 'the'), (225, 'sitcom'), (232, 'Mom'), (235, '.')])</stanford_tokens>
+<opennlp_chunks>[('Milton French-Stewart',0, 21), ('February 20, 1964',28, 45), ('French Stewart',72, 86), ('an American actor',91, 108), ('his role',120, 128), ('the 1990s sitcom 3rd Rock',149, 174), ('the Sun',180, 187), ('his role',196, 204), ('Chef Rudy',208, 217), ('the sitcom Mom',221, 235)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'JJ', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Milton'), (7, 'French'), (13, '-'), (14, 'Stewart'), (22, '('), (23, 'born'), (28, 'February'), (37, '20'), (39, ','), (41, '1964'), (45, ')'), (46, ','), (48, 'known'), (54, 'professionally'), (69, 'as'), (72, 'French'), (79, 'Stewart'), (86, ','), (88, 'is'), (91, 'an'), (94, 'American'), (103, 'actor'), (108, ','), (110, 'known'), (116, 'for'), (120, 'his'), (124, 'role'), (129, 'as'), (132, 'Harry'), (138, 'Solomon'), (146, 'on'), (149, 'the'), (153, '1990s'), (159, 'sitcom'), (166, '3rd'), (170, 'Rock'), (175, 'from'), (180, 'the'), (184, 'Sun'), (188, 'and'), (192, 'for'), (196, 'his'), (200, 'role'), (205, 'as'), (208, 'Chef'), (213, 'Rudy'), (218, 'on'), (221, 'the'), (225, 'sitcom'), (232, 'Mom'), (235, '.')])</spacy_tokens>
+<spacy_chunks>[('Milton French-Stewart', 0, 21), ('February 20, 1964', 28, 45), ('French Stewart', 72, 86), ('an American actor', 91, 108), ('his role', 120, 128), ('Harry Solomon', 132, 145), ('the 1990s sitcom', 149, 165), ('3rd Rock from the Sun', 166, 187), ('Chef Rudy', 208, 217), ('the sitcom', 221, 231)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

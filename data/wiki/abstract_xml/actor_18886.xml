@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marcelle Praince</title>
+<link/>https://en.wikipedia.org/wiki/Marcelle_Praince
+<annotated>0</annotated>
+<originalabstract>Marcelle Praince (9 June 1882 – 26 October 1969) was a French actress.
+Praince was born Célestine Cardi in Vigeois, Corrèze, France and died in Maisons-Laffitte, Yvelines.</originalabstract>
+<abstract>Marcelle_Praince ( 9_June_1882 – 26_October_1969 ) was a_French_actress . Praince was_born Célestine_Cardi in Vigeois , Corrèze , France and died in Maisons-Laffitte , Yvelines .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marcelle'), (9, 'Praince'), (17, '('), (18, '9'), (20, 'June'), (25, '1882'), (30, '–'), (32, '26'), (35, 'October'), (43, '1969'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'actress'), (69, '.'), (71, 'Praince'), (79, 'was'), (83, 'born'), (88, 'Célestine'), (98, 'Cardi'), (104, 'in'), (107, 'Vigeois'), (114, ','), (116, 'Corrèze'), (123, ','), (125, 'France'), (132, 'and'), (136, 'died'), (141, 'in'), (144, 'Maisons-Laffitte'), (160, ','), (162, 'Yvelines'), (170, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marcelle Praince',0, 16), ('9 June 1882',18, 29), ('26 October 1969',32, 47), ('a French actress',53, 69), ('was born',79, 87), ('Célestine Cardi',88, 103)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NN', 'VBD', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marcelle'), (9, 'Praince'), (17, '('), (18, '9'), (20, 'June'), (25, '1882'), (30, '–'), (32, '26'), (35, 'October'), (43, '1969'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'actress'), (69, '.'), (71, 'Praince'), (79, 'was'), (83, 'born'), (88, 'Célestine'), (98, 'Cardi'), (104, 'in'), (107, 'Vigeois'), (114, ','), (116, 'Corrèze'), (123, ','), (125, 'France'), (132, 'and'), (136, 'died'), (141, 'in'), (144, 'Maisons'), (151, '-'), (152, 'Laffitte'), (160, ','), (162, 'Yvelines'), (170, '.')])</spacy_tokens>
+<spacy_chunks>[('Marcelle Praince', 0, 16), ('(9 June', 17, 24), ('9 June 1882', 18, 29), ('26 October 1969', 32, 47), ('a French actress', 53, 69), ('Célestine Cardi', 88, 103), ('Vigeois', 107, 114), ('Corrèze', 116, 123), ('France', 125, 131), ('Maisons-Laffitte', 144, 160), ('Yvelines', 162, 170)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'HYPH', 'NNP', ',', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jan Clayton</title>
+<link/>https://en.wikipedia.org/wiki/Jan_Clayton
+<annotated>0</annotated>
+<originalabstract>Jan Clayton (August 26, 1917 – August 28, 1983) was a film, musical theater, and television actress. She starred in the popular 1950s TV series Lassie.
+Born near Alamogordo, New Mexico, the only child of two schoolteachers, Clayton started singing by age four.</originalabstract>
+<abstract>Jan_Clayton ( August_26_,_1917 – August_28_,_1983 ) was a_film , musical_theater , and television_actress . She starred in the_popular_1950s_TV_series_Lassie . Born near Alamogordo , New_Mexico , the_only_child of two_schoolteachers , Clayton started singing by age_four .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jan'), (4, 'Clayton'), (12, '('), (13, 'August'), (20, '26'), (22, ','), (24, '1917'), (29, '–'), (31, 'August'), (38, '28'), (40, ','), (42, '1983'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'film'), (58, ','), (60, 'musical'), (68, 'theater'), (75, ','), (77, 'and'), (81, 'television'), (92, 'actress'), (99, '.'), (101, 'She'), (105, 'starred'), (113, 'in'), (116, 'the'), (120, 'popular'), (128, '1950s'), (134, 'TV'), (137, 'series'), (144, 'Lassie'), (150, '.'), (152, 'Born'), (157, 'near'), (162, 'Alamogordo'), (172, ','), (174, 'New'), (178, 'Mexico'), (184, ','), (186, 'the'), (190, 'only'), (195, 'child'), (201, 'of'), (204, 'two'), (208, 'schoolteachers'), (222, ','), (224, 'Clayton'), (232, 'started'), (240, 'singing'), (248, 'by'), (251, 'age'), (255, 'four'), (259, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jan Clayton',0, 11), ('August 26, 1917',13, 28), ('August 28, 1983',31, 46), ('a film',52, 58), ('musical theater',60, 75), ('television actress',81, 99), ('the popular 1950s TV series Lassie',116, 150), ('New Mexico',174, 184), ('the only child',186, 200), ('two schoolteachers',204, 222), ('age four',251, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'JJ', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'CD', 'NN', 'NN', 'NNP', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'CD', 'NNS', ',', 'NNP', 'VBD', 'NN', 'IN', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jan'), (4, 'Clayton'), (12, '('), (13, 'August'), (20, '26'), (22, ','), (24, '1917'), (29, '–'), (31, 'August'), (38, '28'), (40, ','), (42, '1983'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'film'), (58, ','), (60, 'musical'), (68, 'theater'), (75, ','), (77, 'and'), (81, 'television'), (92, 'actress'), (99, '.'), (101, 'She'), (105, 'starred'), (113, 'in'), (116, 'the'), (120, 'popular'), (128, '1950s'), (134, 'TV'), (137, 'series'), (144, 'Lassie'), (150, '.'), (152, 'Born'), (157, 'near'), (162, 'Alamogordo'), (172, ','), (174, 'New'), (178, 'Mexico'), (184, ','), (186, 'the'), (190, 'only'), (195, 'child'), (201, 'of'), (204, 'two'), (208, 'schoolteachers'), (222, ','), (224, 'Clayton'), (232, 'started'), (240, 'singing'), (248, 'by'), (251, 'age'), (255, 'four'), (259, '.')])</spacy_tokens>
+<spacy_chunks>[('Jan Clayton', 0, 11), ('August 26, 1917', 13, 28), ('August 28, 1983', 31, 46), ('a film', 52, 58), ('musical theater', 60, 75), ('television actress', 81, 99), ('the popular 1950s TV series Lassie', 116, 150), ('Alamogordo, New Mexico', 162, 184), ('the only child', 186, 200), ('two schoolteachers', 204, 222)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'JJ', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NNS', 'NN', 'NN', 'NNP', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'CD', 'NNS', ',', 'NNP', 'VBD', 'VBG', 'IN', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

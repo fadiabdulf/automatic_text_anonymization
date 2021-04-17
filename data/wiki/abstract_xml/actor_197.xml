@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Arledge</title>
+<link/>https://en.wikipedia.org/wiki/John_Arledge
+<annotated>0</annotated>
+<originalabstract>Johnson Lundy Arledge (March 12, 1906 – May 15, 1947) was an American film and stage actor. He played dozens of supporting roles in the Hollywood movies of the 1930s–1940s, including the tractor driver who destroys a house in The Grapes of Wrath.</originalabstract>
+<abstract>Johnson_Lundy_Arledge ( March_12_,_1906 – May_15_,_1947 ) was an_American_film_and_stage_actor . He played dozens of supporting roles in the_Hollywood_movies of the_1930s – 1940s , including the_tractor_driver who destroys a_house in The_Grapes of Wrath .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Johnson'), (8, 'Lundy'), (14, 'Arledge'), (22, '('), (23, 'March'), (29, '12'), (31, ','), (33, '1906'), (38, '–'), (40, 'May'), (44, '15'), (46, ','), (48, '1947'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'film'), (75, 'and'), (79, 'stage'), (85, 'actor'), (90, '.'), (92, 'He'), (95, 'played'), (102, 'dozens'), (109, 'of'), (112, 'supporting'), (123, 'roles'), (129, 'in'), (132, 'the'), (136, 'Hollywood'), (146, 'movies'), (153, 'of'), (156, 'the'), (160, '1930s'), (165, '–'), (166, '1940s'), (171, ','), (173, 'including'), (183, 'the'), (187, 'tractor'), (195, 'driver'), (202, 'who'), (206, 'destroys'), (215, 'a'), (217, 'house'), (223, 'in'), (226, 'The'), (230, 'Grapes'), (237, 'of'), (240, 'Wrath'), (245, '.')])</stanford_tokens>
+<opennlp_chunks>[('Johnson Lundy Arledge',0, 21), ('March 12, 1906',23, 37), ('May 15, 1947',40, 52), ('an American film and stage actor',58, 90), ('the Hollywood movies',132, 152), ('the 1930s',156, 165), ('the tractor driver',183, 201), ('a house',215, 222), ('The Grapes',226, 236)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'NNS', 'IN', 'VBG', 'NNS', 'IN', 'DT', 'NNP', 'NNS', 'IN', 'DT', 'NNS', ':', 'NNS', ',', 'VBG', 'DT', 'NN', 'NN', 'WP', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'NNS', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Johnson'), (8, 'Lundy'), (14, 'Arledge'), (22, '('), (23, 'March'), (29, '12'), (31, ','), (33, '1906'), (38, '–'), (40, 'May'), (44, '15'), (46, ','), (48, '1947'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'film'), (75, 'and'), (79, 'stage'), (85, 'actor'), (90, '.'), (92, 'He'), (95, 'played'), (102, 'dozens'), (109, 'of'), (112, 'supporting'), (123, 'roles'), (129, 'in'), (132, 'the'), (136, 'Hollywood'), (146, 'movies'), (153, 'of'), (156, 'the'), (160, '1930s–1940s'), (171, ','), (173, 'including'), (183, 'the'), (187, 'tractor'), (195, 'driver'), (202, 'who'), (206, 'destroys'), (215, 'a'), (217, 'house'), (223, 'in'), (226, 'The'), (230, 'Grapes'), (237, 'of'), (240, 'Wrath'), (245, '.')])</spacy_tokens>
+<spacy_chunks>[('Johnson Lundy Arledge', 0, 21), ('March 12, 1906', 23, 37), ('May 15, 1947', 40, 52), ('an American film', 58, 74), ('stage actor', 79, 90), ('dozens', 102, 108), ('supporting roles', 112, 128), ('the Hollywood movies', 132, 152), ('the tractor driver', 183, 201), ('a house', 215, 222), ('The Grapes of Wrath', 226, 245)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'NNS', 'IN', 'VBG', 'NNS', 'IN', 'DT', 'NNP', 'NNS', 'IN', 'DT', 'CD', ',', 'VBG', 'DT', 'NN', 'NN', 'WP', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'NNS', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

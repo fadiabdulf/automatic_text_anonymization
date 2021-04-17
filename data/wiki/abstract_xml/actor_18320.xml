@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Emily Woof</title>
+<link/>https://en.wikipedia.org/wiki/Emily_Woof
+<annotated>0</annotated>
+<originalabstract>Emily Woof (born 1967) is an English actress and author, best known for film and TV roles including Nancy in Oliver Twist (1999 miniseries), The Full Monty, The Woodlanders, Velvet Goldmine, Wondrous Oblivion, Silent Cry and The League of Gentlemen's Apocalypse.</originalabstract>
+<abstract>Emily_Woof ( born 1967 ) is an_English_actress_and_author , best_known for film_and_TV_roles including Nancy in Oliver_Twist ( 1999_miniseries ) , The_Full_Monty , The_Woodlanders , Velvet_Goldmine , Wondrous_Oblivion , Silent_Cry and The_League of Gentlemen 's_Apocalypse .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Emily'), (6, 'Woof'), (11, '('), (12, 'born'), (17, '1967'), (21, ')'), (23, 'is'), (26, 'an'), (29, 'English'), (37, 'actress'), (45, 'and'), (49, 'author'), (55, ','), (57, 'best'), (62, 'known'), (68, 'for'), (72, 'film'), (77, 'and'), (81, 'TV'), (84, 'roles'), (90, 'including'), (100, 'Nancy'), (106, 'in'), (109, 'Oliver'), (116, 'Twist'), (122, '('), (123, '1999'), (128, 'miniseries'), (138, ')'), (139, ','), (141, 'The'), (145, 'Full'), (150, 'Monty'), (155, ','), (157, 'The'), (161, 'Woodlanders'), (172, ','), (174, 'Velvet'), (181, 'Goldmine'), (189, ','), (191, 'Wondrous'), (200, 'Oblivion'), (208, ','), (210, 'Silent'), (217, 'Cry'), (221, 'and'), (225, 'The'), (229, 'League'), (236, 'of'), (239, 'Gentlemen'), (248, '\'s'), (251, 'Apocalypse'), (261, '.')])</stanford_tokens>
+<opennlp_chunks>[('Emily Woof',0, 10), ('an English actress and author',26, 55), ('best known',57, 67), ('film and TV roles',72, 89), ('Oliver Twist',109, 121), ('1999 miniseries',123, 138), ('The Full Monty',141, 155), ('The Woodlanders',157, 172), ('Velvet Goldmine',174, 189), ('Wondrous Oblivion',191, 208), ('Silent Cry',210, 220), ('The League',225, 235), ('\'s Apocalypse',248, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'NN', 'CC', 'NN', 'NNS', 'VBG', 'NNP', 'IN', 'NNP', 'NN', '-LRB-', 'CD', 'NNS', '-RRB-', ',', 'DT', 'JJ', 'NNP', ',', 'DT', 'NNS', ',', 'NNP', 'NNP', ',', 'JJ', 'NN', ',', 'JJ', 'NN', 'CC', 'DT', 'NN', 'IN', 'NNP', 'POS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Emily'), (6, 'Woof'), (11, '('), (12, 'born'), (17, '1967'), (21, ')'), (23, 'is'), (26, 'an'), (29, 'English'), (37, 'actress'), (45, 'and'), (49, 'author'), (55, ','), (57, 'best'), (62, 'known'), (68, 'for'), (72, 'film'), (77, 'and'), (81, 'TV'), (84, 'roles'), (90, 'including'), (100, 'Nancy'), (106, 'in'), (109, 'Oliver'), (116, 'Twist'), (122, '('), (123, '1999'), (128, 'miniseries'), (138, ')'), (139, ','), (141, 'The'), (145, 'Full'), (150, 'Monty'), (155, ','), (157, 'The'), (161, 'Woodlanders'), (172, ','), (174, 'Velvet'), (181, 'Goldmine'), (189, ','), (191, 'Wondrous'), (200, 'Oblivion'), (208, ','), (210, 'Silent'), (217, 'Cry'), (221, 'and'), (225, 'The'), (229, 'League'), (236, 'of'), (239, 'Gentlemen'), (248, "'s"), (251, 'Apocalypse'), (261, '.')])</spacy_tokens>
+<spacy_chunks>[('Emily Woof', 0, 10), ('an English actress', 26, 44), ('author', 49, 55), ('film and TV roles', 72, 89), ('Oliver Twist (1999 miniseries)', 109, 139), ('The Full Monty', 141, 155), ('The Woodlanders', 157, 172), ('Velvet Goldmine', 174, 189), ('Wondrous Oblivion', 191, 208), ('Silent Cry', 210, 220), ("The League of Gentlemen's Apocalypse", 225, 261)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'NN', 'CC', 'NN', 'NNS', 'VBG', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', 'NNS', '-RRB-', ',', 'DT', 'NNP', 'NNP', ',', 'DT', 'NNPS', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'IN', 'NNPS', 'POS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

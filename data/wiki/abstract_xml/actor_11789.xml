@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Claudia Drake</title>
+<link/>https://en.wikipedia.org/wiki/Claudia_Drake
+<annotated>0</annotated>
+<originalabstract>Claudia Drake (January 30, 1918 – October 19, 1997) was an American actress and singer. She appeared in a number of B Movies in a mixture of leading and supporting roles. She starred in the 1945 film noir Detour.</originalabstract>
+<abstract>Claudia_Drake ( January_30_,_1918 – October_19_,_1997 ) was an_American_actress_and_singer . She appeared in a_number of B_Movies in a_mixture of leading_and_supporting_roles . She starred in the_1945_film_noir_Detour .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Claudia'), (8, 'Drake'), (14, '('), (15, 'January'), (23, '30'), (25, ','), (27, '1918'), (32, '–'), (34, 'October'), (42, '19'), (44, ','), (46, '1997'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actress'), (76, 'and'), (80, 'singer'), (86, '.'), (88, 'She'), (92, 'appeared'), (101, 'in'), (104, 'a'), (106, 'number'), (113, 'of'), (116, 'B'), (118, 'Movies'), (125, 'in'), (128, 'a'), (130, 'mixture'), (138, 'of'), (141, 'leading'), (149, 'and'), (153, 'supporting'), (164, 'roles'), (169, '.'), (171, 'She'), (175, 'starred'), (183, 'in'), (186, 'the'), (190, '1945'), (195, 'film'), (200, 'noir'), (205, 'Detour'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Claudia Drake',0, 13), ('January 30, 1918',15, 31), ('October 19, 1997',34, 50), ('an American actress and singer',56, 86), ('a number',104, 112), ('B Movies',116, 124), ('a mixture',128, 137), ('leading and supporting roles',141, 169), ('the 1945 film noir Detour',186, 211)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NN', 'NNS', 'IN', 'DT', 'NN', 'IN', 'VBG', 'CC', 'VBG', 'NNS', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Claudia'), (8, 'Drake'), (14, '('), (15, 'January'), (23, '30'), (25, ','), (27, '1918'), (32, '–'), (34, 'October'), (42, '19'), (44, ','), (46, '1997'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actress'), (76, 'and'), (80, 'singer'), (86, '.'), (88, 'She'), (92, 'appeared'), (101, 'in'), (104, 'a'), (106, 'number'), (113, 'of'), (116, 'B'), (118, 'Movies'), (125, 'in'), (128, 'a'), (130, 'mixture'), (138, 'of'), (141, 'leading'), (149, 'and'), (153, 'supporting'), (164, 'roles'), (169, '.'), (171, 'She'), (175, 'starred'), (183, 'in'), (186, 'the'), (190, '1945'), (195, 'film'), (200, 'noir'), (205, 'Detour'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[('Claudia Drake', 0, 13), ('(January', 14, 22), ('January 30, 1918', 15, 31), ('October 19, 1997', 34, 50), ('an American actress', 56, 75), ('Singer', 80, 86), ('a number', 104, 112), ('B Movies', 116, 124), ('a mixture', 128, 137), ('leading and supporting roles', 141, 169), ('the 1945 film noir', 186, 204), ('Detour', 205, 211)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNPS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNPS', 'IN', 'DT', 'NN', 'IN', 'VBG', 'CC', 'VBG', 'NNS', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

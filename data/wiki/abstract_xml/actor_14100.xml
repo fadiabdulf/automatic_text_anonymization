@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Natalie Moorhead</title>
+<link/>https://en.wikipedia.org/wiki/Natalie_Moorhead
+<annotated>0</annotated>
+<originalabstract>Natalie Moorhead (born Nathalian Morehead; July 27, 1901 – October 6, 1992) was an American film and stage actress of the 1920s and 1930s. She was known for distinctive platinum blond hair.</originalabstract>
+<abstract>Natalie_Moorhead ( born Nathalian_Morehead ; July_27_,_1901 – October_6_,_1992 ) was an_American_film_and_stage_actress of the_1920s_and_1930s . She was_known for distinctive_platinum_blond_hair .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Natalie'), (8, 'Moorhead'), (17, '('), (18, 'born'), (23, 'Nathalian'), (33, 'Morehead'), (41, ';'), (43, 'July'), (48, '27'), (50, ','), (52, '1901'), (57, '–'), (59, 'October'), (67, '6'), (68, ','), (70, '1992'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'film'), (97, 'and'), (101, 'stage'), (107, 'actress'), (115, 'of'), (118, 'the'), (122, '1920s'), (128, 'and'), (132, '1930s'), (137, '.'), (139, 'She'), (143, 'was'), (147, 'known'), (153, 'for'), (157, 'distinctive'), (169, 'platinum'), (178, 'blond'), (184, 'hair'), (188, '.')])</stanford_tokens>
+<opennlp_chunks>[('Natalie Moorhead',0, 16), ('Nathalian Morehead',23, 41), ('July 27, 1901',43, 56), ('October 6, 1992',59, 74), ('an American film and stage actress',80, 114), ('the 1920s and 1930s',118, 137), ('was known',143, 152), ('distinctive platinum blond hair',157, 188)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'JJ', 'NN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Natalie'), (8, 'Moorhead'), (17, '('), (18, 'born'), (23, 'Nathalian'), (33, 'Morehead'), (41, ';'), (43, 'July'), (48, '27'), (50, ','), (52, '1901'), (57, '–'), (59, 'October'), (67, '6'), (68, ','), (70, '1992'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'film'), (97, 'and'), (101, 'stage'), (107, 'actress'), (115, 'of'), (118, 'the'), (122, '1920s'), (128, 'and'), (132, '1930s'), (137, '.'), (139, 'She'), (143, 'was'), (147, 'known'), (153, 'for'), (157, 'distinctive'), (169, 'platinum'), (178, 'blond'), (184, 'hair'), (188, '.')])</spacy_tokens>
+<spacy_chunks>[('Natalie Moorhead', 0, 16), ('(born Nathalian Morehead', 17, 41), ('July 27, 1901', 43, 56), ('October 6, 1992', 59, 74), ('an American film', 80, 96), ('stage actress', 101, 114), ('the 1920s', 118, 127), ('distinctive platinum blond hair', 157, 188)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBD', 'VBN', 'IN', 'JJ', 'NN', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

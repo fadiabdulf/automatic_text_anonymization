@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alexis Loret</title>
+<link/>https://en.wikipedia.org/wiki/Alexis_Loret
+<annotated>0</annotated>
+<originalabstract>Alexis Loret (born 10 January 1975) is a French film and television actor.
+Devoting himself initially to cabinetmaking, he became a model, and was noticed by André Téchiné.</originalabstract>
+<abstract>Alexis_Loret ( born_10_January_1975 ) is a_French_film_and_television_actor . Devoting himself initially to cabinetmaking , he became a_model , and was_noticed by André_Téchiné .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alexis'), (7, 'Loret'), (13, '('), (14, 'born'), (19, '10'), (22, 'January'), (30, '1975'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'French'), (48, 'film'), (53, 'and'), (57, 'television'), (68, 'actor'), (73, '.'), (75, 'Devoting'), (84, 'himself'), (92, 'initially'), (102, 'to'), (105, 'cabinetmaking'), (118, ','), (120, 'he'), (123, 'became'), (130, 'a'), (132, 'model'), (137, ','), (139, 'and'), (143, 'was'), (147, 'noticed'), (155, 'by'), (158, 'André'), (164, 'Téchiné'), (171, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alexis Loret',0, 12), ('born 10 January 1975',14, 34), ('a French film and television actor',39, 73), ('a model',130, 137), ('was noticed',143, 154), ('André Téchiné',158, 171)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'VBG', 'PRP', 'RB', 'TO', 'NN', ',', 'PRP', 'VBD', 'DT', 'NN', ',', 'CC', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alexis'), (7, 'Loret'), (13, '('), (14, 'born'), (19, '10'), (22, 'January'), (30, '1975'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'French'), (48, 'film'), (53, 'and'), (57, 'television'), (68, 'actor'), (73, '.'), (75, 'Devoting'), (84, 'himself'), (92, 'initially'), (102, 'to'), (105, 'cabinetmaking'), (118, ','), (120, 'he'), (123, 'became'), (130, 'a'), (132, 'model'), (137, ','), (139, 'and'), (143, 'was'), (147, 'noticed'), (155, 'by'), (158, 'André'), (164, 'Téchiné'), (171, '.')])</spacy_tokens>
+<spacy_chunks>[('Alexis Loret', 0, 12), ('10 January 1975', 19, 34), ('a French film and television actor', 39, 73), ('himself', 84, 91), ('cabinetmaking', 105, 118), ('a model', 130, 137), ('André Téchiné', 158, 171)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'VBG', 'PRP', 'RB', 'IN', 'NN', ',', 'PRP', 'VBD', 'DT', 'NN', ',', 'CC', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

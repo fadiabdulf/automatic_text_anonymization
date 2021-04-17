@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gloria Marshall</title>
+<link/>https://en.wikipedia.org/wiki/Gloria_Marshall
+<annotated>0</annotated>
+<originalabstract>Gloria Marshall (August 27, 1931 – December 18, 1994) was an American actress seen on television in the 1950s in small parts, such as on Death Valley Days, Beverly Hillbillies, and Sea Hunt. She was in two films, Escape to Burma (1955) and Roadraceers (1959).</originalabstract>
+<abstract>Gloria_Marshall ( August_27_,_1931 – December_18_,_1994 ) was an_American_actress seen on television in the_1950s in small_parts , such_as on Death_Valley_Days , Beverly_Hillbillies , and Sea_Hunt . She was in two_films , Escape to Burma_(_1955_)_and_Roadraceers ( 1959_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gloria'), (7, 'Marshall'), (16, '('), (17, 'August'), (24, '27'), (26, ','), (28, '1931'), (33, '–'), (35, 'December'), (44, '18'), (46, ','), (48, '1994'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'actress'), (78, 'seen'), (83, 'on'), (86, 'television'), (97, 'in'), (100, 'the'), (104, '1950s'), (110, 'in'), (113, 'small'), (119, 'parts'), (124, ','), (126, 'such'), (131, 'as'), (134, 'on'), (137, 'Death'), (143, 'Valley'), (150, 'Days'), (154, ','), (156, 'Beverly'), (164, 'Hillbillies'), (175, ','), (177, 'and'), (181, 'Sea'), (185, 'Hunt'), (189, '.'), (191, 'She'), (195, 'was'), (199, 'in'), (202, 'two'), (206, 'films'), (211, ','), (213, 'Escape'), (220, 'to'), (223, 'Burma'), (229, '('), (230, '1955'), (234, ')'), (236, 'and'), (240, 'Roadraceers'), (252, '('), (253, '1959'), (257, ')'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gloria Marshall',0, 15), ('August 27, 1931',17, 32), ('December 18, 1994',35, 52), ('an American actress',58, 77), ('the 1950s',100, 109), ('small parts',113, 124), ('such as',126, 133), ('Death Valley Days',137, 154), ('Beverly Hillbillies',156, 175), ('Sea Hunt',181, 189), ('two films',202, 211), ('Burma (1955) and Roadraceers',223, 251), ('1959)',253, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'NN', 'IN', 'DT', 'NNS', 'IN', 'JJ', 'NNS', ',', 'JJ', 'IN', 'IN', 'NNP', 'NNP', 'NNS', ',', 'NNP', 'NNPS', ',', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', ',', 'NN', 'TO', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNS', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gloria'), (7, 'Marshall'), (16, '('), (17, 'August'), (24, '27'), (26, ','), (28, '1931'), (33, '–'), (35, 'December'), (44, '18'), (46, ','), (48, '1994'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'actress'), (78, 'seen'), (83, 'on'), (86, 'television'), (97, 'in'), (100, 'the'), (104, '1950s'), (110, 'in'), (113, 'small'), (119, 'parts'), (124, ','), (126, 'such'), (131, 'as'), (134, 'on'), (137, 'Death'), (143, 'Valley'), (150, 'Days'), (154, ','), (156, 'Beverly'), (164, 'Hillbillies'), (175, ','), (177, 'and'), (181, 'Sea'), (185, 'Hunt'), (189, '.'), (191, 'She'), (195, 'was'), (199, 'in'), (202, 'two'), (206, 'films'), (211, ','), (213, 'Escape'), (220, 'to'), (223, 'Burma'), (229, '('), (230, '1955'), (234, ')'), (236, 'and'), (240, 'Roadraceers'), (252, '('), (253, '1959'), (257, ')'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Gloria Marshall', 0, 15), ('August 27, 1931', 17, 32), ('December 18, 1994', 35, 52), ('an American actress', 58, 77), ('television', 86, 96), ('the 1950s', 100, 109), ('small parts', 113, 124), ('Death Valley Days', 137, 154), ('Beverly Hillbillies', 156, 175), ('Sea Hunt', 181, 189), ('two films', 202, 211), ('Escape to Burma', 213, 228), ('Roadraceers', 240, 251)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'NN', 'IN', 'DT', 'NNS', 'IN', 'JJ', 'NNS', ',', 'JJ', 'IN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNPS', ',', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', ',', 'VB', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNPS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

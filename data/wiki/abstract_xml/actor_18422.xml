@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Olivia Bonamy</title>
+<link/>https://en.wikipedia.org/wiki/Olivia_Bonamy
+<annotated>0</annotated>
+<originalabstract>Olivia Bonamy (born 21 September 1972) is a French actress. She is best known for her appearances in the films Jefferson in Paris, Jacques Audiard's Read My Lips, the thriller Ils and Le ciel, les oiseaux et ta mère.</originalabstract>
+<abstract>Olivia_Bonamy ( born 21_September_1972 ) is a_French_actress . She is_best_known for her_appearances in the_films_Jefferson in Paris , Jacques_Audiard 's_Read_My_Lips , the_thriller_Ils and Le_ciel , les_oiseaux_et ta mère .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Olivia'), (7, 'Bonamy'), (14, '('), (15, 'born'), (20, '21'), (23, 'September'), (33, '1972'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'is'), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'appearances'), (98, 'in'), (101, 'the'), (105, 'films'), (111, 'Jefferson'), (121, 'in'), (124, 'Paris'), (129, ','), (131, 'Jacques'), (139, 'Audiard'), (146, '\'s'), (149, 'Read'), (154, 'My'), (157, 'Lips'), (161, ','), (163, 'the'), (167, 'thriller'), (176, 'Ils'), (180, 'and'), (184, 'Le'), (187, 'ciel'), (191, ','), (193, 'les'), (197, 'oiseaux'), (205, 'et'), (208, 'ta'), (211, 'mère'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Olivia Bonamy',0, 13), ('21 September 1972',20, 37), ('a French actress',42, 58), ('is best known',64, 77), ('her appearances',82, 97), ('the films Jefferson',101, 120), ('Jacques Audiard',131, 146), ('\'s Read My Lips',146, 161), ('the thriller Ils',163, 179), ('Le ciel',184, 191), ('les oiseaux et',193, 207)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'POS', 'NNP', 'PRP$', 'NNS', ',', 'DT', 'NN', 'NN', 'CC', 'NNP', 'NNP', ',', 'FW', 'FW', 'FW', 'TO', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Olivia'), (7, 'Bonamy'), (14, '('), (15, 'born'), (20, '21'), (23, 'September'), (33, '1972'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'is'), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'appearances'), (98, 'in'), (101, 'the'), (105, 'films'), (111, 'Jefferson'), (121, 'in'), (124, 'Paris'), (129, ','), (131, 'Jacques'), (139, 'Audiard'), (146, "'s"), (149, 'Read'), (154, 'My'), (157, 'Lips'), (161, ','), (163, 'the'), (167, 'thriller'), (176, 'Ils'), (180, 'and'), (184, 'Le'), (187, 'ciel'), (191, ','), (193, 'les'), (197, 'oiseaux'), (205, 'et'), (208, 'ta'), (211, 'mère'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Olivia Bonamy', 0, 13), ('21 September 1972', 20, 37), ('a French actress', 42, 58), ('her appearances', 82, 97), ('the films', 101, 110), ('Jefferson in Paris', 111, 129), ('Jacques Audiard', 131, 146), ('My Lips', 154, 161), ('the thriller', 163, 175), ('Le ciel, les oiseaux et ta mère', 184, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'POS', 'VB', 'PRP$', 'NNS', ',', 'DT', 'NN', 'NNP', 'CC', 'NNP', 'NNP', ',', 'FW', 'FW', 'FW', 'FW', 'FW', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fiona (singer)</title>
+<link/>https://en.wikipedia.org/wiki/Fiona_(singer)
+<annotated>0</annotated>
+<originalabstract>Fiona Eileen Flanagan (born September 13, 1961), known by the stage name Fiona, is an American rock music singer-songwriter and actress best known as the love interest in the 1987 Bob Dylan vehicle, Hearts of Fire.</originalabstract>
+<abstract>Fiona_Eileen_Flanagan ( born September_13_,_1961 ) , known by the_stage_name_Fiona , is an_American_rock_music_singer-songwriter_and_actress best_known as the_love_interest in the_1987_Bob_Dylan_vehicle , Hearts of Fire .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fiona'), (6, 'Eileen'), (13, 'Flanagan'), (22, '('), (23, 'born'), (28, 'September'), (38, '13'), (40, ','), (42, '1961'), (46, ')'), (47, ','), (49, 'known'), (55, 'by'), (58, 'the'), (62, 'stage'), (68, 'name'), (73, 'Fiona'), (78, ','), (80, 'is'), (83, 'an'), (86, 'American'), (95, 'rock'), (100, 'music'), (106, 'singer-songwriter'), (124, 'and'), (128, 'actress'), (136, 'best'), (141, 'known'), (147, 'as'), (150, 'the'), (154, 'love'), (159, 'interest'), (168, 'in'), (171, 'the'), (175, '1987'), (180, 'Bob'), (184, 'Dylan'), (190, 'vehicle'), (197, ','), (199, 'Hearts'), (206, 'of'), (209, 'Fire'), (213, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fiona Eileen Flanagan',0, 21), ('September 13, 1961',28, 46), ('the stage name Fiona',58, 78), ('an American rock music singer-songwriter and actress',83, 135), ('best known',136, 146), ('the love interest',150, 167), ('the 1987 Bob Dylan vehicle',171, 197)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'DT', 'NN', 'NN', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', ',', 'NNPS', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fiona'), (6, 'Eileen'), (13, 'Flanagan'), (22, '('), (23, 'born'), (28, 'September'), (38, '13'), (40, ','), (42, '1961'), (46, ')'), (47, ','), (49, 'known'), (55, 'by'), (58, 'the'), (62, 'stage'), (68, 'name'), (73, 'Fiona'), (78, ','), (80, 'is'), (83, 'an'), (86, 'American'), (95, 'rock'), (100, 'music'), (106, 'singer'), (112, '-'), (113, 'songwriter'), (124, 'and'), (128, 'actress'), (136, 'best'), (141, 'known'), (147, 'as'), (150, 'the'), (154, 'love'), (159, 'interest'), (168, 'in'), (171, 'the'), (175, '1987'), (180, 'Bob'), (184, 'Dylan'), (190, 'vehicle'), (197, ','), (199, 'Hearts'), (206, 'of'), (209, 'Fire'), (213, '.')])</spacy_tokens>
+<spacy_chunks>[('Fiona Eileen Flanagan', 0, 21), ('September 13, 1961', 28, 46), ('the stage name', 58, 72), ('an American rock music singer-songwriter', 83, 123), ('actress', 128, 135), ('the love interest', 150, 167), ('the 1987 Bob Dylan vehicle', 171, 197), ('Hearts of Fire', 199, 213)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'DT', 'NN', 'NN', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'NN', 'HYPH', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', ',', 'NNPS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

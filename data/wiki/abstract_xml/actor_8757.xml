@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Buster Merryfield</title>
+<link/>https://en.wikipedia.org/wiki/Buster_Merryfield
+<annotated>0</annotated>
+<originalabstract>Harry "Buster" Merryfield (27 November 1920 – 23 June 1999) was an English actor best known for starring as Uncle Albert in the BBC comedy Only Fools and Horses.</originalabstract>
+<abstract>Harry " Buster " Merryfield ( 27_November_1920 – 23_June_1999 ) was an_English_actor best_known for starring as Uncle_Albert in the_BBC_comedy_Only_Fools_and_Horses .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harry'), (6, '"'), (7, 'Buster'), (13, '"'), (15, 'Merryfield'), (26, '('), (27, '27'), (30, 'November'), (39, '1920'), (44, '–'), (46, '23'), (49, 'June'), (54, '1999'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'English'), (75, 'actor'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'starring'), (105, 'as'), (108, 'Uncle'), (114, 'Albert'), (121, 'in'), (124, 'the'), (128, 'BBC'), (132, 'comedy'), (139, 'Only'), (144, 'Fools'), (150, 'and'), (154, 'Horses'), (160, '.')])</stanford_tokens>
+<opennlp_chunks>[('27 November 1920',27, 43), ('23 June 1999',46, 58), ('an English actor',64, 80), ('best known',81, 91), ('Uncle Albert',108, 120), ('the BBC comedy Only Fools and Horses',124, 160)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'RB', 'NNPS', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harry'), (6, '"'), (7, 'Buster'), (13, '"'), (15, 'Merryfield'), (26, '('), (27, '27'), (30, 'November'), (39, '1920'), (44, '–'), (46, '23'), (49, 'June'), (54, '1999'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'English'), (75, 'actor'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'starring'), (105, 'as'), (108, 'Uncle'), (114, 'Albert'), (121, 'in'), (124, 'the'), (128, 'BBC'), (132, 'comedy'), (139, 'Only'), (144, 'Fools'), (150, 'and'), (154, 'Horses'), (160, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry "Buster" Merryfield', 0, 25), ('27 November 1920', 27, 43), ('23 June 1999', 46, 58), ('an English actor', 64, 80), ('Uncle Albert', 108, 120), ('the BBC comedy', 124, 138), ('Only Fools and Horses', 139, 160)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNPS', 'CC', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>George Breakston</title>
+<link/>https://en.wikipedia.org/wiki/George_Breakston
+<annotated>0</annotated>
+<originalabstract>George Paul Breakston (January 22, 1920 – May 21, 1973) was a French-American actor, producer and film director, active in Hollywood from his days as a child actor in Andy Hardy films in the 1930s, to a period as an independent producer/director in the 1950s.</originalabstract>
+<abstract>George_Paul_Breakston ( January_22_,_1920 – May_21_,_1973 ) was a_French-American_actor_,_producer_and_film_director , active in Hollywood from his_days as a_child_actor in Andy_Hardy_films in the_1930s , to a_period as an_independent_producer/director in the_1950s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Paul'), (12, 'Breakston'), (22, '('), (23, 'January'), (31, '22'), (33, ','), (35, '1920'), (40, '–'), (42, 'May'), (46, '21'), (48, ','), (50, '1973'), (54, ')'), (56, 'was'), (60, 'a'), (62, 'French-American'), (78, 'actor'), (83, ','), (85, 'producer'), (94, 'and'), (98, 'film'), (103, 'director'), (111, ','), (113, 'active'), (120, 'in'), (123, 'Hollywood'), (133, 'from'), (138, 'his'), (142, 'days'), (147, 'as'), (150, 'a'), (152, 'child'), (158, 'actor'), (164, 'in'), (167, 'Andy'), (172, 'Hardy'), (178, 'films'), (184, 'in'), (187, 'the'), (191, '1930s'), (196, ','), (198, 'to'), (201, 'a'), (203, 'period'), (210, 'as'), (213, 'an'), (216, 'independent'), (228, 'producer/director'), (246, 'in'), (249, 'the'), (253, '1950s'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Paul Breakston',0, 21), ('January 22, 1920',23, 39), ('May 21, 1973',42, 54), ('a French-American actor, producer and film director',60, 111), ('his days',138, 146), ('a child actor',150, 163), ('Andy Hardy films',167, 183), ('the 1930s',187, 196), ('a period',201, 209), ('an independent producer/director',213, 245), ('the 1950s',249, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', ',', 'JJ', 'IN', 'NNP', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNS', 'IN', 'DT', 'NNS', ',', 'TO', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Paul'), (12, 'Breakston'), (22, '('), (23, 'January'), (31, '22'), (33, ','), (35, '1920'), (40, '–'), (42, 'May'), (46, '21'), (48, ','), (50, '1973'), (54, ')'), (56, 'was'), (60, 'a'), (62, 'French'), (68, '-'), (69, 'American'), (78, 'actor'), (83, ','), (85, 'producer'), (94, 'and'), (98, 'film'), (103, 'director'), (111, ','), (113, 'active'), (120, 'in'), (123, 'Hollywood'), (133, 'from'), (138, 'his'), (142, 'days'), (147, 'as'), (150, 'a'), (152, 'child'), (158, 'actor'), (164, 'in'), (167, 'Andy'), (172, 'Hardy'), (178, 'films'), (184, 'in'), (187, 'the'), (191, '1930s'), (196, ','), (198, 'to'), (201, 'a'), (203, 'period'), (210, 'as'), (213, 'an'), (216, 'independent'), (228, 'producer'), (236, '/'), (237, 'director'), (246, 'in'), (249, 'the'), (253, '1950s'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('George Paul Breakston', 0, 21), ('(January', 22, 30), ('January 22, 1920', 23, 39), ('May 21, 1973', 42, 54), ('a French-American actor, producer and film director', 60, 111), ('Hollywood', 123, 132), ('his days', 138, 146), ('a child actor', 150, 163), ('Andy Hardy films', 167, 183), ('the 1930s', 187, 196), ('a period', 201, 209), ('an independent producer', 213, 236), ('the 1950s', 249, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', ',', 'JJ', 'IN', 'NNP', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNS', 'IN', 'DT', 'NNS', ',', 'IN', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'SYM', 'NN', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

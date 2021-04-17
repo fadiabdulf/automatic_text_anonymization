@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Murray Melvin</title>
+<link/>https://en.wikipedia.org/wiki/Murray_Melvin
+<annotated>0</annotated>
+<originalabstract>Murray Melvin (born 10 August 1932) is an English stage and film actor noted for his work with Joan Littlewood, Ken Russell and Stanley Kubrick. He is the author of two books: The Art of Theatre Workshop (2006) and The Theatre Royal, A History of the Building (2009).</originalabstract>
+<abstract>Murray_Melvin ( born_10_August_1932 ) is an_English_stage_and_film_actor noted for his_work with Joan_Littlewood , Ken_Russell and Stanley_Kubrick . He is the_author of two_books : The_Art of Theatre_Workshop_(_2006_) and The_Theatre_Royal , A_History of the_Building ( 2009_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Murray'), (7, 'Melvin'), (14, '('), (15, 'born'), (20, '10'), (23, 'August'), (30, '1932'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'stage'), (56, 'and'), (60, 'film'), (65, 'actor'), (71, 'noted'), (77, 'for'), (81, 'his'), (85, 'work'), (90, 'with'), (95, 'Joan'), (100, 'Littlewood'), (110, ','), (112, 'Ken'), (116, 'Russell'), (124, 'and'), (128, 'Stanley'), (136, 'Kubrick'), (143, '.'), (145, 'He'), (148, 'is'), (151, 'the'), (155, 'author'), (162, 'of'), (165, 'two'), (169, 'books'), (174, ':'), (176, 'The'), (180, 'Art'), (184, 'of'), (187, 'Theatre'), (195, 'Workshop'), (204, '('), (205, '2006'), (209, ')'), (211, 'and'), (215, 'The'), (219, 'Theatre'), (227, 'Royal'), (232, ','), (234, 'A'), (236, 'History'), (244, 'of'), (247, 'the'), (251, 'Building'), (260, '('), (261, '2009'), (265, ')'), (266, '.')])</stanford_tokens>
+<opennlp_chunks>[('Murray Melvin',0, 13), ('born 10 August 1932',15, 34), ('an English stage and film actor',39, 70), ('his work',81, 89), ('Joan Littlewood',95, 110), ('Ken Russell',112, 123), ('Stanley Kubrick',128, 143), ('the author',151, 161), ('two books',165, 174), ('The Art',176, 183), ('Theatre Workshop (2006)',187, 210), ('The Theatre Royal',215, 232), ('A History',234, 243), ('the Building',247, 259), ('2009)',261, 266)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'VBD', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'CD', 'NNS', ':', 'DT', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Murray'), (7, 'Melvin'), (14, '('), (15, 'born'), (20, '10'), (23, 'August'), (30, '1932'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'stage'), (56, 'and'), (60, 'film'), (65, 'actor'), (71, 'noted'), (77, 'for'), (81, 'his'), (85, 'work'), (90, 'with'), (95, 'Joan'), (100, 'Littlewood'), (110, ','), (112, 'Ken'), (116, 'Russell'), (124, 'and'), (128, 'Stanley'), (136, 'Kubrick'), (143, '.'), (145, 'He'), (148, 'is'), (151, 'the'), (155, 'author'), (162, 'of'), (165, 'two'), (169, 'books'), (174, ':'), (176, 'The'), (180, 'Art'), (184, 'of'), (187, 'Theatre'), (195, 'Workshop'), (204, '('), (205, '2006'), (209, ')'), (211, 'and'), (215, 'The'), (219, 'Theatre'), (227, 'Royal'), (232, ','), (234, 'A'), (236, 'History'), (244, 'of'), (247, 'the'), (251, 'Building'), (260, '('), (261, '2009'), (265, ')'), (266, '.')])</spacy_tokens>
+<spacy_chunks>[('Murray Melvin', 0, 13), ('10 August 1932', 20, 34), ('an English stage and film actor', 39, 70), ('his work', 81, 89), ('Joan Littlewood', 95, 110), ('Ken Russell', 112, 123), ('Stanley Kubrick', 128, 143), ('the author', 151, 161), ('two books', 165, 174), ('The Art', 176, 183), ('Theatre Workshop', 187, 203), ('The Theatre Royal', 215, 232), ('A History', 234, 243), ('the Building', 247, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'CD', 'NNS', ':', 'DT', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

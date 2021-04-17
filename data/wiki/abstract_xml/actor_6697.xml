@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joey Travolta</title>
+<link/>https://en.wikipedia.org/wiki/Joey_Travolta
+<annotated>0</annotated>
+<originalabstract>Joseph "Joey" Travolta (born October 14, 1950) is an American actor, producer, director, and screenwriter. He is the older brother of actor John Travolta.</originalabstract>
+<abstract>Joseph_"_Joey_"_Travolta ( born October_14_,_1950 ) is an_American_actor , producer , director , and screenwriter . He is the_older_brother of actor_John_Travolta .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joseph'), (7, '"'), (8, 'Joey'), (12, '"'), (14, 'Travolta'), (23, '('), (24, 'born'), (29, 'October'), (37, '14'), (39, ','), (41, '1950'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, ','), (69, 'producer'), (77, ','), (79, 'director'), (87, ','), (89, 'and'), (93, 'screenwriter'), (105, '.'), (107, 'He'), (110, 'is'), (113, 'the'), (117, 'older'), (123, 'brother'), (131, 'of'), (134, 'actor'), (140, 'John'), (145, 'Travolta'), (153, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joseph "Joey" Travolta',0, 22), ('October 14, 1950',29, 45), ('an American actor',50, 67), ('the older brother',113, 130), ('actor John Travolta',134, 153)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJR', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joseph'), (7, '"'), (8, 'Joey'), (12, '"'), (14, 'Travolta'), (23, '('), (24, 'born'), (29, 'October'), (37, '14'), (39, ','), (41, '1950'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, ','), (69, 'producer'), (77, ','), (79, 'director'), (87, ','), (89, 'and'), (93, 'screenwriter'), (105, '.'), (107, 'He'), (110, 'is'), (113, 'the'), (117, 'older'), (123, 'brother'), (131, 'of'), (134, 'actor'), (140, 'John'), (145, 'Travolta'), (153, '.')])</spacy_tokens>
+<spacy_chunks>[('Joseph "Joey" Travolta', 0, 22), ('October 14, 1950', 29, 45), ('an American actor', 50, 67), ('producer', 69, 77), ('director', 79, 87), ('screenwriter', 93, 105), ('the older brother', 113, 130), ('actor John Travolta', 134, 153)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJR', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

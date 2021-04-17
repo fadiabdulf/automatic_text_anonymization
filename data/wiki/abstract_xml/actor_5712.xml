@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Victor Rodman</title>
+<link/>https://en.wikipedia.org/wiki/Victor_Rodman
+<annotated>0</annotated>
+<originalabstract>Victor Rodman (born Victor Rottman, August 6, 1892–June 29, 1965) was an American actor best known for his work on two Jack Webb NBC television programs, Dragnet and Noah's Ark.</originalabstract>
+<abstract>Victor_Rodman ( born Victor_Rottman , August_6_,_1892 – June_29_,_1965 ) was an_American_actor best_known for his_work on two_Jack_Webb_NBC_television_programs , Dragnet and Noah 's_Ark .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Victor'), (7, 'Rodman'), (14, '('), (15, 'born'), (20, 'Victor'), (27, 'Rottman'), (34, ','), (36, 'August'), (43, '6'), (44, ','), (46, '1892'), (50, '–'), (51, 'June'), (56, '29'), (58, ','), (60, '1965'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'actor'), (88, 'best'), (93, 'known'), (99, 'for'), (103, 'his'), (107, 'work'), (112, 'on'), (115, 'two'), (119, 'Jack'), (124, 'Webb'), (129, 'NBC'), (133, 'television'), (144, 'programs'), (152, ','), (154, 'Dragnet'), (162, 'and'), (166, 'Noah'), (170, '\'s'), (173, 'Ark'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Victor Rodman',0, 13), ('Victor Rottman',20, 34), ('August 6, 1892',36, 50), ('June 29, 1965',51, 64), ('an American actor',70, 87), ('best known',88, 98), ('his work',103, 111), ('two Jack Webb NBC television programs',115, 152), ('\'s Ark',170, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'NNP', 'NNP', 'NNP', 'NN', 'NNS', ',', 'NNP', 'CC', 'NNP', 'POS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Victor'), (7, 'Rodman'), (14, '('), (15, 'born'), (20, 'Victor'), (27, 'Rottman'), (34, ','), (36, 'August'), (43, '6'), (44, ','), (46, '1892–June'), (56, '29'), (58, ','), (60, '1965'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'actor'), (88, 'best'), (93, 'known'), (99, 'for'), (103, 'his'), (107, 'work'), (112, 'on'), (115, 'two'), (119, 'Jack'), (124, 'Webb'), (129, 'NBC'), (133, 'television'), (144, 'programs'), (152, ','), (154, 'Dragnet'), (162, 'and'), (166, 'Noah'), (170, "'s"), (173, 'Ark.')])</spacy_tokens>
+<spacy_chunks>[('Victor Rodman', 0, 13), ('born Victor Rottman', 15, 34), ('August 6, 1892', 36, 50), ('June 29, 1965', 51, 64), ('an American actor', 70, 87), ('his work', 103, 111), ('two Jack Webb NBC television programs', 115, 152), ('Dragnet', 154, 161)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'NNP', 'NNP', 'NNP', 'NN', 'NNS', ',', 'NN', 'CC', 'NNP', 'POS', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

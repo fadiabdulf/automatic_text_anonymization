@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Majandra Delfino</title>
+<link/>https://en.wikipedia.org/wiki/Majandra_Delfino
+<annotated>0</annotated>
+<originalabstract>Majandra Delfino (born February 20, 1981) is an American actress and singer. An Alma Award-winner, she is best known for her role as Maria DeLuca on Roswell, and as Andi on the CBS multi-cam Friends With Better Lives.</originalabstract>
+<abstract>Majandra_Delfino ( born February_20 , 1981 ) is an_American_actress_and_singer . An_Alma_Award-winner , she is_best_known for her_role as Maria_DeLuca on Roswell , and as Andi on the_CBS_multi-cam_Friends With Better_Lives .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Majandra'), (9, 'Delfino'), (17, '('), (18, 'born'), (23, 'February'), (32, '20'), (34, ','), (36, '1981'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'singer'), (75, '.'), (77, 'An'), (80, 'Alma'), (85, 'Award-winner'), (97, ','), (99, 'she'), (103, 'is'), (106, 'best'), (111, 'known'), (117, 'for'), (121, 'her'), (125, 'role'), (130, 'as'), (133, 'Maria'), (139, 'DeLuca'), (146, 'on'), (149, 'Roswell'), (156, ','), (158, 'and'), (162, 'as'), (165, 'Andi'), (170, 'on'), (173, 'the'), (177, 'CBS'), (181, 'multi-cam'), (191, 'Friends'), (199, 'With'), (204, 'Better'), (211, 'Lives'), (216, '.')])</stanford_tokens>
+<opennlp_chunks>[('Majandra Delfino',0, 16), ('February 20',23, 34), ('an American actress and singer',45, 75), ('An Alma Award-winner',77, 97), ('is best known',103, 116), ('her role',121, 129), ('Maria DeLuca',133, 145), ('the CBS multi-cam Friends',173, 198), ('Better Lives',204, 216)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'DT', 'NNP', 'NN', ',', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'JJ', 'NNPS', 'IN', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Majandra'), (9, 'Delfino'), (17, '('), (18, 'born'), (23, 'February'), (32, '20'), (34, ','), (36, '1981'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'singer'), (75, '.'), (77, 'An'), (80, 'Alma'), (85, 'Award'), (90, '-'), (91, 'winner'), (97, ','), (99, 'she'), (103, 'is'), (106, 'best'), (111, 'known'), (117, 'for'), (121, 'her'), (125, 'role'), (130, 'as'), (133, 'Maria'), (139, 'DeLuca'), (146, 'on'), (149, 'Roswell'), (156, ','), (158, 'and'), (162, 'as'), (165, 'Andi'), (170, 'on'), (173, 'the'), (177, 'CBS'), (181, 'multi'), (186, '-'), (187, 'cam'), (191, 'Friends'), (199, 'With'), (204, 'Better'), (211, 'Lives'), (216, '.')])</spacy_tokens>
+<spacy_chunks>[('Majandra Delfino', 0, 16), ('February 20, 1981', 23, 40), ('an American actress', 45, 64), ('singer', 69, 75), ('her role', 121, 129), ('Maria DeLuca', 133, 145), ('Roswell', 149, 156), ('the CBS multi-cam Friends', 173, 198), ('Friends with Better Lives', 191, 216)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'DT', 'NNP', 'NNP', 'HYPH', 'NN', ',', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'JJ', 'JJ', 'JJ', 'NNS', 'IN', 'JJR', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

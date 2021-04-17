@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Clara Whipple</title>
+<link/>https://en.wikipedia.org/wiki/Clara_Whipple
+<annotated>0</annotated>
+<originalabstract>Clara Whipple (née Clara or Clarissa or Clarise Brimmer Whipple; 7 November 1887 Saint Louis – 6 November 1932 Manhattan, New York) was an American actress who flourished in theatre from 1913 to 1915 and in silent film from 1915 to 1919. She was also a silent film scenario writer.</originalabstract>
+<abstract>Clara_Whipple ( née_Clara or Clarissa or Clarise_Brimmer_Whipple ; 7_November_1887_Saint_Louis – 6_November_1932_Manhattan_,_New_York ) was an_American_actress who flourished in theatre from 1913 to 1915 and in silent_film from 1915 to 1919 . She was also a_silent_film_scenario_writer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Clara'), (6, 'Whipple'), (14, '('), (15, 'née'), (19, 'Clara'), (25, 'or'), (28, 'Clarissa'), (37, 'or'), (40, 'Clarise'), (48, 'Brimmer'), (56, 'Whipple'), (63, ';'), (65, '7'), (67, 'November'), (76, '1887'), (81, 'Saint'), (87, 'Louis'), (93, '–'), (95, '6'), (97, 'November'), (106, '1932'), (111, 'Manhattan'), (120, ','), (122, 'New'), (126, 'York'), (130, ')'), (132, 'was'), (136, 'an'), (139, 'American'), (148, 'actress'), (156, 'who'), (160, 'flourished'), (171, 'in'), (174, 'theatre'), (182, 'from'), (187, '1913'), (192, 'to'), (195, '1915'), (200, 'and'), (204, 'in'), (207, 'silent'), (214, 'film'), (219, 'from'), (224, '1915'), (229, 'to'), (232, '1919'), (236, '.'), (238, 'She'), (242, 'was'), (246, 'also'), (251, 'a'), (253, 'silent'), (260, 'film'), (265, 'scenario'), (274, 'writer'), (280, '.')])</stanford_tokens>
+<opennlp_chunks>[('Clara Whipple',0, 13), ('née Clara',15, 24), ('Clarise Brimmer Whipple',40, 63), ('7 November 1887 Saint Louis',65, 92), ('6 November 1932 Manhattan, New York',95, 130), ('an American actress',136, 155), ('silent film',207, 218), ('a silent film scenario writer',251, 280)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'CC', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', 'IN', 'CD', 'TO', 'CD', 'CC', 'IN', 'JJ', 'NN', 'IN', 'CD', 'TO', 'CD', '.', 'PRP', 'VBD', 'RB', 'DT', 'JJ', 'NN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Clara'), (6, 'Whipple'), (14, '('), (15, 'née'), (19, 'Clara'), (25, 'or'), (28, 'Clarissa'), (37, 'or'), (40, 'Clarise'), (48, 'Brimmer'), (56, 'Whipple'), (63, ';'), (65, '7'), (67, 'November'), (76, '1887'), (81, 'Saint'), (87, 'Louis'), (93, '–'), (95, '6'), (97, 'November'), (106, '1932'), (111, 'Manhattan'), (120, ','), (122, 'New'), (126, 'York'), (130, ')'), (132, 'was'), (136, 'an'), (139, 'American'), (148, 'actress'), (156, 'who'), (160, 'flourished'), (171, 'in'), (174, 'theatre'), (182, 'from'), (187, '1913'), (192, 'to'), (195, '1915'), (200, 'and'), (204, 'in'), (207, 'silent'), (214, 'film'), (219, 'from'), (224, '1915'), (229, 'to'), (232, '1919'), (236, '.'), (238, 'She'), (242, 'was'), (246, 'also'), (251, 'a'), (253, 'silent'), (260, 'film'), (265, 'scenario'), (274, 'writer'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('Clara Whipple', 0, 13), ('née Clara', 15, 24), ('Clarissa', 28, 36), ('Clarise Brimmer Whipple', 40, 63), ('7 November 1887', 65, 80), ('Saint Louis', 81, 92), ('6 November 1932', 95, 110), ('Manhattan, New York', 111, 130), ('an American actress', 136, 155), ('theatre', 174, 181), ('silent film', 207, 218), ('a silent film scenario writer', 251, 280)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'CC', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', 'IN', 'CD', 'IN', 'CD', 'CC', 'IN', 'JJ', 'NN', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'VBD', 'RB', 'DT', 'JJ', 'NN', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

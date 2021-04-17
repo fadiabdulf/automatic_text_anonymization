@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Larry Shue</title>
+<link/>https://en.wikipedia.org/wiki/Larry_Shue
+<annotated>0</annotated>
+<originalabstract>Larry Howard Shue (July 23, 1946 – September 23, 1985) was an American playwright and actor, best known for writing two often-performed farces, The Nerd and The Foreigner.</originalabstract>
+<abstract>Larry_Howard_Shue ( July_23_,_1946 – September_23_,_1985 ) was an_American_playwright_and_actor , best_known for writing two_often-performed_farces , The_Nerd and The_Foreigner .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Larry'), (6, 'Howard'), (13, 'Shue'), (18, '('), (19, 'July'), (24, '23'), (26, ','), (28, '1946'), (33, '–'), (35, 'September'), (45, '23'), (47, ','), (49, '1985'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'playwright'), (82, 'and'), (86, 'actor'), (91, ','), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'writing'), (116, 'two'), (120, 'often-performed'), (136, 'farces'), (142, ','), (144, 'The'), (148, 'Nerd'), (153, 'and'), (157, 'The'), (161, 'Foreigner'), (170, '.')])</stanford_tokens>
+<opennlp_chunks>[('Larry Howard Shue',0, 17), ('July 23, 1946',19, 32), ('September 23, 1985',35, 53), ('an American playwright and actor',59, 91), ('best known',93, 103), ('two often-performed farces',116, 142), ('The Nerd',144, 152), ('The Foreigner',157, 170)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'CD', 'JJ', 'NNS', ',', 'DT', 'NN', 'CC', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Larry'), (6, 'Howard'), (13, 'Shue'), (18, '('), (19, 'July'), (24, '23'), (26, ','), (28, '1946'), (33, '–'), (35, 'September'), (45, '23'), (47, ','), (49, '1985'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'playwright'), (82, 'and'), (86, 'actor'), (91, ','), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'writing'), (116, 'two'), (120, 'often'), (125, '-'), (126, 'performed'), (136, 'farces'), (142, ','), (144, 'The'), (148, 'Nerd'), (153, 'and'), (157, 'The'), (161, 'Foreigner'), (170, '.')])</spacy_tokens>
+<spacy_chunks>[('Larry Howard Shue', 0, 17), ('July 23, 1946', 19, 32), ('September 23, 1985', 35, 53), ('an American playwright', 59, 81), ('two often-performed farces', 116, 142), ('The Nerd', 144, 152), ('The Foreigner', 157, 170)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'CD', 'RB', 'HYPH', 'VBN', 'NNS', ',', 'DT', 'NNP', 'CC', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

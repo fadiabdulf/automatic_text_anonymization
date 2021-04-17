@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lambert Wilson</title>
+<link/>https://en.wikipedia.org/wiki/Lambert_Wilson
+<annotated>0</annotated>
+<originalabstract>Lambert Wilson (born 3 August 1958) is a French actor, singer and activist internationally best known for his portrayal of The Merovingian in The Matrix Reloaded and The Matrix Revolutions.</originalabstract>
+<abstract>Lambert_Wilson ( born 3_August_1958 ) is a_French_actor_,_singer_and_activist internationally_best_known for his_portrayal of The_Merovingian in The_Matrix_Reloaded and The_Matrix_Revolutions .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lambert'), (8, 'Wilson'), (15, '('), (16, 'born'), (21, '3'), (23, 'August'), (30, '1958'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'French'), (48, 'actor'), (53, ','), (55, 'singer'), (62, 'and'), (66, 'activist'), (75, 'internationally'), (91, 'best'), (96, 'known'), (102, 'for'), (106, 'his'), (110, 'portrayal'), (120, 'of'), (123, 'The'), (127, 'Merovingian'), (139, 'in'), (142, 'The'), (146, 'Matrix'), (153, 'Reloaded'), (162, 'and'), (166, 'The'), (170, 'Matrix'), (177, 'Revolutions'), (188, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lambert Wilson',0, 14), ('3 August 1958',21, 34), ('a French actor, singer and activist',39, 74), ('internationally best known',75, 101), ('his portrayal',106, 119), ('The Merovingian',123, 138), ('The Matrix Reloaded',142, 161), ('The Matrix Revolutions',166, 188)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lambert'), (8, 'Wilson'), (15, '('), (16, 'born'), (21, '3'), (23, 'August'), (30, '1958'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'French'), (48, 'actor'), (53, ','), (55, 'singer'), (62, 'and'), (66, 'activist'), (75, 'internationally'), (91, 'best'), (96, 'known'), (102, 'for'), (106, 'his'), (110, 'portrayal'), (120, 'of'), (123, 'The'), (127, 'Merovingian'), (139, 'in'), (142, 'The'), (146, 'Matrix'), (153, 'Reloaded'), (162, 'and'), (166, 'The'), (170, 'Matrix'), (177, 'Revolutions'), (188, '.')])</spacy_tokens>
+<spacy_chunks>[('Lambert Wilson', 0, 14), ('3 August 1958', 21, 34), ('a French actor', 39, 53), ('singer', 55, 61), ('activist', 66, 74), ('his portrayal', 106, 119), ('The Merovingian', 123, 138), ('The Matrix Reloaded', 142, 161), ('The Matrix Revolutions', 166, 188)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'VBN', 'CC', 'DT', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

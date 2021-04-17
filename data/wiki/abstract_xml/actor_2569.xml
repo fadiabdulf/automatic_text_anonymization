@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Gleason</title>
+<link/>https://en.wikipedia.org/wiki/James_Gleason
+<annotated>0</annotated>
+<originalabstract>For the politician, see James P. Gleason.
+Not to be confused with people named James Gleeson.James Austin Gleason (May 23, 1882 – April 12, 1959) was an American actor born in New York City. He was also a playwright and screenwriter.</originalabstract>
+<abstract>For the_politician , see James_P._Gleason . Not to_be_confused with people named James_Gleeson.James_Austin_Gleason ( May_23_,_1882 – April_12_,_1959_) was an_American_actor born in New_York_City . He was also a_playwright_and_screenwriter .</abstract>
+<stanford_tokens>OrderedDict([(0, 'For'), (4, 'the'), (8, 'politician'), (18, ','), (20, 'see'), (24, 'James'), (30, 'P.'), (33, 'Gleason'), (40, '.'), (42, 'Not'), (46, 'to'), (49, 'be'), (52, 'confused'), (61, 'with'), (66, 'people'), (73, 'named'), (79, 'James'), (85, 'Gleeson.James'), (99, 'Austin'), (106, 'Gleason'), (114, '('), (115, 'May'), (119, '23'), (121, ','), (123, '1882'), (128, '–'), (130, 'April'), (136, '12'), (138, ','), (140, '1959'), (144, ')'), (146, 'was'), (150, 'an'), (153, 'American'), (162, 'actor'), (168, 'born'), (173, 'in'), (176, 'New'), (180, 'York'), (185, 'City'), (189, '.'), (191, 'He'), (194, 'was'), (198, 'also'), (203, 'a'), (205, 'playwright'), (216, 'and'), (220, 'screenwriter'), (232, '.')])</stanford_tokens>
+<opennlp_chunks>[('the politician',4, 18), ('James P. Gleason',24, 40), ('to be confused',46, 60), ('James Gleeson.James Austin Gleason',79, 113), ('May 23, 1882',115, 127), ('April 12, 1959)',130, 145), ('an American actor',150, 167), ('New York City',176, 189), ('a playwright and screenwriter',203, 232)]</opennlp_chunks>
+<stanford_pos>['IN', 'DT', 'NN', ',', 'VB', 'NNP', 'NNP', 'NNP', '.', 'RB', 'TO', 'VB', 'VBN', 'IN', 'NNS', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'For'), (4, 'the'), (8, 'politician'), (18, ','), (20, 'see'), (24, 'James'), (30, 'P.'), (33, 'Gleason'), (40, '.'), (42, 'Not'), (46, 'to'), (49, 'be'), (52, 'confused'), (61, 'with'), (66, 'people'), (73, 'named'), (79, 'James'), (85, 'Gleeson'), (92, '.'), (93, 'James'), (99, 'Austin'), (106, 'Gleason'), (114, '('), (115, 'May'), (119, '23'), (121, ','), (123, '1882'), (128, '–'), (130, 'April'), (136, '12'), (138, ','), (140, '1959'), (144, ')'), (146, 'was'), (150, 'an'), (153, 'American'), (162, 'actor'), (168, 'born'), (173, 'in'), (176, 'New'), (180, 'York'), (185, 'City'), (189, '.'), (191, 'He'), (194, 'was'), (198, 'also'), (203, 'a'), (205, 'playwright'), (216, 'and'), (220, 'screenwriter'), (232, '.')])</spacy_tokens>
+<spacy_chunks>[('the politician', 4, 18), ('James P. Gleason', 24, 40), ('people', 66, 72), ('James Gleeson', 79, 92), ('James Austin Gleason', 93, 113), ('May 23, 1882', 115, 127), ('April 12, 1959', 130, 144), ('an American actor', 150, 167), ('New York City', 176, 189), ('a playwright', 203, 215), ('screenwriter', 220, 232)]</spacy_chunks>
+<spacy_pos>['IN', 'DT', 'NN', ',', 'VB', 'NNP', 'NNP', 'NNP', '.', 'RB', 'TO', 'VB', 'VBN', 'IN', 'NNS', 'VBN', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

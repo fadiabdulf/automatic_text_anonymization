@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elya Baskin</title>
+<link/>https://en.wikipedia.org/wiki/Elya_Baskin
+<annotated>0</annotated>
+<originalabstract>Ilya Zalmanovich Baskin (Latvian: Iļja Baskins, Russian: Илья́ (Э́лиа) За́лманович Ба́скин; born 11 August 1950), known as Elya Baskin, is a Soviet-born American actor. He first gained attention for his role in Moscow on the Hudson (1984), as Robin Williams' character's best friend.</originalabstract>
+<abstract>Ilya_Zalmanovich_Baskin ( Latvian : Iļja_Baskins , Russian : Илья́ ( Э́лиа ) За́лманович_Ба́скин ; born_11_August_1950 ) , known as Elya_Baskin , is a_Soviet-born_American_actor . He first gained attention for his_role in Moscow on the_Hudson_(_1984_) , as Robin_Williams '_character 's_best_friend .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ilya'), (5, 'Zalmanovich'), (17, 'Baskin'), (24, '('), (25, 'Latvian'), (32, ':'), (34, 'Iļja'), (39, 'Baskins'), (46, ','), (48, 'Russian'), (55, ':'), (57, 'Илья́'), (63, '('), (64, 'Э́лиа'), (69, ')'), (71, 'За́лманович'), (83, 'Ба́скин'), (90, ';'), (92, 'born'), (97, '11'), (100, 'August'), (107, '1950'), (111, ')'), (112, ','), (114, 'known'), (120, 'as'), (123, 'Elya'), (128, 'Baskin'), (134, ','), (136, 'is'), (139, 'a'), (141, 'Soviet-born'), (153, 'American'), (162, 'actor'), (167, '.'), (169, 'He'), (172, 'first'), (178, 'gained'), (185, 'attention'), (195, 'for'), (199, 'his'), (203, 'role'), (208, 'in'), (211, 'Moscow'), (218, 'on'), (221, 'the'), (225, 'Hudson'), (232, '('), (233, '1984'), (237, ')'), (238, ','), (240, 'as'), (243, 'Robin'), (249, 'Williams'), (257, '\''), (259, 'character'), (268, '\'s'), (271, 'best'), (276, 'friend'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ilya Zalmanovich Baskin',0, 23), ('Iļja Baskins',34, 46), ('За́лманович Ба́скин',71, 90), ('born 11 August 1950',92, 111), ('Elya Baskin',123, 134), ('a Soviet-born American actor',139, 167), ('his role',199, 207), ('the Hudson (1984)',221, 238), ('Robin Williams',243, 257), ('\' character',257, 268), ('\'s best friend',268, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ':', 'NNP', 'NNP', ',', 'NNP', ':', 'NN', '-LRB-', 'NN', '-RRB-', 'NN', 'NN', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'RB', 'VBD', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'POS', 'JJS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ilya'), (5, 'Zalmanovich'), (17, 'Baskin'), (24, '('), (25, 'Latvian'), (32, ':'), (34, 'Iļja'), (39, 'Baskins'), (46, ','), (48, 'Russian'), (55, ':'), (57, 'Илья́'), (63, '('), (64, 'Э́лиа'), (69, ')'), (71, 'За́лманович'), (83, 'Ба́скин'), (90, ';'), (92, 'born'), (97, '11'), (100, 'August'), (107, '1950'), (111, ')'), (112, ','), (114, 'known'), (120, 'as'), (123, 'Elya'), (128, 'Baskin'), (134, ','), (136, 'is'), (139, 'a'), (141, 'Soviet'), (147, '-'), (148, 'born'), (153, 'American'), (162, 'actor'), (167, '.'), (169, 'He'), (172, 'first'), (178, 'gained'), (185, 'attention'), (195, 'for'), (199, 'his'), (203, 'role'), (208, 'in'), (211, 'Moscow'), (218, 'on'), (221, 'the'), (225, 'Hudson'), (232, '('), (233, '1984'), (237, ')'), (238, ','), (240, 'as'), (243, 'Robin'), (249, 'Williams'), (257, "'"), (259, 'character'), (268, "'s"), (271, 'best'), (276, 'friend'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Ilya Zalmanovich Baskin', 0, 23), ('Latvian', 25, 32), ('Iļja Baskins', 34, 46), ('Russian', 48, 55), ('(Э́лиа', 63, 69), ('11 August 1950', 97, 111), ('Elya Baskin', 123, 134), ('a Soviet-born American actor', 139, 167), ('attention', 185, 194), ('his role', 199, 207), ('Moscow on the Hudson', 211, 231), ("Robin Williams' character's best friend", 243, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ':', 'NNP', 'NNP', ',', 'NNP', ':', 'NNP', '-LRB-', 'NN', '-RRB-', 'NNP', 'NNP', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', '.', 'PRP', 'RB', 'VBD', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'POS', 'JJS', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

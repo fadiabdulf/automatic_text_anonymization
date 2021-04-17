@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Billy Daniels</title>
+<link/>https://en.wikipedia.org/wiki/Billy_Daniels
+<annotated>0</annotated>
+<originalabstract>William Boone Daniels (September 12, 1915 – October 7, 1988), better known as Billy Daniels, was an American singer active in the United States and Europe from the mid-1930s to 1988, notable for his hit recording of "That Old Black Magic" and his pioneering performances on early 1950s television.</originalabstract>
+<abstract>William_Boone_Daniels ( September_12_,_1915 – October_7_,_1988 ) , better_known as Billy_Daniels , was an_American_singer active in the_United_States and Europe from the_mid-1930s to 1988 , notable for his_hit_recording of " That_Old_Black_Magic " and his_pioneering_performances on early_1950s_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Boone'), (14, 'Daniels'), (22, '('), (23, 'September'), (33, '12'), (35, ','), (37, '1915'), (42, '–'), (44, 'October'), (52, '7'), (53, ','), (55, '1988'), (59, ')'), (60, ','), (62, 'better'), (69, 'known'), (75, 'as'), (78, 'Billy'), (84, 'Daniels'), (91, ','), (93, 'was'), (97, 'an'), (100, 'American'), (109, 'singer'), (116, 'active'), (123, 'in'), (126, 'the'), (130, 'United'), (137, 'States'), (144, 'and'), (148, 'Europe'), (155, 'from'), (160, 'the'), (164, 'mid-1930s'), (174, 'to'), (177, '1988'), (181, ','), (183, 'notable'), (191, 'for'), (195, 'his'), (199, 'hit'), (203, 'recording'), (213, 'of'), (216, '"'), (217, 'That'), (222, 'Old'), (226, 'Black'), (232, 'Magic'), (237, '"'), (239, 'and'), (243, 'his'), (247, 'pioneering'), (258, 'performances'), (271, 'on'), (274, 'early'), (280, '1950s'), (286, 'television'), (296, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Boone Daniels',0, 21), ('September 12, 1915',23, 41), ('October 7, 1988',44, 59), ('better known',62, 74), ('Billy Daniels',78, 91), ('an American singer',97, 115), ('the United States',126, 143), ('the mid-1930s',160, 173), ('his hit recording',195, 212), ('That Old Black Magic',217, 237), ('his pioneering performances',243, 270), ('early 1950s television',274, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'JJ', 'IN', 'DT', 'NNP', 'NNPS', 'CC', 'NNP', 'IN', 'DT', 'CD', 'TO', 'CD', ',', 'JJ', 'IN', 'PRP$', 'NN', 'NN', 'IN', '``', 'DT', 'NNP', 'NNP', 'NNP', '\'\'', 'CC', 'PRP$', 'JJ', 'NNS', 'IN', 'JJ', 'NNS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Boone'), (14, 'Daniels'), (22, '('), (23, 'September'), (33, '12'), (35, ','), (37, '1915'), (42, '–'), (44, 'October'), (52, '7'), (53, ','), (55, '1988'), (59, ')'), (60, ','), (62, 'better'), (69, 'known'), (75, 'as'), (78, 'Billy'), (84, 'Daniels'), (91, ','), (93, 'was'), (97, 'an'), (100, 'American'), (109, 'singer'), (116, 'active'), (123, 'in'), (126, 'the'), (130, 'United'), (137, 'States'), (144, 'and'), (148, 'Europe'), (155, 'from'), (160, 'the'), (164, 'mid-1930s'), (174, 'to'), (177, '1988'), (181, ','), (183, 'notable'), (191, 'for'), (195, 'his'), (199, 'hit'), (203, 'recording'), (213, 'of'), (216, '"'), (217, 'That'), (222, 'Old'), (226, 'Black'), (232, 'Magic'), (237, '"'), (239, 'and'), (243, 'his'), (247, 'pioneering'), (258, 'performances'), (271, 'on'), (274, 'early'), (280, '1950s'), (286, 'television'), (296, '.')])</spacy_tokens>
+<spacy_chunks>[('William Boone Daniels', 0, 21), ('September 12, 1915', 23, 41), ('October 7, 1988', 44, 59), ('Billy Daniels', 78, 91), ('an American singer', 97, 115), ('the United States', 126, 143), ('Europe', 148, 154), ('the mid-1930s', 160, 173), ('his hit recording', 195, 212), ('"That Old Black Magic', 216, 237), ('his pioneering performances', 243, 270), ('early 1950s television', 274, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'JJ', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'NNP', 'IN', 'DT', 'NNS', 'IN', 'CD', ',', 'JJ', 'IN', 'PRP$', 'NN', 'NN', 'IN', '``', 'NNP', 'NNP', 'NNP', 'NNP', "''", 'CC', 'PRP$', 'JJ', 'NNS', 'IN', 'JJ', 'CD', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

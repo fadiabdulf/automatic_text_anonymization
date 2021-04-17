@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Judge Reinhold</title>
+<link/>https://en.wikipedia.org/wiki/Judge_Reinhold
+<annotated>0</annotated>
+<originalabstract>Edward Ernest "Judge" Reinhold, Jr. (born May 21, 1957) is an American actor who has starred in several Hollywood movies, such as Ruthless People, Fast Times at Ridgemont High, Gremlins, and Daddy's Dyin': Who's Got the Will?, and both trilogies for Beverly Hills Cop and The Santa Clause.</originalabstract>
+<abstract>Edward_Ernest_"_Judge_"_Reinhold , Jr. ( born May_21_,_1957 ) is an_American_actor who has_starred in several_Hollywood_movies , such_as Ruthless_People , Fast_Times at Ridgemont_High , Gremlins , and Daddy 's_Dyin ' : Who 's Got_the_Will ? , and both_trilogies for Beverly_Hills_Cop and The_Santa_Clause .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edward'), (7, 'Ernest'), (14, '"'), (15, 'Judge'), (20, '"'), (22, 'Reinhold'), (30, ','), (32, 'Jr.'), (36, '('), (37, 'born'), (42, 'May'), (46, '21'), (48, ','), (50, '1957'), (54, ')'), (56, 'is'), (59, 'an'), (62, 'American'), (71, 'actor'), (77, 'who'), (81, 'has'), (85, 'starred'), (93, 'in'), (96, 'several'), (104, 'Hollywood'), (114, 'movies'), (120, ','), (122, 'such'), (127, 'as'), (130, 'Ruthless'), (139, 'People'), (145, ','), (147, 'Fast'), (152, 'Times'), (158, 'at'), (161, 'Ridgemont'), (171, 'High'), (175, ','), (177, 'Gremlins'), (185, ','), (187, 'and'), (191, 'Daddy'), (196, '\'s'), (199, 'Dyin'), (203, '\''), (204, ':'), (206, 'Who'), (209, '\'s'), (212, 'Got'), (216, 'the'), (220, 'Will'), (224, '?'), (225, ','), (227, 'and'), (231, 'both'), (236, 'trilogies'), (246, 'for'), (250, 'Beverly'), (258, 'Hills'), (264, 'Cop'), (268, 'and'), (272, 'The'), (276, 'Santa'), (282, 'Clause'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edward Ernest "Judge" Reinhold',0, 30), ('May 21, 1957',42, 54), ('an American actor',59, 76), ('has starred',81, 92), ('several Hollywood movies',96, 120), ('such as',122, 129), ('Ruthless People',130, 145), ('Fast Times',147, 157), ('Ridgemont High',161, 175), ('\'s Dyin',196, 203), ('Got the Will',212, 224), ('both trilogies',231, 245), ('Beverly Hills Cop',250, 267), ('The Santa Clause',272, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNP', 'NNS', ',', 'JJ', 'IN', 'JJ', 'NNS', ',', 'JJ', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'NNP', 'POS', 'NNP', 'POS', ':', 'WP', 'VBZ', 'NNP', 'DT', 'NNP', '.', ',', 'CC', 'DT', 'NNS', 'IN', 'NNP', 'NNP', 'NN', 'CC', 'DT', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edward'), (7, 'Ernest'), (14, '"'), (15, 'Judge'), (20, '"'), (22, 'Reinhold'), (30, ','), (32, 'Jr.'), (36, '('), (37, 'born'), (42, 'May'), (46, '21'), (48, ','), (50, '1957'), (54, ')'), (56, 'is'), (59, 'an'), (62, 'American'), (71, 'actor'), (77, 'who'), (81, 'has'), (85, 'starred'), (93, 'in'), (96, 'several'), (104, 'Hollywood'), (114, 'movies'), (120, ','), (122, 'such'), (127, 'as'), (130, 'Ruthless'), (139, 'People'), (145, ','), (147, 'Fast'), (152, 'Times'), (158, 'at'), (161, 'Ridgemont'), (171, 'High'), (175, ','), (177, 'Gremlins'), (185, ','), (187, 'and'), (191, 'Daddy'), (196, "'s"), (199, 'Dyin'), (203, "'"), (204, ':'), (206, 'Who'), (209, "'s"), (212, 'Got'), (216, 'the'), (220, 'Will'), (224, '?'), (225, ','), (227, 'and'), (231, 'both'), (236, 'trilogies'), (246, 'for'), (250, 'Beverly'), (258, 'Hills'), (264, 'Cop'), (268, 'and'), (272, 'The'), (276, 'Santa'), (282, 'Clause'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Edward Ernest "Judge', 0, 20), ('" Reinhold', 20, 30), ('May 21, 1957', 42, 54), ('an American actor', 59, 76), ('several Hollywood movies', 96, 120), ('Ruthless People', 130, 145), ('Fast Times at Ridgemont High', 147, 175), ('Gremlins', 177, 185), ("Daddy's Dyin': Who's Got the Will?", 191, 225), ('both trilogies', 231, 245), ('Beverly Hills Cop', 250, 267), ('The Santa Clause', 272, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNP', 'NNS', ',', 'JJ', 'IN', 'NNP', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNPS', ',', 'CC', 'NN', 'POS', 'NNP', "''", ':', 'WP', 'VBZ', 'NNP', 'DT', 'NN', '.', ',', 'CC', 'DT', 'NNS', 'IN', 'NNP', 'NNPS', 'NNP', 'CC', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Margaret Early</title>
+<link/>https://en.wikipedia.org/wiki/Margaret_Early
+<annotated>0</annotated>
+<originalabstract>Margaret Early (December 25, 1919 – November 29, 2000) was an American film actress who was active in Hollywood during the 1930s and 1940s. She is best remembered for her endearing Southern charm.</originalabstract>
+<abstract>Margaret_Early ( December_25_,_1919 – November_29_,_2000 ) was an_American_film_actress who was active in Hollywood during the_1930s_and_1940s . She is_best_remembered for her_endearing_Southern_charm .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Margaret'), (9, 'Early'), (15, '('), (16, 'December'), (25, '25'), (27, ','), (29, '1919'), (34, '–'), (36, 'November'), (45, '29'), (47, ','), (49, '2000'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'film'), (76, 'actress'), (84, 'who'), (88, 'was'), (92, 'active'), (99, 'in'), (102, 'Hollywood'), (112, 'during'), (119, 'the'), (123, '1930s'), (129, 'and'), (133, '1940s'), (138, '.'), (140, 'She'), (144, 'is'), (147, 'best'), (152, 'remembered'), (163, 'for'), (167, 'her'), (171, 'endearing'), (181, 'Southern'), (190, 'charm'), (195, '.')])</stanford_tokens>
+<opennlp_chunks>[('Margaret Early',0, 14), ('December 25, 1919',16, 33), ('November 29, 2000',36, 53), ('an American film actress',59, 83), ('the 1930s and 1940s',119, 138), ('is best remembered',144, 162), ('her endearing Southern charm',167, 195)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'JJ', 'IN', 'NNP', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBZ', 'JJS', 'VBN', 'IN', 'PRP$', 'JJ', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Margaret'), (9, 'Early'), (15, '('), (16, 'December'), (25, '25'), (27, ','), (29, '1919'), (34, '–'), (36, 'November'), (45, '29'), (47, ','), (49, '2000'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'film'), (76, 'actress'), (84, 'who'), (88, 'was'), (92, 'active'), (99, 'in'), (102, 'Hollywood'), (112, 'during'), (119, 'the'), (123, '1930s'), (129, 'and'), (133, '1940s'), (138, '.'), (140, 'She'), (144, 'is'), (147, 'best'), (152, 'remembered'), (163, 'for'), (167, 'her'), (171, 'endearing'), (181, 'Southern'), (190, 'charm'), (195, '.')])</spacy_tokens>
+<spacy_chunks>[('December 25, 1919', 16, 33), ('November 29, 2000', 36, 53), ('an American film actress', 59, 83), ('Hollywood', 102, 111), ('the 1930s', 119, 128), ('her endearing Southern charm', 167, 195)]</spacy_chunks>
+<spacy_pos>['NNP', 'RB', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'JJ', 'IN', 'NNP', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Patrick St. Esprit</title>
+<link/>https://en.wikipedia.org/wiki/Patrick_St._Esprit
+<annotated>0</annotated>
+<originalabstract>Patrick St. Esprit (born May 18, 1954) is an American character actor, best known for playing Romulus Thread in The Hunger Games: Catching Fire, Elliot Oswald in Sons of Anarchy and Robert Hicks in S.W.A.T..</originalabstract>
+<abstract>Patrick_St._Esprit ( born May_18_,_1954 ) is an_American_character_actor , best_known for playing Romulus_Thread in The_Hunger_Games : Catching Fire , Elliot_Oswald in Sons of Anarchy_and_Robert_Hicks in S.W.A.T. .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Patrick'), (8, 'St.'), (12, 'Esprit'), (19, '('), (20, 'born'), (25, 'May'), (29, '18'), (31, ','), (33, '1954'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'character'), (64, 'actor'), (69, ','), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'playing'), (94, 'Romulus'), (102, 'Thread'), (109, 'in'), (112, 'The'), (116, 'Hunger'), (123, 'Games'), (128, ':'), (130, 'Catching'), (139, 'Fire'), (143, ','), (145, 'Elliot'), (152, 'Oswald'), (159, 'in'), (162, 'Sons'), (167, 'of'), (170, 'Anarchy'), (178, 'and'), (182, 'Robert'), (189, 'Hicks'), (195, 'in'), (198, 'S.W.A.T.'), (206, '.')])</stanford_tokens>
+<opennlp_chunks>[('Patrick St. Esprit',0, 18), ('May 18, 1954',25, 37), ('an American character actor',42, 69), ('best known',71, 81), ('Romulus Thread',94, 108), ('The Hunger Games',112, 128), ('Elliot Oswald',145, 158), ('Anarchy and Robert Hicks',170, 194)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNPS', ':', 'VBG', 'NN', ',', 'NNP', 'NNP', 'IN', 'NNPS', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Patrick'), (8, 'St.'), (12, 'Esprit'), (19, '('), (20, 'born'), (25, 'May'), (29, '18'), (31, ','), (33, '1954'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'character'), (64, 'actor'), (69, ','), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'playing'), (94, 'Romulus'), (102, 'Thread'), (109, 'in'), (112, 'The'), (116, 'Hunger'), (123, 'Games'), (128, ':'), (130, 'Catching'), (139, 'Fire'), (143, ','), (145, 'Elliot'), (152, 'Oswald'), (159, 'in'), (162, 'Sons'), (167, 'of'), (170, 'Anarchy'), (178, 'and'), (182, 'Robert'), (189, 'Hicks'), (195, 'in'), (198, 'S.W.A.T'), (205, '..')])</spacy_tokens>
+<spacy_chunks>[('Patrick St. Esprit', 0, 18), ('May 18, 1954', 25, 37), ('an American character actor', 42, 69), ('Romulus Thread', 94, 108), ('The Hunger Games: Catching Fire', 112, 143), ('Elliot Oswald', 145, 158), ('Sons of Anarchy', 162, 177), ('Robert Hicks', 182, 194), ('S.W.A.T', 198, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNPS', ':', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNPS', 'IN', 'NNP', 'CC', 'NNP', 'NNPS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

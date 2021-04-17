@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Raymond Rognoni</title>
+<link/>https://en.wikipedia.org/wiki/Raymond_Rognoni
+<annotated>0</annotated>
+<originalabstract>Raymond Rognoni (Paris, 16 August 1892 – Paris, 26 September 1965) was a French actor and comedian. He worked in the theatre and in film (Sylvie et le fantôme, Les Enfants du Paradis), sometimes credited as Rognoni.</originalabstract>
+<abstract>Raymond_Rognoni ( Paris , 16_August_1892 – Paris , 26_September_1965 ) was a_French_actor_and_comedian . He worked in the_theatre and in film_(_Sylvie_et_le_fantôme , Les_Enfants_du_Paradis_) , sometimes_credited as Rognoni .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Raymond'), (8, 'Rognoni'), (16, '('), (17, 'Paris'), (22, ','), (24, '16'), (27, 'August'), (34, '1892'), (39, '–'), (41, 'Paris'), (46, ','), (48, '26'), (51, 'September'), (61, '1965'), (65, ')'), (67, 'was'), (71, 'a'), (73, 'French'), (80, 'actor'), (86, 'and'), (90, 'comedian'), (98, '.'), (100, 'He'), (103, 'worked'), (110, 'in'), (113, 'the'), (117, 'theatre'), (125, 'and'), (129, 'in'), (132, 'film'), (137, '('), (138, 'Sylvie'), (145, 'et'), (148, 'le'), (151, 'fantôme'), (158, ','), (160, 'Les'), (164, 'Enfants'), (172, 'du'), (175, 'Paradis'), (182, ')'), (183, ','), (185, 'sometimes'), (195, 'credited'), (204, 'as'), (207, 'Rognoni'), (214, '.')])</stanford_tokens>
+<opennlp_chunks>[('Raymond Rognoni',0, 15), ('16 August 1892',24, 38), ('26 September 1965',48, 65), ('a French actor and comedian',71, 98), ('the theatre',113, 124), ('film (Sylvie et le fantôme',132, 158), ('Les Enfants du Paradis)',160, 183), ('sometimes credited',185, 203)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'CC', 'IN', 'NN', '-LRB-', 'NNP', 'FW', 'FW', 'NN', ',', 'NNP', 'NNP', 'NNP', 'NNP', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Raymond'), (8, 'Rognoni'), (16, '('), (17, 'Paris'), (22, ','), (24, '16'), (27, 'August'), (34, '1892'), (39, '–'), (41, 'Paris'), (46, ','), (48, '26'), (51, 'September'), (61, '1965'), (65, ')'), (67, 'was'), (71, 'a'), (73, 'French'), (80, 'actor'), (86, 'and'), (90, 'comedian'), (98, '.'), (100, 'He'), (103, 'worked'), (110, 'in'), (113, 'the'), (117, 'theatre'), (125, 'and'), (129, 'in'), (132, 'film'), (137, '('), (138, 'Sylvie'), (145, 'et'), (148, 'le'), (151, 'fantôme'), (158, ','), (160, 'Les'), (164, 'Enfants'), (172, 'du'), (175, 'Paradis'), (182, ')'), (183, ','), (185, 'sometimes'), (195, 'credited'), (204, 'as'), (207, 'Rognoni'), (214, '.')])</spacy_tokens>
+<spacy_chunks>[('Raymond Rognoni', 0, 15), ('16 August 1892', 24, 38), ('26 September 1965', 48, 65), ('a French actor', 71, 85), ('comedian', 90, 98), ('the theatre', 113, 124), ('Sylvie et le fantôme', 138, 158), ('Les Enfants du Paradis', 160, 182)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'CC', 'IN', 'NN', '-LRB-', 'NNP', 'FW', 'FW', 'FW', ',', 'NNP', 'NNP', 'NNP', 'NNP', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

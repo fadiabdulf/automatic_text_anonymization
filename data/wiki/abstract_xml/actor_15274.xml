@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stacey Q</title>
+<link/>https://en.wikipedia.org/wiki/Stacey_Q
+<annotated>0</annotated>
+<originalabstract>Stacey Lynn Swain (born November 30, 1958), known by her stage name Stacey Q, is an American pop singer, songwriter, dancer and actress. Her best-known single, "Two of Hearts", released in 1986, reached number three on the Billboard Hot 100 and the top ten on charts in other countries.</originalabstract>
+<abstract>Stacey_Lynn_Swain ( born November_30_,_1958 ) , known by her_stage_name_Stacey_Q , is an_American_pop_singer , songwriter , dancer_and_actress . Her_best-known_single_,_"_Two of Hearts_" , released in 1986 , reached number_three on the_Billboard_Hot_100 and the_top_ten on charts in other_countries .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stacey'), (7, 'Lynn'), (12, 'Swain'), (18, '('), (19, 'born'), (24, 'November'), (33, '30'), (35, ','), (37, '1958'), (41, ')'), (42, ','), (44, 'known'), (50, 'by'), (53, 'her'), (57, 'stage'), (63, 'name'), (68, 'Stacey'), (75, 'Q'), (76, ','), (78, 'is'), (81, 'an'), (84, 'American'), (93, 'pop'), (97, 'singer'), (103, ','), (105, 'songwriter'), (115, ','), (117, 'dancer'), (124, 'and'), (128, 'actress'), (135, '.'), (137, 'Her'), (141, 'best-known'), (152, 'single'), (158, ','), (160, '"'), (161, 'Two'), (165, 'of'), (168, 'Hearts'), (174, '"'), (175, ','), (177, 'released'), (186, 'in'), (189, '1986'), (193, ','), (195, 'reached'), (203, 'number'), (210, 'three'), (216, 'on'), (219, 'the'), (223, 'Billboard'), (233, 'Hot'), (237, '100'), (241, 'and'), (245, 'the'), (249, 'top'), (253, 'ten'), (257, 'on'), (260, 'charts'), (267, 'in'), (270, 'other'), (276, 'countries'), (285, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stacey Lynn Swain',0, 17), ('November 30, 1958',24, 41), ('her stage name Stacey Q',53, 76), ('an American pop singer',81, 103), ('dancer and actress',117, 135), ('Her best-known single, "Two',137, 164), ('Hearts"',168, 175), ('number three',203, 215), ('the Billboard Hot 100',219, 240), ('the top ten',245, 256), ('other countries',270, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP$', 'JJS', 'JJ', ',', '``', 'CD', 'IN', 'NNPS', '\'\'', ',', 'VBN', 'IN', 'CD', ',', 'VBD', 'NN', 'CD', 'IN', 'DT', 'NNP', 'NNP', 'CD', 'CC', 'DT', 'JJ', 'CD', 'IN', 'NNS', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stacey'), (7, 'Lynn'), (12, 'Swain'), (18, '('), (19, 'born'), (24, 'November'), (33, '30'), (35, ','), (37, '1958'), (41, ')'), (42, ','), (44, 'known'), (50, 'by'), (53, 'her'), (57, 'stage'), (63, 'name'), (68, 'Stacey'), (75, 'Q'), (76, ','), (78, 'is'), (81, 'an'), (84, 'American'), (93, 'pop'), (97, 'singer'), (103, ','), (105, 'songwriter'), (115, ','), (117, 'dancer'), (124, 'and'), (128, 'actress'), (135, '.'), (137, 'Her'), (141, 'best'), (145, '-'), (146, 'known'), (152, 'single'), (158, ','), (160, '"'), (161, 'Two'), (165, 'of'), (168, 'Hearts'), (174, '"'), (175, ','), (177, 'released'), (186, 'in'), (189, '1986'), (193, ','), (195, 'reached'), (203, 'number'), (210, 'three'), (216, 'on'), (219, 'the'), (223, 'Billboard'), (233, 'Hot'), (237, '100'), (241, 'and'), (245, 'the'), (249, 'top'), (253, 'ten'), (257, 'on'), (260, 'charts'), (267, 'in'), (270, 'other'), (276, 'countries'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('Stacey Lynn Swain', 0, 17), ('November 30, 1958', 24, 41), ('her stage name', 53, 67), ('Stacey Q', 68, 76), ('an American pop singer', 81, 103), ('songwriter', 105, 115), ('dancer', 117, 123), ('actress', 128, 135), ('Her best-known single', 137, 158), ('Two of Hearts', 161, 174), ('number', 203, 209), ('the Billboard Hot', 219, 236), ('Billboard Hot 100', 223, 240), ('charts', 260, 266), ('other countries', 270, 285)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP$', 'RBS', 'HYPH', 'VBN', 'NN', ',', '``', 'CD', 'IN', 'NNPS', "''", ',', 'VBN', 'IN', 'CD', ',', 'VBD', 'NN', 'CD', 'IN', 'DT', 'NNP', 'NNP', 'CD', 'CC', 'DT', 'JJ', 'CD', 'IN', 'NNS', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

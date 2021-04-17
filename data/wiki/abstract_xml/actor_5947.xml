@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert Schenkkan</title>
+<link/>https://en.wikipedia.org/wiki/Robert_Schenkkan
+<annotated>0</annotated>
+<originalabstract>Robert Frederic Schenkkan, Jr. (born March 19, 1953) is an American playwright, screenwriter, and actor. He received the Pulitzer Prize for Drama in 1992 for his play The Kentucky Cycle and his play All the Way earned the 2014 Tony Award for Best Play. He has three Emmy Nominations and one WGA Award.</originalabstract>
+<abstract>Robert_Frederic_Schenkkan , Jr. ( born March_19_,_1953 ) is an_American_playwright , screenwriter , and actor . He received the_Pulitzer_Prize for Drama in 1992 for his play The_Kentucky_Cycle and his_play All the_Way earned the_2014_Tony_Award for Best_Play . He has three_Emmy_Nominations and one_WGA_Award .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Frederic'), (16, 'Schenkkan'), (25, ','), (27, 'Jr.'), (31, '('), (32, 'born'), (37, 'March'), (43, '19'), (45, ','), (47, '1953'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'playwright'), (78, ','), (80, 'screenwriter'), (92, ','), (94, 'and'), (98, 'actor'), (103, '.'), (105, 'He'), (108, 'received'), (117, 'the'), (121, 'Pulitzer'), (130, 'Prize'), (136, 'for'), (140, 'Drama'), (146, 'in'), (149, '1992'), (154, 'for'), (158, 'his'), (162, 'play'), (167, 'The'), (171, 'Kentucky'), (180, 'Cycle'), (186, 'and'), (190, 'his'), (194, 'play'), (199, 'All'), (203, 'the'), (207, 'Way'), (211, 'earned'), (218, 'the'), (222, '2014'), (227, 'Tony'), (232, 'Award'), (238, 'for'), (242, 'Best'), (247, 'Play'), (251, '.'), (253, 'He'), (256, 'has'), (260, 'three'), (266, 'Emmy'), (271, 'Nominations'), (283, 'and'), (287, 'one'), (291, 'WGA'), (295, 'Award'), (300, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Frederic Schenkkan',0, 25), ('March 19, 1953',37, 51), ('an American playwright',56, 78), ('the Pulitzer Prize',117, 135), ('The Kentucky Cycle',167, 185), ('his play',190, 198), ('the Way',203, 210), ('the 2014 Tony Award',218, 237), ('Best Play',242, 251), ('three Emmy Nominations',260, 282), ('one WGA Award',287, 300)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'DT', 'NNP', 'NNP', 'CC', 'PRP$', 'NN', 'PDT', 'DT', 'NNP', 'VBD', 'DT', 'CD', 'NNP', 'NN', 'IN', 'JJS', 'NNP', '.', 'PRP', 'VBZ', 'CD', 'NNP', 'NNPS', 'CC', 'CD', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Frederic'), (16, 'Schenkkan'), (25, ','), (27, 'Jr.'), (31, '('), (32, 'born'), (37, 'March'), (43, '19'), (45, ','), (47, '1953'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'playwright'), (78, ','), (80, 'screenwriter'), (92, ','), (94, 'and'), (98, 'actor'), (103, '.'), (105, 'He'), (108, 'received'), (117, 'the'), (121, 'Pulitzer'), (130, 'Prize'), (136, 'for'), (140, 'Drama'), (146, 'in'), (149, '1992'), (154, 'for'), (158, 'his'), (162, 'play'), (167, 'The'), (171, 'Kentucky'), (180, 'Cycle'), (186, 'and'), (190, 'his'), (194, 'play'), (199, 'All'), (203, 'the'), (207, 'Way'), (211, 'earned'), (218, 'the'), (222, '2014'), (227, 'Tony'), (232, 'Award'), (238, 'for'), (242, 'Best'), (247, 'Play'), (251, '.'), (253, 'He'), (256, 'has'), (260, 'three'), (266, 'Emmy'), (271, 'Nominations'), (283, 'and'), (287, 'one'), (291, 'WGA'), (295, 'Award'), (300, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Frederic Schenkkan', 0, 25), ('March 19, 1953', 37, 51), ('an American playwright', 56, 78), ('screenwriter', 80, 92), ('the Pulitzer Prize', 117, 135), ('Pulitzer Prize for Drama', 121, 145), ('his play', 158, 166), ('The Kentucky Cycle', 167, 185), ('All the Way', 199, 210), ('the 2014 Tony Award', 218, 237), ('Tony Award for Best Play', 227, 251), ('three Emmy Nominations', 260, 282), ('one WGA Award', 287, 300)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'DT', 'NNP', 'NN', 'CC', 'PRP$', 'NN', 'PDT', 'DT', 'NN', 'VBD', 'DT', 'CD', 'NNP', 'NNP', 'IN', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'CD', 'NNP', 'NNPS', 'CC', 'CD', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

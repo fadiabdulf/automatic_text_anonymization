@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jacques Grétillat</title>
+<link/>https://en.wikipedia.org/wiki/Jacques_Gr%C3%A9tillat
+<annotated>0</annotated>
+<originalabstract>Jacques Marie Gaëtan Grétillat (26 August 1885 – 19 December 1950) was a French actor and film director.
+Grétillat was born in Vitry-sur-Seine (Val-de-Marne), and died in Paris.</originalabstract>
+<abstract>Jacques_Marie_Gaëtan_Grétillat ( 26_August_1885 – 19_December_1950 ) was a_French_actor_and_film_director . Grétillat was_born in Vitry-sur-Seine_(_Val-de-Marne_) , and died in Paris .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jacques'), (8, 'Marie'), (14, 'Gaëtan'), (21, 'Grétillat'), (31, '('), (32, '26'), (35, 'August'), (42, '1885'), (47, '–'), (49, '19'), (52, 'December'), (61, '1950'), (65, ')'), (67, 'was'), (71, 'a'), (73, 'French'), (80, 'actor'), (86, 'and'), (90, 'film'), (95, 'director'), (103, '.'), (105, 'Grétillat'), (115, 'was'), (119, 'born'), (124, 'in'), (127, 'Vitry-sur-Seine'), (143, '('), (144, 'Val-de-Marne'), (156, ')'), (157, ','), (159, 'and'), (163, 'died'), (168, 'in'), (171, 'Paris'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jacques Marie Gaëtan Grétillat',0, 30), ('26 August 1885',32, 46), ('19 December 1950',49, 65), ('a French actor and film director',71, 103), ('was born',115, 123), ('Vitry-sur-Seine (Val-de-Marne)',127, 157)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', ',', 'CC', 'VBD', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jacques'), (8, 'Marie'), (14, 'Gaëtan'), (21, 'Grétillat'), (31, '('), (32, '26'), (35, 'August'), (42, '1885'), (47, '–'), (49, '19'), (52, 'December'), (61, '1950'), (65, ')'), (67, 'was'), (71, 'a'), (73, 'French'), (80, 'actor'), (86, 'and'), (90, 'film'), (95, 'director'), (103, '.'), (105, 'Grétillat'), (115, 'was'), (119, 'born'), (124, 'in'), (127, 'Vitry'), (132, '-'), (133, 'sur'), (136, '-'), (137, 'Seine'), (143, '('), (144, 'Val'), (147, '-'), (148, 'de'), (150, '-'), (151, 'Marne'), (156, ')'), (157, ','), (159, 'and'), (163, 'died'), (168, 'in'), (171, 'Paris'), (176, '.')])</spacy_tokens>
+<spacy_chunks>[('Jacques Marie Gaëtan Grétillat', 0, 30), ('26 August 1885', 32, 46), ('19 December 1950', 49, 65), ('a French actor', 71, 85), ('Film director', 90, 103), ('Vitry-sur-Seine', 127, 142), ('(Val-de-Marne', 143, 156)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', '-LRB-', 'JJ', 'HYPH', 'NNP', 'JJ', 'NNP', '-RRB-', ',', 'CC', 'VBD', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Georges Loriot</title>
+<link/>https://en.wikipedia.org/wiki/Georges_Loriot
+<annotated>0</annotated>
+<originalabstract>Georges Loriot was an actor known for his role as Professeur Tournesol in the live action Tintin movie Tintin et le mystère de la Toison d'Or (French)</originalabstract>
+<abstract>Georges_Loriot was an_actor known for his_role as Professeur_Tournesol in the_live_action_Tintin_movie_Tintin_et_le mystère_de_la Toison d'Or ( French )</abstract>
+<stanford_tokens>OrderedDict([(0, 'Georges'), (8, 'Loriot'), (15, 'was'), (19, 'an'), (22, 'actor'), (28, 'known'), (34, 'for'), (38, 'his'), (42, 'role'), (47, 'as'), (50, 'Professeur'), (61, 'Tournesol'), (71, 'in'), (74, 'the'), (78, 'live'), (83, 'action'), (90, 'Tintin'), (97, 'movie'), (103, 'Tintin'), (110, 'et'), (113, 'le'), (116, 'mystère'), (124, 'de'), (127, 'la'), (130, 'Toison'), (137, 'd\'Or'), (142, '('), (143, 'French'), (149, ')')])</stanford_tokens>
+<opennlp_chunks>[('Georges Loriot',0, 14), ('an actor',19, 27), ('his role',38, 46), ('Professeur Tournesol',50, 70), ('the live action Tintin movie Tintin et le',74, 115), ('mystère de la',116, 129)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBD', 'DT', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NN', 'NNP', 'FW', 'FW', 'FW', 'FW', 'FW', 'FW', 'NN', '-LRB-', 'JJ', '-RRB-']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Georges'), (8, 'Loriot'), (15, 'was'), (19, 'an'), (22, 'actor'), (28, 'known'), (34, 'for'), (38, 'his'), (42, 'role'), (47, 'as'), (50, 'Professeur'), (61, 'Tournesol'), (71, 'in'), (74, 'the'), (78, 'live'), (83, 'action'), (90, 'Tintin'), (97, 'movie'), (103, 'Tintin'), (110, 'et'), (113, 'le'), (116, 'mystère'), (124, 'de'), (127, 'la'), (130, 'Toison'), (137, "d'Or"), (142, '('), (143, 'French'), (149, ')')])</spacy_tokens>
+<spacy_chunks>[('Georges Loriot', 0, 14), ('an actor', 19, 27), ('his role', 38, 46), ('Professeur Tournesol', 50, 70), ('the live action', 74, 89), ('Tintin movie', 90, 102)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBD', 'DT', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NN', 'NNP', 'FW', 'FW', 'FW', 'FW', 'NNP', 'NNP', '.', '-LRB-', 'NNP', '-RRB-']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

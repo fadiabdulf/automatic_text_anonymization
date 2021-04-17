@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mary Tamm</title>
+<link/>https://en.wikipedia.org/wiki/Mary_Tamm
+<annotated>0</annotated>
+<originalabstract>Mary Tamm (22 March 1950 – 26 July 2012) was a British actress, known for her role as Romana in the BBC's science fiction television series Doctor Who, starring opposite Tom Baker in the 1978–79 story arc The Key to Time.</originalabstract>
+<abstract>Mary_Tamm ( 22_March_1950 – 26_July_2012 ) was a_British_actress , known for her_role as Romana in the_BBC 's_science_fiction_television_series_Doctor Who , starring opposite_Tom_Baker in the_1978 – 79_story_arc The_Key to Time .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Tamm'), (10, '('), (11, '22'), (14, 'March'), (20, '1950'), (25, '–'), (27, '26'), (30, 'July'), (35, '2012'), (39, ')'), (41, 'was'), (45, 'a'), (47, 'British'), (55, 'actress'), (62, ','), (64, 'known'), (70, 'for'), (74, 'her'), (78, 'role'), (83, 'as'), (86, 'Romana'), (93, 'in'), (96, 'the'), (100, 'BBC'), (103, '\'s'), (106, 'science'), (114, 'fiction'), (122, 'television'), (133, 'series'), (140, 'Doctor'), (147, 'Who'), (150, ','), (152, 'starring'), (161, 'opposite'), (170, 'Tom'), (174, 'Baker'), (180, 'in'), (183, 'the'), (187, '1978'), (191, '–'), (192, '79'), (195, 'story'), (201, 'arc'), (205, 'The'), (209, 'Key'), (213, 'to'), (216, 'Time'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Tamm',0, 9), ('22 March 1950',11, 24), ('26 July 2012',27, 39), ('a British actress',45, 62), ('her role',74, 82), ('the BBC',96, 103), ('\'s science fiction television series Doctor',103, 146), ('opposite Tom Baker',161, 179), ('the 1978',183, 191), ('79 story arc',192, 204), ('The Key',205, 212)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'POS', 'NN', 'NN', 'NN', 'NN', 'NNP', 'WP', ',', 'VBG', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'CD', ':', 'CD', 'NN', 'NN', 'DT', 'NN', 'TO', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Tamm'), (10, '('), (11, '22'), (14, 'March'), (20, '1950'), (25, '–'), (27, '26'), (30, 'July'), (35, '2012'), (39, ')'), (41, 'was'), (45, 'a'), (47, 'British'), (55, 'actress'), (62, ','), (64, 'known'), (70, 'for'), (74, 'her'), (78, 'role'), (83, 'as'), (86, 'Romana'), (93, 'in'), (96, 'the'), (100, 'BBC'), (103, "'s"), (106, 'science'), (114, 'fiction'), (122, 'television'), (133, 'series'), (140, 'Doctor'), (147, 'Who'), (150, ','), (152, 'starring'), (161, 'opposite'), (170, 'Tom'), (174, 'Baker'), (180, 'in'), (183, 'the'), (187, '1978–79'), (195, 'story'), (201, 'arc'), (205, 'The'), (209, 'Key'), (213, 'to'), (216, 'Time'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Tamm', 0, 9), ('22 March 1950', 11, 24), ('26 July 2012', 27, 39), ('a British actress', 45, 62), ('her role', 74, 82), ('Romana', 86, 92), ("the BBC's science fiction television series", 96, 139), ('Doctor Who', 140, 150), ('Tom Baker', 170, 179), ('the 1978–79 story arc', 183, 204), ('The Key to Time', 205, 220)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'POS', 'NN', 'NN', 'NN', 'NN', 'NNP', 'WP', ',', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phil Silvers</title>
+<link/>https://en.wikipedia.org/wiki/Phil_Silvers
+<annotated>0</annotated>
+<originalabstract>Phil Silvers (May 11, 1911 – November 1, 1985) was an American entertainer and comedic actor, known as "The King of Chutzpah". He starred in The Phil Silvers Show, a 1950s sitcom set on a U.S. Army post in which he played Master Sergeant Ernest (Ernie) Bilko.</originalabstract>
+<abstract>Phil_Silvers ( May_11_,_1911 – November_1_,_1985 ) was an_American_entertainer and comedic_actor , known as " The_King of Chutzpah_" . He starred in The_Phil_Silvers_Show , a_1950s_sitcom set on a_U.S._Army_post in which he played Master_Sergeant_Ernest_(_Ernie_)_Bilko .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phil'), (5, 'Silvers'), (13, '('), (14, 'May'), (18, '11'), (20, ','), (22, '1911'), (27, '–'), (29, 'November'), (38, '1'), (39, ','), (41, '1985'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'entertainer'), (75, 'and'), (79, 'comedic'), (87, 'actor'), (92, ','), (94, 'known'), (100, 'as'), (103, '"'), (104, 'The'), (108, 'King'), (113, 'of'), (116, 'Chutzpah'), (124, '"'), (125, '.'), (127, 'He'), (130, 'starred'), (138, 'in'), (141, 'The'), (145, 'Phil'), (150, 'Silvers'), (158, 'Show'), (162, ','), (164, 'a'), (166, '1950s'), (172, 'sitcom'), (179, 'set'), (183, 'on'), (186, 'a'), (188, 'U.S.'), (193, 'Army'), (198, 'post'), (203, 'in'), (206, 'which'), (212, 'he'), (215, 'played'), (222, 'Master'), (229, 'Sergeant'), (238, 'Ernest'), (245, '('), (246, 'Ernie'), (251, ')'), (253, 'Bilko'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phil Silvers',0, 12), ('May 11, 1911',14, 26), ('November 1, 1985',29, 45), ('an American entertainer',51, 74), ('comedic actor',79, 92), ('The King',104, 112), ('Chutzpah"',116, 125), ('The Phil Silvers Show',141, 162), ('a 1950s sitcom',164, 178), ('a U.S. Army post',186, 202), ('Master Sergeant Ernest (Ernie) Bilko',222, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', ',', 'VBN', 'IN', '``', 'NNP', 'NNP', 'IN', 'NNP', '\'\'', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NNP', ',', 'DT', 'CD', 'NN', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'IN', 'WDT', 'PRP', 'VBD', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phil'), (5, 'Silvers'), (13, '('), (14, 'May'), (18, '11'), (20, ','), (22, '1911'), (27, '–'), (29, 'November'), (38, '1'), (39, ','), (41, '1985'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'entertainer'), (75, 'and'), (79, 'comedic'), (87, 'actor'), (92, ','), (94, 'known'), (100, 'as'), (103, '"'), (104, 'The'), (108, 'King'), (113, 'of'), (116, 'Chutzpah'), (124, '"'), (125, '.'), (127, 'He'), (130, 'starred'), (138, 'in'), (141, 'The'), (145, 'Phil'), (150, 'Silvers'), (158, 'Show'), (162, ','), (164, 'a'), (166, '1950s'), (172, 'sitcom'), (179, 'set'), (183, 'on'), (186, 'a'), (188, 'U.S.'), (193, 'Army'), (198, 'post'), (203, 'in'), (206, 'which'), (212, 'he'), (215, 'played'), (222, 'Master'), (229, 'Sergeant'), (238, 'Ernest'), (245, '('), (246, 'Ernie'), (251, ')'), (253, 'Bilko'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Phil Silvers', 0, 12), ('May 11, 1911', 14, 26), ('November 1, 1985', 29, 45), ('an American entertainer', 51, 74), ('comedic actor', 79, 92), ('"The King', 103, 112), ('Chutzpah', 116, 124), ('The Phil Silvers Show', 141, 162), ('a 1950s sitcom', 164, 178), ('a U.S. Army post', 186, 202), ('Master Sergeant Ernest', 222, 244), ('Ernie) Bilko', 246, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', ',', 'VBN', 'IN', '``', 'DT', 'NNP', 'IN', 'NNP', "''", '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NNP', ',', 'DT', 'CD', 'NN', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'IN', 'WDT', 'PRP', 'VBD', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stéphane Freiss</title>
+<link/>https://en.wikipedia.org/wiki/St%C3%A9phane_Freiss
+<annotated>0</annotated>
+<originalabstract>Stéphane Freiss (born 22 November 1960) is a French film, television, and stage actor. He won a César Award for his performance in the 1988 film Chouans!.</originalabstract>
+<abstract>Stéphane_Freiss ( born 22_November_1960 ) is a_French_film , television , and stage_actor . He won a_César_Award for his_performance in the_1988_film_Chouans ! .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stéphane'), (9, 'Freiss'), (16, '('), (17, 'born'), (22, '22'), (25, 'November'), (34, '1960'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'film'), (56, ','), (58, 'television'), (68, ','), (70, 'and'), (74, 'stage'), (80, 'actor'), (85, '.'), (87, 'He'), (90, 'won'), (94, 'a'), (96, 'César'), (102, 'Award'), (108, 'for'), (112, 'his'), (116, 'performance'), (128, 'in'), (131, 'the'), (135, '1988'), (140, 'film'), (145, 'Chouans'), (152, '!'), (153, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stéphane Freiss',0, 15), ('22 November 1960',22, 38), ('a French film',43, 56), ('stage actor',74, 85), ('a César Award',94, 107), ('his performance',112, 127), ('the 1988 film Chouans',131, 152)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNS', '.', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stéphane'), (9, 'Freiss'), (16, '('), (17, 'born'), (22, '22'), (25, 'November'), (34, '1960'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'film'), (56, ','), (58, 'television'), (68, ','), (70, 'and'), (74, 'stage'), (80, 'actor'), (85, '.'), (87, 'He'), (90, 'won'), (94, 'a'), (96, 'César'), (102, 'Award'), (108, 'for'), (112, 'his'), (116, 'performance'), (128, 'in'), (131, 'the'), (135, '1988'), (140, 'film'), (145, 'Chouans!.')])</spacy_tokens>
+<spacy_chunks>[('Stéphane Freiss', 0, 15), ('22 November 1960', 22, 38), ('a French film', 43, 56), ('television', 58, 68), ('stage actor', 74, 85), ('a César Award', 94, 107), ('his performance', 112, 127), ('the 1988 film', 131, 144), ('Chouans!.', 145, 154)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

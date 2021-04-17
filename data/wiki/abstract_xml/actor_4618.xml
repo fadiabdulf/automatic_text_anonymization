@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles F. Miller</title>
+<link/>https://en.wikipedia.org/wiki/Charles_F._Miller
+<annotated>0</annotated>
+<originalabstract>Charles F. Miller (June 6, 1878 – November 25, 1952) was an American film actor. Miller made his film debut in Little Women as a minister and starred in many films thereafter.
+One of his first biggest roles was starring alongside Keye Luke in Phantom of Chinatown.
+He was also one of the founding members of the Screen Actors Guild.</originalabstract>
+<abstract>Charles_F._Miller ( June_6_,_1878 – November_25_,_1952 ) was an_American_film_actor . Miller made his_film_debut in Little_Women as a_minister and starred in many_films thereafter . One of his_first_biggest_roles was_starring alongside Keye_Luke in Phantom of Chinatown . He was also_one of the_founding_members of the_Screen_Actors_Guild .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'F.'), (11, 'Miller'), (18, '('), (19, 'June'), (24, '6'), (25, ','), (27, '1878'), (32, '–'), (34, 'November'), (43, '25'), (45, ','), (47, '1952'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'Miller'), (88, 'made'), (93, 'his'), (97, 'film'), (102, 'debut'), (108, 'in'), (111, 'Little'), (118, 'Women'), (124, 'as'), (127, 'a'), (129, 'minister'), (138, 'and'), (142, 'starred'), (150, 'in'), (153, 'many'), (158, 'films'), (164, 'thereafter'), (174, '.'), (176, 'One'), (180, 'of'), (183, 'his'), (187, 'first'), (193, 'biggest'), (201, 'roles'), (207, 'was'), (211, 'starring'), (220, 'alongside'), (230, 'Keye'), (235, 'Luke'), (240, 'in'), (243, 'Phantom'), (251, 'of'), (254, 'Chinatown'), (263, '.'), (265, 'He'), (268, 'was'), (272, 'also'), (277, 'one'), (281, 'of'), (284, 'the'), (288, 'founding'), (297, 'members'), (305, 'of'), (308, 'the'), (312, 'Screen'), (319, 'Actors'), (326, 'Guild'), (331, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles F. Miller',0, 17), ('June 6, 1878',19, 31), ('November 25, 1952',34, 51), ('an American film actor',57, 79), ('his film debut',93, 107), ('Little Women',111, 123), ('a minister',127, 137), ('many films',153, 163), ('his first biggest roles',183, 206), ('was starring',207, 219), ('Keye Luke',230, 239), ('also one',272, 280), ('the founding members',284, 304), ('the Screen Actors Guild',308, 331)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'CC', 'VBD', 'IN', 'JJ', 'NNS', 'RB', '.', 'CD', 'IN', 'PRP$', 'JJ', 'JJS', 'NNS', 'VBD', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'NNP', '.', 'PRP', 'VBD', 'RB', 'CD', 'IN', 'DT', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'NNPS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'F.'), (11, 'Miller'), (18, '('), (19, 'June'), (24, '6'), (25, ','), (27, '1878'), (32, '–'), (34, 'November'), (43, '25'), (45, ','), (47, '1952'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'Miller'), (88, 'made'), (93, 'his'), (97, 'film'), (102, 'debut'), (108, 'in'), (111, 'Little'), (118, 'Women'), (124, 'as'), (127, 'a'), (129, 'minister'), (138, 'and'), (142, 'starred'), (150, 'in'), (153, 'many'), (158, 'films'), (164, 'thereafter'), (174, '.'), (176, 'One'), (180, 'of'), (183, 'his'), (187, 'first'), (193, 'biggest'), (201, 'roles'), (207, 'was'), (211, 'starring'), (220, 'alongside'), (230, 'Keye'), (235, 'Luke'), (240, 'in'), (243, 'Phantom'), (251, 'of'), (254, 'Chinatown'), (263, '.'), (265, 'He'), (268, 'was'), (272, 'also'), (277, 'one'), (281, 'of'), (284, 'the'), (288, 'founding'), (297, 'members'), (305, 'of'), (308, 'the'), (312, 'Screen'), (319, 'Actors'), (326, 'Guild'), (331, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles F. Miller', 0, 17), ('June 6, 1878', 19, 31), ('November 25, 1952', 34, 51), ('an American film actor', 57, 79), ('his film debut', 93, 107), ('Little Women', 111, 123), ('a minister', 127, 137), ('many films', 153, 163), ('his first biggest roles', 183, 206), ('Keye Luke', 230, 239), ('Phantom of Chinatown', 243, 263), ('the founding members', 284, 304), ('the Screen Actors Guild', 308, 331)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'NNPS', 'IN', 'DT', 'NN', 'CC', 'VBN', 'IN', 'JJ', 'NNS', 'RB', '.', 'CD', 'IN', 'PRP$', 'RB', 'JJS', 'NNS', 'VBD', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'NNP', '.', 'PRP', 'VBD', 'RB', 'CD', 'IN', 'DT', 'VBG', 'NNS', 'IN', 'DT', 'NNP', 'NNPS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

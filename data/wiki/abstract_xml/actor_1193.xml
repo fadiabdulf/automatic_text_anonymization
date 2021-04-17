@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chick Chandler</title>
+<link/>https://en.wikipedia.org/wiki/Chick_Chandler
+<annotated>0</annotated>
+<originalabstract>Fehmer Christy "Chick" Chandler (January 18, 1905 – September 30, 1988) was an American film character actor who appeared in more than 130 films from 1925 through the mid-1950s.  Chandler was known for his starring role as Toubo Smith in the Universal-produced 1955 syndicated television series Soldiers of Fortune.</originalabstract>
+<abstract>Fehmer_Christy_"_Chick " Chandler ( January_18_,_1905 – September_30 , 1988 ) was an_American_film_character_actor who appeared in more_than_130_films from 1925 through the_mid-1950s . Chandler was_known for his_starring_role as Toubo_Smith in the_Universal-produced_1955_syndicated_television_series_Soldiers of Fortune .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fehmer'), (7, 'Christy'), (15, '"'), (16, 'Chick'), (21, '"'), (23, 'Chandler'), (32, '('), (33, 'January'), (41, '18'), (43, ','), (45, '1905'), (50, '–'), (52, 'September'), (62, '30'), (64, ','), (66, '1988'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'film'), (93, 'character'), (103, 'actor'), (109, 'who'), (113, 'appeared'), (122, 'in'), (125, 'more'), (130, 'than'), (135, '130'), (139, 'films'), (145, 'from'), (150, '1925'), (155, 'through'), (163, 'the'), (167, 'mid-1950s'), (176, '.'), (179, 'Chandler'), (188, 'was'), (192, 'known'), (198, 'for'), (202, 'his'), (206, 'starring'), (215, 'role'), (220, 'as'), (223, 'Toubo'), (229, 'Smith'), (235, 'in'), (238, 'the'), (242, 'Universal-produced'), (261, '1955'), (266, 'syndicated'), (277, 'television'), (288, 'series'), (295, 'Soldiers'), (304, 'of'), (307, 'Fortune'), (314, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fehmer Christy "Chick',0, 21), ('January 18, 1905',33, 49), ('September 30',52, 64), ('an American film character actor',76, 108), ('more than 130 films',125, 144), ('the mid-1950s',163, 176), ('was known',188, 197), ('his starring role',202, 219), ('Toubo Smith',223, 234), ('the Universal-produced 1955 syndicated television series Soldiers',238, 303)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'DT', 'NNS', '.', 'NNP', 'VBD', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'CD', 'VBN', 'NN', 'NN', 'NNS', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fehmer'), (7, 'Christy'), (15, '"'), (16, 'Chick'), (21, '"'), (23, 'Chandler'), (32, '('), (33, 'January'), (41, '18'), (43, ','), (45, '1905'), (50, '–'), (52, 'September'), (62, '30'), (64, ','), (66, '1988'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'film'), (93, 'character'), (103, 'actor'), (109, 'who'), (113, 'appeared'), (122, 'in'), (125, 'more'), (130, 'than'), (135, '130'), (139, 'films'), (145, 'from'), (150, '1925'), (155, 'through'), (163, 'the'), (167, 'mid-1950s'), (176, '.'), (179, 'Chandler'), (188, 'was'), (192, 'known'), (198, 'for'), (202, 'his'), (206, 'starring'), (215, 'role'), (220, 'as'), (223, 'Toubo'), (229, 'Smith'), (235, 'in'), (238, 'the'), (242, 'Universal'), (251, '-'), (252, 'produced'), (261, '1955'), (266, 'syndicated'), (277, 'television'), (288, 'series'), (295, 'Soldiers'), (304, 'of'), (307, 'Fortune'), (314, '.')])</spacy_tokens>
+<spacy_chunks>[('Fehmer Christy "Chick" Chandler', 0, 31), ('January 18, 1905', 33, 49), ('September 30, 1988', 52, 70), ('an American film character actor', 76, 108), ('more than 130 films', 125, 144), ('the mid-1950s', 163, 176), ('his starring role', 202, 219), ('Toubo Smith', 223, 234), ('the Universal-produced 1955 syndicated television series', 238, 294), ('Soldiers of Fortune', 295, 314)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'DT', 'NNS', '.', 'NNP', 'VBD', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'HYPH', 'VBN', 'CD', 'VBD', 'NN', 'NN', 'NNPS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

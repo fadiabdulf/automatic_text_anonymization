@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gerome Ragni</title>
+<link/>https://en.wikipedia.org/wiki/Gerome_Ragni
+<annotated>0</annotated>
+<originalabstract>Gerome Ragni (born Jerome Bernard Ragni; September 11, 1935 – July 10, 1991) was an American actor, singer and songwriter, best known as co-writer of the 1960s musical Hair: The American Tribal Love-Rock Musical.</originalabstract>
+<abstract>Gerome_Ragni ( born Jerome_Bernard_Ragni ; September_11_,_1935 – July_10_,_1991 ) was an_American_actor , singer_and_songwriter , best_known as co-writer of the_1960s_musical_Hair : The_American_Tribal_Love-Rock_Musical .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gerome'), (7, 'Ragni'), (13, '('), (14, 'born'), (19, 'Jerome'), (26, 'Bernard'), (34, 'Ragni'), (39, ';'), (41, 'September'), (51, '11'), (53, ','), (55, '1935'), (60, '–'), (62, 'July'), (67, '10'), (69, ','), (71, '1991'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'American'), (93, 'actor'), (98, ','), (100, 'singer'), (107, 'and'), (111, 'songwriter'), (121, ','), (123, 'best'), (128, 'known'), (134, 'as'), (137, 'co-writer'), (147, 'of'), (150, 'the'), (154, '1960s'), (160, 'musical'), (168, 'Hair'), (172, ':'), (174, 'The'), (178, 'American'), (187, 'Tribal'), (194, 'Love-Rock'), (204, 'Musical'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gerome Ragni',0, 12), ('Jerome Bernard Ragni',19, 39), ('September 11, 1935',41, 59), ('July 10, 1991',62, 75), ('an American actor',81, 98), ('singer and songwriter',100, 121), ('best known',123, 133), ('the 1960s musical Hair',150, 172), ('The American Tribal Love-Rock Musical',174, 211)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'NN', 'IN', 'DT', 'CD', 'JJ', 'NNP', ':', 'NNP', 'NNP', 'NNP', 'NNP', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gerome'), (7, 'Ragni'), (13, '('), (14, 'born'), (19, 'Jerome'), (26, 'Bernard'), (34, 'Ragni'), (39, ';'), (41, 'September'), (51, '11'), (53, ','), (55, '1935'), (60, '–'), (62, 'July'), (67, '10'), (69, ','), (71, '1991'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'American'), (93, 'actor'), (98, ','), (100, 'singer'), (107, 'and'), (111, 'songwriter'), (121, ','), (123, 'best'), (128, 'known'), (134, 'as'), (137, 'co'), (139, '-'), (140, 'writer'), (147, 'of'), (150, 'the'), (154, '1960s'), (160, 'musical'), (168, 'Hair'), (172, ':'), (174, 'The'), (178, 'American'), (187, 'Tribal'), (194, 'Love'), (198, '-'), (199, 'Rock'), (204, 'Musical'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[('Gerome Ragni', 0, 12), ('(born Jerome Bernard Ragni', 13, 39), ('September 11, 1935', 41, 59), ('July 10, 1991', 62, 75), ('an American actor', 81, 98), ('singer', 100, 106), ('songwriter', 111, 121), ('co-writer', 137, 146), ('the 1960s musical Hair', 150, 172), ('Hair: The American Tribal Love-Rock Musical', 168, 211)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'NN', 'NN', 'NN', 'IN', 'DT', 'NNS', 'JJ', 'NN', ':', 'DT', 'NNP', 'NNP', 'NNP', 'HYPH', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jake Richardson</title>
+<link/>https://en.wikipedia.org/wiki/Jake_Richardson
+<annotated>0</annotated>
+<originalabstract>Jacob Matthew Richardson (born February 20, 1985) is an American actor, currently acting mostly in TV series. He is perhaps best known for his roles in the film Honey, We Shrunk Ourselves and the TV series Fudge.</originalabstract>
+<abstract>Jacob_Matthew_Richardson ( born February_20_,_1985 ) is an_American_actor , currently acting mostly in TV_series . He is_perhaps_best_known for his_roles in the_film_Honey , We Shrunk Ourselves and the_TV_series_Fudge .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jacob'), (6, 'Matthew'), (14, 'Richardson'), (25, '('), (26, 'born'), (31, 'February'), (40, '20'), (42, ','), (44, '1985'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, ','), (72, 'currently'), (82, 'acting'), (89, 'mostly'), (96, 'in'), (99, 'TV'), (102, 'series'), (108, '.'), (110, 'He'), (113, 'is'), (116, 'perhaps'), (124, 'best'), (129, 'known'), (135, 'for'), (139, 'his'), (143, 'roles'), (149, 'in'), (152, 'the'), (156, 'film'), (161, 'Honey'), (166, ','), (168, 'We'), (171, 'Shrunk'), (178, 'Ourselves'), (188, 'and'), (192, 'the'), (196, 'TV'), (199, 'series'), (206, 'Fudge'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jacob Matthew Richardson',0, 24), ('February 20, 1985',31, 48), ('an American actor',53, 70), ('TV series',99, 108), ('is perhaps best known',113, 134), ('his roles',139, 148), ('the film Honey',152, 166), ('the TV series Fudge',192, 211)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBG', 'RB', 'IN', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'NNP', ',', 'PRP', 'VBD', 'NNS', 'CC', 'DT', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jacob'), (6, 'Matthew'), (14, 'Richardson'), (25, '('), (26, 'born'), (31, 'February'), (40, '20'), (42, ','), (44, '1985'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, ','), (72, 'currently'), (82, 'acting'), (89, 'mostly'), (96, 'in'), (99, 'TV'), (102, 'series'), (108, '.'), (110, 'He'), (113, 'is'), (116, 'perhaps'), (124, 'best'), (129, 'known'), (135, 'for'), (139, 'his'), (143, 'roles'), (149, 'in'), (152, 'the'), (156, 'film'), (161, 'Honey'), (166, ','), (168, 'We'), (171, 'Shrunk'), (178, 'Ourselves'), (188, 'and'), (192, 'the'), (196, 'TV'), (199, 'series'), (206, 'Fudge'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[('Jacob Matthew Richardson', 0, 24), ('February 20, 1985', 31, 48), ('an American actor', 53, 70), ('TV series', 99, 108), ('his roles', 139, 148), ('the film', 152, 160), ('Honey, We Shrunk Ourselves', 161, 187), ('the TV series', 192, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBG', 'RB', 'IN', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'NNP', ',', 'PRP', 'VBP', 'PRP', 'CC', 'DT', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

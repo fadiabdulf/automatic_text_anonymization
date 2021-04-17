@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fred Stone</title>
+<link/>https://en.wikipedia.org/wiki/Fred_Stone
+<annotated>0</annotated>
+<originalabstract>Fred Andrew Stone (August 19, 1873 – March 6, 1959) was an American actor. Stone began his career as a performer in circuses and minstrel shows, went on to act on vaudeville, and became a star on Broadway and in feature films, which earned him a star on the Hollywood Walk of Fame.</originalabstract>
+<abstract>Fred_Andrew_Stone ( August_19 , 1873 – March_6_,_1959 ) was an_American_actor . Stone began his_career as a_performer in circuses and minstrel_shows , went on to_act on vaudeville , and became a_star on Broadway and in feature_films , which earned him a_star on the_Hollywood_Walk of Fame .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fred'), (5, 'Andrew'), (12, 'Stone'), (18, '('), (19, 'August'), (26, '19'), (28, ','), (30, '1873'), (35, '–'), (37, 'March'), (43, '6'), (44, ','), (46, '1959'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (73, '.'), (75, 'Stone'), (81, 'began'), (87, 'his'), (91, 'career'), (98, 'as'), (101, 'a'), (103, 'performer'), (113, 'in'), (116, 'circuses'), (125, 'and'), (129, 'minstrel'), (138, 'shows'), (143, ','), (145, 'went'), (150, 'on'), (153, 'to'), (156, 'act'), (160, 'on'), (163, 'vaudeville'), (173, ','), (175, 'and'), (179, 'became'), (186, 'a'), (188, 'star'), (193, 'on'), (196, 'Broadway'), (205, 'and'), (209, 'in'), (212, 'feature'), (220, 'films'), (225, ','), (227, 'which'), (233, 'earned'), (240, 'him'), (244, 'a'), (246, 'star'), (251, 'on'), (254, 'the'), (258, 'Hollywood'), (268, 'Walk'), (273, 'of'), (276, 'Fame'), (280, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fred Andrew Stone',0, 17), ('August 19',19, 28), ('March 6, 1959',37, 50), ('an American actor',56, 73), ('his career',87, 97), ('a performer',101, 112), ('minstrel shows',129, 143), ('to act',153, 159), ('a star',186, 192), ('feature films',212, 225), ('a star',244, 250), ('the Hollywood Walk',254, 272)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNS', 'CC', 'NN', 'NNS', ',', 'VBD', 'IN', 'TO', 'VB', 'IN', 'NN', ',', 'CC', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'CC', 'IN', 'NN', 'NNS', ',', 'WDT', 'VBD', 'PRP', 'DT', 'NN', 'IN', 'DT', 'NNP', 'VB', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fred'), (5, 'Andrew'), (12, 'Stone'), (18, '('), (19, 'August'), (26, '19'), (28, ','), (30, '1873'), (35, '–'), (37, 'March'), (43, '6'), (44, ','), (46, '1959'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (73, '.'), (75, 'Stone'), (81, 'began'), (87, 'his'), (91, 'career'), (98, 'as'), (101, 'a'), (103, 'performer'), (113, 'in'), (116, 'circuses'), (125, 'and'), (129, 'minstrel'), (138, 'shows'), (143, ','), (145, 'went'), (150, 'on'), (153, 'to'), (156, 'act'), (160, 'on'), (163, 'vaudeville'), (173, ','), (175, 'and'), (179, 'became'), (186, 'a'), (188, 'star'), (193, 'on'), (196, 'Broadway'), (205, 'and'), (209, 'in'), (212, 'feature'), (220, 'films'), (225, ','), (227, 'which'), (233, 'earned'), (240, 'him'), (244, 'a'), (246, 'star'), (251, 'on'), (254, 'the'), (258, 'Hollywood'), (268, 'Walk'), (273, 'of'), (276, 'Fame'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('Fred Andrew Stone', 0, 17), ('August 19, 1873', 19, 34), ('March 6, 1959', 37, 50), ('an American actor', 56, 73), ('his career', 87, 97), ('a performer', 101, 112), ('circuses', 116, 124), ('Minstrel shows', 129, 143), ('Vaudeville', 163, 173), ('a star', 186, 192), ('Broadway', 196, 204), ('feature films', 212, 225), ('the Hollywood Walk', 254, 272), ('Hollywood Walk of Fame', 258, 280)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NN', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNS', 'CC', 'NN', 'NNS', ',', 'VBD', 'RP', 'TO', 'VB', 'IN', 'NN', ',', 'CC', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'CC', 'IN', 'NN', 'NNS', ',', 'WDT', 'VBD', 'PRP', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

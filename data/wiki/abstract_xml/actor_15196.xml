@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hillary B. Smith</title>
+<link/>https://en.wikipedia.org/wiki/Hillary_B._Smith
+<annotated>0</annotated>
+<originalabstract>Hillary Bailey Smith (born May 25, 1957) is an American actress, best known for her daytime soap opera roles as Margo Hughes on As the World Turns and Nora Hanen Buchanan on One Life to Live.</originalabstract>
+<abstract>Hillary_Bailey_Smith ( born May_25_,_1957 ) is an_American_actress , best_known for her_daytime_soap_opera_roles as Margo_Hughes on As the_World Turns and Nora_Hanen_Buchanan on One_Life to_Live .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hillary'), (8, 'Bailey'), (15, 'Smith'), (21, '('), (22, 'born'), (27, 'May'), (31, '25'), (33, ','), (35, '1957'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (63, ','), (65, 'best'), (70, 'known'), (76, 'for'), (80, 'her'), (84, 'daytime'), (92, 'soap'), (97, 'opera'), (103, 'roles'), (109, 'as'), (112, 'Margo'), (118, 'Hughes'), (125, 'on'), (128, 'As'), (131, 'the'), (135, 'World'), (141, 'Turns'), (147, 'and'), (151, 'Nora'), (156, 'Hanen'), (162, 'Buchanan'), (171, 'on'), (174, 'One'), (178, 'Life'), (183, 'to'), (186, 'Live'), (190, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hillary Bailey Smith',0, 20), ('May 25, 1957',27, 39), ('an American actress',44, 63), ('best known',65, 75), ('her daytime soap opera roles',80, 108), ('Margo Hughes',112, 124), ('the World',131, 140), ('Nora Hanen Buchanan',151, 170), ('One Life',174, 182), ('to Live',183, 190)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'IN', 'DT', 'NNP', 'VBZ', 'CC', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'NN', 'TO', 'VB', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hillary'), (8, 'Bailey'), (15, 'Smith'), (21, '('), (22, 'born'), (27, 'May'), (31, '25'), (33, ','), (35, '1957'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (63, ','), (65, 'best'), (70, 'known'), (76, 'for'), (80, 'her'), (84, 'daytime'), (92, 'soap'), (97, 'opera'), (103, 'roles'), (109, 'as'), (112, 'Margo'), (118, 'Hughes'), (125, 'on'), (128, 'As'), (131, 'the'), (135, 'World'), (141, 'Turns'), (147, 'and'), (151, 'Nora'), (156, 'Hanen'), (162, 'Buchanan'), (171, 'on'), (174, 'One'), (178, 'Life'), (183, 'to'), (186, 'Live'), (190, '.')])</spacy_tokens>
+<spacy_chunks>[('Hillary Bailey Smith', 0, 20), ('May 25, 1957', 27, 39), ('an American actress', 44, 63), ('her daytime soap opera roles', 80, 108), ('Margo Hughes', 112, 124), ('As the World Turns', 128, 146), ('Nora Hanen Buchanan', 151, 170), ('One Life to Live', 174, 190)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'IN', 'DT', 'NNP', 'NNPS', 'CC', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'NN', 'IN', 'VB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

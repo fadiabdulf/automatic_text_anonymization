@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sophie Renoir</title>
+<link/>https://en.wikipedia.org/wiki/Sophie_Renoir
+<annotated>0</annotated>
+<originalabstract>Sophie Renoir (born 1964) is a French actress. She is the great-granddaughter of the French Impressionist painter Pierre-Auguste Renoir (1841-1919), and daughter of the cinematographer Claude Renoir (1913–93).
+In 1988, she was nominated for César Award for Most Promising Actress for her part in Boyfriends and Girlfriends by Eric Rohmer.</originalabstract>
+<abstract>Sophie_Renoir ( born 1964 ) is a_French_actress . She is the_great-granddaughter of the_French_Impressionist_painter_Pierre-Auguste_Renoir_(_1841-1919_) , and daughter of the_cinematographer_Claude_Renoir_(_1913 – 93_) . In 1988 , she was_nominated for César_Award for Most_Promising_Actress for her_part in Boyfriends_and_Girlfriends by Eric_Rohmer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sophie'), (7, 'Renoir'), (14, '('), (15, 'born'), (20, '1964'), (24, ')'), (26, 'is'), (29, 'a'), (31, 'French'), (38, 'actress'), (45, '.'), (47, 'She'), (51, 'is'), (54, 'the'), (58, 'great-granddaughter'), (78, 'of'), (81, 'the'), (85, 'French'), (92, 'Impressionist'), (106, 'painter'), (114, 'Pierre-Auguste'), (129, 'Renoir'), (136, '('), (137, '1841-1919'), (146, ')'), (147, ','), (149, 'and'), (153, 'daughter'), (162, 'of'), (165, 'the'), (169, 'cinematographer'), (185, 'Claude'), (192, 'Renoir'), (199, '('), (200, '1913'), (204, '–'), (205, '93'), (207, ')'), (208, '.'), (210, 'In'), (213, '1988'), (217, ','), (219, 'she'), (223, 'was'), (227, 'nominated'), (237, 'for'), (241, 'César'), (247, 'Award'), (253, 'for'), (257, 'Most'), (262, 'Promising'), (272, 'Actress'), (280, 'for'), (284, 'her'), (288, 'part'), (293, 'in'), (296, 'Boyfriends'), (307, 'and'), (311, 'Girlfriends'), (323, 'by'), (326, 'Eric'), (331, 'Rohmer'), (337, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sophie Renoir',0, 13), ('a French actress',29, 45), ('the great-granddaughter',54, 77), ('the French Impressionist painter Pierre-Auguste Renoir (1841-1919)',81, 147), ('the cinematographer Claude Renoir (1913',165, 204), ('93)',205, 208), ('was nominated',223, 236), ('César Award',241, 252), ('Most Promising Actress',257, 279), ('her part',284, 292), ('Boyfriends and Girlfriends',296, 322), ('Eric Rohmer',326, 337)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', 'CC', 'NNS', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sophie'), (7, 'Renoir'), (14, '('), (15, 'born'), (20, '1964'), (24, ')'), (26, 'is'), (29, 'a'), (31, 'French'), (38, 'actress'), (45, '.'), (47, 'She'), (51, 'is'), (54, 'the'), (58, 'great'), (63, '-'), (64, 'granddaughter'), (78, 'of'), (81, 'the'), (85, 'French'), (92, 'Impressionist'), (106, 'painter'), (114, 'Pierre'), (120, '-'), (121, 'Auguste'), (129, 'Renoir'), (136, '('), (137, '1841'), (141, '-'), (142, '1919'), (146, ')'), (147, ','), (149, 'and'), (153, 'daughter'), (162, 'of'), (165, 'the'), (169, 'cinematographer'), (185, 'Claude'), (192, 'Renoir'), (199, '('), (200, '1913–93'), (207, ')'), (208, '.'), (210, 'In'), (213, '1988'), (217, ','), (219, 'she'), (223, 'was'), (227, 'nominated'), (237, 'for'), (241, 'César'), (247, 'Award'), (253, 'for'), (257, 'Most'), (262, 'Promising'), (272, 'Actress'), (280, 'for'), (284, 'her'), (288, 'part'), (293, 'in'), (296, 'Boyfriends'), (307, 'and'), (311, 'Girlfriends'), (323, 'by'), (326, 'Eric'), (331, 'Rohmer'), (337, '.')])</spacy_tokens>
+<spacy_chunks>[('Sophie Renoir', 0, 13), ('a French actress', 29, 45), ('the great-granddaughter', 54, 77), ('the French Impressionist painter', 81, 113), ('Pierre-Auguste Renoir', 114, 135), ('the cinematographer', 165, 184), ('Claude Renoir', 185, 198), ('César Award for Most Promising Actress', 241, 279), ('her part', 284, 292), ('Boyfriends and Girlfriends', 296, 322), ('Eric Rohmer', 326, 337)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'HYPH', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', ',', 'CC', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'JJS', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNPS', 'CC', 'NNPS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

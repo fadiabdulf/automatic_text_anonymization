@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Godfrey Tearle</title>
+<link/>https://en.wikipedia.org/wiki/Godfrey_Tearle
+<annotated>0</annotated>
+<originalabstract>Sir Godfrey Seymour Tearle (12 October 1884 – 9 June 1953) was a British actor who portrayed the quintessential British gentleman on stage and in both British and US films.</originalabstract>
+<abstract>Sir_Godfrey_Seymour_Tearle ( 12_October_1884 – 9_June_1953 ) was a_British_actor who portrayed the_quintessential_British_gentleman on stage and in both_British_and_US_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sir'), (4, 'Godfrey'), (12, 'Seymour'), (20, 'Tearle'), (27, '('), (28, '12'), (31, 'October'), (39, '1884'), (44, '–'), (46, '9'), (48, 'June'), (53, '1953'), (57, ')'), (59, 'was'), (63, 'a'), (65, 'British'), (73, 'actor'), (79, 'who'), (83, 'portrayed'), (93, 'the'), (97, 'quintessential'), (112, 'British'), (120, 'gentleman'), (130, 'on'), (133, 'stage'), (139, 'and'), (143, 'in'), (146, 'both'), (151, 'British'), (159, 'and'), (163, 'US'), (166, 'films'), (171, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sir Godfrey Seymour Tearle',0, 26), ('12 October 1884',28, 43), ('9 June 1953',46, 57), ('a British actor',63, 78), ('the quintessential British gentleman',93, 129), ('both British and US films',146, 171)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'NN', 'CC', 'IN', 'DT', 'JJ', 'CC', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sir'), (4, 'Godfrey'), (12, 'Seymour'), (20, 'Tearle'), (27, '('), (28, '12'), (31, 'October'), (39, '1884'), (44, '–'), (46, '9'), (48, 'June'), (53, '1953'), (57, ')'), (59, 'was'), (63, 'a'), (65, 'British'), (73, 'actor'), (79, 'who'), (83, 'portrayed'), (93, 'the'), (97, 'quintessential'), (112, 'British'), (120, 'gentleman'), (130, 'on'), (133, 'stage'), (139, 'and'), (143, 'in'), (146, 'both'), (151, 'British'), (159, 'and'), (163, 'US'), (166, 'films'), (171, '.')])</spacy_tokens>
+<spacy_chunks>[('Sir Godfrey Seymour Tearle', 0, 26), ('(12 October', 27, 38), ('12 October 1884', 28, 43), ('9 June 1953', 46, 57), ('a British actor', 63, 78), ('the quintessential British gentleman', 93, 129), ('both British and US films', 146, 171)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'NN', 'CC', 'IN', 'CC', 'JJ', 'CC', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

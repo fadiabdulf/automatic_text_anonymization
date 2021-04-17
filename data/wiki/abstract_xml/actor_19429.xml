@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Diana Glenn</title>
+<link/>https://en.wikipedia.org/wiki/Diana_Glenn
+<annotated>0</annotated>
+<originalabstract>Diana Glenn (born 13 March 1974) is an Australian actress with many credits in television, film, and theatre.</originalabstract>
+<abstract>Diana_Glenn ( born 13_March_1974 ) is an_Australian_actress with many_credits in television , film , and theatre .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Diana'), (6, 'Glenn'), (12, '('), (13, 'born'), (18, '13'), (21, 'March'), (27, '1974'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'Australian'), (50, 'actress'), (58, 'with'), (63, 'many'), (68, 'credits'), (76, 'in'), (79, 'television'), (89, ','), (91, 'film'), (95, ','), (97, 'and'), (101, 'theatre'), (108, '.')])</stanford_tokens>
+<opennlp_chunks>[('Diana Glenn',0, 11), ('13 March 1974',18, 31), ('an Australian actress',36, 57), ('many credits',63, 75)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Diana'), (6, 'Glenn'), (12, '('), (13, 'born'), (18, '13'), (21, 'March'), (27, '1974'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'Australian'), (50, 'actress'), (58, 'with'), (63, 'many'), (68, 'credits'), (76, 'in'), (79, 'television'), (89, ','), (91, 'film'), (95, ','), (97, 'and'), (101, 'theatre'), (108, '.')])</spacy_tokens>
+<spacy_chunks>[('Diana Glenn', 0, 11), ('13 March 1974', 18, 31), ('an Australian actress', 36, 57), ('many credits', 63, 75), ('television', 79, 89), ('theatre', 101, 108)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

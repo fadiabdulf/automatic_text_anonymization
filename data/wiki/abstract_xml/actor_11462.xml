@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kathryn Crawford</title>
+<link/>https://en.wikipedia.org/wiki/Kathryn_Crawford
+<annotated>0</annotated>
+<originalabstract>Not to be confused with Katherine Crawford, a film and TV actress of the 1960s and 70s best known for co-starring in the series Gemini Man.
+Kathryn Crawford Moran, also spelled Katherine, (October 5, 1908 – December 7, 1980) was an American film and theatre actress of the 1920s and 1930s. She was also known as Kitty Moran.</originalabstract>
+<abstract>Not to_be_confused with Katherine_Crawford , a_film_and_TV_actress of the_1960s_and_70s best_known for co-starring in the_series_Gemini_Man . Kathryn_Crawford_Moran , also spelled Katherine , ( October_5_,_1908 – December_7_,_1980_) was an_American_film_and_theatre_actress of the_1920s_and_1930s . She was_also_known as Kitty_Moran .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Not'), (4, 'to'), (7, 'be'), (10, 'confused'), (19, 'with'), (24, 'Katherine'), (34, 'Crawford'), (42, ','), (44, 'a'), (46, 'film'), (51, 'and'), (55, 'TV'), (58, 'actress'), (66, 'of'), (69, 'the'), (73, '1960s'), (79, 'and'), (83, '70s'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'co-starring'), (114, 'in'), (117, 'the'), (121, 'series'), (128, 'Gemini'), (135, 'Man'), (138, '.'), (140, 'Kathryn'), (148, 'Crawford'), (157, 'Moran'), (162, ','), (164, 'also'), (169, 'spelled'), (177, 'Katherine'), (186, ','), (188, '('), (189, 'October'), (197, '5'), (198, ','), (200, '1908'), (205, '–'), (207, 'December'), (216, '7'), (217, ','), (219, '1980'), (223, ')'), (225, 'was'), (229, 'an'), (232, 'American'), (241, 'film'), (246, 'and'), (250, 'theatre'), (258, 'actress'), (266, 'of'), (269, 'the'), (273, '1920s'), (279, 'and'), (283, '1930s'), (288, '.'), (290, 'She'), (294, 'was'), (298, 'also'), (303, 'known'), (309, 'as'), (312, 'Kitty'), (318, 'Moran'), (323, '.')])</stanford_tokens>
+<opennlp_chunks>[('to be confused',4, 18), ('Katherine Crawford',24, 42), ('a film and TV actress',44, 65), ('the 1960s and 70s',69, 86), ('best known',87, 97), ('the series Gemini Man',117, 138), ('Kathryn Crawford Moran',140, 162), ('October 5, 1908',189, 204), ('December 7, 1980)',207, 224), ('an American film and theatre actress',229, 265), ('the 1920s and 1930s',269, 288), ('was also known',294, 308), ('Kitty Moran',312, 323)]</opennlp_chunks>
+<stanford_pos>['RB', 'TO', 'VB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'NNP', ',', 'RB', 'VBD', 'NNP', ',', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Not'), (4, 'to'), (7, 'be'), (10, 'confused'), (19, 'with'), (24, 'Katherine'), (34, 'Crawford'), (42, ','), (44, 'a'), (46, 'film'), (51, 'and'), (55, 'TV'), (58, 'actress'), (66, 'of'), (69, 'the'), (73, '1960s'), (79, 'and'), (83, '70s'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'co'), (104, '-'), (105, 'starring'), (114, 'in'), (117, 'the'), (121, 'series'), (128, 'Gemini'), (135, 'Man'), (138, '.'), (140, 'Kathryn'), (148, 'Crawford'), (157, 'Moran'), (162, ','), (164, 'also'), (169, 'spelled'), (177, 'Katherine'), (186, ','), (188, '('), (189, 'October'), (197, '5'), (198, ','), (200, '1908'), (205, '–'), (207, 'December'), (216, '7'), (217, ','), (219, '1980'), (223, ')'), (225, 'was'), (229, 'an'), (232, 'American'), (241, 'film'), (246, 'and'), (250, 'theatre'), (258, 'actress'), (266, 'of'), (269, 'the'), (273, '1920s'), (279, 'and'), (283, '1930s'), (288, '.'), (290, 'She'), (294, 'was'), (298, 'also'), (303, 'known'), (309, 'as'), (312, 'Kitty'), (318, 'Moran'), (323, '.')])</spacy_tokens>
+<spacy_chunks>[('Katherine Crawford', 24, 42), ('a film and TV actress', 44, 65), ('the 1960s', 69, 78), ('co-starring', 102, 113), ('the series', 117, 127), ('Gemini Man', 128, 138), ('Kathryn Crawford Moran', 140, 162), ('October 5, 1908', 189, 204), ('December 7, 1980', 207, 223), ('an American film and theatre actress', 229, 265), ('the 1920s', 269, 278), ('Kitty Moran', 312, 323)]</spacy_chunks>
+<spacy_pos>['RB', 'TO', 'VB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', 'RBS', 'VBN', 'IN', 'NN', 'NN', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'NNP', ',', 'RB', 'VBD', 'NNP', ',', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

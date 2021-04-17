@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peter Donald</title>
+<link/>https://en.wikipedia.org/wiki/Peter_Donald
+<annotated>0</annotated>
+<originalabstract>Peter Donald (June 6, 1918 – April 20, 1979) was a British-born actor who worked in American radio and television. He has been called "one of radio's great dialecticians."</originalabstract>
+<abstract>Peter_Donald ( June_6_,_1918 – April_20_,_1979 ) was a_British-born_actor who worked in American_radio_and_television . He has_been_called " one of radio 's_great_dialecticians . "</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peter'), (6, 'Donald'), (13, '('), (14, 'June'), (19, '6'), (20, ','), (22, '1918'), (27, '–'), (29, 'April'), (35, '20'), (37, ','), (39, '1979'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'British-born'), (64, 'actor'), (70, 'who'), (74, 'worked'), (81, 'in'), (84, 'American'), (93, 'radio'), (99, 'and'), (103, 'television'), (113, '.'), (115, 'He'), (118, 'has'), (122, 'been'), (127, 'called'), (134, '"'), (135, 'one'), (139, 'of'), (142, 'radio'), (147, '\'s'), (150, 'great'), (156, 'dialecticians'), (169, '.'), (170, '"')])</stanford_tokens>
+<opennlp_chunks>[('Peter Donald',0, 12), ('June 6, 1918',14, 26), ('April 20, 1979',29, 43), ('a British-born actor',49, 69), ('American radio and television',84, 113), ('has been called',118, 133), ('\'s great dialecticians',147, 169)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'VBN', '``', 'CD', 'IN', 'NN', 'POS', 'JJ', 'NNS', '.', '\'\'']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peter'), (6, 'Donald'), (13, '('), (14, 'June'), (19, '6'), (20, ','), (22, '1918'), (27, '–'), (29, 'April'), (35, '20'), (37, ','), (39, '1979'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'British'), (58, '-'), (59, 'born'), (64, 'actor'), (70, 'who'), (74, 'worked'), (81, 'in'), (84, 'American'), (93, 'radio'), (99, 'and'), (103, 'television'), (113, '.'), (115, 'He'), (118, 'has'), (122, 'been'), (127, 'called'), (134, '"'), (135, 'one'), (139, 'of'), (142, 'radio'), (147, "'s"), (150, 'great'), (156, 'dialecticians'), (169, '.'), (170, '"')])</spacy_tokens>
+<spacy_chunks>[('Peter Donald', 0, 12), ('June 6, 1918', 14, 26), ('April 20, 1979', 29, 43), ('a British-born actor', 49, 69), ('American radio', 84, 98), ('television', 103, 113), ("radio's great dialecticians", 142, 169)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'VBN', '``', 'CD', 'IN', 'NN', 'POS', 'JJ', 'NNS', '.', "''"]</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

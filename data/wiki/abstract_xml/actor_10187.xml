@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean Sinoël</title>
+<link/>https://en.wikipedia.org/wiki/Jean_Sino%C3%ABl
+<annotated>0</annotated>
+<originalabstract>Jean Sinoël (13 August 1868 – 30 August 1949), often known simply as Sinoël, was a French actor and singer.
+Born Jean Léonis Blès in Sainte-Terre, Gironde, France, he died in Paris in 1949.</originalabstract>
+<abstract>Jean_Sinoël ( 13_August_1868 – 30_August_1949 ) , often known simply as Sinoël , was a_French_actor_and_singer . Born_Jean_Léonis_Blès in Sainte-Terre , Gironde , France , he died in Paris in 1949 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean'), (5, 'Sinoël'), (12, '('), (13, '13'), (16, 'August'), (23, '1868'), (28, '–'), (30, '30'), (33, 'August'), (40, '1949'), (44, ')'), (45, ','), (47, 'often'), (53, 'known'), (59, 'simply'), (66, 'as'), (69, 'Sinoël'), (75, ','), (77, 'was'), (81, 'a'), (83, 'French'), (90, 'actor'), (96, 'and'), (100, 'singer'), (106, '.'), (108, 'Born'), (113, 'Jean'), (118, 'Léonis'), (125, 'Blès'), (130, 'in'), (133, 'Sainte-Terre'), (145, ','), (147, 'Gironde'), (154, ','), (156, 'France'), (162, ','), (164, 'he'), (167, 'died'), (172, 'in'), (175, 'Paris'), (181, 'in'), (184, '1949'), (188, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean Sinoël',0, 11), ('13 August 1868',13, 27), ('30 August 1949',30, 44), ('a French actor and singer',81, 106), ('Born Jean Léonis Blès',108, 129)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'JJ', 'RB', 'IN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (5, 'Sinoël'), (12, '('), (13, '13'), (16, 'August'), (23, '1868'), (28, '–'), (30, '30'), (33, 'August'), (40, '1949'), (44, ')'), (45, ','), (47, 'often'), (53, 'known'), (59, 'simply'), (66, 'as'), (69, 'Sinoël'), (75, ','), (77, 'was'), (81, 'a'), (83, 'French'), (90, 'actor'), (96, 'and'), (100, 'singer'), (106, '.'), (108, 'Born'), (113, 'Jean'), (118, 'Léonis'), (125, 'Blès'), (130, 'in'), (133, 'Sainte'), (139, '-'), (140, 'Terre'), (145, ','), (147, 'Gironde'), (154, ','), (156, 'France'), (162, ','), (164, 'he'), (167, 'died'), (172, 'in'), (175, 'Paris'), (181, 'in'), (184, '1949'), (188, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean Sinoël', 0, 11), ('13 August 1868', 13, 27), ('30 August 1949', 30, 44), ('a French actor', 81, 95), ('singer', 100, 106), ('Born Jean Léonis Blès', 108, 129), ('Sainte-Terre', 133, 145), ('Gironde', 147, 154), ('France', 156, 162)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'RB', 'IN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'HYPH', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

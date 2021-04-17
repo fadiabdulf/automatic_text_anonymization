@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kate Toncray</title>
+<link/>https://en.wikipedia.org/wiki/Kate_Toncray
+<annotated>0</annotated>
+<originalabstract>Kate Toncray (1867 – December 6, 1927) was an American actress of the silent era. She appeared in 178 films between 1905 and 1925. She was born in St. Louis, Missouri and died in Manhattan, New York City.</originalabstract>
+<abstract>Kate_Toncray ( 1867 – December_6_,_1927 ) was an_American_actress of the_silent_era . She appeared in 178_films between 1905_and_1925 . She was_born in St._Louis , Missouri and died in Manhattan , New_York_City .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kate'), (5, 'Toncray'), (13, '('), (14, '1867'), (19, '–'), (21, 'December'), (30, '6'), (31, ','), (33, '1927'), (37, ')'), (39, 'was'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'of'), (66, 'the'), (70, 'silent'), (77, 'era'), (80, '.'), (82, 'She'), (86, 'appeared'), (95, 'in'), (98, '178'), (102, 'films'), (108, 'between'), (116, '1905'), (121, 'and'), (125, '1925'), (129, '.'), (131, 'She'), (135, 'was'), (139, 'born'), (144, 'in'), (147, 'St.'), (151, 'Louis'), (156, ','), (158, 'Missouri'), (167, 'and'), (171, 'died'), (176, 'in'), (179, 'Manhattan'), (188, ','), (190, 'New'), (194, 'York'), (199, 'City'), (203, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kate Toncray',0, 12), ('December 6, 1927',21, 37), ('an American actress',43, 62), ('the silent era',66, 80), ('178 films',98, 107), ('1905 and 1925',116, 129), ('was born',135, 143), ('St. Louis',147, 156), ('New York City',190, 203)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kate'), (5, 'Toncray'), (13, '('), (14, '1867'), (19, '–'), (21, 'December'), (30, '6'), (31, ','), (33, '1927'), (37, ')'), (39, 'was'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'of'), (66, 'the'), (70, 'silent'), (77, 'era'), (80, '.'), (82, 'She'), (86, 'appeared'), (95, 'in'), (98, '178'), (102, 'films'), (108, 'between'), (116, '1905'), (121, 'and'), (125, '1925'), (129, '.'), (131, 'She'), (135, 'was'), (139, 'born'), (144, 'in'), (147, 'St.'), (151, 'Louis'), (156, ','), (158, 'Missouri'), (167, 'and'), (171, 'died'), (176, 'in'), (179, 'Manhattan'), (188, ','), (190, 'New'), (194, 'York'), (199, 'City'), (203, '.')])</spacy_tokens>
+<spacy_chunks>[('Kate Toncray', 0, 12), ('1867 – December', 14, 29), ('December 6, 1927', 21, 37), ('an American actress', 43, 62), ('the silent era', 66, 80), ('178 films', 98, 107), ('St. Louis, Missouri', 147, 166), ('Manhattan', 179, 188), ('New York City', 190, 203)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

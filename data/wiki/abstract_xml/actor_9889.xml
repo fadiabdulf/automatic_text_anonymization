@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Daniel Ivernel</title>
+<link/>https://en.wikipedia.org/wiki/Daniel_Ivernel
+<annotated>0</annotated>
+<originalabstract>Daniel Ivernel (3 June 1920 – 11 November 1999) was a French film actor. He appeared in 50 films between 1947 and 1981.</originalabstract>
+<abstract>Daniel_Ivernel ( 3_June_1920 – 11_November_1999 ) was a_French_film_actor . He appeared in 50_films between 1947_and_1981 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Daniel'), (7, 'Ivernel'), (15, '('), (16, '3'), (18, 'June'), (23, '1920'), (28, '–'), (30, '11'), (33, 'November'), (42, '1999'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French'), (61, 'film'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'appeared'), (85, 'in'), (88, '50'), (91, 'films'), (97, 'between'), (105, '1947'), (110, 'and'), (114, '1981'), (118, '.')])</stanford_tokens>
+<opennlp_chunks>[('Daniel Ivernel',0, 14), ('3 June 1920',16, 27), ('11 November 1999',30, 46), ('a French film actor',52, 71), ('50 films',88, 96), ('1947 and 1981',105, 118)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Daniel'), (7, 'Ivernel'), (15, '('), (16, '3'), (18, 'June'), (23, '1920'), (28, '–'), (30, '11'), (33, 'November'), (42, '1999'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French'), (61, 'film'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'appeared'), (85, 'in'), (88, '50'), (91, 'films'), (97, 'between'), (105, '1947'), (110, 'and'), (114, '1981'), (118, '.')])</spacy_tokens>
+<spacy_chunks>[('Daniel Ivernel', 0, 14), ('3 June 1920', 16, 27), ('11 November 1999', 30, 46), ('a French film actor', 52, 71), ('50 films', 88, 96)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

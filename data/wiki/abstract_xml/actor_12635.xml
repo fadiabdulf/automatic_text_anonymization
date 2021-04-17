@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marcia Harris</title>
+<link/>https://en.wikipedia.org/wiki/Marcia_Harris
+<annotated>0</annotated>
+<originalabstract>Marcia Harris (born Lena Hill, February 14, 1868 – June 18, 1947) was an American actress. She appeared in 48 films between 1915 and 1932.
+She was born in Providence, Rhode Island, USA.</originalabstract>
+<abstract>Marcia_Harris ( born Lena_Hill , February_14_,_1868 – June_18_,_1947 ) was an_American_actress . She appeared in 48_films between 1915_and_1932 . She was_born in Providence , Rhode_Island , USA .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marcia'), (7, 'Harris'), (14, '('), (15, 'born'), (20, 'Lena'), (25, 'Hill'), (29, ','), (31, 'February'), (40, '14'), (42, ','), (44, '1868'), (49, '–'), (51, 'June'), (56, '18'), (58, ','), (60, '1947'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'actress'), (89, '.'), (91, 'She'), (95, 'appeared'), (104, 'in'), (107, '48'), (110, 'films'), (116, 'between'), (124, '1915'), (129, 'and'), (133, '1932'), (137, '.'), (139, 'She'), (143, 'was'), (147, 'born'), (152, 'in'), (155, 'Providence'), (165, ','), (167, 'Rhode'), (173, 'Island'), (179, ','), (181, 'USA'), (184, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marcia Harris',0, 13), ('Lena Hill',20, 29), ('February 14, 1868',31, 48), ('June 18, 1947',51, 64), ('an American actress',70, 89), ('48 films',107, 115), ('1915 and 1932',124, 137), ('was born',143, 151), ('Rhode Island',167, 179)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marcia'), (7, 'Harris'), (14, '('), (15, 'born'), (20, 'Lena'), (25, 'Hill'), (29, ','), (31, 'February'), (40, '14'), (42, ','), (44, '1868'), (49, '–'), (51, 'June'), (56, '18'), (58, ','), (60, '1947'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'actress'), (89, '.'), (91, 'She'), (95, 'appeared'), (104, 'in'), (107, '48'), (110, 'films'), (116, 'between'), (124, '1915'), (129, 'and'), (133, '1932'), (137, '.'), (139, 'She'), (143, 'was'), (147, 'born'), (152, 'in'), (155, 'Providence'), (165, ','), (167, 'Rhode'), (173, 'Island'), (179, ','), (181, 'USA'), (184, '.')])</spacy_tokens>
+<spacy_chunks>[('Marcia Harris', 0, 13), ('(born Lena Hill', 14, 29), ('February 14, 1868', 31, 48), ('June 18, 1947', 51, 64), ('an American actress', 70, 89), ('48 films', 107, 115), ('Providence, Rhode Island', 155, 179)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

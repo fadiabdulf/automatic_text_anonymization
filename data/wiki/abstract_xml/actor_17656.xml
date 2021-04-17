@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Olivia d'Abo</title>
+<link/>https://en.wikipedia.org/wiki/Olivia_d%27Abo
+<annotated>0</annotated>
+<originalabstract>Olivia Jane d'Abo (; born 22 January 1969) is an English-American actress, voice actress, singer, and songwriter. She is known for her role as Karen Arnold, Kevin Arnold's rebellious teenage hippie sister on The Wonder Years (1988–93), and recurring villain Nicole Wallace in Law  Order: Criminal Intent.</originalabstract>
+<abstract>Olivia_Jane_d'Abo ( ; born_22_January_1969 ) is an_English-American_actress , voice_actress , singer , and songwriter . She is_known for her_role as Karen_Arnold , Kevin_Arnold 's_rebellious_teenage_hippie_sister on The_Wonder_Years ( 1988 – 93_) , and recurring_villain_Nicole_Wallace in Law_ : Criminal_Intent .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Olivia'), (7, 'Jane'), (12, 'd\'Abo'), (18, '('), (19, ';'), (21, 'born'), (26, '22'), (29, 'January'), (37, '1969'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'English-American'), (66, 'actress'), (73, ','), (75, 'voice'), (81, 'actress'), (88, ','), (90, 'singer'), (96, ','), (98, 'and'), (102, 'songwriter'), (112, '.'), (114, 'She'), (118, 'is'), (121, 'known'), (127, 'for'), (131, 'her'), (135, 'role'), (140, 'as'), (143, 'Karen'), (149, 'Arnold'), (155, ','), (157, 'Kevin'), (163, 'Arnold'), (169, '\'s'), (172, 'rebellious'), (183, 'teenage'), (191, 'hippie'), (198, 'sister'), (205, 'on'), (208, 'The'), (212, 'Wonder'), (219, 'Years'), (225, '('), (226, '1988'), (230, '–'), (231, '93'), (233, ')'), (234, ','), (236, 'and'), (240, 'recurring'), (250, 'villain'), (258, 'Nicole'), (265, 'Wallace'), (273, 'in'), (276, 'Law'), (280, ''), (282, 'Order'), (287, ':'), (289, 'Criminal'), (298, 'Intent'), (304, '.')])</stanford_tokens>
+<opennlp_chunks>[('Olivia Jane d\'Abo',0, 17), ('born 22 January 1969',21, 41), ('an English-American actress',46, 73), ('voice actress',75, 88), ('is known',118, 126), ('her role',131, 139), ('Karen Arnold',143, 155), ('Kevin Arnold',157, 169), ('\'s rebellious teenage hippie sister',169, 204), ('The Wonder Years',208, 224), ('93)',231, 234), ('recurring villain Nicole Wallace',240, 272), ('Law  Order',276, 287), ('Criminal Intent',289, 304)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'POS', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'CC', 'VBG', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', ':', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Olivia'), (7, 'Jane'), (12, "d'Abo"), (18, '(;'), (21, 'born'), (26, '22'), (29, 'January'), (37, '1969'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'English'), (56, '-'), (57, 'American'), (66, 'actress'), (73, ','), (75, 'voice'), (81, 'actress'), (88, ','), (90, 'singer'), (96, ','), (98, 'and'), (102, 'songwriter'), (112, '.'), (114, 'She'), (118, 'is'), (121, 'known'), (127, 'for'), (131, 'her'), (135, 'role'), (140, 'as'), (143, 'Karen'), (149, 'Arnold'), (155, ','), (157, 'Kevin'), (163, 'Arnold'), (169, "'s"), (172, 'rebellious'), (183, 'teenage'), (191, 'hippie'), (198, 'sister'), (205, 'on'), (208, 'The'), (212, 'Wonder'), (219, 'Years'), (225, '('), (226, '1988–93'), (233, ')'), (234, ','), (236, 'and'), (240, 'recurring'), (250, 'villain'), (258, 'Nicole'), (265, 'Wallace'), (273, 'in'), (276, 'Law'), (281, 'Order'), (286, ':'), (288, 'Criminal'), (297, 'Intent'), (303, '.')])</spacy_tokens>
+<spacy_chunks>[("Olivia Jane d'Abo", 0, 17), ('22 January 1969', 26, 41), ('an English-American actress', 46, 73), ('voice actress', 75, 88), ('singer', 90, 96), ('songwriter', 102, 112), ('her role', 131, 139), ('Karen Arnold', 143, 155), ("Kevin Arnold's rebellious teenage hippie sister", 157, 204), ('The Wonder Years', 208, 224), ('recurring villain Nicole Wallace', 240, 272), ('Law  Order', 276, 286), ('Criminal Intent', 288, 303)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'XX', 'VBD', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'POS', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNS', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'VBG', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NN', ':', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

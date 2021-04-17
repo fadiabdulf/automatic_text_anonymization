@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Stephenson (actor)</title>
+<link/>https://en.wikipedia.org/wiki/John_Stephenson_(actor)
+<annotated>0</annotated>
+<originalabstract>John Winfield Stephenson (August 9, 1923 – May 15, 2015) was an American actor, most active in voice-over roles. He has also been credited as John Stevenson. Stephenson never gave any interviews and was rarely seen in public, although he did make an appearance at BotCon 2001.</originalabstract>
+<abstract>John_Winfield_Stephenson ( August_9_,_1923 – May_15_,_2015 ) was an_American_actor , most_active in voice-over_roles . He has_also_been_credited as John_Stevenson . Stephenson never gave any_interviews and was_rarely_seen in public , although he did_make an_appearance at BotCon_2001 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Winfield'), (14, 'Stephenson'), (25, '('), (26, 'August'), (33, '9'), (34, ','), (36, '1923'), (41, '–'), (43, 'May'), (47, '15'), (49, ','), (51, '2015'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actor'), (78, ','), (80, 'most'), (85, 'active'), (92, 'in'), (95, 'voice-over'), (106, 'roles'), (111, '.'), (113, 'He'), (116, 'has'), (120, 'also'), (125, 'been'), (130, 'credited'), (139, 'as'), (142, 'John'), (147, 'Stevenson'), (156, '.'), (158, 'Stephenson'), (169, 'never'), (175, 'gave'), (180, 'any'), (184, 'interviews'), (195, 'and'), (199, 'was'), (203, 'rarely'), (210, 'seen'), (215, 'in'), (218, 'public'), (224, ','), (226, 'although'), (235, 'he'), (238, 'did'), (242, 'make'), (247, 'an'), (250, 'appearance'), (261, 'at'), (264, 'BotCon'), (271, '2001'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Winfield Stephenson',0, 24), ('August 9, 1923',26, 40), ('May 15, 2015',43, 55), ('an American actor',61, 78), ('most active',80, 91), ('voice-over roles',95, 111), ('has also been credited',116, 138), ('John Stevenson',142, 156), ('any interviews',180, 194), ('was rarely seen',199, 214), ('did make',238, 246), ('an appearance',247, 260), ('BotCon 2001',264, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'JJ', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'VBN', 'IN', 'NNP', 'NNP', '.', 'NNP', 'RB', 'VBD', 'DT', 'NNS', 'CC', 'VBD', 'RB', 'VBN', 'IN', 'JJ', ',', 'IN', 'PRP', 'VBD', 'VB', 'DT', 'NN', 'IN', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Winfield'), (14, 'Stephenson'), (25, '('), (26, 'August'), (33, '9'), (34, ','), (36, '1923'), (41, '–'), (43, 'May'), (47, '15'), (49, ','), (51, '2015'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actor'), (78, ','), (80, 'most'), (85, 'active'), (92, 'in'), (95, 'voice'), (100, '-'), (101, 'over'), (106, 'roles'), (111, '.'), (113, 'He'), (116, 'has'), (120, 'also'), (125, 'been'), (130, 'credited'), (139, 'as'), (142, 'John'), (147, 'Stevenson'), (156, '.'), (158, 'Stephenson'), (169, 'never'), (175, 'gave'), (180, 'any'), (184, 'interviews'), (195, 'and'), (199, 'was'), (203, 'rarely'), (210, 'seen'), (215, 'in'), (218, 'public'), (224, ','), (226, 'although'), (235, 'he'), (238, 'did'), (242, 'make'), (247, 'an'), (250, 'appearance'), (261, 'at'), (264, 'BotCon'), (271, '2001'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('John Winfield Stephenson', 0, 24), ('(August', 25, 32), ('August 9, 1923', 26, 40), ('May 15, 2015', 43, 55), ('an American actor', 61, 78), ('voice-over roles', 95, 111), ('John Stevenson', 142, 156), ('any interviews', 180, 194), ('public', 218, 224), ('an appearance', 247, 260), ('BotCon', 264, 270)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'JJ', 'IN', 'NN', 'HYPH', 'RP', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'VBN', 'IN', 'NNP', 'NNP', '.', 'NNP', 'RB', 'VBD', 'DT', 'NNS', 'CC', 'VBD', 'RB', 'VBN', 'IN', 'NN', ',', 'IN', 'PRP', 'VBD', 'VB', 'DT', 'NN', 'IN', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

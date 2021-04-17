@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mae Hotely</title>
+<link/>https://en.wikipedia.org/wiki/Mae_Hotely
+<annotated>0</annotated>
+<originalabstract>Mae Hotely (October 7, 1872 – April 6, 1954) was an American silent film actress. She appeared in 85 films between 1911 and 1929.
+Born in Maryland as Maye Shearor, in August 1902 she married the film director Arthur Hotaling, creating her stage name as a play on his.  She died in Coronado, California.</originalabstract>
+<abstract>Mae_Hotely ( October_7_,_1872 – April_6_,_1954 ) was an_American_silent_film_actress . She appeared in 85_films between 1911_and_1929 . Born in Maryland as Maye_Shearor , in August_1902 she married the_film_director_Arthur_Hotaling , creating her_stage_name as a_play on his . She died in Coronado , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mae'), (4, 'Hotely'), (11, '('), (12, 'October'), (20, '7'), (21, ','), (23, '1872'), (28, '–'), (30, 'April'), (36, '6'), (37, ','), (39, '1954'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'silent'), (68, 'film'), (73, 'actress'), (80, '.'), (82, 'She'), (86, 'appeared'), (95, 'in'), (98, '85'), (101, 'films'), (107, 'between'), (115, '1911'), (120, 'and'), (124, '1929'), (128, '.'), (130, 'Born'), (135, 'in'), (138, 'Maryland'), (147, 'as'), (150, 'Maye'), (155, 'Shearor'), (162, ','), (164, 'in'), (167, 'August'), (174, '1902'), (179, 'she'), (183, 'married'), (191, 'the'), (195, 'film'), (200, 'director'), (209, 'Arthur'), (216, 'Hotaling'), (224, ','), (226, 'creating'), (235, 'her'), (239, 'stage'), (245, 'name'), (250, 'as'), (253, 'a'), (255, 'play'), (260, 'on'), (263, 'his'), (266, '.'), (269, 'She'), (273, 'died'), (278, 'in'), (281, 'Coronado'), (289, ','), (291, 'California'), (301, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mae Hotely',0, 10), ('October 7, 1872',12, 27), ('April 6, 1954',30, 43), ('an American silent film actress',49, 80), ('85 films',98, 106), ('1911 and 1929',115, 128), ('Maye Shearor',150, 162), ('August 1902',167, 178), ('the film director Arthur Hotaling',191, 224), ('her stage name',235, 249), ('a play',253, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'VBN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'CD', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBG', 'PRP$', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'PRP$', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mae'), (4, 'Hotely'), (11, '('), (12, 'October'), (20, '7'), (21, ','), (23, '1872'), (28, '–'), (30, 'April'), (36, '6'), (37, ','), (39, '1954'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'silent'), (68, 'film'), (73, 'actress'), (80, '.'), (82, 'She'), (86, 'appeared'), (95, 'in'), (98, '85'), (101, 'films'), (107, 'between'), (115, '1911'), (120, 'and'), (124, '1929'), (128, '.'), (130, 'Born'), (135, 'in'), (138, 'Maryland'), (147, 'as'), (150, 'Maye'), (155, 'Shearor'), (162, ','), (164, 'in'), (167, 'August'), (174, '1902'), (179, 'she'), (183, 'married'), (191, 'the'), (195, 'film'), (200, 'director'), (209, 'Arthur'), (216, 'Hotaling'), (224, ','), (226, 'creating'), (235, 'her'), (239, 'stage'), (245, 'name'), (250, 'as'), (253, 'a'), (255, 'play'), (260, 'on'), (263, 'his'), (266, '.'), (269, 'She'), (273, 'died'), (278, 'in'), (281, 'Coronado'), (289, ','), (291, 'California'), (301, '.')])</spacy_tokens>
+<spacy_chunks>[('Mae Hotely', 0, 10), ('(October', 11, 19), ('October 7, 1872', 12, 27), ('April 6, 1954', 30, 43), ('an American silent film actress', 49, 80), ('85 films', 98, 106), ('Maryland', 138, 146), ('Maye Shearor', 150, 162), ('August', 167, 173), ('the film director', 191, 208), ('Arthur Hotaling', 209, 224), ('her stage name', 235, 249), ('a play', 253, 259), ('Coronado, California', 281, 301)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'VBN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'CD', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBG', 'PRP$', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'PRP$', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

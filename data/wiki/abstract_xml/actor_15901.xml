@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nydia Westman</title>
+<link/>https://en.wikipedia.org/wiki/Nydia_Westman
+<annotated>0</annotated>
+<originalabstract>Nydia Eileen Westman (February 19, 1902 – May 23, 1970) was an American actress and singer of stage, screen and television.</originalabstract>
+<abstract>Nydia_Eileen_Westman ( February_19_,_1902 – May_23_,_1970 ) was an_American_actress_and_singer of stage_,_screen_and_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nydia'), (6, 'Eileen'), (13, 'Westman'), (21, '('), (22, 'February'), (31, '19'), (33, ','), (35, '1902'), (40, '–'), (42, 'May'), (46, '23'), (48, ','), (50, '1970'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'actress'), (80, 'and'), (84, 'singer'), (91, 'of'), (94, 'stage'), (99, ','), (101, 'screen'), (108, 'and'), (112, 'television'), (122, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nydia Eileen Westman',0, 20), ('February 19, 1902',22, 39), ('May 23, 1970',42, 54), ('an American actress and singer',60, 90), ('stage, screen and television',94, 122)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nydia'), (6, 'Eileen'), (13, 'Westman'), (21, '('), (22, 'February'), (31, '19'), (33, ','), (35, '1902'), (40, '–'), (42, 'May'), (46, '23'), (48, ','), (50, '1970'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'actress'), (80, 'and'), (84, 'singer'), (91, 'of'), (94, 'stage'), (99, ','), (101, 'screen'), (108, 'and'), (112, 'television'), (122, '.')])</spacy_tokens>
+<spacy_chunks>[('Nydia Eileen Westman', 0, 20), ('February 19, 1902', 22, 39), ('May 23, 1970', 42, 54), ('an American actress', 60, 79), ('singer', 84, 90), ('screen', 101, 107), ('television', 112, 122)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'MD', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

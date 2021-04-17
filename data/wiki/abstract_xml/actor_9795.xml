@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michel Fau</title>
+<link/>https://en.wikipedia.org/wiki/Michel_Fau
+<annotated>0</annotated>
+<originalabstract>Michel Fau (born 1964) is a French comedian, actor and theatre director.</originalabstract>
+<abstract>Michel_Fau ( born 1964 ) is a_French_comedian_,_actor_and_theatre_director .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michel'), (7, 'Fau'), (11, '('), (12, 'born'), (17, '1964'), (21, ')'), (23, 'is'), (26, 'a'), (28, 'French'), (35, 'comedian'), (43, ','), (45, 'actor'), (51, 'and'), (55, 'theatre'), (63, 'director'), (71, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michel Fau',0, 10), ('a French comedian, actor and theatre director',26, 71)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michel'), (7, 'Fau'), (11, '('), (12, 'born'), (17, '1964'), (21, ')'), (23, 'is'), (26, 'a'), (28, 'French'), (35, 'comedian'), (43, ','), (45, 'actor'), (51, 'and'), (55, 'theatre'), (63, 'director'), (71, '.')])</spacy_tokens>
+<spacy_chunks>[('Michel Fau', 0, 10), ('a French comedian', 26, 43), ('Theatre director', 55, 71)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

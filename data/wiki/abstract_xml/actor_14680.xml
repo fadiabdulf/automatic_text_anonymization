@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marie Rappold</title>
+<link/>https://en.wikipedia.org/wiki/Marie_Rappold
+<annotated>0</annotated>
+<originalabstract>Marie Rappold, née Winterrath (17 August 1872 – 12 May 1957) was a German-born American operatic soprano. She sang with the Metropolitan Opera from 1905 to 1920.</originalabstract>
+<abstract>Marie_Rappold , née_Winterrath ( 17_August_1872 – 12_May_1957 ) was a_German-born_American_operatic_soprano . She sang with the_Metropolitan_Opera from 1905 to 1920 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie'), (6, 'Rappold'), (13, ','), (15, 'née'), (19, 'Winterrath'), (30, '('), (31, '17'), (34, 'August'), (41, '1872'), (46, '–'), (48, '12'), (51, 'May'), (55, '1957'), (59, ')'), (61, 'was'), (65, 'a'), (67, 'German-born'), (79, 'American'), (88, 'operatic'), (97, 'soprano'), (104, '.'), (106, 'She'), (110, 'sang'), (115, 'with'), (120, 'the'), (124, 'Metropolitan'), (137, 'Opera'), (143, 'from'), (148, '1905'), (153, 'to'), (156, '1920'), (160, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie Rappold',0, 13), ('née Winterrath',15, 29), ('17 August 1872',31, 45), ('12 May 1957',48, 59), ('a German-born American operatic soprano',65, 104), ('the Metropolitan Opera',120, 142)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'NN', 'NN', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (6, 'Rappold'), (13, ','), (15, 'née'), (19, 'Winterrath'), (30, '('), (31, '17'), (34, 'August'), (41, '1872'), (46, '–'), (48, '12'), (51, 'May'), (55, '1957'), (59, ')'), (61, 'was'), (65, 'a'), (67, 'German'), (73, '-'), (74, 'born'), (79, 'American'), (88, 'operatic'), (97, 'soprano'), (104, '.'), (106, 'She'), (110, 'sang'), (115, 'with'), (120, 'the'), (124, 'Metropolitan'), (137, 'Opera'), (143, 'from'), (148, '1905'), (153, 'to'), (156, '1920'), (160, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie Rappold', 0, 13), ('née Winterrath', 15, 29), ('17 August 1872', 31, 45), ('12 May 1957', 48, 59), ('a German-born American operatic soprano', 65, 104), ('the Metropolitan Opera', 120, 142)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBZ', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

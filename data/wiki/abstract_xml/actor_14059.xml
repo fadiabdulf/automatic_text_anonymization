@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marjorie Monaghan</title>
+<link/>https://en.wikipedia.org/wiki/Marjorie_Monaghan
+<annotated>0</annotated>
+<originalabstract>Marjorie Monaghan is a California-born American actress. Raised in Cincinnati, Ohio, she is best known for her portrayal in 1997 and 1998 of Theresa Halloran (aka 'Number One', leader of the Mars Resistance) in the television series Babylon 5.</originalabstract>
+<abstract>Marjorie_Monaghan is a_California-born_American_actress . Raised in Cincinnati , Ohio , she is_best_known for her_portrayal in 1997_and_1998 of Theresa_Halloran_(_aka_'_Number_One_' , leader of the_Mars_Resistance_) in the_television_series_Babylon_5 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marjorie'), (9, 'Monaghan'), (18, 'is'), (21, 'a'), (23, 'California-born'), (39, 'American'), (48, 'actress'), (55, '.'), (57, 'Raised'), (64, 'in'), (67, 'Cincinnati'), (77, ','), (79, 'Ohio'), (83, ','), (85, 'she'), (89, 'is'), (92, 'best'), (97, 'known'), (103, 'for'), (107, 'her'), (111, 'portrayal'), (121, 'in'), (124, '1997'), (129, 'and'), (133, '1998'), (138, 'of'), (141, 'Theresa'), (149, 'Halloran'), (158, '('), (159, 'aka'), (163, '\''), (164, 'Number'), (171, 'One'), (174, '\''), (175, ','), (177, 'leader'), (184, 'of'), (187, 'the'), (191, 'Mars'), (196, 'Resistance'), (206, ')'), (208, 'in'), (211, 'the'), (215, 'television'), (226, 'series'), (233, 'Babylon'), (241, '5'), (242, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marjorie Monaghan',0, 17), ('a California-born American actress',21, 55), ('is best known',89, 102), ('her portrayal',107, 120), ('1997 and 1998',124, 137), ('Theresa Halloran (aka \'Number One\'',141, 175), ('the Mars Resistance)',187, 207), ('the television series Babylon 5',211, 242)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'CC', 'CD', 'IN', 'NNP', 'NNP', '-LRB-', 'FW', '``', 'NN', 'CD', '\'\'', ',', 'NN', 'IN', 'DT', 'NNP', 'NNP', '-RRB-', 'IN', 'DT', 'NN', 'NN', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marjorie'), (9, 'Monaghan'), (18, 'is'), (21, 'a'), (23, 'California'), (33, '-'), (34, 'born'), (39, 'American'), (48, 'actress'), (55, '.'), (57, 'Raised'), (64, 'in'), (67, 'Cincinnati'), (77, ','), (79, 'Ohio'), (83, ','), (85, 'she'), (89, 'is'), (92, 'best'), (97, 'known'), (103, 'for'), (107, 'her'), (111, 'portrayal'), (121, 'in'), (124, '1997'), (129, 'and'), (133, '1998'), (138, 'of'), (141, 'Theresa'), (149, 'Halloran'), (158, '('), (159, 'aka'), (163, "'"), (164, 'Number'), (171, 'One'), (174, "'"), (175, ','), (177, 'leader'), (184, 'of'), (187, 'the'), (191, 'Mars'), (196, 'Resistance'), (206, ')'), (208, 'in'), (211, 'the'), (215, 'television'), (226, 'series'), (233, 'Babylon'), (241, '5'), (242, '.')])</spacy_tokens>
+<spacy_chunks>[('Marjorie Monaghan', 0, 17), ('a California-born American actress', 21, 55), ('Cincinnati, Ohio', 67, 83), ('her portrayal', 107, 120), ('Theresa Halloran', 141, 157), ("aka 'Number One', leader", 159, 183), ('the Mars Resistance', 187, 206), ('the television series', 211, 232), ('Babylon 5', 233, 242)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'CC', 'CD', 'IN', 'NNP', 'NNP', '-LRB-', 'RB', '``', 'NNP', 'NNP', "''", ',', 'NN', 'IN', 'DT', 'NNP', 'NNP', '-RRB-', 'IN', 'DT', 'NN', 'NN', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

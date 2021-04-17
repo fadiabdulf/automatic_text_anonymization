@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Betty Jaynes (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Betty_Jaynes_(actress)
+<annotated>0</annotated>
+<originalabstract>Betty Jaynes (born Betty Jayne Schultz, February 12, 1921) is an operatic singer and B-movie actress from the late 1930s to mid-1940s.</originalabstract>
+<abstract>Betty_Jaynes ( born Betty_Jayne_Schultz , February_12_,_1921 ) is an_operatic_singer and B-movie_actress from the_late_1930s to mid-1940s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Betty'), (6, 'Jaynes'), (13, '('), (14, 'born'), (19, 'Betty'), (25, 'Jayne'), (31, 'Schultz'), (38, ','), (40, 'February'), (49, '12'), (51, ','), (53, '1921'), (57, ')'), (59, 'is'), (62, 'an'), (65, 'operatic'), (74, 'singer'), (81, 'and'), (85, 'B-movie'), (93, 'actress'), (101, 'from'), (106, 'the'), (110, 'late'), (115, '1930s'), (121, 'to'), (124, 'mid-1940s'), (133, '.')])</stanford_tokens>
+<opennlp_chunks>[('Betty Jaynes',0, 12), ('Betty Jayne Schultz',19, 38), ('February 12, 1921',40, 57), ('an operatic singer',62, 80), ('B-movie actress',85, 100), ('the late 1930s',106, 120)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Betty'), (6, 'Jaynes'), (13, '('), (14, 'born'), (19, 'Betty'), (25, 'Jayne'), (31, 'Schultz'), (38, ','), (40, 'February'), (49, '12'), (51, ','), (53, '1921'), (57, ')'), (59, 'is'), (62, 'an'), (65, 'operatic'), (74, 'singer'), (81, 'and'), (85, 'B'), (86, '-'), (87, 'movie'), (93, 'actress'), (101, 'from'), (106, 'the'), (110, 'late'), (115, '1930s'), (121, 'to'), (124, 'mid-1940s'), (133, '.')])</spacy_tokens>
+<spacy_chunks>[('Betty Jaynes', 0, 12), ('(born Betty Jayne Schultz', 13, 38), ('February 12, 1921', 40, 57), ('an operatic singer and B-movie actress', 62, 100), ('the late 1930s', 106, 120), ('mid-1940s', 124, 133)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'HYPH', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

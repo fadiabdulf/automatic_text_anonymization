@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Steven Waddington</title>
+<link/>https://en.wikipedia.org/wiki/Steven_Waddington
+<annotated>0</annotated>
+<originalabstract>Steven Waddington (born 30 December 1967) is an English film and television actor. He is well-known for his supporting role in Michael Mann's The Last of the Mohicans.</originalabstract>
+<abstract>Steven_Waddington ( born_30_December_1967 ) is an_English_film_and_television_actor . He is well-known for his_supporting_role in Michael_Mann 's_The_Last of the_Mohicans .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Steven'), (7, 'Waddington'), (18, '('), (19, 'born'), (24, '30'), (27, 'December'), (36, '1967'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'English'), (56, 'film'), (61, 'and'), (65, 'television'), (76, 'actor'), (81, '.'), (83, 'He'), (86, 'is'), (89, 'well-known'), (100, 'for'), (104, 'his'), (108, 'supporting'), (119, 'role'), (124, 'in'), (127, 'Michael'), (135, 'Mann'), (139, '\'s'), (142, 'The'), (146, 'Last'), (151, 'of'), (154, 'the'), (158, 'Mohicans'), (166, '.')])</stanford_tokens>
+<opennlp_chunks>[('Steven Waddington',0, 17), ('born 30 December 1967',19, 40), ('an English film and television actor',45, 81), ('his supporting role',104, 123), ('Michael Mann',127, 139), ('\'s The Last',139, 150), ('the Mohicans',154, 166)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'JJ', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'DT', 'JJ', 'IN', 'DT', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Steven'), (7, 'Waddington'), (18, '('), (19, 'born'), (24, '30'), (27, 'December'), (36, '1967'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'English'), (56, 'film'), (61, 'and'), (65, 'television'), (76, 'actor'), (81, '.'), (83, 'He'), (86, 'is'), (89, 'well'), (93, '-'), (94, 'known'), (100, 'for'), (104, 'his'), (108, 'supporting'), (119, 'role'), (124, 'in'), (127, 'Michael'), (135, 'Mann'), (139, "'s"), (142, 'The'), (146, 'Last'), (151, 'of'), (154, 'the'), (158, 'Mohicans'), (166, '.')])</spacy_tokens>
+<spacy_chunks>[('Steven Waddington', 0, 17), ('30 December 1967', 24, 40), ('an English film and television actor', 45, 81), ('his supporting role', 104, 123), ('The Last of the Mohicans', 142, 166)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'HYPH', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'IN', 'DT', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

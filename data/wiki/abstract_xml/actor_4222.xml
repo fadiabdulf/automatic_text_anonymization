@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>George Magrill</title>
+<link/>https://en.wikipedia.org/wiki/George_Magrill
+<annotated>0</annotated>
+<originalabstract>George Magrill (January 5, 1900 – May 31, 1952) was an American film actor. He appeared in 326 films between 1923 and 1952. He was born in Brooklyn, New York, was married to Ramona Oliver, and had a daughter named Marilynn. Magrill died in Los Angeles, California.</originalabstract>
+<abstract>George_Magrill ( January_5_,_1900 – May_31_,_1952 ) was an_American_film_actor . He appeared in 326_films between 1923_and_1952 . He was_born in Brooklyn , New_York , was_married to Ramona_Oliver , and had a_daughter named Marilynn . Magrill died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Magrill'), (15, '('), (16, 'January'), (24, '5'), (25, ','), (27, '1900'), (32, '–'), (34, 'May'), (38, '31'), (40, ','), (42, '1952'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'actor'), (74, '.'), (76, 'He'), (79, 'appeared'), (88, 'in'), (91, '326'), (95, 'films'), (101, 'between'), (109, '1923'), (114, 'and'), (118, '1952'), (122, '.'), (124, 'He'), (127, 'was'), (131, 'born'), (136, 'in'), (139, 'Brooklyn'), (147, ','), (149, 'New'), (153, 'York'), (157, ','), (159, 'was'), (163, 'married'), (171, 'to'), (174, 'Ramona'), (181, 'Oliver'), (187, ','), (189, 'and'), (193, 'had'), (197, 'a'), (199, 'daughter'), (208, 'named'), (214, 'Marilynn'), (222, '.'), (224, 'Magrill'), (232, 'died'), (237, 'in'), (240, 'Los'), (244, 'Angeles'), (251, ','), (253, 'California'), (263, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Magrill',0, 14), ('January 5, 1900',16, 31), ('May 31, 1952',34, 46), ('an American film actor',52, 74), ('326 films',91, 100), ('1923 and 1952',109, 122), ('was born',127, 135), ('New York',149, 157), ('was married',159, 170), ('Ramona Oliver',174, 187), ('a daughter',197, 207), ('Los Angeles',240, 251)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'VBD', 'VBN', 'TO', 'NNP', 'NNP', ',', 'CC', 'VBD', 'DT', 'NN', 'VBN', 'NNP', '.', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Magrill'), (15, '('), (16, 'January'), (24, '5'), (25, ','), (27, '1900'), (32, '–'), (34, 'May'), (38, '31'), (40, ','), (42, '1952'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'actor'), (74, '.'), (76, 'He'), (79, 'appeared'), (88, 'in'), (91, '326'), (95, 'films'), (101, 'between'), (109, '1923'), (114, 'and'), (118, '1952'), (122, '.'), (124, 'He'), (127, 'was'), (131, 'born'), (136, 'in'), (139, 'Brooklyn'), (147, ','), (149, 'New'), (153, 'York'), (157, ','), (159, 'was'), (163, 'married'), (171, 'to'), (174, 'Ramona'), (181, 'Oliver'), (187, ','), (189, 'and'), (193, 'had'), (197, 'a'), (199, 'daughter'), (208, 'named'), (214, 'Marilynn'), (222, '.'), (224, 'Magrill'), (232, 'died'), (237, 'in'), (240, 'Los'), (244, 'Angeles'), (251, ','), (253, 'California'), (263, '.')])</spacy_tokens>
+<spacy_chunks>[('George Magrill', 0, 14), ('(January', 15, 23), ('January 5, 1900', 16, 31), ('May 31, 1952', 34, 46), ('an American film actor', 52, 74), ('326 films', 91, 100), ('Brooklyn, New York', 139, 157), ('Ramona Oliver', 174, 187), ('a daughter', 197, 207), ('Los Angeles, California', 240, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'VBD', 'JJ', 'IN', 'NNP', 'NNP', ',', 'CC', 'VBD', 'DT', 'NN', 'VBN', 'NNP', '.', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

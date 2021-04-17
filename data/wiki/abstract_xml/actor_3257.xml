@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Hudson (actor)</title>
+<link/>https://en.wikipedia.org/wiki/John_Hudson_(actor)
+<annotated>0</annotated>
+<originalabstract>Jonathan C. "John" Hudson (January 24, 1919 - April 8, 1996) was an American actor best remembered for his roles in the films Gunfight at the OK Corral with film star Burt Lancaster and G.I. Blues where he appeared opposite Elvis Presley. He was the twin brother of late fellow film/TV actor William Hudson.</originalabstract>
+<abstract>Jonathan_C._"_John_"_Hudson ( January_24_,_1919 - April_8_,_1996 ) was an_American_actor_best remembered for his_roles in the_films_Gunfight at the_OK_Corral with film_star_Burt_Lancaster and G.I._Blues where he appeared opposite_Elvis_Presley . He was the_twin_brother of late_fellow_film/TV_actor_William_Hudson .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jonathan'), (9, 'C.'), (12, '"'), (13, 'John'), (17, '"'), (19, 'Hudson'), (26, '('), (27, 'January'), (35, '24'), (37, ','), (39, '1919'), (44, '-'), (46, 'April'), (52, '8'), (53, ','), (55, '1996'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'actor'), (83, 'best'), (88, 'remembered'), (99, 'for'), (103, 'his'), (107, 'roles'), (113, 'in'), (116, 'the'), (120, 'films'), (126, 'Gunfight'), (135, 'at'), (138, 'the'), (142, 'OK'), (145, 'Corral'), (152, 'with'), (157, 'film'), (162, 'star'), (167, 'Burt'), (172, 'Lancaster'), (182, 'and'), (186, 'G.I.'), (191, 'Blues'), (197, 'where'), (203, 'he'), (206, 'appeared'), (215, 'opposite'), (224, 'Elvis'), (230, 'Presley'), (237, '.'), (239, 'He'), (242, 'was'), (246, 'the'), (250, 'twin'), (255, 'brother'), (263, 'of'), (266, 'late'), (271, 'fellow'), (278, 'film/TV'), (286, 'actor'), (292, 'William'), (300, 'Hudson'), (306, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jonathan C. "John" Hudson',0, 25), ('January 24, 1919',27, 43), ('April 8, 1996',46, 59), ('an American actor best',65, 87), ('his roles',103, 112), ('the films Gunfight',116, 134), ('the OK Corral',138, 151), ('film star Burt Lancaster',157, 181), ('G.I. Blues',186, 196), ('opposite Elvis Presley',215, 237), ('the twin brother',246, 262), ('late fellow film/TV actor William Hudson',266, 306)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'JJS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'WRB', 'PRP', 'VBD', 'JJ', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jonathan'), (9, 'C.'), (12, '"'), (13, 'John'), (17, '"'), (19, 'Hudson'), (26, '('), (27, 'January'), (35, '24'), (37, ','), (39, '1919'), (44, '-'), (46, 'April'), (52, '8'), (53, ','), (55, '1996'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'actor'), (83, 'best'), (88, 'remembered'), (99, 'for'), (103, 'his'), (107, 'roles'), (113, 'in'), (116, 'the'), (120, 'films'), (126, 'Gunfight'), (135, 'at'), (138, 'the'), (142, 'OK'), (145, 'Corral'), (152, 'with'), (157, 'film'), (162, 'star'), (167, 'Burt'), (172, 'Lancaster'), (182, 'and'), (186, 'G.I.'), (191, 'Blues'), (197, 'where'), (203, 'he'), (206, 'appeared'), (215, 'opposite'), (224, 'Elvis'), (230, 'Presley'), (237, '.'), (239, 'He'), (242, 'was'), (246, 'the'), (250, 'twin'), (255, 'brother'), (263, 'of'), (266, 'late'), (271, 'fellow'), (278, 'film'), (282, '/'), (283, 'TV'), (286, 'actor'), (292, 'William'), (300, 'Hudson'), (306, '.')])</spacy_tokens>
+<spacy_chunks>[('Jonathan C. "John" Hudson', 0, 25), ('January 24, 1919', 27, 43), ('April 8, 1996', 46, 59), ('an American actor', 65, 82), ('his roles', 103, 112), ('the films', 116, 125), ('Gunfight at the OK Corral', 126, 151), ('film star Burt Lancaster', 157, 181), ('G.I. Blues', 186, 196), ('Elvis Presley', 224, 237), ('the twin brother', 246, 262), ('late fellow film/TV actor William Hudson', 266, 306)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBD', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'NNPS', 'WRB', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'JJ', 'NN', 'SYM', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Salome Jens</title>
+<link/>https://en.wikipedia.org/wiki/Salome_Jens
+<annotated>0</annotated>
+<originalabstract>Salome Jens (born May 8, 1935) is an American stage, film and television actress. She is perhaps best known for portraying the Female Changeling on Star Trek: Deep Space Nine in the 1990s.</originalabstract>
+<abstract>Salome_Jens ( born May_8_,_1935 ) is an_American_stage , film_and_television_actress . She is_perhaps_best_known for portraying the_Female_Changeling on Star_Trek : Deep_Space_Nine in the_1990s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Salome'), (7, 'Jens'), (12, '('), (13, 'born'), (18, 'May'), (22, '8'), (23, ','), (25, '1935'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'American'), (46, 'stage'), (51, ','), (53, 'film'), (58, 'and'), (62, 'television'), (73, 'actress'), (80, '.'), (82, 'She'), (86, 'is'), (89, 'perhaps'), (97, 'best'), (102, 'known'), (108, 'for'), (112, 'portraying'), (123, 'the'), (127, 'Female'), (134, 'Changeling'), (145, 'on'), (148, 'Star'), (153, 'Trek'), (157, ':'), (159, 'Deep'), (164, 'Space'), (170, 'Nine'), (175, 'in'), (178, 'the'), (182, '1990s'), (187, '.')])</stanford_tokens>
+<opennlp_chunks>[('Salome Jens',0, 11), ('May 8, 1935',18, 29), ('an American stage',34, 51), ('film and television actress',53, 80), ('is perhaps best known',86, 107), ('the Female Changeling',123, 144), ('Star Trek',148, 157), ('Deep Space Nine',159, 174), ('the 1990s',178, 187)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'MD', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ':', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Salome'), (7, 'Jens'), (12, '('), (13, 'born'), (18, 'May'), (22, '8'), (23, ','), (25, '1935'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'American'), (46, 'stage'), (51, ','), (53, 'film'), (58, 'and'), (62, 'television'), (73, 'actress'), (80, '.'), (82, 'She'), (86, 'is'), (89, 'perhaps'), (97, 'best'), (102, 'known'), (108, 'for'), (112, 'portraying'), (123, 'the'), (127, 'Female'), (134, 'Changeling'), (145, 'on'), (148, 'Star'), (153, 'Trek'), (157, ':'), (159, 'Deep'), (164, 'Space'), (170, 'Nine'), (175, 'in'), (178, 'the'), (182, '1990s'), (187, '.')])</spacy_tokens>
+<spacy_chunks>[('Salome Jens', 0, 11), ('May 8, 1935', 18, 29), ('an American stage', 34, 51), ('television', 62, 72), ('actress', 73, 80), ('the Female Changeling', 123, 144), ('Star Trek: Deep Space Nine', 148, 174)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ':', 'JJ', 'NN', 'NNP', 'IN', 'DT', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

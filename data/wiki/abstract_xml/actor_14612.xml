@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ginger Prince</title>
+<link/>https://en.wikipedia.org/wiki/Ginger_Prince
+<annotated>0</annotated>
+<originalabstract>As a nickname, The Ginger Prince may refer to:
+
+Paul Scholes, an English footballer
+Chris Evans (presenter), an English entertainer
+Prince Harry, a British prince
+Cole Swannack, a young Welsh athlete</originalabstract>
+<abstract>As a_nickname , The_Ginger_Prince may_refer_to : Paul_Scholes , an_English_footballer_Chris_Evans ( presenter ) , an_English_entertainer_Prince_Harry , a_British_prince_Cole_Swannack , a_young_Welsh_athlete</abstract>
+<stanford_tokens>OrderedDict([(0, 'As'), (3, 'a'), (5, 'nickname'), (13, ','), (15, 'The'), (19, 'Ginger'), (26, 'Prince'), (33, 'may'), (37, 'refer'), (43, 'to'), (45, ':'), (48, 'Paul'), (53, 'Scholes'), (60, ','), (62, 'an'), (65, 'English'), (73, 'footballer'), (84, 'Chris'), (90, 'Evans'), (96, '('), (97, 'presenter'), (106, ')'), (107, ','), (109, 'an'), (112, 'English'), (120, 'entertainer'), (132, 'Prince'), (139, 'Harry'), (144, ','), (146, 'a'), (148, 'British'), (156, 'prince'), (163, 'Cole'), (168, 'Swannack'), (176, ','), (178, 'a'), (180, 'young'), (186, 'Welsh'), (192, 'athlete')])</stanford_tokens>
+<opennlp_chunks>[('a nickname',3, 13), ('The Ginger Prince',15, 32), ('may refer to',33, 45), ('Paul Scholes',48, 60), ('an English footballer Chris Evans',62, 95), ('an English entertainer Prince Harry',109, 144), ('a British prince Cole Swannack',146, 176), ('a young Welsh athlete',178, 199)]</opennlp_chunks>
+<stanford_pos>['IN', 'DT', 'NN', ',', 'DT', 'NNP', 'NNP', 'MD', 'VB', 'TO', ':', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'NNP', 'NNP', '-LRB-', 'NN', '-RRB-', ',', 'DT', 'JJ', 'NN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'JJ', 'NN']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'As'), (3, 'a'), (5, 'nickname'), (13, ','), (15, 'The'), (19, 'Ginger'), (26, 'Prince'), (33, 'may'), (37, 'refer'), (43, 'to'), (45, ':'), (48, 'Paul'), (53, 'Scholes'), (60, ','), (62, 'an'), (65, 'English'), (73, 'footballer'), (84, 'Chris'), (90, 'Evans'), (96, '('), (97, 'presenter'), (106, ')'), (107, ','), (109, 'an'), (112, 'English'), (120, 'entertainer'), (132, 'Prince'), (139, 'Harry'), (144, ','), (146, 'a'), (148, 'British'), (156, 'prince'), (163, 'Cole'), (168, 'Swannack'), (176, ','), (178, 'a'), (180, 'young'), (186, 'Welsh'), (192, 'athlete')])</spacy_tokens>
+<spacy_chunks>[('a nickname', 3, 13), ('The Ginger Prince', 15, 32), ('Paul Scholes', 48, 60), ('an English footballer', 62, 83), ('Chris Evans', 84, 95), ('presenter', 97, 106), ('an English entertainer', 109, 131), ('Prince Harry', 132, 144), ('a British prince', 146, 162), ('Cole Swannack', 163, 176), ('a young Welsh athlete', 178, 199)]</spacy_chunks>
+<spacy_pos>['IN', 'DT', 'NN', ',', 'DT', 'NNP', 'NNP', 'MD', 'VB', 'IN', ':', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'NNP', 'NNP', '-LRB-', 'NN', '-RRB-', ',', 'DT', 'JJ', 'NN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NNP', 'NN']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

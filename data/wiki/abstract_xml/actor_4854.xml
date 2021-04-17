@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anthony Natale</title>
+<link/>https://en.wikipedia.org/wiki/Anthony_Natale
+<annotated>0</annotated>
+<originalabstract>Anthony Natale is an actor who has performed in many movies and television shows such as Jerry Maguire and Mr. Holland's Opus. He portrays Cameron Bledsoe on the ABC series Switched at Birth. He teaches American Sign Language and enjoys fixing up houses in his spare time.</originalabstract>
+<abstract>Anthony_Natale is an_actor who has_performed in many_movies_and_television_shows such_as Jerry_Maguire and Mr._Holland 's_Opus . He portrays Cameron_Bledsoe on the_ABC_series Switched at Birth . He teaches American_Sign_Language and enjoys_fixing up houses in his_spare_time .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anthony'), (8, 'Natale'), (15, 'is'), (18, 'an'), (21, 'actor'), (27, 'who'), (31, 'has'), (35, 'performed'), (45, 'in'), (48, 'many'), (53, 'movies'), (60, 'and'), (64, 'television'), (75, 'shows'), (81, 'such'), (86, 'as'), (89, 'Jerry'), (95, 'Maguire'), (103, 'and'), (107, 'Mr.'), (111, 'Holland'), (118, '\'s'), (121, 'Opus'), (125, '.'), (127, 'He'), (130, 'portrays'), (139, 'Cameron'), (147, 'Bledsoe'), (155, 'on'), (158, 'the'), (162, 'ABC'), (166, 'series'), (173, 'Switched'), (182, 'at'), (185, 'Birth'), (190, '.'), (192, 'He'), (195, 'teaches'), (203, 'American'), (212, 'Sign'), (217, 'Language'), (226, 'and'), (230, 'enjoys'), (237, 'fixing'), (244, 'up'), (247, 'houses'), (254, 'in'), (257, 'his'), (261, 'spare'), (267, 'time'), (271, '.')])</stanford_tokens>
+<opennlp_chunks>[('Anthony Natale',0, 14), ('an actor',18, 26), ('has performed',31, 44), ('many movies and television shows',48, 80), ('such as',81, 88), ('Jerry Maguire',89, 102), ('Mr. Holland',107, 118), ('\'s Opus',118, 125), ('Cameron Bledsoe',139, 154), ('the ABC series',158, 172), ('American Sign Language',203, 225), ('enjoys fixing',230, 243), ('his spare time',257, 271)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'POS', 'NNP', '.', 'PRP', 'VBZ', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'VBN', 'IN', 'NNP', '.', 'PRP', 'VBZ', 'JJ', 'NN', 'NN', 'CC', 'VBZ', 'VBG', 'RP', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anthony'), (8, 'Natale'), (15, 'is'), (18, 'an'), (21, 'actor'), (27, 'who'), (31, 'has'), (35, 'performed'), (45, 'in'), (48, 'many'), (53, 'movies'), (60, 'and'), (64, 'television'), (75, 'shows'), (81, 'such'), (86, 'as'), (89, 'Jerry'), (95, 'Maguire'), (103, 'and'), (107, 'Mr.'), (111, 'Holland'), (118, "'s"), (121, 'Opus'), (125, '.'), (127, 'He'), (130, 'portrays'), (139, 'Cameron'), (147, 'Bledsoe'), (155, 'on'), (158, 'the'), (162, 'ABC'), (166, 'series'), (173, 'Switched'), (182, 'at'), (185, 'Birth'), (190, '.'), (192, 'He'), (195, 'teaches'), (203, 'American'), (212, 'Sign'), (217, 'Language'), (226, 'and'), (230, 'enjoys'), (237, 'fixing'), (244, 'up'), (247, 'houses'), (254, 'in'), (257, 'his'), (261, 'spare'), (267, 'time'), (271, '.')])</spacy_tokens>
+<spacy_chunks>[('Anthony Natale', 0, 14), ('an actor', 18, 26), ('many movies', 48, 59), ('television shows', 64, 80), ('Jerry Maguire', 89, 102), ("Mr. Holland's Opus", 107, 125), ('Cameron Bledsoe', 139, 154), ('the ABC series', 158, 172), ('American Sign Language', 203, 225), ('houses', 247, 253), ('his spare time', 257, 271)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'POS', 'NNP', '.', 'PRP', 'VBZ', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'VBD', 'IN', 'NN', '.', 'PRP', 'VBZ', 'NNP', 'NNP', 'NNP', 'CC', 'VBZ', 'VBG', 'RP', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barry O'Moore</title>
+<link/>https://en.wikipedia.org/wiki/Barry_O%27Moore
+<annotated>0</annotated>
+<originalabstract>Barry O'Moore (born Herbert Alms Yost, December 8, 1879 – October 23, 1945) was an American actor of the silent era. He appeared in 91 films between 1908 and 1934. He was born in Harrison, Ohio and died in New York City.</originalabstract>
+<abstract>Barry_O'Moore ( born Herbert_Alms_Yost , December_8 , 1879 – October_23_,_1945 ) was an_American_actor of the_silent_era . He appeared in 91_films between 1908_and_1934 . He was_born in Harrison_,_Ohio_and died in New_York_City .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barry'), (6, 'O\'Moore'), (14, '('), (15, 'born'), (20, 'Herbert'), (28, 'Alms'), (33, 'Yost'), (37, ','), (39, 'December'), (48, '8'), (49, ','), (51, '1879'), (56, '–'), (58, 'October'), (66, '23'), (68, ','), (70, '1945'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'actor'), (98, 'of'), (101, 'the'), (105, 'silent'), (112, 'era'), (115, '.'), (117, 'He'), (120, 'appeared'), (129, 'in'), (132, '91'), (135, 'films'), (141, 'between'), (149, '1908'), (154, 'and'), (158, '1934'), (162, '.'), (164, 'He'), (167, 'was'), (171, 'born'), (176, 'in'), (179, 'Harrison'), (187, ','), (189, 'Ohio'), (194, 'and'), (198, 'died'), (203, 'in'), (206, 'New'), (210, 'York'), (215, 'City'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barry O\'Moore',0, 13), ('Herbert Alms Yost',20, 37), ('December 8',39, 49), ('October 23, 1945',58, 74), ('an American actor',80, 97), ('the silent era',101, 115), ('91 films',132, 140), ('1908 and 1934',149, 162), ('was born',167, 175), ('Harrison, Ohio and',179, 197), ('New York City',206, 219)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'NNS', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barry'), (6, "O'Moore"), (14, '('), (15, 'born'), (20, 'Herbert'), (28, 'Alms'), (33, 'Yost'), (37, ','), (39, 'December'), (48, '8'), (49, ','), (51, '1879'), (56, '–'), (58, 'October'), (66, '23'), (68, ','), (70, '1945'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'actor'), (98, 'of'), (101, 'the'), (105, 'silent'), (112, 'era'), (115, '.'), (117, 'He'), (120, 'appeared'), (129, 'in'), (132, '91'), (135, 'films'), (141, 'between'), (149, '1908'), (154, 'and'), (158, '1934'), (162, '.'), (164, 'He'), (167, 'was'), (171, 'born'), (176, 'in'), (179, 'Harrison'), (187, ','), (189, 'Ohio'), (194, 'and'), (198, 'died'), (203, 'in'), (206, 'New'), (210, 'York'), (215, 'City'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[("Barry O'Moore", 0, 13), ('born Herbert Alms Yost', 15, 37), ('December 8, 1879', 39, 55), ('October 23, 1945', 58, 74), ('an American actor', 80, 97), ('the silent era', 101, 115), ('91 films', 132, 140), ('Harrison, Ohio', 179, 193), ('New York City', 206, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNPS', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

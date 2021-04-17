@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ozzie Nelson</title>
+<link/>https://en.wikipedia.org/wiki/Ozzie_Nelson
+<annotated>0</annotated>
+<originalabstract>Oswald George Nelson (March 20, 1906 – June 3, 1975) was an American band leader, actor, director, and producer. He originated and starred in The Adventures of Ozzie and Harriet, a radio and television series with his wife Harriet and two sons David and Ricky Nelson.</originalabstract>
+<abstract>Oswald_George_Nelson ( March_20_,_1906 – June_3_,_1975 ) was an_American_band_leader , actor , director , and producer . He originated and starred in The_Adventures of Ozzie_and_Harriet , a_radio_and_television_series with his_wife Harriet and two_sons_David_and_Ricky_Nelson .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Oswald'), (7, 'George'), (14, 'Nelson'), (21, '('), (22, 'March'), (28, '20'), (30, ','), (32, '1906'), (37, '–'), (39, 'June'), (44, '3'), (45, ','), (47, '1975'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'band'), (74, 'leader'), (80, ','), (82, 'actor'), (87, ','), (89, 'director'), (97, ','), (99, 'and'), (103, 'producer'), (111, '.'), (113, 'He'), (116, 'originated'), (127, 'and'), (131, 'starred'), (139, 'in'), (142, 'The'), (146, 'Adventures'), (157, 'of'), (160, 'Ozzie'), (166, 'and'), (170, 'Harriet'), (177, ','), (179, 'a'), (181, 'radio'), (187, 'and'), (191, 'television'), (202, 'series'), (209, 'with'), (214, 'his'), (218, 'wife'), (223, 'Harriet'), (231, 'and'), (235, 'two'), (239, 'sons'), (244, 'David'), (250, 'and'), (254, 'Ricky'), (260, 'Nelson'), (266, '.')])</stanford_tokens>
+<opennlp_chunks>[('Oswald George Nelson',0, 20), ('March 20, 1906',22, 36), ('June 3, 1975',39, 51), ('an American band leader',57, 80), ('The Adventures',142, 156), ('Ozzie and Harriet',160, 177), ('a radio and television series',179, 208), ('his wife',214, 222), ('two sons David and Ricky Nelson',235, 266)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'CC', 'VBD', 'IN', 'DT', 'NNS', 'IN', 'NNP', 'CC', 'NNP', ',', 'DT', 'NN', 'CC', 'NN', 'NN', 'IN', 'PRP$', 'NN', 'NNP', 'CC', 'CD', 'NNS', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Oswald'), (7, 'George'), (14, 'Nelson'), (21, '('), (22, 'March'), (28, '20'), (30, ','), (32, '1906'), (37, '–'), (39, 'June'), (44, '3'), (45, ','), (47, '1975'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'band'), (74, 'leader'), (80, ','), (82, 'actor'), (87, ','), (89, 'director'), (97, ','), (99, 'and'), (103, 'producer'), (111, '.'), (113, 'He'), (116, 'originated'), (127, 'and'), (131, 'starred'), (139, 'in'), (142, 'The'), (146, 'Adventures'), (157, 'of'), (160, 'Ozzie'), (166, 'and'), (170, 'Harriet'), (177, ','), (179, 'a'), (181, 'radio'), (187, 'and'), (191, 'television'), (202, 'series'), (209, 'with'), (214, 'his'), (218, 'wife'), (223, 'Harriet'), (231, 'and'), (235, 'two'), (239, 'sons'), (244, 'David'), (250, 'and'), (254, 'Ricky'), (260, 'Nelson'), (266, '.')])</spacy_tokens>
+<spacy_chunks>[('Oswald George Nelson', 0, 20), ('March 20, 1906', 22, 36), ('June 3, 1975', 39, 51), ('an American band leader', 57, 80), ('director', 89, 97), ('producer', 103, 111), ('The Adventures of Ozzie and Harriet', 142, 177), ('a radio and television series', 179, 208), ('his wife', 214, 222), ('two sons', 235, 243), ('Ricky Nelson', 254, 266)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'CC', 'VBD', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'CC', 'NNP', ',', 'DT', 'NN', 'CC', 'NN', 'NN', 'IN', 'PRP$', 'NN', 'NNP', 'CC', 'CD', 'NNS', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

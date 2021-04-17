@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Russell Thorson</title>
+<link/>https://en.wikipedia.org/wiki/Russell_Thorson
+<annotated>0</annotated>
+<originalabstract>Russell Thorson (October 14, 1906 – July 6, 1982)  was an American actor, perhaps best known for his co-starring role as Det. Lt. Otto Lindstrom in ABC's 1959-62 hit crime drama, The Detectives Starring Robert Taylor.</originalabstract>
+<abstract>Russell_Thorson ( October_14_,_1906 – July_6_,_1982 ) was an_American_actor , perhaps_best_known for his_co-starring_role as Det._Lt._Otto_Lindstrom in ABC 's 1959-62_hit crime_drama , The_Detectives Starring Robert_Taylor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Russell'), (8, 'Thorson'), (16, '('), (17, 'October'), (25, '14'), (27, ','), (29, '1906'), (34, '–'), (36, 'July'), (41, '6'), (42, ','), (44, '1982'), (48, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, ','), (74, 'perhaps'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'his'), (101, 'co-starring'), (113, 'role'), (118, 'as'), (121, 'Det.'), (126, 'Lt.'), (130, 'Otto'), (135, 'Lindstrom'), (145, 'in'), (148, 'ABC'), (151, '\'s'), (154, '1959-62'), (162, 'hit'), (166, 'crime'), (172, 'drama'), (177, ','), (179, 'The'), (183, 'Detectives'), (194, 'Starring'), (203, 'Robert'), (210, 'Taylor'), (216, '.')])</stanford_tokens>
+<opennlp_chunks>[('Russell Thorson',0, 15), ('October 14, 1906',17, 33), ('July 6, 1982',36, 48), ('an American actor',55, 72), ('perhaps best known',74, 92), ('his co-starring role',97, 117), ('Det. Lt. Otto Lindstrom',121, 144), ('1959-62 hit',154, 165), ('crime drama',166, 177), ('The Detectives',179, 193), ('Robert Taylor',203, 216)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'CD', 'NN', 'NN', 'NN', ',', 'DT', 'NNS', 'VBG', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Russell'), (8, 'Thorson'), (16, '('), (17, 'October'), (25, '14'), (27, ','), (29, '1906'), (34, '–'), (36, 'July'), (41, '6'), (42, ','), (44, '1982'), (48, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, ','), (74, 'perhaps'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'his'), (101, 'co'), (103, '-'), (104, 'starring'), (113, 'role'), (118, 'as'), (121, 'Det'), (124, '.'), (126, 'Lt'), (128, '.'), (130, 'Otto'), (135, 'Lindstrom'), (145, 'in'), (148, 'ABC'), (151, "'s"), (154, '1959'), (158, '-'), (159, '62'), (162, 'hit'), (166, 'crime'), (172, 'drama'), (177, ','), (179, 'The'), (183, 'Detectives'), (194, 'Starring'), (203, 'Robert'), (210, 'Taylor'), (216, '.')])</spacy_tokens>
+<spacy_chunks>[('Russell Thorson', 0, 15), ('(October', 16, 24), ('October 14, 1906', 17, 33), ('July 6, 1982', 36, 48), ('an American actor', 55, 72), ('his co-starring role', 97, 117), ('Otto Lindstrom', 130, 144), ("ABC's 1959-62 hit crime drama", 148, 177), ('The Detectives Starring Robert Taylor', 179, 216)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'JJ', 'JJ', 'NN', 'IN', 'NNP', '.', 'NNP', '.', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'CD', 'SYM', 'CD', 'VBN', 'NN', 'NN', ',', 'DT', 'NNPS', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

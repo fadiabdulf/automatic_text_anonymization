@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Olivia Burnette</title>
+<link/>https://en.wikipedia.org/wiki/Olivia_Burnette
+<annotated>0</annotated>
+<originalabstract>Olivia Nicole Burnette (born March 24, 1977) is an American actress who began her career as a child actress at the age of six. She is perhaps best known for her role in the NBC sitcom The Torkelsons (1991–1993). Burnette was nominated for eleven Young Artist Award.</originalabstract>
+<abstract>Olivia_Nicole_Burnette ( born March_24_,_1977 ) is an_American_actress who began her_career as a_child_actress at the_age of six . She is_perhaps_best_known for her_role in the_NBC_sitcom The_Torkelsons ( 1991 – 1993_) . Burnette was_nominated for eleven Young_Artist_Award .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Olivia'), (7, 'Nicole'), (14, 'Burnette'), (23, '('), (24, 'born'), (29, 'March'), (35, '24'), (37, ','), (39, '1977'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (68, 'who'), (72, 'began'), (78, 'her'), (82, 'career'), (89, 'as'), (92, 'a'), (94, 'child'), (100, 'actress'), (108, 'at'), (111, 'the'), (115, 'age'), (119, 'of'), (122, 'six'), (125, '.'), (127, 'She'), (131, 'is'), (134, 'perhaps'), (142, 'best'), (147, 'known'), (153, 'for'), (157, 'her'), (161, 'role'), (166, 'in'), (169, 'the'), (173, 'NBC'), (177, 'sitcom'), (184, 'The'), (188, 'Torkelsons'), (199, '('), (200, '1991'), (204, '–'), (205, '1993'), (209, ')'), (210, '.'), (212, 'Burnette'), (221, 'was'), (225, 'nominated'), (235, 'for'), (239, 'eleven'), (246, 'Young'), (252, 'Artist'), (259, 'Award'), (264, '.')])</stanford_tokens>
+<opennlp_chunks>[('Olivia Nicole Burnette',0, 22), ('March 24, 1977',29, 43), ('an American actress',48, 67), ('her career',78, 88), ('a child actress',92, 107), ('the age',111, 118), ('is perhaps best known',131, 152), ('her role',157, 165), ('the NBC sitcom',169, 183), ('The Torkelsons',184, 198), ('1993)',205, 210), ('was nominated',221, 234), ('Young Artist Award',246, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNPS', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNS', 'JJ', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Olivia'), (7, 'Nicole'), (14, 'Burnette'), (23, '('), (24, 'born'), (29, 'March'), (35, '24'), (37, ','), (39, '1977'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (68, 'who'), (72, 'began'), (78, 'her'), (82, 'career'), (89, 'as'), (92, 'a'), (94, 'child'), (100, 'actress'), (108, 'at'), (111, 'the'), (115, 'age'), (119, 'of'), (122, 'six'), (125, '.'), (127, 'She'), (131, 'is'), (134, 'perhaps'), (142, 'best'), (147, 'known'), (153, 'for'), (157, 'her'), (161, 'role'), (166, 'in'), (169, 'the'), (173, 'NBC'), (177, 'sitcom'), (184, 'The'), (188, 'Torkelsons'), (199, '('), (200, '1991–1993'), (209, ')'), (210, '.'), (212, 'Burnette'), (221, 'was'), (225, 'nominated'), (235, 'for'), (239, 'eleven'), (246, 'Young'), (252, 'Artist'), (259, 'Award'), (264, '.')])</spacy_tokens>
+<spacy_chunks>[('Olivia Nicole Burnette', 0, 22), ('March 24, 1977', 29, 43), ('an American actress', 48, 67), ('her career', 78, 88), ('a child actress', 92, 107), ('the age', 111, 118), ('her role', 157, 165), ('the NBC sitcom', 169, 183), ('The Torkelsons', 184, 198), ('eleven Young Artist Award', 239, 264)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'VBD', 'VBN', 'IN', 'CD', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

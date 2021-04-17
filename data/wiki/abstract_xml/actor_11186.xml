@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nancy Caswell</title>
+<link/>https://en.wikipedia.org/wiki/Nancy_Caswell
+<annotated>0</annotated>
+<originalabstract>Nancy Caswell (October 28, 1913 – February 2, 1987) was an American child actress of the silent era and later as an adult in talkies, including a Three Stooges work. As a baby she was proclaimed the "perfect baby" and was the youngest actress, with roles when she was as young as three.</originalabstract>
+<abstract>Nancy_Caswell ( October_28_,_1913 – February_2_,_1987 ) was an_American_child_actress of the_silent_era and later_as an_adult in talkies , including a_Three_Stooges_work . As a_baby she was_proclaimed the_"_perfect_baby " and was the_youngest_actress , with roles when she was as_young as three .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nancy'), (6, 'Caswell'), (14, '('), (15, 'October'), (23, '28'), (25, ','), (27, '1913'), (32, '–'), (34, 'February'), (43, '2'), (44, ','), (46, '1987'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'child'), (74, 'actress'), (82, 'of'), (85, 'the'), (89, 'silent'), (96, 'era'), (100, 'and'), (104, 'later'), (110, 'as'), (113, 'an'), (116, 'adult'), (122, 'in'), (125, 'talkies'), (132, ','), (134, 'including'), (144, 'a'), (146, 'Three'), (152, 'Stooges'), (160, 'work'), (164, '.'), (166, 'As'), (169, 'a'), (171, 'baby'), (176, 'she'), (180, 'was'), (184, 'proclaimed'), (195, 'the'), (199, '"'), (200, 'perfect'), (208, 'baby'), (212, '"'), (214, 'and'), (218, 'was'), (222, 'the'), (226, 'youngest'), (235, 'actress'), (242, ','), (244, 'with'), (249, 'roles'), (255, 'when'), (260, 'she'), (264, 'was'), (268, 'as'), (271, 'young'), (277, 'as'), (280, 'three'), (285, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nancy Caswell',0, 13), ('October 28, 1913',15, 31), ('February 2, 1987',34, 50), ('an American child actress',56, 81), ('the silent era',85, 99), ('later as',104, 112), ('an adult',113, 121), ('a Three Stooges work',144, 164), ('a baby',169, 175), ('was proclaimed',180, 194), ('the "perfect baby',195, 212), ('the youngest actress',222, 242), ('as young',268, 276)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'CC', 'RB', 'IN', 'DT', 'JJ', 'IN', 'NNS', ',', 'VBG', 'DT', 'CD', 'NNS', 'NN', '.', 'IN', 'DT', 'NN', 'PRP', 'VBD', 'VBN', 'DT', '``', 'JJ', 'NN', '\'\'', 'CC', 'VBD', 'DT', 'JJS', 'NN', ',', 'IN', 'NNS', 'WRB', 'PRP', 'VBD', 'IN', 'JJ', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nancy'), (6, 'Caswell'), (14, '('), (15, 'October'), (23, '28'), (25, ','), (27, '1913'), (32, '–'), (34, 'February'), (43, '2'), (44, ','), (46, '1987'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'child'), (74, 'actress'), (82, 'of'), (85, 'the'), (89, 'silent'), (96, 'era'), (100, 'and'), (104, 'later'), (110, 'as'), (113, 'an'), (116, 'adult'), (122, 'in'), (125, 'talkies'), (132, ','), (134, 'including'), (144, 'a'), (146, 'Three'), (152, 'Stooges'), (160, 'work'), (164, '.'), (166, 'As'), (169, 'a'), (171, 'baby'), (176, 'she'), (180, 'was'), (184, 'proclaimed'), (195, 'the'), (199, '"'), (200, 'perfect'), (208, 'baby'), (212, '"'), (214, 'and'), (218, 'was'), (222, 'the'), (226, 'youngest'), (235, 'actress'), (242, ','), (244, 'with'), (249, 'roles'), (255, 'when'), (260, 'she'), (264, 'was'), (268, 'as'), (271, 'young'), (277, 'as'), (280, 'three'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('Nancy Caswell', 0, 13), ('(October', 14, 22), ('October 28, 1913', 15, 31), ('February 2, 1987', 34, 50), ('an American child actress', 56, 81), ('the silent era', 85, 99), ('an adult', 113, 121), ('talkies', 125, 132), ('Three Stooges', 146, 159), ('a baby', 169, 175), ('the "perfect baby', 195, 212), ('the youngest actress', 222, 242)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'CC', 'RB', 'IN', 'DT', 'NN', 'IN', 'NNS', ',', 'VBG', 'DT', 'NNP', 'NNPS', 'VBP', '.', 'IN', 'DT', 'NN', 'PRP', 'VBD', 'VBN', 'DT', '``', 'JJ', 'NN', "''", 'CC', 'VBD', 'DT', 'JJS', 'NN', ',', 'IN', 'NNS', 'WRB', 'PRP', 'VBD', 'RB', 'JJ', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

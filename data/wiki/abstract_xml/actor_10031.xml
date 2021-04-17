@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Pierre Mondy</title>
+<link/>https://en.wikipedia.org/wiki/Pierre_Mondy
+<annotated>0</annotated>
+<originalabstract>Pierre Mondy (born Pierre Cuq; 10 February 1925 in Neuilly-sur-Seine – 15 September 2012 in Paris) was a French film and theatre actor and director.</originalabstract>
+<abstract>Pierre_Mondy ( born Pierre_Cuq ; 10_February_1925 in Neuilly-sur-Seine – 15_September_2012 in Paris ) was a_French_film_and_theatre_actor_and_director .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Pierre'), (7, 'Mondy'), (13, '('), (14, 'born'), (19, 'Pierre'), (26, 'Cuq'), (29, ';'), (31, '10'), (34, 'February'), (43, '1925'), (48, 'in'), (51, 'Neuilly-sur-Seine'), (69, '–'), (71, '15'), (74, 'September'), (84, '2012'), (89, 'in'), (92, 'Paris'), (97, ')'), (99, 'was'), (103, 'a'), (105, 'French'), (112, 'film'), (117, 'and'), (121, 'theatre'), (129, 'actor'), (135, 'and'), (139, 'director'), (147, '.')])</stanford_tokens>
+<opennlp_chunks>[('Pierre Mondy',0, 12), ('Pierre Cuq',19, 29), ('10 February 1925',31, 47), ('15 September 2012',71, 88), ('a French film and theatre actor and director',103, 147)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'IN', 'NNP', ':', 'CD', 'NNP', 'CD', 'IN', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Pierre'), (7, 'Mondy'), (13, '('), (14, 'born'), (19, 'Pierre'), (26, 'Cuq'), (29, ';'), (31, '10'), (34, 'February'), (43, '1925'), (48, 'in'), (51, 'Neuilly'), (58, '-'), (59, 'sur'), (62, '-'), (63, 'Seine'), (69, '–'), (71, '15'), (74, 'September'), (84, '2012'), (89, 'in'), (92, 'Paris'), (97, ')'), (99, 'was'), (103, 'a'), (105, 'French'), (112, 'film'), (117, 'and'), (121, 'theatre'), (129, 'actor'), (135, 'and'), (139, 'director'), (147, '.')])</spacy_tokens>
+<spacy_chunks>[('Pierre Mondy', 0, 12), ('Pierre Cuq', 19, 29), ('10 February 1925', 31, 47), ('Neuilly-sur-Seine', 51, 68), ('15 September 2012', 71, 88), ('a French film and theatre actor', 103, 134), ('director', 139, 147)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', 'HYPH', 'CD', 'NNP', 'CD', 'IN', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

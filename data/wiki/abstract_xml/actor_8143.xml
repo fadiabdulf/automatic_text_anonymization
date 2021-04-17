@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Walter Forde</title>
+<link/>https://en.wikipedia.org/wiki/Walter_Forde
+<annotated>0</annotated>
+<originalabstract>Walter Forde (born Thomas Seymour Woolford, 21 April 1898 – 7 January 1984) was a British actor, screenwriter and director.  Born in Lambeth, South London in 1898, he directed over fifty films between 1919 from the silent era through to 1949 in the sound era  He died in Los Angeles, California in 1984.</originalabstract>
+<abstract>Walter_Forde ( born Thomas_Seymour_Woolford , 21_April_1898 – 7_January_1984 ) was a_British_actor , screenwriter_and_director . Born in Lambeth , South_London in 1898 , he directed over fifty_films between 1919 from the_silent_era through to 1949 in the_sound_era He died in Los_Angeles , California in 1984 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Walter'), (7, 'Forde'), (13, '('), (14, 'born'), (19, 'Thomas'), (26, 'Seymour'), (34, 'Woolford'), (42, ','), (44, '21'), (47, 'April'), (53, '1898'), (58, '–'), (60, '7'), (62, 'January'), (70, '1984'), (74, ')'), (76, 'was'), (80, 'a'), (82, 'British'), (90, 'actor'), (95, ','), (97, 'screenwriter'), (110, 'and'), (114, 'director'), (122, '.'), (125, 'Born'), (130, 'in'), (133, 'Lambeth'), (140, ','), (142, 'South'), (148, 'London'), (155, 'in'), (158, '1898'), (162, ','), (164, 'he'), (167, 'directed'), (176, 'over'), (181, 'fifty'), (187, 'films'), (193, 'between'), (201, '1919'), (206, 'from'), (211, 'the'), (215, 'silent'), (222, 'era'), (226, 'through'), (234, 'to'), (237, '1949'), (242, 'in'), (245, 'the'), (249, 'sound'), (255, 'era'), (260, 'He'), (263, 'died'), (268, 'in'), (271, 'Los'), (275, 'Angeles'), (282, ','), (284, 'California'), (295, 'in'), (298, '1984'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Walter Forde',0, 12), ('Thomas Seymour Woolford',19, 42), ('21 April 1898',44, 57), ('7 January 1984',60, 74), ('a British actor',80, 95), ('screenwriter and director',97, 122), ('South London',142, 154), ('fifty films',181, 192), ('the silent era',211, 225), ('the sound era',245, 258), ('Los Angeles',271, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'TO', 'CD', 'IN', 'DT', 'JJ', 'NN', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Walter'), (7, 'Forde'), (13, '('), (14, 'born'), (19, 'Thomas'), (26, 'Seymour'), (34, 'Woolford'), (42, ','), (44, '21'), (47, 'April'), (53, '1898'), (58, '–'), (60, '7'), (62, 'January'), (70, '1984'), (74, ')'), (76, 'was'), (80, 'a'), (82, 'British'), (90, 'actor'), (95, ','), (97, 'screenwriter'), (110, 'and'), (114, 'director'), (122, '.'), (125, 'Born'), (130, 'in'), (133, 'Lambeth'), (140, ','), (142, 'South'), (148, 'London'), (155, 'in'), (158, '1898'), (162, ','), (164, 'he'), (167, 'directed'), (176, 'over'), (181, 'fifty'), (187, 'films'), (193, 'between'), (201, '1919'), (206, 'from'), (211, 'the'), (215, 'silent'), (222, 'era'), (226, 'through'), (234, 'to'), (237, '1949'), (242, 'in'), (245, 'the'), (249, 'sound'), (255, 'era'), (260, 'He'), (263, 'died'), (268, 'in'), (271, 'Los'), (275, 'Angeles'), (282, ','), (284, 'California'), (295, 'in'), (298, '1984'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Walter Forde', 0, 12), ('Thomas Seymour Woolford', 19, 42), ('21 April 1898', 44, 57), ('7 January 1984', 60, 74), ('a British actor', 80, 95), ('Screenwriter', 97, 109), ('director', 114, 122), ('Lambeth', 133, 140), ('South London', 142, 154), ('fifty films', 181, 192), ('the silent era', 211, 225), ('the sound era', 245, 258), ('Los Angeles', 271, 282), ('California', 284, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'IN', 'CD', 'IN', 'DT', 'JJ', 'NN', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

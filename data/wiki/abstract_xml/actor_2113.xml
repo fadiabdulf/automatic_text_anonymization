@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fred Essler</title>
+<link/>https://en.wikipedia.org/wiki/Fred_Essler
+<annotated>0</annotated>
+<originalabstract>Fred Essler (1895–1973) was an American actor. He worked film, television and on stage.
+He was born Fritz Essler, on February 13, 1895 in Vienna, Austria-Hungary, (now Austria); and, died on, January 17, 1973 (age 77) in Woodland Hills, Los Angeles, California.</originalabstract>
+<abstract>Fred_Essler ( 1895 – 1973 ) was an_American_actor . He worked film_,_television and on stage . He was_born Fritz_Essler , on February_13_,_1895 in Vienna , Austria-Hungary , ( now Austria_) ; and , died on , January_17_,_1973 ( age_77_) in Woodland_Hills , Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fred'), (5, 'Essler'), (12, '('), (13, '1895'), (17, '–'), (18, '1973'), (22, ')'), (24, 'was'), (28, 'an'), (31, 'American'), (40, 'actor'), (45, '.'), (47, 'He'), (50, 'worked'), (57, 'film'), (61, ','), (63, 'television'), (74, 'and'), (78, 'on'), (81, 'stage'), (86, '.'), (88, 'He'), (91, 'was'), (95, 'born'), (100, 'Fritz'), (106, 'Essler'), (112, ','), (114, 'on'), (117, 'February'), (126, '13'), (128, ','), (130, '1895'), (135, 'in'), (138, 'Vienna'), (144, ','), (146, 'Austria-Hungary'), (161, ','), (163, '('), (164, 'now'), (168, 'Austria'), (175, ')'), (176, ';'), (178, 'and'), (181, ','), (183, 'died'), (188, 'on'), (190, ','), (192, 'January'), (200, '17'), (202, ','), (204, '1973'), (209, '('), (210, 'age'), (214, '77'), (216, ')'), (218, 'in'), (221, 'Woodland'), (230, 'Hills'), (235, ','), (237, 'Los'), (241, 'Angeles'), (248, ','), (250, 'California'), (260, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fred Essler',0, 11), ('an American actor',28, 45), ('film, television',57, 73), ('was born',91, 99), ('Fritz Essler',100, 112), ('February 13, 1895',117, 134), ('Austria)',168, 176), ('January 17, 1973',192, 208), ('age 77)',210, 217), ('Woodland Hills',221, 235), ('Los Angeles',237, 248)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NN', ',', 'NN', 'CC', 'IN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', ',', '-LRB-', 'RB', 'NNP', '-RRB-', ':', 'CC', ',', 'VBD', 'IN', ',', 'NNP', 'CD', ',', 'CD', '-LRB-', 'NN', 'CD', '-RRB-', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fred'), (5, 'Essler'), (12, '('), (13, '1895–1973'), (22, ')'), (24, 'was'), (28, 'an'), (31, 'American'), (40, 'actor'), (45, '.'), (47, 'He'), (50, 'worked'), (57, 'film'), (61, ','), (63, 'television'), (74, 'and'), (78, 'on'), (81, 'stage'), (86, '.'), (88, 'He'), (91, 'was'), (95, 'born'), (100, 'Fritz'), (106, 'Essler'), (112, ','), (114, 'on'), (117, 'February'), (126, '13'), (128, ','), (130, '1895'), (135, 'in'), (138, 'Vienna'), (144, ','), (146, 'Austria'), (153, '-'), (154, 'Hungary'), (161, ','), (163, '('), (164, 'now'), (168, 'Austria'), (175, ')'), (176, ';'), (178, 'and'), (181, ','), (183, 'died'), (188, 'on'), (190, ','), (192, 'January'), (200, '17'), (202, ','), (204, '1973'), (209, '('), (210, 'age'), (214, '77'), (216, ')'), (218, 'in'), (221, 'Woodland'), (230, 'Hills'), (235, ','), (237, 'Los'), (241, 'Angeles'), (248, ','), (250, 'California'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('Fred Essler', 0, 11), ('an American actor', 28, 45), ('television', 63, 73), ('February 13, 1895', 117, 134), ('Vienna', 138, 144), ('Austria-Hungary', 146, 161), ('January 17, 1973', 192, 208), ('Woodland Hills, Los Angeles', 221, 248), ('California', 250, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NN', ',', 'NN', 'CC', 'IN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', ',', '-LRB-', 'RB', 'NNP', '-RRB-', ':', 'CC', ',', 'VBD', 'IN', ',', 'NNP', 'CD', ',', 'CD', '-LRB-', 'NN', 'CD', '-RRB-', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

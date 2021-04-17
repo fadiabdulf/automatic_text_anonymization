@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cassi Davis</title>
+<link/>https://en.wikipedia.org/wiki/Cassi_Davis
+<annotated>0</annotated>
+<originalabstract>Cassandra Davis Patton (born July 30, 1964) is an American actress and singer who is best known for her role as Ella Payne on Tyler Perry's House of Payne and its spin-off series The Paynes. She has also starred in several other productions under the direction of Tyler Perry.</originalabstract>
+<abstract>Cassandra_Davis_Patton ( born July_30_,_1964 ) is an_American_actress and singer who is_best_known for her_role as Ella_Payne on Tyler_Perry 's_House of Payne and its_spin-off_series The_Paynes . She has_also_starred in several_other_productions under the_direction of Tyler_Perry .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cassandra'), (10, 'Davis'), (16, 'Patton'), (23, '('), (24, 'born'), (29, 'July'), (34, '30'), (36, ','), (38, '1964'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actress'), (67, 'and'), (71, 'singer'), (78, 'who'), (82, 'is'), (85, 'best'), (90, 'known'), (96, 'for'), (100, 'her'), (104, 'role'), (109, 'as'), (112, 'Ella'), (117, 'Payne'), (123, 'on'), (126, 'Tyler'), (132, 'Perry'), (137, '\'s'), (140, 'House'), (146, 'of'), (149, 'Payne'), (155, 'and'), (159, 'its'), (163, 'spin-off'), (172, 'series'), (179, 'The'), (183, 'Paynes'), (189, '.'), (191, 'She'), (195, 'has'), (199, 'also'), (204, 'starred'), (212, 'in'), (215, 'several'), (223, 'other'), (229, 'productions'), (241, 'under'), (247, 'the'), (251, 'direction'), (261, 'of'), (264, 'Tyler'), (270, 'Perry'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cassandra Davis Patton',0, 22), ('July 30, 1964',29, 42), ('an American actress',47, 66), ('is best known',82, 95), ('her role',100, 108), ('Ella Payne',112, 122), ('Tyler Perry',126, 137), ('\'s House',137, 145), ('its spin-off series',159, 178), ('The Paynes',179, 189), ('has also starred',195, 211), ('several other productions',215, 240), ('the direction',247, 260), ('Tyler Perry',264, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'NNP', 'CC', 'PRP$', 'NN', 'NN', 'DT', 'NNPS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cassandra'), (10, 'Davis'), (16, 'Patton'), (23, '('), (24, 'born'), (29, 'July'), (34, '30'), (36, ','), (38, '1964'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actress'), (67, 'and'), (71, 'singer'), (78, 'who'), (82, 'is'), (85, 'best'), (90, 'known'), (96, 'for'), (100, 'her'), (104, 'role'), (109, 'as'), (112, 'Ella'), (117, 'Payne'), (123, 'on'), (126, 'Tyler'), (132, 'Perry'), (137, "'s"), (140, 'House'), (146, 'of'), (149, 'Payne'), (155, 'and'), (159, 'its'), (163, 'spin'), (167, '-'), (168, 'off'), (172, 'series'), (179, 'The'), (183, 'Paynes'), (189, '.'), (191, 'She'), (195, 'has'), (199, 'also'), (204, 'starred'), (212, 'in'), (215, 'several'), (223, 'other'), (229, 'productions'), (241, 'under'), (247, 'the'), (251, 'direction'), (261, 'of'), (264, 'Tyler'), (270, 'Perry'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('Cassandra Davis Patton', 0, 22), ('July 30, 1964', 29, 42), ('an American actress', 47, 66), ('singer', 71, 77), ('her role', 100, 108), ('Ella Payne', 112, 122), ("Tyler Perry's House of Payne", 126, 154), ('its spin-off series', 159, 178), ('The Paynes', 179, 189), ('several other productions', 215, 240), ('the direction', 247, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'NNP', 'CC', 'PRP$', 'NN', 'HYPH', 'RP', 'NN', 'DT', 'NNPS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

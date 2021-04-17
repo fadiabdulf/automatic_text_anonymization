@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eric Close</title>
+<link/>https://en.wikipedia.org/wiki/Eric_Close
+<annotated>0</annotated>
+<originalabstract>Eric Randolph Close (born May 24, 1967) is an American actor, best known for his roles in television series, particularly as FBI agent Martin Fitzgerald in the CBS mystery drama Without a Trace (2002–2009) and Teddy Conrad in the ABC musical drama Nashville (2012–2017).</originalabstract>
+<abstract>Eric_Randolph_Close ( born May_24_,_1967 ) is an_American_actor , best_known for his_roles in television_series , particularly as FBI_agent_Martin_Fitzgerald in the_CBS_mystery_drama Without a_Trace ( 2002 – 2009 ) and Teddy_Conrad in the_ABC_musical_drama_Nashville ( 2012 – 2017 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eric'), (5, 'Randolph'), (14, 'Close'), (20, '('), (21, 'born'), (26, 'May'), (30, '24'), (32, ','), (34, '1967'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'his'), (81, 'roles'), (87, 'in'), (90, 'television'), (101, 'series'), (107, ','), (109, 'particularly'), (122, 'as'), (125, 'FBI'), (129, 'agent'), (135, 'Martin'), (142, 'Fitzgerald'), (153, 'in'), (156, 'the'), (160, 'CBS'), (164, 'mystery'), (172, 'drama'), (178, 'Without'), (186, 'a'), (188, 'Trace'), (194, '('), (195, '2002'), (199, '–'), (200, '2009'), (204, ')'), (206, 'and'), (210, 'Teddy'), (216, 'Conrad'), (223, 'in'), (226, 'the'), (230, 'ABC'), (234, 'musical'), (242, 'drama'), (248, 'Nashville'), (258, '('), (259, '2012'), (263, '–'), (264, '2017'), (268, ')'), (269, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eric Randolph Close',0, 19), ('May 24, 1967',26, 38), ('an American actor',43, 60), ('best known',62, 72), ('his roles',77, 86), ('television series',90, 107), ('FBI agent Martin Fitzgerald',125, 152), ('the CBS mystery drama',156, 177), ('a Trace',186, 193), ('Teddy Conrad',210, 222), ('the ABC musical drama Nashville',226, 257)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NN', ',', 'RB', 'IN', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'IN', 'DT', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eric'), (5, 'Randolph'), (14, 'Close'), (20, '('), (21, 'born'), (26, 'May'), (30, '24'), (32, ','), (34, '1967'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'his'), (81, 'roles'), (87, 'in'), (90, 'television'), (101, 'series'), (107, ','), (109, 'particularly'), (122, 'as'), (125, 'FBI'), (129, 'agent'), (135, 'Martin'), (142, 'Fitzgerald'), (153, 'in'), (156, 'the'), (160, 'CBS'), (164, 'mystery'), (172, 'drama'), (178, 'Without'), (186, 'a'), (188, 'Trace'), (194, '('), (195, '2002–2009'), (204, ')'), (206, 'and'), (210, 'Teddy'), (216, 'Conrad'), (223, 'in'), (226, 'the'), (230, 'ABC'), (234, 'musical'), (242, 'drama'), (248, 'Nashville'), (258, '('), (259, '2012–2017'), (268, ')'), (269, '.')])</spacy_tokens>
+<spacy_chunks>[('Eric Randolph Close', 0, 19), ('May 24, 1967', 26, 38), ('an American actor', 43, 60), ('his roles', 77, 86), ('television series', 90, 107), ('FBI agent Martin Fitzgerald', 125, 152), ('the CBS mystery drama', 156, 177), ('Without a Trace', 178, 193), ('the ABC musical drama', 226, 247), ('Nashville (2012', 248, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NN', ',', 'RB', 'IN', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

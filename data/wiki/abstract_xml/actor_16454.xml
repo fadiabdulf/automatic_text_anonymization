@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jeanne Campbell</title>
+<link/>https://en.wikipedia.org/wiki/Jeanne_Campbell
+<annotated>0</annotated>
+<originalabstract>Lady Jeanne Louise Campbell (10 December 1928 – 4 June 2007) was a British socialite, actress, and foreign correspondent who wrote for the Evening Standard in the 1950s and 1960s.</originalabstract>
+<abstract>Lady_Jeanne_Louise_Campbell ( 10_December_1928 – 4_June_2007 ) was a_British_socialite , actress , and foreign_correspondent who wrote for the_Evening_Standard in the_1950s_and_1960s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lady'), (5, 'Jeanne'), (12, 'Louise'), (19, 'Campbell'), (28, '('), (29, '10'), (32, 'December'), (41, '1928'), (46, '–'), (48, '4'), (50, 'June'), (55, '2007'), (59, ')'), (61, 'was'), (65, 'a'), (67, 'British'), (75, 'socialite'), (84, ','), (86, 'actress'), (93, ','), (95, 'and'), (99, 'foreign'), (107, 'correspondent'), (121, 'who'), (125, 'wrote'), (131, 'for'), (135, 'the'), (139, 'Evening'), (147, 'Standard'), (156, 'in'), (159, 'the'), (163, '1950s'), (169, 'and'), (173, '1960s'), (178, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lady Jeanne Louise Campbell',0, 27), ('10 December 1928',29, 45), ('4 June 2007',48, 59), ('a British socialite',65, 84), ('foreign correspondent',99, 120), ('the Evening Standard',135, 155), ('the 1950s and 1960s',159, 178)]</opennlp_chunks>
+<stanford_pos>['NN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lady'), (5, 'Jeanne'), (12, 'Louise'), (19, 'Campbell'), (28, '('), (29, '10'), (32, 'December'), (41, '1928'), (46, '–'), (48, '4'), (50, 'June'), (55, '2007'), (59, ')'), (61, 'was'), (65, 'a'), (67, 'British'), (75, 'socialite'), (84, ','), (86, 'actress'), (93, ','), (95, 'and'), (99, 'foreign'), (107, 'correspondent'), (121, 'who'), (125, 'wrote'), (131, 'for'), (135, 'the'), (139, 'Evening'), (147, 'Standard'), (156, 'in'), (159, 'the'), (163, '1950s'), (169, 'and'), (173, '1960s'), (178, '.')])</spacy_tokens>
+<spacy_chunks>[('Lady Jeanne Louise Campbell', 0, 27), ('10 December 1928', 29, 45), ('4 June 2007', 48, 59), ('a British socialite', 65, 84), ('actress', 86, 93), ('Foreign correspondent', 99, 120), ('the Evening Standard', 135, 155), ('the 1950s', 159, 168)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

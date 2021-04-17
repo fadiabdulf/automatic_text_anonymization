@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jenna Ushkowitz</title>
+<link/>https://en.wikipedia.org/wiki/Jenna_Ushkowitz
+<annotated>0</annotated>
+<originalabstract>Jenna Noelle Ushkowitz (; born April 28, 1986) is a South Korean-born American actress, singer, and podcast host. She is known for her performances in Broadway musicals such as The King and I, and Waitress; and in the role of Tina Cohen-Chang on the Fox comedy-drama series Glee.</originalabstract>
+<abstract>Jenna_Noelle_Ushkowitz ( ; born April_28_,_1986 ) is a_South_Korean-born_American_actress , singer , and podcast_host . She is_known for her_performances in Broadway_musicals such_as The_King_and_I , and Waitress ; and in the_role of Tina_Cohen-Chang on the_Fox_comedy-drama_series_Glee .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jenna'), (6, 'Noelle'), (13, 'Ushkowitz'), (23, '('), (24, ';'), (26, 'born'), (31, 'April'), (37, '28'), (39, ','), (41, '1986'), (45, ')'), (47, 'is'), (50, 'a'), (52, 'South'), (58, 'Korean-born'), (70, 'American'), (79, 'actress'), (86, ','), (88, 'singer'), (94, ','), (96, 'and'), (100, 'podcast'), (108, 'host'), (112, '.'), (114, 'She'), (118, 'is'), (121, 'known'), (127, 'for'), (131, 'her'), (135, 'performances'), (148, 'in'), (151, 'Broadway'), (160, 'musicals'), (169, 'such'), (174, 'as'), (177, 'The'), (181, 'King'), (186, 'and'), (190, 'I'), (191, ','), (193, 'and'), (197, 'Waitress'), (205, ';'), (207, 'and'), (211, 'in'), (214, 'the'), (218, 'role'), (223, 'of'), (226, 'Tina'), (231, 'Cohen-Chang'), (243, 'on'), (246, 'the'), (250, 'Fox'), (254, 'comedy-drama'), (267, 'series'), (274, 'Glee'), (278, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jenna Noelle Ushkowitz',0, 22), ('April 28, 1986',31, 45), ('a South Korean-born American actress',50, 86), ('podcast host',100, 112), ('is known',118, 126), ('her performances',131, 147), ('Broadway musicals',151, 168), ('such as',169, 176), ('The King and I',177, 191), ('the role',214, 222), ('Tina Cohen-Chang',226, 242), ('the Fox comedy-drama series Glee',246, 278)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'CC', 'PRP', ',', 'CC', 'NN', ':', 'CC', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jenna'), (6, 'Noelle'), (13, 'Ushkowitz'), (23, '(;'), (26, 'born'), (31, 'April'), (37, '28'), (39, ','), (41, '1986'), (45, ')'), (47, 'is'), (50, 'a'), (52, 'South'), (58, 'Korean'), (64, '-'), (65, 'born'), (70, 'American'), (79, 'actress'), (86, ','), (88, 'singer'), (94, ','), (96, 'and'), (100, 'podcast'), (108, 'host'), (112, '.'), (114, 'She'), (118, 'is'), (121, 'known'), (127, 'for'), (131, 'her'), (135, 'performances'), (148, 'in'), (151, 'Broadway'), (160, 'musicals'), (169, 'such'), (174, 'as'), (177, 'The'), (181, 'King'), (186, 'and'), (190, 'I'), (191, ','), (193, 'and'), (197, 'Waitress'), (205, ';'), (207, 'and'), (211, 'in'), (214, 'the'), (218, 'role'), (223, 'of'), (226, 'Tina'), (231, 'Cohen'), (236, '-'), (237, 'Chang'), (243, 'on'), (246, 'the'), (250, 'Fox'), (254, 'comedy'), (260, '-'), (261, 'drama'), (267, 'series'), (274, 'Glee'), (278, '.')])</spacy_tokens>
+<spacy_chunks>[('Jenna Noelle Ushkowitz', 0, 22), ('April 28, 1986', 31, 45), ('a South Korean-born American actress', 50, 86), ('singer', 88, 94), ('podcast host', 100, 112), ('her performances', 131, 147), ('Broadway musicals', 151, 168), ('The King and I', 177, 191), ('Waitress', 197, 205), ('the role', 214, 222), ('Tina Cohen-Chang', 226, 242), ('the Fox comedy-drama series Glee', 246, 278)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NN', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'CC', 'PRP', ',', 'CC', 'NN', ':', 'CC', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'HYPH', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'HYPH', 'NN', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

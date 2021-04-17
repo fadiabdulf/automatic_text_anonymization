@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jenny Sullivan</title>
+<link/>https://en.wikipedia.org/wiki/Jenny_Sullivan
+<annotated>0</annotated>
+<originalabstract>Jenny Sullivan (born December 14, 1946) is an American film and television actress. She has starred in some TV movies, and her best-known role is reporter Kristine Walsh in the 1983 miniseries V and its 1984 sequel V: The Final Battle.</originalabstract>
+<abstract>Jenny_Sullivan ( born December_14_,_1946 ) is an_American_film_and_television_actress . She has_starred in some_TV_movies , and her_best-known_role is reporter_Kristine_Walsh in the_1983_miniseries_V and its_1984_sequel_V : The_Final_Battle .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jenny'), (6, 'Sullivan'), (15, '('), (16, 'born'), (21, 'December'), (30, '14'), (32, ','), (34, '1946'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'film'), (60, 'and'), (64, 'television'), (75, 'actress'), (82, '.'), (84, 'She'), (88, 'has'), (92, 'starred'), (100, 'in'), (103, 'some'), (108, 'TV'), (111, 'movies'), (117, ','), (119, 'and'), (123, 'her'), (127, 'best-known'), (138, 'role'), (143, 'is'), (146, 'reporter'), (155, 'Kristine'), (164, 'Walsh'), (170, 'in'), (173, 'the'), (177, '1983'), (182, 'miniseries'), (193, 'V'), (195, 'and'), (199, 'its'), (203, '1984'), (208, 'sequel'), (215, 'V'), (216, ':'), (218, 'The'), (222, 'Final'), (228, 'Battle'), (234, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jenny Sullivan',0, 14), ('December 14, 1946',21, 38), ('an American film and television actress',43, 82), ('has starred',88, 99), ('some TV movies',103, 117), ('her best-known role',123, 142), ('reporter Kristine Walsh',146, 169), ('the 1983 miniseries V',173, 194), ('its 1984 sequel V',199, 216), ('The Final Battle',218, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'NN', 'NNS', ',', 'CC', 'PRP$', 'JJ', 'NN', 'VBZ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNS', 'NN', 'CC', 'PRP$', 'CD', 'NN', 'NN', ':', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jenny'), (6, 'Sullivan'), (15, '('), (16, 'born'), (21, 'December'), (30, '14'), (32, ','), (34, '1946'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'film'), (60, 'and'), (64, 'television'), (75, 'actress'), (82, '.'), (84, 'She'), (88, 'has'), (92, 'starred'), (100, 'in'), (103, 'some'), (108, 'TV'), (111, 'movies'), (117, ','), (119, 'and'), (123, 'her'), (127, 'best'), (131, '-'), (132, 'known'), (138, 'role'), (143, 'is'), (146, 'reporter'), (155, 'Kristine'), (164, 'Walsh'), (170, 'in'), (173, 'the'), (177, '1983'), (182, 'miniseries'), (193, 'V'), (195, 'and'), (199, 'its'), (203, '1984'), (208, 'sequel'), (215, 'V'), (216, ':'), (218, 'The'), (222, 'Final'), (228, 'Battle'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('Jenny Sullivan', 0, 14), ('December 14, 1946', 21, 38), ('an American film and television actress', 43, 82), ('some TV movies', 103, 117), ('her best-known role', 123, 142), ('reporter Kristine Walsh', 146, 169), ('the 1983 miniseries', 173, 192), ('its 1984 sequel V', 199, 216), ('The Final Battle', 218, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'NN', 'NNS', ',', 'CC', 'PRP$', 'RBS', 'HYPH', 'VBN', 'NN', 'VBZ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNS', 'NNP', 'CC', 'PRP$', 'CD', 'NN', 'NN', ':', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

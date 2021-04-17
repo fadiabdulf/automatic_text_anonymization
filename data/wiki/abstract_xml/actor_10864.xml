@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Whitney Bourne</title>
+<link/>https://en.wikipedia.org/wiki/Whitney_Bourne
+<annotated>0</annotated>
+<originalabstract>Whitney Bourne (May 6, 1914 – December 24, 1988) was an American stage and film actress. She was a leading lady in several B films of the 1930s, with occasional appearances in more prestigious films such as the British musical Head over Heels. During WWII, she was an "American Red Cross" clubmobiler.</originalabstract>
+<abstract>Whitney_Bourne ( May_6_,_1914 – December_24 , 1988 ) was an_American_stage_and_film_actress . She was a_leading_lady in several_B_films of the_1930s , with occasional_appearances in more_prestigious_films such_as the_British_musical_Head over Heels . During WWII , she was an_"_American_Red_Cross_"_clubmobiler .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Whitney'), (8, 'Bourne'), (15, '('), (16, 'May'), (20, '6'), (21, ','), (23, '1914'), (28, '–'), (30, 'December'), (39, '24'), (41, ','), (43, '1988'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'stage'), (71, 'and'), (75, 'film'), (80, 'actress'), (87, '.'), (89, 'She'), (93, 'was'), (97, 'a'), (99, 'leading'), (107, 'lady'), (112, 'in'), (115, 'several'), (123, 'B'), (125, 'films'), (131, 'of'), (134, 'the'), (138, '1930s'), (143, ','), (145, 'with'), (150, 'occasional'), (161, 'appearances'), (173, 'in'), (176, 'more'), (181, 'prestigious'), (193, 'films'), (199, 'such'), (204, 'as'), (207, 'the'), (211, 'British'), (219, 'musical'), (227, 'Head'), (232, 'over'), (237, 'Heels'), (242, '.'), (244, 'During'), (251, 'WWII'), (255, ','), (257, 'she'), (261, 'was'), (265, 'an'), (268, '"'), (269, 'American'), (278, 'Red'), (282, 'Cross'), (287, '"'), (289, 'clubmobiler'), (300, '.')])</stanford_tokens>
+<opennlp_chunks>[('Whitney Bourne',0, 14), ('May 6, 1914',16, 27), ('December 24',30, 41), ('an American stage and film actress',53, 87), ('a leading lady',97, 111), ('several B films',115, 130), ('the 1930s',134, 143), ('occasional appearances',150, 172), ('more prestigious films',176, 198), ('such as',199, 206), ('the British musical Head',207, 231), ('an "American Red Cross" clubmobiler',265, 300)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'NNS', ',', 'IN', 'JJ', 'NNS', 'IN', 'JJR', 'JJ', 'NNS', 'JJ', 'IN', 'DT', 'JJ', 'JJ', 'NNP', 'IN', 'NNPS', '.', 'IN', 'NNP', ',', 'PRP', 'VBD', 'DT', '``', 'NNP', 'NNP', 'NNP', '\'\'', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Whitney'), (8, 'Bourne'), (15, '('), (16, 'May'), (20, '6'), (21, ','), (23, '1914'), (28, '–'), (30, 'December'), (39, '24'), (41, ','), (43, '1988'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'stage'), (71, 'and'), (75, 'film'), (80, 'actress'), (87, '.'), (89, 'She'), (93, 'was'), (97, 'a'), (99, 'leading'), (107, 'lady'), (112, 'in'), (115, 'several'), (123, 'B'), (125, 'films'), (131, 'of'), (134, 'the'), (138, '1930s'), (143, ','), (145, 'with'), (150, 'occasional'), (161, 'appearances'), (173, 'in'), (176, 'more'), (181, 'prestigious'), (193, 'films'), (199, 'such'), (204, 'as'), (207, 'the'), (211, 'British'), (219, 'musical'), (227, 'Head'), (232, 'over'), (237, 'Heels'), (242, '.'), (244, 'During'), (251, 'WWII'), (255, ','), (257, 'she'), (261, 'was'), (265, 'an'), (268, '"'), (269, 'American'), (278, 'Red'), (282, 'Cross'), (287, '"'), (289, 'clubmobiler'), (300, '.')])</spacy_tokens>
+<spacy_chunks>[('Whitney Bourne', 0, 14), ('May 6, 1914', 16, 27), ('December 24, 1988', 30, 47), ('an American stage and film actress', 53, 87), ('a leading lady', 97, 111), ('several B films', 115, 130), ('the 1930s', 134, 143), ('occasional appearances', 150, 172), ('more prestigious films', 176, 198), ('the British musical Head', 207, 231), ('Head over Heels', 227, 242), ('an "American Red Cross" clubmobiler', 265, 300)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'JJ', 'NNP', 'NNS', 'IN', 'DT', 'NNS', ',', 'IN', 'JJ', 'NNS', 'IN', 'RBR', 'JJ', 'NNS', 'JJ', 'IN', 'DT', 'JJ', 'JJ', 'NNP', 'IN', 'NNPS', '.', 'IN', 'NNP', ',', 'PRP', 'VBD', 'DT', '``', 'NNP', 'NNP', 'NNP', "''", 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

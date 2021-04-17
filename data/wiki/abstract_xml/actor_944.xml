@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fred Burns (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Fred_Burns_(actor)
+<annotated>0</annotated>
+<originalabstract>Fred Burns (April 24, 1878 – July 18, 1955) was an American actor who mainly appeared in Western films. He appeared in over 265 films before his death in 1955.</originalabstract>
+<abstract>Fred_Burns ( April_24_,_1878 – July_18_,_1955 ) was an_American_actor who mainly appeared in Western_films . He appeared in over_265_films before his_death in 1955 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fred'), (5, 'Burns'), (11, '('), (12, 'April'), (18, '24'), (20, ','), (22, '1878'), (27, '–'), (29, 'July'), (34, '18'), (36, ','), (38, '1955'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'actor'), (66, 'who'), (70, 'mainly'), (77, 'appeared'), (86, 'in'), (89, 'Western'), (97, 'films'), (102, '.'), (104, 'He'), (107, 'appeared'), (116, 'in'), (119, 'over'), (124, '265'), (128, 'films'), (134, 'before'), (141, 'his'), (145, 'death'), (151, 'in'), (154, '1955'), (158, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fred Burns',0, 10), ('April 24, 1878',12, 26), ('July 18, 1955',29, 42), ('an American actor',48, 65), ('Western films',89, 102), ('over 265 films',119, 133), ('his death',141, 150)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'RB', 'VBD', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fred'), (5, 'Burns'), (11, '('), (12, 'April'), (18, '24'), (20, ','), (22, '1878'), (27, '–'), (29, 'July'), (34, '18'), (36, ','), (38, '1955'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'actor'), (66, 'who'), (70, 'mainly'), (77, 'appeared'), (86, 'in'), (89, 'Western'), (97, 'films'), (102, '.'), (104, 'He'), (107, 'appeared'), (116, 'in'), (119, 'over'), (124, '265'), (128, 'films'), (134, 'before'), (141, 'his'), (145, 'death'), (151, 'in'), (154, '1955'), (158, '.')])</spacy_tokens>
+<spacy_chunks>[('Fred Burns', 0, 10), ('April 24, 1878', 12, 26), ('July 18, 1955', 29, 42), ('an American actor', 48, 65), ('Western films', 89, 102), ('over 265 films', 119, 133), ('his death', 141, 150)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'RB', 'VBD', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

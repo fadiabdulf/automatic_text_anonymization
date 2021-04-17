@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marilyn Brown (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Marilyn_Brown_(actress)
+<annotated>0</annotated>
+<originalabstract>Marilyn Louise Brown (March 9, 1953 – July 22, 1997) was an American actress who performed on stage and in television dramas and feature films. She was the sister of actor/author/playwright Barry Brown and author James Brown.</originalabstract>
+<abstract>Marilyn_Louise_Brown ( March_9_,_1953 – July_22_,_1997 ) was an_American_actress who performed on stage and in television_dramas_and_feature_films . She was the_sister of actor/author/playwright_Barry_Brown and author_James_Brown .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marilyn'), (8, 'Louise'), (15, 'Brown'), (21, '('), (22, 'March'), (28, '9'), (29, ','), (31, '1953'), (36, '–'), (38, 'July'), (43, '22'), (45, ','), (47, '1997'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actress'), (77, 'who'), (81, 'performed'), (91, 'on'), (94, 'stage'), (100, 'and'), (104, 'in'), (107, 'television'), (118, 'dramas'), (125, 'and'), (129, 'feature'), (137, 'films'), (142, '.'), (144, 'She'), (148, 'was'), (152, 'the'), (156, 'sister'), (163, 'of'), (166, 'actor/author/playwright'), (190, 'Barry'), (196, 'Brown'), (202, 'and'), (206, 'author'), (213, 'James'), (219, 'Brown'), (224, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marilyn Louise Brown',0, 20), ('March 9, 1953',22, 35), ('July 22, 1997',38, 51), ('an American actress',57, 76), ('television dramas and feature films',107, 142), ('the sister',152, 162), ('actor/author/playwright Barry Brown',166, 201), ('author James Brown',206, 224)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', 'CC', 'IN', 'NN', 'NN', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marilyn'), (8, 'Louise'), (15, 'Brown'), (21, '('), (22, 'March'), (28, '9'), (29, ','), (31, '1953'), (36, '–'), (38, 'July'), (43, '22'), (45, ','), (47, '1997'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actress'), (77, 'who'), (81, 'performed'), (91, 'on'), (94, 'stage'), (100, 'and'), (104, 'in'), (107, 'television'), (118, 'dramas'), (125, 'and'), (129, 'feature'), (137, 'films'), (142, '.'), (144, 'She'), (148, 'was'), (152, 'the'), (156, 'sister'), (163, 'of'), (166, 'actor'), (171, '/'), (172, 'author'), (178, '/'), (179, 'playwright'), (190, 'Barry'), (196, 'Brown'), (202, 'and'), (206, 'author'), (213, 'James'), (219, 'Brown'), (224, '.')])</spacy_tokens>
+<spacy_chunks>[('Marilyn Louise Brown', 0, 20), ('March 9, 1953', 22, 35), ('July 22, 1997', 38, 51), ('an American actress', 57, 76), ('television dramas', 107, 124), ('feature films', 129, 142), ('the sister', 152, 162), ('actor/author/playwright Barry Brown', 166, 201), ('author James Brown', 206, 224)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', 'CC', 'IN', 'NN', 'NNS', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'SYM', 'NN', 'SYM', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

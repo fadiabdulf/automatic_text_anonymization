@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stephanie Bachelor</title>
+<link/>https://en.wikipedia.org/wiki/Stephanie_Bachelor
+<annotated>0</annotated>
+<originalabstract>Stephanie Bachelor (May 23, 1912 – November 22, 1996) was an American film actress. During the 1940s, Bachelor briefly achieved leading status in supporting features such as Republic Pictures' Secrets of Scotland Yard. However, most of her  appearances were supporting parts.</originalabstract>
+<abstract>Stephanie_Bachelor ( May_23_,_1912 – November_22_,_1996 ) was an_American_film_actress . During the_1940s_,_Bachelor briefly achieved_leading status in supporting features such_as Republic_Pictures '_Secrets of Scotland_Yard . However , most of her_appearances were_supporting parts .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stephanie'), (10, 'Bachelor'), (19, '('), (20, 'May'), (24, '23'), (26, ','), (28, '1912'), (33, '–'), (35, 'November'), (44, '22'), (46, ','), (48, '1996'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'film'), (75, 'actress'), (82, '.'), (84, 'During'), (91, 'the'), (95, '1940s'), (100, ','), (102, 'Bachelor'), (111, 'briefly'), (119, 'achieved'), (128, 'leading'), (136, 'status'), (143, 'in'), (146, 'supporting'), (157, 'features'), (166, 'such'), (171, 'as'), (174, 'Republic'), (183, 'Pictures'), (191, '\''), (193, 'Secrets'), (201, 'of'), (204, 'Scotland'), (213, 'Yard'), (217, '.'), (219, 'However'), (226, ','), (228, 'most'), (233, 'of'), (236, 'her'), (241, 'appearances'), (253, 'were'), (258, 'supporting'), (269, 'parts'), (274, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stephanie Bachelor',0, 18), ('May 23, 1912',20, 32), ('November 22, 1996',35, 52), ('an American film actress',58, 82), ('the 1940s, Bachelor',91, 110), ('achieved leading',119, 135), ('such as',166, 173), ('Republic Pictures',174, 191), ('\' Secrets',191, 200), ('Scotland Yard',204, 217), ('her  appearances',236, 252), ('were supporting',253, 268)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'IN', 'DT', 'CD', ',', 'NN', 'RB', 'VBD', 'VBG', 'NN', 'IN', 'VBG', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', 'POS', 'NNS', 'IN', 'NNP', 'NNP', '.', 'RB', ',', 'JJS', 'IN', 'PRP$', 'NNS', 'VBD', 'VBG', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stephanie'), (10, 'Bachelor'), (19, '('), (20, 'May'), (24, '23'), (26, ','), (28, '1912'), (33, '–'), (35, 'November'), (44, '22'), (46, ','), (48, '1996'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'film'), (75, 'actress'), (82, '.'), (84, 'During'), (91, 'the'), (95, '1940s'), (100, ','), (102, 'Bachelor'), (111, 'briefly'), (119, 'achieved'), (128, 'leading'), (136, 'status'), (143, 'in'), (146, 'supporting'), (157, 'features'), (166, 'such'), (171, 'as'), (174, 'Republic'), (183, 'Pictures'), (191, "'"), (193, 'Secrets'), (201, 'of'), (204, 'Scotland'), (213, 'Yard'), (217, '.'), (219, 'However'), (226, ','), (228, 'most'), (233, 'of'), (236, 'her'), (241, 'appearances'), (253, 'were'), (258, 'supporting'), (269, 'parts'), (274, '.')])</spacy_tokens>
+<spacy_chunks>[('Stephanie Bachelor', 0, 18), ('May 23, 1912', 20, 32), ('November 22, 1996', 35, 52), ('an American film actress', 58, 82), ('the 1940s', 91, 100), ('leading status', 128, 142), ('Supporting feature', 146, 164), ('features', 157, 165), ("Republic Pictures' Secrets", 174, 200), ('Secrets of Scotland Yard', 193, 217), ('her  appearances', 236, 252)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'IN', 'DT', 'NNS', ',', 'NNP', 'NN', 'VBD', 'VBG', 'NN', 'IN', 'VBG', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', 'POS', 'NNPS', 'IN', 'NNP', 'NNP', '.', 'RB', ',', 'JJS', 'IN', 'PRP$', 'NNS', 'VBD', 'VBG', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

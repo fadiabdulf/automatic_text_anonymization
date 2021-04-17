@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Isabel Ordaz</title>
+<link/>https://en.wikipedia.org/wiki/Isabel_Ordaz
+<annotated>0</annotated>
+<originalabstract>Isabel Ordaz (born 1 January 1957) is a Spanish actress. She has appeared in more than 50 films and television shows since 1982. She won the Silver St. George for Best Actress for her role in Chevrolet at the 20th Moscow International Film Festival.She appeared in the TV series La que se avecina until 2017.</originalabstract>
+<abstract>Isabel_Ordaz ( born 1_January_1957 ) is a_Spanish_actress . She has_appeared in more_than_50_films_and_television_shows since 1982 . She won the_Silver_St._George_for_Best_Actress for her_role in Chevrolet at the_20th_Moscow_International_Film_Festival.She appeared in the_TV_series_La_que_se_avecina until 2017 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Isabel'), (7, 'Ordaz'), (13, '('), (14, 'born'), (19, '1'), (21, 'January'), (29, '1957'), (33, ')'), (35, 'is'), (38, 'a'), (40, 'Spanish'), (48, 'actress'), (55, '.'), (57, 'She'), (61, 'has'), (65, 'appeared'), (74, 'in'), (77, 'more'), (82, 'than'), (87, '50'), (90, 'films'), (96, 'and'), (100, 'television'), (111, 'shows'), (117, 'since'), (123, '1982'), (127, '.'), (129, 'She'), (133, 'won'), (137, 'the'), (141, 'Silver'), (148, 'St.'), (152, 'George'), (159, 'for'), (163, 'Best'), (168, 'Actress'), (176, 'for'), (180, 'her'), (184, 'role'), (189, 'in'), (192, 'Chevrolet'), (202, 'at'), (205, 'the'), (209, '20th'), (214, 'Moscow'), (221, 'International'), (235, 'Film'), (240, 'Festival.She'), (253, 'appeared'), (262, 'in'), (265, 'the'), (269, 'TV'), (272, 'series'), (279, 'La'), (282, 'que'), (286, 'se'), (289, 'avecina'), (297, 'until'), (303, '2017'), (307, '.')])</stanford_tokens>
+<opennlp_chunks>[('Isabel Ordaz',0, 12), ('1 January 1957',19, 33), ('a Spanish actress',38, 55), ('has appeared',61, 73), ('more than 50 films and television shows',77, 116), ('the Silver St. George for Best Actress',137, 175), ('her role',180, 188), ('the 20th Moscow International Film Festival.She',205, 252), ('the TV series La que se avecina',265, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'JJS', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'NNP', 'FW', 'FW', 'FW', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Isabel'), (7, 'Ordaz'), (13, '('), (14, 'born'), (19, '1'), (21, 'January'), (29, '1957'), (33, ')'), (35, 'is'), (38, 'a'), (40, 'Spanish'), (48, 'actress'), (55, '.'), (57, 'She'), (61, 'has'), (65, 'appeared'), (74, 'in'), (77, 'more'), (82, 'than'), (87, '50'), (90, 'films'), (96, 'and'), (100, 'television'), (111, 'shows'), (117, 'since'), (123, '1982'), (127, '.'), (129, 'She'), (133, 'won'), (137, 'the'), (141, 'Silver'), (148, 'St.'), (152, 'George'), (159, 'for'), (163, 'Best'), (168, 'Actress'), (176, 'for'), (180, 'her'), (184, 'role'), (189, 'in'), (192, 'Chevrolet'), (202, 'at'), (205, 'the'), (209, '20th'), (214, 'Moscow'), (221, 'International'), (235, 'Film'), (240, 'Festival'), (248, '.'), (249, 'She'), (253, 'appeared'), (262, 'in'), (265, 'the'), (269, 'TV'), (272, 'series'), (279, 'La'), (282, 'que'), (286, 'se'), (289, 'avecina'), (297, 'until'), (303, '2017'), (307, '.')])</spacy_tokens>
+<spacy_chunks>[('Isabel Ordaz', 0, 12), ('1 January 1957', 19, 33), ('a Spanish actress', 38, 55), ('more than 50 films', 77, 95), ('television shows', 100, 116), ('the Silver St. George', 137, 158), ('Best Actress', 163, 175), ('her role', 180, 188), ('Chevrolet', 192, 201), ('the 20th Moscow International Film Festival', 205, 248), ('the TV series', 265, 278), ('La que se avecina', 279, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'NNP', 'FW', 'FW', 'FW', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

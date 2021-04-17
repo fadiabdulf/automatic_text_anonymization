@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charlotte Ross</title>
+<link/>https://en.wikipedia.org/wiki/Charlotte_Ross
+<annotated>0</annotated>
+<originalabstract>Charlotte Ross (born January 21, 1968) is an American actress. She is best known for her roles as Eve Donovan on the NBC Daytime soap opera Days of Our Lives from 1987 to 1991, and as Det. Connie McDowell on the ABC police procedural drama series NYPD Blue from 2001 to 2004.</originalabstract>
+<abstract>Charlotte_Ross ( born January_21_,_1968 ) is an_American_actress . She is_best_known for her_roles as Eve_Donovan on the_NBC_Daytime_soap_opera_Days of Our_Lives from 1987 to 1991 , and as Det._Connie_McDowell on the_ABC_police_procedural_drama_series_NYPD_Blue from 2001 to 2004 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charlotte'), (10, 'Ross'), (15, '('), (16, 'born'), (21, 'January'), (29, '21'), (31, ','), (33, '1968'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'is'), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'her'), (89, 'roles'), (95, 'as'), (98, 'Eve'), (102, 'Donovan'), (110, 'on'), (113, 'the'), (117, 'NBC'), (121, 'Daytime'), (129, 'soap'), (134, 'opera'), (140, 'Days'), (145, 'of'), (148, 'Our'), (152, 'Lives'), (158, 'from'), (163, '1987'), (168, 'to'), (171, '1991'), (175, ','), (177, 'and'), (181, 'as'), (184, 'Det.'), (189, 'Connie'), (196, 'McDowell'), (205, 'on'), (208, 'the'), (212, 'ABC'), (216, 'police'), (223, 'procedural'), (234, 'drama'), (240, 'series'), (247, 'NYPD'), (252, 'Blue'), (257, 'from'), (262, '2001'), (267, 'to'), (270, '2004'), (274, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charlotte Ross',0, 14), ('January 21, 1968',21, 37), ('an American actress',42, 61), ('is best known',67, 80), ('her roles',85, 94), ('Eve Donovan',98, 109), ('the NBC Daytime soap opera Days',113, 144), ('Our Lives',148, 157), ('Det. Connie McDowell',184, 204), ('the ABC police procedural drama series NYPD Blue',208, 256)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'NNS', 'IN', 'PRP$', 'NNS', 'IN', 'CD', 'TO', 'CD', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charlotte'), (10, 'Ross'), (15, '('), (16, 'born'), (21, 'January'), (29, '21'), (31, ','), (33, '1968'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'is'), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'her'), (89, 'roles'), (95, 'as'), (98, 'Eve'), (102, 'Donovan'), (110, 'on'), (113, 'the'), (117, 'NBC'), (121, 'Daytime'), (129, 'soap'), (134, 'opera'), (140, 'Days'), (145, 'of'), (148, 'Our'), (152, 'Lives'), (158, 'from'), (163, '1987'), (168, 'to'), (171, '1991'), (175, ','), (177, 'and'), (181, 'as'), (184, 'Det'), (187, '.'), (189, 'Connie'), (196, 'McDowell'), (205, 'on'), (208, 'the'), (212, 'ABC'), (216, 'police'), (223, 'procedural'), (234, 'drama'), (240, 'series'), (247, 'NYPD'), (252, 'Blue'), (257, 'from'), (262, '2001'), (267, 'to'), (270, '2004'), (274, '.')])</spacy_tokens>
+<spacy_chunks>[('Charlotte Ross', 0, 14), ('January 21, 1968', 21, 37), ('an American actress', 42, 61), ('her roles', 85, 94), ('Eve Donovan', 98, 109), ('the NBC Daytime soap opera Days', 113, 144), ('Days of Our Lives', 140, 157), ('Connie McDowell', 189, 204), ('the ABC police procedural drama series', 208, 246), ('NYPD Blue', 247, 256)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'NNS', 'IN', 'PRP$', 'NNS', 'IN', 'CD', 'IN', 'CD', ',', 'CC', 'IN', 'NNP', '.', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

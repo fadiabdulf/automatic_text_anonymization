@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Christine Stephen-Daly</title>
+<link/>https://en.wikipedia.org/wiki/Christine_Stephen-Daly
+<annotated>0</annotated>
+<originalabstract>Christine Stephen-Daly (born 5 December 1973) is an Australian actress. Her television credits include Pacific Drive (1996), Casualty (2001–04), Cutting It (2005), and House of Saddam (2008).</originalabstract>
+<abstract>Christine_Stephen-Daly ( born_5_December_1973 ) is an_Australian_actress . Her_television_credits include Pacific_Drive_(_1996_) , Casualty_(_2001 – 04_) , Cutting It ( 2005_) , and House of Saddam_(_2008_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Christine'), (10, 'Stephen-Daly'), (23, '('), (24, 'born'), (29, '5'), (31, 'December'), (40, '1973'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'Australian'), (63, 'actress'), (70, '.'), (72, 'Her'), (76, 'television'), (87, 'credits'), (95, 'include'), (103, 'Pacific'), (111, 'Drive'), (117, '('), (118, '1996'), (122, ')'), (123, ','), (125, 'Casualty'), (134, '('), (135, '2001'), (139, '–'), (140, '04'), (142, ')'), (143, ','), (145, 'Cutting'), (153, 'It'), (156, '('), (157, '2005'), (161, ')'), (162, ','), (164, 'and'), (168, 'House'), (174, 'of'), (177, 'Saddam'), (184, '('), (185, '2008'), (189, ')'), (190, '.')])</stanford_tokens>
+<opennlp_chunks>[('Christine Stephen-Daly',0, 22), ('born 5 December 1973',24, 44), ('an Australian actress',49, 70), ('Her television credits',72, 94), ('Pacific Drive (1996)',103, 123), ('Casualty (2001',125, 139), ('04)',140, 143), ('2005)',157, 162), ('Saddam (2008)',177, 190)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'VBG', 'PRP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Christine'), (10, 'Stephen'), (17, '-'), (18, 'Daly'), (23, '('), (24, 'born'), (29, '5'), (31, 'December'), (40, '1973'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'Australian'), (63, 'actress'), (70, '.'), (72, 'Her'), (76, 'television'), (87, 'credits'), (95, 'include'), (103, 'Pacific'), (111, 'Drive'), (117, '('), (118, '1996'), (122, ')'), (123, ','), (125, 'Casualty'), (134, '('), (135, '2001–04'), (142, ')'), (143, ','), (145, 'Cutting'), (153, 'It'), (156, '('), (157, '2005'), (161, ')'), (162, ','), (164, 'and'), (168, 'House'), (174, 'of'), (177, 'Saddam'), (184, '('), (185, '2008'), (189, ')'), (190, '.')])</spacy_tokens>
+<spacy_chunks>[('Christine Stephen-Daly', 0, 22), ('5 December 1973', 29, 44), ('an Australian actress', 49, 70), ('Her television credits', 72, 94), ('Pacific Drive', 103, 116), ('Casualty', 125, 133), ('2001–04', 135, 142), ('Cutting It', 145, 155), ('House of Saddam', 168, 183)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'NNP', '-RRB-', ',', 'VBG', 'PRP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

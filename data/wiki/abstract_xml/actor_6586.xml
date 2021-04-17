@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jon Tenney</title>
+<link/>https://en.wikipedia.org/wiki/Jon_Tenney
+<annotated>0</annotated>
+<originalabstract>Jonathan Frederick Tenney (born December 16, 1961) is an American actor. He played Special Agent Fritz Howard in TNT's The Closer and continued in its spinoff Major Crimes.</originalabstract>
+<abstract>Jonathan_Frederick_Tenney ( born December_16_,_1961 ) is an_American_actor . He played Special_Agent_Fritz_Howard in TNT 's_The_Closer_and continued in its_spinoff_Major_Crimes .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Frederick'), (19, 'Tenney'), (26, '('), (27, 'born'), (32, 'December'), (41, '16'), (43, ','), (45, '1961'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'American'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'played'), (83, 'Special'), (91, 'Agent'), (97, 'Fritz'), (103, 'Howard'), (110, 'in'), (113, 'TNT'), (116, '\'s'), (119, 'The'), (123, 'Closer'), (130, 'and'), (134, 'continued'), (144, 'in'), (147, 'its'), (151, 'spinoff'), (159, 'Major'), (165, 'Crimes'), (171, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jonathan Frederick Tenney',0, 25), ('December 16, 1961',32, 49), ('an American actor',54, 71), ('Special Agent Fritz Howard',83, 109), ('\'s The Closer and',116, 133), ('its spinoff Major Crimes',147, 171)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'JJ', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'DT', 'JJR', 'CC', 'VBN', 'IN', 'PRP$', 'NN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Frederick'), (19, 'Tenney'), (26, '('), (27, 'born'), (32, 'December'), (41, '16'), (43, ','), (45, '1961'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'American'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'played'), (83, 'Special'), (91, 'Agent'), (97, 'Fritz'), (103, 'Howard'), (110, 'in'), (113, 'TNT'), (116, "'s"), (119, 'The'), (123, 'Closer'), (130, 'and'), (134, 'continued'), (144, 'in'), (147, 'its'), (151, 'spinoff'), (159, 'Major'), (165, 'Crimes'), (171, '.')])</spacy_tokens>
+<spacy_chunks>[('Jonathan Frederick Tenney', 0, 25), ('December 16, 1961', 32, 49), ('an American actor', 54, 71), ('Special Agent Fritz Howard', 83, 109), ('The Closer', 119, 129), ('its spinoff', 147, 158), ('Major Crimes', 159, 171)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'DT', 'JJR', 'CC', 'VBD', 'IN', 'PRP$', 'NN', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

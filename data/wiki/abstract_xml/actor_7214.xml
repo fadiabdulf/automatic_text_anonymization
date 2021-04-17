@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Guy Wilson (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Guy_Wilson_(actor)
+<annotated>0</annotated>
+<originalabstract>Guy Allan Wilson Jr. (born November 21, 1985) is an American actor, known for his roles in such television series as NCIS, Castle, Bones, and Breaking Bad, as well the feature film Werewolf: The Beast Among Us. He portrayed Will Horton on the daytime soap opera Days of Our Lives from 2014 to 2015.</originalabstract>
+<abstract>Guy_Allan_Wilson_Jr. ( born November_21_,_1985 ) is an_American_actor , known for his_roles in such_television_series as NCIS , Castle , Bones , and Breaking Bad , as_well the_feature_film_Werewolf : The_Beast Among Us . He portrayed Will_Horton on the_daytime_soap_opera_Days of Our_Lives from 2014 to 2015 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Guy'), (4, 'Allan'), (10, 'Wilson'), (17, 'Jr.'), (21, '('), (22, 'born'), (27, 'November'), (36, '21'), (38, ','), (40, '1985'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (66, ','), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'roles'), (88, 'in'), (91, 'such'), (96, 'television'), (107, 'series'), (114, 'as'), (117, 'NCIS'), (121, ','), (123, 'Castle'), (129, ','), (131, 'Bones'), (136, ','), (138, 'and'), (142, 'Breaking'), (151, 'Bad'), (154, ','), (156, 'as'), (159, 'well'), (164, 'the'), (168, 'feature'), (176, 'film'), (181, 'Werewolf'), (189, ':'), (191, 'The'), (195, 'Beast'), (201, 'Among'), (207, 'Us'), (209, '.'), (211, 'He'), (214, 'portrayed'), (224, 'Will'), (229, 'Horton'), (236, 'on'), (239, 'the'), (243, 'daytime'), (251, 'soap'), (256, 'opera'), (262, 'Days'), (267, 'of'), (270, 'Our'), (274, 'Lives'), (280, 'from'), (285, '2014'), (290, 'to'), (293, '2015'), (297, '.')])</stanford_tokens>
+<opennlp_chunks>[('Guy Allan Wilson Jr.',0, 20), ('November 21, 1985',27, 44), ('an American actor',49, 66), ('his roles',78, 87), ('such television series',91, 113), ('as well',156, 163), ('the feature film Werewolf',164, 189), ('The Beast',191, 200), ('Will Horton',224, 235), ('the daytime soap opera Days',239, 266), ('Our Lives',270, 279)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'CC', 'VBG', 'JJ', ',', 'RB', 'RB', 'DT', 'NN', 'NN', 'NN', ':', 'DT', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'MD', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNS', 'IN', 'PRP$', 'NNS', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Guy'), (4, 'Allan'), (10, 'Wilson'), (17, 'Jr.'), (21, '('), (22, 'born'), (27, 'November'), (36, '21'), (38, ','), (40, '1985'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (66, ','), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'roles'), (88, 'in'), (91, 'such'), (96, 'television'), (107, 'series'), (114, 'as'), (117, 'NCIS'), (121, ','), (123, 'Castle'), (129, ','), (131, 'Bones'), (136, ','), (138, 'and'), (142, 'Breaking'), (151, 'Bad'), (154, ','), (156, 'as'), (159, 'well'), (164, 'the'), (168, 'feature'), (176, 'film'), (181, 'Werewolf'), (189, ':'), (191, 'The'), (195, 'Beast'), (201, 'Among'), (207, 'Us'), (209, '.'), (211, 'He'), (214, 'portrayed'), (224, 'Will'), (229, 'Horton'), (236, 'on'), (239, 'the'), (243, 'daytime'), (251, 'soap'), (256, 'opera'), (262, 'Days'), (267, 'of'), (270, 'Our'), (274, 'Lives'), (280, 'from'), (285, '2014'), (290, 'to'), (293, '2015'), (297, '.')])</spacy_tokens>
+<spacy_chunks>[('Guy Allan Wilson Jr.', 0, 20), ('November 21, 1985', 27, 44), ('an American actor', 49, 66), ('his roles', 78, 87), ('such television series', 91, 113), ('Castle', 123, 129), ('Breaking Bad', 142, 154), ('as well the feature film', 156, 180), ('Werewolf: The Beast Among Us', 181, 209), ('Will Horton', 224, 235), ('the daytime soap opera Days', 239, 266), ('Days of Our Lives', 262, 279)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', ',', 'NNPS', ',', 'CC', 'NNP', 'NNP', ',', 'RB', 'RB', 'DT', 'NN', 'NN', 'NN', ':', 'DT', 'NN', 'IN', 'PRP', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNS', 'IN', 'PRP$', 'NNS', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

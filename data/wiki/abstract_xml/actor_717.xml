@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joe Bordeaux</title>
+<link/>https://en.wikipedia.org/wiki/Joe_Bordeaux
+<annotated>0</annotated>
+<originalabstract>Joe Bordeaux (March 9, 1886 – September 10, 1950) was an American film actor.  He appeared in 73 films between 1914 and 1940. He was born in Colorado, and died in Los Angeles, California.</originalabstract>
+<abstract>Joe_Bordeaux ( March_9_,_1886 – September_10_,_1950 ) was an_American_film_actor . He appeared in 73_films between 1914_and_1940 . He was_born in Colorado , and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joe'), (4, 'Bordeaux'), (13, '('), (14, 'March'), (20, '9'), (21, ','), (23, '1886'), (28, '–'), (30, 'September'), (40, '10'), (42, ','), (44, '1950'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (71, 'actor'), (76, '.'), (79, 'He'), (82, 'appeared'), (91, 'in'), (94, '73'), (97, 'films'), (103, 'between'), (111, '1914'), (116, 'and'), (120, '1940'), (124, '.'), (126, 'He'), (129, 'was'), (133, 'born'), (138, 'in'), (141, 'Colorado'), (149, ','), (151, 'and'), (155, 'died'), (160, 'in'), (163, 'Los'), (167, 'Angeles'), (174, ','), (176, 'California'), (186, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joe Bordeaux',0, 12), ('March 9, 1886',14, 27), ('September 10, 1950',30, 48), ('an American film actor',54, 76), ('73 films',94, 102), ('1914 and 1940',111, 124), ('was born',129, 137), ('Los Angeles',163, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joe'), (4, 'Bordeaux'), (13, '('), (14, 'March'), (20, '9'), (21, ','), (23, '1886'), (28, '–'), (30, 'September'), (40, '10'), (42, ','), (44, '1950'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (71, 'actor'), (76, '.'), (79, 'He'), (82, 'appeared'), (91, 'in'), (94, '73'), (97, 'films'), (103, 'between'), (111, '1914'), (116, 'and'), (120, '1940'), (124, '.'), (126, 'He'), (129, 'was'), (133, 'born'), (138, 'in'), (141, 'Colorado'), (149, ','), (151, 'and'), (155, 'died'), (160, 'in'), (163, 'Los'), (167, 'Angeles'), (174, ','), (176, 'California'), (186, '.')])</spacy_tokens>
+<spacy_chunks>[('Joe Bordeaux', 0, 12), ('(March', 13, 19), ('March 9, 1886', 14, 27), ('September 10, 1950', 30, 48), ('an American film actor', 54, 76), ('73 films', 94, 102), ('Colorado', 141, 149), ('Los Angeles, California', 163, 186)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Clara Beyers</title>
+<link/>https://en.wikipedia.org/wiki/Clara_Beyers
+<annotated>0</annotated>
+<originalabstract>Clara Beyers (c.1880 - c.1950?) was an American silent film stock actress
+She was signed in 1913 and starred in 32 films before her retirement from film in 1922. She starred with William Garwood in films such as His Picture.</originalabstract>
+<abstract>Clara_Beyers ( c. 1880 - c. 1950 ? ) was an_American_silent_film_stock_actress She was_signed in 1913 and starred in 32_films before her_retirement from film in 1922 . She starred with William_Garwood in films such_as His_Picture .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Clara'), (6, 'Beyers'), (13, '('), (14, 'c.'), (16, '1880'), (21, '-'), (23, 'c.'), (25, '1950'), (29, '?'), (30, ')'), (32, 'was'), (36, 'an'), (39, 'American'), (48, 'silent'), (55, 'film'), (60, 'stock'), (66, 'actress'), (74, 'She'), (78, 'was'), (82, 'signed'), (89, 'in'), (92, '1913'), (97, 'and'), (101, 'starred'), (109, 'in'), (112, '32'), (115, 'films'), (121, 'before'), (128, 'her'), (132, 'retirement'), (143, 'from'), (148, 'film'), (153, 'in'), (156, '1922'), (160, '.'), (162, 'She'), (166, 'starred'), (174, 'with'), (179, 'William'), (187, 'Garwood'), (195, 'in'), (198, 'films'), (204, 'such'), (209, 'as'), (212, 'His'), (216, 'Picture'), (223, '.')])</stanford_tokens>
+<opennlp_chunks>[('Clara Beyers',0, 12), ('an American silent film stock actress',36, 73), ('was signed',78, 88), ('32 films',112, 120), ('her retirement',128, 142), ('William Garwood',179, 194), ('such as',204, 211), ('His Picture',212, 223)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBP', 'NNP', ':', 'NN', 'CD', '.', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'NN', 'PRP', 'VBD', 'VBN', 'IN', 'CD', 'CC', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNS', 'JJ', 'IN', 'PRP$', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Clara'), (6, 'Beyers'), (13, '('), (14, 'c.1880'), (21, '-'), (23, 'c.1950'), (29, '?'), (30, ')'), (32, 'was'), (36, 'an'), (39, 'American'), (48, 'silent'), (55, 'film'), (60, 'stock'), (66, 'actress'), (74, 'She'), (78, 'was'), (82, 'signed'), (89, 'in'), (92, '1913'), (97, 'and'), (101, 'starred'), (109, 'in'), (112, '32'), (115, 'films'), (121, 'before'), (128, 'her'), (132, 'retirement'), (143, 'from'), (148, 'film'), (153, 'in'), (156, '1922'), (160, '.'), (162, 'She'), (166, 'starred'), (174, 'with'), (179, 'William'), (187, 'Garwood'), (195, 'in'), (198, 'films'), (204, 'such'), (209, 'as'), (212, 'His'), (216, 'Picture'), (223, '.')])</spacy_tokens>
+<spacy_chunks>[('Clara Beyers', 0, 12), ('an American silent film stock actress', 36, 73), ('32 films', 112, 120), ('her retirement', 128, 142), ('William Garwood', 179, 194), ('His Picture', 212, 223)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'JJ', 'NN', 'CD', '.', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'NN', 'PRP', 'VBD', 'VBN', 'IN', 'CD', 'CC', 'VBN', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNS', 'JJ', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

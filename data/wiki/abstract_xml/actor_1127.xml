@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John David Carson</title>
+<link/>https://en.wikipedia.org/wiki/John_David_Carson
+<annotated>0</annotated>
+<originalabstract>John David Carson (born John Franklin Carson; March 6, 1952 – October 27, 2009) was an American actor. He was born in Los Angeles, California.</originalabstract>
+<abstract>John_David_Carson ( born John_Franklin_Carson ; March_6_,_1952 – October_27_,_2009 ) was an_American_actor . He was_born in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'David'), (11, 'Carson'), (18, '('), (19, 'born'), (24, 'John'), (29, 'Franklin'), (38, 'Carson'), (44, ';'), (46, 'March'), (52, '6'), (53, ','), (55, '1952'), (60, '–'), (62, 'October'), (70, '27'), (72, ','), (74, '2009'), (78, ')'), (80, 'was'), (84, 'an'), (87, 'American'), (96, 'actor'), (101, '.'), (103, 'He'), (106, 'was'), (110, 'born'), (115, 'in'), (118, 'Los'), (122, 'Angeles'), (129, ','), (131, 'California'), (141, '.')])</stanford_tokens>
+<opennlp_chunks>[('John David Carson',0, 17), ('John Franklin Carson',24, 44), ('March 6, 1952',46, 59), ('October 27, 2009',62, 78), ('an American actor',84, 101), ('was born',106, 114), ('Los Angeles',118, 129)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'David'), (11, 'Carson'), (18, '('), (19, 'born'), (24, 'John'), (29, 'Franklin'), (38, 'Carson'), (44, ';'), (46, 'March'), (52, '6'), (53, ','), (55, '1952'), (60, '–'), (62, 'October'), (70, '27'), (72, ','), (74, '2009'), (78, ')'), (80, 'was'), (84, 'an'), (87, 'American'), (96, 'actor'), (101, '.'), (103, 'He'), (106, 'was'), (110, 'born'), (115, 'in'), (118, 'Los'), (122, 'Angeles'), (129, ','), (131, 'California'), (141, '.')])</spacy_tokens>
+<spacy_chunks>[('John David Carson', 0, 17), ('born John Franklin Carson', 19, 44), ('March 6, 1952', 46, 59), ('October 27, 2009', 62, 78), ('an American actor', 84, 101), ('Los Angeles, California', 118, 141)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

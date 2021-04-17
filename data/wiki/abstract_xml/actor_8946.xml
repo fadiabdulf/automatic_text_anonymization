@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arthur Playfair</title>
+<link/>https://en.wikipedia.org/wiki/Arthur_Playfair
+<annotated>0</annotated>
+<originalabstract>Arthur Wyndham Playfair (20 October 1869 – 28 August 1918) was an English actor and singer.  Beginning in Victorian burlesque and comic operas, Playfair became known for his roles in Edwardian musical comedy and, later, in musical revues.</originalabstract>
+<abstract>Arthur_Wyndham_Playfair ( 20_October_1869 – 28_August_1918 ) was an_English_actor_and_singer . Beginning in Victorian_burlesque_and_comic_operas , Playfair became_known for his_roles in Edwardian_musical_comedy and , later , in musical_revues .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthur'), (7, 'Wyndham'), (15, 'Playfair'), (24, '('), (25, '20'), (28, 'October'), (36, '1869'), (41, '–'), (43, '28'), (46, 'August'), (53, '1918'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'English'), (74, 'actor'), (80, 'and'), (84, 'singer'), (90, '.'), (93, 'Beginning'), (103, 'in'), (106, 'Victorian'), (116, 'burlesque'), (126, 'and'), (130, 'comic'), (136, 'operas'), (142, ','), (144, 'Playfair'), (153, 'became'), (160, 'known'), (166, 'for'), (170, 'his'), (174, 'roles'), (180, 'in'), (183, 'Edwardian'), (193, 'musical'), (201, 'comedy'), (208, 'and'), (211, ','), (213, 'later'), (218, ','), (220, 'in'), (223, 'musical'), (231, 'revues'), (237, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthur Wyndham Playfair',0, 23), ('20 October 1869',25, 40), ('28 August 1918',43, 57), ('an English actor and singer',63, 90), ('Victorian burlesque and comic operas',106, 142), ('became known',153, 165), ('his roles',170, 179), ('Edwardian musical comedy',183, 207), ('musical revues',223, 237)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'VBG', 'IN', 'JJ', 'JJ', 'CC', 'JJ', 'NNS', ',', 'NNP', 'VBD', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'JJ', 'NN', 'CC', ',', 'RB', ',', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthur'), (7, 'Wyndham'), (15, 'Playfair'), (24, '('), (25, '20'), (28, 'October'), (36, '1869'), (41, '–'), (43, '28'), (46, 'August'), (53, '1918'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'English'), (74, 'actor'), (80, 'and'), (84, 'singer'), (90, '.'), (93, 'Beginning'), (103, 'in'), (106, 'Victorian'), (116, 'burlesque'), (126, 'and'), (130, 'comic'), (136, 'operas'), (142, ','), (144, 'Playfair'), (153, 'became'), (160, 'known'), (166, 'for'), (170, 'his'), (174, 'roles'), (180, 'in'), (183, 'Edwardian'), (193, 'musical'), (201, 'comedy'), (208, 'and'), (211, ','), (213, 'later'), (218, ','), (220, 'in'), (223, 'musical'), (231, 'revues'), (237, '.')])</spacy_tokens>
+<spacy_chunks>[('Arthur Wyndham Playfair', 0, 23), ('20 October 1869', 25, 40), ('28 August 1918', 43, 57), ('an English actor', 63, 79), ('singer', 84, 90), ('Victorian burlesque', 106, 125), ('comic operas', 130, 142), ('his roles', 170, 179), ('Edwardian musical comedy', 183, 207), ('musical revues', 223, 237)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'VBG', 'IN', 'JJ', 'NN', 'CC', 'JJ', 'NNS', ',', 'NNP', 'VBD', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'JJ', 'NN', 'CC', ',', 'RB', ',', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Darla Hood</title>
+<link/>https://en.wikipedia.org/wiki/Darla_Hood
+<annotated>0</annotated>
+<originalabstract>Darla Jean Hood (November 8, 1931 – June 13, 1979) was an American child actress, best known as the leading lady in the Our Gang series from 1935 to 1941. She was born in Leedey, Oklahoma, the only child of music teacher Elizabeth Davner, and James Claude Hood, who worked in a bank.</originalabstract>
+<abstract>Darla_Jean_Hood ( November_8_,_1931 – June_13_,_1979 ) was an_American_child_actress , best_known as the_leading_lady in the_Our_Gang_series from 1935 to 1941 . She was_born in Leedey , Oklahoma , the_only_child of music_teacher_Elizabeth_Davner , and James_Claude_Hood , who worked in a_bank .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Darla'), (6, 'Jean'), (11, 'Hood'), (16, '('), (17, 'November'), (26, '8'), (27, ','), (29, '1931'), (34, '–'), (36, 'June'), (41, '13'), (43, ','), (45, '1979'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'child'), (73, 'actress'), (80, ','), (82, 'best'), (87, 'known'), (93, 'as'), (96, 'the'), (100, 'leading'), (108, 'lady'), (113, 'in'), (116, 'the'), (120, 'Our'), (124, 'Gang'), (129, 'series'), (136, 'from'), (141, '1935'), (146, 'to'), (149, '1941'), (153, '.'), (155, 'She'), (159, 'was'), (163, 'born'), (168, 'in'), (171, 'Leedey'), (177, ','), (179, 'Oklahoma'), (187, ','), (189, 'the'), (193, 'only'), (198, 'child'), (204, 'of'), (207, 'music'), (213, 'teacher'), (221, 'Elizabeth'), (231, 'Davner'), (237, ','), (239, 'and'), (243, 'James'), (249, 'Claude'), (256, 'Hood'), (260, ','), (262, 'who'), (266, 'worked'), (273, 'in'), (276, 'a'), (278, 'bank'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Darla Jean Hood',0, 15), ('November 8, 1931',17, 33), ('June 13, 1979',36, 49), ('an American child actress',55, 80), ('best known',82, 92), ('the leading lady',96, 112), ('the Our Gang series',116, 135), ('was born',159, 167), ('the only child',189, 203), ('music teacher Elizabeth Davner',207, 237), ('James Claude Hood',243, 260), ('a bank',276, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'DT', 'VBG', 'NN', 'IN', 'DT', 'PRP$', 'NN', 'NN', 'IN', 'CD', 'TO', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'NNP', ',', 'WP', 'VBD', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Darla'), (6, 'Jean'), (11, 'Hood'), (16, '('), (17, 'November'), (26, '8'), (27, ','), (29, '1931'), (34, '–'), (36, 'June'), (41, '13'), (43, ','), (45, '1979'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'child'), (73, 'actress'), (80, ','), (82, 'best'), (87, 'known'), (93, 'as'), (96, 'the'), (100, 'leading'), (108, 'lady'), (113, 'in'), (116, 'the'), (120, 'Our'), (124, 'Gang'), (129, 'series'), (136, 'from'), (141, '1935'), (146, 'to'), (149, '1941'), (153, '.'), (155, 'She'), (159, 'was'), (163, 'born'), (168, 'in'), (171, 'Leedey'), (177, ','), (179, 'Oklahoma'), (187, ','), (189, 'the'), (193, 'only'), (198, 'child'), (204, 'of'), (207, 'music'), (213, 'teacher'), (221, 'Elizabeth'), (231, 'Davner'), (237, ','), (239, 'and'), (243, 'James'), (249, 'Claude'), (256, 'Hood'), (260, ','), (262, 'who'), (266, 'worked'), (273, 'in'), (276, 'a'), (278, 'bank'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Darla Jean Hood', 0, 15), ('(November', 16, 25), ('November 8, 1931', 17, 33), ('June 13, 1979', 36, 49), ('an American child actress', 55, 80), ('the leading lady', 96, 112), ('the Our Gang series', 116, 135), ('Leedey, Oklahoma', 171, 187), ('the only child', 189, 203), ('music teacher Elizabeth Davner', 207, 237), ('James Claude Hood', 243, 260), ('a bank', 276, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'DT', 'VBG', 'NN', 'IN', 'DT', 'PRP$', 'NNP', 'NN', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'NNP', ',', 'WP', 'VBD', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

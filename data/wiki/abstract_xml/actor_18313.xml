@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sophie Winkleman</title>
+<link/>https://en.wikipedia.org/wiki/Sophie_Winkleman
+<annotated>0</annotated>
+<originalabstract>Sophie Winkleman (born 5 August 1980) is an English actress. She is the wife of Lord Frederick Windsor, son of Queen Elizabeth II's first cousin Prince Michael of Kent, and as such is also known as Lady Frederick Windsor.</originalabstract>
+<abstract>Sophie_Winkleman ( born_5_August_1980 ) is an_English_actress . She is the_wife of Lord_Frederick_Windsor , son of Queen_Elizabeth_II 's_first_cousin_Prince_Michael of Kent , and as such is_also_known as Lady_Frederick_Windsor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sophie'), (7, 'Winkleman'), (17, '('), (18, 'born'), (23, '5'), (25, 'August'), (32, '1980'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'English'), (52, 'actress'), (59, '.'), (61, 'She'), (65, 'is'), (68, 'the'), (72, 'wife'), (77, 'of'), (80, 'Lord'), (85, 'Frederick'), (95, 'Windsor'), (102, ','), (104, 'son'), (108, 'of'), (111, 'Queen'), (117, 'Elizabeth'), (127, 'II'), (129, '\'s'), (132, 'first'), (138, 'cousin'), (145, 'Prince'), (152, 'Michael'), (160, 'of'), (163, 'Kent'), (167, ','), (169, 'and'), (173, 'as'), (176, 'such'), (181, 'is'), (184, 'also'), (189, 'known'), (195, 'as'), (198, 'Lady'), (203, 'Frederick'), (213, 'Windsor'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sophie Winkleman',0, 16), ('born 5 August 1980',18, 36), ('an English actress',41, 59), ('the wife',68, 76), ('Lord Frederick Windsor',80, 102), ('Queen Elizabeth II',111, 129), ('\'s first cousin Prince Michael',129, 159), ('is also known',181, 194), ('Lady Frederick Windsor',198, 220)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'IN', 'JJ', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sophie'), (7, 'Winkleman'), (17, '('), (18, 'born'), (23, '5'), (25, 'August'), (32, '1980'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'English'), (52, 'actress'), (59, '.'), (61, 'She'), (65, 'is'), (68, 'the'), (72, 'wife'), (77, 'of'), (80, 'Lord'), (85, 'Frederick'), (95, 'Windsor'), (102, ','), (104, 'son'), (108, 'of'), (111, 'Queen'), (117, 'Elizabeth'), (127, 'II'), (129, "'s"), (132, 'first'), (138, 'cousin'), (145, 'Prince'), (152, 'Michael'), (160, 'of'), (163, 'Kent'), (167, ','), (169, 'and'), (173, 'as'), (176, 'such'), (181, 'is'), (184, 'also'), (189, 'known'), (195, 'as'), (198, 'Lady'), (203, 'Frederick'), (213, 'Windsor'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Sophie Winkleman', 0, 16), ('5 August 1980', 23, 36), ('an English actress', 41, 59), ('the wife', 68, 76), ('Lord Frederick Windsor', 80, 102), ("Queen Elizabeth II's first cousin", 111, 144), ('Prince Michael of Kent', 145, 167), ('Lady Frederick Windsor', 198, 220)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'IN', 'JJ', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

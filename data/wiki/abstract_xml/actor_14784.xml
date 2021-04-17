@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rena Riffel</title>
+<link/>https://en.wikipedia.org/wiki/Rena_Riffel
+<annotated>0</annotated>
+<originalabstract>Rena Riffel (born March 5, 1969) is an American actress, singer, dancer, model, writer, producer, and director.  She is known for her supporting roles in films such as Showgirls, Striptease, and Mulholland Drive.</originalabstract>
+<abstract>Rena_Riffel ( born March_5_,_1969 ) is an_American_actress , singer_,_dancer_,_model_,_writer_,_producer_,_and_director . She is_known for her_supporting_roles in films such_as Showgirls , Striptease , and Mulholland_Drive .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rena'), (5, 'Riffel'), (12, '('), (13, 'born'), (18, 'March'), (24, '5'), (25, ','), (27, '1969'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actress'), (55, ','), (57, 'singer'), (63, ','), (65, 'dancer'), (71, ','), (73, 'model'), (78, ','), (80, 'writer'), (86, ','), (88, 'producer'), (96, ','), (98, 'and'), (102, 'director'), (110, '.'), (113, 'She'), (117, 'is'), (120, 'known'), (126, 'for'), (130, 'her'), (134, 'supporting'), (145, 'roles'), (151, 'in'), (154, 'films'), (160, 'such'), (165, 'as'), (168, 'Showgirls'), (177, ','), (179, 'Striptease'), (189, ','), (191, 'and'), (195, 'Mulholland'), (206, 'Drive'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rena Riffel',0, 11), ('March 5, 1969',18, 31), ('an American actress',36, 55), ('singer, dancer, model, writer, producer, and director',57, 110), ('is known',117, 125), ('her supporting roles',130, 150), ('such as',160, 167), ('Mulholland Drive',195, 211)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rena'), (5, 'Riffel'), (12, '('), (13, 'born'), (18, 'March'), (24, '5'), (25, ','), (27, '1969'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actress'), (55, ','), (57, 'singer'), (63, ','), (65, 'dancer'), (71, ','), (73, 'model'), (78, ','), (80, 'writer'), (86, ','), (88, 'producer'), (96, ','), (98, 'and'), (102, 'director'), (110, '.'), (113, 'She'), (117, 'is'), (120, 'known'), (126, 'for'), (130, 'her'), (134, 'supporting'), (145, 'roles'), (151, 'in'), (154, 'films'), (160, 'such'), (165, 'as'), (168, 'Showgirls'), (177, ','), (179, 'Striptease'), (189, ','), (191, 'and'), (195, 'Mulholland'), (206, 'Drive'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[('Rena Riffel', 0, 11), ('March 5, 1969', 18, 31), ('an American actress', 36, 55), ('singer', 57, 63), ('dancer', 65, 71), ('writer', 80, 86), ('producer', 88, 96), ('director', 102, 110), ('her supporting roles', 130, 150), ('Showgirls', 168, 177), ('Striptease', 179, 189), ('Mulholland Drive', 195, 211)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNPS', ',', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sue Lyon</title>
+<link/>https://en.wikipedia.org/wiki/Sue_Lyon
+<annotated>0</annotated>
+<originalabstract>Suellyn Lyon (born July 10, 1946) is a former American actress best known for her performance in Lolita (1962), for which she earned a Golden Globe Award, as well as The Night of the Iguana (1964), The Flim-Flam Man (1967), and Evel Knievel (1971).</originalabstract>
+<abstract>Suellyn_Lyon ( born July_10_,_1946 ) is a_former_American_actress best_known for her_performance in Lolita ( 1962 ) , for which she earned a_Golden_Globe_Award , as_well_as The_Night of the_Iguana ( 1964 ) , The_Flim-Flam_Man ( 1967 ) , and Evel_Knievel ( 1971 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Suellyn'), (8, 'Lyon'), (13, '('), (14, 'born'), (19, 'July'), (24, '10'), (26, ','), (28, '1946'), (32, ')'), (34, 'is'), (37, 'a'), (39, 'former'), (46, 'American'), (55, 'actress'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'her'), (82, 'performance'), (94, 'in'), (97, 'Lolita'), (104, '('), (105, '1962'), (109, ')'), (110, ','), (112, 'for'), (116, 'which'), (122, 'she'), (126, 'earned'), (133, 'a'), (135, 'Golden'), (142, 'Globe'), (148, 'Award'), (153, ','), (155, 'as'), (158, 'well'), (163, 'as'), (166, 'The'), (170, 'Night'), (176, 'of'), (179, 'the'), (183, 'Iguana'), (190, '('), (191, '1964'), (195, ')'), (196, ','), (198, 'The'), (202, 'Flim-Flam'), (212, 'Man'), (216, '('), (217, '1967'), (221, ')'), (222, ','), (224, 'and'), (228, 'Evel'), (233, 'Knievel'), (241, '('), (242, '1971'), (246, ')'), (247, '.')])</stanford_tokens>
+<opennlp_chunks>[('Suellyn Lyon',0, 12), ('July 10, 1946',19, 32), ('a former American actress',37, 62), ('best known',63, 73), ('her performance',78, 93), ('a Golden Globe Award',133, 153), ('as well as',155, 165), ('The Night',166, 175), ('the Iguana',179, 189), ('The Flim-Flam Man',198, 215), ('Evel Knievel',228, 240)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NN', ',', 'RB', 'RB', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Suellyn'), (8, 'Lyon'), (13, '('), (14, 'born'), (19, 'July'), (24, '10'), (26, ','), (28, '1946'), (32, ')'), (34, 'is'), (37, 'a'), (39, 'former'), (46, 'American'), (55, 'actress'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'her'), (82, 'performance'), (94, 'in'), (97, 'Lolita'), (104, '('), (105, '1962'), (109, ')'), (110, ','), (112, 'for'), (116, 'which'), (122, 'she'), (126, 'earned'), (133, 'a'), (135, 'Golden'), (142, 'Globe'), (148, 'Award'), (153, ','), (155, 'as'), (158, 'well'), (163, 'as'), (166, 'The'), (170, 'Night'), (176, 'of'), (179, 'the'), (183, 'Iguana'), (190, '('), (191, '1964'), (195, ')'), (196, ','), (198, 'The'), (202, 'Flim'), (206, '-'), (207, 'Flam'), (212, 'Man'), (216, '('), (217, '1967'), (221, ')'), (222, ','), (224, 'and'), (228, 'Evel'), (233, 'Knievel'), (241, '('), (242, '1971'), (246, ')'), (247, '.')])</spacy_tokens>
+<spacy_chunks>[('Suellyn Lyon', 0, 12), ('July 10, 1946', 19, 32), ('a former American actress', 37, 62), ('her performance', 78, 93), ('Lolita (1962', 97, 109), ('a Golden Globe Award', 133, 153), ('The Night of the Iguana', 166, 189), ('The Flim-Flam Man', 198, 215), ('Evel Knievel (1971', 228, 246)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', ',', 'RB', 'RB', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNP', 'HYPH', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

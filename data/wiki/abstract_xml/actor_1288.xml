@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles Clary</title>
+<link/>https://en.wikipedia.org/wiki/Charles_Clary
+<annotated>0</annotated>
+<originalabstract>Charles Clary (March 24, 1873 – March 24, 1931) was an American actor of the silent film era. Clary appeared in 206 films between 1910 and 1930. He was born in Charleston, Illinois and died on his 58th birthday in Los Angeles, California.</originalabstract>
+<abstract>Charles_Clary ( March_24 , 1873 – March_24_,_1931 ) was an_American_actor of the_silent_film_era . Clary appeared in 206_films between 1910_and_1930 . He was_born in Charleston , Illinois and died on his_58th_birthday in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Clary'), (14, '('), (15, 'March'), (21, '24'), (23, ','), (25, '1873'), (30, '–'), (32, 'March'), (38, '24'), (40, ','), (42, '1931'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (70, 'of'), (73, 'the'), (77, 'silent'), (84, 'film'), (89, 'era'), (92, '.'), (94, 'Clary'), (100, 'appeared'), (109, 'in'), (112, '206'), (116, 'films'), (122, 'between'), (130, '1910'), (135, 'and'), (139, '1930'), (143, '.'), (145, 'He'), (148, 'was'), (152, 'born'), (157, 'in'), (160, 'Charleston'), (170, ','), (172, 'Illinois'), (181, 'and'), (185, 'died'), (190, 'on'), (193, 'his'), (197, '58th'), (202, 'birthday'), (211, 'in'), (214, 'Los'), (218, 'Angeles'), (225, ','), (227, 'California'), (237, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Clary',0, 13), ('March 24',15, 23), ('March 24, 1931',32, 46), ('an American actor',52, 69), ('the silent film era',73, 92), ('206 films',112, 121), ('1910 and 1930',130, 143), ('was born',148, 156), ('his 58th birthday',193, 210), ('Los Angeles',214, 225)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Clary'), (14, '('), (15, 'March'), (21, '24'), (23, ','), (25, '1873'), (30, '–'), (32, 'March'), (38, '24'), (40, ','), (42, '1931'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (70, 'of'), (73, 'the'), (77, 'silent'), (84, 'film'), (89, 'era'), (92, '.'), (94, 'Clary'), (100, 'appeared'), (109, 'in'), (112, '206'), (116, 'films'), (122, 'between'), (130, '1910'), (135, 'and'), (139, '1930'), (143, '.'), (145, 'He'), (148, 'was'), (152, 'born'), (157, 'in'), (160, 'Charleston'), (170, ','), (172, 'Illinois'), (181, 'and'), (185, 'died'), (190, 'on'), (193, 'his'), (197, '58th'), (202, 'birthday'), (211, 'in'), (214, 'Los'), (218, 'Angeles'), (225, ','), (227, 'California'), (237, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Clary', 0, 13), ('(March', 14, 20), ('March 24, 1873', 15, 29), ('March 24, 1931', 32, 46), ('an American actor', 52, 69), ('the silent film era', 73, 92), ('206 films', 112, 121), ('Charleston, Illinois', 160, 180), ('his 58th birthday', 193, 210), ('Los Angeles', 214, 225), ('California', 227, 237)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

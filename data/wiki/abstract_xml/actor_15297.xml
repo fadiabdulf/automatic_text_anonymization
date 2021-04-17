@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Agnes Steele</title>
+<link/>https://en.wikipedia.org/wiki/Agnes_Steele
+<annotated>0</annotated>
+<originalabstract>Agnes Steele (22 August 1881 – 3 March 1949), was an American actress. She appeared in 13 films between 1926 and 1949.
+She died in Los Angeles, California.</originalabstract>
+<abstract>Agnes_Steele ( 22_August_1881 – 3_March_1949 ) , was an_American_actress . She appeared in 13_films between 1926_and_1949 . She died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Agnes'), (6, 'Steele'), (13, '('), (14, '22'), (17, 'August'), (24, '1881'), (29, '–'), (31, '3'), (33, 'March'), (39, '1949'), (43, ')'), (44, ','), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actress'), (69, '.'), (71, 'She'), (75, 'appeared'), (84, 'in'), (87, '13'), (90, 'films'), (96, 'between'), (104, '1926'), (109, 'and'), (113, '1949'), (117, '.'), (119, 'She'), (123, 'died'), (128, 'in'), (131, 'Los'), (135, 'Angeles'), (142, ','), (144, 'California'), (154, '.')])</stanford_tokens>
+<opennlp_chunks>[('Agnes Steele',0, 12), ('22 August 1881',14, 28), ('3 March 1949',31, 43), ('an American actress',50, 69), ('13 films',87, 95), ('1926 and 1949',104, 117), ('Los Angeles',131, 142)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Agnes'), (6, 'Steele'), (13, '('), (14, '22'), (17, 'August'), (24, '1881'), (29, '–'), (31, '3'), (33, 'March'), (39, '1949'), (43, ')'), (44, ','), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actress'), (69, '.'), (71, 'She'), (75, 'appeared'), (84, 'in'), (87, '13'), (90, 'films'), (96, 'between'), (104, '1926'), (109, 'and'), (113, '1949'), (117, '.'), (119, 'She'), (123, 'died'), (128, 'in'), (131, 'Los'), (135, 'Angeles'), (142, ','), (144, 'California'), (154, '.')])</spacy_tokens>
+<spacy_chunks>[('Agnes Steele', 0, 12), ('(22 August', 13, 23), ('22 August 1881', 14, 28), ('3 March 1949', 31, 43), ('an American actress', 50, 69), ('13 films', 87, 95), ('Los Angeles, California', 131, 154)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

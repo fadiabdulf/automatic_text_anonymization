@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leo G. Carroll</title>
+<link/>https://en.wikipedia.org/wiki/Leo_G._Carroll
+<annotated>0</annotated>
+<originalabstract>Leo Gratten Carroll (25 October 1886 – 16 October 1972) was an English actor. He was best known for his roles in several Hitchcock films, and in three television series, Topper, Going My Way, and The Man from U.N.C.L.E..</originalabstract>
+<abstract>Leo_Gratten_Carroll ( 25_October_1886 – 16_October_1972 ) was an_English_actor . He was_best_known for his_roles in several_Hitchcock_films , and in three_television_series , Topper , Going My_Way , and The_Man from U.N.C.L.E. .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leo'), (4, 'Gratten'), (12, 'Carroll'), (20, '('), (21, '25'), (24, 'October'), (32, '1886'), (37, '–'), (39, '16'), (42, 'October'), (50, '1972'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'English'), (71, 'actor'), (76, '.'), (78, 'He'), (81, 'was'), (85, 'best'), (90, 'known'), (96, 'for'), (100, 'his'), (104, 'roles'), (110, 'in'), (113, 'several'), (121, 'Hitchcock'), (131, 'films'), (136, ','), (138, 'and'), (142, 'in'), (145, 'three'), (151, 'television'), (162, 'series'), (168, ','), (170, 'Topper'), (176, ','), (178, 'Going'), (184, 'My'), (187, 'Way'), (190, ','), (192, 'and'), (196, 'The'), (200, 'Man'), (204, 'from'), (209, 'U.N.C.L.E.'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leo Gratten Carroll',0, 19), ('25 October 1886',21, 36), ('16 October 1972',39, 54), ('an English actor',60, 76), ('was best known',81, 95), ('his roles',100, 109), ('several Hitchcock films',113, 136), ('three television series',145, 168), ('My Way',184, 190), ('The Man',196, 203)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNP', 'NNS', ',', 'CC', 'IN', 'CD', 'NN', 'NN', ',', 'NNP', ',', 'VBG', 'PRP$', 'NN', ',', 'CC', 'DT', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leo'), (4, 'Gratten'), (12, 'Carroll'), (20, '('), (21, '25'), (24, 'October'), (32, '1886'), (37, '–'), (39, '16'), (42, 'October'), (50, '1972'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'English'), (71, 'actor'), (76, '.'), (78, 'He'), (81, 'was'), (85, 'best'), (90, 'known'), (96, 'for'), (100, 'his'), (104, 'roles'), (110, 'in'), (113, 'several'), (121, 'Hitchcock'), (131, 'films'), (136, ','), (138, 'and'), (142, 'in'), (145, 'three'), (151, 'television'), (162, 'series'), (168, ','), (170, 'Topper'), (176, ','), (178, 'Going'), (184, 'My'), (187, 'Way'), (190, ','), (192, 'and'), (196, 'The'), (200, 'Man'), (204, 'from'), (209, 'U.N.C.L.E'), (218, '..')])</spacy_tokens>
+<spacy_chunks>[('Leo Gratten Carroll', 0, 19), ('25 October 1886', 21, 36), ('16 October 1972', 39, 54), ('an English actor', 60, 76), ('his roles', 100, 109), ('several Hitchcock films', 113, 136), ('three television series', 145, 168), ('Topper', 170, 176), ('Going My Way', 178, 190), ('The Man from U.N.C.L.E.', 196, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNP', 'NNS', ',', 'CC', 'IN', 'CD', 'NN', 'NN', ',', 'NNP', ',', 'VBG', 'PRP$', 'NN', ',', 'CC', 'DT', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

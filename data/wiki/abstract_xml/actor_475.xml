@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John C. Becher</title>
+<link/>https://en.wikipedia.org/wiki/John_C._Becher
+<annotated>0</annotated>
+<originalabstract>John C. Becher (15 January 1915 – 20 September 1986) was an American stage and television actor. He made his professional debut in 1946 at the McCarter Theatre.</originalabstract>
+<abstract>John_C._Becher ( 15_January_1915 – 20_September_1986 ) was an_American_stage_and_television_actor . He made his_professional_debut in 1946 at the_McCarter_Theatre .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'C.'), (8, 'Becher'), (15, '('), (16, '15'), (19, 'January'), (27, '1915'), (32, '–'), (34, '20'), (37, 'September'), (47, '1986'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'stage'), (75, 'and'), (79, 'television'), (90, 'actor'), (95, '.'), (97, 'He'), (100, 'made'), (105, 'his'), (109, 'professional'), (122, 'debut'), (128, 'in'), (131, '1946'), (136, 'at'), (139, 'the'), (143, 'McCarter'), (152, 'Theatre'), (159, '.')])</stanford_tokens>
+<opennlp_chunks>[('John C. Becher',0, 14), ('15 January 1915',16, 31), ('20 September 1986',34, 51), ('an American stage and television actor',57, 95), ('his professional debut',105, 127), ('the McCarter Theatre',139, 159)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'JJ', 'NN', 'IN', 'CD', 'IN', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'C.'), (8, 'Becher'), (15, '('), (16, '15'), (19, 'January'), (27, '1915'), (32, '–'), (34, '20'), (37, 'September'), (47, '1986'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'stage'), (75, 'and'), (79, 'television'), (90, 'actor'), (95, '.'), (97, 'He'), (100, 'made'), (105, 'his'), (109, 'professional'), (122, 'debut'), (128, 'in'), (131, '1946'), (136, 'at'), (139, 'the'), (143, 'McCarter'), (152, 'Theatre'), (159, '.')])</spacy_tokens>
+<spacy_chunks>[('John C. Becher', 0, 14), ('(15 January', 15, 26), ('15 January 1915', 16, 31), ('20 September 1986', 34, 51), ('an American stage', 57, 74), ('television actor', 79, 95), ('his professional debut', 105, 127), ('the McCarter Theatre', 139, 159)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'JJ', 'NN', 'IN', 'CD', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

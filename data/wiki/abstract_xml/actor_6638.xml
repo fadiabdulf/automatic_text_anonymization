@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Richard Thorpe</title>
+<link/>https://en.wikipedia.org/wiki/Richard_Thorpe
+<annotated>0</annotated>
+<originalabstract>Richard Thorpe (born Rollo Smolt Thorpe; February 24, 1896 – May 1, 1991) was an American film director best known for his long career at Metro-Goldwyn-Mayer.</originalabstract>
+<abstract>Richard_Thorpe ( born Rollo_Smolt_Thorpe ; February_24_,_1896 – May_1_,_1991 ) was an_American_film_director best known for his_long_career at Metro-Goldwyn-Mayer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Thorpe'), (15, '('), (16, 'born'), (21, 'Rollo'), (27, 'Smolt'), (33, 'Thorpe'), (39, ';'), (41, 'February'), (50, '24'), (52, ','), (54, '1896'), (59, '–'), (61, 'May'), (65, '1'), (66, ','), (68, '1991'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'film'), (95, 'director'), (104, 'best'), (109, 'known'), (115, 'for'), (119, 'his'), (123, 'long'), (128, 'career'), (135, 'at'), (138, 'Metro-Goldwyn-Mayer'), (157, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Thorpe',0, 14), ('Rollo Smolt Thorpe',21, 39), ('February 24, 1896',41, 58), ('May 1, 1991',61, 72), ('an American film director',78, 103), ('his long career',119, 134)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Thorpe'), (15, '('), (16, 'born'), (21, 'Rollo'), (27, 'Smolt'), (33, 'Thorpe'), (39, ';'), (41, 'February'), (50, '24'), (52, ','), (54, '1896'), (59, '–'), (61, 'May'), (65, '1'), (66, ','), (68, '1991'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'film'), (95, 'director'), (104, 'best'), (109, 'known'), (115, 'for'), (119, 'his'), (123, 'long'), (128, 'career'), (135, 'at'), (138, 'Metro'), (143, '-'), (144, 'Goldwyn'), (151, '-'), (152, 'Mayer'), (157, '.')])</spacy_tokens>
+<spacy_chunks>[('Richard Thorpe', 0, 14), ('(born Rollo Smolt Thorpe', 15, 39), ('February 24, 1896', 41, 58), ('May 1, 1991', 61, 72), ('an American film director', 78, 103), ('his long career', 119, 134), ('Metro-Goldwyn-Mayer', 138, 157)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

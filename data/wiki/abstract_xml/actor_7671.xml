@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>George Bellamy (actor)</title>
+<link/>https://en.wikipedia.org/wiki/George_Bellamy_(actor)
+<annotated>0</annotated>
+<originalabstract>George Bellamy (10 July 1866 – 26 December 1944) was an English film actor of the silent era. He spent eighteen years on the stage before making his film debut in Wanted - A Husband. He appeared in 70 films between 1911 and 1933. He also directed two films in 1917. He was born in Bristol, England.</originalabstract>
+<abstract>George_Bellamy ( 10_July_1866 – 26_December_1944 ) was an_English_film_actor of the_silent_era . He spent eighteen_years on the_stage before making his_film_debut in Wanted - A Husband . He appeared in 70_films between 1911_and_1933 . He also directed two_films in 1917 . He was_born in Bristol , England .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Bellamy'), (15, '('), (16, '10'), (19, 'July'), (24, '1866'), (29, '–'), (31, '26'), (34, 'December'), (43, '1944'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'English'), (64, 'film'), (69, 'actor'), (75, 'of'), (78, 'the'), (82, 'silent'), (89, 'era'), (92, '.'), (94, 'He'), (97, 'spent'), (103, 'eighteen'), (112, 'years'), (118, 'on'), (121, 'the'), (125, 'stage'), (131, 'before'), (138, 'making'), (145, 'his'), (149, 'film'), (154, 'debut'), (160, 'in'), (163, 'Wanted'), (170, '-'), (172, 'A'), (174, 'Husband'), (181, '.'), (183, 'He'), (186, 'appeared'), (195, 'in'), (198, '70'), (201, 'films'), (207, 'between'), (215, '1911'), (220, 'and'), (224, '1933'), (228, '.'), (230, 'He'), (233, 'also'), (238, 'directed'), (247, 'two'), (251, 'films'), (257, 'in'), (260, '1917'), (264, '.'), (266, 'He'), (269, 'was'), (273, 'born'), (278, 'in'), (281, 'Bristol'), (288, ','), (290, 'England'), (297, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Bellamy',0, 14), ('10 July 1866',16, 28), ('26 December 1944',31, 47), ('an English film actor',53, 74), ('the silent era',78, 92), ('eighteen years',103, 117), ('the stage',121, 130), ('his film debut',145, 159), ('70 films',198, 206), ('1911 and 1933',215, 228), ('two films',247, 256), ('was born',269, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'DT', 'NN', 'IN', 'VBG', 'PRP$', 'NN', 'NN', 'IN', 'VBN', ':', 'NN', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Bellamy'), (15, '('), (16, '10'), (19, 'July'), (24, '1866'), (29, '–'), (31, '26'), (34, 'December'), (43, '1944'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'English'), (64, 'film'), (69, 'actor'), (75, 'of'), (78, 'the'), (82, 'silent'), (89, 'era'), (92, '.'), (94, 'He'), (97, 'spent'), (103, 'eighteen'), (112, 'years'), (118, 'on'), (121, 'the'), (125, 'stage'), (131, 'before'), (138, 'making'), (145, 'his'), (149, 'film'), (154, 'debut'), (160, 'in'), (163, 'Wanted'), (170, '-'), (172, 'A'), (174, 'Husband'), (181, '.'), (183, 'He'), (186, 'appeared'), (195, 'in'), (198, '70'), (201, 'films'), (207, 'between'), (215, '1911'), (220, 'and'), (224, '1933'), (228, '.'), (230, 'He'), (233, 'also'), (238, 'directed'), (247, 'two'), (251, 'films'), (257, 'in'), (260, '1917'), (264, '.'), (266, 'He'), (269, 'was'), (273, 'born'), (278, 'in'), (281, 'Bristol'), (288, ','), (290, 'England'), (297, '.')])</spacy_tokens>
+<spacy_chunks>[('George Bellamy', 0, 14), ('10 July 1866', 16, 28), ('26 December 1944', 31, 47), ('an English film actor', 53, 74), ('the silent era', 78, 92), ('eighteen years', 103, 117), ('the stage', 121, 130), ('his film debut', 145, 159), ('Wanted - A Husband', 163, 181), ('70 films', 198, 206), ('two films', 247, 256), ('Bristol', 281, 288), ('England', 290, 297)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'DT', 'NN', 'IN', 'VBG', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'HYPH', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

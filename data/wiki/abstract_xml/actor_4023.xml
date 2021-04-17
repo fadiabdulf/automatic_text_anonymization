@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rex Linn</title>
+<link/>https://en.wikipedia.org/wiki/Rex_Linn
+<annotated>0</annotated>
+<originalabstract>Rex Maynard Linn (born November 13, 1956) is an American film and television actor. He is best known for his role as Frank Tripp in the television series CSI: Miami.</originalabstract>
+<abstract>Rex_Maynard_Linn ( born November_13_,_1956 ) is an_American_film_and_television_actor . He is_best_known for his_role as Frank_Tripp in the_television_series_CSI : Miami .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rex'), (4, 'Maynard'), (12, 'Linn'), (17, '('), (18, 'born'), (23, 'November'), (32, '13'), (34, ','), (36, '1956'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'film'), (62, 'and'), (66, 'television'), (77, 'actor'), (82, '.'), (84, 'He'), (87, 'is'), (90, 'best'), (95, 'known'), (101, 'for'), (105, 'his'), (109, 'role'), (114, 'as'), (117, 'Frank'), (123, 'Tripp'), (129, 'in'), (132, 'the'), (136, 'television'), (147, 'series'), (154, 'CSI'), (157, ':'), (159, 'Miami'), (164, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rex Maynard Linn',0, 16), ('November 13, 1956',23, 40), ('an American film and television actor',45, 82), ('is best known',87, 100), ('his role',105, 113), ('Frank Tripp',117, 128), ('the television series CSI',132, 157)]</opennlp_chunks>
+<stanford_pos>['NN', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', ':', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rex'), (4, 'Maynard'), (12, 'Linn'), (17, '('), (18, 'born'), (23, 'November'), (32, '13'), (34, ','), (36, '1956'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'film'), (62, 'and'), (66, 'television'), (77, 'actor'), (82, '.'), (84, 'He'), (87, 'is'), (90, 'best'), (95, 'known'), (101, 'for'), (105, 'his'), (109, 'role'), (114, 'as'), (117, 'Frank'), (123, 'Tripp'), (129, 'in'), (132, 'the'), (136, 'television'), (147, 'series'), (154, 'CSI'), (157, ':'), (159, 'Miami'), (164, '.')])</spacy_tokens>
+<spacy_chunks>[('Rex Maynard Linn', 0, 16), ('November 13, 1956', 23, 40), ('an American film and television actor', 45, 82), ('his role', 105, 113), ('Frank Tripp', 117, 128), ('the television series', 132, 153), ('CSI: Miami', 154, 164)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', ':', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

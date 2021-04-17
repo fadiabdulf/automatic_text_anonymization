@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tamara Drasin</title>
+<link/>https://en.wikipedia.org/wiki/Tamara_Drasin
+<annotated>0</annotated>
+<originalabstract>Tamara Drasin (c. 1905 – 22 February 1943), often credited as simply Tamara, was a singer and actress who introduced the song "Smoke Gets in Your Eyes" in the 1933 Broadway musical Roberta.
+Tamara Drasin is sometimes confused with two other performers of the 1930s musical era, the dancers Tamara Geva and Tamara Toumanova.</originalabstract>
+<abstract>Tamara_Drasin ( c. 1905 – 22_February_1943 ) , often_credited as simply_Tamara , was a_singer_and_actress who introduced the_song " Smoke Gets in Your_Eyes " in the_1933_Broadway_musical_Roberta . Tamara_Drasin is_sometimes_confused with two_other_performers of the_1930s_musical_era , the_dancers_Tamara_Geva and Tamara_Toumanova .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tamara'), (7, 'Drasin'), (14, '('), (15, 'c.'), (18, '1905'), (23, '–'), (25, '22'), (28, 'February'), (37, '1943'), (41, ')'), (42, ','), (44, 'often'), (50, 'credited'), (59, 'as'), (62, 'simply'), (69, 'Tamara'), (75, ','), (77, 'was'), (81, 'a'), (83, 'singer'), (90, 'and'), (94, 'actress'), (102, 'who'), (106, 'introduced'), (117, 'the'), (121, 'song'), (126, '"'), (127, 'Smoke'), (133, 'Gets'), (138, 'in'), (141, 'Your'), (146, 'Eyes'), (150, '"'), (152, 'in'), (155, 'the'), (159, '1933'), (164, 'Broadway'), (173, 'musical'), (181, 'Roberta'), (188, '.'), (190, 'Tamara'), (197, 'Drasin'), (204, 'is'), (207, 'sometimes'), (217, 'confused'), (226, 'with'), (231, 'two'), (235, 'other'), (241, 'performers'), (252, 'of'), (255, 'the'), (259, '1930s'), (265, 'musical'), (273, 'era'), (276, ','), (278, 'the'), (282, 'dancers'), (290, 'Tamara'), (297, 'Geva'), (302, 'and'), (306, 'Tamara'), (313, 'Toumanova'), (322, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tamara Drasin',0, 13), ('22 February 1943',25, 41), ('often credited',44, 58), ('simply Tamara',62, 75), ('a singer and actress',81, 101), ('the song',117, 125), ('Your Eyes',141, 150), ('the 1933 Broadway musical Roberta',155, 188), ('Tamara Drasin',190, 203), ('is sometimes confused',204, 225), ('two other performers',231, 251), ('the 1930s musical era',255, 276), ('the dancers Tamara Geva',278, 301), ('Tamara Toumanova',306, 322)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'RB', 'NNP', ',', 'VBD', 'DT', 'NN', 'CC', 'NN', 'WP', 'VBD', 'DT', 'NN', '``', 'NNP', 'VBZ', 'IN', 'PRP$', 'NNS', '\'\'', 'IN', 'DT', 'CD', 'NNP', 'NN', 'NNP', '.', 'NNP', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'CD', 'JJ', 'NNS', 'IN', 'DT', 'CD', 'JJ', 'NN', ',', 'DT', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tamara'), (7, 'Drasin'), (14, '('), (15, 'c.'), (18, '1905'), (23, '–'), (25, '22'), (28, 'February'), (37, '1943'), (41, ')'), (42, ','), (44, 'often'), (50, 'credited'), (59, 'as'), (62, 'simply'), (69, 'Tamara'), (75, ','), (77, 'was'), (81, 'a'), (83, 'singer'), (90, 'and'), (94, 'actress'), (102, 'who'), (106, 'introduced'), (117, 'the'), (121, 'song'), (126, '"'), (127, 'Smoke'), (133, 'Gets'), (138, 'in'), (141, 'Your'), (146, 'Eyes'), (150, '"'), (152, 'in'), (155, 'the'), (159, '1933'), (164, 'Broadway'), (173, 'musical'), (181, 'Roberta'), (188, '.'), (190, 'Tamara'), (197, 'Drasin'), (204, 'is'), (207, 'sometimes'), (217, 'confused'), (226, 'with'), (231, 'two'), (235, 'other'), (241, 'performers'), (252, 'of'), (255, 'the'), (259, '1930s'), (265, 'musical'), (273, 'era'), (276, ','), (278, 'the'), (282, 'dancers'), (290, 'Tamara'), (297, 'Geva'), (302, 'and'), (306, 'Tamara'), (313, 'Toumanova'), (322, '.')])</spacy_tokens>
+<spacy_chunks>[('Tamara Drasin', 0, 13), ('22 February 1943', 25, 41), ('a singer', 81, 89), ('actress', 94, 101), ('the song', 117, 125), ('"Smoke', 126, 132), ('Smoke Gets in Your Eyes', 127, 150), ('the 1933 Broadway musical Roberta', 155, 188), ('two other performers', 231, 251), ('the 1930s musical era', 255, 276), ('the dancers', 278, 289), ('Tamara Geva', 290, 301), ('Tamara Toumanova', 306, 322)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NN', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'RB', 'NNP', ',', 'VBD', 'DT', 'NN', 'CC', 'NN', 'WP', 'VBD', 'DT', 'NN', '``', 'NN', 'VBZ', 'IN', 'PRP$', 'NNS', "''", 'IN', 'DT', 'CD', 'NNP', 'JJ', 'NNP', '.', 'NNP', 'NNP', 'VBZ', 'RB', 'JJ', 'IN', 'CD', 'JJ', 'NNS', 'IN', 'DT', 'NNS', 'JJ', 'NN', ',', 'DT', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Loni Anderson</title>
+<link/>https://en.wikipedia.org/wiki/Loni_Anderson
+<annotated>0</annotated>
+<originalabstract>Loni Kaye Anderson (born August 5, 1946) is an American actress. She is known for her role as receptionist Jennifer Marlowe on the CBS sitcom WKRP in Cincinnati (1978–1982), which earned her three Golden Globe Award and two Emmy Award nominations.</originalabstract>
+<abstract>Loni_Kaye_Anderson ( born August_5_,_1946 ) is an_American_actress . She is_known for her_role as receptionist_Jennifer_Marlowe on the_CBS_sitcom_WKRP in Cincinnati_(_1978 – 1982_) , which earned her three_Golden_Globe_Award and two_Emmy_Award_nominations .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Loni'), (5, 'Kaye'), (10, 'Anderson'), (19, '('), (20, 'born'), (25, 'August'), (32, '5'), (33, ','), (35, '1946'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (63, '.'), (65, 'She'), (69, 'is'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'role'), (91, 'as'), (94, 'receptionist'), (107, 'Jennifer'), (116, 'Marlowe'), (124, 'on'), (127, 'the'), (131, 'CBS'), (135, 'sitcom'), (142, 'WKRP'), (147, 'in'), (150, 'Cincinnati'), (161, '('), (162, '1978'), (166, '–'), (167, '1982'), (171, ')'), (172, ','), (174, 'which'), (180, 'earned'), (187, 'her'), (191, 'three'), (197, 'Golden'), (204, 'Globe'), (210, 'Award'), (216, 'and'), (220, 'two'), (224, 'Emmy'), (229, 'Award'), (235, 'nominations'), (246, '.')])</stanford_tokens>
+<opennlp_chunks>[('Loni Kaye Anderson',0, 18), ('August 5, 1946',25, 39), ('an American actress',44, 63), ('is known',69, 77), ('her role',82, 90), ('receptionist Jennifer Marlowe',94, 123), ('the CBS sitcom WKRP',127, 146), ('Cincinnati (1978',150, 166), ('1982)',167, 172), ('three Golden Globe Award',191, 215), ('two Emmy Award nominations',220, 246)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'IN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'WDT', 'VBD', 'PRP', 'CD', 'NNP', 'NNP', 'NN', 'CC', 'CD', 'NNP', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Loni'), (5, 'Kaye'), (10, 'Anderson'), (19, '('), (20, 'born'), (25, 'August'), (32, '5'), (33, ','), (35, '1946'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (63, '.'), (65, 'She'), (69, 'is'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'role'), (91, 'as'), (94, 'receptionist'), (107, 'Jennifer'), (116, 'Marlowe'), (124, 'on'), (127, 'the'), (131, 'CBS'), (135, 'sitcom'), (142, 'WKRP'), (147, 'in'), (150, 'Cincinnati'), (161, '('), (162, '1978–1982'), (171, ')'), (172, ','), (174, 'which'), (180, 'earned'), (187, 'her'), (191, 'three'), (197, 'Golden'), (204, 'Globe'), (210, 'Award'), (216, 'and'), (220, 'two'), (224, 'Emmy'), (229, 'Award'), (235, 'nominations'), (246, '.')])</spacy_tokens>
+<spacy_chunks>[('Loni Kaye Anderson', 0, 18), ('August 5, 1946', 25, 39), ('an American actress', 44, 63), ('her role', 82, 90), ('receptionist Jennifer Marlowe', 94, 123), ('the CBS sitcom WKRP', 127, 146), ('WKRP in Cincinnati', 142, 160), ('her three Golden Globe Award', 187, 215), ('two Emmy Award nominations', 220, 246)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'WDT', 'VBD', 'PRP$', 'CD', 'NNP', 'NNP', 'NNP', 'CC', 'CD', 'NNP', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

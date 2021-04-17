@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jane Brucker</title>
+<link/>https://en.wikipedia.org/wiki/Jane_Brucker
+<annotated>0</annotated>
+<originalabstract>Jane Rachel Brucker (born May 14, 1958) is an American actress and screenwriter best known for playing the part of Lisa Houseman, Baby's elder sister in the hit 1987 film Dirty Dancing.</originalabstract>
+<abstract>Jane_Rachel_Brucker ( born May_14_,_1958 ) is an_American_actress_and_screenwriter best_known for playing the_part of Lisa_Houseman , Baby 's_elder_sister in the_hit_1987_film_Dirty_Dancing .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jane'), (5, 'Rachel'), (12, 'Brucker'), (20, '('), (21, 'born'), (26, 'May'), (30, '14'), (32, ','), (34, '1958'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'screenwriter'), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'playing'), (103, 'the'), (107, 'part'), (112, 'of'), (115, 'Lisa'), (120, 'Houseman'), (128, ','), (130, 'Baby'), (134, '\'s'), (137, 'elder'), (143, 'sister'), (150, 'in'), (153, 'the'), (157, 'hit'), (161, '1987'), (166, 'film'), (171, 'Dirty'), (177, 'Dancing'), (184, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jane Rachel Brucker',0, 19), ('May 14, 1958',26, 38), ('an American actress and screenwriter',43, 79), ('best known',80, 90), ('the part',103, 111), ('Lisa Houseman',115, 128), ('\'s elder sister',134, 149), ('the hit 1987 film Dirty Dancing',153, 184)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'POS', 'JJR', 'NN', 'IN', 'DT', 'NN', 'CD', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jane'), (5, 'Rachel'), (12, 'Brucker'), (20, '('), (21, 'born'), (26, 'May'), (30, '14'), (32, ','), (34, '1958'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'screenwriter'), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'playing'), (103, 'the'), (107, 'part'), (112, 'of'), (115, 'Lisa'), (120, 'Houseman'), (128, ','), (130, 'Baby'), (134, "'s"), (137, 'elder'), (143, 'sister'), (150, 'in'), (153, 'the'), (157, 'hit'), (161, '1987'), (166, 'film'), (171, 'Dirty'), (177, 'Dancing'), (184, '.')])</spacy_tokens>
+<spacy_chunks>[('Jane Rachel Brucker', 0, 19), ('May 14, 1958', 26, 38), ('an American actress', 43, 62), ('screenwriter', 67, 79), ('the part', 103, 111), ('Lisa Houseman', 115, 128), ("Baby's elder sister", 130, 149), ('the hit 1987 film', 153, 170), ('Dirty Dancing', 171, 184)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'POS', 'JJR', 'NN', 'IN', 'DT', 'VBN', 'CD', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

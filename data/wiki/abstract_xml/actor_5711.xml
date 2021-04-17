@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Roday</title>
+<link/>https://en.wikipedia.org/wiki/James_Roday
+<annotated>0</annotated>
+<originalabstract>James David Rodriguez (; born April 4, 1976), known professionally as James Roday, is an American actor, director and screenwriter. He starred on the USA Network series Psych as hyper-observant consultant detective and fake psychic Shawn Spencer.</originalabstract>
+<abstract>James_David_Rodriguez ( ; born April_4_,_1976 ) , known professionally as James_Roday , is an_American_actor , director_and_screenwriter . He starred on the_USA_Network_series_Psych as hyper-observant_consultant_detective and fake_psychic_Shawn_Spencer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'David'), (12, 'Rodriguez'), (22, '('), (23, ';'), (25, 'born'), (30, 'April'), (36, '4'), (37, ','), (39, '1976'), (43, ')'), (44, ','), (46, 'known'), (52, 'professionally'), (67, 'as'), (70, 'James'), (76, 'Roday'), (81, ','), (83, 'is'), (86, 'an'), (89, 'American'), (98, 'actor'), (103, ','), (105, 'director'), (114, 'and'), (118, 'screenwriter'), (130, '.'), (132, 'He'), (135, 'starred'), (143, 'on'), (146, 'the'), (150, 'USA'), (154, 'Network'), (162, 'series'), (169, 'Psych'), (175, 'as'), (178, 'hyper-observant'), (194, 'consultant'), (205, 'detective'), (215, 'and'), (219, 'fake'), (224, 'psychic'), (232, 'Shawn'), (238, 'Spencer'), (245, '.')])</stanford_tokens>
+<opennlp_chunks>[('James David Rodriguez',0, 21), ('April 4, 1976',30, 43), ('James Roday',70, 81), ('an American actor',86, 103), ('director and screenwriter',105, 130), ('the USA Network series Psych',146, 174), ('hyper-observant consultant detective',178, 214), ('fake psychic Shawn Spencer',219, 245)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNP', 'IN', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'David'), (12, 'Rodriguez'), (22, '(;'), (25, 'born'), (30, 'April'), (36, '4'), (37, ','), (39, '1976'), (43, ')'), (44, ','), (46, 'known'), (52, 'professionally'), (67, 'as'), (70, 'James'), (76, 'Roday'), (81, ','), (83, 'is'), (86, 'an'), (89, 'American'), (98, 'actor'), (103, ','), (105, 'director'), (114, 'and'), (118, 'screenwriter'), (130, '.'), (132, 'He'), (135, 'starred'), (143, 'on'), (146, 'the'), (150, 'USA'), (154, 'Network'), (162, 'series'), (169, 'Psych'), (175, 'as'), (178, 'hyper'), (183, '-'), (184, 'observant'), (194, 'consultant'), (205, 'detective'), (215, 'and'), (219, 'fake'), (224, 'psychic'), (232, 'Shawn'), (238, 'Spencer'), (245, '.')])</spacy_tokens>
+<spacy_chunks>[('James David Rodriguez', 0, 21), ('April 4, 1976', 30, 43), ('James Roday', 70, 81), ('an American actor', 86, 103), ('director', 105, 113), ('screenwriter', 118, 130), ('the USA Network series', 146, 168), ('hyper-observant consultant detective', 178, 214), ('fake psychic Shawn Spencer', 219, 245)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NN', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNP', 'IN', 'JJ', 'HYPH', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'JJ', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

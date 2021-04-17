@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lex Barker</title>
+<link/>https://en.wikipedia.org/wiki/Lex_Barker
+<annotated>0</annotated>
+<originalabstract>Alexander Crichlow "Lex" Barker Jr. (May 8, 1919 – May 11, 1973) was an American actor best known for playing Tarzan of the Apes and leading characters from Karl May's novels.</originalabstract>
+<abstract>Alexander_Crichlow_"_Lex_"_Barker_Jr. ( May_8_,_1919 – May_11_,_1973 ) was an_American_actor best_known for playing Tarzan of the_Apes and leading characters from Karl_May 's_novels .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alexander'), (10, 'Crichlow'), (19, '"'), (20, 'Lex'), (23, '"'), (25, 'Barker'), (32, 'Jr.'), (36, '('), (37, 'May'), (41, '8'), (42, ','), (44, '1919'), (49, '–'), (51, 'May'), (55, '11'), (57, ','), (59, '1973'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'actor'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'playing'), (110, 'Tarzan'), (117, 'of'), (120, 'the'), (124, 'Apes'), (129, 'and'), (133, 'leading'), (141, 'characters'), (152, 'from'), (157, 'Karl'), (162, 'May'), (165, '\'s'), (168, 'novels'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alexander Crichlow "Lex" Barker Jr.',0, 35), ('May 8, 1919',37, 48), ('May 11, 1973',51, 63), ('an American actor',69, 86), ('best known',87, 97), ('the Apes',120, 128), ('Karl May',157, 165), ('\'s novels',165, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NNPS', 'CC', 'VBG', 'NNS', 'IN', 'NNP', 'NNP', 'POS', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alexander'), (10, 'Crichlow'), (19, '"'), (20, 'Lex'), (23, '"'), (25, 'Barker'), (32, 'Jr.'), (36, '('), (37, 'May'), (41, '8'), (42, ','), (44, '1919'), (49, '–'), (51, 'May'), (55, '11'), (57, ','), (59, '1973'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'actor'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'playing'), (110, 'Tarzan'), (117, 'of'), (120, 'the'), (124, 'Apes'), (129, 'and'), (133, 'leading'), (141, 'characters'), (152, 'from'), (157, 'Karl'), (162, 'May'), (165, "'s"), (168, 'novels'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[('Alexander Crichlow', 0, 18), ('"Lex" Barker Jr. (May', 19, 40), ('May 8, 1919', 37, 48), ('May 11, 1973', 51, 63), ('an American actor', 69, 86), ('Tarzan', 110, 116), ('the Apes', 120, 128), ('leading characters', 133, 151), ("Karl May's novels", 157, 174)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NNPS', 'CC', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', 'POS', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

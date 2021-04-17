@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chris Rush</title>
+<link/>https://en.wikipedia.org/wiki/Chris_Rush
+<annotated>0</annotated>
+<originalabstract>Chris Rush  is an American comedian, writer, actor, radio personality and author. He is best known for his stand-up routines and albums, along with having been a writer and editor on the satirical publication National Lampoon magazine.</originalabstract>
+<abstract>Chris_Rush is an_American_comedian , writer , actor , radio_personality_and_author . He is_best_known for his_stand-up_routines_and_albums , along with having_been a_writer_and_editor on the_satirical_publication_National_Lampoon_magazine .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Chris'), (6, 'Rush'), (12, 'is'), (15, 'an'), (18, 'American'), (27, 'comedian'), (35, ','), (37, 'writer'), (43, ','), (45, 'actor'), (50, ','), (52, 'radio'), (58, 'personality'), (70, 'and'), (74, 'author'), (80, '.'), (82, 'He'), (85, 'is'), (88, 'best'), (93, 'known'), (99, 'for'), (103, 'his'), (107, 'stand-up'), (116, 'routines'), (125, 'and'), (129, 'albums'), (135, ','), (137, 'along'), (143, 'with'), (148, 'having'), (155, 'been'), (160, 'a'), (162, 'writer'), (169, 'and'), (173, 'editor'), (180, 'on'), (183, 'the'), (187, 'satirical'), (197, 'publication'), (209, 'National'), (218, 'Lampoon'), (226, 'magazine'), (234, '.')])</stanford_tokens>
+<opennlp_chunks>[('Chris Rush',0, 10), ('an American comedian',15, 35), ('radio personality and author',52, 80), ('is best known',85, 98), ('his stand-up routines and albums',103, 135), ('having been',148, 159), ('a writer and editor',160, 179), ('the satirical publication National Lampoon magazine',183, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'CC', 'NNS', ',', 'IN', 'IN', 'VBG', 'VBN', 'DT', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Chris'), (6, 'Rush'), (12, 'is'), (15, 'an'), (18, 'American'), (27, 'comedian'), (35, ','), (37, 'writer'), (43, ','), (45, 'actor'), (50, ','), (52, 'radio'), (58, 'personality'), (70, 'and'), (74, 'author'), (80, '.'), (82, 'He'), (85, 'is'), (88, 'best'), (93, 'known'), (99, 'for'), (103, 'his'), (107, 'stand'), (112, '-'), (113, 'up'), (116, 'routines'), (125, 'and'), (129, 'albums'), (135, ','), (137, 'along'), (143, 'with'), (148, 'having'), (155, 'been'), (160, 'a'), (162, 'writer'), (169, 'and'), (173, 'editor'), (180, 'on'), (183, 'the'), (187, 'satirical'), (197, 'publication'), (209, 'National'), (218, 'Lampoon'), (226, 'magazine'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('Chris Rush', 0, 10), ('an American comedian', 15, 35), ('writer', 37, 43), ('radio personality', 52, 69), ('author', 74, 80), ('his stand-up routines', 103, 124), ('albums', 129, 135), ('a writer', 160, 168), ('editor', 173, 179), ('the satirical publication', 183, 208), ('National Lampoon magazine', 209, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'VB', 'HYPH', 'RP', 'NNS', 'CC', 'NNS', ',', 'IN', 'IN', 'VBG', 'VBN', 'DT', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

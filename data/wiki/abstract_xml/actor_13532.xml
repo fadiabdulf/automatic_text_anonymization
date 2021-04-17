@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tembi Locke</title>
+<link/>https://en.wikipedia.org/wiki/Tembi_Locke
+<annotated>0</annotated>
+<originalabstract>Tembekile "Tembi" Locke (born July 26, 1970) is an American actress who has appeared in television shows and film. She is best known as Dr. Grace Monroe on Syfy's series EUReKA and as Dr. Diana Davis in Sliders and has appeared in such shows as The Mentalist, Castle and Bones.</originalabstract>
+<abstract>Tembekile_"_Tembi_"_Locke ( born July_26_,_1970 ) is an_American_actress who has_appeared in television_shows_and_film . She is_best_known as Dr._Grace_Monroe on Syfy 's_series_EUReKA and as Dr._Diana_Davis in Sliders and has_appeared in such_shows as The_Mentalist_,_Castle_and_Bones .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tembekile'), (10, '"'), (11, 'Tembi'), (16, '"'), (18, 'Locke'), (24, '('), (25, 'born'), (30, 'July'), (35, '26'), (37, ','), (39, '1970'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (68, 'who'), (72, 'has'), (76, 'appeared'), (85, 'in'), (88, 'television'), (99, 'shows'), (105, 'and'), (109, 'film'), (113, '.'), (115, 'She'), (119, 'is'), (122, 'best'), (127, 'known'), (133, 'as'), (136, 'Dr.'), (140, 'Grace'), (146, 'Monroe'), (153, 'on'), (156, 'Syfy'), (160, '\'s'), (163, 'series'), (170, 'EUReKA'), (177, 'and'), (181, 'as'), (184, 'Dr.'), (188, 'Diana'), (194, 'Davis'), (200, 'in'), (203, 'Sliders'), (211, 'and'), (215, 'has'), (219, 'appeared'), (228, 'in'), (231, 'such'), (236, 'shows'), (242, 'as'), (245, 'The'), (249, 'Mentalist'), (258, ','), (260, 'Castle'), (267, 'and'), (271, 'Bones'), (276, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tembekile "Tembi" Locke',0, 23), ('July 26, 1970',30, 43), ('an American actress',48, 67), ('has appeared',72, 84), ('television shows and film',88, 113), ('is best known',119, 132), ('Dr. Grace Monroe',136, 152), ('\'s series EUReKA',160, 176), ('Dr. Diana Davis',184, 199), ('has appeared',215, 227), ('such shows',231, 241), ('The Mentalist, Castle and Bones',245, 276)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'NN', 'NNS', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'NN', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNP', ',', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tembekile'), (10, '"'), (11, 'Tembi'), (16, '"'), (18, 'Locke'), (24, '('), (25, 'born'), (30, 'July'), (35, '26'), (37, ','), (39, '1970'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (68, 'who'), (72, 'has'), (76, 'appeared'), (85, 'in'), (88, 'television'), (99, 'shows'), (105, 'and'), (109, 'film'), (113, '.'), (115, 'She'), (119, 'is'), (122, 'best'), (127, 'known'), (133, 'as'), (136, 'Dr.'), (140, 'Grace'), (146, 'Monroe'), (153, 'on'), (156, 'Syfy'), (160, "'s"), (163, 'series'), (170, 'EUReKA'), (177, 'and'), (181, 'as'), (184, 'Dr.'), (188, 'Diana'), (194, 'Davis'), (200, 'in'), (203, 'Sliders'), (211, 'and'), (215, 'has'), (219, 'appeared'), (228, 'in'), (231, 'such'), (236, 'shows'), (242, 'as'), (245, 'The'), (249, 'Mentalist'), (258, ','), (260, 'Castle'), (267, 'and'), (271, 'Bones'), (276, '.')])</spacy_tokens>
+<spacy_chunks>[('Tembekile "Tembi" Locke', 0, 23), ('July 26, 1970', 30, 43), ('an American actress', 48, 67), ('television shows', 88, 104), ('Dr. Grace Monroe', 136, 152), ("Syfy's series", 156, 169), ('EUReKA', 170, 176), ('Dr. Diana Davis', 184, 199), ('Sliders', 203, 210), ('such shows', 231, 241), ('As the', 242, 248), ('The Mentalist', 245, 258), ('Castle', 260, 266)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'NN', 'NNS', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNP', ',', 'NNP', 'CC', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

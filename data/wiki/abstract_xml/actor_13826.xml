@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>May McAvoy</title>
+<link/>https://en.wikipedia.org/wiki/May_McAvoy
+<annotated>0</annotated>
+<originalabstract>May McAvoy (September 8, 1899 – April 26, 1984) was an American actress who worked mainly during the silent-film era. Some of her major roles are Laura Pennington in The Enchanted Cottage, Esther in Ben-Hur, and Mary Dale in The Jazz Singer.</originalabstract>
+<abstract>May_McAvoy ( September_8_,_1899 – April_26_,_1984 ) was an_American_actress who worked mainly during the_silent-film_era . Some of her_major_roles are Laura_Pennington in The_Enchanted_Cottage , Esther in Ben-Hur , and Mary_Dale in The_Jazz_Singer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'May'), (4, 'McAvoy'), (11, '('), (12, 'September'), (22, '8'), (23, ','), (25, '1899'), (30, '–'), (32, 'April'), (38, '26'), (40, ','), (42, '1984'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'who'), (76, 'worked'), (83, 'mainly'), (90, 'during'), (97, 'the'), (101, 'silent-film'), (113, 'era'), (116, '.'), (118, 'Some'), (123, 'of'), (126, 'her'), (130, 'major'), (136, 'roles'), (142, 'are'), (146, 'Laura'), (152, 'Pennington'), (163, 'in'), (166, 'The'), (170, 'Enchanted'), (180, 'Cottage'), (187, ','), (189, 'Esther'), (196, 'in'), (199, 'Ben-Hur'), (206, ','), (208, 'and'), (212, 'Mary'), (217, 'Dale'), (222, 'in'), (225, 'The'), (229, 'Jazz'), (234, 'Singer'), (240, '.')])</stanford_tokens>
+<opennlp_chunks>[('May McAvoy',0, 10), ('September 8, 1899',12, 29), ('April 26, 1984',32, 46), ('an American actress',52, 71), ('the silent-film era',97, 116), ('her major roles',126, 141), ('Laura Pennington',146, 162), ('The Enchanted Cottage',166, 187), ('Mary Dale',212, 221), ('The Jazz Singer',225, 240)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'RB', 'IN', 'DT', 'NN', 'NN', '.', 'DT', 'IN', 'PRP$', 'JJ', 'NNS', 'VBP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', ',', 'NNP', 'IN', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'May'), (4, 'McAvoy'), (11, '('), (12, 'September'), (22, '8'), (23, ','), (25, '1899'), (30, '–'), (32, 'April'), (38, '26'), (40, ','), (42, '1984'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'who'), (76, 'worked'), (83, 'mainly'), (90, 'during'), (97, 'the'), (101, 'silent'), (107, '-'), (108, 'film'), (113, 'era'), (116, '.'), (118, 'Some'), (123, 'of'), (126, 'her'), (130, 'major'), (136, 'roles'), (142, 'are'), (146, 'Laura'), (152, 'Pennington'), (163, 'in'), (166, 'The'), (170, 'Enchanted'), (180, 'Cottage'), (187, ','), (189, 'Esther'), (196, 'in'), (199, 'Ben'), (202, '-'), (203, 'Hur'), (206, ','), (208, 'and'), (212, 'Mary'), (217, 'Dale'), (222, 'in'), (225, 'The'), (229, 'Jazz'), (234, 'Singer'), (240, '.')])</spacy_tokens>
+<spacy_chunks>[('May McAvoy', 0, 10), ('September 8, 1899', 12, 29), ('April 26, 1984', 32, 46), ('an American actress', 52, 71), ('the silent-film era', 97, 116), ('her major roles', 126, 141), ('Laura Pennington', 146, 162), ('The Enchanted Cottage', 166, 187), ('Esther', 189, 195), ('Ben-Hur', 199, 206), ('Mary Dale', 212, 221), ('The Jazz Singer', 225, 240)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'RB', 'IN', 'DT', 'JJ', 'HYPH', 'NN', 'NN', '.', 'DT', 'IN', 'PRP$', 'JJ', 'NNS', 'VBP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'HYPH', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

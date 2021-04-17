@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Katie Finneran</title>
+<link/>https://en.wikipedia.org/wiki/Katie_Finneran
+<annotated>0</annotated>
+<originalabstract>Katie Finneran (born January 22, 1971) is an American actress of film, stage, and television noted for her Tony Award-winning performances in the Broadway play Noises Off in 2002, and the musical Promises, Promises in 2010.</originalabstract>
+<abstract>Katie_Finneran ( born January_22 , 1971 ) is an_American_actress of film , stage , and television noted for her_Tony_Award-winning_performances in the_Broadway_play_Noises Off in 2002 , and the_musical Promises , Promises in 2010 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Katie'), (6, 'Finneran'), (15, '('), (16, 'born'), (21, 'January'), (29, '22'), (31, ','), (33, '1971'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (62, 'of'), (65, 'film'), (69, ','), (71, 'stage'), (76, ','), (78, 'and'), (82, 'television'), (93, 'noted'), (99, 'for'), (103, 'her'), (107, 'Tony'), (112, 'Award-winning'), (126, 'performances'), (139, 'in'), (142, 'the'), (146, 'Broadway'), (155, 'play'), (160, 'Noises'), (167, 'Off'), (171, 'in'), (174, '2002'), (178, ','), (180, 'and'), (184, 'the'), (188, 'musical'), (196, 'Promises'), (204, ','), (206, 'Promises'), (215, 'in'), (218, '2010'), (222, '.')])</stanford_tokens>
+<opennlp_chunks>[('Katie Finneran',0, 14), ('January 22',21, 31), ('an American actress',42, 61), ('her Tony Award-winning performances',103, 138), ('the Broadway play Noises',142, 166), ('the musical',184, 195)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', 'VBD', 'IN', 'PRP$', 'NNP', 'JJ', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'NNS', 'IN', 'IN', 'CD', ',', 'CC', 'DT', 'JJ', 'VBZ', ',', 'VBZ', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Katie'), (6, 'Finneran'), (15, '('), (16, 'born'), (21, 'January'), (29, '22'), (31, ','), (33, '1971'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (62, 'of'), (65, 'film'), (69, ','), (71, 'stage'), (76, ','), (78, 'and'), (82, 'television'), (93, 'noted'), (99, 'for'), (103, 'her'), (107, 'Tony'), (112, 'Award'), (117, '-'), (118, 'winning'), (126, 'performances'), (139, 'in'), (142, 'the'), (146, 'Broadway'), (155, 'play'), (160, 'Noises'), (167, 'Off'), (171, 'in'), (174, '2002'), (178, ','), (180, 'and'), (184, 'the'), (188, 'musical'), (196, 'Promises'), (204, ','), (206, 'Promises'), (215, 'in'), (218, '2010'), (222, '.')])</spacy_tokens>
+<spacy_chunks>[('Katie Finneran', 0, 14), ('January 22, 1971', 21, 37), ('an American actress', 42, 61), ('television', 82, 92), ('her Tony Award-winning performances', 103, 138), ('the Broadway play', 142, 159), ('Noises Off', 160, 170), ('the musical Promises', 184, 204), ('Promises, Promises', 196, 214)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', 'VBD', 'IN', 'PRP$', 'NNP', 'NNP', 'HYPH', 'VBG', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'NNS', 'IN', 'IN', 'CD', ',', 'CC', 'DT', 'JJ', 'NNS', ',', 'NNS', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sarah Parish</title>
+<link/>https://en.wikipedia.org/wiki/Sarah_Parish
+<annotated>0</annotated>
+<originalabstract>Sarah Parish (born 7 June 1968) is an English actress. She is known for her work on television series including: The Pillars of the Earth, Peak Practice, Hearts and Bones, Cutting It, Doctor Who, Mistresses, Merlin, Atlantis, Monroe, Trollied, and W1A.</originalabstract>
+<abstract>Sarah_Parish ( born_7_June_1968 ) is an_English_actress . She is_known for her_work on television_series_including : The_Pillars of the_Earth , Peak_Practice , Hearts_and_Bones , Cutting It , Doctor Who , Mistresses , Merlin , Atlantis , Monroe , Trollied , and W1A .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sarah'), (6, 'Parish'), (13, '('), (14, 'born'), (19, '7'), (21, 'June'), (26, '1968'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'English'), (46, 'actress'), (53, '.'), (55, 'She'), (59, 'is'), (62, 'known'), (68, 'for'), (72, 'her'), (76, 'work'), (81, 'on'), (84, 'television'), (95, 'series'), (102, 'including'), (111, ':'), (113, 'The'), (117, 'Pillars'), (125, 'of'), (128, 'the'), (132, 'Earth'), (137, ','), (139, 'Peak'), (144, 'Practice'), (152, ','), (154, 'Hearts'), (161, 'and'), (165, 'Bones'), (170, ','), (172, 'Cutting'), (180, 'It'), (182, ','), (184, 'Doctor'), (191, 'Who'), (194, ','), (196, 'Mistresses'), (206, ','), (208, 'Merlin'), (214, ','), (216, 'Atlantis'), (224, ','), (226, 'Monroe'), (232, ','), (234, 'Trollied'), (242, ','), (244, 'and'), (248, 'W1A'), (251, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sarah Parish',0, 12), ('born 7 June 1968',14, 30), ('an English actress',35, 53), ('is known',59, 67), ('her work',72, 80), ('television series including',84, 111), ('The Pillars',113, 124), ('the Earth',128, 137), ('Peak Practice',139, 152), ('Hearts and Bones',154, 170)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NN', 'VBG', ':', 'DT', 'NNS', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP', ',', 'NNPS', 'CC', 'NNPS', ',', 'VBG', 'PRP', ',', 'NNP', 'WP', ',', 'NNS', ',', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sarah'), (6, 'Parish'), (13, '('), (14, 'born'), (19, '7'), (21, 'June'), (26, '1968'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'English'), (46, 'actress'), (53, '.'), (55, 'She'), (59, 'is'), (62, 'known'), (68, 'for'), (72, 'her'), (76, 'work'), (81, 'on'), (84, 'television'), (95, 'series'), (102, 'including'), (111, ':'), (113, 'The'), (117, 'Pillars'), (125, 'of'), (128, 'the'), (132, 'Earth'), (137, ','), (139, 'Peak'), (144, 'Practice'), (152, ','), (154, 'Hearts'), (161, 'and'), (165, 'Bones'), (170, ','), (172, 'Cutting'), (180, 'It'), (182, ','), (184, 'Doctor'), (191, 'Who'), (194, ','), (196, 'Mistresses'), (206, ','), (208, 'Merlin'), (214, ','), (216, 'Atlantis'), (224, ','), (226, 'Monroe'), (232, ','), (234, 'Trollied'), (242, ','), (244, 'and'), (248, 'W1A.')])</spacy_tokens>
+<spacy_chunks>[('Sarah Parish', 0, 12), ('7 June 1968', 19, 30), ('an English actress', 35, 53), ('her work', 72, 80), ('television series', 84, 101), ('The Pillars of the Earth', 113, 137), ('Peak Practice', 139, 152), ('Hearts and Bones', 154, 170), ('Cutting It', 172, 182), ('Doctor Who', 184, 194), ('Mistresses', 196, 206), ('Merlin', 208, 214), ('Atlantis', 216, 224), ('Monroe', 226, 232), ('Trollied', 234, 242)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NN', 'VBG', ':', 'DT', 'NNP', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP', ',', 'NNPS', 'CC', 'NNPS', ',', 'VBG', 'PRP', ',', 'NNP', 'WP', ',', 'NNPS', ',', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'CC', 'XX']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

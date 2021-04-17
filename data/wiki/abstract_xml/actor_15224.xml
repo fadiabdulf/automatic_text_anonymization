@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rena Sofer</title>
+<link/>https://en.wikipedia.org/wiki/Rena_Sofer
+<annotated>0</annotated>
+<originalabstract>Rena Sherel Sofer (born December 2, 1968) is an American actress, known for her appearances in daytime television, episodic guest appearances, and made-for-television movies. In 1995, Sofer received a Daytime Emmy Award for her portrayal of Lois Cerullo in the soap opera General Hospital.</originalabstract>
+<abstract>Rena_Sherel_Sofer ( born December_2_,_1968 ) is an_American_actress , known for her_appearances in daytime_television , episodic_guest_appearances , and made-for-television_movies . In 1995 , Sofer received a_Daytime_Emmy_Award for her_portrayal of Lois_Cerullo in the_soap_opera_General_Hospital .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rena'), (5, 'Sherel'), (12, 'Sofer'), (18, '('), (19, 'born'), (24, 'December'), (33, '2'), (34, ','), (36, '1968'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, ','), (66, 'known'), (72, 'for'), (76, 'her'), (80, 'appearances'), (92, 'in'), (95, 'daytime'), (103, 'television'), (113, ','), (115, 'episodic'), (124, 'guest'), (130, 'appearances'), (141, ','), (143, 'and'), (147, 'made-for-television'), (167, 'movies'), (173, '.'), (175, 'In'), (178, '1995'), (182, ','), (184, 'Sofer'), (190, 'received'), (199, 'a'), (201, 'Daytime'), (209, 'Emmy'), (214, 'Award'), (220, 'for'), (224, 'her'), (228, 'portrayal'), (238, 'of'), (241, 'Lois'), (246, 'Cerullo'), (254, 'in'), (257, 'the'), (261, 'soap'), (266, 'opera'), (272, 'General'), (280, 'Hospital'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rena Sherel Sofer',0, 17), ('December 2, 1968',24, 40), ('an American actress',45, 64), ('her appearances',76, 91), ('daytime television',95, 113), ('episodic guest appearances',115, 141), ('made-for-television movies',147, 173), ('a Daytime Emmy Award',199, 219), ('her portrayal',224, 237), ('Lois Cerullo',241, 253), ('the soap opera General Hospital',257, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', ',', 'JJ', 'NN', 'NNS', ',', 'CC', 'JJ', 'NNS', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rena'), (5, 'Sherel'), (12, 'Sofer'), (18, '('), (19, 'born'), (24, 'December'), (33, '2'), (34, ','), (36, '1968'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, ','), (66, 'known'), (72, 'for'), (76, 'her'), (80, 'appearances'), (92, 'in'), (95, 'daytime'), (103, 'television'), (113, ','), (115, 'episodic'), (124, 'guest'), (130, 'appearances'), (141, ','), (143, 'and'), (147, 'made'), (151, '-'), (152, 'for'), (155, '-'), (156, 'television'), (167, 'movies'), (173, '.'), (175, 'In'), (178, '1995'), (182, ','), (184, 'Sofer'), (190, 'received'), (199, 'a'), (201, 'Daytime'), (209, 'Emmy'), (214, 'Award'), (220, 'for'), (224, 'her'), (228, 'portrayal'), (238, 'of'), (241, 'Lois'), (246, 'Cerullo'), (254, 'in'), (257, 'the'), (261, 'soap'), (266, 'opera'), (272, 'General'), (280, 'Hospital'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Rena Sherel Sofer', 0, 17), ('December 2, 1968', 24, 40), ('an American actress', 45, 64), ('her appearances', 76, 91), ('daytime television', 95, 113), ('episodic guest appearances', 115, 141), ('a Daytime Emmy Award', 199, 219), ('her portrayal', 224, 237), ('Lois Cerullo', 241, 253), ('the soap opera General Hospital', 257, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', ',', 'JJ', 'NN', 'NNS', ',', 'CC', 'VBN', 'HYPH', 'IN', 'HYPH', 'NN', 'NNS', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kate Price (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Kate_Price_(actress)
+<annotated>0</annotated>
+<originalabstract>Kate Price (born Catherine Duffy, February 13, 1872 – January 4, 1943) was an Irish-born American actress. She is known for playing the role of Mrs. Kelly in the comedy series The Cohens and Kellys, made by Universal Pictures between 1926 and 1932. Price appeared in 296 motion pictures between 1910 and 1937.</originalabstract>
+<abstract>Kate_Price ( born_Catherine_Duffy , February_13_,_1872 – January_4_,_1943 ) was an_Irish-born_American_actress . She is_known for playing the_role of Mrs._Kelly in the_comedy_series The_Cohens_and_Kellys , made by Universal_Pictures between 1926_and_1932 . Price appeared in 296_motion_pictures between 1910_and_1937 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kate'), (5, 'Price'), (11, '('), (12, 'born'), (17, 'Catherine'), (27, 'Duffy'), (32, ','), (34, 'February'), (43, '13'), (45, ','), (47, '1872'), (52, '–'), (54, 'January'), (62, '4'), (63, ','), (65, '1943'), (69, ')'), (71, 'was'), (75, 'an'), (78, 'Irish-born'), (89, 'American'), (98, 'actress'), (105, '.'), (107, 'She'), (111, 'is'), (114, 'known'), (120, 'for'), (124, 'playing'), (132, 'the'), (136, 'role'), (141, 'of'), (144, 'Mrs.'), (149, 'Kelly'), (155, 'in'), (158, 'the'), (162, 'comedy'), (169, 'series'), (176, 'The'), (180, 'Cohens'), (187, 'and'), (191, 'Kellys'), (197, ','), (199, 'made'), (204, 'by'), (207, 'Universal'), (217, 'Pictures'), (226, 'between'), (234, '1926'), (239, 'and'), (243, '1932'), (247, '.'), (249, 'Price'), (255, 'appeared'), (264, 'in'), (267, '296'), (271, 'motion'), (278, 'pictures'), (287, 'between'), (295, '1910'), (300, 'and'), (304, '1937'), (308, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kate Price',0, 10), ('born Catherine Duffy',12, 32), ('February 13, 1872',34, 51), ('January 4, 1943',54, 69), ('an Irish-born American actress',75, 105), ('is known',111, 119), ('the role',132, 140), ('Mrs. Kelly',144, 154), ('the comedy series',158, 175), ('The Cohens and Kellys',176, 197), ('Universal Pictures',207, 225), ('1926 and 1932',234, 247), ('296 motion pictures',267, 286), ('1910 and 1937',295, 308)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NN', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNPS', 'CC', 'NNPS', ',', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'CD', '.', 'NN', 'VBD', 'IN', 'CD', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kate'), (5, 'Price'), (11, '('), (12, 'born'), (17, 'Catherine'), (27, 'Duffy'), (32, ','), (34, 'February'), (43, '13'), (45, ','), (47, '1872'), (52, '–'), (54, 'January'), (62, '4'), (63, ','), (65, '1943'), (69, ')'), (71, 'was'), (75, 'an'), (78, 'Irish'), (83, '-'), (84, 'born'), (89, 'American'), (98, 'actress'), (105, '.'), (107, 'She'), (111, 'is'), (114, 'known'), (120, 'for'), (124, 'playing'), (132, 'the'), (136, 'role'), (141, 'of'), (144, 'Mrs.'), (149, 'Kelly'), (155, 'in'), (158, 'the'), (162, 'comedy'), (169, 'series'), (176, 'The'), (180, 'Cohens'), (187, 'and'), (191, 'Kellys'), (197, ','), (199, 'made'), (204, 'by'), (207, 'Universal'), (217, 'Pictures'), (226, 'between'), (234, '1926'), (239, 'and'), (243, '1932'), (247, '.'), (249, 'Price'), (255, 'appeared'), (264, 'in'), (267, '296'), (271, 'motion'), (278, 'pictures'), (287, 'between'), (295, '1910'), (300, 'and'), (304, '1937'), (308, '.')])</spacy_tokens>
+<spacy_chunks>[('Kate Price', 0, 10), ('(born Catherine Duffy', 11, 32), ('February 13, 1872', 34, 51), ('January 4, 1943', 54, 69), ('an Irish-born American actress', 75, 105), ('the role', 132, 140), ('Mrs. Kelly', 144, 154), ('the comedy series', 158, 175), ('The Cohens and Kellys', 176, 197), ('Universal Pictures', 207, 225), ('296 motion pictures', 267, 286)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNPS', 'CC', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'CD', '.', 'NN', 'VBD', 'IN', 'CD', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

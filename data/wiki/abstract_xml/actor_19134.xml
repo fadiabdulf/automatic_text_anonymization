@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lewis Fitz-Gerald</title>
+<link/>https://en.wikipedia.org/wiki/Lewis_Fitz-Gerald
+<annotated>0</annotated>
+<originalabstract>Lewis Fitz-Gerald (born 15 November 1958)  is an Australian actor, screenwriter and television director. His academic qualifications include PhD (UNE), MA (Comms) UNE, BDA (Acting) NIDA. Fitz-Gerald lectures in Screen and Media Studies at the University of New England (Australia).</originalabstract>
+<abstract>Lewis_Fitz-Gerald ( born 15_November_1958 ) is an_Australian_actor_,_screenwriter_and_television_director . His_academic_qualifications include PhD_(_UNE_) , MA_(_Comms_)_UNE , BDA_(_Acting_)_NIDA . Fitz-Gerald_lectures in Screen_and_Media_Studies at the_University of New_England (_Australia_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lewis'), (6, 'Fitz-Gerald'), (18, '('), (19, 'born'), (24, '15'), (27, 'November'), (36, '1958'), (40, ')'), (43, 'is'), (46, 'an'), (49, 'Australian'), (60, 'actor'), (65, ','), (67, 'screenwriter'), (80, 'and'), (84, 'television'), (95, 'director'), (103, '.'), (105, 'His'), (109, 'academic'), (118, 'qualifications'), (133, 'include'), (141, 'PhD'), (145, '('), (146, 'UNE'), (149, ')'), (150, ','), (152, 'MA'), (155, '('), (156, 'Comms'), (161, ')'), (163, 'UNE'), (166, ','), (168, 'BDA'), (172, '('), (173, 'Acting'), (179, ')'), (181, 'NIDA'), (185, '.'), (187, 'Fitz-Gerald'), (199, 'lectures'), (208, 'in'), (211, 'Screen'), (218, 'and'), (222, 'Media'), (228, 'Studies'), (236, 'at'), (239, 'the'), (243, 'University'), (254, 'of'), (257, 'New'), (261, 'England'), (269, '('), (270, 'Australia'), (279, ')'), (280, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lewis Fitz-Gerald',0, 17), ('15 November 1958',24, 40), ('an Australian actor, screenwriter and television director',46, 103), ('His academic qualifications',105, 132), ('PhD (UNE)',141, 150), ('MA (Comms) UNE',152, 166), ('BDA (Acting) NIDA',168, 185), ('Fitz-Gerald lectures',187, 207), ('Screen and Media Studies',211, 235), ('the University',239, 253), ('New England',257, 268), ('(Australia)',269, 280)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP$', 'JJ', 'NNS', 'VBP', 'NN', '-LRB-', 'NN', '-RRB-', ',', 'NN', '-LRB-', 'NNS', '-RRB-', 'NNP', ',', 'NNP', '-LRB-', 'NNP', '-RRB-', 'NNP', '.', 'JJ', 'VBZ', 'IN', 'NNP', 'CC', 'NNP', 'NNS', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lewis'), (6, 'Fitz'), (10, '-'), (11, 'Gerald'), (18, '('), (19, 'born'), (24, '15'), (27, 'November'), (36, '1958'), (40, ')'), (43, 'is'), (46, 'an'), (49, 'Australian'), (60, 'actor'), (65, ','), (67, 'screenwriter'), (80, 'and'), (84, 'television'), (95, 'director'), (103, '.'), (105, 'His'), (109, 'academic'), (118, 'qualifications'), (133, 'include'), (141, 'PhD'), (145, '('), (146, 'UNE'), (149, ')'), (150, ','), (152, 'MA'), (155, '('), (156, 'Comms'), (161, ')'), (163, 'UNE'), (166, ','), (168, 'BDA'), (172, '('), (173, 'Acting'), (179, ')'), (181, 'NIDA'), (185, '.'), (187, 'Fitz'), (191, '-'), (192, 'Gerald'), (199, 'lectures'), (208, 'in'), (211, 'Screen'), (218, 'and'), (222, 'Media'), (228, 'Studies'), (236, 'at'), (239, 'the'), (243, 'University'), (254, 'of'), (257, 'New'), (261, 'England'), (269, '('), (270, 'Australia'), (279, ')'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('Lewis Fitz-Gerald', 0, 17), ('15 November 1958', 24, 40), ('an Australian actor', 46, 65), ('screenwriter', 67, 79), ('television director', 84, 103), ('His academic qualifications', 105, 132), ('MA (Comms) UNE', 152, 166), ('Fitz-Gerald lectures', 187, 207), ('Media Studies', 222, 235), ('the University', 239, 253), ('University of New England (Australia)', 243, 280)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP$', 'JJ', 'NNS', 'VBP', 'NN', '-LRB-', 'NNP', '-RRB-', ',', 'NNP', '-LRB-', 'NNP', '-RRB-', 'NNP', ',', 'NNP', '-LRB-', 'NNP', '-RRB-', 'NNP', '.', 'NNP', 'HYPH', 'NNP', 'NNS', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

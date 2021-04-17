@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Christopher Fulford</title>
+<link/>https://en.wikipedia.org/wiki/Christopher_Fulford
+<annotated>0</annotated>
+<originalabstract>Christopher Fulford (born 1955, London) is a British actor who is best known for his supporting roles in many British TV shows, one of the earliest being punk Alex in the short lived sitcom Sorry, I'm A Stranger Here Myself (1981).</originalabstract>
+<abstract>Christopher_Fulford ( born_1955 , London ) is a_British_actor who is_best_known for his_supporting_roles in many_British_TV_shows , one of the_earliest_being_punk_Alex in the_short_lived_sitcom_Sorry , I 'm A_Stranger Here_Myself ( 1981 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Christopher'), (12, 'Fulford'), (20, '('), (21, 'born'), (26, '1955'), (30, ','), (32, 'London'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'British'), (53, 'actor'), (59, 'who'), (63, 'is'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'his'), (85, 'supporting'), (96, 'roles'), (102, 'in'), (105, 'many'), (110, 'British'), (118, 'TV'), (121, 'shows'), (126, ','), (128, 'one'), (132, 'of'), (135, 'the'), (139, 'earliest'), (148, 'being'), (154, 'punk'), (159, 'Alex'), (164, 'in'), (167, 'the'), (171, 'short'), (177, 'lived'), (183, 'sitcom'), (190, 'Sorry'), (195, ','), (197, 'I'), (198, '\'m'), (201, 'A'), (203, 'Stranger'), (212, 'Here'), (217, 'Myself'), (224, '('), (225, '1981'), (229, ')'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('Christopher Fulford',0, 19), ('born 1955',21, 30), ('a British actor',43, 58), ('is best known',63, 76), ('his supporting roles',81, 101), ('many British TV shows',105, 126), ('the earliest being punk Alex',135, 163), ('the short lived sitcom Sorry',167, 195), ('A Stranger',201, 211), ('Here Myself',212, 223)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'JJ', 'JJ', 'NN', 'NNS', ',', 'CD', 'IN', 'DT', 'JJS', 'VBG', 'NN', 'NNP', 'IN', 'DT', 'JJ', 'VBD', 'NN', 'NNP', ',', 'PRP', 'VBP', 'DT', 'NN', 'RB', 'RB', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Christopher'), (12, 'Fulford'), (20, '('), (21, 'born'), (26, '1955'), (30, ','), (32, 'London'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'British'), (53, 'actor'), (59, 'who'), (63, 'is'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'his'), (85, 'supporting'), (96, 'roles'), (102, 'in'), (105, 'many'), (110, 'British'), (118, 'TV'), (121, 'shows'), (126, ','), (128, 'one'), (132, 'of'), (135, 'the'), (139, 'earliest'), (148, 'being'), (154, 'punk'), (159, 'Alex'), (164, 'in'), (167, 'the'), (171, 'short'), (177, 'lived'), (183, 'sitcom'), (190, 'Sorry'), (195, ','), (197, 'I'), (198, "'m"), (201, 'A'), (203, 'Stranger'), (212, 'Here'), (217, 'Myself'), (224, '('), (225, '1981'), (229, ')'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[('Christopher Fulford', 0, 19), ('London', 32, 38), ('a British actor', 43, 58), ('his supporting roles', 81, 101), ('many British TV shows', 105, 126), ('One of the', 128, 138), ('punk Alex', 154, 163), ("Sorry, I'm A Stranger Here Myself", 190, 223)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'JJ', 'JJ', 'NN', 'NNS', ',', 'CD', 'IN', 'DT', 'JJS', 'VBG', 'VBN', 'NNP', 'IN', 'DT', 'JJ', 'VBN', 'NN', 'UH', ',', 'PRP', 'VBP', 'DT', 'NN', 'RB', 'PRP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

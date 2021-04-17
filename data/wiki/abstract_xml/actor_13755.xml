@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>June Martel</title>
+<link/>https://en.wikipedia.org/wiki/June_Martel
+<annotated>0</annotated>
+<originalabstract>June Martel (November 19, 1909 – November 23, 1978) was a singer and a stage and motion picture actress from Chicago, Illinois. She was a petite brunette who weighed only a bit more than one hundred pounds.</originalabstract>
+<abstract>June_Martel ( November_19_,_1909 – November_23_,_1978 ) was a_singer and a_stage_and_motion_picture_actress from Chicago , Illinois . She was a_petite_brunette who weighed only a_bit more than one_hundred_pounds .</abstract>
+<stanford_tokens>OrderedDict([(0, 'June'), (5, 'Martel'), (12, '('), (13, 'November'), (22, '19'), (24, ','), (26, '1909'), (31, '–'), (33, 'November'), (42, '23'), (44, ','), (46, '1978'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'singer'), (65, 'and'), (69, 'a'), (71, 'stage'), (77, 'and'), (81, 'motion'), (88, 'picture'), (96, 'actress'), (104, 'from'), (109, 'Chicago'), (116, ','), (118, 'Illinois'), (126, '.'), (128, 'She'), (132, 'was'), (136, 'a'), (138, 'petite'), (145, 'brunette'), (154, 'who'), (158, 'weighed'), (166, 'only'), (171, 'a'), (173, 'bit'), (177, 'more'), (182, 'than'), (187, 'one'), (191, 'hundred'), (199, 'pounds'), (205, '.')])</stanford_tokens>
+<opennlp_chunks>[('June Martel',0, 11), ('November 19, 1909',13, 30), ('November 23, 1978',33, 50), ('a singer',56, 64), ('a stage and motion picture actress',69, 103), ('a petite brunette',136, 153), ('a bit',171, 176), ('one hundred pounds',187, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'DT', 'NN', 'CC', 'NN', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'RB', 'DT', 'NN', 'RBR', 'IN', 'CD', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'June'), (5, 'Martel'), (12, '('), (13, 'November'), (22, '19'), (24, ','), (26, '1909'), (31, '–'), (33, 'November'), (42, '23'), (44, ','), (46, '1978'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'singer'), (65, 'and'), (69, 'a'), (71, 'stage'), (77, 'and'), (81, 'motion'), (88, 'picture'), (96, 'actress'), (104, 'from'), (109, 'Chicago'), (116, ','), (118, 'Illinois'), (126, '.'), (128, 'She'), (132, 'was'), (136, 'a'), (138, 'petite'), (145, 'brunette'), (154, 'who'), (158, 'weighed'), (166, 'only'), (171, 'a'), (173, 'bit'), (177, 'more'), (182, 'than'), (187, 'one'), (191, 'hundred'), (199, 'pounds'), (205, '.')])</spacy_tokens>
+<spacy_chunks>[('June Martel', 0, 11), ('November 19, 1909', 13, 30), ('November 23, 1978', 33, 50), ('a singer', 56, 64), ('a stage and motion picture actress', 69, 103), ('Chicago, Illinois', 109, 126), ('a petite brunette', 136, 153), ('only a bit more than one hundred pounds', 166, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'DT', 'NN', 'CC', 'NN', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'RB', 'DT', 'NN', 'JJR', 'IN', 'CD', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

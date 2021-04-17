@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Clara Blandick</title>
+<link/>https://en.wikipedia.org/wiki/Clara_Blandick
+<annotated>0</annotated>
+<originalabstract>Clara Blandick (born Clara Blanchard Dickey; June 4, 1876 – April 15, 1962) was an American stage and screen actress best known for her role as Aunty Em  in Metro-Goldwyn-Mayer's The Wizard of Oz (1939).
+As a character actress, she often played eccentric  elderly matriarchs.</originalabstract>
+<abstract>Clara_Blandick ( born Clara_Blanchard_Dickey ; June_4_,_1876 – April_15_,_1962 ) was an_American_stage_and_screen_actress best known for her_role as Aunty_Em in Metro-Goldwyn-Mayer 's The Wizard of Oz ( 1939 ) . As a_character_actress , she often played eccentric_elderly_matriarchs .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Clara'), (6, 'Blandick'), (15, '('), (16, 'born'), (21, 'Clara'), (27, 'Blanchard'), (37, 'Dickey'), (43, ';'), (45, 'June'), (50, '4'), (51, ','), (53, '1876'), (58, '–'), (60, 'April'), (66, '15'), (68, ','), (70, '1962'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'stage'), (98, 'and'), (102, 'screen'), (109, 'actress'), (117, 'best'), (122, 'known'), (128, 'for'), (132, 'her'), (136, 'role'), (141, 'as'), (144, 'Aunty'), (150, 'Em'), (154, 'in'), (157, 'Metro-Goldwyn-Mayer'), (176, '\'s'), (179, 'The'), (183, 'Wizard'), (190, 'of'), (193, 'Oz'), (196, '('), (197, '1939'), (201, ')'), (202, '.'), (204, 'As'), (207, 'a'), (209, 'character'), (219, 'actress'), (226, ','), (228, 'she'), (232, 'often'), (238, 'played'), (245, 'eccentric'), (256, 'elderly'), (264, 'matriarchs'), (274, '.')])</stanford_tokens>
+<opennlp_chunks>[('Clara Blandick',0, 14), ('Clara Blanchard Dickey',21, 43), ('June 4, 1876',45, 57), ('April 15, 1962',60, 74), ('an American stage and screen actress',80, 116), ('her role',132, 140), ('Aunty Em',144, 152), ('a character actress',207, 226), ('eccentric  elderly matriarchs',245, 274)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'DT', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'DT', 'NN', 'NN', ',', 'PRP', 'RB', 'VBD', 'JJ', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Clara'), (6, 'Blandick'), (15, '('), (16, 'born'), (21, 'Clara'), (27, 'Blanchard'), (37, 'Dickey'), (43, ';'), (45, 'June'), (50, '4'), (51, ','), (53, '1876'), (58, '–'), (60, 'April'), (66, '15'), (68, ','), (70, '1962'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'stage'), (98, 'and'), (102, 'screen'), (109, 'actress'), (117, 'best'), (122, 'known'), (128, 'for'), (132, 'her'), (136, 'role'), (141, 'as'), (144, 'Aunty'), (150, 'Em'), (154, 'in'), (157, 'Metro'), (162, '-'), (163, 'Goldwyn'), (170, '-'), (171, 'Mayer'), (176, "'s"), (179, 'The'), (183, 'Wizard'), (190, 'of'), (193, 'Oz'), (196, '('), (197, '1939'), (201, ')'), (202, '.'), (204, 'As'), (207, 'a'), (209, 'character'), (219, 'actress'), (226, ','), (228, 'she'), (232, 'often'), (238, 'played'), (245, 'eccentric'), (256, 'elderly'), (264, 'matriarchs'), (274, '.')])</spacy_tokens>
+<spacy_chunks>[('Clara Blandick', 0, 14), ('(born Clara Blanchard Dickey', 15, 43), ('June 4, 1876', 45, 57), ('April 15, 1962', 60, 74), ('an American stage', 80, 97), ('screen actress', 102, 116), ('her role', 132, 140), ('Aunty Em', 144, 152), ("Metro-Goldwyn-Mayer's The Wizard", 157, 189), ('The Wizard of Oz (1939', 179, 201), ('a character actress', 207, 226), ('eccentric  elderly matriarchs', 245, 274)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', 'POS', 'DT', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'DT', 'NN', 'NN', ',', 'PRP', 'RB', 'VBD', 'JJ', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

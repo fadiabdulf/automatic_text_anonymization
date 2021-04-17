@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sandra Seacat</title>
+<link/>https://en.wikipedia.org/wiki/Sandra_Seacat
+<annotated>0</annotated>
+<originalabstract>Sandra Diane Seacat (born October 2, 1936) is an American actress, director and acting coach best known for her innovations in acting pedagogy—blending elements of Strasberg, Siddha Yoga and Jungian dream analysis—and for a handful of high-profile coaching success stories.</originalabstract>
+<abstract>Sandra_Diane_Seacat ( born October_2_,_1936 ) is an_American_actress , director and acting coach best_known for her_innovations in acting pedagogy — blending elements of Strasberg , Siddha_Yoga_and_Jungian_dream_analysis — and for a_handful of high-profile_coaching_success_stories .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sandra'), (7, 'Diane'), (13, 'Seacat'), (20, '('), (21, 'born'), (26, 'October'), (34, '2'), (35, ','), (37, '1936'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, ','), (67, 'director'), (76, 'and'), (80, 'acting'), (87, 'coach'), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'her'), (112, 'innovations'), (124, 'in'), (127, 'acting'), (134, 'pedagogy'), (142, '—'), (143, 'blending'), (152, 'elements'), (161, 'of'), (164, 'Strasberg'), (173, ','), (175, 'Siddha'), (182, 'Yoga'), (187, 'and'), (191, 'Jungian'), (199, 'dream'), (205, 'analysis'), (213, '—'), (214, 'and'), (218, 'for'), (222, 'a'), (224, 'handful'), (232, 'of'), (235, 'high-profile'), (248, 'coaching'), (257, 'success'), (265, 'stories'), (272, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sandra Diane Seacat',0, 19), ('October 2, 1936',26, 41), ('an American actress',46, 65), ('best known',93, 103), ('her innovations',108, 123), ('Siddha Yoga and Jungian dream analysis',175, 213), ('a handful',222, 231), ('high-profile coaching success stories',235, 272)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'VBG', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'VBG', 'NN', ':', 'VBG', 'NNS', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NN', 'NN', ':', 'CC', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NN', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sandra'), (7, 'Diane'), (13, 'Seacat'), (20, '('), (21, 'born'), (26, 'October'), (34, '2'), (35, ','), (37, '1936'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, ','), (67, 'director'), (76, 'and'), (80, 'acting'), (87, 'coach'), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'her'), (112, 'innovations'), (124, 'in'), (127, 'acting'), (134, 'pedagogy'), (142, '—'), (143, 'blending'), (152, 'elements'), (161, 'of'), (164, 'Strasberg'), (173, ','), (175, 'Siddha'), (182, 'Yoga'), (187, 'and'), (191, 'Jungian'), (199, 'dream'), (205, 'analysis'), (213, '—'), (214, 'and'), (218, 'for'), (222, 'a'), (224, 'handful'), (232, 'of'), (235, 'high'), (239, '-'), (240, 'profile'), (248, 'coaching'), (257, 'success'), (265, 'stories'), (272, '.')])</spacy_tokens>
+<spacy_chunks>[('Sandra Diane Seacat', 0, 19), ('October 2, 1936', 26, 41), ('an American actress', 46, 65), ('director', 67, 75), ('Acting coach', 80, 92), ('her innovations', 108, 123), ('acting pedagogy', 127, 142), ('blending elements', 143, 160), ('Strasberg', 164, 173), ('Siddha Yoga', 175, 186), ('dream analysis', 199, 213), ('a handful', 222, 231), ('high-profile coaching success stories', 235, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'VBG', 'NN', 'HYPH', 'VBG', 'NNS', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'JJ', 'NN', 'NN', ',', 'CC', 'IN', 'DT', 'NN', 'IN', 'JJ', 'HYPH', 'NN', 'NN', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

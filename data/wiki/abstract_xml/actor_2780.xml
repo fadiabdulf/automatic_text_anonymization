@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bert Hadley</title>
+<link/>https://en.wikipedia.org/wiki/Bert_Hadley
+<annotated>0</annotated>
+<originalabstract>Bert Hadley (April 12, 1882 – December 30, 1968) was an American stage and early silent film actor who appeared in over sixty motion pictures between 1912 and 1927. Hadley quit acting as he approached middle age to later become a successful Hollywood makeup artist.</originalabstract>
+<abstract>Bert_Hadley ( April_12_,_1882 – December_30 , 1968 ) was an_American_stage and early_silent_film_actor who appeared in over_sixty_motion_pictures between 1912_and_1927 . Hadley quit_acting as he approached middle_age to_later_become a_successful_Hollywood_makeup_artist .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bert'), (5, 'Hadley'), (12, '('), (13, 'April'), (19, '12'), (21, ','), (23, '1882'), (28, '–'), (30, 'December'), (39, '30'), (41, ','), (43, '1968'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'stage'), (71, 'and'), (75, 'early'), (81, 'silent'), (88, 'film'), (93, 'actor'), (99, 'who'), (103, 'appeared'), (112, 'in'), (115, 'over'), (120, 'sixty'), (126, 'motion'), (133, 'pictures'), (142, 'between'), (150, '1912'), (155, 'and'), (159, '1927'), (163, '.'), (165, 'Hadley'), (172, 'quit'), (177, 'acting'), (184, 'as'), (187, 'he'), (190, 'approached'), (201, 'middle'), (208, 'age'), (212, 'to'), (215, 'later'), (221, 'become'), (228, 'a'), (230, 'successful'), (241, 'Hollywood'), (251, 'makeup'), (258, 'artist'), (264, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bert Hadley',0, 11), ('April 12, 1882',13, 27), ('December 30',30, 41), ('an American stage',53, 70), ('early silent film actor',75, 98), ('over sixty motion pictures',115, 141), ('1912 and 1927',150, 163), ('quit acting',172, 183), ('middle age',201, 211), ('to later become',212, 227), ('a successful Hollywood makeup artist',228, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'IN', 'CD', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBG', 'IN', 'PRP', 'VBD', 'JJ', 'NN', 'TO', 'RB', 'VB', 'DT', 'JJ', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bert'), (5, 'Hadley'), (12, '('), (13, 'April'), (19, '12'), (21, ','), (23, '1882'), (28, '–'), (30, 'December'), (39, '30'), (41, ','), (43, '1968'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'stage'), (71, 'and'), (75, 'early'), (81, 'silent'), (88, 'film'), (93, 'actor'), (99, 'who'), (103, 'appeared'), (112, 'in'), (115, 'over'), (120, 'sixty'), (126, 'motion'), (133, 'pictures'), (142, 'between'), (150, '1912'), (155, 'and'), (159, '1927'), (163, '.'), (165, 'Hadley'), (172, 'quit'), (177, 'acting'), (184, 'as'), (187, 'he'), (190, 'approached'), (201, 'middle'), (208, 'age'), (212, 'to'), (215, 'later'), (221, 'become'), (228, 'a'), (230, 'successful'), (241, 'Hollywood'), (251, 'makeup'), (258, 'artist'), (264, '.')])</spacy_tokens>
+<spacy_chunks>[('Bert Hadley', 0, 11), ('April 12, 1882', 13, 27), ('December 30, 1968', 30, 47), ('an American stage', 53, 70), ('early silent film actor', 75, 98), ('over sixty motion pictures', 115, 141), ('Middle age', 201, 211), ('a successful Hollywood makeup artist', 228, 264)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'IN', 'CD', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBG', 'IN', 'PRP', 'VBD', 'JJ', 'NN', 'TO', 'RB', 'VB', 'DT', 'JJ', 'NNP', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

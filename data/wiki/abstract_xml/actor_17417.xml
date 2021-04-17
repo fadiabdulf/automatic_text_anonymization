@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anna Wilson-Jones</title>
+<link/>https://en.wikipedia.org/wiki/Anna_Wilson-Jones
+<annotated>0</annotated>
+<originalabstract>Anna Wilson-Jones (born in Woking, Surrey) is an English actress. She is probably best known for her roles as Juliet Miller in Hotel Babylon and main character Tim Bisley's ex-girlfriend Sarah in Spaced.</originalabstract>
+<abstract>Anna_Wilson-Jones ( born in Woking , Surrey ) is an_English_actress . She is_probably_best_known for her_roles as Juliet_Miller in Hotel_Babylon and main_character_Tim_Bisley 's_ex-girlfriend_Sarah in Spaced .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anna'), (5, 'Wilson-Jones'), (18, '('), (19, 'born'), (24, 'in'), (27, 'Woking'), (33, ','), (35, 'Surrey'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'English'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'is'), (73, 'probably'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'her'), (101, 'roles'), (107, 'as'), (110, 'Juliet'), (117, 'Miller'), (124, 'in'), (127, 'Hotel'), (133, 'Babylon'), (141, 'and'), (145, 'main'), (150, 'character'), (160, 'Tim'), (164, 'Bisley'), (170, '\'s'), (173, 'ex-girlfriend'), (187, 'Sarah'), (193, 'in'), (196, 'Spaced'), (202, '.')])</stanford_tokens>
+<opennlp_chunks>[('Anna Wilson-Jones',0, 17), ('an English actress',46, 64), ('is probably best known',70, 92), ('her roles',97, 106), ('Juliet Miller',110, 123), ('Hotel Babylon',127, 140), ('main character Tim Bisley',145, 170), ('\'s ex-girlfriend Sarah',170, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'JJ', 'NN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anna'), (5, 'Wilson'), (11, '-'), (12, 'Jones'), (18, '('), (19, 'born'), (24, 'in'), (27, 'Woking'), (33, ','), (35, 'Surrey'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'English'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'is'), (73, 'probably'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'her'), (101, 'roles'), (107, 'as'), (110, 'Juliet'), (117, 'Miller'), (124, 'in'), (127, 'Hotel'), (133, 'Babylon'), (141, 'and'), (145, 'main'), (150, 'character'), (160, 'Tim'), (164, 'Bisley'), (170, "'s"), (173, 'ex'), (175, '-'), (176, 'girlfriend'), (187, 'Sarah'), (193, 'in'), (196, 'Spaced'), (202, '.')])</spacy_tokens>
+<spacy_chunks>[('Anna Wilson-Jones', 0, 17), ('Woking', 27, 33), ('Surrey', 35, 41), ('an English actress', 46, 64), ('her roles', 97, 106), ('Juliet Miller', 110, 123), ('Hotel Babylon', 127, 140), ("main character Tim Bisley's ex-girlfriend Sarah", 145, 192), ('Spaced', 196, 202)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'JJ', 'NN', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'NN', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

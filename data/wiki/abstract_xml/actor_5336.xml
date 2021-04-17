@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lincoln Plumer</title>
+<link/>https://en.wikipedia.org/wiki/Lincoln_Plumer
+<annotated>0</annotated>
+<originalabstract>Lincoln Plumer (28 September 1875, Maryland - 14 February 1928, Hollywood, California) was an American silent film actor. He married fellow actor Rose Plumer. Lincoln Plumer died of heart disease in 1928.</originalabstract>
+<abstract>Lincoln_Plumer ( 28_September_1875 , Maryland - 14 February_1928 , Hollywood , California ) was an_American_silent_film_actor . He married fellow_actor_Rose_Plumer . Lincoln_Plumer died of heart_disease in 1928 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lincoln'), (8, 'Plumer'), (15, '('), (16, '28'), (19, 'September'), (29, '1875'), (33, ','), (35, 'Maryland'), (44, '-'), (46, '14'), (49, 'February'), (58, '1928'), (62, ','), (64, 'Hollywood'), (73, ','), (75, 'California'), (85, ')'), (87, 'was'), (91, 'an'), (94, 'American'), (103, 'silent'), (110, 'film'), (115, 'actor'), (120, '.'), (122, 'He'), (125, 'married'), (133, 'fellow'), (140, 'actor'), (146, 'Rose'), (151, 'Plumer'), (157, '.'), (159, 'Lincoln'), (167, 'Plumer'), (174, 'died'), (179, 'of'), (182, 'heart'), (188, 'disease'), (196, 'in'), (199, '1928'), (203, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lincoln Plumer',0, 14), ('28 September 1875',16, 33), ('February 1928',49, 62), ('an American silent film actor',91, 120), ('fellow actor Rose Plumer',133, 157), ('Lincoln Plumer',159, 173), ('heart disease',182, 195)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', ':', 'CD', 'NNP', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'JJ', 'NN', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'VBD', 'IN', 'NN', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lincoln'), (8, 'Plumer'), (15, '('), (16, '28'), (19, 'September'), (29, '1875'), (33, ','), (35, 'Maryland'), (44, '-'), (46, '14'), (49, 'February'), (58, '1928'), (62, ','), (64, 'Hollywood'), (73, ','), (75, 'California'), (85, ')'), (87, 'was'), (91, 'an'), (94, 'American'), (103, 'silent'), (110, 'film'), (115, 'actor'), (120, '.'), (122, 'He'), (125, 'married'), (133, 'fellow'), (140, 'actor'), (146, 'Rose'), (151, 'Plumer'), (157, '.'), (159, 'Lincoln'), (167, 'Plumer'), (174, 'died'), (179, 'of'), (182, 'heart'), (188, 'disease'), (196, 'in'), (199, '1928'), (203, '.')])</spacy_tokens>
+<spacy_chunks>[('Lincoln Plumer', 0, 14), ('28 September 1875', 16, 33), ('Maryland', 35, 43), ('- 14 February', 44, 57), ('14 February 1928', 46, 62), ('Hollywood, California', 64, 85), ('an American silent film actor', 91, 120), ('fellow actor Rose Plumer', 133, 157), ('Heart disease', 182, 195)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', 'HYPH', 'CD', 'NNP', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'JJ', 'NN', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'VBD', 'IN', 'NN', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

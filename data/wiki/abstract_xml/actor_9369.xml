@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tom Weston-Jones</title>
+<link/>https://en.wikipedia.org/wiki/Tom_Weston-Jones
+<annotated>0</annotated>
+<originalabstract>Tom Weston-Jones (born 29 June 1987) is an English actor, known for his role in Copper.</originalabstract>
+<abstract>Tom_Weston-Jones ( born_29_June_1987 ) is an_English_actor , known for his_role in Copper .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tom'), (4, 'Weston-Jones'), (17, '('), (18, 'born'), (23, '29'), (26, 'June'), (31, '1987'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actor'), (56, ','), (58, 'known'), (64, 'for'), (68, 'his'), (72, 'role'), (77, 'in'), (80, 'Copper'), (86, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tom Weston-Jones',0, 16), ('born 29 June 1987',18, 35), ('an English actor',40, 56), ('his role',68, 76)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tom'), (4, 'Weston'), (10, '-'), (11, 'Jones'), (17, '('), (18, 'born'), (23, '29'), (26, 'June'), (31, '1987'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actor'), (56, ','), (58, 'known'), (64, 'for'), (68, 'his'), (72, 'role'), (77, 'in'), (80, 'Copper'), (86, '.')])</spacy_tokens>
+<spacy_chunks>[('Tom Weston-Jones', 0, 16), ('29 June 1987', 23, 35), ('an English actor', 40, 56), ('his role', 68, 76), ('Copper', 80, 86)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

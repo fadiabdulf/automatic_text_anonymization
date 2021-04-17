@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>William Roache</title>
+<link/>https://en.wikipedia.org/wiki/William_Roache
+<annotated>0</annotated>
+<originalabstract>William Patrick Roache MBE (born 25 April 1932) is an English actor. He has played Ken Barlow in the soap opera Coronation Street since its first episode on 9 December 1960. He is listed in the Guinness World Records as the longest-serving male television star in a continuous role.</originalabstract>
+<abstract>William_Patrick_Roache_MBE ( born 25_April_1932 ) is an_English_actor . He has_played Ken_Barlow in the_soap_opera_Coronation_Street since its_first_episode on 9_December_1960 . He is_listed in the_Guinness_World_Records as the_longest-serving_male_television_star in a_continuous_role .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Patrick'), (16, 'Roache'), (23, 'MBE'), (27, '('), (28, 'born'), (33, '25'), (36, 'April'), (42, '1932'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'English'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'has'), (76, 'played'), (83, 'Ken'), (87, 'Barlow'), (94, 'in'), (97, 'the'), (101, 'soap'), (106, 'opera'), (112, 'Coronation'), (123, 'Street'), (130, 'since'), (136, 'its'), (140, 'first'), (146, 'episode'), (154, 'on'), (157, '9'), (159, 'December'), (168, '1960'), (172, '.'), (174, 'He'), (177, 'is'), (180, 'listed'), (187, 'in'), (190, 'the'), (194, 'Guinness'), (203, 'World'), (209, 'Records'), (217, 'as'), (220, 'the'), (224, 'longest-serving'), (240, 'male'), (245, 'television'), (256, 'star'), (261, 'in'), (264, 'a'), (266, 'continuous'), (277, 'role'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Patrick Roache MBE',0, 26), ('25 April 1932',33, 46), ('an English actor',51, 67), ('has played',72, 82), ('Ken Barlow',83, 93), ('the soap opera Coronation Street',97, 129), ('its first episode',136, 153), ('9 December 1960',157, 172), ('is listed',177, 186), ('the Guinness World Records',190, 216), ('the longest-serving male television star',220, 260), ('a continuous role',264, 281)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'CD', 'NNP', 'CD', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Patrick'), (16, 'Roache'), (23, 'MBE'), (27, '('), (28, 'born'), (33, '25'), (36, 'April'), (42, '1932'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'English'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'has'), (76, 'played'), (83, 'Ken'), (87, 'Barlow'), (94, 'in'), (97, 'the'), (101, 'soap'), (106, 'opera'), (112, 'Coronation'), (123, 'Street'), (130, 'since'), (136, 'its'), (140, 'first'), (146, 'episode'), (154, 'on'), (157, '9'), (159, 'December'), (168, '1960'), (172, '.'), (174, 'He'), (177, 'is'), (180, 'listed'), (187, 'in'), (190, 'the'), (194, 'Guinness'), (203, 'World'), (209, 'Records'), (217, 'as'), (220, 'the'), (224, 'longest'), (231, '-'), (232, 'serving'), (240, 'male'), (245, 'television'), (256, 'star'), (261, 'in'), (264, 'a'), (266, 'continuous'), (277, 'role'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('William Patrick Roache MBE', 0, 26), ('25 April 1932', 33, 46), ('an English actor', 51, 67), ('Ken Barlow', 83, 93), ('the soap opera Coronation Street', 97, 129), ('its first episode', 136, 153), ('9 December 1960', 157, 172), ('the Guinness World Records', 190, 216), ('As the', 217, 223), ('the longest-serving male television star', 220, 260), ('a continuous role', 264, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'CD', 'NNP', 'CD', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNPS', 'IN', 'DT', 'RBS', 'HYPH', 'VBG', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

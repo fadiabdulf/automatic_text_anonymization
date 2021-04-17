@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Meillon</title>
+<link/>https://en.wikipedia.org/wiki/John_Meillon
+<annotated>0</annotated>
+<originalabstract>John Meillon,  ( MEE-lon; 1 May 1934 – 10 August 1989) was an Australian character actor, known for many straight as well as comedy roles, he became most widely known internationally however as Walter Reilly in the films Crocodile Dundee and Crocodile Dundee II. He also voiced Victoria Bitter beer adverts.</originalabstract>
+<abstract>John_Meillon , ( MEE-lon ; 1_May_1934 – 10_August_1989 ) was an_Australian_character_actor , known for many_straight as_well as comedy_roles , he became most widely_known internationally_however as Walter_Reilly in the_films_Crocodile_Dundee and Crocodile_Dundee_II . He also voiced Victoria_Bitter_beer_adverts .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Meillon'), (12, ','), (15, '('), (17, 'MEE-lon'), (24, ';'), (26, '1'), (28, 'May'), (32, '1934'), (37, '–'), (39, '10'), (42, 'August'), (49, '1989'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'Australian'), (73, 'character'), (83, 'actor'), (88, ','), (90, 'known'), (96, 'for'), (100, 'many'), (105, 'straight'), (114, 'as'), (117, 'well'), (122, 'as'), (125, 'comedy'), (132, 'roles'), (137, ','), (139, 'he'), (142, 'became'), (149, 'most'), (154, 'widely'), (161, 'known'), (167, 'internationally'), (183, 'however'), (191, 'as'), (194, 'Walter'), (201, 'Reilly'), (208, 'in'), (211, 'the'), (215, 'films'), (221, 'Crocodile'), (231, 'Dundee'), (238, 'and'), (242, 'Crocodile'), (252, 'Dundee'), (259, 'II'), (261, '.'), (263, 'He'), (266, 'also'), (271, 'voiced'), (278, 'Victoria'), (287, 'Bitter'), (294, 'beer'), (299, 'adverts'), (306, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Meillon',0, 12), ('1 May 1934',26, 36), ('10 August 1989',39, 53), ('an Australian character actor',59, 88), ('many straight',100, 113), ('as well',114, 121), ('comedy roles',125, 137), ('widely known',154, 166), ('internationally however',167, 190), ('Walter Reilly',194, 207), ('the films Crocodile Dundee',211, 237), ('Crocodile Dundee II',242, 261), ('Victoria Bitter beer adverts',278, 306)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', '-LRB-', 'NN', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'VBN', 'IN', 'JJ', 'JJ', 'RB', 'RB', 'IN', 'NN', 'NNS', ',', 'PRP', 'VBD', 'RBS', 'RB', 'JJ', 'RB', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'NNP', 'NNP', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Meillon'), (12, ','), (15, '('), (17, 'MEE'), (20, '-'), (21, 'lon'), (24, ';'), (26, '1'), (28, 'May'), (32, '1934'), (37, '–'), (39, '10'), (42, 'August'), (49, '1989'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'Australian'), (73, 'character'), (83, 'actor'), (88, ','), (90, 'known'), (96, 'for'), (100, 'many'), (105, 'straight'), (114, 'as'), (117, 'well'), (122, 'as'), (125, 'comedy'), (132, 'roles'), (137, ','), (139, 'he'), (142, 'became'), (149, 'most'), (154, 'widely'), (161, 'known'), (167, 'internationally'), (183, 'however'), (191, 'as'), (194, 'Walter'), (201, 'Reilly'), (208, 'in'), (211, 'the'), (215, 'films'), (221, 'Crocodile'), (231, 'Dundee'), (238, 'and'), (242, 'Crocodile'), (252, 'Dundee'), (259, 'II'), (261, '.'), (263, 'He'), (266, 'also'), (271, 'voiced'), (278, 'Victoria'), (287, 'Bitter'), (294, 'beer'), (299, 'adverts'), (306, '.')])</spacy_tokens>
+<spacy_chunks>[('John Meillon', 0, 12), ('( MEE-lon', 15, 24), ('1 May 1934', 26, 36), ('10 August 1989', 39, 53), ('an Australian character actor', 59, 88), ('many straight as well as comedy roles', 100, 137), ('Walter Reilly', 194, 207), ('the films', 211, 220), ('Crocodile Dundee', 221, 237), ('Crocodile Dundee II', 242, 261), ('Victoria Bitter beer adverts', 278, 306)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', '-LRB-', 'NNP', 'HYPH', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'VBN', 'IN', 'JJ', 'RB', 'RB', 'RB', 'IN', 'NN', 'NNS', ',', 'PRP', 'VBD', 'RBS', 'RB', 'VBN', 'RB', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'NNP', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

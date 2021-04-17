@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cecil Parker</title>
+<link/>https://en.wikipedia.org/wiki/Cecil_Parker
+<annotated>0</annotated>
+<originalabstract>Cecil Parker (born Cecil Schwabe, 3 September 1897 – 20 April 1971) was an English character and comedy actor with a distinctively husky voice, who usually played supporting roles, often characters with a supercilious demeanour, in his 91 films made between 1928 and 1969.</originalabstract>
+<abstract>Cecil_Parker ( born Cecil_Schwabe , 3_September_1897 – 20_April_1971 ) was an_English_character_and_comedy_actor with a_distinctively_husky_voice , who usually played_supporting roles , often characters with a_supercilious_demeanour , in his_91_films made between 1928_and_1969 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cecil'), (6, 'Parker'), (13, '('), (14, 'born'), (19, 'Cecil'), (25, 'Schwabe'), (32, ','), (34, '3'), (36, 'September'), (46, '1897'), (51, '–'), (53, '20'), (56, 'April'), (62, '1971'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'English'), (83, 'character'), (93, 'and'), (97, 'comedy'), (104, 'actor'), (110, 'with'), (115, 'a'), (117, 'distinctively'), (131, 'husky'), (137, 'voice'), (142, ','), (144, 'who'), (148, 'usually'), (156, 'played'), (163, 'supporting'), (174, 'roles'), (179, ','), (181, 'often'), (187, 'characters'), (198, 'with'), (203, 'a'), (205, 'supercilious'), (218, 'demeanour'), (227, ','), (229, 'in'), (232, 'his'), (236, '91'), (239, 'films'), (245, 'made'), (250, 'between'), (258, '1928'), (263, 'and'), (267, '1969'), (271, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cecil Parker',0, 12), ('Cecil Schwabe',19, 32), ('3 September 1897',34, 50), ('20 April 1971',53, 66), ('an English character and comedy actor',72, 109), ('a distinctively husky voice',115, 142), ('played supporting',156, 173), ('a supercilious demeanour',203, 227), ('his 91 films',232, 244), ('1928 and 1969',258, 271)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'RB', 'JJ', 'NN', ',', 'WP', 'RB', 'VBD', 'VBG', 'NNS', ',', 'RB', 'NNS', 'IN', 'DT', 'JJ', 'NN', ',', 'IN', 'PRP$', 'CD', 'NNS', 'VBD', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cecil'), (6, 'Parker'), (13, '('), (14, 'born'), (19, 'Cecil'), (25, 'Schwabe'), (32, ','), (34, '3'), (36, 'September'), (46, '1897'), (51, '–'), (53, '20'), (56, 'April'), (62, '1971'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'English'), (83, 'character'), (93, 'and'), (97, 'comedy'), (104, 'actor'), (110, 'with'), (115, 'a'), (117, 'distinctively'), (131, 'husky'), (137, 'voice'), (142, ','), (144, 'who'), (148, 'usually'), (156, 'played'), (163, 'supporting'), (174, 'roles'), (179, ','), (181, 'often'), (187, 'characters'), (198, 'with'), (203, 'a'), (205, 'supercilious'), (218, 'demeanour'), (227, ','), (229, 'in'), (232, 'his'), (236, '91'), (239, 'films'), (245, 'made'), (250, 'between'), (258, '1928'), (263, 'and'), (267, '1969'), (271, '.')])</spacy_tokens>
+<spacy_chunks>[('Cecil Parker', 0, 12), ('born Cecil Schwabe', 14, 32), ('3 September 1897', 34, 50), ('20 April 1971', 53, 66), ('an English character', 72, 92), ('comedy actor', 97, 109), ('a distinctively husky voice', 115, 142), ('supporting roles', 163, 179), ('often characters', 181, 197), ('a supercilious demeanour', 203, 227), ('his 91 films', 232, 244)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'RB', 'JJ', 'NN', ',', 'WP', 'RB', 'VBD', 'VBG', 'NNS', ',', 'RB', 'NNS', 'IN', 'DT', 'JJ', 'NN', ',', 'IN', 'PRP$', 'CD', 'NNS', 'VBN', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

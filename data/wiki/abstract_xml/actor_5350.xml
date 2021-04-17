@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gene Pollar</title>
+<link/>https://en.wikipedia.org/wiki/Gene_Pollar
+<annotated>0</annotated>
+<originalabstract>Gene Pollar (September 16, 1892 - October 20, 1971) was the screen name of New York City firefighter Joseph Pohler, who in his very brief movie career played Tarzan.</originalabstract>
+<abstract>Gene_Pollar ( September_16_,_1892 - October_20_,_1971 ) was the_screen_name of New_York_City_firefighter_Joseph_Pohler , who in his_very_brief_movie_career played Tarzan .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gene'), (5, 'Pollar'), (12, '('), (13, 'September'), (23, '16'), (25, ','), (27, '1892'), (32, '-'), (34, 'October'), (42, '20'), (44, ','), (46, '1971'), (50, ')'), (52, 'was'), (56, 'the'), (60, 'screen'), (67, 'name'), (72, 'of'), (75, 'New'), (79, 'York'), (84, 'City'), (89, 'firefighter'), (101, 'Joseph'), (108, 'Pohler'), (114, ','), (116, 'who'), (120, 'in'), (123, 'his'), (127, 'very'), (132, 'brief'), (138, 'movie'), (144, 'career'), (151, 'played'), (158, 'Tarzan'), (164, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gene Pollar',0, 11), ('September 16, 1892',13, 31), ('October 20, 1971',34, 50), ('the screen name',56, 71), ('New York City firefighter Joseph Pohler',75, 114), ('his very brief movie career',123, 150)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', ',', 'WP', 'IN', 'PRP$', 'RB', 'JJ', 'NN', 'NN', 'VBD', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gene'), (5, 'Pollar'), (12, '('), (13, 'September'), (23, '16'), (25, ','), (27, '1892'), (32, '-'), (34, 'October'), (42, '20'), (44, ','), (46, '1971'), (50, ')'), (52, 'was'), (56, 'the'), (60, 'screen'), (67, 'name'), (72, 'of'), (75, 'New'), (79, 'York'), (84, 'City'), (89, 'firefighter'), (101, 'Joseph'), (108, 'Pohler'), (114, ','), (116, 'who'), (120, 'in'), (123, 'his'), (127, 'very'), (132, 'brief'), (138, 'movie'), (144, 'career'), (151, 'played'), (158, 'Tarzan'), (164, '.')])</spacy_tokens>
+<spacy_chunks>[('Gene Pollar', 0, 11), ('(September', 12, 22), ('September 16, 1892', 13, 31), ('October 20, 1971', 34, 50), ('the screen name', 56, 71), ('New York City firefighter Joseph Pohler', 75, 114), ('his very brief movie career', 123, 150), ('Tarzan', 158, 164)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', ',', 'WP', 'IN', 'PRP$', 'RB', 'JJ', 'NN', 'NN', 'VBD', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

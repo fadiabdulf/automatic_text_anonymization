@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bill Goodwin</title>
+<link/>https://en.wikipedia.org/wiki/Bill_Goodwin
+<annotated>0</annotated>
+<originalabstract>William Nettles Goodwin (July 28, 1910 – May 9, 1958), was for many years the announcer and a recurring character of the Burns and Allen radio program, and subsequently The George Burns and Gracie Allen Show on television from 1950-1951. Upon his departure, he was replaced by Harry von Zell.</originalabstract>
+<abstract>William_Nettles_Goodwin ( July_28_,_1910 – May_9_,_1958 ) , was for many_years the_announcer and a_recurring_character of the_Burns_and_Allen_radio_program , and subsequently The_George_Burns and Gracie_Allen_Show on television from 1950-1951 . Upon his_departure , he was_replaced by Harry_von_Zell .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Nettles'), (16, 'Goodwin'), (24, '('), (25, 'July'), (30, '28'), (32, ','), (34, '1910'), (39, '–'), (41, 'May'), (45, '9'), (46, ','), (48, '1958'), (52, ')'), (53, ','), (55, 'was'), (59, 'for'), (63, 'many'), (68, 'years'), (74, 'the'), (78, 'announcer'), (88, 'and'), (92, 'a'), (94, 'recurring'), (104, 'character'), (114, 'of'), (117, 'the'), (121, 'Burns'), (127, 'and'), (131, 'Allen'), (137, 'radio'), (143, 'program'), (150, ','), (152, 'and'), (156, 'subsequently'), (169, 'The'), (173, 'George'), (180, 'Burns'), (186, 'and'), (190, 'Gracie'), (197, 'Allen'), (203, 'Show'), (208, 'on'), (211, 'television'), (222, 'from'), (227, '1950-1951'), (236, '.'), (238, 'Upon'), (243, 'his'), (247, 'departure'), (256, ','), (258, 'he'), (261, 'was'), (265, 'replaced'), (274, 'by'), (277, 'Harry'), (283, 'von'), (287, 'Zell'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Nettles Goodwin',0, 23), ('July 28, 1910',25, 38), ('May 9, 1958',41, 52), ('many years',63, 73), ('the announcer',74, 87), ('a recurring character',92, 113), ('the Burns and Allen radio program',117, 150), ('The George Burns',169, 185), ('Gracie Allen Show',190, 207), ('his departure',243, 256), ('was replaced',261, 273), ('Harry von Zell',277, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'IN', 'JJ', 'NNS', 'DT', 'NN', 'CC', 'DT', 'VBG', 'NN', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NN', 'NN', ',', 'CC', 'RB', 'DT', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'IN', 'CD', '.', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Nettles'), (16, 'Goodwin'), (24, '('), (25, 'July'), (30, '28'), (32, ','), (34, '1910'), (39, '–'), (41, 'May'), (45, '9'), (46, ','), (48, '1958'), (52, ')'), (53, ','), (55, 'was'), (59, 'for'), (63, 'many'), (68, 'years'), (74, 'the'), (78, 'announcer'), (88, 'and'), (92, 'a'), (94, 'recurring'), (104, 'character'), (114, 'of'), (117, 'the'), (121, 'Burns'), (127, 'and'), (131, 'Allen'), (137, 'radio'), (143, 'program'), (150, ','), (152, 'and'), (156, 'subsequently'), (169, 'The'), (173, 'George'), (180, 'Burns'), (186, 'and'), (190, 'Gracie'), (197, 'Allen'), (203, 'Show'), (208, 'on'), (211, 'television'), (222, 'from'), (227, '1950'), (231, '-'), (232, '1951'), (236, '.'), (238, 'Upon'), (243, 'his'), (247, 'departure'), (256, ','), (258, 'he'), (261, 'was'), (265, 'replaced'), (274, 'by'), (277, 'Harry'), (283, 'von'), (287, 'Zell'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('William Nettles Goodwin', 0, 23), ('July 28, 1910', 25, 38), ('May 9, 1958', 41, 52), ('many years', 63, 73), ('the announcer', 74, 87), ('a recurring character', 92, 113), ('the Burns and Allen radio program', 117, 150), ('The George Burns and Gracie Allen Show', 169, 207), ('television', 211, 221), ('his departure', 243, 256), ('Harry von Zell', 277, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'IN', 'JJ', 'NNS', 'DT', 'NN', 'CC', 'DT', 'VBG', 'NN', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NN', 'NN', ',', 'CC', 'RB', 'DT', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'IN', 'NN', 'IN', 'CD', 'SYM', 'CD', '.', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

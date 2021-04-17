@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Luke Askew</title>
+<link/>https://en.wikipedia.org/wiki/Luke_Askew
+<annotated>0</annotated>
+<originalabstract>Francis Luke Askew (March 26, 1932 – March 29, 2012) was an American actor best known for his role in the 1969 film Easy Rider. He appeared in many westerns, and had a rare lead role in the spaghetti Western Night of the Serpent (La notte dei serpenti; 1969).</originalabstract>
+<abstract>Francis_Luke_Askew ( March_26_,_1932 – March_29_,_2012 ) was an_American_actor best_known for his_role in the_1969_film_Easy_Rider . He appeared in many_westerns , and had a_rare_lead_role in the_spaghetti Western_Night of the_Serpent_(_La_notte_dei_serpenti ; 1969_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Francis'), (8, 'Luke'), (13, 'Askew'), (19, '('), (20, 'March'), (26, '26'), (28, ','), (30, '1932'), (35, '–'), (37, 'March'), (43, '29'), (45, ','), (47, '2012'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'role'), (99, 'in'), (102, 'the'), (106, '1969'), (111, 'film'), (116, 'Easy'), (121, 'Rider'), (126, '.'), (128, 'He'), (131, 'appeared'), (140, 'in'), (143, 'many'), (148, 'westerns'), (156, ','), (158, 'and'), (162, 'had'), (166, 'a'), (168, 'rare'), (173, 'lead'), (178, 'role'), (183, 'in'), (186, 'the'), (190, 'spaghetti'), (200, 'Western'), (208, 'Night'), (214, 'of'), (217, 'the'), (221, 'Serpent'), (229, '('), (230, 'La'), (233, 'notte'), (239, 'dei'), (243, 'serpenti'), (251, ';'), (253, '1969'), (257, ')'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Francis Luke Askew',0, 18), ('March 26, 1932',20, 34), ('March 29, 2012',37, 51), ('an American actor',57, 74), ('best known',75, 85), ('his role',90, 98), ('the 1969 film Easy Rider',102, 126), ('many westerns',143, 156), ('a rare lead role',166, 182), ('the spaghetti',186, 199), ('Western Night',200, 213), ('the Serpent (La notte dei serpenti',217, 251), ('1969)',253, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', ',', 'CC', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NNS', 'JJ', 'NN', 'IN', 'DT', 'NNP', '-LRB-', 'NNP', 'NNP', 'FW', 'FW', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Francis'), (8, 'Luke'), (13, 'Askew'), (19, '('), (20, 'March'), (26, '26'), (28, ','), (30, '1932'), (35, '–'), (37, 'March'), (43, '29'), (45, ','), (47, '2012'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'role'), (99, 'in'), (102, 'the'), (106, '1969'), (111, 'film'), (116, 'Easy'), (121, 'Rider'), (126, '.'), (128, 'He'), (131, 'appeared'), (140, 'in'), (143, 'many'), (148, 'westerns'), (156, ','), (158, 'and'), (162, 'had'), (166, 'a'), (168, 'rare'), (173, 'lead'), (178, 'role'), (183, 'in'), (186, 'the'), (190, 'spaghetti'), (200, 'Western'), (208, 'Night'), (214, 'of'), (217, 'the'), (221, 'Serpent'), (229, '('), (230, 'La'), (233, 'notte'), (239, 'dei'), (243, 'serpenti'), (251, ';'), (253, '1969'), (257, ')'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Francis Luke Askew', 0, 18), ('(March', 19, 25), ('March 26, 1932', 20, 34), ('March 29, 2012', 37, 51), ('an American actor', 57, 74), ('his role', 90, 98), ('the 1969 film', 102, 115), ('Easy Rider', 116, 126), ('many westerns', 143, 156), ('a rare lead role', 166, 182), ('the spaghetti', 186, 199), ('Spaghetti Western', 190, 207), ('Western Night', 200, 213), ('the Serpent (La notte dei serpenti', 217, 251)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', ',', 'CC', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NNS', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'FW', 'FW', 'FW', 'NN', ':', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

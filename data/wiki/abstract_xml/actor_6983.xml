@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Waters</title>
+<link/>https://en.wikipedia.org/wiki/John_Waters
+<annotated>0</annotated>
+<originalabstract>John Samuel Waters Jr. (born April 22, 1946) is an American film director, screenwriter, author, actor, stand-up comedian, journalist, visual artist, and art collector, who rose to fame in the early 1970s for his transgressive cult films.</originalabstract>
+<abstract>John_Samuel_Waters_Jr. ( born April_22_,_1946 ) is an_American_film_director , screenwriter , author , actor , stand-up_comedian , journalist , visual_artist , and art_collector , who rose to fame in the_early_1970s for his_transgressive_cult_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Samuel'), (12, 'Waters'), (19, 'Jr.'), (23, '('), (24, 'born'), (29, 'April'), (35, '22'), (37, ','), (39, '1946'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'film'), (65, 'director'), (73, ','), (75, 'screenwriter'), (87, ','), (89, 'author'), (95, ','), (97, 'actor'), (102, ','), (104, 'stand-up'), (113, 'comedian'), (121, ','), (123, 'journalist'), (133, ','), (135, 'visual'), (142, 'artist'), (148, ','), (150, 'and'), (154, 'art'), (158, 'collector'), (167, ','), (169, 'who'), (173, 'rose'), (178, 'to'), (181, 'fame'), (186, 'in'), (189, 'the'), (193, 'early'), (199, '1970s'), (205, 'for'), (209, 'his'), (213, 'transgressive'), (227, 'cult'), (232, 'films'), (237, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Samuel Waters Jr.',0, 22), ('April 22, 1946',29, 43), ('an American film director',48, 73), ('stand-up comedian',104, 121), ('visual artist',135, 148), ('art collector',154, 167), ('the early 1970s',189, 204), ('his transgressive cult films',209, 237)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'JJ', 'NN', ',', 'NN', ',', 'JJ', 'NN', ',', 'CC', 'NN', 'NN', ',', 'WP', 'VBD', 'TO', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Samuel'), (12, 'Waters'), (19, 'Jr.'), (23, '('), (24, 'born'), (29, 'April'), (35, '22'), (37, ','), (39, '1946'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'film'), (65, 'director'), (73, ','), (75, 'screenwriter'), (87, ','), (89, 'author'), (95, ','), (97, 'actor'), (102, ','), (104, 'stand'), (109, '-'), (110, 'up'), (113, 'comedian'), (121, ','), (123, 'journalist'), (133, ','), (135, 'visual'), (142, 'artist'), (148, ','), (150, 'and'), (154, 'art'), (158, 'collector'), (167, ','), (169, 'who'), (173, 'rose'), (178, 'to'), (181, 'fame'), (186, 'in'), (189, 'the'), (193, 'early'), (199, '1970s'), (205, 'for'), (209, 'his'), (213, 'transgressive'), (227, 'cult'), (232, 'films'), (237, '.')])</spacy_tokens>
+<spacy_chunks>[('John Samuel Waters Jr.', 0, 22), ('April 22, 1946', 29, 43), ('an American film director', 48, 73), ('screenwriter', 75, 87), ('author', 89, 95), ('stand-up comedian', 104, 121), ('journalist', 123, 133), ('visual artist', 135, 148), ('art collector', 154, 167), ('the early 1970s', 189, 204), ('his transgressive cult films', 209, 237)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'VB', 'HYPH', 'RP', 'NN', ',', 'NN', ',', 'JJ', 'NN', ',', 'CC', 'NN', 'NN', ',', 'WP', 'VBD', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

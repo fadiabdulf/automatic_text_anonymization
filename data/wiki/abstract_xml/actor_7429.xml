@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Àlex Brendemühl</title>
+<link/>https://en.wikipedia.org/wiki/%C3%80lex_Brendem%C3%BChl
+<annotated>0</annotated>
+<originalabstract>Àlex Brendemühl Gubern (born 27 November 1972) is a Spanish actor. Born in Barcelona to a Spanish mother and a German father, he has appeared in more than 60 films and television shows since 1995. Brendemühl played the lead role of the Nazi war criminal Josef Mengele in the 2013 film The German Doctor.</originalabstract>
+<abstract>Àlex_Brendemühl_Gubern ( born 27_November_1972 ) is a_Spanish_actor . Born in Barcelona to a_Spanish_mother and a_German_father , he has_appeared in more_than_60_films_and_television_shows since 1995 . Brendemühl played the_lead_role of the_Nazi_war_criminal_Josef_Mengele in the_2013_film The_German_Doctor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Àlex'), (5, 'Brendemühl'), (16, 'Gubern'), (23, '('), (24, 'born'), (29, '27'), (32, 'November'), (41, '1972'), (45, ')'), (47, 'is'), (50, 'a'), (52, 'Spanish'), (60, 'actor'), (65, '.'), (67, 'Born'), (72, 'in'), (75, 'Barcelona'), (85, 'to'), (88, 'a'), (90, 'Spanish'), (98, 'mother'), (105, 'and'), (109, 'a'), (111, 'German'), (118, 'father'), (124, ','), (126, 'he'), (129, 'has'), (133, 'appeared'), (142, 'in'), (145, 'more'), (150, 'than'), (155, '60'), (158, 'films'), (164, 'and'), (168, 'television'), (179, 'shows'), (185, 'since'), (191, '1995'), (195, '.'), (197, 'Brendemühl'), (208, 'played'), (215, 'the'), (219, 'lead'), (224, 'role'), (229, 'of'), (232, 'the'), (236, 'Nazi'), (241, 'war'), (245, 'criminal'), (254, 'Josef'), (260, 'Mengele'), (268, 'in'), (271, 'the'), (275, '2013'), (280, 'film'), (285, 'The'), (289, 'German'), (296, 'Doctor'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Àlex Brendemühl Gubern',0, 22), ('27 November 1972',29, 45), ('a Spanish actor',50, 65), ('a Spanish mother',88, 104), ('a German father',109, 124), ('has appeared',129, 141), ('more than 60 films and television shows',145, 184), ('the lead role',215, 228), ('the Nazi war criminal Josef Mengele',232, 267), ('the 2013 film',271, 284), ('The German Doctor',285, 302)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'VBN', 'IN', 'NNP', 'TO', 'DT', 'JJ', 'NN', 'CC', 'DT', 'JJ', 'NN', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Àlex'), (5, 'Brendemühl'), (16, 'Gubern'), (23, '('), (24, 'born'), (29, '27'), (32, 'November'), (41, '1972'), (45, ')'), (47, 'is'), (50, 'a'), (52, 'Spanish'), (60, 'actor'), (65, '.'), (67, 'Born'), (72, 'in'), (75, 'Barcelona'), (85, 'to'), (88, 'a'), (90, 'Spanish'), (98, 'mother'), (105, 'and'), (109, 'a'), (111, 'German'), (118, 'father'), (124, ','), (126, 'he'), (129, 'has'), (133, 'appeared'), (142, 'in'), (145, 'more'), (150, 'than'), (155, '60'), (158, 'films'), (164, 'and'), (168, 'television'), (179, 'shows'), (185, 'since'), (191, '1995'), (195, '.'), (197, 'Brendemühl'), (208, 'played'), (215, 'the'), (219, 'lead'), (224, 'role'), (229, 'of'), (232, 'the'), (236, 'Nazi'), (241, 'war'), (245, 'criminal'), (254, 'Josef'), (260, 'Mengele'), (268, 'in'), (271, 'the'), (275, '2013'), (280, 'film'), (285, 'The'), (289, 'German'), (296, 'Doctor'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Àlex Brendemühl Gubern', 0, 22), ('27 November 1972', 29, 45), ('a Spanish actor', 50, 65), ('Barcelona', 75, 84), ('a Spanish mother', 88, 104), ('a German father', 109, 124), ('more than 60 films', 145, 163), ('television shows', 168, 184), ('the lead role', 215, 228), ('the Nazi war criminal Josef Mengele', 232, 267), ('In the', 268, 274), ('the 2013 film', 271, 284), ('The German Doctor', 285, 302)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'CC', 'DT', 'JJ', 'NN', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NN', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'DT', 'JJ', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

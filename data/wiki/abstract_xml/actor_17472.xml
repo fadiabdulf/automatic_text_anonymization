@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kate Ashfield</title>
+<link/>https://en.wikipedia.org/wiki/Kate_Ashfield
+<annotated>0</annotated>
+<originalabstract>Kate Ashfield (born 28 May 1972) is an English actress, best known for her award-winning roles as Jody in the Anglo-German film Late Night Shopping, as Sadie MacGregor in the British film This Little Life and as Liz in the 2004 film, Shaun of the Dead.</originalabstract>
+<abstract>Kate_Ashfield ( born 28_May_1972 ) is an_English_actress , best_known for her_award-winning_roles as Jody in the_Anglo-German_film_Late_Night_Shopping , as Sadie_MacGregor in the_British_film This_Little_Life and as Liz in the_2004_film , Shaun of the_Dead .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kate'), (5, 'Ashfield'), (14, '('), (15, 'born'), (20, '28'), (23, 'May'), (27, '1972'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'English'), (47, 'actress'), (54, ','), (56, 'best'), (61, 'known'), (67, 'for'), (71, 'her'), (75, 'award-winning'), (89, 'roles'), (95, 'as'), (98, 'Jody'), (103, 'in'), (106, 'the'), (110, 'Anglo-German'), (123, 'film'), (128, 'Late'), (133, 'Night'), (139, 'Shopping'), (147, ','), (149, 'as'), (152, 'Sadie'), (158, 'MacGregor'), (168, 'in'), (171, 'the'), (175, 'British'), (183, 'film'), (188, 'This'), (193, 'Little'), (200, 'Life'), (205, 'and'), (209, 'as'), (212, 'Liz'), (216, 'in'), (219, 'the'), (223, '2004'), (228, 'film'), (232, ','), (234, 'Shaun'), (240, 'of'), (243, 'the'), (247, 'Dead'), (251, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kate Ashfield',0, 13), ('28 May 1972',20, 31), ('an English actress',36, 54), ('best known',56, 66), ('her award-winning roles',71, 94), ('the Anglo-German film Late Night Shopping',106, 147), ('Sadie MacGregor',152, 167), ('the British film',171, 187), ('This Little Life',188, 204), ('the 2004 film',219, 232), ('the Dead',243, 251)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'JJ', 'NN', 'NNP', ',', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'DT', 'JJ', 'NN', 'CC', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', ',', 'NNP', 'IN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kate'), (5, 'Ashfield'), (14, '('), (15, 'born'), (20, '28'), (23, 'May'), (27, '1972'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'English'), (47, 'actress'), (54, ','), (56, 'best'), (61, 'known'), (67, 'for'), (71, 'her'), (75, 'award'), (80, '-'), (81, 'winning'), (89, 'roles'), (95, 'as'), (98, 'Jody'), (103, 'in'), (106, 'the'), (110, 'Anglo'), (115, '-'), (116, 'German'), (123, 'film'), (128, 'Late'), (133, 'Night'), (139, 'Shopping'), (147, ','), (149, 'as'), (152, 'Sadie'), (158, 'MacGregor'), (168, 'in'), (171, 'the'), (175, 'British'), (183, 'film'), (188, 'This'), (193, 'Little'), (200, 'Life'), (205, 'and'), (209, 'as'), (212, 'Liz'), (216, 'in'), (219, 'the'), (223, '2004'), (228, 'film'), (232, ','), (234, 'Shaun'), (240, 'of'), (243, 'the'), (247, 'Dead'), (251, '.')])</spacy_tokens>
+<spacy_chunks>[('Kate Ashfield', 0, 13), ('28 May 1972', 20, 31), ('an English actress', 36, 54), ('her award-winning roles', 71, 94), ('the Anglo-German film', 106, 127), ('Late Night Shopping', 128, 147), ('Sadie MacGregor', 152, 167), ('the British film', 171, 187), ('This Little Life', 188, 204), ('the 2004 film', 219, 232), ('Shaun of the Dead', 234, 251)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'HYPH', 'VBG', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', ',', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'DT', 'NNP', 'NNP', 'CC', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', ',', 'NNP', 'IN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

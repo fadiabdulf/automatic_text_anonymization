@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peggy Fears</title>
+<link/>https://en.wikipedia.org/wiki/Peggy_Fears
+<annotated>0</annotated>
+<originalabstract>Peggy Fears (June 1, 1903 - August 24, 1994) was an American actress, who appeared in Broadway musical comedies during the 1920s and 1930s before becoming a Broadway producer.</originalabstract>
+<abstract>Peggy_Fears ( June_1_,_1903 - August_24_,_1994 ) was an_American_actress , who appeared in Broadway_musical_comedies during the_1920s_and_1930s before becoming a_Broadway_producer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peggy'), (6, 'Fears'), (12, '('), (13, 'June'), (18, '1'), (19, ','), (21, '1903'), (26, '-'), (28, 'August'), (35, '24'), (37, ','), (39, '1994'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'actress'), (68, ','), (70, 'who'), (74, 'appeared'), (83, 'in'), (86, 'Broadway'), (95, 'musical'), (103, 'comedies'), (112, 'during'), (119, 'the'), (123, '1920s'), (129, 'and'), (133, '1930s'), (139, 'before'), (146, 'becoming'), (155, 'a'), (157, 'Broadway'), (166, 'producer'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peggy Fears',0, 11), ('June 1, 1903',13, 25), ('August 24, 1994',28, 43), ('an American actress',49, 68), ('Broadway musical comedies',86, 111), ('the 1920s and 1930s',119, 138), ('a Broadway producer',155, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNS', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'IN', 'NNP', 'JJ', 'NNS', 'IN', 'DT', 'CD', 'CC', 'CD', 'IN', 'VBG', 'DT', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peggy'), (6, 'Fears'), (12, '('), (13, 'June'), (18, '1'), (19, ','), (21, '1903'), (26, '-'), (28, 'August'), (35, '24'), (37, ','), (39, '1994'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'actress'), (68, ','), (70, 'who'), (74, 'appeared'), (83, 'in'), (86, 'Broadway'), (95, 'musical'), (103, 'comedies'), (112, 'during'), (119, 'the'), (123, '1920s'), (129, 'and'), (133, '1930s'), (139, 'before'), (146, 'becoming'), (155, 'a'), (157, 'Broadway'), (166, 'producer'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[('Peggy Fears', 0, 11), ('June 1, 1903', 13, 25), ('August 24, 1994', 28, 43), ('an American actress', 49, 68), ('Broadway musical comedies', 86, 111), ('a Broadway producer', 155, 174)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNS', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'IN', 'NNP', 'JJ', 'NNS', 'IN', 'DT', 'CD', 'CC', 'NNS', 'IN', 'VBG', 'DT', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

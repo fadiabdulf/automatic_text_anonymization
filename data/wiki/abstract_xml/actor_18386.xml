@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marie-Christine Barrault</title>
+<link/>https://en.wikipedia.org/wiki/Marie-Christine_Barrault
+<annotated>0</annotated>
+<originalabstract>Marie-Christine Barrault (born 21 March 1944) is a French actress. She is best known for her performance in Cousin Cousine (1975) for which she was nominated for the Academy Award for Best Actress. In 2010, she released her autobiography, titled This Long Way To Get To You.</originalabstract>
+<abstract>Marie-Christine_Barrault ( born 21_March_1944 ) is a_French_actress . She is_best_known for her_performance in Cousin_Cousine_(_1975_) for which she was_nominated for the_Academy_Award for_Best_Actress . In 2010 , she released her_autobiography , titled This_Long_Way To_Get To You .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie-Christine'), (16, 'Barrault'), (25, '('), (26, 'born'), (31, '21'), (34, 'March'), (40, '1944'), (44, ')'), (46, 'is'), (49, 'a'), (51, 'French'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'is'), (74, 'best'), (79, 'known'), (85, 'for'), (89, 'her'), (93, 'performance'), (105, 'in'), (108, 'Cousin'), (115, 'Cousine'), (123, '('), (124, '1975'), (128, ')'), (130, 'for'), (134, 'which'), (140, 'she'), (144, 'was'), (148, 'nominated'), (158, 'for'), (162, 'the'), (166, 'Academy'), (174, 'Award'), (180, 'for'), (184, 'Best'), (189, 'Actress'), (196, '.'), (198, 'In'), (201, '2010'), (205, ','), (207, 'she'), (211, 'released'), (220, 'her'), (224, 'autobiography'), (237, ','), (239, 'titled'), (246, 'This'), (251, 'Long'), (256, 'Way'), (260, 'To'), (263, 'Get'), (267, 'To'), (270, 'You'), (273, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie-Christine Barrault',0, 24), ('21 March 1944',31, 44), ('a French actress',49, 65), ('is best known',71, 84), ('her performance',89, 104), ('Cousin Cousine (1975)',108, 129), ('was nominated',144, 157), ('the Academy Award',162, 179), ('for Best Actress',180, 196), ('her autobiography',220, 237), ('This Long Way',246, 259), ('To Get',260, 266)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'IN', 'WDT', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'PRP$', 'NN', ',', 'VBN', 'DT', 'JJ', 'NN', 'TO', 'VB', 'TO', 'PRP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (5, '-'), (6, 'Christine'), (16, 'Barrault'), (25, '('), (26, 'born'), (31, '21'), (34, 'March'), (40, '1944'), (44, ')'), (46, 'is'), (49, 'a'), (51, 'French'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'is'), (74, 'best'), (79, 'known'), (85, 'for'), (89, 'her'), (93, 'performance'), (105, 'in'), (108, 'Cousin'), (115, 'Cousine'), (123, '('), (124, '1975'), (128, ')'), (130, 'for'), (134, 'which'), (140, 'she'), (144, 'was'), (148, 'nominated'), (158, 'for'), (162, 'the'), (166, 'Academy'), (174, 'Award'), (180, 'for'), (184, 'Best'), (189, 'Actress'), (196, '.'), (198, 'In'), (201, '2010'), (205, ','), (207, 'she'), (211, 'released'), (220, 'her'), (224, 'autobiography'), (237, ','), (239, 'titled'), (246, 'This'), (251, 'Long'), (256, 'Way'), (260, 'To'), (263, 'Get'), (267, 'To'), (270, 'You'), (273, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie-Christine Barrault', 0, 24), ('21 March 1944', 31, 44), ('a French actress', 49, 65), ('her performance', 89, 104), ('Cousin Cousine', 108, 122), ('the Academy Award', 162, 179), ('Academy Award for Best Actress', 166, 196), ('her autobiography', 220, 237)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'IN', 'WDT', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'PRP$', 'NN', ',', 'VBN', 'DT', 'JJ', 'NN', 'TO', 'VB', 'IN', 'PRP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

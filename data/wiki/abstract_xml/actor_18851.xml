@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gina Palerme</title>
+<link/>https://en.wikipedia.org/wiki/Gina_Palerme
+<annotated>0</annotated>
+<originalabstract>.
+Gina Palerme (1885-1977) born Irene de Maulmont was a French actress and dancer.
+Palerme appeared on the stage in London in November 1910 and played in several well-known London houses up to 1919. She also appeared in about a dozen French titled silent films from 1921 through 1925.
+She died in France in December 1977.</originalabstract>
+<abstract>. Gina_Palerme_(_1885-1977_)_born_Irene de Maulmont was a_French_actress_and_dancer . Palerme appeared on the_stage in London in November_1910 and played in several_well-known_London houses up to 1919 . She also appeared in about a_dozen_French titled silent_films from 1921 through 1925 . She died in France in December_1977 .</abstract>
+<stanford_tokens>OrderedDict([(0, '.'), (2, 'Gina'), (7, 'Palerme'), (15, '('), (16, '1885-1977'), (25, ')'), (27, 'born'), (32, 'Irene'), (38, 'de'), (41, 'Maulmont'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'actress'), (71, 'and'), (75, 'dancer'), (81, '.'), (83, 'Palerme'), (91, 'appeared'), (100, 'on'), (103, 'the'), (107, 'stage'), (113, 'in'), (116, 'London'), (123, 'in'), (126, 'November'), (135, '1910'), (140, 'and'), (144, 'played'), (151, 'in'), (154, 'several'), (162, 'well-known'), (173, 'London'), (180, 'houses'), (187, 'up'), (190, 'to'), (193, '1919'), (197, '.'), (199, 'She'), (203, 'also'), (208, 'appeared'), (217, 'in'), (220, 'about'), (226, 'a'), (228, 'dozen'), (234, 'French'), (241, 'titled'), (248, 'silent'), (255, 'films'), (261, 'from'), (266, '1921'), (271, 'through'), (279, '1925'), (283, '.'), (285, 'She'), (289, 'died'), (294, 'in'), (297, 'France'), (304, 'in'), (307, 'December'), (316, '1977'), (320, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gina Palerme (1885-1977) born Irene',2, 37), ('a French actress and dancer',54, 81), ('the stage',103, 112), ('November 1910',126, 139), ('several well-known London',154, 179), ('a dozen French',226, 240), ('silent films',248, 260), ('December 1977',307, 320)]</opennlp_chunks>
+<stanford_pos>['.', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBN', 'NNP', 'IN', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NN', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'CD', 'CC', 'VBN', 'IN', 'JJ', 'JJ', 'NNP', 'NNS', 'RB', 'TO', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'IN', 'DT', 'NN', 'JJ', 'VBN', 'JJ', 'NNS', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, '.'), (2, 'Gina'), (7, 'Palerme'), (15, '('), (16, '1885'), (20, '-'), (21, '1977'), (25, ')'), (27, 'born'), (32, 'Irene'), (38, 'de'), (41, 'Maulmont'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'actress'), (71, 'and'), (75, 'dancer'), (81, '.'), (83, 'Palerme'), (91, 'appeared'), (100, 'on'), (103, 'the'), (107, 'stage'), (113, 'in'), (116, 'London'), (123, 'in'), (126, 'November'), (135, '1910'), (140, 'and'), (144, 'played'), (151, 'in'), (154, 'several'), (162, 'well'), (166, '-'), (167, 'known'), (173, 'London'), (180, 'houses'), (187, 'up'), (190, 'to'), (193, '1919'), (197, '.'), (199, 'She'), (203, 'also'), (208, 'appeared'), (217, 'in'), (220, 'about'), (226, 'a'), (228, 'dozen'), (234, 'French'), (241, 'titled'), (248, 'silent'), (255, 'films'), (261, 'from'), (266, '1921'), (271, 'through'), (279, '1925'), (283, '.'), (285, 'She'), (289, 'died'), (294, 'in'), (297, 'France'), (304, 'in'), (307, 'December'), (316, '1977'), (320, '.')])</spacy_tokens>
+<spacy_chunks>[('Gina Palerme', 2, 14), ('Irene de Maulmont', 32, 49), ('a French actress', 54, 70), ('dancer', 75, 81), ('the stage', 103, 112), ('London', 116, 122), ('November', 126, 134), ('several well-known London houses', 154, 186), ('about a dozen French', 220, 240), ('Silent films', 248, 260), ('France', 297, 303), ('December', 307, 315)]</spacy_chunks>
+<spacy_pos>['.', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'CD', 'CC', 'VBD', 'IN', 'JJ', 'RB', 'HYPH', 'VBN', 'NNP', 'NNS', 'IN', 'IN', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'RB', 'DT', 'NN', 'NNP', 'VBD', 'JJ', 'NNS', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

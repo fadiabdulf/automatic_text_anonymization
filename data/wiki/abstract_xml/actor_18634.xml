@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Claude Gensac</title>
+<link/>https://en.wikipedia.org/wiki/Claude_Gensac
+<annotated>0</annotated>
+<originalabstract>Claude Gensac (1 March 1927 – 27 December 2016) was a French actress. She appeared in more than 70 films and television productions since 1952. Gensac is the oldest nominee to date in the category César Award for Best Supporting Actress, nominated in 2015 for her role as Marthe in the film Lulu femme nue.</originalabstract>
+<abstract>Claude_Gensac ( 1_March_1927 – 27_December_2016 ) was a_French_actress . She appeared in more_than_70_films_and_television_productions since 1952 . Gensac is the_oldest_nominee to date in the_category_César_Award for Best_Supporting_Actress , nominated in 2015 for her_role as Marthe in the_film_Lulu_femme_nue .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Claude'), (7, 'Gensac'), (14, '('), (15, '1'), (17, 'March'), (23, '1927'), (28, '–'), (30, '27'), (33, 'December'), (42, '2016'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French'), (61, 'actress'), (68, '.'), (70, 'She'), (74, 'appeared'), (83, 'in'), (86, 'more'), (91, 'than'), (96, '70'), (99, 'films'), (105, 'and'), (109, 'television'), (120, 'productions'), (132, 'since'), (138, '1952'), (142, '.'), (144, 'Gensac'), (151, 'is'), (154, 'the'), (158, 'oldest'), (165, 'nominee'), (173, 'to'), (176, 'date'), (181, 'in'), (184, 'the'), (188, 'category'), (197, 'César'), (203, 'Award'), (209, 'for'), (213, 'Best'), (218, 'Supporting'), (229, 'Actress'), (236, ','), (238, 'nominated'), (248, 'in'), (251, '2015'), (256, 'for'), (260, 'her'), (264, 'role'), (269, 'as'), (272, 'Marthe'), (279, 'in'), (282, 'the'), (286, 'film'), (291, 'Lulu'), (296, 'femme'), (302, 'nue'), (305, '.')])</stanford_tokens>
+<opennlp_chunks>[('Claude Gensac',0, 13), ('1 March 1927',15, 27), ('27 December 2016',30, 46), ('a French actress',52, 68), ('more than 70 films and television productions',86, 131), ('the oldest nominee',154, 172), ('the category César Award',184, 208), ('Best Supporting Actress',213, 236), ('her role',260, 268), ('the film Lulu femme nue',282, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'NNP', 'VBZ', 'DT', 'JJS', 'NN', 'TO', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', ',', 'VBN', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Claude'), (7, 'Gensac'), (14, '('), (15, '1'), (17, 'March'), (23, '1927'), (28, '–'), (30, '27'), (33, 'December'), (42, '2016'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French'), (61, 'actress'), (68, '.'), (70, 'She'), (74, 'appeared'), (83, 'in'), (86, 'more'), (91, 'than'), (96, '70'), (99, 'films'), (105, 'and'), (109, 'television'), (120, 'productions'), (132, 'since'), (138, '1952'), (142, '.'), (144, 'Gensac'), (151, 'is'), (154, 'the'), (158, 'oldest'), (165, 'nominee'), (173, 'to'), (176, 'date'), (181, 'in'), (184, 'the'), (188, 'category'), (197, 'César'), (203, 'Award'), (209, 'for'), (213, 'Best'), (218, 'Supporting'), (229, 'Actress'), (236, ','), (238, 'nominated'), (248, 'in'), (251, '2015'), (256, 'for'), (260, 'her'), (264, 'role'), (269, 'as'), (272, 'Marthe'), (279, 'in'), (282, 'the'), (286, 'film'), (291, 'Lulu'), (296, 'femme'), (302, 'nue'), (305, '.')])</spacy_tokens>
+<spacy_chunks>[('Claude Gensac', 0, 13), ('(1 March', 14, 22), ('1 March 1927', 15, 27), ('27 December 2016', 30, 46), ('a French actress', 52, 68), ('more than 70 films', 86, 104), ('television productions', 109, 131), ('the oldest nominee', 154, 172), ('the category', 184, 196), ('César Award for Best Supporting Actress', 197, 236), ('her role', 260, 268), ('Marthe', 272, 278), ('the film', 282, 290), ('Lulu femme nue', 291, 305)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'NNP', 'VBZ', 'DT', 'JJS', 'NN', 'IN', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NNP', ',', 'VBN', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

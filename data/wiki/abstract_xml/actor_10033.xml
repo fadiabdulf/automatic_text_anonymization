@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Henri Monteux</title>
+<link/>https://en.wikipedia.org/wiki/Henri_Monteux
+<annotated>0</annotated>
+<originalabstract>Henri Philippe Moïse Monteux (born Paris, 23 February 1874, died Sachsenhausen, 12 April 1943) was a French theatre and film actor, and an elder brother of the conductor Pierre Monteux.  His family was descended from Sephardic Jews who settled in France.</originalabstract>
+<abstract>Henri_Philippe_Moïse_Monteux ( born_Paris , 23_February_1874 , died Sachsenhausen , 12_April_1943 ) was a_French_theatre_and_film_actor , and an_elder_brother of the_conductor_Pierre_Monteux . His_family was_descended from Sephardic_Jews who settled in France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Henri'), (6, 'Philippe'), (15, 'Moïse'), (21, 'Monteux'), (29, '('), (30, 'born'), (35, 'Paris'), (40, ','), (42, '23'), (45, 'February'), (54, '1874'), (58, ','), (60, 'died'), (65, 'Sachsenhausen'), (78, ','), (80, '12'), (83, 'April'), (89, '1943'), (93, ')'), (95, 'was'), (99, 'a'), (101, 'French'), (108, 'theatre'), (116, 'and'), (120, 'film'), (125, 'actor'), (130, ','), (132, 'and'), (136, 'an'), (139, 'elder'), (145, 'brother'), (153, 'of'), (156, 'the'), (160, 'conductor'), (170, 'Pierre'), (177, 'Monteux'), (184, '.'), (187, 'His'), (191, 'family'), (198, 'was'), (202, 'descended'), (212, 'from'), (217, 'Sephardic'), (227, 'Jews'), (232, 'who'), (236, 'settled'), (244, 'in'), (247, 'France'), (253, '.')])</stanford_tokens>
+<opennlp_chunks>[('Henri Philippe Moïse Monteux',0, 28), ('born Paris',30, 40), ('23 February 1874',42, 58), ('12 April 1943',80, 93), ('a French theatre and film actor',99, 130), ('an elder brother',136, 152), ('the conductor Pierre Monteux',156, 184), ('His family',187, 197), ('was descended',198, 211), ('Sephardic Jews',217, 231)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', ',', 'CD', 'NNP', 'CD', ',', 'VBD', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'CC', 'DT', 'JJR', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', 'JJ', 'NNPS', 'WP', 'VBD', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Henri'), (6, 'Philippe'), (15, 'Moïse'), (21, 'Monteux'), (29, '('), (30, 'born'), (35, 'Paris'), (40, ','), (42, '23'), (45, 'February'), (54, '1874'), (58, ','), (60, 'died'), (65, 'Sachsenhausen'), (78, ','), (80, '12'), (83, 'April'), (89, '1943'), (93, ')'), (95, 'was'), (99, 'a'), (101, 'French'), (108, 'theatre'), (116, 'and'), (120, 'film'), (125, 'actor'), (130, ','), (132, 'and'), (136, 'an'), (139, 'elder'), (145, 'brother'), (153, 'of'), (156, 'the'), (160, 'conductor'), (170, 'Pierre'), (177, 'Monteux'), (184, '.'), (187, 'His'), (191, 'family'), (198, 'was'), (202, 'descended'), (212, 'from'), (217, 'Sephardic'), (227, 'Jews'), (232, 'who'), (236, 'settled'), (244, 'in'), (247, 'France'), (253, '.')])</spacy_tokens>
+<spacy_chunks>[('Henri Philippe Moïse Monteux', 0, 28), ('(born Paris', 29, 40), ('23 February 1874', 42, 58), ('Sachsenhausen', 65, 78), ('12 April 1943', 80, 93), ('a French theatre and film actor', 99, 130), ('an elder brother', 136, 152), ('the conductor', 156, 169), ('Pierre Monteux', 170, 184), ('His family', 187, 197), ('Sephardic Jews', 217, 231), ('France', 247, 253)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', ',', 'CD', 'NNP', 'CD', ',', 'VBD', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'CC', 'DT', 'JJR', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', 'NNP', 'NNPS', 'WP', 'VBD', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wendy Raquel Robinson</title>
+<link/>https://en.wikipedia.org/wiki/Wendy_Raquel_Robinson
+<annotated>0</annotated>
+<originalabstract>Wendy Raquel Robinson (born July 25, 1967) is an American actress. Robinson is best known for her roles as high school principal Regina "Piggy" Grier on The WB comedy sitcom The Steve Harvey Show (1996–2002), and as sports agent Tasha Mack on The CW/BET sitcom The Game (2006–15).</originalabstract>
+<abstract>Wendy_Raquel_Robinson ( born July_25_,_1967 ) is an_American_actress . Robinson is_best_known for her_roles_as_high_school_principal_Regina_"_Piggy_"_Grier on The_WB_comedy sitcom The_Steve_Harvey_Show_(_1996 – 2002_) , and as sports_agent_Tasha_Mack on The_CW/BET_sitcom The_Game_(_2006 – 15_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wendy'), (6, 'Raquel'), (13, 'Robinson'), (22, '('), (23, 'born'), (28, 'July'), (33, '25'), (35, ','), (37, '1967'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, '.'), (67, 'Robinson'), (76, 'is'), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'her'), (98, 'roles'), (104, 'as'), (107, 'high'), (112, 'school'), (119, 'principal'), (129, 'Regina'), (136, '"'), (137, 'Piggy'), (142, '"'), (144, 'Grier'), (150, 'on'), (153, 'The'), (157, 'WB'), (160, 'comedy'), (167, 'sitcom'), (174, 'The'), (178, 'Steve'), (184, 'Harvey'), (191, 'Show'), (196, '('), (197, '1996'), (201, '–'), (202, '2002'), (206, ')'), (207, ','), (209, 'and'), (213, 'as'), (216, 'sports'), (223, 'agent'), (229, 'Tasha'), (235, 'Mack'), (240, 'on'), (243, 'The'), (247, 'CW/BET'), (254, 'sitcom'), (261, 'The'), (265, 'Game'), (270, '('), (271, '2006'), (275, '–'), (276, '15'), (278, ')'), (279, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wendy Raquel Robinson',0, 21), ('July 25, 1967',28, 41), ('an American actress',46, 65), ('is best known',76, 89), ('her roles as high school principal Regina "Piggy" Grier',94, 149), ('The WB comedy',153, 166), ('The Steve Harvey Show (1996',174, 201), ('2002)',202, 207), ('sports agent Tasha Mack',216, 239), ('The CW/BET sitcom',243, 260), ('The Game (2006',261, 275), ('15)',276, 279)]</opennlp_chunks>
+<stanford_pos>['NN', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'RB', 'JJ', 'NN', 'NN', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'CC', 'IN', 'NNS', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wendy'), (6, 'Raquel'), (13, 'Robinson'), (22, '('), (23, 'born'), (28, 'July'), (33, '25'), (35, ','), (37, '1967'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, '.'), (67, 'Robinson'), (76, 'is'), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'her'), (98, 'roles'), (104, 'as'), (107, 'high'), (112, 'school'), (119, 'principal'), (129, 'Regina'), (136, '"'), (137, 'Piggy'), (142, '"'), (144, 'Grier'), (150, 'on'), (153, 'The'), (157, 'WB'), (160, 'comedy'), (167, 'sitcom'), (174, 'The'), (178, 'Steve'), (184, 'Harvey'), (191, 'Show'), (196, '('), (197, '1996–2002'), (206, ')'), (207, ','), (209, 'and'), (213, 'as'), (216, 'sports'), (223, 'agent'), (229, 'Tasha'), (235, 'Mack'), (240, 'on'), (243, 'The'), (247, 'CW'), (249, '/'), (250, 'BET'), (254, 'sitcom'), (261, 'The'), (265, 'Game'), (270, '('), (271, '2006–15'), (278, ')'), (279, '.')])</spacy_tokens>
+<spacy_chunks>[('Wendy Raquel Robinson', 0, 21), ('July 25, 1967', 28, 41), ('an American actress', 46, 65), ('her roles', 94, 103), ('high school principal Regina "Piggy" Grier', 107, 149), ('The WB comedy sitcom', 153, 173), ('The Steve Harvey Show', 174, 195), ('sports agent Tasha Mack', 216, 239), ('The CW/BET sitcom', 243, 260), ('The Game', 261, 269), ('2006–15', 271, 278)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', 'NN', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'IN', 'NNS', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'SYM', 'NNP', 'NN', 'DT', 'NNP', '-LRB-', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

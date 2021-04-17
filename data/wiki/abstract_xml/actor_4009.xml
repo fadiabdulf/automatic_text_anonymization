@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tom Ligon</title>
+<link/>https://en.wikipedia.org/wiki/Tom_Ligon
+<annotated>0</annotated>
+<originalabstract>Thomas (Tom) Ligon (born September 10, 1940) is an actor of Cajun ancestry. He appeared in the films Paint Your Wagon, Jump,  and Bang the Drum Slowly (in which he also sang the title song) as well as the TV series The Young and the Restless, and Oz.</originalabstract>
+<abstract>Thomas ( Tom ) Ligon ( born September_10_,_1940 ) is an_actor of Cajun_ancestry . He appeared in the_films Paint Your_Wagon_,_Jump_, and Bang the_Drum_Slowly_( in which he also sang the_title_song ) as_well_as the_TV_series The_Young and the_Restless_,_and_Oz .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Thomas'), (7, '('), (8, 'Tom'), (11, ')'), (13, 'Ligon'), (19, '('), (20, 'born'), (25, 'September'), (35, '10'), (37, ','), (39, '1940'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'actor'), (57, 'of'), (60, 'Cajun'), (66, 'ancestry'), (74, '.'), (76, 'He'), (79, 'appeared'), (88, 'in'), (91, 'the'), (95, 'films'), (101, 'Paint'), (107, 'Your'), (112, 'Wagon'), (117, ','), (119, 'Jump'), (123, ','), (126, 'and'), (130, 'Bang'), (135, 'the'), (139, 'Drum'), (144, 'Slowly'), (151, '('), (152, 'in'), (155, 'which'), (161, 'he'), (164, 'also'), (169, 'sang'), (174, 'the'), (178, 'title'), (184, 'song'), (188, ')'), (190, 'as'), (193, 'well'), (198, 'as'), (201, 'the'), (205, 'TV'), (208, 'series'), (215, 'The'), (219, 'Young'), (225, 'and'), (229, 'the'), (233, 'Restless'), (241, ','), (243, 'and'), (247, 'Oz'), (249, '.')])</stanford_tokens>
+<opennlp_chunks>[('September 10, 1940',25, 43), ('an actor',48, 56), ('Cajun ancestry',60, 74), ('the films',91, 100), ('Your Wagon, Jump,',107, 124), ('the Drum Slowly (',135, 152), ('the title song',174, 188), ('as well as',190, 200), ('the TV series',201, 214), ('The Young',215, 224), ('the Restless, and Oz',229, 249)]</opennlp_chunks>
+<stanford_pos>['NNP', '-LRB-', 'NNP', '-RRB-', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNS', 'NNP', 'PRP$', 'NNP', ',', 'NNP', ',', 'CC', 'NNP', 'DT', 'NNP', 'RB', '-LRB-', 'IN', 'WDT', 'PRP', 'RB', 'VBD', 'DT', 'NN', 'NN', '-RRB-', 'RB', 'RB', 'IN', 'DT', 'NN', 'NN', 'DT', 'NN', 'CC', 'DT', 'JJ', ',', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Thomas'), (7, '('), (8, 'Tom'), (11, ')'), (13, 'Ligon'), (19, '('), (20, 'born'), (25, 'September'), (35, '10'), (37, ','), (39, '1940'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'actor'), (57, 'of'), (60, 'Cajun'), (66, 'ancestry'), (74, '.'), (76, 'He'), (79, 'appeared'), (88, 'in'), (91, 'the'), (95, 'films'), (101, 'Paint'), (107, 'Your'), (112, 'Wagon'), (117, ','), (119, 'Jump'), (123, ','), (126, 'and'), (130, 'Bang'), (135, 'the'), (139, 'Drum'), (144, 'Slowly'), (151, '('), (152, 'in'), (155, 'which'), (161, 'he'), (164, 'also'), (169, 'sang'), (174, 'the'), (178, 'title'), (184, 'song'), (188, ')'), (190, 'as'), (193, 'well'), (198, 'as'), (201, 'the'), (205, 'TV'), (208, 'series'), (215, 'The'), (219, 'Young'), (225, 'and'), (229, 'the'), (233, 'Restless'), (241, ','), (243, 'and'), (247, 'Oz'), (249, '.')])</spacy_tokens>
+<spacy_chunks>[('Thomas', 0, 6), ('(Tom) Ligon', 7, 18), ('September 10, 1940', 25, 43), ('an actor', 48, 56), ('Cajun ancestry', 60, 74), ('the films', 91, 100), ('Paint Your Wagon, Jump', 101, 123), ('Bang the Drum Slowly', 130, 150), ('the title song', 174, 188), ('the TV series', 201, 214), ('The Young and the Restless', 215, 241)]</spacy_chunks>
+<spacy_pos>['NNP', '-LRB-', 'NNP', '-RRB-', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNS', 'NNP', 'PRP$', 'NNP', ',', 'NNP', ',', 'CC', 'NNP', 'DT', 'NNP', 'RB', '-LRB-', 'IN', 'WDT', 'PRP', 'RB', 'VBD', 'DT', 'NN', 'NN', '-RRB-', 'RB', 'RB', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', 'CC', 'DT', 'JJ', ',', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

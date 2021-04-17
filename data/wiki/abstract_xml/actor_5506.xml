@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Aldo Ray</title>
+<link/>https://en.wikipedia.org/wiki/Aldo_Ray
+<annotated>0</annotated>
+<originalabstract>Aldo Ray (born Aldo Da Re; September 25, 1926 – March 27, 1991) was an American actor.</originalabstract>
+<abstract>Aldo_Ray ( born_Aldo_Da_Re ; September_25_,_1926 – March_27_,_1991 ) was an_American_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Aldo'), (5, 'Ray'), (9, '('), (10, 'born'), (15, 'Aldo'), (20, 'Da'), (23, 'Re'), (25, ';'), (27, 'September'), (37, '25'), (39, ','), (41, '1926'), (46, '–'), (48, 'March'), (54, '27'), (56, ','), (58, '1991'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (85, '.')])</stanford_tokens>
+<opennlp_chunks>[('Aldo Ray',0, 8), ('born Aldo Da Re',10, 25), ('September 25, 1926',27, 45), ('March 27, 1991',48, 62), ('an American actor',68, 85)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NN', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Aldo'), (5, 'Ray'), (9, '('), (10, 'born'), (15, 'Aldo'), (20, 'Da'), (23, 'Re'), (25, ';'), (27, 'September'), (37, '25'), (39, ','), (41, '1926'), (46, '–'), (48, 'March'), (54, '27'), (56, ','), (58, '1991'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (85, '.')])</spacy_tokens>
+<spacy_chunks>[('Aldo Ray', 0, 8), ('(born Aldo Da Re', 9, 25), ('September 25, 1926', 27, 45), ('March 27, 1991', 48, 62), ('an American actor', 68, 85)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

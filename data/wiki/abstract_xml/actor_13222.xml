@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Angela Kinsey</title>
+<link/>https://en.wikipedia.org/wiki/Angela_Kinsey
+<annotated>0</annotated>
+<originalabstract>Angela Faye Kinsey (born June 25, 1971) is an American actress known for her role as Angela Martin in the NBC television series The Office (2005–2013).
+Kinsey had a recurring role on the TBS comedy Your Family or Mine and in the Netflix series Haters Back Off.</originalabstract>
+<abstract>Angela_Faye_Kinsey ( born June_25_,_1971 ) is an_American_actress known for her_role as Angela_Martin in the_NBC_television_series The_Office ( 2005 – 2013 ) . Kinsey had a_recurring_role on the_TBS_comedy Your_Family_or_Mine and in the_Netflix_series_Haters_Back_Off .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Angela'), (7, 'Faye'), (12, 'Kinsey'), (19, '('), (20, 'born'), (25, 'June'), (30, '25'), (32, ','), (34, '1971'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'known'), (69, 'for'), (73, 'her'), (77, 'role'), (82, 'as'), (85, 'Angela'), (92, 'Martin'), (99, 'in'), (102, 'the'), (106, 'NBC'), (110, 'television'), (121, 'series'), (128, 'The'), (132, 'Office'), (139, '('), (140, '2005'), (144, '–'), (145, '2013'), (149, ')'), (150, '.'), (152, 'Kinsey'), (159, 'had'), (163, 'a'), (165, 'recurring'), (175, 'role'), (180, 'on'), (183, 'the'), (187, 'TBS'), (191, 'comedy'), (198, 'Your'), (203, 'Family'), (210, 'or'), (213, 'Mine'), (218, 'and'), (222, 'in'), (225, 'the'), (229, 'Netflix'), (237, 'series'), (244, 'Haters'), (251, 'Back'), (256, 'Off'), (259, '.')])</stanford_tokens>
+<opennlp_chunks>[('Angela Faye Kinsey',0, 18), ('June 25, 1971',25, 38), ('an American actress',43, 62), ('her role',73, 81), ('Angela Martin',85, 98), ('the NBC television series',102, 127), ('The Office',128, 138), ('a recurring role',163, 179), ('the TBS comedy',183, 197), ('Your Family or Mine',198, 217), ('the Netflix series Haters Back Off',225, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'DT', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'NNP', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'DT', 'NN', 'NN', 'PRP$', 'NN', 'CC', 'NNP', 'CC', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'IN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Angela'), (7, 'Faye'), (12, 'Kinsey'), (19, '('), (20, 'born'), (25, 'June'), (30, '25'), (32, ','), (34, '1971'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'known'), (69, 'for'), (73, 'her'), (77, 'role'), (82, 'as'), (85, 'Angela'), (92, 'Martin'), (99, 'in'), (102, 'the'), (106, 'NBC'), (110, 'television'), (121, 'series'), (128, 'The'), (132, 'Office'), (139, '('), (140, '2005–2013'), (149, ')'), (150, '.'), (152, 'Kinsey'), (159, 'had'), (163, 'a'), (165, 'recurring'), (175, 'role'), (180, 'on'), (183, 'the'), (187, 'TBS'), (191, 'comedy'), (198, 'Your'), (203, 'Family'), (210, 'or'), (213, 'Mine'), (218, 'and'), (222, 'in'), (225, 'the'), (229, 'Netflix'), (237, 'series'), (244, 'Haters'), (251, 'Back'), (256, 'Off'), (259, '.')])</spacy_tokens>
+<spacy_chunks>[('Angela Faye Kinsey', 0, 18), ('June 25, 1971', 25, 38), ('an American actress', 43, 62), ('her role', 73, 81), ('Angela Martin', 85, 98), ('the NBC television series', 102, 127), ('The Office', 128, 138), ('a recurring role', 163, 179), ('the TBS comedy', 183, 197), ('Your Family or Mine', 198, 217), ('the Netflix series', 225, 243), ('Haters Back Off', 244, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'DT', 'NNP', 'NN', 'PRP$', 'NNP', 'CC', 'NNP', 'CC', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'RB', 'RB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

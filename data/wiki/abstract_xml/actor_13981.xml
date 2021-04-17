@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Diane Michelle</title>
+<link/>https://en.wikipedia.org/wiki/Diane_Michelle
+<annotated>0</annotated>
+<originalabstract>Diane Michelle is an American voice actress, famous for voicing Daisy Duck in several modern Disney projects (Daisy is currently voiced by Tress MacNeille in many projects) in The Spirit of Mickey, Mickey Mouse Works and Mickey's Once Upon a Christmas.</originalabstract>
+<abstract>Diane_Michelle is an_American_voice_actress , famous for voicing Daisy_Duck in several_modern_Disney_projects ( Daisy is_currently_voiced by Tress_MacNeille in many_projects ) in The_Spirit of Mickey , Mickey_Mouse_Works and Mickey 's Once Upon a_Christmas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Diane'), (6, 'Michelle'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'voice'), (36, 'actress'), (43, ','), (45, 'famous'), (52, 'for'), (56, 'voicing'), (64, 'Daisy'), (70, 'Duck'), (75, 'in'), (78, 'several'), (86, 'modern'), (93, 'Disney'), (100, 'projects'), (109, '('), (110, 'Daisy'), (116, 'is'), (119, 'currently'), (129, 'voiced'), (136, 'by'), (139, 'Tress'), (145, 'MacNeille'), (155, 'in'), (158, 'many'), (163, 'projects'), (171, ')'), (173, 'in'), (176, 'The'), (180, 'Spirit'), (187, 'of'), (190, 'Mickey'), (196, ','), (198, 'Mickey'), (205, 'Mouse'), (211, 'Works'), (217, 'and'), (221, 'Mickey'), (227, '\'s'), (230, 'Once'), (235, 'Upon'), (240, 'a'), (242, 'Christmas'), (251, '.')])</stanford_tokens>
+<opennlp_chunks>[('Diane Michelle',0, 14), ('an American voice actress',18, 43), ('Daisy Duck',64, 74), ('several modern Disney projects',78, 108), ('is currently voiced',116, 135), ('Tress MacNeille',139, 154), ('many projects',158, 171), ('The Spirit',176, 186), ('Mickey Mouse Works',198, 216), ('a Christmas',240, 251)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'JJ', 'IN', 'VBG', 'NNP', 'NN', 'IN', 'JJ', 'JJ', 'NNP', 'NNS', '-LRB-', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'JJ', 'NNS', '-RRB-', 'IN', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'POS', 'RB', 'IN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Diane'), (6, 'Michelle'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'voice'), (36, 'actress'), (43, ','), (45, 'famous'), (52, 'for'), (56, 'voicing'), (64, 'Daisy'), (70, 'Duck'), (75, 'in'), (78, 'several'), (86, 'modern'), (93, 'Disney'), (100, 'projects'), (109, '('), (110, 'Daisy'), (116, 'is'), (119, 'currently'), (129, 'voiced'), (136, 'by'), (139, 'Tress'), (145, 'MacNeille'), (155, 'in'), (158, 'many'), (163, 'projects'), (171, ')'), (173, 'in'), (176, 'The'), (180, 'Spirit'), (187, 'of'), (190, 'Mickey'), (196, ','), (198, 'Mickey'), (205, 'Mouse'), (211, 'Works'), (217, 'and'), (221, 'Mickey'), (227, "'s"), (230, 'Once'), (235, 'Upon'), (240, 'a'), (242, 'Christmas'), (251, '.')])</spacy_tokens>
+<spacy_chunks>[('Diane Michelle', 0, 14), ('an American voice actress', 18, 43), ('Daisy Duck', 64, 74), ('several modern Disney projects', 78, 108), ('Tress MacNeille', 139, 154), ('many projects', 158, 171), ('The Spirit of Mickey', 176, 196), ('Mickey Mouse Works', 198, 216), ("Mickey's Once Upon a Christmas", 221, 251)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'JJ', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'JJ', 'JJ', 'NNP', 'NNS', '-LRB-', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'JJ', 'NNS', '-RRB-', 'IN', 'DT', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'VBZ', 'RB', 'IN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

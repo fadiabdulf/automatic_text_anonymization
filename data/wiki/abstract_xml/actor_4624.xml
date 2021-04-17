@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Matt K. Miller</title>
+<link/>https://en.wikipedia.org/wiki/Matt_K._Miller
+<annotated>0</annotated>
+<originalabstract>Matthew Kermit Miller (born February 2, 1960), better known as Matt K. Miller, is an American stand-up comedian, actor, playwright and voice artist. He is also known as Kermit Miller and Kermit Beachwood. His best-known voice role in anime was Tenchi Masaki in the Pioneer dub of Tenchi Muyo.</originalabstract>
+<abstract>Matthew_Kermit_Miller ( born February_2_,_1960 ) , better_known as Matt_K._Miller , is an_American_stand-up_comedian , actor_,_playwright_and_voice_artist . He is_also_known as Kermit_Miller and Kermit_Beachwood . His_best-known_voice_role in anime was Tenchi_Masaki in the_Pioneer_dub of Tenchi_Muyo .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Matthew'), (8, 'Kermit'), (15, 'Miller'), (22, '('), (23, 'born'), (28, 'February'), (37, '2'), (38, ','), (40, '1960'), (44, ')'), (45, ','), (47, 'better'), (54, 'known'), (60, 'as'), (63, 'Matt'), (68, 'K.'), (71, 'Miller'), (77, ','), (79, 'is'), (82, 'an'), (85, 'American'), (94, 'stand-up'), (103, 'comedian'), (111, ','), (113, 'actor'), (118, ','), (120, 'playwright'), (131, 'and'), (135, 'voice'), (141, 'artist'), (147, '.'), (149, 'He'), (152, 'is'), (155, 'also'), (160, 'known'), (166, 'as'), (169, 'Kermit'), (176, 'Miller'), (183, 'and'), (187, 'Kermit'), (194, 'Beachwood'), (203, '.'), (205, 'His'), (209, 'best-known'), (220, 'voice'), (226, 'role'), (231, 'in'), (234, 'anime'), (240, 'was'), (244, 'Tenchi'), (251, 'Masaki'), (258, 'in'), (261, 'the'), (265, 'Pioneer'), (273, 'dub'), (277, 'of'), (280, 'Tenchi'), (287, 'Muyo'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Matthew Kermit Miller',0, 21), ('February 2, 1960',28, 44), ('better known',47, 59), ('Matt K. Miller',63, 77), ('an American stand-up comedian',82, 111), ('actor, playwright and voice artist',113, 147), ('is also known',152, 165), ('Kermit Miller',169, 182), ('Kermit Beachwood',187, 203), ('His best-known voice role',205, 230), ('Tenchi Masaki',244, 257), ('the Pioneer dub',261, 276), ('Tenchi Muyo',280, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP$', 'JJ', 'NN', 'NN', 'IN', 'NN', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Matthew'), (8, 'Kermit'), (15, 'Miller'), (22, '('), (23, 'born'), (28, 'February'), (37, '2'), (38, ','), (40, '1960'), (44, ')'), (45, ','), (47, 'better'), (54, 'known'), (60, 'as'), (63, 'Matt'), (68, 'K.'), (71, 'Miller'), (77, ','), (79, 'is'), (82, 'an'), (85, 'American'), (94, 'stand'), (99, '-'), (100, 'up'), (103, 'comedian'), (111, ','), (113, 'actor'), (118, ','), (120, 'playwright'), (131, 'and'), (135, 'voice'), (141, 'artist'), (147, '.'), (149, 'He'), (152, 'is'), (155, 'also'), (160, 'known'), (166, 'as'), (169, 'Kermit'), (176, 'Miller'), (183, 'and'), (187, 'Kermit'), (194, 'Beachwood'), (203, '.'), (205, 'His'), (209, 'best'), (213, '-'), (214, 'known'), (220, 'voice'), (226, 'role'), (231, 'in'), (234, 'anime'), (240, 'was'), (244, 'Tenchi'), (251, 'Masaki'), (258, 'in'), (261, 'the'), (265, 'Pioneer'), (273, 'dub'), (277, 'of'), (280, 'Tenchi'), (287, 'Muyo'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Matthew Kermit Miller', 0, 21), ('February 2, 1960', 28, 44), ('Matt K. Miller', 63, 77), ('an American stand-up comedian', 82, 111), ('playwright', 120, 130), ('voice artist', 135, 147), ('Kermit Beachwood', 187, 203), ('His best-known voice role', 205, 230), ('Tenchi Masaki', 244, 257), ('the Pioneer dub', 261, 276), ('Tenchi Muyo', 280, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'VB', 'HYPH', 'RP', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP$', 'RBS', 'HYPH', 'VBN', 'NN', 'NN', 'IN', 'NN', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

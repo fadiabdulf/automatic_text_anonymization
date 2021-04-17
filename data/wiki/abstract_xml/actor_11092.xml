@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Malena Cano</title>
+<link/>https://en.wikipedia.org/wiki/Malena_Cano
+<annotated>0</annotated>
+<originalabstract>Malena Cano (also known as La Perla) is a ranchero music and mariachi singer from the El Paso, Texas area. She is known for her work in both music and stage.</originalabstract>
+<abstract>Malena_Cano ( also_known as La_Perla ) is a_ranchero_music_and_mariachi_singer from the_El_Paso_,_Texas_area . She is_known for her_work in both_music_and_stage .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Malena'), (7, 'Cano'), (12, '('), (13, 'also'), (18, 'known'), (24, 'as'), (27, 'La'), (30, 'Perla'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'ranchero'), (51, 'music'), (57, 'and'), (61, 'mariachi'), (70, 'singer'), (77, 'from'), (82, 'the'), (86, 'El'), (89, 'Paso'), (93, ','), (95, 'Texas'), (101, 'area'), (105, '.'), (107, 'She'), (111, 'is'), (114, 'known'), (120, 'for'), (124, 'her'), (128, 'work'), (133, 'in'), (136, 'both'), (141, 'music'), (147, 'and'), (151, 'stage'), (156, '.')])</stanford_tokens>
+<opennlp_chunks>[('Malena Cano',0, 11), ('also known',13, 23), ('La Perla',27, 35), ('a ranchero music and mariachi singer',40, 76), ('the El Paso, Texas area',82, 105), ('is known',111, 119), ('her work',124, 132), ('both music and stage',136, 156)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'NN', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'CC', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Malena'), (7, 'Cano'), (12, '('), (13, 'also'), (18, 'known'), (24, 'as'), (27, 'La'), (30, 'Perla'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'ranchero'), (51, 'music'), (57, 'and'), (61, 'mariachi'), (70, 'singer'), (77, 'from'), (82, 'the'), (86, 'El'), (89, 'Paso'), (93, ','), (95, 'Texas'), (101, 'area'), (105, '.'), (107, 'She'), (111, 'is'), (114, 'known'), (120, 'for'), (124, 'her'), (128, 'work'), (133, 'in'), (136, 'both'), (141, 'music'), (147, 'and'), (151, 'stage'), (156, '.')])</spacy_tokens>
+<spacy_chunks>[('Malena Cano', 0, 11), ('La Perla', 27, 35), ('a ranchero music', 40, 56), ('mariachi singer', 61, 76), ('the El Paso, Texas area', 82, 105), ('her work', 124, 132), ('both music', 136, 146)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'NN', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

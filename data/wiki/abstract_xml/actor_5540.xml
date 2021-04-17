@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mason Reese</title>
+<link/>https://en.wikipedia.org/wiki/Mason_Reese
+<annotated>0</annotated>
+<originalabstract>Mason Reese (born April 11, 1965) is a former child actor who appeared in numerous television commercials in the 1970s, particularly for Underwood Deviled Ham, Post Raisin Bran, and Dunkin' Donuts.</originalabstract>
+<abstract>Mason_Reese ( born April_11_,_1965 ) is a_former_child_actor who appeared in numerous_television_commercials in the_1970s , particularly for Underwood_Deviled_Ham , Post_Raisin_Bran , and Dunkin'_Donuts .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mason'), (6, 'Reese'), (12, '('), (13, 'born'), (18, 'April'), (24, '11'), (26, ','), (28, '1965'), (32, ')'), (34, 'is'), (37, 'a'), (39, 'former'), (46, 'child'), (52, 'actor'), (58, 'who'), (62, 'appeared'), (71, 'in'), (74, 'numerous'), (83, 'television'), (94, 'commercials'), (106, 'in'), (109, 'the'), (113, '1970s'), (118, ','), (120, 'particularly'), (133, 'for'), (137, 'Underwood'), (147, 'Deviled'), (155, 'Ham'), (158, ','), (160, 'Post'), (165, 'Raisin'), (172, 'Bran'), (176, ','), (178, 'and'), (182, 'Dunkin\''), (190, 'Donuts'), (196, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mason Reese',0, 11), ('April 11, 1965',18, 32), ('a former child actor',37, 57), ('numerous television commercials',74, 105), ('the 1970s',109, 118), ('Underwood Deviled Ham',137, 158), ('Post Raisin Bran',160, 176), ('Dunkin\' Donuts',182, 196)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'NNS', ',', 'RB', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mason'), (6, 'Reese'), (12, '('), (13, 'born'), (18, 'April'), (24, '11'), (26, ','), (28, '1965'), (32, ')'), (34, 'is'), (37, 'a'), (39, 'former'), (46, 'child'), (52, 'actor'), (58, 'who'), (62, 'appeared'), (71, 'in'), (74, 'numerous'), (83, 'television'), (94, 'commercials'), (106, 'in'), (109, 'the'), (113, '1970s'), (118, ','), (120, 'particularly'), (133, 'for'), (137, 'Underwood'), (147, 'Deviled'), (155, 'Ham'), (158, ','), (160, 'Post'), (165, 'Raisin'), (172, 'Bran'), (176, ','), (178, 'and'), (182, 'Dunkin'), (188, "'"), (190, 'Donuts'), (196, '.')])</spacy_tokens>
+<spacy_chunks>[('Mason Reese', 0, 11), ('April 11, 1965', 18, 32), ('a former child actor', 37, 57), ('numerous television commercials', 74, 105), ('the 1970s', 109, 118), ('Underwood Deviled Ham', 137, 158), ('Post Raisin Bran', 160, 176), ("Dunkin' Donuts", 182, 196)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'NNS', ',', 'RB', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', "''", 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

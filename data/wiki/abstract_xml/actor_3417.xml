@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peter Jessop</title>
+<link/>https://en.wikipedia.org/wiki/Peter_Jessop
+<annotated>0</annotated>
+<originalabstract>Peter Jessop (born June 29, 1964) is an American film actor and voice actor who is known for his video game voice acting. He is known for the voice of Miraak, the primary antagonist of The Elder Scrolls V: Skyrim – Dragonborn DLC, as well as the voice of Paladin Danse from the video game Fallout 4.</originalabstract>
+<abstract>Peter_Jessop ( born June_29_,_1964 ) is an_American_film_actor_and_voice_actor who is_known for his_video_game_voice acting . He is_known for the_voice of Miraak , the_primary_antagonist of The_Elder_Scrolls_V : Skyrim – Dragonborn_DLC , as_well_as the_voice of Paladin_Danse from the_video_game Fallout_4 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peter'), (6, 'Jessop'), (13, '('), (14, 'born'), (19, 'June'), (24, '29'), (26, ','), (28, '1964'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'film'), (54, 'actor'), (60, 'and'), (64, 'voice'), (70, 'actor'), (76, 'who'), (80, 'is'), (83, 'known'), (89, 'for'), (93, 'his'), (97, 'video'), (103, 'game'), (108, 'voice'), (114, 'acting'), (120, '.'), (122, 'He'), (125, 'is'), (128, 'known'), (134, 'for'), (138, 'the'), (142, 'voice'), (148, 'of'), (151, 'Miraak'), (157, ','), (159, 'the'), (163, 'primary'), (171, 'antagonist'), (182, 'of'), (185, 'The'), (189, 'Elder'), (195, 'Scrolls'), (203, 'V'), (204, ':'), (206, 'Skyrim'), (213, '–'), (215, 'Dragonborn'), (226, 'DLC'), (229, ','), (231, 'as'), (234, 'well'), (239, 'as'), (242, 'the'), (246, 'voice'), (252, 'of'), (255, 'Paladin'), (263, 'Danse'), (269, 'from'), (274, 'the'), (278, 'video'), (284, 'game'), (289, 'Fallout'), (297, '4'), (298, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peter Jessop',0, 12), ('June 29, 1964',19, 32), ('an American film actor and voice actor',37, 75), ('is known',80, 88), ('his video game voice',93, 113), ('is known',125, 133), ('the voice',138, 147), ('the primary antagonist',159, 181), ('The Elder Scrolls V',185, 204), ('Dragonborn DLC',215, 229), ('as well as',231, 241), ('the voice',242, 251), ('Paladin Danse',255, 268), ('the video game',274, 288), ('Fallout 4',289, 298)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NN', 'VBG', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', ':', 'NNP', ':', 'NNP', 'NNP', ',', 'RB', 'RB', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peter'), (6, 'Jessop'), (13, '('), (14, 'born'), (19, 'June'), (24, '29'), (26, ','), (28, '1964'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'film'), (54, 'actor'), (60, 'and'), (64, 'voice'), (70, 'actor'), (76, 'who'), (80, 'is'), (83, 'known'), (89, 'for'), (93, 'his'), (97, 'video'), (103, 'game'), (108, 'voice'), (114, 'acting'), (120, '.'), (122, 'He'), (125, 'is'), (128, 'known'), (134, 'for'), (138, 'the'), (142, 'voice'), (148, 'of'), (151, 'Miraak'), (157, ','), (159, 'the'), (163, 'primary'), (171, 'antagonist'), (182, 'of'), (185, 'The'), (189, 'Elder'), (195, 'Scrolls'), (203, 'V'), (204, ':'), (206, 'Skyrim'), (213, '–'), (215, 'Dragonborn'), (226, 'DLC'), (229, ','), (231, 'as'), (234, 'well'), (239, 'as'), (242, 'the'), (246, 'voice'), (252, 'of'), (255, 'Paladin'), (263, 'Danse'), (269, 'from'), (274, 'the'), (278, 'video'), (284, 'game'), (289, 'Fallout'), (297, '4'), (298, '.')])</spacy_tokens>
+<spacy_chunks>[('Peter Jessop', 0, 12), ('June 29, 1964', 19, 32), ('an American film actor', 37, 59), ('voice actor', 64, 75), ('his video game voice', 93, 113), ('the voice', 138, 147), ('Miraak', 151, 157), ('the primary antagonist', 159, 181), ('The Elder Scrolls V: Skyrim – Dragonborn', 185, 225), ('– Dragonborn DLC', 213, 229), ('Paladin Danse', 255, 268), ('the video game', 274, 288), ('Fallout 4', 289, 298)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NN', 'VBG', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJR', 'NNP', 'NNP', ':', 'NNP', 'HYPH', 'NNP', 'NNP', ',', 'RB', 'RB', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lara Pulver</title>
+<link/>https://en.wikipedia.org/wiki/Lara_Pulver
+<annotated>0</annotated>
+<originalabstract>Lara Pulver (born 1 September 1980) is an English actress. She has played Erin Watts in the British BBC spy drama Spooks, and Irene Adler on BBC's TV adaptation Sherlock. She won the 2016 Olivier Award for Best Supporting Actress in a Musical in the West End's revival of the hit Broadway musical Gypsy.</originalabstract>
+<abstract>Lara_Pulver ( born 1_September_1980 ) is an_English_actress . She has_played Erin_Watts in the_British_BBC_spy_drama_Spooks , and Irene_Adler on BBC 's_TV_adaptation_Sherlock . She won the_2016_Olivier_Award for Best Supporting_Actress in a_Musical in the_West_End 's_revival of the_hit_Broadway_musical_Gypsy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lara'), (5, 'Pulver'), (12, '('), (13, 'born'), (18, '1'), (20, 'September'), (30, '1980'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actress'), (57, '.'), (59, 'She'), (63, 'has'), (67, 'played'), (74, 'Erin'), (79, 'Watts'), (85, 'in'), (88, 'the'), (92, 'British'), (100, 'BBC'), (104, 'spy'), (108, 'drama'), (114, 'Spooks'), (120, ','), (122, 'and'), (126, 'Irene'), (132, 'Adler'), (138, 'on'), (141, 'BBC'), (144, '\'s'), (147, 'TV'), (150, 'adaptation'), (161, 'Sherlock'), (169, '.'), (171, 'She'), (175, 'won'), (179, 'the'), (183, '2016'), (188, 'Olivier'), (196, 'Award'), (202, 'for'), (206, 'Best'), (211, 'Supporting'), (222, 'Actress'), (230, 'in'), (233, 'a'), (235, 'Musical'), (243, 'in'), (246, 'the'), (250, 'West'), (255, 'End'), (258, '\'s'), (261, 'revival'), (269, 'of'), (272, 'the'), (276, 'hit'), (280, 'Broadway'), (289, 'musical'), (297, 'Gypsy'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lara Pulver',0, 11), ('1 September 1980',18, 34), ('an English actress',39, 57), ('has played',63, 73), ('Erin Watts',74, 84), ('the British BBC spy drama Spooks',88, 120), ('Irene Adler',126, 137), ('\'s TV adaptation Sherlock',144, 169), ('the 2016 Olivier Award',179, 201), ('Supporting Actress',211, 229), ('a Musical',233, 242), ('the West End',246, 258), ('\'s revival',258, 268), ('the hit Broadway musical Gypsy',272, 302)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'NN', 'NNS', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'NN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'CD', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'DT', 'JJ', 'IN', 'DT', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'DT', 'NN', 'NNP', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lara'), (5, 'Pulver'), (12, '('), (13, 'born'), (18, '1'), (20, 'September'), (30, '1980'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actress'), (57, '.'), (59, 'She'), (63, 'has'), (67, 'played'), (74, 'Erin'), (79, 'Watts'), (85, 'in'), (88, 'the'), (92, 'British'), (100, 'BBC'), (104, 'spy'), (108, 'drama'), (114, 'Spooks'), (120, ','), (122, 'and'), (126, 'Irene'), (132, 'Adler'), (138, 'on'), (141, 'BBC'), (144, "'s"), (147, 'TV'), (150, 'adaptation'), (161, 'Sherlock'), (169, '.'), (171, 'She'), (175, 'won'), (179, 'the'), (183, '2016'), (188, 'Olivier'), (196, 'Award'), (202, 'for'), (206, 'Best'), (211, 'Supporting'), (222, 'Actress'), (230, 'in'), (233, 'a'), (235, 'Musical'), (243, 'in'), (246, 'the'), (250, 'West'), (255, 'End'), (258, "'s"), (261, 'revival'), (269, 'of'), (272, 'the'), (276, 'hit'), (280, 'Broadway'), (289, 'musical'), (297, 'Gypsy'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Lara Pulver', 0, 11), ('1 September 1980', 18, 34), ('an English actress', 39, 57), ('Erin Watts', 74, 84), ('the British BBC spy drama', 88, 113), ('Spooks', 114, 120), ('Irene Adler', 126, 137), ("BBC's TV adaptation", 141, 160), ('Sherlock', 161, 169), ('the 2016 Olivier Award', 179, 201), ('Best Supporting Actress', 206, 229), ('a Musical', 233, 242), ("the West End's revival", 246, 268), ('the hit Broadway musical Gypsy', 272, 302)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'NN', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'NN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'CD', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NN', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'DT', 'VBN', 'NNP', 'JJ', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

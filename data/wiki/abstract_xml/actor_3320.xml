@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Johnny Indrisano</title>
+<link/>https://en.wikipedia.org/wiki/Johnny_Indrisano
+<annotated>0</annotated>
+<originalabstract>Johnny Indrisano (November 1, 1906 — July 6, 1968) was an American welterweight boxer whose career spanned the period from 1923 to 1934. He later became a film stunt performer and bit-part film and TV actor.</originalabstract>
+<abstract>Johnny_Indrisano ( November_1_,_1906 — July_6_,_1968 ) was an_American_welterweight_boxer whose_career spanned the_period from 1923 to 1934 . He later became a_film_stunt_performer and bit-part_film_and_TV_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Johnny'), (7, 'Indrisano'), (17, '('), (18, 'November'), (27, '1'), (28, ','), (30, '1906'), (35, '—'), (37, 'July'), (42, '6'), (43, ','), (45, '1968'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'welterweight'), (80, 'boxer'), (86, 'whose'), (92, 'career'), (99, 'spanned'), (107, 'the'), (111, 'period'), (118, 'from'), (123, '1923'), (128, 'to'), (131, '1934'), (135, '.'), (137, 'He'), (140, 'later'), (146, 'became'), (153, 'a'), (155, 'film'), (160, 'stunt'), (166, 'performer'), (176, 'and'), (180, 'bit-part'), (189, 'film'), (194, 'and'), (198, 'TV'), (201, 'actor'), (206, '.')])</stanford_tokens>
+<opennlp_chunks>[('Johnny Indrisano',0, 16), ('November 1, 1906',18, 34), ('July 6, 1968',37, 49), ('an American welterweight boxer',55, 85), ('whose career',86, 98), ('the period',107, 117), ('a film stunt performer',153, 175), ('bit-part film and TV actor',180, 206)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'WP$', 'NN', 'VBD', 'DT', 'NN', 'IN', 'CD', 'TO', 'CD', '.', 'PRP', 'RB', 'VBD', 'DT', 'NN', 'NN', 'NN', 'CC', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Johnny'), (7, 'Indrisano'), (17, '('), (18, 'November'), (27, '1'), (28, ','), (30, '1906'), (35, '—'), (37, 'July'), (42, '6'), (43, ','), (45, '1968'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'welterweight'), (80, 'boxer'), (86, 'whose'), (92, 'career'), (99, 'spanned'), (107, 'the'), (111, 'period'), (118, 'from'), (123, '1923'), (128, 'to'), (131, '1934'), (135, '.'), (137, 'He'), (140, 'later'), (146, 'became'), (153, 'a'), (155, 'film'), (160, 'stunt'), (166, 'performer'), (176, 'and'), (180, 'bit'), (183, '-'), (184, 'part'), (189, 'film'), (194, 'and'), (198, 'TV'), (201, 'actor'), (206, '.')])</spacy_tokens>
+<spacy_chunks>[('Johnny Indrisano', 0, 16), ('(November', 17, 26), ('November 1, 1906', 18, 34), ('— July', 35, 41), ('July 6, 1968', 37, 49), ('an American welterweight boxer', 55, 85), ('whose career', 86, 98), ('the period', 107, 117), ('a film stunt performer', 153, 175), ('bit-part film', 180, 193), ('TV actor', 198, 206)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'DT', 'NN', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'RB', 'VBD', 'DT', 'NN', 'NN', 'NN', 'CC', 'NN', 'HYPH', 'NN', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

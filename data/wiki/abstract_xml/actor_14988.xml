@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kala Savage</title>
+<link/>https://en.wikipedia.org/wiki/Kala_Savage
+<annotated>0</annotated>
+<originalabstract>Kala Lynne Savage (born October 16, 1978) is an American actress. She is best known for the TV series Undressed, Santa Barbara, and 8 Simple Rules.</originalabstract>
+<abstract>Kala_Lynne_Savage ( born October_16_,_1978 ) is an_American_actress . She is_best_known for the_TV_series_Undressed , Santa_Barbara , and 8_Simple_Rules .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kala'), (5, 'Lynne'), (11, 'Savage'), (18, '('), (19, 'born'), (24, 'October'), (32, '16'), (34, ','), (36, '1978'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'is'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'the'), (92, 'TV'), (95, 'series'), (102, 'Undressed'), (111, ','), (113, 'Santa'), (119, 'Barbara'), (126, ','), (128, 'and'), (132, '8'), (134, 'Simple'), (141, 'Rules'), (146, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kala Lynne Savage',0, 17), ('October 16, 1978',24, 40), ('an American actress',45, 64), ('is best known',70, 83), ('the TV series Undressed',88, 111), ('Santa Barbara',113, 126), ('8 Simple Rules',132, 146)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NN', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'CD', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kala'), (5, 'Lynne'), (11, 'Savage'), (18, '('), (19, 'born'), (24, 'October'), (32, '16'), (34, ','), (36, '1978'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'is'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'the'), (92, 'TV'), (95, 'series'), (102, 'Undressed'), (111, ','), (113, 'Santa'), (119, 'Barbara'), (126, ','), (128, 'and'), (132, '8'), (134, 'Simple'), (141, 'Rules'), (146, '.')])</spacy_tokens>
+<spacy_chunks>[('Kala Lynne Savage', 0, 17), ('October 16, 1978', 24, 40), ('an American actress', 45, 64), ('the TV series', 88, 101), ('Undressed', 102, 111), ('Santa Barbara', 113, 126), ('8 Simple Rules', 132, 146)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'DT', 'NN', 'NN', 'VBN', ',', 'NNP', 'NNP', ',', 'CC', 'CD', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

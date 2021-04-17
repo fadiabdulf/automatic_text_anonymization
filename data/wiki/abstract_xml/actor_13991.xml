@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mikaila</title>
+<link/>https://en.wikipedia.org/wiki/Mikaila
+<annotated>0</annotated>
+<originalabstract>Mikaila Dominique Enriquez (born December 15, 1986), known as Mikaila, is an American former pop singer and former child actress from Edmond, Oklahoma.
+She is of French, Spanish and Native Mexican descent.</originalabstract>
+<abstract>Mikaila_Dominique_Enriquez ( born December_15_,_1986 ) , known as Mikaila , is an_American_former_pop_singer and former_child_actress from Edmond , Oklahoma . She is of French_,_Spanish_and_Native_Mexican_descent .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mikaila'), (8, 'Dominique'), (18, 'Enriquez'), (27, '('), (28, 'born'), (33, 'December'), (42, '15'), (44, ','), (46, '1986'), (50, ')'), (51, ','), (53, 'known'), (59, 'as'), (62, 'Mikaila'), (69, ','), (71, 'is'), (74, 'an'), (77, 'American'), (86, 'former'), (93, 'pop'), (97, 'singer'), (104, 'and'), (108, 'former'), (115, 'child'), (121, 'actress'), (129, 'from'), (134, 'Edmond'), (140, ','), (142, 'Oklahoma'), (150, '.'), (152, 'She'), (156, 'is'), (159, 'of'), (162, 'French'), (168, ','), (170, 'Spanish'), (178, 'and'), (182, 'Native'), (189, 'Mexican'), (197, 'descent'), (204, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mikaila Dominique Enriquez',0, 26), ('December 15, 1986',33, 50), ('an American former pop singer',74, 103), ('former child actress',108, 128), ('French, Spanish and Native Mexican descent',162, 204)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'IN', 'NNP', ',', 'NNP', 'CC', 'JJ', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mikaila'), (8, 'Dominique'), (18, 'Enriquez'), (27, '('), (28, 'born'), (33, 'December'), (42, '15'), (44, ','), (46, '1986'), (50, ')'), (51, ','), (53, 'known'), (59, 'as'), (62, 'Mikaila'), (69, ','), (71, 'is'), (74, 'an'), (77, 'American'), (86, 'former'), (93, 'pop'), (97, 'singer'), (104, 'and'), (108, 'former'), (115, 'child'), (121, 'actress'), (129, 'from'), (134, 'Edmond'), (140, ','), (142, 'Oklahoma'), (150, '.'), (152, 'She'), (156, 'is'), (159, 'of'), (162, 'French'), (168, ','), (170, 'Spanish'), (178, 'and'), (182, 'Native'), (189, 'Mexican'), (197, 'descent'), (204, '.')])</spacy_tokens>
+<spacy_chunks>[('Mikaila Dominique Enriquez', 0, 26), ('December 15, 1986', 33, 50), ('an American former pop singer', 74, 103), ('former child actress', 108, 128), ('Edmond, Oklahoma', 134, 150), ('French, Spanish and Native Mexican descent', 162, 204)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'IN', 'JJ', ',', 'JJ', 'CC', 'JJ', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

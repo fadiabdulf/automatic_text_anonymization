@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nora Lane</title>
+<link/>https://en.wikipedia.org/wiki/Nora_Lane
+<annotated>0</annotated>
+<originalabstract>Nora Lane (September 12, 1905 – October 16, 1948) was an American film actress. She appeared in more than 80 films between 1927 and 1944. She shot herself dead one month after her husband died from a heart attack.</originalabstract>
+<abstract>Nora_Lane ( September_12_,_1905 – October_16_,_1948 ) was an_American_film_actress . She appeared in more_than_80_films between 1927_and_1944 . She shot herself dead one_month after her_husband died from a_heart_attack .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nora'), (5, 'Lane'), (10, '('), (11, 'September'), (21, '12'), (23, ','), (25, '1905'), (30, '–'), (32, 'October'), (40, '16'), (42, ','), (44, '1948'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (71, 'actress'), (78, '.'), (80, 'She'), (84, 'appeared'), (93, 'in'), (96, 'more'), (101, 'than'), (106, '80'), (109, 'films'), (115, 'between'), (123, '1927'), (128, 'and'), (132, '1944'), (136, '.'), (138, 'She'), (142, 'shot'), (147, 'herself'), (155, 'dead'), (160, 'one'), (164, 'month'), (170, 'after'), (176, 'her'), (180, 'husband'), (188, 'died'), (193, 'from'), (198, 'a'), (200, 'heart'), (206, 'attack'), (212, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nora Lane',0, 9), ('September 12, 1905',11, 29), ('October 16, 1948',32, 48), ('an American film actress',54, 78), ('more than 80 films',96, 114), ('1927 and 1944',123, 136), ('one month',160, 169), ('her husband',176, 187), ('a heart attack',198, 212)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'PRP', 'JJ', 'CD', 'NN', 'IN', 'PRP$', 'NN', 'VBD', 'IN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nora'), (5, 'Lane'), (10, '('), (11, 'September'), (21, '12'), (23, ','), (25, '1905'), (30, '–'), (32, 'October'), (40, '16'), (42, ','), (44, '1948'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (71, 'actress'), (78, '.'), (80, 'She'), (84, 'appeared'), (93, 'in'), (96, 'more'), (101, 'than'), (106, '80'), (109, 'films'), (115, 'between'), (123, '1927'), (128, 'and'), (132, '1944'), (136, '.'), (138, 'She'), (142, 'shot'), (147, 'herself'), (155, 'dead'), (160, 'one'), (164, 'month'), (170, 'after'), (176, 'her'), (180, 'husband'), (188, 'died'), (193, 'from'), (198, 'a'), (200, 'heart'), (206, 'attack'), (212, '.')])</spacy_tokens>
+<spacy_chunks>[('Nora Lane', 0, 9), ('(September', 10, 20), ('September 12, 1905', 11, 29), ('October 16, 1948', 32, 48), ('an American film actress', 54, 78), ('more than 80 films', 96, 114), ('herself', 147, 154), ('her husband', 176, 187), ('a heart attack', 198, 212)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'PRP', 'JJ', 'CD', 'NN', 'IN', 'PRP$', 'NN', 'VBD', 'IN', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

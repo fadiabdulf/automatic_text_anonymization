@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lawford Davidson</title>
+<link/>https://en.wikipedia.org/wiki/Lawford_Davidson
+<annotated>0</annotated>
+<originalabstract>Lawford Davidson (1 January 1890 –1964) was a British film actor.He was born Charles Lawford Davidson in London and died in Bedford, Bedfordshire, England, at age 74. He was the first actor to dub another actor's voice, for Hungarian actor Paul Lukas in The Wolf of Wall Street (1929).</originalabstract>
+<abstract>Lawford_Davidson ( 1_January_1890 – 1964 ) was a_British_film_actor.He was_born Charles_Lawford_Davidson in London and died in Bedford , Bedfordshire , England , at age_74 . He was the_first_actor to_dub another_actor 's_voice , for Hungarian_actor_Paul_Lukas in The_Wolf of Wall_Street ( 1929_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lawford'), (8, 'Davidson'), (17, '('), (18, '1'), (20, 'January'), (28, '1890'), (33, '–'), (34, '1964'), (38, ')'), (40, 'was'), (44, 'a'), (46, 'British'), (54, 'film'), (59, 'actor.He'), (68, 'was'), (72, 'born'), (77, 'Charles'), (85, 'Lawford'), (93, 'Davidson'), (102, 'in'), (105, 'London'), (112, 'and'), (116, 'died'), (121, 'in'), (124, 'Bedford'), (131, ','), (133, 'Bedfordshire'), (145, ','), (147, 'England'), (154, ','), (156, 'at'), (159, 'age'), (163, '74'), (165, '.'), (167, 'He'), (170, 'was'), (174, 'the'), (178, 'first'), (184, 'actor'), (190, 'to'), (193, 'dub'), (197, 'another'), (205, 'actor'), (210, '\'s'), (213, 'voice'), (218, ','), (220, 'for'), (224, 'Hungarian'), (234, 'actor'), (240, 'Paul'), (245, 'Lukas'), (251, 'in'), (254, 'The'), (258, 'Wolf'), (263, 'of'), (266, 'Wall'), (271, 'Street'), (278, '('), (279, '1929'), (283, ')'), (284, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lawford Davidson',0, 16), ('1 January 1890',18, 32), ('a British film actor.He',44, 67), ('was born',68, 76), ('Charles Lawford Davidson',77, 101), ('age 74',159, 165), ('the first actor',174, 189), ('to dub',190, 196), ('another actor',197, 210), ('\'s voice',210, 218), ('Hungarian actor Paul Lukas',224, 250), ('The Wolf',254, 262), ('Wall Street',266, 277), ('1929)',279, 284)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'IN', 'NN', 'CD', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'TO', 'VB', 'DT', 'NN', 'POS', 'NN', ',', 'IN', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lawford'), (8, 'Davidson'), (17, '('), (18, '1'), (20, 'January'), (28, '1890'), (33, '–1964'), (38, ')'), (40, 'was'), (44, 'a'), (46, 'British'), (54, 'film'), (59, 'actor'), (64, '.'), (65, 'He'), (68, 'was'), (72, 'born'), (77, 'Charles'), (85, 'Lawford'), (93, 'Davidson'), (102, 'in'), (105, 'London'), (112, 'and'), (116, 'died'), (121, 'in'), (124, 'Bedford'), (131, ','), (133, 'Bedfordshire'), (145, ','), (147, 'England'), (154, ','), (156, 'at'), (159, 'age'), (163, '74'), (165, '.'), (167, 'He'), (170, 'was'), (174, 'the'), (178, 'first'), (184, 'actor'), (190, 'to'), (193, 'dub'), (197, 'another'), (205, 'actor'), (210, "'s"), (213, 'voice'), (218, ','), (220, 'for'), (224, 'Hungarian'), (234, 'actor'), (240, 'Paul'), (245, 'Lukas'), (251, 'in'), (254, 'The'), (258, 'Wolf'), (263, 'of'), (266, 'Wall'), (271, 'Street'), (278, '('), (279, '1929'), (283, ')'), (284, '.')])</spacy_tokens>
+<spacy_chunks>[('Lawford Davidson', 0, 16), ('(1 January', 17, 27), ('1 January 1890', 18, 32), ('a British film actor', 44, 64), ('London', 105, 111), ('Bedford, Bedfordshire, England', 124, 154), ('the first actor', 174, 189), ("another actor's voice", 197, 218), ('Hungarian actor Paul Lukas', 224, 250), ('The Wolf of Wall Street (1929', 254, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'IN', 'NN', 'CD', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'TO', 'VB', 'DT', 'NN', 'POS', 'NN', ',', 'IN', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

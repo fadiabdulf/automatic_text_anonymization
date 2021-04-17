@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Riley Smith</title>
+<link/>https://en.wikipedia.org/wiki/Riley_Smith
+<annotated>0</annotated>
+<originalabstract>Riley Smith (born April 12, 1978) is an American actor. He is known for his roles on television, such as recurring roles in the series 24, Joan of Arcadia, 90210, True Blood and The Messengers, and starring roles on the television series Drive and Frequency.</originalabstract>
+<abstract>Riley_Smith ( born April_12_,_1978 ) is an_American_actor . He is_known for his_roles on television , such_as recurring roles in the_series_24 , Joan of Arcadia , 90210 , True_Blood and The_Messengers , and starring roles on the_television_series_Drive_and_Frequency .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Riley'), (6, 'Smith'), (12, '('), (13, 'born'), (18, 'April'), (24, '12'), (26, ','), (28, '1978'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, '.'), (56, 'He'), (59, 'is'), (62, 'known'), (68, 'for'), (72, 'his'), (76, 'roles'), (82, 'on'), (85, 'television'), (95, ','), (97, 'such'), (102, 'as'), (105, 'recurring'), (115, 'roles'), (121, 'in'), (124, 'the'), (128, 'series'), (135, '24'), (137, ','), (139, 'Joan'), (144, 'of'), (147, 'Arcadia'), (154, ','), (156, '90210'), (161, ','), (163, 'True'), (168, 'Blood'), (174, 'and'), (178, 'The'), (182, 'Messengers'), (192, ','), (194, 'and'), (198, 'starring'), (207, 'roles'), (213, 'on'), (216, 'the'), (220, 'television'), (231, 'series'), (238, 'Drive'), (244, 'and'), (248, 'Frequency'), (257, '.')])</stanford_tokens>
+<opennlp_chunks>[('Riley Smith',0, 11), ('April 12, 1978',18, 32), ('an American actor',37, 54), ('is known',59, 67), ('his roles',72, 81), ('such as',97, 104), ('the series 24',124, 137), ('True Blood',163, 173), ('The Messengers',178, 192), ('the television series Drive and Frequency',216, 257)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', ',', 'JJ', 'IN', 'VBG', 'NNS', 'IN', 'DT', 'NN', 'CD', ',', 'NNP', 'IN', 'NNP', ',', 'CD', ',', 'JJ', 'NN', 'CC', 'DT', 'NNPS', ',', 'CC', 'VBG', 'NNS', 'IN', 'DT', 'NN', 'NN', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Riley'), (6, 'Smith'), (12, '('), (13, 'born'), (18, 'April'), (24, '12'), (26, ','), (28, '1978'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, '.'), (56, 'He'), (59, 'is'), (62, 'known'), (68, 'for'), (72, 'his'), (76, 'roles'), (82, 'on'), (85, 'television'), (95, ','), (97, 'such'), (102, 'as'), (105, 'recurring'), (115, 'roles'), (121, 'in'), (124, 'the'), (128, 'series'), (135, '24'), (137, ','), (139, 'Joan'), (144, 'of'), (147, 'Arcadia'), (154, ','), (156, '90210'), (161, ','), (163, 'True'), (168, 'Blood'), (174, 'and'), (178, 'The'), (182, 'Messengers'), (192, ','), (194, 'and'), (198, 'starring'), (207, 'roles'), (213, 'on'), (216, 'the'), (220, 'television'), (231, 'series'), (238, 'Drive'), (244, 'and'), (248, 'Frequency'), (257, '.')])</spacy_tokens>
+<spacy_chunks>[('Riley Smith', 0, 11), ('April 12, 1978', 18, 32), ('an American actor', 37, 54), ('his roles', 72, 81), ('television', 85, 95), ('recurring roles', 105, 120), ('the series', 124, 134), ('Joan of Arcadia', 139, 154), ('True Blood', 163, 173), ('The Messengers', 178, 192), ('the television series', 216, 237), ('Frequency', 248, 257)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', ',', 'JJ', 'IN', 'VBG', 'NNS', 'IN', 'DT', 'NN', 'CD', ',', 'NNP', 'IN', 'NNP', ',', 'CD', ',', 'JJ', 'NN', 'CC', 'DT', 'NNPS', ',', 'CC', 'VBG', 'NNS', 'IN', 'DT', 'NN', 'NN', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

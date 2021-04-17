@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Geraldine Farrar</title>
+<link/>https://en.wikipedia.org/wiki/Geraldine_Farrar
+<annotated>0</annotated>
+<originalabstract>Alice Geraldine Farrar (February 28, 1882 – March 11, 1967) was an American soprano opera singer and film actress, noted for her beauty, acting ability, and "the intimate timbre of her voice." She had a large following among young women, who were  nicknamed "Gerry-flappers".</originalabstract>
+<abstract>Alice_Geraldine_Farrar ( February_28_,_1882 – March_11_,_1967 ) was an_American_soprano_opera_singer_and_film_actress , noted for her_beauty , acting ability , and " the_intimate_timbre of her_voice . " She had a_large_following among young_women , who were_nicknamed " Gerry-flappers " .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alice'), (6, 'Geraldine'), (16, 'Farrar'), (23, '('), (24, 'February'), (33, '28'), (35, ','), (37, '1882'), (42, '–'), (44, 'March'), (50, '11'), (52, ','), (54, '1967'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'soprano'), (84, 'opera'), (90, 'singer'), (97, 'and'), (101, 'film'), (106, 'actress'), (113, ','), (115, 'noted'), (121, 'for'), (125, 'her'), (129, 'beauty'), (135, ','), (137, 'acting'), (144, 'ability'), (151, ','), (153, 'and'), (157, '"'), (158, 'the'), (162, 'intimate'), (171, 'timbre'), (178, 'of'), (181, 'her'), (185, 'voice'), (190, '.'), (191, '"'), (193, 'She'), (197, 'had'), (201, 'a'), (203, 'large'), (209, 'following'), (219, 'among'), (225, 'young'), (231, 'women'), (236, ','), (238, 'who'), (242, 'were'), (248, 'nicknamed'), (258, '"'), (259, 'Gerry-flappers'), (273, '"'), (274, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alice Geraldine Farrar',0, 22), ('February 28, 1882',24, 41), ('March 11, 1967',44, 58), ('an American soprano opera singer and film actress',64, 113), ('her beauty',125, 135), ('the intimate timbre',158, 177), ('her voice',181, 190), ('a large following',201, 218), ('young women',225, 236), ('were  nicknamed',242, 257)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'VBD', 'IN', 'PRP$', 'NN', ',', 'VBG', 'NN', ',', 'CC', '``', 'DT', 'JJ', 'NN', 'IN', 'PRP$', 'NN', '.', '\'\'', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS', ',', 'WP', 'VBD', 'VBN', '``', 'NNS', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alice'), (6, 'Geraldine'), (16, 'Farrar'), (23, '('), (24, 'February'), (33, '28'), (35, ','), (37, '1882'), (42, '–'), (44, 'March'), (50, '11'), (52, ','), (54, '1967'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'soprano'), (84, 'opera'), (90, 'singer'), (97, 'and'), (101, 'film'), (106, 'actress'), (113, ','), (115, 'noted'), (121, 'for'), (125, 'her'), (129, 'beauty'), (135, ','), (137, 'acting'), (144, 'ability'), (151, ','), (153, 'and'), (157, '"'), (158, 'the'), (162, 'intimate'), (171, 'timbre'), (178, 'of'), (181, 'her'), (185, 'voice'), (190, '.'), (191, '"'), (193, 'She'), (197, 'had'), (201, 'a'), (203, 'large'), (209, 'following'), (219, 'among'), (225, 'young'), (231, 'women'), (236, ','), (238, 'who'), (242, 'were'), (248, 'nicknamed'), (258, '"'), (259, 'Gerry'), (264, '-'), (265, 'flappers'), (273, '"'), (274, '.')])</spacy_tokens>
+<spacy_chunks>[('Alice Geraldine Farrar', 0, 22), ('(February 28, 1882 – March', 23, 49), ('March 11, 1967', 44, 58), ('an American soprano opera singer and film actress', 64, 113), ('her beauty', 125, 135), ('acting ability', 137, 151), ('"the intimate timbre', 157, 177), ('her voice', 181, 190), ('a large following', 201, 218), ('young women', 225, 236), ('Flapper', 265, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', ',', 'VBG', 'NN', ',', 'CC', '``', 'DT', 'JJ', 'NN', 'IN', 'PRP$', 'NN', '.', "''", 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS', ',', 'WP', 'VBD', 'VBN', '``', 'NNP', 'HYPH', 'NNS', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kathy Staff</title>
+<link/>https://en.wikipedia.org/wiki/Kathy_Staff
+<annotated>0</annotated>
+<originalabstract>Kathy Staff (born Minnie Higginbottom; 12 July 1928 – 13 December 2008) was an English actress, well known for her work on British television. She is most famous for her portrayal of Nora Batty on the longest running sitcom in the world, Last of the Summer Wine.</originalabstract>
+<abstract>Kathy_Staff ( born Minnie_Higginbottom ; 12_July_1928 – 13_December_2008 ) was an_English_actress , well_known for her_work on British_television . She is most_famous for her_portrayal of Nora_Batty on the_longest_running_sitcom in the_world , Last of the_Summer_Wine .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kathy'), (6, 'Staff'), (12, '('), (13, 'born'), (18, 'Minnie'), (25, 'Higginbottom'), (37, ';'), (39, '12'), (42, 'July'), (47, '1928'), (52, '–'), (54, '13'), (57, 'December'), (66, '2008'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'English'), (87, 'actress'), (94, ','), (96, 'well'), (101, 'known'), (107, 'for'), (111, 'her'), (115, 'work'), (120, 'on'), (123, 'British'), (131, 'television'), (141, '.'), (143, 'She'), (147, 'is'), (150, 'most'), (155, 'famous'), (162, 'for'), (166, 'her'), (170, 'portrayal'), (180, 'of'), (183, 'Nora'), (188, 'Batty'), (194, 'on'), (197, 'the'), (201, 'longest'), (209, 'running'), (217, 'sitcom'), (224, 'in'), (227, 'the'), (231, 'world'), (236, ','), (238, 'Last'), (243, 'of'), (246, 'the'), (250, 'Summer'), (257, 'Wine'), (261, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kathy Staff',0, 11), ('Minnie Higginbottom',18, 37), ('12 July 1928',39, 51), ('13 December 2008',54, 70), ('an English actress',76, 94), ('well known',96, 106), ('her work',111, 119), ('British television',123, 141), ('most famous',150, 161), ('her portrayal',166, 179), ('Nora Batty',183, 193), ('the longest running sitcom',197, 223), ('the world',227, 236), ('the Summer Wine',246, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJS', 'VBG', 'NN', 'IN', 'DT', 'NN', ',', 'JJ', 'IN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kathy'), (6, 'Staff'), (12, '('), (13, 'born'), (18, 'Minnie'), (25, 'Higginbottom'), (37, ';'), (39, '12'), (42, 'July'), (47, '1928'), (52, '–'), (54, '13'), (57, 'December'), (66, '2008'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'English'), (87, 'actress'), (94, ','), (96, 'well'), (101, 'known'), (107, 'for'), (111, 'her'), (115, 'work'), (120, 'on'), (123, 'British'), (131, 'television'), (141, '.'), (143, 'She'), (147, 'is'), (150, 'most'), (155, 'famous'), (162, 'for'), (166, 'her'), (170, 'portrayal'), (180, 'of'), (183, 'Nora'), (188, 'Batty'), (194, 'on'), (197, 'the'), (201, 'longest'), (209, 'running'), (217, 'sitcom'), (224, 'in'), (227, 'the'), (231, 'world'), (236, ','), (238, 'Last'), (243, 'of'), (246, 'the'), (250, 'Summer'), (257, 'Wine'), (261, '.')])</spacy_tokens>
+<spacy_chunks>[('Kathy Staff', 0, 11), ('born Minnie Higginbottom', 13, 37), ('12 July 1928', 39, 51), ('13 December 2008', 54, 70), ('an English actress', 76, 94), ('her work', 111, 119), ('British television', 123, 141), ('her portrayal', 166, 179), ('Nora Batty', 183, 193), ('the longest running sitcom', 197, 223), ('the world', 227, 236), ('Last of the Summer Wine', 238, 261)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJS', 'NN', 'NN', 'IN', 'DT', 'NN', ',', 'JJ', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

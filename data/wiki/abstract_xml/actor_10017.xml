@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stanislas Merhar</title>
+<link/>https://en.wikipedia.org/wiki/Stanislas_Merhar
+<annotated>0</annotated>
+<originalabstract>Stanislas Merhar (born 24 January 1971) is a French actor.He was born in Paris in a family of immigrants from Slovenia. He works in cinema, television and theatre.In 1998 Merhar won the César Award for Most Promising Actor for his role in the film Dry Cleaning.</originalabstract>
+<abstract>Stanislas_Merhar ( born 24_January_1971 ) is a_French_actor.He was_born in Paris in a_family of immigrants from Slovenia . He works in cinema_,_television_and_theatre.In_1998_Merhar won the_César_Award for Most_Promising_Actor for his_role in the_film_Dry_Cleaning .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stanislas'), (10, 'Merhar'), (17, '('), (18, 'born'), (23, '24'), (26, 'January'), (34, '1971'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'actor.He'), (61, 'was'), (65, 'born'), (70, 'in'), (73, 'Paris'), (79, 'in'), (82, 'a'), (84, 'family'), (91, 'of'), (94, 'immigrants'), (105, 'from'), (110, 'Slovenia'), (118, '.'), (120, 'He'), (123, 'works'), (129, 'in'), (132, 'cinema'), (138, ','), (140, 'television'), (151, 'and'), (155, 'theatre.In'), (166, '1998'), (171, 'Merhar'), (178, 'won'), (182, 'the'), (186, 'César'), (192, 'Award'), (198, 'for'), (202, 'Most'), (207, 'Promising'), (217, 'Actor'), (223, 'for'), (227, 'his'), (231, 'role'), (236, 'in'), (239, 'the'), (243, 'film'), (248, 'Dry'), (252, 'Cleaning'), (260, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stanislas Merhar',0, 16), ('24 January 1971',23, 38), ('a French actor.He',43, 60), ('was born',61, 69), ('a family',82, 90), ('cinema, television and theatre.In 1998 Merhar',132, 177), ('the César Award',182, 197), ('Most Promising Actor',202, 222), ('his role',227, 235), ('the film Dry Cleaning',239, 260)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NNS', 'IN', 'NNP', '.', 'PRP', 'VBZ', 'IN', 'NN', ',', 'NN', 'CC', 'NN', 'CD', 'NNP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stanislas'), (10, 'Merhar'), (17, '('), (18, 'born'), (23, '24'), (26, 'January'), (34, '1971'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'actor'), (57, '.'), (58, 'He'), (61, 'was'), (65, 'born'), (70, 'in'), (73, 'Paris'), (79, 'in'), (82, 'a'), (84, 'family'), (91, 'of'), (94, 'immigrants'), (105, 'from'), (110, 'Slovenia'), (118, '.'), (120, 'He'), (123, 'works'), (129, 'in'), (132, 'cinema'), (138, ','), (140, 'television'), (151, 'and'), (155, 'theatre'), (162, '.'), (163, 'In'), (166, '1998'), (171, 'Merhar'), (178, 'won'), (182, 'the'), (186, 'César'), (192, 'Award'), (198, 'for'), (202, 'Most'), (207, 'Promising'), (217, 'Actor'), (223, 'for'), (227, 'his'), (231, 'role'), (236, 'in'), (239, 'the'), (243, 'film'), (248, 'Dry'), (252, 'Cleaning'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('Stanislas Merhar', 0, 16), ('24 January 1971', 23, 38), ('a French actor', 43, 57), ('a family', 82, 90), ('immigrants', 94, 104), ('Slovenia', 110, 118), ('cinema', 132, 138), ('television', 140, 150), ('theatre', 155, 162), ('the César Award', 182, 197), ('César Award for Most Promising Actor', 186, 222), ('his role', 227, 235), ('the film Dry Cleaning', 239, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NNS', 'IN', 'NNP', '.', 'PRP', 'VBZ', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'IN', 'CD', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'JJS', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>DeWolf Hopper</title>
+<link/>https://en.wikipedia.org/wiki/DeWolf_Hopper
+<annotated>0</annotated>
+<originalabstract>William DeWolf Hopper (March 30, 1858 – September 23, 1935) was an American actor, singer, comedian, and theatrical producer. A star of vaudeville and musical theater, he became best known for performing the popular baseball poem Casey at the Bat.</originalabstract>
+<abstract>William_DeWolf_Hopper ( March_30_,_1858 – September_23_,_1935 ) was an_American_actor , singer , comedian , and theatrical_producer . A_star of vaudeville and musical_theater , he became best_known for performing the_popular_baseball_poem_Casey at the_Bat .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'DeWolf'), (15, 'Hopper'), (22, '('), (23, 'March'), (29, '30'), (31, ','), (33, '1858'), (38, '–'), (40, 'September'), (50, '23'), (52, ','), (54, '1935'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actor'), (81, ','), (83, 'singer'), (89, ','), (91, 'comedian'), (99, ','), (101, 'and'), (105, 'theatrical'), (116, 'producer'), (124, '.'), (126, 'A'), (128, 'star'), (133, 'of'), (136, 'vaudeville'), (147, 'and'), (151, 'musical'), (159, 'theater'), (166, ','), (168, 'he'), (171, 'became'), (178, 'best'), (183, 'known'), (189, 'for'), (193, 'performing'), (204, 'the'), (208, 'popular'), (216, 'baseball'), (225, 'poem'), (230, 'Casey'), (236, 'at'), (239, 'the'), (243, 'Bat'), (246, '.')])</stanford_tokens>
+<opennlp_chunks>[('William DeWolf Hopper',0, 21), ('March 30, 1858',23, 37), ('September 23, 1935',40, 58), ('an American actor',64, 81), ('theatrical producer',105, 124), ('A star',126, 132), ('musical theater',151, 166), ('best known',178, 188), ('the popular baseball poem Casey',204, 235), ('the Bat',239, 246)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', '.', 'DT', 'NN', 'IN', 'NN', 'CC', 'JJ', 'NN', ',', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'IN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'DeWolf'), (15, 'Hopper'), (22, '('), (23, 'March'), (29, '30'), (31, ','), (33, '1858'), (38, '–'), (40, 'September'), (50, '23'), (52, ','), (54, '1935'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actor'), (81, ','), (83, 'singer'), (89, ','), (91, 'comedian'), (99, ','), (101, 'and'), (105, 'theatrical'), (116, 'producer'), (124, '.'), (126, 'A'), (128, 'star'), (133, 'of'), (136, 'vaudeville'), (147, 'and'), (151, 'musical'), (159, 'theater'), (166, ','), (168, 'he'), (171, 'became'), (178, 'best'), (183, 'known'), (189, 'for'), (193, 'performing'), (204, 'the'), (208, 'popular'), (216, 'baseball'), (225, 'poem'), (230, 'Casey'), (236, 'at'), (239, 'the'), (243, 'Bat'), (246, '.')])</spacy_tokens>
+<spacy_chunks>[('William DeWolf Hopper', 0, 21), ('March 30, 1858', 23, 37), ('September 23, 1935', 40, 58), ('an American actor', 64, 81), ('singer', 83, 89), ('comedian', 91, 99), ('theatrical producer', 105, 124), ('A star', 126, 132), ('vaudeville and musical theater', 136, 166), ('the popular baseball poem', 204, 229), ('Casey at the Bat', 230, 246)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', '.', 'DT', 'NN', 'IN', 'NN', 'CC', 'JJ', 'NN', ',', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'IN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

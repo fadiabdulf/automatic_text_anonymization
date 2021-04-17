@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tilky Jones</title>
+<link/>https://en.wikipedia.org/wiki/Tilky_Jones
+<annotated>0</annotated>
+<originalabstract>Tilky Montgomery Jones (born on June 24, 1981) is an American singer and actor. He was a member of the band Take 5 from 1997–2001.</originalabstract>
+<abstract>Tilky_Montgomery_Jones ( born on June_24 , 1981 ) is an_American_singer_and_actor . He was a_member of the_band Take 5 from 1997 – 2001 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tilky'), (6, 'Montgomery'), (17, 'Jones'), (23, '('), (24, 'born'), (29, 'on'), (32, 'June'), (37, '24'), (39, ','), (41, '1981'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'singer'), (69, 'and'), (73, 'actor'), (78, '.'), (80, 'He'), (83, 'was'), (87, 'a'), (89, 'member'), (96, 'of'), (99, 'the'), (103, 'band'), (108, 'Take'), (113, '5'), (115, 'from'), (120, '1997'), (124, '–'), (125, '2001'), (129, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tilky Montgomery Jones',0, 22), ('June 24',32, 39), ('an American singer and actor',50, 78), ('a member',87, 95), ('the band',99, 107)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'IN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NN', 'VB', 'CD', 'IN', 'CD', ':', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tilky'), (6, 'Montgomery'), (17, 'Jones'), (23, '('), (24, 'born'), (29, 'on'), (32, 'June'), (37, '24'), (39, ','), (41, '1981'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'singer'), (69, 'and'), (73, 'actor'), (78, '.'), (80, 'He'), (83, 'was'), (87, 'a'), (89, 'member'), (96, 'of'), (99, 'the'), (103, 'band'), (108, 'Take'), (113, '5'), (115, 'from'), (120, '1997–2001'), (129, '.')])</spacy_tokens>
+<spacy_chunks>[('Tilky Montgomery Jones', 0, 22), ('June 24, 1981', 32, 45), ('an American singer', 50, 68), ('a member', 87, 95), ('the band', 99, 107), ('Take 5', 108, 114)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'IN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NN', 'VB', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

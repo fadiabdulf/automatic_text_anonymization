@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Françoise Morhange</title>
+<link/>https://en.wikipedia.org/wiki/Fran%C3%A7oise_Morhange
+<annotated>0</annotated>
+<originalabstract>Françoise Morhange (1915–1984) was a French actress. In 1980, she starred in Le Voyage en douce under director Michel Deville.</originalabstract>
+<abstract>Françoise_Morhange ( 1915 – 1984 ) was a_French_actress . In 1980 , she starred in Le_Voyage en douce under director_Michel_Deville .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Françoise'), (10, 'Morhange'), (19, '('), (20, '1915'), (24, '–'), (25, '1984'), (29, ')'), (31, 'was'), (35, 'a'), (37, 'French'), (44, 'actress'), (51, '.'), (53, 'In'), (56, '1980'), (60, ','), (62, 'she'), (66, 'starred'), (74, 'in'), (77, 'Le'), (80, 'Voyage'), (87, 'en'), (90, 'douce'), (96, 'under'), (102, 'director'), (111, 'Michel'), (118, 'Deville'), (125, '.')])</stanford_tokens>
+<opennlp_chunks>[('Françoise Morhange',0, 18), ('a French actress',35, 51), ('Le Voyage',77, 86), ('director Michel Deville',102, 125)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Françoise'), (10, 'Morhange'), (19, '('), (20, '1915–1984'), (29, ')'), (31, 'was'), (35, 'a'), (37, 'French'), (44, 'actress'), (51, '.'), (53, 'In'), (56, '1980'), (60, ','), (62, 'she'), (66, 'starred'), (74, 'in'), (77, 'Le'), (80, 'Voyage'), (87, 'en'), (90, 'douce'), (96, 'under'), (102, 'director'), (111, 'Michel'), (118, 'Deville'), (125, '.')])</spacy_tokens>
+<spacy_chunks>[('Françoise Morhange', 0, 18), ('a French actress', 35, 51), ('Le Voyage en douce', 77, 95), ('director Michel Deville', 102, 125)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'FW', 'FW', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

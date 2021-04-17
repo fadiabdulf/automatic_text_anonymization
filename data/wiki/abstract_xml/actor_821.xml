@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Donald Briggs</title>
+<link/>https://en.wikipedia.org/wiki/Donald_Briggs
+<annotated>0</annotated>
+<originalabstract>Donald Briggs (January 28, 1911 – February 3, 1986) was an American actor, who appeared in over 75 films and television shows between the 1930s and 1970s.
+
+He was born in Chicago, Illinois and died in Woodland Hills, California at age 75.</originalabstract>
+<abstract>Donald_Briggs ( January_28_,_1911 – February_3_,_1986 ) was an_American_actor , who appeared in over_75_films_and_television_shows between the_1930s_and_1970s . He was_born in Chicago , Illinois and died in Woodland_Hills , California at age_75 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Donald'), (7, 'Briggs'), (14, '('), (15, 'January'), (23, '28'), (25, ','), (27, '1911'), (32, '–'), (34, 'February'), (43, '3'), (44, ','), (46, '1986'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (73, ','), (75, 'who'), (79, 'appeared'), (88, 'in'), (91, 'over'), (96, '75'), (99, 'films'), (105, 'and'), (109, 'television'), (120, 'shows'), (126, 'between'), (134, 'the'), (138, '1930s'), (144, 'and'), (148, '1970s'), (153, '.'), (156, 'He'), (159, 'was'), (163, 'born'), (168, 'in'), (171, 'Chicago'), (178, ','), (180, 'Illinois'), (189, 'and'), (193, 'died'), (198, 'in'), (201, 'Woodland'), (210, 'Hills'), (215, ','), (217, 'California'), (228, 'at'), (231, 'age'), (235, '75'), (237, '.')])</stanford_tokens>
+<opennlp_chunks>[('Donald Briggs',0, 13), ('January 28, 1911',15, 31), ('February 3, 1986',34, 50), ('an American actor',56, 73), ('over 75 films and television shows',91, 125), ('the 1930s and 1970s',134, 153), ('was born',159, 167), ('Woodland Hills',201, 215), ('age 75',231, 237)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Donald'), (7, 'Briggs'), (14, '('), (15, 'January'), (23, '28'), (25, ','), (27, '1911'), (32, '–'), (34, 'February'), (43, '3'), (44, ','), (46, '1986'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (73, ','), (75, 'who'), (79, 'appeared'), (88, 'in'), (91, 'over'), (96, '75'), (99, 'films'), (105, 'and'), (109, 'television'), (120, 'shows'), (126, 'between'), (134, 'the'), (138, '1930s'), (144, 'and'), (148, '1970s'), (153, '.'), (156, 'He'), (159, 'was'), (163, 'born'), (168, 'in'), (171, 'Chicago'), (178, ','), (180, 'Illinois'), (189, 'and'), (193, 'died'), (198, 'in'), (201, 'Woodland'), (210, 'Hills'), (215, ','), (217, 'California'), (228, 'at'), (231, 'age'), (235, '75'), (237, '.')])</spacy_tokens>
+<spacy_chunks>[('Donald Briggs', 0, 13), ('(January', 14, 22), ('January 28, 1911', 15, 31), ('February 3, 1986', 34, 50), ('an American actor', 56, 73), ('over 75 films', 91, 104), ('television shows', 109, 125), ('the 1930s', 134, 143), ('Chicago, Illinois', 171, 188), ('Woodland Hills, California', 201, 227)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

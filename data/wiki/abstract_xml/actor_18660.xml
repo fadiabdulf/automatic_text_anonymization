@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sophie Guillemin</title>
+<link/>https://en.wikipedia.org/wiki/Sophie_Guillemin
+<annotated>0</annotated>
+<originalabstract>Sophie Guillemin (born 1 December 1977) is a French actress.  She has appeared in such films as L'Ennui, Harry, He's Here to Help, Un chat un chat, and A la folie, pas du tout.</originalabstract>
+<abstract>Sophie_Guillemin ( born_1_December_1977 ) is a_French_actress . She has_appeared in such_films as L'Ennui , Harry , He 's Here to_Help , Un_chat_un_chat , and A_la_folie , pas_du tout .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sophie'), (7, 'Guillemin'), (17, '('), (18, 'born'), (23, '1'), (25, 'December'), (34, '1977'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'actress'), (59, '.'), (62, 'She'), (66, 'has'), (70, 'appeared'), (79, 'in'), (82, 'such'), (87, 'films'), (93, 'as'), (96, 'L\'Ennui'), (103, ','), (105, 'Harry'), (110, ','), (112, 'He'), (114, '\'s'), (117, 'Here'), (122, 'to'), (125, 'Help'), (129, ','), (131, 'Un'), (134, 'chat'), (139, 'un'), (142, 'chat'), (146, ','), (148, 'and'), (152, 'A'), (154, 'la'), (157, 'folie'), (162, ','), (164, 'pas'), (168, 'du'), (171, 'tout'), (175, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sophie Guillemin',0, 16), ('born 1 December 1977',18, 38), ('a French actress',43, 59), ('has appeared',66, 78), ('such films',82, 92), ('to Help',122, 129), ('Un chat un chat',131, 146), ('A la folie',152, 162), ('pas du',164, 170)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'NNP', ',', 'NNP', ',', 'PRP', 'VBZ', 'RB', 'TO', 'VB', ',', 'NNP', 'NN', 'NN', 'NN', ',', 'CC', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'VB', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sophie'), (7, 'Guillemin'), (17, '('), (18, 'born'), (23, '1'), (25, 'December'), (34, '1977'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'actress'), (59, '.'), (62, 'She'), (66, 'has'), (70, 'appeared'), (79, 'in'), (82, 'such'), (87, 'films'), (93, 'as'), (96, "L'Ennui"), (103, ','), (105, 'Harry'), (110, ','), (112, 'He'), (114, "'s"), (117, 'Here'), (122, 'to'), (125, 'Help'), (129, ','), (131, 'Un'), (134, 'chat'), (139, 'un'), (142, 'chat'), (146, ','), (148, 'and'), (152, 'A'), (154, 'la'), (157, 'folie'), (162, ','), (164, 'pas'), (168, 'du'), (171, 'tout'), (175, '.')])</spacy_tokens>
+<spacy_chunks>[('Sophie Guillemin', 0, 16), ('1 December 1977', 23, 38), ('a French actress', 43, 59), ('such films', 82, 92), ("L'Ennui", 96, 103), ("Harry, He's Here to Help", 105, 129), ('Un chat un chat', 131, 146), ('A la folie, pas du tout', 152, 175)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'NNP', ',', 'NNP', ',', 'PRP', 'VBZ', 'RB', 'TO', 'VB', ',', 'NNP', 'FW', 'NN', 'NN', ',', 'CC', 'DT', 'FW', 'FW', ',', 'FW', 'FW', 'FW', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

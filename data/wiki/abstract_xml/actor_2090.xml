@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Billy Engle</title>
+<link/>https://en.wikipedia.org/wiki/Billy_Engle
+<annotated>0</annotated>
+<originalabstract>Billy Engle (May 28, 1889 – November 28, 1966) was an Austrian-born American film actor. He appeared in 169 films between 1917 and 1957. He was born in Austria and died in Hollywood, California, from a heart attack.</originalabstract>
+<abstract>Billy_Engle ( May_28_,_1889 – November_28_,_1966 ) was an_Austrian-born_American_film_actor . He appeared in 169_films between 1917_and_1957 . He was_born in Austria and died in Hollywood , California , from a_heart_attack .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Billy'), (6, 'Engle'), (12, '('), (13, 'May'), (17, '28'), (19, ','), (21, '1889'), (26, '–'), (28, 'November'), (37, '28'), (39, ','), (41, '1966'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'Austrian-born'), (68, 'American'), (77, 'film'), (82, 'actor'), (87, '.'), (89, 'He'), (92, 'appeared'), (101, 'in'), (104, '169'), (108, 'films'), (114, 'between'), (122, '1917'), (127, 'and'), (131, '1957'), (135, '.'), (137, 'He'), (140, 'was'), (144, 'born'), (149, 'in'), (152, 'Austria'), (160, 'and'), (164, 'died'), (169, 'in'), (172, 'Hollywood'), (181, ','), (183, 'California'), (193, ','), (195, 'from'), (200, 'a'), (202, 'heart'), (208, 'attack'), (214, '.')])</stanford_tokens>
+<opennlp_chunks>[('Billy Engle',0, 11), ('May 28, 1889',13, 25), ('November 28, 1966',28, 45), ('an Austrian-born American film actor',51, 87), ('169 films',104, 113), ('1917 and 1957',122, 135), ('was born',140, 148), ('a heart attack',200, 214)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Billy'), (6, 'Engle'), (12, '('), (13, 'May'), (17, '28'), (19, ','), (21, '1889'), (26, '–'), (28, 'November'), (37, '28'), (39, ','), (41, '1966'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'Austrian'), (62, '-'), (63, 'born'), (68, 'American'), (77, 'film'), (82, 'actor'), (87, '.'), (89, 'He'), (92, 'appeared'), (101, 'in'), (104, '169'), (108, 'films'), (114, 'between'), (122, '1917'), (127, 'and'), (131, '1957'), (135, '.'), (137, 'He'), (140, 'was'), (144, 'born'), (149, 'in'), (152, 'Austria'), (160, 'and'), (164, 'died'), (169, 'in'), (172, 'Hollywood'), (181, ','), (183, 'California'), (193, ','), (195, 'from'), (200, 'a'), (202, 'heart'), (208, 'attack'), (214, '.')])</spacy_tokens>
+<spacy_chunks>[('Billy Engle', 0, 11), ('May 28, 1889', 13, 25), ('November 28, 1966', 28, 45), ('an Austrian-born American film actor', 51, 87), ('169 films', 104, 113), ('Hollywood, California', 172, 193), ('a heart attack', 200, 214)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

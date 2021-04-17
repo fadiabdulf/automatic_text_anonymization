@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Laurence Treil</title>
+<link/>https://en.wikipedia.org/wiki/Laurence_Treil
+<annotated>0</annotated>
+<originalabstract>Laurence Treil (born 1967) is a French model and actress who was also a Revlon Spokesmodel from 1980-1989.</originalabstract>
+<abstract>Laurence_Treil ( born 1967 ) is a_French_model and actress who was also a_Revlon_Spokesmodel from 1980-1989 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Laurence'), (9, 'Treil'), (15, '('), (16, 'born'), (21, '1967'), (25, ')'), (27, 'is'), (30, 'a'), (32, 'French'), (39, 'model'), (45, 'and'), (49, 'actress'), (57, 'who'), (61, 'was'), (65, 'also'), (70, 'a'), (72, 'Revlon'), (79, 'Spokesmodel'), (91, 'from'), (96, '1980-1989'), (105, '.')])</stanford_tokens>
+<opennlp_chunks>[('Laurence Treil',0, 14), ('a French model',30, 44), ('a Revlon Spokesmodel',70, 90)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'RB', 'DT', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Laurence'), (9, 'Treil'), (15, '('), (16, 'born'), (21, '1967'), (25, ')'), (27, 'is'), (30, 'a'), (32, 'French'), (39, 'model'), (45, 'and'), (49, 'actress'), (57, 'who'), (61, 'was'), (65, 'also'), (70, 'a'), (72, 'Revlon'), (79, 'Spokesmodel'), (91, 'from'), (96, '1980'), (100, '-'), (101, '1989'), (105, '.')])</spacy_tokens>
+<spacy_chunks>[('Laurence Treil', 0, 14), ('a French model', 30, 44), ('actress', 49, 56), ('a Revlon Spokesmodel', 70, 90)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'RB', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'SYM', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

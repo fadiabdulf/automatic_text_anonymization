@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>"Nick Adams (actor</title>
+<link/> born 1983)"
+<annotated>0</annotated>
+<originalabstract>Nicholas Adams (born June 10, 1983) is an American musical theater actor, singer, and dancer.</originalabstract>
+<abstract>Nicholas_Adams ( born June_10_,_1983 ) is an_American_musical_theater_actor , singer , and dancer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nicholas'), (9, 'Adams'), (15, '('), (16, 'born'), (21, 'June'), (26, '10'), (28, ','), (30, '1983'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'musical'), (59, 'theater'), (67, 'actor'), (72, ','), (74, 'singer'), (80, ','), (82, 'and'), (86, 'dancer'), (92, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nicholas Adams',0, 14), ('June 10, 1983',21, 34), ('an American musical theater actor',39, 72)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nicholas'), (9, 'Adams'), (15, '('), (16, 'born'), (21, 'June'), (26, '10'), (28, ','), (30, '1983'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'musical'), (59, 'theater'), (67, 'actor'), (72, ','), (74, 'singer'), (80, ','), (82, 'and'), (86, 'dancer'), (92, '.')])</spacy_tokens>
+<spacy_chunks>[('Nicholas Adams', 0, 14), ('an American musical theater actor', 39, 72), ('singer', 74, 80), ('dancer', 86, 92)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

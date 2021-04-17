@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ursaline Bryant</title>
+<link/>https://en.wikipedia.org/wiki/Ursaline_Bryant
+<annotated>0</annotated>
+<originalabstract>Ursaline Bryant (born 1947) is an actress who has appeared in several films from the 1970s to 1990s.  
+She played starship Captain Tryla Scott in the Star Trek: The Next Generation episode "Conspiracy". She also had a memorable role as a prostitute in The Golden Girls episode "Ladies of the Evening".</originalabstract>
+<abstract>Ursaline_Bryant ( born 1947 ) is an_actress who has_appeared in several_films from the_1970s to 1990s . She played starship_Captain_Tryla_Scott in the_Star_Trek : The_Next_Generation_episode_"_Conspiracy_" . She also had a_memorable_role as a_prostitute in The_Golden_Girls_episode " Ladies of the_Evening_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ursaline'), (9, 'Bryant'), (16, '('), (17, 'born'), (22, '1947'), (26, ')'), (28, 'is'), (31, 'an'), (34, 'actress'), (42, 'who'), (46, 'has'), (50, 'appeared'), (59, 'in'), (62, 'several'), (70, 'films'), (76, 'from'), (81, 'the'), (85, '1970s'), (91, 'to'), (94, '1990s'), (99, '.'), (103, 'She'), (107, 'played'), (114, 'starship'), (123, 'Captain'), (131, 'Tryla'), (137, 'Scott'), (143, 'in'), (146, 'the'), (150, 'Star'), (155, 'Trek'), (159, ':'), (161, 'The'), (165, 'Next'), (170, 'Generation'), (181, 'episode'), (189, '"'), (190, 'Conspiracy'), (200, '"'), (201, '.'), (203, 'She'), (207, 'also'), (212, 'had'), (216, 'a'), (218, 'memorable'), (228, 'role'), (233, 'as'), (236, 'a'), (238, 'prostitute'), (249, 'in'), (252, 'The'), (256, 'Golden'), (263, 'Girls'), (269, 'episode'), (277, '"'), (278, 'Ladies'), (285, 'of'), (288, 'the'), (292, 'Evening'), (299, '"'), (300, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ursaline Bryant',0, 15), ('an actress',31, 41), ('has appeared',46, 58), ('several films',62, 75), ('the 1970s',81, 90), ('starship Captain Tryla Scott',114, 142), ('the Star Trek',146, 159), ('The Next Generation episode "Conspiracy"',161, 201), ('a memorable role',216, 232), ('a prostitute',236, 248), ('The Golden Girls episode',252, 276), ('the Evening"',288, 300)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'CD', 'TO', 'CD', '.', 'PRP', 'VBD', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ':', 'NNP', 'NNP', 'NNP', 'NN', '``', 'NNP', '\'\'', '.', 'PRP', 'RB', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NN', '``', 'NNP', 'IN', 'DT', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ursaline'), (9, 'Bryant'), (16, '('), (17, 'born'), (22, '1947'), (26, ')'), (28, 'is'), (31, 'an'), (34, 'actress'), (42, 'who'), (46, 'has'), (50, 'appeared'), (59, 'in'), (62, 'several'), (70, 'films'), (76, 'from'), (81, 'the'), (85, '1970s'), (91, 'to'), (94, '1990s'), (99, '.'), (103, 'She'), (107, 'played'), (114, 'starship'), (123, 'Captain'), (131, 'Tryla'), (137, 'Scott'), (143, 'in'), (146, 'the'), (150, 'Star'), (155, 'Trek'), (159, ':'), (161, 'The'), (165, 'Next'), (170, 'Generation'), (181, 'episode'), (189, '"'), (190, 'Conspiracy'), (200, '"'), (201, '.'), (203, 'She'), (207, 'also'), (212, 'had'), (216, 'a'), (218, 'memorable'), (228, 'role'), (233, 'as'), (236, 'a'), (238, 'prostitute'), (249, 'in'), (252, 'The'), (256, 'Golden'), (263, 'Girls'), (269, 'episode'), (277, '"'), (278, 'Ladies'), (285, 'of'), (288, 'the'), (292, 'Evening'), (299, '"'), (300, '.')])</spacy_tokens>
+<spacy_chunks>[('Ursaline Bryant', 0, 15), ('an actress', 31, 41), ('several films', 62, 75), ('starship Captain Tryla Scott', 114, 142), ('the Star Trek', 146, 159), ('Star Trek: The Next Generation', 150, 180), ('The Next Generation episode', 161, 188), ('"Conspiracy', 189, 200), ('a memorable role', 216, 232), ('a prostitute', 236, 248), ('The Golden Girls episode "Ladies', 252, 284), ('the Evening', 288, 299)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'CD', 'IN', 'CD', '.', 'PRP', 'VBD', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ':', 'DT', 'NNP', 'NNP', 'NN', '``', 'NN', "''", '.', 'PRP', 'RB', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNPS', 'NN', "''", 'NNS', 'IN', 'DT', 'NN', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

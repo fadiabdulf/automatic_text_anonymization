@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barry Livingston</title>
+<link/>https://en.wikipedia.org/wiki/Barry_Livingston
+<annotated>0</annotated>
+<originalabstract>Barry Gordon Livingston (born December 17, 1953) is an American television and film actor, known for his role as "Ernie Douglas" on the television series My Three Sons (1963–72). He is the younger brother of actor/director Stanley Livingston, who played Ernie's older brother "Chip" on the show.</originalabstract>
+<abstract>Barry_Gordon_Livingston ( born December_17_,_1953 ) is an_American_television_and_film_actor , known for his_role as "_Ernie_Douglas " on the_television_series_My_Three_Sons ( 1963 – 72 ) . He is the_younger_brother of actor/director_Stanley_Livingston , who played Ernie 's_older_brother_"_Chip " on the_show .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barry'), (6, 'Gordon'), (13, 'Livingston'), (24, '('), (25, 'born'), (30, 'December'), (39, '17'), (41, ','), (43, '1953'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'television'), (75, 'and'), (79, 'film'), (84, 'actor'), (89, ','), (91, 'known'), (97, 'for'), (101, 'his'), (105, 'role'), (110, 'as'), (113, '"'), (114, 'Ernie'), (120, 'Douglas'), (127, '"'), (129, 'on'), (132, 'the'), (136, 'television'), (147, 'series'), (154, 'My'), (157, 'Three'), (163, 'Sons'), (168, '('), (169, '1963'), (173, '–'), (174, '72'), (176, ')'), (177, '.'), (179, 'He'), (182, 'is'), (185, 'the'), (189, 'younger'), (197, 'brother'), (205, 'of'), (208, 'actor/director'), (223, 'Stanley'), (231, 'Livingston'), (241, ','), (243, 'who'), (247, 'played'), (254, 'Ernie'), (259, '\'s'), (262, 'older'), (268, 'brother'), (276, '"'), (277, 'Chip'), (281, '"'), (283, 'on'), (286, 'the'), (290, 'show'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barry Gordon Livingston',0, 23), ('December 17, 1953',30, 47), ('an American television and film actor',52, 89), ('his role',101, 109), ('"Ernie Douglas',113, 127), ('the television series My Three Sons',132, 167), ('the younger brother',185, 204), ('actor/director Stanley Livingston',208, 241), ('\'s older brother "Chip',259, 281), ('the show',286, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', '``', 'NNP', 'NNP', '\'\'', 'IN', 'DT', 'NN', 'NN', 'PRP$', 'CD', 'NNS', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'PRP', 'VBZ', 'DT', 'JJR', 'NN', 'IN', 'NN', 'NNP', 'NNP', ',', 'WP', 'VBD', 'NNP', 'POS', 'JJR', 'NN', '``', 'NN', '\'\'', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barry'), (6, 'Gordon'), (13, 'Livingston'), (24, '('), (25, 'born'), (30, 'December'), (39, '17'), (41, ','), (43, '1953'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'television'), (75, 'and'), (79, 'film'), (84, 'actor'), (89, ','), (91, 'known'), (97, 'for'), (101, 'his'), (105, 'role'), (110, 'as'), (113, '"'), (114, 'Ernie'), (120, 'Douglas'), (127, '"'), (129, 'on'), (132, 'the'), (136, 'television'), (147, 'series'), (154, 'My'), (157, 'Three'), (163, 'Sons'), (168, '('), (169, '1963–72'), (176, ')'), (177, '.'), (179, 'He'), (182, 'is'), (185, 'the'), (189, 'younger'), (197, 'brother'), (205, 'of'), (208, 'actor'), (213, '/'), (214, 'director'), (223, 'Stanley'), (231, 'Livingston'), (241, ','), (243, 'who'), (247, 'played'), (254, 'Ernie'), (259, "'s"), (262, 'older'), (268, 'brother'), (276, '"'), (277, 'Chip'), (281, '"'), (283, 'on'), (286, 'the'), (290, 'show'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Barry Gordon Livingston', 0, 23), ('December 17, 1953', 30, 47), ('an American television and film actor', 52, 89), ('his role', 101, 109), ('"Ernie Douglas', 113, 127), ('the television series', 132, 153), ('My Three Sons', 154, 167), ('(1963–72', 168, 176), ('the younger brother', 185, 204), ('actor/director Stanley Livingston', 208, 241), ('Ernie\'s older brother "Chip', 254, 281), ('the show', 286, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', '``', 'NNP', 'NNP', "''", 'IN', 'DT', 'NN', 'NN', 'PRP$', 'CD', 'NNS', '-LRB-', 'NNP', '-RRB-', '.', 'PRP', 'VBZ', 'DT', 'JJR', 'NN', 'IN', 'NN', 'SYM', 'NN', 'NNP', 'NNP', ',', 'WP', 'VBD', 'NNP', 'POS', 'JJR', 'NN', '``', 'NN', "''", 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

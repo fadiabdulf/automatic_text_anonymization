@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Mendenhall</title>
+<link/>https://en.wikipedia.org/wiki/David_Mendenhall
+<annotated>0</annotated>
+<originalabstract>David Mendenhall (born June 13, 1971) is an American film, television and voice actor. He is perhaps best known for his roles in the films Space Raiders, Over the Top, The Transformers: The Movie and They Still Call Me Bruce.</originalabstract>
+<abstract>David_Mendenhall ( born June_13 , 1971 ) is an_American_film_,_television_and_voice_actor . He is_perhaps_best_known for his_roles in the_films_Space_Raiders , Over the_Top , The_Transformers : The_Movie and They Still Call Me Bruce .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Mendenhall'), (17, '('), (18, 'born'), (23, 'June'), (28, '13'), (30, ','), (32, '1971'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'film'), (57, ','), (59, 'television'), (70, 'and'), (74, 'voice'), (80, 'actor'), (85, '.'), (87, 'He'), (90, 'is'), (93, 'perhaps'), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'his'), (120, 'roles'), (126, 'in'), (129, 'the'), (133, 'films'), (139, 'Space'), (145, 'Raiders'), (152, ','), (154, 'Over'), (159, 'the'), (163, 'Top'), (166, ','), (168, 'The'), (172, 'Transformers'), (184, ':'), (186, 'The'), (190, 'Movie'), (196, 'and'), (200, 'They'), (205, 'Still'), (211, 'Call'), (216, 'Me'), (219, 'Bruce'), (224, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Mendenhall',0, 16), ('June 13',23, 30), ('an American film, television and voice actor',41, 85), ('is perhaps best known',90, 111), ('his roles',116, 125), ('the films Space Raiders',129, 152), ('the Top',159, 166), ('The Transformers',168, 184), ('The Movie',186, 195)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NN', 'NNPS', ',', 'IN', 'DT', 'NNP', ',', 'DT', 'NNPS', ':', 'DT', 'NN', 'CC', 'PRP', 'RB', 'VB', 'PRP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Mendenhall'), (17, '('), (18, 'born'), (23, 'June'), (28, '13'), (30, ','), (32, '1971'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'film'), (57, ','), (59, 'television'), (70, 'and'), (74, 'voice'), (80, 'actor'), (85, '.'), (87, 'He'), (90, 'is'), (93, 'perhaps'), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'his'), (120, 'roles'), (126, 'in'), (129, 'the'), (133, 'films'), (139, 'Space'), (145, 'Raiders'), (152, ','), (154, 'Over'), (159, 'the'), (163, 'Top'), (166, ','), (168, 'The'), (172, 'Transformers'), (184, ':'), (186, 'The'), (190, 'Movie'), (196, 'and'), (200, 'They'), (205, 'Still'), (211, 'Call'), (216, 'Me'), (219, 'Bruce'), (224, '.')])</spacy_tokens>
+<spacy_chunks>[('David Mendenhall', 0, 16), ('June 13, 1971', 23, 36), ('an American film, television and voice actor', 41, 85), ('his roles', 116, 125), ('the films', 129, 138), ('Space Raiders', 139, 152), ('Over the Top', 154, 166), ('The Transformers: The Movie', 168, 195), ('They Still Call Me Bruce', 200, 224)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NNP', 'NNPS', ',', 'IN', 'DT', 'NNP', ',', 'DT', 'NNPS', ':', 'DT', 'NNP', 'CC', 'PRP', 'RB', 'VBP', 'PRP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

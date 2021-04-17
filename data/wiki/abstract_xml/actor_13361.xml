@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rosemary LaPlanche</title>
+<link/>https://en.wikipedia.org/wiki/Rosemary_LaPlanche
+<annotated>0</annotated>
+<originalabstract>Rosemary E. LaPlanche (October 11, 1923 – May 6, 1979) was an American beauty queen and actress. She won Miss California two years in a row (1940 and 1941), and won Miss America in 1941.</originalabstract>
+<abstract>Rosemary_E._LaPlanche ( October_11_,_1923 – May_6_,_1979 ) was an_American_beauty_queen_and_actress . She won Miss_California_two_years in a_row_(_1940_and_1941_) , and won Miss_America in 1941 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rosemary'), (9, 'E.'), (12, 'LaPlanche'), (22, '('), (23, 'October'), (31, '11'), (33, ','), (35, '1923'), (40, '–'), (42, 'May'), (46, '6'), (47, ','), (49, '1979'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'beauty'), (78, 'queen'), (84, 'and'), (88, 'actress'), (95, '.'), (97, 'She'), (101, 'won'), (105, 'Miss'), (110, 'California'), (121, 'two'), (125, 'years'), (131, 'in'), (134, 'a'), (136, 'row'), (140, '('), (141, '1940'), (146, 'and'), (150, '1941'), (154, ')'), (155, ','), (157, 'and'), (161, 'won'), (165, 'Miss'), (170, 'America'), (178, 'in'), (181, '1941'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rosemary E. LaPlanche',0, 21), ('October 11, 1923',23, 39), ('May 6, 1979',42, 53), ('an American beauty queen and actress',59, 95), ('Miss California two years',105, 130), ('a row (1940 and 1941)',134, 155), ('Miss America',165, 177)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'CD', 'NNS', 'IN', 'DT', 'NN', '-LRB-', 'CD', 'CC', 'CD', '-RRB-', ',', 'CC', 'VBD', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rosemary'), (9, 'E.'), (12, 'LaPlanche'), (22, '('), (23, 'October'), (31, '11'), (33, ','), (35, '1923'), (40, '–'), (42, 'May'), (46, '6'), (47, ','), (49, '1979'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'beauty'), (78, 'queen'), (84, 'and'), (88, 'actress'), (95, '.'), (97, 'She'), (101, 'won'), (105, 'Miss'), (110, 'California'), (121, 'two'), (125, 'years'), (131, 'in'), (134, 'a'), (136, 'row'), (140, '('), (141, '1940'), (146, 'and'), (150, '1941'), (154, ')'), (155, ','), (157, 'and'), (161, 'won'), (165, 'Miss'), (170, 'America'), (178, 'in'), (181, '1941'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('Rosemary E. LaPlanche', 0, 21), ('October 11, 1923', 23, 39), ('May 6, 1979', 42, 53), ('an American beauty queen', 59, 83), ('actress', 88, 95), ('Miss California', 105, 120), ('a row', 134, 139), ('Miss America', 165, 177)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'CD', 'NNS', 'IN', 'DT', 'NN', '-LRB-', 'CD', 'CC', 'CD', '-RRB-', ',', 'CC', 'VBD', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

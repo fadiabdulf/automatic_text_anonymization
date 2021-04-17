@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eloise Laws</title>
+<link/>https://en.wikipedia.org/wiki/Eloise_Laws
+<annotated>0</annotated>
+<originalabstract>Eloise Laws (born November 6, 1943) is a singer and a member of the prominent Laws family of musicians from Houston, Texas.</originalabstract>
+<abstract>Eloise_Laws ( born November_6_,_1943 ) is a_singer and a_member of the_prominent_Laws_family of musicians from Houston , Texas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eloise'), (7, 'Laws'), (12, '('), (13, 'born'), (18, 'November'), (27, '6'), (28, ','), (30, '1943'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'singer'), (48, 'and'), (52, 'a'), (54, 'member'), (61, 'of'), (64, 'the'), (68, 'prominent'), (78, 'Laws'), (83, 'family'), (90, 'of'), (93, 'musicians'), (103, 'from'), (108, 'Houston'), (115, ','), (117, 'Texas'), (122, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eloise Laws',0, 11), ('November 6, 1943',18, 34), ('a singer',39, 47), ('a member',52, 60), ('the prominent Laws family',64, 89)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'CC', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNS', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eloise'), (7, 'Laws'), (12, '('), (13, 'born'), (18, 'November'), (27, '6'), (28, ','), (30, '1943'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'singer'), (48, 'and'), (52, 'a'), (54, 'member'), (61, 'of'), (64, 'the'), (68, 'prominent'), (78, 'Laws'), (83, 'family'), (90, 'of'), (93, 'musicians'), (103, 'from'), (108, 'Houston'), (115, ','), (117, 'Texas'), (122, '.')])</spacy_tokens>
+<spacy_chunks>[('Eloise Laws', 0, 11), ('November 6, 1943', 18, 34), ('a singer', 39, 47), ('a member', 52, 60), ('the prominent Laws family', 64, 89), ('musicians', 93, 102), ('Houston, Texas', 108, 122)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'CC', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'NNS', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

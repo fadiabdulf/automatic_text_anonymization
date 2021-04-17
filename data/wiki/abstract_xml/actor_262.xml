@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles Avery</title>
+<link/>https://en.wikipedia.org/wiki/Charles_Avery
+<annotated>0</annotated>
+<originalabstract>Charles Avery (May 28, 1873 – July 23, 1926) was an American silent-film actor, film director, and screenwriter.One of the original seven Keystone Kops, Avery directed Roscoe "Fatty" Arbuckle in thirty-one comedies while at Keystone Studios.</originalabstract>
+<abstract>Charles_Avery ( May_28 , 1873 – July_23_,_1926 ) was an_American_silent-film_actor , film_director , and screenwriter.One of the_original_seven_Keystone_Kops , Avery directed Roscoe_"_Fatty_"_Arbuckle in thirty-one_comedies while at Keystone_Studios .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Avery'), (14, '('), (15, 'May'), (19, '28'), (21, ','), (23, '1873'), (28, '–'), (30, 'July'), (35, '23'), (37, ','), (39, '1926'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'silent-film'), (73, 'actor'), (78, ','), (80, 'film'), (85, 'director'), (93, ','), (95, 'and'), (99, 'screenwriter.One'), (116, 'of'), (119, 'the'), (123, 'original'), (132, 'seven'), (138, 'Keystone'), (147, 'Kops'), (151, ','), (153, 'Avery'), (159, 'directed'), (168, 'Roscoe'), (175, '"'), (176, 'Fatty'), (181, '"'), (183, 'Arbuckle'), (192, 'in'), (195, 'thirty-one'), (206, 'comedies'), (215, 'while'), (221, 'at'), (224, 'Keystone'), (233, 'Studios'), (240, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Avery',0, 13), ('May 28',15, 21), ('July 23, 1926',30, 43), ('an American silent-film actor',49, 78), ('film director',80, 93), ('the original seven Keystone Kops',119, 151), ('Roscoe "Fatty" Arbuckle',168, 191), ('thirty-one comedies',195, 214), ('Keystone Studios',224, 240)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'IN', 'DT', 'JJ', 'CD', 'NN', 'NNS', ',', 'NNP', 'VBD', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'CD', 'NNS', 'IN', 'IN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Avery'), (14, '('), (15, 'May'), (19, '28'), (21, ','), (23, '1873'), (28, '–'), (30, 'July'), (35, '23'), (37, ','), (39, '1926'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'silent'), (67, '-'), (68, 'film'), (73, 'actor'), (78, ','), (80, 'film'), (85, 'director'), (93, ','), (95, 'and'), (99, 'screenwriter'), (111, '.'), (112, 'One'), (116, 'of'), (119, 'the'), (123, 'original'), (132, 'seven'), (138, 'Keystone'), (147, 'Kops'), (151, ','), (153, 'Avery'), (159, 'directed'), (168, 'Roscoe'), (175, '"'), (176, 'Fatty'), (181, '"'), (183, 'Arbuckle'), (192, 'in'), (195, 'thirty'), (201, '-'), (202, 'one'), (206, 'comedies'), (215, 'while'), (221, 'at'), (224, 'Keystone'), (233, 'Studios'), (240, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Avery', 0, 13), ('May 28, 1873', 15, 27), ('July 23, 1926', 30, 43), ('an American silent-film actor', 49, 78), ('Film director', 80, 93), ('screenwriter', 99, 111), ('the original seven Keystone Kops', 119, 151), ('Roscoe "Fatty" Arbuckle', 168, 191), ('thirty-one comedies', 195, 214), ('Keystone Studios', 224, 240)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'HYPH', 'NN', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', '.', 'CD', 'IN', 'DT', 'JJ', 'CD', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'CD', 'HYPH', 'CD', 'NNS', 'IN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

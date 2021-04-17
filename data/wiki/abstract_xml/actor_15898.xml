@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Helen Westcott</title>
+<link/>https://en.wikipedia.org/wiki/Helen_Westcott
+<annotated>0</annotated>
+<originalabstract>Helen Westcott (born Myrthas Helen Hickman, January 1, 1928 – March 17, 1998) was an American stage and screen actor and former child actor. She is best known for her work in The Gunfighter (1950).</originalabstract>
+<abstract>Helen_Westcott ( born Myrthas_Helen_Hickman , January_1_,_1928 – March_17_,_1998 ) was an_American_stage_and_screen_actor and former_child_actor . She is_best_known for her_work in The_Gunfighter_(_1950_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Helen'), (6, 'Westcott'), (15, '('), (16, 'born'), (21, 'Myrthas'), (29, 'Helen'), (35, 'Hickman'), (42, ','), (44, 'January'), (52, '1'), (53, ','), (55, '1928'), (60, '–'), (62, 'March'), (68, '17'), (70, ','), (72, '1998'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'American'), (94, 'stage'), (100, 'and'), (104, 'screen'), (111, 'actor'), (117, 'and'), (121, 'former'), (128, 'child'), (134, 'actor'), (139, '.'), (141, 'She'), (145, 'is'), (148, 'best'), (153, 'known'), (159, 'for'), (163, 'her'), (167, 'work'), (172, 'in'), (175, 'The'), (179, 'Gunfighter'), (190, '('), (191, '1950'), (195, ')'), (196, '.')])</stanford_tokens>
+<opennlp_chunks>[('Helen Westcott',0, 14), ('Myrthas Helen Hickman',21, 42), ('January 1, 1928',44, 59), ('March 17, 1998',62, 76), ('an American stage and screen actor',82, 116), ('former child actor',121, 139), ('is best known',145, 158), ('her work',163, 171), ('The Gunfighter (1950)',175, 196)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Helen'), (6, 'Westcott'), (15, '('), (16, 'born'), (21, 'Myrthas'), (29, 'Helen'), (35, 'Hickman'), (42, ','), (44, 'January'), (52, '1'), (53, ','), (55, '1928'), (60, '–'), (62, 'March'), (68, '17'), (70, ','), (72, '1998'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'American'), (94, 'stage'), (100, 'and'), (104, 'screen'), (111, 'actor'), (117, 'and'), (121, 'former'), (128, 'child'), (134, 'actor'), (139, '.'), (141, 'She'), (145, 'is'), (148, 'best'), (153, 'known'), (159, 'for'), (163, 'her'), (167, 'work'), (172, 'in'), (175, 'The'), (179, 'Gunfighter'), (190, '('), (191, '1950'), (195, ')'), (196, '.')])</spacy_tokens>
+<spacy_chunks>[('Helen Westcott', 0, 14), ('born Myrthas Helen Hickman', 16, 42), ('January 1, 1928', 44, 59), ('March 17, 1998', 62, 76), ('an American stage', 82, 99), ('screen actor', 104, 116), ('former child actor', 121, 139), ('her work', 163, 171), ('The Gunfighter', 175, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

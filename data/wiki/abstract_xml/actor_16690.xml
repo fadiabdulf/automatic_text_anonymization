@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Louise Germaine</title>
+<link/>https://en.wikipedia.org/wiki/Louise_Germaine
+<annotated>0</annotated>
+<originalabstract>Tina Louise Germaine (born 1971, in Margate, Kent) is an English actress and model best known for her appearance as usherette Sylvia Berry in the 1993 Dennis Potter serial Lipstick on Your Collar. She played chambermaid Kate Hargreaves in the six-part 1994 comedy House Of Windsor.</originalabstract>
+<abstract>Tina_Louise_Germaine ( born_1971 , in Margate , Kent ) is an_English_actress_and_model best_known for her_appearance as usherette_Sylvia_Berry in the_1993_Dennis_Potter_serial_Lipstick on Your_Collar . She played chambermaid_Kate_Hargreaves in the_six-part_1994_comedy_House Of Windsor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tina'), (5, 'Louise'), (12, 'Germaine'), (21, '('), (22, 'born'), (27, '1971'), (31, ','), (33, 'in'), (36, 'Margate'), (43, ','), (45, 'Kent'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'English'), (65, 'actress'), (73, 'and'), (77, 'model'), (83, 'best'), (88, 'known'), (94, 'for'), (98, 'her'), (102, 'appearance'), (113, 'as'), (116, 'usherette'), (126, 'Sylvia'), (133, 'Berry'), (139, 'in'), (142, 'the'), (146, '1993'), (151, 'Dennis'), (158, 'Potter'), (165, 'serial'), (172, 'Lipstick'), (181, 'on'), (184, 'Your'), (189, 'Collar'), (195, '.'), (197, 'She'), (201, 'played'), (208, 'chambermaid'), (220, 'Kate'), (225, 'Hargreaves'), (236, 'in'), (239, 'the'), (243, 'six-part'), (252, '1994'), (257, 'comedy'), (264, 'House'), (270, 'Of'), (273, 'Windsor'), (280, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tina Louise Germaine',0, 20), ('born 1971',22, 31), ('an English actress and model',54, 82), ('best known',83, 93), ('her appearance',98, 112), ('usherette Sylvia Berry',116, 138), ('the 1993 Dennis Potter serial Lipstick',142, 180), ('Your Collar',184, 195), ('chambermaid Kate Hargreaves',208, 235), ('the six-part 1994 comedy House',239, 269)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', ',', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'NN', 'IN', 'PRP$', 'NN', '.', 'PRP', 'VBD', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'CD', 'NN', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tina'), (5, 'Louise'), (12, 'Germaine'), (21, '('), (22, 'born'), (27, '1971'), (31, ','), (33, 'in'), (36, 'Margate'), (43, ','), (45, 'Kent'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'English'), (65, 'actress'), (73, 'and'), (77, 'model'), (83, 'best'), (88, 'known'), (94, 'for'), (98, 'her'), (102, 'appearance'), (113, 'as'), (116, 'usherette'), (126, 'Sylvia'), (133, 'Berry'), (139, 'in'), (142, 'the'), (146, '1993'), (151, 'Dennis'), (158, 'Potter'), (165, 'serial'), (172, 'Lipstick'), (181, 'on'), (184, 'Your'), (189, 'Collar'), (195, '.'), (197, 'She'), (201, 'played'), (208, 'chambermaid'), (220, 'Kate'), (225, 'Hargreaves'), (236, 'in'), (239, 'the'), (243, 'six'), (246, '-'), (247, 'part'), (252, '1994'), (257, 'comedy'), (264, 'House'), (270, 'Of'), (273, 'Windsor'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('Tina Louise Germaine', 0, 20), ('Margate, Kent', 36, 49), ('an English actress', 54, 72), ('her appearance', 98, 112), ('usherette Sylvia Berry', 116, 138), ('the 1993 Dennis Potter serial Lipstick', 142, 180), ('Lipstick on Your Collar', 172, 195), ('chambermaid Kate Hargreaves', 208, 235), ('the six-part 1994 comedy House', 239, 269), ('Windsor', 273, 280)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', ',', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'NNP', 'IN', 'PRP$', 'NN', '.', 'PRP', 'VBD', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'HYPH', 'NN', 'CD', 'NN', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Albert Dupontel</title>
+<link/>https://en.wikipedia.org/wiki/Albert_Dupontel
+<annotated>0</annotated>
+<originalabstract>Albert Dupontel (born 11 January 1964) is a French actor, film director and screenwriter. He started his career as a stand-up comedian. In February 1998, his film Bernie took the Grand Prize at the 9th Yubari International Fantastic Film Festival which was attended by Dupontel.</originalabstract>
+<abstract>Albert_Dupontel ( born 11_January_1964 ) is a_French_actor , film_director_and_screenwriter . He started his_career as a_stand-up_comedian . In February_1998 , his_film_Bernie took the_Grand_Prize at the_9th_Yubari_International_Fantastic_Film_Festival which was_attended by Dupontel .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Albert'), (7, 'Dupontel'), (16, '('), (17, 'born'), (22, '11'), (25, 'January'), (33, '1964'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actor'), (56, ','), (58, 'film'), (63, 'director'), (72, 'and'), (76, 'screenwriter'), (88, '.'), (90, 'He'), (93, 'started'), (101, 'his'), (105, 'career'), (112, 'as'), (115, 'a'), (117, 'stand-up'), (126, 'comedian'), (134, '.'), (136, 'In'), (139, 'February'), (148, '1998'), (152, ','), (154, 'his'), (158, 'film'), (163, 'Bernie'), (170, 'took'), (175, 'the'), (179, 'Grand'), (185, 'Prize'), (191, 'at'), (194, 'the'), (198, '9th'), (202, 'Yubari'), (209, 'International'), (223, 'Fantastic'), (233, 'Film'), (238, 'Festival'), (247, 'which'), (253, 'was'), (257, 'attended'), (266, 'by'), (269, 'Dupontel'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Albert Dupontel',0, 15), ('11 January 1964',22, 37), ('a French actor',42, 56), ('film director and screenwriter',58, 88), ('his career',101, 111), ('a stand-up comedian',115, 134), ('February 1998',139, 152), ('his film Bernie',154, 169), ('the Grand Prize',175, 190), ('the 9th Yubari International Fantastic Film Festival',194, 246), ('was attended',253, 265)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'IN', 'NNP', 'CD', ',', 'PRP$', 'NN', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'WDT', 'VBD', 'VBN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Albert'), (7, 'Dupontel'), (16, '('), (17, 'born'), (22, '11'), (25, 'January'), (33, '1964'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actor'), (56, ','), (58, 'film'), (63, 'director'), (72, 'and'), (76, 'screenwriter'), (88, '.'), (90, 'He'), (93, 'started'), (101, 'his'), (105, 'career'), (112, 'as'), (115, 'a'), (117, 'stand'), (122, '-'), (123, 'up'), (126, 'comedian'), (134, '.'), (136, 'In'), (139, 'February'), (148, '1998'), (152, ','), (154, 'his'), (158, 'film'), (163, 'Bernie'), (170, 'took'), (175, 'the'), (179, 'Grand'), (185, 'Prize'), (191, 'at'), (194, 'the'), (198, '9th'), (202, 'Yubari'), (209, 'International'), (223, 'Fantastic'), (233, 'Film'), (238, 'Festival'), (247, 'which'), (253, 'was'), (257, 'attended'), (266, 'by'), (269, 'Dupontel'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Albert Dupontel', 0, 15), ('11 January 1964', 22, 37), ('a French actor', 42, 56), ('Film director', 58, 71), ('Screenwriter', 76, 88), ('his career', 101, 111), ('a stand-up comedian', 115, 134), ('February', 139, 147), ('his film', 154, 162), ('Bernie', 163, 169), ('the Grand Prize', 175, 190), ('the 9th Yubari International Fantastic Film Festival', 194, 246)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'VB', 'HYPH', 'RP', 'NN', '.', 'IN', 'NNP', 'CD', ',', 'PRP$', 'NN', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'WDT', 'VBD', 'VBN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

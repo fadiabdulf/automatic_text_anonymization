@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jamie Dorrington</title>
+<link/>https://en.wikipedia.org/wiki/Jamie_Dorrington
+<annotated>0</annotated>
+<originalabstract>Jamie Dorrington (born 1984 in Leeds) is a British actor who is best known for his role in the English crime drama Happy Valley alongside Sarah Lancashire He also features in BBC's To Walk Invisible Playing Enoch Thomas and Channel 4 Drama Series Ackley Bridge(2017) Plus many other British films.</originalabstract>
+<abstract>Jamie_Dorrington ( born 1984 in Leeds ) is a_British_actor who is_best_known for his_role in the_English_crime_drama Happy_Valley alongside Sarah_Lancashire He also features in BBC 's To_Walk Invisible_Playing_Enoch_Thomas and Channel_4_Drama_Series_Ackley_Bridge ( 2017 ) Plus many_other_British_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jamie'), (6, 'Dorrington'), (17, '('), (18, 'born'), (23, '1984'), (28, 'in'), (31, 'Leeds'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'British'), (51, 'actor'), (57, 'who'), (61, 'is'), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'his'), (83, 'role'), (88, 'in'), (91, 'the'), (95, 'English'), (103, 'crime'), (109, 'drama'), (115, 'Happy'), (121, 'Valley'), (128, 'alongside'), (138, 'Sarah'), (144, 'Lancashire'), (155, 'He'), (158, 'also'), (163, 'features'), (172, 'in'), (175, 'BBC'), (178, '\'s'), (181, 'To'), (184, 'Walk'), (189, 'Invisible'), (199, 'Playing'), (207, 'Enoch'), (213, 'Thomas'), (220, 'and'), (224, 'Channel'), (232, '4'), (234, 'Drama'), (240, 'Series'), (247, 'Ackley'), (254, 'Bridge'), (260, '('), (261, '2017'), (265, ')'), (267, 'Plus'), (272, 'many'), (277, 'other'), (283, 'British'), (291, 'films'), (296, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jamie Dorrington',0, 16), ('a British actor',41, 56), ('is best known',61, 74), ('his role',79, 87), ('the English crime drama',91, 114), ('Happy Valley',115, 127), ('Sarah Lancashire',138, 154), ('To Walk',181, 188), ('Invisible Playing Enoch Thomas',189, 219), ('Channel 4 Drama Series Ackley Bridge',224, 260), ('many other British films',272, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'IN', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'JJ', 'NNP', 'IN', 'NNP', 'NNP', 'PRP', 'RB', 'VBZ', 'IN', 'NNP', 'POS', 'TO', 'VB', 'JJ', 'VBG', 'NNP', 'NNP', 'CC', 'NNP', 'CD', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'JJ', 'JJ', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jamie'), (6, 'Dorrington'), (17, '('), (18, 'born'), (23, '1984'), (28, 'in'), (31, 'Leeds'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'British'), (51, 'actor'), (57, 'who'), (61, 'is'), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'his'), (83, 'role'), (88, 'in'), (91, 'the'), (95, 'English'), (103, 'crime'), (109, 'drama'), (115, 'Happy'), (121, 'Valley'), (128, 'alongside'), (138, 'Sarah'), (144, 'Lancashire'), (155, 'He'), (158, 'also'), (163, 'features'), (172, 'in'), (175, 'BBC'), (178, "'s"), (181, 'To'), (184, 'Walk'), (189, 'Invisible'), (199, 'Playing'), (207, 'Enoch'), (213, 'Thomas'), (220, 'and'), (224, 'Channel'), (232, '4'), (234, 'Drama'), (240, 'Series'), (247, 'Ackley'), (254, 'Bridge(2017'), (265, ')'), (267, 'Plus'), (272, 'many'), (277, 'other'), (283, 'British'), (291, 'films'), (296, '.')])</spacy_tokens>
+<spacy_chunks>[('Jamie Dorrington', 0, 16), ('a British actor', 41, 56), ('his role', 79, 87), ('the English crime drama', 91, 114), ('Happy Valley', 115, 127), ('Sarah Lancashire', 138, 154), ('Enoch Thomas', 207, 219), ('Channel 4', 224, 233), ('Drama Series Ackley Bridge(2017', 234, 265), ('Plus many other British films', 267, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'IN', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'PRP', 'RB', 'VBZ', 'IN', 'NNP', 'POS', 'TO', 'VB', 'JJ', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'CD', 'NNP', 'NNP', 'NNP', 'NNP', '-RRB-', 'CC', 'JJ', 'JJ', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

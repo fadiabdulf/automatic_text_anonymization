@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elspeth Eric</title>
+<link/>https://en.wikipedia.org/wiki/Elspeth_Eric
+<annotated>0</annotated>
+<originalabstract>Elspeth Eric (1907 - 1993) was an actress in old-time radio, "usually cast as the other woman in soaps and serials."</originalabstract>
+<abstract>Elspeth_Eric ( 1907 - 1993 ) was an_actress in old-time_radio , " usually_cast as the_other_woman in soaps_and_serials . "</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elspeth'), (8, 'Eric'), (13, '('), (14, '1907'), (19, '-'), (21, '1993'), (25, ')'), (27, 'was'), (31, 'an'), (34, 'actress'), (42, 'in'), (45, 'old-time'), (54, 'radio'), (59, ','), (61, '"'), (62, 'usually'), (70, 'cast'), (75, 'as'), (78, 'the'), (82, 'other'), (88, 'woman'), (94, 'in'), (97, 'soaps'), (103, 'and'), (107, 'serials'), (114, '.'), (115, '"')])</stanford_tokens>
+<opennlp_chunks>[('Elspeth Eric',0, 12), ('an actress',31, 41), ('old-time radio',45, 59), ('usually cast',62, 74), ('the other woman',78, 93), ('soaps and serials',97, 114)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'NN', ',', '``', 'RB', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNS', 'CC', 'NNS', '.', '\'\'']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elspeth'), (8, 'Eric'), (13, '('), (14, '1907'), (19, '-'), (21, '1993'), (25, ')'), (27, 'was'), (31, 'an'), (34, 'actress'), (42, 'in'), (45, 'old'), (48, '-'), (49, 'time'), (54, 'radio'), (59, ','), (61, '"'), (62, 'usually'), (70, 'cast'), (75, 'as'), (78, 'the'), (82, 'other'), (88, 'woman'), (94, 'in'), (97, 'soaps'), (103, 'and'), (107, 'serials'), (114, '.'), (115, '"')])</spacy_tokens>
+<spacy_chunks>[('Elspeth Eric', 0, 12), ('an actress', 31, 41), ('Old-time radio', 45, 59), ('the other woman', 78, 93), ('serials', 107, 114)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'HYPH', 'NN', 'NN', ',', "''", 'RB', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNS', 'CC', 'NNS', '.', "''"]</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

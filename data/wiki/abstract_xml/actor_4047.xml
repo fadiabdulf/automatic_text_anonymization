@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Danny Lloyd</title>
+<link/>https://en.wikipedia.org/wiki/Danny_Lloyd
+<annotated>0</annotated>
+<originalabstract>Danny Lloyd (born October 13, 1972) is an American teacher and former child actor best known for his role as Danny Torrance in the horror film The Shining (1980), an adaptation of Stephen King's 1977 novel of the same name.</originalabstract>
+<abstract>Danny_Lloyd ( born October_13_,_1972 ) is an_American_teacher and former_child_actor best_known for his_role as Danny_Torrance in the_horror_film The_Shining ( 1980 ) , an_adaptation of Stephen_King 's_1977_novel of the_same_name .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Danny'), (6, 'Lloyd'), (12, '('), (13, 'born'), (18, 'October'), (26, '13'), (28, ','), (30, '1972'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'teacher'), (59, 'and'), (63, 'former'), (70, 'child'), (76, 'actor'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'his'), (101, 'role'), (106, 'as'), (109, 'Danny'), (115, 'Torrance'), (124, 'in'), (127, 'the'), (131, 'horror'), (138, 'film'), (143, 'The'), (147, 'Shining'), (155, '('), (156, '1980'), (160, ')'), (161, ','), (163, 'an'), (166, 'adaptation'), (177, 'of'), (180, 'Stephen'), (188, 'King'), (192, '\'s'), (195, '1977'), (200, 'novel'), (206, 'of'), (209, 'the'), (213, 'same'), (218, 'name'), (222, '.')])</stanford_tokens>
+<opennlp_chunks>[('Danny Lloyd',0, 11), ('October 13, 1972',18, 34), ('an American teacher',39, 58), ('former child actor',63, 81), ('best known',82, 92), ('his role',97, 105), ('Danny Torrance',109, 123), ('the horror film',127, 142), ('The Shining',143, 154), ('an adaptation',163, 176), ('Stephen King',180, 192), ('\'s 1977 novel',192, 205), ('the same name',209, 222)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'VBG', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'CD', 'NN', 'IN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Danny'), (6, 'Lloyd'), (12, '('), (13, 'born'), (18, 'October'), (26, '13'), (28, ','), (30, '1972'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'teacher'), (59, 'and'), (63, 'former'), (70, 'child'), (76, 'actor'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'his'), (101, 'role'), (106, 'as'), (109, 'Danny'), (115, 'Torrance'), (124, 'in'), (127, 'the'), (131, 'horror'), (138, 'film'), (143, 'The'), (147, 'Shining'), (155, '('), (156, '1980'), (160, ')'), (161, ','), (163, 'an'), (166, 'adaptation'), (177, 'of'), (180, 'Stephen'), (188, 'King'), (192, "'s"), (195, '1977'), (200, 'novel'), (206, 'of'), (209, 'the'), (213, 'same'), (218, 'name'), (222, '.')])</spacy_tokens>
+<spacy_chunks>[('Danny Lloyd', 0, 11), ('October 13, 1972', 18, 34), ('an American teacher', 39, 58), ('former child actor', 63, 81), ('his role', 97, 105), ('Danny Torrance', 109, 123), ('the horror film', 127, 142), ('The Shining', 143, 154), ('an adaptation', 163, 176), ("Stephen King's 1977 novel", 180, 205), ('the same name', 209, 222)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'VBG', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'CD', 'NN', 'IN', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

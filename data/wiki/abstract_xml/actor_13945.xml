@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lee Meredith</title>
+<link/>https://en.wikipedia.org/wiki/Lee_Meredith
+<annotated>0</annotated>
+<originalabstract>Lee Meredith (born October 22, 1947 in River Edge, New Jersey) is an American actress.</originalabstract>
+<abstract>Lee_Meredith ( born October_22_,_1947 in River_Edge , New_Jersey ) is an_American_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lee'), (4, 'Meredith'), (13, '('), (14, 'born'), (19, 'October'), (27, '22'), (29, ','), (31, '1947'), (36, 'in'), (39, 'River'), (45, 'Edge'), (49, ','), (51, 'New'), (55, 'Jersey'), (61, ')'), (63, 'is'), (66, 'an'), (69, 'American'), (78, 'actress'), (85, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lee Meredith',0, 12), ('October 22, 1947',19, 35), ('River Edge',39, 49), ('New Jersey',51, 61), ('an American actress',66, 85)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lee'), (4, 'Meredith'), (13, '('), (14, 'born'), (19, 'October'), (27, '22'), (29, ','), (31, '1947'), (36, 'in'), (39, 'River'), (45, 'Edge'), (49, ','), (51, 'New'), (55, 'Jersey'), (61, ')'), (63, 'is'), (66, 'an'), (69, 'American'), (78, 'actress'), (85, '.')])</spacy_tokens>
+<spacy_chunks>[('Lee Meredith', 0, 12), ('October 22, 1947', 19, 35), ('River Edge, New Jersey', 39, 61), ('an American actress', 66, 85)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

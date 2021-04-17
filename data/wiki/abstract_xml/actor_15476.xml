@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Renée Taylor</title>
+<link/>https://en.wikipedia.org/wiki/Ren%C3%A9e_Taylor
+<annotated>0</annotated>
+<originalabstract>Renée Taylor (née Renée Wexler; March 19, 1933) is an American actress and writer. She is known for playing Fran Drescher's title character's outspoken mother, Sylvia Fine, on the TV series The Nanny.</originalabstract>
+<abstract>Renée_Taylor ( née_Renée_Wexler ; March_19_,_1933 ) is an_American_actress_and_writer . She is_known for playing Fran_Drescher 's_title_character 's_outspoken_mother , Sylvia_Fine , on the_TV_series The_Nanny .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Renée'), (6, 'Taylor'), (13, '('), (14, 'née'), (18, 'Renée'), (24, 'Wexler'), (30, ';'), (32, 'March'), (38, '19'), (40, ','), (42, '1933'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actress'), (71, 'and'), (75, 'writer'), (81, '.'), (83, 'She'), (87, 'is'), (90, 'known'), (96, 'for'), (100, 'playing'), (108, 'Fran'), (113, 'Drescher'), (121, '\'s'), (124, 'title'), (130, 'character'), (139, '\'s'), (142, 'outspoken'), (152, 'mother'), (158, ','), (160, 'Sylvia'), (167, 'Fine'), (171, ','), (173, 'on'), (176, 'the'), (180, 'TV'), (183, 'series'), (190, 'The'), (194, 'Nanny'), (199, '.')])</stanford_tokens>
+<opennlp_chunks>[('Renée Taylor',0, 12), ('née Renée Wexler',14, 30), ('March 19, 1933',32, 46), ('an American actress and writer',51, 81), ('is known',87, 95), ('Fran Drescher',108, 121), ('\'s title character',121, 139), ('\'s outspoken mother',139, 158), ('Sylvia Fine',160, 171), ('the TV series',176, 189), ('The Nanny',190, 199)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'POS', 'JJ', 'NN', ',', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Renée'), (6, 'Taylor'), (13, '('), (14, 'née'), (18, 'Renée'), (24, 'Wexler'), (30, ';'), (32, 'March'), (38, '19'), (40, ','), (42, '1933'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actress'), (71, 'and'), (75, 'writer'), (81, '.'), (83, 'She'), (87, 'is'), (90, 'known'), (96, 'for'), (100, 'playing'), (108, 'Fran'), (113, 'Drescher'), (121, "'s"), (124, 'title'), (130, 'character'), (139, "'s"), (142, 'outspoken'), (152, 'mother'), (158, ','), (160, 'Sylvia'), (167, 'Fine'), (171, ','), (173, 'on'), (176, 'the'), (180, 'TV'), (183, 'series'), (190, 'The'), (194, 'Nanny'), (199, '.')])</spacy_tokens>
+<spacy_chunks>[('Renée Taylor', 0, 12), ('née Renée Wexler', 14, 30), ('March 19, 1933', 32, 46), ('an American actress', 51, 70), ('writer', 75, 81), ("Fran Drescher's title character's outspoken mother", 108, 158), ('Sylvia Fine', 160, 171), ('the TV series', 176, 189), ('The Nanny', 190, 199)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBZ', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'POS', 'JJ', 'NN', ',', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michelle Berube</title>
+<link/>https://en.wikipedia.org/wiki/Michelle_Berube
+<annotated>0</annotated>
+<originalabstract>Michelle Berube is an American actress and magician assistant, and retired Olympic gymnast. She is most notable for her role as one of the Masked Magician's assistants from Breaking the Magician's Code: Magic's Biggest Secrets Finally Revealed.</originalabstract>
+<abstract>Michelle_Berube is an_American_actress_and_magician_assistant , and retired Olympic_gymnast . She is most_notable for her_role as one of the_Masked_Magician 's_assistants from Breaking the_Magician 's_Code : Magic 's_Biggest_Secrets Finally_Revealed .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michelle'), (9, 'Berube'), (16, 'is'), (19, 'an'), (22, 'American'), (31, 'actress'), (39, 'and'), (43, 'magician'), (52, 'assistant'), (61, ','), (63, 'and'), (67, 'retired'), (75, 'Olympic'), (83, 'gymnast'), (90, '.'), (92, 'She'), (96, 'is'), (99, 'most'), (104, 'notable'), (112, 'for'), (116, 'her'), (120, 'role'), (125, 'as'), (128, 'one'), (132, 'of'), (135, 'the'), (139, 'Masked'), (146, 'Magician'), (154, '\'s'), (157, 'assistants'), (168, 'from'), (173, 'Breaking'), (182, 'the'), (186, 'Magician'), (194, '\'s'), (197, 'Code'), (201, ':'), (203, 'Magic'), (208, '\'s'), (211, 'Biggest'), (219, 'Secrets'), (227, 'Finally'), (235, 'Revealed'), (243, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michelle Berube',0, 15), ('an American actress and magician assistant',19, 61), ('Olympic gymnast',75, 90), ('most notable',99, 111), ('her role',116, 124), ('the Masked Magician',135, 154), ('\'s assistants',154, 167), ('the Magician',182, 194), ('\'s Code',194, 201), ('\'s Biggest Secrets',208, 226), ('Finally Revealed',227, 243)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'CC', 'VBD', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'IN', 'DT', 'JJ', 'NN', 'POS', 'NNS', 'IN', 'VBG', 'DT', 'NN', 'POS', 'NNP', ':', 'NNP', 'POS', 'JJS', 'NNS', 'RB', 'VBN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michelle'), (9, 'Berube'), (16, 'is'), (19, 'an'), (22, 'American'), (31, 'actress'), (39, 'and'), (43, 'magician'), (52, 'assistant'), (61, ','), (63, 'and'), (67, 'retired'), (75, 'Olympic'), (83, 'gymnast'), (90, '.'), (92, 'She'), (96, 'is'), (99, 'most'), (104, 'notable'), (112, 'for'), (116, 'her'), (120, 'role'), (125, 'as'), (128, 'one'), (132, 'of'), (135, 'the'), (139, 'Masked'), (146, 'Magician'), (154, "'s"), (157, 'assistants'), (168, 'from'), (173, 'Breaking'), (182, 'the'), (186, 'Magician'), (194, "'s"), (197, 'Code'), (201, ':'), (203, 'Magic'), (208, "'s"), (211, 'Biggest'), (219, 'Secrets'), (227, 'Finally'), (235, 'Revealed'), (243, '.')])</spacy_tokens>
+<spacy_chunks>[('Michelle Berube', 0, 15), ('an American actress', 19, 38), ('magician assistant', 43, 61), ('retired Olympic gymnast', 67, 90), ('her role', 116, 124), ("the Masked Magician's assistants", 135, 167), ("Breaking the Magician's Code: Magic's Biggest Secrets Finally Revealed", 173, 243)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'CC', 'VBN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'IN', 'DT', 'NNP', 'NNP', 'POS', 'NNS', 'IN', 'VBG', 'DT', 'NNP', 'POS', 'NNP', ':', 'NNP', 'POS', 'JJS', 'NNPS', 'RB', 'VBD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

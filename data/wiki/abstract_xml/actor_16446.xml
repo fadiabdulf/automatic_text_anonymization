@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Daisy Burrell</title>
+<link/>https://en.wikipedia.org/wiki/Daisy_Burrell
+<annotated>0</annotated>
+<originalabstract>Daisy Burrell (16 June 1892 – 10 June 1982), real name Daisy Isobel Eaglesfield Ratton, was an English stage actress and Edwardian musical comedy performer who also appeared as a leading lady in silent films and in pantomime.
+In 1951 she appeared in The Golden Year, the first musical comedy produced for television.</originalabstract>
+<abstract>Daisy_Burrell ( 16_June_1892 – 10_June_1982 ) , real_name_Daisy_Isobel_Eaglesfield_Ratton , was an_English_stage_actress and Edwardian_musical_comedy_performer who also appeared as a_leading_lady in silent_films and in pantomime . In 1951 she appeared in The_Golden_Year , the_first_musical_comedy produced for television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Daisy'), (6, 'Burrell'), (14, '('), (15, '16'), (18, 'June'), (23, '1892'), (28, '–'), (30, '10'), (33, 'June'), (38, '1982'), (42, ')'), (43, ','), (45, 'real'), (50, 'name'), (55, 'Daisy'), (61, 'Isobel'), (68, 'Eaglesfield'), (80, 'Ratton'), (86, ','), (88, 'was'), (92, 'an'), (95, 'English'), (103, 'stage'), (109, 'actress'), (117, 'and'), (121, 'Edwardian'), (131, 'musical'), (139, 'comedy'), (146, 'performer'), (156, 'who'), (160, 'also'), (165, 'appeared'), (174, 'as'), (177, 'a'), (179, 'leading'), (187, 'lady'), (192, 'in'), (195, 'silent'), (202, 'films'), (208, 'and'), (212, 'in'), (215, 'pantomime'), (224, '.'), (226, 'In'), (229, '1951'), (234, 'she'), (238, 'appeared'), (247, 'in'), (250, 'The'), (254, 'Golden'), (261, 'Year'), (265, ','), (267, 'the'), (271, 'first'), (277, 'musical'), (285, 'comedy'), (292, 'produced'), (301, 'for'), (305, 'television'), (315, '.')])</stanford_tokens>
+<opennlp_chunks>[('Daisy Burrell',0, 13), ('16 June 1892',15, 27), ('10 June 1982',30, 42), ('real name Daisy Isobel Eaglesfield Ratton',45, 86), ('an English stage actress',92, 116), ('Edwardian musical comedy performer',121, 155), ('a leading lady',177, 191), ('silent films',195, 207), ('The Golden Year',250, 265), ('the first musical comedy',267, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'RB', 'VBD', 'IN', 'DT', 'VBG', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'IN', 'NN', '.', 'IN', 'CD', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NN', ',', 'DT', 'JJ', 'JJ', 'NN', 'VBD', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Daisy'), (6, 'Burrell'), (14, '('), (15, '16'), (18, 'June'), (23, '1892'), (28, '–'), (30, '10'), (33, 'June'), (38, '1982'), (42, ')'), (43, ','), (45, 'real'), (50, 'name'), (55, 'Daisy'), (61, 'Isobel'), (68, 'Eaglesfield'), (80, 'Ratton'), (86, ','), (88, 'was'), (92, 'an'), (95, 'English'), (103, 'stage'), (109, 'actress'), (117, 'and'), (121, 'Edwardian'), (131, 'musical'), (139, 'comedy'), (146, 'performer'), (156, 'who'), (160, 'also'), (165, 'appeared'), (174, 'as'), (177, 'a'), (179, 'leading'), (187, 'lady'), (192, 'in'), (195, 'silent'), (202, 'films'), (208, 'and'), (212, 'in'), (215, 'pantomime'), (224, '.'), (226, 'In'), (229, '1951'), (234, 'she'), (238, 'appeared'), (247, 'in'), (250, 'The'), (254, 'Golden'), (261, 'Year'), (265, ','), (267, 'the'), (271, 'first'), (277, 'musical'), (285, 'comedy'), (292, 'produced'), (301, 'for'), (305, 'television'), (315, '.')])</spacy_tokens>
+<spacy_chunks>[('Daisy Burrell', 0, 13), ('16 June 1892', 15, 27), ('10 June 1982', 30, 42), ('real name Daisy Isobel Eaglesfield Ratton', 45, 86), ('an English stage actress', 92, 116), ('Edwardian musical comedy performer', 121, 155), ('a leading lady', 177, 191), ('silent films', 195, 207), ('pantomime', 215, 224), ('The Golden Year', 250, 265), ('the first musical comedy', 267, 291), ('television', 305, 315)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'RB', 'VBD', 'IN', 'DT', 'VBG', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'IN', 'NN', '.', 'IN', 'CD', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', ',', 'DT', 'JJ', 'JJ', 'NN', 'VBN', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

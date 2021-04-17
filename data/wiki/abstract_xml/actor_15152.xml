@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ginny Simms</title>
+<link/>https://en.wikipedia.org/wiki/Ginny_Simms
+<annotated>0</annotated>
+<originalabstract>Virginia Ellen Simms (May 13, 1913 – April 4, 1994) was an American popular singer and film actress.
+Simms sang with big bands and labeled with Dinah Shore, Peggy Lee, Ella Fitzgerald, Jo Stafford, and others. She also worked as an MGM and Universal film actress and appeared in 11 movies from 1939 to 1951, when she retired.</originalabstract>
+<abstract>Virginia_Ellen_Simms ( May_13_,_1913 – April_4_,_1994 ) was an_American_popular_singer_and_film_actress . Simms sang with big_bands and labeled with Dinah_Shore , Peggy_Lee , Ella_Fitzgerald , Jo_Stafford , and others . She also worked as an_MGM_and_Universal_film_actress and appeared in 11_movies from 1939 to 1951 , when she retired .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Virginia'), (9, 'Ellen'), (15, 'Simms'), (21, '('), (22, 'May'), (26, '13'), (28, ','), (30, '1913'), (35, '–'), (37, 'April'), (43, '4'), (44, ','), (46, '1994'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'popular'), (76, 'singer'), (83, 'and'), (87, 'film'), (92, 'actress'), (99, '.'), (101, 'Simms'), (107, 'sang'), (112, 'with'), (117, 'big'), (121, 'bands'), (127, 'and'), (131, 'labeled'), (139, 'with'), (144, 'Dinah'), (150, 'Shore'), (155, ','), (157, 'Peggy'), (163, 'Lee'), (166, ','), (168, 'Ella'), (173, 'Fitzgerald'), (183, ','), (185, 'Jo'), (188, 'Stafford'), (196, ','), (198, 'and'), (202, 'others'), (208, '.'), (210, 'She'), (214, 'also'), (219, 'worked'), (226, 'as'), (229, 'an'), (232, 'MGM'), (236, 'and'), (240, 'Universal'), (250, 'film'), (255, 'actress'), (263, 'and'), (267, 'appeared'), (276, 'in'), (279, '11'), (282, 'movies'), (289, 'from'), (294, '1939'), (299, 'to'), (302, '1951'), (306, ','), (308, 'when'), (313, 'she'), (317, 'retired'), (324, '.')])</stanford_tokens>
+<opennlp_chunks>[('Virginia Ellen Simms',0, 20), ('May 13, 1913',22, 34), ('April 4, 1994',37, 50), ('an American popular singer and film actress',56, 99), ('big bands',117, 126), ('Dinah Shore',144, 155), ('Peggy Lee',157, 166), ('Ella Fitzgerald',168, 183), ('Jo Stafford',185, 196), ('an MGM and Universal film actress',229, 262), ('11 movies',279, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'IN', 'JJ', 'NNS', 'CC', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNS', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NN', 'NN', 'CC', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'TO', 'CD', ',', 'WRB', 'PRP', 'VBD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Virginia'), (9, 'Ellen'), (15, 'Simms'), (21, '('), (22, 'May'), (26, '13'), (28, ','), (30, '1913'), (35, '–'), (37, 'April'), (43, '4'), (44, ','), (46, '1994'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'popular'), (76, 'singer'), (83, 'and'), (87, 'film'), (92, 'actress'), (99, '.'), (101, 'Simms'), (107, 'sang'), (112, 'with'), (117, 'big'), (121, 'bands'), (127, 'and'), (131, 'labeled'), (139, 'with'), (144, 'Dinah'), (150, 'Shore'), (155, ','), (157, 'Peggy'), (163, 'Lee'), (166, ','), (168, 'Ella'), (173, 'Fitzgerald'), (183, ','), (185, 'Jo'), (188, 'Stafford'), (196, ','), (198, 'and'), (202, 'others'), (208, '.'), (210, 'She'), (214, 'also'), (219, 'worked'), (226, 'as'), (229, 'an'), (232, 'MGM'), (236, 'and'), (240, 'Universal'), (250, 'film'), (255, 'actress'), (263, 'and'), (267, 'appeared'), (276, 'in'), (279, '11'), (282, 'movies'), (289, 'from'), (294, '1939'), (299, 'to'), (302, '1951'), (306, ','), (308, 'when'), (313, 'she'), (317, 'retired'), (324, '.')])</spacy_tokens>
+<spacy_chunks>[('Virginia Ellen Simms', 0, 20), ('May 13, 1913', 22, 34), ('April 4, 1994', 37, 50), ('an American popular singer and film actress', 56, 99), ('big bands', 117, 126), ('Dinah Shore', 144, 155), ('Peggy Lee', 157, 166), ('Ella Fitzgerald', 168, 183), ('Jo Stafford', 185, 196), ('others', 202, 208), ('an MGM and Universal film actress', 229, 262), ('11 movies', 279, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'IN', 'JJ', 'NNS', 'CC', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNS', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NN', 'NN', 'CC', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'CD', ',', 'WRB', 'PRP', 'VBD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

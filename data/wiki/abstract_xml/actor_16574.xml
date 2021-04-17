@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sandra Dorne</title>
+<link/>https://en.wikipedia.org/wiki/Sandra_Dorne
+<annotated>0</annotated>
+<originalabstract>Sandra Dorne (born Joan Smith, 19 June 1924 in Keighley, West Riding of Yorkshire, died 25 December 1992 in Westminster, London) was a British actress.</originalabstract>
+<abstract>Sandra_Dorne ( born Joan_Smith , 19_June_1924 in Keighley , West_Riding of Yorkshire , died 25_December_1992 in Westminster , London ) was a_British_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sandra'), (7, 'Dorne'), (13, '('), (14, 'born'), (19, 'Joan'), (24, 'Smith'), (29, ','), (31, '19'), (34, 'June'), (39, '1924'), (44, 'in'), (47, 'Keighley'), (55, ','), (57, 'West'), (62, 'Riding'), (69, 'of'), (72, 'Yorkshire'), (81, ','), (83, 'died'), (88, '25'), (91, 'December'), (100, '1992'), (105, 'in'), (108, 'Westminster'), (119, ','), (121, 'London'), (127, ')'), (129, 'was'), (133, 'a'), (135, 'British'), (143, 'actress'), (150, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sandra Dorne',0, 12), ('Joan Smith',19, 29), ('19 June 1924',31, 43), ('West Riding',57, 68), ('25 December 1992',88, 104), ('a British actress',133, 150)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'VBD', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sandra'), (7, 'Dorne'), (13, '('), (14, 'born'), (19, 'Joan'), (24, 'Smith'), (29, ','), (31, '19'), (34, 'June'), (39, '1924'), (44, 'in'), (47, 'Keighley'), (55, ','), (57, 'West'), (62, 'Riding'), (69, 'of'), (72, 'Yorkshire'), (81, ','), (83, 'died'), (88, '25'), (91, 'December'), (100, '1992'), (105, 'in'), (108, 'Westminster'), (119, ','), (121, 'London'), (127, ')'), (129, 'was'), (133, 'a'), (135, 'British'), (143, 'actress'), (150, '.')])</spacy_tokens>
+<spacy_chunks>[('Sandra Dorne', 0, 12), ('(born Joan Smith', 13, 29), ('19 June 1924', 31, 43), ('Keighley', 47, 55), ('West Riding of Yorkshire', 57, 81), ('25 December 1992', 88, 104), ('Westminster', 108, 119), ('London', 121, 127), ('a British actress', 133, 150)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'VBD', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

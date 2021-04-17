@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Orcsik</title>
+<link/>https://en.wikipedia.org/wiki/John_Orcsik
+<annotated>0</annotated>
+<originalabstract>John Orcsik (born 3 May 1945) is an Hungarian Australian actor, writer and director best known for his television roles but also prominently for the film version of the soap opera Number 96. He was married to actress Paula Duncan.</originalabstract>
+<abstract>John_Orcsik ( born 3_May_1945 ) is an_Hungarian_Australian_actor_,_writer_and_director best_known for his_television_roles but also_prominently for the_film_version of the_soap_opera_Number_96 . He was_married to actress_Paula_Duncan .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Orcsik'), (12, '('), (13, 'born'), (18, '3'), (20, 'May'), (24, '1945'), (28, ')'), (30, 'is'), (33, 'an'), (36, 'Hungarian'), (46, 'Australian'), (57, 'actor'), (62, ','), (64, 'writer'), (71, 'and'), (75, 'director'), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'television'), (114, 'roles'), (120, 'but'), (124, 'also'), (129, 'prominently'), (141, 'for'), (145, 'the'), (149, 'film'), (154, 'version'), (162, 'of'), (165, 'the'), (169, 'soap'), (174, 'opera'), (180, 'Number'), (187, '96'), (189, '.'), (191, 'He'), (194, 'was'), (198, 'married'), (206, 'to'), (209, 'actress'), (217, 'Paula'), (223, 'Duncan'), (229, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Orcsik',0, 11), ('3 May 1945',18, 28), ('an Hungarian Australian actor, writer and director',33, 83), ('best known',84, 94), ('his television roles',99, 119), ('also prominently',124, 140), ('the film version',145, 161), ('the soap opera Number 96',165, 189), ('was married',194, 205), ('actress Paula Duncan',209, 229)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'CC', 'RB', 'RB', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'CD', '.', 'PRP', 'VBD', 'VBN', 'TO', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Orcsik'), (12, '('), (13, 'born'), (18, '3'), (20, 'May'), (24, '1945'), (28, ')'), (30, 'is'), (33, 'an'), (36, 'Hungarian'), (46, 'Australian'), (57, 'actor'), (62, ','), (64, 'writer'), (71, 'and'), (75, 'director'), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'television'), (114, 'roles'), (120, 'but'), (124, 'also'), (129, 'prominently'), (141, 'for'), (145, 'the'), (149, 'film'), (154, 'version'), (162, 'of'), (165, 'the'), (169, 'soap'), (174, 'opera'), (180, 'Number'), (187, '96'), (189, '.'), (191, 'He'), (194, 'was'), (198, 'married'), (206, 'to'), (209, 'actress'), (217, 'Paula'), (223, 'Duncan'), (229, '.')])</spacy_tokens>
+<spacy_chunks>[('John Orcsik', 0, 11), ('3 May 1945', 18, 28), ('an Hungarian Australian actor', 33, 62), ('writer', 64, 70), ('director', 75, 83), ('his television roles', 99, 119), ('the film version', 145, 161), ('the soap opera Number', 165, 186), ('Number 96', 180, 189), ('actress Paula Duncan', 209, 229)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'CC', 'RB', 'RB', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'CD', '.', 'PRP', 'VBD', 'JJ', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mickey Katz</title>
+<link/>https://en.wikipedia.org/wiki/Mickey_Katz
+<annotated>0</annotated>
+<originalabstract>Mickey Katz (June 15, 1909 – April 30, 1985) was an American comedian and musician who specialized in Jewish humor. He was the father of actor Joel Grey and grandfather of actress Jennifer Grey.</originalabstract>
+<abstract>Mickey_Katz ( June_15_,_1909 – April_30_,_1985 ) was an_American_comedian and musician who specialized in Jewish_humor . He was the_father of actor_Joel_Grey and grandfather of actress_Jennifer_Grey .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mickey'), (7, 'Katz'), (12, '('), (13, 'June'), (18, '15'), (20, ','), (22, '1909'), (27, '–'), (29, 'April'), (35, '30'), (37, ','), (39, '1985'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'comedian'), (70, 'and'), (74, 'musician'), (83, 'who'), (87, 'specialized'), (99, 'in'), (102, 'Jewish'), (109, 'humor'), (114, '.'), (116, 'He'), (119, 'was'), (123, 'the'), (127, 'father'), (134, 'of'), (137, 'actor'), (143, 'Joel'), (148, 'Grey'), (153, 'and'), (157, 'grandfather'), (169, 'of'), (172, 'actress'), (180, 'Jennifer'), (189, 'Grey'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mickey Katz',0, 11), ('June 15, 1909',13, 26), ('April 30, 1985',29, 43), ('an American comedian',49, 69), ('Jewish humor',102, 114), ('the father',123, 133), ('actor Joel Grey',137, 152), ('actress Jennifer Grey',172, 193)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mickey'), (7, 'Katz'), (12, '('), (13, 'June'), (18, '15'), (20, ','), (22, '1909'), (27, '–'), (29, 'April'), (35, '30'), (37, ','), (39, '1985'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'comedian'), (70, 'and'), (74, 'musician'), (83, 'who'), (87, 'specialized'), (99, 'in'), (102, 'Jewish'), (109, 'humor'), (114, '.'), (116, 'He'), (119, 'was'), (123, 'the'), (127, 'father'), (134, 'of'), (137, 'actor'), (143, 'Joel'), (148, 'Grey'), (153, 'and'), (157, 'grandfather'), (169, 'of'), (172, 'actress'), (180, 'Jennifer'), (189, 'Grey'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[('Mickey Katz', 0, 11), ('June 15, 1909', 13, 26), ('April 30, 1985', 29, 43), ('an American comedian', 49, 69), ('musician', 74, 82), ('Jewish humor', 102, 114), ('the father', 123, 133), ('actor Joel Grey', 137, 152), ('grandfather', 157, 168), ('actress Jennifer Grey', 172, 193)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

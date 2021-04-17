@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dyan Cannon</title>
+<link/>https://en.wikipedia.org/wiki/Dyan_Cannon
+<annotated>0</annotated>
+<originalabstract>Dyan Cannon (born Samille Diane Friesen; January 4, 1937) is an American actress, director, screenwriter, producer, and editor. She has been nominated for three Academy Awards.</originalabstract>
+<abstract>Dyan_Cannon ( born Samille_Diane_Friesen ; January_4_,_1937 ) is an_American_actress , director , screenwriter , producer , and editor . She has_been_nominated for three_Academy_Awards .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dyan'), (5, 'Cannon'), (12, '('), (13, 'born'), (18, 'Samille'), (26, 'Diane'), (32, 'Friesen'), (39, ';'), (41, 'January'), (49, '4'), (50, ','), (52, '1937'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'American'), (73, 'actress'), (80, ','), (82, 'director'), (90, ','), (92, 'screenwriter'), (104, ','), (106, 'producer'), (114, ','), (116, 'and'), (120, 'editor'), (126, '.'), (128, 'She'), (132, 'has'), (136, 'been'), (141, 'nominated'), (151, 'for'), (155, 'three'), (161, 'Academy'), (169, 'Awards'), (175, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dyan Cannon',0, 11), ('Samille Diane Friesen',18, 39), ('January 4, 1937',41, 56), ('an American actress',61, 80), ('has been nominated',132, 150), ('three Academy Awards',155, 175)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'VBN', 'IN', 'CD', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dyan'), (5, 'Cannon'), (12, '('), (13, 'born'), (18, 'Samille'), (26, 'Diane'), (32, 'Friesen'), (39, ';'), (41, 'January'), (49, '4'), (50, ','), (52, '1937'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'American'), (73, 'actress'), (80, ','), (82, 'director'), (90, ','), (92, 'screenwriter'), (104, ','), (106, 'producer'), (114, ','), (116, 'and'), (120, 'editor'), (126, '.'), (128, 'She'), (132, 'has'), (136, 'been'), (141, 'nominated'), (151, 'for'), (155, 'three'), (161, 'Academy'), (169, 'Awards'), (175, '.')])</spacy_tokens>
+<spacy_chunks>[('Dyan Cannon', 0, 11), ('Samille Diane Friesen', 18, 39), ('January 4, 1937', 41, 56), ('an American actress', 61, 80), ('director', 82, 90), ('screenwriter', 92, 104), ('producer', 106, 114), ('editor', 120, 126), ('three Academy Awards', 155, 175)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'VBN', 'IN', 'CD', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

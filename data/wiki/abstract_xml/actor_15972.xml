@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kay Williams</title>
+<link/>https://en.wikipedia.org/wiki/Kay_Williams
+<annotated>0</annotated>
+<originalabstract>Kathleen Gretchen "Kay" Williams (August 7, 1916 – May 25, 1983) was an American actress. She appeared in numerous uncredited bit parts throughout the 1940s before playing Hazel Dawn in George Cukor's The Actress (1953).</originalabstract>
+<abstract>Kathleen_Gretchen_"_Kay_"_Williams ( August_7_,_1916 – May_25_,_1983 ) was an_American_actress . She appeared in numerous_uncredited_bit_parts throughout the_1940s before playing Hazel_Dawn in George_Cukor 's_The_Actress_(_1953_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kathleen'), (9, 'Gretchen'), (18, '"'), (19, 'Kay'), (22, '"'), (24, 'Williams'), (33, '('), (34, 'August'), (41, '7'), (42, ','), (44, '1916'), (49, '–'), (51, 'May'), (55, '25'), (57, ','), (59, '1983'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'actress'), (88, '.'), (90, 'She'), (94, 'appeared'), (103, 'in'), (106, 'numerous'), (115, 'uncredited'), (126, 'bit'), (130, 'parts'), (136, 'throughout'), (147, 'the'), (151, '1940s'), (157, 'before'), (164, 'playing'), (172, 'Hazel'), (178, 'Dawn'), (183, 'in'), (186, 'George'), (193, 'Cukor'), (198, '\'s'), (201, 'The'), (205, 'Actress'), (213, '('), (214, '1953'), (218, ')'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kathleen Gretchen "Kay" Williams',0, 32), ('August 7, 1916',34, 48), ('May 25, 1983',51, 63), ('an American actress',69, 88), ('numerous uncredited bit parts',106, 135), ('the 1940s',147, 156), ('Hazel Dawn',172, 182), ('George Cukor',186, 198), ('\'s The Actress (1953)',198, 219)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'CD', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kathleen'), (9, 'Gretchen'), (18, '"'), (19, 'Kay'), (22, '"'), (24, 'Williams'), (33, '('), (34, 'August'), (41, '7'), (42, ','), (44, '1916'), (49, '–'), (51, 'May'), (55, '25'), (57, ','), (59, '1983'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'actress'), (88, '.'), (90, 'She'), (94, 'appeared'), (103, 'in'), (106, 'numerous'), (115, 'uncredited'), (126, 'bit'), (130, 'parts'), (136, 'throughout'), (147, 'the'), (151, '1940s'), (157, 'before'), (164, 'playing'), (172, 'Hazel'), (178, 'Dawn'), (183, 'in'), (186, 'George'), (193, 'Cukor'), (198, "'s"), (201, 'The'), (205, 'Actress'), (213, '('), (214, '1953'), (218, ')'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Kathleen Gretchen "Kay" Williams', 0, 32), ('August 7, 1916', 34, 48), ('May 25, 1983', 51, 63), ('an American actress', 69, 88), ('numerous uncredited bit parts', 106, 135), ('the 1940s', 147, 156), ('Hazel Dawn', 172, 182), ("George Cukor's The Actress", 186, 212)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'NNS', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

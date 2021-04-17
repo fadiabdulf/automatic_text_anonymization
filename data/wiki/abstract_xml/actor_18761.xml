@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Judith Magre</title>
+<link/>https://en.wikipedia.org/wiki/Judith_Magre
+<annotated>0</annotated>
+<originalabstract>Judith Magre (born 20 November 1926) is a French actress, born in Montier-en-Der, Haute-Marne.</originalabstract>
+<abstract>Judith_Magre ( born_20_November_1926 ) is a_French_actress , born in Montier-en-Der , Haute-Marne .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Judith'), (7, 'Magre'), (13, '('), (14, 'born'), (19, '20'), (22, 'November'), (31, '1926'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'French'), (49, 'actress'), (56, ','), (58, 'born'), (63, 'in'), (66, 'Montier-en-Der'), (80, ','), (82, 'Haute-Marne'), (93, '.')])</stanford_tokens>
+<opennlp_chunks>[('Judith Magre',0, 12), ('born 20 November 1926',14, 35), ('a French actress',40, 56)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Judith'), (7, 'Magre'), (13, '('), (14, 'born'), (19, '20'), (22, 'November'), (31, '1926'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'French'), (49, 'actress'), (56, ','), (58, 'born'), (63, 'in'), (66, 'Montier'), (73, '-'), (74, 'en'), (76, '-'), (77, 'Der'), (80, ','), (82, 'Haute'), (87, '-'), (88, 'Marne'), (93, '.')])</spacy_tokens>
+<spacy_chunks>[('Judith Magre', 0, 12), ('20 November 1926', 19, 35), ('a French actress', 40, 56), ('Montier-en-Der', 66, 80), ('Haute-Marne', 82, 93)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

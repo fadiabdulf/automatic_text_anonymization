@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Clive Swift</title>
+<link/>https://en.wikipedia.org/wiki/Clive_Swift
+<annotated>0</annotated>
+<originalabstract>Clive Walter Swift (born 9 February 1936) is an English actor and songwriter. He is best known for his role as Richard Bucket in the British television series Keeping Up Appearances, but has played many other notable film and television roles, including that of Roy in the British television series The Old Guys.</originalabstract>
+<abstract>Clive_Walter_Swift ( born_9_February_1936 ) is an_English_actor_and_songwriter . He is_best_known for his_role as Richard_Bucket in the_British_television_series Keeping Up_Appearances , but has_played many_other_notable_film_and_television_roles , including that of Roy in the_British_television_series_The_Old_Guys .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Clive'), (6, 'Walter'), (13, 'Swift'), (19, '('), (20, 'born'), (25, '9'), (27, 'February'), (36, '1936'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'English'), (56, 'actor'), (62, 'and'), (66, 'songwriter'), (76, '.'), (78, 'He'), (81, 'is'), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'role'), (108, 'as'), (111, 'Richard'), (119, 'Bucket'), (126, 'in'), (129, 'the'), (133, 'British'), (141, 'television'), (152, 'series'), (159, 'Keeping'), (167, 'Up'), (170, 'Appearances'), (181, ','), (183, 'but'), (187, 'has'), (191, 'played'), (198, 'many'), (203, 'other'), (209, 'notable'), (217, 'film'), (222, 'and'), (226, 'television'), (237, 'roles'), (242, ','), (244, 'including'), (254, 'that'), (259, 'of'), (262, 'Roy'), (266, 'in'), (269, 'the'), (273, 'British'), (281, 'television'), (292, 'series'), (299, 'The'), (303, 'Old'), (307, 'Guys'), (311, '.')])</stanford_tokens>
+<opennlp_chunks>[('Clive Walter Swift',0, 18), ('born 9 February 1936',20, 40), ('an English actor and songwriter',45, 76), ('is best known',81, 94), ('his role',99, 107), ('Richard Bucket',111, 125), ('the British television series',129, 158), ('Up Appearances',167, 181), ('has played',187, 197), ('many other notable film and television roles',198, 242), ('the British television series The Old Guys',269, 311)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'VBG', 'RP', 'NNS', ',', 'CC', 'VBZ', 'VBN', 'JJ', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NNS', ',', 'VBG', 'DT', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Clive'), (6, 'Walter'), (13, 'Swift'), (19, '('), (20, 'born'), (25, '9'), (27, 'February'), (36, '1936'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'English'), (56, 'actor'), (62, 'and'), (66, 'songwriter'), (76, '.'), (78, 'He'), (81, 'is'), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'role'), (108, 'as'), (111, 'Richard'), (119, 'Bucket'), (126, 'in'), (129, 'the'), (133, 'British'), (141, 'television'), (152, 'series'), (159, 'Keeping'), (167, 'Up'), (170, 'Appearances'), (181, ','), (183, 'but'), (187, 'has'), (191, 'played'), (198, 'many'), (203, 'other'), (209, 'notable'), (217, 'film'), (222, 'and'), (226, 'television'), (237, 'roles'), (242, ','), (244, 'including'), (254, 'that'), (259, 'of'), (262, 'Roy'), (266, 'in'), (269, 'the'), (273, 'British'), (281, 'television'), (292, 'series'), (299, 'The'), (303, 'Old'), (307, 'Guys'), (311, '.')])</spacy_tokens>
+<spacy_chunks>[('Clive Walter Swift', 0, 18), ('9 February 1936', 25, 40), ('an English actor', 45, 61), ('songwriter', 66, 76), ('his role', 99, 107), ('Richard Bucket', 111, 125), ('the British television series', 129, 158), ('Keeping Up Appearances', 159, 181), ('many other notable film and television roles', 198, 242), ('The Old Guys', 299, 311)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'VBG', 'RP', 'NNPS', ',', 'CC', 'VBZ', 'VBN', 'JJ', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NNS', ',', 'VBG', 'DT', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'DT', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

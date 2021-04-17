@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Scarlett Byrne</title>
+<link/>https://en.wikipedia.org/wiki/Scarlett_Byrne
+<annotated>0</annotated>
+<originalabstract>Scarlett Hannah Byrne (born 6 October 1990 in Hammersmith, London) is an English actress. She is best known for her roles as Pansy Parkinson in the Harry Potter series and as Lexi in the TV series Falling Skies. Byrne has also appeared in the TV series The Vampire Diaries as Nora Hildegard.</originalabstract>
+<abstract>Scarlett_Hannah_Byrne ( born_6_October_1990 in Hammersmith , London ) is an_English_actress . She is_best_known for her_roles as Pansy_Parkinson in the_Harry_Potter_series and as Lexi in the_TV_series_Falling_Skies . Byrne has_also_appeared in the_TV_series The_Vampire_Diaries as Nora_Hildegard .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Scarlett'), (9, 'Hannah'), (16, 'Byrne'), (22, '('), (23, 'born'), (28, '6'), (30, 'October'), (38, '1990'), (43, 'in'), (46, 'Hammersmith'), (57, ','), (59, 'London'), (65, ')'), (67, 'is'), (70, 'an'), (73, 'English'), (81, 'actress'), (88, '.'), (90, 'She'), (94, 'is'), (97, 'best'), (102, 'known'), (108, 'for'), (112, 'her'), (116, 'roles'), (122, 'as'), (125, 'Pansy'), (131, 'Parkinson'), (141, 'in'), (144, 'the'), (148, 'Harry'), (154, 'Potter'), (161, 'series'), (168, 'and'), (172, 'as'), (175, 'Lexi'), (180, 'in'), (183, 'the'), (187, 'TV'), (190, 'series'), (197, 'Falling'), (205, 'Skies'), (210, '.'), (212, 'Byrne'), (218, 'has'), (222, 'also'), (227, 'appeared'), (236, 'in'), (239, 'the'), (243, 'TV'), (246, 'series'), (253, 'The'), (257, 'Vampire'), (265, 'Diaries'), (273, 'as'), (276, 'Nora'), (281, 'Hildegard'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('Scarlett Hannah Byrne',0, 21), ('born 6 October 1990',23, 42), ('an English actress',70, 88), ('is best known',94, 107), ('her roles',112, 121), ('Pansy Parkinson',125, 140), ('the Harry Potter series',144, 167), ('the TV series Falling Skies',183, 210), ('has also appeared',218, 235), ('the TV series',239, 252), ('The Vampire Diaries',253, 272), ('Nora Hildegard',276, 290)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'CC', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', 'NNPS', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Scarlett'), (9, 'Hannah'), (16, 'Byrne'), (22, '('), (23, 'born'), (28, '6'), (30, 'October'), (38, '1990'), (43, 'in'), (46, 'Hammersmith'), (57, ','), (59, 'London'), (65, ')'), (67, 'is'), (70, 'an'), (73, 'English'), (81, 'actress'), (88, '.'), (90, 'She'), (94, 'is'), (97, 'best'), (102, 'known'), (108, 'for'), (112, 'her'), (116, 'roles'), (122, 'as'), (125, 'Pansy'), (131, 'Parkinson'), (141, 'in'), (144, 'the'), (148, 'Harry'), (154, 'Potter'), (161, 'series'), (168, 'and'), (172, 'as'), (175, 'Lexi'), (180, 'in'), (183, 'the'), (187, 'TV'), (190, 'series'), (197, 'Falling'), (205, 'Skies'), (210, '.'), (212, 'Byrne'), (218, 'has'), (222, 'also'), (227, 'appeared'), (236, 'in'), (239, 'the'), (243, 'TV'), (246, 'series'), (253, 'The'), (257, 'Vampire'), (265, 'Diaries'), (273, 'as'), (276, 'Nora'), (281, 'Hildegard'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('Scarlett Hannah Byrne', 0, 21), ('6 October 1990', 28, 42), ('Hammersmith', 46, 57), ('London', 59, 65), ('an English actress', 70, 88), ('her roles', 112, 121), ('Pansy Parkinson', 125, 140), ('the Harry Potter series', 144, 167), ('the TV series', 183, 196), ('Falling Skies', 197, 210), ('The Vampire Diaries', 253, 272), ('Nora Hildegard', 276, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'CC', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNPS', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', 'NNPS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

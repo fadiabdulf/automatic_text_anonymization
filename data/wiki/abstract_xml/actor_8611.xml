@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Francis Lister</title>
+<link/>https://en.wikipedia.org/wiki/Francis_Lister
+<annotated>0</annotated>
+<originalabstract>Francis Lister (2 April 1899 – 28 October 1951) was a British actor. He was married to the actresses Nora Swinburne (1924–32) and Margot Grahame (1934-36).</originalabstract>
+<abstract>Francis_Lister ( 2_April_1899 – 28_October_1951 ) was a_British_actor . He was_married to the_actresses_Nora_Swinburne_(_1924 – 32 ) and Margot_Grahame_(_1934-36_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Francis'), (8, 'Lister'), (15, '('), (16, '2'), (18, 'April'), (24, '1899'), (29, '–'), (31, '28'), (34, 'October'), (42, '1951'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'British'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'was'), (76, 'married'), (84, 'to'), (87, 'the'), (91, 'actresses'), (101, 'Nora'), (106, 'Swinburne'), (116, '('), (117, '1924'), (121, '–'), (122, '32'), (124, ')'), (126, 'and'), (130, 'Margot'), (137, 'Grahame'), (145, '('), (146, '1934-36'), (153, ')'), (154, '.')])</stanford_tokens>
+<opennlp_chunks>[('Francis Lister',0, 14), ('2 April 1899',16, 28), ('28 October 1951',31, 46), ('a British actor',52, 67), ('was married',72, 83), ('the actresses Nora Swinburne (1924',87, 121), ('Margot Grahame (1934-36)',130, 154)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'DT', 'NNS', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Francis'), (8, 'Lister'), (15, '('), (16, '2'), (18, 'April'), (24, '1899'), (29, '–'), (31, '28'), (34, 'October'), (42, '1951'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'British'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'was'), (76, 'married'), (84, 'to'), (87, 'the'), (91, 'actresses'), (101, 'Nora'), (106, 'Swinburne'), (116, '('), (117, '1924–32'), (124, ')'), (126, 'and'), (130, 'Margot'), (137, 'Grahame'), (145, '('), (146, '1934'), (150, '-'), (151, '36'), (153, ')'), (154, '.')])</spacy_tokens>
+<spacy_chunks>[('Francis Lister', 0, 14), ('2 April 1899', 16, 28), ('28 October 1951', 31, 46), ('a British actor', 52, 67), ('the actresses', 87, 100), ('Nora Swinburne', 101, 115), ('Margot Grahame', 130, 144)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'NNS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

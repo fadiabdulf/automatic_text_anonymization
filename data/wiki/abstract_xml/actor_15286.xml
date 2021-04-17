@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Louise Stanley</title>
+<link/>https://en.wikipedia.org/wiki/Louise_Stanley
+<annotated>0</annotated>
+<originalabstract>Louise Stanley, born Louise Keyes (January 28, 1915 – December 28, 1982), was an American actress.</originalabstract>
+<abstract>Louise_Stanley , born Louise_Keyes ( January_28_,_1915 – December_28_,_1982 ) , was an_American_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Louise'), (7, 'Stanley'), (14, ','), (16, 'born'), (21, 'Louise'), (28, 'Keyes'), (34, '('), (35, 'January'), (43, '28'), (45, ','), (47, '1915'), (52, '–'), (54, 'December'), (63, '28'), (65, ','), (67, '1982'), (71, ')'), (72, ','), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'actress'), (97, '.')])</stanford_tokens>
+<opennlp_chunks>[('Louise Stanley',0, 14), ('Louise Keyes',21, 33), ('January 28, 1915',35, 51), ('December 28, 1982',54, 71), ('an American actress',78, 97)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Louise'), (7, 'Stanley'), (14, ','), (16, 'born'), (21, 'Louise'), (28, 'Keyes'), (34, '('), (35, 'January'), (43, '28'), (45, ','), (47, '1915'), (52, '–'), (54, 'December'), (63, '28'), (65, ','), (67, '1982'), (71, ')'), (72, ','), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'actress'), (97, '.')])</spacy_tokens>
+<spacy_chunks>[('Louise Stanley', 0, 14), ('Louise Keyes', 21, 33), ('(January', 34, 42), ('January 28, 1915', 35, 51), ('December 28, 1982', 54, 71), ('an American actress', 78, 97)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Fleet</title>
+<link/>https://en.wikipedia.org/wiki/James_Fleet
+<annotated>0</annotated>
+<originalabstract>James Edward Fleet (born 11 March 1952) is a British actor. He is most famous for his roles as the bumbling and well-meaning Tom in the 1994 British romantic comedy film Four Weddings and a Funeral and the dim-witted but kind Hugo Horton in the BBC sitcom television series The Vicar of Dibley.</originalabstract>
+<abstract>James_Edward_Fleet ( born 11_March_1952 ) is a_British_actor . He is most_famous for his_roles as the_bumbling_and_well-meaning_Tom in the_1994_British_romantic_comedy_film Four_Weddings and a_Funeral and the_dim-witted_but_kind_Hugo_Horton in the_BBC_sitcom_television_series The_Vicar of Dibley .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Edward'), (13, 'Fleet'), (19, '('), (20, 'born'), (25, '11'), (28, 'March'), (34, '1952'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'British'), (53, 'actor'), (58, '.'), (60, 'He'), (63, 'is'), (66, 'most'), (71, 'famous'), (78, 'for'), (82, 'his'), (86, 'roles'), (92, 'as'), (95, 'the'), (99, 'bumbling'), (108, 'and'), (112, 'well-meaning'), (125, 'Tom'), (129, 'in'), (132, 'the'), (136, '1994'), (141, 'British'), (149, 'romantic'), (158, 'comedy'), (165, 'film'), (170, 'Four'), (175, 'Weddings'), (184, 'and'), (188, 'a'), (190, 'Funeral'), (198, 'and'), (202, 'the'), (206, 'dim-witted'), (217, 'but'), (221, 'kind'), (226, 'Hugo'), (231, 'Horton'), (238, 'in'), (241, 'the'), (245, 'BBC'), (249, 'sitcom'), (256, 'television'), (267, 'series'), (274, 'The'), (278, 'Vicar'), (284, 'of'), (287, 'Dibley'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Edward Fleet',0, 18), ('11 March 1952',25, 38), ('a British actor',43, 58), ('most famous',66, 77), ('his roles',82, 91), ('the bumbling and well-meaning Tom',95, 128), ('the 1994 British romantic comedy film',132, 169), ('Four Weddings',170, 183), ('a Funeral',188, 197), ('the dim-witted but kind Hugo Horton',202, 237), ('the BBC sitcom television series',241, 273), ('The Vicar',274, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'VBG', 'CC', 'JJ', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'JJ', 'NN', 'NN', 'CD', 'NNPS', 'CC', 'DT', 'NNP', 'CC', 'DT', 'JJ', 'CC', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'DT', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Edward'), (13, 'Fleet'), (19, '('), (20, 'born'), (25, '11'), (28, 'March'), (34, '1952'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'British'), (53, 'actor'), (58, '.'), (60, 'He'), (63, 'is'), (66, 'most'), (71, 'famous'), (78, 'for'), (82, 'his'), (86, 'roles'), (92, 'as'), (95, 'the'), (99, 'bumbling'), (108, 'and'), (112, 'well'), (116, '-'), (117, 'meaning'), (125, 'Tom'), (129, 'in'), (132, 'the'), (136, '1994'), (141, 'British'), (149, 'romantic'), (158, 'comedy'), (165, 'film'), (170, 'Four'), (175, 'Weddings'), (184, 'and'), (188, 'a'), (190, 'Funeral'), (198, 'and'), (202, 'the'), (206, 'dim'), (209, '-'), (210, 'witted'), (217, 'but'), (221, 'kind'), (226, 'Hugo'), (231, 'Horton'), (238, 'in'), (241, 'the'), (245, 'BBC'), (249, 'sitcom'), (256, 'television'), (267, 'series'), (274, 'The'), (278, 'Vicar'), (284, 'of'), (287, 'Dibley'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('James Edward Fleet', 0, 18), ('11 March 1952', 25, 38), ('a British actor', 43, 58), ('his roles', 82, 91), ('the bumbling and well-meaning Tom', 95, 128), ('the 1994 British romantic comedy film', 132, 169), ('Four Weddings and a Funeral', 170, 197), ('Hugo Horton', 226, 237), ('the BBC sitcom television series', 241, 273), ('The Vicar of Dibley', 274, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'JJ', 'CC', 'RB', 'HYPH', 'VBG', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'JJ', 'NN', 'NN', 'CD', 'NNPS', 'CC', 'DT', 'NNP', 'CC', 'DT', 'JJ', 'HYPH', 'JJ', 'CC', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'DT', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

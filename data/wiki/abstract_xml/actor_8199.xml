@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>A. E. George</title>
+<link/>https://en.wikipedia.org/wiki/A._E._George
+<annotated>0</annotated>
+<originalabstract>A.E. George (22 July 1869 – 10 November 1920) was an English stage actor. He also appeared in three silent films.He was born Albert Edward George in Castle Hill, Lincoln, Lincolnshire, England and died in London in 1920 at the age of 51.</originalabstract>
+<abstract>A.E._George ( 22_July_1869 – 10_November_1920 ) was an_English_stage_actor . He also appeared in three_silent_films.He was_born Albert_Edward_George in Castle_Hill , Lincoln , Lincolnshire , England and died in London in 1920 at the_age of 51 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'A.E.'), (5, 'George'), (12, '('), (13, '22'), (16, 'July'), (21, '1869'), (26, '–'), (28, '10'), (31, 'November'), (40, '1920'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English'), (61, 'stage'), (67, 'actor'), (72, '.'), (74, 'He'), (77, 'also'), (82, 'appeared'), (91, 'in'), (94, 'three'), (100, 'silent'), (107, 'films.He'), (116, 'was'), (120, 'born'), (125, 'Albert'), (132, 'Edward'), (139, 'George'), (146, 'in'), (149, 'Castle'), (156, 'Hill'), (160, ','), (162, 'Lincoln'), (169, ','), (171, 'Lincolnshire'), (183, ','), (185, 'England'), (193, 'and'), (197, 'died'), (202, 'in'), (205, 'London'), (212, 'in'), (215, '1920'), (220, 'at'), (223, 'the'), (227, 'age'), (231, 'of'), (234, '51'), (236, '.')])</stanford_tokens>
+<opennlp_chunks>[('A.E. George',0, 11), ('22 July 1869',13, 25), ('10 November 1920',28, 44), ('an English stage actor',50, 72), ('three silent films.He',94, 115), ('was born',116, 124), ('Albert Edward George',125, 145), ('Castle Hill',149, 160), ('the age',223, 230)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'JJ', 'NN', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'IN', 'CD', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'A.E.'), (5, 'George'), (12, '('), (13, '22'), (16, 'July'), (21, '1869'), (26, '–'), (28, '10'), (31, 'November'), (40, '1920'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English'), (61, 'stage'), (67, 'actor'), (72, '.'), (74, 'He'), (77, 'also'), (82, 'appeared'), (91, 'in'), (94, 'three'), (100, 'silent'), (107, 'films'), (112, '.'), (113, 'He'), (116, 'was'), (120, 'born'), (125, 'Albert'), (132, 'Edward'), (139, 'George'), (146, 'in'), (149, 'Castle'), (156, 'Hill'), (160, ','), (162, 'Lincoln'), (169, ','), (171, 'Lincolnshire'), (183, ','), (185, 'England'), (193, 'and'), (197, 'died'), (202, 'in'), (205, 'London'), (212, 'in'), (215, '1920'), (220, 'at'), (223, 'the'), (227, 'age'), (231, 'of'), (234, '51'), (236, '.')])</spacy_tokens>
+<spacy_chunks>[('A.E. George', 0, 11), ('(22 July', 12, 20), ('22 July 1869', 13, 25), ('10 November 1920', 28, 44), ('an English stage actor', 50, 72), ('three silent films', 94, 112), ('Castle Hill', 149, 160), ('Lincoln, Lincolnshire', 162, 183), ('England', 185, 192), ('London', 205, 211), ('the age', 223, 230)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'IN', 'CD', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

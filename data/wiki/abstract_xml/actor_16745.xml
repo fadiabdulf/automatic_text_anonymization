@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lena Halliday</title>
+<link/>https://en.wikipedia.org/wiki/Lena_Halliday
+<annotated>0</annotated>
+<originalabstract>Lena Halliday (1872 - 19 December 1937) was an English stage and film actress.She as born Selina Heinekey in Balham, London, UK and died in Battersea, London, UK.</originalabstract>
+<abstract>Lena_Halliday ( 1872 - 19 December_1937 ) was an_English_stage_and_film_actress.She as born_Selina_Heinekey in Balham , London , UK and died in Battersea , London , UK .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lena'), (5, 'Halliday'), (14, '('), (15, '1872'), (20, '-'), (22, '19'), (25, 'December'), (34, '1937'), (38, ')'), (40, 'was'), (44, 'an'), (47, 'English'), (55, 'stage'), (61, 'and'), (65, 'film'), (70, 'actress.She'), (82, 'as'), (85, 'born'), (90, 'Selina'), (97, 'Heinekey'), (106, 'in'), (109, 'Balham'), (115, ','), (117, 'London'), (123, ','), (125, 'UK'), (128, 'and'), (132, 'died'), (137, 'in'), (140, 'Battersea'), (149, ','), (151, 'London'), (157, ','), (159, 'UK'), (161, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lena Halliday',0, 13), ('December 1937',25, 38), ('an English stage and film actress.She',44, 81), ('born Selina Heinekey',85, 105)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lena'), (5, 'Halliday'), (14, '('), (15, '1872'), (20, '-'), (22, '19'), (25, 'December'), (34, '1937'), (38, ')'), (40, 'was'), (44, 'an'), (47, 'English'), (55, 'stage'), (61, 'and'), (65, 'film'), (70, 'actress'), (77, '.'), (78, 'She'), (82, 'as'), (85, 'born'), (90, 'Selina'), (97, 'Heinekey'), (106, 'in'), (109, 'Balham'), (115, ','), (117, 'London'), (123, ','), (125, 'UK'), (128, 'and'), (132, 'died'), (137, 'in'), (140, 'Battersea'), (149, ','), (151, 'London'), (157, ','), (159, 'UK'), (161, '.')])</spacy_tokens>
+<spacy_chunks>[('Lena Halliday', 0, 13), ('19 December 1937', 22, 38), ('an English stage and film actress', 44, 77), ('She as born Selina Heinekey', 78, 105), ('Balham', 109, 115), ('London', 117, 123), ('Battersea', 140, 149)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'IN', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

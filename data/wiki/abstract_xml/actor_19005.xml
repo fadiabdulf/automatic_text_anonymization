@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maria Ventura</title>
+<link/>https://en.wikipedia.org/wiki/Maria_Ventura
+<annotated>0</annotated>
+<originalabstract>Marie Ventura (born Aristida Maria Ventura 14 July 1888 - 3 December 1954) was a Romanian-French actress and theatre director. From 1919 to 1941 she worked at the Comédie-Française. In 1938, she directed Iphigénie by Racine, becoming  the first women to direct a play at the Comédie-Française.</originalabstract>
+<abstract>Marie_Ventura ( born Aristida_Maria_Ventura_14_July_1888 - 3_December_1954 ) was a_Romanian-French_actress_and_theatre_director . From 1919 to 1941 she worked at the_Comédie-Française . In 1938 , she directed Iphigénie by Racine , becoming the_first_women to_direct a_play at the_Comédie-Française .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie'), (6, 'Ventura'), (14, '('), (15, 'born'), (20, 'Aristida'), (29, 'Maria'), (35, 'Ventura'), (43, '14'), (46, 'July'), (51, '1888'), (56, '-'), (58, '3'), (60, 'December'), (69, '1954'), (73, ')'), (75, 'was'), (79, 'a'), (81, 'Romanian-French'), (97, 'actress'), (105, 'and'), (109, 'theatre'), (117, 'director'), (125, '.'), (127, 'From'), (132, '1919'), (137, 'to'), (140, '1941'), (145, 'she'), (149, 'worked'), (156, 'at'), (159, 'the'), (163, 'Comédie-Française'), (180, '.'), (182, 'In'), (185, '1938'), (189, ','), (191, 'she'), (195, 'directed'), (204, 'Iphigénie'), (214, 'by'), (217, 'Racine'), (223, ','), (225, 'becoming'), (235, 'the'), (239, 'first'), (245, 'women'), (251, 'to'), (254, 'direct'), (261, 'a'), (263, 'play'), (268, 'at'), (271, 'the'), (275, 'Comédie-Française'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie Ventura',0, 13), ('Aristida Maria Ventura 14 July 1888',20, 55), ('3 December 1954',58, 73), ('a Romanian-French actress and theatre director',79, 125), ('the Comédie-Française',159, 180), ('the first women',235, 250), ('to direct',251, 260), ('a play',261, 267), ('the Comédie-Française',271, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'CD', 'TO', 'CD', 'PRP', 'VBD', 'IN', 'DT', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'NNP', 'IN', 'NNP', ',', 'VBG', 'DT', 'JJ', 'NNS', 'TO', 'VB', 'DT', 'NN', 'IN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (6, 'Ventura'), (14, '('), (15, 'born'), (20, 'Aristida'), (29, 'Maria'), (35, 'Ventura'), (43, '14'), (46, 'July'), (51, '1888'), (56, '-'), (58, '3'), (60, 'December'), (69, '1954'), (73, ')'), (75, 'was'), (79, 'a'), (81, 'Romanian'), (89, '-'), (90, 'French'), (97, 'actress'), (105, 'and'), (109, 'theatre'), (117, 'director'), (125, '.'), (127, 'From'), (132, '1919'), (137, 'to'), (140, '1941'), (145, 'she'), (149, 'worked'), (156, 'at'), (159, 'the'), (163, 'Comédie'), (170, '-'), (171, 'Française'), (180, '.'), (182, 'In'), (185, '1938'), (189, ','), (191, 'she'), (195, 'directed'), (204, 'Iphigénie'), (214, 'by'), (217, 'Racine'), (223, ','), (225, 'becoming'), (235, 'the'), (239, 'first'), (245, 'women'), (251, 'to'), (254, 'direct'), (261, 'a'), (263, 'play'), (268, 'at'), (271, 'the'), (275, 'Comédie'), (282, '-'), (283, 'Française'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie Ventura', 0, 13), ('born Aristida Maria Ventura', 15, 42), ('14 July 1888', 43, 55), ('3 December 1954', 58, 73), ('a Romanian-French actress', 79, 104), ('theatre director', 109, 125), ('the Comédie-Française', 159, 180), ('Iphigénie', 204, 213), ('Racine', 217, 223), ('the first women', 235, 250), ('a play', 261, 267)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'CD', 'IN', 'CD', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'HYPH', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'NNP', 'IN', 'NNP', ',', 'VBG', 'DT', 'JJ', 'NNS', 'TO', 'VB', 'DT', 'NN', 'IN', 'DT', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

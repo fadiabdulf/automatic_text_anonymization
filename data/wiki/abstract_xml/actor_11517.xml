@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Donna D'Errico</title>
+<link/>https://en.wikipedia.org/wiki/Donna_D%27Errico
+<annotated>0</annotated>
+<originalabstract>Donna Jeanette D'Errico (born March 30, 1968) is an American actress and model who posed for Playboy magazine as its Playmate of the Month for September 1995 and had a starring role (1996-1998) on the television series Baywatch. She is of Italian descent. She continues to act in films and on television.</originalabstract>
+<abstract>Donna_Jeanette_D'Errico ( born March_30_,_1968 ) is an_American_actress and model who posed for Playboy_magazine as its_Playmate of the_Month for September_1995 and had a_starring_role ( 1996-1998 ) on the_television_series_Baywatch . She is of Italian_descent . She continues_to_act in films and on television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Donna'), (6, 'Jeanette'), (15, 'D\'Errico'), (24, '('), (25, 'born'), (30, 'March'), (36, '30'), (38, ','), (40, '1968'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (69, 'and'), (73, 'model'), (79, 'who'), (83, 'posed'), (89, 'for'), (93, 'Playboy'), (101, 'magazine'), (110, 'as'), (113, 'its'), (117, 'Playmate'), (126, 'of'), (129, 'the'), (133, 'Month'), (139, 'for'), (143, 'September'), (153, '1995'), (158, 'and'), (162, 'had'), (166, 'a'), (168, 'starring'), (177, 'role'), (182, '('), (183, '1996-1998'), (192, ')'), (194, 'on'), (197, 'the'), (201, 'television'), (212, 'series'), (219, 'Baywatch'), (227, '.'), (229, 'She'), (233, 'is'), (236, 'of'), (239, 'Italian'), (247, 'descent'), (254, '.'), (256, 'She'), (260, 'continues'), (270, 'to'), (273, 'act'), (277, 'in'), (280, 'films'), (286, 'and'), (290, 'on'), (293, 'television'), (303, '.')])</stanford_tokens>
+<opennlp_chunks>[('Donna Jeanette D\'Errico',0, 23), ('March 30, 1968',30, 44), ('an American actress',49, 68), ('Playboy magazine',93, 109), ('its Playmate',113, 125), ('the Month',129, 138), ('September 1995',143, 157), ('a starring role',166, 181), ('the television series Baywatch',197, 227), ('Italian descent',239, 254), ('continues to act',260, 276)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'NN', 'IN', 'PRP$', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'CD', 'CC', 'VBD', 'DT', 'VBG', 'NN', '-LRB-', 'CD', '-RRB-', 'IN', 'DT', 'NN', 'NN', 'NNP', '.', 'PRP', 'VBZ', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'TO', 'VB', 'IN', 'NNS', 'CC', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Donna'), (6, 'Jeanette'), (15, "D'Errico"), (24, '('), (25, 'born'), (30, 'March'), (36, '30'), (38, ','), (40, '1968'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (69, 'and'), (73, 'model'), (79, 'who'), (83, 'posed'), (89, 'for'), (93, 'Playboy'), (101, 'magazine'), (110, 'as'), (113, 'its'), (117, 'Playmate'), (126, 'of'), (129, 'the'), (133, 'Month'), (139, 'for'), (143, 'September'), (153, '1995'), (158, 'and'), (162, 'had'), (166, 'a'), (168, 'starring'), (177, 'role'), (182, '('), (183, '1996'), (187, '-'), (188, '1998'), (192, ')'), (194, 'on'), (197, 'the'), (201, 'television'), (212, 'series'), (219, 'Baywatch'), (227, '.'), (229, 'She'), (233, 'is'), (236, 'of'), (239, 'Italian'), (247, 'descent'), (254, '.'), (256, 'She'), (260, 'continues'), (270, 'to'), (273, 'act'), (277, 'in'), (280, 'films'), (286, 'and'), (290, 'on'), (293, 'television'), (303, '.')])</spacy_tokens>
+<spacy_chunks>[("Donna Jeanette D'Errico", 0, 23), ('March 30, 1968', 30, 44), ('an American actress', 49, 68), ('Playboy magazine', 93, 109), ('its Playmate', 113, 125), ('the Month', 129, 138), ('September', 143, 152), ('a starring role', 166, 181), ('the television series', 197, 218), ('Baywatch', 219, 227), ('Italian descent', 239, 254)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'NN', 'IN', 'PRP$', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'CD', 'CC', 'VBD', 'DT', 'VBG', 'NN', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', 'IN', 'DT', 'NN', 'NN', 'NNP', '.', 'PRP', 'VBZ', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'TO', 'VB', 'IN', 'NNS', 'CC', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

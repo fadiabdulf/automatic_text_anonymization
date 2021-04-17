@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bryan Lugo</title>
+<link/>https://en.wikipedia.org/wiki/Bryan_Lugo
+<annotated>0</annotated>
+<originalabstract>Bryan Lugo (born August 7, 1982) is a Dominican-American actor, director. His most recognizable role may be in The CW series Supergirl as Looter. and as Ross the hitman in his recurring role on the Epix series Get Shorty.</originalabstract>
+<abstract>Bryan_Lugo ( born August_7_,_1982 ) is a_Dominican-American_actor_,_director . His_most_recognizable_role may_be in The_CW_series_Supergirl as Looter . and as Ross the_hitman in his_recurring_role on the_Epix_series Get Shorty .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bryan'), (6, 'Lugo'), (11, '('), (12, 'born'), (17, 'August'), (24, '7'), (25, ','), (27, '1982'), (31, ')'), (33, 'is'), (36, 'a'), (38, 'Dominican-American'), (57, 'actor'), (62, ','), (64, 'director'), (72, '.'), (74, 'His'), (78, 'most'), (83, 'recognizable'), (96, 'role'), (101, 'may'), (105, 'be'), (108, 'in'), (111, 'The'), (115, 'CW'), (118, 'series'), (125, 'Supergirl'), (135, 'as'), (138, 'Looter'), (144, '.'), (146, 'and'), (150, 'as'), (153, 'Ross'), (158, 'the'), (162, 'hitman'), (169, 'in'), (172, 'his'), (176, 'recurring'), (186, 'role'), (191, 'on'), (194, 'the'), (198, 'Epix'), (203, 'series'), (210, 'Get'), (214, 'Shorty'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bryan Lugo',0, 10), ('August 7, 1982',17, 31), ('a Dominican-American actor, director',36, 72), ('His most recognizable role',74, 100), ('may be',101, 107), ('The CW series Supergirl',111, 134), ('the hitman',158, 168), ('his recurring role',172, 190), ('the Epix series',194, 209)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'MD', 'VB', 'IN', 'DT', 'NN', 'NN', 'NNP', 'IN', 'NNP', '.', 'CC', 'IN', 'NNP', 'DT', 'NN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'NNP', 'NN', 'VB', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bryan'), (6, 'Lugo'), (11, '('), (12, 'born'), (17, 'August'), (24, '7'), (25, ','), (27, '1982'), (31, ')'), (33, 'is'), (36, 'a'), (38, 'Dominican'), (47, '-'), (48, 'American'), (57, 'actor'), (62, ','), (64, 'director'), (72, '.'), (74, 'His'), (78, 'most'), (83, 'recognizable'), (96, 'role'), (101, 'may'), (105, 'be'), (108, 'in'), (111, 'The'), (115, 'CW'), (118, 'series'), (125, 'Supergirl'), (135, 'as'), (138, 'Looter'), (144, '.'), (146, 'and'), (150, 'as'), (153, 'Ross'), (158, 'the'), (162, 'hitman'), (169, 'in'), (172, 'his'), (176, 'recurring'), (186, 'role'), (191, 'on'), (194, 'the'), (198, 'Epix'), (203, 'series'), (210, 'Get'), (214, 'Shorty'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Bryan Lugo', 0, 10), ('August 7, 1982', 17, 31), ('a Dominican-American actor', 36, 62), ('director', 64, 72), ('His most recognizable role', 74, 100), ('The CW series Supergirl', 111, 134), ('Looter', 138, 144), ('the hitman', 158, 168), ('his recurring role', 172, 190), ('the Epix series', 194, 209), ('Get Shorty', 210, 220)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'MD', 'VB', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNP', '.', 'CC', 'IN', 'NNP', 'DT', 'NN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'NNP', 'NN', 'VB', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

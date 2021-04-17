@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harry Northrup</title>
+<link/>https://en.wikipedia.org/wiki/Harry_Northrup
+<annotated>0</annotated>
+<originalabstract>Harry Northrup (31 July 1875 – 2 July 1936) was a French-born American film actor of the silent era. He appeared in 135 films between 1911 and 1935. He was born in Paris and died in Los Angeles, California.</originalabstract>
+<abstract>Harry Northrup ( 31_July_1875 – 2_July_1936 ) was a_French-born_American_film_actor of the_silent_era . He appeared in 135_films between 1911_and_1935 . He was_born in Paris and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harry'), (6, 'Northrup'), (15, '('), (16, '31'), (19, 'July'), (24, '1875'), (29, '–'), (31, '2'), (33, 'July'), (38, '1936'), (42, ')'), (44, 'was'), (48, 'a'), (50, 'French-born'), (62, 'American'), (71, 'film'), (76, 'actor'), (82, 'of'), (85, 'the'), (89, 'silent'), (96, 'era'), (99, '.'), (101, 'He'), (104, 'appeared'), (113, 'in'), (116, '135'), (120, 'films'), (126, 'between'), (134, '1911'), (139, 'and'), (143, '1935'), (147, '.'), (149, 'He'), (152, 'was'), (156, 'born'), (161, 'in'), (164, 'Paris'), (170, 'and'), (174, 'died'), (179, 'in'), (182, 'Los'), (186, 'Angeles'), (193, ','), (195, 'California'), (205, '.')])</stanford_tokens>
+<opennlp_chunks>[('31 July 1875',16, 28), ('2 July 1936',31, 42), ('a French-born American film actor',48, 81), ('the silent era',85, 99), ('135 films',116, 125), ('1911 and 1935',134, 147), ('was born',152, 160), ('Los Angeles',182, 193)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harry'), (6, 'Northrup'), (15, '('), (16, '31'), (19, 'July'), (24, '1875'), (29, '–'), (31, '2'), (33, 'July'), (38, '1936'), (42, ')'), (44, 'was'), (48, 'a'), (50, 'French'), (56, '-'), (57, 'born'), (62, 'American'), (71, 'film'), (76, 'actor'), (82, 'of'), (85, 'the'), (89, 'silent'), (96, 'era'), (99, '.'), (101, 'He'), (104, 'appeared'), (113, 'in'), (116, '135'), (120, 'films'), (126, 'between'), (134, '1911'), (139, 'and'), (143, '1935'), (147, '.'), (149, 'He'), (152, 'was'), (156, 'born'), (161, 'in'), (164, 'Paris'), (170, 'and'), (174, 'died'), (179, 'in'), (182, 'Los'), (186, 'Angeles'), (193, ','), (195, 'California'), (205, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry Northrup', 0, 14), ('31 July 1875', 16, 28), ('2 July 1936', 31, 42), ('a French-born American film actor', 48, 81), ('the silent era', 85, 99), ('135 films', 116, 125), ('Los Angeles, California', 182, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

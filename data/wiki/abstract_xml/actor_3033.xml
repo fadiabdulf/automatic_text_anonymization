@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Henson (comedian)</title>
+<link/>https://en.wikipedia.org/wiki/John_Henson_(comedian)
+<annotated>0</annotated>
+<originalabstract>John Morris Henson (born July 11, 1967) is an American actor, comedian and talk show host. He was the co-host of ABC's Wipeout with John Anderson, a prime-time game show that ran for 7 seasons.</originalabstract>
+<abstract>John_Morris_Henson ( born July_11_,_1967 ) is an_American_actor_,_comedian_and_talk show host . He was the_co-host of ABC 's_Wipeout with John_Anderson , a_prime-time_game show that ran for 7_seasons .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Morris'), (12, 'Henson'), (19, '('), (20, 'born'), (25, 'July'), (30, '11'), (32, ','), (34, '1967'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'comedian'), (71, 'and'), (75, 'talk'), (80, 'show'), (85, 'host'), (89, '.'), (91, 'He'), (94, 'was'), (98, 'the'), (102, 'co-host'), (110, 'of'), (113, 'ABC'), (116, '\'s'), (119, 'Wipeout'), (127, 'with'), (132, 'John'), (137, 'Anderson'), (145, ','), (147, 'a'), (149, 'prime-time'), (160, 'game'), (165, 'show'), (170, 'that'), (175, 'ran'), (179, 'for'), (183, '7'), (185, 'seasons'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Morris Henson',0, 18), ('July 11, 1967',25, 38), ('an American actor, comedian and talk',43, 79), ('the co-host',98, 109), ('\'s Wipeout',116, 126), ('John Anderson',132, 145), ('a prime-time game',147, 164), ('7 seasons',183, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'VBP', 'NN', '.', 'PRP', 'VBD', 'DT', 'VB', 'IN', 'NNP', 'POS', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'NN', 'VBP', 'IN', 'VBD', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Morris'), (12, 'Henson'), (19, '('), (20, 'born'), (25, 'July'), (30, '11'), (32, ','), (34, '1967'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'comedian'), (71, 'and'), (75, 'talk'), (80, 'show'), (85, 'host'), (89, '.'), (91, 'He'), (94, 'was'), (98, 'the'), (102, 'co'), (104, '-'), (105, 'host'), (110, 'of'), (113, 'ABC'), (116, "'s"), (119, 'Wipeout'), (127, 'with'), (132, 'John'), (137, 'Anderson'), (145, ','), (147, 'a'), (149, 'prime'), (154, '-'), (155, 'time'), (160, 'game'), (165, 'show'), (170, 'that'), (175, 'ran'), (179, 'for'), (183, '7'), (185, 'seasons'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('John Morris Henson', 0, 18), ('July 11, 1967', 25, 38), ('an American actor, comedian and talk show host', 43, 89), ('the co-host', 98, 109), ("ABC's Wipeout", 113, 126), ('John Anderson', 132, 145), ('a prime-time game show', 147, 169), ('7 seasons', 183, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'VBP', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'NNP', 'POS', 'NNP', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'HYPH', 'NN', 'NN', 'NN', 'WDT', 'VBD', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

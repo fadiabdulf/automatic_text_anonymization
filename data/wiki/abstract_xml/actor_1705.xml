@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rufe Davis</title>
+<link/>https://en.wikipedia.org/wiki/Rufe_Davis
+<annotated>0</annotated>
+<originalabstract>Rufe Davis (December 2, 1908 – December 13, 1974) was an American actor. He appeared in over 30 films between 1937 and 1969, including 14 of the Three Mesquiteers titles. Davis played railroad conductor Floyd Smoot on the CBS television series Petticoat Junction from 1963–1968 and in 1970 guest appearances.</originalabstract>
+<abstract>Rufe_Davis ( December_2_,_1908 – December_13_,_1974 ) was an_American_actor . He appeared in over_30_films between 1937_and_1969 , including 14 of the_Three_Mesquiteers_titles . Davis played railroad_conductor_Floyd_Smoot on the_CBS_television_series_Petticoat_Junction from 1963 – 1968 and in 1970_guest_appearances .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rufe'), (5, 'Davis'), (11, '('), (12, 'December'), (21, '2'), (22, ','), (24, '1908'), (29, '–'), (31, 'December'), (40, '13'), (42, ','), (44, '1974'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'appeared'), (85, 'in'), (88, 'over'), (93, '30'), (96, 'films'), (102, 'between'), (110, '1937'), (115, 'and'), (119, '1969'), (123, ','), (125, 'including'), (135, '14'), (138, 'of'), (141, 'the'), (145, 'Three'), (151, 'Mesquiteers'), (163, 'titles'), (169, '.'), (171, 'Davis'), (177, 'played'), (184, 'railroad'), (193, 'conductor'), (203, 'Floyd'), (209, 'Smoot'), (215, 'on'), (218, 'the'), (222, 'CBS'), (226, 'television'), (237, 'series'), (244, 'Petticoat'), (254, 'Junction'), (263, 'from'), (268, '1963'), (272, '–'), (273, '1968'), (278, 'and'), (282, 'in'), (285, '1970'), (290, 'guest'), (296, 'appearances'), (307, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rufe Davis',0, 10), ('December 2, 1908',12, 28), ('December 13, 1974',31, 48), ('an American actor',54, 71), ('over 30 films',88, 101), ('1937 and 1969',110, 123), ('the Three Mesquiteers titles',141, 169), ('railroad conductor Floyd Smoot',184, 214), ('the CBS television series Petticoat Junction',218, 262), ('1970 guest appearances',285, 307)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'IN', 'DT', 'CD', 'NNP', 'NNS', '.', 'NNP', 'VBD', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'CD', ':', 'CD', 'CC', 'IN', 'CD', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rufe'), (5, 'Davis'), (11, '('), (12, 'December'), (21, '2'), (22, ','), (24, '1908'), (29, '–'), (31, 'December'), (40, '13'), (42, ','), (44, '1974'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'appeared'), (85, 'in'), (88, 'over'), (93, '30'), (96, 'films'), (102, 'between'), (110, '1937'), (115, 'and'), (119, '1969'), (123, ','), (125, 'including'), (135, '14'), (138, 'of'), (141, 'the'), (145, 'Three'), (151, 'Mesquiteers'), (163, 'titles'), (169, '.'), (171, 'Davis'), (177, 'played'), (184, 'railroad'), (193, 'conductor'), (203, 'Floyd'), (209, 'Smoot'), (215, 'on'), (218, 'the'), (222, 'CBS'), (226, 'television'), (237, 'series'), (244, 'Petticoat'), (254, 'Junction'), (263, 'from'), (268, '1963–1968'), (278, 'and'), (282, 'in'), (285, '1970'), (290, 'guest'), (296, 'appearances'), (307, '.')])</spacy_tokens>
+<spacy_chunks>[('Rufe Davis', 0, 10), ('(December', 11, 20), ('December 2, 1908', 12, 28), ('December 13, 1974', 31, 48), ('an American actor', 54, 71), ('over 30 films', 88, 101), ('the Three Mesquiteers titles', 141, 169), ('railroad conductor Floyd Smoot', 184, 214), ('the CBS television series', 218, 243), ('Petticoat Junction', 244, 262), ('1970 guest appearances', 285, 307)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'IN', 'DT', 'NNP', 'NNPS', 'NNS', '.', 'NNP', 'VBD', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'IN', 'CD', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Steven Culp</title>
+<link/>https://en.wikipedia.org/wiki/Steven_Culp
+<annotated>0</annotated>
+<originalabstract>Steven Bradford Culp (born December 3, 1955) is an American film and television actor. He is known for his roles as Rex Van de Kamp on ABC's Desperate Housewives, Clayton Webb on JAG, and Speaker of the United States House of Representatives Jeff Haffley on NBC's The West Wing.</originalabstract>
+<abstract>Steven_Bradford_Culp ( born December_3_,_1955 ) is an_American_film_and_television_actor . He is_known for his_roles as Rex_Van de Kamp on ABC 's_Desperate_Housewives , Clayton_Webb on JAG , and Speaker of the_United_States_House of Representatives_Jeff_Haffley on NBC 's_The_West_Wing .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Steven'), (7, 'Bradford'), (16, 'Culp'), (21, '('), (22, 'born'), (27, 'December'), (36, '3'), (37, ','), (39, '1955'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'film'), (65, 'and'), (69, 'television'), (80, 'actor'), (85, '.'), (87, 'He'), (90, 'is'), (93, 'known'), (99, 'for'), (103, 'his'), (107, 'roles'), (113, 'as'), (116, 'Rex'), (120, 'Van'), (124, 'de'), (127, 'Kamp'), (132, 'on'), (135, 'ABC'), (138, '\'s'), (141, 'Desperate'), (151, 'Housewives'), (161, ','), (163, 'Clayton'), (171, 'Webb'), (176, 'on'), (179, 'JAG'), (182, ','), (184, 'and'), (188, 'Speaker'), (196, 'of'), (199, 'the'), (203, 'United'), (210, 'States'), (217, 'House'), (223, 'of'), (226, 'Representatives'), (242, 'Jeff'), (247, 'Haffley'), (255, 'on'), (258, 'NBC'), (261, '\'s'), (264, 'The'), (268, 'West'), (273, 'Wing'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Steven Bradford Culp',0, 20), ('December 3, 1955',27, 43), ('an American film and television actor',48, 85), ('is known',90, 98), ('his roles',103, 112), ('Rex Van',116, 123), ('\'s Desperate Housewives',138, 161), ('Clayton Webb',163, 175), ('the United States House',199, 222), ('Representatives Jeff Haffley',226, 254), ('\'s The West Wing',261, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NNP', 'IN', 'NNP', 'IN', 'NNP', 'POS', 'JJ', 'NNS', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNPS', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Steven'), (7, 'Bradford'), (16, 'Culp'), (21, '('), (22, 'born'), (27, 'December'), (36, '3'), (37, ','), (39, '1955'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'film'), (65, 'and'), (69, 'television'), (80, 'actor'), (85, '.'), (87, 'He'), (90, 'is'), (93, 'known'), (99, 'for'), (103, 'his'), (107, 'roles'), (113, 'as'), (116, 'Rex'), (120, 'Van'), (124, 'de'), (127, 'Kamp'), (132, 'on'), (135, 'ABC'), (138, "'s"), (141, 'Desperate'), (151, 'Housewives'), (161, ','), (163, 'Clayton'), (171, 'Webb'), (176, 'on'), (179, 'JAG'), (182, ','), (184, 'and'), (188, 'Speaker'), (196, 'of'), (199, 'the'), (203, 'United'), (210, 'States'), (217, 'House'), (223, 'of'), (226, 'Representatives'), (242, 'Jeff'), (247, 'Haffley'), (255, 'on'), (258, 'NBC'), (261, "'s"), (264, 'The'), (268, 'West'), (273, 'Wing'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Steven Bradford Culp', 0, 20), ('December 3, 1955', 27, 43), ('an American film and television actor', 48, 85), ('his roles', 103, 112), ('Rex Van de Kamp', 116, 131), ("ABC's Desperate Housewives", 135, 161), ('Speaker of the United States House of Representatives', 188, 241), ('Jeff Haffley', 242, 254), ("NBC's The West Wing", 258, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Suzanne Friedline</title>
+<link/>https://en.wikipedia.org/wiki/Suzanne_Friedline
+<annotated>0</annotated>
+<originalabstract>Suzanne Friedline (Born January 14, 1970) is an American actress and voice artist. She has appeared in numerous movies and TV series, as well as in theater dramas.</originalabstract>
+<abstract>Suzanne_Friedline ( Born_January_14_,_1970 ) is an_American_actress_and_voice_artist . She has_appeared in numerous_movies and TV_series , as_well_as in theater_dramas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Suzanne'), (8, 'Friedline'), (18, '('), (19, 'Born'), (24, 'January'), (32, '14'), (34, ','), (36, '1970'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'voice'), (75, 'artist'), (81, '.'), (83, 'She'), (87, 'has'), (91, 'appeared'), (100, 'in'), (103, 'numerous'), (112, 'movies'), (119, 'and'), (123, 'TV'), (126, 'series'), (132, ','), (134, 'as'), (137, 'well'), (142, 'as'), (145, 'in'), (148, 'theater'), (156, 'dramas'), (162, '.')])</stanford_tokens>
+<opennlp_chunks>[('Suzanne Friedline',0, 17), ('Born January 14, 1970',19, 40), ('an American actress and voice artist',45, 81), ('has appeared',87, 99), ('numerous movies',103, 118), ('TV series',123, 132), ('as well as',134, 144), ('theater dramas',148, 162)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NN', ',', 'RB', 'RB', 'IN', 'IN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Suzanne'), (8, 'Friedline'), (18, '('), (19, 'Born'), (24, 'January'), (32, '14'), (34, ','), (36, '1970'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'voice'), (75, 'artist'), (81, '.'), (83, 'She'), (87, 'has'), (91, 'appeared'), (100, 'in'), (103, 'numerous'), (112, 'movies'), (119, 'and'), (123, 'TV'), (126, 'series'), (132, ','), (134, 'as'), (137, 'well'), (142, 'as'), (145, 'in'), (148, 'theater'), (156, 'dramas'), (162, '.')])</spacy_tokens>
+<spacy_chunks>[('Suzanne Friedline', 0, 17), ('(Born January', 18, 31), ('January 14, 1970', 24, 40), ('an American actress', 45, 64), ('voice artist', 69, 81), ('numerous movies', 103, 118), ('TV series', 123, 132), ('theater dramas', 148, 162)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NN', ',', 'RB', 'RB', 'IN', 'IN', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Doris Lloyd</title>
+<link/>https://en.wikipedia.org/wiki/Doris_Lloyd
+<annotated>0</annotated>
+<originalabstract>Hessy Doris Lloyd (3 July 1896 – 21 May 1968) was an English-American actress of screen and stage. She is perhaps best known for her roles in The Time Machine (1960) and The Sound of Music (1965). During her career, Lloyd appeared in two Oscar Best Picture winners and four other nominees.</originalabstract>
+<abstract>Hessy_Doris_Lloyd ( 3_July_1896 – 21_May_1968 ) was an_English-American_actress of screen_and_stage . She is_perhaps_best_known for her_roles in The_Time_Machine_(_1960_) and The_Sound of Music_(_1965_) . During her_career , Lloyd appeared in two_Oscar_Best_Picture_winners and four_other_nominees .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hessy'), (6, 'Doris'), (12, 'Lloyd'), (18, '('), (19, '3'), (21, 'July'), (26, '1896'), (31, '–'), (33, '21'), (36, 'May'), (40, '1968'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English-American'), (70, 'actress'), (78, 'of'), (81, 'screen'), (88, 'and'), (92, 'stage'), (97, '.'), (99, 'She'), (103, 'is'), (106, 'perhaps'), (114, 'best'), (119, 'known'), (125, 'for'), (129, 'her'), (133, 'roles'), (139, 'in'), (142, 'The'), (146, 'Time'), (151, 'Machine'), (159, '('), (160, '1960'), (164, ')'), (166, 'and'), (170, 'The'), (174, 'Sound'), (180, 'of'), (183, 'Music'), (189, '('), (190, '1965'), (194, ')'), (195, '.'), (197, 'During'), (204, 'her'), (208, 'career'), (214, ','), (216, 'Lloyd'), (222, 'appeared'), (231, 'in'), (234, 'two'), (238, 'Oscar'), (244, 'Best'), (249, 'Picture'), (257, 'winners'), (265, 'and'), (269, 'four'), (274, 'other'), (280, 'nominees'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hessy Doris Lloyd',0, 17), ('3 July 1896',19, 30), ('21 May 1968',33, 44), ('an English-American actress',50, 77), ('screen and stage',81, 97), ('is perhaps best known',103, 124), ('her roles',129, 138), ('The Time Machine (1960)',142, 165), ('The Sound',170, 179), ('Music (1965)',183, 195), ('her career',204, 214), ('two Oscar Best Picture winners',234, 264), ('four other nominees',269, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NN', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'PRP$', 'NN', ',', 'NNP', 'VBD', 'IN', 'CD', 'NNP', 'JJS', 'NNP', 'NNS', 'CC', 'CD', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hessy'), (6, 'Doris'), (12, 'Lloyd'), (18, '('), (19, '3'), (21, 'July'), (26, '1896'), (31, '–'), (33, '21'), (36, 'May'), (40, '1968'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English'), (60, '-'), (61, 'American'), (70, 'actress'), (78, 'of'), (81, 'screen'), (88, 'and'), (92, 'stage'), (97, '.'), (99, 'She'), (103, 'is'), (106, 'perhaps'), (114, 'best'), (119, 'known'), (125, 'for'), (129, 'her'), (133, 'roles'), (139, 'in'), (142, 'The'), (146, 'Time'), (151, 'Machine'), (159, '('), (160, '1960'), (164, ')'), (166, 'and'), (170, 'The'), (174, 'Sound'), (180, 'of'), (183, 'Music'), (189, '('), (190, '1965'), (194, ')'), (195, '.'), (197, 'During'), (204, 'her'), (208, 'career'), (214, ','), (216, 'Lloyd'), (222, 'appeared'), (231, 'in'), (234, 'two'), (238, 'Oscar'), (244, 'Best'), (249, 'Picture'), (257, 'winners'), (265, 'and'), (269, 'four'), (274, 'other'), (280, 'nominees'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Hessy Doris Lloyd', 0, 17), ('3 July 1896', 19, 30), ('21 May 1968', 33, 44), ('an English-American actress', 50, 77), ('screen', 81, 87), ('her roles', 129, 138), ('The Time Machine (1960', 142, 164), ('The Sound of Music', 170, 188), ('her career', 204, 214), ('two Oscar Best Picture winners', 234, 264), ('four other nominees', 269, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'PRP$', 'NN', ',', 'NNP', 'VBD', 'IN', 'CD', 'NNP', 'NNP', 'NN', 'NNS', 'CC', 'CD', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

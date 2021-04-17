@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frank Baker (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Frank_Baker_(actor)
+<annotated>0</annotated>
+<originalabstract>Frank Baker (October 11, 1892 – December 30, 1980) was an Australian-American actor and stuntman most noted for his appearances in A Chump at Oxford, The New Adventures of Tarzan, and Mary of Scotland. He was a member of the informal John Ford Stock Company, appearing in 17 of Ford's films.</originalabstract>
+<abstract>Frank_Baker ( October_11_,_1892 – December_30_,_1980 ) was an_Australian-American_actor_and_stuntman most_noted for his_appearances in A_Chump at Oxford , The_New_Adventures of Tarzan , and Mary of Scotland . He was a_member of the_informal_John_Ford_Stock_Company , appearing in 17 of Ford 's_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frank'), (6, 'Baker'), (12, '('), (13, 'October'), (21, '11'), (23, ','), (25, '1892'), (30, '–'), (32, 'December'), (41, '30'), (43, ','), (45, '1980'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'Australian-American'), (78, 'actor'), (84, 'and'), (88, 'stuntman'), (97, 'most'), (102, 'noted'), (108, 'for'), (112, 'his'), (116, 'appearances'), (128, 'in'), (131, 'A'), (133, 'Chump'), (139, 'at'), (142, 'Oxford'), (148, ','), (150, 'The'), (154, 'New'), (158, 'Adventures'), (169, 'of'), (172, 'Tarzan'), (178, ','), (180, 'and'), (184, 'Mary'), (189, 'of'), (192, 'Scotland'), (200, '.'), (202, 'He'), (205, 'was'), (209, 'a'), (211, 'member'), (218, 'of'), (221, 'the'), (225, 'informal'), (234, 'John'), (239, 'Ford'), (244, 'Stock'), (250, 'Company'), (257, ','), (259, 'appearing'), (269, 'in'), (272, '17'), (275, 'of'), (278, 'Ford'), (282, '\'s'), (285, 'films'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frank Baker',0, 11), ('October 11, 1892',13, 29), ('December 30, 1980',32, 49), ('an Australian-American actor and stuntman',55, 96), ('most noted',97, 107), ('his appearances',112, 127), ('A Chump',131, 138), ('The New Adventures',150, 168), ('a member',209, 217), ('the informal John Ford Stock Company',221, 257), ('\'s films',282, 290)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'IN', 'NNP', ',', 'DT', 'NNP', 'NNPS', 'IN', 'NNP', ',', 'CC', 'NNP', 'IN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'VBG', 'IN', 'CD', 'IN', 'NNP', 'POS', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frank'), (6, 'Baker'), (12, '('), (13, 'October'), (21, '11'), (23, ','), (25, '1892'), (30, '–'), (32, 'December'), (41, '30'), (43, ','), (45, '1980'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'Australian'), (68, '-'), (69, 'American'), (78, 'actor'), (84, 'and'), (88, 'stuntman'), (97, 'most'), (102, 'noted'), (108, 'for'), (112, 'his'), (116, 'appearances'), (128, 'in'), (131, 'A'), (133, 'Chump'), (139, 'at'), (142, 'Oxford'), (148, ','), (150, 'The'), (154, 'New'), (158, 'Adventures'), (169, 'of'), (172, 'Tarzan'), (178, ','), (180, 'and'), (184, 'Mary'), (189, 'of'), (192, 'Scotland'), (200, '.'), (202, 'He'), (205, 'was'), (209, 'a'), (211, 'member'), (218, 'of'), (221, 'the'), (225, 'informal'), (234, 'John'), (239, 'Ford'), (244, 'Stock'), (250, 'Company'), (257, ','), (259, 'appearing'), (269, 'in'), (272, '17'), (275, 'of'), (278, 'Ford'), (282, "'s"), (285, 'films'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('Frank Baker', 0, 11), ('(October', 12, 20), ('October 11, 1892', 13, 29), ('December 30, 1980', 32, 49), ('an Australian-American actor', 55, 83), ('stuntman', 88, 96), ('his appearances', 112, 127), ('A Chump at Oxford', 131, 148), ('The New Adventures of Tarzan', 150, 178), ('Mary of Scotland', 184, 200), ('a member', 209, 217), ('the informal John Ford Stock Company', 221, 257), ("Ford's films", 278, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'IN', 'NNP', ',', 'DT', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'NNP', 'IN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'VBG', 'IN', 'CD', 'IN', 'NNP', 'POS', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

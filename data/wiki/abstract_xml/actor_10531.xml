@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barbara Bain</title>
+<link/>https://en.wikipedia.org/wiki/Barbara_Bain
+<annotated>0</annotated>
+<originalabstract>Barbara Bain (born September 13, 1931) is an American film and television actress. She is most known for co-starring in the original Mission: Impossible television series in the 1960s as Cinnamon Carter, and in the 1970s TV series Space: 1999 as Doctor Helena Russell.</originalabstract>
+<abstract>Barbara_Bain ( born September_13_,_1931 ) is an_American_film_and_television_actress . She is_most_known for co-starring in the_original_Mission : Impossible_television_series in the_1960s as Cinnamon_Carter , and in the_1970s_TV_series_Space : 1999 as Doctor_Helena_Russell .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barbara'), (8, 'Bain'), (13, '('), (14, 'born'), (19, 'September'), (29, '13'), (31, ','), (33, '1931'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'film'), (59, 'and'), (63, 'television'), (74, 'actress'), (81, '.'), (83, 'She'), (87, 'is'), (90, 'most'), (95, 'known'), (101, 'for'), (105, 'co-starring'), (117, 'in'), (120, 'the'), (124, 'original'), (133, 'Mission'), (140, ':'), (142, 'Impossible'), (153, 'television'), (164, 'series'), (171, 'in'), (174, 'the'), (178, '1960s'), (184, 'as'), (187, 'Cinnamon'), (196, 'Carter'), (202, ','), (204, 'and'), (208, 'in'), (211, 'the'), (215, '1970s'), (221, 'TV'), (224, 'series'), (231, 'Space'), (236, ':'), (238, '1999'), (243, 'as'), (246, 'Doctor'), (253, 'Helena'), (260, 'Russell'), (267, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barbara Bain',0, 12), ('September 13, 1931',19, 37), ('an American film and television actress',42, 81), ('is most known',87, 100), ('the original Mission',120, 140), ('Impossible television series',142, 170), ('the 1960s',174, 183), ('Cinnamon Carter',187, 202), ('the 1970s TV series Space',211, 236), ('Doctor Helena Russell',246, 267)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'IN', 'DT', 'JJ', 'NNP', ':', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'IN', 'NNP', 'NNP', ',', 'CC', 'IN', 'DT', 'CD', 'NN', 'NN', 'NN', ':', 'CD', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barbara'), (8, 'Bain'), (13, '('), (14, 'born'), (19, 'September'), (29, '13'), (31, ','), (33, '1931'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'film'), (59, 'and'), (63, 'television'), (74, 'actress'), (81, '.'), (83, 'She'), (87, 'is'), (90, 'most'), (95, 'known'), (101, 'for'), (105, 'co'), (107, '-'), (108, 'starring'), (117, 'in'), (120, 'the'), (124, 'original'), (133, 'Mission'), (140, ':'), (142, 'Impossible'), (153, 'television'), (164, 'series'), (171, 'in'), (174, 'the'), (178, '1960s'), (184, 'as'), (187, 'Cinnamon'), (196, 'Carter'), (202, ','), (204, 'and'), (208, 'in'), (211, 'the'), (215, '1970s'), (221, 'TV'), (224, 'series'), (231, 'Space'), (236, ':'), (238, '1999'), (243, 'as'), (246, 'Doctor'), (253, 'Helena'), (260, 'Russell'), (267, '.')])</spacy_tokens>
+<spacy_chunks>[('Barbara Bain', 0, 12), ('September 13, 1931', 19, 37), ('an American film and television actress', 42, 81), ('co-starring', 105, 116), ('the original Mission', 120, 140), ('Mission: Impossible', 133, 152), ('the 1960s', 174, 183), ('Cinnamon Carter', 187, 202), ('the 1970s TV series Space', 211, 236), ('Space: 1999', 231, 242), ('Doctor Helena Russell', 246, 267)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'NN', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNP', ':', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'IN', 'NNP', 'NNP', ',', 'CC', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', ':', 'CD', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

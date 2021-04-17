@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Josh Saviano</title>
+<link/>https://en.wikipedia.org/wiki/Josh_Saviano
+<annotated>0</annotated>
+<originalabstract>Josh Saviano (born March 31, 1976) is an American lawyer and former child actor who played Kevin Arnold's best friend, Paul Joshua Pfeiffer, in the comedy-drama television show The Wonder Years.</originalabstract>
+<abstract>Josh_Saviano ( born March_31_,_1976 ) is an_American_lawyer and former_child_actor who played Kevin_Arnold 's_best_friend , Paul_Joshua_Pfeiffer , in the_comedy-drama_television show The_Wonder_Years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Josh'), (5, 'Saviano'), (13, '('), (14, 'born'), (19, 'March'), (25, '31'), (27, ','), (29, '1976'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'lawyer'), (57, 'and'), (61, 'former'), (68, 'child'), (74, 'actor'), (80, 'who'), (84, 'played'), (91, 'Kevin'), (97, 'Arnold'), (103, '\'s'), (106, 'best'), (111, 'friend'), (117, ','), (119, 'Paul'), (124, 'Joshua'), (131, 'Pfeiffer'), (139, ','), (141, 'in'), (144, 'the'), (148, 'comedy-drama'), (161, 'television'), (172, 'show'), (177, 'The'), (181, 'Wonder'), (188, 'Years'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('Josh Saviano',0, 12), ('March 31, 1976',19, 33), ('an American lawyer',38, 56), ('former child actor',61, 79), ('Kevin Arnold',91, 103), ('\'s best friend',103, 117), ('Paul Joshua Pfeiffer',119, 139), ('the comedy-drama television',144, 171), ('The Wonder Years',177, 193)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'NNP', 'NNP', 'POS', 'JJS', 'NN', ',', 'NNP', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', 'VBP', 'DT', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Josh'), (5, 'Saviano'), (13, '('), (14, 'born'), (19, 'March'), (25, '31'), (27, ','), (29, '1976'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'lawyer'), (57, 'and'), (61, 'former'), (68, 'child'), (74, 'actor'), (80, 'who'), (84, 'played'), (91, 'Kevin'), (97, 'Arnold'), (103, "'s"), (106, 'best'), (111, 'friend'), (117, ','), (119, 'Paul'), (124, 'Joshua'), (131, 'Pfeiffer'), (139, ','), (141, 'in'), (144, 'the'), (148, 'comedy'), (154, '-'), (155, 'drama'), (161, 'television'), (172, 'show'), (177, 'The'), (181, 'Wonder'), (188, 'Years'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[('Josh Saviano', 0, 12), ('March 31, 1976', 19, 33), ('an American lawyer', 38, 56), ('former child actor', 61, 79), ("Kevin Arnold's best friend", 91, 117), ('Paul Joshua Pfeiffer', 119, 139), ('Comedy-drama', 148, 160), ('The Wonder Years', 177, 193)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'NNP', 'NNP', 'POS', 'JJS', 'NN', ',', 'NNP', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'HYPH', 'NN', 'NN', 'VBP', 'DT', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

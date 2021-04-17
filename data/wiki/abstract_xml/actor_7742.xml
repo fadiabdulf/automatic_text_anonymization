@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peter Bromilow</title>
+<link/>https://en.wikipedia.org/wiki/Peter_Bromilow
+<annotated>0</annotated>
+<originalabstract>Peter Bromilow (21 April 1933 Cheshire, England - 16 October 1994 Los Angeles County, California) was a British-born actor.He made television guest appearances on Daniel Boone, The Virginian, The Feather and Father Gang, Remington Steele and The Wonder Years.</originalabstract>
+<abstract>Peter_Bromilow ( 21 April_1933_Cheshire , England - 16 October_1994_Los_Angeles_County , California ) was a_British-born_actor.He made television_guest_appearances on Daniel_Boone , The_Virginian , The_Feather_and_Father_Gang , Remington_Steele and The_Wonder_Years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peter'), (6, 'Bromilow'), (15, '('), (16, '21'), (19, 'April'), (25, '1933'), (30, 'Cheshire'), (38, ','), (40, 'England'), (48, '-'), (50, '16'), (53, 'October'), (61, '1994'), (66, 'Los'), (70, 'Angeles'), (78, 'County'), (84, ','), (86, 'California'), (96, ')'), (98, 'was'), (102, 'a'), (104, 'British-born'), (117, 'actor.He'), (126, 'made'), (131, 'television'), (142, 'guest'), (148, 'appearances'), (160, 'on'), (163, 'Daniel'), (170, 'Boone'), (175, ','), (177, 'The'), (181, 'Virginian'), (190, ','), (192, 'The'), (196, 'Feather'), (204, 'and'), (208, 'Father'), (215, 'Gang'), (219, ','), (221, 'Remington'), (231, 'Steele'), (238, 'and'), (242, 'The'), (246, 'Wonder'), (253, 'Years'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peter Bromilow',0, 14), ('April 1933 Cheshire',19, 38), ('October 1994 Los Angeles County',53, 84), ('a British-born actor.He',102, 125), ('television guest appearances',131, 159), ('Daniel Boone',163, 175), ('The Virginian',177, 190), ('The Feather and Father Gang',192, 219), ('Remington Steele',221, 237), ('The Wonder Years',242, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'NNP', ',', 'NNP', ':', 'CD', 'NNP', 'CD', 'NNP', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBD', 'NN', 'NN', 'NNS', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNP', ',', 'DT', 'NNP', 'CC', 'NNP', 'NN', ',', 'NNP', 'NNP', 'CC', 'DT', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peter'), (6, 'Bromilow'), (15, '('), (16, '21'), (19, 'April'), (25, '1933'), (30, 'Cheshire'), (38, ','), (40, 'England'), (48, '-'), (50, '16'), (53, 'October'), (61, '1994'), (66, 'Los'), (70, 'Angeles'), (78, 'County'), (84, ','), (86, 'California'), (96, ')'), (98, 'was'), (102, 'a'), (104, 'British'), (111, '-'), (112, 'born'), (117, 'actor'), (122, '.'), (123, 'He'), (126, 'made'), (131, 'television'), (142, 'guest'), (148, 'appearances'), (160, 'on'), (163, 'Daniel'), (170, 'Boone'), (175, ','), (177, 'The'), (181, 'Virginian'), (190, ','), (192, 'The'), (196, 'Feather'), (204, 'and'), (208, 'Father'), (215, 'Gang'), (219, ','), (221, 'Remington'), (231, 'Steele'), (238, 'and'), (242, 'The'), (246, 'Wonder'), (253, 'Years'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Peter Bromilow', 0, 14), ('21 April 1933', 16, 29), ('Cheshire', 30, 38), ('England', 40, 47), ('16 October 1994', 50, 65), ('Los Angeles County', 66, 84), ('California', 86, 96), ('a British-born actor', 102, 122), ('television guest appearances', 131, 159), ('Daniel Boone', 163, 175), ('The Virginian', 177, 190), ('The Feather and Father Gang', 192, 219), ('Remington Steele', 221, 237), ('The Wonder Years', 242, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'NNP', ',', 'NNP', 'HYPH', 'CD', 'NNP', 'CD', 'NNP', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', '.', 'PRP', 'VBD', 'NN', 'NN', 'NNS', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNP', ',', 'DT', 'NNP', 'CC', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

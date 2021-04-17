@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Herbert Lomas (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Herbert_Lomas_(actor)
+<annotated>0</annotated>
+<originalabstract>Not to be confused with Herbert Lom.
+
+Herbet Lomas (17 January 1887 – 12 April 1961) was a British actor who appeared in more than forty films in a career lasting between 1931 and 1955. He was born in Burnley, Lancashire and made his first film appearance in an early sound version of Hobson's Choice (1931).</originalabstract>
+<abstract>Not to_be_confused with Herbert_Lom . Herbet_Lomas_(_17_January_1887 – 12_April_1961 ) was a_British_actor who appeared in more_than_forty_films in a_career lasting between 1931_and_1955 . He was_born in Burnley , Lancashire and made his_first_film_appearance in an_early_sound_version of Hobson 's_Choice_(_1931_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Not'), (4, 'to'), (7, 'be'), (10, 'confused'), (19, 'with'), (24, 'Herbert'), (32, 'Lom'), (35, '.'), (38, 'Herbet'), (45, 'Lomas'), (51, '('), (52, '17'), (55, 'January'), (63, '1887'), (68, '–'), (70, '12'), (73, 'April'), (79, '1961'), (83, ')'), (85, 'was'), (89, 'a'), (91, 'British'), (99, 'actor'), (105, 'who'), (109, 'appeared'), (118, 'in'), (121, 'more'), (126, 'than'), (131, 'forty'), (137, 'films'), (143, 'in'), (146, 'a'), (148, 'career'), (155, 'lasting'), (163, 'between'), (171, '1931'), (176, 'and'), (180, '1955'), (184, '.'), (186, 'He'), (189, 'was'), (193, 'born'), (198, 'in'), (201, 'Burnley'), (208, ','), (210, 'Lancashire'), (221, 'and'), (225, 'made'), (230, 'his'), (234, 'first'), (240, 'film'), (245, 'appearance'), (256, 'in'), (259, 'an'), (262, 'early'), (268, 'sound'), (274, 'version'), (282, 'of'), (285, 'Hobson'), (291, '\'s'), (294, 'Choice'), (301, '('), (302, '1931'), (306, ')'), (307, '.')])</stanford_tokens>
+<opennlp_chunks>[('to be confused',4, 18), ('Herbert Lom',24, 35), ('Herbet Lomas (17 January 1887',38, 67), ('12 April 1961',70, 83), ('a British actor',89, 104), ('more than forty films',121, 142), ('a career',146, 154), ('1931 and 1955',171, 184), ('was born',189, 197), ('his first film appearance',230, 255), ('an early sound version',259, 281), ('\'s Choice (1931)',291, 307)]</opennlp_chunks>
+<stanford_pos>['RB', 'TO', 'VB', 'VBN', 'IN', 'NNP', 'NNP', '.', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'DT', 'NN', 'VBG', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'PRP$', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'POS', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Not'), (4, 'to'), (7, 'be'), (10, 'confused'), (19, 'with'), (24, 'Herbert'), (32, 'Lom'), (35, '.'), (38, 'Herbet'), (45, 'Lomas'), (51, '('), (52, '17'), (55, 'January'), (63, '1887'), (68, '–'), (70, '12'), (73, 'April'), (79, '1961'), (83, ')'), (85, 'was'), (89, 'a'), (91, 'British'), (99, 'actor'), (105, 'who'), (109, 'appeared'), (118, 'in'), (121, 'more'), (126, 'than'), (131, 'forty'), (137, 'films'), (143, 'in'), (146, 'a'), (148, 'career'), (155, 'lasting'), (163, 'between'), (171, '1931'), (176, 'and'), (180, '1955'), (184, '.'), (186, 'He'), (189, 'was'), (193, 'born'), (198, 'in'), (201, 'Burnley'), (208, ','), (210, 'Lancashire'), (221, 'and'), (225, 'made'), (230, 'his'), (234, 'first'), (240, 'film'), (245, 'appearance'), (256, 'in'), (259, 'an'), (262, 'early'), (268, 'sound'), (274, 'version'), (282, 'of'), (285, 'Hobson'), (291, "'s"), (294, 'Choice'), (301, '('), (302, '1931'), (306, ')'), (307, '.')])</spacy_tokens>
+<spacy_chunks>[('Herbert Lom', 24, 35), ('Herbet Lomas', 38, 50), ('(17 January', 51, 62), ('17 January 1887', 52, 67), ('12 April 1961', 70, 83), ('a British actor', 89, 104), ('more than forty films', 121, 142), ('a career', 146, 154), ('Burnley', 201, 208), ('Lancashire', 210, 220), ('his first film appearance', 230, 255), ('an early sound version', 259, 281), ("Hobson's Choice (1931", 285, 306)]</spacy_chunks>
+<spacy_pos>['RB', 'TO', 'VB', 'VBN', 'IN', 'NNP', 'NNP', '.', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'DT', 'NN', 'VBG', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'PRP$', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'NNP', 'POS', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

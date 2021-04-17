@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>George Coe</title>
+<link/>https://en.wikipedia.org/wiki/George_Coe
+<annotated>0</annotated>
+<originalabstract>George Coe (May 10, 1929 – July 18, 2015) was an American stage, film and television actor and voice artist. He did voice-over work in video games, movies and TV shows. He was a cast member for the first season of Saturday Night Live and voiced the character of Woodhouse in Archer.</originalabstract>
+<abstract>George_Coe ( May_10_,_1929 – July_18_,_2015 ) was an_American_stage , film_and_television_actor_and_voice_artist . He did voice-over_work in video_games , movies and TV_shows . He was a_cast_member for the_first_season of Saturday_Night_Live and voiced the_character of Woodhouse in Archer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Coe'), (11, '('), (12, 'May'), (16, '10'), (18, ','), (20, '1929'), (25, '–'), (27, 'July'), (32, '18'), (34, ','), (36, '2015'), (40, ')'), (42, 'was'), (46, 'an'), (49, 'American'), (58, 'stage'), (63, ','), (65, 'film'), (70, 'and'), (74, 'television'), (85, 'actor'), (91, 'and'), (95, 'voice'), (101, 'artist'), (107, '.'), (109, 'He'), (112, 'did'), (116, 'voice-over'), (127, 'work'), (132, 'in'), (135, 'video'), (141, 'games'), (146, ','), (148, 'movies'), (155, 'and'), (159, 'TV'), (162, 'shows'), (167, '.'), (169, 'He'), (172, 'was'), (176, 'a'), (178, 'cast'), (183, 'member'), (190, 'for'), (194, 'the'), (198, 'first'), (204, 'season'), (211, 'of'), (214, 'Saturday'), (223, 'Night'), (229, 'Live'), (234, 'and'), (238, 'voiced'), (245, 'the'), (249, 'character'), (259, 'of'), (262, 'Woodhouse'), (272, 'in'), (275, 'Archer'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Coe',0, 10), ('May 10, 1929',12, 24), ('July 18, 2015',27, 40), ('an American stage',46, 63), ('film and television actor and voice artist',65, 107), ('voice-over work',116, 131), ('video games',135, 146), ('TV shows',159, 167), ('a cast member',176, 189), ('the first season',194, 210), ('Saturday Night Live',214, 233), ('the character',245, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'NN', 'NN', 'IN', 'NN', 'NNS', ',', 'NNS', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Coe'), (11, '('), (12, 'May'), (16, '10'), (18, ','), (20, '1929'), (25, '–'), (27, 'July'), (32, '18'), (34, ','), (36, '2015'), (40, ')'), (42, 'was'), (46, 'an'), (49, 'American'), (58, 'stage'), (63, ','), (65, 'film'), (70, 'and'), (74, 'television'), (85, 'actor'), (91, 'and'), (95, 'voice'), (101, 'artist'), (107, '.'), (109, 'He'), (112, 'did'), (116, 'voice'), (121, '-'), (122, 'over'), (127, 'work'), (132, 'in'), (135, 'video'), (141, 'games'), (146, ','), (148, 'movies'), (155, 'and'), (159, 'TV'), (162, 'shows'), (167, '.'), (169, 'He'), (172, 'was'), (176, 'a'), (178, 'cast'), (183, 'member'), (190, 'for'), (194, 'the'), (198, 'first'), (204, 'season'), (211, 'of'), (214, 'Saturday'), (223, 'Night'), (229, 'Live'), (234, 'and'), (238, 'voiced'), (245, 'the'), (249, 'character'), (259, 'of'), (262, 'Woodhouse'), (272, 'in'), (275, 'Archer'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('George Coe', 0, 10), ('May 10, 1929', 12, 24), ('July 18, 2015', 27, 40), ('an American stage', 46, 63), ('television actor', 74, 90), ('voice artist', 95, 107), ('voice-over work', 116, 131), ('video games', 135, 146), ('movies', 148, 154), ('TV shows', 159, 167), ('a cast member', 176, 189), ('the first season', 194, 210), ('Saturday Night Live', 214, 233), ('the character', 245, 258), ('Woodhouse', 262, 271), ('Archer', 275, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'NN', 'HYPH', 'RP', 'NN', 'IN', 'NN', 'NNS', ',', 'NNS', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

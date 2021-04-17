@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harry Beaumont</title>
+<link/>https://en.wikipedia.org/wiki/Harry_Beaumont
+<annotated>0</annotated>
+<originalabstract>Harry Beaumont (February 10, 1888 – December 22, 1966) was an American film director, actor, and screenwriter.  He worked for a variety of production companies including Fox, Goldwyn, Metro, Warner Brothers, and Metro-Goldwyn-Mayer.</originalabstract>
+<abstract>Harry Beaumont ( February_10_,_1888 – December_22_,_1966 ) was an_American_film_director , actor , and screenwriter . He worked for a_variety of production_companies including Fox , Goldwyn , Metro , Warner_Brothers , and Metro-Goldwyn-Mayer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harry'), (6, 'Beaumont'), (15, '('), (16, 'February'), (25, '10'), (27, ','), (29, '1888'), (34, '–'), (36, 'December'), (45, '22'), (47, ','), (49, '1966'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'film'), (76, 'director'), (84, ','), (86, 'actor'), (91, ','), (93, 'and'), (97, 'screenwriter'), (109, '.'), (112, 'He'), (115, 'worked'), (122, 'for'), (126, 'a'), (128, 'variety'), (136, 'of'), (139, 'production'), (150, 'companies'), (160, 'including'), (170, 'Fox'), (173, ','), (175, 'Goldwyn'), (182, ','), (184, 'Metro'), (189, ','), (191, 'Warner'), (198, 'Brothers'), (206, ','), (208, 'and'), (212, 'Metro-Goldwyn-Mayer'), (231, '.')])</stanford_tokens>
+<opennlp_chunks>[('February 10, 1888',16, 33), ('December 22, 1966',36, 53), ('an American film director',59, 84), ('a variety',126, 135), ('production companies',139, 159), ('Warner Brothers',191, 206)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NN', 'NNS', 'VBG', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', 'NNPS', ',', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harry'), (6, 'Beaumont'), (15, '('), (16, 'February'), (25, '10'), (27, ','), (29, '1888'), (34, '–'), (36, 'December'), (45, '22'), (47, ','), (49, '1966'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'film'), (76, 'director'), (84, ','), (86, 'actor'), (91, ','), (93, 'and'), (97, 'screenwriter'), (109, '.'), (112, 'He'), (115, 'worked'), (122, 'for'), (126, 'a'), (128, 'variety'), (136, 'of'), (139, 'production'), (150, 'companies'), (160, 'including'), (170, 'Fox'), (173, ','), (175, 'Goldwyn'), (182, ','), (184, 'Metro'), (189, ','), (191, 'Warner'), (198, 'Brothers'), (206, ','), (208, 'and'), (212, 'Metro'), (217, '-'), (218, 'Goldwyn'), (225, '-'), (226, 'Mayer'), (231, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry Beaumont', 0, 14), ('February 10, 1888', 16, 33), ('December 22, 1966', 36, 53), ('an American film director', 59, 84), ('screenwriter', 97, 109), ('a variety', 126, 135), ('production companies', 139, 159), ('Goldwyn', 175, 182), ('Warner Brothers', 191, 206), ('Metro-Goldwyn-Mayer', 212, 231)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NN', 'NNS', 'VBG', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', 'NNPS', ',', 'CC', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

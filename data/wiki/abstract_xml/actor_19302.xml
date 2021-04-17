@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul Smith (Australian actor)</title>
+<link/>https://en.wikipedia.org/wiki/Paul_Smith_(Australian_actor)
+<annotated>0</annotated>
+<originalabstract>Paul Smith (born 1968 in Sydney) is a former Australian actor, who started his career as a child performer, he is most known for his role as the original Simon Kelly  in the television sitcom Hey Dad...!, and as Steve in the children's television series The Henderson Kids.</originalabstract>
+<abstract>Paul_Smith ( born_1968 in Sydney ) is a_former_Australian_actor , who started his_career as a_child_performer , he is_most_known for his_role as the_original_Simon_Kelly in the_television_sitcom_Hey_Dad ... ! , and as Steve in the_children 's_television_series The_Henderson_Kids .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Smith'), (11, '('), (12, 'born'), (17, '1968'), (22, 'in'), (25, 'Sydney'), (31, ')'), (33, 'is'), (36, 'a'), (38, 'former'), (45, 'Australian'), (56, 'actor'), (61, ','), (63, 'who'), (67, 'started'), (75, 'his'), (79, 'career'), (86, 'as'), (89, 'a'), (91, 'child'), (97, 'performer'), (106, ','), (108, 'he'), (111, 'is'), (114, 'most'), (119, 'known'), (125, 'for'), (129, 'his'), (133, 'role'), (138, 'as'), (141, 'the'), (145, 'original'), (154, 'Simon'), (160, 'Kelly'), (167, 'in'), (170, 'the'), (174, 'television'), (185, 'sitcom'), (192, 'Hey'), (196, 'Dad'), (199, '...'), (202, '!'), (203, ','), (205, 'and'), (209, 'as'), (212, 'Steve'), (218, 'in'), (221, 'the'), (225, 'children'), (233, '\'s'), (236, 'television'), (247, 'series'), (254, 'The'), (258, 'Henderson'), (268, 'Kids'), (272, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Smith',0, 10), ('born 1968',12, 21), ('a former Australian actor',36, 61), ('his career',75, 85), ('a child performer',89, 106), ('is most known',111, 124), ('his role',129, 137), ('the original Simon Kelly',141, 165), ('the television sitcom Hey Dad',170, 199), ('the children',221, 233), ('\'s television series',233, 253), ('The Henderson Kids',254, 272)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'IN', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', ',', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'UH', 'NNP', ':', '.', ',', 'CC', 'IN', 'NNP', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NN', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Smith'), (11, '('), (12, 'born'), (17, '1968'), (22, 'in'), (25, 'Sydney'), (31, ')'), (33, 'is'), (36, 'a'), (38, 'former'), (45, 'Australian'), (56, 'actor'), (61, ','), (63, 'who'), (67, 'started'), (75, 'his'), (79, 'career'), (86, 'as'), (89, 'a'), (91, 'child'), (97, 'performer'), (106, ','), (108, 'he'), (111, 'is'), (114, 'most'), (119, 'known'), (125, 'for'), (129, 'his'), (133, 'role'), (138, 'as'), (141, 'the'), (145, 'original'), (154, 'Simon'), (160, 'Kelly'), (167, 'in'), (170, 'the'), (174, 'television'), (185, 'sitcom'), (192, 'Hey'), (196, 'Dad'), (199, '...'), (202, '!'), (203, ','), (205, 'and'), (209, 'as'), (212, 'Steve'), (218, 'in'), (221, 'the'), (225, 'children'), (233, "'s"), (236, 'television'), (247, 'series'), (254, 'The'), (258, 'Henderson'), (268, 'Kids'), (272, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Smith', 0, 10), ('Sydney', 25, 31), ('a former Australian actor', 36, 61), ('his career', 75, 85), ('a child performer', 89, 106), ('his role', 129, 137), ('the original Simon Kelly', 141, 165), ('the television sitcom', 170, 191), ('Hey Dad...!', 192, 203), ("the children's television series", 221, 253), ('The Henderson Kids', 254, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'IN', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', ',', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'UH', 'NNP', 'NFP', '.', ',', 'CC', 'IN', 'NNP', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NN', 'DT', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

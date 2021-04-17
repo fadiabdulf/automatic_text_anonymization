@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tom Gilson</title>
+<link/>https://en.wikipedia.org/wiki/Tom_Gilson
+<annotated>0</annotated>
+<originalabstract>Tom Gilson (New York City; January 6, 1934 – Van Nuys, California; October 6, 1962) was an American actor in TV and occasional films from the 1950s.</originalabstract>
+<abstract>Tom_Gilson ( New_York_City ; January_6_,_1934 – Van_Nuys , California ; October_6_,_1962 ) was an_American_actor in TV and occasional_films from the_1950s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tom'), (4, 'Gilson'), (11, '('), (12, 'New'), (16, 'York'), (21, 'City'), (25, ';'), (27, 'January'), (35, '6'), (36, ','), (38, '1934'), (43, '–'), (45, 'Van'), (49, 'Nuys'), (53, ','), (55, 'California'), (65, ';'), (67, 'October'), (75, '6'), (76, ','), (78, '1962'), (82, ')'), (84, 'was'), (88, 'an'), (91, 'American'), (100, 'actor'), (106, 'in'), (109, 'TV'), (112, 'and'), (116, 'occasional'), (127, 'films'), (133, 'from'), (138, 'the'), (142, '1950s'), (147, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tom Gilson',0, 10), ('New York City',12, 25), ('January 6, 1934',27, 42), ('Van Nuys',45, 53), ('October 6, 1962',67, 82), ('an American actor',88, 105), ('occasional films',116, 132), ('the 1950s',138, 147)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'JJ', 'NNS', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tom'), (4, 'Gilson'), (11, '('), (12, 'New'), (16, 'York'), (21, 'City'), (25, ';'), (27, 'January'), (35, '6'), (36, ','), (38, '1934'), (43, '–'), (45, 'Van'), (49, 'Nuys'), (53, ','), (55, 'California'), (65, ';'), (67, 'October'), (75, '6'), (76, ','), (78, '1962'), (82, ')'), (84, 'was'), (88, 'an'), (91, 'American'), (100, 'actor'), (106, 'in'), (109, 'TV'), (112, 'and'), (116, 'occasional'), (127, 'films'), (133, 'from'), (138, 'the'), (142, '1950s'), (147, '.')])</spacy_tokens>
+<spacy_chunks>[('Tom Gilson', 0, 10), ('New York City', 12, 25), ('January 6, 1934', 27, 42), ('Van Nuys, California', 45, 65), ('October 6, 1962', 67, 82), ('an American actor', 88, 105), ('occasional films', 116, 132), ('the 1950s', 138, 147)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'NNPS', 'NNP', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'JJ', 'NNS', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

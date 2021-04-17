@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Liz Fraser</title>
+<link/>https://en.wikipedia.org/wiki/Liz_Fraser
+<annotated>0</annotated>
+<originalabstract>Elizabeth Joan Winch (14 August 1930 – 6 September 2018), known professionally as Liz Fraser, was an English actress, best known for her comedy roles as a provocative "dumb blonde" in British films of the 1950s, 1960s and 1970s.</originalabstract>
+<abstract>Elizabeth_Joan_Winch ( 14_August_1930 – 6_September_2018 ) , known professionally as Liz_Fraser , was an_English_actress , best_known for her_comedy_roles as a_provocative_"_dumb_blonde_" in British_films of the_1950s_,_1960s_and_1970s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Joan'), (15, 'Winch'), (21, '('), (22, '14'), (25, 'August'), (32, '1930'), (37, '–'), (39, '6'), (41, 'September'), (51, '2018'), (55, ')'), (56, ','), (58, 'known'), (64, 'professionally'), (79, 'as'), (82, 'Liz'), (86, 'Fraser'), (92, ','), (94, 'was'), (98, 'an'), (101, 'English'), (109, 'actress'), (116, ','), (118, 'best'), (123, 'known'), (129, 'for'), (133, 'her'), (137, 'comedy'), (144, 'roles'), (150, 'as'), (153, 'a'), (155, 'provocative'), (167, '"'), (168, 'dumb'), (173, 'blonde'), (179, '"'), (181, 'in'), (184, 'British'), (192, 'films'), (198, 'of'), (201, 'the'), (205, '1950s'), (210, ','), (212, '1960s'), (218, 'and'), (222, '1970s'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elizabeth Joan Winch',0, 20), ('14 August 1930',22, 36), ('6 September 2018',39, 55), ('Liz Fraser',82, 92), ('an English actress',98, 116), ('best known',118, 128), ('her comedy roles',133, 149), ('a provocative "dumb blonde"',153, 180), ('British films',184, 197), ('the 1950s, 1960s and 1970s',201, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'DT', 'JJ', '``', 'JJ', 'JJ', '\'\'', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'CD', ',', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Joan'), (15, 'Winch'), (21, '('), (22, '14'), (25, 'August'), (32, '1930'), (37, '–'), (39, '6'), (41, 'September'), (51, '2018'), (55, ')'), (56, ','), (58, 'known'), (64, 'professionally'), (79, 'as'), (82, 'Liz'), (86, 'Fraser'), (92, ','), (94, 'was'), (98, 'an'), (101, 'English'), (109, 'actress'), (116, ','), (118, 'best'), (123, 'known'), (129, 'for'), (133, 'her'), (137, 'comedy'), (144, 'roles'), (150, 'as'), (153, 'a'), (155, 'provocative'), (167, '"'), (168, 'dumb'), (173, 'blonde'), (179, '"'), (181, 'in'), (184, 'British'), (192, 'films'), (198, 'of'), (201, 'the'), (205, '1950s'), (210, ','), (212, '1960s'), (218, 'and'), (222, '1970s'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Elizabeth Joan Winch', 0, 20), ('14 August 1930', 22, 36), ('6 September 2018', 39, 55), ('Liz Fraser', 82, 92), ('an English actress', 98, 116), ('her comedy roles', 133, 149), ('Dumb blonde', 168, 179), ('British films', 184, 197), ('the 1950s', 201, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'DT', 'JJ', '``', 'JJ', 'JJ', "''", 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNS', ',', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

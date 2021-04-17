@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Philip Bosco</title>
+<link/>https://en.wikipedia.org/wiki/Philip_Bosco
+<annotated>0</annotated>
+<originalabstract>Philip Michael Bosco (September 26, 1930 – December 3, 2018) was an American actor. He was known for his Tony Award-winning performance as Saunders in the 1989 Broadway production of Lend Me a Tenor, and for his starring role in the 2007 film The Savages.</originalabstract>
+<abstract>Philip_Michael_Bosco ( September_26_,_1930 – December_3_,_2018 ) was an_American_actor . He was_known for his_Tony_Award-winning_performance as Saunders in the_1989_Broadway_production of Lend Me a_Tenor , and for his_starring_role in the_2007_film The_Savages .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Philip'), (7, 'Michael'), (15, 'Bosco'), (21, '('), (22, 'September'), (32, '26'), (34, ','), (36, '1930'), (41, '–'), (43, 'December'), (52, '3'), (53, ','), (55, '2018'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'actor'), (82, '.'), (84, 'He'), (87, 'was'), (91, 'known'), (97, 'for'), (101, 'his'), (105, 'Tony'), (110, 'Award-winning'), (124, 'performance'), (136, 'as'), (139, 'Saunders'), (148, 'in'), (151, 'the'), (155, '1989'), (160, 'Broadway'), (169, 'production'), (180, 'of'), (183, 'Lend'), (188, 'Me'), (191, 'a'), (193, 'Tenor'), (198, ','), (200, 'and'), (204, 'for'), (208, 'his'), (212, 'starring'), (221, 'role'), (226, 'in'), (229, 'the'), (233, '2007'), (238, 'film'), (243, 'The'), (247, 'Savages'), (254, '.')])</stanford_tokens>
+<opennlp_chunks>[('Philip Michael Bosco',0, 20), ('September 26, 1930',22, 40), ('December 3, 2018',43, 59), ('an American actor',65, 82), ('was known',87, 96), ('his Tony Award-winning performance',101, 135), ('the 1989 Broadway production',151, 179), ('a Tenor',191, 198), ('his starring role',208, 225), ('the 2007 film',229, 242), ('The Savages',243, 254)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NNP', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NN', 'IN', 'VB', 'PRP', 'DT', 'NN', ',', 'CC', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'CD', 'NN', 'DT', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Philip'), (7, 'Michael'), (15, 'Bosco'), (21, '('), (22, 'September'), (32, '26'), (34, ','), (36, '1930'), (41, '–'), (43, 'December'), (52, '3'), (53, ','), (55, '2018'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'actor'), (82, '.'), (84, 'He'), (87, 'was'), (91, 'known'), (97, 'for'), (101, 'his'), (105, 'Tony'), (110, 'Award'), (115, '-'), (116, 'winning'), (124, 'performance'), (136, 'as'), (139, 'Saunders'), (148, 'in'), (151, 'the'), (155, '1989'), (160, 'Broadway'), (169, 'production'), (180, 'of'), (183, 'Lend'), (188, 'Me'), (191, 'a'), (193, 'Tenor'), (198, ','), (200, 'and'), (204, 'for'), (208, 'his'), (212, 'starring'), (221, 'role'), (226, 'in'), (229, 'the'), (233, '2007'), (238, 'film'), (243, 'The'), (247, 'Savages'), (254, '.')])</spacy_tokens>
+<spacy_chunks>[('Philip Michael Bosco', 0, 20), ('(September', 21, 31), ('September 26, 1930', 22, 40), ('December 3, 2018', 43, 59), ('an American actor', 65, 82), ('his Tony Award-winning performance', 101, 135), ('Saunders', 139, 147), ('the 1989 Broadway production', 151, 179), ('Lend Me a Tenor', 183, 198), ('his starring role', 208, 225), ('the 2007 film', 229, 242), ('The Savages', 243, 254)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NNP', 'NNP', 'HYPH', 'VBG', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NN', 'IN', 'VB', 'PRP', 'DT', 'NNP', ',', 'CC', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'CD', 'NN', 'DT', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

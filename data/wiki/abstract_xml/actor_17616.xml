@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Patti Clare</title>
+<link/>https://en.wikipedia.org/wiki/Patti_Clare
+<annotated>0</annotated>
+<originalabstract>Patti Clare (born 3 March 1976) is an English actress, best known for playing the character of Mary Taylor in the ITV soap opera Coronation Street since 2008. She is a three-time winner of the British Soap Award for Best Comedy Performance (2011, 2013 and 2016).</originalabstract>
+<abstract>Patti_Clare ( born 3_March_1976 ) is an_English_actress , best_known for playing the_character of Mary_Taylor in the_ITV_soap_opera_Coronation_Street since 2008 . She is a_three-time_winner of the_British_Soap_Award for_Best_Comedy_Performance_(_2011_,_2013_and_2016_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Patti'), (6, 'Clare'), (12, '('), (13, 'born'), (18, '3'), (20, 'March'), (26, '1976'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'English'), (46, 'actress'), (53, ','), (55, 'best'), (60, 'known'), (66, 'for'), (70, 'playing'), (78, 'the'), (82, 'character'), (92, 'of'), (95, 'Mary'), (100, 'Taylor'), (107, 'in'), (110, 'the'), (114, 'ITV'), (118, 'soap'), (123, 'opera'), (129, 'Coronation'), (140, 'Street'), (147, 'since'), (153, '2008'), (157, '.'), (159, 'She'), (163, 'is'), (166, 'a'), (168, 'three-time'), (179, 'winner'), (186, 'of'), (189, 'the'), (193, 'British'), (201, 'Soap'), (206, 'Award'), (212, 'for'), (216, 'Best'), (221, 'Comedy'), (228, 'Performance'), (240, '('), (241, '2011'), (245, ','), (247, '2013'), (252, 'and'), (256, '2016'), (260, ')'), (261, '.')])</stanford_tokens>
+<opennlp_chunks>[('Patti Clare',0, 11), ('3 March 1976',18, 30), ('an English actress',35, 53), ('best known',55, 65), ('the character',78, 91), ('Mary Taylor',95, 106), ('the ITV soap opera Coronation Street',110, 146), ('a three-time winner',166, 185), ('the British Soap Award',189, 211), ('for Best Comedy Performance (2011, 2013 and 2016)',212, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'JJS', 'NN', 'NNP', '-LRB-', 'CD', ',', 'CD', 'CC', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Patti'), (6, 'Clare'), (12, '('), (13, 'born'), (18, '3'), (20, 'March'), (26, '1976'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'English'), (46, 'actress'), (53, ','), (55, 'best'), (60, 'known'), (66, 'for'), (70, 'playing'), (78, 'the'), (82, 'character'), (92, 'of'), (95, 'Mary'), (100, 'Taylor'), (107, 'in'), (110, 'the'), (114, 'ITV'), (118, 'soap'), (123, 'opera'), (129, 'Coronation'), (140, 'Street'), (147, 'since'), (153, '2008'), (157, '.'), (159, 'She'), (163, 'is'), (166, 'a'), (168, 'three'), (173, '-'), (174, 'time'), (179, 'winner'), (186, 'of'), (189, 'the'), (193, 'British'), (201, 'Soap'), (206, 'Award'), (212, 'for'), (216, 'Best'), (221, 'Comedy'), (228, 'Performance'), (240, '('), (241, '2011'), (245, ','), (247, '2013'), (252, 'and'), (256, '2016'), (260, ')'), (261, '.')])</spacy_tokens>
+<spacy_chunks>[('Patti Clare', 0, 11), ('3 March 1976', 18, 30), ('an English actress', 35, 53), ('the character', 78, 91), ('Mary Taylor', 95, 106), ('the ITV soap opera Coronation Street', 110, 146), ('a three-time winner', 166, 185), ('the British Soap Award', 189, 211), ('Best Comedy Performance', 216, 239)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBZ', 'DT', 'CD', 'HYPH', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ',', 'CD', 'CC', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

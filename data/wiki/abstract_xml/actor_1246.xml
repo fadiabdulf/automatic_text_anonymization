@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marcus Chong</title>
+<link/>https://en.wikipedia.org/wiki/Marcus_Chong
+<annotated>0</annotated>
+<originalabstract>Marcus Chong (né Wyatt; July 8, 1967) is an American actor. His best-known roles are Huey P. Newton in Panther (1995), directed by Mario Van Peebles and Tank the Operator in The Matrix (1999).</originalabstract>
+<abstract>Marcus_Chong ( né_Wyatt ; July_8_,_1967 ) is an_American_actor . His_best-known_roles are Huey_P._Newton in Panther_(_1995_) , directed by Mario_Van_Peebles and Tank the_Operator in The_Matrix_(_1999_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marcus'), (7, 'Chong'), (13, '('), (14, 'né'), (17, 'Wyatt'), (22, ';'), (24, 'July'), (29, '8'), (30, ','), (32, '1967'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (58, '.'), (60, 'His'), (64, 'best-known'), (75, 'roles'), (81, 'are'), (85, 'Huey'), (90, 'P.'), (93, 'Newton'), (100, 'in'), (103, 'Panther'), (111, '('), (112, '1995'), (116, ')'), (117, ','), (119, 'directed'), (128, 'by'), (131, 'Mario'), (137, 'Van'), (141, 'Peebles'), (149, 'and'), (153, 'Tank'), (158, 'the'), (162, 'Operator'), (171, 'in'), (174, 'The'), (178, 'Matrix'), (185, '('), (186, '1999'), (190, ')'), (191, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marcus Chong',0, 12), ('né Wyatt',14, 22), ('July 8, 1967',24, 36), ('an American actor',41, 58), ('His best-known roles',60, 80), ('Huey P. Newton',85, 99), ('Panther (1995)',103, 117), ('Mario Van Peebles',131, 148), ('the Operator',158, 170), ('The Matrix (1999)',174, 191)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'JJS', 'NNS', 'VBP', 'NNP', 'NNP', 'NNP', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'DT', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marcus'), (7, 'Chong'), (13, '('), (14, 'né'), (17, 'Wyatt'), (22, ';'), (24, 'July'), (29, '8'), (30, ','), (32, '1967'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (58, '.'), (60, 'His'), (64, 'best'), (68, '-'), (69, 'known'), (75, 'roles'), (81, 'are'), (85, 'Huey'), (90, 'P.'), (93, 'Newton'), (100, 'in'), (103, 'Panther'), (111, '('), (112, '1995'), (116, ')'), (117, ','), (119, 'directed'), (128, 'by'), (131, 'Mario'), (137, 'Van'), (141, 'Peebles'), (149, 'and'), (153, 'Tank'), (158, 'the'), (162, 'Operator'), (171, 'in'), (174, 'The'), (178, 'Matrix'), (185, '('), (186, '1999'), (190, ')'), (191, '.')])</spacy_tokens>
+<spacy_chunks>[('Marcus Chong', 0, 12), ('né Wyatt', 14, 22), ('July 8, 1967', 24, 36), ('an American actor', 41, 58), ('His best-known roles', 60, 80), ('Huey P. Newton', 85, 99), ('Panther', 103, 110), ('Mario Van Peebles', 131, 148), ('the Operator', 158, 170), ('The Matrix', 174, 184)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'RBS', 'HYPH', 'VBN', 'NNS', 'VBP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'DT', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

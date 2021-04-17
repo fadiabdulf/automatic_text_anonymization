@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dr. Jerry Graham</title>
+<link/>https://en.wikipedia.org/wiki/Dr._Jerry_Graham
+<annotated>0</annotated>
+<originalabstract>Jerry Martin Graham (December 16, 1921 – January 24, 1997) was an American professional wrestler.
+He is best known for his time spent in the World Wide Wrestling Federation and as the founder of the Graham wrestling family.</originalabstract>
+<abstract>Jerry_Martin_Graham ( December_16_,_1921 – January_24 , 1997 ) was an_American_professional_wrestler . He is_best_known for his_time spent in the_World_Wide_Wrestling_Federation and as the_founder of the_Graham_wrestling_family .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jerry'), (6, 'Martin'), (13, 'Graham'), (20, '('), (21, 'December'), (30, '16'), (32, ','), (34, '1921'), (39, '–'), (41, 'January'), (49, '24'), (51, ','), (53, '1997'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'professional'), (88, 'wrestler'), (96, '.'), (98, 'He'), (101, 'is'), (104, 'best'), (109, 'known'), (115, 'for'), (119, 'his'), (123, 'time'), (128, 'spent'), (134, 'in'), (137, 'the'), (141, 'World'), (147, 'Wide'), (152, 'Wrestling'), (162, 'Federation'), (173, 'and'), (177, 'as'), (180, 'the'), (184, 'founder'), (192, 'of'), (195, 'the'), (199, 'Graham'), (206, 'wrestling'), (216, 'family'), (222, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jerry Martin Graham',0, 19), ('December 16, 1921',21, 38), ('January 24',41, 51), ('an American professional wrestler',63, 96), ('is best known',101, 114), ('his time',119, 127), ('the World Wide Wrestling Federation',137, 172), ('the founder',180, 191), ('the Graham wrestling family',195, 222)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'CC', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jerry'), (6, 'Martin'), (13, 'Graham'), (20, '('), (21, 'December'), (30, '16'), (32, ','), (34, '1921'), (39, '–'), (41, 'January'), (49, '24'), (51, ','), (53, '1997'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'professional'), (88, 'wrestler'), (96, '.'), (98, 'He'), (101, 'is'), (104, 'best'), (109, 'known'), (115, 'for'), (119, 'his'), (123, 'time'), (128, 'spent'), (134, 'in'), (137, 'the'), (141, 'World'), (147, 'Wide'), (152, 'Wrestling'), (162, 'Federation'), (173, 'and'), (177, 'as'), (180, 'the'), (184, 'founder'), (192, 'of'), (195, 'the'), (199, 'Graham'), (206, 'wrestling'), (216, 'family'), (222, '.')])</spacy_tokens>
+<spacy_chunks>[('Jerry Martin Graham', 0, 19), ('December 16, 1921', 21, 38), ('January 24, 1997', 41, 57), ('an American professional wrestler', 63, 96), ('his time', 119, 127), ('the World Wide Wrestling Federation', 137, 172), ('the founder', 180, 191), ('the Graham wrestling family', 195, 222)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', 'CC', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

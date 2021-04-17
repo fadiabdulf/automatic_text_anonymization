@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vivian Vance</title>
+<link/>https://en.wikipedia.org/wiki/Vivian_Vance
+<annotated>0</annotated>
+<originalabstract>Vivian Vance (born Vivian Roberta Jones; July 26, 1909 – August 17, 1979) was an American television and theater actress and singer. Vance is best known for her role as Ethel Mertz, sidekick to Lucille Ball on the American television sitcom I Love Lucy, and as Vivian Bagley on The Lucy Show.</originalabstract>
+<abstract>Vivian_Vance ( born Vivian_Roberta_Jones ; July_26_,_1909 – August_17_,_1979 ) was an_American_television_and_theater_actress_and_singer . Vance is_best_known for her_role as Ethel_Mertz , sidekick to Lucille_Ball on the_American_television_sitcom I Love_Lucy , and as Vivian_Bagley on The_Lucy_Show .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vivian'), (7, 'Vance'), (13, '('), (14, 'born'), (19, 'Vivian'), (26, 'Roberta'), (34, 'Jones'), (39, ';'), (41, 'July'), (46, '26'), (48, ','), (50, '1909'), (55, '–'), (57, 'August'), (64, '17'), (66, ','), (68, '1979'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'television'), (101, 'and'), (105, 'theater'), (113, 'actress'), (121, 'and'), (125, 'singer'), (131, '.'), (133, 'Vance'), (139, 'is'), (142, 'best'), (147, 'known'), (153, 'for'), (157, 'her'), (161, 'role'), (166, 'as'), (169, 'Ethel'), (175, 'Mertz'), (180, ','), (182, 'sidekick'), (191, 'to'), (194, 'Lucille'), (202, 'Ball'), (207, 'on'), (210, 'the'), (214, 'American'), (223, 'television'), (234, 'sitcom'), (241, 'I'), (243, 'Love'), (248, 'Lucy'), (252, ','), (254, 'and'), (258, 'as'), (261, 'Vivian'), (268, 'Bagley'), (275, 'on'), (278, 'The'), (282, 'Lucy'), (287, 'Show'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vivian Vance',0, 12), ('Vivian Roberta Jones',19, 39), ('July 26, 1909',41, 54), ('August 17, 1979',57, 72), ('an American television and theater actress and singer',78, 131), ('is best known',139, 152), ('her role',157, 165), ('Ethel Mertz',169, 180), ('Lucille Ball',194, 206), ('the American television sitcom',210, 240), ('Love Lucy',243, 252), ('Vivian Bagley',261, 274), ('The Lucy Show',278, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NN', 'TO', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'PRP', 'NNP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vivian'), (7, 'Vance'), (13, '('), (14, 'born'), (19, 'Vivian'), (26, 'Roberta'), (34, 'Jones'), (39, ';'), (41, 'July'), (46, '26'), (48, ','), (50, '1909'), (55, '–'), (57, 'August'), (64, '17'), (66, ','), (68, '1979'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'television'), (101, 'and'), (105, 'theater'), (113, 'actress'), (121, 'and'), (125, 'singer'), (131, '.'), (133, 'Vance'), (139, 'is'), (142, 'best'), (147, 'known'), (153, 'for'), (157, 'her'), (161, 'role'), (166, 'as'), (169, 'Ethel'), (175, 'Mertz'), (180, ','), (182, 'sidekick'), (191, 'to'), (194, 'Lucille'), (202, 'Ball'), (207, 'on'), (210, 'the'), (214, 'American'), (223, 'television'), (234, 'sitcom'), (241, 'I'), (243, 'Love'), (248, 'Lucy'), (252, ','), (254, 'and'), (258, 'as'), (261, 'Vivian'), (268, 'Bagley'), (275, 'on'), (278, 'The'), (282, 'Lucy'), (287, 'Show'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Vivian Vance', 0, 12), ('(born Vivian Roberta Jones', 13, 39), ('July 26, 1909', 41, 54), ('August 17, 1979', 57, 72), ('an American television and theater actress', 78, 120), ('singer', 125, 131), ('her role', 157, 165), ('Ethel Mertz', 169, 180), ('sidekick', 182, 190), ('Lucille Ball', 194, 206), ('the American television sitcom', 210, 240), ('I Love Lucy', 241, 252), ('Vivian Bagley', 261, 274), ('The Lucy Show', 278, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'PRP', 'VBP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

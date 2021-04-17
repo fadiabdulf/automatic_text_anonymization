@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mary Jane Higby</title>
+<link/>https://en.wikipedia.org/wiki/Mary_Jane_Higby
+<annotated>0</annotated>
+<originalabstract>Mary Jane Higby (May 29, 1909 - February 1, 1986) was an American actress in the era of old-time radio and the early years of television. She is best known for her 18 years in the leading role on When a Girl Marries.</originalabstract>
+<abstract>Mary_Jane Higby ( May_29_,_1909 - February_1_,_1986 ) was an_American_actress in the_era of old-time_radio and the_early_years of television . She is_best_known for her_18_years in the_leading_role on When a_Girl_Marries .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Jane'), (10, 'Higby'), (16, '('), (17, 'May'), (21, '29'), (23, ','), (25, '1909'), (30, '-'), (32, 'February'), (41, '1'), (42, ','), (44, '1986'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'actress'), (74, 'in'), (77, 'the'), (81, 'era'), (85, 'of'), (88, 'old-time'), (97, 'radio'), (103, 'and'), (107, 'the'), (111, 'early'), (117, 'years'), (123, 'of'), (126, 'television'), (136, '.'), (138, 'She'), (142, 'is'), (145, 'best'), (150, 'known'), (156, 'for'), (160, 'her'), (164, '18'), (167, 'years'), (173, 'in'), (176, 'the'), (180, 'leading'), (188, 'role'), (193, 'on'), (196, 'When'), (201, 'a'), (203, 'Girl'), (208, 'Marries'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Jane',0, 9), ('May 29, 1909',17, 29), ('February 1, 1986',32, 48), ('an American actress',54, 73), ('the era',77, 84), ('old-time radio',88, 102), ('the early years',107, 122), ('is best known',142, 155), ('her 18 years',160, 172), ('the leading role',176, 192), ('a Girl Marries',201, 215)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NN', 'CC', 'DT', 'JJ', 'NNS', 'IN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'CD', 'NNS', 'IN', 'DT', 'VBG', 'NN', 'IN', 'WRB', 'DT', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Jane'), (10, 'Higby'), (16, '('), (17, 'May'), (21, '29'), (23, ','), (25, '1909'), (30, '-'), (32, 'February'), (41, '1'), (42, ','), (44, '1986'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'actress'), (74, 'in'), (77, 'the'), (81, 'era'), (85, 'of'), (88, 'old'), (91, '-'), (92, 'time'), (97, 'radio'), (103, 'and'), (107, 'the'), (111, 'early'), (117, 'years'), (123, 'of'), (126, 'television'), (136, '.'), (138, 'She'), (142, 'is'), (145, 'best'), (150, 'known'), (156, 'for'), (160, 'her'), (164, '18'), (167, 'years'), (173, 'in'), (176, 'the'), (180, 'leading'), (188, 'role'), (193, 'on'), (196, 'When'), (201, 'a'), (203, 'Girl'), (208, 'Marries'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Jane Higby', 0, 15), ('May 29, 1909', 17, 29), ('February 1, 1986', 32, 48), ('an American actress', 54, 73), ('the era', 77, 84), ('Old-time radio', 88, 102), ('the early years', 107, 122), ('television', 126, 136), ('her 18 years', 160, 172), ('the leading role', 176, 192), ('When a Girl Marries', 196, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'JJ', 'HYPH', 'NN', 'NN', 'CC', 'DT', 'JJ', 'NNS', 'IN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'CD', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'IN', 'WRB', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

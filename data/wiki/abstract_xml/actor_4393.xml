@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frank Maxwell</title>
+<link/>https://en.wikipedia.org/wiki/Frank_Maxwell
+<annotated>0</annotated>
+<originalabstract>For the English architect known by a similar name see Frank Maxwell (architect)Frank Maxwell (November 17, 1916 – August 4, 2004) was an American actor who served as president of the American Federation of Television and Radio Artists from 1984 to 1989.</originalabstract>
+<abstract>For the_English_architect known by a_similar_name see Frank_Maxwell ( architect ) Frank_Maxwell ( November_17_,_1916 – August_4_,_2004 ) was an_American_actor who served as president of the_American_Federation of Television and Radio_Artists from 1984 to 1989 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'For'), (4, 'the'), (8, 'English'), (16, 'architect'), (26, 'known'), (32, 'by'), (35, 'a'), (37, 'similar'), (45, 'name'), (50, 'see'), (54, 'Frank'), (60, 'Maxwell'), (68, '('), (69, 'architect'), (78, ')'), (79, 'Frank'), (85, 'Maxwell'), (93, '('), (94, 'November'), (103, '17'), (105, ','), (107, '1916'), (112, '–'), (114, 'August'), (121, '4'), (122, ','), (124, '2004'), (128, ')'), (130, 'was'), (134, 'an'), (137, 'American'), (146, 'actor'), (152, 'who'), (156, 'served'), (163, 'as'), (166, 'president'), (176, 'of'), (179, 'the'), (183, 'American'), (192, 'Federation'), (203, 'of'), (206, 'Television'), (217, 'and'), (221, 'Radio'), (227, 'Artists'), (235, 'from'), (240, '1984'), (245, 'to'), (248, '1989'), (252, '.')])</stanford_tokens>
+<opennlp_chunks>[('the English architect',4, 25), ('a similar name',35, 49), ('Frank Maxwell',54, 67), ('Frank Maxwell',79, 92), ('November 17, 1916',94, 111), ('August 4, 2004',114, 128), ('an American actor',134, 151), ('the American Federation',179, 202), ('Radio Artists',221, 234)]</opennlp_chunks>
+<stanford_pos>['IN', 'DT', 'NNP', 'NN', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'VB', 'NNP', 'NNP', '-LRB-', 'NN', '-RRB-', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'For'), (4, 'the'), (8, 'English'), (16, 'architect'), (26, 'known'), (32, 'by'), (35, 'a'), (37, 'similar'), (45, 'name'), (50, 'see'), (54, 'Frank'), (60, 'Maxwell'), (68, '('), (69, 'architect)Frank'), (85, 'Maxwell'), (93, '('), (94, 'November'), (103, '17'), (105, ','), (107, '1916'), (112, '–'), (114, 'August'), (121, '4'), (122, ','), (124, '2004'), (128, ')'), (130, 'was'), (134, 'an'), (137, 'American'), (146, 'actor'), (152, 'who'), (156, 'served'), (163, 'as'), (166, 'president'), (176, 'of'), (179, 'the'), (183, 'American'), (192, 'Federation'), (203, 'of'), (206, 'Television'), (217, 'and'), (221, 'Radio'), (227, 'Artists'), (235, 'from'), (240, '1984'), (245, 'to'), (248, '1989'), (252, '.')])</spacy_tokens>
+<spacy_chunks>[('the English architect', 4, 25), ('a similar name', 35, 49), ('Frank Maxwell (architect)', 54, 79), ('architect)Frank Maxwell', 69, 92), ('November 17, 1916', 94, 111), ('August 4, 2004', 114, 128), ('an American actor', 134, 151), ('president', 166, 175), ('the American Federation', 179, 202), ('American Federation of Television and Radio Artists', 183, 234)]</spacy_chunks>
+<spacy_pos>['IN', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'VBP', 'NNP', 'NNP', '-LRB-', 'NFP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', 'NNPS', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

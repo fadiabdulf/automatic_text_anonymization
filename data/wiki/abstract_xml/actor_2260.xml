@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eric Fleming</title>
+<link/>https://en.wikipedia.org/wiki/Eric_Fleming
+<annotated>0</annotated>
+<originalabstract>Eric Fleming (born Edward Heddy Jr.; July 4, 1925 – September 28, 1966) was an American actor and writer, known primarily for his role as Gil Favor in the CBS television series Rawhide.</originalabstract>
+<abstract>Eric_Fleming ( born Edward_Heddy_Jr. ; July_4_,_1925 – September_28_,_1966 ) was an_American_actor_and_writer , known primarily for his_role as Gil_Favor in the_CBS_television_series_Rawhide .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eric'), (5, 'Fleming'), (13, '('), (14, 'born'), (19, 'Edward'), (26, 'Heddy'), (32, 'Jr.'), (35, ';'), (37, 'July'), (42, '4'), (43, ','), (45, '1925'), (50, '–'), (52, 'September'), (62, '28'), (64, ','), (66, '1966'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'actor'), (94, 'and'), (98, 'writer'), (104, ','), (106, 'known'), (112, 'primarily'), (122, 'for'), (126, 'his'), (130, 'role'), (135, 'as'), (138, 'Gil'), (142, 'Favor'), (148, 'in'), (151, 'the'), (155, 'CBS'), (159, 'television'), (170, 'series'), (177, 'Rawhide'), (184, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eric Fleming',0, 12), ('Edward Heddy Jr.',19, 35), ('July 4, 1925',37, 49), ('September 28, 1966',52, 70), ('an American actor and writer',76, 104), ('his role',126, 134), ('Gil Favor',138, 147), ('the CBS television series Rawhide',151, 184)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eric'), (5, 'Fleming'), (13, '('), (14, 'born'), (19, 'Edward'), (26, 'Heddy'), (32, 'Jr.'), (35, ';'), (37, 'July'), (42, '4'), (43, ','), (45, '1925'), (50, '–'), (52, 'September'), (62, '28'), (64, ','), (66, '1966'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'actor'), (94, 'and'), (98, 'writer'), (104, ','), (106, 'known'), (112, 'primarily'), (122, 'for'), (126, 'his'), (130, 'role'), (135, 'as'), (138, 'Gil'), (142, 'Favor'), (148, 'in'), (151, 'the'), (155, 'CBS'), (159, 'television'), (170, 'series'), (177, 'Rawhide'), (184, '.')])</spacy_tokens>
+<spacy_chunks>[('Eric Fleming', 0, 12), ('born Edward Heddy Jr.', 14, 35), ('July 4, 1925', 37, 49), ('September 28, 1966', 52, 70), ('an American actor', 76, 93), ('writer', 98, 104), ('his role', 126, 134), ('Gil Favor', 138, 147), ('the CBS television series', 151, 176), ('Rawhide', 177, 184)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

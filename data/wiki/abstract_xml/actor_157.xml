@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stanley Andrews</title>
+<link/>https://en.wikipedia.org/wiki/Stanley_Andrews
+<annotated>0</annotated>
+<originalabstract>Stanley Andrews (born Stanley Andrzejewski, August 28, 1891 – June 23, 1969) was an American actor perhaps best known as the voice of Daddy Warbucks on the radio program Little Orphan Annie and later as "The Old Ranger", the first host of the syndicated western anthology television series, Death Valley Days.</originalabstract>
+<abstract>Stanley_Andrews ( born Stanley_Andrzejewski , August_28_,_1891 – June_23_,_1969 ) was an_American_actor perhaps_best_known as the_voice of Daddy_Warbucks on the_radio_program Little_Orphan_Annie and later as " The_Old_Ranger " , the_first_host of the_syndicated_western_anthology_television_series , Death_Valley_Days .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stanley'), (8, 'Andrews'), (16, '('), (17, 'born'), (22, 'Stanley'), (30, 'Andrzejewski'), (42, ','), (44, 'August'), (51, '28'), (53, ','), (55, '1891'), (60, '–'), (62, 'June'), (67, '23'), (69, ','), (71, '1969'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'American'), (93, 'actor'), (99, 'perhaps'), (107, 'best'), (112, 'known'), (118, 'as'), (121, 'the'), (125, 'voice'), (131, 'of'), (134, 'Daddy'), (140, 'Warbucks'), (149, 'on'), (152, 'the'), (156, 'radio'), (162, 'program'), (170, 'Little'), (177, 'Orphan'), (184, 'Annie'), (190, 'and'), (194, 'later'), (200, 'as'), (203, '"'), (204, 'The'), (208, 'Old'), (212, 'Ranger'), (218, '"'), (219, ','), (221, 'the'), (225, 'first'), (231, 'host'), (236, 'of'), (239, 'the'), (243, 'syndicated'), (254, 'western'), (262, 'anthology'), (272, 'television'), (283, 'series'), (289, ','), (291, 'Death'), (297, 'Valley'), (304, 'Days'), (308, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stanley Andrews',0, 15), ('Stanley Andrzejewski',22, 42), ('August 28, 1891',44, 59), ('June 23, 1969',62, 75), ('an American actor',81, 98), ('perhaps best known',99, 117), ('the voice',121, 130), ('Daddy Warbucks',134, 148), ('the radio program',152, 169), ('Little Orphan Annie',170, 189), ('The Old Ranger',204, 218), ('the first host',221, 235), ('the syndicated western anthology television series',239, 289), ('Death Valley Days',291, 308)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'JJ', 'NNP', 'NNP', 'CC', 'RB', 'IN', '``', 'NNP', 'NNP', 'NNP', '\'\'', ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'VBN', 'JJ', 'NN', 'NN', 'NN', ',', 'NNP', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stanley'), (8, 'Andrews'), (16, '('), (17, 'born'), (22, 'Stanley'), (30, 'Andrzejewski'), (42, ','), (44, 'August'), (51, '28'), (53, ','), (55, '1891'), (60, '–'), (62, 'June'), (67, '23'), (69, ','), (71, '1969'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'American'), (93, 'actor'), (99, 'perhaps'), (107, 'best'), (112, 'known'), (118, 'as'), (121, 'the'), (125, 'voice'), (131, 'of'), (134, 'Daddy'), (140, 'Warbucks'), (149, 'on'), (152, 'the'), (156, 'radio'), (162, 'program'), (170, 'Little'), (177, 'Orphan'), (184, 'Annie'), (190, 'and'), (194, 'later'), (200, 'as'), (203, '"'), (204, 'The'), (208, 'Old'), (212, 'Ranger'), (218, '"'), (219, ','), (221, 'the'), (225, 'first'), (231, 'host'), (236, 'of'), (239, 'the'), (243, 'syndicated'), (254, 'western'), (262, 'anthology'), (272, 'television'), (283, 'series'), (289, ','), (291, 'Death'), (297, 'Valley'), (304, 'Days'), (308, '.')])</spacy_tokens>
+<spacy_chunks>[('Stanley Andrews', 0, 15), ('born Stanley Andrzejewski', 17, 42), ('August 28, 1891', 44, 59), ('– June', 60, 66), ('June 23, 1969', 62, 75), ('an American actor', 81, 98), ('the voice', 121, 130), ('Daddy Warbucks', 134, 148), ('the radio program', 152, 169), ('Little Orphan Annie', 170, 189), ('"The Old Ranger', 203, 218), ('the first host', 221, 235), ('the syndicated western anthology television series', 239, 289), ('Death Valley Days', 291, 308)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'CC', 'RB', 'IN', '``', 'NNP', 'NNP', 'NNP', "''", ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'VBN', 'JJ', 'NN', 'NN', 'NN', ',', 'NNP', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lee Arenberg</title>
+<link/>https://en.wikipedia.org/wiki/Lee_Arenberg
+<annotated>0</annotated>
+<originalabstract>Lee Arenberg (born July 18, 1962) is an American actor, best known for his role as Pintel, one of Captain Barbossa's crew, in the Pirates of the Caribbean film series. He also had a recurring role as the dwarf Grumpy in the television series Once Upon a Time.
+He attended UCLA as a theatre major.</originalabstract>
+<abstract>Lee_Arenberg ( born July_18_,_1962 ) is an_American_actor , best_known for his_role as Pintel , one of Captain_Barbossa 's_crew , in the_Pirates of the_Caribbean_film_series . He also had a_recurring_role as the_dwarf Grumpy in the_television_series Once Upon a_Time . He attended UCLA as a_theatre_major .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lee'), (4, 'Arenberg'), (13, '('), (14, 'born'), (19, 'July'), (24, '18'), (26, ','), (28, '1962'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, ','), (56, 'best'), (61, 'known'), (67, 'for'), (71, 'his'), (75, 'role'), (80, 'as'), (83, 'Pintel'), (89, ','), (91, 'one'), (95, 'of'), (98, 'Captain'), (106, 'Barbossa'), (114, '\'s'), (117, 'crew'), (121, ','), (123, 'in'), (126, 'the'), (130, 'Pirates'), (138, 'of'), (141, 'the'), (145, 'Caribbean'), (155, 'film'), (160, 'series'), (166, '.'), (168, 'He'), (171, 'also'), (176, 'had'), (180, 'a'), (182, 'recurring'), (192, 'role'), (197, 'as'), (200, 'the'), (204, 'dwarf'), (210, 'Grumpy'), (217, 'in'), (220, 'the'), (224, 'television'), (235, 'series'), (242, 'Once'), (247, 'Upon'), (252, 'a'), (254, 'Time'), (258, '.'), (260, 'He'), (263, 'attended'), (272, 'UCLA'), (277, 'as'), (280, 'a'), (282, 'theatre'), (290, 'major'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lee Arenberg',0, 12), ('July 18, 1962',19, 32), ('an American actor',37, 54), ('best known',56, 66), ('his role',71, 79), ('Captain Barbossa',98, 114), ('\'s crew',114, 121), ('the Pirates',126, 137), ('the Caribbean film series',141, 166), ('a recurring role',180, 196), ('the dwarf',200, 209), ('the television series',220, 241), ('a Time',252, 258), ('a theatre major',280, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', ',', 'CD', 'IN', 'NNP', 'NNP', 'POS', 'NN', ',', 'IN', 'DT', 'NNPS', 'IN', 'DT', 'NNP', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'DT', 'NN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'RB', 'IN', 'DT', 'NNP', '.', 'PRP', 'VBD', 'NNP', 'IN', 'DT', 'NN', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lee'), (4, 'Arenberg'), (13, '('), (14, 'born'), (19, 'July'), (24, '18'), (26, ','), (28, '1962'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, ','), (56, 'best'), (61, 'known'), (67, 'for'), (71, 'his'), (75, 'role'), (80, 'as'), (83, 'Pintel'), (89, ','), (91, 'one'), (95, 'of'), (98, 'Captain'), (106, 'Barbossa'), (114, "'s"), (117, 'crew'), (121, ','), (123, 'in'), (126, 'the'), (130, 'Pirates'), (138, 'of'), (141, 'the'), (145, 'Caribbean'), (155, 'film'), (160, 'series'), (166, '.'), (168, 'He'), (171, 'also'), (176, 'had'), (180, 'a'), (182, 'recurring'), (192, 'role'), (197, 'as'), (200, 'the'), (204, 'dwarf'), (210, 'Grumpy'), (217, 'in'), (220, 'the'), (224, 'television'), (235, 'series'), (242, 'Once'), (247, 'Upon'), (252, 'a'), (254, 'Time'), (258, '.'), (260, 'He'), (263, 'attended'), (272, 'UCLA'), (277, 'as'), (280, 'a'), (282, 'theatre'), (290, 'major'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Lee Arenberg', 0, 12), ('July 18, 1962', 19, 32), ('an American actor', 37, 54), ('his role', 71, 79), ('Pintel', 83, 89), ("Captain Barbossa's crew", 98, 121), ('the Pirates', 126, 137), ('Pirates of the Caribbean', 130, 154), ('the Caribbean film series', 141, 166), ('a recurring role', 180, 196), ('the dwarf Grumpy', 200, 216), ('the television series', 220, 241), ('Once Upon a Time', 242, 258), ('a theatre major', 280, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', ',', 'CD', 'IN', 'NNP', 'NNP', 'POS', 'NN', ',', 'IN', 'DT', 'NNPS', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'DT', 'NN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'RB', 'IN', 'DT', 'NN', '.', 'PRP', 'VBD', 'NNP', 'IN', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

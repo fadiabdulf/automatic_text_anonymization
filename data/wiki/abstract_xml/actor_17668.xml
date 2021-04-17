@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Amanda de Cadenet</title>
+<link/>https://en.wikipedia.org/wiki/Amanda_de_Cadenet
+<annotated>0</annotated>
+<originalabstract>Amanda de Cadenet (born 19 May 1972 in Hampstead, London) is an English photographer, actress and television presenter.</originalabstract>
+<abstract>Amanda_de_Cadenet ( born 19_May_1972 in Hampstead , London ) is an_English_photographer_,_actress_and_television_presenter .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Amanda'), (7, 'de'), (10, 'Cadenet'), (18, '('), (19, 'born'), (24, '19'), (27, 'May'), (31, '1972'), (36, 'in'), (39, 'Hampstead'), (48, ','), (50, 'London'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'English'), (72, 'photographer'), (84, ','), (86, 'actress'), (94, 'and'), (98, 'television'), (109, 'presenter'), (118, '.')])</stanford_tokens>
+<opennlp_chunks>[('Amanda de Cadenet',0, 17), ('19 May 1972',24, 35), ('an English photographer, actress and television presenter',61, 118)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', ',', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Amanda'), (7, 'de'), (10, 'Cadenet'), (18, '('), (19, 'born'), (24, '19'), (27, 'May'), (31, '1972'), (36, 'in'), (39, 'Hampstead'), (48, ','), (50, 'London'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'English'), (72, 'photographer'), (84, ','), (86, 'actress'), (94, 'and'), (98, 'television'), (109, 'presenter'), (118, '.')])</spacy_tokens>
+<spacy_chunks>[('Amanda de Cadenet', 0, 17), ('19 May 1972', 24, 35), ('Hampstead', 39, 48), ('London', 50, 56), ('an English photographer', 61, 84), ('actress', 86, 93), ('television presenter', 98, 118)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

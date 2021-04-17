@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Webster Campbell</title>
+<link/>https://en.wikipedia.org/wiki/Webster_Campbell
+<annotated>0</annotated>
+<originalabstract>Webster Campbell (January 25, 1893 – August 28, 1972) was an American silent film actor, director, and screenwriter. He began screenwriting in 1913 and became an actor in 1915. He became primarily a director in 1921. By 1936, he retired and wrote short stories.</originalabstract>
+<abstract>Webster_Campbell ( January_25_,_1893 – August_28_,_1972 ) was an_American_silent_film_actor , director , and screenwriter . He began_screenwriting in 1913 and became an_actor in 1915 . He became primarily a_director in 1921 . By 1936 , he retired and wrote short_stories .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Webster'), (8, 'Campbell'), (17, '('), (18, 'January'), (26, '25'), (28, ','), (30, '1893'), (35, '–'), (37, 'August'), (44, '28'), (46, ','), (48, '1972'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'silent'), (77, 'film'), (82, 'actor'), (87, ','), (89, 'director'), (97, ','), (99, 'and'), (103, 'screenwriter'), (115, '.'), (117, 'He'), (120, 'began'), (126, 'screenwriting'), (140, 'in'), (143, '1913'), (148, 'and'), (152, 'became'), (159, 'an'), (162, 'actor'), (168, 'in'), (171, '1915'), (175, '.'), (177, 'He'), (180, 'became'), (187, 'primarily'), (197, 'a'), (199, 'director'), (208, 'in'), (211, '1921'), (215, '.'), (217, 'By'), (220, '1936'), (224, ','), (226, 'he'), (229, 'retired'), (237, 'and'), (241, 'wrote'), (247, 'short'), (253, 'stories'), (260, '.')])</stanford_tokens>
+<opennlp_chunks>[('Webster Campbell',0, 16), ('January 25, 1893',18, 34), ('August 28, 1972',37, 52), ('an American silent film actor',58, 87), ('began screenwriting',120, 139), ('an actor',159, 167), ('a director',197, 207), ('short stories',247, 260)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBG', 'IN', 'CD', 'CC', 'VBD', 'DT', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'IN', 'CD', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'CC', 'VBD', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Webster'), (8, 'Campbell'), (17, '('), (18, 'January'), (26, '25'), (28, ','), (30, '1893'), (35, '–'), (37, 'August'), (44, '28'), (46, ','), (48, '1972'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'silent'), (77, 'film'), (82, 'actor'), (87, ','), (89, 'director'), (97, ','), (99, 'and'), (103, 'screenwriter'), (115, '.'), (117, 'He'), (120, 'began'), (126, 'screenwriting'), (140, 'in'), (143, '1913'), (148, 'and'), (152, 'became'), (159, 'an'), (162, 'actor'), (168, 'in'), (171, '1915'), (175, '.'), (177, 'He'), (180, 'became'), (187, 'primarily'), (197, 'a'), (199, 'director'), (208, 'in'), (211, '1921'), (215, '.'), (217, 'By'), (220, '1936'), (224, ','), (226, 'he'), (229, 'retired'), (237, 'and'), (241, 'wrote'), (247, 'short'), (253, 'stories'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('Webster Campbell', 0, 16), ('(January', 17, 25), ('January 25, 1893', 18, 34), ('August 28, 1972', 37, 52), ('an American silent film actor', 58, 87), ('director', 89, 97), ('screenwriter', 103, 115), ('an actor', 159, 167), ('a director', 197, 207), ('short stories', 247, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBG', 'IN', 'CD', 'CC', 'VBD', 'DT', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'IN', 'CD', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'CC', 'VBD', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

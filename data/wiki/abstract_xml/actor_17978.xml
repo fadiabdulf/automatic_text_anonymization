@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mia McKenna-Bruce</title>
+<link/>https://en.wikipedia.org/wiki/Mia_McKenna-Bruce
+<annotated>0</annotated>
+<originalabstract>Mia Sasha McKenna-Bruce (born 3 July 1997) is an English actress, best known for her roles as Tee Taylor in Tracy Beaker Returns and in spin-off series The Dumping Ground; as Penny Branning in EastEnders; and as Ashley Tyler in 2009 film The Fourth Kind.</originalabstract>
+<abstract>Mia_Sasha_McKenna-Bruce ( born 3_July_1997 ) is an_English_actress , best_known for her_roles as Tee_Taylor in Tracy_Beaker_Returns and in spin-off_series The_Dumping_Ground ; as Penny_Branning in EastEnders ; and as Ashley_Tyler in 2009_film The_Fourth_Kind .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mia'), (4, 'Sasha'), (10, 'McKenna-Bruce'), (24, '('), (25, 'born'), (30, '3'), (32, 'July'), (37, '1997'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'English'), (57, 'actress'), (64, ','), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'her'), (85, 'roles'), (91, 'as'), (94, 'Tee'), (98, 'Taylor'), (105, 'in'), (108, 'Tracy'), (114, 'Beaker'), (121, 'Returns'), (129, 'and'), (133, 'in'), (136, 'spin-off'), (145, 'series'), (152, 'The'), (156, 'Dumping'), (164, 'Ground'), (170, ';'), (172, 'as'), (175, 'Penny'), (181, 'Branning'), (190, 'in'), (193, 'EastEnders'), (203, ';'), (205, 'and'), (209, 'as'), (212, 'Ashley'), (219, 'Tyler'), (225, 'in'), (228, '2009'), (233, 'film'), (238, 'The'), (242, 'Fourth'), (249, 'Kind'), (253, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mia Sasha McKenna-Bruce',0, 23), ('3 July 1997',30, 41), ('an English actress',46, 64), ('best known',66, 76), ('her roles',81, 90), ('Tee Taylor',94, 104), ('Tracy Beaker Returns',108, 128), ('spin-off series',136, 151), ('The Dumping Ground',152, 170), ('Penny Branning',175, 189), ('Ashley Tyler',212, 224), ('2009 film',228, 237), ('The Fourth Kind',238, 253)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'IN', 'NN', 'NN', 'DT', 'VBG', 'NN', ':', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ':', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'NN', 'DT', 'JJ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mia'), (4, 'Sasha'), (10, 'McKenna'), (17, '-'), (18, 'Bruce'), (24, '('), (25, 'born'), (30, '3'), (32, 'July'), (37, '1997'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'English'), (57, 'actress'), (64, ','), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'her'), (85, 'roles'), (91, 'as'), (94, 'Tee'), (98, 'Taylor'), (105, 'in'), (108, 'Tracy'), (114, 'Beaker'), (121, 'Returns'), (129, 'and'), (133, 'in'), (136, 'spin'), (140, '-'), (141, 'off'), (145, 'series'), (152, 'The'), (156, 'Dumping'), (164, 'Ground'), (170, ';'), (172, 'as'), (175, 'Penny'), (181, 'Branning'), (190, 'in'), (193, 'EastEnders'), (203, ';'), (205, 'and'), (209, 'as'), (212, 'Ashley'), (219, 'Tyler'), (225, 'in'), (228, '2009'), (233, 'film'), (238, 'The'), (242, 'Fourth'), (249, 'Kind'), (253, '.')])</spacy_tokens>
+<spacy_chunks>[('Mia Sasha McKenna-Bruce', 0, 23), ('3 July 1997', 30, 41), ('an English actress', 46, 64), ('her roles', 81, 90), ('Tee Taylor', 94, 104), ('Tracy Beaker Returns', 108, 128), ('spin-off series', 136, 151), ('The Dumping Ground', 152, 170), ('Penny Branning', 175, 189), ('EastEnders', 193, 203), ('Ashley Tyler', 212, 224), ('2009 film', 228, 237), ('The Fourth Kind', 238, 253)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNS', 'CC', 'IN', 'NN', 'HYPH', 'RP', 'NN', 'DT', 'NNP', 'NNP', ':', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ':', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'NN', 'DT', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

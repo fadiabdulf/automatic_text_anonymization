@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stanley Lupino</title>
+<link/>https://en.wikipedia.org/wiki/Stanley_Lupino
+<annotated>0</annotated>
+<originalabstract>Stanley Richard Lupino Hook (15 June 1893 – 10 June 1942), known professionally as Stanley Lupino, was an English actor, dancer, singer, librettist, director and short story writer. During the 1930s, Lupino appeared in a successful series of musical comedy films, often based on his already popular stage shows.</originalabstract>
+<abstract>Stanley_Richard_Lupino_Hook ( 15_June_1893 – 10_June_1942 ) , known professionally as Stanley_Lupino , was an_English_actor , dancer_,_singer_,_librettist_,_director_and_short_story_writer . During the_1930s , Lupino appeared in a_successful_series of musical_comedy_films , often_based on his_already_popular_stage_shows .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stanley'), (8, 'Richard'), (16, 'Lupino'), (23, 'Hook'), (28, '('), (29, '15'), (32, 'June'), (37, '1893'), (42, '–'), (44, '10'), (47, 'June'), (52, '1942'), (56, ')'), (57, ','), (59, 'known'), (65, 'professionally'), (80, 'as'), (83, 'Stanley'), (91, 'Lupino'), (97, ','), (99, 'was'), (103, 'an'), (106, 'English'), (114, 'actor'), (119, ','), (121, 'dancer'), (127, ','), (129, 'singer'), (135, ','), (137, 'librettist'), (147, ','), (149, 'director'), (158, 'and'), (162, 'short'), (168, 'story'), (174, 'writer'), (180, '.'), (182, 'During'), (189, 'the'), (193, '1930s'), (198, ','), (200, 'Lupino'), (207, 'appeared'), (216, 'in'), (219, 'a'), (221, 'successful'), (232, 'series'), (239, 'of'), (242, 'musical'), (250, 'comedy'), (257, 'films'), (262, ','), (264, 'often'), (270, 'based'), (276, 'on'), (279, 'his'), (283, 'already'), (291, 'popular'), (299, 'stage'), (305, 'shows'), (310, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stanley Richard Lupino Hook',0, 27), ('15 June 1893',29, 41), ('10 June 1942',44, 56), ('Stanley Lupino',83, 97), ('an English actor',103, 119), ('dancer, singer, librettist, director and short story writer',121, 180), ('the 1930s',189, 198), ('a successful series',219, 238), ('musical comedy films',242, 262), ('often based',264, 275), ('his already popular stage shows',279, 310)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'IN', 'DT', 'NNS', ',', 'NN', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NN', 'NNS', ',', 'RB', 'VBN', 'IN', 'PRP$', 'RB', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stanley'), (8, 'Richard'), (16, 'Lupino'), (23, 'Hook'), (28, '('), (29, '15'), (32, 'June'), (37, '1893'), (42, '–'), (44, '10'), (47, 'June'), (52, '1942'), (56, ')'), (57, ','), (59, 'known'), (65, 'professionally'), (80, 'as'), (83, 'Stanley'), (91, 'Lupino'), (97, ','), (99, 'was'), (103, 'an'), (106, 'English'), (114, 'actor'), (119, ','), (121, 'dancer'), (127, ','), (129, 'singer'), (135, ','), (137, 'librettist'), (147, ','), (149, 'director'), (158, 'and'), (162, 'short'), (168, 'story'), (174, 'writer'), (180, '.'), (182, 'During'), (189, 'the'), (193, '1930s'), (198, ','), (200, 'Lupino'), (207, 'appeared'), (216, 'in'), (219, 'a'), (221, 'successful'), (232, 'series'), (239, 'of'), (242, 'musical'), (250, 'comedy'), (257, 'films'), (262, ','), (264, 'often'), (270, 'based'), (276, 'on'), (279, 'his'), (283, 'already'), (291, 'popular'), (299, 'stage'), (305, 'shows'), (310, '.')])</spacy_tokens>
+<spacy_chunks>[('Stanley Richard Lupino Hook', 0, 27), ('15 June 1893', 29, 41), ('10 June 1942', 44, 56), ('Stanley Lupino', 83, 97), ('an English actor', 103, 119), ('dancer', 121, 127), ('singer', 129, 135), ('librettist', 137, 147), ('director', 149, 157), ('short story writer', 162, 180), ('the 1930s', 189, 198), ('a successful series', 219, 238), ('musical comedy films', 242, 262), ('his already popular stage shows', 279, 310)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'IN', 'DT', 'NNS', ',', 'NNP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NN', 'NNS', ',', 'RB', 'VBN', 'IN', 'PRP$', 'RB', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

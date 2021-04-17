@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maggie Han</title>
+<link/>https://en.wikipedia.org/wiki/Maggie_Han
+<annotated>0</annotated>
+<originalabstract>Maggie Han (born 1959) is an American actress. Her career began with modeling jobs in the United States and France, and progressed to acting in film and television productions. She is best known for playing Yoshiko Kawashima in The Last Emperor and Cheryl the lawyer in the NBC sitcom Seinfeld.</originalabstract>
+<abstract>Maggie_Han ( born 1959 ) is an_American_actress . Her_career began with modeling_jobs in the_United_States_and_France , and progressed to acting in film_and_television_productions . She is_best_known for playing Yoshiko_Kawashima in The_Last_Emperor and Cheryl the_lawyer in the_NBC_sitcom_Seinfeld .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maggie'), (7, 'Han'), (11, '('), (12, 'born'), (17, '1959'), (21, ')'), (23, 'is'), (26, 'an'), (29, 'American'), (38, 'actress'), (45, '.'), (47, 'Her'), (51, 'career'), (58, 'began'), (64, 'with'), (69, 'modeling'), (78, 'jobs'), (83, 'in'), (86, 'the'), (90, 'United'), (97, 'States'), (104, 'and'), (108, 'France'), (114, ','), (116, 'and'), (120, 'progressed'), (131, 'to'), (134, 'acting'), (141, 'in'), (144, 'film'), (149, 'and'), (153, 'television'), (164, 'productions'), (175, '.'), (177, 'She'), (181, 'is'), (184, 'best'), (189, 'known'), (195, 'for'), (199, 'playing'), (207, 'Yoshiko'), (215, 'Kawashima'), (225, 'in'), (228, 'The'), (232, 'Last'), (237, 'Emperor'), (245, 'and'), (249, 'Cheryl'), (256, 'the'), (260, 'lawyer'), (267, 'in'), (270, 'the'), (274, 'NBC'), (278, 'sitcom'), (285, 'Seinfeld'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maggie Han',0, 10), ('an American actress',26, 45), ('Her career',47, 57), ('modeling jobs',69, 82), ('the United States and France',86, 114), ('film and television productions',144, 175), ('is best known',181, 194), ('Yoshiko Kawashima',207, 224), ('The Last Emperor',228, 244), ('the lawyer',256, 266), ('the NBC sitcom Seinfeld',270, 293)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'VBD', 'IN', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'NNPS', 'CC', 'NNP', ',', 'CC', 'VBD', 'TO', 'VBG', 'IN', 'NN', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'CC', 'NNP', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maggie'), (7, 'Han'), (11, '('), (12, 'born'), (17, '1959'), (21, ')'), (23, 'is'), (26, 'an'), (29, 'American'), (38, 'actress'), (45, '.'), (47, 'Her'), (51, 'career'), (58, 'began'), (64, 'with'), (69, 'modeling'), (78, 'jobs'), (83, 'in'), (86, 'the'), (90, 'United'), (97, 'States'), (104, 'and'), (108, 'France'), (114, ','), (116, 'and'), (120, 'progressed'), (131, 'to'), (134, 'acting'), (141, 'in'), (144, 'film'), (149, 'and'), (153, 'television'), (164, 'productions'), (175, '.'), (177, 'She'), (181, 'is'), (184, 'best'), (189, 'known'), (195, 'for'), (199, 'playing'), (207, 'Yoshiko'), (215, 'Kawashima'), (225, 'in'), (228, 'The'), (232, 'Last'), (237, 'Emperor'), (245, 'and'), (249, 'Cheryl'), (256, 'the'), (260, 'lawyer'), (267, 'in'), (270, 'the'), (274, 'NBC'), (278, 'sitcom'), (285, 'Seinfeld'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('Maggie Han', 0, 10), ('an American actress', 26, 45), ('Her career', 47, 57), ('modeling jobs', 69, 82), ('the United States', 86, 103), ('France', 108, 114), ('film and television productions', 144, 175), ('Yoshiko Kawashima', 207, 224), ('The Last Emperor', 228, 244), ('Cheryl', 249, 255), ('the lawyer', 256, 266), ('the NBC sitcom Seinfeld', 270, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'VBD', 'IN', 'VBG', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'NNP', ',', 'CC', 'VBD', 'IN', 'VBG', 'IN', 'NN', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'CC', 'NNP', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

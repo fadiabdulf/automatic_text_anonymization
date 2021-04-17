@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Roslyn Kind</title>
+<link/>https://en.wikipedia.org/wiki/Roslyn_Kind
+<annotated>0</annotated>
+<originalabstract>Roslyn Kind (born January 9, 1951) is an American actress, singer, and songwriter. She is the younger half-sister of Barbra Streisand. She has been performing on Broadway and other venues since her teenage years.</originalabstract>
+<abstract>Roslyn_Kind ( born January_9_,_1951 ) is an_American_actress , singer , and songwriter . She is the_younger_half-sister of Barbra_Streisand . She has_been_performing on Broadway and other_venues since her_teenage_years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Roslyn'), (7, 'Kind'), (12, '('), (13, 'born'), (18, 'January'), (26, '9'), (27, ','), (29, '1951'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (57, ','), (59, 'singer'), (65, ','), (67, 'and'), (71, 'songwriter'), (81, '.'), (83, 'She'), (87, 'is'), (90, 'the'), (94, 'younger'), (102, 'half-sister'), (114, 'of'), (117, 'Barbra'), (124, 'Streisand'), (133, '.'), (135, 'She'), (139, 'has'), (143, 'been'), (148, 'performing'), (159, 'on'), (162, 'Broadway'), (171, 'and'), (175, 'other'), (181, 'venues'), (188, 'since'), (194, 'her'), (198, 'teenage'), (206, 'years'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Roslyn Kind',0, 11), ('January 9, 1951',18, 33), ('an American actress',38, 57), ('the younger half-sister',90, 113), ('Barbra Streisand',117, 133), ('has been performing',139, 158), ('other venues',175, 187), ('her teenage years',194, 211)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJR', 'NN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'VBG', 'IN', 'NNP', 'CC', 'JJ', 'NNS', 'IN', 'PRP$', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Roslyn'), (7, 'Kind'), (12, '('), (13, 'born'), (18, 'January'), (26, '9'), (27, ','), (29, '1951'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (57, ','), (59, 'singer'), (65, ','), (67, 'and'), (71, 'songwriter'), (81, '.'), (83, 'She'), (87, 'is'), (90, 'the'), (94, 'younger'), (102, 'half'), (106, '-'), (107, 'sister'), (114, 'of'), (117, 'Barbra'), (124, 'Streisand'), (133, '.'), (135, 'She'), (139, 'has'), (143, 'been'), (148, 'performing'), (159, 'on'), (162, 'Broadway'), (171, 'and'), (175, 'other'), (181, 'venues'), (188, 'since'), (194, 'her'), (198, 'teenage'), (206, 'years'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[('Roslyn Kind', 0, 11), ('January 9, 1951', 18, 33), ('an American actress', 38, 57), ('singer', 59, 65), ('songwriter', 71, 81), ('the younger half-sister', 90, 113), ('Barbra Streisand', 117, 133), ('Broadway', 162, 170), ('other venues', 175, 187), ('her teenage years', 194, 211)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJR', 'JJ', 'HYPH', 'NN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'VBG', 'IN', 'NNP', 'CC', 'JJ', 'NNS', 'IN', 'PRP$', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

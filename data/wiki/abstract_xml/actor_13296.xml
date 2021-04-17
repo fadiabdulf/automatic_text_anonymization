@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Laura La Varnie</title>
+<link/>https://en.wikipedia.org/wiki/Laura_La_Varnie
+<annotated>0</annotated>
+<originalabstract>Laura La Varnie (March 2, 1853 – September 18, 1939) was an American actress of the silent era. She appeared in 81 films between 1913 and 1930. She was born in Jefferson City, Missouri and died in Los Angeles, California.</originalabstract>
+<abstract>Laura_La_Varnie ( March_2_,_1853 – September_18_,_1939 ) was an_American_actress of the_silent_era . She appeared in 81_films between 1913_and_1930 . She was_born in Jefferson_City , Missouri and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Laura'), (6, 'La'), (9, 'Varnie'), (16, '('), (17, 'March'), (23, '2'), (24, ','), (26, '1853'), (31, '–'), (33, 'September'), (43, '18'), (45, ','), (47, '1939'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actress'), (77, 'of'), (80, 'the'), (84, 'silent'), (91, 'era'), (94, '.'), (96, 'She'), (100, 'appeared'), (109, 'in'), (112, '81'), (115, 'films'), (121, 'between'), (129, '1913'), (134, 'and'), (138, '1930'), (142, '.'), (144, 'She'), (148, 'was'), (152, 'born'), (157, 'in'), (160, 'Jefferson'), (170, 'City'), (174, ','), (176, 'Missouri'), (185, 'and'), (189, 'died'), (194, 'in'), (197, 'Los'), (201, 'Angeles'), (208, ','), (210, 'California'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('Laura La Varnie',0, 15), ('March 2, 1853',17, 30), ('September 18, 1939',33, 51), ('an American actress',57, 76), ('the silent era',80, 94), ('81 films',112, 120), ('1913 and 1930',129, 142), ('was born',148, 156), ('Jefferson City',160, 174), ('Los Angeles',197, 208)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Laura'), (6, 'La'), (9, 'Varnie'), (16, '('), (17, 'March'), (23, '2'), (24, ','), (26, '1853'), (31, '–'), (33, 'September'), (43, '18'), (45, ','), (47, '1939'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actress'), (77, 'of'), (80, 'the'), (84, 'silent'), (91, 'era'), (94, '.'), (96, 'She'), (100, 'appeared'), (109, 'in'), (112, '81'), (115, 'films'), (121, 'between'), (129, '1913'), (134, 'and'), (138, '1930'), (142, '.'), (144, 'She'), (148, 'was'), (152, 'born'), (157, 'in'), (160, 'Jefferson'), (170, 'City'), (174, ','), (176, 'Missouri'), (185, 'and'), (189, 'died'), (194, 'in'), (197, 'Los'), (201, 'Angeles'), (208, ','), (210, 'California'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Laura La Varnie', 0, 15), ('March 2, 1853', 17, 30), ('September 18, 1939', 33, 51), ('an American actress', 57, 76), ('the silent era', 80, 94), ('81 films', 112, 120), ('Jefferson City, Missouri', 160, 184), ('Los Angeles, California', 197, 220)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

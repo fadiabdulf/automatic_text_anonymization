@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Genevieve Townsend</title>
+<link/>https://en.wikipedia.org/wiki/Genevieve_Townsend
+<annotated>0</annotated>
+<originalabstract>Genevieve Townsend (December 4, 1897 – May 1, 1927) was an American stage and film actress. She was born in the United States, but later moved to Britain. In the mid-1920s she had several lead roles in British silent films. She died in Switzerland at the age of 29 in 1927.</originalabstract>
+<abstract>Genevieve_Townsend ( December_4_,_1897 – May_1_,_1927 ) was an_American_stage_and_film_actress . She was_born in the_United_States , but later_moved to Britain . In the_mid-1920s she had several_lead_roles in British_silent_films . She died in Switzerland at the_age of 29 in 1927 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Genevieve'), (10, 'Townsend'), (19, '('), (20, 'December'), (29, '4'), (30, ','), (32, '1897'), (37, '–'), (39, 'May'), (43, '1'), (44, ','), (46, '1927'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'stage'), (74, 'and'), (78, 'film'), (83, 'actress'), (90, '.'), (92, 'She'), (96, 'was'), (100, 'born'), (105, 'in'), (108, 'the'), (112, 'United'), (119, 'States'), (125, ','), (127, 'but'), (131, 'later'), (137, 'moved'), (143, 'to'), (146, 'Britain'), (153, '.'), (155, 'In'), (158, 'the'), (162, 'mid-1920s'), (172, 'she'), (176, 'had'), (180, 'several'), (188, 'lead'), (193, 'roles'), (199, 'in'), (202, 'British'), (210, 'silent'), (217, 'films'), (222, '.'), (224, 'She'), (228, 'died'), (233, 'in'), (236, 'Switzerland'), (248, 'at'), (251, 'the'), (255, 'age'), (259, 'of'), (262, '29'), (265, 'in'), (268, '1927'), (272, '.')])</stanford_tokens>
+<opennlp_chunks>[('Genevieve Townsend',0, 18), ('December 4, 1897',20, 36), ('May 1, 1927',39, 50), ('an American stage and film actress',56, 90), ('was born',96, 104), ('the United States',108, 125), ('later moved',131, 142), ('the mid-1920s',158, 171), ('several lead roles',180, 198), ('British silent films',202, 222), ('the age',251, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNPS', ',', 'CC', 'RB', 'VBD', 'TO', 'NNP', '.', 'IN', 'DT', 'CD', 'PRP', 'VBD', 'JJ', 'JJ', 'NNS', 'IN', 'JJ', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'CD', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Genevieve'), (10, 'Townsend'), (19, '('), (20, 'December'), (29, '4'), (30, ','), (32, '1897'), (37, '–'), (39, 'May'), (43, '1'), (44, ','), (46, '1927'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'stage'), (74, 'and'), (78, 'film'), (83, 'actress'), (90, '.'), (92, 'She'), (96, 'was'), (100, 'born'), (105, 'in'), (108, 'the'), (112, 'United'), (119, 'States'), (125, ','), (127, 'but'), (131, 'later'), (137, 'moved'), (143, 'to'), (146, 'Britain'), (153, '.'), (155, 'In'), (158, 'the'), (162, 'mid-1920s'), (172, 'she'), (176, 'had'), (180, 'several'), (188, 'lead'), (193, 'roles'), (199, 'in'), (202, 'British'), (210, 'silent'), (217, 'films'), (222, '.'), (224, 'She'), (228, 'died'), (233, 'in'), (236, 'Switzerland'), (248, 'at'), (251, 'the'), (255, 'age'), (259, 'of'), (262, '29'), (265, 'in'), (268, '1927'), (272, '.')])</spacy_tokens>
+<spacy_chunks>[('Genevieve Townsend', 0, 18), ('(December', 19, 28), ('December 4, 1897', 20, 36), ('May 1, 1927', 39, 50), ('an American stage and film actress', 56, 90), ('the United States', 108, 125), ('Britain', 146, 153), ('the mid-1920s', 158, 171), ('several lead roles', 180, 198), ('British silent films', 202, 222), ('Switzerland', 236, 247), ('the age', 251, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', ',', 'CC', 'RB', 'VBD', 'IN', 'NNP', '.', 'IN', 'DT', 'NNS', 'PRP', 'VBD', 'JJ', 'NN', 'NNS', 'IN', 'JJ', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

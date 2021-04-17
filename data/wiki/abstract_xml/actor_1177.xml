@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Derek Cecil</title>
+<link/>https://en.wikipedia.org/wiki/Derek_Cecil
+<annotated>0</annotated>
+<originalabstract>Derek Cecil (born January 5, 1973) is an American actor. He played the role of Seth Grayson on the Netflix series House of Cards. He starred in the short-lived series Push, Nevada. He also made many appearances on the series Pasadena.</originalabstract>
+<abstract>Derek_Cecil ( born January_5_,_1973 ) is an_American_actor . He played the_role of Seth_Grayson on the_Netflix_series_House of Cards . He starred in the_short-lived_series_Push , Nevada . He also made many_appearances on the_series_Pasadena .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Derek'), (6, 'Cecil'), (12, '('), (13, 'born'), (18, 'January'), (26, '5'), (27, ','), (29, '1973'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actor'), (55, '.'), (57, 'He'), (60, 'played'), (67, 'the'), (71, 'role'), (76, 'of'), (79, 'Seth'), (84, 'Grayson'), (92, 'on'), (95, 'the'), (99, 'Netflix'), (107, 'series'), (114, 'House'), (120, 'of'), (123, 'Cards'), (128, '.'), (130, 'He'), (133, 'starred'), (141, 'in'), (144, 'the'), (148, 'short-lived'), (160, 'series'), (167, 'Push'), (171, ','), (173, 'Nevada'), (179, '.'), (181, 'He'), (184, 'also'), (189, 'made'), (194, 'many'), (199, 'appearances'), (211, 'on'), (214, 'the'), (218, 'series'), (225, 'Pasadena'), (233, '.')])</stanford_tokens>
+<opennlp_chunks>[('Derek Cecil',0, 11), ('January 5, 1973',18, 33), ('an American actor',38, 55), ('the role',67, 75), ('Seth Grayson',79, 91), ('the Netflix series House',95, 119), ('the short-lived series Push',144, 171), ('many appearances',194, 210), ('the series Pasadena',214, 233)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'NNP', ',', 'NNP', '.', 'PRP', 'RB', 'VBD', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Derek'), (6, 'Cecil'), (12, '('), (13, 'born'), (18, 'January'), (26, '5'), (27, ','), (29, '1973'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actor'), (55, '.'), (57, 'He'), (60, 'played'), (67, 'the'), (71, 'role'), (76, 'of'), (79, 'Seth'), (84, 'Grayson'), (92, 'on'), (95, 'the'), (99, 'Netflix'), (107, 'series'), (114, 'House'), (120, 'of'), (123, 'Cards'), (128, '.'), (130, 'He'), (133, 'starred'), (141, 'in'), (144, 'the'), (148, 'short'), (153, '-'), (154, 'lived'), (160, 'series'), (167, 'Push'), (171, ','), (173, 'Nevada'), (179, '.'), (181, 'He'), (184, 'also'), (189, 'made'), (194, 'many'), (199, 'appearances'), (211, 'on'), (214, 'the'), (218, 'series'), (225, 'Pasadena'), (233, '.')])</spacy_tokens>
+<spacy_chunks>[('Derek Cecil', 0, 11), ('January 5, 1973', 18, 33), ('an American actor', 38, 55), ('the role', 67, 75), ('Seth Grayson', 79, 91), ('the Netflix series House', 95, 119), ('the short-lived series Push', 144, 171), ('Push, Nevada', 167, 179), ('many appearances', 194, 210), ('the series', 214, 224), ('Pasadena', 225, 233)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNPS', '.', 'PRP', 'VBD', 'IN', 'DT', 'RB', 'HYPH', 'VBN', 'NN', 'NN', ',', 'NNP', '.', 'PRP', 'RB', 'VBD', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jonathan Benair</title>
+<link/>https://en.wikipedia.org/wiki/Jonathan_Benair
+<annotated>0</annotated>
+<originalabstract>Jonathan Benair (July 4, 1950 – June 28, 1998) was an American actor who did the voice of the Black and White TV in the animated film The Brave Little Toaster and Jim Bob in The Brave Little Toaster to the Rescue, the latter of which was released posthumously.</originalabstract>
+<abstract>Jonathan_Benair ( July_4_,_1950 – June_28_,_1998 ) was an_American_actor who did the_voice of the_Black_and_White_TV in the_animated_film The_Brave_Little_Toaster_and_Jim_Bob in The_Brave_Little_Toaster to the_Rescue , the_latter of which was_released posthumously .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Benair'), (16, '('), (17, 'July'), (22, '4'), (23, ','), (25, '1950'), (30, '–'), (32, 'June'), (37, '28'), (39, ','), (41, '1998'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'who'), (73, 'did'), (77, 'the'), (81, 'voice'), (87, 'of'), (90, 'the'), (94, 'Black'), (100, 'and'), (104, 'White'), (110, 'TV'), (113, 'in'), (116, 'the'), (120, 'animated'), (129, 'film'), (134, 'The'), (138, 'Brave'), (144, 'Little'), (151, 'Toaster'), (159, 'and'), (163, 'Jim'), (167, 'Bob'), (171, 'in'), (174, 'The'), (178, 'Brave'), (184, 'Little'), (191, 'Toaster'), (199, 'to'), (202, 'the'), (206, 'Rescue'), (212, ','), (214, 'the'), (218, 'latter'), (225, 'of'), (228, 'which'), (234, 'was'), (238, 'released'), (247, 'posthumously'), (259, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jonathan Benair',0, 15), ('July 4, 1950',17, 29), ('June 28, 1998',32, 45), ('an American actor',51, 68), ('the voice',77, 86), ('the Black and White TV',90, 112), ('the animated film',116, 133), ('The Brave Little Toaster and Jim Bob',134, 170), ('The Brave Little Toaster',174, 198), ('the Rescue',202, 212), ('the latter',214, 224), ('was released',234, 246)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'TO', 'DT', 'NN', ',', 'DT', 'NN', 'IN', 'WDT', 'VBD', 'VBN', 'RB', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Benair'), (16, '('), (17, 'July'), (22, '4'), (23, ','), (25, '1950'), (30, '–'), (32, 'June'), (37, '28'), (39, ','), (41, '1998'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'who'), (73, 'did'), (77, 'the'), (81, 'voice'), (87, 'of'), (90, 'the'), (94, 'Black'), (100, 'and'), (104, 'White'), (110, 'TV'), (113, 'in'), (116, 'the'), (120, 'animated'), (129, 'film'), (134, 'The'), (138, 'Brave'), (144, 'Little'), (151, 'Toaster'), (159, 'and'), (163, 'Jim'), (167, 'Bob'), (171, 'in'), (174, 'The'), (178, 'Brave'), (184, 'Little'), (191, 'Toaster'), (199, 'to'), (202, 'the'), (206, 'Rescue'), (212, ','), (214, 'the'), (218, 'latter'), (225, 'of'), (228, 'which'), (234, 'was'), (238, 'released'), (247, 'posthumously'), (259, '.')])</spacy_tokens>
+<spacy_chunks>[('Jonathan Benair', 0, 15), ('July 4, 1950', 17, 29), ('June 28, 1998', 32, 45), ('an American actor', 51, 68), ('the voice', 77, 86), ('the Black and White TV', 90, 112), ('the animated film', 116, 133), ('The Brave Little Toaster', 134, 158), ('Jim Bob', 163, 170), ('The Brave Little Toaster to the Rescue', 174, 212)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'VBN', 'NN', 'DT', 'JJ', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', ',', 'DT', 'JJ', 'IN', 'WDT', 'VBD', 'VBN', 'RB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Annie Belle</title>
+<link/>https://en.wikipedia.org/wiki/Annie_Belle
+<annotated>0</annotated>
+<originalabstract>Annie Brilland (born 10 December 1956) is a French actress and social worker. Her acting career began in 1974 and throughout the seventies, has had a series of varied roles in both French and Italian cinema, working with such directors as Jean Rollin, Ruggero Deodato and Joe D'Amato.</originalabstract>
+<abstract>Annie_Brilland ( born_10_December_1956 ) is a_French_actress and social_worker . Her_acting_career began in 1974 and throughout the_seventies , has_had a_series of varied_roles in both_French_and_Italian_cinema , working with such_directors as Jean_Rollin , Ruggero_Deodato and Joe_D'Amato .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Annie'), (6, 'Brilland'), (15, '('), (16, 'born'), (21, '10'), (24, 'December'), (33, '1956'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (59, 'and'), (63, 'social'), (70, 'worker'), (76, '.'), (78, 'Her'), (82, 'acting'), (89, 'career'), (96, 'began'), (102, 'in'), (105, '1974'), (110, 'and'), (114, 'throughout'), (125, 'the'), (129, 'seventies'), (138, ','), (140, 'has'), (144, 'had'), (148, 'a'), (150, 'series'), (157, 'of'), (160, 'varied'), (167, 'roles'), (173, 'in'), (176, 'both'), (181, 'French'), (188, 'and'), (192, 'Italian'), (200, 'cinema'), (206, ','), (208, 'working'), (216, 'with'), (221, 'such'), (226, 'directors'), (236, 'as'), (239, 'Jean'), (244, 'Rollin'), (250, ','), (252, 'Ruggero'), (260, 'Deodato'), (268, 'and'), (272, 'Joe'), (276, 'D\'Amato'), (283, '.')])</stanford_tokens>
+<opennlp_chunks>[('Annie Brilland',0, 14), ('born 10 December 1956',16, 37), ('a French actress',42, 58), ('social worker',63, 76), ('Her acting career',78, 95), ('the seventies',125, 138), ('has had',140, 147), ('a series',148, 156), ('varied roles',160, 172), ('both French and Italian cinema',176, 206), ('such directors',221, 235), ('Jean Rollin',239, 250), ('Ruggero Deodato',252, 267), ('Joe D\'Amato',272, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP$', 'VBG', 'NN', 'VBD', 'IN', 'CD', 'CC', 'IN', 'DT', 'NNS', ',', 'VBZ', 'VBN', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN', ',', 'VBG', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Annie'), (6, 'Brilland'), (15, '('), (16, 'born'), (21, '10'), (24, 'December'), (33, '1956'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (59, 'and'), (63, 'social'), (70, 'worker'), (76, '.'), (78, 'Her'), (82, 'acting'), (89, 'career'), (96, 'began'), (102, 'in'), (105, '1974'), (110, 'and'), (114, 'throughout'), (125, 'the'), (129, 'seventies'), (138, ','), (140, 'has'), (144, 'had'), (148, 'a'), (150, 'series'), (157, 'of'), (160, 'varied'), (167, 'roles'), (173, 'in'), (176, 'both'), (181, 'French'), (188, 'and'), (192, 'Italian'), (200, 'cinema'), (206, ','), (208, 'working'), (216, 'with'), (221, 'such'), (226, 'directors'), (236, 'as'), (239, 'Jean'), (244, 'Rollin'), (250, ','), (252, 'Ruggero'), (260, 'Deodato'), (268, 'and'), (272, 'Joe'), (276, "D'Amato"), (283, '.')])</spacy_tokens>
+<spacy_chunks>[('Annie Brilland', 0, 14), ('10 December 1956', 21, 37), ('a French actress', 42, 58), ('social worker', 63, 76), ('Her acting career', 78, 95), ('the seventies', 125, 138), ('a series', 148, 156), ('varied roles', 160, 172), ('both French and Italian cinema', 176, 206), ('such directors', 221, 235), ('Jean Rollin', 239, 250), ('Ruggero Deodato', 252, 267), ("Joe D'Amato", 272, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP$', 'VBG', 'NN', 'VBD', 'IN', 'CD', 'CC', 'IN', 'DT', 'NNS', ',', 'VBZ', 'VBN', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'CC', 'JJ', 'CC', 'JJ', 'NN', ',', 'VBG', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

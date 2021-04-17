@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Glenn Morris</title>
+<link/>https://en.wikipedia.org/wiki/Glenn_Morris
+<annotated>0</annotated>
+<originalabstract>Glenn Edgar Morris (June 18, 1912 – January 31, 1974) was a U.S. track and field athlete. He won a gold medal in the Olympic decathlon in 1936, setting new world and Olympic records. He was also an occasional actor, he portrayed Tarzan in Tarzan's Revenge.</originalabstract>
+<abstract>Glenn_Edgar_Morris ( June_18_,_1912 – January_31_,_1974 ) was a_U.S._track_and_field_athlete . He won a_gold_medal in the_Olympic_decathlon in 1936 , setting new_world and Olympic_records . He was also an_occasional_actor , he portrayed Tarzan in Tarzan 's_Revenge .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Glenn'), (6, 'Edgar'), (12, 'Morris'), (19, '('), (20, 'June'), (25, '18'), (27, ','), (29, '1912'), (34, '–'), (36, 'January'), (44, '31'), (46, ','), (48, '1974'), (52, ')'), (54, 'was'), (58, 'a'), (60, 'U.S.'), (65, 'track'), (71, 'and'), (75, 'field'), (81, 'athlete'), (88, '.'), (90, 'He'), (93, 'won'), (97, 'a'), (99, 'gold'), (104, 'medal'), (110, 'in'), (113, 'the'), (117, 'Olympic'), (125, 'decathlon'), (135, 'in'), (138, '1936'), (142, ','), (144, 'setting'), (152, 'new'), (156, 'world'), (162, 'and'), (166, 'Olympic'), (174, 'records'), (181, '.'), (183, 'He'), (186, 'was'), (190, 'also'), (195, 'an'), (198, 'occasional'), (209, 'actor'), (214, ','), (216, 'he'), (219, 'portrayed'), (229, 'Tarzan'), (236, 'in'), (239, 'Tarzan'), (245, '\'s'), (248, 'Revenge'), (255, '.')])</stanford_tokens>
+<opennlp_chunks>[('Glenn Edgar Morris',0, 18), ('June 18, 1912',20, 33), ('January 31, 1974',36, 52), ('a U.S. track and field athlete',58, 88), ('a gold medal',97, 109), ('the Olympic decathlon',113, 134), ('new world',152, 161), ('Olympic records',166, 181), ('an occasional actor',195, 214), ('\'s Revenge',245, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'CD', ',', 'VBG', 'JJ', 'NN', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'RB', 'DT', 'JJ', 'NN', ',', 'PRP', 'VBD', 'NNP', 'IN', 'NNP', 'POS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Glenn'), (6, 'Edgar'), (12, 'Morris'), (19, '('), (20, 'June'), (25, '18'), (27, ','), (29, '1912'), (34, '–'), (36, 'January'), (44, '31'), (46, ','), (48, '1974'), (52, ')'), (54, 'was'), (58, 'a'), (60, 'U.S.'), (65, 'track'), (71, 'and'), (75, 'field'), (81, 'athlete'), (88, '.'), (90, 'He'), (93, 'won'), (97, 'a'), (99, 'gold'), (104, 'medal'), (110, 'in'), (113, 'the'), (117, 'Olympic'), (125, 'decathlon'), (135, 'in'), (138, '1936'), (142, ','), (144, 'setting'), (152, 'new'), (156, 'world'), (162, 'and'), (166, 'Olympic'), (174, 'records'), (181, '.'), (183, 'He'), (186, 'was'), (190, 'also'), (195, 'an'), (198, 'occasional'), (209, 'actor'), (214, ','), (216, 'he'), (219, 'portrayed'), (229, 'Tarzan'), (236, 'in'), (239, 'Tarzan'), (245, "'s"), (248, 'Revenge'), (255, '.')])</spacy_tokens>
+<spacy_chunks>[('Glenn Edgar Morris', 0, 18), ('June 18, 1912', 20, 33), ('January 31, 1974', 36, 52), ('a U.S. track and field athlete', 58, 88), ('a gold medal', 97, 109), ('the Olympic decathlon', 113, 134), ('new world', 152, 161), ('Olympic records', 166, 181), ('an occasional actor', 195, 214), ('Tarzan', 229, 235), ("Tarzan's Revenge", 239, 255)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'CD', ',', 'VBG', 'JJ', 'NN', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'RB', 'DT', 'JJ', 'NN', ',', 'PRP', 'VBD', 'NNP', 'IN', 'NNP', 'POS', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Pat Ashton</title>
+<link/>https://en.wikipedia.org/wiki/Pat_Ashton
+<annotated>0</annotated>
+<originalabstract>Pat Ashton (28 February 1931 – 23 June 2013) was an English actress. Her engaging cockney, blonde persona is best remembered for appearances in English TV-sitcom film spin-offs On the Buses (1971) and Mutiny on the Buses (1972).
+She was married to Geoff Godwin 1953-1985, separated with 1 child.</originalabstract>
+<abstract>Pat_Ashton ( 28_February_1931 – 23_June_2013 ) was an_English_actress . Her_engaging_cockney , blonde_persona is_best_remembered for appearances in English_TV-sitcom_film_spin-offs On the_Buses ( 1971_)_and_Mutiny on the_Buses ( 1972_) . She was_married to Geoff_Godwin_1953-1985 , separated with 1_child .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Pat'), (4, 'Ashton'), (11, '('), (12, '28'), (15, 'February'), (24, '1931'), (29, '–'), (31, '23'), (34, 'June'), (39, '2013'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'actress'), (67, '.'), (69, 'Her'), (73, 'engaging'), (82, 'cockney'), (89, ','), (91, 'blonde'), (98, 'persona'), (106, 'is'), (109, 'best'), (114, 'remembered'), (125, 'for'), (129, 'appearances'), (141, 'in'), (144, 'English'), (152, 'TV-sitcom'), (162, 'film'), (167, 'spin-offs'), (177, 'On'), (180, 'the'), (184, 'Buses'), (190, '('), (191, '1971'), (195, ')'), (197, 'and'), (201, 'Mutiny'), (208, 'on'), (211, 'the'), (215, 'Buses'), (221, '('), (222, '1972'), (226, ')'), (227, '.'), (229, 'She'), (233, 'was'), (237, 'married'), (245, 'to'), (248, 'Geoff'), (254, 'Godwin'), (261, '1953-1985'), (270, ','), (272, 'separated'), (282, 'with'), (287, '1'), (289, 'child'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Pat Ashton',0, 10), ('28 February 1931',12, 28), ('23 June 2013',31, 43), ('an English actress',49, 67), ('Her engaging cockney',69, 89), ('blonde persona',91, 105), ('is best remembered',106, 124), ('English TV-sitcom film spin-offs',144, 176), ('the Buses',180, 189), ('1971) and Mutiny',191, 207), ('the Buses',211, 220), ('1972)',222, 227), ('was married',233, 244), ('Geoff Godwin 1953-1985',248, 270), ('1 child',287, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'JJ', 'NN', ',', 'JJ', 'NN', 'VBZ', 'JJS', 'VBN', 'IN', 'NNS', 'IN', 'NNP', 'NNP', 'NN', 'NNS', 'IN', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', 'CC', 'NN', 'IN', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'VBN', 'TO', 'NNP', 'NNP', 'CD', ',', 'VBN', 'IN', 'CD', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Pat'), (4, 'Ashton'), (11, '('), (12, '28'), (15, 'February'), (24, '1931'), (29, '–'), (31, '23'), (34, 'June'), (39, '2013'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'actress'), (67, '.'), (69, 'Her'), (73, 'engaging'), (82, 'cockney'), (89, ','), (91, 'blonde'), (98, 'persona'), (106, 'is'), (109, 'best'), (114, 'remembered'), (125, 'for'), (129, 'appearances'), (141, 'in'), (144, 'English'), (152, 'TV'), (154, '-'), (155, 'sitcom'), (162, 'film'), (167, 'spin'), (171, '-'), (172, 'offs'), (177, 'On'), (180, 'the'), (184, 'Buses'), (190, '('), (191, '1971'), (195, ')'), (197, 'and'), (201, 'Mutiny'), (208, 'on'), (211, 'the'), (215, 'Buses'), (221, '('), (222, '1972'), (226, ')'), (227, '.'), (229, 'She'), (233, 'was'), (237, 'married'), (245, 'to'), (248, 'Geoff'), (254, 'Godwin'), (261, '1953'), (265, '-'), (266, '1985'), (270, ','), (272, 'separated'), (282, 'with'), (287, '1'), (289, 'child'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Pat Ashton', 0, 10), ('28 February 1931', 12, 28), ('23 June 2013', 31, 43), ('an English actress', 49, 67), ('Her engaging cockney', 69, 89), ('blonde persona', 91, 105), ('appearances', 129, 140), ('English TV-sitcom film spin-offs', 144, 176), ('On the Buses', 177, 189), ('Mutiny on the Buses', 201, 220), ('Geoff Godwin', 248, 260), ('1 child', 287, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'JJ', 'NN', ',', 'JJ', 'NN', 'VBZ', 'RBS', 'VBN', 'IN', 'NNS', 'IN', 'JJ', 'NN', 'HYPH', 'NN', 'NN', 'NN', 'HYPH', 'NNS', 'IN', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'IN', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'JJ', 'IN', 'NNP', 'NNP', 'CD', 'SYM', 'CD', ',', 'VBD', 'IN', 'CD', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

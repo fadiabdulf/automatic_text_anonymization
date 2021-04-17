@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Don DeFore</title>
+<link/>https://en.wikipedia.org/wiki/Don_DeFore
+<annotated>0</annotated>
+<originalabstract>Donald John DeFore (August 25, 1913 – December 22, 1993) was an American actor. He is best known for his roles in the sitcom The Adventures of Ozzie and Harriet from 1952 to 1957 and the sitcom Hazel from 1961 to 1965, the former of which earned him a Primetime Emmy Award nomination.</originalabstract>
+<abstract>Donald_John_DeFore ( August_25_,_1913 – December_22_,_1993 ) was an_American_actor . He is_best_known for his_roles in the_sitcom The_Adventures of Ozzie_and_Harriet from 1952 to 1957 and the_sitcom_Hazel from 1961 to 1965 , the_former of which earned him a_Primetime_Emmy_Award_nomination .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Donald'), (7, 'John'), (12, 'DeFore'), (19, '('), (20, 'August'), (27, '25'), (29, ','), (31, '1913'), (36, '–'), (38, 'December'), (47, '22'), (49, ','), (51, '1993'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actor'), (78, '.'), (80, 'He'), (83, 'is'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'his'), (105, 'roles'), (111, 'in'), (114, 'the'), (118, 'sitcom'), (125, 'The'), (129, 'Adventures'), (140, 'of'), (143, 'Ozzie'), (149, 'and'), (153, 'Harriet'), (161, 'from'), (166, '1952'), (171, 'to'), (174, '1957'), (179, 'and'), (183, 'the'), (187, 'sitcom'), (194, 'Hazel'), (200, 'from'), (205, '1961'), (210, 'to'), (213, '1965'), (217, ','), (219, 'the'), (223, 'former'), (230, 'of'), (233, 'which'), (239, 'earned'), (246, 'him'), (250, 'a'), (252, 'Primetime'), (262, 'Emmy'), (267, 'Award'), (273, 'nomination'), (283, '.')])</stanford_tokens>
+<opennlp_chunks>[('Donald John DeFore',0, 18), ('August 25, 1913',20, 35), ('December 22, 1993',38, 55), ('an American actor',61, 78), ('is best known',83, 96), ('his roles',101, 110), ('the sitcom',114, 124), ('The Adventures',125, 139), ('Ozzie and Harriet',143, 160), ('the sitcom Hazel',183, 199), ('the former',219, 229), ('a Primetime Emmy Award nomination',250, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'DT', 'NNS', 'IN', 'NNP', 'CC', 'NNP', 'IN', 'CD', 'TO', 'CD', 'CC', 'DT', 'NN', 'NN', 'IN', 'CD', 'TO', 'CD', ',', 'DT', 'JJ', 'IN', 'WDT', 'VBD', 'PRP', 'DT', 'NNP', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Donald'), (7, 'John'), (12, 'DeFore'), (19, '('), (20, 'August'), (27, '25'), (29, ','), (31, '1913'), (36, '–'), (38, 'December'), (47, '22'), (49, ','), (51, '1993'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actor'), (78, '.'), (80, 'He'), (83, 'is'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'his'), (105, 'roles'), (111, 'in'), (114, 'the'), (118, 'sitcom'), (125, 'The'), (129, 'Adventures'), (140, 'of'), (143, 'Ozzie'), (149, 'and'), (153, 'Harriet'), (161, 'from'), (166, '1952'), (171, 'to'), (174, '1957'), (179, 'and'), (183, 'the'), (187, 'sitcom'), (194, 'Hazel'), (200, 'from'), (205, '1961'), (210, 'to'), (213, '1965'), (217, ','), (219, 'the'), (223, 'former'), (230, 'of'), (233, 'which'), (239, 'earned'), (246, 'him'), (250, 'a'), (252, 'Primetime'), (262, 'Emmy'), (267, 'Award'), (273, 'nomination'), (283, '.')])</spacy_tokens>
+<spacy_chunks>[('Donald John DeFore', 0, 18), ('(August', 19, 26), ('August 25, 1913', 20, 35), ('December 22, 1993', 38, 55), ('an American actor', 61, 78), ('his roles', 101, 110), ('the sitcom', 114, 124), ('The Adventures of Ozzie and Harriet', 125, 160), ('the former', 219, 229), ('a Primetime Emmy Award nomination', 250, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'DT', 'NNP', 'IN', 'NNP', 'CC', 'NNP', 'IN', 'CD', 'IN', 'CD', 'CC', 'DT', 'NN', 'NNP', 'IN', 'CD', 'IN', 'CD', ',', 'DT', 'NN', 'IN', 'WDT', 'VBD', 'PRP', 'DT', 'NNP', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

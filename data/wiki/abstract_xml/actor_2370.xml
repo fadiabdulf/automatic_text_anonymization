@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bert Freed</title>
+<link/>https://en.wikipedia.org/wiki/Bert_Freed
+<annotated>0</annotated>
+<originalabstract>Bert Freed (November 3, 1919 – August 2, 1994) was an American character actor, voice-over actor, and the first actor to portray Detective Columbo.</originalabstract>
+<abstract>Bert_Freed ( November_3_,_1919 – August_2_,_1994 ) was an_American_character_actor , voice-over_actor , and the_first_actor to_portray Detective_Columbo .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bert'), (5, 'Freed'), (11, '('), (12, 'November'), (21, '3'), (22, ','), (24, '1919'), (29, '–'), (31, 'August'), (38, '2'), (39, ','), (41, '1994'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'character'), (73, 'actor'), (78, ','), (80, 'voice-over'), (91, 'actor'), (96, ','), (98, 'and'), (102, 'the'), (106, 'first'), (112, 'actor'), (118, 'to'), (121, 'portray'), (129, 'Detective'), (139, 'Columbo'), (146, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bert Freed',0, 10), ('November 3, 1919',12, 28), ('August 2, 1994',31, 45), ('an American character actor',51, 78), ('voice-over actor',80, 96), ('the first actor',102, 117), ('to portray',118, 128), ('Detective Columbo',129, 146)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'JJ', 'NN', ',', 'CC', 'DT', 'JJ', 'NN', 'TO', 'VB', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bert'), (5, 'Freed'), (11, '('), (12, 'November'), (21, '3'), (22, ','), (24, '1919'), (29, '–'), (31, 'August'), (38, '2'), (39, ','), (41, '1994'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'character'), (73, 'actor'), (78, ','), (80, 'voice'), (85, '-'), (86, 'over'), (91, 'actor'), (96, ','), (98, 'and'), (102, 'the'), (106, 'first'), (112, 'actor'), (118, 'to'), (121, 'portray'), (129, 'Detective'), (139, 'Columbo'), (146, '.')])</spacy_tokens>
+<spacy_chunks>[('Bert Freed', 0, 10), ('(November', 11, 20), ('November 3, 1919', 12, 28), ('August 2, 1994', 31, 45), ('an American character actor', 51, 78), ('voice-over actor', 80, 96), ('the first actor', 102, 117), ('Detective Columbo', 129, 146)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'HYPH', 'RP', 'NN', ',', 'CC', 'DT', 'JJ', 'NN', 'TO', 'VB', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

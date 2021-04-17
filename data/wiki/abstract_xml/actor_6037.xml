@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vincent Serrano</title>
+<link/>https://en.wikipedia.org/wiki/Vincent_Serrano
+<annotated>0</annotated>
+<originalabstract>Vincent Serrano (February 17, 1866 – January 11, 1935) was an American actor in plays and silent films.</originalabstract>
+<abstract>Vincent_Serrano ( February_17 , 1866 – January_11_,_1935 ) was an_American_actor in plays and silent_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vincent'), (8, 'Serrano'), (16, '('), (17, 'February'), (26, '17'), (28, ','), (30, '1866'), (35, '–'), (37, 'January'), (45, '11'), (47, ','), (49, '1935'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'actor'), (77, 'in'), (80, 'plays'), (86, 'and'), (90, 'silent'), (97, 'films'), (102, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vincent Serrano',0, 15), ('February 17',17, 28), ('January 11, 1935',37, 53), ('an American actor',59, 76), ('silent films',90, 102)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNS', 'CC', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vincent'), (8, 'Serrano'), (16, '('), (17, 'February'), (26, '17'), (28, ','), (30, '1866'), (35, '–'), (37, 'January'), (45, '11'), (47, ','), (49, '1935'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'actor'), (77, 'in'), (80, 'plays'), (86, 'and'), (90, 'silent'), (97, 'films'), (102, '.')])</spacy_tokens>
+<spacy_chunks>[('Vincent Serrano', 0, 15), ('(February', 16, 25), ('February 17, 1866', 17, 34), ('January 11, 1935', 37, 53), ('an American actor', 59, 76), ('silent films', 90, 102)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNS', 'CC', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

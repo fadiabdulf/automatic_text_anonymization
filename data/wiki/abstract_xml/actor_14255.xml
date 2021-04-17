@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chelsea Noble</title>
+<link/>https://en.wikipedia.org/wiki/Chelsea_Noble
+<annotated>0</annotated>
+<originalabstract>Chelsea Noble (born Nancy Mueller, December 4, 1964) is an American actress. She is known for her role as Kate McDonnell on the television sitcom Growing Pains (1989–1992). She is the wife of her Growing Pains co-star, Kirk Cameron, and the sister-in-law of Candace Cameron Bure.</originalabstract>
+<abstract>Chelsea_Noble ( born Nancy_Mueller , December_4_,_1964 ) is an_American_actress . She is_known for her_role as Kate_McDonnell on the_television_sitcom Growing Pains ( 1989 – 1992 ) . She is the_wife of her_Growing_Pains_co-star , Kirk_Cameron , and the_sister-in-law of Candace_Cameron_Bure .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Chelsea'), (8, 'Noble'), (14, '('), (15, 'born'), (20, 'Nancy'), (26, 'Mueller'), (33, ','), (35, 'December'), (44, '4'), (45, ','), (47, '1964'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'actress'), (75, '.'), (77, 'She'), (81, 'is'), (84, 'known'), (90, 'for'), (94, 'her'), (98, 'role'), (103, 'as'), (106, 'Kate'), (111, 'McDonnell'), (121, 'on'), (124, 'the'), (128, 'television'), (139, 'sitcom'), (146, 'Growing'), (154, 'Pains'), (160, '('), (161, '1989'), (165, '–'), (166, '1992'), (170, ')'), (171, '.'), (173, 'She'), (177, 'is'), (180, 'the'), (184, 'wife'), (189, 'of'), (192, 'her'), (196, 'Growing'), (204, 'Pains'), (210, 'co-star'), (217, ','), (219, 'Kirk'), (224, 'Cameron'), (231, ','), (233, 'and'), (237, 'the'), (241, 'sister-in-law'), (255, 'of'), (258, 'Candace'), (266, 'Cameron'), (274, 'Bure'), (278, '.')])</stanford_tokens>
+<opennlp_chunks>[('Chelsea Noble',0, 13), ('Nancy Mueller',20, 33), ('December 4, 1964',35, 51), ('an American actress',56, 75), ('is known',81, 89), ('her role',94, 102), ('Kate McDonnell',106, 120), ('the television sitcom',124, 145), ('the wife',180, 188), ('her Growing Pains co-star',192, 217), ('Kirk Cameron',219, 231), ('the sister-in-law',237, 254), ('Candace Cameron Bure',258, 278)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'VBG', 'NNS', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'PRP$', 'VBG', 'NNS', 'NN', ',', 'NNP', 'NNP', ',', 'CC', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Chelsea'), (8, 'Noble'), (14, '('), (15, 'born'), (20, 'Nancy'), (26, 'Mueller'), (33, ','), (35, 'December'), (44, '4'), (45, ','), (47, '1964'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'actress'), (75, '.'), (77, 'She'), (81, 'is'), (84, 'known'), (90, 'for'), (94, 'her'), (98, 'role'), (103, 'as'), (106, 'Kate'), (111, 'McDonnell'), (121, 'on'), (124, 'the'), (128, 'television'), (139, 'sitcom'), (146, 'Growing'), (154, 'Pains'), (160, '('), (161, '1989–1992'), (170, ')'), (171, '.'), (173, 'She'), (177, 'is'), (180, 'the'), (184, 'wife'), (189, 'of'), (192, 'her'), (196, 'Growing'), (204, 'Pains'), (210, 'co'), (212, '-'), (213, 'star'), (217, ','), (219, 'Kirk'), (224, 'Cameron'), (231, ','), (233, 'and'), (237, 'the'), (241, 'sister'), (247, '-'), (248, 'in'), (250, '-'), (251, 'law'), (255, 'of'), (258, 'Candace'), (266, 'Cameron'), (274, 'Bure'), (278, '.')])</spacy_tokens>
+<spacy_chunks>[('Chelsea Noble', 0, 13), ('(born Nancy Mueller', 14, 33), ('December 4, 1964', 35, 51), ('an American actress', 56, 75), ('her role', 94, 102), ('Kate McDonnell', 106, 120), ('the television sitcom', 124, 145), ('Growing Pains', 146, 159), ('the wife', 180, 188), ('her Growing Pains co-star', 192, 217), ('Kirk Cameron', 219, 231), ('the sister', 237, 247), ('Candace Cameron Bure', 258, 278)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'VBG', 'NNS', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'PRP$', 'NNP', 'NNPS', 'NN', 'NN', 'NN', ',', 'NNP', 'NNP', ',', 'CC', 'DT', 'NN', 'HYPH', 'IN', 'HYPH', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

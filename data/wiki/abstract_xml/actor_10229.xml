@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marcel Vallée</title>
+<link/>https://en.wikipedia.org/wiki/Marcel_Vall%C3%A9e
+<annotated>0</annotated>
+<originalabstract>Marcel Vallée (born Paris, 15 January 1880 - died Fontaine-le-Port, 31 October 1957) was a French actor, primarily of the theater.  He began working in films with Max Linder in 1906. He appeared in some American films.</originalabstract>
+<abstract>Marcel_Vallée ( born_Paris , 15_January_1880 - died Fontaine-le-Port , 31_October_1957 ) was a_French_actor , primarily of the_theater . He began_working in films with Max_Linder in 1906 . He appeared in some_American_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marcel'), (7, 'Vallée'), (14, '('), (15, 'born'), (20, 'Paris'), (25, ','), (27, '15'), (30, 'January'), (38, '1880'), (43, '-'), (45, 'died'), (50, 'Fontaine-le-Port'), (66, ','), (68, '31'), (71, 'October'), (79, '1957'), (83, ')'), (85, 'was'), (89, 'a'), (91, 'French'), (98, 'actor'), (103, ','), (105, 'primarily'), (115, 'of'), (118, 'the'), (122, 'theater'), (129, '.'), (132, 'He'), (135, 'began'), (141, 'working'), (149, 'in'), (152, 'films'), (158, 'with'), (163, 'Max'), (167, 'Linder'), (174, 'in'), (177, '1906'), (181, '.'), (183, 'He'), (186, 'appeared'), (195, 'in'), (198, 'some'), (203, 'American'), (212, 'films'), (217, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marcel Vallée',0, 13), ('born Paris',15, 25), ('15 January 1880',27, 42), ('31 October 1957',68, 83), ('a French actor',89, 103), ('the theater',118, 129), ('began working',135, 148), ('Max Linder',163, 173), ('some American films',198, 217)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', ',', 'CD', 'NNP', 'NNP', ':', 'VBD', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'IN', 'DT', 'NN', '.', 'PRP', 'VBD', 'VBG', 'IN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marcel'), (7, 'Vallée'), (14, '('), (15, 'born'), (20, 'Paris'), (25, ','), (27, '15'), (30, 'January'), (38, '1880'), (43, '-'), (45, 'died'), (50, 'Fontaine'), (58, '-'), (59, 'le'), (61, '-'), (62, 'Port'), (66, ','), (68, '31'), (71, 'October'), (79, '1957'), (83, ')'), (85, 'was'), (89, 'a'), (91, 'French'), (98, 'actor'), (103, ','), (105, 'primarily'), (115, 'of'), (118, 'the'), (122, 'theater'), (129, '.'), (132, 'He'), (135, 'began'), (141, 'working'), (149, 'in'), (152, 'films'), (158, 'with'), (163, 'Max'), (167, 'Linder'), (174, 'in'), (177, '1906'), (181, '.'), (183, 'He'), (186, 'appeared'), (195, 'in'), (198, 'some'), (203, 'American'), (212, 'films'), (217, '.')])</spacy_tokens>
+<spacy_chunks>[('Marcel Vallée', 0, 13), ('born Paris', 15, 25), ('15 January 1880', 27, 42), ('Fontaine-le-Port', 50, 66), ('31 October 1957', 68, 83), ('a French actor', 89, 103), ('the theater', 118, 129), ('Max Linder', 163, 173), ('some American films', 198, 217)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', ',', 'CD', 'NNP', 'CD', ',', 'VBD', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'IN', 'DT', 'NN', '.', 'PRP', 'VBD', 'VBG', 'IN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

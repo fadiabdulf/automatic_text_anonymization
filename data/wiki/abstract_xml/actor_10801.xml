@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Timothy Blake</title>
+<link/>https://en.wikipedia.org/wiki/Timothy_Blake
+<annotated>0</annotated>
+<originalabstract>Timothy Blake is an actress whose career was active from the mid-1960s until the late 1990s. The films she has appeared in include, Adam at 6 A.M., They Went That-A-Way  That-A-Way , Who'll Stop the Rain, and Finders Keepers. She has also appeared in television shows such as The Ropers.</originalabstract>
+<abstract>Timothy_Blake is an_actress whose_career was active from the_mid-1960s until the_late_1990s . The_films she has_appeared in include , Adam at 6_A.M. , They Went That-A-Way_ , Who 'll_Stop the_Rain , and Finders_Keepers . She has_also_appeared in television_shows such_as The_Ropers .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Timothy'), (8, 'Blake'), (14, 'is'), (17, 'an'), (20, 'actress'), (28, 'whose'), (34, 'career'), (41, 'was'), (45, 'active'), (52, 'from'), (57, 'the'), (61, 'mid-1960s'), (71, 'until'), (77, 'the'), (81, 'late'), (86, '1990s'), (91, '.'), (93, 'The'), (97, 'films'), (103, 'she'), (107, 'has'), (111, 'appeared'), (120, 'in'), (123, 'include'), (130, ','), (132, 'Adam'), (137, 'at'), (140, '6'), (142, 'A.M.'), (146, ','), (148, 'They'), (153, 'Went'), (158, 'That-A-Way'), (169, ''), (171, 'That-A-Way'), (182, ','), (184, 'Who'), (187, '\'ll'), (191, 'Stop'), (196, 'the'), (200, 'Rain'), (204, ','), (206, 'and'), (210, 'Finders'), (218, 'Keepers'), (225, '.'), (227, 'She'), (231, 'has'), (235, 'also'), (240, 'appeared'), (249, 'in'), (252, 'television'), (263, 'shows'), (269, 'such'), (274, 'as'), (277, 'The'), (281, 'Ropers'), (287, '.')])</stanford_tokens>
+<opennlp_chunks>[('Timothy Blake',0, 13), ('an actress',17, 27), ('whose career',28, 40), ('the mid-1960s',57, 70), ('the late 1990s',77, 91), ('The films',93, 102), ('has appeared',107, 119), ('6 A.M.',140, 146), ('That-A-Way  That-A-Way',158, 181), ('\'ll Stop',187, 195), ('the Rain',196, 204), ('Finders Keepers',210, 225), ('has also appeared',231, 248), ('television shows',252, 268), ('such as',269, 276), ('The Ropers',277, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NN', 'WP$', 'NN', 'VBD', 'JJ', 'IN', 'DT', 'CD', 'IN', 'DT', 'JJ', 'NNS', '.', 'DT', 'NNS', 'PRP', 'VBZ', 'VBN', 'IN', 'VBP', ',', 'NNP', 'IN', 'CD', 'NN', ',', 'PRP', 'VBD', 'NNP', 'CC', 'NNP', ',', 'WP', 'MD', 'VB', 'DT', 'NN', ',', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'NNS', 'JJ', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Timothy'), (8, 'Blake'), (14, 'is'), (17, 'an'), (20, 'actress'), (28, 'whose'), (34, 'career'), (41, 'was'), (45, 'active'), (52, 'from'), (57, 'the'), (61, 'mid-1960s'), (71, 'until'), (77, 'the'), (81, 'late'), (86, '1990s'), (91, '.'), (93, 'The'), (97, 'films'), (103, 'she'), (107, 'has'), (111, 'appeared'), (120, 'in'), (123, 'include'), (130, ','), (132, 'Adam'), (137, 'at'), (140, '6'), (142, 'A.M.'), (146, ','), (148, 'They'), (153, 'Went'), (158, 'That'), (162, '-'), (163, 'A'), (164, '-'), (165, 'Way'), (170, 'That'), (174, '-'), (175, 'A'), (176, '-'), (177, 'Way'), (181, ','), (183, 'Who'), (186, "'ll"), (190, 'Stop'), (195, 'the'), (199, 'Rain'), (203, ','), (205, 'and'), (209, 'Finders'), (217, 'Keepers'), (224, '.'), (226, 'She'), (230, 'has'), (234, 'also'), (239, 'appeared'), (248, 'in'), (251, 'television'), (262, 'shows'), (268, 'such'), (273, 'as'), (276, 'The'), (280, 'Ropers'), (286, '.')])</spacy_tokens>
+<spacy_chunks>[('Timothy Blake', 0, 13), ('an actress', 17, 27), ('whose career', 28, 40), ('the mid-1960s', 57, 70), ('the late 1990s', 77, 91), ('The films', 93, 102), ('Adam at 6 A.M.', 132, 146), ('They Went That-A-Way', 148, 168), ("Who'll Stop the Rain", 183, 203), ('Finders Keepers', 209, 224), ('television shows', 251, 267), ('The Ropers', 276, 286)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NN', 'WP$', 'NN', 'VBD', 'JJ', 'IN', 'DT', 'NNS', 'IN', 'DT', 'JJ', 'NNS', '.', 'DT', 'NNS', 'PRP', 'VBZ', 'VBN', 'IN', 'NN', ',', 'NNP', 'IN', 'CD', 'NNP', ',', 'PRP', 'VBD', 'DT', 'HYPH', 'NN', 'HYPH', 'NN', 'IN', 'HYPH', 'NN', 'HYPH', 'NN', ',', 'WP', 'MD', 'VB', 'DT', 'NN', ',', 'CC', 'NNPS', 'NNPS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'NNS', 'JJ', 'IN', 'DT', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

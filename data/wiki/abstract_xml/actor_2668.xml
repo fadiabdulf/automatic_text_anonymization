@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Francis J. Grandon</title>
+<link/>https://en.wikipedia.org/wiki/Francis_J._Grandon
+<annotated>0</annotated>
+<originalabstract>Francis "Frank" J. Grandon (1879 – July 11, 1929) was an American silent film actor and director who acted in almost 100 films and directed over 100. Frank Grandon's obituary, printed in newspapers from coast-to- coast, called him "the father of movie serial motion pictures" and a mentor to many young film stars.</originalabstract>
+<abstract>Francis_"_Frank_"_J._Grandon ( 1879 – July_11_,_1929 ) was an_American_silent_film_actor and director who acted in almost_100_films and directed over 100 . Frank_Grandon 's_obituary , printed in newspapers from coast-to - coast , called him " the_father of movie_serial_motion_pictures " and a_mentor to many_young_film_stars .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Francis'), (8, '"'), (9, 'Frank'), (14, '"'), (16, 'J.'), (19, 'Grandon'), (27, '('), (28, '1879'), (33, '–'), (35, 'July'), (40, '11'), (42, ','), (44, '1929'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'silent'), (73, 'film'), (78, 'actor'), (84, 'and'), (88, 'director'), (97, 'who'), (101, 'acted'), (107, 'in'), (110, 'almost'), (117, '100'), (121, 'films'), (127, 'and'), (131, 'directed'), (140, 'over'), (145, '100'), (148, '.'), (150, 'Frank'), (156, 'Grandon'), (163, '\'s'), (166, 'obituary'), (174, ','), (176, 'printed'), (184, 'in'), (187, 'newspapers'), (198, 'from'), (203, 'coast-to'), (211, '-'), (213, 'coast'), (218, ','), (220, 'called'), (227, 'him'), (231, '"'), (232, 'the'), (236, 'father'), (243, 'of'), (246, 'movie'), (252, 'serial'), (259, 'motion'), (266, 'pictures'), (274, '"'), (276, 'and'), (280, 'a'), (282, 'mentor'), (289, 'to'), (292, 'many'), (297, 'young'), (303, 'film'), (308, 'stars'), (313, '.')])</stanford_tokens>
+<opennlp_chunks>[('Francis "Frank" J. Grandon',0, 26), ('July 11, 1929',35, 48), ('an American silent film actor',54, 83), ('almost 100 films',110, 126), ('Frank Grandon',150, 163), ('\'s obituary',163, 174), ('the father',232, 242), ('movie serial motion pictures',246, 274), ('a mentor',280, 288), ('many young film stars',292, 313)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', 'NNP', '-LRB-', 'NNS', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'CC', 'VBN', 'IN', 'CD', '.', 'NNP', 'NNP', 'POS', 'NN', ',', 'VBN', 'IN', 'NNS', 'IN', 'JJ', ':', 'NN', ',', 'VBD', 'PRP', '``', 'DT', 'NN', 'IN', 'NN', 'NN', 'NN', 'NNS', '\'\'', 'CC', 'DT', 'NN', 'TO', 'JJ', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Francis'), (8, '"'), (9, 'Frank'), (14, '"'), (16, 'J.'), (19, 'Grandon'), (27, '('), (28, '1879'), (33, '–'), (35, 'July'), (40, '11'), (42, ','), (44, '1929'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'silent'), (73, 'film'), (78, 'actor'), (84, 'and'), (88, 'director'), (97, 'who'), (101, 'acted'), (107, 'in'), (110, 'almost'), (117, '100'), (121, 'films'), (127, 'and'), (131, 'directed'), (140, 'over'), (145, '100'), (148, '.'), (150, 'Frank'), (156, 'Grandon'), (163, "'s"), (166, 'obituary'), (174, ','), (176, 'printed'), (184, 'in'), (187, 'newspapers'), (198, 'from'), (203, 'coast'), (208, '-'), (209, 'to-'), (213, 'coast'), (218, ','), (220, 'called'), (227, 'him'), (231, '"'), (232, 'the'), (236, 'father'), (243, 'of'), (246, 'movie'), (252, 'serial'), (259, 'motion'), (266, 'pictures'), (274, '"'), (276, 'and'), (280, 'a'), (282, 'mentor'), (289, 'to'), (292, 'many'), (297, 'young'), (303, 'film'), (308, 'stars'), (313, '.')])</spacy_tokens>
+<spacy_chunks>[('Francis "Frank" J. Grandon', 0, 26), ('July 11, 1929', 35, 48), ('an American silent film actor', 54, 83), ('director', 88, 96), ('almost 100 films', 110, 126), ("Frank Grandon's obituary", 150, 174), ('newspapers', 187, 197), ('coast-to- coast', 203, 218), ('serial motion pictures', 252, 274), ('many young film stars', 292, 313)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'CC', 'VBN', 'IN', 'CD', '.', 'NNP', 'NNP', 'POS', 'NN', ',', 'VBN', 'IN', 'NNS', 'IN', 'NN', 'HYPH', 'NN', 'NN', ',', 'VBD', 'PRP', '``', 'DT', 'NN', 'IN', 'NN', 'JJ', 'NN', 'NNS', "''", 'CC', 'DT', 'NN', 'IN', 'JJ', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

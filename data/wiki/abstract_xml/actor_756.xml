@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>William Boyett</title>
+<link/>https://en.wikipedia.org/wiki/William_Boyett
+<annotated>0</annotated>
+<originalabstract>William Boyett (January 3, 1927 – December 29, 2004) was an American actor best known for his work as the low-key but authoritative Sergeant William 'Mac' MacDonald on the police drama Adam-12.</originalabstract>
+<abstract>William_Boyett ( January_3_,_1927 – December_29_,_2004 ) was an_American_actor best_known for his_work as the_low-key_but_authoritative_Sergeant_William_'_Mac_'_MacDonald on the_police_drama_Adam-12 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Boyett'), (15, '('), (16, 'January'), (24, '3'), (25, ','), (27, '1927'), (32, '–'), (34, 'December'), (43, '29'), (45, ','), (47, '2004'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'work'), (99, 'as'), (102, 'the'), (106, 'low-key'), (114, 'but'), (118, 'authoritative'), (132, 'Sergeant'), (141, 'William'), (149, '\''), (150, 'Mac'), (153, '\''), (155, 'MacDonald'), (165, 'on'), (168, 'the'), (172, 'police'), (179, 'drama'), (185, 'Adam-12'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Boyett',0, 14), ('January 3, 1927',16, 31), ('December 29, 2004',34, 51), ('an American actor',57, 74), ('best known',75, 85), ('his work',90, 98), ('the low-key but authoritative Sergeant William \'Mac\' MacDonald',102, 164), ('the police drama Adam-12',168, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Boyett'), (15, '('), (16, 'January'), (24, '3'), (25, ','), (27, '1927'), (32, '–'), (34, 'December'), (43, '29'), (45, ','), (47, '2004'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'work'), (99, 'as'), (102, 'the'), (106, 'low'), (109, '-'), (110, 'key'), (114, 'but'), (118, 'authoritative'), (132, 'Sergeant'), (141, 'William'), (149, "'"), (150, 'Mac'), (153, "'"), (155, 'MacDonald'), (165, 'on'), (168, 'the'), (172, 'police'), (179, 'drama'), (185, 'Adam-12'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('William Boyett', 0, 14), ('January 3, 1927', 16, 31), ('December 29, 2004', 34, 51), ('an American actor', 57, 74), ('his work', 90, 98), ("the low-key but authoritative Sergeant William 'Mac' MacDonald", 102, 164), ('the police drama Adam-12', 168, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'HYPH', 'NN', 'CC', 'JJ', 'NNP', 'NNP', 'POS', 'NNP', 'POS', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

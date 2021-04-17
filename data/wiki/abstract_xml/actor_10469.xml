@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Camila Ashland</title>
+<link/>https://en.wikipedia.org/wiki/Camila_Ashland
+<annotated>0</annotated>
+<originalabstract>Camila Ashland (March 24, 1911 – September 12, 2008) was an American actress, best known for her role as Minnie Du Val in the cult series Dark Shadows. Ashland was nominated for a Tony Award for Best Featured Actress in a Play for her performance in Black Comedy/White Lies in 1967.</originalabstract>
+<abstract>Camila_Ashland ( March_24_,_1911 – September_12_,_2008 ) was an_American_actress , best_known for her_role as Minnie_Du_Val in the_cult_series_Dark_Shadows . Ashland was_nominated for a_Tony_Award for Best_Featured_Actress in a_Play for her_performance in Black_Comedy/White Lies in 1967 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Camila'), (7, 'Ashland'), (15, '('), (16, 'March'), (22, '24'), (24, ','), (26, '1911'), (31, '–'), (33, 'September'), (43, '12'), (45, ','), (47, '2008'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actress'), (76, ','), (78, 'best'), (83, 'known'), (89, 'for'), (93, 'her'), (97, 'role'), (102, 'as'), (105, 'Minnie'), (112, 'Du'), (115, 'Val'), (119, 'in'), (122, 'the'), (126, 'cult'), (131, 'series'), (138, 'Dark'), (143, 'Shadows'), (150, '.'), (152, 'Ashland'), (160, 'was'), (164, 'nominated'), (174, 'for'), (178, 'a'), (180, 'Tony'), (185, 'Award'), (191, 'for'), (195, 'Best'), (200, 'Featured'), (209, 'Actress'), (217, 'in'), (220, 'a'), (222, 'Play'), (227, 'for'), (231, 'her'), (235, 'performance'), (247, 'in'), (250, 'Black'), (256, 'Comedy/White'), (269, 'Lies'), (274, 'in'), (277, '1967'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('Camila Ashland',0, 14), ('March 24, 1911',16, 30), ('September 12, 2008',33, 51), ('an American actress',57, 76), ('best known',78, 88), ('her role',93, 101), ('Minnie Du Val',105, 118), ('the cult series Dark Shadows',122, 150), ('was nominated',160, 173), ('a Tony Award',178, 190), ('Best Featured Actress',195, 216), ('a Play',220, 226), ('her performance',231, 246), ('Black Comedy/White',250, 268)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NN', 'IN', 'DT', 'NN', 'NN', 'JJ', 'NNS', '.', 'NNP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'NN', 'VBZ', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Camila'), (7, 'Ashland'), (15, '('), (16, 'March'), (22, '24'), (24, ','), (26, '1911'), (31, '–'), (33, 'September'), (43, '12'), (45, ','), (47, '2008'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actress'), (76, ','), (78, 'best'), (83, 'known'), (89, 'for'), (93, 'her'), (97, 'role'), (102, 'as'), (105, 'Minnie'), (112, 'Du'), (115, 'Val'), (119, 'in'), (122, 'the'), (126, 'cult'), (131, 'series'), (138, 'Dark'), (143, 'Shadows'), (150, '.'), (152, 'Ashland'), (160, 'was'), (164, 'nominated'), (174, 'for'), (178, 'a'), (180, 'Tony'), (185, 'Award'), (191, 'for'), (195, 'Best'), (200, 'Featured'), (209, 'Actress'), (217, 'in'), (220, 'a'), (222, 'Play'), (227, 'for'), (231, 'her'), (235, 'performance'), (247, 'in'), (250, 'Black'), (256, 'Comedy'), (262, '/'), (263, 'White'), (269, 'Lies'), (274, 'in'), (277, '1967'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('Camila Ashland', 0, 14), ('(March', 15, 21), ('March 24, 1911', 16, 30), ('September 12, 2008', 33, 51), ('an American actress', 57, 76), ('her role', 93, 101), ('Minnie Du Val', 105, 118), ('the cult series', 122, 137), ('Dark Shadows', 138, 150), ('a Tony Award', 178, 190), ('Best Featured Actress', 195, 216), ('a Play', 220, 226), ('her performance', 231, 246), ('Black Comedy/White Lies', 250, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNPS', '.', 'NNP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'JJ', 'NNP', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'SYM', 'NNP', 'NNPS', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

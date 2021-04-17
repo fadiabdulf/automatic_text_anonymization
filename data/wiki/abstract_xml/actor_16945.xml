@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Zöe Lucker</title>
+<link/>https://en.wikipedia.org/wiki/Z%C3%B6e_Lucker
+<annotated>0</annotated>
+<originalabstract>Zöe Elizabeth Lucker (born 11 April 1974 in Huddersfield, West Yorkshire) is an English actress.  Her roles on television include Tanya Turner on ITV's Footballers' Wives, with a crossover appearance in Bad Girls,  Vanessa Gold in EastEnders, Carol Barry in Waterloo Road and Reenie McQueen in Hollyoaks.</originalabstract>
+<abstract>Zöe_Elizabeth_Lucker ( born 11_April_1974 in Huddersfield , West_Yorkshire ) is an_English_actress . Her_roles on television include Tanya_Turner on ITV 's_Footballers '_Wives , with a_crossover_appearance in Bad_Girls , Vanessa_Gold in EastEnders , Carol_Barry in Waterloo_Road and Reenie_McQueen in Hollyoaks .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Zöe'), (4, 'Elizabeth'), (14, 'Lucker'), (21, '('), (22, 'born'), (27, '11'), (30, 'April'), (36, '1974'), (41, 'in'), (44, 'Huddersfield'), (56, ','), (58, 'West'), (63, 'Yorkshire'), (72, ')'), (74, 'is'), (77, 'an'), (80, 'English'), (88, 'actress'), (95, '.'), (98, 'Her'), (102, 'roles'), (108, 'on'), (111, 'television'), (122, 'include'), (130, 'Tanya'), (136, 'Turner'), (143, 'on'), (146, 'ITV'), (149, '\'s'), (152, 'Footballers'), (163, '\''), (165, 'Wives'), (170, ','), (172, 'with'), (177, 'a'), (179, 'crossover'), (189, 'appearance'), (200, 'in'), (203, 'Bad'), (207, 'Girls'), (212, ','), (215, 'Vanessa'), (223, 'Gold'), (228, 'in'), (231, 'EastEnders'), (241, ','), (243, 'Carol'), (249, 'Barry'), (255, 'in'), (258, 'Waterloo'), (267, 'Road'), (272, 'and'), (276, 'Reenie'), (283, 'McQueen'), (291, 'in'), (294, 'Hollyoaks'), (303, '.')])</stanford_tokens>
+<opennlp_chunks>[('Zöe Elizabeth Lucker',0, 20), ('11 April 1974',27, 40), ('West Yorkshire',58, 72), ('an English actress',77, 95), ('Her roles',98, 107), ('Tanya Turner',130, 142), ('\'s Footballers',149, 163), ('\' Wives',163, 170), ('a crossover appearance',177, 199), ('Bad Girls',203, 212), ('Vanessa Gold',215, 227), ('Carol Barry',243, 254), ('Waterloo Road',258, 271), ('Reenie McQueen',276, 290)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NNS', 'IN', 'NN', 'VBP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNPS', 'POS', 'NNS', ',', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Zöe'), (4, 'Elizabeth'), (14, 'Lucker'), (21, '('), (22, 'born'), (27, '11'), (30, 'April'), (36, '1974'), (41, 'in'), (44, 'Huddersfield'), (56, ','), (58, 'West'), (63, 'Yorkshire'), (72, ')'), (74, 'is'), (77, 'an'), (80, 'English'), (88, 'actress'), (95, '.'), (98, 'Her'), (102, 'roles'), (108, 'on'), (111, 'television'), (122, 'include'), (130, 'Tanya'), (136, 'Turner'), (143, 'on'), (146, 'ITV'), (149, "'s"), (152, 'Footballers'), (163, "'"), (165, 'Wives'), (170, ','), (172, 'with'), (177, 'a'), (179, 'crossover'), (189, 'appearance'), (200, 'in'), (203, 'Bad'), (207, 'Girls'), (212, ','), (215, 'Vanessa'), (223, 'Gold'), (228, 'in'), (231, 'EastEnders'), (241, ','), (243, 'Carol'), (249, 'Barry'), (255, 'in'), (258, 'Waterloo'), (267, 'Road'), (272, 'and'), (276, 'Reenie'), (283, 'McQueen'), (291, 'in'), (294, 'Hollyoaks'), (303, '.')])</spacy_tokens>
+<spacy_chunks>[('Zöe Elizabeth Lucker', 0, 20), ('11 April 1974', 27, 40), ('Huddersfield', 44, 56), ('West Yorkshire', 58, 72), ('an English actress', 77, 95), ('Her roles', 98, 107), ('television', 111, 121), ('Tanya Turner', 130, 142), ("ITV's Footballers' Wives", 146, 170), ('a crossover appearance', 177, 199), ('Bad Girls', 203, 212), ('Vanessa Gold', 215, 227), ('EastEnders', 231, 241), ('Carol Barry', 243, 254), ('Waterloo Road', 258, 271), ('Reenie McQueen', 276, 290), ('Hollyoaks', 294, 303)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NNS', 'IN', 'NN', 'VBP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNPS', 'POS', 'NNS', ',', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

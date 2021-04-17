@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Blossom Rock</title>
+<link/>https://en.wikipedia.org/wiki/Blossom_Rock
+<annotated>0</annotated>
+<originalabstract>Edith Marie Blossom MacDonald (August 21, 1895 – January 14, 1978), known as Blossom Rock, was an American actress of vaudeville, stage, television, and film, and comedian. She was occasionally billed as Marie Blake or Blossom MacDonald. Her younger sister was screen actress and singer Jeanette MacDonald.</originalabstract>
+<abstract>Edith_Marie_Blossom_MacDonald ( August_21_,_1895 – January_14_,_1978 ) , known as Blossom_Rock , was an_American_actress of vaudeville_,_stage_,_television , and film , and comedian . She was_occasionally_billed as Marie_Blake or Blossom_MacDonald . Her_younger_sister was screen_actress and singer_Jeanette_MacDonald .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edith'), (6, 'Marie'), (12, 'Blossom'), (20, 'MacDonald'), (30, '('), (31, 'August'), (38, '21'), (40, ','), (42, '1895'), (47, '–'), (49, 'January'), (57, '14'), (59, ','), (61, '1978'), (65, ')'), (66, ','), (68, 'known'), (74, 'as'), (77, 'Blossom'), (85, 'Rock'), (89, ','), (91, 'was'), (95, 'an'), (98, 'American'), (107, 'actress'), (115, 'of'), (118, 'vaudeville'), (128, ','), (130, 'stage'), (135, ','), (137, 'television'), (147, ','), (149, 'and'), (153, 'film'), (157, ','), (159, 'and'), (163, 'comedian'), (171, '.'), (173, 'She'), (177, 'was'), (181, 'occasionally'), (194, 'billed'), (201, 'as'), (204, 'Marie'), (210, 'Blake'), (216, 'or'), (219, 'Blossom'), (227, 'MacDonald'), (236, '.'), (238, 'Her'), (242, 'younger'), (250, 'sister'), (257, 'was'), (261, 'screen'), (268, 'actress'), (276, 'and'), (280, 'singer'), (287, 'Jeanette'), (296, 'MacDonald'), (305, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edith Marie Blossom MacDonald',0, 29), ('August 21, 1895',31, 46), ('January 14, 1978',49, 65), ('Blossom Rock',77, 89), ('an American actress',95, 114), ('vaudeville, stage, television',118, 147), ('was occasionally billed',177, 200), ('Marie Blake',204, 215), ('Blossom MacDonald',219, 236), ('Her younger sister',238, 256), ('screen actress',261, 275), ('singer Jeanette MacDonald',280, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP$', 'JJR', 'NN', 'VBD', 'NN', 'NN', 'CC', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edith'), (6, 'Marie'), (12, 'Blossom'), (20, 'MacDonald'), (30, '('), (31, 'August'), (38, '21'), (40, ','), (42, '1895'), (47, '–'), (49, 'January'), (57, '14'), (59, ','), (61, '1978'), (65, ')'), (66, ','), (68, 'known'), (74, 'as'), (77, 'Blossom'), (85, 'Rock'), (89, ','), (91, 'was'), (95, 'an'), (98, 'American'), (107, 'actress'), (115, 'of'), (118, 'vaudeville'), (128, ','), (130, 'stage'), (135, ','), (137, 'television'), (147, ','), (149, 'and'), (153, 'film'), (157, ','), (159, 'and'), (163, 'comedian'), (171, '.'), (173, 'She'), (177, 'was'), (181, 'occasionally'), (194, 'billed'), (201, 'as'), (204, 'Marie'), (210, 'Blake'), (216, 'or'), (219, 'Blossom'), (227, 'MacDonald'), (236, '.'), (238, 'Her'), (242, 'younger'), (250, 'sister'), (257, 'was'), (261, 'screen'), (268, 'actress'), (276, 'and'), (280, 'singer'), (287, 'Jeanette'), (296, 'MacDonald'), (305, '.')])</spacy_tokens>
+<spacy_chunks>[('Edith Marie Blossom MacDonald', 0, 29), ('August 21, 1895', 31, 46), ('January 14, 1978', 49, 65), ('Blossom Rock', 77, 89), ('an American actress', 95, 114), ('vaudeville', 118, 128), ('television', 137, 147), ('comedian', 163, 171), ('Marie Blake', 204, 215), ('Her younger sister', 238, 256), ('screen actress', 261, 275), ('singer Jeanette MacDonald', 280, 305)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'VB', 'NNP', '.', 'PRP$', 'JJR', 'NN', 'VBD', 'NN', 'NN', 'CC', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

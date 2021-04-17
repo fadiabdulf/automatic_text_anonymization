@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert Morse</title>
+<link/>https://en.wikipedia.org/wiki/Robert_Morse
+<annotated>0</annotated>
+<originalabstract>Robert Alan Morse (born May 18, 1931) is an American actor and singer, best known as the star of both the 1961 original Broadway production and 1967 film adaptation of How to Succeed in Business Without Really Trying, and as Bertram Cooper, from 2007 to 2015, in the AMC dramatic series Mad Men.</originalabstract>
+<abstract>Robert_Alan_Morse ( born May_18_,_1931 ) is an_American_actor_and_singer , best_known as the_star of both the_1961_original_Broadway_production and 1967_film_adaptation of How to_Succeed in Business Without Really Trying , and as Bertram_Cooper , from 2007 to 2015 , in the_AMC_dramatic_series_Mad_Men .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Alan'), (12, 'Morse'), (18, '('), (19, 'born'), (24, 'May'), (28, '18'), (30, ','), (32, '1931'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (59, 'and'), (63, 'singer'), (69, ','), (71, 'best'), (76, 'known'), (82, 'as'), (85, 'the'), (89, 'star'), (94, 'of'), (97, 'both'), (102, 'the'), (106, '1961'), (111, 'original'), (120, 'Broadway'), (129, 'production'), (140, 'and'), (144, '1967'), (149, 'film'), (154, 'adaptation'), (165, 'of'), (168, 'How'), (172, 'to'), (175, 'Succeed'), (183, 'in'), (186, 'Business'), (195, 'Without'), (203, 'Really'), (210, 'Trying'), (216, ','), (218, 'and'), (222, 'as'), (225, 'Bertram'), (233, 'Cooper'), (239, ','), (241, 'from'), (246, '2007'), (251, 'to'), (254, '2015'), (258, ','), (260, 'in'), (263, 'the'), (267, 'AMC'), (271, 'dramatic'), (280, 'series'), (287, 'Mad'), (291, 'Men'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Alan Morse',0, 17), ('May 18, 1931',24, 36), ('an American actor and singer',41, 69), ('best known',71, 81), ('the star',85, 93), ('the 1961 original Broadway production',102, 139), ('1967 film adaptation',144, 164), ('to Succeed',172, 182), ('Bertram Cooper',225, 239), ('the AMC dramatic series Mad Men',263, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'CC', 'DT', 'CD', 'JJ', 'NNP', 'NN', 'CC', 'CD', 'NN', 'NN', 'IN', 'WRB', 'TO', 'VB', 'IN', 'NN', 'IN', 'RB', 'VBG', ',', 'CC', 'IN', 'NNP', 'NNP', ',', 'IN', 'CD', 'TO', 'CD', ',', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Alan'), (12, 'Morse'), (18, '('), (19, 'born'), (24, 'May'), (28, '18'), (30, ','), (32, '1931'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (59, 'and'), (63, 'singer'), (69, ','), (71, 'best'), (76, 'known'), (82, 'as'), (85, 'the'), (89, 'star'), (94, 'of'), (97, 'both'), (102, 'the'), (106, '1961'), (111, 'original'), (120, 'Broadway'), (129, 'production'), (140, 'and'), (144, '1967'), (149, 'film'), (154, 'adaptation'), (165, 'of'), (168, 'How'), (172, 'to'), (175, 'Succeed'), (183, 'in'), (186, 'Business'), (195, 'Without'), (203, 'Really'), (210, 'Trying'), (216, ','), (218, 'and'), (222, 'as'), (225, 'Bertram'), (233, 'Cooper'), (239, ','), (241, 'from'), (246, '2007'), (251, 'to'), (254, '2015'), (258, ','), (260, 'in'), (263, 'the'), (267, 'AMC'), (271, 'dramatic'), (280, 'series'), (287, 'Mad'), (291, 'Men'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Alan Morse', 0, 17), ('May 18, 1931', 24, 36), ('an American actor', 41, 58), ('singer', 63, 69), ('the star', 85, 93), ('both the 1961 original Broadway production', 97, 139), ('1967 film adaptation', 144, 164), ('How to Succeed in Business Without Really Trying', 168, 216), ('Bertram Cooper', 225, 239), ('the AMC dramatic series', 263, 286), ('Mad Men', 287, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'IN', 'PDT', 'DT', 'CD', 'JJ', 'NNP', 'NN', 'CC', 'CD', 'NN', 'NN', 'IN', 'WRB', 'TO', 'VB', 'IN', 'NNP', 'IN', 'RB', 'VBG', ',', 'CC', 'IN', 'NNP', 'NNP', ',', 'IN', 'CD', 'IN', 'CD', ',', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

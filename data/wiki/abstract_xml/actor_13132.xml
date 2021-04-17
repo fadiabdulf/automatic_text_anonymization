@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Danielle Keaton</title>
+<link/>https://en.wikipedia.org/wiki/Danielle_Keaton
+<annotated>0</annotated>
+<originalabstract>Danielle Jasmin Wiener (born July 30, 1986) is an American actress from Los Angeles, California. She is the sister of singer Sabrina Wiener Keaton (who appeared in the 1993 Kidsongs VHS episode "Play Along Songs (Play-Along Songs)") and actor Joshua "Josh" Wiener.</originalabstract>
+<abstract>Danielle_Jasmin_Wiener ( born July_30_,_1986 ) is an_American_actress from Los_Angeles , California . She is the_sister of singer_Sabrina_Wiener_Keaton_( who appeared in the_1993_Kidsongs_VHS_episode " Play Along Songs_(_Play-Along_Songs ) " )_and_actor_Joshua_"_Josh_"_Wiener .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Danielle'), (9, 'Jasmin'), (16, 'Wiener'), (23, '('), (24, 'born'), (29, 'July'), (34, '30'), (36, ','), (38, '1986'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actress'), (67, 'from'), (72, 'Los'), (76, 'Angeles'), (83, ','), (85, 'California'), (95, '.'), (97, 'She'), (101, 'is'), (104, 'the'), (108, 'sister'), (115, 'of'), (118, 'singer'), (125, 'Sabrina'), (133, 'Wiener'), (140, 'Keaton'), (147, '('), (148, 'who'), (152, 'appeared'), (161, 'in'), (164, 'the'), (168, '1993'), (173, 'Kidsongs'), (182, 'VHS'), (186, 'episode'), (194, '"'), (195, 'Play'), (200, 'Along'), (206, 'Songs'), (212, '('), (213, 'Play-Along'), (224, 'Songs'), (229, ')'), (230, '"'), (231, ')'), (233, 'and'), (237, 'actor'), (243, 'Joshua'), (250, '"'), (251, 'Josh'), (255, '"'), (257, 'Wiener'), (263, '.')])</stanford_tokens>
+<opennlp_chunks>[('Danielle Jasmin Wiener',0, 22), ('July 30, 1986',29, 42), ('an American actress',47, 66), ('Los Angeles',72, 83), ('the sister',104, 114), ('singer Sabrina Wiener Keaton (',118, 148), ('the 1993 Kidsongs VHS episode',164, 193), ('Songs (Play-Along Songs',206, 229), (') and actor Joshua "Josh" Wiener',231, 263)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'NNP', '-LRB-', 'WP', 'VBD', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', '``', 'NNP', 'IN', 'NNS', '-LRB-', 'NNP', 'NNS', '-RRB-', '\'\'', '-RRB-', 'CC', 'NN', 'NNP', '``', 'NNP', '\'\'', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Danielle'), (9, 'Jasmin'), (16, 'Wiener'), (23, '('), (24, 'born'), (29, 'July'), (34, '30'), (36, ','), (38, '1986'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actress'), (67, 'from'), (72, 'Los'), (76, 'Angeles'), (83, ','), (85, 'California'), (95, '.'), (97, 'She'), (101, 'is'), (104, 'the'), (108, 'sister'), (115, 'of'), (118, 'singer'), (125, 'Sabrina'), (133, 'Wiener'), (140, 'Keaton'), (147, '('), (148, 'who'), (152, 'appeared'), (161, 'in'), (164, 'the'), (168, '1993'), (173, 'Kidsongs'), (182, 'VHS'), (186, 'episode'), (194, '"'), (195, 'Play'), (200, 'Along'), (206, 'Songs'), (212, '('), (213, 'Play'), (217, '-'), (218, 'Along'), (224, 'Songs'), (229, ')'), (230, '"'), (231, ')'), (233, 'and'), (237, 'actor'), (243, 'Joshua'), (250, '"'), (251, 'Josh'), (255, '"'), (257, 'Wiener'), (263, '.')])</spacy_tokens>
+<spacy_chunks>[('Danielle Jasmin Wiener', 0, 22), ('July 30, 1986', 29, 42), ('an American actress', 47, 66), ('Los Angeles, California', 72, 95), ('the sister', 104, 114), ('singer Sabrina Wiener Keaton', 118, 146), ('the 1993 Kidsongs VHS episode', 164, 193), ('Play-Along Songs', 213, 229), ('actor Joshua "Josh" Wiener', 237, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'NNP', '-LRB-', 'WP', 'VBD', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', '``', 'NN', 'IN', 'NNS', '-LRB-', 'NN', 'HYPH', 'RP', 'NNS', '-RRB-', "''", '-RRB-', 'CC', 'NN', 'NNP', '``', 'NNP', "''", 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

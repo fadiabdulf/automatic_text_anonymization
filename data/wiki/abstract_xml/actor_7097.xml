@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Slim Whitaker</title>
+<link/>https://en.wikipedia.org/wiki/Slim_Whitaker
+<annotated>0</annotated>
+<originalabstract>Charles Orbie "Slim" Whitaker (July 29, 1893 – June 27, 1960) was an American film actor. He appeared in 345 films between 1914 and 1949. He was born in Kansas City, Missouri, and died in Los Angeles, California, from a heart attack.</originalabstract>
+<abstract>Charles_Orbie_"_Slim_"_Whitaker ( July_29_,_1893 – June_27_,_1960 ) was an_American_film_actor . He appeared in 345_films between 1914_and_1949 . He was_born in Kansas_City , Missouri , and died in Los_Angeles , California , from a_heart_attack .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Orbie'), (14, '"'), (15, 'Slim'), (19, '"'), (21, 'Whitaker'), (30, '('), (31, 'July'), (36, '29'), (38, ','), (40, '1893'), (45, '–'), (47, 'June'), (52, '27'), (54, ','), (56, '1960'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'film'), (83, 'actor'), (88, '.'), (90, 'He'), (93, 'appeared'), (102, 'in'), (105, '345'), (109, 'films'), (115, 'between'), (123, '1914'), (128, 'and'), (132, '1949'), (136, '.'), (138, 'He'), (141, 'was'), (145, 'born'), (150, 'in'), (153, 'Kansas'), (160, 'City'), (164, ','), (166, 'Missouri'), (174, ','), (176, 'and'), (180, 'died'), (185, 'in'), (188, 'Los'), (192, 'Angeles'), (199, ','), (201, 'California'), (211, ','), (213, 'from'), (218, 'a'), (220, 'heart'), (226, 'attack'), (232, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Orbie "Slim" Whitaker',0, 29), ('July 29, 1893',31, 44), ('June 27, 1960',47, 60), ('an American film actor',66, 88), ('345 films',105, 114), ('1914 and 1949',123, 136), ('was born',141, 149), ('Kansas City',153, 164), ('Los Angeles',188, 199), ('a heart attack',218, 232)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Orbie'), (14, '"'), (15, 'Slim'), (19, '"'), (21, 'Whitaker'), (30, '('), (31, 'July'), (36, '29'), (38, ','), (40, '1893'), (45, '–'), (47, 'June'), (52, '27'), (54, ','), (56, '1960'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'film'), (83, 'actor'), (88, '.'), (90, 'He'), (93, 'appeared'), (102, 'in'), (105, '345'), (109, 'films'), (115, 'between'), (123, '1914'), (128, 'and'), (132, '1949'), (136, '.'), (138, 'He'), (141, 'was'), (145, 'born'), (150, 'in'), (153, 'Kansas'), (160, 'City'), (164, ','), (166, 'Missouri'), (174, ','), (176, 'and'), (180, 'died'), (185, 'in'), (188, 'Los'), (192, 'Angeles'), (199, ','), (201, 'California'), (211, ','), (213, 'from'), (218, 'a'), (220, 'heart'), (226, 'attack'), (232, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Orbie', 0, 13), ('"Slim" Whitaker', 14, 29), ('July 29, 1893', 31, 44), ('June 27, 1960', 47, 60), ('an American film actor', 66, 88), ('345 films', 105, 114), ('Kansas City, Missouri', 153, 174), ('Los Angeles, California', 188, 211), ('a heart attack', 218, 232)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

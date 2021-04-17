@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Purnell Pratt</title>
+<link/>https://en.wikipedia.org/wiki/Purnell_Pratt
+<annotated>0</annotated>
+<originalabstract>Purnell Pratt (October 20, 1885 – July 25, 1941) was an American film actor. He appeared in 114 films between 1914 and 1941. He was born in Bethel, Illinois and died in Hollywood, California.</originalabstract>
+<abstract>Purnell_Pratt ( October_20 , 1885 – July_25_,_1941 ) was an_American_film_actor . He appeared in 114_films between 1914_and_1941 . He was_born in Bethel , Illinois and died in Hollywood , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Purnell'), (8, 'Pratt'), (14, '('), (15, 'October'), (23, '20'), (25, ','), (27, '1885'), (32, '–'), (34, 'July'), (39, '25'), (41, ','), (43, '1941'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actor'), (75, '.'), (77, 'He'), (80, 'appeared'), (89, 'in'), (92, '114'), (96, 'films'), (102, 'between'), (110, '1914'), (115, 'and'), (119, '1941'), (123, '.'), (125, 'He'), (128, 'was'), (132, 'born'), (137, 'in'), (140, 'Bethel'), (146, ','), (148, 'Illinois'), (157, 'and'), (161, 'died'), (166, 'in'), (169, 'Hollywood'), (178, ','), (180, 'California'), (190, '.')])</stanford_tokens>
+<opennlp_chunks>[('Purnell Pratt',0, 13), ('October 20',15, 25), ('July 25, 1941',34, 47), ('an American film actor',53, 75), ('114 films',92, 101), ('1914 and 1941',110, 123), ('was born',128, 136)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Purnell'), (8, 'Pratt'), (14, '('), (15, 'October'), (23, '20'), (25, ','), (27, '1885'), (32, '–'), (34, 'July'), (39, '25'), (41, ','), (43, '1941'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actor'), (75, '.'), (77, 'He'), (80, 'appeared'), (89, 'in'), (92, '114'), (96, 'films'), (102, 'between'), (110, '1914'), (115, 'and'), (119, '1941'), (123, '.'), (125, 'He'), (128, 'was'), (132, 'born'), (137, 'in'), (140, 'Bethel'), (146, ','), (148, 'Illinois'), (157, 'and'), (161, 'died'), (166, 'in'), (169, 'Hollywood'), (178, ','), (180, 'California'), (190, '.')])</spacy_tokens>
+<spacy_chunks>[('Purnell Pratt', 0, 13), ('(October', 14, 22), ('October 20, 1885', 15, 31), ('July 25, 1941', 34, 47), ('an American film actor', 53, 75), ('114 films', 92, 101), ('Bethel, Illinois', 140, 156), ('Hollywood, California', 169, 190)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

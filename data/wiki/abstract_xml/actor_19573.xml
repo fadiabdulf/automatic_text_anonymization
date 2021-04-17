@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lotus Thompson</title>
+<link/>https://en.wikipedia.org/wiki/Lotus_Thompson
+<annotated>0</annotated>
+<originalabstract>Lotus Thompson (1904–1963) was an Australian actress of silent and sound films. Her film career began in Australia in 1921 and ended in California in 1949, during which time she appeared in 35 motion pictures. She died in California in 1963.</originalabstract>
+<abstract>Lotus_Thompson ( 1904 – 1963 ) was an_Australian_actress of silent_and_sound_films . Her_film_career began in Australia in 1921 and ended in California in 1949 , during which time she appeared in 35_motion_pictures . She died in California in 1963 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lotus'), (6, 'Thompson'), (15, '('), (16, '1904'), (20, '–'), (21, '1963'), (25, ')'), (27, 'was'), (31, 'an'), (34, 'Australian'), (45, 'actress'), (53, 'of'), (56, 'silent'), (63, 'and'), (67, 'sound'), (73, 'films'), (78, '.'), (80, 'Her'), (84, 'film'), (89, 'career'), (96, 'began'), (102, 'in'), (105, 'Australia'), (115, 'in'), (118, '1921'), (123, 'and'), (127, 'ended'), (133, 'in'), (136, 'California'), (147, 'in'), (150, '1949'), (154, ','), (156, 'during'), (163, 'which'), (169, 'time'), (174, 'she'), (178, 'appeared'), (187, 'in'), (190, '35'), (193, 'motion'), (200, 'pictures'), (208, '.'), (210, 'She'), (214, 'died'), (219, 'in'), (222, 'California'), (233, 'in'), (236, '1963'), (240, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lotus Thompson',0, 14), ('an Australian actress',31, 52), ('silent and sound films',56, 78), ('Her film career',80, 95), ('35 motion pictures',190, 208)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'CC', 'JJ', 'NNS', '.', 'PRP$', 'NN', 'NN', 'VBD', 'IN', 'NNP', 'IN', 'CD', 'CC', 'VBN', 'IN', 'NNP', 'IN', 'CD', ',', 'IN', 'WDT', 'NN', 'PRP', 'VBD', 'IN', 'CD', 'NN', 'NNS', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lotus'), (6, 'Thompson'), (15, '('), (16, '1904–1963'), (25, ')'), (27, 'was'), (31, 'an'), (34, 'Australian'), (45, 'actress'), (53, 'of'), (56, 'silent'), (63, 'and'), (67, 'sound'), (73, 'films'), (78, '.'), (80, 'Her'), (84, 'film'), (89, 'career'), (96, 'began'), (102, 'in'), (105, 'Australia'), (115, 'in'), (118, '1921'), (123, 'and'), (127, 'ended'), (133, 'in'), (136, 'California'), (147, 'in'), (150, '1949'), (154, ','), (156, 'during'), (163, 'which'), (169, 'time'), (174, 'she'), (178, 'appeared'), (187, 'in'), (190, '35'), (193, 'motion'), (200, 'pictures'), (208, '.'), (210, 'She'), (214, 'died'), (219, 'in'), (222, 'California'), (233, 'in'), (236, '1963'), (240, '.')])</spacy_tokens>
+<spacy_chunks>[('Lotus Thompson', 0, 14), ('an Australian actress', 31, 52), ('silent and sound films', 56, 78), ('Her film career', 80, 95), ('California', 136, 146), ('which time', 163, 173), ('35 motion pictures', 190, 208)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'CC', 'JJ', 'NNS', '.', 'PRP$', 'NN', 'NN', 'VBD', 'IN', 'NNP', 'IN', 'CD', 'CC', 'VBD', 'IN', 'NNP', 'IN', 'CD', ',', 'IN', 'WDT', 'NN', 'PRP', 'VBD', 'IN', 'CD', 'NN', 'NNS', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vic Tayback</title>
+<link/>https://en.wikipedia.org/wiki/Vic_Tayback
+<annotated>0</annotated>
+<originalabstract>Victor Tayback (January 6, 1930 – May 25, 1990) was an American actor. He is best known for his role as diner owner Mel Sharples in the comedy-drama film Alice Doesn't Live Here Anymore (1974) and the television sitcom Alice (1976–1985), for which he won two consecutive Golden Globes.</originalabstract>
+<abstract>Victor_Tayback ( January_6_,_1930 – May_25_,_1990 ) was an_American_actor . He is_best_known for his_role as diner_owner_Mel_Sharples in the_comedy-drama_film Alice Does_n't_Live Here Anymore_(_1974_) and the_television_sitcom_Alice_(_1976 – 1985_) , for which he won two_consecutive_Golden_Globes .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Victor'), (7, 'Tayback'), (15, '('), (16, 'January'), (24, '6'), (25, ','), (27, '1930'), (32, '–'), (34, 'May'), (38, '25'), (40, ','), (42, '1990'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'is'), (77, 'best'), (82, 'known'), (88, 'for'), (92, 'his'), (96, 'role'), (101, 'as'), (104, 'diner'), (110, 'owner'), (116, 'Mel'), (120, 'Sharples'), (129, 'in'), (132, 'the'), (136, 'comedy-drama'), (149, 'film'), (154, 'Alice'), (160, 'Does'), (164, 'n\'t'), (168, 'Live'), (173, 'Here'), (178, 'Anymore'), (186, '('), (187, '1974'), (191, ')'), (193, 'and'), (197, 'the'), (201, 'television'), (212, 'sitcom'), (219, 'Alice'), (225, '('), (226, '1976'), (230, '–'), (231, '1985'), (235, ')'), (236, ','), (238, 'for'), (242, 'which'), (248, 'he'), (251, 'won'), (255, 'two'), (259, 'consecutive'), (271, 'Golden'), (278, 'Globes'), (284, '.')])</stanford_tokens>
+<opennlp_chunks>[('Victor Tayback',0, 14), ('January 6, 1930',16, 31), ('May 25, 1990',34, 46), ('an American actor',52, 69), ('is best known',74, 87), ('his role',92, 100), ('diner owner Mel Sharples',104, 128), ('the comedy-drama film',132, 153), ('Doesn\'t Live',160, 172), ('Anymore (1974)',178, 192), ('the television sitcom Alice (1976',197, 230), ('1985)',231, 236), ('two consecutive Golden Globes',255, 284)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'VBZ', 'RB', 'VB', 'RB', 'RB', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NN', 'NN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'CD', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Victor'), (7, 'Tayback'), (15, '('), (16, 'January'), (24, '6'), (25, ','), (27, '1930'), (32, '–'), (34, 'May'), (38, '25'), (40, ','), (42, '1990'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'is'), (77, 'best'), (82, 'known'), (88, 'for'), (92, 'his'), (96, 'role'), (101, 'as'), (104, 'diner'), (110, 'owner'), (116, 'Mel'), (120, 'Sharples'), (129, 'in'), (132, 'the'), (136, 'comedy'), (142, '-'), (143, 'drama'), (149, 'film'), (154, 'Alice'), (160, 'Does'), (164, "n't"), (168, 'Live'), (173, 'Here'), (178, 'Anymore'), (186, '('), (187, '1974'), (191, ')'), (193, 'and'), (197, 'the'), (201, 'television'), (212, 'sitcom'), (219, 'Alice'), (225, '('), (226, '1976–1985'), (235, ')'), (236, ','), (238, 'for'), (242, 'which'), (248, 'he'), (251, 'won'), (255, 'two'), (259, 'consecutive'), (271, 'Golden'), (278, 'Globes'), (284, '.')])</spacy_tokens>
+<spacy_chunks>[('Victor Tayback', 0, 14), ('January 6, 1930', 16, 31), ('May 25, 1990', 34, 46), ('an American actor', 52, 69), ('his role', 92, 100), ('diner owner Mel Sharples', 104, 128), ('the comedy-drama film', 132, 153), ("Alice Doesn't Live Here Anymore", 154, 185), ('the television sitcom', 197, 218), ('two consecutive Golden Globes', 255, 284)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'HYPH', 'NN', 'NN', 'NNP', 'VBZ', 'RB', 'VB', 'RB', 'RB', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NN', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'CD', 'JJ', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

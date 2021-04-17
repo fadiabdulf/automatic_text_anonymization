@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Charles (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Charles_(actor)
+<annotated>0</annotated>
+<originalabstract>Jack Charles (born 5 September 1943) is an Australian Aboriginal actor, musician, potter, and Aboriginal elder. His screen credits include the landmark Australian film The Chant of Jimmie Blacksmith (1978), Bedevil (1993), Blackfellas (1993), Tom White (2004) and Pan (2015), among others.</originalabstract>
+<abstract>Jack_Charles ( born_5_September_1943 ) is an_Australian_Aboriginal_actor , musician , potter , and Aboriginal_elder . His_screen_credits include the_landmark_Australian_film The_Chant of Jimmie_Blacksmith_(_1978_) , Bedevil_(_1993_) , Blackfellas_(_1993_) , Tom_White_(_2004_)_and_Pan_(_2015_) , among others .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jack'), (5, 'Charles'), (13, '('), (14, 'born'), (19, '5'), (21, 'September'), (31, '1943'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'Australian'), (54, 'Aboriginal'), (65, 'actor'), (70, ','), (72, 'musician'), (80, ','), (82, 'potter'), (88, ','), (90, 'and'), (94, 'Aboriginal'), (105, 'elder'), (110, '.'), (112, 'His'), (116, 'screen'), (123, 'credits'), (131, 'include'), (139, 'the'), (143, 'landmark'), (152, 'Australian'), (163, 'film'), (168, 'The'), (172, 'Chant'), (178, 'of'), (181, 'Jimmie'), (188, 'Blacksmith'), (199, '('), (200, '1978'), (204, ')'), (205, ','), (207, 'Bedevil'), (215, '('), (216, '1993'), (220, ')'), (221, ','), (223, 'Blackfellas'), (235, '('), (236, '1993'), (240, ')'), (241, ','), (243, 'Tom'), (247, 'White'), (253, '('), (254, '2004'), (258, ')'), (260, 'and'), (264, 'Pan'), (268, '('), (269, '2015'), (273, ')'), (274, ','), (276, 'among'), (282, 'others'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jack Charles',0, 12), ('born 5 September 1943',14, 35), ('an Australian Aboriginal actor',40, 70), ('Aboriginal elder',94, 110), ('His screen credits',112, 130), ('the landmark Australian film',139, 167), ('The Chant',168, 177), ('Jimmie Blacksmith (1978)',181, 205), ('Bedevil (1993)',207, 221), ('Blackfellas (1993)',223, 241), ('Tom White (2004) and Pan (2015)',243, 274)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NNP', 'JJR', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'DT', 'NN', 'JJ', 'NN', 'DT', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jack'), (5, 'Charles'), (13, '('), (14, 'born'), (19, '5'), (21, 'September'), (31, '1943'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'Australian'), (54, 'Aboriginal'), (65, 'actor'), (70, ','), (72, 'musician'), (80, ','), (82, 'potter'), (88, ','), (90, 'and'), (94, 'Aboriginal'), (105, 'elder'), (110, '.'), (112, 'His'), (116, 'screen'), (123, 'credits'), (131, 'include'), (139, 'the'), (143, 'landmark'), (152, 'Australian'), (163, 'film'), (168, 'The'), (172, 'Chant'), (178, 'of'), (181, 'Jimmie'), (188, 'Blacksmith'), (199, '('), (200, '1978'), (204, ')'), (205, ','), (207, 'Bedevil'), (215, '('), (216, '1993'), (220, ')'), (221, ','), (223, 'Blackfellas'), (235, '('), (236, '1993'), (240, ')'), (241, ','), (243, 'Tom'), (247, 'White'), (253, '('), (254, '2004'), (258, ')'), (260, 'and'), (264, 'Pan'), (268, '('), (269, '2015'), (273, ')'), (274, ','), (276, 'among'), (282, 'others'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Jack Charles', 0, 12), ('5 September 1943', 19, 35), ('an Australian Aboriginal actor', 40, 70), ('musician', 72, 80), ('potter', 82, 88), ('Aboriginal elder', 94, 110), ('His screen credits', 112, 130), ('the landmark Australian film', 139, 167), ('The Chant of Jimmie Blacksmith', 168, 198), ('Bedevil', 207, 214), ('Blackfellas', 223, 234), ('Tom White', 243, 252), ('Pan (2015', 264, 273), ('others', 282, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'DT', 'NN', 'JJ', 'NN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

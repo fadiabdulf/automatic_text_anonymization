@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Beverly Todd</title>
+<link/>https://en.wikipedia.org/wiki/Beverly_Todd
+<annotated>0</annotated>
+<originalabstract>Beverly Todd (born July 11, 1946) is an American actress, producer and writer. She is known for her roles in films Brother John (1971), Moving (1988), Lean on Me (1989) and The Bucket List (2007).</originalabstract>
+<abstract>Beverly_Todd ( born July_11_,_1946 ) is an_American_actress_,_producer_and_writer . She is_known for her_roles in films_Brother_John ( 1971_) , Moving (_1988_) , Lean on Me ( 1989 ) and The_Bucket_List_(_2007_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Beverly'), (8, 'Todd'), (13, '('), (14, 'born'), (19, 'July'), (24, '11'), (26, ','), (28, '1946'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actress'), (56, ','), (58, 'producer'), (67, 'and'), (71, 'writer'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'roles'), (106, 'in'), (109, 'films'), (115, 'Brother'), (123, 'John'), (128, '('), (129, '1971'), (133, ')'), (134, ','), (136, 'Moving'), (143, '('), (144, '1988'), (148, ')'), (149, ','), (151, 'Lean'), (156, 'on'), (159, 'Me'), (162, '('), (163, '1989'), (167, ')'), (169, 'and'), (173, 'The'), (177, 'Bucket'), (184, 'List'), (189, '('), (190, '2007'), (194, ')'), (195, '.')])</stanford_tokens>
+<opennlp_chunks>[('Beverly Todd',0, 12), ('July 11, 1946',19, 32), ('an American actress, producer and writer',37, 77), ('is known',83, 91), ('her roles',96, 105), ('films Brother John',109, 127), ('1971)',129, 134), ('(1988)',143, 149), ('The Bucket List (2007)',173, 195)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'VBG', '-LRB-', 'CD', '-RRB-', ',', 'VB', 'IN', 'PRP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Beverly'), (8, 'Todd'), (13, '('), (14, 'born'), (19, 'July'), (24, '11'), (26, ','), (28, '1946'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actress'), (56, ','), (58, 'producer'), (67, 'and'), (71, 'writer'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'roles'), (106, 'in'), (109, 'films'), (115, 'Brother'), (123, 'John'), (128, '('), (129, '1971'), (133, ')'), (134, ','), (136, 'Moving'), (143, '('), (144, '1988'), (148, ')'), (149, ','), (151, 'Lean'), (156, 'on'), (159, 'Me'), (162, '('), (163, '1989'), (167, ')'), (169, 'and'), (173, 'The'), (177, 'Bucket'), (184, 'List'), (189, '('), (190, '2007'), (194, ')'), (195, '.')])</spacy_tokens>
+<spacy_chunks>[('Beverly Todd', 0, 12), ('July 11, 1946', 19, 32), ('an American actress', 37, 56), ('producer', 58, 66), ('writer', 71, 77), ('her roles', 96, 105), ('Brother John', 115, 127), ('Moving (1988', 136, 148), ('Lean on Me', 151, 161), ('The Bucket List', 173, 188)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'VBG', '-LRB-', 'CD', '-RRB-', ',', 'VB', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

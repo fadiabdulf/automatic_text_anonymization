@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Don Stroud</title>
+<link/>https://en.wikipedia.org/wiki/Don_Stroud
+<annotated>0</annotated>
+<originalabstract>Donald Lee Stroud (born September 1, 1943) is an American actor, drummer, and surfer. Stroud has appeared in many films in the 1960s, 1970s and 1980s, and has starred in over 100 films and 175 television shows to date.</originalabstract>
+<abstract>Donald_Lee_Stroud ( born September_1_,_1943 ) is an_American_actor , drummer , and surfer . Stroud has_appeared in many_films in the_1960s_,_1970s_and_1980s , and has_starred in over_100_films and 175_television shows to date .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Donald'), (7, 'Lee'), (11, 'Stroud'), (18, '('), (19, 'born'), (24, 'September'), (34, '1'), (35, ','), (37, '1943'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (63, ','), (65, 'drummer'), (72, ','), (74, 'and'), (78, 'surfer'), (84, '.'), (86, 'Stroud'), (93, 'has'), (97, 'appeared'), (106, 'in'), (109, 'many'), (114, 'films'), (120, 'in'), (123, 'the'), (127, '1960s'), (132, ','), (134, '1970s'), (140, 'and'), (144, '1980s'), (149, ','), (151, 'and'), (155, 'has'), (159, 'starred'), (167, 'in'), (170, 'over'), (175, '100'), (179, 'films'), (185, 'and'), (189, '175'), (193, 'television'), (204, 'shows'), (210, 'to'), (213, 'date'), (217, '.')])</stanford_tokens>
+<opennlp_chunks>[('Donald Lee Stroud',0, 17), ('September 1, 1943',24, 41), ('an American actor',46, 63), ('has appeared',93, 105), ('many films',109, 119), ('the 1960s, 1970s and 1980s',123, 149), ('has starred',155, 166), ('over 100 films',170, 184), ('175 television',189, 203)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'CD', ',', 'CD', 'CC', 'CD', ',', 'CC', 'VBZ', 'VBN', 'IN', 'IN', 'CD', 'NNS', 'CC', 'CD', 'NN', 'VBZ', 'TO', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Donald'), (7, 'Lee'), (11, 'Stroud'), (18, '('), (19, 'born'), (24, 'September'), (34, '1'), (35, ','), (37, '1943'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (63, ','), (65, 'drummer'), (72, ','), (74, 'and'), (78, 'surfer'), (84, '.'), (86, 'Stroud'), (93, 'has'), (97, 'appeared'), (106, 'in'), (109, 'many'), (114, 'films'), (120, 'in'), (123, 'the'), (127, '1960s'), (132, ','), (134, '1970s'), (140, 'and'), (144, '1980s'), (149, ','), (151, 'and'), (155, 'has'), (159, 'starred'), (167, 'in'), (170, 'over'), (175, '100'), (179, 'films'), (185, 'and'), (189, '175'), (193, 'television'), (204, 'shows'), (210, 'to'), (213, 'date'), (217, '.')])</spacy_tokens>
+<spacy_chunks>[('Donald Lee Stroud', 0, 17), ('September 1, 1943', 24, 41), ('an American actor', 46, 63), ('drummer', 65, 72), ('surfer', 78, 84), ('many films', 109, 119), ('the 1960s', 123, 132), ('over 100 films', 170, 184), ('175 television', 189, 203)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNS', ',', 'NNS', 'CC', 'NNS', ',', 'CC', 'VBZ', 'VBN', 'IN', 'IN', 'CD', 'NNS', 'CC', 'CD', 'NN', 'NNS', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

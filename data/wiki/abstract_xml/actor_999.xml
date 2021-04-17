@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ralph Byrd</title>
+<link/>https://en.wikipedia.org/wiki/Ralph_Byrd
+<annotated>0</annotated>
+<originalabstract>Ralph Byrd (22 April 1909 – 18 August 1952) was an American actor. He was most famous for playing the comic strip character Dick Tracy on screen, in serials, movies and television.</originalabstract>
+<abstract>Ralph_Byrd ( 22_April_1909 – 18_August_1952 ) was an_American_actor . He was most_famous for playing the_comic_strip_character_Dick_Tracy on screen , in serials , movies and television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ralph'), (6, 'Byrd'), (11, '('), (12, '22'), (15, 'April'), (21, '1909'), (26, '–'), (28, '18'), (31, 'August'), (38, '1952'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'actor'), (65, '.'), (67, 'He'), (70, 'was'), (74, 'most'), (79, 'famous'), (86, 'for'), (90, 'playing'), (98, 'the'), (102, 'comic'), (108, 'strip'), (114, 'character'), (124, 'Dick'), (129, 'Tracy'), (135, 'on'), (138, 'screen'), (144, ','), (146, 'in'), (149, 'serials'), (156, ','), (158, 'movies'), (165, 'and'), (169, 'television'), (179, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ralph Byrd',0, 10), ('22 April 1909',12, 25), ('18 August 1952',28, 42), ('an American actor',48, 65), ('most famous',74, 85), ('the comic strip character Dick Tracy',98, 134)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NN', ',', 'IN', 'NNS', ',', 'NNS', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ralph'), (6, 'Byrd'), (11, '('), (12, '22'), (15, 'April'), (21, '1909'), (26, '–'), (28, '18'), (31, 'August'), (38, '1952'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'actor'), (65, '.'), (67, 'He'), (70, 'was'), (74, 'most'), (79, 'famous'), (86, 'for'), (90, 'playing'), (98, 'the'), (102, 'comic'), (108, 'strip'), (114, 'character'), (124, 'Dick'), (129, 'Tracy'), (135, 'on'), (138, 'screen'), (144, ','), (146, 'in'), (149, 'serials'), (156, ','), (158, 'movies'), (165, 'and'), (169, 'television'), (179, '.')])</spacy_tokens>
+<spacy_chunks>[('Ralph Byrd', 0, 10), ('(22 April', 11, 20), ('22 April 1909', 12, 25), ('18 August 1952', 28, 42), ('an American actor', 48, 65), ('the comic strip character', 98, 123), ('Dick Tracy', 124, 134), ('screen', 138, 144), ('serials', 149, 156), ('movies', 158, 164), ('television', 169, 179)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NN', ',', 'IN', 'NNS', ',', 'NNS', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

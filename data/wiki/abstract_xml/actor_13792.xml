@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>DeLane Matthews</title>
+<link/>https://en.wikipedia.org/wiki/DeLane_Matthews
+<annotated>0</annotated>
+<originalabstract>DeLane Matthews (born August 7, 1961) is an American actress. She is best known for her role as Beth Barry in the CBS television sitcom Dave's World from 1993 to 1997.</originalabstract>
+<abstract>DeLane_Matthews ( born August_7_,_1961 ) is an_American_actress . She is_best_known for her_role as Beth_Barry in the_CBS_television_sitcom_Dave 's_World from 1993 to 1997 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'DeLane'), (7, 'Matthews'), (16, '('), (17, 'born'), (22, 'August'), (29, '7'), (30, ','), (32, '1961'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (60, '.'), (62, 'She'), (66, 'is'), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'her'), (88, 'role'), (93, 'as'), (96, 'Beth'), (101, 'Barry'), (107, 'in'), (110, 'the'), (114, 'CBS'), (118, 'television'), (129, 'sitcom'), (136, 'Dave'), (140, '\'s'), (143, 'World'), (149, 'from'), (154, '1993'), (159, 'to'), (162, '1997'), (166, '.')])</stanford_tokens>
+<opennlp_chunks>[('DeLane Matthews',0, 15), ('August 7, 1961',22, 36), ('an American actress',41, 60), ('is best known',66, 79), ('her role',84, 92), ('Beth Barry',96, 106), ('the CBS television sitcom Dave',110, 140), ('\'s World',140, 148)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'POS', 'NNP', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'DeLane'), (7, 'Matthews'), (16, '('), (17, 'born'), (22, 'August'), (29, '7'), (30, ','), (32, '1961'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (60, '.'), (62, 'She'), (66, 'is'), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'her'), (88, 'role'), (93, 'as'), (96, 'Beth'), (101, 'Barry'), (107, 'in'), (110, 'the'), (114, 'CBS'), (118, 'television'), (129, 'sitcom'), (136, 'Dave'), (140, "'s"), (143, 'World'), (149, 'from'), (154, '1993'), (159, 'to'), (162, '1997'), (166, '.')])</spacy_tokens>
+<spacy_chunks>[('DeLane Matthews', 0, 15), ('August 7, 1961', 22, 36), ('an American actress', 41, 60), ('her role', 84, 92), ('Beth Barry', 96, 106), ('the CBS television sitcom', 110, 135), ("Dave's World", 136, 148)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'POS', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

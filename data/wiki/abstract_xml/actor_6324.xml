@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul Stanton (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Paul_Stanton_(actor)
+<annotated>0</annotated>
+<originalabstract>Paul Stanton (December 21, 1884 – October 9, 1955) was an American character actor and bit-part player in American films.
+Originally from Illinois, he appeared in about 130 films between 1918 and 1952, mostly in supporting roles. He often portrayed authoritarian figures like judges, attorneys, managers, officials and doctors.</originalabstract>
+<abstract>Paul_Stanton ( December_21_,_1884 – October_9_,_1955 ) was an_American_character_actor and bit-part_player in American_films . Originally from Illinois , he appeared in about_130_films between 1918_and_1952 , mostly_in supporting roles . He often portrayed authoritarian_figures like judges , attorneys , managers , officials and doctors .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Stanton'), (13, '('), (14, 'December'), (23, '21'), (25, ','), (27, '1884'), (32, '–'), (34, 'October'), (42, '9'), (43, ','), (45, '1955'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'character'), (77, 'actor'), (83, 'and'), (87, 'bit-part'), (96, 'player'), (103, 'in'), (106, 'American'), (115, 'films'), (120, '.'), (122, 'Originally'), (133, 'from'), (138, 'Illinois'), (146, ','), (148, 'he'), (151, 'appeared'), (160, 'in'), (163, 'about'), (169, '130'), (173, 'films'), (179, 'between'), (187, '1918'), (192, 'and'), (196, '1952'), (200, ','), (202, 'mostly'), (209, 'in'), (212, 'supporting'), (223, 'roles'), (228, '.'), (230, 'He'), (233, 'often'), (239, 'portrayed'), (249, 'authoritarian'), (263, 'figures'), (271, 'like'), (276, 'judges'), (282, ','), (284, 'attorneys'), (293, ','), (295, 'managers'), (303, ','), (305, 'officials'), (315, 'and'), (319, 'doctors'), (326, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Stanton',0, 12), ('December 21, 1884',14, 31), ('October 9, 1955',34, 49), ('an American character actor',55, 82), ('bit-part player',87, 102), ('American films',106, 120), ('about 130 films',163, 178), ('1918 and 1952',187, 200), ('mostly in',202, 211), ('authoritarian figures',249, 270)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', 'IN', 'JJ', 'NNS', '.', 'RB', 'IN', 'NNP', ',', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'IN', 'VBG', 'NNS', '.', 'PRP', 'RB', 'VBD', 'JJ', 'NNS', 'IN', 'NNS', ',', 'NNS', ',', 'NNS', ',', 'NNS', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Stanton'), (13, '('), (14, 'December'), (23, '21'), (25, ','), (27, '1884'), (32, '–'), (34, 'October'), (42, '9'), (43, ','), (45, '1955'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'character'), (77, 'actor'), (83, 'and'), (87, 'bit'), (90, '-'), (91, 'part'), (96, 'player'), (103, 'in'), (106, 'American'), (115, 'films'), (120, '.'), (122, 'Originally'), (133, 'from'), (138, 'Illinois'), (146, ','), (148, 'he'), (151, 'appeared'), (160, 'in'), (163, 'about'), (169, '130'), (173, 'films'), (179, 'between'), (187, '1918'), (192, 'and'), (196, '1952'), (200, ','), (202, 'mostly'), (209, 'in'), (212, 'supporting'), (223, 'roles'), (228, '.'), (230, 'He'), (233, 'often'), (239, 'portrayed'), (249, 'authoritarian'), (263, 'figures'), (271, 'like'), (276, 'judges'), (282, ','), (284, 'attorneys'), (293, ','), (295, 'managers'), (303, ','), (305, 'officials'), (315, 'and'), (319, 'doctors'), (326, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Stanton', 0, 12), ('(December', 13, 22), ('December 21, 1884', 14, 31), ('October 9, 1955', 34, 49), ('an American character actor', 55, 82), ('bit-part player', 87, 102), ('American films', 106, 120), ('Illinois', 138, 146), ('about 130 films', 163, 178), ('authoritarian figures', 249, 270), ('judges', 276, 282), ('attorneys', 284, 293), ('managers', 295, 303), ('officials', 305, 314), ('doctors', 319, 326)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'HYPH', 'NN', 'NN', 'IN', 'JJ', 'NNS', '.', 'RB', 'IN', 'NNP', ',', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'IN', 'VBG', 'NNS', '.', 'PRP', 'RB', 'VBD', 'JJ', 'NNS', 'IN', 'NNS', ',', 'NNS', ',', 'NNS', ',', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

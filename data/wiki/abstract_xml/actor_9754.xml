@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jacques Dufilho</title>
+<link/>https://en.wikipedia.org/wiki/Jacques_Dufilho
+<annotated>0</annotated>
+<originalabstract>This article incorporates information from the corresponding article in the French Wikipedia.Jacques Dufilho (19 February 1914 – 28 August 2005) was a French actor. He was born at Bègles (Gironde) and he died at Ponsampère (Gers).</originalabstract>
+<abstract>This_article incorporates information from the_corresponding_article in the_French_Wikipedia.Jacques_Dufilho ( 19_February_1914 – 28_August_2005 ) was a_French_actor . He was_born at Bègles_(_Gironde_) and he died at Ponsampère_(_Gers_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'This'), (5, 'article'), (13, 'incorporates'), (26, 'information'), (38, 'from'), (43, 'the'), (47, 'corresponding'), (61, 'article'), (69, 'in'), (72, 'the'), (76, 'French'), (83, 'Wikipedia.Jacques'), (101, 'Dufilho'), (109, '('), (110, '19'), (113, 'February'), (122, '1914'), (127, '–'), (129, '28'), (132, 'August'), (139, '2005'), (143, ')'), (145, 'was'), (149, 'a'), (151, 'French'), (158, 'actor'), (163, '.'), (165, 'He'), (168, 'was'), (172, 'born'), (177, 'at'), (180, 'Bègles'), (187, '('), (188, 'Gironde'), (195, ')'), (197, 'and'), (201, 'he'), (204, 'died'), (209, 'at'), (212, 'Ponsampère'), (223, '('), (224, 'Gers'), (228, ')'), (229, '.')])</stanford_tokens>
+<opennlp_chunks>[('This article',0, 12), ('the corresponding article',43, 68), ('the French Wikipedia.Jacques Dufilho',72, 108), ('19 February 1914',110, 126), ('28 August 2005',129, 143), ('a French actor',149, 163), ('was born',168, 176), ('Bègles (Gironde)',180, 196), ('Ponsampère (Gers)',212, 229)]</opennlp_chunks>
+<stanford_pos>['DT', 'NN', 'VBZ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'NN', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', 'CC', 'PRP', 'VBD', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'This'), (5, 'article'), (13, 'incorporates'), (26, 'information'), (38, 'from'), (43, 'the'), (47, 'corresponding'), (61, 'article'), (69, 'in'), (72, 'the'), (76, 'French'), (83, 'Wikipedia'), (92, '.'), (93, 'Jacques'), (101, 'Dufilho'), (109, '('), (110, '19'), (113, 'February'), (122, '1914'), (127, '–'), (129, '28'), (132, 'August'), (139, '2005'), (143, ')'), (145, 'was'), (149, 'a'), (151, 'French'), (158, 'actor'), (163, '.'), (165, 'He'), (168, 'was'), (172, 'born'), (177, 'at'), (180, 'Bègles'), (187, '('), (188, 'Gironde'), (195, ')'), (197, 'and'), (201, 'he'), (204, 'died'), (209, 'at'), (212, 'Ponsampère'), (223, '('), (224, 'Gers'), (228, ')'), (229, '.')])</spacy_tokens>
+<spacy_chunks>[('This article', 0, 12), ('information', 26, 37), ('the corresponding article', 43, 68), ('the French Wikipedia', 72, 92), ('Jacques Dufilho', 93, 108), ('(19 February', 109, 121), ('19 February 1914', 110, 126), ('28 August 2005', 129, 143), ('a French actor', 149, 163), ('Bègles', 180, 186), ('Gironde', 188, 195), ('Ponsampère', 212, 222)]</spacy_chunks>
+<spacy_pos>['DT', 'NN', 'VBZ', 'NN', 'IN', 'DT', 'VBG', 'NN', 'IN', 'DT', 'JJ', 'NNP', '.', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', 'CC', 'PRP', 'VBD', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

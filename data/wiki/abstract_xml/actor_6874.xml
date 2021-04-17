@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Erik von Detten</title>
+<link/>https://en.wikipedia.org/wiki/Erik_von_Detten
+<annotated>0</annotated>
+<originalabstract>Erik Thomas von Detten (born October 3, 1982) is a former American actor. He is known for his roles in Escape to Witch Mountain, Toy Story, Brink!, The Princess Diaries, Complete Savages, and So Weird.</originalabstract>
+<abstract>Erik_Thomas_von_Detten ( born October_3_,_1982 ) is a_former_American_actor . He is_known for his_roles in Escape to Witch_Mountain , Toy_Story , Brink ! , The_Princess_Diaries , Complete_Savages , and So_Weird .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Erik'), (5, 'Thomas'), (12, 'von'), (16, 'Detten'), (23, '('), (24, 'born'), (29, 'October'), (37, '3'), (38, ','), (40, '1982'), (44, ')'), (46, 'is'), (49, 'a'), (51, 'former'), (58, 'American'), (67, 'actor'), (72, '.'), (74, 'He'), (77, 'is'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'roles'), (100, 'in'), (103, 'Escape'), (110, 'to'), (113, 'Witch'), (119, 'Mountain'), (127, ','), (129, 'Toy'), (133, 'Story'), (138, ','), (140, 'Brink'), (145, '!'), (146, ','), (148, 'The'), (152, 'Princess'), (161, 'Diaries'), (168, ','), (170, 'Complete'), (179, 'Savages'), (186, ','), (188, 'and'), (192, 'So'), (195, 'Weird'), (200, '.')])</stanford_tokens>
+<opennlp_chunks>[('Erik Thomas von Detten',0, 22), ('October 3, 1982',29, 44), ('a former American actor',49, 72), ('is known',77, 85), ('his roles',90, 99), ('Witch Mountain',113, 127), ('Toy Story',129, 138), ('The Princess Diaries',148, 168), ('Complete Savages',170, 186), ('So Weird',192, 200)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'TO', 'NN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', '.', ',', 'DT', 'NNP', 'NNPS', ',', 'JJ', 'NNS', ',', 'CC', 'RB', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Erik'), (5, 'Thomas'), (12, 'von'), (16, 'Detten'), (23, '('), (24, 'born'), (29, 'October'), (37, '3'), (38, ','), (40, '1982'), (44, ')'), (46, 'is'), (49, 'a'), (51, 'former'), (58, 'American'), (67, 'actor'), (72, '.'), (74, 'He'), (77, 'is'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'roles'), (100, 'in'), (103, 'Escape'), (110, 'to'), (113, 'Witch'), (119, 'Mountain'), (127, ','), (129, 'Toy'), (133, 'Story'), (138, ','), (140, 'Brink'), (145, '!'), (146, ','), (148, 'The'), (152, 'Princess'), (161, 'Diaries'), (168, ','), (170, 'Complete'), (179, 'Savages'), (186, ','), (188, 'and'), (192, 'So'), (195, 'Weird'), (200, '.')])</spacy_tokens>
+<spacy_chunks>[('Erik Thomas von Detten', 0, 22), ('October 3, 1982', 29, 44), ('a former American actor', 49, 72), ('his roles', 90, 99), ('Escape to Witch Mountain', 103, 127), ('Toy Story', 129, 138), ('Brink!', 140, 146), (', The Princess Diaries', 146, 168), ('Complete Savages', 170, 186), ('So Weird', 192, 200)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', '.', ',', 'DT', 'NNP', 'NNPS', ',', 'NNP', 'NNPS', ',', 'CC', 'RB', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

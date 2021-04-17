@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chita Rivera</title>
+<link/>https://en.wikipedia.org/wiki/Chita_Rivera
+<annotated>0</annotated>
+<originalabstract>Chita Rivera (born January 23, 1933) is an American actress, dancer, and singer best known for her roles in musical theatre. She is the first Hispanic woman and the first Latino American to receive a Kennedy Center Honors award (December 2002). She was awarded the Presidential Medal of Freedom in 2009.</originalabstract>
+<abstract>Chita_Rivera ( born January_23_,_1933 ) is an_American_actress , dancer , and singer best_known for her_roles in musical_theatre . She is the_first_Hispanic_woman and the_first_Latino_American to_receive a_Kennedy_Center_Honors_award ( December_2002_) . She was_awarded the_Presidential_Medal of Freedom in 2009 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Chita'), (6, 'Rivera'), (13, '('), (14, 'born'), (19, 'January'), (27, '23'), (29, ','), (31, '1933'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (59, ','), (61, 'dancer'), (67, ','), (69, 'and'), (73, 'singer'), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'her'), (99, 'roles'), (105, 'in'), (108, 'musical'), (116, 'theatre'), (123, '.'), (125, 'She'), (129, 'is'), (132, 'the'), (136, 'first'), (142, 'Hispanic'), (151, 'woman'), (157, 'and'), (161, 'the'), (165, 'first'), (171, 'Latino'), (178, 'American'), (187, 'to'), (190, 'receive'), (198, 'a'), (200, 'Kennedy'), (208, 'Center'), (215, 'Honors'), (222, 'award'), (228, '('), (229, 'December'), (238, '2002'), (242, ')'), (243, '.'), (245, 'She'), (249, 'was'), (253, 'awarded'), (261, 'the'), (265, 'Presidential'), (278, 'Medal'), (284, 'of'), (287, 'Freedom'), (295, 'in'), (298, '2009'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Chita Rivera',0, 12), ('January 23, 1933',19, 35), ('an American actress',40, 59), ('best known',80, 90), ('her roles',95, 104), ('musical theatre',108, 123), ('the first Hispanic woman',132, 156), ('the first Latino American',161, 186), ('to receive',187, 197), ('a Kennedy Center Honors award',198, 227), ('December 2002)',229, 243), ('was awarded',249, 260), ('the Presidential Medal',261, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'DT', 'JJ', 'NNP', 'NNP', 'TO', 'VB', 'DT', 'NNP', 'NNP', 'NNP', 'NN', '-LRB-', 'NNP', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'VBN', 'DT', 'NNP', 'NN', 'IN', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Chita'), (6, 'Rivera'), (13, '('), (14, 'born'), (19, 'January'), (27, '23'), (29, ','), (31, '1933'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (59, ','), (61, 'dancer'), (67, ','), (69, 'and'), (73, 'singer'), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'her'), (99, 'roles'), (105, 'in'), (108, 'musical'), (116, 'theatre'), (123, '.'), (125, 'She'), (129, 'is'), (132, 'the'), (136, 'first'), (142, 'Hispanic'), (151, 'woman'), (157, 'and'), (161, 'the'), (165, 'first'), (171, 'Latino'), (178, 'American'), (187, 'to'), (190, 'receive'), (198, 'a'), (200, 'Kennedy'), (208, 'Center'), (215, 'Honors'), (222, 'award'), (228, '('), (229, 'December'), (238, '2002'), (242, ')'), (243, '.'), (245, 'She'), (249, 'was'), (253, 'awarded'), (261, 'the'), (265, 'Presidential'), (278, 'Medal'), (284, 'of'), (287, 'Freedom'), (295, 'in'), (298, '2009'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Chita Rivera', 0, 12), ('January 23, 1933', 19, 35), ('an American actress', 40, 59), ('dancer', 61, 67), ('singer', 73, 79), ('her roles', 95, 104), ('musical theatre', 108, 123), ('the first Hispanic woman', 132, 156), ('the first Latino American', 161, 186), ('a Kennedy Center Honors award', 198, 227), ('December', 229, 237), ('the Presidential Medal', 261, 283), ('Presidential Medal of Freedom', 265, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'DT', 'JJ', 'JJ', 'NNP', 'TO', 'VB', 'DT', 'NNP', 'NNP', 'NNP', 'NN', '-LRB-', 'NNP', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'VBN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

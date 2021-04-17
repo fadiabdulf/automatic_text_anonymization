@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mary Brian</title>
+<link/>https://en.wikipedia.org/wiki/Mary_Brian
+<annotated>0</annotated>
+<originalabstract>Mary Brian (born Louise Byrdie Dantzler, February 17, 1906  –  December 30, 2002) was an  American actress and movie star who made the transition from silent films to sound films.</originalabstract>
+<abstract>Mary_Brian ( born_Louise_Byrdie_Dantzler , February_17_,_1906 – December_30 , 2002 ) was an_American_actress_and_movie_star who made the_transition from silent_films to_sound films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Brian'), (11, '('), (12, 'born'), (17, 'Louise'), (24, 'Byrdie'), (31, 'Dantzler'), (39, ','), (41, 'February'), (50, '17'), (52, ','), (54, '1906'), (60, '–'), (63, 'December'), (72, '30'), (74, ','), (76, '2002'), (80, ')'), (82, 'was'), (86, 'an'), (90, 'American'), (99, 'actress'), (107, 'and'), (111, 'movie'), (117, 'star'), (122, 'who'), (126, 'made'), (131, 'the'), (135, 'transition'), (146, 'from'), (151, 'silent'), (158, 'films'), (164, 'to'), (167, 'sound'), (173, 'films'), (178, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Brian',0, 10), ('born Louise Byrdie Dantzler',12, 39), ('February 17, 1906',41, 58), ('December 30',63, 74), ('an  American actress and movie star',86, 121), ('the transition',131, 145), ('silent films',151, 163), ('to sound',164, 172)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'TO', 'VB', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Brian'), (11, '('), (12, 'born'), (17, 'Louise'), (24, 'Byrdie'), (31, 'Dantzler'), (39, ','), (41, 'February'), (50, '17'), (52, ','), (54, '1906'), (60, '–'), (63, 'December'), (72, '30'), (74, ','), (76, '2002'), (80, ')'), (82, 'was'), (86, 'an'), (90, 'American'), (99, 'actress'), (107, 'and'), (111, 'movie'), (117, 'star'), (122, 'who'), (126, 'made'), (131, 'the'), (135, 'transition'), (146, 'from'), (151, 'silent'), (158, 'films'), (164, 'to'), (167, 'sound'), (173, 'films'), (178, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Brian', 0, 10), ('(born Louise Byrdie Dantzler', 11, 39), ('February 17, 1906', 41, 58), ('–  December', 60, 71), ('December 30, 2002', 63, 80), ('an  American actress and movie star', 86, 121), ('the transition', 131, 145), ('silent films', 151, 163), ('Sound film', 167, 177)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'TO', 'VB', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

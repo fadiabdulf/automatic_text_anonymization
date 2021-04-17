@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Helen Ferrers</title>
+<link/>https://en.wikipedia.org/wiki/Helen_Ferrers
+<annotated>0</annotated>
+<originalabstract>Helen Ferrers (1869–1943) was a British actress. She was the daughter of a London coal merchant and the younger sister of the actress May Fortescue. She was married to the actor Eugène François Mayeur, who died in 1918 having given her one daughter, Mary Helen Mayeur.</originalabstract>
+<abstract>Helen_Ferrers ( 1869 – 1943 ) was a_British_actress . She was the_daughter of a_London_coal_merchant and the_younger_sister of the_actress_May_Fortescue . She was_married to the_actor_Eugène_François_Mayeur , who died in 1918 having_given her_one_daughter , Mary_Helen_Mayeur .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Helen'), (6, 'Ferrers'), (14, '('), (15, '1869'), (19, '–'), (20, '1943'), (24, ')'), (26, 'was'), (30, 'a'), (32, 'British'), (40, 'actress'), (47, '.'), (49, 'She'), (53, 'was'), (57, 'the'), (61, 'daughter'), (70, 'of'), (73, 'a'), (75, 'London'), (82, 'coal'), (87, 'merchant'), (96, 'and'), (100, 'the'), (104, 'younger'), (112, 'sister'), (119, 'of'), (122, 'the'), (126, 'actress'), (134, 'May'), (138, 'Fortescue'), (147, '.'), (149, 'She'), (153, 'was'), (157, 'married'), (165, 'to'), (168, 'the'), (172, 'actor'), (178, 'Eugène'), (185, 'François'), (194, 'Mayeur'), (200, ','), (202, 'who'), (206, 'died'), (211, 'in'), (214, '1918'), (219, 'having'), (226, 'given'), (232, 'her'), (236, 'one'), (240, 'daughter'), (248, ','), (250, 'Mary'), (255, 'Helen'), (261, 'Mayeur'), (267, '.')])</stanford_tokens>
+<opennlp_chunks>[('Helen Ferrers',0, 13), ('a British actress',30, 47), ('the daughter',57, 69), ('a London coal merchant',73, 95), ('the younger sister',100, 118), ('the actress May Fortescue',122, 147), ('was married',153, 164), ('the actor Eugène François Mayeur',168, 200), ('having given',219, 231), ('her one daughter',232, 248), ('Mary Helen Mayeur',250, 267)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'CC', 'DT', 'JJR', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'TO', 'DT', 'NN', 'NNP', 'NNP', 'NNP', ',', 'WP', 'VBD', 'IN', 'CD', 'VBG', 'VBN', 'PRP$', 'CD', 'NN', ',', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Helen'), (6, 'Ferrers'), (14, '('), (15, '1869–1943'), (24, ')'), (26, 'was'), (30, 'a'), (32, 'British'), (40, 'actress'), (47, '.'), (49, 'She'), (53, 'was'), (57, 'the'), (61, 'daughter'), (70, 'of'), (73, 'a'), (75, 'London'), (82, 'coal'), (87, 'merchant'), (96, 'and'), (100, 'the'), (104, 'younger'), (112, 'sister'), (119, 'of'), (122, 'the'), (126, 'actress'), (134, 'May'), (138, 'Fortescue'), (147, '.'), (149, 'She'), (153, 'was'), (157, 'married'), (165, 'to'), (168, 'the'), (172, 'actor'), (178, 'Eugène'), (185, 'François'), (194, 'Mayeur'), (200, ','), (202, 'who'), (206, 'died'), (211, 'in'), (214, '1918'), (219, 'having'), (226, 'given'), (232, 'her'), (236, 'one'), (240, 'daughter'), (248, ','), (250, 'Mary'), (255, 'Helen'), (261, 'Mayeur'), (267, '.')])</spacy_tokens>
+<spacy_chunks>[('Helen Ferrers', 0, 13), ('a British actress', 30, 47), ('the daughter', 57, 69), ('a London coal merchant', 73, 95), ('the younger sister', 100, 118), ('the actress', 122, 133), ('May Fortescue', 134, 147), ('the actor', 168, 177), ('Eugène François Mayeur', 178, 200), ('her one daughter', 232, 248), ('Mary Helen Mayeur', 250, 267)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'CC', 'DT', 'JJR', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'NNP', ',', 'WP', 'VBD', 'IN', 'CD', 'VBG', 'VBN', 'PRP', 'CD', 'NN', ',', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

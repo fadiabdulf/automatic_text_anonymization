@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brad Leland</title>
+<link/>https://en.wikipedia.org/wiki/Brad_Leland
+<annotated>0</annotated>
+<originalabstract>Brad Leland (born September 15, 1954) is an American film and television actor best known for his role as Buddy Garrity in the NBC/DirecTV series Friday Night Lights. He has appeared in 20 feature films, 25 television shows and numerous theater performances.</originalabstract>
+<abstract>Brad_Leland ( born September_15_,_1954 ) is an_American_film_and_television_actor best_known for his_role as Buddy_Garrity in the_NBC/DirecTV_series_Friday_Night_Lights . He has_appeared in 20_feature_films , 25_television_shows and numerous_theater_performances .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brad'), (5, 'Leland'), (12, '('), (13, 'born'), (18, 'September'), (28, '15'), (30, ','), (32, '1954'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'film'), (58, 'and'), (62, 'television'), (73, 'actor'), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'his'), (98, 'role'), (103, 'as'), (106, 'Buddy'), (112, 'Garrity'), (120, 'in'), (123, 'the'), (127, 'NBC/DirecTV'), (139, 'series'), (146, 'Friday'), (153, 'Night'), (159, 'Lights'), (165, '.'), (167, 'He'), (170, 'has'), (174, 'appeared'), (183, 'in'), (186, '20'), (189, 'feature'), (197, 'films'), (202, ','), (204, '25'), (207, 'television'), (218, 'shows'), (224, 'and'), (228, 'numerous'), (237, 'theater'), (245, 'performances'), (257, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brad Leland',0, 11), ('September 15, 1954',18, 36), ('an American film and television actor',41, 78), ('best known',79, 89), ('his role',94, 102), ('Buddy Garrity',106, 119), ('the NBC/DirecTV series Friday Night Lights',123, 165), ('has appeared',170, 182), ('20 feature films',186, 202), ('25 television shows',204, 223), ('numerous theater performances',228, 257)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NN', 'NNS', ',', 'CD', 'NN', 'NNS', 'CC', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brad'), (5, 'Leland'), (12, '('), (13, 'born'), (18, 'September'), (28, '15'), (30, ','), (32, '1954'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'film'), (58, 'and'), (62, 'television'), (73, 'actor'), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'his'), (98, 'role'), (103, 'as'), (106, 'Buddy'), (112, 'Garrity'), (120, 'in'), (123, 'the'), (127, 'NBC'), (130, '/'), (131, 'DirecTV'), (139, 'series'), (146, 'Friday'), (153, 'Night'), (159, 'Lights'), (165, '.'), (167, 'He'), (170, 'has'), (174, 'appeared'), (183, 'in'), (186, '20'), (189, 'feature'), (197, 'films'), (202, ','), (204, '25'), (207, 'television'), (218, 'shows'), (224, 'and'), (228, 'numerous'), (237, 'theater'), (245, 'performances'), (257, '.')])</spacy_tokens>
+<spacy_chunks>[('Brad Leland', 0, 11), ('September 15, 1954', 18, 36), ('an American film and television actor', 41, 78), ('his role', 94, 102), ('Buddy Garrity', 106, 119), ('the NBC/DirecTV series', 123, 145), ('Friday Night Lights', 146, 165), ('20 feature films', 186, 202), ('25 television shows', 204, 223), ('numerous theater performances', 228, 257)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'SYM', 'NNP', 'NN', 'NNP', 'NNP', 'NNPS', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NN', 'NNS', ',', 'CD', 'NN', 'NNS', 'CC', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

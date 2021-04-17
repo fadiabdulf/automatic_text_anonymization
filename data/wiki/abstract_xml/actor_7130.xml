@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peter Whitney</title>
+<link/>https://en.wikipedia.org/wiki/Peter_Whitney
+<annotated>0</annotated>
+<originalabstract>Peter Whitney (born Peter King Engle; May 24, 1916 – March 30, 1972) was an American actor in film and television. Whitney was born in Long Branch, New Jersey. Tall and heavyset, he played brutish villains in many Hollywood films in the 1940s and 1950s.</originalabstract>
+<abstract>Peter_Whitney ( born Peter_King_Engle ; May_24_,_1916 – March_30_,_1972 ) was an_American_actor in film_and_television . Whitney was_born in Long_Branch , New_Jersey . Tall_and_heavyset , he played brutish_villains in many_Hollywood_films in the_1940s_and_1950s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peter'), (6, 'Whitney'), (14, '('), (15, 'born'), (20, 'Peter'), (26, 'King'), (31, 'Engle'), (36, ';'), (38, 'May'), (42, '24'), (44, ','), (46, '1916'), (51, '–'), (53, 'March'), (59, '30'), (61, ','), (63, '1972'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'American'), (85, 'actor'), (91, 'in'), (94, 'film'), (99, 'and'), (103, 'television'), (113, '.'), (115, 'Whitney'), (123, 'was'), (127, 'born'), (132, 'in'), (135, 'Long'), (140, 'Branch'), (146, ','), (148, 'New'), (152, 'Jersey'), (158, '.'), (160, 'Tall'), (165, 'and'), (169, 'heavyset'), (177, ','), (179, 'he'), (182, 'played'), (189, 'brutish'), (197, 'villains'), (206, 'in'), (209, 'many'), (214, 'Hollywood'), (224, 'films'), (230, 'in'), (233, 'the'), (237, '1940s'), (243, 'and'), (247, '1950s'), (252, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peter Whitney',0, 13), ('Peter King Engle',20, 36), ('May 24, 1916',38, 50), ('March 30, 1972',53, 67), ('an American actor',73, 90), ('film and television',94, 113), ('was born',123, 131), ('Long Branch',135, 146), ('New Jersey',148, 158), ('Tall and heavyset',160, 177), ('brutish villains',189, 205), ('many Hollywood films',209, 229), ('the 1940s and 1950s',233, 252)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'JJ', 'NNP', ',', 'NNP', 'NNP', '.', 'JJ', 'CC', 'NN', ',', 'PRP', 'VBD', 'JJ', 'NNS', 'IN', 'JJ', 'NNP', 'NNS', 'IN', 'DT', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peter'), (6, 'Whitney'), (14, '('), (15, 'born'), (20, 'Peter'), (26, 'King'), (31, 'Engle'), (36, ';'), (38, 'May'), (42, '24'), (44, ','), (46, '1916'), (51, '–'), (53, 'March'), (59, '30'), (61, ','), (63, '1972'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'American'), (85, 'actor'), (91, 'in'), (94, 'film'), (99, 'and'), (103, 'television'), (113, '.'), (115, 'Whitney'), (123, 'was'), (127, 'born'), (132, 'in'), (135, 'Long'), (140, 'Branch'), (146, ','), (148, 'New'), (152, 'Jersey'), (158, '.'), (160, 'Tall'), (165, 'and'), (169, 'heavyset'), (177, ','), (179, 'he'), (182, 'played'), (189, 'brutish'), (197, 'villains'), (206, 'in'), (209, 'many'), (214, 'Hollywood'), (224, 'films'), (230, 'in'), (233, 'the'), (237, '1940s'), (243, 'and'), (247, '1950s'), (252, '.')])</spacy_tokens>
+<spacy_chunks>[('Peter Whitney', 0, 13), ('(born Peter King Engle', 14, 36), ('May 24, 1916', 38, 50), ('March 30, 1972', 53, 67), ('an American actor', 73, 90), ('television', 103, 113), ('Long Branch, New Jersey', 135, 158), ('brutish villains', 189, 205), ('many Hollywood films', 209, 229), ('the 1940s', 233, 242)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.', 'JJ', 'CC', 'JJ', ',', 'PRP', 'VBD', 'JJ', 'NNS', 'IN', 'JJ', 'NNP', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

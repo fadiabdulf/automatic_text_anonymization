@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Henri Étiévant</title>
+<link/>https://en.wikipedia.org/wiki/Henri_%C3%89ti%C3%A9vant
+<annotated>0</annotated>
+<originalabstract>Henri Étiévant (13 March 1870 – 9 August 1953) was a French actor.
+Born Henri Gaston Étiévan-Estival in Paris, he died in 1953 in the 11th arrondissement of Paris.</originalabstract>
+<abstract>Henri_Étiévant ( 13_March_1870 – 9_August_1953 ) was a_French_actor . Born Henri_Gaston_Étiévan-Estival in Paris , he died in 1953 in the_11th_arrondissement of Paris .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Henri'), (6, 'Étiévant'), (15, '('), (16, '13'), (19, 'March'), (25, '1870'), (30, '–'), (32, '9'), (34, 'August'), (41, '1953'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'French'), (60, 'actor'), (65, '.'), (67, 'Born'), (72, 'Henri'), (78, 'Gaston'), (85, 'Étiévan-Estival'), (101, 'in'), (104, 'Paris'), (109, ','), (111, 'he'), (114, 'died'), (119, 'in'), (122, '1953'), (127, 'in'), (130, 'the'), (134, '11th'), (139, 'arrondissement'), (154, 'of'), (157, 'Paris'), (162, '.')])</stanford_tokens>
+<opennlp_chunks>[('Henri Étiévant',0, 14), ('13 March 1870',16, 29), ('9 August 1953',32, 45), ('a French actor',51, 65), ('Henri Gaston Étiévan-Estival',72, 100), ('the 11th arrondissement',130, 153)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'PRP', 'VBD', 'IN', 'CD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Henri'), (6, 'Étiévant'), (15, '('), (16, '13'), (19, 'March'), (25, '1870'), (30, '–'), (32, '9'), (34, 'August'), (41, '1953'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'French'), (60, 'actor'), (65, '.'), (67, 'Born'), (72, 'Henri'), (78, 'Gaston'), (85, 'Étiévan'), (92, '-'), (93, 'Estival'), (101, 'in'), (104, 'Paris'), (109, ','), (111, 'he'), (114, 'died'), (119, 'in'), (122, '1953'), (127, 'in'), (130, 'the'), (134, '11th'), (139, 'arrondissement'), (154, 'of'), (157, 'Paris'), (162, '.')])</spacy_tokens>
+<spacy_chunks>[('Henri Étiévant', 0, 14), ('(13 March', 15, 24), ('13 March 1870', 16, 29), ('9 August 1953', 32, 45), ('a French actor', 51, 65), ('the 11th arrondissement', 130, 153), ('11th arrondissement of Paris', 134, 162)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'NNP', 'NNP', 'NNP', 'HYPH', 'NNP', 'IN', 'NNP', ',', 'PRP', 'VBD', 'IN', 'CD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

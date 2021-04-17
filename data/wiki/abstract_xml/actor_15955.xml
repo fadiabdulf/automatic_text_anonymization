@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kate Wilkinson</title>
+<link/>https://en.wikipedia.org/wiki/Kate_Wilkinson
+<annotated>0</annotated>
+<originalabstract>Kate Wilkinson (October 25, 1916, San Francisco, California – d. February 9, 1993, New York City) was an American stage, film and television actress.</originalabstract>
+<abstract>Kate_Wilkinson ( October_25_,_1916 , San_Francisco , California – d. February_9_,_1993 , New_York_City ) was an_American_stage , film_and_television_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kate'), (5, 'Wilkinson'), (15, '('), (16, 'October'), (24, '25'), (26, ','), (28, '1916'), (32, ','), (34, 'San'), (38, 'Francisco'), (47, ','), (49, 'California'), (60, '–'), (62, 'd.'), (65, 'February'), (74, '9'), (75, ','), (77, '1993'), (81, ','), (83, 'New'), (87, 'York'), (92, 'City'), (96, ')'), (98, 'was'), (102, 'an'), (105, 'American'), (114, 'stage'), (119, ','), (121, 'film'), (126, 'and'), (130, 'television'), (141, 'actress'), (148, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kate Wilkinson',0, 14), ('October 25, 1916',16, 32), ('San Francisco',34, 47), ('February 9, 1993',65, 81), ('New York City',83, 96), ('an American stage',102, 119), ('film and television actress',121, 148)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'NNP', ',', 'NNP', ':', 'VBP', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kate'), (5, 'Wilkinson'), (15, '('), (16, 'October'), (24, '25'), (26, ','), (28, '1916'), (32, ','), (34, 'San'), (38, 'Francisco'), (47, ','), (49, 'California'), (60, '–'), (62, 'd.'), (65, 'February'), (74, '9'), (75, ','), (77, '1993'), (81, ','), (83, 'New'), (87, 'York'), (92, 'City'), (96, ')'), (98, 'was'), (102, 'an'), (105, 'American'), (114, 'stage'), (119, ','), (121, 'film'), (126, 'and'), (130, 'television'), (141, 'actress'), (148, '.')])</spacy_tokens>
+<spacy_chunks>[('Kate Wilkinson', 0, 14), ('(October', 15, 23), ('October 25, 1916', 16, 32), ('San Francisco, California', 34, 59), ('California – d.', 49, 64), ('February 9, 1993', 65, 81), ('New York City', 83, 96), ('an American stage', 102, 119), ('television', 130, 140), ('actress', 141, 148)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

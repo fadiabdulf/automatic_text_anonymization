@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maria Tsien</title>
+<link/>https://en.wikipedia.org/wiki/Maria_Tsien
+<annotated>0</annotated>
+<originalabstract>Maria Tsien (also credited as Maria Tsien McClay) was an Asian-American film and television actress in the 1950s and 1960s. She was often cast in productions that were set in Asia, to fill out non-Asian casts.</originalabstract>
+<abstract>Maria_Tsien ( also_credited as Maria_Tsien_McClay ) was an_Asian-American_film_and_television_actress in the_1950s_and_1960s . She was_often_cast in productions that were_set in Asia , to_fill out non-Asian_casts .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maria'), (6, 'Tsien'), (12, '('), (13, 'also'), (18, 'credited'), (27, 'as'), (30, 'Maria'), (36, 'Tsien'), (42, 'McClay'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'Asian-American'), (72, 'film'), (77, 'and'), (81, 'television'), (92, 'actress'), (100, 'in'), (103, 'the'), (107, '1950s'), (113, 'and'), (117, '1960s'), (122, '.'), (124, 'She'), (128, 'was'), (132, 'often'), (138, 'cast'), (143, 'in'), (146, 'productions'), (158, 'that'), (163, 'were'), (168, 'set'), (172, 'in'), (175, 'Asia'), (179, ','), (181, 'to'), (184, 'fill'), (189, 'out'), (193, 'non-Asian'), (203, 'casts'), (208, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maria Tsien',0, 11), ('also credited',13, 26), ('Maria Tsien McClay',30, 48), ('an Asian-American film and television actress',54, 99), ('the 1950s and 1960s',103, 122), ('was often cast',128, 142), ('were set',163, 171), ('to fill',181, 188), ('non-Asian casts',193, 208)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNS', 'WDT', 'VBD', 'VBN', 'IN', 'NNP', ',', 'TO', 'VB', 'RP', 'JJ', 'VBZ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maria'), (6, 'Tsien'), (12, '('), (13, 'also'), (18, 'credited'), (27, 'as'), (30, 'Maria'), (36, 'Tsien'), (42, 'McClay'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'Asian'), (62, '-'), (63, 'American'), (72, 'film'), (77, 'and'), (81, 'television'), (92, 'actress'), (100, 'in'), (103, 'the'), (107, '1950s'), (113, 'and'), (117, '1960s'), (122, '.'), (124, 'She'), (128, 'was'), (132, 'often'), (138, 'cast'), (143, 'in'), (146, 'productions'), (158, 'that'), (163, 'were'), (168, 'set'), (172, 'in'), (175, 'Asia'), (179, ','), (181, 'to'), (184, 'fill'), (189, 'out'), (193, 'non'), (196, '-'), (197, 'Asian'), (203, 'casts'), (208, '.')])</spacy_tokens>
+<spacy_chunks>[('Maria Tsien', 0, 11), ('Maria Tsien McClay', 30, 48), ('an Asian-American film and television actress', 54, 99), ('the 1950s', 103, 112), ('productions', 146, 157), ('non-Asian casts', 193, 208)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNS', 'WDT', 'VBD', 'VBN', 'IN', 'NNP', ',', 'TO', 'VB', 'RP', 'JJ', 'JJ', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

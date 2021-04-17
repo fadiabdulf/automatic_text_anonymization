@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Shag Thomas</title>
+<link/>https://en.wikipedia.org/wiki/Shag_Thomas
+<annotated>0</annotated>
+<originalabstract>Shag Thomas (born James Thomas, August 11, 1924 – July 25, 1982) was an American professional wrestler during the 1950s and 1960s. He was one of the few African-American wrestlers of his day.</originalabstract>
+<abstract>Shag_Thomas ( born James_Thomas , August_11_,_1924 – July_25_,_1982 ) was an_American_professional_wrestler during the_1950s_and_1960s . He was one of the_few_African-American_wrestlers of his_day .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Shag'), (5, 'Thomas'), (12, '('), (13, 'born'), (18, 'James'), (24, 'Thomas'), (30, ','), (32, 'August'), (39, '11'), (41, ','), (43, '1924'), (48, '–'), (50, 'July'), (55, '25'), (57, ','), (59, '1982'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'professional'), (94, 'wrestler'), (103, 'during'), (110, 'the'), (114, '1950s'), (120, 'and'), (124, '1960s'), (129, '.'), (131, 'He'), (134, 'was'), (138, 'one'), (142, 'of'), (145, 'the'), (149, 'few'), (153, 'African-American'), (170, 'wrestlers'), (180, 'of'), (183, 'his'), (187, 'day'), (190, '.')])</stanford_tokens>
+<opennlp_chunks>[('Shag Thomas',0, 11), ('James Thomas',18, 30), ('August 11, 1924',32, 47), ('July 25, 1982',50, 63), ('an American professional wrestler',69, 102), ('the 1950s and 1960s',110, 129), ('the few African-American wrestlers',145, 179), ('his day',183, 190)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'NNS', 'IN', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Shag'), (5, 'Thomas'), (12, '('), (13, 'born'), (18, 'James'), (24, 'Thomas'), (30, ','), (32, 'August'), (39, '11'), (41, ','), (43, '1924'), (48, '–'), (50, 'July'), (55, '25'), (57, ','), (59, '1982'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'professional'), (94, 'wrestler'), (103, 'during'), (110, 'the'), (114, '1950s'), (120, 'and'), (124, '1960s'), (129, '.'), (131, 'He'), (134, 'was'), (138, 'one'), (142, 'of'), (145, 'the'), (149, 'few'), (153, 'African'), (160, '-'), (161, 'American'), (170, 'wrestlers'), (180, 'of'), (183, 'his'), (187, 'day'), (190, '.')])</spacy_tokens>
+<spacy_chunks>[('Shag Thomas', 0, 11), ('James Thomas', 18, 30), ('August 11, 1924', 32, 47), ('July 25, 1982', 50, 63), ('an American professional wrestler', 69, 102), ('the 1950s', 110, 119), ('the few African-American wrestlers', 145, 179), ('his day', 183, 190)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'HYPH', 'JJ', 'NNS', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anne Nagel</title>
+<link/>https://en.wikipedia.org/wiki/Anne_Nagel
+<annotated>0</annotated>
+<originalabstract>Anne Nagel (September 29, 1915 – July 6, 1966) was an American actress. She played in adventures, mysteries, and comedies for twenty-five years. She also appeared in television series in the 1950s. One book described her as "one of Hollywood's true hard-luck gals."</originalabstract>
+<abstract>Anne_Nagel ( September_29_,_1915 – July_6_,_1966 ) was an_American_actress . She played in adventures , mysteries , and comedies for twenty-five_years . She also appeared in television_series in the_1950s . One_book described her as " one of Hollywood 's_true_hard-luck_gals . "</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anne'), (5, 'Nagel'), (11, '('), (12, 'September'), (22, '29'), (24, ','), (26, '1915'), (31, '–'), (33, 'July'), (38, '6'), (39, ','), (41, '1966'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actress'), (70, '.'), (72, 'She'), (76, 'played'), (83, 'in'), (86, 'adventures'), (96, ','), (98, 'mysteries'), (107, ','), (109, 'and'), (113, 'comedies'), (122, 'for'), (126, 'twenty-five'), (138, 'years'), (143, '.'), (145, 'She'), (149, 'also'), (154, 'appeared'), (163, 'in'), (166, 'television'), (177, 'series'), (184, 'in'), (187, 'the'), (191, '1950s'), (196, '.'), (198, 'One'), (202, 'book'), (207, 'described'), (217, 'her'), (221, 'as'), (224, '"'), (225, 'one'), (229, 'of'), (232, 'Hollywood'), (241, '\'s'), (244, 'true'), (249, 'hard-luck'), (259, 'gals'), (263, '.'), (264, '"')])</stanford_tokens>
+<opennlp_chunks>[('Anne Nagel',0, 10), ('September 29, 1915',12, 30), ('July 6, 1966',33, 45), ('an American actress',51, 70), ('twenty-five years',126, 143), ('television series',166, 183), ('the 1950s',187, 196), ('One book',198, 206), ('\'s true hard-luck gals',241, 263)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNS', ',', 'NNS', ',', 'CC', 'NNS', 'IN', 'CD', 'NNS', '.', 'PRP', 'RB', 'VBD', 'IN', 'NN', 'NN', 'IN', 'DT', 'NNS', '.', 'CD', 'NN', 'VBD', 'PRP', 'IN', '``', 'CD', 'IN', 'NNP', 'POS', 'JJ', 'JJ', 'NNS', '.', '\'\'']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anne'), (5, 'Nagel'), (11, '('), (12, 'September'), (22, '29'), (24, ','), (26, '1915'), (31, '–'), (33, 'July'), (38, '6'), (39, ','), (41, '1966'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actress'), (70, '.'), (72, 'She'), (76, 'played'), (83, 'in'), (86, 'adventures'), (96, ','), (98, 'mysteries'), (107, ','), (109, 'and'), (113, 'comedies'), (122, 'for'), (126, 'twenty'), (132, '-'), (133, 'five'), (138, 'years'), (143, '.'), (145, 'She'), (149, 'also'), (154, 'appeared'), (163, 'in'), (166, 'television'), (177, 'series'), (184, 'in'), (187, 'the'), (191, '1950s'), (196, '.'), (198, 'One'), (202, 'book'), (207, 'described'), (217, 'her'), (221, 'as'), (224, '"'), (225, 'one'), (229, 'of'), (232, 'Hollywood'), (241, "'s"), (244, 'true'), (249, 'hard'), (253, '-'), (254, 'luck'), (259, 'gals'), (263, '.'), (264, '"')])</spacy_tokens>
+<spacy_chunks>[('Anne Nagel', 0, 10), ('(September', 11, 21), ('September 29, 1915', 12, 30), ('July 6, 1966', 33, 45), ('an American actress', 51, 70), ('adventures', 86, 96), ('mysteries', 98, 107), ('comedies', 113, 121), ('twenty-five years', 126, 143), ('television series', 166, 183), ('the 1950s', 187, 196), ('One book', 198, 206), ("Hollywood's true hard-luck gals", 232, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNS', ',', 'NNS', ',', 'CC', 'NNS', 'IN', 'CD', 'HYPH', 'CD', 'NNS', '.', 'PRP', 'RB', 'VBD', 'IN', 'NN', 'NN', 'IN', 'DT', 'NNS', '.', 'CD', 'NN', 'VBD', 'PRP', 'IN', '``', 'CD', 'IN', 'NNP', 'POS', 'JJ', 'JJ', 'HYPH', 'NN', 'NNS', '.', "''"]</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

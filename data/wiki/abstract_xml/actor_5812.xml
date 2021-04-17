@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nick De Ruiz</title>
+<link/>https://en.wikipedia.org/wiki/Nick_De_Ruiz
+<annotated>0</annotated>
+<originalabstract>Nicholas De Ruiz (February, 1871 – 21 June 1959) was an American actor. He appeared in 36 films between 1920 and 1938.
+He was born in Santa Barbara, California and died in Los Angeles, California, aged 88.</originalabstract>
+<abstract>Nicholas_De_Ruiz ( February , 1871 – 21_June_1959 ) was an_American_actor . He appeared in 36_films between 1920_and_1938 . He was_born in Santa_Barbara , California and died in Los_Angeles , California , aged_88 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nicholas'), (9, 'De'), (12, 'Ruiz'), (17, '('), (18, 'February'), (26, ','), (28, '1871'), (33, '–'), (35, '21'), (38, 'June'), (43, '1959'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'appeared'), (84, 'in'), (87, '36'), (90, 'films'), (96, 'between'), (104, '1920'), (109, 'and'), (113, '1938'), (117, '.'), (119, 'He'), (122, 'was'), (126, 'born'), (131, 'in'), (134, 'Santa'), (140, 'Barbara'), (147, ','), (149, 'California'), (160, 'and'), (164, 'died'), (169, 'in'), (172, 'Los'), (176, 'Angeles'), (183, ','), (185, 'California'), (195, ','), (197, 'aged'), (202, '88'), (204, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nicholas De Ruiz',0, 16), ('21 June 1959',35, 47), ('an American actor',53, 70), ('36 films',87, 95), ('1920 and 1938',104, 117), ('was born',122, 130), ('Santa Barbara',134, 147), ('Los Angeles',172, 183), ('aged 88',197, 204)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ',', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'JJ', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nicholas'), (9, 'De'), (12, 'Ruiz'), (17, '('), (18, 'February'), (26, ','), (28, '1871'), (33, '–'), (35, '21'), (38, 'June'), (43, '1959'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'appeared'), (84, 'in'), (87, '36'), (90, 'films'), (96, 'between'), (104, '1920'), (109, 'and'), (113, '1938'), (117, '.'), (119, 'He'), (122, 'was'), (126, 'born'), (131, 'in'), (134, 'Santa'), (140, 'Barbara'), (147, ','), (149, 'California'), (160, 'and'), (164, 'died'), (169, 'in'), (172, 'Los'), (176, 'Angeles'), (183, ','), (185, 'California'), (195, ','), (197, 'aged'), (202, '88'), (204, '.')])</spacy_tokens>
+<spacy_chunks>[('Nicholas De Ruiz', 0, 16), ('21 June 1959', 35, 47), ('an American actor', 53, 70), ('36 films', 87, 95), ('Santa Barbara, California', 134, 159), ('Los Angeles, California', 172, 195)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ',', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'JJ', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

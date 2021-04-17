@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Craig (actor)</title>
+<link/>https://en.wikipedia.org/wiki/James_Craig_(actor)
+<annotated>0</annotated>
+<originalabstract>James Craig (born James Henry Meador, February 4, 1912 – June 27, 1985) was an American actor. He is best known for appearances in films like Kitty Foyle and The Devil and Daniel Webster, and his stint as a leading man at Metro-Goldwyn-Mayer in the 1940s where he appeared in films like The Human Comedy.</originalabstract>
+<abstract>James_Craig ( born James_Henry_Meador , February_4_,_1912 – June_27_,_1985 ) was an_American_actor . He is_best_known for appearances in films like Kitty_Foyle and The_Devil_and_Daniel_Webster , and his_stint as a_leading_man at Metro-Goldwyn-Mayer in the_1940s where he appeared in films like The_Human_Comedy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Craig'), (12, '('), (13, 'born'), (18, 'James'), (24, 'Henry'), (30, 'Meador'), (36, ','), (38, 'February'), (47, '4'), (48, ','), (50, '1912'), (55, '–'), (57, 'June'), (62, '27'), (64, ','), (66, '1985'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'is'), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'appearances'), (128, 'in'), (131, 'films'), (137, 'like'), (142, 'Kitty'), (148, 'Foyle'), (154, 'and'), (158, 'The'), (162, 'Devil'), (168, 'and'), (172, 'Daniel'), (179, 'Webster'), (186, ','), (188, 'and'), (192, 'his'), (196, 'stint'), (202, 'as'), (205, 'a'), (207, 'leading'), (215, 'man'), (219, 'at'), (222, 'Metro-Goldwyn-Mayer'), (242, 'in'), (245, 'the'), (249, '1940s'), (255, 'where'), (261, 'he'), (264, 'appeared'), (273, 'in'), (276, 'films'), (282, 'like'), (287, 'The'), (291, 'Human'), (297, 'Comedy'), (303, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Craig',0, 11), ('James Henry Meador',18, 36), ('February 4, 1912',38, 54), ('June 27, 1985',57, 70), ('an American actor',76, 93), ('is best known',98, 111), ('Kitty Foyle',142, 153), ('The Devil and Daniel Webster',158, 186), ('his stint',192, 201), ('a leading man',205, 218), ('the 1940s',245, 254), ('The Human Comedy',287, 303)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNS', 'IN', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'CC', 'NNP', 'NNP', ',', 'CC', 'PRP$', 'NN', 'IN', 'DT', 'VBG', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'WRB', 'PRP', 'VBD', 'IN', 'NNS', 'IN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Craig'), (12, '('), (13, 'born'), (18, 'James'), (24, 'Henry'), (30, 'Meador'), (36, ','), (38, 'February'), (47, '4'), (48, ','), (50, '1912'), (55, '–'), (57, 'June'), (62, '27'), (64, ','), (66, '1985'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'is'), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'appearances'), (128, 'in'), (131, 'films'), (137, 'like'), (142, 'Kitty'), (148, 'Foyle'), (154, 'and'), (158, 'The'), (162, 'Devil'), (168, 'and'), (172, 'Daniel'), (179, 'Webster'), (186, ','), (188, 'and'), (192, 'his'), (196, 'stint'), (202, 'as'), (205, 'a'), (207, 'leading'), (215, 'man'), (219, 'at'), (222, 'Metro'), (227, '-'), (228, 'Goldwyn'), (235, '-'), (236, 'Mayer'), (242, 'in'), (245, 'the'), (249, '1940s'), (255, 'where'), (261, 'he'), (264, 'appeared'), (273, 'in'), (276, 'films'), (282, 'like'), (287, 'The'), (291, 'Human'), (297, 'Comedy'), (303, '.')])</spacy_tokens>
+<spacy_chunks>[('James Craig', 0, 11), ('born James Henry Meador', 13, 36), ('February 4, 1912', 38, 54), ('June 27, 1985', 57, 70), ('an American actor', 76, 93), ('appearances', 116, 127), ('Kitty Foyle', 142, 153), ('The Devil and Daniel Webster', 158, 186), ('his stint', 192, 201), ('a leading man', 205, 218), ('Metro-Goldwyn-Mayer', 222, 241), ('the 1940s', 245, 254), ('The Human Comedy', 287, 303)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'NNS', 'IN', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'CC', 'NNP', 'NNP', ',', 'CC', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', 'IN', 'DT', 'NNS', 'WRB', 'PRP', 'VBD', 'IN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bettina Bush</title>
+<link/>https://en.wikipedia.org/wiki/Bettina_Bush
+<annotated>0</annotated>
+<originalabstract>Bettina Nicole Bush (born January 28, 1972), also known professionally as simply Bettina, is an American voice actress, actress and pop music singer. She was born the youngest daughter out of three children. Her father was of African-American descent and her mother was of Scottish, Cherokee, and Polynesian descent.</originalabstract>
+<abstract>Bettina_Nicole_Bush ( born January_28_,_1972 ) , also known professionally as simply_Bettina , is an_American_voice_actress , actress_and_pop_music_singer . She was_born the_youngest_daughter out of three_children . Her_father was of African-American_descent and her_mother was of Scottish , Cherokee , and Polynesian_descent .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bettina'), (8, 'Nicole'), (15, 'Bush'), (20, '('), (21, 'born'), (26, 'January'), (34, '28'), (36, ','), (38, '1972'), (42, ')'), (43, ','), (45, 'also'), (50, 'known'), (56, 'professionally'), (71, 'as'), (74, 'simply'), (81, 'Bettina'), (88, ','), (90, 'is'), (93, 'an'), (96, 'American'), (105, 'voice'), (111, 'actress'), (118, ','), (120, 'actress'), (128, 'and'), (132, 'pop'), (136, 'music'), (142, 'singer'), (148, '.'), (150, 'She'), (154, 'was'), (158, 'born'), (163, 'the'), (167, 'youngest'), (176, 'daughter'), (185, 'out'), (189, 'of'), (192, 'three'), (198, 'children'), (206, '.'), (208, 'Her'), (212, 'father'), (219, 'was'), (223, 'of'), (226, 'African-American'), (243, 'descent'), (251, 'and'), (255, 'her'), (259, 'mother'), (266, 'was'), (270, 'of'), (273, 'Scottish'), (281, ','), (283, 'Cherokee'), (291, ','), (293, 'and'), (297, 'Polynesian'), (308, 'descent'), (315, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bettina Nicole Bush',0, 19), ('January 28, 1972',26, 42), ('simply Bettina',74, 88), ('an American voice actress',93, 118), ('actress and pop music singer',120, 148), ('was born',154, 162), ('the youngest daughter',163, 184), ('three children',192, 206), ('Her father',208, 218), ('African-American descent',226, 250), ('her mother',255, 265), ('Polynesian descent',297, 315)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'RB', 'IN', 'RB', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'DT', 'JJS', 'NN', 'IN', 'IN', 'CD', 'NNS', '.', 'PRP$', 'NN', 'VBD', 'IN', 'JJ', 'NN', 'CC', 'PRP$', 'NN', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bettina'), (8, 'Nicole'), (15, 'Bush'), (20, '('), (21, 'born'), (26, 'January'), (34, '28'), (36, ','), (38, '1972'), (42, ')'), (43, ','), (45, 'also'), (50, 'known'), (56, 'professionally'), (71, 'as'), (74, 'simply'), (81, 'Bettina'), (88, ','), (90, 'is'), (93, 'an'), (96, 'American'), (105, 'voice'), (111, 'actress'), (118, ','), (120, 'actress'), (128, 'and'), (132, 'pop'), (136, 'music'), (142, 'singer'), (148, '.'), (150, 'She'), (154, 'was'), (158, 'born'), (163, 'the'), (167, 'youngest'), (176, 'daughter'), (185, 'out'), (189, 'of'), (192, 'three'), (198, 'children'), (206, '.'), (208, 'Her'), (212, 'father'), (219, 'was'), (223, 'of'), (226, 'African'), (233, '-'), (234, 'American'), (243, 'descent'), (251, 'and'), (255, 'her'), (259, 'mother'), (266, 'was'), (270, 'of'), (273, 'Scottish'), (281, ','), (283, 'Cherokee'), (291, ','), (293, 'and'), (297, 'Polynesian'), (308, 'descent'), (315, '.')])</spacy_tokens>
+<spacy_chunks>[('Bettina Nicole Bush', 0, 19), ('January 28, 1972', 26, 42), ('an American voice actress', 93, 118), ('pop music singer', 132, 148), ('the youngest daughter', 163, 184), ('three children', 192, 206), ('Her father', 208, 218), ('African-American descent', 226, 250), ('her mother', 255, 265), ('Scottish', 273, 281), ('Cherokee', 283, 291), ('Polynesian descent', 297, 315)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'RB', 'IN', 'RB', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'DT', 'JJS', 'NN', 'IN', 'IN', 'CD', 'NNS', '.', 'PRP$', 'NN', 'VBD', 'IN', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'PRP$', 'NN', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

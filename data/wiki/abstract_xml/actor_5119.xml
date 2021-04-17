@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Erik Palladino</title>
+<link/>https://en.wikipedia.org/wiki/Erik_Palladino
+<annotated>0</annotated>
+<originalabstract>Erik Palladino (born May 10, 1968) is an American actor, best known for his portrayal of Dr. Dave Malucci in the NBC medical drama ER. He is also known for his recurring roles as Lt. Michael Daghlian in Joan of Arcadia,  Vostanik Sabatino in NCIS: Los Angeles and Kevin Miller on  Suits.</originalabstract>
+<abstract>Erik_Palladino ( born May_10_,_1968 ) is an_American_actor , best_known for his_portrayal of Dr._Dave_Malucci in the_NBC_medical_drama_ER . He is_also_known for his_recurring_roles as Lt._Michael_Daghlian in Joan of Arcadia , Vostanik_Sabatino in NCIS : Los_Angeles and Kevin_Miller on Suits .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Erik'), (5, 'Palladino'), (15, '('), (16, 'born'), (21, 'May'), (25, '10'), (27, ','), (29, '1968'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actor'), (55, ','), (57, 'best'), (62, 'known'), (68, 'for'), (72, 'his'), (76, 'portrayal'), (86, 'of'), (89, 'Dr.'), (93, 'Dave'), (98, 'Malucci'), (106, 'in'), (109, 'the'), (113, 'NBC'), (117, 'medical'), (125, 'drama'), (131, 'ER'), (133, '.'), (135, 'He'), (138, 'is'), (141, 'also'), (146, 'known'), (152, 'for'), (156, 'his'), (160, 'recurring'), (170, 'roles'), (176, 'as'), (179, 'Lt.'), (183, 'Michael'), (191, 'Daghlian'), (200, 'in'), (203, 'Joan'), (208, 'of'), (211, 'Arcadia'), (218, ','), (221, 'Vostanik'), (230, 'Sabatino'), (239, 'in'), (242, 'NCIS'), (246, ':'), (248, 'Los'), (252, 'Angeles'), (260, 'and'), (264, 'Kevin'), (270, 'Miller'), (277, 'on'), (281, 'Suits'), (286, '.')])</stanford_tokens>
+<opennlp_chunks>[('Erik Palladino',0, 14), ('May 10, 1968',21, 33), ('an American actor',38, 55), ('best known',57, 67), ('his portrayal',72, 85), ('Dr. Dave Malucci',89, 105), ('the NBC medical drama ER',109, 133), ('is also known',138, 151), ('his recurring roles',156, 175), ('Lt. Michael Daghlian',179, 199), ('Vostanik Sabatino',221, 238), ('Los Angeles',248, 259), ('Kevin Miller',264, 276)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ':', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Erik'), (5, 'Palladino'), (15, '('), (16, 'born'), (21, 'May'), (25, '10'), (27, ','), (29, '1968'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actor'), (55, ','), (57, 'best'), (62, 'known'), (68, 'for'), (72, 'his'), (76, 'portrayal'), (86, 'of'), (89, 'Dr.'), (93, 'Dave'), (98, 'Malucci'), (106, 'in'), (109, 'the'), (113, 'NBC'), (117, 'medical'), (125, 'drama'), (131, 'ER'), (133, '.'), (135, 'He'), (138, 'is'), (141, 'also'), (146, 'known'), (152, 'for'), (156, 'his'), (160, 'recurring'), (170, 'roles'), (176, 'as'), (179, 'Lt'), (181, '.'), (183, 'Michael'), (191, 'Daghlian'), (200, 'in'), (203, 'Joan'), (208, 'of'), (211, 'Arcadia'), (218, ','), (221, 'Vostanik'), (230, 'Sabatino'), (239, 'in'), (242, 'NCIS'), (246, ':'), (248, 'Los'), (252, 'Angeles'), (260, 'and'), (264, 'Kevin'), (270, 'Miller'), (277, 'on'), (281, 'Suits'), (286, '.')])</spacy_tokens>
+<spacy_chunks>[('Erik Palladino', 0, 14), ('May 10, 1968', 21, 33), ('an American actor', 38, 55), ('his portrayal', 72, 85), ('Dr. Dave Malucci', 89, 105), ('the NBC medical drama', 109, 130), ('his recurring roles', 156, 175), ('Michael Daghlian', 183, 199), ('Joan of Arcadia', 203, 218), ('Vostanik Sabatino', 221, 238), ('NCIS: Los Angeles', 242, 259), ('Kevin Miller', 264, 276)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNP', '.', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ':', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

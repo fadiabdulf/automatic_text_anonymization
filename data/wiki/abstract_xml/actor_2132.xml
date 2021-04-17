@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tom Everett</title>
+<link/>https://en.wikipedia.org/wiki/Tom_Everett
+<annotated>0</annotated>
+<originalabstract>Tom Everett (born October 21, 1948) is an American actor known for his performances in political films such as Air Force One and Thirteen Days.</originalabstract>
+<abstract>Tom_Everett ( born October_21_,_1948 ) is an_American_actor known for his_performances in political_films such_as Air_Force_One and Thirteen_Days .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tom'), (4, 'Everett'), (12, '('), (13, 'born'), (18, 'October'), (26, '21'), (28, ','), (30, '1948'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actor'), (57, 'known'), (63, 'for'), (67, 'his'), (71, 'performances'), (84, 'in'), (87, 'political'), (97, 'films'), (103, 'such'), (108, 'as'), (111, 'Air'), (115, 'Force'), (121, 'One'), (125, 'and'), (129, 'Thirteen'), (138, 'Days'), (142, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tom Everett',0, 11), ('October 21, 1948',18, 34), ('an American actor',39, 56), ('his performances',67, 83), ('political films',87, 102), ('such as',103, 110), ('Air Force One',111, 124), ('Thirteen Days',129, 142)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', 'CD', 'CC', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tom'), (4, 'Everett'), (12, '('), (13, 'born'), (18, 'October'), (26, '21'), (28, ','), (30, '1948'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actor'), (57, 'known'), (63, 'for'), (67, 'his'), (71, 'performances'), (84, 'in'), (87, 'political'), (97, 'films'), (103, 'such'), (108, 'as'), (111, 'Air'), (115, 'Force'), (121, 'One'), (125, 'and'), (129, 'Thirteen'), (138, 'Days'), (142, '.')])</spacy_tokens>
+<spacy_chunks>[('Tom Everett', 0, 11), ('October 21, 1948', 18, 34), ('an American actor', 39, 56), ('his performances', 67, 83), ('political films', 87, 102), ('Air Force One', 111, 124), ('Thirteen Days', 129, 142)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

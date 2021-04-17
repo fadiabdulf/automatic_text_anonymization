@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wally Boag</title>
+<link/>https://en.wikipedia.org/wiki/Wally_Boag
+<annotated>0</annotated>
+<originalabstract>Wallace Vincent "Wally" Boag (September 13, 1920 – June 3, 2011) was an American performer known for his starring role in Disney's long-running stage show the Golden Horseshoe Revue.</originalabstract>
+<abstract>Wallace_Vincent_"_Wally_"_Boag ( September_13_,_1920 – June_3_,_2011 ) was an_American_performer known for his_starring_role in Disney 's_long-running_stage show the_Golden_Horseshoe_Revue .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wallace'), (8, 'Vincent'), (16, '"'), (17, 'Wally'), (22, '"'), (24, 'Boag'), (29, '('), (30, 'September'), (40, '13'), (42, ','), (44, '1920'), (49, '–'), (51, 'June'), (56, '3'), (57, ','), (59, '2011'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'performer'), (91, 'known'), (97, 'for'), (101, 'his'), (105, 'starring'), (114, 'role'), (119, 'in'), (122, 'Disney'), (128, '\'s'), (131, 'long-running'), (144, 'stage'), (150, 'show'), (155, 'the'), (159, 'Golden'), (166, 'Horseshoe'), (176, 'Revue'), (181, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wallace Vincent "Wally" Boag',0, 28), ('September 13, 1920',30, 48), ('June 3, 2011',51, 63), ('an American performer',69, 90), ('his starring role',101, 118), ('\'s long-running stage',128, 149), ('the Golden Horseshoe Revue',155, 181)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'POS', 'JJ', 'NN', 'VBP', 'DT', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wallace'), (8, 'Vincent'), (16, '"'), (17, 'Wally'), (22, '"'), (24, 'Boag'), (29, '('), (30, 'September'), (40, '13'), (42, ','), (44, '1920'), (49, '–'), (51, 'June'), (56, '3'), (57, ','), (59, '2011'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'performer'), (91, 'known'), (97, 'for'), (101, 'his'), (105, 'starring'), (114, 'role'), (119, 'in'), (122, 'Disney'), (128, "'s"), (131, 'long'), (135, '-'), (136, 'running'), (144, 'stage'), (150, 'show'), (155, 'the'), (159, 'Golden'), (166, 'Horseshoe'), (176, 'Revue'), (181, '.')])</spacy_tokens>
+<spacy_chunks>[('Wallace Vincent "Wally" Boag', 0, 28), ('(September', 29, 39), ('September 13, 1920', 30, 48), ('June 3, 2011', 51, 63), ('an American performer', 69, 90), ('his starring role', 101, 118), ("Disney's long-running stage", 122, 149), ('the Golden Horseshoe Revue', 155, 181)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'POS', 'RB', 'HYPH', 'VBG', 'NN', 'VBP', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

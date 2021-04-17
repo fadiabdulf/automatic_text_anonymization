@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>George S. Irving</title>
+<link/>https://en.wikipedia.org/wiki/George_S._Irving
+<annotated>0</annotated>
+<originalabstract>George S. Irving (born Irving Shelasky; November 1, 1922 – December 26, 2016) was an American actor known primarily for his character roles on Broadway.</originalabstract>
+<abstract>George_S._Irving ( born Irving_Shelasky ; November_1_,_1922 – December_26_,_2016 ) was an_American_actor known primarily for his_character_roles on Broadway .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'S.'), (10, 'Irving'), (17, '('), (18, 'born'), (23, 'Irving'), (30, 'Shelasky'), (38, ';'), (40, 'November'), (49, '1'), (50, ','), (52, '1922'), (57, '–'), (59, 'December'), (68, '26'), (70, ','), (72, '2016'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'American'), (94, 'actor'), (100, 'known'), (106, 'primarily'), (116, 'for'), (120, 'his'), (124, 'character'), (134, 'roles'), (140, 'on'), (143, 'Broadway'), (151, '.')])</stanford_tokens>
+<opennlp_chunks>[('George S. Irving',0, 16), ('Irving Shelasky',23, 38), ('November 1, 1922',40, 56), ('December 26, 2016',59, 76), ('an American actor',82, 99), ('his character roles',120, 139)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'RB', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'S.'), (10, 'Irving'), (17, '('), (18, 'born'), (23, 'Irving'), (30, 'Shelasky'), (38, ';'), (40, 'November'), (49, '1'), (50, ','), (52, '1922'), (57, '–'), (59, 'December'), (68, '26'), (70, ','), (72, '2016'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'American'), (94, 'actor'), (100, 'known'), (106, 'primarily'), (116, 'for'), (120, 'his'), (124, 'character'), (134, 'roles'), (140, 'on'), (143, 'Broadway'), (151, '.')])</spacy_tokens>
+<spacy_chunks>[('George S. Irving', 0, 16), ('(born Irving Shelasky', 17, 38), ('November 1, 1922', 40, 56), ('December 26, 2016', 59, 76), ('an American actor', 82, 99), ('his character roles', 120, 139), ('Broadway', 143, 151)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'RB', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

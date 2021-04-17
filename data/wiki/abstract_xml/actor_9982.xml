@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fernand Mailly</title>
+<link/>https://en.wikipedia.org/wiki/Fernand_Mailly
+<annotated>0</annotated>
+<originalabstract>Fernand Mailly (26 February 1873) was a French actor.Born Fernand Jean-Paul Anne in Le Havre, Seine-Maritime, France.</originalabstract>
+<abstract>Fernand_Mailly ( 26_February_1873 ) was a_French_actor.Born_Fernand_Jean-Paul_Anne in Le_Havre , Seine-Maritime , France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fernand'), (8, 'Mailly'), (15, '('), (16, '26'), (19, 'February'), (28, '1873'), (32, ')'), (34, 'was'), (38, 'a'), (40, 'French'), (47, 'actor.Born'), (58, 'Fernand'), (66, 'Jean-Paul'), (76, 'Anne'), (81, 'in'), (84, 'Le'), (87, 'Havre'), (92, ','), (94, 'Seine-Maritime'), (108, ','), (110, 'France'), (116, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fernand Mailly',0, 14), ('26 February 1873',16, 32), ('a French actor.Born Fernand Jean-Paul Anne',38, 80), ('Le Havre',84, 92)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fernand'), (8, 'Mailly'), (15, '('), (16, '26'), (19, 'February'), (28, '1873'), (32, ')'), (34, 'was'), (38, 'a'), (40, 'French'), (47, 'actor'), (52, '.'), (53, 'Born'), (58, 'Fernand'), (66, 'Jean'), (70, '-'), (71, 'Paul'), (76, 'Anne'), (81, 'in'), (84, 'Le'), (87, 'Havre'), (92, ','), (94, 'Seine'), (99, '-'), (100, 'Maritime'), (108, ','), (110, 'France'), (116, '.')])</spacy_tokens>
+<spacy_chunks>[('Fernand Mailly', 0, 14), ('(26 February', 15, 27), ('26 February 1873', 16, 32), ('a French actor', 38, 52), ('Born Fernand Jean-Paul Anne', 53, 80), ('Le Havre', 84, 92), ('Seine-Maritime', 94, 108), ('France', 110, 116)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'NNP', 'NNP', 'HYPH', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'HYPH', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

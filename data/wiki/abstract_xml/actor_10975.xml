@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tally Brown</title>
+<link/>https://en.wikipedia.org/wiki/Tally_Brown
+<annotated>0</annotated>
+<originalabstract>Tally Brown (August 1, 1924 in New York City–May 6, 1989 in New York City)  was a singer and actress who was part of the New York underground performance scene, particularly Andy Warhol's "Factory" and who appeared in or was the subject of films by Warhol and Rosa von Praunheim.</originalabstract>
+<abstract>Tally_Brown ( August_1_,_1924 in New_York_City – May_6_,_1989 in New_York_City ) was a_singer_and_actress who was part of the_New_York_underground_performance_scene , particularly Andy_Warhol 's_"_Factory " and who appeared in or was the_subject of films by Warhol and Rosa_von_Praunheim .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tally'), (6, 'Brown'), (12, '('), (13, 'August'), (20, '1'), (21, ','), (23, '1924'), (28, 'in'), (31, 'New'), (35, 'York'), (40, 'City'), (44, '–'), (45, 'May'), (49, '6'), (50, ','), (52, '1989'), (57, 'in'), (60, 'New'), (64, 'York'), (69, 'City'), (73, ')'), (76, 'was'), (80, 'a'), (82, 'singer'), (89, 'and'), (93, 'actress'), (101, 'who'), (105, 'was'), (109, 'part'), (114, 'of'), (117, 'the'), (121, 'New'), (125, 'York'), (130, 'underground'), (142, 'performance'), (154, 'scene'), (159, ','), (161, 'particularly'), (174, 'Andy'), (179, 'Warhol'), (185, '\'s'), (188, '"'), (189, 'Factory'), (196, '"'), (198, 'and'), (202, 'who'), (206, 'appeared'), (215, 'in'), (218, 'or'), (221, 'was'), (225, 'the'), (229, 'subject'), (237, 'of'), (240, 'films'), (246, 'by'), (249, 'Warhol'), (256, 'and'), (260, 'Rosa'), (265, 'von'), (269, 'Praunheim'), (278, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tally Brown',0, 11), ('August 1, 1924',13, 27), ('New York City',31, 44), ('May 6, 1989',45, 56), ('New York City',60, 73), ('a singer and actress',80, 100), ('the New York underground performance scene',117, 159), ('Andy Warhol',174, 185), ('\'s "Factory',185, 196), ('the subject',225, 236), ('Rosa von Praunheim',260, 278)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'NN', 'WP', 'VBD', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'JJ', 'NN', 'NN', ',', 'RB', 'NNP', 'NNP', 'POS', '``', 'NN', '\'\'', 'CC', 'WP', 'VBD', 'IN', 'CC', 'VBD', 'DT', 'NN', 'IN', 'NNS', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tally'), (6, 'Brown'), (12, '('), (13, 'August'), (20, '1'), (21, ','), (23, '1924'), (28, 'in'), (31, 'New'), (35, 'York'), (40, 'City'), (44, '–'), (45, 'May'), (49, '6'), (50, ','), (52, '1989'), (57, 'in'), (60, 'New'), (64, 'York'), (69, 'City'), (73, ')'), (76, 'was'), (80, 'a'), (82, 'singer'), (89, 'and'), (93, 'actress'), (101, 'who'), (105, 'was'), (109, 'part'), (114, 'of'), (117, 'the'), (121, 'New'), (125, 'York'), (130, 'underground'), (142, 'performance'), (154, 'scene'), (159, ','), (161, 'particularly'), (174, 'Andy'), (179, 'Warhol'), (185, "'s"), (188, '"'), (189, 'Factory'), (196, '"'), (198, 'and'), (202, 'who'), (206, 'appeared'), (215, 'in'), (218, 'or'), (221, 'was'), (225, 'the'), (229, 'subject'), (237, 'of'), (240, 'films'), (246, 'by'), (249, 'Warhol'), (256, 'and'), (260, 'Rosa'), (265, 'von'), (269, 'Praunheim'), (278, '.')])</spacy_tokens>
+<spacy_chunks>[('Tally Brown', 0, 11), ('August 1, 1924', 13, 27), ('New York City', 31, 44), ('May 6, 1989', 45, 56), ('a singer', 80, 88), ('actress', 93, 100), ('the New York underground performance scene', 117, 159), ('particularly Andy Warhol\'s "Factory', 161, 196), ('the subject', 225, 236), ('Rosa von Praunheim', 260, 278)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'NN', 'WP', 'VBD', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'JJ', 'NN', 'NN', ',', 'RB', 'NNP', 'NNP', 'POS', '``', 'NNP', "''", 'CC', 'WP', 'VBD', 'RP', 'CC', 'VBD', 'DT', 'NN', 'IN', 'NNS', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lisa Wilhoit</title>
+<link/>https://en.wikipedia.org/wiki/Lisa_Wilhoit
+<annotated>0</annotated>
+<originalabstract>Lisa Marie Wilhoit is an American actress. She is best known for playing Danielle Chase in My So-Called Life and Connie D'Amico in Family Guy.</originalabstract>
+<abstract>Lisa_Marie_Wilhoit is an_American_actress . She is_best_known for playing Danielle_Chase in My_So-Called_Life_and_Connie_D'Amico in Family_Guy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lisa'), (5, 'Marie'), (11, 'Wilhoit'), (19, 'is'), (22, 'an'), (25, 'American'), (34, 'actress'), (41, '.'), (43, 'She'), (47, 'is'), (50, 'best'), (55, 'known'), (61, 'for'), (65, 'playing'), (73, 'Danielle'), (82, 'Chase'), (88, 'in'), (91, 'My'), (94, 'So-Called'), (104, 'Life'), (109, 'and'), (113, 'Connie'), (120, 'D\'Amico'), (128, 'in'), (131, 'Family'), (138, 'Guy'), (141, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lisa Marie Wilhoit',0, 18), ('an American actress',22, 41), ('is best known',47, 60), ('Danielle Chase',73, 87), ('My So-Called Life and Connie D\'Amico',91, 127), ('Family Guy',131, 141)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'PRP$', 'JJ', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lisa'), (5, 'Marie'), (11, 'Wilhoit'), (19, 'is'), (22, 'an'), (25, 'American'), (34, 'actress'), (41, '.'), (43, 'She'), (47, 'is'), (50, 'best'), (55, 'known'), (61, 'for'), (65, 'playing'), (73, 'Danielle'), (82, 'Chase'), (88, 'in'), (91, 'My'), (94, 'So'), (96, '-'), (97, 'Called'), (104, 'Life'), (109, 'and'), (113, 'Connie'), (120, "D'Amico"), (128, 'in'), (131, 'Family'), (138, 'Guy'), (141, '.')])</spacy_tokens>
+<spacy_chunks>[('Lisa Marie Wilhoit', 0, 18), ('an American actress', 22, 41), ('Danielle Chase', 73, 87), ('My So-Called Life', 91, 108), ("Connie D'Amico", 113, 127), ('Family Guy', 131, 141)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'PRP$', 'NNP', 'HYPH', 'VBN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mark Letheren</title>
+<link/>https://en.wikipedia.org/wiki/Mark_Letheren
+<annotated>0</annotated>
+<originalabstract>Mark Vincent Letheren (born 6 February 1971) is an English actor possibly best known for his roles as journalist Simon Kitson in ITV's drama The Bill, as Ben Harding in the BBC One drama Casualty and for his recurring role as DS Kevin Geoffries in Wire in the Blood.</originalabstract>
+<abstract>Mark_Vincent_Letheren ( born_6_February_1971 ) is an_English_actor possibly_best_known for his_roles as journalist_Simon_Kitson in ITV 's_drama The_Bill , as Ben_Harding in the_BBC_One_drama Casualty and for his_recurring_role as DS_Kevin_Geoffries in Wire in the_Blood .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mark'), (5, 'Vincent'), (13, 'Letheren'), (22, '('), (23, 'born'), (28, '6'), (30, 'February'), (39, '1971'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'English'), (59, 'actor'), (65, 'possibly'), (74, 'best'), (79, 'known'), (85, 'for'), (89, 'his'), (93, 'roles'), (99, 'as'), (102, 'journalist'), (113, 'Simon'), (119, 'Kitson'), (126, 'in'), (129, 'ITV'), (132, '\'s'), (135, 'drama'), (141, 'The'), (145, 'Bill'), (149, ','), (151, 'as'), (154, 'Ben'), (158, 'Harding'), (166, 'in'), (169, 'the'), (173, 'BBC'), (177, 'One'), (181, 'drama'), (187, 'Casualty'), (196, 'and'), (200, 'for'), (204, 'his'), (208, 'recurring'), (218, 'role'), (223, 'as'), (226, 'DS'), (229, 'Kevin'), (235, 'Geoffries'), (245, 'in'), (248, 'Wire'), (253, 'in'), (256, 'the'), (260, 'Blood'), (265, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mark Vincent Letheren',0, 21), ('born 6 February 1971',23, 43), ('an English actor',48, 64), ('possibly best known',65, 84), ('his roles',89, 98), ('journalist Simon Kitson',102, 125), ('\'s drama',132, 140), ('The Bill',141, 149), ('Ben Harding',154, 165), ('the BBC One drama',169, 186), ('his recurring role',204, 222), ('DS Kevin Geoffries',226, 244), ('the Blood',256, 265)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'DT', 'NNP', ',', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CD', 'NN', 'NNP', 'CC', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mark'), (5, 'Vincent'), (13, 'Letheren'), (22, '('), (23, 'born'), (28, '6'), (30, 'February'), (39, '1971'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'English'), (59, 'actor'), (65, 'possibly'), (74, 'best'), (79, 'known'), (85, 'for'), (89, 'his'), (93, 'roles'), (99, 'as'), (102, 'journalist'), (113, 'Simon'), (119, 'Kitson'), (126, 'in'), (129, 'ITV'), (132, "'s"), (135, 'drama'), (141, 'The'), (145, 'Bill'), (149, ','), (151, 'as'), (154, 'Ben'), (158, 'Harding'), (166, 'in'), (169, 'the'), (173, 'BBC'), (177, 'One'), (181, 'drama'), (187, 'Casualty'), (196, 'and'), (200, 'for'), (204, 'his'), (208, 'recurring'), (218, 'role'), (223, 'as'), (226, 'DS'), (229, 'Kevin'), (235, 'Geoffries'), (245, 'in'), (248, 'Wire'), (253, 'in'), (256, 'the'), (260, 'Blood'), (265, '.')])</spacy_tokens>
+<spacy_chunks>[('Mark Vincent Letheren', 0, 21), ('6 February 1971', 28, 43), ('an English actor', 48, 64), ('his roles', 89, 98), ('journalist Simon Kitson', 102, 125), ("ITV's drama", 129, 140), ('The Bill', 141, 149), ('Ben Harding', 154, 165), ('the BBC One drama', 169, 186), ('Casualty', 187, 195), ('his recurring role', 204, 222), ('DS Kevin Geoffries', 226, 244), ('Wire in the Blood', 248, 265)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'DT', 'NNP', ',', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CD', 'NN', 'NNP', 'CC', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

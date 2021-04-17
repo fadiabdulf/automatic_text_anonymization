@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fritzi Brunette</title>
+<link/>https://en.wikipedia.org/wiki/Fritzi_Brunette
+<annotated>0</annotated>
+<originalabstract>Fritzi Brunette (May 27, 1890 in Savannah, Georgia – September 28, 1943 in Hollywood, California) was an actress from Savannah, Georgia who acted in motion pictures for thirty years.</originalabstract>
+<abstract>Fritzi_Brunette ( May_27_,_1890 in Savannah , Georgia – September_28_,_1943 in Hollywood , California ) was an_actress from Savannah , Georgia who acted in motion_pictures for thirty_years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fritzi'), (7, 'Brunette'), (16, '('), (17, 'May'), (21, '27'), (23, ','), (25, '1890'), (30, 'in'), (33, 'Savannah'), (41, ','), (43, 'Georgia'), (51, '–'), (53, 'September'), (63, '28'), (65, ','), (67, '1943'), (72, 'in'), (75, 'Hollywood'), (84, ','), (86, 'California'), (96, ')'), (98, 'was'), (102, 'an'), (105, 'actress'), (113, 'from'), (118, 'Savannah'), (126, ','), (128, 'Georgia'), (136, 'who'), (140, 'acted'), (146, 'in'), (149, 'motion'), (156, 'pictures'), (165, 'for'), (169, 'thirty'), (176, 'years'), (181, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fritzi Brunette',0, 15), ('May 27, 1890',17, 29), ('September 28, 1943',53, 71), ('an actress',102, 112), ('motion pictures',149, 164), ('thirty years',169, 181)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', 'WP', 'VBD', 'IN', 'NN', 'NNS', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fritzi'), (7, 'Brunette'), (16, '('), (17, 'May'), (21, '27'), (23, ','), (25, '1890'), (30, 'in'), (33, 'Savannah'), (41, ','), (43, 'Georgia'), (51, '–'), (53, 'September'), (63, '28'), (65, ','), (67, '1943'), (72, 'in'), (75, 'Hollywood'), (84, ','), (86, 'California'), (96, ')'), (98, 'was'), (102, 'an'), (105, 'actress'), (113, 'from'), (118, 'Savannah'), (126, ','), (128, 'Georgia'), (136, 'who'), (140, 'acted'), (146, 'in'), (149, 'motion'), (156, 'pictures'), (165, 'for'), (169, 'thirty'), (176, 'years'), (181, '.')])</spacy_tokens>
+<spacy_chunks>[('Fritzi Brunette', 0, 15), ('May 27, 1890', 17, 29), ('Savannah, Georgia', 33, 50), ('September 28, 1943', 53, 71), ('Hollywood, California', 75, 96), ('an actress', 102, 112), ('motion pictures', 149, 164), ('thirty years', 169, 181)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', 'WP', 'VBD', 'IN', 'NN', 'NNS', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

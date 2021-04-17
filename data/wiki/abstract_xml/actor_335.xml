@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dave Bald Eagle</title>
+<link/>https://en.wikipedia.org/wiki/Dave_Bald_Eagle
+<annotated>0</annotated>
+<originalabstract>David William "Dave" Bald Eagle (April 8, 1919 – July 22, 2016), also known as Chief David Beautiful Bald Eagle, was a Lakota actor, soldier, stuntman, and musician.</originalabstract>
+<abstract>David_William_"_Dave_"_Bald_Eagle ( April_8_,_1919 – July_22_,_2016 ) , also_known as Chief_David_Beautiful_Bald_Eagle , was a_Lakota_actor , soldier , stuntman , and musician .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'William'), (14, '"'), (15, 'Dave'), (19, '"'), (21, 'Bald'), (26, 'Eagle'), (32, '('), (33, 'April'), (39, '8'), (40, ','), (42, '1919'), (47, '–'), (49, 'July'), (54, '22'), (56, ','), (58, '2016'), (62, ')'), (63, ','), (65, 'also'), (70, 'known'), (76, 'as'), (79, 'Chief'), (85, 'David'), (91, 'Beautiful'), (101, 'Bald'), (106, 'Eagle'), (111, ','), (113, 'was'), (117, 'a'), (119, 'Lakota'), (126, 'actor'), (131, ','), (133, 'soldier'), (140, ','), (142, 'stuntman'), (150, ','), (152, 'and'), (156, 'musician'), (164, '.')])</stanford_tokens>
+<opennlp_chunks>[('David William "Dave" Bald Eagle',0, 31), ('April 8, 1919',33, 46), ('July 22, 2016',49, 62), ('also known',65, 75), ('Chief David Beautiful Bald Eagle',79, 111), ('a Lakota actor',117, 131)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'JJ', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'William'), (14, '"'), (15, 'Dave'), (19, '"'), (21, 'Bald'), (26, 'Eagle'), (32, '('), (33, 'April'), (39, '8'), (40, ','), (42, '1919'), (47, '–'), (49, 'July'), (54, '22'), (56, ','), (58, '2016'), (62, ')'), (63, ','), (65, 'also'), (70, 'known'), (76, 'as'), (79, 'Chief'), (85, 'David'), (91, 'Beautiful'), (101, 'Bald'), (106, 'Eagle'), (111, ','), (113, 'was'), (117, 'a'), (119, 'Lakota'), (126, 'actor'), (131, ','), (133, 'soldier'), (140, ','), (142, 'stuntman'), (150, ','), (152, 'and'), (156, 'musician'), (164, '.')])</spacy_tokens>
+<spacy_chunks>[('David William', 0, 13), ('"Dave" Bald Eagle', 14, 31), ('April 8, 1919', 33, 46), ('July 22, 2016', 49, 62), ('Chief David Beautiful Bald Eagle', 79, 111), ('a Lakota actor', 117, 131), ('soldier', 133, 140), ('stuntman', 142, 150), ('musician', 156, 164)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', '``', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NNP', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

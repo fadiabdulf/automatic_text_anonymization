@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kaili Vernoff</title>
+<link/>https://en.wikipedia.org/wiki/Kaili_Vernoff
+<annotated>0</annotated>
+<originalabstract>Kaili Vernoff (born Jan 13, 1974) is an American actress.  While she has many television and film credits, she is perhaps best known for her multiple collaborations with Woody Allen.</originalabstract>
+<abstract>Kaili_Vernoff ( born Jan_13_,_1974 ) is an_American_actress . While she has many_television_and_film_credits , she is_perhaps_best_known for her_multiple_collaborations with Woody_Allen .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kaili'), (6, 'Vernoff'), (14, '('), (15, 'born'), (20, 'Jan'), (24, '13'), (26, ','), (28, '1974'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actress'), (56, '.'), (59, 'While'), (65, 'she'), (69, 'has'), (73, 'many'), (78, 'television'), (89, 'and'), (93, 'film'), (98, 'credits'), (105, ','), (107, 'she'), (111, 'is'), (114, 'perhaps'), (122, 'best'), (127, 'known'), (133, 'for'), (137, 'her'), (141, 'multiple'), (150, 'collaborations'), (165, 'with'), (170, 'Woody'), (176, 'Allen'), (181, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kaili Vernoff',0, 13), ('Jan 13, 1974',20, 32), ('an American actress',37, 56), ('many television and film credits',73, 105), ('is perhaps best known',111, 132), ('her multiple collaborations',137, 164), ('Woody Allen',170, 181)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'PRP', 'VBZ', 'JJ', 'NN', 'CC', 'NN', 'NNS', ',', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kaili'), (6, 'Vernoff'), (14, '('), (15, 'born'), (20, 'Jan'), (24, '13'), (26, ','), (28, '1974'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actress'), (56, '.'), (59, 'While'), (65, 'she'), (69, 'has'), (73, 'many'), (78, 'television'), (89, 'and'), (93, 'film'), (98, 'credits'), (105, ','), (107, 'she'), (111, 'is'), (114, 'perhaps'), (122, 'best'), (127, 'known'), (133, 'for'), (137, 'her'), (141, 'multiple'), (150, 'collaborations'), (165, 'with'), (170, 'Woody'), (176, 'Allen'), (181, '.')])</spacy_tokens>
+<spacy_chunks>[('Kaili Vernoff', 0, 13), ('born Jan', 15, 23), ('an American actress', 37, 56), ('many television and film credits', 73, 105), ('her multiple collaborations', 137, 164), ('Woody Allen', 170, 181)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'PRP', 'VBZ', 'JJ', 'NN', 'CC', 'NN', 'NNS', ',', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

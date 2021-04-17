@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Erin Brown</title>
+<link/>https://en.wikipedia.org/wiki/Erin_Brown
+<annotated>0</annotated>
+<originalabstract>Erin Brown (born Erin DeWright; October 16, 1979) is an American film actress, filmmaker, model and musician. Brown may have starred in over fifty low-budget films, under the names Sadie Lane and Misty Mundae.</originalabstract>
+<abstract>Erin_Brown ( born Erin_DeWright ; October_16_,_1979 ) is an_American_film_actress , filmmaker , model_and_musician . Brown may_have_starred in over_fifty_low-budget_films , under the_names_Sadie_Lane and Misty_Mundae .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Erin'), (5, 'Brown'), (11, '('), (12, 'born'), (17, 'Erin'), (22, 'DeWright'), (30, ';'), (32, 'October'), (40, '16'), (42, ','), (44, '1979'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actress'), (77, ','), (79, 'filmmaker'), (88, ','), (90, 'model'), (96, 'and'), (100, 'musician'), (108, '.'), (110, 'Brown'), (116, 'may'), (120, 'have'), (125, 'starred'), (133, 'in'), (136, 'over'), (141, 'fifty'), (147, 'low-budget'), (158, 'films'), (163, ','), (165, 'under'), (171, 'the'), (175, 'names'), (181, 'Sadie'), (187, 'Lane'), (192, 'and'), (196, 'Misty'), (202, 'Mundae'), (208, '.')])</stanford_tokens>
+<opennlp_chunks>[('Erin Brown',0, 10), ('Erin DeWright',17, 30), ('October 16, 1979',32, 48), ('an American film actress',53, 77), ('model and musician',90, 108), ('may have starred',116, 132), ('over fifty low-budget films',136, 163), ('the names Sadie Lane',171, 191), ('Misty Mundae',196, 208)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NNP', 'MD', 'VB', 'VBN', 'IN', 'IN', 'CD', 'JJ', 'NNS', ',', 'IN', 'DT', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Erin'), (5, 'Brown'), (11, '('), (12, 'born'), (17, 'Erin'), (22, 'DeWright'), (30, ';'), (32, 'October'), (40, '16'), (42, ','), (44, '1979'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actress'), (77, ','), (79, 'filmmaker'), (88, ','), (90, 'model'), (96, 'and'), (100, 'musician'), (108, '.'), (110, 'Brown'), (116, 'may'), (120, 'have'), (125, 'starred'), (133, 'in'), (136, 'over'), (141, 'fifty'), (147, 'low'), (150, '-'), (151, 'budget'), (158, 'films'), (163, ','), (165, 'under'), (171, 'the'), (175, 'names'), (181, 'Sadie'), (187, 'Lane'), (192, 'and'), (196, 'Misty'), (202, 'Mundae'), (208, '.')])</spacy_tokens>
+<spacy_chunks>[('Erin Brown', 0, 10), ('Erin DeWright', 17, 30), ('October 16, 1979', 32, 48), ('an American film actress', 53, 77), ('Filmmaker', 79, 88), ('musician', 100, 108), ('over fifty low-budget films', 136, 163), ('the names', 171, 180), ('Sadie Lane', 181, 191), ('Misty Mundae', 196, 208)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NNP', 'MD', 'VB', 'VBN', 'IN', 'IN', 'CD', 'JJ', 'HYPH', 'NN', 'NNS', ',', 'IN', 'DT', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>François Rozet</title>
+<link/>https://en.wikipedia.org/wiki/Fran%C3%A7ois_Rozet
+<annotated>0</annotated>
+<originalabstract>François Rozet,  (25 March 1899 – 8 April 1994) was a French-born Canadian actor.
+Rozet was born March 25, 1899 in Villars-les-Dombes, Ain, Rhône-Alpes, France and died in Montréal, Québec, Canada.
+In 1971, he was made an Officer of the Order of Canada "for his contribution to French theatre".</originalabstract>
+<abstract>François_Rozet , ( 25_March_1899 – 8_April_1994 ) was a_French-born_Canadian_actor . Rozet was_born March_25_,_1899 in Villars-les-Dombes , Ain , Rhône-Alpes , France and died in Montréal , Québec , Canada . In 1971 , he was_made an_Officer of the_Order of Canada " for his_contribution to French_theatre_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'François'), (9, 'Rozet'), (14, ','), (17, '('), (18, '25'), (21, 'March'), (27, '1899'), (32, '–'), (34, '8'), (36, 'April'), (42, '1994'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French-born'), (66, 'Canadian'), (75, 'actor'), (80, '.'), (82, 'Rozet'), (88, 'was'), (92, 'born'), (97, 'March'), (103, '25'), (105, ','), (107, '1899'), (112, 'in'), (115, 'Villars-les-Dombes'), (133, ','), (135, 'Ain'), (138, ','), (140, 'Rhône-Alpes'), (151, ','), (153, 'France'), (160, 'and'), (164, 'died'), (169, 'in'), (172, 'Montréal'), (180, ','), (182, 'Québec'), (188, ','), (190, 'Canada'), (196, '.'), (198, 'In'), (201, '1971'), (205, ','), (207, 'he'), (210, 'was'), (214, 'made'), (219, 'an'), (222, 'Officer'), (230, 'of'), (233, 'the'), (237, 'Order'), (243, 'of'), (246, 'Canada'), (253, '"'), (254, 'for'), (258, 'his'), (262, 'contribution'), (275, 'to'), (278, 'French'), (285, 'theatre'), (292, '"'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('François Rozet',0, 14), ('25 March 1899',18, 31), ('8 April 1994',34, 46), ('a French-born Canadian actor',52, 80), ('was born',88, 96), ('March 25, 1899',97, 111), ('was made',210, 218), ('an Officer',219, 229), ('the Order',233, 242), ('his contribution',258, 274), ('French theatre"',278, 293)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'VBN', 'DT', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NNP', '``', 'IN', 'PRP$', 'NN', 'TO', 'JJ', 'NN', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'François'), (9, 'Rozet'), (14, ','), (17, '('), (18, '25'), (21, 'March'), (27, '1899'), (32, '–'), (34, '8'), (36, 'April'), (42, '1994'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French'), (60, '-'), (61, 'born'), (66, 'Canadian'), (75, 'actor'), (80, '.'), (82, 'Rozet'), (88, 'was'), (92, 'born'), (97, 'March'), (103, '25'), (105, ','), (107, '1899'), (112, 'in'), (115, 'Villars'), (122, '-'), (123, 'les'), (126, '-'), (127, 'Dombes'), (133, ','), (135, 'Ain'), (138, ','), (140, 'Rhône'), (145, '-'), (146, 'Alpes'), (151, ','), (153, 'France'), (160, 'and'), (164, 'died'), (169, 'in'), (172, 'Montréal'), (180, ','), (182, 'Québec'), (188, ','), (190, 'Canada'), (196, '.'), (198, 'In'), (201, '1971'), (205, ','), (207, 'he'), (210, 'was'), (214, 'made'), (219, 'an'), (222, 'Officer'), (230, 'of'), (233, 'the'), (237, 'Order'), (243, 'of'), (246, 'Canada'), (253, '"'), (254, 'for'), (258, 'his'), (262, 'contribution'), (275, 'to'), (278, 'French'), (285, 'theatre'), (292, '"'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('François Rozet', 0, 14), ('(25 March', 17, 26), ('25 March 1899', 18, 31), ('8 April 1994', 34, 46), ('a French-born Canadian actor', 52, 80), ('March 25, 1899', 97, 111), ('Villars-les-Dombes', 115, 133), ('Rhône-Alpes', 140, 151), ('France', 153, 159), ('Montréal', 172, 180), ('Québec', 182, 188), ('Canada', 190, 196), ('the Order', 233, 242), ('Order of Canada', 237, 252), ('his contribution', 258, 274), ('French theatre', 278, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'NNP', ',', 'NNP', 'HYPH', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'VBN', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', "''", 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'NN', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

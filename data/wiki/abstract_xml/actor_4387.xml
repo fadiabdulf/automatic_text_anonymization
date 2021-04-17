@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Scotty Mattraw</title>
+<link/>https://en.wikipedia.org/wiki/Scotty_Mattraw
+<annotated>0</annotated>
+<originalabstract>Winfield Scott "Scotty" Mattraw (October 19, 1880 – November 9, 1946) was an American film and television actor.  Mattraw provided the voice of Bashful in Walt Disney's Snow White and the Seven Dwarfs.</originalabstract>
+<abstract>Winfield_Scott_"_Scotty_"_Mattraw ( October_19 , 1880 – November_9_,_1946 ) was an_American_film_and_television_actor . Mattraw provided the_voice of Bashful in Walt_Disney 's_Snow_White and the_Seven_Dwarfs .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Winfield'), (9, 'Scott'), (15, '"'), (16, 'Scotty'), (22, '"'), (24, 'Mattraw'), (32, '('), (33, 'October'), (41, '19'), (43, ','), (45, '1880'), (50, '–'), (52, 'November'), (61, '9'), (62, ','), (64, '1946'), (68, ')'), (70, 'was'), (74, 'an'), (77, 'American'), (86, 'film'), (91, 'and'), (95, 'television'), (106, 'actor'), (111, '.'), (114, 'Mattraw'), (122, 'provided'), (131, 'the'), (135, 'voice'), (141, 'of'), (144, 'Bashful'), (152, 'in'), (155, 'Walt'), (160, 'Disney'), (166, '\'s'), (169, 'Snow'), (174, 'White'), (180, 'and'), (184, 'the'), (188, 'Seven'), (194, 'Dwarfs'), (200, '.')])</stanford_tokens>
+<opennlp_chunks>[('Winfield Scott "Scotty" Mattraw',0, 31), ('October 19',33, 43), ('November 9, 1946',52, 68), ('an American film and television actor',74, 111), ('the voice',131, 140), ('Walt Disney',155, 166), ('\'s Snow White',166, 179), ('the Seven Dwarfs',184, 200)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'CC', 'DT', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Winfield'), (9, 'Scott'), (15, '"'), (16, 'Scotty'), (22, '"'), (24, 'Mattraw'), (32, '('), (33, 'October'), (41, '19'), (43, ','), (45, '1880'), (50, '–'), (52, 'November'), (61, '9'), (62, ','), (64, '1946'), (68, ')'), (70, 'was'), (74, 'an'), (77, 'American'), (86, 'film'), (91, 'and'), (95, 'television'), (106, 'actor'), (111, '.'), (114, 'Mattraw'), (122, 'provided'), (131, 'the'), (135, 'voice'), (141, 'of'), (144, 'Bashful'), (152, 'in'), (155, 'Walt'), (160, 'Disney'), (166, "'s"), (169, 'Snow'), (174, 'White'), (180, 'and'), (184, 'the'), (188, 'Seven'), (194, 'Dwarfs'), (200, '.')])</spacy_tokens>
+<spacy_chunks>[('Winfield Scott', 0, 14), ('"Scotty" Mattraw', 15, 31), ('October 19, 1880', 33, 49), ('November 9, 1946', 52, 68), ('an American film and television actor', 74, 111), ('the voice', 131, 140), ("Walt Disney's Snow White", 155, 179), ('Snow White and the Seven Dwarfs', 169, 200)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

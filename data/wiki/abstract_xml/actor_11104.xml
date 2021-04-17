@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nancy Carell</title>
+<link/>https://en.wikipedia.org/wiki/Nancy_Carell
+<annotated>0</annotated>
+<originalabstract>Nancy Ellen Carell (; née Walls; born July 19, 1966) is an American actress, comedian and writer best known for her work on Saturday Night Live, The Daily Show and The Office. In 2016, she co-created the TBS comedy series Angie Tribeca with her husband, Steve Carell.</originalabstract>
+<abstract>Nancy_Ellen_Carell ( ; née_Walls ; born July_19_,_1966 ) is an_American_actress_,_comedian_and_writer best_known for her_work on Saturday_Night_Live , The_Daily_Show and The_Office . In 2016 , she co-created the_TBS_comedy_series_Angie_Tribeca with her_husband , Steve_Carell .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nancy'), (6, 'Ellen'), (12, 'Carell'), (19, '('), (20, ';'), (22, 'née'), (26, 'Walls'), (31, ';'), (33, 'born'), (38, 'July'), (43, '19'), (45, ','), (47, '1966'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'actress'), (75, ','), (77, 'comedian'), (86, 'and'), (90, 'writer'), (97, 'best'), (102, 'known'), (108, 'for'), (112, 'her'), (116, 'work'), (121, 'on'), (124, 'Saturday'), (133, 'Night'), (139, 'Live'), (143, ','), (145, 'The'), (149, 'Daily'), (155, 'Show'), (160, 'and'), (164, 'The'), (168, 'Office'), (174, '.'), (176, 'In'), (179, '2016'), (183, ','), (185, 'she'), (189, 'co-created'), (200, 'the'), (204, 'TBS'), (208, 'comedy'), (215, 'series'), (222, 'Angie'), (228, 'Tribeca'), (236, 'with'), (241, 'her'), (245, 'husband'), (252, ','), (254, 'Steve'), (260, 'Carell'), (266, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nancy Ellen Carell',0, 18), ('née Walls',22, 31), ('July 19, 1966',38, 51), ('an American actress, comedian and writer',56, 96), ('best known',97, 107), ('her work',112, 120), ('Saturday Night Live',124, 143), ('The Daily Show',145, 159), ('The Office',164, 174), ('the TBS comedy series Angie Tribeca',200, 235), ('her husband',241, 252), ('Steve Carell',254, 266)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'NN', 'NNS', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nancy'), (6, 'Ellen'), (12, 'Carell'), (19, '(;'), (22, 'née'), (26, 'Walls'), (31, ';'), (33, 'born'), (38, 'July'), (43, '19'), (45, ','), (47, '1966'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'actress'), (75, ','), (77, 'comedian'), (86, 'and'), (90, 'writer'), (97, 'best'), (102, 'known'), (108, 'for'), (112, 'her'), (116, 'work'), (121, 'on'), (124, 'Saturday'), (133, 'Night'), (139, 'Live'), (143, ','), (145, 'The'), (149, 'Daily'), (155, 'Show'), (160, 'and'), (164, 'The'), (168, 'Office'), (174, '.'), (176, 'In'), (179, '2016'), (183, ','), (185, 'she'), (189, 'co'), (191, '-'), (192, 'created'), (200, 'the'), (204, 'TBS'), (208, 'comedy'), (215, 'series'), (222, 'Angie'), (228, 'Tribeca'), (236, 'with'), (241, 'her'), (245, 'husband'), (252, ','), (254, 'Steve'), (260, 'Carell'), (266, '.')])</spacy_tokens>
+<spacy_chunks>[('Nancy Ellen Carell', 0, 18), ('(; née Walls', 19, 31), ('July 19, 1966', 38, 51), ('an American actress', 56, 75), ('comedian', 77, 85), ('writer', 90, 96), ('her work', 112, 120), ('Saturday Night Live', 124, 143), ('The Daily Show', 145, 159), ('The Office', 164, 174), ('the TBS comedy series', 200, 221), ('Angie Tribeca', 222, 235), ('her husband', 241, 252), ('Steve Carell', 254, 266)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NN', 'VBZ', 'NNP', ',', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'VBD', 'VBD', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Philo McCullough</title>
+<link/>https://en.wikipedia.org/wiki/Philo_McCullough
+<annotated>0</annotated>
+<originalabstract>Philo McCullough (June 16, 1893 – June 5, 1981) was an American actor. He appeared in 255 films between 1914 and 1969. He was born in San Bernardino, California and died in Burbank, California.</originalabstract>
+<abstract>Philo_McCullough ( June_16_,_1893 – June_5 , 1981 ) was an_American_actor . He appeared in 255_films between 1914_and_1969 . He was_born in San_Bernardino , California and died in Burbank , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Philo'), (6, 'McCullough'), (17, '('), (18, 'June'), (23, '16'), (25, ','), (27, '1893'), (32, '–'), (34, 'June'), (39, '5'), (40, ','), (42, '1981'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'appeared'), (83, 'in'), (86, '255'), (90, 'films'), (96, 'between'), (104, '1914'), (109, 'and'), (113, '1969'), (117, '.'), (119, 'He'), (122, 'was'), (126, 'born'), (131, 'in'), (134, 'San'), (138, 'Bernardino'), (148, ','), (150, 'California'), (161, 'and'), (165, 'died'), (170, 'in'), (173, 'Burbank'), (180, ','), (182, 'California'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('Philo McCullough',0, 16), ('June 16, 1893',18, 31), ('June 5',34, 40), ('an American actor',52, 69), ('255 films',86, 95), ('1914 and 1969',104, 117), ('was born',122, 130), ('San Bernardino',134, 148)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Philo'), (6, 'McCullough'), (17, '('), (18, 'June'), (23, '16'), (25, ','), (27, '1893'), (32, '–'), (34, 'June'), (39, '5'), (40, ','), (42, '1981'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'appeared'), (83, 'in'), (86, '255'), (90, 'films'), (96, 'between'), (104, '1914'), (109, 'and'), (113, '1969'), (117, '.'), (119, 'He'), (122, 'was'), (126, 'born'), (131, 'in'), (134, 'San'), (138, 'Bernardino'), (148, ','), (150, 'California'), (161, 'and'), (165, 'died'), (170, 'in'), (173, 'Burbank'), (180, ','), (182, 'California'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('Philo McCullough', 0, 16), ('June 16, 1893', 18, 31), ('June 5, 1981', 34, 46), ('an American actor', 52, 69), ('255 films', 86, 95), ('San Bernardino, California', 134, 160), ('Burbank, California', 173, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

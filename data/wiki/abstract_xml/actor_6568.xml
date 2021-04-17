@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Arnold Taylor</title>
+<link/>https://en.wikipedia.org/wiki/James_Arnold_Taylor
+<annotated>0</annotated>
+<originalabstract>James Arnold Taylor (born July 22, 1969) is an American voice actor, known for portraying Ratchet in the Ratchet  Clank franchise; the main character Tidus in Final Fantasy X; and Obi-Wan Kenobi in the Star Wars animated features such as Star Wars: The Clone Wars  and the franchise's video games.</originalabstract>
+<abstract>James_Arnold_Taylor ( born July_22_,_1969 ) is an_American_voice_actor , known for portraying_Ratchet in the_Ratchet_ ; the_main_character_Tidus in Final_Fantasy_X ; and Obi-Wan_Kenobi in the_Star_Wars_animated_features such_as Star_Wars : The_Clone_Wars and the_franchise 's_video_games .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Arnold'), (13, 'Taylor'), (20, '('), (21, 'born'), (26, 'July'), (31, '22'), (33, ','), (35, '1969'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'voice'), (62, 'actor'), (67, ','), (69, 'known'), (75, 'for'), (79, 'portraying'), (90, 'Ratchet'), (98, 'in'), (101, 'the'), (105, 'Ratchet'), (113, ''), (115, 'Clank'), (121, 'franchise'), (130, ';'), (132, 'the'), (136, 'main'), (141, 'character'), (151, 'Tidus'), (157, 'in'), (160, 'Final'), (166, 'Fantasy'), (174, 'X'), (175, ';'), (177, 'and'), (181, 'Obi-Wan'), (189, 'Kenobi'), (196, 'in'), (199, 'the'), (203, 'Star'), (208, 'Wars'), (213, 'animated'), (222, 'features'), (231, 'such'), (236, 'as'), (239, 'Star'), (244, 'Wars'), (248, ':'), (250, 'The'), (254, 'Clone'), (260, 'Wars'), (266, 'and'), (270, 'the'), (274, 'franchise'), (283, '\'s'), (286, 'video'), (292, 'games'), (297, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Arnold Taylor',0, 19), ('July 22, 1969',26, 39), ('an American voice actor',44, 67), ('portraying Ratchet',79, 97), ('the Ratchet  Clank franchise',101, 130), ('the main character Tidus',132, 156), ('Final Fantasy X',160, 175), ('Obi-Wan Kenobi',181, 195), ('the Star Wars animated features',199, 230), ('such as',231, 238), ('Star Wars',239, 248), ('The Clone Wars',250, 264), ('the franchise',270, 283), ('\'s video games',283, 297)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NN', ':', 'DT', 'JJ', 'NN', 'NNP', 'IN', 'JJ', 'NNP', 'NN', ':', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'JJ', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', ':', 'DT', 'NN', 'NNS', 'CC', 'DT', 'NN', 'POS', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Arnold'), (13, 'Taylor'), (20, '('), (21, 'born'), (26, 'July'), (31, '22'), (33, ','), (35, '1969'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'voice'), (62, 'actor'), (67, ','), (69, 'known'), (75, 'for'), (79, 'portraying'), (90, 'Ratchet'), (98, 'in'), (101, 'the'), (105, 'Ratchet'), (114, 'Clank'), (120, 'franchise'), (129, ';'), (131, 'the'), (135, 'main'), (140, 'character'), (150, 'Tidus'), (156, 'in'), (159, 'Final'), (165, 'Fantasy'), (173, 'X'), (174, ';'), (176, 'and'), (180, 'Obi'), (183, '-'), (184, 'Wan'), (188, 'Kenobi'), (195, 'in'), (198, 'the'), (202, 'Star'), (207, 'Wars'), (212, 'animated'), (221, 'features'), (230, 'such'), (235, 'as'), (238, 'Star'), (243, 'Wars'), (247, ':'), (249, 'The'), (253, 'Clone'), (259, 'Wars'), (265, 'and'), (269, 'the'), (273, 'franchise'), (282, "'s"), (285, 'video'), (291, 'games'), (296, '.')])</spacy_tokens>
+<spacy_chunks>[('James Arnold Taylor', 0, 19), ('July 22, 1969', 26, 39), ('an American voice actor', 44, 67), ('Ratchet', 90, 97), ('the Ratchet', 101, 112), ('Clank franchise', 114, 129), ('the main character', 131, 149), ('Final Fantasy X', 159, 174), ('Obi-Wan Kenobi', 180, 194), ('the Star Wars', 198, 211), ('Star Wars: The Clone Wars', 238, 263), ("the franchise's video games", 269, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', ':', 'DT', 'JJ', 'NN', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', ':', 'CC', 'NNP', 'HYPH', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNPS', 'VBD', 'NNS', 'JJ', 'IN', 'NNP', 'NNPS', ':', 'DT', 'NNP', 'NNPS', 'CC', 'DT', 'NN', 'POS', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

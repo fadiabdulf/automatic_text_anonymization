@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dave Willock</title>
+<link/>https://en.wikipedia.org/wiki/Dave_Willock
+<annotated>0</annotated>
+<originalabstract>Dave Willock (August 13, 1909 – November 12, 1990) was an American character actor. Willock appeared in 181 films and television series from 1939 to 1989.</originalabstract>
+<abstract>Dave_Willock ( August_13_,_1909 – November_12_,_1990 ) was an_American_character_actor . Willock appeared in 181_films_and_television_series from 1939 to 1989 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dave'), (5, 'Willock'), (13, '('), (14, 'August'), (21, '13'), (23, ','), (25, '1909'), (30, '–'), (32, 'November'), (41, '12'), (43, ','), (45, '1990'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'character'), (77, 'actor'), (82, '.'), (84, 'Willock'), (92, 'appeared'), (101, 'in'), (104, '181'), (108, 'films'), (114, 'and'), (118, 'television'), (129, 'series'), (136, 'from'), (141, '1939'), (146, 'to'), (149, '1989'), (153, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dave Willock',0, 12), ('August 13, 1909',14, 29), ('November 12, 1990',32, 49), ('an American character actor',55, 82), ('181 films and television series',104, 135)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'NN', 'VBD', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NN', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dave'), (5, 'Willock'), (13, '('), (14, 'August'), (21, '13'), (23, ','), (25, '1909'), (30, '–'), (32, 'November'), (41, '12'), (43, ','), (45, '1990'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'character'), (77, 'actor'), (82, '.'), (84, 'Willock'), (92, 'appeared'), (101, 'in'), (104, '181'), (108, 'films'), (114, 'and'), (118, 'television'), (129, 'series'), (136, 'from'), (141, '1939'), (146, 'to'), (149, '1989'), (153, '.')])</spacy_tokens>
+<spacy_chunks>[('Dave Willock', 0, 12), ('(August', 13, 20), ('August 13, 1909', 14, 29), ('November 12, 1990', 32, 49), ('an American character actor', 55, 82), ('181 films', 104, 113), ('television series', 118, 135)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBD', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NN', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

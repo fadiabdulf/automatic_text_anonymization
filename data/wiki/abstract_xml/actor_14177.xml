@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kim Myers</title>
+<link/>https://en.wikipedia.org/wiki/Kim_Myers
+<annotated>0</annotated>
+<originalabstract>Kimberly S. Myers (born February 15, 1966) is an American television and film actress.
+Her breakthrough role was in the 1985 horror film A Nightmare on Elm Street 2: Freddy's Revenge as Lisa Webber. She acted in another horror sequel in 1996, Hellraiser: Bloodline.
+Myers is married to producer/writer Eric Small.</originalabstract>
+<abstract>Kimberly_S._Myers ( born February_15_,_1966 ) is an_American_television_and_film_actress . Her_breakthrough_role was in the_1985_horror_film_A_Nightmare on Elm_Street_2 : Freddy 's_Revenge as Lisa_Webber . She acted in another_horror_sequel in 1996 , Hellraiser : Bloodline . Myers is_married to producer/writer_Eric_Small .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kimberly'), (9, 'S.'), (12, 'Myers'), (18, '('), (19, 'born'), (24, 'February'), (33, '15'), (35, ','), (37, '1966'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'television'), (69, 'and'), (73, 'film'), (78, 'actress'), (85, '.'), (87, 'Her'), (91, 'breakthrough'), (104, 'role'), (109, 'was'), (113, 'in'), (116, 'the'), (120, '1985'), (125, 'horror'), (132, 'film'), (137, 'A'), (139, 'Nightmare'), (149, 'on'), (152, 'Elm'), (156, 'Street'), (163, '2'), (164, ':'), (166, 'Freddy'), (172, '\'s'), (175, 'Revenge'), (183, 'as'), (186, 'Lisa'), (191, 'Webber'), (197, '.'), (199, 'She'), (203, 'acted'), (209, 'in'), (212, 'another'), (220, 'horror'), (227, 'sequel'), (234, 'in'), (237, '1996'), (241, ','), (243, 'Hellraiser'), (253, ':'), (255, 'Bloodline'), (264, '.'), (266, 'Myers'), (272, 'is'), (275, 'married'), (283, 'to'), (286, 'producer/writer'), (302, 'Eric'), (307, 'Small'), (312, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kimberly S. Myers',0, 17), ('February 15, 1966',24, 41), ('an American television and film actress',46, 85), ('Her breakthrough role',87, 108), ('the 1985 horror film A Nightmare',116, 148), ('Elm Street 2',152, 164), ('\'s Revenge',172, 182), ('Lisa Webber',186, 197), ('another horror sequel',212, 233), ('is married',272, 282), ('producer/writer Eric Small',286, 312)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP$', 'NN', 'NN', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'CD', ':', 'NNP', 'POS', 'NN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'CD', ',', 'NNP', ':', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'TO', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kimberly'), (9, 'S.'), (12, 'Myers'), (18, '('), (19, 'born'), (24, 'February'), (33, '15'), (35, ','), (37, '1966'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'television'), (69, 'and'), (73, 'film'), (78, 'actress'), (85, '.'), (87, 'Her'), (91, 'breakthrough'), (104, 'role'), (109, 'was'), (113, 'in'), (116, 'the'), (120, '1985'), (125, 'horror'), (132, 'film'), (137, 'A'), (139, 'Nightmare'), (149, 'on'), (152, 'Elm'), (156, 'Street'), (163, '2'), (164, ':'), (166, 'Freddy'), (172, "'s"), (175, 'Revenge'), (183, 'as'), (186, 'Lisa'), (191, 'Webber'), (197, '.'), (199, 'She'), (203, 'acted'), (209, 'in'), (212, 'another'), (220, 'horror'), (227, 'sequel'), (234, 'in'), (237, '1996'), (241, ','), (243, 'Hellraiser'), (253, ':'), (255, 'Bloodline'), (264, '.'), (266, 'Myers'), (272, 'is'), (275, 'married'), (283, 'to'), (286, 'producer'), (294, '/'), (295, 'writer'), (302, 'Eric'), (307, 'Small'), (312, '.')])</spacy_tokens>
+<spacy_chunks>[('Kimberly S. Myers', 0, 17), ('February 15, 1966', 24, 41), ('an American television and film actress', 46, 85), ('Her breakthrough role', 87, 108), ('In the', 113, 119), ('the 1985 horror film', 116, 136), ("A Nightmare on Elm Street 2: Freddy's Revenge", 137, 182), ('Lisa Webber', 186, 197), ('another horror sequel', 212, 233), ('Hellraiser: Bloodline', 243, 264), ('producer/writer Eric Small', 286, 312)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP$', 'JJ', 'NN', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CD', ':', 'NNP', 'POS', 'NNP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'CD', ',', 'NNP', ':', 'NN', '.', 'NNP', 'VBZ', 'JJ', 'IN', 'NN', 'SYM', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

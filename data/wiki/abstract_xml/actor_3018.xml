@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hobart Henley</title>
+<link/>https://en.wikipedia.org/wiki/Hobart_Henley
+<annotated>0</annotated>
+<originalabstract>Hobart Henley (born Hess Manassah Henle; November 23, 1887 – May 22, 1964) was an American silent film actor, director, and screenwriter.  He was involved in well over 60 films either as an actor or director or both in his twenty-year career, between 1914 and 1934 when he retired from filmmaking.</originalabstract>
+<abstract>Hobart_Henley ( born Hess_Manassah_Henle ; November_23_,_1887 – May_22_,_1964 ) was an_American_silent_film_actor , director , and screenwriter . He was_involved in well_over_60_films either as an_actor_or_director or both in his_twenty-year_career , between 1914_and_1934 when he retired from filmmaking .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hobart'), (7, 'Henley'), (14, '('), (15, 'born'), (20, 'Hess'), (25, 'Manassah'), (34, 'Henle'), (39, ';'), (41, 'November'), (50, '23'), (52, ','), (54, '1887'), (59, '–'), (61, 'May'), (65, '22'), (67, ','), (69, '1964'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'American'), (91, 'silent'), (98, 'film'), (103, 'actor'), (108, ','), (110, 'director'), (118, ','), (120, 'and'), (124, 'screenwriter'), (136, '.'), (139, 'He'), (142, 'was'), (146, 'involved'), (155, 'in'), (158, 'well'), (163, 'over'), (168, '60'), (171, 'films'), (177, 'either'), (184, 'as'), (187, 'an'), (190, 'actor'), (196, 'or'), (199, 'director'), (208, 'or'), (211, 'both'), (216, 'in'), (219, 'his'), (223, 'twenty-year'), (235, 'career'), (241, ','), (243, 'between'), (251, '1914'), (256, 'and'), (260, '1934'), (265, 'when'), (270, 'he'), (273, 'retired'), (281, 'from'), (286, 'filmmaking'), (296, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hobart Henley',0, 13), ('Hess Manassah Henle',20, 39), ('November 23, 1887',41, 58), ('May 22, 1964',61, 73), ('an American silent film actor',79, 108), ('was involved',142, 154), ('well over 60 films',158, 176), ('an actor or director',187, 207), ('his twenty-year career',219, 241), ('1914 and 1934',251, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'RB', 'IN', 'CD', 'NNS', 'CC', 'IN', 'DT', 'NN', 'CC', 'NN', 'CC', 'CC', 'IN', 'PRP$', 'JJ', 'NN', ',', 'IN', 'CD', 'CC', 'CD', 'WRB', 'PRP', 'VBD', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hobart'), (7, 'Henley'), (14, '('), (15, 'born'), (20, 'Hess'), (25, 'Manassah'), (34, 'Henle'), (39, ';'), (41, 'November'), (50, '23'), (52, ','), (54, '1887'), (59, '–'), (61, 'May'), (65, '22'), (67, ','), (69, '1964'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'American'), (91, 'silent'), (98, 'film'), (103, 'actor'), (108, ','), (110, 'director'), (118, ','), (120, 'and'), (124, 'screenwriter'), (136, '.'), (139, 'He'), (142, 'was'), (146, 'involved'), (155, 'in'), (158, 'well'), (163, 'over'), (168, '60'), (171, 'films'), (177, 'either'), (184, 'as'), (187, 'an'), (190, 'actor'), (196, 'or'), (199, 'director'), (208, 'or'), (211, 'both'), (216, 'in'), (219, 'his'), (223, 'twenty'), (229, '-'), (230, 'year'), (235, 'career'), (241, ','), (243, 'between'), (251, '1914'), (256, 'and'), (260, '1934'), (265, 'when'), (270, 'he'), (273, 'retired'), (281, 'from'), (286, 'filmmaking'), (296, '.')])</spacy_tokens>
+<spacy_chunks>[('Hobart Henley', 0, 13), ('(born Hess Manassah Henle', 14, 39), ('November 23, 1887', 41, 58), ('May 22, 1964', 61, 73), ('an American silent film actor', 79, 108), ('director', 110, 118), ('screenwriter', 124, 136), ('well over 60 films', 158, 176), ('an actor', 187, 195), ('his twenty-year career', 219, 241), ('filmmaking', 286, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'NNS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'RB', 'IN', 'CD', 'NNS', 'CC', 'IN', 'DT', 'NN', 'CC', 'NN', 'CC', 'DT', 'IN', 'PRP$', 'CD', 'HYPH', 'NN', 'NN', ',', 'IN', 'CD', 'CC', 'CD', 'WRB', 'PRP', 'VBD', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

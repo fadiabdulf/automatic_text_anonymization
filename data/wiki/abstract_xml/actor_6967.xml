@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>E. Alyn Warren</title>
+<link/>https://en.wikipedia.org/wiki/E._Alyn_Warren
+<annotated>0</annotated>
+<originalabstract>Edward Alyn Warren (June 2, 1874 – January 22, 1940) was an American actor. He appeared in 99 films between 1915 and 1940. In some early silent films he was credited as Fred Warren or E. A. Warren. He was born in Richmond, Virginia and died in Woodland Hills, Los Angeles.</originalabstract>
+<abstract>Edward_Alyn_Warren ( June_2_,_1874 – January_22_,_1940 ) was an_American_actor . He appeared in 99_films between 1915_and_1940 . In some_early_silent_films he was_credited as Fred_Warren or E._A._Warren . He was_born in Richmond_,_Virginia_and died in Woodland_Hills , Los_Angeles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edward'), (7, 'Alyn'), (12, 'Warren'), (19, '('), (20, 'June'), (25, '2'), (26, ','), (28, '1874'), (33, '–'), (35, 'January'), (43, '22'), (45, ','), (47, '1940'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (74, '.'), (76, 'He'), (79, 'appeared'), (88, 'in'), (91, '99'), (94, 'films'), (100, 'between'), (108, '1915'), (113, 'and'), (117, '1940'), (121, '.'), (123, 'In'), (126, 'some'), (131, 'early'), (137, 'silent'), (144, 'films'), (150, 'he'), (153, 'was'), (157, 'credited'), (166, 'as'), (169, 'Fred'), (174, 'Warren'), (181, 'or'), (184, 'E.'), (187, 'A.'), (190, 'Warren'), (196, '.'), (198, 'He'), (201, 'was'), (205, 'born'), (210, 'in'), (213, 'Richmond'), (221, ','), (223, 'Virginia'), (232, 'and'), (236, 'died'), (241, 'in'), (244, 'Woodland'), (253, 'Hills'), (258, ','), (260, 'Los'), (264, 'Angeles'), (271, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edward Alyn Warren',0, 18), ('June 2, 1874',20, 32), ('January 22, 1940',35, 51), ('an American actor',57, 74), ('99 films',91, 99), ('1915 and 1940',108, 121), ('some early silent films',126, 149), ('was credited',153, 165), ('Fred Warren',169, 180), ('E. A. Warren',184, 196), ('was born',201, 209), ('Richmond, Virginia and',213, 235), ('Woodland Hills',244, 258), ('Los Angeles',260, 271)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'IN', 'DT', 'JJ', 'JJ', 'NNS', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edward'), (7, 'Alyn'), (12, 'Warren'), (19, '('), (20, 'June'), (25, '2'), (26, ','), (28, '1874'), (33, '–'), (35, 'January'), (43, '22'), (45, ','), (47, '1940'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (74, '.'), (76, 'He'), (79, 'appeared'), (88, 'in'), (91, '99'), (94, 'films'), (100, 'between'), (108, '1915'), (113, 'and'), (117, '1940'), (121, '.'), (123, 'In'), (126, 'some'), (131, 'early'), (137, 'silent'), (144, 'films'), (150, 'he'), (153, 'was'), (157, 'credited'), (166, 'as'), (169, 'Fred'), (174, 'Warren'), (181, 'or'), (184, 'E.'), (187, 'A.'), (190, 'Warren'), (196, '.'), (198, 'He'), (201, 'was'), (205, 'born'), (210, 'in'), (213, 'Richmond'), (221, ','), (223, 'Virginia'), (232, 'and'), (236, 'died'), (241, 'in'), (244, 'Woodland'), (253, 'Hills'), (258, ','), (260, 'Los'), (264, 'Angeles'), (271, '.')])</spacy_tokens>
+<spacy_chunks>[('Edward Alyn Warren', 0, 18), ('June 2, 1874', 20, 32), ('January 22, 1940', 35, 51), ('an American actor', 57, 74), ('99 films', 91, 99), ('some early silent films', 126, 149), ('Fred Warren', 169, 180), ('E. A. Warren', 184, 196), ('Richmond, Virginia', 213, 231), ('Woodland Hills, Los Angeles', 244, 271)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'IN', 'DT', 'JJ', 'JJ', 'NNS', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

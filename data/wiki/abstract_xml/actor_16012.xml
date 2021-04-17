@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sheree J. Wilson</title>
+<link/>https://en.wikipedia.org/wiki/Sheree_J._Wilson
+<annotated>0</annotated>
+<originalabstract>Sheree Julienne Wilson (born December 12, 1958) is an American actress, producer, businesswoman, and model. She is best known for her roles as April Stevens Ewing on the American primetime television series Dallas (1986–1991) and as Alex Cahill-Walker on the television series Walker, Texas Ranger (1993–2001).</originalabstract>
+<abstract>Sheree_Julienne_Wilson ( born December_12_,_1958 ) is an_American_actress , producer , businesswoman , and model . She is_best_known for her_roles as April_Stevens_Ewing on the_American_primetime_television_series_Dallas_(_1986 – 1991_) and as Alex_Cahill-Walker on the_television_series_Walker_,_Texas_Ranger_(_1993 – 2001_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sheree'), (7, 'Julienne'), (16, 'Wilson'), (23, '('), (24, 'born'), (29, 'December'), (38, '12'), (40, ','), (42, '1958'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actress'), (70, ','), (72, 'producer'), (80, ','), (82, 'businesswoman'), (95, ','), (97, 'and'), (101, 'model'), (106, '.'), (108, 'She'), (112, 'is'), (115, 'best'), (120, 'known'), (126, 'for'), (130, 'her'), (134, 'roles'), (140, 'as'), (143, 'April'), (149, 'Stevens'), (157, 'Ewing'), (163, 'on'), (166, 'the'), (170, 'American'), (179, 'primetime'), (189, 'television'), (200, 'series'), (207, 'Dallas'), (214, '('), (215, '1986'), (219, '–'), (220, '1991'), (224, ')'), (226, 'and'), (230, 'as'), (233, 'Alex'), (238, 'Cahill-Walker'), (252, 'on'), (255, 'the'), (259, 'television'), (270, 'series'), (277, 'Walker'), (283, ','), (285, 'Texas'), (291, 'Ranger'), (298, '('), (299, '1993'), (303, '–'), (304, '2001'), (308, ')'), (309, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sheree Julienne Wilson',0, 22), ('December 12, 1958',29, 46), ('an American actress',51, 70), ('is best known',112, 125), ('her roles',130, 139), ('April Stevens Ewing',143, 162), ('the American primetime television series Dallas (1986',166, 219), ('1991)',220, 225), ('Alex Cahill-Walker',233, 251), ('the television series Walker, Texas Ranger (1993',255, 303), ('2001)',304, 309)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', ',', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sheree'), (7, 'Julienne'), (16, 'Wilson'), (23, '('), (24, 'born'), (29, 'December'), (38, '12'), (40, ','), (42, '1958'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actress'), (70, ','), (72, 'producer'), (80, ','), (82, 'businesswoman'), (95, ','), (97, 'and'), (101, 'model'), (106, '.'), (108, 'She'), (112, 'is'), (115, 'best'), (120, 'known'), (126, 'for'), (130, 'her'), (134, 'roles'), (140, 'as'), (143, 'April'), (149, 'Stevens'), (157, 'Ewing'), (163, 'on'), (166, 'the'), (170, 'American'), (179, 'primetime'), (189, 'television'), (200, 'series'), (207, 'Dallas'), (214, '('), (215, '1986–1991'), (224, ')'), (226, 'and'), (230, 'as'), (233, 'Alex'), (238, 'Cahill'), (244, '-'), (245, 'Walker'), (252, 'on'), (255, 'the'), (259, 'television'), (270, 'series'), (277, 'Walker'), (283, ','), (285, 'Texas'), (291, 'Ranger'), (298, '('), (299, '1993–2001'), (308, ')'), (309, '.')])</spacy_tokens>
+<spacy_chunks>[('Sheree Julienne Wilson', 0, 22), ('December 12, 1958', 29, 46), ('an American actress', 51, 70), ('producer', 72, 80), ('businesswoman', 82, 95), ('her roles', 130, 139), ('April Stevens Ewing', 143, 162), ('the American primetime television series', 166, 206), ('Dallas', 207, 213), ('Alex Cahill-Walker', 233, 251), ('the television series', 255, 276), ('Walker, Texas Ranger', 277, 297)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'IN', 'NNP', 'NNP', 'HYPH', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

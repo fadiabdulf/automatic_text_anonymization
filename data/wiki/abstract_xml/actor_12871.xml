@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ann Hovey</title>
+<link/>https://en.wikipedia.org/wiki/Ann_Hovey
+<annotated>0</annotated>
+<originalabstract>Ann Hovey (August 29, 1911 – August 25, 2007) was an American chorus girl and minor film actress of the 1930s, primarily in B-movies.</originalabstract>
+<abstract>Ann_Hovey ( August_29_,_1911 – August_25_,_2007 ) was an_American_chorus_girl and minor_film_actress of the_1930s , primarily in B-movies .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ann'), (4, 'Hovey'), (10, '('), (11, 'August'), (18, '29'), (20, ','), (22, '1911'), (27, '–'), (29, 'August'), (36, '25'), (38, ','), (40, '2007'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'chorus'), (69, 'girl'), (74, 'and'), (78, 'minor'), (84, 'film'), (89, 'actress'), (97, 'of'), (100, 'the'), (104, '1930s'), (109, ','), (111, 'primarily'), (121, 'in'), (124, 'B-movies'), (132, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ann Hovey',0, 9), ('August 29, 1911',11, 26), ('August 25, 2007',29, 44), ('an American chorus girl',50, 73), ('minor film actress',78, 96), ('the 1930s',100, 109)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', ',', 'RB', 'IN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ann'), (4, 'Hovey'), (10, '('), (11, 'August'), (18, '29'), (20, ','), (22, '1911'), (27, '–'), (29, 'August'), (36, '25'), (38, ','), (40, '2007'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'chorus'), (69, 'girl'), (74, 'and'), (78, 'minor'), (84, 'film'), (89, 'actress'), (97, 'of'), (100, 'the'), (104, '1930s'), (109, ','), (111, 'primarily'), (121, 'in'), (124, 'B'), (125, '-'), (126, 'movies'), (132, '.')])</spacy_tokens>
+<spacy_chunks>[('Ann Hovey', 0, 9), ('(August', 10, 17), ('August 29, 1911', 11, 26), ('August 25, 2007', 29, 44), ('an American chorus girl', 50, 73), ('minor film actress', 78, 96), ('the 1930s', 100, 109), ('B-movies', 124, 132)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', ',', 'RB', 'IN', 'NN', 'HYPH', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

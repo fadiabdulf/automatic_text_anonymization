@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Scott Rosenberg</title>
+<link/>https://en.wikipedia.org/wiki/Scott_Rosenberg
+<annotated>0</annotated>
+<originalabstract>Scott Rosenberg (born April 24, 1963) is an American screenwriter, film producer, and actor.</originalabstract>
+<abstract>Scott_Rosenberg ( born April_24 , 1963 ) is an_American_screenwriter , film_producer , and actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Scott'), (6, 'Rosenberg'), (16, '('), (17, 'born'), (22, 'April'), (28, '24'), (30, ','), (32, '1963'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'screenwriter'), (65, ','), (67, 'film'), (72, 'producer'), (80, ','), (82, 'and'), (86, 'actor'), (91, '.')])</stanford_tokens>
+<opennlp_chunks>[('Scott Rosenberg',0, 15), ('April 24',22, 30), ('an American screenwriter',41, 65), ('film producer',67, 80)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Scott'), (6, 'Rosenberg'), (16, '('), (17, 'born'), (22, 'April'), (28, '24'), (30, ','), (32, '1963'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'screenwriter'), (65, ','), (67, 'film'), (72, 'producer'), (80, ','), (82, 'and'), (86, 'actor'), (91, '.')])</spacy_tokens>
+<spacy_chunks>[('Scott Rosenberg', 0, 15), ('April 24, 1963', 22, 36), ('an American screenwriter', 41, 65), ('Film producer', 67, 80)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bobbie Comber</title>
+<link/>https://en.wikipedia.org/wiki/Bobbie_Comber
+<annotated>0</annotated>
+<originalabstract>Bobbie Comber (born Edmund Comber; 8 January 1886 – 1 March 1942) was a British comedian, singer and actor. He first appeared on stage in 1904 in Bournemouth.  He was born in Bury St Edmunds, Suffolk, England, and died in Bangor, Wales.</originalabstract>
+<abstract>Bobbie_Comber ( born Edmund_Comber ; 8_January_1886 – 1_March_1942 ) was a_British_comedian , singer_and_actor . He first appeared on stage in 1904 in Bournemouth . He was_born in Bury_St_Edmunds , Suffolk , England , and died in Bangor , Wales .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bobbie'), (7, 'Comber'), (14, '('), (15, 'born'), (20, 'Edmund'), (27, 'Comber'), (33, ';'), (35, '8'), (37, 'January'), (45, '1886'), (50, '–'), (52, '1'), (54, 'March'), (60, '1942'), (64, ')'), (66, 'was'), (70, 'a'), (72, 'British'), (80, 'comedian'), (88, ','), (90, 'singer'), (97, 'and'), (101, 'actor'), (106, '.'), (108, 'He'), (111, 'first'), (117, 'appeared'), (126, 'on'), (129, 'stage'), (135, 'in'), (138, '1904'), (143, 'in'), (146, 'Bournemouth'), (157, '.'), (160, 'He'), (163, 'was'), (167, 'born'), (172, 'in'), (175, 'Bury'), (180, 'St'), (183, 'Edmunds'), (190, ','), (192, 'Suffolk'), (199, ','), (201, 'England'), (208, ','), (210, 'and'), (214, 'died'), (219, 'in'), (222, 'Bangor'), (228, ','), (230, 'Wales'), (235, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bobbie Comber',0, 13), ('Edmund Comber',20, 33), ('8 January 1886',35, 49), ('1 March 1942',52, 64), ('a British comedian',70, 88), ('singer and actor',90, 106), ('was born',163, 171), ('Bury St Edmunds',175, 190)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'RB', 'VBD', 'IN', 'NN', 'IN', 'CD', 'IN', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bobbie'), (7, 'Comber'), (14, '('), (15, 'born'), (20, 'Edmund'), (27, 'Comber'), (33, ';'), (35, '8'), (37, 'January'), (45, '1886'), (50, '–'), (52, '1'), (54, 'March'), (60, '1942'), (64, ')'), (66, 'was'), (70, 'a'), (72, 'British'), (80, 'comedian'), (88, ','), (90, 'singer'), (97, 'and'), (101, 'actor'), (106, '.'), (108, 'He'), (111, 'first'), (117, 'appeared'), (126, 'on'), (129, 'stage'), (135, 'in'), (138, '1904'), (143, 'in'), (146, 'Bournemouth'), (157, '.'), (160, 'He'), (163, 'was'), (167, 'born'), (172, 'in'), (175, 'Bury'), (180, 'St'), (183, 'Edmunds'), (190, ','), (192, 'Suffolk'), (199, ','), (201, 'England'), (208, ','), (210, 'and'), (214, 'died'), (219, 'in'), (222, 'Bangor'), (228, ','), (230, 'Wales'), (235, '.')])</spacy_tokens>
+<spacy_chunks>[('Bobbie Comber', 0, 13), ('(born Edmund Comber', 14, 33), ('8 January 1886', 35, 49), ('1 March 1942', 52, 64), ('a British comedian', 70, 88), ('singer', 90, 96), ('Bournemouth', 146, 157), ('Bury St Edmunds', 175, 190), ('Suffolk', 192, 199), ('England', 201, 208), ('Bangor,', 222, 229)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'RB', 'VBD', 'IN', 'NN', 'IN', 'CD', 'IN', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

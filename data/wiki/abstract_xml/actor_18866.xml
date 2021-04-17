@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Camille De Pazzis</title>
+<link/>https://en.wikipedia.org/wiki/Camille_De_Pazzis
+<annotated>0</annotated>
+<originalabstract>Camille De Pazzis  is a French actress most famous for starring in the French series La vie devant nous. She is also a face of Lancôme.She has co-starred in the American television series Last Resort and The Following. In 2015 De Pazzis was cast as Annie in the third and final season of Hemlock Grove.</originalabstract>
+<abstract>Camille_De_Pazzis is a_French_actress most_famous for starring in the_French_series_La vie devant_nous . She is also a_face of Lancôme.She has_co-starred in the_American_television_series_Last_Resort and The_Following . In 2015_De_Pazzis was_cast as Annie in the_third_and_final_season of Hemlock_Grove .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Camille'), (8, 'De'), (11, 'Pazzis'), (19, 'is'), (22, 'a'), (24, 'French'), (31, 'actress'), (39, 'most'), (44, 'famous'), (51, 'for'), (55, 'starring'), (64, 'in'), (67, 'the'), (71, 'French'), (78, 'series'), (85, 'La'), (88, 'vie'), (92, 'devant'), (99, 'nous'), (103, '.'), (105, 'She'), (109, 'is'), (112, 'also'), (117, 'a'), (119, 'face'), (124, 'of'), (127, 'Lancôme.She'), (139, 'has'), (143, 'co-starred'), (154, 'in'), (157, 'the'), (161, 'American'), (170, 'television'), (181, 'series'), (188, 'Last'), (193, 'Resort'), (200, 'and'), (204, 'The'), (208, 'Following'), (217, '.'), (219, 'In'), (222, '2015'), (227, 'De'), (230, 'Pazzis'), (237, 'was'), (241, 'cast'), (246, 'as'), (249, 'Annie'), (255, 'in'), (258, 'the'), (262, 'third'), (268, 'and'), (272, 'final'), (278, 'season'), (285, 'of'), (288, 'Hemlock'), (296, 'Grove'), (301, '.')])</stanford_tokens>
+<opennlp_chunks>[('Camille De Pazzis',0, 17), ('a French actress',22, 38), ('most famous',39, 50), ('the French series La',67, 87), ('devant nous',92, 103), ('a face',117, 123), ('has co-starred',139, 153), ('the American television series Last Resort',157, 199), ('The Following',204, 217), ('2015 De Pazzis',222, 236), ('was cast',237, 245), ('the third and final season',258, 284), ('Hemlock Grove',288, 301)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'JJ', 'IN', 'VBG', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'VB', 'JJ', 'JJ', '.', 'PRP', 'VBZ', 'RB', 'DT', 'NN', 'IN', 'NNP', 'VBZ', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'JJ', 'NNP', 'CC', 'DT', 'VBG', '.', 'IN', 'CD', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Camille'), (8, 'De'), (11, 'Pazzis'), (19, 'is'), (22, 'a'), (24, 'French'), (31, 'actress'), (39, 'most'), (44, 'famous'), (51, 'for'), (55, 'starring'), (64, 'in'), (67, 'the'), (71, 'French'), (78, 'series'), (85, 'La'), (88, 'vie'), (92, 'devant'), (99, 'nous'), (103, '.'), (105, 'She'), (109, 'is'), (112, 'also'), (117, 'a'), (119, 'face'), (124, 'of'), (127, 'Lancôme'), (134, '.'), (135, 'She'), (139, 'has'), (143, 'co'), (145, '-'), (146, 'starred'), (154, 'in'), (157, 'the'), (161, 'American'), (170, 'television'), (181, 'series'), (188, 'Last'), (193, 'Resort'), (200, 'and'), (204, 'The'), (208, 'Following'), (217, '.'), (219, 'In'), (222, '2015'), (227, 'De'), (230, 'Pazzis'), (237, 'was'), (241, 'cast'), (246, 'as'), (249, 'Annie'), (255, 'in'), (258, 'the'), (262, 'third'), (268, 'and'), (272, 'final'), (278, 'season'), (285, 'of'), (288, 'Hemlock'), (296, 'Grove'), (301, '.')])</spacy_tokens>
+<spacy_chunks>[('Camille De Pazzis', 0, 17), ('a French actress', 22, 38), ('the French series', 67, 84), ('La vie devant nous', 85, 103), ('a face', 117, 123), ('Lancôme', 127, 134), ('the American television series', 157, 187), ('Last Resort', 188, 199), ('The Following', 204, 217), ('the third and final season', 258, 284), ('Hemlock Grove', 288, 301)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'JJ', 'IN', 'VBG', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'FW', 'FW', 'FW', '.', 'PRP', 'VBZ', 'RB', 'DT', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'VBN', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'DT', 'VBG', '.', 'IN', 'CD', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Richard Emory</title>
+<link/>https://en.wikipedia.org/wiki/Richard_Emory
+<annotated>0</annotated>
+<originalabstract>Richard Emory (January 27, 1919 – February 15, 1994) was the first-born son of show business parents. He would achieve his fame as an American B-movie actor of the 1950s and 1960s. He would also play supporting roles in various television series of the same period. He retired from movies and television in 1963.</originalabstract>
+<abstract>Richard_Emory ( January_27_,_1919 – February_15_,_1994 ) was the_first-born_son of show_business_parents . He would_achieve his_fame as an_American_B-movie_actor of the_1950s_and_1960s . He would_also_play_supporting roles in various_television_series of the_same_period . He retired from movies_and_television in 1963 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Emory'), (14, '('), (15, 'January'), (23, '27'), (25, ','), (27, '1919'), (32, '–'), (34, 'February'), (43, '15'), (45, ','), (47, '1994'), (51, ')'), (53, 'was'), (57, 'the'), (61, 'first-born'), (72, 'son'), (76, 'of'), (79, 'show'), (84, 'business'), (93, 'parents'), (100, '.'), (102, 'He'), (105, 'would'), (111, 'achieve'), (119, 'his'), (123, 'fame'), (128, 'as'), (131, 'an'), (134, 'American'), (143, 'B-movie'), (151, 'actor'), (157, 'of'), (160, 'the'), (164, '1950s'), (170, 'and'), (174, '1960s'), (179, '.'), (181, 'He'), (184, 'would'), (190, 'also'), (195, 'play'), (200, 'supporting'), (211, 'roles'), (217, 'in'), (220, 'various'), (228, 'television'), (239, 'series'), (246, 'of'), (249, 'the'), (253, 'same'), (258, 'period'), (264, '.'), (266, 'He'), (269, 'retired'), (277, 'from'), (282, 'movies'), (289, 'and'), (293, 'television'), (304, 'in'), (307, '1963'), (311, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Emory',0, 13), ('January 27, 1919',15, 31), ('February 15, 1994',34, 51), ('the first-born son',57, 75), ('show business parents',79, 100), ('would achieve',105, 118), ('his fame',119, 127), ('an American B-movie actor',131, 156), ('the 1950s and 1960s',160, 179), ('would also play supporting',184, 210), ('various television series',220, 245), ('the same period',249, 264), ('movies and television',282, 303)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NN', 'NNS', '.', 'PRP', 'MD', 'VB', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'PRP', 'MD', 'RB', 'VB', 'VBG', 'NNS', 'IN', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNS', 'CC', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Emory'), (14, '('), (15, 'January'), (23, '27'), (25, ','), (27, '1919'), (32, '–'), (34, 'February'), (43, '15'), (45, ','), (47, '1994'), (51, ')'), (53, 'was'), (57, 'the'), (61, 'first'), (66, '-'), (67, 'born'), (72, 'son'), (76, 'of'), (79, 'show'), (84, 'business'), (93, 'parents'), (100, '.'), (102, 'He'), (105, 'would'), (111, 'achieve'), (119, 'his'), (123, 'fame'), (128, 'as'), (131, 'an'), (134, 'American'), (143, 'B'), (144, '-'), (145, 'movie'), (151, 'actor'), (157, 'of'), (160, 'the'), (164, '1950s'), (170, 'and'), (174, '1960s'), (179, '.'), (181, 'He'), (184, 'would'), (190, 'also'), (195, 'play'), (200, 'supporting'), (211, 'roles'), (217, 'in'), (220, 'various'), (228, 'television'), (239, 'series'), (246, 'of'), (249, 'the'), (253, 'same'), (258, 'period'), (264, '.'), (266, 'He'), (269, 'retired'), (277, 'from'), (282, 'movies'), (289, 'and'), (293, 'television'), (304, 'in'), (307, '1963'), (311, '.')])</spacy_tokens>
+<spacy_chunks>[('Richard Emory', 0, 13), ('January 27, 1919', 15, 31), ('February 15, 1994', 34, 51), ('the first-born son', 57, 75), ('show business parents', 79, 100), ('his fame', 119, 127), ('an American B-movie actor', 131, 156), ('the 1950s', 160, 169), ('supporting roles', 200, 216), ('various television series', 220, 245), ('the same period', 249, 264), ('movies', 282, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'RB', 'HYPH', 'VBN', 'NN', 'IN', 'NN', 'NN', 'NNS', '.', 'PRP', 'MD', 'VB', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NN', 'HYPH', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'MD', 'RB', 'VB', 'VBG', 'NNS', 'IN', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNS', 'CC', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

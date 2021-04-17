@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Herbert Langley</title>
+<link/>https://en.wikipedia.org/wiki/Herbert_Langley
+<annotated>0</annotated>
+<originalabstract>Herbert Langley (1888–1967) was a well-known early twentieth-century English opera singer (baritone) who later also played various minor acting roles in a number of British films.</originalabstract>
+<abstract>Herbert_Langley ( 1888 – 1967 ) was a_well-known_early_twentieth-century_English_opera_singer ( baritone ) who later also played various_minor_acting_roles in a_number of British_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Herbert'), (8, 'Langley'), (16, '('), (17, '1888'), (21, '–'), (22, '1967'), (26, ')'), (28, 'was'), (32, 'a'), (34, 'well-known'), (45, 'early'), (51, 'twentieth-century'), (69, 'English'), (77, 'opera'), (83, 'singer'), (90, '('), (91, 'baritone'), (99, ')'), (101, 'who'), (105, 'later'), (111, 'also'), (116, 'played'), (123, 'various'), (131, 'minor'), (137, 'acting'), (144, 'roles'), (150, 'in'), (153, 'a'), (155, 'number'), (162, 'of'), (165, 'British'), (173, 'films'), (178, '.')])</stanford_tokens>
+<opennlp_chunks>[('Herbert Langley',0, 15), ('a well-known early twentieth-century English opera singer',32, 89), ('various minor acting roles',123, 149), ('a number',153, 161), ('British films',165, 178)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'JJ', 'NN', 'NN', '-LRB-', 'NN', '-RRB-', 'WP', 'RB', 'RB', 'VBD', 'JJ', 'JJ', 'VBG', 'NNS', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Herbert'), (8, 'Langley'), (16, '('), (17, '1888–1967'), (26, ')'), (28, 'was'), (32, 'a'), (34, 'well'), (38, '-'), (39, 'known'), (45, 'early'), (51, 'twentieth'), (60, '-'), (61, 'century'), (69, 'English'), (77, 'opera'), (83, 'singer'), (90, '('), (91, 'baritone'), (99, ')'), (101, 'who'), (105, 'later'), (111, 'also'), (116, 'played'), (123, 'various'), (131, 'minor'), (137, 'acting'), (144, 'roles'), (150, 'in'), (153, 'a'), (155, 'number'), (162, 'of'), (165, 'British'), (173, 'films'), (178, '.')])</spacy_tokens>
+<spacy_chunks>[('Herbert Langley', 0, 15), ('a well-known early twentieth-century English opera singer', 32, 89), ('baritone', 91, 99), ('various minor acting roles', 123, 149), ('a number', 153, 161), ('British films', 165, 178)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'RB', 'HYPH', 'VBN', 'JJ', 'JJ', 'HYPH', 'NN', 'JJ', 'NN', 'NN', '-LRB-', 'NN', '-RRB-', 'WP', 'RB', 'RB', 'VBD', 'JJ', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

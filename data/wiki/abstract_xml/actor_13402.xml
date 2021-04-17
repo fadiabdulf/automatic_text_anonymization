@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sharon Leal</title>
+<link/>https://en.wikipedia.org/wiki/Sharon_Leal
+<annotated>0</annotated>
+<originalabstract>Sharon Ann Leal (born October 17, 1972) is an American actress and singer. She is known for her roles in movies such as Dreamgirls, This Christmas, Why Did I Get Married?, Why Did I Get Married Too? and her roles on the television shows Legacy, Guiding Light, and Boston Public.</originalabstract>
+<abstract>Sharon_Ann_Leal ( born October_17_,_1972 ) is an_American_actress_and_singer . She is_known for her_roles in movies such_as Dreamgirls , This_Christmas , Why Did I Get Married ? , Why Did I Get Married_Too ? and her_roles on the_television shows Legacy , Guiding_Light , and Boston_Public .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sharon'), (7, 'Ann'), (11, 'Leal'), (16, '('), (17, 'born'), (22, 'October'), (30, '17'), (32, ','), (34, '1972'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'singer'), (73, '.'), (75, 'She'), (79, 'is'), (82, 'known'), (88, 'for'), (92, 'her'), (96, 'roles'), (102, 'in'), (105, 'movies'), (112, 'such'), (117, 'as'), (120, 'Dreamgirls'), (130, ','), (132, 'This'), (137, 'Christmas'), (146, ','), (148, 'Why'), (152, 'Did'), (156, 'I'), (158, 'Get'), (162, 'Married'), (169, '?'), (170, ','), (172, 'Why'), (176, 'Did'), (180, 'I'), (182, 'Get'), (186, 'Married'), (194, 'Too'), (197, '?'), (199, 'and'), (203, 'her'), (207, 'roles'), (213, 'on'), (216, 'the'), (220, 'television'), (231, 'shows'), (237, 'Legacy'), (243, ','), (245, 'Guiding'), (253, 'Light'), (258, ','), (260, 'and'), (264, 'Boston'), (271, 'Public'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sharon Ann Leal',0, 15), ('October 17, 1972',22, 38), ('an American actress and singer',43, 73), ('is known',79, 87), ('her roles',92, 101), ('such as',112, 119), ('This Christmas',132, 146), ('Married Too',186, 197), ('her roles',203, 212), ('the television',216, 230), ('Guiding Light',245, 258), ('Boston Public',264, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'DT', 'NNP', ',', 'WRB', 'VBD', 'PRP', 'VB', 'NNP', '.', ',', 'WRB', 'VBD', 'PRP', 'VB', 'NNP', 'NNP', '.', 'CC', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'VBZ', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sharon'), (7, 'Ann'), (11, 'Leal'), (16, '('), (17, 'born'), (22, 'October'), (30, '17'), (32, ','), (34, '1972'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'singer'), (73, '.'), (75, 'She'), (79, 'is'), (82, 'known'), (88, 'for'), (92, 'her'), (96, 'roles'), (102, 'in'), (105, 'movies'), (112, 'such'), (117, 'as'), (120, 'Dreamgirls'), (130, ','), (132, 'This'), (137, 'Christmas'), (146, ','), (148, 'Why'), (152, 'Did'), (156, 'I'), (158, 'Get'), (162, 'Married'), (169, '?'), (170, ','), (172, 'Why'), (176, 'Did'), (180, 'I'), (182, 'Get'), (186, 'Married'), (194, 'Too'), (197, '?'), (199, 'and'), (203, 'her'), (207, 'roles'), (213, 'on'), (216, 'the'), (220, 'television'), (231, 'shows'), (237, 'Legacy'), (243, ','), (245, 'Guiding'), (253, 'Light'), (258, ','), (260, 'and'), (264, 'Boston'), (271, 'Public'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Sharon Ann Leal', 0, 15), ('October 17, 1972', 22, 38), ('an American actress', 43, 62), ('singer', 67, 73), ('her roles', 92, 101), ('movies', 105, 111), ('Dreamgirls', 120, 130), ('This Christmas', 132, 146), ('Why Did I Get Married?', 148, 170), ('Why Did I Get Married Too?', 172, 198), ('the television', 216, 230), ('Legacy', 237, 243), ('Guiding Light', 245, 258), ('Boston Public', 264, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'DT', 'NNP', ',', 'WRB', 'VBD', 'PRP', 'VB', 'JJ', '.', ',', 'WRB', 'VBD', 'PRP', 'VB', 'NNP', 'RB', '.', 'CC', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'VBZ', 'NN', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

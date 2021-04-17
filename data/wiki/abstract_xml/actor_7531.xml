@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joe Absolom</title>
+<link/>https://en.wikipedia.org/wiki/Joe_Absolom
+<annotated>0</annotated>
+<originalabstract>Joseph Absolom (born 16 December 1978 in Reading, Berkshire) is an English actor best known for playing Matthew Rose in the popular BBC soap opera EastEnders and Al Large in Doc Martin.</originalabstract>
+<abstract>Joseph_Absolom ( born_16_December_1978 in Reading , Berkshire ) is an_English_actor best_known for playing Matthew_Rose in the_popular_BBC_soap_opera_EastEnders and Al_Large in Doc_Martin .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joseph'), (7, 'Absolom'), (15, '('), (16, 'born'), (21, '16'), (24, 'December'), (33, '1978'), (38, 'in'), (41, 'Reading'), (48, ','), (50, 'Berkshire'), (59, ')'), (61, 'is'), (64, 'an'), (67, 'English'), (75, 'actor'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'Matthew'), (112, 'Rose'), (117, 'in'), (120, 'the'), (124, 'popular'), (132, 'BBC'), (136, 'soap'), (141, 'opera'), (147, 'EastEnders'), (158, 'and'), (162, 'Al'), (165, 'Large'), (171, 'in'), (174, 'Doc'), (178, 'Martin'), (184, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joseph Absolom',0, 14), ('born 16 December 1978',16, 37), ('an English actor',64, 80), ('best known',81, 91), ('Matthew Rose',104, 116), ('the popular BBC soap opera EastEnders',120, 157), ('Al Large',162, 170), ('Doc Martin',174, 184)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'NN', 'NNS', 'CC', 'NNP', 'JJ', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joseph'), (7, 'Absolom'), (15, '('), (16, 'born'), (21, '16'), (24, 'December'), (33, '1978'), (38, 'in'), (41, 'Reading'), (48, ','), (50, 'Berkshire'), (59, ')'), (61, 'is'), (64, 'an'), (67, 'English'), (75, 'actor'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'Matthew'), (112, 'Rose'), (117, 'in'), (120, 'the'), (124, 'popular'), (132, 'BBC'), (136, 'soap'), (141, 'opera'), (147, 'EastEnders'), (158, 'and'), (162, 'Al'), (165, 'Large'), (171, 'in'), (174, 'Doc'), (178, 'Martin'), (184, '.')])</spacy_tokens>
+<spacy_chunks>[('Joseph Absolom', 0, 14), ('16 December 1978', 21, 37), ('Reading, Berkshire', 41, 59), ('an English actor', 64, 80), ('Matthew Rose', 104, 116), ('the popular BBC soap opera EastEnders', 120, 157), ('Doc Martin', 174, 184)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'NN', 'NNP', 'CC', 'NNP', 'JJ', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

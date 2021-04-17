@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Abby Dalton</title>
+<link/>https://en.wikipedia.org/wiki/Abby_Dalton
+<annotated>0</annotated>
+<originalabstract>Abby Dalton (born Marlene Wasden; August 15, 1932) is an American actress, known for her television roles on the sitcoms Hennesey (1959–1962) and The Joey Bishop Show (1962–1965), and the primetime soap opera Falcon Crest (1981–1986).</originalabstract>
+<abstract>Abby_Dalton ( born Marlene_Wasden ; August_15_,_1932 ) is an_American_actress , known for her_television_roles on the_sitcoms_Hennesey ( 1959 – 1962 ) and The_Joey_Bishop_Show ( 1962 – 1965 ) , and the_primetime_soap_opera_Falcon_Crest ( 1981 – 1986 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Abby'), (5, 'Dalton'), (12, '('), (13, 'born'), (18, 'Marlene'), (26, 'Wasden'), (32, ';'), (34, 'August'), (41, '15'), (43, ','), (45, '1932'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'American'), (66, 'actress'), (73, ','), (75, 'known'), (81, 'for'), (85, 'her'), (89, 'television'), (100, 'roles'), (106, 'on'), (109, 'the'), (113, 'sitcoms'), (121, 'Hennesey'), (130, '('), (131, '1959'), (135, '–'), (136, '1962'), (140, ')'), (142, 'and'), (146, 'The'), (150, 'Joey'), (155, 'Bishop'), (162, 'Show'), (167, '('), (168, '1962'), (172, '–'), (173, '1965'), (177, ')'), (178, ','), (180, 'and'), (184, 'the'), (188, 'primetime'), (198, 'soap'), (203, 'opera'), (209, 'Falcon'), (216, 'Crest'), (222, '('), (223, '1981'), (227, '–'), (228, '1986'), (232, ')'), (233, '.')])</stanford_tokens>
+<opennlp_chunks>[('Abby Dalton',0, 11), ('Marlene Wasden',18, 32), ('August 15, 1932',34, 49), ('an American actress',54, 73), ('her television roles',85, 105), ('the sitcoms Hennesey',109, 129), ('The Joey Bishop Show',146, 166), ('the primetime soap opera Falcon Crest',184, 221)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'DT', 'NNS', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'CC', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Abby'), (5, 'Dalton'), (12, '('), (13, 'born'), (18, 'Marlene'), (26, 'Wasden'), (32, ';'), (34, 'August'), (41, '15'), (43, ','), (45, '1932'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'American'), (66, 'actress'), (73, ','), (75, 'known'), (81, 'for'), (85, 'her'), (89, 'television'), (100, 'roles'), (106, 'on'), (109, 'the'), (113, 'sitcoms'), (121, 'Hennesey'), (130, '('), (131, '1959–1962'), (140, ')'), (142, 'and'), (146, 'The'), (150, 'Joey'), (155, 'Bishop'), (162, 'Show'), (167, '('), (168, '1962–1965'), (177, ')'), (178, ','), (180, 'and'), (184, 'the'), (188, 'primetime'), (198, 'soap'), (203, 'opera'), (209, 'Falcon'), (216, 'Crest'), (222, '('), (223, '1981–1986'), (232, ')'), (233, '.')])</spacy_tokens>
+<spacy_chunks>[('Abby Dalton', 0, 11), ('(born Marlene Wasden', 12, 32), ('August 15, 1932', 34, 49), ('an American actress', 54, 73), ('her television roles', 85, 105), ('the sitcoms', 109, 120), ('Hennesey', 121, 129), ('The Joey Bishop Show', 146, 166), ('the primetime soap opera', 184, 208), ('Falcon Crest', 209, 221)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'DT', 'NNS', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'NN', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

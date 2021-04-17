@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marina Sirtis</title>
+<link/>https://en.wikipedia.org/wiki/Marina_Sirtis
+<annotated>0</annotated>
+<originalabstract>Marina Sirtis (; born 29 March 1955) is a British-American actress. She is best known for her role as Counselor Deanna Troi on the television series Star Trek: The Next Generation and the four feature films that followed, as well as other appearances in the Star Trek franchise.</originalabstract>
+<abstract>Marina_Sirtis ( ; born_29_March_1955 ) is a_British-American_actress . She is_best_known for her_role as Counselor_Deanna_Troi on the_television_series_Star_Trek : The_Next_Generation and the_four_feature_films that followed , as_well_as other_appearances in the_Star_Trek_franchise .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marina'), (7, 'Sirtis'), (14, '('), (15, ';'), (17, 'born'), (22, '29'), (25, 'March'), (31, '1955'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'British-American'), (59, 'actress'), (66, '.'), (68, 'She'), (72, 'is'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'her'), (94, 'role'), (99, 'as'), (102, 'Counselor'), (112, 'Deanna'), (119, 'Troi'), (124, 'on'), (127, 'the'), (131, 'television'), (142, 'series'), (149, 'Star'), (154, 'Trek'), (158, ':'), (160, 'The'), (164, 'Next'), (169, 'Generation'), (180, 'and'), (184, 'the'), (188, 'four'), (193, 'feature'), (201, 'films'), (207, 'that'), (212, 'followed'), (220, ','), (222, 'as'), (225, 'well'), (230, 'as'), (233, 'other'), (239, 'appearances'), (251, 'in'), (254, 'the'), (258, 'Star'), (263, 'Trek'), (268, 'franchise'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marina Sirtis',0, 13), ('born 29 March 1955',17, 35), ('a British-American actress',40, 66), ('is best known',72, 85), ('her role',90, 98), ('Counselor Deanna Troi',102, 123), ('the television series Star Trek',127, 158), ('The Next Generation',160, 179), ('the four feature films',184, 206), ('as well as',222, 232), ('other appearances',233, 250), ('the Star Trek franchise',254, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', ':', 'NNP', 'NNP', 'NNP', 'CC', 'DT', 'CD', 'NN', 'NNS', 'WDT', 'VBD', ',', 'RB', 'RB', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marina'), (7, 'Sirtis'), (14, '(;'), (17, 'born'), (22, '29'), (25, 'March'), (31, '1955'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'British'), (49, '-'), (50, 'American'), (59, 'actress'), (66, '.'), (68, 'She'), (72, 'is'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'her'), (94, 'role'), (99, 'as'), (102, 'Counselor'), (112, 'Deanna'), (119, 'Troi'), (124, 'on'), (127, 'the'), (131, 'television'), (142, 'series'), (149, 'Star'), (154, 'Trek'), (158, ':'), (160, 'The'), (164, 'Next'), (169, 'Generation'), (180, 'and'), (184, 'the'), (188, 'four'), (193, 'feature'), (201, 'films'), (207, 'that'), (212, 'followed'), (220, ','), (222, 'as'), (225, 'well'), (230, 'as'), (233, 'other'), (239, 'appearances'), (251, 'in'), (254, 'the'), (258, 'Star'), (263, 'Trek'), (268, 'franchise'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Marina Sirtis (;', 0, 16), ('29 March 1955', 22, 35), ('a British-American actress', 40, 66), ('her role', 90, 98), ('Counselor Deanna Troi', 102, 123), ('the television series', 127, 148), ('Star Trek: The Next Generation', 149, 179), ('the four feature films', 184, 206), ('other appearances', 233, 250), ('the Star Trek franchise', 254, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NN', 'VBD', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', ':', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'CD', 'NN', 'NNS', 'WDT', 'VBD', ',', 'RB', 'RB', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

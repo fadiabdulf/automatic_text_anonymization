@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rusty DeWees</title>
+<link/>https://en.wikipedia.org/wiki/Rusty_DeWees
+<annotated>0</annotated>
+<originalabstract>Rusty DeWees (born November 15, 1960) is an American actor, producer and writer. He works regionally in Vermont, Off-Broadway, in television, and films. He is best known for his one-man comedy show, The Logger.</originalabstract>
+<abstract>Rusty_DeWees ( born November_15_,_1960 ) is an_American_actor_,_producer_and_writer . He works regionally in Vermont , Off-Broadway , in television , and films . He is_best_known for his_one-man_comedy_show , The_Logger .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rusty'), (6, 'DeWees'), (13, '('), (14, 'born'), (19, 'November'), (28, '15'), (30, ','), (32, '1960'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (58, ','), (60, 'producer'), (69, 'and'), (73, 'writer'), (79, '.'), (81, 'He'), (84, 'works'), (90, 'regionally'), (101, 'in'), (104, 'Vermont'), (111, ','), (113, 'Off-Broadway'), (125, ','), (127, 'in'), (130, 'television'), (140, ','), (142, 'and'), (146, 'films'), (151, '.'), (153, 'He'), (156, 'is'), (159, 'best'), (164, 'known'), (170, 'for'), (174, 'his'), (178, 'one-man'), (186, 'comedy'), (193, 'show'), (197, ','), (199, 'The'), (203, 'Logger'), (209, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rusty DeWees',0, 12), ('November 15, 1960',19, 36), ('an American actor, producer and writer',41, 79), ('is best known',156, 169), ('his one-man comedy show',174, 197), ('The Logger',199, 209)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'IN', 'NNP', ',', 'NNP', ',', 'IN', 'NN', ',', 'CC', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'NN', ',', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rusty'), (6, 'DeWees'), (13, '('), (14, 'born'), (19, 'November'), (28, '15'), (30, ','), (32, '1960'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (58, ','), (60, 'producer'), (69, 'and'), (73, 'writer'), (79, '.'), (81, 'He'), (84, 'works'), (90, 'regionally'), (101, 'in'), (104, 'Vermont'), (111, ','), (113, 'Off'), (116, '-'), (117, 'Broadway'), (125, ','), (127, 'in'), (130, 'television'), (140, ','), (142, 'and'), (146, 'films'), (151, '.'), (153, 'He'), (156, 'is'), (159, 'best'), (164, 'known'), (170, 'for'), (174, 'his'), (178, 'one'), (181, '-'), (182, 'man'), (186, 'comedy'), (193, 'show'), (197, ','), (199, 'The'), (203, 'Logger'), (209, '.')])</spacy_tokens>
+<spacy_chunks>[('Rusty DeWees', 0, 12), ('November 15, 1960', 19, 36), ('an American actor', 41, 58), ('producer', 60, 68), ('writer', 73, 79), ('Vermont', 104, 111), ('Off-Broadway', 113, 125), ('television', 130, 140), ('his one-man comedy show', 174, 197), ('The Logger', 199, 209)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', ',', 'IN', 'NN', ',', 'CC', 'NNS', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'CD', 'HYPH', 'NN', 'NN', 'NN', ',', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

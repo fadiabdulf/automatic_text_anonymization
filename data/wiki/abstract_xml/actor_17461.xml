@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Susie Amy</title>
+<link/>https://en.wikipedia.org/wiki/Susie_Amy
+<annotated>0</annotated>
+<originalabstract>Susie Amy (born 17 April 1981) is an English actress. She is best known for her role as Chardonnay Lane-Pascoe in the ITV series Footballers' Wives. Amy has also appeared in films Modigliani, La Femme Musketeer, House of 9 and Hollyoaks.</originalabstract>
+<abstract>Susie_Amy ( born 17_April_1981 ) is an_English_actress . She is_best_known for her_role as Chardonnay_Lane-Pascoe in the_ITV_series_Footballers '_Wives . Amy has_also_appeared in films_Modigliani , La_Femme_Musketeer , House of 9_and_Hollyoaks .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Susie'), (6, 'Amy'), (10, '('), (11, 'born'), (16, '17'), (19, 'April'), (25, '1981'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'English'), (45, 'actress'), (52, '.'), (54, 'She'), (58, 'is'), (61, 'best'), (66, 'known'), (72, 'for'), (76, 'her'), (80, 'role'), (85, 'as'), (88, 'Chardonnay'), (99, 'Lane-Pascoe'), (111, 'in'), (114, 'the'), (118, 'ITV'), (122, 'series'), (129, 'Footballers'), (140, '\''), (142, 'Wives'), (147, '.'), (149, 'Amy'), (153, 'has'), (157, 'also'), (162, 'appeared'), (171, 'in'), (174, 'films'), (180, 'Modigliani'), (190, ','), (192, 'La'), (195, 'Femme'), (201, 'Musketeer'), (210, ','), (212, 'House'), (218, 'of'), (221, '9'), (223, 'and'), (227, 'Hollyoaks'), (236, '.')])</stanford_tokens>
+<opennlp_chunks>[('Susie Amy',0, 9), ('17 April 1981',16, 29), ('an English actress',34, 52), ('is best known',58, 71), ('her role',76, 84), ('Chardonnay Lane-Pascoe',88, 110), ('the ITV series Footballers',114, 140), ('\' Wives',140, 147), ('has also appeared',153, 170), ('films Modigliani',174, 190), ('La Femme Musketeer',192, 210), ('9 and Hollyoaks',221, 236)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'POS', 'NNS', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'NNS', 'NNP', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'IN', 'CD', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Susie'), (6, 'Amy'), (10, '('), (11, 'born'), (16, '17'), (19, 'April'), (25, '1981'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'English'), (45, 'actress'), (52, '.'), (54, 'She'), (58, 'is'), (61, 'best'), (66, 'known'), (72, 'for'), (76, 'her'), (80, 'role'), (85, 'as'), (88, 'Chardonnay'), (99, 'Lane'), (103, '-'), (104, 'Pascoe'), (111, 'in'), (114, 'the'), (118, 'ITV'), (122, 'series'), (129, 'Footballers'), (140, "'"), (142, 'Wives'), (147, '.'), (149, 'Amy'), (153, 'has'), (157, 'also'), (162, 'appeared'), (171, 'in'), (174, 'films'), (180, 'Modigliani'), (190, ','), (192, 'La'), (195, 'Femme'), (201, 'Musketeer'), (210, ','), (212, 'House'), (218, 'of'), (221, '9'), (223, 'and'), (227, 'Hollyoaks'), (236, '.')])</spacy_tokens>
+<spacy_chunks>[('Susie Amy', 0, 9), ('17 April 1981', 16, 29), ('an English actress', 34, 52), ('her role', 76, 84), ('Chardonnay Lane-Pascoe', 88, 110), ('the ITV series', 114, 128), ("Footballers' Wives", 129, 147), ('Modigliani', 180, 190), ('La Femme Musketeer', 192, 210), ('House of 9', 212, 222), ('Hollyoaks', 227, 236)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'HYPH', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'POS', 'NNS', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'NNS', 'NNP', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'IN', 'CD', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

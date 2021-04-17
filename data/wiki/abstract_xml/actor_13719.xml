@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stephanie March</title>
+<link/>https://en.wikipedia.org/wiki/Stephanie_March
+<annotated>0</annotated>
+<originalabstract>Stephanie Caroline March (born (1974-07-23)July 23, 1974) is an American actress. She is best known for her role as New York Assistant DA Alexandra Cabot in the long-running NBC series, Law  Order: Special Victims Unit.</originalabstract>
+<abstract>Stephanie_Caroline_March ( born ( 1974-07-23 ) July_23_,_1974 ) is an_American_actress . She is_best_known for her_role as New_York_Assistant_DA_Alexandra_Cabot in the_long-running_NBC_series , Law_ : Special_Victims_Unit .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stephanie'), (10, 'Caroline'), (19, 'March'), (25, '('), (26, 'born'), (31, '('), (32, '1974-07-23'), (42, ')'), (43, 'July'), (48, '23'), (50, ','), (52, '1974'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'American'), (73, 'actress'), (80, '.'), (82, 'She'), (86, 'is'), (89, 'best'), (94, 'known'), (100, 'for'), (104, 'her'), (108, 'role'), (113, 'as'), (116, 'New'), (120, 'York'), (125, 'Assistant'), (135, 'DA'), (138, 'Alexandra'), (148, 'Cabot'), (154, 'in'), (157, 'the'), (161, 'long-running'), (174, 'NBC'), (178, 'series'), (184, ','), (186, 'Law'), (190, ''), (192, 'Order'), (197, ':'), (199, 'Special'), (207, 'Victims'), (215, 'Unit'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stephanie Caroline March',0, 24), ('July 23, 1974',43, 56), ('an American actress',61, 80), ('is best known',86, 99), ('her role',104, 112), ('New York Assistant DA Alexandra Cabot',116, 153), ('the long-running NBC series',157, 184), ('Law  Order',186, 197), ('Special Victims Unit',199, 219)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', '-LRB-', 'CD', '-RRB-', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', ',', 'NNP', 'CC', 'NNP', ':', 'JJ', 'NNS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stephanie'), (10, 'Caroline'), (19, 'March'), (25, '('), (26, 'born'), (31, '('), (32, '1974'), (36, '-'), (37, '07'), (39, '-'), (40, '23)July'), (48, '23'), (50, ','), (52, '1974'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'American'), (73, 'actress'), (80, '.'), (82, 'She'), (86, 'is'), (89, 'best'), (94, 'known'), (100, 'for'), (104, 'her'), (108, 'role'), (113, 'as'), (116, 'New'), (120, 'York'), (125, 'Assistant'), (135, 'DA'), (138, 'Alexandra'), (148, 'Cabot'), (154, 'in'), (157, 'the'), (161, 'long'), (165, '-'), (166, 'running'), (174, 'NBC'), (178, 'series'), (184, ','), (186, 'Law'), (191, 'Order'), (196, ':'), (198, 'Special'), (206, 'Victims'), (214, 'Unit'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Stephanie Caroline March', 0, 24), ('1974-07-2', 32, 41), ('July 23, 1974', 43, 56), ('an American actress', 61, 80), ('her role', 104, 112), ('New York Assistant DA Alexandra Cabot', 116, 153), ('the long-running NBC series', 157, 184), ('Special Victims Unit', 198, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', '-LRB-', 'CD', 'SYM', 'CD', 'HYPH', 'CD', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'RB', 'HYPH', 'VBG', 'NNP', 'NN', ',', 'NNP', 'NN', ':', 'NNP', 'NNPS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

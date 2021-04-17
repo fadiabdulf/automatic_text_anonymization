@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Samuel Page</title>
+<link/>https://en.wikipedia.org/wiki/Samuel_Page
+<annotated>0</annotated>
+<originalabstract>Samuel Page (born Samuel L. Elliott; November 5, 1976) is an American actor. He has appeared on popular television shows, such as Mad Men, Desperate Housewives, House of Cards, Switched at Birth, Scandal, Unbreakable Kimmy Schmidt and Gossip Girl.</originalabstract>
+<abstract>Samuel_Page ( born Samuel_L._Elliott ; November_5_,_1976 ) is an_American_actor . He has_appeared on popular_television_shows , such_as Mad_Men , Desperate_Housewives , House of Cards , Switched at Birth , Scandal , Unbreakable_Kimmy_Schmidt and Gossip_Girl .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Samuel'), (7, 'Page'), (12, '('), (13, 'born'), (18, 'Samuel'), (25, 'L.'), (28, 'Elliott'), (35, ';'), (37, 'November'), (46, '5'), (47, ','), (49, '1976'), (53, ')'), (55, 'is'), (58, 'an'), (61, 'American'), (70, 'actor'), (75, '.'), (77, 'He'), (80, 'has'), (84, 'appeared'), (93, 'on'), (96, 'popular'), (104, 'television'), (115, 'shows'), (120, ','), (122, 'such'), (127, 'as'), (130, 'Mad'), (134, 'Men'), (137, ','), (139, 'Desperate'), (149, 'Housewives'), (159, ','), (161, 'House'), (167, 'of'), (170, 'Cards'), (175, ','), (177, 'Switched'), (186, 'at'), (189, 'Birth'), (194, ','), (196, 'Scandal'), (203, ','), (205, 'Unbreakable'), (217, 'Kimmy'), (223, 'Schmidt'), (231, 'and'), (235, 'Gossip'), (242, 'Girl'), (246, '.')])</stanford_tokens>
+<opennlp_chunks>[('Samuel Page',0, 11), ('Samuel L. Elliott',18, 35), ('November 5, 1976',37, 53), ('an American actor',58, 75), ('has appeared',80, 92), ('popular television shows',96, 120), ('such as',122, 129), ('Mad Men',130, 137), ('Desperate Housewives',139, 159), ('Unbreakable Kimmy Schmidt',205, 230), ('Gossip Girl',235, 246)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNP', 'NNP', ',', 'JJ', 'NNS', ',', 'NNP', 'IN', 'NNP', ',', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Samuel'), (7, 'Page'), (12, '('), (13, 'born'), (18, 'Samuel'), (25, 'L.'), (28, 'Elliott'), (35, ';'), (37, 'November'), (46, '5'), (47, ','), (49, '1976'), (53, ')'), (55, 'is'), (58, 'an'), (61, 'American'), (70, 'actor'), (75, '.'), (77, 'He'), (80, 'has'), (84, 'appeared'), (93, 'on'), (96, 'popular'), (104, 'television'), (115, 'shows'), (120, ','), (122, 'such'), (127, 'as'), (130, 'Mad'), (134, 'Men'), (137, ','), (139, 'Desperate'), (149, 'Housewives'), (159, ','), (161, 'House'), (167, 'of'), (170, 'Cards'), (175, ','), (177, 'Switched'), (186, 'at'), (189, 'Birth'), (194, ','), (196, 'Scandal'), (203, ','), (205, 'Unbreakable'), (217, 'Kimmy'), (223, 'Schmidt'), (231, 'and'), (235, 'Gossip'), (242, 'Girl'), (246, '.')])</spacy_tokens>
+<spacy_chunks>[('Samuel Page', 0, 11), ('born Samuel L. Elliott', 13, 35), ('November 5, 1976', 37, 53), ('an American actor', 58, 75), ('popular television shows', 96, 120), ('Mad Men', 130, 137), ('Desperate Housewives', 139, 159), ('Switched at Birth', 177, 194), ('Scandal', 196, 203), ('Unbreakable Kimmy Schmidt', 205, 230), ('Gossip Girl', 235, 246)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNPS', ',', 'NNP', 'IN', 'NNPS', ',', 'VBN', 'IN', 'NN', ',', 'NN', ',', 'JJ', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

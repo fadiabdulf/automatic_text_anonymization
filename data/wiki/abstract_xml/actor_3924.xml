@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ari Lehman</title>
+<link/>https://en.wikipedia.org/wiki/Ari_Lehman
+<annotated>0</annotated>
+<originalabstract>Ari Lehman (born May 2, 1965 in New York, New York) is an American performing artist, composer, and actor. He is known for having played the first Jason Voorhees as a child in the Paramount horror film Friday the 13th. Lehman currently performs in a punk rock/heavy metal band, First Jason.</originalabstract>
+<abstract>Ari_Lehman ( born May_2_,_1965 in New_York , New_York ) is an_American_performing_artist , composer , and actor . He is_known for having_played the_first_Jason_Voorhees as a_child in the_Paramount_horror_film Friday the_13th . Lehman currently performs in a_punk_rock/heavy_metal_band , First_Jason .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ari'), (4, 'Lehman'), (11, '('), (12, 'born'), (17, 'May'), (21, '2'), (22, ','), (24, '1965'), (29, 'in'), (32, 'New'), (36, 'York'), (40, ','), (42, 'New'), (46, 'York'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'American'), (67, 'performing'), (78, 'artist'), (84, ','), (86, 'composer'), (94, ','), (96, 'and'), (100, 'actor'), (105, '.'), (107, 'He'), (110, 'is'), (113, 'known'), (119, 'for'), (123, 'having'), (130, 'played'), (137, 'the'), (141, 'first'), (147, 'Jason'), (153, 'Voorhees'), (162, 'as'), (165, 'a'), (167, 'child'), (173, 'in'), (176, 'the'), (180, 'Paramount'), (190, 'horror'), (197, 'film'), (202, 'Friday'), (209, 'the'), (213, '13th'), (217, '.'), (219, 'Lehman'), (226, 'currently'), (236, 'performs'), (245, 'in'), (248, 'a'), (250, 'punk'), (255, 'rock/heavy'), (266, 'metal'), (272, 'band'), (276, ','), (278, 'First'), (284, 'Jason'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ari Lehman',0, 10), ('May 2, 1965',17, 28), ('New York',32, 40), ('New York',42, 50), ('an American performing artist',55, 84), ('is known',110, 118), ('having played',123, 136), ('the first Jason Voorhees',137, 161), ('a child',165, 172), ('the Paramount horror film',176, 201), ('the 13th',209, 217), ('a punk rock/heavy metal band',248, 276), ('First Jason',278, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'VBG', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'VBN', 'DT', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'DT', 'NN', '.', 'NNP', 'RB', 'VBZ', 'IN', 'DT', 'NN', 'NN', 'NN', 'NN', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ari'), (4, 'Lehman'), (11, '('), (12, 'born'), (17, 'May'), (21, '2'), (22, ','), (24, '1965'), (29, 'in'), (32, 'New'), (36, 'York'), (40, ','), (42, 'New'), (46, 'York'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'American'), (67, 'performing'), (78, 'artist'), (84, ','), (86, 'composer'), (94, ','), (96, 'and'), (100, 'actor'), (105, '.'), (107, 'He'), (110, 'is'), (113, 'known'), (119, 'for'), (123, 'having'), (130, 'played'), (137, 'the'), (141, 'first'), (147, 'Jason'), (153, 'Voorhees'), (162, 'as'), (165, 'a'), (167, 'child'), (173, 'in'), (176, 'the'), (180, 'Paramount'), (190, 'horror'), (197, 'film'), (202, 'Friday'), (209, 'the'), (213, '13th'), (217, '.'), (219, 'Lehman'), (226, 'currently'), (236, 'performs'), (245, 'in'), (248, 'a'), (250, 'punk'), (255, 'rock'), (259, '/'), (260, 'heavy'), (266, 'metal'), (272, 'band'), (276, ','), (278, 'First'), (284, 'Jason'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('Ari Lehman', 0, 10), ('May 2, 1965', 17, 28), ('New York', 32, 40), ('an American performing artist', 55, 84), ('composer', 86, 94), ('the first Jason Voorhees', 137, 161), ('a child', 165, 172), ('the Paramount horror film', 176, 201), ('Friday the 13th', 202, 217), ('a punk rock/heavy metal band', 248, 276)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'VBN', 'DT', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'DT', 'NN', '.', 'NNP', 'RB', 'VBZ', 'IN', 'DT', 'JJ', 'NN', 'SYM', 'JJ', 'NN', 'NN', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

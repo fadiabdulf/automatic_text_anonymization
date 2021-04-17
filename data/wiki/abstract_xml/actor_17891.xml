@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lola Kirke</title>
+<link/>https://en.wikipedia.org/wiki/Lola_Kirke
+<annotated>0</annotated>
+<originalabstract>Lola Clementine C Kirke (born 27 September 1990) is an English-born American actress and singer-songwriter, best known for her starring roles in Mistress America and the Amazon Studios television series Mozart in the Jungle. She is also known for her supporting role in David Fincher's Gone Girl.</originalabstract>
+<abstract>Lola_Clementine_C_Kirke ( born 27_September_1990 ) is an_English-born_American_actress_and_singer-songwriter , best_known for her_starring_roles in Mistress_America and the_Amazon_Studios_television_series_Mozart in the_Jungle . She is_also_known for her_supporting_role in David_Fincher 's_Gone_Girl .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lola'), (5, 'Clementine'), (16, 'C'), (18, 'Kirke'), (24, '('), (25, 'born'), (30, '27'), (33, 'September'), (43, '1990'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'English-born'), (68, 'American'), (77, 'actress'), (85, 'and'), (89, 'singer-songwriter'), (106, ','), (108, 'best'), (113, 'known'), (119, 'for'), (123, 'her'), (127, 'starring'), (136, 'roles'), (142, 'in'), (145, 'Mistress'), (154, 'America'), (162, 'and'), (166, 'the'), (170, 'Amazon'), (177, 'Studios'), (185, 'television'), (196, 'series'), (203, 'Mozart'), (210, 'in'), (213, 'the'), (217, 'Jungle'), (223, '.'), (225, 'She'), (229, 'is'), (232, 'also'), (237, 'known'), (243, 'for'), (247, 'her'), (251, 'supporting'), (262, 'role'), (267, 'in'), (270, 'David'), (276, 'Fincher'), (283, '\'s'), (286, 'Gone'), (291, 'Girl'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lola Clementine C Kirke',0, 23), ('27 September 1990',30, 47), ('an English-born American actress and singer-songwriter',52, 106), ('best known',108, 118), ('her starring roles',123, 141), ('Mistress America',145, 161), ('the Amazon Studios television series Mozart',166, 209), ('the Jungle',213, 223), ('is also known',229, 242), ('her supporting role',247, 266), ('David Fincher',270, 283), ('\'s Gone Girl',283, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'NNP', 'IN', 'DT', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'VBN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lola'), (5, 'Clementine'), (16, 'C'), (18, 'Kirke'), (24, '('), (25, 'born'), (30, '27'), (33, 'September'), (43, '1990'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'English'), (62, '-'), (63, 'born'), (68, 'American'), (77, 'actress'), (85, 'and'), (89, 'singer'), (95, '-'), (96, 'songwriter'), (106, ','), (108, 'best'), (113, 'known'), (119, 'for'), (123, 'her'), (127, 'starring'), (136, 'roles'), (142, 'in'), (145, 'Mistress'), (154, 'America'), (162, 'and'), (166, 'the'), (170, 'Amazon'), (177, 'Studios'), (185, 'television'), (196, 'series'), (203, 'Mozart'), (210, 'in'), (213, 'the'), (217, 'Jungle'), (223, '.'), (225, 'She'), (229, 'is'), (232, 'also'), (237, 'known'), (243, 'for'), (247, 'her'), (251, 'supporting'), (262, 'role'), (267, 'in'), (270, 'David'), (276, 'Fincher'), (283, "'s"), (286, 'Gone'), (291, 'Girl'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Lola Clementine C Kirke', 0, 23), ('27 September 1990', 30, 47), ('an English-born American actress', 52, 84), ('singer-songwriter', 89, 106), ('her starring roles', 123, 141), ('Mistress America', 145, 161), ('the Amazon Studios television series', 166, 202), ('Mozart in the Jungle', 203, 223), ('her supporting role', 247, 266), ("David Fincher's Gone Girl", 270, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'HYPH', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'NNP', 'IN', 'DT', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hooper Atchley</title>
+<link/>https://en.wikipedia.org/wiki/Hooper_Atchley
+<annotated>0</annotated>
+<originalabstract>Lemuel Hooper Atchley (April 30, 1887 – November 17, 1943) was an American film actor. Born in Ebenezer, Marion County, Tennessee, he appeared in 214 films between 1929 and 1944 and is known for his appearance as the inconsiderate father in the Our Gang film Birthday Blues (1932).</originalabstract>
+<abstract>Lemuel_Hooper_Atchley ( April_30_,_1887 – November_17_,_1943 ) was an_American_film_actor . Born in Ebenezer , Marion_County , Tennessee , he appeared in 214_films between 1929_and_1944 and is_known for his_appearance as the_inconsiderate_father in the_Our_Gang_film_Birthday_Blues ( 1932_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lemuel'), (7, 'Hooper'), (14, 'Atchley'), (22, '('), (23, 'April'), (29, '30'), (31, ','), (33, '1887'), (38, '–'), (40, 'November'), (49, '17'), (51, ','), (53, '1943'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'film'), (80, 'actor'), (85, '.'), (87, 'Born'), (92, 'in'), (95, 'Ebenezer'), (103, ','), (105, 'Marion'), (112, 'County'), (118, ','), (120, 'Tennessee'), (129, ','), (131, 'he'), (134, 'appeared'), (143, 'in'), (146, '214'), (150, 'films'), (156, 'between'), (164, '1929'), (169, 'and'), (173, '1944'), (178, 'and'), (182, 'is'), (185, 'known'), (191, 'for'), (195, 'his'), (199, 'appearance'), (210, 'as'), (213, 'the'), (217, 'inconsiderate'), (231, 'father'), (238, 'in'), (241, 'the'), (245, 'Our'), (249, 'Gang'), (254, 'film'), (259, 'Birthday'), (268, 'Blues'), (274, '('), (275, '1932'), (279, ')'), (280, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lemuel Hooper Atchley',0, 21), ('April 30, 1887',23, 37), ('November 17, 1943',40, 57), ('an American film actor',63, 85), ('Marion County',105, 118), ('214 films',146, 155), ('1929 and 1944',164, 177), ('is known',182, 190), ('his appearance',195, 209), ('the inconsiderate father',213, 237), ('the Our Gang film Birthday Blues',241, 273), ('1932)',275, 280)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', 'CC', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'PRP$', 'NN', 'NN', 'NN', 'NNS', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lemuel'), (7, 'Hooper'), (14, 'Atchley'), (22, '('), (23, 'April'), (29, '30'), (31, ','), (33, '1887'), (38, '–'), (40, 'November'), (49, '17'), (51, ','), (53, '1943'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'film'), (80, 'actor'), (85, '.'), (87, 'Born'), (92, 'in'), (95, 'Ebenezer'), (103, ','), (105, 'Marion'), (112, 'County'), (118, ','), (120, 'Tennessee'), (129, ','), (131, 'he'), (134, 'appeared'), (143, 'in'), (146, '214'), (150, 'films'), (156, 'between'), (164, '1929'), (169, 'and'), (173, '1944'), (178, 'and'), (182, 'is'), (185, 'known'), (191, 'for'), (195, 'his'), (199, 'appearance'), (210, 'as'), (213, 'the'), (217, 'inconsiderate'), (231, 'father'), (238, 'in'), (241, 'the'), (245, 'Our'), (249, 'Gang'), (254, 'film'), (259, 'Birthday'), (268, 'Blues'), (274, '('), (275, '1932'), (279, ')'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('Lemuel Hooper Atchley', 0, 21), ('April 30, 1887', 23, 37), ('November 17, 1943', 40, 57), ('an American film actor', 63, 85), ('Ebenezer', 95, 103), ('Marion County, Tennessee', 105, 129), ('214 films', 146, 155), ('his appearance', 195, 209), ('the inconsiderate father', 213, 237), ('the Our Gang film', 241, 258), ('Birthday Blues', 259, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', 'CC', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'PRP$', 'NNP', 'NN', 'NNP', 'NNS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

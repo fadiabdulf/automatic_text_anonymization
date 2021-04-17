@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rosita Díaz Gimeno</title>
+<link/>https://en.wikipedia.org/wiki/Rosita_D%C3%ADaz_Gimeno
+<annotated>0</annotated>
+<originalabstract>Rosita Diaz Gimeno (September 13, 1908 – August 23, 1986) was a Spanish stage and film actress from Madrid. She was 5' tall, with reddish hair, and brown eyes. She weighed ninety-eight pounds.</originalabstract>
+<abstract>Rosita_Diaz_Gimeno ( September_13_,_1908 – August_23_,_1986 ) was a_Spanish_stage_and_film_actress from Madrid . She was 5_'_tall , with reddish_hair , and brown_eyes . She weighed ninety-eight_pounds .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rosita'), (7, 'Diaz'), (12, 'Gimeno'), (19, '('), (20, 'September'), (30, '13'), (32, ','), (34, '1908'), (39, '–'), (41, 'August'), (48, '23'), (50, ','), (52, '1986'), (56, ')'), (58, 'was'), (62, 'a'), (64, 'Spanish'), (72, 'stage'), (78, 'and'), (82, 'film'), (87, 'actress'), (95, 'from'), (100, 'Madrid'), (106, '.'), (108, 'She'), (112, 'was'), (116, '5'), (117, '\''), (119, 'tall'), (123, ','), (125, 'with'), (130, 'reddish'), (138, 'hair'), (142, ','), (144, 'and'), (148, 'brown'), (154, 'eyes'), (158, '.'), (160, 'She'), (164, 'weighed'), (172, 'ninety-eight'), (185, 'pounds'), (191, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rosita Diaz Gimeno',0, 18), ('September 13, 1908',20, 38), ('August 23, 1986',41, 56), ('a Spanish stage and film actress',62, 94), ('5\' tall',116, 123), ('reddish hair',130, 142), ('brown eyes',148, 158), ('ninety-eight pounds',172, 191)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'CD', '\'\'', 'JJ', ',', 'IN', 'JJ', 'NN', ',', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rosita'), (7, 'Diaz'), (12, 'Gimeno'), (19, '('), (20, 'September'), (30, '13'), (32, ','), (34, '1908'), (39, '–'), (41, 'August'), (48, '23'), (50, ','), (52, '1986'), (56, ')'), (58, 'was'), (62, 'a'), (64, 'Spanish'), (72, 'stage'), (78, 'and'), (82, 'film'), (87, 'actress'), (95, 'from'), (100, 'Madrid'), (106, '.'), (108, 'She'), (112, 'was'), (116, '5'), (117, "'"), (119, 'tall'), (123, ','), (125, 'with'), (130, 'reddish'), (138, 'hair'), (142, ','), (144, 'and'), (148, 'brown'), (154, 'eyes'), (158, '.'), (160, 'She'), (164, 'weighed'), (172, 'ninety'), (178, '-'), (179, 'eight'), (185, 'pounds'), (191, '.')])</spacy_tokens>
+<spacy_chunks>[('Rosita Diaz Gimeno', 0, 18), ('September 13, 1908', 20, 38), ('August 23, 1986', 41, 56), ('a Spanish stage and film actress', 62, 94), ('Madrid', 100, 106), ('reddish hair', 130, 142), ('brown eyes', 148, 158), ('ninety-eight pounds', 172, 191)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'CD', '``', 'JJ', ',', 'IN', 'JJ', 'NN', ',', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'CD', 'HYPH', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

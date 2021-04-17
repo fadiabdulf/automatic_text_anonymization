@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bill Waddington</title>
+<link/>https://en.wikipedia.org/wiki/Bill_Waddington
+<annotated>0</annotated>
+<originalabstract>William Joseph Waddington (10 June 1916 – 9 September 2000), was an English music hall performer and comedian who was born in Oldham, Lancashire. In later life he achieved stardom as the pompous ex serviceman Percy Sugden in Granada Television's long-running soap opera, Coronation Street.</originalabstract>
+<abstract>William_Joseph_Waddington ( 10_June_1916 – 9_September_2000 ) , was an_English_music_hall_performer and comedian who was_born in Oldham , Lancashire . In later_life he achieved stardom as the_pompous_ex_serviceman_Percy_Sugden in Granada_Television 's_long-running_soap_opera , Coronation_Street .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Joseph'), (15, 'Waddington'), (26, '('), (27, '10'), (30, 'June'), (35, '1916'), (40, '–'), (42, '9'), (44, 'September'), (54, '2000'), (58, ')'), (59, ','), (61, 'was'), (65, 'an'), (68, 'English'), (76, 'music'), (82, 'hall'), (87, 'performer'), (97, 'and'), (101, 'comedian'), (110, 'who'), (114, 'was'), (118, 'born'), (123, 'in'), (126, 'Oldham'), (132, ','), (134, 'Lancashire'), (144, '.'), (146, 'In'), (149, 'later'), (155, 'life'), (160, 'he'), (163, 'achieved'), (172, 'stardom'), (180, 'as'), (183, 'the'), (187, 'pompous'), (195, 'ex'), (198, 'serviceman'), (209, 'Percy'), (215, 'Sugden'), (222, 'in'), (225, 'Granada'), (233, 'Television'), (243, '\'s'), (246, 'long-running'), (259, 'soap'), (264, 'opera'), (269, ','), (271, 'Coronation'), (282, 'Street'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Joseph Waddington',0, 25), ('10 June 1916',27, 39), ('9 September 2000',42, 58), ('an English music hall performer',65, 96), ('was born',114, 122), ('later life',149, 159), ('the pompous ex serviceman Percy Sugden',183, 221), ('Granada Television',225, 243), ('\'s long-running soap opera',243, 269), ('Coronation Street',271, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', 'WP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'IN', 'RB', 'NN', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'FW', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NN', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Joseph'), (15, 'Waddington'), (26, '('), (27, '10'), (30, 'June'), (35, '1916'), (40, '–'), (42, '9'), (44, 'September'), (54, '2000'), (58, ')'), (59, ','), (61, 'was'), (65, 'an'), (68, 'English'), (76, 'music'), (82, 'hall'), (87, 'performer'), (97, 'and'), (101, 'comedian'), (110, 'who'), (114, 'was'), (118, 'born'), (123, 'in'), (126, 'Oldham'), (132, ','), (134, 'Lancashire'), (144, '.'), (146, 'In'), (149, 'later'), (155, 'life'), (160, 'he'), (163, 'achieved'), (172, 'stardom'), (180, 'as'), (183, 'the'), (187, 'pompous'), (195, 'ex'), (198, 'serviceman'), (209, 'Percy'), (215, 'Sugden'), (222, 'in'), (225, 'Granada'), (233, 'Television'), (243, "'s"), (246, 'long'), (250, '-'), (251, 'running'), (259, 'soap'), (264, 'opera'), (269, ','), (271, 'Coronation'), (282, 'Street'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('William Joseph Waddington', 0, 25), ('10 June 1916', 27, 39), ('9 September 2000', 42, 58), ('an English music hall performer', 65, 96), ('comedian', 101, 109), ('Oldham', 126, 132), ('Lancashire', 134, 144), ('later life', 149, 159), ('stardom', 172, 179), ('the pompous ex serviceman', 183, 208), ('Percy Sugden', 209, 221), ("Granada Television's long-running soap opera", 225, 269), ('Coronation Street', 271, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', 'WP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'IN', 'JJ', 'NN', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'RB', 'HYPH', 'VBG', 'NN', 'NN', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

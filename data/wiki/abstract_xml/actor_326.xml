@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ray Baker (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Ray_Baker_(actor)
+<annotated>0</annotated>
+<originalabstract>Ray Baker (born July 9, 1948) is an American theater, television and film actor. Baker was born in Omaha, Nebraska. He is a long time character actor with over 100 credits on television and film alone. Baker is credited either as Ray or Raymond.</originalabstract>
+<abstract>Ray_Baker ( born July_9_,_1948 ) is an_American_theater_,_television_and_film_actor . Baker was_born in Omaha , Nebraska . He is a_long_time_character_actor with over_100_credits on television_and_film alone . Baker is_credited either as Ray_or_Raymond .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ray'), (4, 'Baker'), (10, '('), (11, 'born'), (16, 'July'), (21, '9'), (22, ','), (24, '1948'), (28, ')'), (30, 'is'), (33, 'an'), (36, 'American'), (45, 'theater'), (52, ','), (54, 'television'), (65, 'and'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'Baker'), (87, 'was'), (91, 'born'), (96, 'in'), (99, 'Omaha'), (104, ','), (106, 'Nebraska'), (114, '.'), (116, 'He'), (119, 'is'), (122, 'a'), (124, 'long'), (129, 'time'), (134, 'character'), (144, 'actor'), (150, 'with'), (155, 'over'), (160, '100'), (164, 'credits'), (172, 'on'), (175, 'television'), (186, 'and'), (190, 'film'), (195, 'alone'), (200, '.'), (202, 'Baker'), (208, 'is'), (211, 'credited'), (220, 'either'), (227, 'as'), (230, 'Ray'), (234, 'or'), (237, 'Raymond'), (244, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ray Baker',0, 9), ('July 9, 1948',16, 28), ('an American theater, television and film actor',33, 79), ('was born',87, 95), ('a long time character actor',122, 149), ('over 100 credits',155, 171), ('television and film',175, 194), ('is credited',208, 219), ('Ray or Raymond',230, 244)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'NN', 'IN', 'IN', 'CD', 'NNS', 'IN', 'NN', 'CC', 'NN', 'RB', '.', 'NNP', 'VBZ', 'VBN', 'CC', 'IN', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ray'), (4, 'Baker'), (10, '('), (11, 'born'), (16, 'July'), (21, '9'), (22, ','), (24, '1948'), (28, ')'), (30, 'is'), (33, 'an'), (36, 'American'), (45, 'theater'), (52, ','), (54, 'television'), (65, 'and'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'Baker'), (87, 'was'), (91, 'born'), (96, 'in'), (99, 'Omaha'), (104, ','), (106, 'Nebraska'), (114, '.'), (116, 'He'), (119, 'is'), (122, 'a'), (124, 'long'), (129, 'time'), (134, 'character'), (144, 'actor'), (150, 'with'), (155, 'over'), (160, '100'), (164, 'credits'), (172, 'on'), (175, 'television'), (186, 'and'), (190, 'film'), (195, 'alone'), (200, '.'), (202, 'Baker'), (208, 'is'), (211, 'credited'), (220, 'either'), (227, 'as'), (230, 'Ray'), (234, 'or'), (237, 'Raymond'), (244, '.')])</spacy_tokens>
+<spacy_chunks>[('Ray Baker', 0, 9), ('July 9, 1948', 16, 28), ('an American theater, television and film actor', 33, 79), ('Omaha, Nebraska', 99, 114), ('a long time character actor', 122, 149), ('over 100 credits', 155, 171), ('Raymond', 237, 244)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'NN', 'IN', 'IN', 'CD', 'NNS', 'IN', 'NN', 'CC', 'NN', 'RB', '.', 'NNP', 'VBZ', 'VBN', 'CC', 'IN', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

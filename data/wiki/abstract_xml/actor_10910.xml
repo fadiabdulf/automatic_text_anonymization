@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lisa Brenner</title>
+<link/>https://en.wikipedia.org/wiki/Lisa_Brenner
+<annotated>0</annotated>
+<originalabstract>Lisa Brenner (born Lisa Dawn Goldstein; February 12, 1974) is an American actress. Brenner played Maggie Cory on Another World. She was also in All My Children as Allison Sloan.</originalabstract>
+<abstract>Lisa_Brenner ( born Lisa_Dawn_Goldstein ; February_12_,_1974 ) is an_American_actress . Brenner played Maggie_Cory on Another_World . She was also in All_My_Children as Allison_Sloan .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lisa'), (5, 'Brenner'), (13, '('), (14, 'born'), (19, 'Lisa'), (24, 'Dawn'), (29, 'Goldstein'), (38, ';'), (40, 'February'), (49, '12'), (51, ','), (53, '1974'), (57, ')'), (59, 'is'), (62, 'an'), (65, 'American'), (74, 'actress'), (81, '.'), (83, 'Brenner'), (91, 'played'), (98, 'Maggie'), (105, 'Cory'), (110, 'on'), (113, 'Another'), (121, 'World'), (126, '.'), (128, 'She'), (132, 'was'), (136, 'also'), (141, 'in'), (144, 'All'), (148, 'My'), (151, 'Children'), (160, 'as'), (163, 'Allison'), (171, 'Sloan'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lisa Brenner',0, 12), ('Lisa Dawn Goldstein',19, 38), ('February 12, 1974',40, 57), ('an American actress',62, 81), ('Maggie Cory',98, 109), ('Another World',113, 126), ('All My Children',144, 159), ('Allison Sloan',163, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NN', '.', 'PRP', 'VBD', 'RB', 'IN', 'DT', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lisa'), (5, 'Brenner'), (13, '('), (14, 'born'), (19, 'Lisa'), (24, 'Dawn'), (29, 'Goldstein'), (38, ';'), (40, 'February'), (49, '12'), (51, ','), (53, '1974'), (57, ')'), (59, 'is'), (62, 'an'), (65, 'American'), (74, 'actress'), (81, '.'), (83, 'Brenner'), (91, 'played'), (98, 'Maggie'), (105, 'Cory'), (110, 'on'), (113, 'Another'), (121, 'World'), (126, '.'), (128, 'She'), (132, 'was'), (136, 'also'), (141, 'in'), (144, 'All'), (148, 'My'), (151, 'Children'), (160, 'as'), (163, 'Allison'), (171, 'Sloan'), (176, '.')])</spacy_tokens>
+<spacy_chunks>[('Lisa Brenner', 0, 12), ('(born Lisa Dawn Goldstein', 13, 38), ('February 12, 1974', 40, 57), ('an American actress', 62, 81), ('Maggie Cory', 98, 109), ('Another World', 113, 126), ('All My Children', 144, 159), ('Allison Sloan', 163, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '.', 'PRP', 'VBD', 'RB', 'IN', 'PDT', 'PRP$', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

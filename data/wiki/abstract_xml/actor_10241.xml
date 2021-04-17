@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marcel Vibert</title>
+<link/>https://en.wikipedia.org/wiki/Marcel_Vibert
+<annotated>0</annotated>
+<originalabstract>Marcel Vibert (2 November 1883 – 11 June 1959) was a French film actor. Vibert worked primarily in the French film industry, but in the late 1920s he also appeared in several British silent films including Moulin Rouge and Champagne.
+On 14 October 1930, Vibert married actress Hélène Darly.</originalabstract>
+<abstract>Marcel_Vibert ( 2_November_1883 – 11_June_1959 ) was a_French_film_actor . Vibert worked primarily in the_French_film_industry , but in the_late_1920s he also appeared in several_British_silent_films including Moulin_Rouge and Champagne . On 14_October_1930 , Vibert married actress_Hélène_Darly .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marcel'), (7, 'Vibert'), (14, '('), (15, '2'), (17, 'November'), (26, '1883'), (31, '–'), (33, '11'), (36, 'June'), (41, '1959'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'French'), (60, 'film'), (65, 'actor'), (70, '.'), (72, 'Vibert'), (79, 'worked'), (86, 'primarily'), (96, 'in'), (99, 'the'), (103, 'French'), (110, 'film'), (115, 'industry'), (123, ','), (125, 'but'), (129, 'in'), (132, 'the'), (136, 'late'), (141, '1920s'), (147, 'he'), (150, 'also'), (155, 'appeared'), (164, 'in'), (167, 'several'), (175, 'British'), (183, 'silent'), (190, 'films'), (196, 'including'), (206, 'Moulin'), (213, 'Rouge'), (219, 'and'), (223, 'Champagne'), (232, '.'), (234, 'On'), (237, '14'), (240, 'October'), (248, '1930'), (252, ','), (254, 'Vibert'), (261, 'married'), (269, 'actress'), (277, 'Hélène'), (284, 'Darly'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marcel Vibert',0, 13), ('2 November 1883',15, 30), ('11 June 1959',33, 45), ('a French film actor',51, 70), ('the French film industry',99, 123), ('the late 1920s',132, 146), ('several British silent films',167, 195), ('Moulin Rouge',206, 218), ('14 October 1930',237, 252), ('actress Hélène Darly',269, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBD', 'RB', 'IN', 'DT', 'JJ', 'NN', 'NN', ',', 'CC', 'IN', 'DT', 'JJ', 'NNS', 'PRP', 'RB', 'VBD', 'IN', 'JJ', 'JJ', 'JJ', 'NNS', 'VBG', 'NNP', 'NNP', 'CC', 'NNP', '.', 'IN', 'CD', 'NNP', 'CD', ',', 'NNP', 'VBD', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marcel'), (7, 'Vibert'), (14, '('), (15, '2'), (17, 'November'), (26, '1883'), (31, '–'), (33, '11'), (36, 'June'), (41, '1959'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'French'), (60, 'film'), (65, 'actor'), (70, '.'), (72, 'Vibert'), (79, 'worked'), (86, 'primarily'), (96, 'in'), (99, 'the'), (103, 'French'), (110, 'film'), (115, 'industry'), (123, ','), (125, 'but'), (129, 'in'), (132, 'the'), (136, 'late'), (141, '1920s'), (147, 'he'), (150, 'also'), (155, 'appeared'), (164, 'in'), (167, 'several'), (175, 'British'), (183, 'silent'), (190, 'films'), (196, 'including'), (206, 'Moulin'), (213, 'Rouge'), (219, 'and'), (223, 'Champagne'), (232, '.'), (234, 'On'), (237, '14'), (240, 'October'), (248, '1930'), (252, ','), (254, 'Vibert'), (261, 'married'), (269, 'actress'), (277, 'Hélène'), (284, 'Darly'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('Marcel Vibert', 0, 13), ('2 November 1883', 15, 30), ('11 June 1959', 33, 45), ('a French film actor', 51, 70), ('the French film industry', 99, 123), ('the late 1920s', 132, 146), ('several British silent films', 167, 195), ('Moulin Rouge', 206, 218), ('Champagne', 223, 232), ('14 October 1930', 237, 252), ('Hélène Darly', 277, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBD', 'RB', 'IN', 'DT', 'JJ', 'NN', 'NN', ',', 'CC', 'IN', 'DT', 'JJ', 'NNS', 'PRP', 'RB', 'VBD', 'IN', 'JJ', 'JJ', 'JJ', 'NNS', 'VBG', 'NNP', 'NNP', 'CC', 'NNP', '.', 'IN', 'CD', 'NNP', 'CD', ',', 'NNP', 'VBD', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bransby Williams</title>
+<link/>https://en.wikipedia.org/wiki/Bransby_Williams
+<annotated>0</annotated>
+<originalabstract>Bransby Williams (born Bransby William Pharez; 14 August 1870 – 3 December 1961) was a British actor, comedian and monologist. He became known as "The Irving of the music halls".</originalabstract>
+<abstract>Bransby_Williams ( born Bransby_William_Pharez ; 14_August_1870 – 3_December_1961 ) was a_British_actor , comedian_and_monologist . He became_known as " The_Irving of the_music_halls " .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bransby'), (8, 'Williams'), (17, '('), (18, 'born'), (23, 'Bransby'), (31, 'William'), (39, 'Pharez'), (45, ';'), (47, '14'), (50, 'August'), (57, '1870'), (62, '–'), (64, '3'), (66, 'December'), (75, '1961'), (79, ')'), (81, 'was'), (85, 'a'), (87, 'British'), (95, 'actor'), (100, ','), (102, 'comedian'), (111, 'and'), (115, 'monologist'), (125, '.'), (127, 'He'), (130, 'became'), (137, 'known'), (143, 'as'), (146, '"'), (147, 'The'), (151, 'Irving'), (158, 'of'), (161, 'the'), (165, 'music'), (171, 'halls'), (176, '"'), (177, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bransby Williams',0, 16), ('Bransby William Pharez',23, 45), ('14 August 1870',47, 61), ('3 December 1961',64, 79), ('a British actor',85, 100), ('comedian and monologist',102, 125), ('became known',130, 142), ('The Irving',147, 157), ('the music halls',161, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', '``', 'DT', 'NNP', 'IN', 'DT', 'NN', 'NNS', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bransby'), (8, 'Williams'), (17, '('), (18, 'born'), (23, 'Bransby'), (31, 'William'), (39, 'Pharez'), (45, ';'), (47, '14'), (50, 'August'), (57, '1870'), (62, '–'), (64, '3'), (66, 'December'), (75, '1961'), (79, ')'), (81, 'was'), (85, 'a'), (87, 'British'), (95, 'actor'), (100, ','), (102, 'comedian'), (111, 'and'), (115, 'monologist'), (125, '.'), (127, 'He'), (130, 'became'), (137, 'known'), (143, 'as'), (146, '"'), (147, 'The'), (151, 'Irving'), (158, 'of'), (161, 'the'), (165, 'music'), (171, 'halls'), (176, '"'), (177, '.')])</spacy_tokens>
+<spacy_chunks>[('Bransby Williams', 0, 16), ('(born Bransby William Pharez', 17, 45), ('14 August 1870', 47, 61), ('3 December 1961', 64, 79), ('a British actor', 85, 100), ('comedian', 102, 110), ('monologist', 115, 125), ('"The Irving', 146, 157), ('the music halls', 161, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', '``', 'DT', 'NNP', 'IN', 'DT', 'NN', 'NNS', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

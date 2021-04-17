@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bonnie MacBird</title>
+<link/>https://en.wikipedia.org/wiki/Bonnie_MacBird
+<annotated>0</annotated>
+<originalabstract>Bonnie MacBird  is a writer, actress, playwright, screenwriter and producer known as the original writer of the science fiction film Tron.
+MacBird is a native of San Francisco, California and graduated from Stanford University with a bachelor's degree in music and a master's degree in film. She is married to computer-scientist Alan Kay.</originalabstract>
+<abstract>Bonnie_MacBird is a_writer_,_actress_,_playwright_,_screenwriter_and_producer known as the_original_writer of the_science_fiction_film_Tron . MacBird is a_native of San_Francisco , California and graduated from Stanford_University with a_bachelor 's_degree in music and a_master 's_degree in film . She is_married to computer-scientist_Alan_Kay .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bonnie'), (7, 'MacBird'), (16, 'is'), (19, 'a'), (21, 'writer'), (27, ','), (29, 'actress'), (36, ','), (38, 'playwright'), (48, ','), (50, 'screenwriter'), (63, 'and'), (67, 'producer'), (76, 'known'), (82, 'as'), (85, 'the'), (89, 'original'), (98, 'writer'), (105, 'of'), (108, 'the'), (112, 'science'), (120, 'fiction'), (128, 'film'), (133, 'Tron'), (137, '.'), (139, 'MacBird'), (147, 'is'), (150, 'a'), (152, 'native'), (159, 'of'), (162, 'San'), (166, 'Francisco'), (175, ','), (177, 'California'), (188, 'and'), (192, 'graduated'), (202, 'from'), (207, 'Stanford'), (216, 'University'), (227, 'with'), (232, 'a'), (234, 'bachelor'), (242, '\'s'), (245, 'degree'), (252, 'in'), (255, 'music'), (261, 'and'), (265, 'a'), (267, 'master'), (273, '\'s'), (276, 'degree'), (283, 'in'), (286, 'film'), (290, '.'), (292, 'She'), (296, 'is'), (299, 'married'), (307, 'to'), (310, 'computer-scientist'), (329, 'Alan'), (334, 'Kay'), (337, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bonnie MacBird',0, 14), ('a writer, actress, playwright, screenwriter and producer',19, 75), ('the original writer',85, 104), ('the science fiction film Tron',108, 137), ('a native',150, 158), ('San Francisco',162, 175), ('Stanford University',207, 226), ('a bachelor',232, 242), ('\'s degree',242, 251), ('a master',265, 273), ('\'s degree',273, 282), ('is married',296, 306), ('computer-scientist Alan Kay',310, 337)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'POS', 'NN', 'IN', 'NN', 'CC', 'DT', 'NN', 'POS', 'NN', 'IN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'TO', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bonnie'), (7, 'MacBird'), (16, 'is'), (19, 'a'), (21, 'writer'), (27, ','), (29, 'actress'), (36, ','), (38, 'playwright'), (48, ','), (50, 'screenwriter'), (63, 'and'), (67, 'producer'), (76, 'known'), (82, 'as'), (85, 'the'), (89, 'original'), (98, 'writer'), (105, 'of'), (108, 'the'), (112, 'science'), (120, 'fiction'), (128, 'film'), (133, 'Tron'), (137, '.'), (139, 'MacBird'), (147, 'is'), (150, 'a'), (152, 'native'), (159, 'of'), (162, 'San'), (166, 'Francisco'), (175, ','), (177, 'California'), (188, 'and'), (192, 'graduated'), (202, 'from'), (207, 'Stanford'), (216, 'University'), (227, 'with'), (232, 'a'), (234, 'bachelor'), (242, "'s"), (245, 'degree'), (252, 'in'), (255, 'music'), (261, 'and'), (265, 'a'), (267, 'master'), (273, "'s"), (276, 'degree'), (283, 'in'), (286, 'film'), (290, '.'), (292, 'She'), (296, 'is'), (299, 'married'), (307, 'to'), (310, 'computer'), (318, '-'), (319, 'scientist'), (329, 'Alan'), (334, 'Kay'), (337, '.')])</spacy_tokens>
+<spacy_chunks>[('Bonnie MacBird', 0, 14), ('a writer', 19, 27), ('actress', 29, 36), ('Playwright', 38, 48), ('screenwriter', 50, 62), ('producer', 67, 75), ('the original writer', 85, 104), ('the science fiction film', 108, 132), ('a native', 150, 158), ('San Francisco', 162, 175), ('California', 177, 187), ('Stanford University', 207, 226), ("a bachelor's degree", 232, 251), ("a master's degree", 265, 282), ('computer-scientist Alan Kay', 310, 337)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'POS', 'NN', 'IN', 'NN', 'CC', 'DT', 'NN', 'POS', 'NN', 'IN', 'NN', '.', 'PRP', 'VBZ', 'JJ', 'IN', 'NN', 'HYPH', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

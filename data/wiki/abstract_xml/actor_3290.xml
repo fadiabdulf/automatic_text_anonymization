@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ryan Hurst</title>
+<link/>https://en.wikipedia.org/wiki/Ryan_Hurst
+<annotated>0</annotated>
+<originalabstract>Ryan Douglas Hurst (born June 19, 1976) is an American actor, best known for his roles as Gerry Bertier in Disney's Remember the Titans, Tom Clark in Taken, Opie Winston in the FX network drama series Sons of Anarchy, as Sergeant Ernie Savage in We Were Soldiers,  and as Chick in Bates Motel.</originalabstract>
+<abstract>Ryan_Douglas_Hurst ( born June_19_,_1976 ) is an_American_actor , best_known for his_roles as Gerry_Bertier in Disney 's Remember the_Titans , Tom_Clark in Taken , Opie_Winston in the_FX_network_drama_series_Sons of Anarchy , as Sergeant_Ernie_Savage in We Were Soldiers , and as Chick in Bates_Motel .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ryan'), (5, 'Douglas'), (13, 'Hurst'), (19, '('), (20, 'born'), (25, 'June'), (30, '19'), (32, ','), (34, '1976'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'his'), (81, 'roles'), (87, 'as'), (90, 'Gerry'), (96, 'Bertier'), (104, 'in'), (107, 'Disney'), (113, '\'s'), (116, 'Remember'), (125, 'the'), (129, 'Titans'), (135, ','), (137, 'Tom'), (141, 'Clark'), (147, 'in'), (150, 'Taken'), (155, ','), (157, 'Opie'), (162, 'Winston'), (170, 'in'), (173, 'the'), (177, 'FX'), (180, 'network'), (188, 'drama'), (194, 'series'), (201, 'Sons'), (206, 'of'), (209, 'Anarchy'), (216, ','), (218, 'as'), (221, 'Sergeant'), (230, 'Ernie'), (236, 'Savage'), (243, 'in'), (246, 'We'), (249, 'Were'), (254, 'Soldiers'), (262, ','), (265, 'and'), (269, 'as'), (272, 'Chick'), (278, 'in'), (281, 'Bates'), (287, 'Motel'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ryan Douglas Hurst',0, 18), ('June 19, 1976',25, 38), ('an American actor',43, 60), ('best known',62, 72), ('his roles',77, 86), ('Gerry Bertier',90, 103), ('the Titans',125, 135), ('Tom Clark',137, 146), ('Opie Winston',157, 169), ('the FX network drama series Sons',173, 205), ('Sergeant Ernie Savage',221, 242), ('Bates Motel',281, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'VB', 'DT', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'VBN', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNS', 'IN', 'NNP', ',', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'PRP', 'VBD', 'NNS', ',', 'CC', 'IN', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ryan'), (5, 'Douglas'), (13, 'Hurst'), (19, '('), (20, 'born'), (25, 'June'), (30, '19'), (32, ','), (34, '1976'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'his'), (81, 'roles'), (87, 'as'), (90, 'Gerry'), (96, 'Bertier'), (104, 'in'), (107, 'Disney'), (113, "'s"), (116, 'Remember'), (125, 'the'), (129, 'Titans'), (135, ','), (137, 'Tom'), (141, 'Clark'), (147, 'in'), (150, 'Taken'), (155, ','), (157, 'Opie'), (162, 'Winston'), (170, 'in'), (173, 'the'), (177, 'FX'), (180, 'network'), (188, 'drama'), (194, 'series'), (201, 'Sons'), (206, 'of'), (209, 'Anarchy'), (216, ','), (218, 'as'), (221, 'Sergeant'), (230, 'Ernie'), (236, 'Savage'), (243, 'in'), (246, 'We'), (249, 'Were'), (254, 'Soldiers'), (262, ','), (265, 'and'), (269, 'as'), (272, 'Chick'), (278, 'in'), (281, 'Bates'), (287, 'Motel'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Ryan Douglas Hurst', 0, 18), ('June 19, 1976', 25, 38), ('an American actor', 43, 60), ('his roles', 77, 86), ('Gerry Bertier', 90, 103), ('Disney', 107, 113), ('Remember the Titans', 116, 135), ('Tom Clark', 137, 146), ('Opie Winston', 157, 169), ('the FX network drama series', 173, 200), ('Sons of Anarchy', 201, 216), ('Sergeant Ernie Savage', 221, 242), ('We Were Soldiers', 246, 262), ('Bates Motel', 281, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'DT', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNPS', 'IN', 'NNP', ',', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'PRP', 'VBD', 'NNS', ',', 'CC', 'IN', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

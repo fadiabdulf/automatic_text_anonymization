@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Franklyn Ajaye</title>
+<link/>https://en.wikipedia.org/wiki/Franklyn_Ajaye
+<annotated>0</annotated>
+<originalabstract>Franklyn Ajaye (born May 13, 1949) is an American stand-up comedian and actor. His nickname is "The Jazz Comedian" for his distinctive jazz inflected style of delivery, timing, and astute use of silence. His name is sometimes wrongly spelled as Franklin Ajaye.</originalabstract>
+<abstract>Franklyn_Ajaye ( born May_13_,_1949 ) is an_American_stand-up_comedian_and_actor . His_nickname is " The_Jazz_Comedian " for his_distinctive_jazz inflected style of delivery , timing , and astute_use of silence . His_name is_sometimes_wrongly_spelled as Franklin_Ajaye .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Franklyn'), (9, 'Ajaye'), (15, '('), (16, 'born'), (21, 'May'), (25, '13'), (27, ','), (29, '1949'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'stand-up'), (59, 'comedian'), (68, 'and'), (72, 'actor'), (77, '.'), (79, 'His'), (83, 'nickname'), (92, 'is'), (95, '"'), (96, 'The'), (100, 'Jazz'), (105, 'Comedian'), (113, '"'), (115, 'for'), (119, 'his'), (123, 'distinctive'), (135, 'jazz'), (140, 'inflected'), (150, 'style'), (156, 'of'), (159, 'delivery'), (167, ','), (169, 'timing'), (175, ','), (177, 'and'), (181, 'astute'), (188, 'use'), (192, 'of'), (195, 'silence'), (202, '.'), (204, 'His'), (208, 'name'), (213, 'is'), (216, 'sometimes'), (226, 'wrongly'), (234, 'spelled'), (242, 'as'), (245, 'Franklin'), (254, 'Ajaye'), (259, '.')])</stanford_tokens>
+<opennlp_chunks>[('Franklyn Ajaye',0, 14), ('May 13, 1949',21, 33), ('an American stand-up comedian and actor',38, 77), ('His nickname',79, 91), ('The Jazz Comedian',96, 113), ('his distinctive jazz',119, 139), ('astute use',181, 191), ('His name',204, 212), ('is sometimes wrongly spelled',213, 241), ('Franklin Ajaye',245, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', 'VBZ', '``', 'DT', 'NN', 'NN', '\'\'', 'IN', 'PRP$', 'JJ', 'NN', 'VBD', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'IN', 'NN', '.', 'PRP$', 'NN', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Franklyn'), (9, 'Ajaye'), (15, '('), (16, 'born'), (21, 'May'), (25, '13'), (27, ','), (29, '1949'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'stand'), (55, '-'), (56, 'up'), (59, 'comedian'), (68, 'and'), (72, 'actor'), (77, '.'), (79, 'His'), (83, 'nickname'), (92, 'is'), (95, '"'), (96, 'The'), (100, 'Jazz'), (105, 'Comedian'), (113, '"'), (115, 'for'), (119, 'his'), (123, 'distinctive'), (135, 'jazz'), (140, 'inflected'), (150, 'style'), (156, 'of'), (159, 'delivery'), (167, ','), (169, 'timing'), (175, ','), (177, 'and'), (181, 'astute'), (188, 'use'), (192, 'of'), (195, 'silence'), (202, '.'), (204, 'His'), (208, 'name'), (213, 'is'), (216, 'sometimes'), (226, 'wrongly'), (234, 'spelled'), (242, 'as'), (245, 'Franklin'), (254, 'Ajaye'), (259, '.')])</spacy_tokens>
+<spacy_chunks>[('Franklyn Ajaye', 0, 14), ('May 13, 1949', 21, 33), ('an American stand-up comedian', 38, 67), ('His nickname', 79, 91), ('"The Jazz Comedian', 95, 113), ('his distinctive jazz inflected style', 119, 155), ('delivery', 159, 167), ('timing', 169, 175), ('astute use', 181, 191), ('silence', 195, 202), ('His name', 204, 212), ('Franklin Ajaye', 245, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'VB', 'HYPH', 'RP', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', 'VBZ', '``', 'DT', 'NN', 'NNP', "''", 'IN', 'PRP$', 'JJ', 'NN', 'VBN', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'IN', 'NN', '.', 'PRP$', 'NN', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

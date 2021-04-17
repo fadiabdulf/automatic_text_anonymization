@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harry Terry</title>
+<link/>https://en.wikipedia.org/wiki/Harry_Terry
+<annotated>0</annotated>
+<originalabstract>Harry Terry (born 1887, date of death unknown) was an English film actor. He appeared in 68 films between 1927 and 1952, including two films directed by Alfred Hitchcock. He was born in London.</originalabstract>
+<abstract>Harry Terry ( born_1887 , date of death_unknown ) was an_English_film_actor . He appeared in 68_films between 1927_and_1952 , including two_films directed by Alfred_Hitchcock . He was_born in London .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harry'), (6, 'Terry'), (12, '('), (13, 'born'), (18, '1887'), (22, ','), (24, 'date'), (29, 'of'), (32, 'death'), (38, 'unknown'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'English'), (62, 'film'), (67, 'actor'), (72, '.'), (74, 'He'), (77, 'appeared'), (86, 'in'), (89, '68'), (92, 'films'), (98, 'between'), (106, '1927'), (111, 'and'), (115, '1952'), (119, ','), (121, 'including'), (131, 'two'), (135, 'films'), (141, 'directed'), (150, 'by'), (153, 'Alfred'), (160, 'Hitchcock'), (169, '.'), (171, 'He'), (174, 'was'), (178, 'born'), (183, 'in'), (186, 'London'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('born 1887',13, 22), ('death unknown',32, 45), ('an English film actor',51, 72), ('68 films',89, 97), ('1927 and 1952',106, 119), ('two films',131, 140), ('Alfred Hitchcock',153, 169), ('was born',174, 182)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', ',', 'NN', 'IN', 'NN', 'NN', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harry'), (6, 'Terry'), (12, '('), (13, 'born'), (18, '1887'), (22, ','), (24, 'date'), (29, 'of'), (32, 'death'), (38, 'unknown'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'English'), (62, 'film'), (67, 'actor'), (72, '.'), (74, 'He'), (77, 'appeared'), (86, 'in'), (89, '68'), (92, 'films'), (98, 'between'), (106, '1927'), (111, 'and'), (115, '1952'), (119, ','), (121, 'including'), (131, 'two'), (135, 'films'), (141, 'directed'), (150, 'by'), (153, 'Alfred'), (160, 'Hitchcock'), (169, '.'), (171, 'He'), (174, 'was'), (178, 'born'), (183, 'in'), (186, 'London'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry Terry', 0, 11), ('an English film actor', 51, 72), ('68 films', 89, 97), ('two films', 131, 140), ('Alfred Hitchcock', 153, 169), ('London', 186, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', ',', 'NN', 'IN', 'NN', 'JJ', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

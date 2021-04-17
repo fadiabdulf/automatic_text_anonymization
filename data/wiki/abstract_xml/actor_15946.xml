@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lois Wilde</title>
+<link/>https://en.wikipedia.org/wiki/Lois_Wilde
+<annotated>0</annotated>
+<originalabstract>Edithia Lois Wilde (August 14, 1907 – February 16, 1995) was an American actress, model, dancer, and beauty contest winner. She was  most famous for appearing in B-Western and Action movies, and also known for her appearance in  Undersea Kingdom (1936).</originalabstract>
+<abstract>Edithia_Lois_Wilde ( August_14_,_1907 – February_16_,_1995 ) was an_American_actress , model , dancer , and beauty_contest_winner . She was most_famous for appearing in B-Western_and_Action_movies , and also known for her_appearance in Undersea_Kingdom_(_1936_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edithia'), (8, 'Lois'), (13, 'Wilde'), (19, '('), (20, 'August'), (27, '14'), (29, ','), (31, '1907'), (36, '–'), (38, 'February'), (47, '16'), (49, ','), (51, '1995'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actress'), (80, ','), (82, 'model'), (87, ','), (89, 'dancer'), (95, ','), (97, 'and'), (101, 'beauty'), (108, 'contest'), (116, 'winner'), (122, '.'), (124, 'She'), (128, 'was'), (133, 'most'), (138, 'famous'), (145, 'for'), (149, 'appearing'), (159, 'in'), (162, 'B-Western'), (172, 'and'), (176, 'Action'), (183, 'movies'), (189, ','), (191, 'and'), (195, 'also'), (200, 'known'), (206, 'for'), (210, 'her'), (214, 'appearance'), (225, 'in'), (229, 'Undersea'), (238, 'Kingdom'), (246, '('), (247, '1936'), (251, ')'), (252, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edithia Lois Wilde',0, 18), ('August 14, 1907',20, 35), ('February 16, 1995',38, 55), ('an American actress',61, 80), ('beauty contest winner',101, 122), ('most famous',133, 144), ('B-Western and Action movies',162, 189), ('her appearance',210, 224), ('Undersea Kingdom (1936)',229, 252)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'NN', '.', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'VBG', 'IN', 'NNP', 'CC', 'NNP', 'NNS', ',', 'CC', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edithia'), (8, 'Lois'), (13, 'Wilde'), (19, '('), (20, 'August'), (27, '14'), (29, ','), (31, '1907'), (36, '–'), (38, 'February'), (47, '16'), (49, ','), (51, '1995'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actress'), (80, ','), (82, 'model'), (87, ','), (89, 'dancer'), (95, ','), (97, 'and'), (101, 'beauty'), (108, 'contest'), (116, 'winner'), (122, '.'), (124, 'She'), (128, 'was'), (133, 'most'), (138, 'famous'), (145, 'for'), (149, 'appearing'), (159, 'in'), (162, 'B'), (163, '-'), (164, 'Western'), (172, 'and'), (176, 'Action'), (183, 'movies'), (189, ','), (191, 'and'), (195, 'also'), (200, 'known'), (206, 'for'), (210, 'her'), (214, 'appearance'), (225, 'in'), (229, 'Undersea'), (238, 'Kingdom'), (246, '('), (247, '1936'), (251, ')'), (252, '.')])</spacy_tokens>
+<spacy_chunks>[('Edithia Lois Wilde', 0, 18), ('August 14, 1907', 20, 35), ('February 16, 1995', 38, 55), ('an American actress', 61, 80), ('dancer', 89, 95), ('beauty contest winner', 101, 122), ('B-Western and Action movies', 162, 189), ('her appearance', 210, 224), ('Undersea Kingdom', 229, 245)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'NN', '.', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'VBG', 'IN', 'NNP', 'HYPH', 'NNP', 'CC', 'NNP', 'NNS', ',', 'CC', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

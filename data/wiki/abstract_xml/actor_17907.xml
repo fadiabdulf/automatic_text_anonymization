@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Georgina Leonidas</title>
+<link/>https://en.wikipedia.org/wiki/Georgina_Leonidas
+<annotated>0</annotated>
+<originalabstract>Georgina Leonidas (born 28 February 1990) is a British actress best known for playing Molly in The Basil Brush Show, and Katie Bell in Harry Potter and the Half-Blood Prince and Harry Potter and the Deathly Hallows – Part 2.</originalabstract>
+<abstract>Georgina_Leonidas ( born 28_February_1990 ) is a_British_actress best_known for playing_Molly in The_Basil_Brush_Show , and Katie_Bell in Harry_Potter and the_Half-Blood_Prince and Harry_Potter and the_Deathly_Hallows – Part_2 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Georgina'), (9, 'Leonidas'), (18, '('), (19, 'born'), (24, '28'), (27, 'February'), (36, '1990'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'British'), (55, 'actress'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'playing'), (86, 'Molly'), (92, 'in'), (95, 'The'), (99, 'Basil'), (105, 'Brush'), (111, 'Show'), (115, ','), (117, 'and'), (121, 'Katie'), (127, 'Bell'), (132, 'in'), (135, 'Harry'), (141, 'Potter'), (148, 'and'), (152, 'the'), (156, 'Half-Blood'), (167, 'Prince'), (174, 'and'), (178, 'Harry'), (184, 'Potter'), (191, 'and'), (195, 'the'), (199, 'Deathly'), (207, 'Hallows'), (215, '–'), (217, 'Part'), (222, '2'), (223, '.')])</stanford_tokens>
+<opennlp_chunks>[('Georgina Leonidas',0, 17), ('28 February 1990',24, 40), ('a British actress',45, 62), ('best known',63, 73), ('playing Molly',78, 91), ('The Basil Brush Show',95, 115), ('Katie Bell',121, 131), ('Harry Potter',135, 147), ('the Half-Blood Prince',152, 173), ('Harry Potter',178, 190), ('the Deathly Hallows',195, 214), ('Part 2',217, 223)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', ':', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Georgina'), (9, 'Leonidas'), (18, '('), (19, 'born'), (24, '28'), (27, 'February'), (36, '1990'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'British'), (55, 'actress'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'playing'), (86, 'Molly'), (92, 'in'), (95, 'The'), (99, 'Basil'), (105, 'Brush'), (111, 'Show'), (115, ','), (117, 'and'), (121, 'Katie'), (127, 'Bell'), (132, 'in'), (135, 'Harry'), (141, 'Potter'), (148, 'and'), (152, 'the'), (156, 'Half'), (160, '-'), (161, 'Blood'), (167, 'Prince'), (174, 'and'), (178, 'Harry'), (184, 'Potter'), (191, 'and'), (195, 'the'), (199, 'Deathly'), (207, 'Hallows'), (215, '–'), (217, 'Part'), (222, '2'), (223, '.')])</spacy_tokens>
+<spacy_chunks>[('Georgina Leonidas', 0, 17), ('28 February 1990', 24, 40), ('a British actress', 45, 62), ('The Basil Brush Show', 95, 115), ('Katie Bell', 121, 131), ('Harry Potter and the Half-Blood Prince', 135, 173), ('Harry Potter and the Deathly Hallows – Part 2', 178, 223)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'HYPH', 'NN', 'NNP', 'CC', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', ':', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

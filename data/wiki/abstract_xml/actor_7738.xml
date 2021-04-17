@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marcus Brigstocke</title>
+<link/>https://en.wikipedia.org/wiki/Marcus_Brigstocke
+<annotated>0</annotated>
+<originalabstract>Marcus Alexander Brigstocke (born 8 May 1973) is an English comedian, actor and satirist. He has worked in stand-up comedy, television, radio and musical theatre.
+He is particularly associated with the BBC, having frequently appeared on many of its shows.</originalabstract>
+<abstract>Marcus_Alexander_Brigstocke ( born 8_May_1973 ) is an_English_comedian , actor_and_satirist . He has_worked in stand-up_comedy , television_,_radio_and_musical_theatre . He is_particularly_associated with the_BBC , having frequently appeared on many of its_shows .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marcus'), (7, 'Alexander'), (17, 'Brigstocke'), (28, '('), (29, 'born'), (34, '8'), (36, 'May'), (40, '1973'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'English'), (60, 'comedian'), (68, ','), (70, 'actor'), (76, 'and'), (80, 'satirist'), (88, '.'), (90, 'He'), (93, 'has'), (97, 'worked'), (104, 'in'), (107, 'stand-up'), (116, 'comedy'), (122, ','), (124, 'television'), (134, ','), (136, 'radio'), (142, 'and'), (146, 'musical'), (154, 'theatre'), (161, '.'), (163, 'He'), (166, 'is'), (169, 'particularly'), (182, 'associated'), (193, 'with'), (198, 'the'), (202, 'BBC'), (205, ','), (207, 'having'), (214, 'frequently'), (225, 'appeared'), (234, 'on'), (237, 'many'), (242, 'of'), (245, 'its'), (249, 'shows'), (254, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marcus Alexander Brigstocke',0, 27), ('8 May 1973',34, 44), ('an English comedian',49, 68), ('actor and satirist',70, 88), ('has worked',93, 103), ('stand-up comedy',107, 122), ('television, radio and musical theatre',124, 161), ('is particularly associated',166, 192), ('the BBC',198, 205), ('its shows',245, 254)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NNP', ',', 'VBG', 'RB', 'VBD', 'IN', 'JJ', 'IN', 'PRP$', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marcus'), (7, 'Alexander'), (17, 'Brigstocke'), (28, '('), (29, 'born'), (34, '8'), (36, 'May'), (40, '1973'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'English'), (60, 'comedian'), (68, ','), (70, 'actor'), (76, 'and'), (80, 'satirist'), (88, '.'), (90, 'He'), (93, 'has'), (97, 'worked'), (104, 'in'), (107, 'stand'), (112, '-'), (113, 'up'), (116, 'comedy'), (122, ','), (124, 'television'), (134, ','), (136, 'radio'), (142, 'and'), (146, 'musical'), (154, 'theatre'), (161, '.'), (163, 'He'), (166, 'is'), (169, 'particularly'), (182, 'associated'), (193, 'with'), (198, 'the'), (202, 'BBC'), (205, ','), (207, 'having'), (214, 'frequently'), (225, 'appeared'), (234, 'on'), (237, 'many'), (242, 'of'), (245, 'its'), (249, 'shows'), (254, '.')])</spacy_tokens>
+<spacy_chunks>[('Marcus Alexander Brigstocke', 0, 27), ('8 May 1973', 34, 44), ('an English comedian', 49, 68), ('satirist', 80, 88), ('stand-up comedy, television, radio and musical theatre', 107, 161), ('the BBC', 198, 205), ('its shows', 245, 254)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VB', 'HYPH', 'RP', 'NN', ',', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NNP', ',', 'VBG', 'RB', 'VBN', 'IN', 'JJ', 'IN', 'PRP$', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

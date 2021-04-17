@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Andrew Shue</title>
+<link/>https://en.wikipedia.org/wiki/Andrew_Shue
+<annotated>0</annotated>
+<originalabstract>Andrew Eppley Shue (born February 20, 1967) is an American actor, known for his role as Billy Campbell on the television series Melrose Place (1992–1999). He is on the Board of Directors for Do Something (which he co-founded) and is the co-founder of the social networking website CafeMom.</originalabstract>
+<abstract>Andrew_Eppley_Shue ( born February_20_,_1967 ) is an_American_actor , known for his_role as Billy_Campbell on the_television_series_Melrose_Place ( 1992 – 1999 ) . He is on the_Board of Directors for Do Something ( which he co-founded ) and is the_co-founder of the_social_networking_website_CafeMom .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Andrew'), (7, 'Eppley'), (14, 'Shue'), (19, '('), (20, 'born'), (25, 'February'), (34, '20'), (36, ','), (38, '1967'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (64, ','), (66, 'known'), (72, 'for'), (76, 'his'), (80, 'role'), (85, 'as'), (88, 'Billy'), (94, 'Campbell'), (103, 'on'), (106, 'the'), (110, 'television'), (121, 'series'), (128, 'Melrose'), (136, 'Place'), (142, '('), (143, '1992'), (147, '–'), (148, '1999'), (152, ')'), (153, '.'), (155, 'He'), (158, 'is'), (161, 'on'), (164, 'the'), (168, 'Board'), (174, 'of'), (177, 'Directors'), (187, 'for'), (191, 'Do'), (194, 'Something'), (204, '('), (205, 'which'), (211, 'he'), (214, 'co-founded'), (224, ')'), (226, 'and'), (230, 'is'), (233, 'the'), (237, 'co-founder'), (248, 'of'), (251, 'the'), (255, 'social'), (262, 'networking'), (273, 'website'), (281, 'CafeMom'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Andrew Eppley Shue',0, 18), ('February 20, 1967',25, 42), ('an American actor',47, 64), ('his role',76, 84), ('Billy Campbell',88, 102), ('the television series Melrose Place',106, 141), ('the Board',164, 173), ('the co-founder',233, 247), ('the social networking website CafeMom',251, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'PRP', 'VBZ', 'IN', 'DT', 'NNP', 'IN', 'NNS', 'IN', 'VBP', 'NN', '-LRB-', 'WDT', 'PRP', 'VBD', '-RRB-', 'CC', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Andrew'), (7, 'Eppley'), (14, 'Shue'), (19, '('), (20, 'born'), (25, 'February'), (34, '20'), (36, ','), (38, '1967'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (64, ','), (66, 'known'), (72, 'for'), (76, 'his'), (80, 'role'), (85, 'as'), (88, 'Billy'), (94, 'Campbell'), (103, 'on'), (106, 'the'), (110, 'television'), (121, 'series'), (128, 'Melrose'), (136, 'Place'), (142, '('), (143, '1992–1999'), (152, ')'), (153, '.'), (155, 'He'), (158, 'is'), (161, 'on'), (164, 'the'), (168, 'Board'), (174, 'of'), (177, 'Directors'), (187, 'for'), (191, 'Do'), (194, 'Something'), (204, '('), (205, 'which'), (211, 'he'), (214, 'co'), (216, '-'), (217, 'founded'), (224, ')'), (226, 'and'), (230, 'is'), (233, 'the'), (237, 'co'), (239, '-'), (240, 'founder'), (248, 'of'), (251, 'the'), (255, 'social'), (262, 'networking'), (273, 'website'), (281, 'CafeMom'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Andrew Eppley Shue', 0, 18), ('February 20, 1967', 25, 42), ('an American actor', 47, 64), ('his role', 76, 84), ('Billy Campbell', 88, 102), ('the television series', 106, 127), ('Melrose Place', 128, 141), ('the Board', 164, 173), ('Directors', 177, 186), ('Do Something', 191, 203), ('the co-founder', 233, 247), ('the social networking website', 251, 280), ('CafeMom', 281, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBZ', 'IN', 'DT', 'NNP', 'IN', 'NNPS', 'IN', 'NNP', 'NN', '-LRB-', 'WDT', 'PRP', 'VBZ', 'VBD', 'JJ', '-RRB-', 'CC', 'VBZ', 'DT', 'NN', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

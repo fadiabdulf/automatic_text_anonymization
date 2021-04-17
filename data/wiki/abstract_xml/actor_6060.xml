@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Sharian</title>
+<link/>https://en.wikipedia.org/wiki/John_Sharian
+<annotated>0</annotated>
+<originalabstract>John Sharian (born John Shahnazarian) is an American character actor perhaps best known for portraying villain Ivan in The Machinist (2004).</originalabstract>
+<abstract>John_Sharian ( born John_Shahnazarian ) is an_American_character_actor perhaps best_known for portraying_villain_Ivan in The_Machinist ( 2004 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Sharian'), (13, '('), (14, 'born'), (19, 'John'), (24, 'Shahnazarian'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'character'), (63, 'actor'), (69, 'perhaps'), (77, 'best'), (82, 'known'), (88, 'for'), (92, 'portraying'), (103, 'villain'), (111, 'Ivan'), (116, 'in'), (119, 'The'), (123, 'Machinist'), (133, '('), (134, '2004'), (138, ')'), (139, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Sharian',0, 12), ('John Shahnazarian',19, 36), ('an American character actor',41, 68), ('best known',77, 87), ('portraying villain Ivan',92, 115), ('The Machinist',119, 132)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'RB', 'RB', 'VBN', 'IN', 'VBG', 'NN', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Sharian'), (13, '('), (14, 'born'), (19, 'John'), (24, 'Shahnazarian'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'character'), (63, 'actor'), (69, 'perhaps'), (77, 'best'), (82, 'known'), (88, 'for'), (92, 'portraying'), (103, 'villain'), (111, 'Ivan'), (116, 'in'), (119, 'The'), (123, 'Machinist'), (133, '('), (134, '2004'), (138, ')'), (139, '.')])</spacy_tokens>
+<spacy_chunks>[('John Sharian', 0, 12), ('born John Shahnazarian', 14, 36), ('an American character actor', 41, 68), ('villain Ivan', 103, 115), ('The Machinist', 119, 132)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'RB', 'RBS', 'VBN', 'IN', 'VBG', 'NN', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

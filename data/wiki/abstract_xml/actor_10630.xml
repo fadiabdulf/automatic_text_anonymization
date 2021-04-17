@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Toni Basil</title>
+<link/>https://en.wikipedia.org/wiki/Toni_Basil
+<annotated>0</annotated>
+<originalabstract>Antonia Christina Basilotta (born September 22, 1943), better known by her stage name Toni Basil, is an American singer, actress, choreographer, dancer, and filmmaker, best known for her multi-million-selling worldwide 1982 hit "Mickey", which reached No 1 in several countries.</originalabstract>
+<abstract>Antonia_Christina_Basilotta ( born September_22_,_1943 ) , better_known by her_stage_name_Toni_Basil , is an_American_singer , actress , choreographer , dancer , and filmmaker , best_known for her_multi-million-selling_worldwide_1982_hit_"_Mickey_" , which reached No_1 in several_countries .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Antonia'), (8, 'Christina'), (18, 'Basilotta'), (28, '('), (29, 'born'), (34, 'September'), (44, '22'), (46, ','), (48, '1943'), (52, ')'), (53, ','), (55, 'better'), (62, 'known'), (68, 'by'), (71, 'her'), (75, 'stage'), (81, 'name'), (86, 'Toni'), (91, 'Basil'), (96, ','), (98, 'is'), (101, 'an'), (104, 'American'), (113, 'singer'), (119, ','), (121, 'actress'), (128, ','), (130, 'choreographer'), (143, ','), (145, 'dancer'), (151, ','), (153, 'and'), (157, 'filmmaker'), (166, ','), (168, 'best'), (173, 'known'), (179, 'for'), (183, 'her'), (187, 'multi-million-selling'), (209, 'worldwide'), (219, '1982'), (224, 'hit'), (228, '"'), (229, 'Mickey'), (235, '"'), (236, ','), (238, 'which'), (244, 'reached'), (252, 'No'), (255, '1'), (257, 'in'), (260, 'several'), (268, 'countries'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Antonia Christina Basilotta',0, 27), ('September 22, 1943',34, 52), ('better known',55, 67), ('her stage name Toni Basil',71, 96), ('an American singer',101, 119), ('best known',168, 178), ('her multi-million-selling worldwide 1982 hit "Mickey"',183, 236), ('No 1',252, 256), ('several countries',260, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'JJ', 'CD', 'NN', '``', 'NNP', '\'\'', ',', 'WDT', 'VBD', 'DT', 'CD', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Antonia'), (8, 'Christina'), (18, 'Basilotta'), (28, '('), (29, 'born'), (34, 'September'), (44, '22'), (46, ','), (48, '1943'), (52, ')'), (53, ','), (55, 'better'), (62, 'known'), (68, 'by'), (71, 'her'), (75, 'stage'), (81, 'name'), (86, 'Toni'), (91, 'Basil'), (96, ','), (98, 'is'), (101, 'an'), (104, 'American'), (113, 'singer'), (119, ','), (121, 'actress'), (128, ','), (130, 'choreographer'), (143, ','), (145, 'dancer'), (151, ','), (153, 'and'), (157, 'filmmaker'), (166, ','), (168, 'best'), (173, 'known'), (179, 'for'), (183, 'her'), (187, 'multi'), (192, '-'), (193, 'million'), (200, '-'), (201, 'selling'), (209, 'worldwide'), (219, '1982'), (224, 'hit'), (228, '"'), (229, 'Mickey'), (235, '"'), (236, ','), (238, 'which'), (244, 'reached'), (252, 'No'), (255, '1'), (257, 'in'), (260, 'several'), (268, 'countries'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Antonia Christina Basilotta', 0, 27), ('September 22, 1943', 34, 52), ('her stage name', 71, 85), ('Toni Basil', 86, 96), ('an American singer', 101, 119), ('Actress', 121, 128), ('choreographer', 130, 143), ('dancer', 145, 151), ('filmmaker', 157, 166), ('her multi-million-selling', 183, 208), ('"Mickey', 228, 235), ('several countries', 260, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'HYPH', 'CD', 'HYPH', 'NN', 'RB', 'CD', 'VBD', '``', 'NNP', "''", ',', 'WDT', 'VBD', 'DT', 'CD', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

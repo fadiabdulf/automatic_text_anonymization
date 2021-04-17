@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles Coburn</title>
+<link/>https://en.wikipedia.org/wiki/Charles_Coburn
+<annotated>0</annotated>
+<originalabstract>Charles Douville Coburn (June 19, 1877 – August 30, 1961) was an American film and theatre actor. Best known for his work in comedies, Coburn received the Academy Award for Best Supporting Actor for 1943's The More the Merrier.</originalabstract>
+<abstract>Charles_Douville_Coburn ( June_19_,_1877 – August_30 , 1961 ) was an_American_film_and_theatre_actor . Best known for his_work in comedies , Coburn received the_Academy_Award for Best Supporting_Actor for 1943 's The More the_Merrier .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Douville'), (17, 'Coburn'), (24, '('), (25, 'June'), (30, '19'), (32, ','), (34, '1877'), (39, '–'), (41, 'August'), (48, '30'), (50, ','), (52, '1961'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'film'), (79, 'and'), (83, 'theatre'), (91, 'actor'), (96, '.'), (98, 'Best'), (103, 'known'), (109, 'for'), (113, 'his'), (117, 'work'), (122, 'in'), (125, 'comedies'), (133, ','), (135, 'Coburn'), (142, 'received'), (151, 'the'), (155, 'Academy'), (163, 'Award'), (169, 'for'), (173, 'Best'), (178, 'Supporting'), (189, 'Actor'), (195, 'for'), (199, '1943'), (203, '\'s'), (206, 'The'), (210, 'More'), (215, 'the'), (219, 'Merrier'), (226, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Douville Coburn',0, 23), ('June 19, 1877',25, 38), ('August 30',41, 50), ('an American film and theatre actor',62, 96), ('his work',113, 121), ('the Academy Award',151, 168), ('Supporting Actor',178, 194), ('the Merrier',215, 226)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'JJS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', ',', 'NNP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'CD', 'POS', 'DT', 'JJR', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Douville'), (17, 'Coburn'), (24, '('), (25, 'June'), (30, '19'), (32, ','), (34, '1877'), (39, '–'), (41, 'August'), (48, '30'), (50, ','), (52, '1961'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'film'), (79, 'and'), (83, 'theatre'), (91, 'actor'), (96, '.'), (98, 'Best'), (103, 'known'), (109, 'for'), (113, 'his'), (117, 'work'), (122, 'in'), (125, 'comedies'), (133, ','), (135, 'Coburn'), (142, 'received'), (151, 'the'), (155, 'Academy'), (163, 'Award'), (169, 'for'), (173, 'Best'), (178, 'Supporting'), (189, 'Actor'), (195, 'for'), (199, '1943'), (203, "'s"), (206, 'The'), (210, 'More'), (215, 'the'), (219, 'Merrier'), (226, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Douville Coburn', 0, 23), ('June 19, 1877', 25, 38), ('August 30, 1961', 41, 56), ('an American film and theatre actor', 62, 96), ('his work', 113, 121), ('comedies', 125, 133), ('the Academy Award', 151, 168), ('Academy Award for Best Supporting Actor', 155, 194), ('The More the Merrier', 206, 226)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNS', ',', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NN', 'IN', 'CD', 'POS', 'DT', 'RBR', 'DT', 'JJR', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

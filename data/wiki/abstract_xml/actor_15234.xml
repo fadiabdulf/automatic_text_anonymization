@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sommore</title>
+<link/>https://en.wikipedia.org/wiki/Sommore
+<annotated>0</annotated>
+<originalabstract>Sommore (born Lori Ann Rambough; May 15, 1966) is an American comedian and actress. She appeared in the films Friday After Next, Soul Plane, Dirty Laundry.</originalabstract>
+<abstract>Sommore ( born_Lori_Ann_Rambough ; May_15_,_1966 ) is an_American_comedian_and_actress . She appeared in the_films Friday After Next , Soul_Plane , Dirty_Laundry .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sommore'), (8, '('), (9, 'born'), (14, 'Lori'), (19, 'Ann'), (23, 'Rambough'), (31, ';'), (33, 'May'), (37, '15'), (39, ','), (41, '1966'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'comedian'), (71, 'and'), (75, 'actress'), (82, '.'), (84, 'She'), (88, 'appeared'), (97, 'in'), (100, 'the'), (104, 'films'), (110, 'Friday'), (117, 'After'), (123, 'Next'), (127, ','), (129, 'Soul'), (134, 'Plane'), (139, ','), (141, 'Dirty'), (147, 'Laundry'), (154, '.')])</stanford_tokens>
+<opennlp_chunks>[('born Lori Ann Rambough',9, 31), ('May 15, 1966',33, 45), ('an American comedian and actress',50, 82), ('the films',100, 109), ('Soul Plane',129, 139), ('Dirty Laundry',141, 154)]</opennlp_chunks>
+<stanford_pos>['RB', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNS', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sommore'), (8, '('), (9, 'born'), (14, 'Lori'), (19, 'Ann'), (23, 'Rambough'), (31, ';'), (33, 'May'), (37, '15'), (39, ','), (41, '1966'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'comedian'), (71, 'and'), (75, 'actress'), (82, '.'), (84, 'She'), (88, 'appeared'), (97, 'in'), (100, 'the'), (104, 'films'), (110, 'Friday'), (117, 'After'), (123, 'Next'), (127, ','), (129, 'Soul'), (134, 'Plane'), (139, ','), (141, 'Dirty'), (147, 'Laundry'), (154, '.')])</spacy_tokens>
+<spacy_chunks>[('Sommore', 0, 7), ('May 15, 1966', 33, 45), ('an American comedian', 50, 70), ('actress', 75, 82), ('the films', 100, 109), ('Friday After Next', 110, 127), ('Soul Plane', 129, 139), ('Dirty Laundry', 141, 154)]</spacy_chunks>
+<spacy_pos>['NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNS', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

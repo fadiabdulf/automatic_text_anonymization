@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Walter Reed (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Walter_Reed_(actor)
+<annotated>0</annotated>
+<originalabstract>Walter Reed (born Walter Reed Smith, February 10, 1916 – August 20, 2001) was an American stage, film and television actor.</originalabstract>
+<abstract>Walter_Reed ( born Walter_Reed_Smith , February_10_,_1916 – August_20_,_2001 ) was an_American_stage , film_and_television_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Walter'), (7, 'Reed'), (12, '('), (13, 'born'), (18, 'Walter'), (25, 'Reed'), (30, 'Smith'), (35, ','), (37, 'February'), (46, '10'), (48, ','), (50, '1916'), (55, '–'), (57, 'August'), (64, '20'), (66, ','), (68, '2001'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'stage'), (95, ','), (97, 'film'), (102, 'and'), (106, 'television'), (117, 'actor'), (122, '.')])</stanford_tokens>
+<opennlp_chunks>[('Walter Reed',0, 11), ('Walter Reed Smith',18, 35), ('February 10, 1916',37, 54), ('August 20, 2001',57, 72), ('an American stage',78, 95), ('film and television actor',97, 122)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Walter'), (7, 'Reed'), (12, '('), (13, 'born'), (18, 'Walter'), (25, 'Reed'), (30, 'Smith'), (35, ','), (37, 'February'), (46, '10'), (48, ','), (50, '1916'), (55, '–'), (57, 'August'), (64, '20'), (66, ','), (68, '2001'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'stage'), (95, ','), (97, 'film'), (102, 'and'), (106, 'television'), (117, 'actor'), (122, '.')])</spacy_tokens>
+<spacy_chunks>[('Walter Reed', 0, 11), ('born Walter Reed Smith', 13, 35), ('February 10, 1916', 37, 54), ('August 20, 2001', 57, 72), ('an American stage', 78, 95), ('television actor', 106, 122)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Howard St. John</title>
+<link/>https://en.wikipedia.org/wiki/Howard_St._John
+<annotated>0</annotated>
+<originalabstract>Howard St. John (October 9, 1905 – March 13, 1974) was a Chicago-born character actor who specialized in unsympathetic roles. His work spanned Broadway, film and television. He is probably best remembered for his bombastic General Bullmoose, which he played in the stage and screen versions of the 1956 musical Li'l Abner.</originalabstract>
+<abstract>Howard_St._John ( October_9_,_1905 – March_13_,_1974 ) was a_Chicago-born_character_actor who specialized in unsympathetic_roles . His_work spanned Broadway_,_film_and_television . He is_probably_best_remembered for his_bombastic_General_Bullmoose , which he played in the_stage_and_screen_versions of the_1956_musical_Li'l_Abner .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Howard'), (7, 'St.'), (11, 'John'), (16, '('), (17, 'October'), (25, '9'), (26, ','), (28, '1905'), (33, '–'), (35, 'March'), (41, '13'), (43, ','), (45, '1974'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'Chicago-born'), (70, 'character'), (80, 'actor'), (86, 'who'), (90, 'specialized'), (102, 'in'), (105, 'unsympathetic'), (119, 'roles'), (124, '.'), (126, 'His'), (130, 'work'), (135, 'spanned'), (143, 'Broadway'), (151, ','), (153, 'film'), (158, 'and'), (162, 'television'), (172, '.'), (174, 'He'), (177, 'is'), (180, 'probably'), (189, 'best'), (194, 'remembered'), (205, 'for'), (209, 'his'), (213, 'bombastic'), (223, 'General'), (231, 'Bullmoose'), (240, ','), (242, 'which'), (248, 'he'), (251, 'played'), (258, 'in'), (261, 'the'), (265, 'stage'), (271, 'and'), (275, 'screen'), (282, 'versions'), (291, 'of'), (294, 'the'), (298, '1956'), (303, 'musical'), (311, 'Li\'l'), (316, 'Abner'), (321, '.')])</stanford_tokens>
+<opennlp_chunks>[('Howard St. John',0, 15), ('October 9, 1905',17, 32), ('March 13, 1974',35, 49), ('a Chicago-born character actor',55, 85), ('unsympathetic roles',105, 124), ('His work',126, 134), ('Broadway, film and television',143, 172), ('is probably best remembered',177, 204), ('his bombastic General Bullmoose',209, 240), ('the stage and screen versions',261, 290), ('the 1956 musical Li\'l Abner',294, 321)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', '.', 'PRP$', 'NN', 'VBD', 'NNP', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNP', 'NNP', ',', 'WDT', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'CC', 'NN', 'NNS', 'IN', 'DT', 'CD', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Howard'), (7, 'St.'), (11, 'John'), (16, '('), (17, 'October'), (25, '9'), (26, ','), (28, '1905'), (33, '–'), (35, 'March'), (41, '13'), (43, ','), (45, '1974'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'Chicago'), (64, '-'), (65, 'born'), (70, 'character'), (80, 'actor'), (86, 'who'), (90, 'specialized'), (102, 'in'), (105, 'unsympathetic'), (119, 'roles'), (124, '.'), (126, 'His'), (130, 'work'), (135, 'spanned'), (143, 'Broadway'), (151, ','), (153, 'film'), (158, 'and'), (162, 'television'), (172, '.'), (174, 'He'), (177, 'is'), (180, 'probably'), (189, 'best'), (194, 'remembered'), (205, 'for'), (209, 'his'), (213, 'bombastic'), (223, 'General'), (231, 'Bullmoose'), (240, ','), (242, 'which'), (248, 'he'), (251, 'played'), (258, 'in'), (261, 'the'), (265, 'stage'), (271, 'and'), (275, 'screen'), (282, 'versions'), (291, 'of'), (294, 'the'), (298, '1956'), (303, 'musical'), (311, "Li'l"), (316, 'Abner'), (321, '.')])</spacy_tokens>
+<spacy_chunks>[('Howard St. John', 0, 15), ('(October', 16, 24), ('October 9, 1905', 17, 32), ('March 13, 1974', 35, 49), ('a Chicago-born character actor', 55, 85), ('unsympathetic roles', 105, 124), ('His work', 126, 134), ('Broadway', 143, 151), ('television', 162, 172), ('his bombastic General Bullmoose', 209, 240), ('the stage', 261, 270), ("the 1956 musical Li'l Abner", 294, 321)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', '.', 'PRP$', 'NN', 'VBD', 'NNP', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NNP', 'NNP', ',', 'WDT', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'CC', 'NN', 'NNS', 'IN', 'DT', 'CD', 'JJ', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

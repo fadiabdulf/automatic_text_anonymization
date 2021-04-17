@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jonathan Hansler</title>
+<link/>https://en.wikipedia.org/wiki/Jonathan_Hansler
+<annotated>0</annotated>
+<originalabstract>Jonathan Hansler (born John Hansler Brittan) is an English actor. He trained at the Studio 68 of Theatre Arts, graduating in 1985. He has since worked extensively in theatre, film and television.</originalabstract>
+<abstract>Jonathan_Hansler ( born John_Hansler_Brittan ) is an_English_actor . He trained at the_Studio_68 of Theatre_Arts , graduating in 1985 . He has_since_worked extensively in theatre_,_film_and_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Hansler'), (17, '('), (18, 'born'), (23, 'John'), (28, 'Hansler'), (36, 'Brittan'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'English'), (59, 'actor'), (64, '.'), (66, 'He'), (69, 'trained'), (77, 'at'), (80, 'the'), (84, 'Studio'), (91, '68'), (94, 'of'), (97, 'Theatre'), (105, 'Arts'), (109, ','), (111, 'graduating'), (122, 'in'), (125, '1985'), (129, '.'), (131, 'He'), (134, 'has'), (138, 'since'), (144, 'worked'), (151, 'extensively'), (163, 'in'), (166, 'theatre'), (173, ','), (175, 'film'), (180, 'and'), (184, 'television'), (194, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jonathan Hansler',0, 16), ('John Hansler Brittan',23, 43), ('an English actor',48, 64), ('the Studio 68',80, 93), ('Theatre Arts',97, 109), ('has since worked',134, 150), ('theatre, film and television',166, 194)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'CD', 'IN', 'NNP', 'NNP', ',', 'VBG', 'IN', 'CD', '.', 'PRP', 'VBZ', 'IN', 'VBN', 'RB', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Hansler'), (17, '('), (18, 'born'), (23, 'John'), (28, 'Hansler'), (36, 'Brittan'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'English'), (59, 'actor'), (64, '.'), (66, 'He'), (69, 'trained'), (77, 'at'), (80, 'the'), (84, 'Studio'), (91, '68'), (94, 'of'), (97, 'Theatre'), (105, 'Arts'), (109, ','), (111, 'graduating'), (122, 'in'), (125, '1985'), (129, '.'), (131, 'He'), (134, 'has'), (138, 'since'), (144, 'worked'), (151, 'extensively'), (163, 'in'), (166, 'theatre'), (173, ','), (175, 'film'), (180, 'and'), (184, 'television'), (194, '.')])</spacy_tokens>
+<spacy_chunks>[('Jonathan Hansler', 0, 16), ('born John Hansler Brittan', 18, 43), ('an English actor', 48, 64), ('the Studio', 80, 90), ('Theatre Arts', 97, 109), ('television', 184, 194)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'CD', 'IN', 'NNP', 'NNP', ',', 'VBG', 'IN', 'CD', '.', 'PRP', 'VBZ', 'IN', 'VBN', 'RB', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

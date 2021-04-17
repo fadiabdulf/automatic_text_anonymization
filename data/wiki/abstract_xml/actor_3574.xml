@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joe Keaton</title>
+<link/>https://en.wikipedia.org/wiki/Joe_Keaton
+<annotated>0</annotated>
+<originalabstract>Joseph Hallie Keaton (July 6, 1867 – January 13, 1946) was an American vaudeville performer and silent film actor. He was the father of actor Buster Keaton and appeared with his son in several of his films.</originalabstract>
+<abstract>Joseph_Hallie_Keaton ( July_6_,_1867 – January_13_,_1946 ) was an_American_vaudeville_performer and silent_film_actor . He was the_father of actor_Buster_Keaton and appeared with his_son in several of his_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joseph'), (7, 'Hallie'), (14, 'Keaton'), (21, '('), (22, 'July'), (27, '6'), (28, ','), (30, '1867'), (35, '–'), (37, 'January'), (45, '13'), (47, ','), (49, '1946'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'vaudeville'), (82, 'performer'), (92, 'and'), (96, 'silent'), (103, 'film'), (108, 'actor'), (113, '.'), (115, 'He'), (118, 'was'), (122, 'the'), (126, 'father'), (133, 'of'), (136, 'actor'), (142, 'Buster'), (149, 'Keaton'), (156, 'and'), (160, 'appeared'), (169, 'with'), (174, 'his'), (178, 'son'), (182, 'in'), (185, 'several'), (193, 'of'), (196, 'his'), (200, 'films'), (205, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joseph Hallie Keaton',0, 20), ('July 6, 1867',22, 34), ('January 13, 1946',37, 53), ('an American vaudeville performer',59, 91), ('silent film actor',96, 113), ('the father',122, 132), ('actor Buster Keaton',136, 155), ('his son',174, 181), ('his films',196, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'IN', 'PRP$', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joseph'), (7, 'Hallie'), (14, 'Keaton'), (21, '('), (22, 'July'), (27, '6'), (28, ','), (30, '1867'), (35, '–'), (37, 'January'), (45, '13'), (47, ','), (49, '1946'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'vaudeville'), (82, 'performer'), (92, 'and'), (96, 'silent'), (103, 'film'), (108, 'actor'), (113, '.'), (115, 'He'), (118, 'was'), (122, 'the'), (126, 'father'), (133, 'of'), (136, 'actor'), (142, 'Buster'), (149, 'Keaton'), (156, 'and'), (160, 'appeared'), (169, 'with'), (174, 'his'), (178, 'son'), (182, 'in'), (185, 'several'), (193, 'of'), (196, 'his'), (200, 'films'), (205, '.')])</spacy_tokens>
+<spacy_chunks>[('Joseph Hallie Keaton', 0, 20), ('July 6, 1867', 22, 34), ('January 13, 1946', 37, 53), ('an American vaudeville performer', 59, 91), ('silent film actor', 96, 113), ('the father', 122, 132), ('actor Buster Keaton', 136, 155), ('his son', 174, 181), ('his films', 196, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'IN', 'PRP$', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

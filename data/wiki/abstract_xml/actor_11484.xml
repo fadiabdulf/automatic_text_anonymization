@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Shireen Crutchfield</title>
+<link/>https://en.wikipedia.org/wiki/Shireen_Crutchfield
+<annotated>0</annotated>
+<originalabstract>Shireen Elaine Crutchfield (born December 29, 1970 in Cambridge, Massachusetts) is an American actress and singer. best known as the lead singer of the R trio The Good Girls from 1989-Present. Crutchfield is also known for her acting roles as Jace on the series Dark Angel and the movie Hot Boyz.</originalabstract>
+<abstract>Shireen_Elaine_Crutchfield ( born December_29_,_1970 in Cambridge , Massachusetts ) is an_American_actress_and_singer . best known as the_lead_singer of the_R The_Good_Girls from 1989-Present . Crutchfield is_also_known for her_acting_roles as Jace on the_series_Dark_Angel and the_movie Hot_Boyz .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Shireen'), (8, 'Elaine'), (15, 'Crutchfield'), (27, '('), (28, 'born'), (33, 'December'), (42, '29'), (44, ','), (46, '1970'), (51, 'in'), (54, 'Cambridge'), (63, ','), (65, 'Massachusetts'), (78, ')'), (80, 'is'), (83, 'an'), (86, 'American'), (95, 'actress'), (103, 'and'), (107, 'singer'), (113, '.'), (115, 'best'), (120, 'known'), (126, 'as'), (129, 'the'), (133, 'lead'), (138, 'singer'), (145, 'of'), (148, 'the'), (152, 'R'), (156, 'trio'), (161, 'The'), (165, 'Good'), (170, 'Girls'), (176, 'from'), (181, '1989-Present'), (193, '.'), (195, 'Crutchfield'), (207, 'is'), (210, 'also'), (215, 'known'), (221, 'for'), (225, 'her'), (229, 'acting'), (236, 'roles'), (242, 'as'), (245, 'Jace'), (250, 'on'), (253, 'the'), (257, 'series'), (264, 'Dark'), (269, 'Angel'), (275, 'and'), (279, 'the'), (283, 'movie'), (289, 'Hot'), (293, 'Boyz'), (297, '.')])</stanford_tokens>
+<opennlp_chunks>[('Shireen Elaine Crutchfield',0, 26), ('December 29, 1970',33, 50), ('an American actress and singer',83, 113), ('the lead singer',129, 144), ('the R trio',148, 160), ('The Good Girls',161, 175), ('is also known',207, 220), ('her acting roles',225, 241), ('the series Dark Angel',253, 274), ('the movie',279, 288), ('Hot Boyz',289, 297)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', 'DT', 'JJ', 'NNS', 'IN', 'JJ', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NN', 'JJ', 'NNP', 'CC', 'DT', 'NN', 'JJ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Shireen'), (8, 'Elaine'), (15, 'Crutchfield'), (27, '('), (28, 'born'), (33, 'December'), (42, '29'), (44, ','), (46, '1970'), (51, 'in'), (54, 'Cambridge'), (63, ','), (65, 'Massachusetts'), (78, ')'), (80, 'is'), (83, 'an'), (86, 'American'), (95, 'actress'), (103, 'and'), (107, 'singer'), (113, '.'), (115, 'best'), (120, 'known'), (126, 'as'), (129, 'the'), (133, 'lead'), (138, 'singer'), (145, 'of'), (148, 'the'), (152, 'R'), (154, 'trio'), (159, 'The'), (163, 'Good'), (168, 'Girls'), (174, 'from'), (179, '1989-Present'), (191, '.'), (193, 'Crutchfield'), (205, 'is'), (208, 'also'), (213, 'known'), (219, 'for'), (223, 'her'), (227, 'acting'), (234, 'roles'), (240, 'as'), (243, 'Jace'), (248, 'on'), (251, 'the'), (255, 'series'), (262, 'Dark'), (267, 'Angel'), (273, 'and'), (277, 'the'), (281, 'movie'), (287, 'Hot'), (291, 'Boyz'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Shireen Elaine Crutchfield', 0, 26), ('December 29, 1970', 33, 50), ('Cambridge, Massachusetts', 54, 78), ('an American actress', 83, 102), ('singer', 107, 113), ('the lead singer', 129, 144), ('the R trio', 148, 158), ('The Good Girls', 159, 173), ('1989-Present', 179, 191), ('her acting roles', 223, 239), ('the series', 251, 261), ('Dark Angel', 262, 272), ('the movie', 277, 286), ('Hot Boyz', 287, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'RBS', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'DT', 'JJ', 'NNPS', 'IN', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'CC', 'DT', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

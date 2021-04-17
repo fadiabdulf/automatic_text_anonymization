@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Al White</title>
+<link/>https://en.wikipedia.org/wiki/Al_White
+<annotated>0</annotated>
+<originalabstract>Allen "Al" White (born May 17, 1942) is an American character actor. He has appeared in various movies, such as Airplane! and Airplane II: The Sequel, and Back to the Future Part II. Over the course of his Hollywood acting career, White has frequently portrayed police detectives in television and film.</originalabstract>
+<abstract>Allen_"_Al_"_White ( born May_17_,_1942 ) is an_American_character_actor . He has_appeared in various_movies , such_as Airplane ! and Airplane_II : The_Sequel , and Back to the_Future_Part_II . Over the_course of his_Hollywood_acting_career , White has_frequently_portrayed police_detectives in television_and_film .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Allen'), (6, '"'), (7, 'Al'), (9, '"'), (11, 'White'), (17, '('), (18, 'born'), (23, 'May'), (27, '17'), (29, ','), (31, '1942'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'character'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'has'), (76, 'appeared'), (85, 'in'), (88, 'various'), (96, 'movies'), (102, ','), (104, 'such'), (109, 'as'), (112, 'Airplane'), (120, '!'), (122, 'and'), (126, 'Airplane'), (135, 'II'), (137, ':'), (139, 'The'), (143, 'Sequel'), (149, ','), (151, 'and'), (155, 'Back'), (160, 'to'), (163, 'the'), (167, 'Future'), (174, 'Part'), (179, 'II'), (181, '.'), (183, 'Over'), (188, 'the'), (192, 'course'), (199, 'of'), (202, 'his'), (206, 'Hollywood'), (216, 'acting'), (223, 'career'), (229, ','), (231, 'White'), (237, 'has'), (241, 'frequently'), (252, 'portrayed'), (262, 'police'), (269, 'detectives'), (280, 'in'), (283, 'television'), (294, 'and'), (298, 'film'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Allen "Al" White',0, 16), ('May 17, 1942',23, 35), ('an American character actor',40, 67), ('has appeared',72, 84), ('various movies',88, 102), ('such as',104, 111), ('Airplane II',126, 137), ('The Sequel',139, 149), ('the Future Part II',163, 181), ('the course',188, 198), ('his Hollywood acting career',202, 229), ('has frequently portrayed',237, 261), ('police detectives',262, 279), ('television and film',283, 302)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', ',', 'JJ', 'IN', 'NN', '.', 'CC', 'NN', 'CD', ':', 'DT', 'NN', ',', 'CC', 'RB', 'TO', 'DT', 'NNP', 'NNP', 'NNP', '.', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NNP', 'VBG', 'NN', ',', 'NNP', 'VBZ', 'RB', 'VBN', 'NN', 'NNS', 'IN', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Allen'), (6, '"'), (7, 'Al'), (9, '"'), (11, 'White'), (17, '('), (18, 'born'), (23, 'May'), (27, '17'), (29, ','), (31, '1942'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'character'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'has'), (76, 'appeared'), (85, 'in'), (88, 'various'), (96, 'movies'), (102, ','), (104, 'such'), (109, 'as'), (112, 'Airplane'), (120, '!'), (122, 'and'), (126, 'Airplane'), (135, 'II'), (137, ':'), (139, 'The'), (143, 'Sequel'), (149, ','), (151, 'and'), (155, 'Back'), (160, 'to'), (163, 'the'), (167, 'Future'), (174, 'Part'), (179, 'II'), (181, '.'), (183, 'Over'), (188, 'the'), (192, 'course'), (199, 'of'), (202, 'his'), (206, 'Hollywood'), (216, 'acting'), (223, 'career'), (229, ','), (231, 'White'), (237, 'has'), (241, 'frequently'), (252, 'portrayed'), (262, 'police'), (269, 'detectives'), (280, 'in'), (283, 'television'), (294, 'and'), (298, 'film'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Allen "Al" White', 0, 16), ('May 17, 1942', 23, 35), ('an American character actor', 40, 67), ('various movies', 88, 102), ('Airplane!', 112, 121), ('Airplane II: The Sequel', 126, 149), ('Back to the Future Part II', 155, 181), ('the course', 188, 198), ('his Hollywood acting career', 202, 229), ('police detectives', 262, 279), ('television', 283, 293)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', ',', 'JJ', 'IN', 'NNP', '.', 'CC', 'NN', 'NNP', ':', 'DT', 'NNP', ',', 'CC', 'RB', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NNP', 'NN', 'NN', ',', 'NNP', 'VBZ', 'RB', 'VBN', 'NN', 'NNS', 'IN', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

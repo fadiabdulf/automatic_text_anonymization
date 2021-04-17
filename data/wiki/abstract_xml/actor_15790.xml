@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marie Wallace</title>
+<link/>https://en.wikipedia.org/wiki/Marie_Wallace
+<annotated>0</annotated>
+<originalabstract>Marie Wallace (born May 19, 1939) is an American stage and television actress, best known for her performances in the cult gothic soap opera Dark Shadows.</originalabstract>
+<abstract>Marie_Wallace ( born May_19_,_1939 ) is an_American_stage_and_television_actress , best_known for her_performances in the_cult_gothic_soap_opera_Dark_Shadows .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie'), (6, 'Wallace'), (14, '('), (15, 'born'), (20, 'May'), (24, '19'), (26, ','), (28, '1939'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'stage'), (55, 'and'), (59, 'television'), (70, 'actress'), (77, ','), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'her'), (98, 'performances'), (111, 'in'), (114, 'the'), (118, 'cult'), (123, 'gothic'), (130, 'soap'), (135, 'opera'), (141, 'Dark'), (146, 'Shadows'), (153, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie Wallace',0, 13), ('May 19, 1939',20, 32), ('an American stage and television actress',37, 77), ('best known',79, 89), ('her performances',94, 110), ('the cult gothic soap opera Dark Shadows',114, 153)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'JJ', 'NN', 'NN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (6, 'Wallace'), (14, '('), (15, 'born'), (20, 'May'), (24, '19'), (26, ','), (28, '1939'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'stage'), (55, 'and'), (59, 'television'), (70, 'actress'), (77, ','), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'her'), (98, 'performances'), (111, 'in'), (114, 'the'), (118, 'cult'), (123, 'gothic'), (130, 'soap'), (135, 'opera'), (141, 'Dark'), (146, 'Shadows'), (153, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie Wallace', 0, 13), ('May 19, 1939', 20, 32), ('an American stage', 37, 54), ('television actress', 59, 77), ('her performances', 94, 110), ('the cult gothic soap opera', 114, 140), ('Dark Shadows', 141, 153)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'JJ', 'NN', 'NN', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

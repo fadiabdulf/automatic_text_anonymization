@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Clara Peller</title>
+<link/>https://en.wikipedia.org/wiki/Clara_Peller
+<annotated>0</annotated>
+<originalabstract>Clara Peller (August 4, 1902 – August 11, 1987) was a manicurist and American character actress who, at the age of 81, starred in the 1984 "Where's the beef?" advertising campaign for the Wendy's fast food restaurant chain, created by the Dancer Fitzgerald Sample advertising agency.</originalabstract>
+<abstract>Clara_Peller ( August_4_,_1902 – August_11_,_1987 ) was a_manicurist and American_character_actress who , at the_age of 81 , starred in the_1984 " Where 's the_beef ? " advertising_campaign for the_Wendy 's_fast_food_restaurant_chain , created by the_Dancer_Fitzgerald_Sample_advertising_agency .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Clara'), (6, 'Peller'), (13, '('), (14, 'August'), (21, '4'), (22, ','), (24, '1902'), (29, '–'), (31, 'August'), (38, '11'), (40, ','), (42, '1987'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'manicurist'), (65, 'and'), (69, 'American'), (78, 'character'), (88, 'actress'), (96, 'who'), (99, ','), (101, 'at'), (104, 'the'), (108, 'age'), (112, 'of'), (115, '81'), (117, ','), (119, 'starred'), (127, 'in'), (130, 'the'), (134, '1984'), (139, '"'), (140, 'Where'), (145, '\'s'), (148, 'the'), (152, 'beef'), (156, '?'), (157, '"'), (159, 'advertising'), (171, 'campaign'), (180, 'for'), (184, 'the'), (188, 'Wendy'), (193, '\'s'), (196, 'fast'), (201, 'food'), (206, 'restaurant'), (217, 'chain'), (222, ','), (224, 'created'), (232, 'by'), (235, 'the'), (239, 'Dancer'), (246, 'Fitzgerald'), (257, 'Sample'), (264, 'advertising'), (276, 'agency'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Clara Peller',0, 12), ('August 4, 1902',14, 28), ('August 11, 1987',31, 46), ('a manicurist',52, 64), ('American character actress',69, 95), ('the age',104, 111), ('the 1984',130, 138), ('the beef',148, 156), ('advertising campaign',159, 179), ('the Wendy',184, 193), ('\'s fast food restaurant chain',193, 222), ('the Dancer Fitzgerald Sample advertising agency',235, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', ',', 'IN', 'DT', 'NN', 'IN', 'CD', ',', 'VBD', 'IN', 'DT', 'CD', '``', 'WRB', 'VBZ', 'DT', 'NN', '.', '\'\'', 'NN', 'NN', 'IN', 'DT', 'NN', 'POS', 'JJ', 'NN', 'NN', 'NN', ',', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Clara'), (6, 'Peller'), (13, '('), (14, 'August'), (21, '4'), (22, ','), (24, '1902'), (29, '–'), (31, 'August'), (38, '11'), (40, ','), (42, '1987'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'manicurist'), (65, 'and'), (69, 'American'), (78, 'character'), (88, 'actress'), (96, 'who'), (99, ','), (101, 'at'), (104, 'the'), (108, 'age'), (112, 'of'), (115, '81'), (117, ','), (119, 'starred'), (127, 'in'), (130, 'the'), (134, '1984'), (139, '"'), (140, 'Where'), (145, "'s"), (148, 'the'), (152, 'beef'), (156, '?'), (157, '"'), (159, 'advertising'), (171, 'campaign'), (180, 'for'), (184, 'the'), (188, 'Wendy'), (193, "'s"), (196, 'fast'), (201, 'food'), (206, 'restaurant'), (217, 'chain'), (222, ','), (224, 'created'), (232, 'by'), (235, 'the'), (239, 'Dancer'), (246, 'Fitzgerald'), (257, 'Sample'), (264, 'advertising'), (276, 'agency'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Clara Peller', 0, 12), ('August 4, 1902', 14, 28), ('August 11, 1987', 31, 46), ('a manicurist and American character actress', 52, 95), ('the age', 104, 111), ("Where's the beef?", 140, 157), ('advertising campaign', 159, 179), ("the Wendy's fast food restaurant chain", 184, 222), ('the Dancer Fitzgerald Sample advertising agency', 235, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', ',', 'IN', 'DT', 'NN', 'IN', 'CD', ',', 'VBN', 'IN', 'DT', 'CD', '``', 'WRB', 'VBZ', 'DT', 'NN', '.', "''", 'NN', 'NN', 'IN', 'DT', 'NNP', 'POS', 'JJ', 'NN', 'NN', 'NN', ',', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

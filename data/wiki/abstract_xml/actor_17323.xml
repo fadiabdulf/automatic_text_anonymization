@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hazel Terry</title>
+<link/>https://en.wikipedia.org/wiki/Hazel_Terry
+<annotated>0</annotated>
+<originalabstract>Hazel Terry (born Hazel M. Neilson-Terry; 23 January 1918 – 12 October 1974) was an English actress. A member of the theatrical dynasty the Terry family she had a successful stage career, and also made some cinema films. Among her roles was Ophelia in Hamlet opposite her cousin John Gielgud.</originalabstract>
+<abstract>Hazel_Terry ( born Hazel_M._Neilson-Terry ; 23_January_1918 – 12_October_1974 ) was an_English_actress . A_member of the_theatrical_dynasty the_Terry_family she had a_successful_stage_career , and also made some_cinema_films . Among her_roles was Ophelia in Hamlet_opposite_her_cousin_John_Gielgud .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hazel'), (6, 'Terry'), (12, '('), (13, 'born'), (18, 'Hazel'), (24, 'M.'), (27, 'Neilson-Terry'), (40, ';'), (42, '23'), (45, 'January'), (53, '1918'), (58, '–'), (60, '12'), (63, 'October'), (71, '1974'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'English'), (92, 'actress'), (99, '.'), (101, 'A'), (103, 'member'), (110, 'of'), (113, 'the'), (117, 'theatrical'), (128, 'dynasty'), (136, 'the'), (140, 'Terry'), (146, 'family'), (153, 'she'), (157, 'had'), (161, 'a'), (163, 'successful'), (174, 'stage'), (180, 'career'), (186, ','), (188, 'and'), (192, 'also'), (197, 'made'), (202, 'some'), (207, 'cinema'), (214, 'films'), (219, '.'), (221, 'Among'), (227, 'her'), (231, 'roles'), (237, 'was'), (241, 'Ophelia'), (249, 'in'), (252, 'Hamlet'), (259, 'opposite'), (268, 'her'), (272, 'cousin'), (279, 'John'), (284, 'Gielgud'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hazel Terry',0, 11), ('Hazel M. Neilson-Terry',18, 40), ('23 January 1918',42, 57), ('12 October 1974',60, 75), ('an English actress',81, 99), ('A member',101, 109), ('the theatrical dynasty',113, 135), ('the Terry family',136, 152), ('a successful stage career',161, 186), ('some cinema films',202, 219), ('her roles',227, 236), ('Hamlet opposite her cousin John Gielgud',252, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'DT', 'NNP', 'NN', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'CC', 'RB', 'VBD', 'DT', 'NN', 'NNS', '.', 'IN', 'PRP$', 'NNS', 'VBD', 'NNP', 'IN', 'NNP', 'JJ', 'PRP$', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hazel'), (6, 'Terry'), (12, '('), (13, 'born'), (18, 'Hazel'), (24, 'M.'), (27, 'Neilson'), (34, '-'), (35, 'Terry'), (40, ';'), (42, '23'), (45, 'January'), (53, '1918'), (58, '–'), (60, '12'), (63, 'October'), (71, '1974'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'English'), (92, 'actress'), (99, '.'), (101, 'A'), (103, 'member'), (110, 'of'), (113, 'the'), (117, 'theatrical'), (128, 'dynasty'), (136, 'the'), (140, 'Terry'), (146, 'family'), (153, 'she'), (157, 'had'), (161, 'a'), (163, 'successful'), (174, 'stage'), (180, 'career'), (186, ','), (188, 'and'), (192, 'also'), (197, 'made'), (202, 'some'), (207, 'cinema'), (214, 'films'), (219, '.'), (221, 'Among'), (227, 'her'), (231, 'roles'), (237, 'was'), (241, 'Ophelia'), (249, 'in'), (252, 'Hamlet'), (259, 'opposite'), (268, 'her'), (272, 'cousin'), (279, 'John'), (284, 'Gielgud'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Hazel Terry', 0, 11), ('born Hazel M. Neilson-Terry', 13, 40), ('23 January 1918', 42, 57), ('12 October 1974', 60, 75), ('an English actress', 81, 99), ('A member', 101, 109), ('the theatrical dynasty', 113, 135), ('the Terry family', 136, 152), ('a successful stage career', 161, 186), ('some cinema films', 202, 219), ('her roles', 227, 236), ('Ophelia', 241, 248), ('Hamlet', 252, 258), ('her cousin', 268, 278), ('John Gielgud', 279, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'HYPH', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'DT', 'NNP', 'NN', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'CC', 'RB', 'VBD', 'DT', 'NN', 'NNS', '.', 'IN', 'PRP$', 'NNS', 'VBD', 'NNP', 'IN', 'NNP', 'IN', 'PRP$', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

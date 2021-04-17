@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fritzi Fern</title>
+<link/>https://en.wikipedia.org/wiki/Fritzi_Fern
+<annotated>0</annotated>
+<originalabstract>Fritzi Fern (September 19, 1901 – September 20, 1932) was a motion picture actress from Akron, Ohio. Her birth name was Fritzi Fern Blower. She was the daughter of Mrs. Hattie R. Blower.</originalabstract>
+<abstract>Fritzi_Fern ( September_19_,_1901 – September_20_,_1932 ) was a_motion_picture_actress from Akron , Ohio . Her_birth_name was Fritzi_Fern_Blower . She was the_daughter of Mrs._Hattie_R._Blower .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fritzi'), (7, 'Fern'), (12, '('), (13, 'September'), (23, '19'), (25, ','), (27, '1901'), (32, '–'), (34, 'September'), (44, '20'), (46, ','), (48, '1932'), (52, ')'), (54, 'was'), (58, 'a'), (60, 'motion'), (67, 'picture'), (75, 'actress'), (83, 'from'), (88, 'Akron'), (93, ','), (95, 'Ohio'), (99, '.'), (101, 'Her'), (105, 'birth'), (111, 'name'), (116, 'was'), (120, 'Fritzi'), (127, 'Fern'), (132, 'Blower'), (138, '.'), (140, 'She'), (144, 'was'), (148, 'the'), (152, 'daughter'), (161, 'of'), (164, 'Mrs.'), (169, 'Hattie'), (176, 'R.'), (179, 'Blower'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fritzi Fern',0, 11), ('September 19, 1901',13, 31), ('September 20, 1932',34, 52), ('a motion picture actress',58, 82), ('Her birth name',101, 115), ('Fritzi Fern Blower',120, 138), ('the daughter',148, 160), ('Mrs. Hattie R. Blower',164, 185)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP$', 'NN', 'NN', 'VBD', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fritzi'), (7, 'Fern'), (12, '('), (13, 'September'), (23, '19'), (25, ','), (27, '1901'), (32, '–'), (34, 'September'), (44, '20'), (46, ','), (48, '1932'), (52, ')'), (54, 'was'), (58, 'a'), (60, 'motion'), (67, 'picture'), (75, 'actress'), (83, 'from'), (88, 'Akron'), (93, ','), (95, 'Ohio'), (99, '.'), (101, 'Her'), (105, 'birth'), (111, 'name'), (116, 'was'), (120, 'Fritzi'), (127, 'Fern'), (132, 'Blower'), (138, '.'), (140, 'She'), (144, 'was'), (148, 'the'), (152, 'daughter'), (161, 'of'), (164, 'Mrs.'), (169, 'Hattie'), (176, 'R.'), (179, 'Blower'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('Fritzi Fern', 0, 11), ('September 19, 1901', 13, 31), ('September 20, 1932', 34, 52), ('a motion picture actress', 58, 82), ('Akron, Ohio', 88, 99), ('Her birth name', 101, 115), ('Fritzi Fern Blower', 120, 138), ('the daughter', 148, 160), ('Mrs. Hattie R. Blower', 164, 185)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP$', 'NN', 'NN', 'VBD', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

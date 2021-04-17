@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Isabel West</title>
+<link/>https://en.wikipedia.org/wiki/Isabel_West
+<annotated>0</annotated>
+<originalabstract>Isabel West, also known as Isabelle West (1858 – July 22, 1942) was an American film actress in the late 1910s and early 1920s. She began her career in 1916 as Mrs. Harris in The Blue Envelope Mystery.She died in Brentwood, Long Island, New York, US.</originalabstract>
+<abstract>Isabel_West , also_known as Isabelle_West ( 1858 – July_22_,_1942 ) was an_American_film_actress in the_late_1910s and early_1920s . She began her_career in 1916 as Mrs._Harris in The_Blue_Envelope_Mystery.She died in Brentwood , Long_Island , New_York , US .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Isabel'), (7, 'West'), (11, ','), (13, 'also'), (18, 'known'), (24, 'as'), (27, 'Isabelle'), (36, 'West'), (41, '('), (42, '1858'), (47, '–'), (49, 'July'), (54, '22'), (56, ','), (58, '1942'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'film'), (85, 'actress'), (93, 'in'), (96, 'the'), (100, 'late'), (105, '1910s'), (111, 'and'), (115, 'early'), (121, '1920s'), (126, '.'), (128, 'She'), (132, 'began'), (138, 'her'), (142, 'career'), (149, 'in'), (152, '1916'), (157, 'as'), (160, 'Mrs.'), (165, 'Harris'), (172, 'in'), (175, 'The'), (179, 'Blue'), (184, 'Envelope'), (193, 'Mystery.She'), (205, 'died'), (210, 'in'), (213, 'Brentwood'), (222, ','), (224, 'Long'), (229, 'Island'), (235, ','), (237, 'New'), (241, 'York'), (245, ','), (247, 'US'), (249, '.')])</stanford_tokens>
+<opennlp_chunks>[('Isabel West',0, 11), ('also known',13, 23), ('Isabelle West',27, 40), ('July 22, 1942',49, 62), ('an American film actress',68, 92), ('the late 1910s',96, 110), ('early 1920s',115, 126), ('her career',138, 148), ('Mrs. Harris',160, 171), ('The Blue Envelope Mystery.She',175, 204), ('Long Island',224, 235), ('New York',237, 245)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'CD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Isabel'), (7, 'West'), (11, ','), (13, 'also'), (18, 'known'), (24, 'as'), (27, 'Isabelle'), (36, 'West'), (41, '('), (42, '1858'), (47, '–'), (49, 'July'), (54, '22'), (56, ','), (58, '1942'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'film'), (85, 'actress'), (93, 'in'), (96, 'the'), (100, 'late'), (105, '1910s'), (111, 'and'), (115, 'early'), (121, '1920s'), (126, '.'), (128, 'She'), (132, 'began'), (138, 'her'), (142, 'career'), (149, 'in'), (152, '1916'), (157, 'as'), (160, 'Mrs.'), (165, 'Harris'), (172, 'in'), (175, 'The'), (179, 'Blue'), (184, 'Envelope'), (193, 'Mystery'), (200, '.'), (201, 'She'), (205, 'died'), (210, 'in'), (213, 'Brentwood'), (222, ','), (224, 'Long'), (229, 'Island'), (235, ','), (237, 'New'), (241, 'York'), (245, ','), (247, 'US'), (249, '.')])</spacy_tokens>
+<spacy_chunks>[('Isabel West', 0, 11), ('Isabelle West', 27, 40), ('July 22, 1942', 49, 62), ('an American film actress', 68, 92), ('the late 1910s', 96, 110), ('early 1920s', 115, 126), ('her career', 138, 148), ('Mrs. Harris', 160, 171), ('The Blue Envelope Mystery', 175, 200), ('Brentwood,', 213, 223), ('Long Island', 224, 235), ('New York', 237, 245)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'CD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

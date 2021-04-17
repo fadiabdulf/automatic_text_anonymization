@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bartlett Cormack</title>
+<link/>https://en.wikipedia.org/wiki/Bartlett_Cormack
+<annotated>0</annotated>
+<originalabstract>Edward Bartlett Cormack (March 19, 1898 - September 16, 1942) was an American actor, playwright, screenwriter, and producer best known for his 1927 Broadway play The Racket, and for working with Howard Hughes and Cecil B. DeMille on several films.</originalabstract>
+<abstract>Edward_Bartlett_Cormack ( March_19_,_1898 - September_16_,_1942 ) was an_American_actor , playwright , screenwriter , and producer best_known for his_1927_Broadway_play The_Racket , and for working with Howard_Hughes and Cecil_B._DeMille on several_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edward'), (7, 'Bartlett'), (16, 'Cormack'), (24, '('), (25, 'March'), (31, '19'), (33, ','), (35, '1898'), (40, '-'), (42, 'September'), (52, '16'), (54, ','), (56, '1942'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'actor'), (83, ','), (85, 'playwright'), (95, ','), (97, 'screenwriter'), (109, ','), (111, 'and'), (115, 'producer'), (124, 'best'), (129, 'known'), (135, 'for'), (139, 'his'), (143, '1927'), (148, 'Broadway'), (157, 'play'), (162, 'The'), (166, 'Racket'), (172, ','), (174, 'and'), (178, 'for'), (182, 'working'), (190, 'with'), (195, 'Howard'), (202, 'Hughes'), (209, 'and'), (213, 'Cecil'), (219, 'B.'), (222, 'DeMille'), (230, 'on'), (233, 'several'), (241, 'films'), (246, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edward Bartlett Cormack',0, 23), ('March 19, 1898',25, 39), ('September 16, 1942',42, 60), ('an American actor',66, 83), ('best known',124, 134), ('his 1927 Broadway play',139, 161), ('The Racket',162, 172), ('Howard Hughes',195, 208), ('Cecil B. DeMille',213, 229), ('several films',233, 246)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'CD', 'NNP', 'NN', 'DT', 'NN', ',', 'CC', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edward'), (7, 'Bartlett'), (16, 'Cormack'), (24, '('), (25, 'March'), (31, '19'), (33, ','), (35, '1898'), (40, '-'), (42, 'September'), (52, '16'), (54, ','), (56, '1942'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'actor'), (83, ','), (85, 'playwright'), (95, ','), (97, 'screenwriter'), (109, ','), (111, 'and'), (115, 'producer'), (124, 'best'), (129, 'known'), (135, 'for'), (139, 'his'), (143, '1927'), (148, 'Broadway'), (157, 'play'), (162, 'The'), (166, 'Racket'), (172, ','), (174, 'and'), (178, 'for'), (182, 'working'), (190, 'with'), (195, 'Howard'), (202, 'Hughes'), (209, 'and'), (213, 'Cecil'), (219, 'B.'), (222, 'DeMille'), (230, 'on'), (233, 'several'), (241, 'films'), (246, '.')])</spacy_tokens>
+<spacy_chunks>[('Edward Bartlett Cormack', 0, 23), ('March 19, 1898', 25, 39), ('- September', 40, 51), ('September 16, 1942', 42, 60), ('an American actor', 66, 83), ('playwright', 85, 95), ('screenwriter', 97, 109), ('producer', 115, 123), ('his 1927 Broadway', 139, 156), ('The Racket', 162, 172), ('Howard Hughes', 195, 208), ('Cecil B. DeMille', 213, 229), ('several films', 233, 246)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'CD', 'NNP', 'NN', 'DT', 'NNP', ',', 'CC', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

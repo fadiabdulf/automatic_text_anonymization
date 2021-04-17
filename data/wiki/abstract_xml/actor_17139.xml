@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lucy Punch</title>
+<link/>https://en.wikipedia.org/wiki/Lucy_Punch
+<annotated>0</annotated>
+<originalabstract>Lucy Punch (born 30 December 1977) is an English actress. She has appeared in films such as Ella Enchanted, Hot Fuzz, Bad Teacher, You Will Meet a Tall Dark Stranger, Dinner for Schmucks, and Into the Woods. She is also known for her role as Esmé Squalor in A Series of Unfortunate Events.</originalabstract>
+<abstract>Lucy_Punch ( born_30_December_1977 ) is an_English_actress . She has_appeared in films such_as Ella_Enchanted , Hot_Fuzz , Bad_Teacher , You Will_Meet a_Tall_Dark_Stranger , Dinner for Schmucks , and Into the_Woods . She is_also_known for her_role as Esmé_Squalor in A_Series of Unfortunate_Events .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lucy'), (5, 'Punch'), (11, '('), (12, 'born'), (17, '30'), (20, 'December'), (29, '1977'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'English'), (49, 'actress'), (56, '.'), (58, 'She'), (62, 'has'), (66, 'appeared'), (75, 'in'), (78, 'films'), (84, 'such'), (89, 'as'), (92, 'Ella'), (97, 'Enchanted'), (106, ','), (108, 'Hot'), (112, 'Fuzz'), (116, ','), (118, 'Bad'), (122, 'Teacher'), (129, ','), (131, 'You'), (135, 'Will'), (140, 'Meet'), (145, 'a'), (147, 'Tall'), (152, 'Dark'), (157, 'Stranger'), (165, ','), (167, 'Dinner'), (174, 'for'), (178, 'Schmucks'), (186, ','), (188, 'and'), (192, 'Into'), (197, 'the'), (201, 'Woods'), (206, '.'), (208, 'She'), (212, 'is'), (215, 'also'), (220, 'known'), (226, 'for'), (230, 'her'), (234, 'role'), (239, 'as'), (242, 'Esmé'), (247, 'Squalor'), (255, 'in'), (258, 'A'), (260, 'Series'), (267, 'of'), (270, 'Unfortunate'), (282, 'Events'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lucy Punch',0, 10), ('born 30 December 1977',12, 33), ('an English actress',38, 56), ('has appeared',62, 74), ('such as',84, 91), ('Ella Enchanted',92, 106), ('Hot Fuzz',108, 116), ('Bad Teacher',118, 129), ('Will Meet',135, 144), ('a Tall Dark Stranger',145, 165), ('the Woods',197, 206), ('is also known',212, 225), ('her role',230, 238), ('Esmé Squalor',242, 254), ('A Series',258, 266), ('Unfortunate Events',270, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NN', ',', 'PRP', 'MD', 'VB', 'DT', 'NNP', 'JJ', 'NN', ',', 'NNP', 'IN', 'NNPS', ',', 'CC', 'NNP', 'DT', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lucy'), (5, 'Punch'), (11, '('), (12, 'born'), (17, '30'), (20, 'December'), (29, '1977'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'English'), (49, 'actress'), (56, '.'), (58, 'She'), (62, 'has'), (66, 'appeared'), (75, 'in'), (78, 'films'), (84, 'such'), (89, 'as'), (92, 'Ella'), (97, 'Enchanted'), (106, ','), (108, 'Hot'), (112, 'Fuzz'), (116, ','), (118, 'Bad'), (122, 'Teacher'), (129, ','), (131, 'You'), (135, 'Will'), (140, 'Meet'), (145, 'a'), (147, 'Tall'), (152, 'Dark'), (157, 'Stranger'), (165, ','), (167, 'Dinner'), (174, 'for'), (178, 'Schmucks'), (186, ','), (188, 'and'), (192, 'Into'), (197, 'the'), (201, 'Woods'), (206, '.'), (208, 'She'), (212, 'is'), (215, 'also'), (220, 'known'), (226, 'for'), (230, 'her'), (234, 'role'), (239, 'as'), (242, 'Esmé'), (247, 'Squalor'), (255, 'in'), (258, 'A'), (260, 'Series'), (267, 'of'), (270, 'Unfortunate'), (282, 'Events'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Lucy Punch', 0, 10), ('30 December 1977', 17, 33), ('an English actress', 38, 56), ('Ella Enchanted', 92, 106), ('Hot Fuzz', 108, 116), ('Bad Teacher', 118, 129), ('You Will Meet a Tall Dark Stranger', 131, 165), ('Dinner for Schmucks', 167, 186), ('Into the Woods', 192, 206), ('her role', 230, 238), ('Esmé Squalor', 242, 254), ('A Series of Unfortunate Events', 258, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NN', ',', 'PRP', 'MD', 'VB', 'DT', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNPS', ',', 'CC', 'IN', 'DT', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

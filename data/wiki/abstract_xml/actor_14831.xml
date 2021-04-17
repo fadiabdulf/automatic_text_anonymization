@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kali Rocha</title>
+<link/>https://en.wikipedia.org/wiki/Kali_Rocha
+<annotated>0</annotated>
+<originalabstract>Kali Michele Rocha (born December 5, 1971) is an American actress. She is known for portraying Karen Rooney, the mother of four Rooney children and school's vice principal, in the Disney Channel sitcom, Liv and Maddie. She has also co-written four episodes of the show.</originalabstract>
+<abstract>Kali_Michele_Rocha ( born December_5 , 1971 ) is an_American_actress . She is_known for portraying Karen_Rooney , the_mother of four_Rooney_children and school 's_vice_principal , in the_Disney_Channel_sitcom , Liv and Maddie . She has also_co-written_four_episodes of the_show .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kali'), (5, 'Michele'), (13, 'Rocha'), (19, '('), (20, 'born'), (25, 'December'), (34, '5'), (35, ','), (37, '1971'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'is'), (74, 'known'), (80, 'for'), (84, 'portraying'), (95, 'Karen'), (101, 'Rooney'), (107, ','), (109, 'the'), (113, 'mother'), (120, 'of'), (123, 'four'), (128, 'Rooney'), (135, 'children'), (144, 'and'), (148, 'school'), (154, '\'s'), (157, 'vice'), (162, 'principal'), (171, ','), (173, 'in'), (176, 'the'), (180, 'Disney'), (187, 'Channel'), (195, 'sitcom'), (201, ','), (203, 'Liv'), (207, 'and'), (211, 'Maddie'), (217, '.'), (219, 'She'), (223, 'has'), (227, 'also'), (232, 'co-written'), (243, 'four'), (248, 'episodes'), (257, 'of'), (260, 'the'), (264, 'show'), (268, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kali Michele Rocha',0, 18), ('December 5',25, 35), ('an American actress',46, 65), ('is known',71, 79), ('Karen Rooney',95, 107), ('the mother',109, 119), ('four Rooney children',123, 143), ('\'s vice principal',154, 171), ('the Disney Channel sitcom',176, 201), ('also co-written four episodes',227, 256), ('the show',260, 268)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'CD', 'NNP', 'NNS', 'CC', 'NN', 'POS', 'NN', 'NN', ',', 'IN', 'DT', 'NNP', 'NNP', 'NN', ',', 'NNP', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'JJ', 'CD', 'NNS', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kali'), (5, 'Michele'), (13, 'Rocha'), (19, '('), (20, 'born'), (25, 'December'), (34, '5'), (35, ','), (37, '1971'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'is'), (74, 'known'), (80, 'for'), (84, 'portraying'), (95, 'Karen'), (101, 'Rooney'), (107, ','), (109, 'the'), (113, 'mother'), (120, 'of'), (123, 'four'), (128, 'Rooney'), (135, 'children'), (144, 'and'), (148, 'school'), (154, "'s"), (157, 'vice'), (162, 'principal'), (171, ','), (173, 'in'), (176, 'the'), (180, 'Disney'), (187, 'Channel'), (195, 'sitcom'), (201, ','), (203, 'Liv'), (207, 'and'), (211, 'Maddie'), (217, '.'), (219, 'She'), (223, 'has'), (227, 'also'), (232, 'co'), (234, '-'), (235, 'written'), (243, 'four'), (248, 'episodes'), (257, 'of'), (260, 'the'), (264, 'show'), (268, '.')])</spacy_tokens>
+<spacy_chunks>[('Kali Michele Rocha', 0, 18), ('December 5, 1971', 25, 41), ('an American actress', 46, 65), ('Karen Rooney', 95, 107), ('the mother', 109, 119), ('four Rooney children', 123, 143), ("school's vice principal", 148, 171), ('the Disney Channel sitcom', 176, 201), ('Liv and Maddie', 203, 217), ('four episodes', 243, 256), ('the show', 260, 268)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'CD', 'NNP', 'NNS', 'CC', 'NN', 'POS', 'NN', 'NN', ',', 'IN', 'DT', 'NNP', 'NNP', 'NN', ',', 'NNP', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'VBN', 'VBN', 'CD', 'NNS', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

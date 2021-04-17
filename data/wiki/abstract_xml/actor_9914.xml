@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nicolas Koretzky</title>
+<link/>https://en.wikipedia.org/wiki/Nicolas_Koretzky
+<annotated>0</annotated>
+<originalabstract>Nicolas Koretzky is a French actor, who played as 'Morlot' in the French TV series Résistance.Koretzky has appeared in films, television and plays in France.</originalabstract>
+<abstract>Nicolas_Koretzky is a_French_actor , who played as ' Morlot ' in the_French_TV_series_Résistance.Koretzky has_appeared in films_,_television and plays in France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nicolas'), (8, 'Koretzky'), (17, 'is'), (20, 'a'), (22, 'French'), (29, 'actor'), (34, ','), (36, 'who'), (40, 'played'), (47, 'as'), (50, '\''), (51, 'Morlot'), (57, '\''), (59, 'in'), (62, 'the'), (66, 'French'), (73, 'TV'), (76, 'series'), (83, 'Résistance.Koretzky'), (103, 'has'), (107, 'appeared'), (116, 'in'), (119, 'films'), (124, ','), (126, 'television'), (137, 'and'), (141, 'plays'), (147, 'in'), (150, 'France'), (156, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nicolas Koretzky',0, 16), ('a French actor',20, 34), ('the French TV series Résistance.Koretzky',62, 102), ('has appeared',103, 115), ('films, television',119, 136)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'IN', '``', 'NNP', '\'\'', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'VBZ', 'VBN', 'IN', 'NNS', ',', 'NN', 'CC', 'VBZ', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nicolas'), (8, 'Koretzky'), (17, 'is'), (20, 'a'), (22, 'French'), (29, 'actor'), (34, ','), (36, 'who'), (40, 'played'), (47, 'as'), (50, "'"), (51, 'Morlot'), (57, "'"), (59, 'in'), (62, 'the'), (66, 'French'), (73, 'TV'), (76, 'series'), (83, 'Résistance'), (93, '.'), (94, 'Koretzky'), (103, 'has'), (107, 'appeared'), (116, 'in'), (119, 'films'), (124, ','), (126, 'television'), (137, 'and'), (141, 'plays'), (147, 'in'), (150, 'France'), (156, '.')])</spacy_tokens>
+<spacy_chunks>[('Nicolas Koretzky', 0, 16), ('a French actor', 20, 34), ("'Morlot", 50, 57), ('the French TV series', 62, 82), ('Résistance', 83, 93), ('television', 126, 136), ('France', 150, 156)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'IN', '``', 'NNP', "''", 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'NNS', ',', 'NN', 'CC', 'VBZ', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

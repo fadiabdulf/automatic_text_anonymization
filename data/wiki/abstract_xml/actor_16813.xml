@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Martita Hunt</title>
+<link/>https://en.wikipedia.org/wiki/Martita_Hunt
+<annotated>0</annotated>
+<originalabstract>Martita Edith Hunt (30 January 1900 – 13 June 1969) was an Argentine-born English theatre and film actress. She had a dominant stage presence and played a wide range of powerful characters. She is best remembered for her performance as Miss Havisham in David Lean's Great Expectations.</originalabstract>
+<abstract>Martita_Edith_Hunt ( 30_January_1900 – 13_June_1969 ) was an_Argentine-born_English_theatre_and_film_actress . She had a_dominant_stage_presence and played a_wide_range of powerful_characters . She is_best_remembered for her_performance as Miss_Havisham in David_Lean 's_Great_Expectations .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Martita'), (8, 'Edith'), (14, 'Hunt'), (19, '('), (20, '30'), (23, 'January'), (31, '1900'), (36, '–'), (38, '13'), (41, 'June'), (46, '1969'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'Argentine-born'), (74, 'English'), (82, 'theatre'), (90, 'and'), (94, 'film'), (99, 'actress'), (106, '.'), (108, 'She'), (112, 'had'), (116, 'a'), (118, 'dominant'), (127, 'stage'), (133, 'presence'), (142, 'and'), (146, 'played'), (153, 'a'), (155, 'wide'), (160, 'range'), (166, 'of'), (169, 'powerful'), (178, 'characters'), (188, '.'), (190, 'She'), (194, 'is'), (197, 'best'), (202, 'remembered'), (213, 'for'), (217, 'her'), (221, 'performance'), (233, 'as'), (236, 'Miss'), (241, 'Havisham'), (250, 'in'), (253, 'David'), (259, 'Lean'), (263, '\'s'), (266, 'Great'), (272, 'Expectations'), (284, '.')])</stanford_tokens>
+<opennlp_chunks>[('Martita Edith Hunt',0, 18), ('30 January 1900',20, 35), ('13 June 1969',38, 50), ('an Argentine-born English theatre and film actress',56, 106), ('a dominant stage presence',116, 141), ('a wide range',153, 165), ('powerful characters',169, 188), ('is best remembered',194, 212), ('her performance',217, 232), ('Miss Havisham',236, 249), ('David Lean',253, 263), ('\'s Great Expectations',263, 284)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NNP', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBZ', 'JJS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'VB', 'POS', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Martita'), (8, 'Edith'), (14, 'Hunt'), (19, '('), (20, '30'), (23, 'January'), (31, '1900'), (36, '–'), (38, '13'), (41, 'June'), (46, '1969'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'Argentine'), (68, '-'), (69, 'born'), (74, 'English'), (82, 'theatre'), (90, 'and'), (94, 'film'), (99, 'actress'), (106, '.'), (108, 'She'), (112, 'had'), (116, 'a'), (118, 'dominant'), (127, 'stage'), (133, 'presence'), (142, 'and'), (146, 'played'), (153, 'a'), (155, 'wide'), (160, 'range'), (166, 'of'), (169, 'powerful'), (178, 'characters'), (188, '.'), (190, 'She'), (194, 'is'), (197, 'best'), (202, 'remembered'), (213, 'for'), (217, 'her'), (221, 'performance'), (233, 'as'), (236, 'Miss'), (241, 'Havisham'), (250, 'in'), (253, 'David'), (259, 'Lean'), (263, "'s"), (266, 'Great'), (272, 'Expectations'), (284, '.')])</spacy_tokens>
+<spacy_chunks>[('Martita Edith Hunt', 0, 18), ('30 January 1900', 20, 35), ('13 June 1969', 38, 50), ('an Argentine-born English theatre and film actress', 56, 106), ('a dominant stage presence', 116, 141), ('a wide range', 153, 165), ('powerful characters', 169, 188), ('her performance', 217, 232), ('Miss Havisham', 236, 249), ("David Lean's Great Expectations", 253, 284)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

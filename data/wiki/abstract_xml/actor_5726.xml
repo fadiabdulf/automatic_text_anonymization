@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Reg Rogers</title>
+<link/>https://en.wikipedia.org/wiki/Reg_Rogers
+<annotated>0</annotated>
+<originalabstract>Reg Rogers (born December 23, 1964) is an American stage, film, and television actor, known for his roles in Primal Fear and Runaway Bride and for the TV miniseries Attila. He also appears in theater, both on Broadway and Off-Broadway.</originalabstract>
+<abstract>Reg_Rogers ( born December_23_,_1964 ) is an_American_stage , film , and television_actor , known for his_roles in Primal_Fear and Runaway_Bride and for the_TV_miniseries_Attila . He also appears in theater , both_on Broadway_and_Off-Broadway .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Reg'), (4, 'Rogers'), (11, '('), (12, 'born'), (17, 'December'), (26, '23'), (28, ','), (30, '1964'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'stage'), (56, ','), (58, 'film'), (62, ','), (64, 'and'), (68, 'television'), (79, 'actor'), (84, ','), (86, 'known'), (92, 'for'), (96, 'his'), (100, 'roles'), (106, 'in'), (109, 'Primal'), (116, 'Fear'), (121, 'and'), (125, 'Runaway'), (133, 'Bride'), (139, 'and'), (143, 'for'), (147, 'the'), (151, 'TV'), (154, 'miniseries'), (165, 'Attila'), (171, '.'), (173, 'He'), (176, 'also'), (181, 'appears'), (189, 'in'), (192, 'theater'), (199, ','), (201, 'both'), (206, 'on'), (209, 'Broadway'), (218, 'and'), (222, 'Off-Broadway'), (234, '.')])</stanford_tokens>
+<opennlp_chunks>[('Reg Rogers',0, 10), ('December 23, 1964',17, 34), ('an American stage',39, 56), ('television actor',68, 84), ('his roles',96, 105), ('Primal Fear',109, 120), ('Runaway Bride',125, 138), ('the TV miniseries Attila',147, 171), ('both on',201, 208), ('Broadway and Off-Broadway',209, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'CC', 'IN', 'DT', 'NN', 'NN', 'NNP', '.', 'PRP', 'RB', 'VBZ', 'IN', 'NN', ',', 'DT', 'IN', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Reg'), (4, 'Rogers'), (11, '('), (12, 'born'), (17, 'December'), (26, '23'), (28, ','), (30, '1964'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'stage'), (56, ','), (58, 'film'), (62, ','), (64, 'and'), (68, 'television'), (79, 'actor'), (84, ','), (86, 'known'), (92, 'for'), (96, 'his'), (100, 'roles'), (106, 'in'), (109, 'Primal'), (116, 'Fear'), (121, 'and'), (125, 'Runaway'), (133, 'Bride'), (139, 'and'), (143, 'for'), (147, 'the'), (151, 'TV'), (154, 'miniseries'), (165, 'Attila'), (171, '.'), (173, 'He'), (176, 'also'), (181, 'appears'), (189, 'in'), (192, 'theater'), (199, ','), (201, 'both'), (206, 'on'), (209, 'Broadway'), (218, 'and'), (222, 'Off'), (225, '-'), (226, 'Broadway'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('Reg Rogers', 0, 10), ('December 23, 1964', 17, 34), ('an American stage', 39, 56), ('television actor', 68, 84), ('his roles', 96, 105), ('Primal Fear', 109, 120), ('Runaway Bride', 125, 138), ('the TV miniseries', 147, 164), ('Attila', 165, 171), ('theater', 192, 199), ('Broadway', 209, 217), ('Off-Broadway', 222, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'CC', 'IN', 'DT', 'NN', 'NNS', 'NNP', '.', 'PRP', 'RB', 'VBZ', 'IN', 'NN', ',', 'DT', 'IN', 'NNP', 'CC', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

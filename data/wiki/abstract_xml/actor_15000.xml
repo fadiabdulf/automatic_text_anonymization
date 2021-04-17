@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Betty Schade</title>
+<link/>https://en.wikipedia.org/wiki/Betty_Schade
+<annotated>0</annotated>
+<originalabstract>Betty Schade (27 March 1895 – 27 March 1982) was a German-born American actress of the silent era. She appeared in about 135 films between 1913 and 1921.</originalabstract>
+<abstract>Betty_Schade ( 27_March_1895 – 27_March_1982 ) was a_German-born_American_actress of the_silent_era . She appeared in about_135_films between 1913_and_1921 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Betty'), (6, 'Schade'), (13, '('), (14, '27'), (17, 'March'), (23, '1895'), (28, '–'), (30, '27'), (33, 'March'), (39, '1982'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'German-born'), (63, 'American'), (72, 'actress'), (80, 'of'), (83, 'the'), (87, 'silent'), (94, 'era'), (97, '.'), (99, 'She'), (103, 'appeared'), (112, 'in'), (115, 'about'), (121, '135'), (125, 'films'), (131, 'between'), (139, '1913'), (144, 'and'), (148, '1921'), (152, '.')])</stanford_tokens>
+<opennlp_chunks>[('Betty Schade',0, 12), ('27 March 1895',14, 27), ('27 March 1982',30, 43), ('a German-born American actress',49, 79), ('the silent era',83, 97), ('about 135 films',115, 130), ('1913 and 1921',139, 152)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Betty'), (6, 'Schade'), (13, '('), (14, '27'), (17, 'March'), (23, '1895'), (28, '–'), (30, '27'), (33, 'March'), (39, '1982'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'German'), (57, '-'), (58, 'born'), (63, 'American'), (72, 'actress'), (80, 'of'), (83, 'the'), (87, 'silent'), (94, 'era'), (97, '.'), (99, 'She'), (103, 'appeared'), (112, 'in'), (115, 'about'), (121, '135'), (125, 'films'), (131, 'between'), (139, '1913'), (144, 'and'), (148, '1921'), (152, '.')])</spacy_tokens>
+<spacy_chunks>[('Betty Schade', 0, 12), ('27 March 1895', 14, 27), ('27 March 1982', 30, 43), ('a German-born American actress', 49, 79), ('the silent era', 83, 97), ('about 135 films', 115, 130)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marie Wright</title>
+<link/>https://en.wikipedia.org/wiki/Marie_Wright
+<annotated>0</annotated>
+<originalabstract>Marie Wright (1862 - 1 May 1949) was a British actress.</originalabstract>
+<abstract>Marie_Wright ( 1862 - 1 May_1949 ) was a_British_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie'), (6, 'Wright'), (13, '('), (14, '1862'), (19, '-'), (21, '1'), (23, 'May'), (27, '1949'), (31, ')'), (33, 'was'), (37, 'a'), (39, 'British'), (47, 'actress'), (54, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie Wright',0, 12), ('May 1949',23, 31), ('a British actress',37, 54)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'SYM', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (6, 'Wright'), (13, '('), (14, '1862'), (19, '-'), (21, '1'), (23, 'May'), (27, '1949'), (31, ')'), (33, 'was'), (37, 'a'), (39, 'British'), (47, 'actress'), (54, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie Wright', 0, 12), ('1862 - 1 May', 14, 26), ('1 May 1949', 21, 31), ('a British actress', 37, 54)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

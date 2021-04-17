@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brent Jennings</title>
+<link/>https://en.wikipedia.org/wiki/Brent_Jennings
+<annotated>0</annotated>
+<originalabstract>Brent Jennings (born 1951) is an American actor. He was born in Little Rock, Arkansas and is a 1969 graduate of Little Rock Central High School.
+He played Oakland Athletics coach Ron Washington (former manager of Texas Rangers) in 2011 film Moneyball.</originalabstract>
+<abstract>Brent_Jennings ( born 1951 ) is an_American_actor . He was_born in Little_Rock , Arkansas and is a_1969_graduate of Little_Rock_Central_High_School . He played Oakland_Athletics_coach_Ron_Washington ( former_manager of Texas_Rangers_) in 2011_film_Moneyball .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brent'), (6, 'Jennings'), (15, '('), (16, 'born'), (21, '1951'), (25, ')'), (27, 'is'), (30, 'an'), (33, 'American'), (42, 'actor'), (47, '.'), (49, 'He'), (52, 'was'), (56, 'born'), (61, 'in'), (64, 'Little'), (71, 'Rock'), (75, ','), (77, 'Arkansas'), (86, 'and'), (90, 'is'), (93, 'a'), (95, '1969'), (100, 'graduate'), (109, 'of'), (112, 'Little'), (119, 'Rock'), (124, 'Central'), (132, 'High'), (137, 'School'), (143, '.'), (145, 'He'), (148, 'played'), (155, 'Oakland'), (163, 'Athletics'), (173, 'coach'), (179, 'Ron'), (183, 'Washington'), (194, '('), (195, 'former'), (202, 'manager'), (210, 'of'), (213, 'Texas'), (219, 'Rangers'), (226, ')'), (228, 'in'), (231, '2011'), (236, 'film'), (241, 'Moneyball'), (250, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brent Jennings',0, 14), ('an American actor',30, 47), ('was born',52, 60), ('Little Rock',64, 75), ('a 1969 graduate',93, 108), ('Little Rock Central High School',112, 143), ('Oakland Athletics coach Ron Washington',155, 193), ('former manager',195, 209), ('Texas Rangers)',213, 227), ('2011 film Moneyball',231, 250)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBZ', 'DT', 'CD', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', '-LRB-', 'JJ', 'NN', 'IN', 'NNP', 'NNPS', '-RRB-', 'IN', 'CD', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brent'), (6, 'Jennings'), (15, '('), (16, 'born'), (21, '1951'), (25, ')'), (27, 'is'), (30, 'an'), (33, 'American'), (42, 'actor'), (47, '.'), (49, 'He'), (52, 'was'), (56, 'born'), (61, 'in'), (64, 'Little'), (71, 'Rock'), (75, ','), (77, 'Arkansas'), (86, 'and'), (90, 'is'), (93, 'a'), (95, '1969'), (100, 'graduate'), (109, 'of'), (112, 'Little'), (119, 'Rock'), (124, 'Central'), (132, 'High'), (137, 'School'), (143, '.'), (145, 'He'), (148, 'played'), (155, 'Oakland'), (163, 'Athletics'), (173, 'coach'), (179, 'Ron'), (183, 'Washington'), (194, '('), (195, 'former'), (202, 'manager'), (210, 'of'), (213, 'Texas'), (219, 'Rangers'), (226, ')'), (228, 'in'), (231, '2011'), (236, 'film'), (241, 'Moneyball'), (250, '.')])</spacy_tokens>
+<spacy_chunks>[('Brent Jennings', 0, 14), ('an American actor', 30, 47), ('Little Rock, Arkansas', 64, 85), ('a 1969 graduate', 93, 108), ('Little Rock Central High School', 112, 143), ('Oakland Athletics coach Ron Washington', 155, 193), ('former manager', 195, 209), ('Texas Rangers', 213, 226), ('2011 film', 231, 240), ('Moneyball', 241, 250)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBZ', 'DT', 'CD', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', '-LRB-', 'JJ', 'NN', 'IN', 'NNP', 'NNPS', '-RRB-', 'IN', 'CD', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

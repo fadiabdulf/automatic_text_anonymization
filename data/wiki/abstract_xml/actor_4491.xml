@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Matt McHugh</title>
+<link/>https://en.wikipedia.org/wiki/Matt_McHugh
+<annotated>0</annotated>
+<originalabstract>Matthew O. McHugh (January 22, 1894 – February 22, 1971) was an American film actor who appeared in more than 200 films between 1931 and 1955, primarily in small cameo parts.</originalabstract>
+<abstract>Matthew_O._McHugh ( January_22_,_1894 – February_22 , 1971 ) was an_American_film_actor who appeared in more_than_200_films between 1931_and_1955 , primarily in small_cameo_parts .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Matthew'), (8, 'O.'), (11, 'McHugh'), (18, '('), (19, 'January'), (27, '22'), (29, ','), (31, '1894'), (36, '–'), (38, 'February'), (47, '22'), (49, ','), (51, '1971'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'film'), (78, 'actor'), (84, 'who'), (88, 'appeared'), (97, 'in'), (100, 'more'), (105, 'than'), (110, '200'), (114, 'films'), (120, 'between'), (128, '1931'), (133, 'and'), (137, '1955'), (141, ','), (143, 'primarily'), (153, 'in'), (156, 'small'), (162, 'cameo'), (168, 'parts'), (173, '.')])</stanford_tokens>
+<opennlp_chunks>[('Matthew O. McHugh',0, 17), ('January 22, 1894',19, 35), ('February 22',38, 49), ('an American film actor',61, 83), ('more than 200 films',100, 119), ('1931 and 1955',128, 141), ('small cameo parts',156, 173)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'IN', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Matthew'), (8, 'O.'), (11, 'McHugh'), (18, '('), (19, 'January'), (27, '22'), (29, ','), (31, '1894'), (36, '–'), (38, 'February'), (47, '22'), (49, ','), (51, '1971'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'film'), (78, 'actor'), (84, 'who'), (88, 'appeared'), (97, 'in'), (100, 'more'), (105, 'than'), (110, '200'), (114, 'films'), (120, 'between'), (128, '1931'), (133, 'and'), (137, '1955'), (141, ','), (143, 'primarily'), (153, 'in'), (156, 'small'), (162, 'cameo'), (168, 'parts'), (173, '.')])</spacy_tokens>
+<spacy_chunks>[('Matthew O. McHugh', 0, 17), ('January 22, 1894', 19, 35), ('February 22, 1971', 38, 55), ('an American film actor', 61, 83), ('more than 200 films', 100, 119), ('small cameo parts', 156, 173)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'IN', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

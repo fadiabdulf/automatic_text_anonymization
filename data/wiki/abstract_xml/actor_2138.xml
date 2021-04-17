@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Richard Eyer</title>
+<link/>https://en.wikipedia.org/wiki/Richard_Eyer
+<annotated>0</annotated>
+<originalabstract>Richard Ross Eyer (born May 6, 1945) is an American former child actor who worked during the 1950s and 1960s, as well as teaching at elementary schools in Bishop, California until he retired in 2006. He is the older brother of Robert Eyer (1948-2005), another child actor of the period.</originalabstract>
+<abstract>Richard_Ross_Eyer ( born May_6_,_1945 ) is an_American_former_child_actor who worked during the_1950s_and_1960s , as_well_as teaching at elementary_schools in Bishop , California until he retired in 2006 . He is the_older_brother of Robert_Eyer ( 1948-2005_) , another_child_actor of the_period .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Ross'), (13, 'Eyer'), (18, '('), (19, 'born'), (24, 'May'), (28, '6'), (29, ','), (31, '1945'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'former'), (59, 'child'), (65, 'actor'), (71, 'who'), (75, 'worked'), (82, 'during'), (89, 'the'), (93, '1950s'), (99, 'and'), (103, '1960s'), (108, ','), (110, 'as'), (113, 'well'), (118, 'as'), (121, 'teaching'), (130, 'at'), (133, 'elementary'), (144, 'schools'), (152, 'in'), (155, 'Bishop'), (161, ','), (163, 'California'), (174, 'until'), (180, 'he'), (183, 'retired'), (191, 'in'), (194, '2006'), (198, '.'), (200, 'He'), (203, 'is'), (206, 'the'), (210, 'older'), (216, 'brother'), (224, 'of'), (227, 'Robert'), (234, 'Eyer'), (239, '('), (240, '1948-2005'), (249, ')'), (250, ','), (252, 'another'), (260, 'child'), (266, 'actor'), (272, 'of'), (275, 'the'), (279, 'period'), (285, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Ross Eyer',0, 17), ('May 6, 1945',24, 35), ('an American former child actor',40, 70), ('the 1950s and 1960s',89, 108), ('as well as',110, 120), ('elementary schools',133, 151), ('the older brother',206, 223), ('Robert Eyer',227, 238), ('1948-2005)',240, 250), ('another child actor',252, 271), ('the period',275, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'CD', 'CC', 'CD', ',', 'RB', 'RB', 'IN', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'NNP', ',', 'NNP', 'IN', 'PRP', 'VBD', 'IN', 'CD', '.', 'PRP', 'VBZ', 'DT', 'JJR', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Ross'), (13, 'Eyer'), (18, '('), (19, 'born'), (24, 'May'), (28, '6'), (29, ','), (31, '1945'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'former'), (59, 'child'), (65, 'actor'), (71, 'who'), (75, 'worked'), (82, 'during'), (89, 'the'), (93, '1950s'), (99, 'and'), (103, '1960s'), (108, ','), (110, 'as'), (113, 'well'), (118, 'as'), (121, 'teaching'), (130, 'at'), (133, 'elementary'), (144, 'schools'), (152, 'in'), (155, 'Bishop'), (161, ','), (163, 'California'), (174, 'until'), (180, 'he'), (183, 'retired'), (191, 'in'), (194, '2006'), (198, '.'), (200, 'He'), (203, 'is'), (206, 'the'), (210, 'older'), (216, 'brother'), (224, 'of'), (227, 'Robert'), (234, 'Eyer'), (239, '('), (240, '1948'), (244, '-'), (245, '2005'), (249, ')'), (250, ','), (252, 'another'), (260, 'child'), (266, 'actor'), (272, 'of'), (275, 'the'), (279, 'period'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('Richard Ross Eyer', 0, 17), ('May 6, 1945', 24, 35), ('an American former child actor', 40, 70), ('the 1950s', 89, 98), ('teaching', 121, 129), ('elementary schools', 133, 151), ('Bishop, California', 155, 173), ('the older brother', 206, 223), ('Robert Eyer', 227, 238), ('another child actor', 252, 271), ('the period', 275, 285)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NNS', 'CC', 'NNS', ',', 'RB', 'RB', 'IN', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'NNP', ',', 'NNP', 'IN', 'PRP', 'VBD', 'IN', 'CD', '.', 'PRP', 'VBZ', 'DT', 'JJR', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', ',', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

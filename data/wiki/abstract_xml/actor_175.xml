@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Oscar Apfel</title>
+<link/>https://en.wikipedia.org/wiki/Oscar_Apfel
+<annotated>0</annotated>
+<originalabstract>Oscar C. Apfel (January 17, 1878 – March 21, 1938) was an American film actor, director, screenwriter and producer. He appeared in 167 films between 1913 and 1939, and also directed 94 films between 1911 and 1927.</originalabstract>
+<abstract>Oscar_C._Apfel ( January_17_,_1878 – March_21_,_1938 ) was an_American_film_actor , director , screenwriter_and_producer . He appeared in 167_films between 1913_and_1939 , and also directed 94_films between 1911_and_1927 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Oscar'), (6, 'C.'), (9, 'Apfel'), (15, '('), (16, 'January'), (24, '17'), (26, ','), (28, '1878'), (33, '–'), (35, 'March'), (41, '21'), (43, ','), (45, '1938'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'actor'), (77, ','), (79, 'director'), (87, ','), (89, 'screenwriter'), (102, 'and'), (106, 'producer'), (114, '.'), (116, 'He'), (119, 'appeared'), (128, 'in'), (131, '167'), (135, 'films'), (141, 'between'), (149, '1913'), (154, 'and'), (158, '1939'), (162, ','), (164, 'and'), (168, 'also'), (173, 'directed'), (182, '94'), (185, 'films'), (191, 'between'), (199, '1911'), (204, 'and'), (208, '1927'), (212, '.')])</stanford_tokens>
+<opennlp_chunks>[('Oscar C. Apfel',0, 14), ('January 17, 1878',16, 32), ('March 21, 1938',35, 49), ('an American film actor',55, 77), ('screenwriter and producer',89, 114), ('167 films',131, 140), ('1913 and 1939',149, 162), ('94 films',182, 190), ('1911 and 1927',199, 212)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'CC', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Oscar'), (6, 'C.'), (9, 'Apfel'), (15, '('), (16, 'January'), (24, '17'), (26, ','), (28, '1878'), (33, '–'), (35, 'March'), (41, '21'), (43, ','), (45, '1938'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'actor'), (77, ','), (79, 'director'), (87, ','), (89, 'screenwriter'), (102, 'and'), (106, 'producer'), (114, '.'), (116, 'He'), (119, 'appeared'), (128, 'in'), (131, '167'), (135, 'films'), (141, 'between'), (149, '1913'), (154, 'and'), (158, '1939'), (162, ','), (164, 'and'), (168, 'also'), (173, 'directed'), (182, '94'), (185, 'films'), (191, 'between'), (199, '1911'), (204, 'and'), (208, '1927'), (212, '.')])</spacy_tokens>
+<spacy_chunks>[('Oscar C. Apfel', 0, 14), ('January 17, 1878', 16, 32), ('March 21, 1938', 35, 49), ('an American film actor', 55, 77), ('director', 79, 87), ('screenwriter', 89, 101), ('producer', 106, 114), ('167 films', 131, 140), ('94 films', 182, 190)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'CC', 'RB', 'VBN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

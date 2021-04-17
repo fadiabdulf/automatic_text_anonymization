@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nati Mistral</title>
+<link/>https://en.wikipedia.org/wiki/Nati_Mistral
+<annotated>0</annotated>
+<originalabstract>Natividad Macho Álvarez (13 December 1928 – 20 August 2017) better known by the stage name Nati Mistral was a Spanish film and stage actress. She won the National Theater Prize in 1997.</originalabstract>
+<abstract>Natividad_Macho_Álvarez ( 13_December_1928 – 20_August_2017 ) better_known by the_stage_name_Nati_Mistral was a_Spanish_film_and_stage_actress . She won the_National_Theater_Prize in 1997 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Natividad'), (10, 'Macho'), (16, 'Álvarez'), (24, '('), (25, '13'), (28, 'December'), (37, '1928'), (42, '–'), (44, '20'), (47, 'August'), (54, '2017'), (58, ')'), (60, 'better'), (67, 'known'), (73, 'by'), (76, 'the'), (80, 'stage'), (86, 'name'), (91, 'Nati'), (96, 'Mistral'), (104, 'was'), (108, 'a'), (110, 'Spanish'), (118, 'film'), (123, 'and'), (127, 'stage'), (133, 'actress'), (140, '.'), (142, 'She'), (146, 'won'), (150, 'the'), (154, 'National'), (163, 'Theater'), (171, 'Prize'), (177, 'in'), (180, '1997'), (184, '.')])</stanford_tokens>
+<opennlp_chunks>[('Natividad Macho Álvarez',0, 23), ('13 December 1928',25, 41), ('20 August 2017',44, 58), ('better known',60, 72), ('the stage name Nati Mistral',76, 103), ('a Spanish film and stage actress',108, 140), ('the National Theater Prize',150, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Natividad'), (10, 'Macho'), (16, 'Álvarez'), (24, '('), (25, '13'), (28, 'December'), (37, '1928'), (42, '–'), (44, '20'), (47, 'August'), (54, '2017'), (58, ')'), (60, 'better'), (67, 'known'), (73, 'by'), (76, 'the'), (80, 'stage'), (86, 'name'), (91, 'Nati'), (96, 'Mistral'), (104, 'was'), (108, 'a'), (110, 'Spanish'), (118, 'film'), (123, 'and'), (127, 'stage'), (133, 'actress'), (140, '.'), (142, 'She'), (146, 'won'), (150, 'the'), (154, 'National'), (163, 'Theater'), (171, 'Prize'), (177, 'in'), (180, '1997'), (184, '.')])</spacy_tokens>
+<spacy_chunks>[('Natividad Macho Álvarez', 0, 23), ('13 December 1928', 25, 41), ('20 August 2017', 44, 58), ('the stage name', 76, 90), ('Nati Mistral', 91, 103), ('a Spanish film and stage actress', 108, 140), ('the National Theater Prize', 150, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'RBR', 'VBN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

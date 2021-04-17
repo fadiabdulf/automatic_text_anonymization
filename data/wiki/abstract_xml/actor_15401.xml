@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kristine Sutherland</title>
+<link/>https://en.wikipedia.org/wiki/Kristine_Sutherland
+<annotated>0</annotated>
+<originalabstract>Kristine Sutherland (born Kristine Young; April 17, 1955) is an American actress best known for her starring role as Buffy Summers' mother Joyce Summers on the television series Buffy the Vampire Slayer, where she appeared in every season, and her role as Mae Thompson in Honey, I Shrunk the Kids (1989).</originalabstract>
+<abstract>Kristine_Sutherland ( born Kristine_Young ; April_17_,_1955 ) is an_American_actress best_known for her_starring_role as Buffy_Summers '_mother_Joyce_Summers on the_television_series_Buffy the_Vampire_Slayer , where she appeared in every_season , and her_role as Mae_Thompson in Honey , I Shrunk the_Kids ( 1989 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kristine'), (9, 'Sutherland'), (20, '('), (21, 'born'), (26, 'Kristine'), (35, 'Young'), (40, ';'), (42, 'April'), (48, '17'), (50, ','), (52, '1955'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'American'), (73, 'actress'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'starring'), (109, 'role'), (114, 'as'), (117, 'Buffy'), (123, 'Summers'), (130, '\''), (132, 'mother'), (139, 'Joyce'), (145, 'Summers'), (153, 'on'), (156, 'the'), (160, 'television'), (171, 'series'), (178, 'Buffy'), (184, 'the'), (188, 'Vampire'), (196, 'Slayer'), (202, ','), (204, 'where'), (210, 'she'), (214, 'appeared'), (223, 'in'), (226, 'every'), (232, 'season'), (238, ','), (240, 'and'), (244, 'her'), (248, 'role'), (253, 'as'), (256, 'Mae'), (260, 'Thompson'), (269, 'in'), (272, 'Honey'), (277, ','), (279, 'I'), (281, 'Shrunk'), (288, 'the'), (292, 'Kids'), (297, '('), (298, '1989'), (302, ')'), (303, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kristine Sutherland',0, 19), ('Kristine Young',26, 40), ('April 17, 1955',42, 56), ('an American actress',61, 80), ('best known',81, 91), ('her starring role',96, 113), ('Buffy Summers',117, 130), ('\' mother Joyce Summers',130, 152), ('the television series Buffy',156, 183), ('the Vampire Slayer',184, 202), ('every season',226, 238), ('her role',244, 252), ('Mae Thompson',256, 268), ('the Kids',288, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'DT', 'NNP', 'NNP', ',', 'WRB', 'PRP', 'VBD', 'IN', 'DT', 'NN', ',', 'CC', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'PRP', 'VBP', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kristine'), (9, 'Sutherland'), (20, '('), (21, 'born'), (26, 'Kristine'), (35, 'Young'), (40, ';'), (42, 'April'), (48, '17'), (50, ','), (52, '1955'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'American'), (73, 'actress'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'starring'), (109, 'role'), (114, 'as'), (117, 'Buffy'), (123, 'Summers'), (130, "'"), (132, 'mother'), (139, 'Joyce'), (145, 'Summers'), (153, 'on'), (156, 'the'), (160, 'television'), (171, 'series'), (178, 'Buffy'), (184, 'the'), (188, 'Vampire'), (196, 'Slayer'), (202, ','), (204, 'where'), (210, 'she'), (214, 'appeared'), (223, 'in'), (226, 'every'), (232, 'season'), (238, ','), (240, 'and'), (244, 'her'), (248, 'role'), (253, 'as'), (256, 'Mae'), (260, 'Thompson'), (269, 'in'), (272, 'Honey'), (277, ','), (279, 'I'), (281, 'Shrunk'), (288, 'the'), (292, 'Kids'), (297, '('), (298, '1989'), (302, ')'), (303, '.')])</spacy_tokens>
+<spacy_chunks>[('Kristine Sutherland', 0, 19), ('(born Kristine Young', 20, 40), ('April 17, 1955', 42, 56), ('an American actress', 61, 80), ('her starring role', 96, 113), ("Buffy Summers' mother", 117, 138), ('Joyce Summers', 139, 152), ('the television series', 156, 177), ('Buffy the Vampire Slayer', 178, 202), ('every season', 226, 238), ('her role', 244, 252), ('Mae Thompson', 256, 268), ('Honey, I Shrunk the Kids', 272, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'DT', 'NNP', 'NNP', ',', 'WRB', 'PRP', 'VBD', 'IN', 'DT', 'NN', ',', 'CC', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'PRP', 'VBP', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

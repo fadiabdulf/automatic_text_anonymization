@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Philbin</title>
+<link/>https://en.wikipedia.org/wiki/John_Philbin
+<annotated>0</annotated>
+<originalabstract>John Philbin (born April 27, 1960) is an American actor who is best known for his appearances in the films Return of the Living Dead, Point Break and Tombstone.</originalabstract>
+<abstract>John_Philbin ( born April_27_,_1960 ) is an_American_actor who is_best_known for his_appearances in the_films_Return of the_Living_Dead , Point_Break_and_Tombstone .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Philbin'), (13, '('), (14, 'born'), (19, 'April'), (25, '27'), (27, ','), (29, '1960'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actor'), (56, 'who'), (60, 'is'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'appearances'), (94, 'in'), (97, 'the'), (101, 'films'), (107, 'Return'), (114, 'of'), (117, 'the'), (121, 'Living'), (128, 'Dead'), (132, ','), (134, 'Point'), (140, 'Break'), (146, 'and'), (150, 'Tombstone'), (159, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Philbin',0, 12), ('April 27, 1960',19, 33), ('an American actor',38, 55), ('is best known',60, 73), ('his appearances',78, 93), ('the films Return',97, 113), ('the Living Dead',117, 132), ('Point Break and Tombstone',134, 159)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NN', 'IN', 'DT', 'VBG', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Philbin'), (13, '('), (14, 'born'), (19, 'April'), (25, '27'), (27, ','), (29, '1960'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actor'), (56, 'who'), (60, 'is'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'appearances'), (94, 'in'), (97, 'the'), (101, 'films'), (107, 'Return'), (114, 'of'), (117, 'the'), (121, 'Living'), (128, 'Dead'), (132, ','), (134, 'Point'), (140, 'Break'), (146, 'and'), (150, 'Tombstone'), (159, '.')])</spacy_tokens>
+<spacy_chunks>[('John Philbin', 0, 12), ('April 27, 1960', 19, 33), ('an American actor', 38, 55), ('his appearances', 78, 93), ('the films', 97, 106), ('Return of the Living Dead', 107, 132), (', Point Break', 132, 145), ('Tombstone', 150, 159)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

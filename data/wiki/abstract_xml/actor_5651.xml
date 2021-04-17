@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Emilio Rivera</title>
+<link/>https://en.wikipedia.org/wiki/Emilio_Rivera
+<annotated>0</annotated>
+<originalabstract>Emilio Rivera (born February 24, 1961) is an American film and television actor and stand-up comedian. He is best known for his portrayal of Marcus Álvarez in Sons of Anarchy and depiction of criminals and law enforcement officers.</originalabstract>
+<abstract>Emilio_Rivera ( born February_24 , 1961 ) is an_American_film_and_television_actor and stand-up_comedian . He is_best_known for his_portrayal of Marcus_Álvarez in Sons of Anarchy_and_depiction of criminals and law_enforcement_officers .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Emilio'), (7, 'Rivera'), (14, '('), (15, 'born'), (20, 'February'), (29, '24'), (31, ','), (33, '1961'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'film'), (59, 'and'), (63, 'television'), (74, 'actor'), (80, 'and'), (84, 'stand-up'), (93, 'comedian'), (101, '.'), (103, 'He'), (106, 'is'), (109, 'best'), (114, 'known'), (120, 'for'), (124, 'his'), (128, 'portrayal'), (138, 'of'), (141, 'Marcus'), (148, 'Álvarez'), (156, 'in'), (159, 'Sons'), (164, 'of'), (167, 'Anarchy'), (175, 'and'), (179, 'depiction'), (189, 'of'), (192, 'criminals'), (202, 'and'), (206, 'law'), (210, 'enforcement'), (222, 'officers'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('Emilio Rivera',0, 13), ('February 24',20, 31), ('an American film and television actor',42, 79), ('stand-up comedian',84, 101), ('is best known',106, 119), ('his portrayal',124, 137), ('Marcus Álvarez',141, 155), ('Anarchy and depiction',167, 188), ('law enforcement officers',206, 230)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNPS', 'IN', 'NNP', 'CC', 'NN', 'IN', 'NNS', 'CC', 'NN', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Emilio'), (7, 'Rivera'), (14, '('), (15, 'born'), (20, 'February'), (29, '24'), (31, ','), (33, '1961'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'film'), (59, 'and'), (63, 'television'), (74, 'actor'), (80, 'and'), (84, 'stand'), (89, '-'), (90, 'up'), (93, 'comedian'), (101, '.'), (103, 'He'), (106, 'is'), (109, 'best'), (114, 'known'), (120, 'for'), (124, 'his'), (128, 'portrayal'), (138, 'of'), (141, 'Marcus'), (148, 'Álvarez'), (156, 'in'), (159, 'Sons'), (164, 'of'), (167, 'Anarchy'), (175, 'and'), (179, 'depiction'), (189, 'of'), (192, 'criminals'), (202, 'and'), (206, 'law'), (210, 'enforcement'), (222, 'officers'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[('Emilio Rivera', 0, 13), ('February 24, 1961', 20, 37), ('an American film and television actor', 42, 79), ('stand-up comedian', 84, 101), ('his portrayal', 124, 137), ('Marcus Álvarez', 141, 155), ('Sons of Anarchy', 159, 174), ('depiction', 179, 188), ('criminals', 192, 201), ('law enforcement officers', 206, 230)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'VB', 'HYPH', 'RP', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNPS', 'IN', 'NNP', 'CC', 'NN', 'IN', 'NNS', 'CC', 'NN', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

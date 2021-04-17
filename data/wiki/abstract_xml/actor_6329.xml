@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Don Starr</title>
+<link/>https://en.wikipedia.org/wiki/Don_Starr
+<annotated>0</annotated>
+<originalabstract>Donald "Don" Starr (September 20, 1917 – July 11, 1995) was an American actor who became known for his recurring role as oil baron Jordan Lee in the CBS-TV primetime soap opera series Dallas.</originalabstract>
+<abstract>Donald_"_Don_"_Starr ( September_20_,_1917 – July_11_,_1995 ) was an_American_actor who became_known for his_recurring_role as oil_baron_Jordan_Lee in the_CBS-TV_primetime_soap_opera_series_Dallas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Donald'), (7, '"'), (8, 'Don'), (11, '"'), (13, 'Starr'), (19, '('), (20, 'September'), (30, '20'), (32, ','), (34, '1917'), (39, '–'), (41, 'July'), (46, '11'), (48, ','), (50, '1995'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'actor'), (78, 'who'), (82, 'became'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'recurring'), (113, 'role'), (118, 'as'), (121, 'oil'), (125, 'baron'), (131, 'Jordan'), (138, 'Lee'), (142, 'in'), (145, 'the'), (149, 'CBS-TV'), (156, 'primetime'), (166, 'soap'), (171, 'opera'), (177, 'series'), (184, 'Dallas'), (190, '.')])</stanford_tokens>
+<opennlp_chunks>[('Donald "Don" Starr',0, 18), ('September 20, 1917',20, 38), ('July 11, 1995',41, 54), ('an American actor',60, 77), ('became known',82, 94), ('his recurring role',99, 117), ('oil baron Jordan Lee',121, 141), ('the CBS-TV primetime soap opera series Dallas',145, 190)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Donald'), (7, '"'), (8, 'Don'), (11, '"'), (13, 'Starr'), (19, '('), (20, 'September'), (30, '20'), (32, ','), (34, '1917'), (39, '–'), (41, 'July'), (46, '11'), (48, ','), (50, '1995'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'actor'), (78, 'who'), (82, 'became'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'recurring'), (113, 'role'), (118, 'as'), (121, 'oil'), (125, 'baron'), (131, 'Jordan'), (138, 'Lee'), (142, 'in'), (145, 'the'), (149, 'CBS'), (152, '-'), (153, 'TV'), (156, 'primetime'), (166, 'soap'), (171, 'opera'), (177, 'series'), (184, 'Dallas'), (190, '.')])</spacy_tokens>
+<spacy_chunks>[('Donald "Don" Starr', 0, 18), ('September 20, 1917', 20, 38), ('July 11, 1995', 41, 54), ('an American actor', 60, 77), ('his recurring role', 99, 117), ('oil baron Jordan Lee', 121, 141), ('the CBS-TV primetime soap opera series', 145, 183), ('Dallas', 184, 190)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'HYPH', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

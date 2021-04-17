@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Madelyn Clare</title>
+<link/>https://en.wikipedia.org/wiki/Madelyn_Clare
+<annotated>0</annotated>
+<originalabstract>Madelyn Clare (18 November 1894 – 20 September 1975; also known as Madelyn Klare or Madelyn Donovan) was an American actress during the early twentieth century. Born in Cleveland, Ohio, she was married to writer and director Thomas Dixon Jr.. She died in Raleigh, North Carolina.</originalabstract>
+<abstract>Madelyn_Clare ( 18_November_1894 – 20_September_1975 ; also_known as Madelyn_Klare or Madelyn_Donovan ) was an_American_actress during the_early_twentieth_century . Born in Cleveland , Ohio , she was_married to writer_and_director_Thomas_Dixon_Jr. . She died in Raleigh , North_Carolina .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Madelyn'), (8, 'Clare'), (14, '('), (15, '18'), (18, 'November'), (27, '1894'), (32, '–'), (34, '20'), (37, 'September'), (47, '1975'), (51, ';'), (53, 'also'), (58, 'known'), (64, 'as'), (67, 'Madelyn'), (75, 'Klare'), (81, 'or'), (84, 'Madelyn'), (92, 'Donovan'), (99, ')'), (101, 'was'), (105, 'an'), (108, 'American'), (117, 'actress'), (125, 'during'), (132, 'the'), (136, 'early'), (142, 'twentieth'), (152, 'century'), (159, '.'), (161, 'Born'), (166, 'in'), (169, 'Cleveland'), (178, ','), (180, 'Ohio'), (184, ','), (186, 'she'), (190, 'was'), (194, 'married'), (202, 'to'), (205, 'writer'), (212, 'and'), (216, 'director'), (225, 'Thomas'), (232, 'Dixon'), (238, 'Jr.'), (241, '.'), (243, 'She'), (247, 'died'), (252, 'in'), (255, 'Raleigh'), (262, ','), (264, 'North'), (270, 'Carolina'), (278, '.')])</stanford_tokens>
+<opennlp_chunks>[('Madelyn Clare',0, 13), ('18 November 1894',15, 31), ('20 September 1975',34, 51), ('also known',53, 63), ('Madelyn Klare',67, 80), ('Madelyn Donovan',84, 99), ('an American actress',105, 124), ('the early twentieth century',132, 159), ('was married',190, 201), ('writer and director Thomas Dixon Jr.',205, 241), ('North Carolina',264, 278)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', ':', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'VBN', 'TO', 'NN', 'CC', 'NN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Madelyn'), (8, 'Clare'), (14, '('), (15, '18'), (18, 'November'), (27, '1894'), (32, '–'), (34, '20'), (37, 'September'), (47, '1975'), (51, ';'), (53, 'also'), (58, 'known'), (64, 'as'), (67, 'Madelyn'), (75, 'Klare'), (81, 'or'), (84, 'Madelyn'), (92, 'Donovan'), (99, ')'), (101, 'was'), (105, 'an'), (108, 'American'), (117, 'actress'), (125, 'during'), (132, 'the'), (136, 'early'), (142, 'twentieth'), (152, 'century'), (159, '.'), (161, 'Born'), (166, 'in'), (169, 'Cleveland'), (178, ','), (180, 'Ohio'), (184, ','), (186, 'she'), (190, 'was'), (194, 'married'), (202, 'to'), (205, 'writer'), (212, 'and'), (216, 'director'), (225, 'Thomas'), (232, 'Dixon'), (238, 'Jr'), (240, '..'), (243, 'She'), (247, 'died'), (252, 'in'), (255, 'Raleigh'), (262, ','), (264, 'North'), (270, 'Carolina'), (278, '.')])</spacy_tokens>
+<spacy_chunks>[('Madelyn Clare', 0, 13), ('18 November 1894', 15, 31), ('20 September 1975', 34, 51), ('Madelyn Klare', 67, 80), ('Madelyn Donovan', 84, 99), ('an American actress', 105, 124), ('the early twentieth century', 132, 159), ('Cleveland, Ohio', 169, 184), ('writer', 205, 211), ('director Thomas Dixon Jr', 216, 240), ('Thomas Dixon Jr.', 225, 241), ('Raleigh, North Carolina', 255, 278)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', ':', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'JJ', 'IN', 'NN', 'CC', 'NN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

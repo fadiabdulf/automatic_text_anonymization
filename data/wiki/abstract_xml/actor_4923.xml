@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>William Nigh</title>
+<link/>https://en.wikipedia.org/wiki/William_Nigh
+<annotated>0</annotated>
+<originalabstract>William Nigh (October 12, 1881 – November 27, 1955) was an American film director, writer, and actor. His film work sometimes lists him as either "Will Nigh" or "William Nye".</originalabstract>
+<abstract>William_Nigh ( October_12_,_1881 – November_27_,_1955 ) was an_American_film_director , writer , and actor . His_film_work sometimes lists him as either " Will_Nigh_"_or_"_William_Nye_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Nigh'), (13, '('), (14, 'October'), (22, '12'), (24, ','), (26, '1881'), (31, '–'), (33, 'November'), (42, '27'), (44, ','), (46, '1955'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'film'), (73, 'director'), (81, ','), (83, 'writer'), (89, ','), (91, 'and'), (95, 'actor'), (100, '.'), (102, 'His'), (106, 'film'), (111, 'work'), (116, 'sometimes'), (126, 'lists'), (132, 'him'), (136, 'as'), (139, 'either'), (146, '"'), (147, 'Will'), (152, 'Nigh'), (156, '"'), (158, 'or'), (161, '"'), (162, 'William'), (170, 'Nye'), (173, '"'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Nigh',0, 12), ('October 12, 1881',14, 30), ('November 27, 1955',33, 50), ('an American film director',56, 81), ('His film work',102, 115), ('Will Nigh" or "William Nye"',147, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP$', 'NN', 'NN', 'RB', 'VBZ', 'PRP', 'IN', 'DT', '``', 'NNP', 'NNP', '\'\'', 'CC', '``', 'NNP', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Nigh'), (13, '('), (14, 'October'), (22, '12'), (24, ','), (26, '1881'), (31, '–'), (33, 'November'), (42, '27'), (44, ','), (46, '1955'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'film'), (73, 'director'), (81, ','), (83, 'writer'), (89, ','), (91, 'and'), (95, 'actor'), (100, '.'), (102, 'His'), (106, 'film'), (111, 'work'), (116, 'sometimes'), (126, 'lists'), (132, 'him'), (136, 'as'), (139, 'either'), (146, '"'), (147, 'Will'), (152, 'Nigh'), (156, '"'), (158, 'or'), (161, '"'), (162, 'William'), (170, 'Nye'), (173, '"'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[('William Nigh', 0, 12), ('(October', 13, 21), ('October 12, 1881', 14, 30), ('November 27, 1955', 33, 50), ('an American film director', 56, 81), ('writer', 83, 89), ('His film work', 102, 115), ('either "Will Nigh', 139, 156), ('"William Nye', 161, 173)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP$', 'NN', 'NN', 'RB', 'VBZ', 'PRP', 'IN', 'CC', '``', 'NNP', 'NNP', "''", 'CC', '``', 'NNP', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

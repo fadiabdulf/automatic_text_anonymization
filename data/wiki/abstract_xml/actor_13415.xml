@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gwen Lee</title>
+<link/>https://en.wikipedia.org/wiki/Gwen_Lee
+<annotated>0</annotated>
+<originalabstract>Gwen Lee (born Gwendolyn Lepinski, November 12, 1904 – August 20, 1961) was an American stage and film actress. Lee began her career as a model before being discovered and signed to Metro-Goldwyn-Mayer. She was typically cast in supporting roles. Lee appeared in over sixty films before retiring in 1938.</originalabstract>
+<abstract>Gwen_Lee ( born Gwendolyn_Lepinski , November_12_,_1904 – August_20_,_1961 ) was an_American_stage_and_film_actress . Lee began her_career as a_model before being_discovered and signed to Metro-Goldwyn-Mayer . She was_typically_cast in supporting_roles . Lee appeared in over_sixty_films before retiring in 1938 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gwen'), (5, 'Lee'), (9, '('), (10, 'born'), (15, 'Gwendolyn'), (25, 'Lepinski'), (33, ','), (35, 'November'), (44, '12'), (46, ','), (48, '1904'), (53, '–'), (55, 'August'), (62, '20'), (64, ','), (66, '1961'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'stage'), (94, 'and'), (98, 'film'), (103, 'actress'), (110, '.'), (112, 'Lee'), (116, 'began'), (122, 'her'), (126, 'career'), (133, 'as'), (136, 'a'), (138, 'model'), (144, 'before'), (151, 'being'), (157, 'discovered'), (168, 'and'), (172, 'signed'), (179, 'to'), (182, 'Metro-Goldwyn-Mayer'), (201, '.'), (203, 'She'), (207, 'was'), (211, 'typically'), (221, 'cast'), (226, 'in'), (229, 'supporting'), (240, 'roles'), (245, '.'), (247, 'Lee'), (251, 'appeared'), (260, 'in'), (263, 'over'), (268, 'sixty'), (274, 'films'), (280, 'before'), (287, 'retiring'), (296, 'in'), (299, '1938'), (303, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gwen Lee',0, 8), ('Gwendolyn Lepinski',15, 33), ('November 12, 1904',35, 52), ('August 20, 1961',55, 70), ('an American stage and film actress',76, 110), ('her career',122, 132), ('a model',136, 143), ('being discovered',151, 167), ('was typically cast',207, 225), ('supporting roles',229, 245), ('over sixty films',263, 279)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'IN', 'VBG', 'VBN', 'CC', 'VBN', 'TO', 'NNP', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'VBG', 'NNS', '.', 'NNP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'VBG', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gwen'), (5, 'Lee'), (9, '('), (10, 'born'), (15, 'Gwendolyn'), (25, 'Lepinski'), (33, ','), (35, 'November'), (44, '12'), (46, ','), (48, '1904'), (53, '–'), (55, 'August'), (62, '20'), (64, ','), (66, '1961'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'stage'), (94, 'and'), (98, 'film'), (103, 'actress'), (110, '.'), (112, 'Lee'), (116, 'began'), (122, 'her'), (126, 'career'), (133, 'as'), (136, 'a'), (138, 'model'), (144, 'before'), (151, 'being'), (157, 'discovered'), (168, 'and'), (172, 'signed'), (179, 'to'), (182, 'Metro'), (187, '-'), (188, 'Goldwyn'), (195, '-'), (196, 'Mayer'), (201, '.'), (203, 'She'), (207, 'was'), (211, 'typically'), (221, 'cast'), (226, 'in'), (229, 'supporting'), (240, 'roles'), (245, '.'), (247, 'Lee'), (251, 'appeared'), (260, 'in'), (263, 'over'), (268, 'sixty'), (274, 'films'), (280, 'before'), (287, 'retiring'), (296, 'in'), (299, '1938'), (303, '.')])</spacy_tokens>
+<spacy_chunks>[('Gwen Lee', 0, 8), ('(born Gwendolyn Lepinski', 9, 33), ('November 12, 1904', 35, 52), ('August 20, 1961', 55, 70), ('an American stage and film actress', 76, 110), ('her career', 122, 132), ('a model', 136, 143), ('Metro-Goldwyn-Mayer', 182, 201), ('over sixty films', 263, 279)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'IN', 'VBG', 'VBN', 'CC', 'VBN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'VBG', 'NNS', '.', 'NNP', 'VBD', 'RP', 'IN', 'CD', 'NNS', 'IN', 'VBG', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

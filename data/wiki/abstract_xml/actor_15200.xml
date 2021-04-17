@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kellita Smith</title>
+<link/>https://en.wikipedia.org/wiki/Kellita_Smith
+<annotated>0</annotated>
+<originalabstract>Kellita Smith (born January 15, 1969) is an American  comedian,  model and actress. Smith is perhaps best known for her role as Wanda McCullough, Bernie Mac's wife in the FOX sitcom The Bernie Mac Show which originally ran from 2001 to 2006.</originalabstract>
+<abstract>Kellita_Smith ( born January_15_,_1969 ) is an_American_comedian_,_model_and_actress . Smith is_perhaps_best_known for her_role as Wanda_McCullough , Bernie_Mac 's_wife in the_FOX_sitcom The_Bernie_Mac_Show which originally ran from 2001 to 2006 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kellita'), (8, 'Smith'), (14, '('), (15, 'born'), (20, 'January'), (28, '15'), (30, ','), (32, '1969'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (54, 'comedian'), (62, ','), (65, 'model'), (71, 'and'), (75, 'actress'), (82, '.'), (84, 'Smith'), (90, 'is'), (93, 'perhaps'), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'her'), (120, 'role'), (125, 'as'), (128, 'Wanda'), (134, 'McCullough'), (144, ','), (146, 'Bernie'), (153, 'Mac'), (156, '\'s'), (159, 'wife'), (164, 'in'), (167, 'the'), (171, 'FOX'), (175, 'sitcom'), (182, 'The'), (186, 'Bernie'), (193, 'Mac'), (197, 'Show'), (202, 'which'), (208, 'originally'), (219, 'ran'), (223, 'from'), (228, '2001'), (233, 'to'), (236, '2006'), (240, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kellita Smith',0, 13), ('January 15, 1969',20, 36), ('an American  comedian,  model and actress',41, 82), ('is perhaps best known',90, 111), ('her role',116, 124), ('Wanda McCullough',128, 144), ('Bernie Mac',146, 156), ('\'s wife',156, 163), ('the FOX sitcom',167, 181), ('The Bernie Mac Show',182, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', 'NNP', 'NNP', 'WDT', 'RB', 'VBD', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kellita'), (8, 'Smith'), (14, '('), (15, 'born'), (20, 'January'), (28, '15'), (30, ','), (32, '1969'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (54, 'comedian'), (62, ','), (65, 'model'), (71, 'and'), (75, 'actress'), (82, '.'), (84, 'Smith'), (90, 'is'), (93, 'perhaps'), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'her'), (120, 'role'), (125, 'as'), (128, 'Wanda'), (134, 'McCullough'), (144, ','), (146, 'Bernie'), (153, 'Mac'), (156, "'s"), (159, 'wife'), (164, 'in'), (167, 'the'), (171, 'FOX'), (175, 'sitcom'), (182, 'The'), (186, 'Bernie'), (193, 'Mac'), (197, 'Show'), (202, 'which'), (208, 'originally'), (219, 'ran'), (223, 'from'), (228, '2001'), (233, 'to'), (236, '2006'), (240, '.')])</spacy_tokens>
+<spacy_chunks>[('Kellita Smith', 0, 13), ('January 15, 1969', 20, 36), ('an American  comedian', 41, 62), ('actress', 75, 82), ('her role', 116, 124), ('Wanda McCullough', 128, 144), ("Bernie Mac's wife", 146, 163), ('the FOX sitcom', 167, 181), ('The Bernie Mac Show', 182, 201)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'NNP', 'NNP', 'WDT', 'RB', 'VBD', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

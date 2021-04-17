@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Zachary Scott</title>
+<link/>https://en.wikipedia.org/wiki/Zachary_Scott
+<annotated>0</annotated>
+<originalabstract>Zachary Scott (February 21, 1914 – October 3, 1965) was an American actor, most notable for his roles as villains and "mystery men".</originalabstract>
+<abstract>Zachary_Scott ( February_21_,_1914 – October_3_,_1965 ) was an_American_actor , most_notable for his_roles as villains and " mystery_men " .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Zachary'), (8, 'Scott'), (14, '('), (15, 'February'), (24, '21'), (26, ','), (28, '1914'), (33, '–'), (35, 'October'), (43, '3'), (44, ','), (46, '1965'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (73, ','), (75, 'most'), (80, 'notable'), (88, 'for'), (92, 'his'), (96, 'roles'), (102, 'as'), (105, 'villains'), (114, 'and'), (118, '"'), (119, 'mystery'), (127, 'men'), (130, '"'), (131, '.')])</stanford_tokens>
+<opennlp_chunks>[('Zachary Scott',0, 13), ('February 21, 1914',15, 32), ('October 3, 1965',35, 50), ('an American actor',56, 73), ('most notable',75, 87), ('his roles',92, 101), ('mystery men',119, 130)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'CC', '``', 'NN', 'NNS', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Zachary'), (8, 'Scott'), (14, '('), (15, 'February'), (24, '21'), (26, ','), (28, '1914'), (33, '–'), (35, 'October'), (43, '3'), (44, ','), (46, '1965'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (73, ','), (75, 'most'), (80, 'notable'), (88, 'for'), (92, 'his'), (96, 'roles'), (102, 'as'), (105, 'villains'), (114, 'and'), (118, '"'), (119, 'mystery'), (127, 'men'), (130, '"'), (131, '.')])</spacy_tokens>
+<spacy_chunks>[('Zachary Scott', 0, 13), ('(February', 14, 23), ('February 21, 1914', 15, 32), ('October 3, 1965', 35, 50), ('an American actor', 56, 73), ('his roles', 92, 101), ('villains', 105, 113), ('"mystery men', 118, 130)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'CC', '``', 'NN', 'NNS', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

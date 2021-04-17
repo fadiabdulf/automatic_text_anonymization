@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bert Wheeler</title>
+<link/>https://en.wikipedia.org/wiki/Bert_Wheeler
+<annotated>0</annotated>
+<originalabstract>Albert Jerome "Bert" Wheeler (April 7, 1895 – January 18, 1968) was an American comedian who performed in Broadway theatre, American comedy feature films, and vaudeville acts. He was the comedy partner of Robert Woolsey, and together they formed a successful double act called Wheeler  Woolsey.</originalabstract>
+<abstract>Albert_Jerome_"_Bert_"_Wheeler ( April_7_,_1895 – January_18_,_1968 ) was an_American_comedian who performed in Broadway_theatre , American_comedy_feature_films , and vaudeville_acts . He was the_comedy_partner of Robert_Woolsey , and together they formed a_successful_double_act called Wheeler_ .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Albert'), (7, 'Jerome'), (14, '"'), (15, 'Bert'), (19, '"'), (21, 'Wheeler'), (29, '('), (30, 'April'), (36, '7'), (37, ','), (39, '1895'), (44, '–'), (46, 'January'), (54, '18'), (56, ','), (58, '1968'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'comedian'), (89, 'who'), (93, 'performed'), (103, 'in'), (106, 'Broadway'), (115, 'theatre'), (122, ','), (124, 'American'), (133, 'comedy'), (140, 'feature'), (148, 'films'), (153, ','), (155, 'and'), (159, 'vaudeville'), (170, 'acts'), (174, '.'), (176, 'He'), (179, 'was'), (183, 'the'), (187, 'comedy'), (194, 'partner'), (202, 'of'), (205, 'Robert'), (212, 'Woolsey'), (219, ','), (221, 'and'), (225, 'together'), (234, 'they'), (239, 'formed'), (246, 'a'), (248, 'successful'), (259, 'double'), (266, 'act'), (270, 'called'), (277, 'Wheeler'), (285, ''), (287, 'Woolsey'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Albert Jerome "Bert" Wheeler',0, 28), ('April 7, 1895',30, 43), ('January 18, 1968',46, 62), ('an American comedian',68, 88), ('Broadway theatre',106, 122), ('American comedy feature films',124, 153), ('vaudeville acts',159, 174), ('the comedy partner',183, 201), ('Robert Woolsey',205, 219), ('a successful double act',246, 269), ('Wheeler  Woolsey',277, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'NN', ',', 'JJ', 'NN', 'NN', 'NNS', ',', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', ',', 'CC', 'RB', 'PRP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'VBN', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Albert'), (7, 'Jerome'), (14, '"'), (15, 'Bert'), (19, '"'), (21, 'Wheeler'), (29, '('), (30, 'April'), (36, '7'), (37, ','), (39, '1895'), (44, '–'), (46, 'January'), (54, '18'), (56, ','), (58, '1968'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'comedian'), (89, 'who'), (93, 'performed'), (103, 'in'), (106, 'Broadway'), (115, 'theatre'), (122, ','), (124, 'American'), (133, 'comedy'), (140, 'feature'), (148, 'films'), (153, ','), (155, 'and'), (159, 'vaudeville'), (170, 'acts'), (174, '.'), (176, 'He'), (179, 'was'), (183, 'the'), (187, 'comedy'), (194, 'partner'), (202, 'of'), (205, 'Robert'), (212, 'Woolsey'), (219, ','), (221, 'and'), (225, 'together'), (234, 'they'), (239, 'formed'), (246, 'a'), (248, 'successful'), (259, 'double'), (266, 'act'), (270, 'called'), (277, 'Wheeler'), (286, 'Woolsey'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('Albert Jerome "Bert" Wheeler', 0, 28), ('April 7, 1895', 30, 43), ('January 18, 1968', 46, 62), ('an American comedian', 68, 88), ('Broadway theatre', 106, 122), ('American comedy feature films', 124, 153), ('vaudeville acts', 159, 174), ('the comedy partner', 183, 201), ('Robert Woolsey', 205, 219), ('a successful double act', 246, 269)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'NN', ',', 'JJ', 'NN', 'NN', 'NNS', ',', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', ',', 'CC', 'RB', 'PRP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'VBN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hugh Studebaker</title>
+<link/>https://en.wikipedia.org/wiki/Hugh_Studebaker
+<annotated>0</annotated>
+<originalabstract>Hugh Studebaker (May 31, 1900 – May 26, 1978) was an American actor, born in Ridgeville, Indiana, who starred in old-time radio programs. He was the son of Mr. and Mrs. W.A. Studebaker.</originalabstract>
+<abstract>Hugh_Studebaker ( May_31_,_1900 – May_26_,_1978 ) was an_American_actor , born in Ridgeville , Indiana , who starred in old-time_radio_programs . He was the_son of Mr._and_Mrs._W.A._Studebaker .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hugh'), (5, 'Studebaker'), (16, '('), (17, 'May'), (21, '31'), (23, ','), (25, '1900'), (30, '–'), (32, 'May'), (36, '26'), (38, ','), (40, '1978'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, ','), (69, 'born'), (74, 'in'), (77, 'Ridgeville'), (87, ','), (89, 'Indiana'), (96, ','), (98, 'who'), (102, 'starred'), (110, 'in'), (113, 'old-time'), (122, 'radio'), (128, 'programs'), (136, '.'), (138, 'He'), (141, 'was'), (145, 'the'), (149, 'son'), (153, 'of'), (156, 'Mr.'), (160, 'and'), (164, 'Mrs.'), (169, 'W.A.'), (174, 'Studebaker'), (184, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hugh Studebaker',0, 15), ('May 31, 1900',17, 29), ('May 26, 1978',32, 44), ('an American actor',50, 67), ('old-time radio programs',113, 136), ('the son',145, 152), ('Mr. and Mrs. W.A. Studebaker',156, 184)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hugh'), (5, 'Studebaker'), (16, '('), (17, 'May'), (21, '31'), (23, ','), (25, '1900'), (30, '–'), (32, 'May'), (36, '26'), (38, ','), (40, '1978'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, ','), (69, 'born'), (74, 'in'), (77, 'Ridgeville'), (87, ','), (89, 'Indiana'), (96, ','), (98, 'who'), (102, 'starred'), (110, 'in'), (113, 'old'), (116, '-'), (117, 'time'), (122, 'radio'), (128, 'programs'), (136, '.'), (138, 'He'), (141, 'was'), (145, 'the'), (149, 'son'), (153, 'of'), (156, 'Mr.'), (160, 'and'), (164, 'Mrs.'), (169, 'W.A.'), (174, 'Studebaker'), (184, '.')])</spacy_tokens>
+<spacy_chunks>[('Hugh Studebaker', 0, 15), ('May 31, 1900', 17, 29), ('May 26, 1978', 32, 44), ('an American actor', 50, 67), ('Ridgeville', 77, 87), ('Indiana', 89, 96), ('old-time radio programs', 113, 136), ('the son', 145, 152), ('Mr. and Mrs. W.A. Studebaker', 156, 184)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'WP', 'VBD', 'IN', 'JJ', 'HYPH', 'NN', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

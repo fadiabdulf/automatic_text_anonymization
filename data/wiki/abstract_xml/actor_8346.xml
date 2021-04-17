@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Melvyn Hayes</title>
+<link/>https://en.wikipedia.org/wiki/Melvyn_Hayes
+<annotated>0</annotated>
+<originalabstract>Melvyn Hayes (born Melvyn Hyams, 11 January 1935) is an English actor known for playing the effeminate Gunner (later Bombardier) "Gloria" Beaumont in the 1970s BBC sitcom It Ain't Half Hot Mum, and the Cliff Richard musical films The Young Ones and Summer Holiday.</originalabstract>
+<abstract>Melvyn_Hayes ( born Melvyn_Hyams , 11_January_1935 ) is an_English_actor known for playing the_effeminate_Gunner ( later_Bombardier ) "_Gloria_"_Beaumont in the_1970s_BBC_sitcom It Ai n't Half_Hot_Mum , and the_Cliff_Richard_musical_films The_Young_Ones and Summer_Holiday .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Melvyn'), (7, 'Hayes'), (13, '('), (14, 'born'), (19, 'Melvyn'), (26, 'Hyams'), (31, ','), (33, '11'), (36, 'January'), (44, '1935'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'English'), (64, 'actor'), (70, 'known'), (76, 'for'), (80, 'playing'), (88, 'the'), (92, 'effeminate'), (103, 'Gunner'), (110, '('), (111, 'later'), (117, 'Bombardier'), (127, ')'), (129, '"'), (130, 'Gloria'), (136, '"'), (138, 'Beaumont'), (147, 'in'), (150, 'the'), (154, '1970s'), (160, 'BBC'), (164, 'sitcom'), (171, 'It'), (174, 'Ai'), (176, 'n\'t'), (180, 'Half'), (185, 'Hot'), (189, 'Mum'), (192, ','), (194, 'and'), (198, 'the'), (202, 'Cliff'), (208, 'Richard'), (216, 'musical'), (224, 'films'), (230, 'The'), (234, 'Young'), (240, 'Ones'), (245, 'and'), (249, 'Summer'), (256, 'Holiday'), (263, '.')])</stanford_tokens>
+<opennlp_chunks>[('Melvyn Hayes',0, 12), ('Melvyn Hyams',19, 31), ('11 January 1935',33, 48), ('an English actor',53, 69), ('the effeminate Gunner',88, 109), ('later Bombardier',111, 127), ('"Gloria" Beaumont',129, 146), ('the 1970s BBC sitcom',150, 170), ('Half Hot Mum',180, 192), ('the Cliff Richard musical films',198, 229), ('The Young Ones',230, 244), ('Summer Holiday',249, 263)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', '-LRB-', 'JJ', 'NNP', '-RRB-', '``', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NN', 'PRP', 'VBP', 'RB', 'NN', 'JJ', 'NN', ',', 'CC', 'DT', 'NNP', 'NNP', 'JJ', 'NNS', 'DT', 'JJ', 'NNS', 'CC', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Melvyn'), (7, 'Hayes'), (13, '('), (14, 'born'), (19, 'Melvyn'), (26, 'Hyams'), (31, ','), (33, '11'), (36, 'January'), (44, '1935'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'English'), (64, 'actor'), (70, 'known'), (76, 'for'), (80, 'playing'), (88, 'the'), (92, 'effeminate'), (103, 'Gunner'), (110, '('), (111, 'later'), (117, 'Bombardier'), (127, ')'), (129, '"'), (130, 'Gloria'), (136, '"'), (138, 'Beaumont'), (147, 'in'), (150, 'the'), (154, '1970s'), (160, 'BBC'), (164, 'sitcom'), (171, 'It'), (174, 'Ai'), (176, "n't"), (180, 'Half'), (185, 'Hot'), (189, 'Mum'), (192, ','), (194, 'and'), (198, 'the'), (202, 'Cliff'), (208, 'Richard'), (216, 'musical'), (224, 'films'), (230, 'The'), (234, 'Young'), (240, 'Ones'), (245, 'and'), (249, 'Summer'), (256, 'Holiday'), (263, '.')])</spacy_tokens>
+<spacy_chunks>[('Melvyn Hayes', 0, 12), ('(born Melvyn Hyams', 13, 31), ('11 January 1935', 33, 48), ('an English actor', 53, 69), ('the effeminate Gunner', 88, 109), ('(later Bombardier', 110, 127), ('"Gloria" Beaumont', 129, 146), ('the 1970s BBC sitcom', 150, 170), ("It Ain't Half Hot Mum", 171, 192), ('the Cliff Richard musical films', 198, 229), ('The Young Ones', 230, 244), ('Summer Holiday', 249, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NNP', '-LRB-', 'RB', 'NNP', '-RRB-', '``', 'NNP', "''", 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NN', 'PRP', 'VBP', 'RB', 'DT', 'NNP', 'NNP', ',', 'CC', 'DT', 'NNP', 'NNP', 'JJ', 'NNS', 'DT', 'NNP', 'NNPS', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

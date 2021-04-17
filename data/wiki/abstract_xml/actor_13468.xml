@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gladys Leslie</title>
+<link/>https://en.wikipedia.org/wiki/Gladys_Leslie
+<annotated>0</annotated>
+<originalabstract>Gladys Leslie (March 5, 1899 – October 2, 1976) was an American actress in silent film, active in the 1910s and 1920s.  Though less-remembered than superstars like Mary Pickford, she had a number of starring roles from 1917 to the early 1920s and was one of the young female stars of her day.</originalabstract>
+<abstract>Gladys_Leslie ( March_5_,_1899 – October_2_,_1976 ) was an_American_actress in silent_film , active in the_1910s_and_1920s . Though less-remembered than superstars like Mary_Pickford , she had a_number of starring_roles from 1917 to the_early_1920s and was one of the_young_female_stars of her_day .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gladys'), (7, 'Leslie'), (14, '('), (15, 'March'), (21, '5'), (22, ','), (24, '1899'), (29, '–'), (31, 'October'), (39, '2'), (40, ','), (42, '1976'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'in'), (75, 'silent'), (82, 'film'), (86, ','), (88, 'active'), (95, 'in'), (98, 'the'), (102, '1910s'), (108, 'and'), (112, '1920s'), (117, '.'), (120, 'Though'), (127, 'less-remembered'), (143, 'than'), (148, 'superstars'), (159, 'like'), (164, 'Mary'), (169, 'Pickford'), (177, ','), (179, 'she'), (183, 'had'), (187, 'a'), (189, 'number'), (196, 'of'), (199, 'starring'), (208, 'roles'), (214, 'from'), (219, '1917'), (224, 'to'), (227, 'the'), (231, 'early'), (237, '1920s'), (243, 'and'), (247, 'was'), (251, 'one'), (255, 'of'), (258, 'the'), (262, 'young'), (268, 'female'), (275, 'stars'), (281, 'of'), (284, 'her'), (288, 'day'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gladys Leslie',0, 13), ('March 5, 1899',15, 28), ('October 2, 1976',31, 46), ('an American actress',52, 71), ('silent film',75, 86), ('the 1910s and 1920s',98, 117), ('Mary Pickford',164, 177), ('a number',187, 195), ('starring roles',199, 213), ('the early 1920s',227, 242), ('the young female stars',258, 280), ('her day',284, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NN', ',', 'JJ', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'IN', 'JJ', 'IN', 'NNS', 'IN', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'VBG', 'NNS', 'IN', 'CD', 'TO', 'DT', 'JJ', 'CD', 'CC', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'NNS', 'IN', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gladys'), (7, 'Leslie'), (14, '('), (15, 'March'), (21, '5'), (22, ','), (24, '1899'), (29, '–'), (31, 'October'), (39, '2'), (40, ','), (42, '1976'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'in'), (75, 'silent'), (82, 'film'), (86, ','), (88, 'active'), (95, 'in'), (98, 'the'), (102, '1910s'), (108, 'and'), (112, '1920s'), (117, '.'), (120, 'Though'), (127, 'less'), (131, '-'), (132, 'remembered'), (143, 'than'), (148, 'superstars'), (159, 'like'), (164, 'Mary'), (169, 'Pickford'), (177, ','), (179, 'she'), (183, 'had'), (187, 'a'), (189, 'number'), (196, 'of'), (199, 'starring'), (208, 'roles'), (214, 'from'), (219, '1917'), (224, 'to'), (227, 'the'), (231, 'early'), (237, '1920s'), (243, 'and'), (247, 'was'), (251, 'one'), (255, 'of'), (258, 'the'), (262, 'young'), (268, 'female'), (275, 'stars'), (281, 'of'), (284, 'her'), (288, 'day'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Gladys Leslie', 0, 13), ('(March', 14, 20), ('March 5, 1899', 15, 28), ('October 2, 1976', 31, 46), ('an American actress', 52, 71), ('Silent film', 75, 86), ('the 1910s', 98, 107), ('superstars', 148, 158), ('Mary Pickford', 164, 177), ('a number', 187, 195), ('starring roles', 199, 213), ('the early 1920s', 227, 242), ('the young female stars', 258, 280), ('her day', 284, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NN', ',', 'JJ', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'IN', 'RBR', 'HYPH', 'VBN', 'IN', 'NNS', 'IN', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'VBG', 'NNS', 'IN', 'CD', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'NNS', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

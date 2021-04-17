@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Claire Kelly</title>
+<link/>https://en.wikipedia.org/wiki/Claire_Kelly
+<annotated>0</annotated>
+<originalabstract>Claire Kelly (March 15, 1934 – July 1, 1998) was an American actress.</originalabstract>
+<abstract>Claire_Kelly ( March_15_,_1934 – July_1_,_1998 ) was an_American_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Claire'), (7, 'Kelly'), (13, '('), (14, 'March'), (20, '15'), (22, ','), (24, '1934'), (29, '–'), (31, 'July'), (36, '1'), (37, ','), (39, '1998'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'actress'), (68, '.')])</stanford_tokens>
+<opennlp_chunks>[('Claire Kelly',0, 12), ('March 15, 1934',14, 28), ('July 1, 1998',31, 43), ('an American actress',49, 68)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Claire'), (7, 'Kelly'), (13, '('), (14, 'March'), (20, '15'), (22, ','), (24, '1934'), (29, '–'), (31, 'July'), (36, '1'), (37, ','), (39, '1998'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'actress'), (68, '.')])</spacy_tokens>
+<spacy_chunks>[('Claire Kelly', 0, 12), ('(March', 13, 19), ('March 15, 1934', 14, 28), ('July 1, 1998', 31, 43), ('an American actress', 49, 68)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

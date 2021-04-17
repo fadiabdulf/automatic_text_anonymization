@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Karen Ziemba</title>
+<link/>https://en.wikipedia.org/wiki/Karen_Ziemba
+<annotated>0</annotated>
+<originalabstract>Karen Ziemba (born November 12, 1957) is an American actress, singer and dancer, best known for her work in musical theatre. In 2000, she won the Tony Award for Best Featured Actress in a Musical for her performance in Contact.</originalabstract>
+<abstract>Karen_Ziemba ( born November_12_,_1957 ) is an_American_actress , singer_and_dancer , best_known for her_work in musical_theatre . In 2000 , she won the_Tony_Award for Best_Featured_Actress in a_Musical for her_performance in Contact .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Karen'), (6, 'Ziemba'), (13, '('), (14, 'born'), (19, 'November'), (28, '12'), (30, ','), (32, '1957'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (60, ','), (62, 'singer'), (69, 'and'), (73, 'dancer'), (79, ','), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'work'), (105, 'in'), (108, 'musical'), (116, 'theatre'), (123, '.'), (125, 'In'), (128, '2000'), (132, ','), (134, 'she'), (138, 'won'), (142, 'the'), (146, 'Tony'), (151, 'Award'), (157, 'for'), (161, 'Best'), (166, 'Featured'), (175, 'Actress'), (183, 'in'), (186, 'a'), (188, 'Musical'), (196, 'for'), (200, 'her'), (204, 'performance'), (216, 'in'), (219, 'Contact'), (226, '.')])</stanford_tokens>
+<opennlp_chunks>[('Karen Ziemba',0, 12), ('November 12, 1957',19, 36), ('an American actress',41, 60), ('singer and dancer',62, 79), ('best known',81, 91), ('her work',96, 104), ('musical theatre',108, 123), ('the Tony Award',142, 156), ('Best Featured Actress',161, 182), ('a Musical',186, 195), ('her performance',200, 215)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Karen'), (6, 'Ziemba'), (13, '('), (14, 'born'), (19, 'November'), (28, '12'), (30, ','), (32, '1957'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (60, ','), (62, 'singer'), (69, 'and'), (73, 'dancer'), (79, ','), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'work'), (105, 'in'), (108, 'musical'), (116, 'theatre'), (123, '.'), (125, 'In'), (128, '2000'), (132, ','), (134, 'she'), (138, 'won'), (142, 'the'), (146, 'Tony'), (151, 'Award'), (157, 'for'), (161, 'Best'), (166, 'Featured'), (175, 'Actress'), (183, 'in'), (186, 'a'), (188, 'Musical'), (196, 'for'), (200, 'her'), (204, 'performance'), (216, 'in'), (219, 'Contact'), (226, '.')])</spacy_tokens>
+<spacy_chunks>[('Karen Ziemba', 0, 12), ('November 12, 1957', 19, 36), ('an American actress', 41, 60), ('singer', 62, 68), ('dancer', 73, 79), ('her work', 96, 104), ('Musical theatre', 108, 123), ('the Tony Award', 142, 156), ('Tony Award for Best Featured Actress in a Musical', 146, 195), ('her performance', 200, 215), ('Contact', 219, 226)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'JJ', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dick O'Neill</title>
+<link/>https://en.wikipedia.org/wiki/Dick_O%27Neill
+<annotated>0</annotated>
+<originalabstract>Richard Francis "Dick" O'Neill (August 29, 1928 – November 17, 1998) was an American stage, film and television character actor best known for playing Irish cops, fathers, judges and army generals. He began his acting career as an original company member of Arena Stage in Washington, D.C.</originalabstract>
+<abstract>Richard_Francis_"_Dick_"_O'Neill ( August_29_,_1928 – November_17_,_1998 ) was an_American_stage , film_and_television_character_actor best_known for playing Irish_cops , fathers , judges and army_generals . He began his_acting_career as an_original_company_member of Arena_Stage in Washington , D.C.</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Francis'), (16, '"'), (17, 'Dick'), (21, '"'), (23, 'O\'Neill'), (31, '('), (32, 'August'), (39, '29'), (41, ','), (43, '1928'), (48, '–'), (50, 'November'), (59, '17'), (61, ','), (63, '1998'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'American'), (85, 'stage'), (90, ','), (92, 'film'), (97, 'and'), (101, 'television'), (112, 'character'), (122, 'actor'), (128, 'best'), (133, 'known'), (139, 'for'), (143, 'playing'), (151, 'Irish'), (157, 'cops'), (161, ','), (163, 'fathers'), (170, ','), (172, 'judges'), (179, 'and'), (183, 'army'), (188, 'generals'), (196, '.'), (198, 'He'), (201, 'began'), (207, 'his'), (211, 'acting'), (218, 'career'), (225, 'as'), (228, 'an'), (231, 'original'), (240, 'company'), (248, 'member'), (255, 'of'), (258, 'Arena'), (264, 'Stage'), (270, 'in'), (273, 'Washington'), (283, ','), (285, 'D.C.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Francis "Dick" O\'Neill',0, 30), ('August 29, 1928',32, 47), ('November 17, 1998',50, 67), ('an American stage',73, 90), ('film and television character actor',92, 127), ('best known',128, 138), ('Irish cops',151, 161), ('army generals',183, 196), ('his acting career',207, 224), ('an original company member',228, 254), ('Arena Stage',258, 269)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'JJ', 'NNS', ',', 'NNS', ',', 'NNS', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBD', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Francis'), (16, '"'), (17, 'Dick'), (21, '"'), (23, "O'Neill"), (31, '('), (32, 'August'), (39, '29'), (41, ','), (43, '1928'), (48, '–'), (50, 'November'), (59, '17'), (61, ','), (63, '1998'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'American'), (85, 'stage'), (90, ','), (92, 'film'), (97, 'and'), (101, 'television'), (112, 'character'), (122, 'actor'), (128, 'best'), (133, 'known'), (139, 'for'), (143, 'playing'), (151, 'Irish'), (157, 'cops'), (161, ','), (163, 'fathers'), (170, ','), (172, 'judges'), (179, 'and'), (183, 'army'), (188, 'generals'), (196, '.'), (198, 'He'), (201, 'began'), (207, 'his'), (211, 'acting'), (218, 'career'), (225, 'as'), (228, 'an'), (231, 'original'), (240, 'company'), (248, 'member'), (255, 'of'), (258, 'Arena'), (264, 'Stage'), (270, 'in'), (273, 'Washington'), (283, ','), (285, 'D.C.')])</spacy_tokens>
+<spacy_chunks>[('Richard Francis "Dick" O\'Neill', 0, 30), ('August 29, 1928', 32, 47), ('November 17, 1998', 50, 67), ('an American stage', 73, 90), ('film and television character actor', 92, 127), ('Irish cops', 151, 161), ('fathers', 163, 170), ('judges', 172, 178), ('army generals', 183, 196), ('his acting career', 207, 224), ('an original company member', 228, 254), ('Arena Stage', 258, 269), ('Washington, D.C.', 273, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'JJ', 'NNS', ',', 'NNS', ',', 'NNS', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBD', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

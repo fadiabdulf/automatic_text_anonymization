@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Aneta Corsaut</title>
+<link/>https://en.wikipedia.org/wiki/Aneta_Corsaut
+<annotated>0</annotated>
+<originalabstract>Aneta Louise Corsaut (November 3, 1933 – November 6, 1995) was an American actress and writer. She is best known for playing Helen Crump on The Andy Griffith Show (1963–1968).</originalabstract>
+<abstract>Aneta_Louise_Corsaut ( November_3_,_1933 – November_6_,_1995 ) was an_American_actress_and_writer . She is_best_known for playing Helen_Crump on The_Andy_Griffith_Show_(_1963 – 1968_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Aneta'), (6, 'Louise'), (13, 'Corsaut'), (21, '('), (22, 'November'), (31, '3'), (32, ','), (34, '1933'), (39, '–'), (41, 'November'), (50, '6'), (51, ','), (53, '1995'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'actress'), (83, 'and'), (87, 'writer'), (93, '.'), (95, 'She'), (99, 'is'), (102, 'best'), (107, 'known'), (113, 'for'), (117, 'playing'), (125, 'Helen'), (131, 'Crump'), (137, 'on'), (140, 'The'), (144, 'Andy'), (149, 'Griffith'), (158, 'Show'), (163, '('), (164, '1963'), (168, '–'), (169, '1968'), (173, ')'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('Aneta Louise Corsaut',0, 20), ('November 3, 1933',22, 38), ('November 6, 1995',41, 57), ('an American actress and writer',63, 93), ('is best known',99, 112), ('Helen Crump',125, 136), ('The Andy Griffith Show (1963',140, 168), ('1968)',169, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Aneta'), (6, 'Louise'), (13, 'Corsaut'), (21, '('), (22, 'November'), (31, '3'), (32, ','), (34, '1933'), (39, '–'), (41, 'November'), (50, '6'), (51, ','), (53, '1995'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'actress'), (83, 'and'), (87, 'writer'), (93, '.'), (95, 'She'), (99, 'is'), (102, 'best'), (107, 'known'), (113, 'for'), (117, 'playing'), (125, 'Helen'), (131, 'Crump'), (137, 'on'), (140, 'The'), (144, 'Andy'), (149, 'Griffith'), (158, 'Show'), (163, '('), (164, '1963–1968'), (173, ')'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[('Aneta Louise Corsaut', 0, 20), ('November 3, 1933', 22, 38), ('November 6, 1995', 41, 57), ('an American actress', 63, 82), ('writer', 87, 93), ('Helen Crump', 125, 136), ('The Andy Griffith Show', 140, 162)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

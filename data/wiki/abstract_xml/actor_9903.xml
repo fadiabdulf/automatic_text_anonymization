@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean-Pierre Kalfon</title>
+<link/>https://en.wikipedia.org/wiki/Jean-Pierre_Kalfon
+<annotated>0</annotated>
+<originalabstract>Jean-Pierre Kalfon (born 30 October 1938) is a French actor and singer.</originalabstract>
+<abstract>Jean-Pierre_Kalfon ( born_30_October_1938 ) is a_French_actor_and_singer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean-Pierre'), (12, 'Kalfon'), (19, '('), (20, 'born'), (25, '30'), (28, 'October'), (36, '1938'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'French'), (54, 'actor'), (60, 'and'), (64, 'singer'), (70, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean-Pierre Kalfon',0, 18), ('born 30 October 1938',20, 40), ('a French actor and singer',45, 70)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (4, '-'), (5, 'Pierre'), (12, 'Kalfon'), (19, '('), (20, 'born'), (25, '30'), (28, 'October'), (36, '1938'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'French'), (54, 'actor'), (60, 'and'), (64, 'singer'), (70, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean-Pierre Kalfon', 0, 18), ('30 October 1938', 25, 40), ('a French actor', 45, 59), ('singer', 64, 70)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

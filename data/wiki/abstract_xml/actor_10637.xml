@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barbara Bates</title>
+<link/>https://en.wikipedia.org/wiki/Barbara_Bates
+<annotated>0</annotated>
+<originalabstract>Barbara Bates (August 6, 1925 – March 18, 1969) was an American actress and singer, known for her role as Phoebe in the 1950 drama film All About Eve.</originalabstract>
+<abstract>Barbara_Bates ( August_6_,_1925 – March_18_,_1969 ) was an_American_actress_and_singer , known for her_role as Phoebe in the_1950_drama_film All About Eve .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barbara'), (8, 'Bates'), (14, '('), (15, 'August'), (22, '6'), (23, ','), (25, '1925'), (30, '–'), (32, 'March'), (38, '18'), (40, ','), (42, '1969'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'and'), (76, 'singer'), (82, ','), (84, 'known'), (90, 'for'), (94, 'her'), (98, 'role'), (103, 'as'), (106, 'Phoebe'), (113, 'in'), (116, 'the'), (120, '1950'), (125, 'drama'), (131, 'film'), (136, 'All'), (140, 'About'), (146, 'Eve'), (149, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barbara Bates',0, 13), ('August 6, 1925',15, 29), ('March 18, 1969',32, 46), ('an American actress and singer',52, 82), ('her role',94, 102), ('the 1950 drama film',116, 135)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barbara'), (8, 'Bates'), (14, '('), (15, 'August'), (22, '6'), (23, ','), (25, '1925'), (30, '–'), (32, 'March'), (38, '18'), (40, ','), (42, '1969'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'and'), (76, 'singer'), (82, ','), (84, 'known'), (90, 'for'), (94, 'her'), (98, 'role'), (103, 'as'), (106, 'Phoebe'), (113, 'in'), (116, 'the'), (120, '1950'), (125, 'drama'), (131, 'film'), (136, 'All'), (140, 'About'), (146, 'Eve'), (149, '.')])</spacy_tokens>
+<spacy_chunks>[('Barbara Bates', 0, 13), ('August 6, 1925', 15, 29), ('March 18, 1969', 32, 46), ('an American actress', 52, 71), ('singer', 76, 82), ('her role', 94, 102), ('Phoebe', 106, 112), ('the 1950 drama film', 116, 135), ('All About Eve', 136, 149)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNPS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

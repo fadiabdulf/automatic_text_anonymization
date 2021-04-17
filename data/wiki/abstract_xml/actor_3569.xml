@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Raymond Keane</title>
+<link/>https://en.wikipedia.org/wiki/Raymond_Keane
+<annotated>0</annotated>
+<originalabstract>Raymond Keane, born Raymond Kortz, (1906–1973) was an actor during the silent era of movies. He was tall and striking. He was the son of jeweler Harry Kortz. He died in Los Angeles.</originalabstract>
+<abstract>Raymond_Keane , born Raymond_Kortz , ( 1906 – 1973 ) was an_actor during the_silent_era of movies . He was tall_and_striking . He was the_son of jeweler_Harry_Kortz . He died in Los_Angeles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Raymond'), (8, 'Keane'), (13, ','), (15, 'born'), (20, 'Raymond'), (28, 'Kortz'), (33, ','), (35, '('), (36, '1906'), (40, '–'), (41, '1973'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'actor'), (60, 'during'), (67, 'the'), (71, 'silent'), (78, 'era'), (82, 'of'), (85, 'movies'), (91, '.'), (93, 'He'), (96, 'was'), (100, 'tall'), (105, 'and'), (109, 'striking'), (117, '.'), (119, 'He'), (122, 'was'), (126, 'the'), (130, 'son'), (134, 'of'), (137, 'jeweler'), (145, 'Harry'), (151, 'Kortz'), (156, '.'), (158, 'He'), (161, 'died'), (166, 'in'), (169, 'Los'), (173, 'Angeles'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('Raymond Keane',0, 13), ('Raymond Kortz',20, 33), ('an actor',51, 59), ('the silent era',67, 81), ('tall and striking',100, 117), ('the son',126, 133), ('jeweler Harry Kortz',137, 156), ('Los Angeles',169, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', ',', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNS', '.', 'PRP', 'VBD', 'JJ', 'CC', 'JJ', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Raymond'), (8, 'Keane'), (13, ','), (15, 'born'), (20, 'Raymond'), (28, 'Kortz'), (33, ','), (35, '('), (36, '1906–1973'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'actor'), (60, 'during'), (67, 'the'), (71, 'silent'), (78, 'era'), (82, 'of'), (85, 'movies'), (91, '.'), (93, 'He'), (96, 'was'), (100, 'tall'), (105, 'and'), (109, 'striking'), (117, '.'), (119, 'He'), (122, 'was'), (126, 'the'), (130, 'son'), (134, 'of'), (137, 'jeweler'), (145, 'Harry'), (151, 'Kortz'), (156, '.'), (158, 'He'), (161, 'died'), (166, 'in'), (169, 'Los'), (173, 'Angeles'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('Raymond Keane', 0, 13), ('Raymond Kortz', 20, 33), ('an actor', 51, 59), ('the silent era', 67, 81), ('movies', 85, 91), ('the son', 126, 133), ('jeweler', 137, 144), ('Harry Kortz', 145, 156), ('Los Angeles', 169, 180)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', ',', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNS', '.', 'PRP', 'VBD', 'JJ', 'CC', 'JJ', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

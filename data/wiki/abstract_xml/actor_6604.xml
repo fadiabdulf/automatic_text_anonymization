@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Billie Thomas</title>
+<link/>https://en.wikipedia.org/wiki/Billie_Thomas
+<annotated>0</annotated>
+<originalabstract>William Thomas Jr. (March 12, 1931 – October 10, 1980), known as Billie Thomas, was an American child actor best remembered for portraying the character of Buckwheat in the Our Gang (Little Rascals) short films from 1934 until the series' end in 1944. He was a native of Los Angeles, California.</originalabstract>
+<abstract>William_Thomas_Jr. ( March_12_,_1931 – October_10_,_1980 ) , known as Billie_Thomas , was an_American_child_actor best_remembered for portraying the_character of Buckwheat in the_Our_Gang ( Little_Rascals ) short_films from 1934 until the_series '_end in 1944 . He was a_native of Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Thomas'), (15, 'Jr.'), (19, '('), (20, 'March'), (26, '12'), (28, ','), (30, '1931'), (35, '–'), (37, 'October'), (45, '10'), (47, ','), (49, '1980'), (53, ')'), (54, ','), (56, 'known'), (62, 'as'), (65, 'Billie'), (72, 'Thomas'), (78, ','), (80, 'was'), (84, 'an'), (87, 'American'), (96, 'child'), (102, 'actor'), (108, 'best'), (113, 'remembered'), (124, 'for'), (128, 'portraying'), (139, 'the'), (143, 'character'), (153, 'of'), (156, 'Buckwheat'), (166, 'in'), (169, 'the'), (173, 'Our'), (177, 'Gang'), (182, '('), (183, 'Little'), (190, 'Rascals'), (197, ')'), (199, 'short'), (205, 'films'), (211, 'from'), (216, '1934'), (221, 'until'), (227, 'the'), (231, 'series'), (237, '\''), (239, 'end'), (243, 'in'), (246, '1944'), (250, '.'), (252, 'He'), (255, 'was'), (259, 'a'), (261, 'native'), (268, 'of'), (271, 'Los'), (275, 'Angeles'), (282, ','), (284, 'California'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Thomas Jr.',0, 18), ('March 12, 1931',20, 34), ('October 10, 1980',37, 53), ('Billie Thomas',65, 78), ('an American child actor',84, 107), ('best remembered',108, 123), ('the character',139, 152), ('the Our Gang',169, 181), ('Little Rascals',183, 197), ('short films',199, 210), ('the series',227, 237), ('\' end',237, 242), ('a native',259, 267), ('Los Angeles',271, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'JJS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'PRP$', 'NN', '-LRB-', 'JJ', 'NNS', '-RRB-', 'JJ', 'NNS', 'IN', 'CD', 'IN', 'DT', 'NN', 'POS', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Thomas'), (15, 'Jr.'), (19, '('), (20, 'March'), (26, '12'), (28, ','), (30, '1931'), (35, '–'), (37, 'October'), (45, '10'), (47, ','), (49, '1980'), (53, ')'), (54, ','), (56, 'known'), (62, 'as'), (65, 'Billie'), (72, 'Thomas'), (78, ','), (80, 'was'), (84, 'an'), (87, 'American'), (96, 'child'), (102, 'actor'), (108, 'best'), (113, 'remembered'), (124, 'for'), (128, 'portraying'), (139, 'the'), (143, 'character'), (153, 'of'), (156, 'Buckwheat'), (166, 'in'), (169, 'the'), (173, 'Our'), (177, 'Gang'), (182, '('), (183, 'Little'), (190, 'Rascals'), (197, ')'), (199, 'short'), (205, 'films'), (211, 'from'), (216, '1934'), (221, 'until'), (227, 'the'), (231, 'series'), (237, "'"), (239, 'end'), (243, 'in'), (246, '1944'), (250, '.'), (252, 'He'), (255, 'was'), (259, 'a'), (261, 'native'), (268, 'of'), (271, 'Los'), (275, 'Angeles'), (282, ','), (284, 'California'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('William Thomas Jr.', 0, 18), ('March 12, 1931', 20, 34), ('October 10, 1980', 37, 53), ('Billie Thomas', 65, 78), ('an American child actor', 84, 107), ('the character', 139, 152), ('Buckwheat', 156, 165), ('the Our Gang', 169, 181), ('(Little Rascals', 182, 197), ('short films', 199, 210), ("the series' end", 227, 242), ('a native', 259, 267), ('Los Angeles, California', 271, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'RB', 'VBD', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'PRP$', 'NN', '-LRB-', 'NNP', 'NNPS', '-RRB-', 'JJ', 'NNS', 'IN', 'CD', 'IN', 'DT', 'NN', 'POS', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

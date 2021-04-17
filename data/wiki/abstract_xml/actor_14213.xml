@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harriet Nelson</title>
+<link/>https://en.wikipedia.org/wiki/Harriet_Nelson
+<annotated>0</annotated>
+<originalabstract>Harriet Nelson (formerly Hilliard; born Peggy Lou Snyder; July 18, 1909 – October 2, 1994) was an American singer and actress. Nelson is best known for her role on the sitcom The Adventures of Ozzie and Harriet.</originalabstract>
+<abstract>Harriet_Nelson ( formerly_Hilliard ; born Peggy_Lou_Snyder ; July_18_,_1909 – October_2_,_1994 ) was an_American_singer_and_actress . Nelson is_best_known for her_role on the_sitcom The_Adventures of Ozzie_and_Harriet .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harriet'), (8, 'Nelson'), (15, '('), (16, 'formerly'), (25, 'Hilliard'), (33, ';'), (35, 'born'), (40, 'Peggy'), (46, 'Lou'), (50, 'Snyder'), (56, ';'), (58, 'July'), (63, '18'), (65, ','), (67, '1909'), (72, '–'), (74, 'October'), (82, '2'), (83, ','), (85, '1994'), (89, ')'), (91, 'was'), (95, 'an'), (98, 'American'), (107, 'singer'), (114, 'and'), (118, 'actress'), (125, '.'), (127, 'Nelson'), (134, 'is'), (137, 'best'), (142, 'known'), (148, 'for'), (152, 'her'), (156, 'role'), (161, 'on'), (164, 'the'), (168, 'sitcom'), (175, 'The'), (179, 'Adventures'), (190, 'of'), (193, 'Ozzie'), (199, 'and'), (203, 'Harriet'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Harriet Nelson',0, 14), ('formerly Hilliard',16, 33), ('Peggy Lou Snyder',40, 56), ('July 18, 1909',58, 71), ('October 2, 1994',74, 89), ('an American singer and actress',95, 125), ('is best known',134, 147), ('her role',152, 160), ('the sitcom',164, 174), ('The Adventures',175, 189), ('Ozzie and Harriet',193, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'RB', 'NNP', ':', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'DT', 'NNS', 'IN', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harriet'), (8, 'Nelson'), (15, '('), (16, 'formerly'), (25, 'Hilliard'), (33, ';'), (35, 'born'), (40, 'Peggy'), (46, 'Lou'), (50, 'Snyder'), (56, ';'), (58, 'July'), (63, '18'), (65, ','), (67, '1909'), (72, '–'), (74, 'October'), (82, '2'), (83, ','), (85, '1994'), (89, ')'), (91, 'was'), (95, 'an'), (98, 'American'), (107, 'singer'), (114, 'and'), (118, 'actress'), (125, '.'), (127, 'Nelson'), (134, 'is'), (137, 'best'), (142, 'known'), (148, 'for'), (152, 'her'), (156, 'role'), (161, 'on'), (164, 'the'), (168, 'sitcom'), (175, 'The'), (179, 'Adventures'), (190, 'of'), (193, 'Ozzie'), (199, 'and'), (203, 'Harriet'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Harriet Nelson', 0, 14), ('formerly Hilliard', 16, 33), ('Peggy Lou Snyder', 40, 56), ('July 18, 1909', 58, 71), ('October 2, 1994', 74, 89), ('an American singer', 95, 113), ('actress', 118, 125), ('her role', 152, 160), ('the sitcom', 164, 174), ('The Adventures of Ozzie and Harriet', 175, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'RB', 'NNP', ':', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'DT', 'NNP', 'IN', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

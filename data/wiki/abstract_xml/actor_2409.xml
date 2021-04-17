@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barney Furey</title>
+<link/>https://en.wikipedia.org/wiki/Barney_Furey
+<annotated>0</annotated>
+<originalabstract>Barney Furey (September 7, 1886 – January 18, 1938) was an American actor of the silent era. He appeared in 112 films between 1912 and 1937. He was born in Boise, Idaho and died in Los Angeles, California.</originalabstract>
+<abstract>Barney_Furey ( September_7_,_1886 – January_18_,_1938 ) was an_American_actor of the_silent_era . He appeared in 112_films between 1912_and_1937 . He was_born in Boise , Idaho and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barney'), (7, 'Furey'), (13, '('), (14, 'September'), (24, '7'), (25, ','), (27, '1886'), (32, '–'), (34, 'January'), (42, '18'), (44, ','), (46, '1938'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (74, 'of'), (77, 'the'), (81, 'silent'), (88, 'era'), (91, '.'), (93, 'He'), (96, 'appeared'), (105, 'in'), (108, '112'), (112, 'films'), (118, 'between'), (126, '1912'), (131, 'and'), (135, '1937'), (139, '.'), (141, 'He'), (144, 'was'), (148, 'born'), (153, 'in'), (156, 'Boise'), (161, ','), (163, 'Idaho'), (169, 'and'), (173, 'died'), (178, 'in'), (181, 'Los'), (185, 'Angeles'), (192, ','), (194, 'California'), (204, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barney Furey',0, 12), ('September 7, 1886',14, 31), ('January 18, 1938',34, 50), ('an American actor',56, 73), ('the silent era',77, 91), ('112 films',108, 117), ('1912 and 1937',126, 139), ('was born',144, 152), ('Los Angeles',181, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barney'), (7, 'Furey'), (13, '('), (14, 'September'), (24, '7'), (25, ','), (27, '1886'), (32, '–'), (34, 'January'), (42, '18'), (44, ','), (46, '1938'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (74, 'of'), (77, 'the'), (81, 'silent'), (88, 'era'), (91, '.'), (93, 'He'), (96, 'appeared'), (105, 'in'), (108, '112'), (112, 'films'), (118, 'between'), (126, '1912'), (131, 'and'), (135, '1937'), (139, '.'), (141, 'He'), (144, 'was'), (148, 'born'), (153, 'in'), (156, 'Boise'), (161, ','), (163, 'Idaho'), (169, 'and'), (173, 'died'), (178, 'in'), (181, 'Los'), (185, 'Angeles'), (192, ','), (194, 'California'), (204, '.')])</spacy_tokens>
+<spacy_chunks>[('Barney Furey', 0, 12), ('(September', 13, 23), ('September 7, 1886', 14, 31), ('January 18, 1938', 34, 50), ('an American actor', 56, 73), ('the silent era', 77, 91), ('112 films', 108, 117), ('Boise, Idaho', 156, 168), ('Los Angeles', 181, 192), ('California', 194, 204)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

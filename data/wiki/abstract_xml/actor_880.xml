@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Luke Brown</title>
+<link/>https://en.wikipedia.org/wiki/Luke_Brown
+<annotated>0</annotated>
+<originalabstract>Carl Dennis Campbell Sr. (July 28, 1935 – November 12, 1997) was an American professional wrestler better known by his ring name Luke "Big Boy" Brown. He is most noted for being one-half of a tag team in the 1950s and 1960s known as the Kentuckians, along with Grizzly Smith.</originalabstract>
+<abstract>Carl_Dennis_Campbell_Sr. ( July_28_,_1935 – November_12_,_1997 ) was an_American_professional_wrestler better_known by his_ring_name_Luke_"_Big_Boy_"_Brown . He is_most_noted for being one-half of a_tag_team in the_1950s_and_1960s known as the_Kentuckians , along with Grizzly_Smith .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Carl'), (5, 'Dennis'), (12, 'Campbell'), (21, 'Sr.'), (25, '('), (26, 'July'), (31, '28'), (33, ','), (35, '1935'), (40, '–'), (42, 'November'), (51, '12'), (53, ','), (55, '1997'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'professional'), (90, 'wrestler'), (99, 'better'), (106, 'known'), (112, 'by'), (115, 'his'), (119, 'ring'), (124, 'name'), (129, 'Luke'), (134, '"'), (135, 'Big'), (139, 'Boy'), (142, '"'), (144, 'Brown'), (149, '.'), (151, 'He'), (154, 'is'), (157, 'most'), (162, 'noted'), (168, 'for'), (172, 'being'), (178, 'one-half'), (187, 'of'), (190, 'a'), (192, 'tag'), (196, 'team'), (201, 'in'), (204, 'the'), (208, '1950s'), (214, 'and'), (218, '1960s'), (224, 'known'), (230, 'as'), (233, 'the'), (237, 'Kentuckians'), (248, ','), (250, 'along'), (256, 'with'), (261, 'Grizzly'), (269, 'Smith'), (274, '.')])</stanford_tokens>
+<opennlp_chunks>[('Carl Dennis Campbell Sr.',0, 24), ('July 28, 1935',26, 39), ('November 12, 1997',42, 59), ('an American professional wrestler',65, 98), ('better known',99, 111), ('his ring name Luke "Big Boy" Brown',115, 149), ('is most noted',154, 167), ('a tag team',190, 200), ('the 1950s and 1960s',204, 223), ('the Kentuckians',233, 248), ('Grizzly Smith',261, 274)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', '``', 'JJ', 'NN', '\'\'', 'NNP', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', 'VBN', 'IN', 'DT', 'NNPS', ',', 'IN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Carl'), (5, 'Dennis'), (12, 'Campbell'), (21, 'Sr'), (23, '.'), (25, '('), (26, 'July'), (31, '28'), (33, ','), (35, '1935'), (40, '–'), (42, 'November'), (51, '12'), (53, ','), (55, '1997'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'professional'), (90, 'wrestler'), (99, 'better'), (106, 'known'), (112, 'by'), (115, 'his'), (119, 'ring'), (124, 'name'), (129, 'Luke'), (134, '"'), (135, 'Big'), (139, 'Boy'), (142, '"'), (144, 'Brown'), (149, '.'), (151, 'He'), (154, 'is'), (157, 'most'), (162, 'noted'), (168, 'for'), (172, 'being'), (178, 'one'), (181, '-'), (182, 'half'), (187, 'of'), (190, 'a'), (192, 'tag'), (196, 'team'), (201, 'in'), (204, 'the'), (208, '1950s'), (214, 'and'), (218, '1960s'), (224, 'known'), (230, 'as'), (233, 'the'), (237, 'Kentuckians'), (248, ','), (250, 'along'), (256, 'with'), (261, 'Grizzly'), (269, 'Smith'), (274, '.')])</spacy_tokens>
+<spacy_chunks>[('Carl Dennis Campbell Sr', 0, 23), ('July 28, 1935', 26, 39), ('November 12, 1997', 42, 59), ('an American professional wrestler', 65, 98), ('his ring name', 115, 128), ('"Big Boy" Brown', 134, 149), ('one-half', 178, 186), ('a tag team', 190, 200), ('the 1950s', 204, 213), ('the Kentuckians', 233, 248), ('Grizzly Smith', 261, 274)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '.', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', '``', 'JJ', 'NNP', "''", 'NNP', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'CD', 'HYPH', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', 'VBN', 'IN', 'DT', 'NNPS', ',', 'IN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stephen Full</title>
+<link/>https://en.wikipedia.org/wiki/Stephen_Full
+<annotated>0</annotated>
+<originalabstract>Stephen Full (born November 13, 1969) is an American actor and comedian, known for his voice role and as Stan on the Disney Channel show Dog with a Blog, and acting role as Ash on I'm in the Band, which aired on Disney Channel's sister network, Disney XD.</originalabstract>
+<abstract>Stephen_Full ( born November_13_,_1969 ) is an_American_actor_and_comedian , known for his_voice_role and as Stan on the_Disney_Channel_show_Dog with a_Blog , and acting_role as Ash on I 'm in the_Band , which aired on Disney_Channel 's_sister_network , Disney_XD .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stephen'), (8, 'Full'), (13, '('), (14, 'born'), (19, 'November'), (28, '13'), (30, ','), (32, '1969'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (59, 'and'), (63, 'comedian'), (71, ','), (73, 'known'), (79, 'for'), (83, 'his'), (87, 'voice'), (93, 'role'), (98, 'and'), (102, 'as'), (105, 'Stan'), (110, 'on'), (113, 'the'), (117, 'Disney'), (124, 'Channel'), (132, 'show'), (137, 'Dog'), (141, 'with'), (146, 'a'), (148, 'Blog'), (152, ','), (154, 'and'), (158, 'acting'), (165, 'role'), (170, 'as'), (173, 'Ash'), (177, 'on'), (180, 'I'), (181, '\'m'), (184, 'in'), (187, 'the'), (191, 'Band'), (195, ','), (197, 'which'), (203, 'aired'), (209, 'on'), (212, 'Disney'), (219, 'Channel'), (226, '\'s'), (229, 'sister'), (236, 'network'), (243, ','), (245, 'Disney'), (252, 'XD'), (254, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stephen Full',0, 12), ('November 13, 1969',19, 36), ('an American actor and comedian',41, 71), ('his voice role',83, 97), ('the Disney Channel show Dog',113, 140), ('a Blog',146, 152), ('acting role',158, 169), ('the Band',187, 195), ('Disney Channel',212, 226), ('\'s sister network',226, 243), ('Disney XD',245, 254)]</opennlp_chunks>
+<stanford_pos>['NNP', 'JJ', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'CC', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'IN', 'DT', 'NN', ',', 'CC', 'VBG', 'NN', 'IN', 'NNP', 'IN', 'PRP', 'VBP', 'IN', 'DT', 'NN', ',', 'WDT', 'VBD', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stephen'), (8, 'Full'), (13, '('), (14, 'born'), (19, 'November'), (28, '13'), (30, ','), (32, '1969'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (59, 'and'), (63, 'comedian'), (71, ','), (73, 'known'), (79, 'for'), (83, 'his'), (87, 'voice'), (93, 'role'), (98, 'and'), (102, 'as'), (105, 'Stan'), (110, 'on'), (113, 'the'), (117, 'Disney'), (124, 'Channel'), (132, 'show'), (137, 'Dog'), (141, 'with'), (146, 'a'), (148, 'Blog'), (152, ','), (154, 'and'), (158, 'acting'), (165, 'role'), (170, 'as'), (173, 'Ash'), (177, 'on'), (180, 'I'), (181, "'m"), (184, 'in'), (187, 'the'), (191, 'Band'), (195, ','), (197, 'which'), (203, 'aired'), (209, 'on'), (212, 'Disney'), (219, 'Channel'), (226, "'s"), (229, 'sister'), (236, 'network'), (243, ','), (245, 'Disney'), (252, 'XD'), (254, '.')])</spacy_tokens>
+<spacy_chunks>[('Stephen Full', 0, 12), ('November 13, 1969', 19, 36), ('an American actor', 41, 58), ('comedian', 63, 71), ('his voice role', 83, 97), ('the Disney Channel', 113, 131), ('Dog with a Blog', 137, 152), ('acting role', 158, 169), ("I'm in the Band", 180, 195), ("Disney Channel's sister network", 212, 243), ('Disney XD', 245, 254)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'CC', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNP', 'IN', 'DT', 'NN', ',', 'CC', 'VBG', 'NN', 'IN', 'NNP', 'IN', 'PRP', 'VBP', 'IN', 'DT', 'NNP', ',', 'WDT', 'VBD', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

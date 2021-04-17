@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Elliott (actor)</title>
+<link/>https://en.wikipedia.org/wiki/John_Elliott_(actor)
+<annotated>0</annotated>
+<originalabstract>Elliott Pershing Stitzel (November 27, 1918 – May 21, 2005), better known by his stage name Stephen Elliott, was an American actor. His best known roles were that of the prospective father-in-law, Burt Johnson, in the hit 1981 film Arthur and as Chief Hubbard in the 1984 blockbuster Beverly Hills Cop.</originalabstract>
+<abstract>Elliott_Pershing_Stitzel ( November_27_,_1918 – May_21_,_2005 ) , better_known by his_stage_name_Stephen_Elliott , was an_American_actor . His_best_known_roles were that of the_prospective_father-in-law , Burt_Johnson , in the_hit_1981_film Arthur and as Chief_Hubbard in the_1984_blockbuster_Beverly_Hills_Cop .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elliott'), (8, 'Pershing'), (17, 'Stitzel'), (25, '('), (26, 'November'), (35, '27'), (37, ','), (39, '1918'), (44, '–'), (46, 'May'), (50, '21'), (52, ','), (54, '2005'), (58, ')'), (59, ','), (61, 'better'), (68, 'known'), (74, 'by'), (77, 'his'), (81, 'stage'), (87, 'name'), (92, 'Stephen'), (100, 'Elliott'), (107, ','), (109, 'was'), (113, 'an'), (116, 'American'), (125, 'actor'), (130, '.'), (132, 'His'), (136, 'best'), (141, 'known'), (147, 'roles'), (153, 'were'), (158, 'that'), (163, 'of'), (166, 'the'), (170, 'prospective'), (182, 'father-in-law'), (195, ','), (197, 'Burt'), (202, 'Johnson'), (209, ','), (211, 'in'), (214, 'the'), (218, 'hit'), (222, '1981'), (227, 'film'), (232, 'Arthur'), (239, 'and'), (243, 'as'), (246, 'Chief'), (252, 'Hubbard'), (260, 'in'), (263, 'the'), (267, '1984'), (272, 'blockbuster'), (284, 'Beverly'), (292, 'Hills'), (298, 'Cop'), (301, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elliott Pershing Stitzel',0, 24), ('November 27, 1918',26, 43), ('May 21, 2005',46, 58), ('better known',61, 73), ('his stage name Stephen Elliott',77, 107), ('an American actor',113, 130), ('His best known roles',132, 152), ('the prospective father-in-law',166, 195), ('Burt Johnson',197, 209), ('the hit 1981 film',214, 231), ('Chief Hubbard',246, 259), ('the 1984 blockbuster Beverly Hills Cop',263, 301)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'JJS', 'VBN', 'NNS', 'VBD', 'DT', 'IN', 'DT', 'JJ', 'NN', ',', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'CD', 'NN', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elliott'), (8, 'Pershing'), (17, 'Stitzel'), (25, '('), (26, 'November'), (35, '27'), (37, ','), (39, '1918'), (44, '–'), (46, 'May'), (50, '21'), (52, ','), (54, '2005'), (58, ')'), (59, ','), (61, 'better'), (68, 'known'), (74, 'by'), (77, 'his'), (81, 'stage'), (87, 'name'), (92, 'Stephen'), (100, 'Elliott'), (107, ','), (109, 'was'), (113, 'an'), (116, 'American'), (125, 'actor'), (130, '.'), (132, 'His'), (136, 'best'), (141, 'known'), (147, 'roles'), (153, 'were'), (158, 'that'), (163, 'of'), (166, 'the'), (170, 'prospective'), (182, 'father'), (188, '-'), (189, 'in'), (191, '-'), (192, 'law'), (195, ','), (197, 'Burt'), (202, 'Johnson'), (209, ','), (211, 'in'), (214, 'the'), (218, 'hit'), (222, '1981'), (227, 'film'), (232, 'Arthur'), (239, 'and'), (243, 'as'), (246, 'Chief'), (252, 'Hubbard'), (260, 'in'), (263, 'the'), (267, '1984'), (272, 'blockbuster'), (284, 'Beverly'), (292, 'Hills'), (298, 'Cop'), (301, '.')])</spacy_tokens>
+<spacy_chunks>[('Elliott Pershing Stitzel', 0, 24), ('November 27, 1918', 26, 43), ('May 21, 2005', 46, 58), ('his stage name', 77, 91), ('Stephen Elliott', 92, 107), ('an American actor', 113, 130), ('His best known roles', 132, 152), ('the prospective father', 166, 188), ('Burt Johnson', 197, 209), ('the hit 1981 film', 214, 231), ('Arthur', 232, 238), ('Chief Hubbard', 246, 259), ('the 1984 blockbuster Beverly Hills Cop', 263, 301)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'JJS', 'VBN', 'NNS', 'VBD', 'DT', 'IN', 'DT', 'JJ', 'NN', 'HYPH', 'IN', 'HYPH', 'NN', ',', 'NNP', 'NNP', ',', 'IN', 'DT', 'VBN', 'CD', 'NN', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Georges Saillard</title>
+<link/>https://en.wikipedia.org/wiki/Georges_Saillard
+<annotated>0</annotated>
+<originalabstract>Georges Augustin Eugène Saillard (July 5, 1877 - September 11, 1967) was a French film actor.
+He starred in some 52 films between 1909 and 1950.
+He died in Versailles on September 11, 1967</originalabstract>
+<abstract>Georges_Augustin_Eugène_Saillard ( July_5_,_1877 - September_11_,_1967 ) was a_French_film_actor . He starred in some_52_films between 1909_and_1950 . He died in Versailles on September_11_, 1967</abstract>
+<stanford_tokens>OrderedDict([(0, 'Georges'), (8, 'Augustin'), (17, 'Eugène'), (24, 'Saillard'), (33, '('), (34, 'July'), (39, '5'), (40, ','), (42, '1877'), (47, '-'), (49, 'September'), (59, '11'), (61, ','), (63, '1967'), (67, ')'), (69, 'was'), (73, 'a'), (75, 'French'), (82, 'film'), (87, 'actor'), (92, '.'), (94, 'He'), (97, 'starred'), (105, 'in'), (108, 'some'), (113, '52'), (116, 'films'), (122, 'between'), (130, '1909'), (135, 'and'), (139, '1950'), (143, '.'), (145, 'He'), (148, 'died'), (153, 'in'), (156, 'Versailles'), (167, 'on'), (170, 'September'), (180, '11'), (182, ','), (184, '1967')])</stanford_tokens>
+<opennlp_chunks>[('Georges Augustin Eugène Saillard',0, 32), ('July 5, 1877',34, 46), ('September 11, 1967',49, 67), ('a French film actor',73, 92), ('some 52 films',108, 121), ('1909 and 1950',130, 143), ('September 11,',170, 183)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Georges'), (8, 'Augustin'), (17, 'Eugène'), (24, 'Saillard'), (33, '('), (34, 'July'), (39, '5'), (40, ','), (42, '1877'), (47, '-'), (49, 'September'), (59, '11'), (61, ','), (63, '1967'), (67, ')'), (69, 'was'), (73, 'a'), (75, 'French'), (82, 'film'), (87, 'actor'), (92, '.'), (94, 'He'), (97, 'starred'), (105, 'in'), (108, 'some'), (113, '52'), (116, 'films'), (122, 'between'), (130, '1909'), (135, 'and'), (139, '1950'), (143, '.'), (145, 'He'), (148, 'died'), (153, 'in'), (156, 'Versailles'), (167, 'on'), (170, 'September'), (180, '11'), (182, ','), (184, '1967')])</spacy_tokens>
+<spacy_chunks>[('Georges Augustin Eugène Saillard', 0, 32), ('July 5, 1877', 34, 46), ('September 11, 1967', 49, 67), ('a French film actor', 73, 92), ('some 52 films', 108, 121), ('Versailles', 156, 166), ('September 11, 1967', 170, 188)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

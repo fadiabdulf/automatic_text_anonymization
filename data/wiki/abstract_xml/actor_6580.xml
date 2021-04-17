@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Conway Tearle</title>
+<link/>https://en.wikipedia.org/wiki/Conway_Tearle
+<annotated>0</annotated>
+<originalabstract>Conway Tearle (born Frederick Conway Levy, May 17, 1878 – October 1, 1938) was an Anglo-American stage actor who went on to perform in silent and early sound films.</originalabstract>
+<abstract>Conway_Tearle ( born Frederick_Conway_Levy , May_17_,_1878 – October_1_,_1938 ) was an_Anglo-American_stage_actor who went on to_perform in silent_and_early_sound_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Conway'), (7, 'Tearle'), (14, '('), (15, 'born'), (20, 'Frederick'), (30, 'Conway'), (37, 'Levy'), (41, ','), (43, 'May'), (47, '17'), (49, ','), (51, '1878'), (56, '–'), (58, 'October'), (66, '1'), (67, ','), (69, '1938'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'Anglo-American'), (97, 'stage'), (103, 'actor'), (109, 'who'), (113, 'went'), (118, 'on'), (121, 'to'), (124, 'perform'), (132, 'in'), (135, 'silent'), (142, 'and'), (146, 'early'), (152, 'sound'), (158, 'films'), (163, '.')])</stanford_tokens>
+<opennlp_chunks>[('Conway Tearle',0, 13), ('Frederick Conway Levy',20, 41), ('May 17, 1878',43, 55), ('October 1, 1938',58, 73), ('an Anglo-American stage actor',79, 108), ('to perform',121, 131), ('silent and early sound films',135, 163)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NN', 'NN', 'WP', 'VBD', 'IN', 'TO', 'VB', 'IN', 'JJ', 'CC', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Conway'), (7, 'Tearle'), (14, '('), (15, 'born'), (20, 'Frederick'), (30, 'Conway'), (37, 'Levy'), (41, ','), (43, 'May'), (47, '17'), (49, ','), (51, '1878'), (56, '–'), (58, 'October'), (66, '1'), (67, ','), (69, '1938'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'Anglo'), (87, '-'), (88, 'American'), (97, 'stage'), (103, 'actor'), (109, 'who'), (113, 'went'), (118, 'on'), (121, 'to'), (124, 'perform'), (132, 'in'), (135, 'silent'), (142, 'and'), (146, 'early'), (152, 'sound'), (158, 'films'), (163, '.')])</spacy_tokens>
+<spacy_chunks>[('Conway Tearle', 0, 13), ('(born Frederick Conway Levy', 14, 41), ('May 17, 1878', 43, 55), ('October 1, 1938', 58, 73), ('an Anglo-American stage actor', 79, 108), ('silent and early sound films', 135, 163)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'RP', 'TO', 'VB', 'IN', 'JJ', 'CC', 'JJ', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

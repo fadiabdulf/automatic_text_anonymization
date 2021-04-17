@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Ramsey</title>
+<link/>https://en.wikipedia.org/wiki/David_Ramsey
+<annotated>0</annotated>
+<originalabstract>David Paul Ramsey (born November 17, 1971) is an American actor and martial artist, best known for his roles in the CW series Arrow as John Diggle/Spartan, Anton Briggs on the Showtime TV series Dexter, and the film Mother and Child (2009) as Joseph.</originalabstract>
+<abstract>David_Paul_Ramsey ( born November_17 , 1971 ) is an_American_actor and martial_artist , best_known for his_roles in the_CW_series_Arrow as John_Diggle/Spartan , Anton_Briggs on the_Showtime_TV_series_Dexter , and the_film_Mother_and_Child ( 2009 ) as Joseph .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Paul'), (11, 'Ramsey'), (18, '('), (19, 'born'), (24, 'November'), (33, '17'), (35, ','), (37, '1971'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (64, 'and'), (68, 'martial'), (76, 'artist'), (82, ','), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'roles'), (109, 'in'), (112, 'the'), (116, 'CW'), (119, 'series'), (126, 'Arrow'), (132, 'as'), (135, 'John'), (140, 'Diggle/Spartan'), (154, ','), (156, 'Anton'), (162, 'Briggs'), (169, 'on'), (172, 'the'), (176, 'Showtime'), (185, 'TV'), (188, 'series'), (195, 'Dexter'), (201, ','), (203, 'and'), (207, 'the'), (211, 'film'), (216, 'Mother'), (223, 'and'), (227, 'Child'), (233, '('), (234, '2009'), (238, ')'), (240, 'as'), (243, 'Joseph'), (249, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Paul Ramsey',0, 17), ('November 17',24, 35), ('an American actor',46, 63), ('martial artist',68, 82), ('best known',84, 94), ('his roles',99, 108), ('the CW series Arrow',112, 131), ('John Diggle/Spartan',135, 154), ('Anton Briggs',156, 168), ('the Showtime TV series Dexter',172, 201), ('the film Mother and Child',207, 232)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', ',', 'CC', 'DT', 'NN', 'NN', 'CC', 'NN', '-LRB-', 'CD', '-RRB-', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Paul'), (11, 'Ramsey'), (18, '('), (19, 'born'), (24, 'November'), (33, '17'), (35, ','), (37, '1971'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (64, 'and'), (68, 'martial'), (76, 'artist'), (82, ','), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'roles'), (109, 'in'), (112, 'the'), (116, 'CW'), (119, 'series'), (126, 'Arrow'), (132, 'as'), (135, 'John'), (140, 'Diggle'), (146, '/'), (147, 'Spartan'), (154, ','), (156, 'Anton'), (162, 'Briggs'), (169, 'on'), (172, 'the'), (176, 'Showtime'), (185, 'TV'), (188, 'series'), (195, 'Dexter'), (201, ','), (203, 'and'), (207, 'the'), (211, 'film'), (216, 'Mother'), (223, 'and'), (227, 'Child'), (233, '('), (234, '2009'), (238, ')'), (240, 'as'), (243, 'Joseph'), (249, '.')])</spacy_tokens>
+<spacy_chunks>[('David Paul Ramsey', 0, 17), ('November 17, 1971', 24, 41), ('an American actor', 46, 63), ('martial artist', 68, 82), ('his roles', 99, 108), ('the CW series', 112, 125), ('John Diggle', 135, 146), ('Spartan', 147, 154), ('Anton Briggs', 156, 168), ('the Showtime TV series', 172, 194), ('Dexter', 195, 201), ('the film', 207, 215), ('Mother and Child (2009', 216, 238), ('Joseph', 243, 249)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNP', 'NNP', 'SYM', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNP', ',', 'CC', 'DT', 'NN', 'NNP', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

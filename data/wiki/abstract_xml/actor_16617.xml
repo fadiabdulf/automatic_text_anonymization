@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jill Esmond</title>
+<link/>https://en.wikipedia.org/wiki/Jill_Esmond
+<annotated>0</annotated>
+<originalabstract>Jill Esmond (born Jill Esmond Moore, 26 January 1908 – 28 July 1990) was an English stage and screen actress. She was the first wife of Laurence Olivier.</originalabstract>
+<abstract>Jill_Esmond ( born Jill_Esmond_Moore , 26_January_1908 – 28_July_1990 ) was an_English_stage_and_screen_actress . She was the_first_wife of Laurence_Olivier .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jill'), (5, 'Esmond'), (12, '('), (13, 'born'), (18, 'Jill'), (23, 'Esmond'), (30, 'Moore'), (35, ','), (37, '26'), (40, 'January'), (48, '1908'), (53, '–'), (55, '28'), (58, 'July'), (63, '1990'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'English'), (84, 'stage'), (90, 'and'), (94, 'screen'), (101, 'actress'), (108, '.'), (110, 'She'), (114, 'was'), (118, 'the'), (122, 'first'), (128, 'wife'), (133, 'of'), (136, 'Laurence'), (145, 'Olivier'), (152, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jill Esmond',0, 11), ('Jill Esmond Moore',18, 35), ('26 January 1908',37, 52), ('28 July 1990',55, 67), ('an English stage and screen actress',73, 108), ('the first wife',118, 132), ('Laurence Olivier',136, 152)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jill'), (5, 'Esmond'), (12, '('), (13, 'born'), (18, 'Jill'), (23, 'Esmond'), (30, 'Moore'), (35, ','), (37, '26'), (40, 'January'), (48, '1908'), (53, '–'), (55, '28'), (58, 'July'), (63, '1990'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'English'), (84, 'stage'), (90, 'and'), (94, 'screen'), (101, 'actress'), (108, '.'), (110, 'She'), (114, 'was'), (118, 'the'), (122, 'first'), (128, 'wife'), (133, 'of'), (136, 'Laurence'), (145, 'Olivier'), (152, '.')])</spacy_tokens>
+<spacy_chunks>[('Jill Esmond', 0, 11), ('Jill Esmond Moore', 18, 35), ('26 January 1908', 37, 52), ('28 July 1990', 55, 67), ('an English stage', 73, 89), ('screen actress', 94, 108), ('the first wife', 118, 132), ('Laurence Olivier', 136, 152)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

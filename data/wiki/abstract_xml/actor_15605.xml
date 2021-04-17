@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ronne Troup</title>
+<link/>https://en.wikipedia.org/wiki/Ronne_Troup
+<annotated>0</annotated>
+<originalabstract>Ronne Troup (born June 10, 1945 in Bryn Mawr, Pennsylvania) is an American actress and educator best known for her 1970–72 role as "Polly Williams Douglas" on the long-running sitcom My Three Sons.</originalabstract>
+<abstract>Ronne_Troup ( born June_10_,_1945 in Bryn_Mawr , Pennsylvania ) is an_American_actress_and_educator best_known for her_1970 – 72_role as "_Polly_Williams_Douglas " on the_long-running_sitcom My_Three_Sons .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ronne'), (6, 'Troup'), (12, '('), (13, 'born'), (18, 'June'), (23, '10'), (25, ','), (27, '1945'), (32, 'in'), (35, 'Bryn'), (40, 'Mawr'), (44, ','), (46, 'Pennsylvania'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'American'), (75, 'actress'), (83, 'and'), (87, 'educator'), (96, 'best'), (101, 'known'), (107, 'for'), (111, 'her'), (115, '1970'), (119, '–'), (120, '72'), (123, 'role'), (128, 'as'), (131, '"'), (132, 'Polly'), (138, 'Williams'), (147, 'Douglas'), (154, '"'), (156, 'on'), (159, 'the'), (163, 'long-running'), (176, 'sitcom'), (183, 'My'), (186, 'Three'), (192, 'Sons'), (196, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ronne Troup',0, 11), ('June 10, 1945',18, 31), ('Bryn Mawr',35, 44), ('an American actress and educator',63, 95), ('best known',96, 106), ('her 1970',111, 119), ('72 role',120, 127), ('"Polly Williams Douglas',131, 154), ('the long-running sitcom',159, 182), ('My Three Sons',183, 196)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'CD', ':', 'CD', 'NN', 'IN', '``', 'NNP', 'NNP', 'NNP', '\'\'', 'IN', 'DT', 'JJ', 'NN', 'PRP$', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ronne'), (6, 'Troup'), (12, '('), (13, 'born'), (18, 'June'), (23, '10'), (25, ','), (27, '1945'), (32, 'in'), (35, 'Bryn'), (40, 'Mawr'), (44, ','), (46, 'Pennsylvania'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'American'), (75, 'actress'), (83, 'and'), (87, 'educator'), (96, 'best'), (101, 'known'), (107, 'for'), (111, 'her'), (115, '1970–72'), (123, 'role'), (128, 'as'), (131, '"'), (132, 'Polly'), (138, 'Williams'), (147, 'Douglas'), (154, '"'), (156, 'on'), (159, 'the'), (163, 'long'), (167, '-'), (168, 'running'), (176, 'sitcom'), (183, 'My'), (186, 'Three'), (192, 'Sons'), (196, '.')])</spacy_tokens>
+<spacy_chunks>[('Ronne Troup', 0, 11), ('June 10, 1945', 18, 31), ('Bryn Mawr, Pennsylvania', 35, 58), ('an American actress', 63, 82), ('educator', 87, 95), ('her 1970–72 role', 111, 127), ('"Polly Williams Douglas', 131, 154), ('the long-running sitcom', 159, 182), ('My Three Sons', 183, 196)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNP', 'NN', 'IN', '``', 'NNP', 'NNP', 'NNP', "''", 'IN', 'DT', 'RB', 'HYPH', 'VBG', 'NN', 'PRP$', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

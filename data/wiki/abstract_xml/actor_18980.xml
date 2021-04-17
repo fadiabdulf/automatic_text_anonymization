@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Valentine Tessier</title>
+<link/>https://en.wikipedia.org/wiki/Valentine_Tessier
+<annotated>0</annotated>
+<originalabstract>Valentine Tessier (1892–1981) was a French actress who appeared in around thirty films during her career. She played the title role in Jean Renoir's 1934 film version of Madame Bovary.</originalabstract>
+<abstract>Valentine_Tessier ( 1892 – 1981 ) was a_French_actress who appeared in around_thirty_films during her_career . She played the_title_role in Jean_Renoir 's 1934_film version of Madame_Bovary .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Valentine'), (10, 'Tessier'), (18, '('), (19, '1892'), (23, '–'), (24, '1981'), (28, ')'), (30, 'was'), (34, 'a'), (36, 'French'), (43, 'actress'), (51, 'who'), (55, 'appeared'), (64, 'in'), (67, 'around'), (74, 'thirty'), (81, 'films'), (87, 'during'), (94, 'her'), (98, 'career'), (104, '.'), (106, 'She'), (110, 'played'), (117, 'the'), (121, 'title'), (127, 'role'), (132, 'in'), (135, 'Jean'), (140, 'Renoir'), (146, '\'s'), (149, '1934'), (154, 'film'), (159, 'version'), (167, 'of'), (170, 'Madame'), (177, 'Bovary'), (183, '.')])</stanford_tokens>
+<opennlp_chunks>[('Valentine Tessier',0, 17), ('a French actress',34, 50), ('around thirty films',67, 86), ('her career',94, 104), ('the title role',117, 131), ('Jean Renoir',135, 146), ('1934 film',149, 158), ('Madame Bovary',170, 183)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'CD', 'NN', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Valentine'), (10, 'Tessier'), (18, '('), (19, '1892–1981'), (28, ')'), (30, 'was'), (34, 'a'), (36, 'French'), (43, 'actress'), (51, 'who'), (55, 'appeared'), (64, 'in'), (67, 'around'), (74, 'thirty'), (81, 'films'), (87, 'during'), (94, 'her'), (98, 'career'), (104, '.'), (106, 'She'), (110, 'played'), (117, 'the'), (121, 'title'), (127, 'role'), (132, 'in'), (135, 'Jean'), (140, 'Renoir'), (146, "'s"), (149, '1934'), (154, 'film'), (159, 'version'), (167, 'of'), (170, 'Madame'), (177, 'Bovary'), (183, '.')])</spacy_tokens>
+<spacy_chunks>[('Valentine Tessier', 0, 17), ('a French actress', 34, 50), ('around thirty films', 67, 86), ('her career', 94, 104), ('the title role', 117, 131), ("Jean Renoir's 1934 film version", 135, 166), ('Madame Bovary', 170, 183)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'PRP$', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'CD', 'NN', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

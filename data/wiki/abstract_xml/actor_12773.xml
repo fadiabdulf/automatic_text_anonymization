@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lori Heuring</title>
+<link/>https://en.wikipedia.org/wiki/Lori_Heuring
+<annotated>0</annotated>
+<originalabstract>Lori Ann Heuring (born April 6, 1973) is a Panamanian/American film and television actress, perhaps most known for her starring role in 8mm 2, as Alice Richards in The Locket (2002), and as Mrs. Kesher in David Lynch's Mulholland Drive (2001).</originalabstract>
+<abstract>Lori_Ann_Heuring ( born April_6_,_1973 ) is a_Panamanian/American_film_and_television_actress , perhaps_most_known for her_starring_role in 8_mm 2 , as Alice_Richards in The_Locket ( 2002 ) , and as Mrs._Kesher in David_Lynch 's_Mulholland_Drive ( 2001 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lori'), (5, 'Ann'), (9, 'Heuring'), (17, '('), (18, 'born'), (23, 'April'), (29, '6'), (30, ','), (32, '1973'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'Panamanian/American'), (63, 'film'), (68, 'and'), (72, 'television'), (83, 'actress'), (90, ','), (92, 'perhaps'), (100, 'most'), (105, 'known'), (111, 'for'), (115, 'her'), (119, 'starring'), (128, 'role'), (133, 'in'), (136, '8'), (137, 'mm'), (140, '2'), (141, ','), (143, 'as'), (146, 'Alice'), (152, 'Richards'), (161, 'in'), (164, 'The'), (168, 'Locket'), (175, '('), (176, '2002'), (180, ')'), (181, ','), (183, 'and'), (187, 'as'), (190, 'Mrs.'), (195, 'Kesher'), (202, 'in'), (205, 'David'), (211, 'Lynch'), (216, '\'s'), (219, 'Mulholland'), (230, 'Drive'), (236, '('), (237, '2001'), (241, ')'), (242, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lori Ann Heuring',0, 16), ('April 6, 1973',23, 36), ('a Panamanian/American film and television actress',41, 90), ('perhaps most known',92, 110), ('her starring role',115, 132), ('8mm',136, 139), ('Alice Richards',146, 160), ('The Locket',164, 174), ('Mrs. Kesher',190, 201), ('David Lynch',205, 216), ('\'s Mulholland Drive',216, 235)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'CD', 'NN', 'CD', ',', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lori'), (5, 'Ann'), (9, 'Heuring'), (17, '('), (18, 'born'), (23, 'April'), (29, '6'), (30, ','), (32, '1973'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'Panamanian'), (53, '/'), (54, 'American'), (63, 'film'), (68, 'and'), (72, 'television'), (83, 'actress'), (90, ','), (92, 'perhaps'), (100, 'most'), (105, 'known'), (111, 'for'), (115, 'her'), (119, 'starring'), (128, 'role'), (133, 'in'), (136, '8'), (137, 'mm'), (140, '2'), (141, ','), (143, 'as'), (146, 'Alice'), (152, 'Richards'), (161, 'in'), (164, 'The'), (168, 'Locket'), (175, '('), (176, '2002'), (180, ')'), (181, ','), (183, 'and'), (187, 'as'), (190, 'Mrs.'), (195, 'Kesher'), (202, 'in'), (205, 'David'), (211, 'Lynch'), (216, "'s"), (219, 'Mulholland'), (230, 'Drive'), (236, '('), (237, '2001'), (241, ')'), (242, '.')])</spacy_tokens>
+<spacy_chunks>[('Lori Ann Heuring', 0, 16), ('April 6, 1973', 23, 36), ('a Panamanian/American film and television actress', 41, 90), ('her starring role', 115, 132), ('8mm 2', 136, 141), ('Alice Richards', 146, 160), ('The Locket (2002', 164, 180), ('Mrs. Kesher', 190, 201), ("David Lynch's Mulholland Drive", 205, 235)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'SYM', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'CD', 'NN', 'CD', ',', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

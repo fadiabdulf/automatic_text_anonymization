@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Clara Horton</title>
+<link/>https://en.wikipedia.org/wiki/Clara_Horton
+<annotated>0</annotated>
+<originalabstract>Clara Horton (July 29, 1904 – December 4, 1976) was an American actress of the silent film era. She appeared in 88 films between 1912 and 1942. She is buried in Rose Hills Memorial Park.</originalabstract>
+<abstract>Clara_Horton ( July_29_,_1904 – December_4_,_1976 ) was an_American_actress of the_silent_film_era . She appeared in 88_films between 1912_and_1942 . She is_buried in Rose_Hills_Memorial_Park .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Clara'), (6, 'Horton'), (13, '('), (14, 'July'), (19, '29'), (21, ','), (23, '1904'), (28, '–'), (30, 'December'), (39, '4'), (40, ','), (42, '1976'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'of'), (75, 'the'), (79, 'silent'), (86, 'film'), (91, 'era'), (94, '.'), (96, 'She'), (100, 'appeared'), (109, 'in'), (112, '88'), (115, 'films'), (121, 'between'), (129, '1912'), (134, 'and'), (138, '1942'), (142, '.'), (144, 'She'), (148, 'is'), (151, 'buried'), (158, 'in'), (161, 'Rose'), (166, 'Hills'), (172, 'Memorial'), (181, 'Park'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('Clara Horton',0, 12), ('July 29, 1904',14, 27), ('December 4, 1976',30, 46), ('an American actress',52, 71), ('the silent film era',75, 94), ('88 films',112, 120), ('1912 and 1942',129, 142), ('is buried',148, 157), ('Rose Hills Memorial Park',161, 185)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Clara'), (6, 'Horton'), (13, '('), (14, 'July'), (19, '29'), (21, ','), (23, '1904'), (28, '–'), (30, 'December'), (39, '4'), (40, ','), (42, '1976'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'of'), (75, 'the'), (79, 'silent'), (86, 'film'), (91, 'era'), (94, '.'), (96, 'She'), (100, 'appeared'), (109, 'in'), (112, '88'), (115, 'films'), (121, 'between'), (129, '1912'), (134, 'and'), (138, '1942'), (142, '.'), (144, 'She'), (148, 'is'), (151, 'buried'), (158, 'in'), (161, 'Rose'), (166, 'Hills'), (172, 'Memorial'), (181, 'Park'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('Clara Horton', 0, 12), ('July 29, 1904', 14, 27), ('December 4, 1976', 30, 46), ('an American actress', 52, 71), ('the silent film era', 75, 94), ('88 films', 112, 120), ('Rose Hills Memorial Park', 161, 185)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

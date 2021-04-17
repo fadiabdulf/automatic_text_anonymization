@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Erskine Sanford</title>
+<link/>https://en.wikipedia.org/wiki/Erskine_Sanford
+<annotated>0</annotated>
+<originalabstract>Erskine Sanford (November 19, 1885 – July 7, 1969) was an American actor on the stage and in radio and motion pictures. A member of Orson Welles's Mercury Theatre company, he also appeared in several of Welles's films, most notably as the bumbling, perspiring newspaper editor Herbert Carter in Citizen Kane.</originalabstract>
+<abstract>Erskine_Sanford ( November_19 , 1885 – July_7_,_1969 ) was an_American_actor on the_stage and in radio_and_motion_pictures . A_member of Orson_Welles 's_Mercury_Theatre_company , he also appeared in several of Welles 's_films , most_notably as the_bumbling_,_perspiring_newspaper_editor_Herbert_Carter in Citizen_Kane .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Erskine'), (8, 'Sanford'), (16, '('), (17, 'November'), (26, '19'), (28, ','), (30, '1885'), (35, '–'), (37, 'July'), (42, '7'), (43, ','), (45, '1969'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'on'), (76, 'the'), (80, 'stage'), (86, 'and'), (90, 'in'), (93, 'radio'), (99, 'and'), (103, 'motion'), (110, 'pictures'), (118, '.'), (120, 'A'), (122, 'member'), (129, 'of'), (132, 'Orson'), (138, 'Welles'), (144, '\'s'), (147, 'Mercury'), (155, 'Theatre'), (163, 'company'), (170, ','), (172, 'he'), (175, 'also'), (180, 'appeared'), (189, 'in'), (192, 'several'), (200, 'of'), (203, 'Welles'), (209, '\'s'), (212, 'films'), (217, ','), (219, 'most'), (224, 'notably'), (232, 'as'), (235, 'the'), (239, 'bumbling'), (247, ','), (249, 'perspiring'), (260, 'newspaper'), (270, 'editor'), (277, 'Herbert'), (285, 'Carter'), (292, 'in'), (295, 'Citizen'), (303, 'Kane'), (307, '.')])</stanford_tokens>
+<opennlp_chunks>[('Erskine Sanford',0, 15), ('November 19',17, 28), ('July 7, 1969',37, 49), ('an American actor',55, 72), ('the stage',76, 85), ('radio and motion pictures',93, 118), ('A member',120, 128), ('Orson Welles',132, 144), ('\'s Mercury Theatre company',144, 170), ('\'s films',209, 217), ('most notably',219, 231), ('the bumbling, perspiring newspaper editor Herbert Carter',235, 291), ('Citizen Kane',295, 307)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'CC', 'IN', 'NN', 'CC', 'NN', 'NNS', '.', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'NN', ',', 'PRP', 'RB', 'VBD', 'IN', 'JJ', 'IN', 'NNP', 'POS', 'NNS', ',', 'RBS', 'RB', 'IN', 'DT', 'VBG', ',', 'VBG', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Erskine'), (8, 'Sanford'), (16, '('), (17, 'November'), (26, '19'), (28, ','), (30, '1885'), (35, '–'), (37, 'July'), (42, '7'), (43, ','), (45, '1969'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'on'), (76, 'the'), (80, 'stage'), (86, 'and'), (90, 'in'), (93, 'radio'), (99, 'and'), (103, 'motion'), (110, 'pictures'), (118, '.'), (120, 'A'), (122, 'member'), (129, 'of'), (132, 'Orson'), (138, 'Welles'), (144, "'s"), (147, 'Mercury'), (155, 'Theatre'), (163, 'company'), (170, ','), (172, 'he'), (175, 'also'), (180, 'appeared'), (189, 'in'), (192, 'several'), (200, 'of'), (203, 'Welles'), (209, "'s"), (212, 'films'), (217, ','), (219, 'most'), (224, 'notably'), (232, 'as'), (235, 'the'), (239, 'bumbling'), (247, ','), (249, 'perspiring'), (260, 'newspaper'), (270, 'editor'), (277, 'Herbert'), (285, 'Carter'), (292, 'in'), (295, 'Citizen'), (303, 'Kane'), (307, '.')])</spacy_tokens>
+<spacy_chunks>[('Erskine Sanford', 0, 15), ('(November', 16, 25), ('November 19, 1885', 17, 34), ('July 7, 1969', 37, 49), ('an American actor', 55, 72), ('the stage', 76, 85), ('radio and motion pictures', 93, 118), ("Orson Welles's Mercury Theatre company", 132, 170), ("Welles's films", 203, 217), ('the bumbling, perspiring newspaper editor', 235, 276), ('Herbert Carter', 277, 291), ('Citizen Kane', 295, 307)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'CC', 'IN', 'NN', 'CC', 'NN', 'NNS', '.', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'NN', ',', 'PRP', 'RB', 'VBD', 'IN', 'JJ', 'IN', 'NNP', 'POS', 'NNS', ',', 'RBS', 'RB', 'IN', 'DT', 'JJ', ',', 'VBG', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

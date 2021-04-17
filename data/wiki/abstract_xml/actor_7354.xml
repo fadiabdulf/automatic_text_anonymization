@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Buck Young</title>
+<link/>https://en.wikipedia.org/wiki/Buck_Young
+<annotated>0</annotated>
+<originalabstract>David Darnell Brown (born March 15, 1981), best known by his stage name Young Buck, is an American rapper. Buck is a former member of the hip hop group UTP Playas. As a music executive, he heads his own record label, Cashville Records, and is currently a member of the hip hop group G-Unit.</originalabstract>
+<abstract>David_Darnell_Brown ( born March_15_,_1981 ) , best_known by his_stage_name_Young_Buck , is an_American_rapper . Buck is a_former_member of the_hip_hop_group_UTP_Playas . As a_music_executive , he heads his_own_record_label , Cashville_Records , and is currently a_member of the_hip_hop_group_G-Unit .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Darnell'), (14, 'Brown'), (20, '('), (21, 'born'), (26, 'March'), (32, '15'), (34, ','), (36, '1981'), (40, ')'), (41, ','), (43, 'best'), (48, 'known'), (54, 'by'), (57, 'his'), (61, 'stage'), (67, 'name'), (72, 'Young'), (78, 'Buck'), (82, ','), (84, 'is'), (87, 'an'), (90, 'American'), (99, 'rapper'), (105, '.'), (107, 'Buck'), (112, 'is'), (115, 'a'), (117, 'former'), (124, 'member'), (131, 'of'), (134, 'the'), (138, 'hip'), (142, 'hop'), (146, 'group'), (152, 'UTP'), (156, 'Playas'), (162, '.'), (164, 'As'), (167, 'a'), (169, 'music'), (175, 'executive'), (184, ','), (186, 'he'), (189, 'heads'), (195, 'his'), (199, 'own'), (203, 'record'), (210, 'label'), (215, ','), (217, 'Cashville'), (227, 'Records'), (234, ','), (236, 'and'), (240, 'is'), (243, 'currently'), (253, 'a'), (255, 'member'), (262, 'of'), (265, 'the'), (269, 'hip'), (273, 'hop'), (277, 'group'), (283, 'G-Unit'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Darnell Brown',0, 19), ('March 15, 1981',26, 40), ('best known',43, 53), ('his stage name Young Buck',57, 82), ('an American rapper',87, 105), ('a former member',115, 130), ('the hip hop group UTP Playas',134, 162), ('a music executive',167, 184), ('his own record label',195, 215), ('Cashville Records',217, 234), ('a member',253, 261), ('the hip hop group G-Unit',265, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', 'NNP', '.', 'IN', 'DT', 'NN', 'NN', ',', 'PRP', 'VBZ', 'PRP$', 'JJ', 'NN', 'NN', ',', 'NNP', 'NNP', ',', 'CC', 'VBZ', 'RB', 'DT', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Darnell'), (14, 'Brown'), (20, '('), (21, 'born'), (26, 'March'), (32, '15'), (34, ','), (36, '1981'), (40, ')'), (41, ','), (43, 'best'), (48, 'known'), (54, 'by'), (57, 'his'), (61, 'stage'), (67, 'name'), (72, 'Young'), (78, 'Buck'), (82, ','), (84, 'is'), (87, 'an'), (90, 'American'), (99, 'rapper'), (105, '.'), (107, 'Buck'), (112, 'is'), (115, 'a'), (117, 'former'), (124, 'member'), (131, 'of'), (134, 'the'), (138, 'hip'), (142, 'hop'), (146, 'group'), (152, 'UTP'), (156, 'Playas'), (162, '.'), (164, 'As'), (167, 'a'), (169, 'music'), (175, 'executive'), (184, ','), (186, 'he'), (189, 'heads'), (195, 'his'), (199, 'own'), (203, 'record'), (210, 'label'), (215, ','), (217, 'Cashville'), (227, 'Records'), (234, ','), (236, 'and'), (240, 'is'), (243, 'currently'), (253, 'a'), (255, 'member'), (262, 'of'), (265, 'the'), (269, 'hip'), (273, 'hop'), (277, 'group'), (283, 'G'), (284, '-'), (285, 'Unit'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('David Darnell Brown', 0, 19), ('March 15, 1981', 26, 40), ('his stage name', 57, 71), ('Young Buck', 72, 82), ('an American rapper', 87, 105), ('a former member', 115, 130), ('the hip hop group', 134, 151), ('UTP Playas', 152, 162), ('a music executive', 167, 184), ('his own record label', 195, 215), ('Cashville Records', 217, 234), ('a member', 253, 261), ('G-Unit', 283, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', 'NNP', '.', 'IN', 'DT', 'NN', 'NN', ',', 'PRP', 'VBZ', 'PRP$', 'JJ', 'NN', 'NN', ',', 'NNP', 'NNPS', ',', 'CC', 'VBZ', 'RB', 'DT', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

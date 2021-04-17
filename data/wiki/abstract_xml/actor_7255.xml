@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert Wisdom</title>
+<link/>https://en.wikipedia.org/wiki/Robert_Wisdom
+<annotated>0</annotated>
+<originalabstract>Robert Ray Wisdom (born September 14, 1953) is an American actor best known for his roles as Howard "Bunny" Colvin in The Wire and Norman "Lechero" St. John in Prison Break.</originalabstract>
+<abstract>Robert_Ray_Wisdom ( born September_14_,_1953 ) is an_American_actor best_known for his_roles as Howard_"_Bunny_"_Colvin in The_Wire and Norman_"_Lechero_"_St._John in Prison_Break .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Ray'), (11, 'Wisdom'), (18, '('), (19, 'born'), (24, 'September'), (34, '14'), (36, ','), (38, '1953'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (65, 'best'), (70, 'known'), (76, 'for'), (80, 'his'), (84, 'roles'), (90, 'as'), (93, 'Howard'), (100, '"'), (101, 'Bunny'), (106, '"'), (108, 'Colvin'), (115, 'in'), (118, 'The'), (122, 'Wire'), (127, 'and'), (131, 'Norman'), (138, '"'), (139, 'Lechero'), (146, '"'), (148, 'St.'), (152, 'John'), (157, 'in'), (160, 'Prison'), (167, 'Break'), (172, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Ray Wisdom',0, 17), ('September 14, 1953',24, 42), ('an American actor',47, 64), ('best known',65, 75), ('his roles',80, 89), ('Howard "Bunny" Colvin',93, 114), ('The Wire',118, 126), ('Norman "Lechero" St. John',131, 156), ('Prison Break',160, 172)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NN', 'CC', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Ray'), (11, 'Wisdom'), (18, '('), (19, 'born'), (24, 'September'), (34, '14'), (36, ','), (38, '1953'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (65, 'best'), (70, 'known'), (76, 'for'), (80, 'his'), (84, 'roles'), (90, 'as'), (93, 'Howard'), (100, '"'), (101, 'Bunny'), (106, '"'), (108, 'Colvin'), (115, 'in'), (118, 'The'), (122, 'Wire'), (127, 'and'), (131, 'Norman'), (138, '"'), (139, 'Lechero'), (146, '"'), (148, 'St.'), (152, 'John'), (157, 'in'), (160, 'Prison'), (167, 'Break'), (172, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Ray Wisdom', 0, 17), ('September 14, 1953', 24, 42), ('an American actor', 47, 64), ('his roles', 80, 89), ('Howard "Bunny" Colvin', 93, 114), ('The Wire and Norman "Lechero" St. John', 118, 156), ('Prison Break', 160, 172)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'DT', 'NNP', 'CC', 'NNP', "''", 'NNP', "''", 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

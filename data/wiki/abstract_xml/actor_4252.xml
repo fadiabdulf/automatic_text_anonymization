@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jerry Mandy</title>
+<link/>https://en.wikipedia.org/wiki/Jerry_Mandy
+<annotated>0</annotated>
+<originalabstract>Jerry Mandy (June 5, 1892 – May 1, 1945) was an American film actor. He appeared in 114 films between 1923 and 1945. He was born in Utica, New York and died in Hollywood, California from a heart attack.</originalabstract>
+<abstract>Jerry_Mandy ( June_5_,_1892 – May_1_,_1945 ) was an_American_film_actor . He appeared in 114_films between 1923_and_1945 . He was_born in Utica , New_York and died in Hollywood , California from a_heart_attack .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jerry'), (6, 'Mandy'), (12, '('), (13, 'June'), (18, '5'), (19, ','), (21, '1892'), (26, '–'), (28, 'May'), (32, '1'), (33, ','), (35, '1945'), (39, ')'), (41, 'was'), (45, 'an'), (48, 'American'), (57, 'film'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'appeared'), (81, 'in'), (84, '114'), (88, 'films'), (94, 'between'), (102, '1923'), (107, 'and'), (111, '1945'), (115, '.'), (117, 'He'), (120, 'was'), (124, 'born'), (129, 'in'), (132, 'Utica'), (137, ','), (139, 'New'), (143, 'York'), (148, 'and'), (152, 'died'), (157, 'in'), (160, 'Hollywood'), (169, ','), (171, 'California'), (182, 'from'), (187, 'a'), (189, 'heart'), (195, 'attack'), (201, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jerry Mandy',0, 11), ('June 5, 1892',13, 25), ('May 1, 1945',28, 39), ('an American film actor',45, 67), ('114 films',84, 93), ('1923 and 1945',102, 115), ('was born',120, 128), ('New York',139, 147), ('a heart attack',187, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jerry'), (6, 'Mandy'), (12, '('), (13, 'June'), (18, '5'), (19, ','), (21, '1892'), (26, '–'), (28, 'May'), (32, '1'), (33, ','), (35, '1945'), (39, ')'), (41, 'was'), (45, 'an'), (48, 'American'), (57, 'film'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'appeared'), (81, 'in'), (84, '114'), (88, 'films'), (94, 'between'), (102, '1923'), (107, 'and'), (111, '1945'), (115, '.'), (117, 'He'), (120, 'was'), (124, 'born'), (129, 'in'), (132, 'Utica'), (137, ','), (139, 'New'), (143, 'York'), (148, 'and'), (152, 'died'), (157, 'in'), (160, 'Hollywood'), (169, ','), (171, 'California'), (182, 'from'), (187, 'a'), (189, 'heart'), (195, 'attack'), (201, '.')])</spacy_tokens>
+<spacy_chunks>[('Jerry Mandy', 0, 11), ('June 5, 1892', 13, 25), ('May 1, 1945', 28, 39), ('an American film actor', 45, 67), ('114 films', 84, 93), ('Utica, New York', 132, 147), ('Hollywood, California', 160, 181), ('a heart attack', 187, 201)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

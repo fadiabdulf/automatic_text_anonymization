@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leon De La Mothe</title>
+<link/>https://en.wikipedia.org/wiki/Leon_De_La_Mothe
+<annotated>0</annotated>
+<originalabstract>Leon De La Mothe (December 26, 1880 – June 12, 1943) was an American film director, actor and screenwriter of the silent era. He directed 40 films between 1915 and 1925. He also appeared in 28 films between 1915 and 1928. He was born in New Orleans, Louisiana and died in Los Angeles, California.</originalabstract>
+<abstract>Leon_De_La_Mothe ( December_26 , 1880 – June_12_,_1943 ) was an_American_film_director , actor_and_screenwriter of the_silent_era . He directed 40_films between 1915_and_1925 . He also appeared in 28_films between 1915_and_1928 . He was_born in New_Orleans , Louisiana and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leon'), (5, 'De'), (8, 'La'), (11, 'Mothe'), (17, '('), (18, 'December'), (27, '26'), (29, ','), (31, '1880'), (36, '–'), (38, 'June'), (43, '12'), (45, ','), (47, '1943'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'director'), (82, ','), (84, 'actor'), (90, 'and'), (94, 'screenwriter'), (107, 'of'), (110, 'the'), (114, 'silent'), (121, 'era'), (124, '.'), (126, 'He'), (129, 'directed'), (138, '40'), (141, 'films'), (147, 'between'), (155, '1915'), (160, 'and'), (164, '1925'), (168, '.'), (170, 'He'), (173, 'also'), (178, 'appeared'), (187, 'in'), (190, '28'), (193, 'films'), (199, 'between'), (207, '1915'), (212, 'and'), (216, '1928'), (220, '.'), (222, 'He'), (225, 'was'), (229, 'born'), (234, 'in'), (237, 'New'), (241, 'Orleans'), (248, ','), (250, 'Louisiana'), (260, 'and'), (264, 'died'), (269, 'in'), (272, 'Los'), (276, 'Angeles'), (283, ','), (285, 'California'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leon De La Mothe',0, 16), ('December 26',18, 29), ('June 12, 1943',38, 51), ('an American film director',57, 82), ('actor and screenwriter',84, 106), ('the silent era',110, 124), ('40 films',138, 146), ('1915 and 1925',155, 168), ('28 films',190, 198), ('1915 and 1928',207, 220), ('was born',225, 233), ('New Orleans',237, 248), ('Los Angeles',272, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leon'), (5, 'De'), (8, 'La'), (11, 'Mothe'), (17, '('), (18, 'December'), (27, '26'), (29, ','), (31, '1880'), (36, '–'), (38, 'June'), (43, '12'), (45, ','), (47, '1943'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'director'), (82, ','), (84, 'actor'), (90, 'and'), (94, 'screenwriter'), (107, 'of'), (110, 'the'), (114, 'silent'), (121, 'era'), (124, '.'), (126, 'He'), (129, 'directed'), (138, '40'), (141, 'films'), (147, 'between'), (155, '1915'), (160, 'and'), (164, '1925'), (168, '.'), (170, 'He'), (173, 'also'), (178, 'appeared'), (187, 'in'), (190, '28'), (193, 'films'), (199, 'between'), (207, '1915'), (212, 'and'), (216, '1928'), (220, '.'), (222, 'He'), (225, 'was'), (229, 'born'), (234, 'in'), (237, 'New'), (241, 'Orleans'), (248, ','), (250, 'Louisiana'), (260, 'and'), (264, 'died'), (269, 'in'), (272, 'Los'), (276, 'Angeles'), (283, ','), (285, 'California'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Leon De La Mothe', 0, 16), ('December 26, 1880', 18, 35), ('June 12, 1943', 38, 51), ('an American film director', 57, 82), ('Screenwriter', 94, 106), ('the silent era', 110, 124), ('40 films', 138, 146), ('28 films', 190, 198), ('New Orleans, Louisiana', 237, 259), ('Los Angeles, California', 272, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

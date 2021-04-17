@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lang Jeffries</title>
+<link/>https://en.wikipedia.org/wiki/Lang_Jeffries
+<annotated>0</annotated>
+<originalabstract>Lang Jeffries (June 7, 1930 – February 12, 1987) was a Canadian-American actor of television and film who was married from 1960 to 1962 to actress Rhonda Fleming.</originalabstract>
+<abstract>Lang_Jeffries ( June_7_,_1930 – February_12_,_1987 ) was a_Canadian-American_actor of television_and_film who was_married from 1960 to 1962 to actress_Rhonda_Fleming .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lang'), (5, 'Jeffries'), (14, '('), (15, 'June'), (20, '7'), (21, ','), (23, '1930'), (28, '–'), (30, 'February'), (39, '12'), (41, ','), (43, '1987'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'Canadian-American'), (73, 'actor'), (79, 'of'), (82, 'television'), (93, 'and'), (97, 'film'), (102, 'who'), (106, 'was'), (110, 'married'), (118, 'from'), (123, '1960'), (128, 'to'), (131, '1962'), (136, 'to'), (139, 'actress'), (147, 'Rhonda'), (154, 'Fleming'), (161, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lang Jeffries',0, 13), ('June 7, 1930',15, 27), ('February 12, 1987',30, 47), ('a Canadian-American actor',53, 78), ('television and film',82, 101), ('was married',106, 117), ('actress Rhonda Fleming',139, 161)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', 'WP', 'VBD', 'VBN', 'IN', 'CD', 'TO', 'CD', 'TO', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lang'), (5, 'Jeffries'), (14, '('), (15, 'June'), (20, '7'), (21, ','), (23, '1930'), (28, '–'), (30, 'February'), (39, '12'), (41, ','), (43, '1987'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'Canadian'), (63, '-'), (64, 'American'), (73, 'actor'), (79, 'of'), (82, 'television'), (93, 'and'), (97, 'film'), (102, 'who'), (106, 'was'), (110, 'married'), (118, 'from'), (123, '1960'), (128, 'to'), (131, '1962'), (136, 'to'), (139, 'actress'), (147, 'Rhonda'), (154, 'Fleming'), (161, '.')])</spacy_tokens>
+<spacy_chunks>[('Lang Jeffries', 0, 13), ('June 7, 1930', 15, 27), ('February 12, 1987', 30, 47), ('a Canadian-American actor', 53, 78), ('television', 82, 92), ('actress Rhonda Fleming', 139, 161)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', 'WP', 'VBD', 'VBN', 'IN', 'CD', 'IN', 'CD', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

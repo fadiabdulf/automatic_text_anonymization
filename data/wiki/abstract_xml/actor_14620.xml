@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Juliet Prowse</title>
+<link/>https://en.wikipedia.org/wiki/Juliet_Prowse
+<annotated>0</annotated>
+<originalabstract>Juliet Anne Prowse (September 25, 1936 – September 14, 1996) was a dancer, whose four-decade career included stage, television and film. She was raised in South Africa, where her family emigrated after World War II.</originalabstract>
+<abstract>Juliet_Anne_Prowse ( September_25_,_1936 – September_14_,_1996 ) was a_dancer , whose_four-decade_career included stage_,_television_and_film . She was_raised in South_Africa , where her_family emigrated after World_War_II .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Juliet'), (7, 'Anne'), (12, 'Prowse'), (19, '('), (20, 'September'), (30, '25'), (32, ','), (34, '1936'), (39, '–'), (41, 'September'), (51, '14'), (53, ','), (55, '1996'), (59, ')'), (61, 'was'), (65, 'a'), (67, 'dancer'), (73, ','), (75, 'whose'), (81, 'four-decade'), (93, 'career'), (100, 'included'), (109, 'stage'), (114, ','), (116, 'television'), (127, 'and'), (131, 'film'), (135, '.'), (137, 'She'), (141, 'was'), (145, 'raised'), (152, 'in'), (155, 'South'), (161, 'Africa'), (167, ','), (169, 'where'), (175, 'her'), (179, 'family'), (186, 'emigrated'), (196, 'after'), (202, 'World'), (208, 'War'), (212, 'II'), (214, '.')])</stanford_tokens>
+<opennlp_chunks>[('Juliet Anne Prowse',0, 18), ('September 25, 1936',20, 38), ('September 14, 1996',41, 59), ('a dancer',65, 73), ('whose four-decade career',75, 99), ('stage, television and film',109, 135), ('was raised',141, 151), ('South Africa',155, 167), ('her family',175, 185), ('World War II',202, 214)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'WP$', 'JJ', 'NN', 'VBD', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'WRB', 'PRP$', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Juliet'), (7, 'Anne'), (12, 'Prowse'), (19, '('), (20, 'September'), (30, '25'), (32, ','), (34, '1936'), (39, '–'), (41, 'September'), (51, '14'), (53, ','), (55, '1996'), (59, ')'), (61, 'was'), (65, 'a'), (67, 'dancer'), (73, ','), (75, 'whose'), (81, 'four'), (85, '-'), (86, 'decade'), (93, 'career'), (100, 'included'), (109, 'stage'), (114, ','), (116, 'television'), (127, 'and'), (131, 'film'), (135, '.'), (137, 'She'), (141, 'was'), (145, 'raised'), (152, 'in'), (155, 'South'), (161, 'Africa'), (167, ','), (169, 'where'), (175, 'her'), (179, 'family'), (186, 'emigrated'), (196, 'after'), (202, 'World'), (208, 'War'), (212, 'II'), (214, '.')])</spacy_tokens>
+<spacy_chunks>[('Juliet Anne Prowse', 0, 18), ('(September', 19, 29), ('September 25, 1936', 20, 38), ('September 14, 1996', 41, 59), ('a dancer', 65, 73), ('whose four-decade career', 75, 99), ('television', 116, 126), ('South Africa', 155, 167), ('her family', 175, 185), ('World War II', 202, 214)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'WP$', 'CD', 'HYPH', 'NN', 'NN', 'VBD', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'WRB', 'PRP$', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

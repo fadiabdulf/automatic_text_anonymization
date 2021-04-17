@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Muriel Robin</title>
+<link/>https://en.wikipedia.org/wiki/Muriel_Robin
+<annotated>0</annotated>
+<originalabstract>Muriel Robin is a French actress. She won an International Emmy Award for Best Actress in 2007 and received a nomination for a César Award in 2001 and six nominations for a Molière Award.</originalabstract>
+<abstract>Muriel_Robin is a_French_actress . She won an_International_Emmy_Award for_Best_Actress in 2007 and received a_nomination for a_César_Award in 2001_and_six_nominations for a_Molière_Award .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Muriel'), (7, 'Robin'), (13, 'is'), (16, 'a'), (18, 'French'), (25, 'actress'), (32, '.'), (34, 'She'), (38, 'won'), (42, 'an'), (45, 'International'), (59, 'Emmy'), (64, 'Award'), (70, 'for'), (74, 'Best'), (79, 'Actress'), (87, 'in'), (90, '2007'), (95, 'and'), (99, 'received'), (108, 'a'), (110, 'nomination'), (121, 'for'), (125, 'a'), (127, 'César'), (133, 'Award'), (139, 'in'), (142, '2001'), (147, 'and'), (151, 'six'), (155, 'nominations'), (167, 'for'), (171, 'a'), (173, 'Molière'), (181, 'Award'), (186, '.')])</stanford_tokens>
+<opennlp_chunks>[('Muriel Robin',0, 12), ('a French actress',16, 32), ('an International Emmy Award',42, 69), ('for Best Actress',70, 86), ('a nomination',108, 120), ('a César Award',125, 138), ('2001 and six nominations',142, 166), ('a Molière Award',171, 186)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'JJS', 'NN', 'IN', 'CD', 'CC', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'CD', 'CC', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Muriel'), (7, 'Robin'), (13, 'is'), (16, 'a'), (18, 'French'), (25, 'actress'), (32, '.'), (34, 'She'), (38, 'won'), (42, 'an'), (45, 'International'), (59, 'Emmy'), (64, 'Award'), (70, 'for'), (74, 'Best'), (79, 'Actress'), (87, 'in'), (90, '2007'), (95, 'and'), (99, 'received'), (108, 'a'), (110, 'nomination'), (121, 'for'), (125, 'a'), (127, 'César'), (133, 'Award'), (139, 'in'), (142, '2001'), (147, 'and'), (151, 'six'), (155, 'nominations'), (167, 'for'), (171, 'a'), (173, 'Molière'), (181, 'Award'), (186, '.')])</spacy_tokens>
+<spacy_chunks>[('Muriel Robin', 0, 12), ('a French actress', 16, 32), ('an International Emmy Award', 42, 69), ('International Emmy Award for Best Actress', 45, 86), ('a nomination', 108, 120), ('a César Award', 125, 138), ('nominations', 155, 166), ('a Molière Award', 171, 186)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

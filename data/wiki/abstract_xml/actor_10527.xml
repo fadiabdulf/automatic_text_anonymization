@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bai Ling</title>
+<link/>https://en.wikipedia.org/wiki/Bai_Ling
+<annotated>0</annotated>
+<originalabstract>Bai Ling (Chinese: 白灵, born October 10, 1966) is a Chinese-American actress known for her work in films such as The Crow, Red Corner, Crank: High Voltage, Three... Extremes, Wild Wild West, Anna and the King and Southland Tales, as well as TV shows including Entourage and Lost.</originalabstract>
+<abstract>Bai_Ling ( Chinese : 白灵 , born October_10_,_1966 ) is a_Chinese-American_actress known for her_work in films such_as The_Crow_,_Red_Corner , Crank : High_Voltage , Three ... Extremes , Wild_Wild_West , Anna and the_King_and_Southland_Tales , as_well_as TV_shows including Entourage and Lost .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bai'), (4, 'Ling'), (9, '('), (10, 'Chinese'), (17, ':'), (19, '白灵'), (21, ','), (23, 'born'), (28, 'October'), (36, '10'), (38, ','), (40, '1966'), (44, ')'), (46, 'is'), (49, 'a'), (51, 'Chinese-American'), (68, 'actress'), (76, 'known'), (82, 'for'), (86, 'her'), (90, 'work'), (95, 'in'), (98, 'films'), (104, 'such'), (109, 'as'), (112, 'The'), (116, 'Crow'), (120, ','), (122, 'Red'), (126, 'Corner'), (132, ','), (134, 'Crank'), (139, ':'), (141, 'High'), (146, 'Voltage'), (153, ','), (155, 'Three'), (160, '...'), (164, 'Extremes'), (172, ','), (174, 'Wild'), (179, 'Wild'), (184, 'West'), (188, ','), (190, 'Anna'), (195, 'and'), (199, 'the'), (203, 'King'), (208, 'and'), (212, 'Southland'), (222, 'Tales'), (227, ','), (229, 'as'), (232, 'well'), (237, 'as'), (240, 'TV'), (243, 'shows'), (249, 'including'), (259, 'Entourage'), (269, 'and'), (273, 'Lost'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bai Ling',0, 8), ('October 10, 1966',28, 44), ('a Chinese-American actress',49, 75), ('her work',86, 94), ('such as',104, 111), ('The Crow, Red Corner',112, 132), ('High Voltage',141, 153), ('Wild Wild West',174, 188), ('the King and Southland Tales',199, 227), ('as well as',229, 239), ('TV shows',240, 248)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', 'CD', ',', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', ',', 'NNP', 'NN', ',', 'NNP', ':', 'NNP', 'NNP', ',', 'CD', ':', 'NNS', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CC', 'DT', 'NNP', 'CC', 'NNP', 'NNS', ',', 'RB', 'RB', 'IN', 'NN', 'NNS', 'VBG', 'NN', 'CC', 'VBN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bai'), (4, 'Ling'), (9, '('), (10, 'Chinese'), (17, ':'), (19, '白灵'), (21, ','), (23, 'born'), (28, 'October'), (36, '10'), (38, ','), (40, '1966'), (44, ')'), (46, 'is'), (49, 'a'), (51, 'Chinese'), (58, '-'), (59, 'American'), (68, 'actress'), (76, 'known'), (82, 'for'), (86, 'her'), (90, 'work'), (95, 'in'), (98, 'films'), (104, 'such'), (109, 'as'), (112, 'The'), (116, 'Crow'), (120, ','), (122, 'Red'), (126, 'Corner'), (132, ','), (134, 'Crank'), (139, ':'), (141, 'High'), (146, 'Voltage'), (153, ','), (155, 'Three'), (160, '...'), (164, 'Extremes'), (172, ','), (174, 'Wild'), (179, 'Wild'), (184, 'West'), (188, ','), (190, 'Anna'), (195, 'and'), (199, 'the'), (203, 'King'), (208, 'and'), (212, 'Southland'), (222, 'Tales'), (227, ','), (229, 'as'), (232, 'well'), (237, 'as'), (240, 'TV'), (243, 'shows'), (249, 'including'), (259, 'Entourage'), (269, 'and'), (273, 'Lost'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Bai Ling', 0, 8), ('(Chinese', 9, 17), ('October 10, 1966', 28, 44), ('a Chinese-American actress', 49, 75), ('her work', 86, 94), ('The Crow', 112, 120), ('Red Corner', 122, 132), ('Crank: High Voltage', 134, 153), ('Three... Extremes', 155, 172), ('Wild Wild West', 174, 188), ('Anna and the King', 190, 207), ('Southland Tales', 212, 227), ('TV shows', 240, 248), ('Entourage', 259, 268)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', 'CC', ',', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP', ',', 'NN', ':', 'JJ', 'NN', ',', 'CD', 'NFP', 'NNS', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CC', 'DT', 'NNP', 'CC', 'NNP', 'NNPS', ',', 'RB', 'RB', 'IN', 'NN', 'NNS', 'VBG', 'NN', 'CC', 'VBN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

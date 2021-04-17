@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Perry N. Vekroff</title>
+<link/>https://en.wikipedia.org/wiki/Perry_N._Vekroff
+<annotated>0</annotated>
+<originalabstract>Perry N. Vekroff (3 June 1881 – 3 January 1937) was an American film director, screenwriter and actor of the silent era. He directed 19 films between 1914 and 1922, including two film serials for the Universal Film Manufacturing Company and one for Pathé. He was born in Shumen, Bulgaria and died in Hollywood, California.</originalabstract>
+<abstract>Perry_N._Vekroff ( 3_June_1881 – 3_January_1937 ) was an_American_film_director , screenwriter_and_actor of the_silent_era . He directed 19_films between 1914_and_1922 , including two_film_serials for the_Universal_Film_Manufacturing_Company and one for Pathé . He was_born in Shumen , Bulgaria and died in Hollywood , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Perry'), (6, 'N.'), (9, 'Vekroff'), (17, '('), (18, '3'), (20, 'June'), (25, '1881'), (30, '–'), (32, '3'), (34, 'January'), (42, '1937'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'director'), (77, ','), (79, 'screenwriter'), (92, 'and'), (96, 'actor'), (102, 'of'), (105, 'the'), (109, 'silent'), (116, 'era'), (119, '.'), (121, 'He'), (124, 'directed'), (133, '19'), (136, 'films'), (142, 'between'), (150, '1914'), (155, 'and'), (159, '1922'), (163, ','), (165, 'including'), (175, 'two'), (179, 'film'), (184, 'serials'), (192, 'for'), (196, 'the'), (200, 'Universal'), (210, 'Film'), (215, 'Manufacturing'), (229, 'Company'), (237, 'and'), (241, 'one'), (245, 'for'), (249, 'Pathé'), (254, '.'), (256, 'He'), (259, 'was'), (263, 'born'), (268, 'in'), (271, 'Shumen'), (277, ','), (279, 'Bulgaria'), (288, 'and'), (292, 'died'), (297, 'in'), (300, 'Hollywood'), (309, ','), (311, 'California'), (321, '.')])</stanford_tokens>
+<opennlp_chunks>[('Perry N. Vekroff',0, 16), ('3 June 1881',18, 29), ('3 January 1937',32, 46), ('an American film director',52, 77), ('screenwriter and actor',79, 101), ('the silent era',105, 119), ('19 films',133, 141), ('1914 and 1922',150, 163), ('two film serials',175, 191), ('the Universal Film Manufacturing Company',196, 236), ('was born',259, 267)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', 'CC', 'CD', 'IN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Perry'), (6, 'N.'), (9, 'Vekroff'), (17, '('), (18, '3'), (20, 'June'), (25, '1881'), (30, '–'), (32, '3'), (34, 'January'), (42, '1937'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'director'), (77, ','), (79, 'screenwriter'), (92, 'and'), (96, 'actor'), (102, 'of'), (105, 'the'), (109, 'silent'), (116, 'era'), (119, '.'), (121, 'He'), (124, 'directed'), (133, '19'), (136, 'films'), (142, 'between'), (150, '1914'), (155, 'and'), (159, '1922'), (163, ','), (165, 'including'), (175, 'two'), (179, 'film'), (184, 'serials'), (192, 'for'), (196, 'the'), (200, 'Universal'), (210, 'Film'), (215, 'Manufacturing'), (229, 'Company'), (237, 'and'), (241, 'one'), (245, 'for'), (249, 'Pathé'), (254, '.'), (256, 'He'), (259, 'was'), (263, 'born'), (268, 'in'), (271, 'Shumen'), (277, ','), (279, 'Bulgaria'), (288, 'and'), (292, 'died'), (297, 'in'), (300, 'Hollywood'), (309, ','), (311, 'California'), (321, '.')])</spacy_tokens>
+<spacy_chunks>[('Perry N. Vekroff', 0, 16), ('3 June 1881', 18, 29), ('3 January 1937', 32, 46), ('an American film director', 52, 77), ('screenwriter', 79, 91), ('the silent era', 105, 119), ('19 films', 133, 141), ('two film serials', 175, 191), ('the Universal Film Manufacturing Company', 196, 236), ('Shumen', 271, 277), ('Bulgaria', 279, 287), ('Hollywood, California', 300, 321)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', 'CC', 'CD', 'IN', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

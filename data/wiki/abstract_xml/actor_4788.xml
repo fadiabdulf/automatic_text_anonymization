@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Mower</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Mower
+<annotated>0</annotated>
+<originalabstract>Jack Mower (September 5, 1890 – January 6, 1965) was an American film actor. He appeared in 526 films between 1914 and 1962. He was born in Honolulu and died in Hollywood.</originalabstract>
+<abstract>Jack_Mower ( September_5_,_1890 – January_6_,_1965 ) was an_American_film_actor . He appeared in 526_films between 1914_and_1962 . He was_born in Honolulu and died in Hollywood .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jack'), (5, 'Mower'), (11, '('), (12, 'September'), (22, '5'), (23, ','), (25, '1890'), (30, '–'), (32, 'January'), (40, '6'), (41, ','), (43, '1965'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actor'), (75, '.'), (77, 'He'), (80, 'appeared'), (89, 'in'), (92, '526'), (96, 'films'), (102, 'between'), (110, '1914'), (115, 'and'), (119, '1962'), (123, '.'), (125, 'He'), (128, 'was'), (132, 'born'), (137, 'in'), (140, 'Honolulu'), (149, 'and'), (153, 'died'), (158, 'in'), (161, 'Hollywood'), (170, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jack Mower',0, 10), ('September 5, 1890',12, 29), ('January 6, 1965',32, 47), ('an American film actor',53, 75), ('526 films',92, 101), ('1914 and 1962',110, 123), ('was born',128, 136)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jack'), (5, 'Mower'), (11, '('), (12, 'September'), (22, '5'), (23, ','), (25, '1890'), (30, '–'), (32, 'January'), (40, '6'), (41, ','), (43, '1965'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actor'), (75, '.'), (77, 'He'), (80, 'appeared'), (89, 'in'), (92, '526'), (96, 'films'), (102, 'between'), (110, '1914'), (115, 'and'), (119, '1962'), (123, '.'), (125, 'He'), (128, 'was'), (132, 'born'), (137, 'in'), (140, 'Honolulu'), (149, 'and'), (153, 'died'), (158, 'in'), (161, 'Hollywood'), (170, '.')])</spacy_tokens>
+<spacy_chunks>[('Jack Mower', 0, 10), ('September 5, 1890', 12, 29), ('January 6, 1965', 32, 47), ('an American film actor', 53, 75), ('526 films', 92, 101), ('Honolulu', 140, 148), ('Hollywood', 161, 170)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

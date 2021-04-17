@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Amanda Bearse</title>
+<link/>https://en.wikipedia.org/wiki/Amanda_Bearse
+<annotated>0</annotated>
+<originalabstract>Amanda Bearse (born August 9, 1958) is an American actress, director and comedian best known for her role as neighbor Marcy Rhoades/D'Arcy on Married... with Children, a sitcom that aired in the United States from 1987 to 1997, and for her performance in the 1985 horror film Fright Night opposite William Ragsdale.</originalabstract>
+<abstract>Amanda_Bearse ( born August_9_,_1958 ) is an_American_actress_,_director_and_comedian best_known for her_role as neighbor_Marcy_Rhoades/D_'_Arcy on Married ... with Children , a_sitcom that aired in the_United_States from 1987 to 1997 , and for her_performance in the_1985_horror_film_Fright_Night_opposite_William_Ragsdale .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Amanda'), (7, 'Bearse'), (14, '('), (15, 'born'), (20, 'August'), (27, '9'), (28, ','), (30, '1958'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (58, ','), (60, 'director'), (69, 'and'), (73, 'comedian'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'her'), (101, 'role'), (106, 'as'), (109, 'neighbor'), (118, 'Marcy'), (124, 'Rhoades/D'), (133, '\''), (134, 'Arcy'), (139, 'on'), (142, 'Married'), (149, '...'), (153, 'with'), (158, 'Children'), (166, ','), (168, 'a'), (170, 'sitcom'), (177, 'that'), (182, 'aired'), (188, 'in'), (191, 'the'), (195, 'United'), (202, 'States'), (209, 'from'), (214, '1987'), (219, 'to'), (222, '1997'), (226, ','), (228, 'and'), (232, 'for'), (236, 'her'), (240, 'performance'), (252, 'in'), (255, 'the'), (259, '1985'), (264, 'horror'), (271, 'film'), (276, 'Fright'), (283, 'Night'), (289, 'opposite'), (298, 'William'), (306, 'Ragsdale'), (314, '.')])</stanford_tokens>
+<opennlp_chunks>[('Amanda Bearse',0, 13), ('August 9, 1958',20, 34), ('an American actress, director and comedian',39, 81), ('best known',82, 92), ('her role',97, 105), ('neighbor Marcy Rhoades/D\'Arcy',109, 138), ('a sitcom',168, 176), ('the United States',191, 208), ('her performance',236, 251), ('the 1985 horror film Fright Night opposite William Ragsdale',255, 314)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', '``', 'NNP', 'IN', 'NNP', ':', 'IN', 'NNP', ',', 'DT', 'NN', 'WDT', 'VBD', 'IN', 'DT', 'NNP', 'NNPS', 'IN', 'CD', 'TO', 'CD', ',', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', 'NNP', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Amanda'), (7, 'Bearse'), (14, '('), (15, 'born'), (20, 'August'), (27, '9'), (28, ','), (30, '1958'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (58, ','), (60, 'director'), (69, 'and'), (73, 'comedian'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'her'), (101, 'role'), (106, 'as'), (109, 'neighbor'), (118, 'Marcy'), (124, 'Rhoades'), (131, '/'), (132, "D'Arcy"), (139, 'on'), (142, 'Married'), (149, '...'), (153, 'with'), (158, 'Children'), (166, ','), (168, 'a'), (170, 'sitcom'), (177, 'that'), (182, 'aired'), (188, 'in'), (191, 'the'), (195, 'United'), (202, 'States'), (209, 'from'), (214, '1987'), (219, 'to'), (222, '1997'), (226, ','), (228, 'and'), (232, 'for'), (236, 'her'), (240, 'performance'), (252, 'in'), (255, 'the'), (259, '1985'), (264, 'horror'), (271, 'film'), (276, 'Fright'), (283, 'Night'), (289, 'opposite'), (298, 'William'), (306, 'Ragsdale'), (314, '.')])</spacy_tokens>
+<spacy_chunks>[('Amanda Bearse', 0, 13), ('August 9, 1958', 20, 34), ('an American actress', 39, 58), ('director', 60, 68), ('comedian', 73, 81), ('her role', 97, 105), ("neighbor Marcy Rhoades/D'Arcy", 109, 138), ('Married... with Children', 142, 166), ('a sitcom', 168, 176), ('the United States', 191, 208), ('her performance', 236, 251), ('the 1985 horror film', 255, 275), ('Fright Night', 276, 288), ('William Ragsdale', 298, 314)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'SYM', 'NNP', 'IN', 'NNP', ':', 'IN', 'NNP', ',', 'DT', 'NN', 'WDT', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'CD', ',', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dean Jagger</title>
+<link/>https://en.wikipedia.org/wiki/Dean_Jagger
+<annotated>0</annotated>
+<originalabstract>Dean Jeffries Jagger (November 7, 1903 – February 5, 1991) was an American film, stage and television actor who won the Academy Award for Best Supporting Actor for his role in Henry King's Twelve O'Clock High (1949).</originalabstract>
+<abstract>Dean_Jeffries_Jagger ( November_7_,_1903 – February_5_,_1991 ) was an_American_film_,_stage_and_television_actor who won the_Academy_Award for Best Supporting_Actor for his_role in Henry_King 's_Twelve_O'Clock_High ( 1949 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dean'), (5, 'Jeffries'), (14, 'Jagger'), (21, '('), (22, 'November'), (31, '7'), (32, ','), (34, '1903'), (39, '–'), (41, 'February'), (50, '5'), (51, ','), (53, '1991'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'film'), (79, ','), (81, 'stage'), (87, 'and'), (91, 'television'), (102, 'actor'), (108, 'who'), (112, 'won'), (116, 'the'), (120, 'Academy'), (128, 'Award'), (134, 'for'), (138, 'Best'), (143, 'Supporting'), (154, 'Actor'), (160, 'for'), (164, 'his'), (168, 'role'), (173, 'in'), (176, 'Henry'), (182, 'King'), (186, '\'s'), (189, 'Twelve'), (196, 'O\'Clock'), (204, 'High'), (209, '('), (210, '1949'), (214, ')'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dean Jeffries Jagger',0, 20), ('November 7, 1903',22, 38), ('February 5, 1991',41, 57), ('an American film, stage and television actor',63, 107), ('the Academy Award',116, 133), ('Supporting Actor',143, 159), ('his role',164, 172), ('Henry King',176, 186), ('\'s Twelve O\'Clock High',186, 208)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'CD', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dean'), (5, 'Jeffries'), (14, 'Jagger'), (21, '('), (22, 'November'), (31, '7'), (32, ','), (34, '1903'), (39, '–'), (41, 'February'), (50, '5'), (51, ','), (53, '1991'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'film'), (79, ','), (81, 'stage'), (87, 'and'), (91, 'television'), (102, 'actor'), (108, 'who'), (112, 'won'), (116, 'the'), (120, 'Academy'), (128, 'Award'), (134, 'for'), (138, 'Best'), (143, 'Supporting'), (154, 'Actor'), (160, 'for'), (164, 'his'), (168, 'role'), (173, 'in'), (176, 'Henry'), (182, 'King'), (186, "'s"), (189, 'Twelve'), (196, "O'Clock"), (204, 'High'), (209, '('), (210, '1949'), (214, ')'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Dean Jeffries Jagger', 0, 20), ('(November', 21, 30), ('November 7, 1903', 22, 38), ('February 5, 1991', 41, 57), ('an American film', 63, 79), ('television actor', 91, 107), ('the Academy Award', 116, 133), ('Academy Award for Best Supporting Actor', 120, 159), ('his role', 164, 172), ("Henry King's Twelve O'Clock High", 176, 208)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'CD', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Margaret Mann</title>
+<link/>https://en.wikipedia.org/wiki/Margaret_Mann
+<annotated>0</annotated>
+<originalabstract>Margaret Mann (4 April 1868, in Aberdeen, Scotland – 4 February 1941, in Los Angeles, California), was a Scottish-American actress.</originalabstract>
+<abstract>Margaret_Mann ( 4_April_1868 , in Aberdeen , Scotland – 4_February_1941 , in Los_Angeles , California ) , was a_Scottish-American_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Margaret'), (9, 'Mann'), (14, '('), (15, '4'), (17, 'April'), (23, '1868'), (27, ','), (29, 'in'), (32, 'Aberdeen'), (40, ','), (42, 'Scotland'), (51, '–'), (53, '4'), (55, 'February'), (64, '1941'), (68, ','), (70, 'in'), (73, 'Los'), (77, 'Angeles'), (84, ','), (86, 'California'), (96, ')'), (97, ','), (99, 'was'), (103, 'a'), (105, 'Scottish-American'), (123, 'actress'), (130, '.')])</stanford_tokens>
+<opennlp_chunks>[('Margaret Mann',0, 13), ('4 April 1868',15, 27), ('4 February 1941',53, 68), ('Los Angeles',73, 84), ('a Scottish-American actress',103, 130)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', ',', 'NNP', ':', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Margaret'), (9, 'Mann'), (14, '('), (15, '4'), (17, 'April'), (23, '1868'), (27, ','), (29, 'in'), (32, 'Aberdeen'), (40, ','), (42, 'Scotland'), (51, '–'), (53, '4'), (55, 'February'), (64, '1941'), (68, ','), (70, 'in'), (73, 'Los'), (77, 'Angeles'), (84, ','), (86, 'California'), (96, ')'), (97, ','), (99, 'was'), (103, 'a'), (105, 'Scottish'), (113, '-'), (114, 'American'), (123, 'actress'), (130, '.')])</spacy_tokens>
+<spacy_chunks>[('Margaret Mann', 0, 13), ('4 April 1868', 15, 27), ('Aberdeen', 32, 40), ('Scotland', 42, 50), ('4 February 1941', 53, 68), ('Los Angeles', 73, 84), ('California', 86, 96), ('a Scottish-American actress', 103, 130)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

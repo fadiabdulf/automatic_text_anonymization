@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Thérèse Quentin</title>
+<link/>https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Quentin
+<annotated>0</annotated>
+<originalabstract>Thérèse Quentin (5 July 1929 – 20 February 2015) was a French actress. She was married to the actor and stage director Marcel Cuvelier (1924–2015), with whom she had a daughter, actress Marie Cuvelier.</originalabstract>
+<abstract>Thérèse_Quentin ( 5_July_1929 – 20_February_2015 ) was a_French_actress . She was_married to the_actor_and_stage_director_Marcel_Cuvelier_(_1924 – 2015_) , with whom she had a_daughter , actress_Marie_Cuvelier .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Thérèse'), (8, 'Quentin'), (16, '('), (17, '5'), (19, 'July'), (24, '1929'), (29, '–'), (31, '20'), (34, 'February'), (43, '2015'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'actress'), (69, '.'), (71, 'She'), (75, 'was'), (79, 'married'), (87, 'to'), (90, 'the'), (94, 'actor'), (100, 'and'), (104, 'stage'), (110, 'director'), (119, 'Marcel'), (126, 'Cuvelier'), (135, '('), (136, '1924'), (140, '–'), (141, '2015'), (145, ')'), (146, ','), (148, 'with'), (153, 'whom'), (158, 'she'), (162, 'had'), (166, 'a'), (168, 'daughter'), (176, ','), (178, 'actress'), (186, 'Marie'), (192, 'Cuvelier'), (200, '.')])</stanford_tokens>
+<opennlp_chunks>[('Thérèse Quentin',0, 15), ('5 July 1929',17, 28), ('20 February 2015',31, 47), ('a French actress',53, 69), ('was married',75, 86), ('the actor and stage director Marcel Cuvelier (1924',90, 140), ('2015)',141, 146), ('a daughter',166, 176), ('actress Marie Cuvelier',178, 200)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'DT', 'NN', 'CC', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'IN', 'WP', 'PRP', 'VBD', 'DT', 'NN', ',', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Thérèse'), (8, 'Quentin'), (16, '('), (17, '5'), (19, 'July'), (24, '1929'), (29, '–'), (31, '20'), (34, 'February'), (43, '2015'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'actress'), (69, '.'), (71, 'She'), (75, 'was'), (79, 'married'), (87, 'to'), (90, 'the'), (94, 'actor'), (100, 'and'), (104, 'stage'), (110, 'director'), (119, 'Marcel'), (126, 'Cuvelier'), (135, '('), (136, '1924–2015'), (145, ')'), (146, ','), (148, 'with'), (153, 'whom'), (158, 'she'), (162, 'had'), (166, 'a'), (168, 'daughter'), (176, ','), (178, 'actress'), (186, 'Marie'), (192, 'Cuvelier'), (200, '.')])</spacy_tokens>
+<spacy_chunks>[('Thérèse Quentin', 0, 15), ('5 July 1929', 17, 28), ('20 February 2015', 31, 47), ('a French actress', 53, 69), ('the actor', 90, 99), ('stage director Marcel Cuvelier', 104, 134), ('a daughter', 166, 176), ('actress Marie Cuvelier', 178, 200)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'NN', 'CC', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WP', 'PRP', 'VBD', 'DT', 'NN', ',', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

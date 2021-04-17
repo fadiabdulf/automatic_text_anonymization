@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vincent Gil</title>
+<link/>https://en.wikipedia.org/wiki/Vincent_Gil
+<annotated>0</annotated>
+<originalabstract>Vincent Gil (born 1939, Sydney) is an Australian film and television actor best known for his portrayal of the character Nightrider in the 1979 film Mad Max, and Stone. Gil has also starred in many Australian television shows such as Matlock Police, Neighbours, A Country Practice and Prisoner.</originalabstract>
+<abstract>Vincent_Gil ( born_1939 , Sydney ) is an_Australian_film_and_television_actor best_known for his_portrayal of the_character_Nightrider in the_1979_film_Mad_Max , and Stone . Gil has_also_starred in many_Australian_television_shows such_as Matlock_Police , Neighbours , A_Country_Practice_and_Prisoner .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vincent'), (8, 'Gil'), (12, '('), (13, 'born'), (18, '1939'), (22, ','), (24, 'Sydney'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'Australian'), (49, 'film'), (54, 'and'), (58, 'television'), (69, 'actor'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'portrayal'), (104, 'of'), (107, 'the'), (111, 'character'), (121, 'Nightrider'), (132, 'in'), (135, 'the'), (139, '1979'), (144, 'film'), (149, 'Mad'), (153, 'Max'), (156, ','), (158, 'and'), (162, 'Stone'), (167, '.'), (169, 'Gil'), (173, 'has'), (177, 'also'), (182, 'starred'), (190, 'in'), (193, 'many'), (198, 'Australian'), (209, 'television'), (220, 'shows'), (226, 'such'), (231, 'as'), (234, 'Matlock'), (242, 'Police'), (248, ','), (250, 'Neighbours'), (260, ','), (262, 'A'), (264, 'Country'), (272, 'Practice'), (281, 'and'), (285, 'Prisoner'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vincent Gil',0, 11), ('born 1939',13, 22), ('an Australian film and television actor',35, 74), ('best known',75, 85), ('his portrayal',90, 103), ('the character Nightrider',107, 131), ('the 1979 film Mad Max',135, 156), ('has also starred',173, 189), ('many Australian television shows',193, 225), ('such as',226, 233), ('Matlock Police',234, 248), ('A Country Practice and Prisoner',262, 293)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', ',', 'CC', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'JJ', 'NN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'DT', 'NN', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vincent'), (8, 'Gil'), (12, '('), (13, 'born'), (18, '1939'), (22, ','), (24, 'Sydney'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'Australian'), (49, 'film'), (54, 'and'), (58, 'television'), (69, 'actor'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'portrayal'), (104, 'of'), (107, 'the'), (111, 'character'), (121, 'Nightrider'), (132, 'in'), (135, 'the'), (139, '1979'), (144, 'film'), (149, 'Mad'), (153, 'Max'), (156, ','), (158, 'and'), (162, 'Stone'), (167, '.'), (169, 'Gil'), (173, 'has'), (177, 'also'), (182, 'starred'), (190, 'in'), (193, 'many'), (198, 'Australian'), (209, 'television'), (220, 'shows'), (226, 'such'), (231, 'as'), (234, 'Matlock'), (242, 'Police'), (248, ','), (250, 'Neighbours'), (260, ','), (262, 'A'), (264, 'Country'), (272, 'Practice'), (281, 'and'), (285, 'Prisoner'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('Vincent Gil', 0, 11), ('Sydney', 24, 30), ('an Australian film and television actor', 35, 74), ('his portrayal', 90, 103), ('the character', 107, 120), ('Nightrider', 121, 131), ('the 1979 film', 135, 148), ('Mad Max', 149, 156), ('many Australian television shows', 193, 225), ('Matlock Police', 234, 248), ('Neighbours', 250, 260), ('A Country Practice', 262, 280), ('Prisoner', 285, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', ',', 'CC', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'JJ', 'NN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', ',', 'NNPS', ',', 'DT', 'NNP', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

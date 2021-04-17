@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elissa Landi</title>
+<link/>https://en.wikipedia.org/wiki/Elissa_Landi
+<annotated>0</annotated>
+<originalabstract>Elissa Landi (born Elisabeth Marie Christine Kühnelt, December 6, 1904 – October 21, 1948) was an Italian-born Austrian actress who was popular in Hollywood films of the 1920s and 1930s.  She was noted for her aristocratic bearing.</originalabstract>
+<abstract>Elissa_Landi ( born Elisabeth_Marie_Christine_Kühnelt , December_6_,_1904 – October_21_,_1948 ) was an_Italian-born_Austrian_actress who was popular in Hollywood_films of the_1920s_and_1930s . She was_noted for her_aristocratic_bearing .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elissa'), (7, 'Landi'), (13, '('), (14, 'born'), (19, 'Elisabeth'), (29, 'Marie'), (35, 'Christine'), (45, 'Kühnelt'), (52, ','), (54, 'December'), (63, '6'), (64, ','), (66, '1904'), (71, '–'), (73, 'October'), (81, '21'), (83, ','), (85, '1948'), (89, ')'), (91, 'was'), (95, 'an'), (98, 'Italian-born'), (111, 'Austrian'), (120, 'actress'), (128, 'who'), (132, 'was'), (136, 'popular'), (144, 'in'), (147, 'Hollywood'), (157, 'films'), (163, 'of'), (166, 'the'), (170, '1920s'), (176, 'and'), (180, '1930s'), (185, '.'), (188, 'She'), (192, 'was'), (196, 'noted'), (202, 'for'), (206, 'her'), (210, 'aristocratic'), (223, 'bearing'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elissa Landi',0, 12), ('Elisabeth Marie Christine Kühnelt',19, 52), ('December 6, 1904',54, 70), ('October 21, 1948',73, 89), ('an Italian-born Austrian actress',95, 127), ('Hollywood films',147, 162), ('the 1920s and 1930s',166, 185), ('was noted',192, 201), ('her aristocratic bearing',206, 230)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'WP', 'VBD', 'JJ', 'IN', 'NNP', 'NNS', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elissa'), (7, 'Landi'), (13, '('), (14, 'born'), (19, 'Elisabeth'), (29, 'Marie'), (35, 'Christine'), (45, 'Kühnelt'), (52, ','), (54, 'December'), (63, '6'), (64, ','), (66, '1904'), (71, '–'), (73, 'October'), (81, '21'), (83, ','), (85, '1948'), (89, ')'), (91, 'was'), (95, 'an'), (98, 'Italian'), (105, '-'), (106, 'born'), (111, 'Austrian'), (120, 'actress'), (128, 'who'), (132, 'was'), (136, 'popular'), (144, 'in'), (147, 'Hollywood'), (157, 'films'), (163, 'of'), (166, 'the'), (170, '1920s'), (176, 'and'), (180, '1930s'), (185, '.'), (188, 'She'), (192, 'was'), (196, 'noted'), (202, 'for'), (206, 'her'), (210, 'aristocratic'), (223, 'bearing'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[('Elissa Landi', 0, 12), ('Elisabeth Marie Christine Kühnelt', 19, 52), ('December 6, 1904', 54, 70), ('October 21, 1948', 73, 89), ('an Italian-born Austrian actress', 95, 127), ('Hollywood films', 147, 162), ('the 1920s', 166, 175), ('her aristocratic bearing', 206, 230)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'WP', 'VBD', 'JJ', 'IN', 'NNP', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

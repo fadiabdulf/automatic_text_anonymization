@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Scott Beach</title>
+<link/>https://en.wikipedia.org/wiki/Scott_Beach
+<annotated>0</annotated>
+<originalabstract>Scott Beach (January 13, 1931 – February 13, 1996) was an American actor, writer, and disc jockey, best known for his performance in the 1960s-themed 1973 film American Graffiti.</originalabstract>
+<abstract>Scott_Beach ( January_13_,_1931 – February_13_,_1996 ) was an_American_actor , writer , and disc_jockey , best_known for his_performance in the_1960s-themed_1973_film_American_Graffiti .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Scott'), (6, 'Beach'), (12, '('), (13, 'January'), (21, '13'), (23, ','), (25, '1931'), (30, '–'), (32, 'February'), (41, '13'), (43, ','), (45, '1996'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, ','), (74, 'writer'), (80, ','), (82, 'and'), (86, 'disc'), (91, 'jockey'), (97, ','), (99, 'best'), (104, 'known'), (110, 'for'), (114, 'his'), (118, 'performance'), (130, 'in'), (133, 'the'), (137, '1960s-themed'), (150, '1973'), (155, 'film'), (160, 'American'), (169, 'Graffiti'), (177, '.')])</stanford_tokens>
+<opennlp_chunks>[('Scott Beach',0, 11), ('January 13, 1931',13, 29), ('February 13, 1996',32, 49), ('an American actor',55, 72), ('disc jockey',86, 97), ('best known',99, 109), ('his performance',114, 129), ('the 1960s-themed 1973 film American Graffiti',133, 177)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'CD', 'NN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Scott'), (6, 'Beach'), (12, '('), (13, 'January'), (21, '13'), (23, ','), (25, '1931'), (30, '–'), (32, 'February'), (41, '13'), (43, ','), (45, '1996'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, ','), (74, 'writer'), (80, ','), (82, 'and'), (86, 'disc'), (91, 'jockey'), (97, ','), (99, 'best'), (104, 'known'), (110, 'for'), (114, 'his'), (118, 'performance'), (130, 'in'), (133, 'the'), (137, '1960s'), (142, '-'), (143, 'themed'), (150, '1973'), (155, 'film'), (160, 'American'), (169, 'Graffiti'), (177, '.')])</spacy_tokens>
+<spacy_chunks>[('Scott Beach', 0, 11), ('(January', 12, 20), ('January 13, 1931', 13, 29), ('February 13, 1996', 32, 49), ('an American actor', 55, 72), ('Writer', 74, 80), ('disc jockey', 86, 97), ('his performance', 114, 129), ('the 1960s-themed 1973 film', 133, 159), ('American Graffiti', 160, 177)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'HYPH', 'VBN', 'CD', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

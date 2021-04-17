@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Laidman Browne</title>
+<link/>https://en.wikipedia.org/wiki/Laidman_Browne
+<annotated>0</annotated>
+<originalabstract>Laidman Browne (13 September 1896 - 11 September 1961) was an English radio and television actor. In 1949 he was the narrator of Arthur Conan Doyle's Sherlock Holmes story "The Speckled Band", the first book read on the BBC's long-running series Book at Bedtime.</originalabstract>
+<abstract>Laidman_Browne ( 13_September_1896 - 11_September_1961 ) was an_English_radio_and_television_actor . In 1949 he was the_narrator of Arthur_Conan_Doyle 's_Sherlock_Holmes_story " The_Speckled_Band " , the_first_book read on the_BBC 's_long-running_series Book at Bedtime .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Laidman'), (8, 'Browne'), (15, '('), (16, '13'), (19, 'September'), (29, '1896'), (34, '-'), (36, '11'), (39, 'September'), (49, '1961'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'English'), (70, 'radio'), (76, 'and'), (80, 'television'), (91, 'actor'), (96, '.'), (98, 'In'), (101, '1949'), (106, 'he'), (109, 'was'), (113, 'the'), (117, 'narrator'), (126, 'of'), (129, 'Arthur'), (136, 'Conan'), (142, 'Doyle'), (147, '\'s'), (150, 'Sherlock'), (159, 'Holmes'), (166, 'story'), (172, '"'), (173, 'The'), (177, 'Speckled'), (186, 'Band'), (190, '"'), (191, ','), (193, 'the'), (197, 'first'), (203, 'book'), (208, 'read'), (213, 'on'), (216, 'the'), (220, 'BBC'), (223, '\'s'), (226, 'long-running'), (239, 'series'), (246, 'Book'), (251, 'at'), (254, 'Bedtime'), (261, '.')])</stanford_tokens>
+<opennlp_chunks>[('Laidman Browne',0, 14), ('13 September 1896',16, 33), ('11 September 1961',36, 53), ('an English radio and television actor',59, 96), ('the narrator',113, 125), ('Arthur Conan Doyle',129, 147), ('\'s Sherlock Holmes story',147, 171), ('The Speckled Band',173, 190), ('the first book',193, 207), ('the BBC',216, 223), ('\'s long-running series',223, 245)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'CD', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'NN', '``', 'DT', 'NNP', 'NNP', '\'\'', ',', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'DT', 'NNP', 'POS', 'JJ', 'NN', 'VB', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Laidman'), (8, 'Browne'), (15, '('), (16, '13'), (19, 'September'), (29, '1896'), (34, '-'), (36, '11'), (39, 'September'), (49, '1961'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'English'), (70, 'radio'), (76, 'and'), (80, 'television'), (91, 'actor'), (96, '.'), (98, 'In'), (101, '1949'), (106, 'he'), (109, 'was'), (113, 'the'), (117, 'narrator'), (126, 'of'), (129, 'Arthur'), (136, 'Conan'), (142, 'Doyle'), (147, "'s"), (150, 'Sherlock'), (159, 'Holmes'), (166, 'story'), (172, '"'), (173, 'The'), (177, 'Speckled'), (186, 'Band'), (190, '"'), (191, ','), (193, 'the'), (197, 'first'), (203, 'book'), (208, 'read'), (213, 'on'), (216, 'the'), (220, 'BBC'), (223, "'s"), (226, 'long'), (230, '-'), (231, 'running'), (239, 'series'), (246, 'Book'), (251, 'at'), (254, 'Bedtime'), (261, '.')])</spacy_tokens>
+<spacy_chunks>[('Laidman Browne', 0, 14), ('(13 September', 15, 28), ('13 September 1896', 16, 33), ('11 September 1961', 36, 53), ('an English radio and television actor', 59, 96), ('the narrator', 113, 125), ("Arthur Conan Doyle's Sherlock Holmes story", 129, 171), ('"The Speckled Band', 172, 190), ('the first book', 193, 207), ("the BBC's long-running series", 216, 245), ('Bedtime', 254, 261)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'CD', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'NN', '``', 'DT', 'NNP', 'NNP', "''", ',', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'DT', 'NNP', 'POS', 'RB', 'HYPH', 'VBG', 'NN', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

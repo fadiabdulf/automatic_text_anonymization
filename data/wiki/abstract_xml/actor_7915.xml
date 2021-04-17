@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leon Cortez</title>
+<link/>https://en.wikipedia.org/wiki/Leon_Cortez
+<annotated>0</annotated>
+<originalabstract>Leon Cortez (27 May 1898 – 31 December 1970) was a British musician and actor who appeared regularly on stage and in films and television in a career that spanned five decades.</originalabstract>
+<abstract>Leon_Cortez ( 27_May_1898 – 31_December_1970 ) was a_British_musician and actor who appeared regularly on stage and in films_and_television in a_career that spanned five_decades .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leon'), (5, 'Cortez'), (12, '('), (13, '27'), (16, 'May'), (20, '1898'), (25, '–'), (27, '31'), (30, 'December'), (39, '1970'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'British'), (59, 'musician'), (68, 'and'), (72, 'actor'), (78, 'who'), (82, 'appeared'), (91, 'regularly'), (101, 'on'), (104, 'stage'), (110, 'and'), (114, 'in'), (117, 'films'), (123, 'and'), (127, 'television'), (138, 'in'), (141, 'a'), (143, 'career'), (150, 'that'), (155, 'spanned'), (163, 'five'), (168, 'decades'), (175, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leon Cortez',0, 11), ('27 May 1898',13, 24), ('31 December 1970',27, 43), ('a British musician',49, 67), ('films and television',117, 137), ('a career',141, 149), ('five decades',163, 175)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'RB', 'IN', 'NN', 'CC', 'IN', 'NNS', 'CC', 'NN', 'IN', 'DT', 'NN', 'WDT', 'VBD', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leon'), (5, 'Cortez'), (12, '('), (13, '27'), (16, 'May'), (20, '1898'), (25, '–'), (27, '31'), (30, 'December'), (39, '1970'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'British'), (59, 'musician'), (68, 'and'), (72, 'actor'), (78, 'who'), (82, 'appeared'), (91, 'regularly'), (101, 'on'), (104, 'stage'), (110, 'and'), (114, 'in'), (117, 'films'), (123, 'and'), (127, 'television'), (138, 'in'), (141, 'a'), (143, 'career'), (150, 'that'), (155, 'spanned'), (163, 'five'), (168, 'decades'), (175, '.')])</spacy_tokens>
+<spacy_chunks>[('Leon Cortez', 0, 11), ('(27 May', 12, 19), ('27 May 1898', 13, 24), ('31 December 1970', 27, 43), ('a British musician', 49, 67), ('television', 127, 137), ('a career', 141, 149)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'RB', 'IN', 'NN', 'CC', 'IN', 'NNS', 'CC', 'NN', 'IN', 'DT', 'NN', 'WDT', 'VBD', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

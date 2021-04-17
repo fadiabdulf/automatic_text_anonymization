@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert Mukes</title>
+<link/>https://en.wikipedia.org/wiki/Robert_Mukes
+<annotated>0</annotated>
+<originalabstract>Robert Allen Mukes (born March 14, 1964) is an American actor living in Los Angeles, California, United States.</originalabstract>
+<abstract>Robert_Allen_Mukes ( born March_14_,_1964 ) is an_American_actor_living in Los_Angeles , California , United_States .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Allen'), (13, 'Mukes'), (19, '('), (20, 'born'), (25, 'March'), (31, '14'), (33, ','), (35, '1964'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (62, 'living'), (69, 'in'), (72, 'Los'), (76, 'Angeles'), (83, ','), (85, 'California'), (95, ','), (97, 'United'), (104, 'States'), (110, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Allen Mukes',0, 18), ('March 14, 1964',25, 39), ('an American actor living',44, 68), ('Los Angeles',72, 83), ('United States',97, 110)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Allen'), (13, 'Mukes'), (19, '('), (20, 'born'), (25, 'March'), (31, '14'), (33, ','), (35, '1964'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (62, 'living'), (69, 'in'), (72, 'Los'), (76, 'Angeles'), (83, ','), (85, 'California'), (95, ','), (97, 'United'), (104, 'States'), (110, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Allen Mukes', 0, 18), ('March 14, 1964', 25, 39), ('an American actor', 44, 61), ('Los Angeles, California', 72, 95), ('United States', 97, 110)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBG', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

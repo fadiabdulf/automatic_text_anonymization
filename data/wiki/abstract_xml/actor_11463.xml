@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Terrayne Crawford</title>
+<link/>https://en.wikipedia.org/wiki/Terrayne_Crawford
+<annotated>0</annotated>
+<originalabstract>Terrayne Crawford (sometimes credited as Terry Crawford born February 13, 1945) is an American actress known for her role as Beth Chavez and Edith Collins on the popular ABC-TV soap opera Dark Shadows from 1968 to 1971.</originalabstract>
+<abstract>Terrayne_Crawford ( sometimes_credited as Terry_Crawford born February_13_,_1945 ) is an_American_actress known for her_role as Beth_Chavez and Edith_Collins on the_popular_ABC-TV_soap_opera_Dark_Shadows from 1968 to 1971 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Terrayne'), (9, 'Crawford'), (18, '('), (19, 'sometimes'), (29, 'credited'), (38, 'as'), (41, 'Terry'), (47, 'Crawford'), (56, 'born'), (61, 'February'), (70, '13'), (72, ','), (74, '1945'), (78, ')'), (80, 'is'), (83, 'an'), (86, 'American'), (95, 'actress'), (103, 'known'), (109, 'for'), (113, 'her'), (117, 'role'), (122, 'as'), (125, 'Beth'), (130, 'Chavez'), (137, 'and'), (141, 'Edith'), (147, 'Collins'), (155, 'on'), (158, 'the'), (162, 'popular'), (170, 'ABC-TV'), (177, 'soap'), (182, 'opera'), (188, 'Dark'), (193, 'Shadows'), (201, 'from'), (206, '1968'), (211, 'to'), (214, '1971'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Terrayne Crawford',0, 17), ('sometimes credited',19, 37), ('Terry Crawford',41, 55), ('February 13, 1945',61, 78), ('an American actress',83, 102), ('her role',113, 121), ('Beth Chavez',125, 136), ('Edith Collins',141, 154), ('the popular ABC-TV soap opera Dark Shadows',158, 200)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'NN', 'JJ', 'NNS', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Terrayne'), (9, 'Crawford'), (18, '('), (19, 'sometimes'), (29, 'credited'), (38, 'as'), (41, 'Terry'), (47, 'Crawford'), (56, 'born'), (61, 'February'), (70, '13'), (72, ','), (74, '1945'), (78, ')'), (80, 'is'), (83, 'an'), (86, 'American'), (95, 'actress'), (103, 'known'), (109, 'for'), (113, 'her'), (117, 'role'), (122, 'as'), (125, 'Beth'), (130, 'Chavez'), (137, 'and'), (141, 'Edith'), (147, 'Collins'), (155, 'on'), (158, 'the'), (162, 'popular'), (170, 'ABC'), (173, '-'), (174, 'TV'), (177, 'soap'), (182, 'opera'), (188, 'Dark'), (193, 'Shadows'), (201, 'from'), (206, '1968'), (211, 'to'), (214, '1971'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Terrayne Crawford', 0, 17), ('Terry Crawford', 41, 55), ('February 13, 1945', 61, 78), ('an American actress', 83, 102), ('her role', 113, 121), ('Beth Chavez', 125, 136), ('Edith Collins', 141, 154), ('the popular ABC-TV soap opera', 158, 187), ('Dark Shadows', 188, 200)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'VBD', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'HYPH', 'NN', 'NN', 'NN', 'NNP', 'NNPS', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

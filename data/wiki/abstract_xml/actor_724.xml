@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frank Borzage</title>
+<link/>https://en.wikipedia.org/wiki/Frank_Borzage
+<annotated>0</annotated>
+<originalabstract>Frank Borzage (; April 23, 1894 – June 19, 1962) was an American film director and actor, most remembered for directing 7th Heaven (1927), Street Angel (1928), Man's Castle (1933), and The Mortal Storm (1940).</originalabstract>
+<abstract>Frank_Borzage ( ; April_23_,_1894 – June_19_,_1962 ) was an_American_film_director_and_actor , most remembered for directing 7th_Heaven ( 1927 ) , Street_Angel ( 1928 ) , Man 's_Castle ( 1933 ) , and The_Mortal_Storm ( 1940 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frank'), (6, 'Borzage'), (14, '('), (15, ';'), (17, 'April'), (23, '23'), (25, ','), (27, '1894'), (32, '–'), (34, 'June'), (39, '19'), (41, ','), (43, '1962'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'director'), (79, 'and'), (83, 'actor'), (88, ','), (90, 'most'), (95, 'remembered'), (106, 'for'), (110, 'directing'), (120, '7th'), (124, 'Heaven'), (131, '('), (132, '1927'), (136, ')'), (137, ','), (139, 'Street'), (146, 'Angel'), (152, '('), (153, '1928'), (157, ')'), (158, ','), (160, 'Man'), (163, '\'s'), (166, 'Castle'), (173, '('), (174, '1933'), (178, ')'), (179, ','), (181, 'and'), (185, 'The'), (189, 'Mortal'), (196, 'Storm'), (202, '('), (203, '1940'), (207, ')'), (208, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frank Borzage',0, 13), ('April 23, 1894',17, 31), ('June 19, 1962',34, 47), ('an American film director and actor',53, 88), ('7th Heaven',120, 130), ('Street Angel',139, 151), ('\'s Castle',163, 172), ('The Mortal Storm',185, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', ',', 'JJS', 'VBN', 'IN', 'VBG', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NN', 'POS', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frank'), (6, 'Borzage'), (14, '(;'), (17, 'April'), (23, '23'), (25, ','), (27, '1894'), (32, '–'), (34, 'June'), (39, '19'), (41, ','), (43, '1962'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'director'), (79, 'and'), (83, 'actor'), (88, ','), (90, 'most'), (95, 'remembered'), (106, 'for'), (110, 'directing'), (120, '7th'), (124, 'Heaven'), (131, '('), (132, '1927'), (136, ')'), (137, ','), (139, 'Street'), (146, 'Angel'), (152, '('), (153, '1928'), (157, ')'), (158, ','), (160, 'Man'), (163, "'s"), (166, 'Castle'), (173, '('), (174, '1933'), (178, ')'), (179, ','), (181, 'and'), (185, 'The'), (189, 'Mortal'), (196, 'Storm'), (202, '('), (203, '1940'), (207, ')'), (208, '.')])</spacy_tokens>
+<spacy_chunks>[('Frank Borzage', 0, 13), ('April 23, 1894', 17, 31), ('June 19, 1962', 34, 47), ('an American film director', 53, 78), ('7th Heaven (1927', 120, 136), ('Street Angel (1928', 139, 157), ("Man's Castle", 160, 172), ('The Mortal Storm', 185, 201)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', ',', 'RBS', 'VBD', 'IN', 'VBG', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'POS', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

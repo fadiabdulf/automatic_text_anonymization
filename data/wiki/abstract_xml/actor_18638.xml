@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Florence Giorgetti</title>
+<link/>https://en.wikipedia.org/wiki/Florence_Giorgetti
+<annotated>0</annotated>
+<originalabstract>Florence Giorgetti (born 15 February 1944) is a French stage and film actress. She was nominated for the César Award for Best Supporting Actress for her role in La Dentellière.</originalabstract>
+<abstract>Florence_Giorgetti ( born 15_February_1944 ) is a_French_stage_and_film_actress . She was_nominated for the_César_Award for Best Supporting_Actress for her_role in La_Dentellière .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Florence'), (9, 'Giorgetti'), (19, '('), (20, 'born'), (25, '15'), (28, 'February'), (37, '1944'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'French'), (55, 'stage'), (61, 'and'), (65, 'film'), (70, 'actress'), (77, '.'), (79, 'She'), (83, 'was'), (87, 'nominated'), (97, 'for'), (101, 'the'), (105, 'César'), (111, 'Award'), (117, 'for'), (121, 'Best'), (126, 'Supporting'), (137, 'Actress'), (145, 'for'), (149, 'her'), (153, 'role'), (158, 'in'), (161, 'La'), (164, 'Dentellière'), (175, '.')])</stanford_tokens>
+<opennlp_chunks>[('Florence Giorgetti',0, 18), ('15 February 1944',25, 41), ('a French stage and film actress',46, 77), ('was nominated',83, 96), ('the César Award',101, 116), ('Supporting Actress',126, 144), ('her role',149, 157), ('La Dentellière',161, 175)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Florence'), (9, 'Giorgetti'), (19, '('), (20, 'born'), (25, '15'), (28, 'February'), (37, '1944'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'French'), (55, 'stage'), (61, 'and'), (65, 'film'), (70, 'actress'), (77, '.'), (79, 'She'), (83, 'was'), (87, 'nominated'), (97, 'for'), (101, 'the'), (105, 'César'), (111, 'Award'), (117, 'for'), (121, 'Best'), (126, 'Supporting'), (137, 'Actress'), (145, 'for'), (149, 'her'), (153, 'role'), (158, 'in'), (161, 'La'), (164, 'Dentellière'), (175, '.')])</spacy_tokens>
+<spacy_chunks>[('Florence Giorgetti', 0, 18), ('15 February 1944', 25, 41), ('a French stage and film actress', 46, 77), ('the César Award', 101, 116), ('César Award for Best Supporting Actress', 105, 144), ('her role', 149, 157), ('La Dentellière', 161, 175)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

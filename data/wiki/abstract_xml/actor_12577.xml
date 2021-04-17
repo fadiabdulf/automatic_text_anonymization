@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lynn Hamilton (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Lynn_Hamilton_(actress)
+<annotated>0</annotated>
+<originalabstract>Lynn Hamilton (born April 25, 1930) is an American former actress. Making her acting debut in 1959 with a role in John Cassavetes' Shadows, Hamilton is perhaps best known for her role as Donna Harris; Fred's girlfriend later turned fiance on the sitcom Sanford and Son which originally aired from 1972 until 1977.</originalabstract>
+<abstract>Lynn_Hamilton ( born April_25_,_1930 ) is an_American_former_actress . Making her_acting_debut in 1959 with a_role in John_Cassavetes '_Shadows , Hamilton is_perhaps_best_known for her_role as Donna_Harris ; Fred 's_girlfriend later turned fiance on the_sitcom Sanford_and_Son which originally aired from 1972 until 1977 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lynn'), (5, 'Hamilton'), (14, '('), (15, 'born'), (20, 'April'), (26, '25'), (28, ','), (30, '1930'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'former'), (58, 'actress'), (65, '.'), (67, 'Making'), (74, 'her'), (78, 'acting'), (85, 'debut'), (91, 'in'), (94, '1959'), (99, 'with'), (104, 'a'), (106, 'role'), (111, 'in'), (114, 'John'), (119, 'Cassavetes'), (129, '\''), (131, 'Shadows'), (138, ','), (140, 'Hamilton'), (149, 'is'), (152, 'perhaps'), (160, 'best'), (165, 'known'), (171, 'for'), (175, 'her'), (179, 'role'), (184, 'as'), (187, 'Donna'), (193, 'Harris'), (199, ';'), (201, 'Fred'), (205, '\'s'), (208, 'girlfriend'), (219, 'later'), (225, 'turned'), (232, 'fiance'), (239, 'on'), (242, 'the'), (246, 'sitcom'), (253, 'Sanford'), (261, 'and'), (265, 'Son'), (269, 'which'), (275, 'originally'), (286, 'aired'), (292, 'from'), (297, '1972'), (302, 'until'), (308, '1977'), (312, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lynn Hamilton',0, 13), ('April 25, 1930',20, 34), ('an American former actress',39, 65), ('her acting debut',74, 90), ('a role',104, 110), ('John Cassavetes',114, 129), ('\' Shadows',129, 138), ('is perhaps best known',149, 170), ('her role',175, 183), ('Donna Harris',187, 199), ('\'s girlfriend',205, 218), ('the sitcom',242, 252), ('Sanford and Son',253, 268)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'VBG', 'PRP$', 'NN', 'NN', 'IN', 'CD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', ',', 'NNP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ':', 'NNP', 'POS', 'NN', 'RB', 'VBD', 'NN', 'IN', 'DT', 'NN', 'NNP', 'CC', 'NNP', 'WDT', 'RB', 'VBD', 'IN', 'CD', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lynn'), (5, 'Hamilton'), (14, '('), (15, 'born'), (20, 'April'), (26, '25'), (28, ','), (30, '1930'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'former'), (58, 'actress'), (65, '.'), (67, 'Making'), (74, 'her'), (78, 'acting'), (85, 'debut'), (91, 'in'), (94, '1959'), (99, 'with'), (104, 'a'), (106, 'role'), (111, 'in'), (114, 'John'), (119, 'Cassavetes'), (129, "'"), (131, 'Shadows'), (138, ','), (140, 'Hamilton'), (149, 'is'), (152, 'perhaps'), (160, 'best'), (165, 'known'), (171, 'for'), (175, 'her'), (179, 'role'), (184, 'as'), (187, 'Donna'), (193, 'Harris'), (199, ';'), (201, 'Fred'), (205, "'s"), (208, 'girlfriend'), (219, 'later'), (225, 'turned'), (232, 'fiance'), (239, 'on'), (242, 'the'), (246, 'sitcom'), (253, 'Sanford'), (261, 'and'), (265, 'Son'), (269, 'which'), (275, 'originally'), (286, 'aired'), (292, 'from'), (297, '1972'), (302, 'until'), (308, '1977'), (312, '.')])</spacy_tokens>
+<spacy_chunks>[('Lynn Hamilton', 0, 13), ('April 25, 1930', 20, 34), ('an American former actress', 39, 65), ('her acting debut', 74, 90), ('a role', 104, 110), ("John Cassavetes' Shadows", 114, 138), ('her role', 175, 183), ('Donna Harris', 187, 199), ("Fred's girlfriend", 201, 218), ('fiance', 232, 238), ('the sitcom', 242, 252), ('Sanford and Son', 253, 268)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'VBG', 'PRP$', 'JJ', 'NN', 'IN', 'CD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNPS', ',', 'NNP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ':', 'NNP', 'POS', 'NN', 'RB', 'VBD', 'NN', 'IN', 'DT', 'NN', 'NNP', 'CC', 'NNP', 'WDT', 'RB', 'VBD', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

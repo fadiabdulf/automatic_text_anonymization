@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>André Alerme</title>
+<link/>https://en.wikipedia.org/wiki/Andr%C3%A9_Alerme
+<annotated>0</annotated>
+<originalabstract>André Alerme (9 September 1877 – 2 February 1960) was a French actor.
+Alerme was born Marie André Alerme in Dieppe, Seine-Maritime, France and died at the age of 82 in Montrichard, Loir-et-Cher, France.</originalabstract>
+<abstract>André_Alerme ( 9_September_1877 – 2_February_1960 ) was a_French_actor . Alerme was_born Marie_André_Alerme in Dieppe , Seine-Maritime , France and died at the_age of 82 in Montrichard , Loir-et-Cher , France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'André'), (6, 'Alerme'), (13, '('), (14, '9'), (16, 'September'), (26, '1877'), (31, '–'), (33, '2'), (35, 'February'), (44, '1960'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'actor'), (68, '.'), (70, 'Alerme'), (77, 'was'), (81, 'born'), (86, 'Marie'), (92, 'André'), (98, 'Alerme'), (105, 'in'), (108, 'Dieppe'), (114, ','), (116, 'Seine-Maritime'), (130, ','), (132, 'France'), (139, 'and'), (143, 'died'), (148, 'at'), (151, 'the'), (155, 'age'), (159, 'of'), (162, '82'), (165, 'in'), (168, 'Montrichard'), (179, ','), (181, 'Loir-et-Cher'), (193, ','), (195, 'France'), (201, '.')])</stanford_tokens>
+<opennlp_chunks>[('André Alerme',0, 12), ('9 September 1877',14, 30), ('2 February 1960',33, 48), ('a French actor',54, 68), ('was born',77, 85), ('Marie André Alerme',86, 104), ('the age',151, 158)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'DT', 'NN', 'IN', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'André'), (6, 'Alerme'), (13, '('), (14, '9'), (16, 'September'), (26, '1877'), (31, '–'), (33, '2'), (35, 'February'), (44, '1960'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'actor'), (68, '.'), (70, 'Alerme'), (77, 'was'), (81, 'born'), (86, 'Marie'), (92, 'André'), (98, 'Alerme'), (105, 'in'), (108, 'Dieppe'), (114, ','), (116, 'Seine'), (121, '-'), (122, 'Maritime'), (130, ','), (132, 'France'), (139, 'and'), (143, 'died'), (148, 'at'), (151, 'the'), (155, 'age'), (159, 'of'), (162, '82'), (165, 'in'), (168, 'Montrichard'), (179, ','), (181, 'Loir'), (185, '-'), (186, 'et'), (188, '-'), (189, 'Cher'), (193, ','), (195, 'France'), (201, '.')])</spacy_tokens>
+<spacy_chunks>[('André Alerme', 0, 12), ('9 September 1877', 14, 30), ('2 February 1960', 33, 48), ('a French actor', 54, 68), ('Marie André Alerme', 86, 104), ('Dieppe, Seine-Maritime', 108, 130), ('France', 132, 138), ('the age', 151, 158), ('Montrichard', 168, 179), ('Loir-et-Cher', 181, 193)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'DT', 'NN', 'IN', 'CD', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

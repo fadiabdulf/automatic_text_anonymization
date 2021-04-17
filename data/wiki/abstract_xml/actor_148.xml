@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Thomas Anderson (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Thomas_Anderson_(actor)
+<annotated>0</annotated>
+<originalabstract>Paul Anderson (born 12 February 1978) is an English actor. He came to prominence for portraying Arthur Shelby Jr. in Peaky Blinders, Anderson in The Revenant, and Sebastian Moran in Sherlock Holmes: A Game of Shadows.</originalabstract>
+<abstract>Paul_Anderson ( born 12_February_1978 ) is an_English_actor . He came to prominence for portraying Arthur_Shelby_Jr. in Peaky_Blinders , Anderson in The_Revenant , and Sebastian_Moran in Sherlock_Holmes : A_Game of Shadows .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Anderson'), (14, '('), (15, 'born'), (20, '12'), (23, 'February'), (32, '1978'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'English'), (52, 'actor'), (57, '.'), (59, 'He'), (62, 'came'), (67, 'to'), (70, 'prominence'), (81, 'for'), (85, 'portraying'), (96, 'Arthur'), (103, 'Shelby'), (110, 'Jr.'), (114, 'in'), (117, 'Peaky'), (123, 'Blinders'), (131, ','), (133, 'Anderson'), (142, 'in'), (145, 'The'), (149, 'Revenant'), (157, ','), (159, 'and'), (163, 'Sebastian'), (173, 'Moran'), (179, 'in'), (182, 'Sherlock'), (191, 'Holmes'), (197, ':'), (199, 'A'), (201, 'Game'), (206, 'of'), (209, 'Shadows'), (216, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Anderson',0, 13), ('12 February 1978',20, 36), ('an English actor',41, 57), ('Arthur Shelby Jr.',96, 113), ('Peaky Blinders',117, 131), ('The Revenant',145, 157), ('Sebastian Moran',163, 178), ('Sherlock Holmes',182, 197), ('A Game',199, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'TO', 'NN', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'DT', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ':', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Anderson'), (14, '('), (15, 'born'), (20, '12'), (23, 'February'), (32, '1978'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'English'), (52, 'actor'), (57, '.'), (59, 'He'), (62, 'came'), (67, 'to'), (70, 'prominence'), (81, 'for'), (85, 'portraying'), (96, 'Arthur'), (103, 'Shelby'), (110, 'Jr.'), (114, 'in'), (117, 'Peaky'), (123, 'Blinders'), (131, ','), (133, 'Anderson'), (142, 'in'), (145, 'The'), (149, 'Revenant'), (157, ','), (159, 'and'), (163, 'Sebastian'), (173, 'Moran'), (179, 'in'), (182, 'Sherlock'), (191, 'Holmes'), (197, ':'), (199, 'A'), (201, 'Game'), (206, 'of'), (209, 'Shadows'), (216, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Anderson', 0, 13), ('12 February 1978', 20, 36), ('an English actor', 41, 57), ('prominence', 70, 80), ('Arthur Shelby Jr.', 96, 113), ('Peaky Blinders', 117, 131), ('The Revenant', 145, 157), ('Sebastian Moran', 163, 178), ('Sherlock Holmes', 182, 197), ('A Game', 199, 205), ('Shadows', 209, 216)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NN', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNPS', ',', 'NNP', 'IN', 'DT', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ':', 'DT', 'NNP', 'IN', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

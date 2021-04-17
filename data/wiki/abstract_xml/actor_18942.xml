@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jackie Sardou</title>
+<link/>https://en.wikipedia.org/wiki/Jackie_Sardou
+<annotated>0</annotated>
+<originalabstract>Jackie Sardou (7 April 1919 – 2 April 1998) was a French actress.
+She was born Jacqueline Labbé in Paris, and married Fernand Sardou, a singer. She is the mother of singer Michel Sardou; and grandmother of Romain Sardou, an author and of Davy Sardou an actor. She died in 1998 five days before her 79th birthday.</originalabstract>
+<abstract>Jackie_Sardou ( 7_April_1919 – 2_April_1998 ) was a_French_actress . She was_born Jacqueline_Labbé in Paris , and married_Fernand_Sardou , a_singer . She is the_mother of singer_Michel_Sardou ; and grandmother of Romain_Sardou , an_author and of Davy_Sardou an_actor . She died in 1998_five_days before her_79th_birthday .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jackie'), (7, 'Sardou'), (14, '('), (15, '7'), (17, 'April'), (23, '1919'), (28, '–'), (30, '2'), (32, 'April'), (38, '1998'), (42, ')'), (44, 'was'), (48, 'a'), (50, 'French'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'was'), (74, 'born'), (79, 'Jacqueline'), (90, 'Labbé'), (96, 'in'), (99, 'Paris'), (104, ','), (106, 'and'), (110, 'married'), (118, 'Fernand'), (126, 'Sardou'), (132, ','), (134, 'a'), (136, 'singer'), (142, '.'), (144, 'She'), (148, 'is'), (151, 'the'), (155, 'mother'), (162, 'of'), (165, 'singer'), (172, 'Michel'), (179, 'Sardou'), (185, ';'), (187, 'and'), (191, 'grandmother'), (203, 'of'), (206, 'Romain'), (213, 'Sardou'), (219, ','), (221, 'an'), (224, 'author'), (231, 'and'), (235, 'of'), (238, 'Davy'), (243, 'Sardou'), (250, 'an'), (253, 'actor'), (258, '.'), (260, 'She'), (264, 'died'), (269, 'in'), (272, '1998'), (277, 'five'), (282, 'days'), (287, 'before'), (294, 'her'), (298, '79th'), (303, 'birthday'), (311, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jackie Sardou',0, 13), ('7 April 1919',15, 27), ('2 April 1998',30, 42), ('a French actress',48, 64), ('was born',70, 78), ('Jacqueline Labbé',79, 95), ('married Fernand Sardou',110, 132), ('a singer',134, 142), ('the mother',151, 161), ('singer Michel Sardou',165, 185), ('Romain Sardou',206, 219), ('an author',221, 230), ('Davy Sardou',238, 249), ('an actor',250, 258), ('1998 five days',272, 286), ('her 79th birthday',294, 311)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'JJ', 'NNP', 'NNP', ',', 'DT', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', ':', 'CC', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'CC', 'IN', 'NNP', 'NNP', 'DT', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'CD', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jackie'), (7, 'Sardou'), (14, '('), (15, '7'), (17, 'April'), (23, '1919'), (28, '–'), (30, '2'), (32, 'April'), (38, '1998'), (42, ')'), (44, 'was'), (48, 'a'), (50, 'French'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'was'), (74, 'born'), (79, 'Jacqueline'), (90, 'Labbé'), (96, 'in'), (99, 'Paris'), (104, ','), (106, 'and'), (110, 'married'), (118, 'Fernand'), (126, 'Sardou'), (132, ','), (134, 'a'), (136, 'singer'), (142, '.'), (144, 'She'), (148, 'is'), (151, 'the'), (155, 'mother'), (162, 'of'), (165, 'singer'), (172, 'Michel'), (179, 'Sardou'), (185, ';'), (187, 'and'), (191, 'grandmother'), (203, 'of'), (206, 'Romain'), (213, 'Sardou'), (219, ','), (221, 'an'), (224, 'author'), (231, 'and'), (235, 'of'), (238, 'Davy'), (243, 'Sardou'), (250, 'an'), (253, 'actor'), (258, '.'), (260, 'She'), (264, 'died'), (269, 'in'), (272, '1998'), (277, 'five'), (282, 'days'), (287, 'before'), (294, 'her'), (298, '79th'), (303, 'birthday'), (311, '.')])</spacy_tokens>
+<spacy_chunks>[('Jackie Sardou', 0, 13), ('7 April 1919', 15, 27), ('2 April 1998', 30, 42), ('a French actress', 48, 64), ('Jacqueline Labbé', 79, 95), ('Fernand Sardou', 118, 132), ('a singer', 134, 142), ('the mother', 151, 161), ('singer Michel Sardou', 165, 185), ('grandmother', 191, 202), ('Romain Sardou', 206, 219), ('an author', 221, 230), ('Davy Sardou', 238, 249), ('an actor', 250, 258), ('her 79th birthday', 294, 311)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'VBD', 'NNP', 'NNP', ',', 'DT', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', ':', 'CC', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'CC', 'IN', 'NNP', 'NNP', 'DT', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'CD', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

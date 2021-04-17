@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Pedro Armendáriz</title>
+<link/>https://en.wikipedia.org/wiki/Pedro_Armend%C3%A1riz
+<annotated>0</annotated>
+<originalabstract>Pedro Armendáriz (born Pedro Gregorio Armendáriz Hastings; May 9, 1912 – June 18, 1963) was a Mexican film actor who made films in both Mexico and the United States. With Dolores del Río and María Félix, he was one of the best-known Latin American movie stars of the 1940s and 1950s.</originalabstract>
+<abstract>Pedro_Armendáriz ( born Pedro_Gregorio_Armendáriz_Hastings ; May_9_,_1912 – June_18_,_1963 ) was a_Mexican_film_actor who made films in both_Mexico and the_United_States . With Dolores_del_Río and María_Félix , he was one of the_best-known_Latin_American_movie_stars of the_1940s_and_1950s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Pedro'), (6, 'Armendáriz'), (17, '('), (18, 'born'), (23, 'Pedro'), (29, 'Gregorio'), (38, 'Armendáriz'), (49, 'Hastings'), (57, ';'), (59, 'May'), (63, '9'), (64, ','), (66, '1912'), (71, '–'), (73, 'June'), (78, '18'), (80, ','), (82, '1963'), (86, ')'), (88, 'was'), (92, 'a'), (94, 'Mexican'), (102, 'film'), (107, 'actor'), (113, 'who'), (117, 'made'), (122, 'films'), (128, 'in'), (131, 'both'), (136, 'Mexico'), (143, 'and'), (147, 'the'), (151, 'United'), (158, 'States'), (164, '.'), (166, 'With'), (171, 'Dolores'), (179, 'del'), (183, 'Río'), (187, 'and'), (191, 'María'), (197, 'Félix'), (202, ','), (204, 'he'), (207, 'was'), (211, 'one'), (215, 'of'), (218, 'the'), (222, 'best-known'), (233, 'Latin'), (239, 'American'), (248, 'movie'), (254, 'stars'), (260, 'of'), (263, 'the'), (267, '1940s'), (273, 'and'), (277, '1950s'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Pedro Armendáriz',0, 16), ('Pedro Gregorio Armendáriz Hastings',23, 57), ('May 9, 1912',59, 70), ('June 18, 1963',73, 86), ('a Mexican film actor',92, 112), ('both Mexico',131, 142), ('the United States',147, 164), ('Dolores del Río',171, 186), ('María Félix',191, 202), ('the best-known Latin American movie stars',218, 259), ('the 1940s and 1950s',263, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'NNS', 'IN', 'DT', 'NNP', 'CC', 'DT', 'NNP', 'NNPS', '.', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Pedro'), (6, 'Armendáriz'), (17, '('), (18, 'born'), (23, 'Pedro'), (29, 'Gregorio'), (38, 'Armendáriz'), (49, 'Hastings'), (57, ';'), (59, 'May'), (63, '9'), (64, ','), (66, '1912'), (71, '–'), (73, 'June'), (78, '18'), (80, ','), (82, '1963'), (86, ')'), (88, 'was'), (92, 'a'), (94, 'Mexican'), (102, 'film'), (107, 'actor'), (113, 'who'), (117, 'made'), (122, 'films'), (128, 'in'), (131, 'both'), (136, 'Mexico'), (143, 'and'), (147, 'the'), (151, 'United'), (158, 'States'), (164, '.'), (166, 'With'), (171, 'Dolores'), (179, 'del'), (183, 'Río'), (187, 'and'), (191, 'María'), (197, 'Félix'), (202, ','), (204, 'he'), (207, 'was'), (211, 'one'), (215, 'of'), (218, 'the'), (222, 'best'), (226, '-'), (227, 'known'), (233, 'Latin'), (239, 'American'), (248, 'movie'), (254, 'stars'), (260, 'of'), (263, 'the'), (267, '1940s'), (273, 'and'), (277, '1950s'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Pedro Armendáriz', 0, 16), ('(born Pedro Gregorio Armendáriz Hastings', 17, 57), ('May 9, 1912', 59, 70), ('June 18, 1963', 73, 86), ('a Mexican film actor', 92, 112), ('both Mexico', 131, 142), ('the United States', 147, 164), ('Dolores del Río', 171, 186), ('María Félix', 191, 202), ('the best-known Latin American movie stars', 218, 259), ('the 1940s', 263, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'NNS', 'IN', 'CC', 'NNP', 'CC', 'DT', 'NNP', 'NNP', '.', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'CD', 'IN', 'DT', 'RBS', 'HYPH', 'VBN', 'JJ', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

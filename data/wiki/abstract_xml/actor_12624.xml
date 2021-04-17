@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Edna Mae Harris</title>
+<link/>https://en.wikipedia.org/wiki/Edna_Mae_Harris
+<annotated>0</annotated>
+<originalabstract>Edna Mae Harris (September 29, 1914 – September 15, 1997), sometimes credited as Edna May Harris was an American actress and singer. Harris was one of the premier African–American film actress of the late 1930s and early 1940s, appearing in films featuring mostly African–American casts.</originalabstract>
+<abstract>Edna_Mae_Harris ( September_29_,_1914 – September_15_,_1997 ) , sometimes_credited as Edna_May_Harris was an_American_actress_and_singer . Harris was one of the_premier_African – American_film_actress of the_late_1930s and early_1940s , appearing in films featuring mostly_African – American casts .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edna'), (5, 'Mae'), (9, 'Harris'), (16, '('), (17, 'September'), (27, '29'), (29, ','), (31, '1914'), (36, '–'), (38, 'September'), (48, '15'), (50, ','), (52, '1997'), (56, ')'), (57, ','), (59, 'sometimes'), (69, 'credited'), (78, 'as'), (81, 'Edna'), (86, 'May'), (90, 'Harris'), (97, 'was'), (101, 'an'), (104, 'American'), (113, 'actress'), (121, 'and'), (125, 'singer'), (131, '.'), (133, 'Harris'), (140, 'was'), (144, 'one'), (148, 'of'), (151, 'the'), (155, 'premier'), (163, 'African'), (170, '–'), (171, 'American'), (180, 'film'), (185, 'actress'), (193, 'of'), (196, 'the'), (200, 'late'), (205, '1930s'), (211, 'and'), (215, 'early'), (221, '1940s'), (226, ','), (228, 'appearing'), (238, 'in'), (241, 'films'), (247, 'featuring'), (257, 'mostly'), (264, 'African'), (271, '–'), (272, 'American'), (281, 'casts'), (286, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edna Mae Harris',0, 15), ('September 29, 1914',17, 35), ('September 15, 1997',38, 56), ('sometimes credited',59, 77), ('Edna May Harris',81, 96), ('an American actress and singer',101, 131), ('the premier African',151, 170), ('American film actress',171, 192), ('the late 1930s',196, 210), ('early 1940s',215, 226), ('mostly African',257, 271)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'NNP', ':', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', ',', 'VBG', 'IN', 'NNS', 'VBG', 'RB', 'JJ', ':', 'JJ', 'VBZ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edna'), (5, 'Mae'), (9, 'Harris'), (16, '('), (17, 'September'), (27, '29'), (29, ','), (31, '1914'), (36, '–'), (38, 'September'), (48, '15'), (50, ','), (52, '1997'), (56, ')'), (57, ','), (59, 'sometimes'), (69, 'credited'), (78, 'as'), (81, 'Edna'), (86, 'May'), (90, 'Harris'), (97, 'was'), (101, 'an'), (104, 'American'), (113, 'actress'), (121, 'and'), (125, 'singer'), (131, '.'), (133, 'Harris'), (140, 'was'), (144, 'one'), (148, 'of'), (151, 'the'), (155, 'premier'), (163, 'African'), (170, '–'), (171, 'American'), (180, 'film'), (185, 'actress'), (193, 'of'), (196, 'the'), (200, 'late'), (205, '1930s'), (211, 'and'), (215, 'early'), (221, '1940s'), (226, ','), (228, 'appearing'), (238, 'in'), (241, 'films'), (247, 'featuring'), (257, 'mostly'), (264, 'African'), (271, '–'), (272, 'American'), (281, 'casts'), (286, '.')])</spacy_tokens>
+<spacy_chunks>[('Edna Mae Harris', 0, 15), ('(September', 16, 26), ('September 29, 1914', 17, 35), ('September 15, 1997', 38, 56), ('Edna May Harris', 81, 96), ('an American actress', 101, 120), ('singer', 125, 131), ('the premier African–American film actress', 151, 192), ('the late 1930s', 196, 210), ('early 1940s', 215, 226), ('mostly African–American casts', 257, 286)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'JJ', '.', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', ',', 'VBG', 'IN', 'NNS', 'VBG', 'RB', 'JJ', 'HYPH', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

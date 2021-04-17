@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elizabeth Bell (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Elizabeth_Bell_(actress)
+<annotated>0</annotated>
+<originalabstract>Catherine Lisa Bell (born 14 August 1968) is an American actress, known for her roles as Major Sarah MacKenzie in the television series JAG from 1997 to 2005, Denise Sherwood in the series Army Wives from 2007 to 2013, and Cassandra "Cassie" Nightingale in Hallmark's The Good Witch films and television series since 2008.</originalabstract>
+<abstract>Catherine_Lisa_Bell ( born 14_August_1968 ) is an_American_actress , known for her_roles as Major_Sarah_MacKenzie in the_television_series_JAG from 1997 to 2005 , Denise_Sherwood in the_series_Army_Wives from 2007 to 2013 , and Cassandra_"_Cassie_"_Nightingale in Hallmark 's_The_Good_Witch_films_and_television_series since 2008 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Catherine'), (10, 'Lisa'), (15, 'Bell'), (20, '('), (21, 'born'), (26, '14'), (29, 'August'), (36, '1968'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, ','), (66, 'known'), (72, 'for'), (76, 'her'), (80, 'roles'), (86, 'as'), (89, 'Major'), (95, 'Sarah'), (101, 'MacKenzie'), (111, 'in'), (114, 'the'), (118, 'television'), (129, 'series'), (136, 'JAG'), (140, 'from'), (145, '1997'), (150, 'to'), (153, '2005'), (157, ','), (159, 'Denise'), (166, 'Sherwood'), (175, 'in'), (178, 'the'), (182, 'series'), (189, 'Army'), (194, 'Wives'), (200, 'from'), (205, '2007'), (210, 'to'), (213, '2013'), (217, ','), (219, 'and'), (223, 'Cassandra'), (233, '"'), (234, 'Cassie'), (240, '"'), (242, 'Nightingale'), (254, 'in'), (257, 'Hallmark'), (265, '\'s'), (268, 'The'), (272, 'Good'), (277, 'Witch'), (283, 'films'), (289, 'and'), (293, 'television'), (304, 'series'), (311, 'since'), (317, '2008'), (321, '.')])</stanford_tokens>
+<opennlp_chunks>[('Catherine Lisa Bell',0, 19), ('14 August 1968',26, 40), ('an American actress',45, 64), ('her roles',76, 85), ('Major Sarah MacKenzie',89, 110), ('the television series JAG',114, 139), ('Denise Sherwood',159, 174), ('the series Army Wives',178, 199), ('Cassandra "Cassie" Nightingale',223, 253), ('\'s The Good Witch films and television series',265, 310)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'IN', 'CD', 'TO', 'CD', ',', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNS', 'IN', 'CD', 'TO', 'CD', ',', 'CC', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'NNP', 'POS', 'DT', 'JJ', 'NN', 'NNS', 'CC', 'NN', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Catherine'), (10, 'Lisa'), (15, 'Bell'), (20, '('), (21, 'born'), (26, '14'), (29, 'August'), (36, '1968'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, ','), (66, 'known'), (72, 'for'), (76, 'her'), (80, 'roles'), (86, 'as'), (89, 'Major'), (95, 'Sarah'), (101, 'MacKenzie'), (111, 'in'), (114, 'the'), (118, 'television'), (129, 'series'), (136, 'JAG'), (140, 'from'), (145, '1997'), (150, 'to'), (153, '2005'), (157, ','), (159, 'Denise'), (166, 'Sherwood'), (175, 'in'), (178, 'the'), (182, 'series'), (189, 'Army'), (194, 'Wives'), (200, 'from'), (205, '2007'), (210, 'to'), (213, '2013'), (217, ','), (219, 'and'), (223, 'Cassandra'), (233, '"'), (234, 'Cassie'), (240, '"'), (242, 'Nightingale'), (254, 'in'), (257, 'Hallmark'), (265, "'s"), (268, 'The'), (272, 'Good'), (277, 'Witch'), (283, 'films'), (289, 'and'), (293, 'television'), (304, 'series'), (311, 'since'), (317, '2008'), (321, '.')])</spacy_tokens>
+<spacy_chunks>[('Catherine Lisa Bell', 0, 19), ('14 August 1968', 26, 40), ('an American actress', 45, 64), ('her roles', 76, 85), ('Major Sarah MacKenzie', 89, 110), ('the television series', 114, 135), ('Denise Sherwood', 159, 174), ('the series', 178, 188), ('Army Wives', 189, 199), ('Cassandra "Cassie" Nightingale', 223, 253), ("Hallmark's The Good Witch films and television series", 257, 310)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'IN', 'CD', 'IN', 'CD', ',', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'CD', ',', 'CC', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'NNP', 'POS', 'DT', 'NNP', 'NNP', 'NNS', 'CC', 'NN', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

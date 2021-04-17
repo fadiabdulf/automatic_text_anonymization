@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marthe Villalonga</title>
+<link/>https://en.wikipedia.org/wiki/Marthe_Villalonga
+<annotated>0</annotated>
+<originalabstract>Marthe Villalonga (born 20 March 1932) is a French actress. She was born in Fort-de-l'Eau, Algeria.</originalabstract>
+<abstract>Marthe_Villalonga ( born_20_March_1932 ) is a_French_actress . She was_born in Fort-de-l'Eau , Algeria .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marthe'), (7, 'Villalonga'), (18, '('), (19, 'born'), (24, '20'), (27, 'March'), (33, '1932'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'was'), (68, 'born'), (73, 'in'), (76, 'Fort-de-l\'Eau'), (89, ','), (91, 'Algeria'), (98, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marthe Villalonga',0, 17), ('born 20 March 1932',19, 37), ('a French actress',42, 58), ('was born',64, 72)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NN', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marthe'), (7, 'Villalonga'), (18, '('), (19, 'born'), (24, '20'), (27, 'March'), (33, '1932'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'was'), (68, 'born'), (73, 'in'), (76, 'Fort'), (80, '-'), (81, 'de'), (83, '-'), (84, "l'Eau"), (89, ','), (91, 'Algeria'), (98, '.')])</spacy_tokens>
+<spacy_chunks>[('Marthe Villalonga', 0, 17), ('20 March 1932', 24, 37), ('a French actress', 42, 58), ("Fort-de-l'Eau", 76, 89), ('Algeria', 91, 98)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

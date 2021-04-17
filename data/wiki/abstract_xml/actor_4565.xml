@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Francis Menotti</title>
+<link/>https://en.wikipedia.org/wiki/Francis_Menotti
+<annotated>0</annotated>
+<originalabstract>Francis "Chip" Menotti (born Francis Phelan in Philadelphia, Pennsylvania, United States in 1938) is an actor and former figure skater who was the president and artistic director of Festival dei Due Mondi.</originalabstract>
+<abstract>Francis_"_Chip_"_Menotti ( born Francis_Phelan in Philadelphia , Pennsylvania , United_States in 1938 ) is an_actor and former_figure_skater who was the_president and artistic_director of Festival_dei_Due_Mondi .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Francis'), (8, '"'), (9, 'Chip'), (13, '"'), (15, 'Menotti'), (23, '('), (24, 'born'), (29, 'Francis'), (37, 'Phelan'), (44, 'in'), (47, 'Philadelphia'), (59, ','), (61, 'Pennsylvania'), (73, ','), (75, 'United'), (82, 'States'), (89, 'in'), (92, '1938'), (96, ')'), (98, 'is'), (101, 'an'), (104, 'actor'), (110, 'and'), (114, 'former'), (121, 'figure'), (128, 'skater'), (135, 'who'), (139, 'was'), (143, 'the'), (147, 'president'), (157, 'and'), (161, 'artistic'), (170, 'director'), (179, 'of'), (182, 'Festival'), (191, 'dei'), (195, 'Due'), (199, 'Mondi'), (204, '.')])</stanford_tokens>
+<opennlp_chunks>[('Francis "Chip" Menotti',0, 22), ('Francis Phelan',29, 43), ('United States',75, 88), ('an actor',101, 109), ('former figure skater',114, 134), ('the president',143, 156), ('artistic director',161, 178), ('Festival dei Due Mondi',182, 204)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NN', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNPS', 'IN', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'DT', 'NN', 'CC', 'JJ', 'NN', 'IN', 'NNP', 'FW', 'JJ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Francis'), (8, '"'), (9, 'Chip'), (13, '"'), (15, 'Menotti'), (23, '('), (24, 'born'), (29, 'Francis'), (37, 'Phelan'), (44, 'in'), (47, 'Philadelphia'), (59, ','), (61, 'Pennsylvania'), (73, ','), (75, 'United'), (82, 'States'), (89, 'in'), (92, '1938'), (96, ')'), (98, 'is'), (101, 'an'), (104, 'actor'), (110, 'and'), (114, 'former'), (121, 'figure'), (128, 'skater'), (135, 'who'), (139, 'was'), (143, 'the'), (147, 'president'), (157, 'and'), (161, 'artistic'), (170, 'director'), (179, 'of'), (182, 'Festival'), (191, 'dei'), (195, 'Due'), (199, 'Mondi'), (204, '.')])</spacy_tokens>
+<spacy_chunks>[('Francis "Chip" Menotti', 0, 22), ('Francis Phelan', 29, 43), ('Philadelphia', 47, 59), ('Pennsylvania', 61, 73), ('United States', 75, 88), ('an actor', 101, 109), ('former figure skater', 114, 134), ('the president', 143, 156), ('artistic director', 161, 178), ('Festival dei Due Mondi', 182, 204)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NN', "''", 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'DT', 'NN', 'CC', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

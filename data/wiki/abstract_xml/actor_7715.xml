@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arthur Bostrom</title>
+<link/>https://en.wikipedia.org/wiki/Arthur_Bostrom
+<annotated>0</annotated>
+<originalabstract>Arthur Bostrom FRGS (born 6 January 1955) is an English actor, most famous for his role as Officer Crabtree in the long-running BBC TV sitcom 'Allo 'Allo!.</originalabstract>
+<abstract>Arthur_Bostrom_FRGS ( born_6_January_1955 ) is an_English_actor , most_famous for his_role as Officer_Crabtree in the_long-running_BBC_TV_sitcom ' Allo_'_Allo ! .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthur'), (7, 'Bostrom'), (15, 'FRGS'), (20, '('), (21, 'born'), (26, '6'), (28, 'January'), (36, '1955'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'English'), (56, 'actor'), (61, ','), (63, 'most'), (68, 'famous'), (75, 'for'), (79, 'his'), (83, 'role'), (88, 'as'), (91, 'Officer'), (99, 'Crabtree'), (108, 'in'), (111, 'the'), (115, 'long-running'), (128, 'BBC'), (132, 'TV'), (135, 'sitcom'), (142, '\''), (143, 'Allo'), (148, '\''), (149, 'Allo'), (153, '!'), (154, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthur Bostrom FRGS',0, 19), ('born 6 January 1955',21, 40), ('an English actor',45, 61), ('most famous',63, 74), ('his role',79, 87), ('Officer Crabtree',91, 107), ('the long-running BBC TV sitcom',111, 141), ('Allo \'Allo',143, 153)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'NN', '``', 'NNP', '``', 'NNP', '.', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthur'), (7, 'Bostrom'), (15, 'FRGS'), (20, '('), (21, 'born'), (26, '6'), (28, 'January'), (36, '1955'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'English'), (56, 'actor'), (61, ','), (63, 'most'), (68, 'famous'), (75, 'for'), (79, 'his'), (83, 'role'), (88, 'as'), (91, 'Officer'), (99, 'Crabtree'), (108, 'in'), (111, 'the'), (115, 'long'), (119, '-'), (120, 'running'), (128, 'BBC'), (132, 'TV'), (135, 'sitcom'), (142, "'"), (143, 'Allo'), (148, "'"), (149, 'Allo!.')])</spacy_tokens>
+<spacy_chunks>[('Arthur Bostrom FRGS', 0, 19), ('6 January 1955', 26, 40), ('an English actor', 45, 61), ('his role', 79, 87), ('Officer Crabtree', 91, 107), ('the long-running BBC TV sitcom', 111, 141), ("'Allo 'Allo!", 142, 154), ('Allo!.', 149, 155)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'RB', 'HYPH', 'VBG', 'NNP', 'NN', 'NN', '``', 'NNP', "''", 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

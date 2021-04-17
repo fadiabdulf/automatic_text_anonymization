@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Edward Platt</title>
+<link/>https://en.wikipedia.org/wiki/Edward_Platt
+<annotated>0</annotated>
+<originalabstract>Edward Cuthbert Platt  (February 14, 1916 – March 19, 1974) was an American actor best known for his portrayal of "The Chief" in the 1965-70 NBC/CBS television series Get Smart. With his deep voice and mature appearance, he played an eclectic mix of characters over the span of his career.</originalabstract>
+<abstract>Edward_Cuthbert_Platt ( February_14_,_1916 – March_19_,_1974 ) was an_American_actor best_known for his_portrayal of " The_Chief " in the_1965-70_NBC/CBS_television_series Get Smart . With his_deep_voice and mature_appearance , he played an_eclectic_mix of characters over the_span of his_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edward'), (7, 'Cuthbert'), (16, 'Platt'), (23, '('), (24, 'February'), (33, '14'), (35, ','), (37, '1916'), (42, '–'), (44, 'March'), (50, '19'), (52, ','), (54, '1974'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actor'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'his'), (101, 'portrayal'), (111, 'of'), (114, '"'), (115, 'The'), (119, 'Chief'), (124, '"'), (126, 'in'), (129, 'the'), (133, '1965-70'), (141, 'NBC/CBS'), (149, 'television'), (160, 'series'), (167, 'Get'), (171, 'Smart'), (176, '.'), (178, 'With'), (183, 'his'), (187, 'deep'), (192, 'voice'), (198, 'and'), (202, 'mature'), (209, 'appearance'), (219, ','), (221, 'he'), (224, 'played'), (231, 'an'), (234, 'eclectic'), (243, 'mix'), (247, 'of'), (250, 'characters'), (261, 'over'), (266, 'the'), (270, 'span'), (275, 'of'), (278, 'his'), (282, 'career'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edward Cuthbert Platt',0, 21), ('February 14, 1916',24, 41), ('March 19, 1974',44, 58), ('an American actor',64, 81), ('best known',82, 92), ('his portrayal',97, 110), ('The Chief',115, 124), ('the 1965-70 NBC/CBS television series',129, 166), ('his deep voice',183, 197), ('mature appearance',202, 219), ('an eclectic mix',231, 246), ('the span',266, 274), ('his career',278, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', '``', 'DT', 'NNP', '\'\'', 'IN', 'DT', 'CD', 'NN', 'NN', 'NN', 'VB', 'JJ', '.', 'IN', 'PRP$', 'JJ', 'NN', 'CC', 'JJ', 'NN', ',', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNS', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edward'), (7, 'Cuthbert'), (16, 'Platt'), (23, '('), (24, 'February'), (33, '14'), (35, ','), (37, '1916'), (42, '–'), (44, 'March'), (50, '19'), (52, ','), (54, '1974'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actor'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'his'), (101, 'portrayal'), (111, 'of'), (114, '"'), (115, 'The'), (119, 'Chief'), (124, '"'), (126, 'in'), (129, 'the'), (133, '1965'), (137, '-'), (138, '70'), (141, 'NBC'), (144, '/'), (145, 'CBS'), (149, 'television'), (160, 'series'), (167, 'Get'), (171, 'Smart'), (176, '.'), (178, 'With'), (183, 'his'), (187, 'deep'), (192, 'voice'), (198, 'and'), (202, 'mature'), (209, 'appearance'), (219, ','), (221, 'he'), (224, 'played'), (231, 'an'), (234, 'eclectic'), (243, 'mix'), (247, 'of'), (250, 'characters'), (261, 'over'), (266, 'the'), (270, 'span'), (275, 'of'), (278, 'his'), (282, 'career'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Edward Cuthbert Platt', 0, 21), ('February 14, 1916', 24, 41), ('March 19, 1974', 44, 58), ('an American actor', 64, 81), ('his portrayal', 97, 110), ('"The Chief', 114, 124), ('the 1965-70 NBC/CBS television series', 129, 166), ('Get Smart', 167, 176), ('his deep voice', 183, 197), ('mature appearance', 202, 219), ('an eclectic mix', 231, 246), ('characters', 250, 260), ('the span', 266, 274), ('his career', 278, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', '``', 'DT', 'NNP', "''", 'IN', 'DT', 'CD', 'SYM', 'CD', 'NNP', 'SYM', 'NNP', 'NN', 'NN', 'VBP', 'NNP', '.', 'IN', 'PRP$', 'JJ', 'NN', 'CC', 'JJ', 'NN', ',', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNS', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

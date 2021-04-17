@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Line Noro</title>
+<link/>https://en.wikipedia.org/wiki/Line_Noro
+<annotated>0</annotated>
+<originalabstract>Line Noro (22 February 1900 – 4 November 1985) was a French stage and film actress. During the 1930s she played glamorous, often exotic, women in films such as Pépé le Moko. Between 1945 and 1966 Noro was a member of the Comédie Française. She was married to the film director André Berthomieu.</originalabstract>
+<abstract>Line_Noro ( 22_February_1900 – 4_November_1985 ) was a_French_stage_and_film_actress . During the_1930s she played glamorous , often exotic , women in films such_as Pépé le_Moko . Between 1945_and_1966_Noro was a_member of the_Comédie_Française . She was_married to the_film_director_André_Berthomieu .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Line'), (5, 'Noro'), (10, '('), (11, '22'), (14, 'February'), (23, '1900'), (28, '–'), (30, '4'), (32, 'November'), (41, '1985'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'French'), (60, 'stage'), (66, 'and'), (70, 'film'), (75, 'actress'), (82, '.'), (84, 'During'), (91, 'the'), (95, '1930s'), (101, 'she'), (105, 'played'), (112, 'glamorous'), (121, ','), (123, 'often'), (129, 'exotic'), (135, ','), (137, 'women'), (143, 'in'), (146, 'films'), (152, 'such'), (157, 'as'), (160, 'Pépé'), (165, 'le'), (168, 'Moko'), (172, '.'), (174, 'Between'), (182, '1945'), (187, 'and'), (191, '1966'), (196, 'Noro'), (201, 'was'), (205, 'a'), (207, 'member'), (214, 'of'), (217, 'the'), (221, 'Comédie'), (229, 'Française'), (238, '.'), (240, 'She'), (244, 'was'), (248, 'married'), (256, 'to'), (259, 'the'), (263, 'film'), (268, 'director'), (277, 'André'), (283, 'Berthomieu'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('Line Noro',0, 9), ('22 February 1900',11, 27), ('4 November 1985',30, 45), ('a French stage and film actress',51, 82), ('the 1930s',91, 100), ('such as',152, 159), ('le Moko',165, 172), ('1945 and 1966 Noro',182, 200), ('a member',205, 213), ('the Comédie Française',217, 238), ('was married',244, 255), ('the film director André Berthomieu',259, 293)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'DT', 'CD', 'PRP', 'VBD', 'JJ', ',', 'RB', 'JJ', ',', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNP', 'DT', 'NNP', '.', 'IN', 'CD', 'CC', 'CD', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'TO', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Line'), (5, 'Noro'), (10, '('), (11, '22'), (14, 'February'), (23, '1900'), (28, '–'), (30, '4'), (32, 'November'), (41, '1985'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'French'), (60, 'stage'), (66, 'and'), (70, 'film'), (75, 'actress'), (82, '.'), (84, 'During'), (91, 'the'), (95, '1930s'), (101, 'she'), (105, 'played'), (112, 'glamorous'), (121, ','), (123, 'often'), (129, 'exotic'), (135, ','), (137, 'women'), (143, 'in'), (146, 'films'), (152, 'such'), (157, 'as'), (160, 'Pépé'), (165, 'le'), (168, 'Moko'), (172, '.'), (174, 'Between'), (182, '1945'), (187, 'and'), (191, '1966'), (196, 'Noro'), (201, 'was'), (205, 'a'), (207, 'member'), (214, 'of'), (217, 'the'), (221, 'Comédie'), (229, 'Française'), (238, '.'), (240, 'She'), (244, 'was'), (248, 'married'), (256, 'to'), (259, 'the'), (263, 'film'), (268, 'director'), (277, 'André'), (283, 'Berthomieu'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('Line Noro', 0, 9), ('22 February 1900', 11, 27), ('4 November 1985', 30, 45), ('a French stage and film actress', 51, 82), ('the 1930s', 91, 100), ('Pépé le Moko', 160, 172), ('a member', 205, 213), ('the Comédie Française', 217, 238), ('the film director', 259, 276), ('André Berthomieu', 277, 293)]</spacy_chunks>
+<spacy_pos>['NN', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'DT', 'NNS', 'PRP', 'VBD', 'JJ', ',', 'RB', 'JJ', ',', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', 'NNP', '.', 'IN', 'CD', 'CC', 'CD', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

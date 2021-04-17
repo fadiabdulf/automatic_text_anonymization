@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>René Rocher</title>
+<link/>https://en.wikipedia.org/wiki/Ren%C3%A9_Rocher
+<annotated>0</annotated>
+<originalabstract>René Rocher, (Paris 5 August 1890 – 24 juin 1970) was a France stage actor and theater director. 
+In 1923, René Rocher gave its name to the current Comédie-Caumartin. He was managing director of the Théâtre Antoine from 1928 to 1933, then the Théâtre du Vieux-Colombier from 1935 to 1943, and the Théâtre de l'Odéon from 1940 to 1944.</originalabstract>
+<abstract>René_Rocher , ( Paris_5_August_1890 – 24_juin 1970 ) was a_France_stage_actor and theater_director . In 1923 , René_Rocher gave its_name to the_current_Comédie-Caumartin . He was_managing director of the_Théâtre_Antoine from 1928 to 1933 , then the_Théâtre_du_Vieux-Colombier from 1935 to 1943 , and the_Théâtre de l'Odéon from 1940 to 1944 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'René'), (5, 'Rocher'), (11, ','), (13, '('), (14, 'Paris'), (20, '5'), (22, 'August'), (29, '1890'), (34, '–'), (36, '24'), (39, 'juin'), (44, '1970'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'France'), (63, 'stage'), (69, 'actor'), (75, 'and'), (79, 'theater'), (87, 'director'), (95, '.'), (98, 'In'), (101, '1923'), (105, ','), (107, 'René'), (112, 'Rocher'), (119, 'gave'), (124, 'its'), (128, 'name'), (133, 'to'), (136, 'the'), (140, 'current'), (148, 'Comédie-Caumartin'), (165, '.'), (167, 'He'), (170, 'was'), (174, 'managing'), (183, 'director'), (192, 'of'), (195, 'the'), (199, 'Théâtre'), (207, 'Antoine'), (215, 'from'), (220, '1928'), (225, 'to'), (228, '1933'), (232, ','), (234, 'then'), (239, 'the'), (243, 'Théâtre'), (251, 'du'), (254, 'Vieux-Colombier'), (270, 'from'), (275, '1935'), (280, 'to'), (283, '1943'), (287, ','), (289, 'and'), (293, 'the'), (297, 'Théâtre'), (305, 'de'), (308, 'l\'Odéon'), (316, 'from'), (321, '1940'), (326, 'to'), (329, '1944'), (333, '.')])</stanford_tokens>
+<opennlp_chunks>[('René Rocher',0, 11), ('Paris 5 August 1890',14, 33), ('24 juin',36, 43), ('a France stage actor',54, 74), ('theater director',79, 95), ('René Rocher',107, 118), ('its name',124, 132), ('the current Comédie-Caumartin',136, 165), ('was managing',170, 182), ('the Théâtre Antoine',195, 214), ('the Théâtre du Vieux-Colombier',239, 269), ('the Théâtre',293, 304)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', '-LRB-', 'NNP', 'CD', 'NNP', 'CD', ':', 'CD', 'NN', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NN', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'CD', ',', 'NNP', 'NNP', 'VBD', 'PRP$', 'NN', 'TO', 'DT', 'JJ', 'NNP', '.', 'PRP', 'VBD', 'VBG', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'TO', 'CD', ',', 'RB', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'TO', 'CD', ',', 'CC', 'DT', 'NNP', 'IN', 'NNP', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'René'), (5, 'Rocher'), (11, ','), (13, '('), (14, 'Paris'), (20, '5'), (22, 'August'), (29, '1890'), (34, '–'), (36, '24'), (39, 'juin'), (44, '1970'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'France'), (63, 'stage'), (69, 'actor'), (75, 'and'), (79, 'theater'), (87, 'director'), (95, '.'), (98, 'In'), (101, '1923'), (105, ','), (107, 'René'), (112, 'Rocher'), (119, 'gave'), (124, 'its'), (128, 'name'), (133, 'to'), (136, 'the'), (140, 'current'), (148, 'Comédie'), (155, '-'), (156, 'Caumartin'), (165, '.'), (167, 'He'), (170, 'was'), (174, 'managing'), (183, 'director'), (192, 'of'), (195, 'the'), (199, 'Théâtre'), (207, 'Antoine'), (215, 'from'), (220, '1928'), (225, 'to'), (228, '1933'), (232, ','), (234, 'then'), (239, 'the'), (243, 'Théâtre'), (251, 'du'), (254, 'Vieux'), (259, '-'), (260, 'Colombier'), (270, 'from'), (275, '1935'), (280, 'to'), (283, '1943'), (287, ','), (289, 'and'), (293, 'the'), (297, 'Théâtre'), (305, 'de'), (308, "l'Odéon"), (316, 'from'), (321, '1940'), (326, 'to'), (329, '1944'), (333, '.')])</spacy_tokens>
+<spacy_chunks>[('René Rocher', 0, 11), ('5 August 1890', 20, 33), ('24 juin', 36, 43), ('a France stage actor', 54, 74), ('theater director', 79, 95), ('its name', 124, 132), ('the current Comédie-Caumartin', 136, 165), ('the Théâtre Antoine', 195, 214), (', then the Théâtre du Vieux-Colombier', 232, 269), ("the Théâtre de l'Odéon", 293, 315)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', '-LRB-', 'NNP', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NN', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'CD', ',', 'NNP', 'NNP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'HYPH', 'NNP', '.', 'PRP', 'VBD', 'VBG', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'CD', ',', 'RB', 'DT', 'NNP', 'FW', 'NNP', 'HYPH', 'NNP', 'IN', 'CD', 'IN', 'CD', ',', 'CC', 'DT', 'NNP', 'IN', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

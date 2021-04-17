@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>E. Holman Clark</title>
+<link/>https://en.wikipedia.org/wiki/E._Holman_Clark
+<annotated>0</annotated>
+<originalabstract>E. Holman Clark (1864–1925) was a British stage actor. He also appeared in seven silent films. He became famous for his annual Christmas performance as Captain Hook in J.M. Barrie's Peter Pan.</originalabstract>
+<abstract>E._Holman_Clark ( 1864 – 1925 ) was a_British_stage_actor . He also appeared in seven_silent_films . He became famous for his_annual_Christmas_performance as Captain_Hook in J.M._Barrie 's_Peter_Pan .</abstract>
+<stanford_tokens>OrderedDict([(0, 'E.'), (3, 'Holman'), (10, 'Clark'), (16, '('), (17, '1864'), (21, '–'), (22, '1925'), (26, ')'), (28, 'was'), (32, 'a'), (34, 'British'), (42, 'stage'), (48, 'actor'), (53, '.'), (55, 'He'), (58, 'also'), (63, 'appeared'), (72, 'in'), (75, 'seven'), (81, 'silent'), (88, 'films'), (93, '.'), (95, 'He'), (98, 'became'), (105, 'famous'), (112, 'for'), (116, 'his'), (120, 'annual'), (127, 'Christmas'), (137, 'performance'), (149, 'as'), (152, 'Captain'), (160, 'Hook'), (165, 'in'), (168, 'J.M.'), (173, 'Barrie'), (179, '\'s'), (182, 'Peter'), (188, 'Pan'), (191, '.')])</stanford_tokens>
+<opennlp_chunks>[('E. Holman Clark',0, 15), ('a British stage actor',32, 53), ('seven silent films',75, 93), ('his annual Christmas performance',116, 148), ('Captain Hook',152, 164), ('J.M. Barrie',168, 179), ('\'s Peter Pan',179, 191)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'JJ', 'IN', 'PRP$', 'JJ', 'NNP', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'E.'), (3, 'Holman'), (10, 'Clark'), (16, '('), (17, '1864–1925'), (26, ')'), (28, 'was'), (32, 'a'), (34, 'British'), (42, 'stage'), (48, 'actor'), (53, '.'), (55, 'He'), (58, 'also'), (63, 'appeared'), (72, 'in'), (75, 'seven'), (81, 'silent'), (88, 'films'), (93, '.'), (95, 'He'), (98, 'became'), (105, 'famous'), (112, 'for'), (116, 'his'), (120, 'annual'), (127, 'Christmas'), (137, 'performance'), (149, 'as'), (152, 'Captain'), (160, 'Hook'), (165, 'in'), (168, 'J.M.'), (173, 'Barrie'), (179, "'s"), (182, 'Peter'), (188, 'Pan'), (191, '.')])</spacy_tokens>
+<spacy_chunks>[('E. Holman Clark', 0, 15), ('1864–1925', 17, 26), ('a British stage actor', 32, 53), ('seven silent films', 75, 93), ('his annual Christmas performance', 116, 148), ('Captain Hook', 152, 164), ("J.M. Barrie's Peter Pan", 168, 191)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'JJ', 'IN', 'PRP$', 'JJ', 'NNP', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

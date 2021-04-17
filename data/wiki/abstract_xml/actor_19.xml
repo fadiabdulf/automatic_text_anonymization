@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Art Acord</title>
+<link/>https://en.wikipedia.org/wiki/Art_Acord
+<annotated>0</annotated>
+<originalabstract>Arthemus Ward "Art" Acord (April 17, 1890 – January 4, 1931) was an American silent film actor and rodeo champion. After his film career ended in 1929, Acord worked in rodeo road shows and as a miner in Mexico.</originalabstract>
+<abstract>Arthemus_Ward_"_Art_"_Acord ( April_17_,_1890 – January_4_,_1931 ) was an_American_silent_film_actor_and_rodeo_champion . After his_film_career ended in 1929 , Acord worked in rodeo_road shows and as a_miner in Mexico .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthemus'), (9, 'Ward'), (14, '"'), (15, 'Art'), (18, '"'), (20, 'Acord'), (26, '('), (27, 'April'), (33, '17'), (35, ','), (37, '1890'), (42, '–'), (44, 'January'), (52, '4'), (53, ','), (55, '1931'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'silent'), (84, 'film'), (89, 'actor'), (95, 'and'), (99, 'rodeo'), (105, 'champion'), (113, '.'), (115, 'After'), (121, 'his'), (125, 'film'), (130, 'career'), (137, 'ended'), (143, 'in'), (146, '1929'), (150, ','), (152, 'Acord'), (158, 'worked'), (165, 'in'), (168, 'rodeo'), (174, 'road'), (179, 'shows'), (185, 'and'), (189, 'as'), (192, 'a'), (194, 'miner'), (200, 'in'), (203, 'Mexico'), (209, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthemus Ward "Art" Acord',0, 25), ('April 17, 1890',27, 41), ('January 4, 1931',44, 59), ('an American silent film actor and rodeo champion',65, 113), ('his film career',121, 136), ('rodeo road',168, 178), ('a miner',192, 199)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'PRP$', 'NN', 'NN', 'VBN', 'IN', 'CD', ',', 'NNP', 'VBD', 'IN', 'NN', 'NN', 'VBZ', 'CC', 'IN', 'DT', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthemus'), (9, 'Ward'), (14, '"'), (15, 'Art'), (18, '"'), (20, 'Acord'), (26, '('), (27, 'April'), (33, '17'), (35, ','), (37, '1890'), (42, '–'), (44, 'January'), (52, '4'), (53, ','), (55, '1931'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'silent'), (84, 'film'), (89, 'actor'), (95, 'and'), (99, 'rodeo'), (105, 'champion'), (113, '.'), (115, 'After'), (121, 'his'), (125, 'film'), (130, 'career'), (137, 'ended'), (143, 'in'), (146, '1929'), (150, ','), (152, 'Acord'), (158, 'worked'), (165, 'in'), (168, 'rodeo'), (174, 'road'), (179, 'shows'), (185, 'and'), (189, 'as'), (192, 'a'), (194, 'miner'), (200, 'in'), (203, 'Mexico'), (209, '.')])</spacy_tokens>
+<spacy_chunks>[('Arthemus Ward "Art" Acord', 0, 25), ('April 17, 1890', 27, 41), ('January 4, 1931', 44, 59), ('an American silent film actor', 65, 94), ('rodeo champion', 99, 113), ('his film career', 121, 136), ('rodeo road shows', 168, 184), ('a miner', 192, 199), ('Mexico', 203, 209)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NN', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'PRP$', 'NN', 'NN', 'VBD', 'IN', 'CD', ',', 'NNP', 'VBD', 'IN', 'NN', 'NN', 'NNS', 'CC', 'IN', 'DT', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

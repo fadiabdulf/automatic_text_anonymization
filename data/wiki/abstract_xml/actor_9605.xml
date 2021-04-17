@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Urbain Cancelier</title>
+<link/>https://en.wikipedia.org/wiki/Urbain_Cancelier
+<annotated>0</annotated>
+<originalabstract>Urbain Cancelier (born 2 August 1959) is a French comedian and actor, primarily known for his collaborations with French film director Jean-Pierre Jeunet, and for playing Collignon in Le Fabuleux Destin d'Amélie Poulain.</originalabstract>
+<abstract>Urbain_Cancelier ( born 2_August_1959 ) is a_French_comedian_and_actor , primarily_known for his_collaborations with French_film_director_Jean-Pierre_Jeunet , and for playing Collignon in Le_Fabuleux_Destin_d'Amélie_Poulain .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Urbain'), (7, 'Cancelier'), (17, '('), (18, 'born'), (23, '2'), (25, 'August'), (32, '1959'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'French'), (50, 'comedian'), (59, 'and'), (63, 'actor'), (68, ','), (70, 'primarily'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'collaborations'), (109, 'with'), (114, 'French'), (121, 'film'), (126, 'director'), (135, 'Jean-Pierre'), (147, 'Jeunet'), (153, ','), (155, 'and'), (159, 'for'), (163, 'playing'), (171, 'Collignon'), (181, 'in'), (184, 'Le'), (187, 'Fabuleux'), (196, 'Destin'), (203, 'd\'Amélie'), (212, 'Poulain'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Urbain Cancelier',0, 16), ('2 August 1959',23, 36), ('a French comedian and actor',41, 68), ('primarily known',70, 85), ('his collaborations',90, 108), ('French film director Jean-Pierre Jeunet',114, 153), ('Le Fabuleux Destin d\'Amélie Poulain',184, 219)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'IN', 'VBG', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Urbain'), (7, 'Cancelier'), (17, '('), (18, 'born'), (23, '2'), (25, 'August'), (32, '1959'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'French'), (50, 'comedian'), (59, 'and'), (63, 'actor'), (68, ','), (70, 'primarily'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'collaborations'), (109, 'with'), (114, 'French'), (121, 'film'), (126, 'director'), (135, 'Jean'), (139, '-'), (140, 'Pierre'), (147, 'Jeunet'), (153, ','), (155, 'and'), (159, 'for'), (163, 'playing'), (171, 'Collignon'), (181, 'in'), (184, 'Le'), (187, 'Fabuleux'), (196, 'Destin'), (203, "d'Amélie"), (212, 'Poulain'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Urbain Cancelier', 0, 16), ('2 August 1959', 23, 36), ('a French comedian', 41, 58), ('his collaborations', 90, 108), ('French film director Jean-Pierre Jeunet', 114, 153), ('Collignon', 171, 180), ("Le Fabuleux Destin d'Amélie Poulain", 184, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', 'NN', 'NNP', 'HYPH', 'NNP', 'NNP', ',', 'CC', 'IN', 'VBG', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

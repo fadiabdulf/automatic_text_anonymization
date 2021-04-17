@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean-Pierre Lorit</title>
+<link/>https://en.wikipedia.org/wiki/Jean-Pierre_Lorit
+<annotated>0</annotated>
+<originalabstract>Jean-Pierre Lorit (born 29 November 1960) is a French actor.
+His most recognizable role is in the film Three Colors: Red.
+In 2005, he performed August Strindberg's Créanciers directed by Hélène Vincent, with Lambert Wilson and Emmanuelle Devos. And he got nominated for a 2006 Molière Awards Best supporting role.</originalabstract>
+<abstract>Jean-Pierre_Lorit ( born_29_November_1960 ) is a_French_actor . His_most_recognizable_role is in the_film_Three_Colors_:_Red . In 2005 , he performed August_Strindberg 's_Créanciers directed by Hélène_Vincent , with Lambert_Wilson and Emmanuelle_Devos . And he got_nominated for a_2006_Molière_Awards_Best_supporting_role .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean-Pierre'), (12, 'Lorit'), (18, '('), (19, 'born'), (24, '29'), (27, 'November'), (36, '1960'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'French'), (54, 'actor'), (59, '.'), (61, 'His'), (65, 'most'), (70, 'recognizable'), (83, 'role'), (88, 'is'), (91, 'in'), (94, 'the'), (98, 'film'), (103, 'Three'), (109, 'Colors'), (115, ':'), (117, 'Red'), (120, '.'), (122, 'In'), (125, '2005'), (129, ','), (131, 'he'), (134, 'performed'), (144, 'August'), (151, 'Strindberg'), (161, '\'s'), (164, 'Créanciers'), (175, 'directed'), (184, 'by'), (187, 'Hélène'), (194, 'Vincent'), (201, ','), (203, 'with'), (208, 'Lambert'), (216, 'Wilson'), (223, 'and'), (227, 'Emmanuelle'), (238, 'Devos'), (243, '.'), (245, 'And'), (249, 'he'), (252, 'got'), (256, 'nominated'), (266, 'for'), (270, 'a'), (272, '2006'), (277, 'Molière'), (285, 'Awards'), (292, 'Best'), (297, 'supporting'), (308, 'role'), (312, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean-Pierre Lorit',0, 17), ('born 29 November 1960',19, 40), ('a French actor',45, 59), ('His most recognizable role',61, 87), ('the film Three Colors: Red',94, 120), ('August Strindberg',144, 161), ('\'s Créanciers',161, 174), ('Hélène Vincent',187, 201), ('Lambert Wilson',208, 222), ('Emmanuelle Devos',227, 243), ('got nominated',252, 265), ('a 2006 Molière Awards Best supporting role',270, 312)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'VBZ', 'IN', 'DT', 'NN', 'CD', 'NNP', ':', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'NNP', 'NNP', 'POS', 'NNP', 'VBN', 'IN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'CC', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'CD', 'NNP', 'NNS', 'JJS', 'VBG', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (4, '-'), (5, 'Pierre'), (12, 'Lorit'), (18, '('), (19, 'born'), (24, '29'), (27, 'November'), (36, '1960'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'French'), (54, 'actor'), (59, '.'), (61, 'His'), (65, 'most'), (70, 'recognizable'), (83, 'role'), (88, 'is'), (91, 'in'), (94, 'the'), (98, 'film'), (103, 'Three'), (109, 'Colors'), (115, ':'), (117, 'Red'), (120, '.'), (122, 'In'), (125, '2005'), (129, ','), (131, 'he'), (134, 'performed'), (144, 'August'), (151, 'Strindberg'), (161, "'s"), (164, 'Créanciers'), (175, 'directed'), (184, 'by'), (187, 'Hélène'), (194, 'Vincent'), (201, ','), (203, 'with'), (208, 'Lambert'), (216, 'Wilson'), (223, 'and'), (227, 'Emmanuelle'), (238, 'Devos'), (243, '.'), (245, 'And'), (249, 'he'), (252, 'got'), (256, 'nominated'), (266, 'for'), (270, 'a'), (272, '2006'), (277, 'Molière'), (285, 'Awards'), (292, 'Best'), (297, 'supporting'), (308, 'role'), (312, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean-Pierre Lorit', 0, 17), ('29 November 1960', 24, 40), ('a French actor', 45, 59), ('His most recognizable role', 61, 87), ('the film', 94, 102), ('Three Colors: Red', 103, 120), ("August Strindberg's Créanciers", 144, 174), ('Hélène Vincent', 187, 201), ('Lambert Wilson', 208, 222), ('Emmanuelle Devos', 227, 243), ('a 2006 Molière Awards Best supporting role', 270, 312)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'VBZ', 'IN', 'DT', 'NN', 'CD', 'NNS', ':', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'NNP', 'NNP', 'POS', 'NNPS', 'VBN', 'IN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'CC', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'CD', 'NNP', 'NNPS', 'RBS', 'VBG', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

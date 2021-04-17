@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lydia Knott</title>
+<link/>https://en.wikipedia.org/wiki/Lydia_Knott
+<annotated>0</annotated>
+<originalabstract>Lydia Knott (October 1, 1866 – March 30, 1955) was an American actress of the silent film era. She appeared in 91 films between 1914 and 1937. She was born in Tyner, Indiana and died in Woodland Hills, Los Angeles.  She was the mother of director Lambert Hillyer.</originalabstract>
+<abstract>Lydia_Knott ( October_1 , 1866 – March_30_,_1955 ) was an_American_actress of the_silent_film_era . She appeared in 91_films between 1914_and_1937 . She was_born in Tyner , Indiana and died in Woodland_Hills , Los_Angeles . She was the_mother of director_Lambert_Hillyer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lydia'), (6, 'Knott'), (12, '('), (13, 'October'), (21, '1'), (22, ','), (24, '1866'), (29, '–'), (31, 'March'), (37, '30'), (39, ','), (41, '1955'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actress'), (71, 'of'), (74, 'the'), (78, 'silent'), (85, 'film'), (90, 'era'), (93, '.'), (95, 'She'), (99, 'appeared'), (108, 'in'), (111, '91'), (114, 'films'), (120, 'between'), (128, '1914'), (133, 'and'), (137, '1937'), (141, '.'), (143, 'She'), (147, 'was'), (151, 'born'), (156, 'in'), (159, 'Tyner'), (164, ','), (166, 'Indiana'), (174, 'and'), (178, 'died'), (183, 'in'), (186, 'Woodland'), (195, 'Hills'), (200, ','), (202, 'Los'), (206, 'Angeles'), (213, '.'), (216, 'She'), (220, 'was'), (224, 'the'), (228, 'mother'), (235, 'of'), (238, 'director'), (247, 'Lambert'), (255, 'Hillyer'), (262, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lydia Knott',0, 11), ('October 1',13, 22), ('March 30, 1955',31, 45), ('an American actress',51, 70), ('the silent film era',74, 93), ('91 films',111, 119), ('1914 and 1937',128, 141), ('was born',147, 155), ('Woodland Hills',186, 200), ('Los Angeles',202, 213), ('the mother',224, 234), ('director Lambert Hillyer',238, 262)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lydia'), (6, 'Knott'), (12, '('), (13, 'October'), (21, '1'), (22, ','), (24, '1866'), (29, '–'), (31, 'March'), (37, '30'), (39, ','), (41, '1955'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actress'), (71, 'of'), (74, 'the'), (78, 'silent'), (85, 'film'), (90, 'era'), (93, '.'), (95, 'She'), (99, 'appeared'), (108, 'in'), (111, '91'), (114, 'films'), (120, 'between'), (128, '1914'), (133, 'and'), (137, '1937'), (141, '.'), (143, 'She'), (147, 'was'), (151, 'born'), (156, 'in'), (159, 'Tyner'), (164, ','), (166, 'Indiana'), (174, 'and'), (178, 'died'), (183, 'in'), (186, 'Woodland'), (195, 'Hills'), (200, ','), (202, 'Los'), (206, 'Angeles'), (213, '.'), (216, 'She'), (220, 'was'), (224, 'the'), (228, 'mother'), (235, 'of'), (238, 'director'), (247, 'Lambert'), (255, 'Hillyer'), (262, '.')])</spacy_tokens>
+<spacy_chunks>[('Lydia Knott', 0, 11), ('(October', 12, 20), ('October 1, 1866', 13, 28), ('March 30, 1955', 31, 45), ('an American actress', 51, 70), ('the silent film era', 74, 93), ('91 films', 111, 119), ('Tyner, Indiana', 159, 173), ('Woodland Hills, Los Angeles', 186, 213), ('the mother', 224, 234), ('director Lambert Hillyer', 238, 262)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

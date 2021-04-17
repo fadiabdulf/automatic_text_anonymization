@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kyle Secor</title>
+<link/>https://en.wikipedia.org/wiki/Kyle_Secor
+<annotated>0</annotated>
+<originalabstract>Kyle Ivan Secor (born May 31, 1957) is an American television and film actor. He is known for portraying Detective Tim Bayliss on the crime drama series Homicide: Life on the Street (1993–1999).</originalabstract>
+<abstract>Kyle_Ivan_Secor ( born May_31_,_1957 ) is an_American_television_and_film_actor . He is_known for portraying Detective_Tim_Bayliss on the_crime_drama_series_Homicide : Life on the_Street_(_1993 – 1999_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kyle'), (5, 'Ivan'), (10, 'Secor'), (16, '('), (17, 'born'), (22, 'May'), (26, '31'), (28, ','), (30, '1957'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'television'), (62, 'and'), (66, 'film'), (71, 'actor'), (76, '.'), (78, 'He'), (81, 'is'), (84, 'known'), (90, 'for'), (94, 'portraying'), (105, 'Detective'), (115, 'Tim'), (119, 'Bayliss'), (127, 'on'), (130, 'the'), (134, 'crime'), (140, 'drama'), (146, 'series'), (153, 'Homicide'), (161, ':'), (163, 'Life'), (168, 'on'), (171, 'the'), (175, 'Street'), (182, '('), (183, '1993'), (187, '–'), (188, '1999'), (192, ')'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kyle Ivan Secor',0, 15), ('May 31, 1957',22, 34), ('an American television and film actor',39, 76), ('is known',81, 89), ('Detective Tim Bayliss',105, 126), ('the crime drama series Homicide',130, 161), ('the Street (1993',171, 187), ('1999)',188, 193)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', ':', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kyle'), (5, 'Ivan'), (10, 'Secor'), (16, '('), (17, 'born'), (22, 'May'), (26, '31'), (28, ','), (30, '1957'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'television'), (62, 'and'), (66, 'film'), (71, 'actor'), (76, '.'), (78, 'He'), (81, 'is'), (84, 'known'), (90, 'for'), (94, 'portraying'), (105, 'Detective'), (115, 'Tim'), (119, 'Bayliss'), (127, 'on'), (130, 'the'), (134, 'crime'), (140, 'drama'), (146, 'series'), (153, 'Homicide'), (161, ':'), (163, 'Life'), (168, 'on'), (171, 'the'), (175, 'Street'), (182, '('), (183, '1993–1999'), (192, ')'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[('Kyle Ivan Secor', 0, 15), ('May 31, 1957', 22, 34), ('an American television and film actor', 39, 76), ('Detective Tim Bayliss', 105, 126), ('the crime drama series', 130, 152), ('Homicide: Life on the Street', 153, 181)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', ':', 'NN', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eric Snowden</title>
+<link/>https://en.wikipedia.org/wiki/Eric_Snowden
+<annotated>0</annotated>
+<originalabstract>Eric Snowden (August 8, 1888 – June 27, 1979) was an English-born actor who appeared in radio, films and television.</originalabstract>
+<abstract>Eric_Snowden ( August_8_,_1888 – June_27_,_1979 ) was an_English-born_actor who appeared in radio_,_films_and_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eric'), (5, 'Snowden'), (13, '('), (14, 'August'), (21, '8'), (22, ','), (24, '1888'), (29, '–'), (31, 'June'), (36, '27'), (38, ','), (40, '1979'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English-born'), (66, 'actor'), (72, 'who'), (76, 'appeared'), (85, 'in'), (88, 'radio'), (93, ','), (95, 'films'), (101, 'and'), (105, 'television'), (115, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eric Snowden',0, 12), ('August 8, 1888',14, 28), ('June 27, 1979',31, 44), ('an English-born actor',50, 71), ('radio, films and television',88, 115)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', ',', 'NNS', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eric'), (5, 'Snowden'), (13, '('), (14, 'August'), (21, '8'), (22, ','), (24, '1888'), (29, '–'), (31, 'June'), (36, '27'), (38, ','), (40, '1979'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English'), (60, '-'), (61, 'born'), (66, 'actor'), (72, 'who'), (76, 'appeared'), (85, 'in'), (88, 'radio'), (93, ','), (95, 'films'), (101, 'and'), (105, 'television'), (115, '.')])</spacy_tokens>
+<spacy_chunks>[('Eric Snowden', 0, 12), ('(August', 13, 20), ('August 8, 1888', 14, 28), ('June 27, 1979', 31, 44), ('an English-born actor', 50, 71), ('television', 105, 115)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'WP', 'VBD', 'IN', 'NN', ',', 'NNS', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

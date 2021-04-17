@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Édouard Mathé</title>
+<link/>https://en.wikipedia.org/wiki/%C3%89douard_Math%C3%A9
+<annotated>0</annotated>
+<originalabstract>Édouard Mathé (1886–1934) was a French silent film actor.
+He starred in some 51 films between 1914 and 1924.
+He appeared Barabbas in 1920. He regularly appeared in films directed by Louis Feuillade, such as the 1915 Les Vampires serial, the 1916 Judex serial, Tih Minh in 1918 and Parisette in 1921.
+He died in Brussels in 1934.</originalabstract>
+<abstract>Édouard_Mathé ( 1886 – 1934 ) was a_French_silent_film_actor . He starred in some_51_films between 1914_and_1924 . He appeared Barabbas in 1920 . He regularly appeared in films directed by Louis_Feuillade , such_as the_1915_Les_Vampires_serial , the_1916_Judex_serial , Tih_Minh in 1918 and Parisette in 1921 . He died in Brussels in 1934 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Édouard'), (8, 'Mathé'), (14, '('), (15, '1886'), (19, '–'), (20, '1934'), (24, ')'), (26, 'was'), (30, 'a'), (32, 'French'), (39, 'silent'), (46, 'film'), (51, 'actor'), (56, '.'), (58, 'He'), (61, 'starred'), (69, 'in'), (72, 'some'), (77, '51'), (80, 'films'), (86, 'between'), (94, '1914'), (99, 'and'), (103, '1924'), (107, '.'), (109, 'He'), (112, 'appeared'), (121, 'Barabbas'), (130, 'in'), (133, '1920'), (137, '.'), (139, 'He'), (142, 'regularly'), (152, 'appeared'), (161, 'in'), (164, 'films'), (170, 'directed'), (179, 'by'), (182, 'Louis'), (188, 'Feuillade'), (197, ','), (199, 'such'), (204, 'as'), (207, 'the'), (211, '1915'), (216, 'Les'), (220, 'Vampires'), (229, 'serial'), (235, ','), (237, 'the'), (241, '1916'), (246, 'Judex'), (252, 'serial'), (258, ','), (260, 'Tih'), (264, 'Minh'), (269, 'in'), (272, '1918'), (277, 'and'), (281, 'Parisette'), (291, 'in'), (294, '1921'), (298, '.'), (300, 'He'), (303, 'died'), (308, 'in'), (311, 'Brussels'), (320, 'in'), (323, '1934'), (327, '.')])</stanford_tokens>
+<opennlp_chunks>[('Édouard Mathé',0, 13), ('a French silent film actor',30, 56), ('some 51 films',72, 85), ('1914 and 1924',94, 107), ('Louis Feuillade',182, 197), ('such as',199, 206), ('the 1915 Les Vampires serial',207, 235), ('the 1916 Judex serial',237, 258), ('Tih Minh',260, 268)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'NNP', 'IN', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', ',', 'JJ', 'IN', 'DT', 'CD', 'NNP', 'NNPS', 'NN', ',', 'DT', 'CD', 'NNP', 'NN', ',', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Édouard'), (8, 'Mathé'), (14, '('), (15, '1886–1934'), (24, ')'), (26, 'was'), (30, 'a'), (32, 'French'), (39, 'silent'), (46, 'film'), (51, 'actor'), (56, '.'), (58, 'He'), (61, 'starred'), (69, 'in'), (72, 'some'), (77, '51'), (80, 'films'), (86, 'between'), (94, '1914'), (99, 'and'), (103, '1924'), (107, '.'), (109, 'He'), (112, 'appeared'), (121, 'Barabbas'), (130, 'in'), (133, '1920'), (137, '.'), (139, 'He'), (142, 'regularly'), (152, 'appeared'), (161, 'in'), (164, 'films'), (170, 'directed'), (179, 'by'), (182, 'Louis'), (188, 'Feuillade'), (197, ','), (199, 'such'), (204, 'as'), (207, 'the'), (211, '1915'), (216, 'Les'), (220, 'Vampires'), (229, 'serial'), (235, ','), (237, 'the'), (241, '1916'), (246, 'Judex'), (252, 'serial'), (258, ','), (260, 'Tih'), (264, 'Minh'), (269, 'in'), (272, '1918'), (277, 'and'), (281, 'Parisette'), (291, 'in'), (294, '1921'), (298, '.'), (300, 'He'), (303, 'died'), (308, 'in'), (311, 'Brussels'), (320, 'in'), (323, '1934'), (327, '.')])</spacy_tokens>
+<spacy_chunks>[('Édouard Mathé', 0, 13), ('a French silent film actor', 30, 56), ('some 51 films', 72, 85), ('Barabbas', 121, 129), ('Louis Feuillade', 182, 197), ('the 1915 Les Vampires serial', 207, 235), ('the 1916 Judex serial', 237, 258), ('Tih Minh', 260, 268), ('Parisette', 281, 290), ('Brussels', 311, 319)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'NNP', 'IN', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', ',', 'JJ', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', ',', 'DT', 'CD', 'NNP', 'NN', ',', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

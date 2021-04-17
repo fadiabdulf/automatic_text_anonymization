@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Laura McKenzie</title>
+<link/>https://en.wikipedia.org/wiki/Laura_McKenzie
+<annotated>0</annotated>
+<originalabstract>Laura McKenzie is an American author, television personality, and a two-time Emmy nominated travel host for her TV series Laura McKenzie's Traveler.</originalabstract>
+<abstract>Laura_McKenzie is an_American_author , television_personality , and a_two-time_Emmy nominated travel_host for her_TV_series_Laura_McKenzie 's_Traveler .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Laura'), (6, 'McKenzie'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'author'), (36, ','), (38, 'television'), (49, 'personality'), (60, ','), (62, 'and'), (66, 'a'), (68, 'two-time'), (77, 'Emmy'), (82, 'nominated'), (92, 'travel'), (99, 'host'), (104, 'for'), (108, 'her'), (112, 'TV'), (115, 'series'), (122, 'Laura'), (128, 'McKenzie'), (136, '\'s'), (139, 'Traveler'), (147, '.')])</stanford_tokens>
+<opennlp_chunks>[('Laura McKenzie',0, 14), ('an American author',18, 36), ('television personality',38, 60), ('a two-time Emmy',66, 81), ('travel host',92, 103), ('her TV series Laura McKenzie',108, 136), ('\'s Traveler',136, 147)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'CC', 'DT', 'JJ', 'NNP', 'VBD', 'NN', 'NN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', 'POS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Laura'), (6, 'McKenzie'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'author'), (36, ','), (38, 'television'), (49, 'personality'), (60, ','), (62, 'and'), (66, 'a'), (68, 'two'), (71, '-'), (72, 'time'), (77, 'Emmy'), (82, 'nominated'), (92, 'travel'), (99, 'host'), (104, 'for'), (108, 'her'), (112, 'TV'), (115, 'series'), (122, 'Laura'), (128, 'McKenzie'), (136, "'s"), (139, 'Traveler'), (147, '.')])</spacy_tokens>
+<spacy_chunks>[('Laura McKenzie', 0, 14), ('an American author', 18, 36), ('television personality', 38, 60), ('Travel', 92, 98), ('her TV series', 108, 121), ("Laura McKenzie's Traveler", 122, 147)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'CC', 'DT', 'CD', 'HYPH', 'NN', 'NNP', 'VBN', 'NN', 'NN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', 'POS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

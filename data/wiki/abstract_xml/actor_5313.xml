@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>William Pierson</title>
+<link/>https://en.wikipedia.org/wiki/William_Pierson
+<annotated>0</annotated>
+<originalabstract>William Pierson (July 17, 1926 – August 27, 2004) was an American television, motion picture and stage actor, best known for his raspy voice and his role as Marko the Mailman in the 1953 film Stalag 17 as well as a recurring role as Dean Travers on the 1970s ABC-TV series  Three's Company.</originalabstract>
+<abstract>William_Pierson ( July_17_,_1926 – August_27_,_2004 ) was an_American_television , motion_picture_and_stage_actor , best_known for his_raspy_voice and his_role as Marko the_Mailman in the_1953_film Stalag_17 as_well as a_recurring_role as Dean_Travers on the_1970s_ABC-TV_series_Three 's_Company .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Pierson'), (16, '('), (17, 'July'), (22, '17'), (24, ','), (26, '1926'), (31, '–'), (33, 'August'), (40, '27'), (42, ','), (44, '2004'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'television'), (76, ','), (78, 'motion'), (85, 'picture'), (93, 'and'), (97, 'stage'), (103, 'actor'), (108, ','), (110, 'best'), (115, 'known'), (121, 'for'), (125, 'his'), (129, 'raspy'), (135, 'voice'), (141, 'and'), (145, 'his'), (149, 'role'), (154, 'as'), (157, 'Marko'), (163, 'the'), (167, 'Mailman'), (175, 'in'), (178, 'the'), (182, '1953'), (187, 'film'), (192, 'Stalag'), (199, '17'), (202, 'as'), (205, 'well'), (210, 'as'), (213, 'a'), (215, 'recurring'), (225, 'role'), (230, 'as'), (233, 'Dean'), (238, 'Travers'), (246, 'on'), (249, 'the'), (253, '1970s'), (259, 'ABC-TV'), (266, 'series'), (274, 'Three'), (279, '\'s'), (282, 'Company'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Pierson',0, 15), ('July 17, 1926',17, 30), ('August 27, 2004',33, 48), ('an American television',54, 76), ('motion picture and stage actor',78, 108), ('best known',110, 120), ('his raspy voice',125, 140), ('his role',145, 153), ('the Mailman',163, 174), ('the 1953 film',178, 191), ('Stalag 17',192, 201), ('as well',202, 209), ('a recurring role',213, 229), ('Dean Travers',233, 245), ('the 1970s ABC-TV series  Three',249, 279), ('\'s Company',279, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'CC', 'PRP$', 'NN', 'IN', 'NNP', 'DT', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'CD', 'RB', 'RB', 'IN', 'DT', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NN', 'NNP', 'POS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Pierson'), (16, '('), (17, 'July'), (22, '17'), (24, ','), (26, '1926'), (31, '–'), (33, 'August'), (40, '27'), (42, ','), (44, '2004'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'television'), (76, ','), (78, 'motion'), (85, 'picture'), (93, 'and'), (97, 'stage'), (103, 'actor'), (108, ','), (110, 'best'), (115, 'known'), (121, 'for'), (125, 'his'), (129, 'raspy'), (135, 'voice'), (141, 'and'), (145, 'his'), (149, 'role'), (154, 'as'), (157, 'Marko'), (163, 'the'), (167, 'Mailman'), (175, 'in'), (178, 'the'), (182, '1953'), (187, 'film'), (192, 'Stalag'), (199, '17'), (202, 'as'), (205, 'well'), (210, 'as'), (213, 'a'), (215, 'recurring'), (225, 'role'), (230, 'as'), (233, 'Dean'), (238, 'Travers'), (246, 'on'), (249, 'the'), (253, '1970s'), (259, 'ABC'), (262, '-'), (263, 'TV'), (266, 'series'), (274, 'Three'), (279, "'s"), (282, 'Company'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('William Pierson', 0, 15), ('July 17, 1926', 17, 30), ('August 27, 2004', 33, 48), ('an American television', 54, 76), ('Motion picture', 78, 92), ('stage actor', 97, 108), ('his raspy voice', 125, 140), ('his role', 145, 153), ('the Mailman', 163, 174), ('the 1953 film', 178, 191), ('Stalag 17', 192, 201), ('a recurring role', 213, 229), ('Dean Travers', 233, 245), ('the 1970s ABC-TV series', 249, 272), ("Three's Company", 274, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'CC', 'PRP$', 'NN', 'IN', 'NNP', 'DT', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'CD', 'RB', 'RB', 'IN', 'DT', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'HYPH', 'NN', 'NN', 'NNP', 'POS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

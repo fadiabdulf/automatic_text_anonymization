@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harrison Ford (silent film actor)</title>
+<link/>https://en.wikipedia.org/wiki/Harrison_Ford_(silent_film_actor)
+<annotated>0</annotated>
+<originalabstract>Harrison Edward Ford (March 16, 1884 – December 2, 1957) was an American stage and film actor. He was a leading Broadway theatre performer and a star of the silent film era.</originalabstract>
+<abstract>Harrison_Edward_Ford ( March_16_,_1884 – December_2_,_1957 ) was an_American_stage_and_film_actor . He was a_leading_Broadway_theatre_performer and a_star of the_silent_film_era .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harrison'), (9, 'Edward'), (16, 'Ford'), (21, '('), (22, 'March'), (28, '16'), (30, ','), (32, '1884'), (37, '–'), (39, 'December'), (48, '2'), (49, ','), (51, '1957'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'stage'), (79, 'and'), (83, 'film'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'was'), (102, 'a'), (104, 'leading'), (112, 'Broadway'), (121, 'theatre'), (129, 'performer'), (139, 'and'), (143, 'a'), (145, 'star'), (150, 'of'), (153, 'the'), (157, 'silent'), (164, 'film'), (169, 'era'), (172, '.')])</stanford_tokens>
+<opennlp_chunks>[('Harrison Edward Ford',0, 20), ('March 16, 1884',22, 36), ('December 2, 1957',39, 55), ('an American stage and film actor',61, 93), ('a leading Broadway theatre performer',102, 138), ('a star',143, 149), ('the silent film era',153, 172)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'VBG', 'NNP', 'NN', 'NN', 'CC', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harrison'), (9, 'Edward'), (16, 'Ford'), (21, '('), (22, 'March'), (28, '16'), (30, ','), (32, '1884'), (37, '–'), (39, 'December'), (48, '2'), (49, ','), (51, '1957'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'stage'), (79, 'and'), (83, 'film'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'was'), (102, 'a'), (104, 'leading'), (112, 'Broadway'), (121, 'theatre'), (129, 'performer'), (139, 'and'), (143, 'a'), (145, 'star'), (150, 'of'), (153, 'the'), (157, 'silent'), (164, 'film'), (169, 'era'), (172, '.')])</spacy_tokens>
+<spacy_chunks>[('Harrison Edward Ford', 0, 20), ('March 16, 1884', 22, 36), ('December 2, 1957', 39, 55), ('an American stage', 61, 78), ('Film actor', 83, 93), ('a leading Broadway theatre performer', 102, 138), ('a star', 143, 149), ('the silent film era', 153, 172)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'VBG', 'NNP', 'NN', 'NN', 'CC', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

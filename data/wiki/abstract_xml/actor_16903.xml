@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kelly LeBrock</title>
+<link/>https://en.wikipedia.org/wiki/Kelly_LeBrock
+<annotated>0</annotated>
+<originalabstract>Kelly LeBrock (born March 24, 1960) is an American-born English actress and model. Her acting debut was in The Woman in Red (1984), co-starring comic actor Gene Wilder. She also starred in the films Weird Science (1985), directed by John Hughes, and Hard to Kill (1990), with Steven Seagal.</originalabstract>
+<abstract>Kelly_LeBrock ( born March_24_,_1960 ) is an_American-born_English_actress_and_model . Her_acting_debut was in The_Woman in Red_(_1984_) , co-starring comic_actor_Gene_Wilder . She also starred in the_films Weird_Science_(_1985_) , directed by John_Hughes , and Hard to_Kill (_1990_) , with Steven_Seagal .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kelly'), (6, 'LeBrock'), (14, '('), (15, 'born'), (20, 'March'), (26, '24'), (28, ','), (30, '1960'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American-born'), (56, 'English'), (64, 'actress'), (72, 'and'), (76, 'model'), (81, '.'), (83, 'Her'), (87, 'acting'), (94, 'debut'), (100, 'was'), (104, 'in'), (107, 'The'), (111, 'Woman'), (117, 'in'), (120, 'Red'), (124, '('), (125, '1984'), (129, ')'), (130, ','), (132, 'co-starring'), (144, 'comic'), (150, 'actor'), (156, 'Gene'), (161, 'Wilder'), (167, '.'), (169, 'She'), (173, 'also'), (178, 'starred'), (186, 'in'), (189, 'the'), (193, 'films'), (199, 'Weird'), (205, 'Science'), (213, '('), (214, '1985'), (218, ')'), (219, ','), (221, 'directed'), (230, 'by'), (233, 'John'), (238, 'Hughes'), (244, ','), (246, 'and'), (250, 'Hard'), (255, 'to'), (258, 'Kill'), (263, '('), (264, '1990'), (268, ')'), (269, ','), (271, 'with'), (276, 'Steven'), (283, 'Seagal'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kelly LeBrock',0, 13), ('March 24, 1960',20, 34), ('an American-born English actress and model',39, 81), ('Her acting debut',83, 99), ('The Woman',107, 116), ('Red (1984)',120, 130), ('comic actor Gene Wilder',144, 167), ('the films',189, 198), ('Weird Science (1985)',199, 219), ('John Hughes',233, 244), ('to Kill',255, 262), ('(1990)',263, 269), ('Steven Seagal',276, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'NN', 'CC', 'NN', '.', 'PRP$', 'VBG', 'NN', 'VBD', 'IN', 'DT', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'VBG', 'JJ', 'NN', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NNS', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'CC', 'JJ', 'TO', 'VB', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kelly'), (6, 'LeBrock'), (14, '('), (15, 'born'), (20, 'March'), (26, '24'), (28, ','), (30, '1960'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (50, '-'), (51, 'born'), (56, 'English'), (64, 'actress'), (72, 'and'), (76, 'model'), (81, '.'), (83, 'Her'), (87, 'acting'), (94, 'debut'), (100, 'was'), (104, 'in'), (107, 'The'), (111, 'Woman'), (117, 'in'), (120, 'Red'), (124, '('), (125, '1984'), (129, ')'), (130, ','), (132, 'co'), (134, '-'), (135, 'starring'), (144, 'comic'), (150, 'actor'), (156, 'Gene'), (161, 'Wilder'), (167, '.'), (169, 'She'), (173, 'also'), (178, 'starred'), (186, 'in'), (189, 'the'), (193, 'films'), (199, 'Weird'), (205, 'Science'), (213, '('), (214, '1985'), (218, ')'), (219, ','), (221, 'directed'), (230, 'by'), (233, 'John'), (238, 'Hughes'), (244, ','), (246, 'and'), (250, 'Hard'), (255, 'to'), (258, 'Kill'), (263, '('), (264, '1990'), (268, ')'), (269, ','), (271, 'with'), (276, 'Steven'), (283, 'Seagal'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('Kelly LeBrock', 0, 13), ('March 24, 1960', 20, 34), ('an American-born English actress', 39, 71), ('Her acting debut', 83, 99), ('The Woman in Red (1984', 107, 129), (', co-starring comic actor Gene Wilder', 130, 167), ('the films', 189, 198), ('Weird Science', 199, 212), ('John Hughes', 233, 244), ('Hard to Kill', 250, 262), ('Steven Seagal', 276, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', 'NN', 'VBD', 'IN', 'DT', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NN', 'JJ', 'VBG', 'JJ', 'NN', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NNS', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'CC', 'JJ', 'TO', 'VB', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

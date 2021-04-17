@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>George McFarland</title>
+<link/>https://en.wikipedia.org/wiki/George_McFarland
+<annotated>0</annotated>
+<originalabstract>George "Spanky" McFarland (October 2, 1928 – June 30, 1993) was an American actor most famous for his appearances as a child in the Our Gang series of short-subject comedies of the 1930s and 1940s. The Our Gang shorts were later syndicated to television as The Little Rascals.</originalabstract>
+<abstract>George_"_Spanky_"_McFarland ( October_2_,_1928 – June_30_,_1993 ) was an_American_actor_most_famous for his_appearances as a_child in the_Our_Gang_series of short-subject_comedies of the_1930s_and_1940s . The_Our_Gang_shorts were_later_syndicated to television as The_Little_Rascals .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, '"'), (8, 'Spanky'), (14, '"'), (16, 'McFarland'), (26, '('), (27, 'October'), (35, '2'), (36, ','), (38, '1928'), (43, '–'), (45, 'June'), (50, '30'), (52, ','), (54, '1993'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actor'), (82, 'most'), (87, 'famous'), (94, 'for'), (98, 'his'), (102, 'appearances'), (114, 'as'), (117, 'a'), (119, 'child'), (125, 'in'), (128, 'the'), (132, 'Our'), (136, 'Gang'), (141, 'series'), (148, 'of'), (151, 'short-subject'), (165, 'comedies'), (174, 'of'), (177, 'the'), (181, '1930s'), (187, 'and'), (191, '1940s'), (196, '.'), (198, 'The'), (202, 'Our'), (206, 'Gang'), (211, 'shorts'), (218, 'were'), (223, 'later'), (229, 'syndicated'), (240, 'to'), (243, 'television'), (254, 'as'), (257, 'The'), (261, 'Little'), (268, 'Rascals'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('George "Spanky" McFarland',0, 25), ('October 2, 1928',27, 42), ('June 30, 1993',45, 58), ('an American actor most famous',64, 93), ('his appearances',98, 113), ('a child',117, 124), ('the Our Gang series',128, 147), ('short-subject comedies',151, 173), ('the 1930s and 1940s',177, 196), ('The Our Gang shorts',198, 217), ('were later syndicated',218, 239), ('The Little Rascals',257, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'IN', 'DT', 'PRP$', 'NN', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'DT', 'PRP$', 'NN', 'NNS', 'VBD', 'RB', 'VBN', 'TO', 'NN', 'IN', 'DT', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, '"'), (8, 'Spanky'), (14, '"'), (16, 'McFarland'), (26, '('), (27, 'October'), (35, '2'), (36, ','), (38, '1928'), (43, '–'), (45, 'June'), (50, '30'), (52, ','), (54, '1993'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actor'), (82, 'most'), (87, 'famous'), (94, 'for'), (98, 'his'), (102, 'appearances'), (114, 'as'), (117, 'a'), (119, 'child'), (125, 'in'), (128, 'the'), (132, 'Our'), (136, 'Gang'), (141, 'series'), (148, 'of'), (151, 'short'), (156, '-'), (157, 'subject'), (165, 'comedies'), (174, 'of'), (177, 'the'), (181, '1930s'), (187, 'and'), (191, '1940s'), (196, '.'), (198, 'The'), (202, 'Our'), (206, 'Gang'), (211, 'shorts'), (218, 'were'), (223, 'later'), (229, 'syndicated'), (240, 'to'), (243, 'television'), (254, 'as'), (257, 'The'), (261, 'Little'), (268, 'Rascals'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('George "Spanky" McFarland', 0, 25), ('(October', 26, 34), ('October 2, 1928', 27, 42), ('June 30, 1993', 45, 58), ('an American actor', 64, 81), ('his appearances', 98, 113), ('a child', 117, 124), ('the Our Gang series', 128, 147), ('short-subject comedies', 151, 173), ('the 1930s', 177, 186), ('The Our Gang shorts', 198, 217), ('television', 243, 253), ('The Little Rascals', 257, 275)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'IN', 'DT', 'PRP$', 'NNP', 'NN', 'IN', 'JJ', 'HYPH', 'NN', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'DT', 'PRP$', 'NNP', 'NNS', 'VBD', 'RB', 'VBN', 'IN', 'NN', 'IN', 'DT', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

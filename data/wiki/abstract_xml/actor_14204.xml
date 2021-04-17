@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tracey Needham</title>
+<link/>https://en.wikipedia.org/wiki/Tracey_Needham
+<annotated>0</annotated>
+<originalabstract>Tracey Needham is an American actress, best known for her television roles as Paige Thatcher on Life Goes On during the series' second to fourth seasons (1990–1993), then on the first season of JAG as Lt. Meg Austin (1995–1996), and as Inspector Candace DeLorenzo on The Division (2001-2003).</originalabstract>
+<abstract>Tracey_Needham is an_American_actress , best_known for her_television_roles as Paige_Thatcher on Life Goes On during the_series_'_second to fourth_seasons ( 1990 – 1993 ) , then on the_first_season of JAG as Lt._Meg_Austin ( 1995 – 1996 ) , and as Inspector_Candace_DeLorenzo on The_Division ( 2001-2003 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tracey'), (7, 'Needham'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'actress'), (37, ','), (39, 'best'), (44, 'known'), (50, 'for'), (54, 'her'), (58, 'television'), (69, 'roles'), (75, 'as'), (78, 'Paige'), (84, 'Thatcher'), (93, 'on'), (96, 'Life'), (101, 'Goes'), (106, 'On'), (109, 'during'), (116, 'the'), (120, 'series'), (126, '\''), (128, 'second'), (135, 'to'), (138, 'fourth'), (145, 'seasons'), (153, '('), (154, '1990'), (158, '–'), (159, '1993'), (163, ')'), (164, ','), (166, 'then'), (171, 'on'), (174, 'the'), (178, 'first'), (184, 'season'), (191, 'of'), (194, 'JAG'), (198, 'as'), (201, 'Lt.'), (205, 'Meg'), (209, 'Austin'), (216, '('), (217, '1995'), (221, '–'), (222, '1996'), (226, ')'), (227, ','), (229, 'and'), (233, 'as'), (236, 'Inspector'), (246, 'Candace'), (254, 'DeLorenzo'), (264, 'on'), (267, 'The'), (271, 'Division'), (280, '('), (281, '2001-2003'), (290, ')'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tracey Needham',0, 14), ('an American actress',18, 37), ('best known',39, 49), ('her television roles',54, 74), ('Paige Thatcher',78, 92), ('the series\' second',116, 134), ('fourth seasons',138, 152), ('the first season',174, 190), ('Lt. Meg Austin',201, 215), ('Inspector Candace DeLorenzo',236, 263), ('The Division',267, 279)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'VBZ', 'IN', 'IN', 'DT', 'NN', '\'\'', 'JJ', 'TO', 'JJ', 'NNS', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'RB', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tracey'), (7, 'Needham'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'actress'), (37, ','), (39, 'best'), (44, 'known'), (50, 'for'), (54, 'her'), (58, 'television'), (69, 'roles'), (75, 'as'), (78, 'Paige'), (84, 'Thatcher'), (93, 'on'), (96, 'Life'), (101, 'Goes'), (106, 'On'), (109, 'during'), (116, 'the'), (120, 'series'), (126, "'"), (128, 'second'), (135, 'to'), (138, 'fourth'), (145, 'seasons'), (153, '('), (154, '1990–1993'), (163, ')'), (164, ','), (166, 'then'), (171, 'on'), (174, 'the'), (178, 'first'), (184, 'season'), (191, 'of'), (194, 'JAG'), (198, 'as'), (201, 'Lt'), (203, '.'), (205, 'Meg'), (209, 'Austin'), (216, '('), (217, '1995–1996'), (226, ')'), (227, ','), (229, 'and'), (233, 'as'), (236, 'Inspector'), (246, 'Candace'), (254, 'DeLorenzo'), (264, 'on'), (267, 'The'), (271, 'Division'), (280, '('), (281, '2001'), (285, '-'), (286, '2003'), (290, ')'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Tracey Needham', 0, 14), ('an American actress', 18, 37), ('her television roles', 54, 74), ('Paige Thatcher', 78, 92), ('Life Goes On', 96, 108), ("the series' second to fourth seasons", 116, 152), ('the first season', 174, 190), ('Meg Austin', 205, 215), ('Inspector Candace DeLorenzo', 236, 263), ('The Division', 267, 279)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NN', 'VBZ', 'RB', 'IN', 'DT', 'NN', 'POS', 'JJ', 'IN', 'JJ', 'NNS', '-LRB-', 'CD', '-RRB-', ',', 'RB', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'NNP', '.', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

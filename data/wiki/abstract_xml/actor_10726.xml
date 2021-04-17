@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tanya Berezin</title>
+<link/>https://en.wikipedia.org/wiki/Tanya_Berezin
+<annotated>0</annotated>
+<originalabstract>Tanya Berezin (born March 25, 1941) is an American actress, co-founder and an artistic director of Circle Repertory Company in New York City, and educator. She has performed on Broadway and Off-Broadway, and has also appeared in a number of films and television series.</originalabstract>
+<abstract>Tanya_Berezin ( born March_25_,_1941 ) is an_American_actress , co-founder and an_artistic_director of Circle_Repertory_Company in New_York_City , and educator . She has_performed on Broadway_and_Off-Broadway , and has_also_appeared in a_number of films and television_series .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tanya'), (6, 'Berezin'), (14, '('), (15, 'born'), (20, 'March'), (26, '25'), (28, ','), (30, '1941'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (58, ','), (60, 'co-founder'), (71, 'and'), (75, 'an'), (78, 'artistic'), (87, 'director'), (96, 'of'), (99, 'Circle'), (106, 'Repertory'), (116, 'Company'), (124, 'in'), (127, 'New'), (131, 'York'), (136, 'City'), (140, ','), (142, 'and'), (146, 'educator'), (154, '.'), (156, 'She'), (160, 'has'), (164, 'performed'), (174, 'on'), (177, 'Broadway'), (186, 'and'), (190, 'Off-Broadway'), (202, ','), (204, 'and'), (208, 'has'), (212, 'also'), (217, 'appeared'), (226, 'in'), (229, 'a'), (231, 'number'), (238, 'of'), (241, 'films'), (247, 'and'), (251, 'television'), (262, 'series'), (268, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tanya Berezin',0, 13), ('March 25, 1941',20, 34), ('an American actress',39, 58), ('an artistic director',75, 95), ('Circle Repertory Company',99, 123), ('New York City',127, 140), ('has performed',160, 173), ('Broadway and Off-Broadway',177, 202), ('has also appeared',208, 225), ('a number',229, 237), ('television series',251, 268)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'CC', 'NNP', ',', 'CC', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNS', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tanya'), (6, 'Berezin'), (14, '('), (15, 'born'), (20, 'March'), (26, '25'), (28, ','), (30, '1941'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (58, ','), (60, 'co'), (62, '-'), (63, 'founder'), (71, 'and'), (75, 'an'), (78, 'artistic'), (87, 'director'), (96, 'of'), (99, 'Circle'), (106, 'Repertory'), (116, 'Company'), (124, 'in'), (127, 'New'), (131, 'York'), (136, 'City'), (140, ','), (142, 'and'), (146, 'educator'), (154, '.'), (156, 'She'), (160, 'has'), (164, 'performed'), (174, 'on'), (177, 'Broadway'), (186, 'and'), (190, 'Off'), (193, '-'), (194, 'Broadway'), (202, ','), (204, 'and'), (208, 'has'), (212, 'also'), (217, 'appeared'), (226, 'in'), (229, 'a'), (231, 'number'), (238, 'of'), (241, 'films'), (247, 'and'), (251, 'television'), (262, 'series'), (268, '.')])</spacy_tokens>
+<spacy_chunks>[('Tanya Berezin', 0, 13), ('March 25, 1941', 20, 34), ('an American actress', 39, 58), ('co-founder', 60, 70), ('an artistic director', 75, 95), ('Circle Repertory Company', 99, 123), ('New York City', 127, 140), ('educator', 146, 154), ('Broadway', 177, 185), ('Off-Broadway', 190, 202), ('a number', 229, 237), ('television series', 251, 268)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'NN', 'CC', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'CC', 'NNP', 'HYPH', 'NNP', ',', 'CC', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNS', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

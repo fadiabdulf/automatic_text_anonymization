@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Spacely</title>
+<link/>https://en.wikipedia.org/wiki/John_Spacely
+<annotated>0</annotated>
+<originalabstract>John Spacely, also known as Gringo, was an American musician, actor, and nightlife personality. His life was chronicled in two Lech Kowalski documentaries, Story of a Junkie and Born To Lose: The Last Rock and Roll Movie.</originalabstract>
+<abstract>John_Spacely , also_known as Gringo , was an_American_musician , actor , and nightlife_personality . His_life was_chronicled in two_Lech_Kowalski_documentaries , Story of a_Junkie and Born_To_Lose : The_Last_Rock and Roll_Movie .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Spacely'), (12, ','), (14, 'also'), (19, 'known'), (25, 'as'), (28, 'Gringo'), (34, ','), (36, 'was'), (40, 'an'), (43, 'American'), (52, 'musician'), (60, ','), (62, 'actor'), (67, ','), (69, 'and'), (73, 'nightlife'), (83, 'personality'), (94, '.'), (96, 'His'), (100, 'life'), (105, 'was'), (109, 'chronicled'), (120, 'in'), (123, 'two'), (127, 'Lech'), (132, 'Kowalski'), (141, 'documentaries'), (154, ','), (156, 'Story'), (162, 'of'), (165, 'a'), (167, 'Junkie'), (174, 'and'), (178, 'Born'), (183, 'To'), (186, 'Lose'), (190, ':'), (192, 'The'), (196, 'Last'), (201, 'Rock'), (206, 'and'), (210, 'Roll'), (215, 'Movie'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Spacely',0, 12), ('also known',14, 24), ('an American musician',40, 60), ('nightlife personality',73, 94), ('His life',96, 104), ('was chronicled',105, 119), ('two Lech Kowalski documentaries',123, 154), ('a Junkie',165, 173), ('Born To Lose',178, 190), ('The Last Rock',192, 205), ('Roll Movie',210, 220)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', 'CD', 'NNP', 'NNP', 'NNS', ',', 'NNP', 'IN', 'DT', 'NN', 'CC', 'VBN', 'TO', 'VB', ':', 'DT', 'JJ', 'NN', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Spacely'), (12, ','), (14, 'also'), (19, 'known'), (25, 'as'), (28, 'Gringo'), (34, ','), (36, 'was'), (40, 'an'), (43, 'American'), (52, 'musician'), (60, ','), (62, 'actor'), (67, ','), (69, 'and'), (73, 'nightlife'), (83, 'personality'), (94, '.'), (96, 'His'), (100, 'life'), (105, 'was'), (109, 'chronicled'), (120, 'in'), (123, 'two'), (127, 'Lech'), (132, 'Kowalski'), (141, 'documentaries'), (154, ','), (156, 'Story'), (162, 'of'), (165, 'a'), (167, 'Junkie'), (174, 'and'), (178, 'Born'), (183, 'To'), (186, 'Lose'), (190, ':'), (192, 'The'), (196, 'Last'), (201, 'Rock'), (206, 'and'), (210, 'Roll'), (215, 'Movie'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('John Spacely', 0, 12), ('Gringo', 28, 34), ('an American musician', 40, 60), ('nightlife personality', 73, 94), ('His life', 96, 104), ('two Lech Kowalski documentaries', 123, 154), ('Story of a Junkie', 156, 173), ('The Last Rock and Roll Movie', 192, 220)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', 'CD', 'NNP', 'NNP', 'NNS', ',', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'VBN', 'TO', 'VB', ':', 'DT', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

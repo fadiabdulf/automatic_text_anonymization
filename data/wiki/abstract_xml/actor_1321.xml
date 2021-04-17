@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lew Cody</title>
+<link/>https://en.wikipedia.org/wiki/Lew_Cody
+<annotated>0</annotated>
+<originalabstract>Lew Cody (born Louis Joseph Côté, February 22, 1884 – May 31, 1934) was an American stage and film actor whose career spanned the silent film and early sound film age. He gained notoriety in the late 1910s for playing "male vamps" in films such as Don't Change Your Husband.</originalabstract>
+<abstract>Lew_Cody ( born Louis_Joseph_Côté , February_22_,_1884 – May_31_,_1934 ) was an_American_stage_and_film_actor whose_career spanned the_silent_film and early_sound_film_age . He gained notoriety in the_late_1910s for playing "_male_vamps " in films such_as Do n't Change_Your_Husband .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lew'), (4, 'Cody'), (9, '('), (10, 'born'), (15, 'Louis'), (21, 'Joseph'), (28, 'Côté'), (32, ','), (34, 'February'), (43, '22'), (45, ','), (47, '1884'), (52, '–'), (54, 'May'), (58, '31'), (60, ','), (62, '1934'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'American'), (84, 'stage'), (90, 'and'), (94, 'film'), (99, 'actor'), (105, 'whose'), (111, 'career'), (118, 'spanned'), (126, 'the'), (130, 'silent'), (137, 'film'), (142, 'and'), (146, 'early'), (152, 'sound'), (158, 'film'), (163, 'age'), (166, '.'), (168, 'He'), (171, 'gained'), (178, 'notoriety'), (188, 'in'), (191, 'the'), (195, 'late'), (200, '1910s'), (206, 'for'), (210, 'playing'), (218, '"'), (219, 'male'), (224, 'vamps'), (229, '"'), (231, 'in'), (234, 'films'), (240, 'such'), (245, 'as'), (248, 'Do'), (250, 'n\'t'), (254, 'Change'), (261, 'Your'), (266, 'Husband'), (273, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lew Cody',0, 8), ('Louis Joseph Côté',15, 32), ('February 22, 1884',34, 51), ('May 31, 1934',54, 66), ('an American stage and film actor',72, 104), ('whose career',105, 117), ('the silent film',126, 141), ('early sound film age',146, 166), ('the late 1910s',191, 205), ('"male vamps',218, 229), ('such as',240, 247), ('Change Your Husband',254, 273)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'NN', '.', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'VBG', '``', 'JJ', 'NNS', '\'\'', 'IN', 'NNS', 'JJ', 'IN', 'VBP', 'RB', 'NNP', 'PRP$', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lew'), (4, 'Cody'), (9, '('), (10, 'born'), (15, 'Louis'), (21, 'Joseph'), (28, 'Côté'), (32, ','), (34, 'February'), (43, '22'), (45, ','), (47, '1884'), (52, '–'), (54, 'May'), (58, '31'), (60, ','), (62, '1934'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'American'), (84, 'stage'), (90, 'and'), (94, 'film'), (99, 'actor'), (105, 'whose'), (111, 'career'), (118, 'spanned'), (126, 'the'), (130, 'silent'), (137, 'film'), (142, 'and'), (146, 'early'), (152, 'sound'), (158, 'film'), (163, 'age'), (166, '.'), (168, 'He'), (171, 'gained'), (178, 'notoriety'), (188, 'in'), (191, 'the'), (195, 'late'), (200, '1910s'), (206, 'for'), (210, 'playing'), (218, '"'), (219, 'male'), (224, 'vamps'), (229, '"'), (231, 'in'), (234, 'films'), (240, 'such'), (245, 'as'), (248, 'Do'), (250, "n't"), (254, 'Change'), (261, 'Your'), (266, 'Husband'), (273, '.')])</spacy_tokens>
+<spacy_chunks>[('Lew Cody', 0, 8), ('Louis Joseph Côté', 15, 32), ('February 22, 1884', 34, 51), ('May 31, 1934', 54, 66), ('an American stage and film actor', 72, 104), ('whose career', 105, 117), ('the silent film', 126, 141), ('early sound film age', 146, 166), ('notoriety', 178, 187), ('the late 1910s', 191, 205), ('"male vamps', 218, 229), ("Don't Change Your Husband", 248, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'VBG', '``', 'JJ', 'NNS', "''", 'IN', 'NNS', 'JJ', 'IN', 'VBP', 'RB', 'VB', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

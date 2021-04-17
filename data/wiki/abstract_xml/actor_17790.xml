@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fiona Hampton</title>
+<link/>https://en.wikipedia.org/wiki/Fiona_Hampton
+<annotated>0</annotated>
+<originalabstract>Fiona Hampton is an English actress who works in theatre, television and film. She is best known for playing Amelia in Kingsman: The Secret Service.</originalabstract>
+<abstract>Fiona_Hampton is an_English_actress who works in theatre_,_television_and_film . She is_best_known for playing Amelia in Kingsman : The_Secret_Service .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fiona'), (6, 'Hampton'), (14, 'is'), (17, 'an'), (20, 'English'), (28, 'actress'), (36, 'who'), (40, 'works'), (46, 'in'), (49, 'theatre'), (56, ','), (58, 'television'), (69, 'and'), (73, 'film'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'playing'), (109, 'Amelia'), (116, 'in'), (119, 'Kingsman'), (127, ':'), (129, 'The'), (133, 'Secret'), (140, 'Service'), (147, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fiona Hampton',0, 13), ('an English actress',17, 35), ('theatre, television and film',49, 77), ('is best known',83, 96), ('The Secret Service',129, 147)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'NNP', ':', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fiona'), (6, 'Hampton'), (14, 'is'), (17, 'an'), (20, 'English'), (28, 'actress'), (36, 'who'), (40, 'works'), (46, 'in'), (49, 'theatre'), (56, ','), (58, 'television'), (69, 'and'), (73, 'film'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'playing'), (109, 'Amelia'), (116, 'in'), (119, 'Kingsman'), (127, ':'), (129, 'The'), (133, 'Secret'), (140, 'Service'), (147, '.')])</spacy_tokens>
+<spacy_chunks>[('Fiona Hampton', 0, 13), ('an English actress', 17, 35), ('theatre', 49, 56), ('television', 58, 68), ('Amelia', 109, 115), ('Kingsman: The Secret Service', 119, 147)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'NNP', ':', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Muse Watson</title>
+<link/>https://en.wikipedia.org/wiki/Muse_Watson
+<annotated>0</annotated>
+<originalabstract>Muse Watson (born July 20, 1948) is an American stage and screen actor. He became known for his roles as Ben Willis, the primary antagonist in the I Know What You Did Last Summer franchise, Charles Westmoreland on the Fox television series Prison Break and as Mike Franks in CBS television series NCIS.</originalabstract>
+<abstract>Muse_Watson ( born July_20_,_1948 ) is an_American_stage_and_screen_actor . He became_known for his_roles as Ben_Willis , the_primary_antagonist in the_I_Know What You Did Last_Summer_franchise , Charles_Westmoreland on the_Fox_television_series_Prison_Break and as Mike_Franks in CBS_television_series_NCIS .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Muse'), (5, 'Watson'), (12, '('), (13, 'born'), (18, 'July'), (23, '20'), (25, ','), (27, '1948'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'stage'), (54, 'and'), (58, 'screen'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'became'), (82, 'known'), (88, 'for'), (92, 'his'), (96, 'roles'), (102, 'as'), (105, 'Ben'), (109, 'Willis'), (115, ','), (117, 'the'), (121, 'primary'), (129, 'antagonist'), (140, 'in'), (143, 'the'), (147, 'I'), (149, 'Know'), (154, 'What'), (159, 'You'), (163, 'Did'), (167, 'Last'), (172, 'Summer'), (179, 'franchise'), (188, ','), (190, 'Charles'), (198, 'Westmoreland'), (211, 'on'), (214, 'the'), (218, 'Fox'), (222, 'television'), (233, 'series'), (240, 'Prison'), (247, 'Break'), (253, 'and'), (257, 'as'), (260, 'Mike'), (265, 'Franks'), (272, 'in'), (275, 'CBS'), (279, 'television'), (290, 'series'), (297, 'NCIS'), (301, '.')])</stanford_tokens>
+<opennlp_chunks>[('Muse Watson',0, 11), ('July 20, 1948',18, 31), ('an American stage and screen actor',36, 70), ('became known',75, 87), ('his roles',92, 101), ('Ben Willis',105, 115), ('the primary antagonist',117, 139), ('the I Know',143, 153), ('Last Summer franchise',167, 188), ('Charles Westmoreland',190, 210), ('the Fox television series Prison Break',214, 252), ('Mike Franks',260, 271), ('CBS television series NCIS',275, 301)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'PRP', 'NNP', 'WDT', 'PRP', 'VBD', 'JJ', 'NN', 'NN', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Muse'), (5, 'Watson'), (12, '('), (13, 'born'), (18, 'July'), (23, '20'), (25, ','), (27, '1948'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'stage'), (54, 'and'), (58, 'screen'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'became'), (82, 'known'), (88, 'for'), (92, 'his'), (96, 'roles'), (102, 'as'), (105, 'Ben'), (109, 'Willis'), (115, ','), (117, 'the'), (121, 'primary'), (129, 'antagonist'), (140, 'in'), (143, 'the'), (147, 'I'), (149, 'Know'), (154, 'What'), (159, 'You'), (163, 'Did'), (167, 'Last'), (172, 'Summer'), (179, 'franchise'), (188, ','), (190, 'Charles'), (198, 'Westmoreland'), (211, 'on'), (214, 'the'), (218, 'Fox'), (222, 'television'), (233, 'series'), (240, 'Prison'), (247, 'Break'), (253, 'and'), (257, 'as'), (260, 'Mike'), (265, 'Franks'), (272, 'in'), (275, 'CBS'), (279, 'television'), (290, 'series'), (297, 'NCIS'), (301, '.')])</spacy_tokens>
+<spacy_chunks>[('Muse Watson', 0, 11), ('July 20, 1948', 18, 31), ('an American stage', 36, 53), ('screen actor', 58, 70), ('his roles', 92, 101), ('Ben Willis', 105, 115), ('the primary antagonist', 117, 139), ('I Know What You Did Last Summer', 147, 178), ('Last Summer franchise', 167, 188), ('Charles Westmoreland', 190, 210), ('the Fox television series', 214, 239), ('Prison Break', 240, 252), ('Mike Franks', 260, 271), ('CBS television series', 275, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'PRP', 'VBP', 'WP', 'PRP', 'VBD', 'JJ', 'NNP', 'NN', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

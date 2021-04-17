@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sally Mansfield</title>
+<link/>https://en.wikipedia.org/wiki/Sally_Mansfield
+<annotated>0</annotated>
+<originalabstract>Marie Mahder (December 13, 1920 – January 28, 2001), best known by her stage name Sally Mansfield, was an American television character actress; she also had a few small roles in feature films including one with Dean Martin and Jerry Lewis.</originalabstract>
+<abstract>Marie_Mahder ( December_13_,_1920 – January_28_,_2001 ) , best_known by her_stage_name_Sally_Mansfield , was an_American_television_character_actress ; she also had a_few_small_roles in feature_films including one with Dean_Martin and Jerry_Lewis .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie'), (6, 'Mahder'), (13, '('), (14, 'December'), (23, '13'), (25, ','), (27, '1920'), (32, '–'), (34, 'January'), (42, '28'), (44, ','), (46, '2001'), (50, ')'), (51, ','), (53, 'best'), (58, 'known'), (64, 'by'), (67, 'her'), (71, 'stage'), (77, 'name'), (82, 'Sally'), (88, 'Mansfield'), (97, ','), (99, 'was'), (103, 'an'), (106, 'American'), (115, 'television'), (126, 'character'), (136, 'actress'), (143, ';'), (145, 'she'), (149, 'also'), (154, 'had'), (158, 'a'), (160, 'few'), (164, 'small'), (170, 'roles'), (176, 'in'), (179, 'feature'), (187, 'films'), (193, 'including'), (203, 'one'), (207, 'with'), (212, 'Dean'), (217, 'Martin'), (224, 'and'), (228, 'Jerry'), (234, 'Lewis'), (239, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie Mahder',0, 12), ('December 13, 1920',14, 31), ('January 28, 2001',34, 50), ('best known',53, 63), ('her stage name Sally Mansfield',67, 97), ('an American television character actress',103, 143), ('a few small roles',158, 175), ('feature films',179, 192), ('Dean Martin',212, 223), ('Jerry Lewis',228, 239)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', ':', 'PRP', 'RB', 'VBD', 'DT', 'JJ', 'JJ', 'NNS', 'IN', 'NN', 'NNS', 'VBG', 'CD', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (6, 'Mahder'), (13, '('), (14, 'December'), (23, '13'), (25, ','), (27, '1920'), (32, '–'), (34, 'January'), (42, '28'), (44, ','), (46, '2001'), (50, ')'), (51, ','), (53, 'best'), (58, 'known'), (64, 'by'), (67, 'her'), (71, 'stage'), (77, 'name'), (82, 'Sally'), (88, 'Mansfield'), (97, ','), (99, 'was'), (103, 'an'), (106, 'American'), (115, 'television'), (126, 'character'), (136, 'actress'), (143, ';'), (145, 'she'), (149, 'also'), (154, 'had'), (158, 'a'), (160, 'few'), (164, 'small'), (170, 'roles'), (176, 'in'), (179, 'feature'), (187, 'films'), (193, 'including'), (203, 'one'), (207, 'with'), (212, 'Dean'), (217, 'Martin'), (224, 'and'), (228, 'Jerry'), (234, 'Lewis'), (239, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie Mahder', 0, 12), ('(December', 13, 22), ('December 13, 1920', 14, 31), ('January 28, 2001', 34, 50), ('her stage name', 67, 81), ('Sally Mansfield', 82, 97), ('an American television character actress', 103, 143), ('a few small roles', 158, 175), ('feature films', 179, 192), ('Dean Martin', 212, 223), ('Jerry Lewis', 228, 239)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', ':', 'PRP', 'RB', 'VBD', 'DT', 'JJ', 'JJ', 'NNS', 'IN', 'NN', 'NNS', 'VBG', 'CD', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

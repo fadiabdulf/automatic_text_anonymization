@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Norma Miller</title>
+<link/>https://en.wikipedia.org/wiki/Norma_Miller
+<annotated>0</annotated>
+<originalabstract>Norma Miller (born December 2, 1919) is a Lindy hop dancer known as the "Queen of Swing". She is also a choreographer, actress and comedian.</originalabstract>
+<abstract>Norma_Miller ( born December_2_,_1919 ) is a_Lindy_hop_dancer known as the_"_Queen of Swing_" . She is also a_choreographer_,_actress_and_comedian .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Norma'), (6, 'Miller'), (13, '('), (14, 'born'), (19, 'December'), (28, '2'), (29, ','), (31, '1919'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'Lindy'), (48, 'hop'), (52, 'dancer'), (59, 'known'), (65, 'as'), (68, 'the'), (72, '"'), (73, 'Queen'), (79, 'of'), (82, 'Swing'), (87, '"'), (88, '.'), (90, 'She'), (94, 'is'), (97, 'also'), (102, 'a'), (104, 'choreographer'), (117, ','), (119, 'actress'), (127, 'and'), (131, 'comedian'), (139, '.')])</stanford_tokens>
+<opennlp_chunks>[('Norma Miller',0, 12), ('December 2, 1919',19, 35), ('a Lindy hop dancer',40, 58), ('the "Queen',68, 78), ('Swing"',82, 88), ('a choreographer, actress and comedian',102, 139)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'NN', 'NN', 'VBN', 'IN', 'DT', '``', 'NN', 'IN', 'VBG', '\'\'', '.', 'PRP', 'VBZ', 'RB', 'DT', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Norma'), (6, 'Miller'), (13, '('), (14, 'born'), (19, 'December'), (28, '2'), (29, ','), (31, '1919'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'Lindy'), (48, 'hop'), (52, 'dancer'), (59, 'known'), (65, 'as'), (68, 'the'), (72, '"'), (73, 'Queen'), (79, 'of'), (82, 'Swing'), (87, '"'), (88, '.'), (90, 'She'), (94, 'is'), (97, 'also'), (102, 'a'), (104, 'choreographer'), (117, ','), (119, 'actress'), (127, 'and'), (131, 'comedian'), (139, '.')])</spacy_tokens>
+<spacy_chunks>[('Norma Miller', 0, 12), ('December 2, 1919', 19, 35), ('a Lindy hop dancer', 40, 58), ('the "Queen', 68, 78), ('a choreographer', 102, 117), ('actress', 119, 126), ('comedian', 131, 139)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'NN', 'NN', 'VBN', 'IN', 'DT', '``', 'NNP', 'IN', 'NNP', "''", '.', 'PRP', 'VBZ', 'RB', 'DT', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

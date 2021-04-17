@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rosine Deréan</title>
+<link/>https://en.wikipedia.org/wiki/Rosine_Der%C3%A9an
+<annotated>0</annotated>
+<originalabstract>Rosine Deréan (23 February 1910 – 14 March 2001) was a French actress.
+Rosine Deréan was born in Paris and died in Genille, Indre-et-Loire, France.</originalabstract>
+<abstract>Rosine_Deréan ( 23_February_1910 – 14_March_2001 ) was a_French_actress . Rosine_Deréan was_born in Paris and died in Genille , Indre-et-Loire , France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rosine'), (7, 'Deréan'), (14, '('), (15, '23'), (18, 'February'), (27, '1910'), (32, '–'), (34, '14'), (37, 'March'), (43, '2001'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'actress'), (69, '.'), (71, 'Rosine'), (78, 'Deréan'), (85, 'was'), (89, 'born'), (94, 'in'), (97, 'Paris'), (103, 'and'), (107, 'died'), (112, 'in'), (115, 'Genille'), (122, ','), (124, 'Indre-et-Loire'), (138, ','), (140, 'France'), (146, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rosine Deréan',0, 13), ('23 February 1910',15, 31), ('14 March 2001',34, 47), ('a French actress',53, 69), ('Rosine Deréan',71, 84), ('was born',85, 93)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rosine'), (7, 'Deréan'), (14, '('), (15, '23'), (18, 'February'), (27, '1910'), (32, '–'), (34, '14'), (37, 'March'), (43, '2001'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'actress'), (69, '.'), (71, 'Rosine'), (78, 'Deréan'), (85, 'was'), (89, 'born'), (94, 'in'), (97, 'Paris'), (103, 'and'), (107, 'died'), (112, 'in'), (115, 'Genille'), (122, ','), (124, 'Indre'), (129, '-'), (130, 'et'), (132, '-'), (133, 'Loire'), (138, ','), (140, 'France'), (146, '.')])</spacy_tokens>
+<spacy_chunks>[('Rosine Deréan', 0, 13), ('23 February 1910', 15, 31), ('14 March 2001', 34, 47), ('a French actress', 53, 69), ('Genille', 115, 122), ('Indre-et-Loire', 124, 138), ('France', 140, 146)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

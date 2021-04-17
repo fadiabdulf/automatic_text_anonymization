@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Danny Pintauro</title>
+<link/>https://en.wikipedia.org/wiki/Danny_Pintauro
+<annotated>0</annotated>
+<originalabstract>Daniel John "Danny" Pintauro (b. January 6, 1976) is an American actor, best known for his role as Jonathan Bower on the popular American sitcom Who's the Boss? as well as his role in the 1983 film Cujo.</originalabstract>
+<abstract>Daniel_John_"_Danny_"_Pintauro ( b._January_6_,_1976 ) is an_American_actor , best_known for his_role as Jonathan_Bower on the_popular_American_sitcom Who 's the_Boss ? as_well as his_role in the_1983_film_Cujo .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Daniel'), (7, 'John'), (12, '"'), (13, 'Danny'), (18, '"'), (20, 'Pintauro'), (29, '('), (30, 'b.'), (33, 'January'), (41, '6'), (42, ','), (44, '1976'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, ','), (72, 'best'), (77, 'known'), (83, 'for'), (87, 'his'), (91, 'role'), (96, 'as'), (99, 'Jonathan'), (108, 'Bower'), (114, 'on'), (117, 'the'), (121, 'popular'), (129, 'American'), (138, 'sitcom'), (145, 'Who'), (148, '\'s'), (151, 'the'), (155, 'Boss'), (159, '?'), (161, 'as'), (164, 'well'), (169, 'as'), (172, 'his'), (176, 'role'), (181, 'in'), (184, 'the'), (188, '1983'), (193, 'film'), (198, 'Cujo'), (202, '.')])</stanford_tokens>
+<opennlp_chunks>[('Daniel John "Danny" Pintauro',0, 28), ('b. January 6, 1976',30, 48), ('an American actor',53, 70), ('best known',72, 82), ('his role',87, 95), ('Jonathan Bower',99, 113), ('the popular American sitcom',117, 144), ('the Boss',151, 159), ('as well',161, 168), ('his role',172, 180), ('the 1983 film Cujo',184, 202)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'WP', 'VBZ', 'DT', 'NNP', '.', 'RB', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Daniel'), (7, 'John'), (12, '"'), (13, 'Danny'), (18, '"'), (20, 'Pintauro'), (29, '('), (30, 'b.'), (33, 'January'), (41, '6'), (42, ','), (44, '1976'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, ','), (72, 'best'), (77, 'known'), (83, 'for'), (87, 'his'), (91, 'role'), (96, 'as'), (99, 'Jonathan'), (108, 'Bower'), (114, 'on'), (117, 'the'), (121, 'popular'), (129, 'American'), (138, 'sitcom'), (145, 'Who'), (148, "'s"), (151, 'the'), (155, 'Boss'), (159, '?'), (161, 'as'), (164, 'well'), (169, 'as'), (172, 'his'), (176, 'role'), (181, 'in'), (184, 'the'), (188, '1983'), (193, 'film'), (198, 'Cujo'), (202, '.')])</spacy_tokens>
+<spacy_chunks>[('Daniel John "Danny" Pintauro', 0, 28), ('(b. January', 29, 40), ('January 6, 1976', 33, 48), ('an American actor', 53, 70), ('his role', 87, 95), ('Jonathan Bower', 99, 113), ('the popular American sitcom', 117, 144), ("Who's the Boss?", 145, 160), ('the 1983 film', 184, 197)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'WP', 'VBZ', 'DT', 'NNP', '.', 'RB', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

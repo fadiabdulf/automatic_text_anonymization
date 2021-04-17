@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Valérie Lemercier</title>
+<link/>https://en.wikipedia.org/wiki/Val%C3%A9rie_Lemercier
+<annotated>0</annotated>
+<originalabstract>Valérie Lemercier (French pronunciation: ​[va.le.ʁi lə.mɛʁ.sje]; born 9 March 1964) is a French actress, screenwriter, director and singer.</originalabstract>
+<abstract>Valérie_Lemercier ( French_pronunciation : [_va.le.ʁi_lə.mɛʁ.sje_] ; born_9_March_1964 ) is a_French_actress , screenwriter , director_and_singer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Valérie'), (8, 'Lemercier'), (18, '('), (19, 'French'), (26, 'pronunciation'), (39, ':'), (42, '['), (43, 'va.le.ʁi'), (52, 'lə.mɛʁ.sje'), (62, ']'), (63, ';'), (65, 'born'), (70, '9'), (72, 'March'), (78, '1964'), (82, ')'), (84, 'is'), (87, 'a'), (89, 'French'), (96, 'actress'), (103, ','), (105, 'screenwriter'), (117, ','), (119, 'director'), (128, 'and'), (132, 'singer'), (138, '.')])</stanford_tokens>
+<opennlp_chunks>[('Valérie Lemercier',0, 17), ('French pronunciation',19, 39), ('[va.le.ʁi lə.mɛʁ.sje]',42, 63), ('born 9 March 1964',65, 82), ('a French actress',87, 103), ('director and singer',119, 138)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NN', ':', '-LRB-', 'FW', 'FW', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Valérie'), (8, 'Lemercier'), (18, '('), (19, 'French'), (26, 'pronunciation'), (39, ':'), (41, '\u200b[va.le.ʁi'), (52, 'lə.mɛʁ.sje'), (62, ']'), (63, ';'), (65, 'born'), (70, '9'), (72, 'March'), (78, '1964'), (82, ')'), (84, 'is'), (87, 'a'), (89, 'French'), (96, 'actress'), (103, ','), (105, 'screenwriter'), (117, ','), (119, 'director'), (128, 'and'), (132, 'singer'), (138, '.')])</spacy_tokens>
+<spacy_chunks>[('Valérie Lemercier', 0, 17), ('French pronunciation', 19, 39), ('9 March 1964', 70, 82), ('a French actress', 87, 103), ('screenwriter', 105, 117), ('director', 119, 127), ('singer', 132, 138)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'JJ', 'NN', ':', ',', '-RRB-', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

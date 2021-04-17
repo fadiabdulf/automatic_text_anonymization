@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Liana Bridges</title>
+<link/>https://en.wikipedia.org/wiki/Liana_Bridges
+<annotated>0</annotated>
+<originalabstract>A liana bridge is a suspended bridge made of liana vines. These bridges are most widespread in the tropical climates of Latin America, Africa and South-East Asia.</originalabstract>
+<abstract>A_liana_bridge is a_suspended_bridge made of liana_vines . These_bridges are most_widespread in the_tropical_climates of Latin_America , Africa and South-East_Asia .</abstract>
+<stanford_tokens>OrderedDict([(0, 'A'), (2, 'liana'), (8, 'bridge'), (15, 'is'), (18, 'a'), (20, 'suspended'), (30, 'bridge'), (37, 'made'), (42, 'of'), (45, 'liana'), (51, 'vines'), (56, '.'), (58, 'These'), (64, 'bridges'), (72, 'are'), (76, 'most'), (81, 'widespread'), (92, 'in'), (95, 'the'), (99, 'tropical'), (108, 'climates'), (117, 'of'), (120, 'Latin'), (126, 'America'), (133, ','), (135, 'Africa'), (142, 'and'), (146, 'South-East'), (157, 'Asia'), (161, '.')])</stanford_tokens>
+<opennlp_chunks>[('A liana bridge',0, 14), ('a suspended bridge',18, 36), ('liana vines',45, 56), ('These bridges',58, 71), ('most widespread',76, 91), ('the tropical climates',95, 116), ('Latin America',120, 133), ('South-East Asia',146, 161)]</opennlp_chunks>
+<stanford_pos>['DT', 'NN', 'NN', 'VBZ', 'DT', 'VBN', 'NN', 'VBN', 'IN', 'NN', 'NNS', '.', 'DT', 'NNS', 'VBP', 'RBS', 'JJ', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'A'), (2, 'liana'), (8, 'bridge'), (15, 'is'), (18, 'a'), (20, 'suspended'), (30, 'bridge'), (37, 'made'), (42, 'of'), (45, 'liana'), (51, 'vines'), (56, '.'), (58, 'These'), (64, 'bridges'), (72, 'are'), (76, 'most'), (81, 'widespread'), (92, 'in'), (95, 'the'), (99, 'tropical'), (108, 'climates'), (117, 'of'), (120, 'Latin'), (126, 'America'), (133, ','), (135, 'Africa'), (142, 'and'), (146, 'South'), (151, '-'), (152, 'East'), (157, 'Asia'), (161, '.')])</spacy_tokens>
+<spacy_chunks>[('A liana bridge', 0, 14), ('a suspended bridge', 18, 36), ('liana vines', 45, 56), ('These bridges', 58, 71), ('the tropical climates', 95, 116), ('Latin America', 120, 133), ('Africa', 135, 141), ('South-East Asia', 146, 161)]</spacy_chunks>
+<spacy_pos>['DT', 'NN', 'NN', 'VBZ', 'DT', 'VBN', 'NN', 'VBN', 'IN', 'NN', 'NNS', '.', 'DT', 'NNS', 'VBP', 'RBS', 'JJ', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', ',', 'NNP', 'CC', 'NNP', 'HYPH', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

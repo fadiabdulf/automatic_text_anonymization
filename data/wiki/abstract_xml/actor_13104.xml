@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Helen Kane</title>
+<link/>https://en.wikipedia.org/wiki/Helen_Kane
+<annotated>0</annotated>
+<originalabstract>Helen Kane (born Helen Clare Schroeder, August 4, 1904 – September 26, 1966) was an American singer. Her signature song was "I Wanna Be Loved by You". Kane's voice and appearance were a source for Fleischer Studios animator Grim Natwick when creating Betty Boop.</originalabstract>
+<abstract>Helen_Kane ( born Helen_Clare_Schroeder , August_4_,_1904 – September_26_,_1966 ) was an_American_singer . Her_signature_song was " I Wan_na_Be_Loved by You " . Kane 's_voice_and_appearance were a_source for Fleischer_Studios_animator_Grim_Natwick when_creating Betty_Boop .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Helen'), (6, 'Kane'), (11, '('), (12, 'born'), (17, 'Helen'), (23, 'Clare'), (29, 'Schroeder'), (38, ','), (40, 'August'), (47, '4'), (48, ','), (50, '1904'), (55, '–'), (57, 'September'), (67, '26'), (69, ','), (71, '1966'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'American'), (93, 'singer'), (99, '.'), (101, 'Her'), (105, 'signature'), (115, 'song'), (120, 'was'), (124, '"'), (125, 'I'), (127, 'Wan'), (130, 'na'), (133, 'Be'), (136, 'Loved'), (142, 'by'), (145, 'You'), (148, '"'), (149, '.'), (151, 'Kane'), (155, '\'s'), (158, 'voice'), (164, 'and'), (168, 'appearance'), (179, 'were'), (184, 'a'), (186, 'source'), (193, 'for'), (197, 'Fleischer'), (207, 'Studios'), (215, 'animator'), (224, 'Grim'), (229, 'Natwick'), (237, 'when'), (242, 'creating'), (251, 'Betty'), (257, 'Boop'), (261, '.')])</stanford_tokens>
+<opennlp_chunks>[('Helen Kane',0, 10), ('Helen Clare Schroeder',17, 38), ('August 4, 1904',40, 54), ('September 26, 1966',57, 75), ('an American singer',81, 99), ('Her signature song',101, 119), ('Wanna Be Loved',127, 141), ('\'s voice and appearance',155, 178), ('a source',184, 192), ('Fleischer Studios animator Grim Natwick',197, 236), ('when creating',237, 250), ('Betty Boop',251, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NN', 'VBD', '``', 'PRP', 'VBP', 'TO', 'VB', 'VBN', 'IN', 'PRP', '\'\'', '.', 'NNP', 'POS', 'NN', 'CC', 'NN', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', 'WRB', 'VBG', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Helen'), (6, 'Kane'), (11, '('), (12, 'born'), (17, 'Helen'), (23, 'Clare'), (29, 'Schroeder'), (38, ','), (40, 'August'), (47, '4'), (48, ','), (50, '1904'), (55, '–'), (57, 'September'), (67, '26'), (69, ','), (71, '1966'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'American'), (93, 'singer'), (99, '.'), (101, 'Her'), (105, 'signature'), (115, 'song'), (120, 'was'), (124, '"'), (125, 'I'), (127, 'Wanna'), (133, 'Be'), (136, 'Loved'), (142, 'by'), (145, 'You'), (148, '"'), (149, '.'), (151, 'Kane'), (155, "'s"), (158, 'voice'), (164, 'and'), (168, 'appearance'), (179, 'were'), (184, 'a'), (186, 'source'), (193, 'for'), (197, 'Fleischer'), (207, 'Studios'), (215, 'animator'), (224, 'Grim'), (229, 'Natwick'), (237, 'when'), (242, 'creating'), (251, 'Betty'), (257, 'Boop'), (261, '.')])</spacy_tokens>
+<spacy_chunks>[('Helen Kane', 0, 10), ('born Helen Clare Schroeder', 12, 38), ('August 4, 1904', 40, 54), ('September 26, 1966', 57, 75), ('an American singer', 81, 99), ('Her signature song', 101, 119), ('I Wanna Be Loved by You', 125, 148), ("Kane's voice", 151, 163), ('appearance', 168, 178), ('a source', 184, 192), ('Fleischer Studios animator Grim Natwick', 197, 236), ('Betty Boop', 251, 261)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NN', 'VBD', '``', 'PRP', 'VBP', 'VB', 'VBN', 'IN', 'PRP', "''", '.', 'NNP', 'POS', 'NN', 'CC', 'NN', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', 'WRB', 'VBG', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

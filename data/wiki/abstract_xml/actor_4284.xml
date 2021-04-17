@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jay Marchant</title>
+<link/>https://en.wikipedia.org/wiki/Jay_Marchant
+<annotated>0</annotated>
+<originalabstract>Jay Marchant (January 7, 1888 – June 14, 1962) was an American film director and actor of the silent era. He directed 22 films between 1921 and 1925, including five film serials for the Universal Film Manufacturing Company.
+He was born in Tripp County, South Dakota and died in Los Angeles County, California.</originalabstract>
+<abstract>Jay_Marchant ( January_7_,_1888 – June_14_,_1962 ) was an_American_film_director_and_actor of the_silent_era . He directed 22_films between 1921_and_1925 , including five_film_serials for the_Universal_Film_Manufacturing_Company . He was_born in Tripp_County , South_Dakota and died in Los_Angeles_County , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jay'), (4, 'Marchant'), (13, '('), (14, 'January'), (22, '7'), (23, ','), (25, '1888'), (30, '–'), (32, 'June'), (37, '14'), (39, ','), (41, '1962'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'film'), (68, 'director'), (77, 'and'), (81, 'actor'), (87, 'of'), (90, 'the'), (94, 'silent'), (101, 'era'), (104, '.'), (106, 'He'), (109, 'directed'), (118, '22'), (121, 'films'), (127, 'between'), (135, '1921'), (140, 'and'), (144, '1925'), (148, ','), (150, 'including'), (160, 'five'), (165, 'film'), (170, 'serials'), (178, 'for'), (182, 'the'), (186, 'Universal'), (196, 'Film'), (201, 'Manufacturing'), (215, 'Company'), (222, '.'), (224, 'He'), (227, 'was'), (231, 'born'), (236, 'in'), (239, 'Tripp'), (245, 'County'), (251, ','), (253, 'South'), (259, 'Dakota'), (266, 'and'), (270, 'died'), (275, 'in'), (278, 'Los'), (282, 'Angeles'), (290, 'County'), (296, ','), (298, 'California'), (308, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jay Marchant',0, 12), ('January 7, 1888',14, 29), ('June 14, 1962',32, 45), ('an American film director and actor',51, 86), ('the silent era',90, 104), ('22 films',118, 126), ('1921 and 1925',135, 148), ('five film serials',160, 177), ('the Universal Film Manufacturing Company',182, 222), ('was born',227, 235), ('Tripp County',239, 251), ('South Dakota',253, 265), ('Los Angeles County',278, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jay'), (4, 'Marchant'), (13, '('), (14, 'January'), (22, '7'), (23, ','), (25, '1888'), (30, '–'), (32, 'June'), (37, '14'), (39, ','), (41, '1962'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'film'), (68, 'director'), (77, 'and'), (81, 'actor'), (87, 'of'), (90, 'the'), (94, 'silent'), (101, 'era'), (104, '.'), (106, 'He'), (109, 'directed'), (118, '22'), (121, 'films'), (127, 'between'), (135, '1921'), (140, 'and'), (144, '1925'), (148, ','), (150, 'including'), (160, 'five'), (165, 'film'), (170, 'serials'), (178, 'for'), (182, 'the'), (186, 'Universal'), (196, 'Film'), (201, 'Manufacturing'), (215, 'Company'), (222, '.'), (224, 'He'), (227, 'was'), (231, 'born'), (236, 'in'), (239, 'Tripp'), (245, 'County'), (251, ','), (253, 'South'), (259, 'Dakota'), (266, 'and'), (270, 'died'), (275, 'in'), (278, 'Los'), (282, 'Angeles'), (290, 'County'), (296, ','), (298, 'California'), (308, '.')])</spacy_tokens>
+<spacy_chunks>[('Jay Marchant', 0, 12), ('(January', 13, 21), ('January 7, 1888', 14, 29), ('June 14, 1962', 32, 45), ('an American film director', 51, 76), ('the silent era', 90, 104), ('22 films', 118, 126), ('five film serials', 160, 177), ('the Universal Film Manufacturing Company', 182, 222), ('Tripp County, South Dakota', 239, 265), ('Los Angeles County, California', 278, 308)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

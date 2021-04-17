@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul America</title>
+<link/>https://en.wikipedia.org/wiki/Paul_America
+<annotated>0</annotated>
+<originalabstract>Paul Johnson (February 25, 1944 – October 19, 1982), better known as Paul America, was an American actor who was a member of Andy Warhol's Superstars. He starred in one Warhol-directed film, My Hustler (1965), and also appeared in Edie Sedgwick's final film Ciao! Manhattan (1972).</originalabstract>
+<abstract>Paul_Johnson ( February_25_,_1944 – October_19_,_1982 ) , better_known as Paul_America , was an_American_actor who was a_member of Andy_Warhol 's_Superstars . He starred in one_Warhol-directed_film , My_Hustler ( 1965_) , and also appeared in Edie_Sedgwick 's_final_film_Ciao ! Manhattan_(_1972_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Johnson'), (13, '('), (14, 'February'), (23, '25'), (25, ','), (27, '1944'), (32, '–'), (34, 'October'), (42, '19'), (44, ','), (46, '1982'), (50, ')'), (51, ','), (53, 'better'), (60, 'known'), (66, 'as'), (69, 'Paul'), (74, 'America'), (81, ','), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'actor'), (105, 'who'), (109, 'was'), (113, 'a'), (115, 'member'), (122, 'of'), (125, 'Andy'), (130, 'Warhol'), (136, '\'s'), (139, 'Superstars'), (149, '.'), (151, 'He'), (154, 'starred'), (162, 'in'), (165, 'one'), (169, 'Warhol-directed'), (185, 'film'), (189, ','), (191, 'My'), (194, 'Hustler'), (202, '('), (203, '1965'), (207, ')'), (208, ','), (210, 'and'), (214, 'also'), (219, 'appeared'), (228, 'in'), (231, 'Edie'), (236, 'Sedgwick'), (244, '\'s'), (247, 'final'), (253, 'film'), (258, 'Ciao'), (262, '!'), (264, 'Manhattan'), (274, '('), (275, '1972'), (279, ')'), (280, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Johnson',0, 12), ('February 25, 1944',14, 31), ('October 19, 1982',34, 50), ('better known',53, 65), ('Paul America',69, 81), ('an American actor',87, 104), ('a member',113, 121), ('Andy Warhol',125, 136), ('\'s Superstars',136, 149), ('one Warhol-directed film',165, 189), ('My Hustler',191, 201), ('1965)',203, 208), ('Edie Sedgwick',231, 244), ('\'s final film Ciao',244, 262), ('Manhattan (1972)',264, 280)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNPS', '.', 'PRP', 'VBD', 'IN', 'CD', 'JJ', 'NN', ',', 'PRP$', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NNP', '.', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Johnson'), (13, '('), (14, 'February'), (23, '25'), (25, ','), (27, '1944'), (32, '–'), (34, 'October'), (42, '19'), (44, ','), (46, '1982'), (50, ')'), (51, ','), (53, 'better'), (60, 'known'), (66, 'as'), (69, 'Paul'), (74, 'America'), (81, ','), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'actor'), (105, 'who'), (109, 'was'), (113, 'a'), (115, 'member'), (122, 'of'), (125, 'Andy'), (130, 'Warhol'), (136, "'s"), (139, 'Superstars'), (149, '.'), (151, 'He'), (154, 'starred'), (162, 'in'), (165, 'one'), (169, 'Warhol'), (175, '-'), (176, 'directed'), (185, 'film'), (189, ','), (191, 'My'), (194, 'Hustler'), (202, '('), (203, '1965'), (207, ')'), (208, ','), (210, 'and'), (214, 'also'), (219, 'appeared'), (228, 'in'), (231, 'Edie'), (236, 'Sedgwick'), (244, "'s"), (247, 'final'), (253, 'film'), (258, 'Ciao'), (262, '!'), (264, 'Manhattan'), (274, '('), (275, '1972'), (279, ')'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Johnson', 0, 12), ('(February', 13, 22), ('February 25, 1944', 14, 31), ('October 19, 1982', 34, 50), ('Paul America', 69, 81), ('an American actor', 87, 104), ('a member', 113, 121), ("Andy Warhol's Superstars", 125, 149), ('one Warhol-directed film', 165, 189), ('My Hustler', 191, 201), ("Edie Sedgwick's final film", 231, 257), ('Ciao! Manhattan', 258, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNPS', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNP', 'HYPH', 'VBN', 'NN', ',', 'PRP$', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NNP', '.', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

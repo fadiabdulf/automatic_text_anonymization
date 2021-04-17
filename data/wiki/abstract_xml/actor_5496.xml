@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gregory Ratoff</title>
+<link/>https://en.wikipedia.org/wiki/Gregory_Ratoff
+<annotated>0</annotated>
+<originalabstract>Gregory Ratoff (born Grigory Vasilyevich Ratner, Russian: Григорий Васильевич Рэтнер, April 20, c. 1893 – December 14, 1960) was a Russian-born American film director, actor and producer. His most famous role as an actor was as producer Max Fabian in All About Eve (1950).</originalabstract>
+<abstract>Gregory_Ratoff ( born Grigory_Vasilyevich_Ratner , Russian : Григорий_Васильевич_Рэтнер , April_20 , c. 1893 – December_14_,_1960 ) was a_Russian-born_American_film_director , actor_and_producer . His_most_famous_role as an_actor was as producer_Max_Fabian in All About Eve_(_1950_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gregory'), (8, 'Ratoff'), (15, '('), (16, 'born'), (21, 'Grigory'), (29, 'Vasilyevich'), (41, 'Ratner'), (47, ','), (49, 'Russian'), (56, ':'), (58, 'Григорий'), (67, 'Васильевич'), (78, 'Рэтнер'), (84, ','), (86, 'April'), (92, '20'), (94, ','), (96, 'c.'), (99, '1893'), (104, '–'), (106, 'December'), (115, '14'), (117, ','), (119, '1960'), (123, ')'), (125, 'was'), (129, 'a'), (131, 'Russian-born'), (144, 'American'), (153, 'film'), (158, 'director'), (166, ','), (168, 'actor'), (174, 'and'), (178, 'producer'), (186, '.'), (188, 'His'), (192, 'most'), (197, 'famous'), (204, 'role'), (209, 'as'), (212, 'an'), (215, 'actor'), (221, 'was'), (225, 'as'), (228, 'producer'), (237, 'Max'), (241, 'Fabian'), (248, 'in'), (251, 'All'), (255, 'About'), (261, 'Eve'), (265, '('), (266, '1950'), (270, ')'), (271, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gregory Ratoff',0, 14), ('Grigory Vasilyevich Ratner',21, 47), ('Григорий Васильевич Рэтнер',58, 84), ('April 20',86, 94), ('December 14, 1960',106, 123), ('a Russian-born American film director',129, 166), ('actor and producer',168, 186), ('His most famous role',188, 208), ('an actor',212, 220), ('producer Max Fabian',228, 247), ('Eve (1950)',261, 271)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', ':', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'VBP', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'IN', 'DT', 'NN', 'VBD', 'IN', 'NN', 'NN', 'NNP', 'IN', 'DT', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gregory'), (8, 'Ratoff'), (15, '('), (16, 'born'), (21, 'Grigory'), (29, 'Vasilyevich'), (41, 'Ratner'), (47, ','), (49, 'Russian'), (56, ':'), (58, 'Григорий'), (67, 'Васильевич'), (78, 'Рэтнер'), (84, ','), (86, 'April'), (92, '20'), (94, ','), (96, 'c.'), (99, '1893'), (104, '–'), (106, 'December'), (115, '14'), (117, ','), (119, '1960'), (123, ')'), (125, 'was'), (129, 'a'), (131, 'Russian'), (138, '-'), (139, 'born'), (144, 'American'), (153, 'film'), (158, 'director'), (166, ','), (168, 'actor'), (174, 'and'), (178, 'producer'), (186, '.'), (188, 'His'), (192, 'most'), (197, 'famous'), (204, 'role'), (209, 'as'), (212, 'an'), (215, 'actor'), (221, 'was'), (225, 'as'), (228, 'producer'), (237, 'Max'), (241, 'Fabian'), (248, 'in'), (251, 'All'), (255, 'About'), (261, 'Eve'), (265, '('), (266, '1950'), (270, ')'), (271, '.')])</spacy_tokens>
+<spacy_chunks>[('Gregory Ratoff', 0, 14), ('(born Grigory Vasilyevich Ratner', 15, 47), ('Russian', 49, 56), ('Григорий', 58, 66), ('Васильевич Рэтнер', 67, 84), ('December 14, 1960', 106, 123), ('a Russian-born American film director', 129, 166), ('producer', 178, 186), ('His most famous role', 188, 208), ('an actor', 212, 220), ('producer Max Fabian', 228, 247), ('All About Eve', 251, 264)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', ':', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'NN', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'IN', 'DT', 'NN', 'VBD', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

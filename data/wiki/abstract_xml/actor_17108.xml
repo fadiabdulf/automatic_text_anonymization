@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Pat Paterson</title>
+<link/>https://en.wikipedia.org/wiki/Pat_Paterson
+<annotated>0</annotated>
+<originalabstract>Pat Paterson (10 April 1910 – 24 August 1978) was an English film actress. Although she made more than 20 films, she is best known as the wife of actor Charles Boyer. The couple's only child, Michael, died by self-inflicted gunshot at the age of 21.</originalabstract>
+<abstract>Pat_Paterson ( 10_April_1910 – 24_August_1978 ) was an_English_film_actress . Although she made more_than_20_films , she is_best_known as the_wife of actor_Charles_Boyer . The_couple 's_only_child , Michael , died by self-inflicted_gunshot at the_age of 21 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Pat'), (4, 'Paterson'), (13, '('), (14, '10'), (17, 'April'), (23, '1910'), (28, '–'), (30, '24'), (33, 'August'), (40, '1978'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English'), (61, 'film'), (66, 'actress'), (73, '.'), (75, 'Although'), (84, 'she'), (88, 'made'), (93, 'more'), (98, 'than'), (103, '20'), (106, 'films'), (111, ','), (113, 'she'), (117, 'is'), (120, 'best'), (125, 'known'), (131, 'as'), (134, 'the'), (138, 'wife'), (143, 'of'), (146, 'actor'), (152, 'Charles'), (160, 'Boyer'), (165, '.'), (167, 'The'), (171, 'couple'), (177, '\'s'), (180, 'only'), (185, 'child'), (190, ','), (192, 'Michael'), (199, ','), (201, 'died'), (206, 'by'), (209, 'self-inflicted'), (224, 'gunshot'), (232, 'at'), (235, 'the'), (239, 'age'), (243, 'of'), (246, '21'), (248, '.')])</stanford_tokens>
+<opennlp_chunks>[('Pat Paterson',0, 12), ('10 April 1910',14, 27), ('24 August 1978',30, 44), ('an English film actress',50, 73), ('more than 20 films',93, 111), ('is best known',117, 130), ('the wife',134, 142), ('actor Charles Boyer',146, 165), ('The couple',167, 177), ('\'s only child',177, 190), ('self-inflicted gunshot',209, 231), ('the age',235, 242)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'IN', 'PRP', 'VBD', 'JJR', 'IN', 'CD', 'NNS', ',', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.', 'DT', 'NN', 'POS', 'JJ', 'NN', ',', 'NNP', ',', 'VBD', 'IN', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Pat'), (4, 'Paterson'), (13, '('), (14, '10'), (17, 'April'), (23, '1910'), (28, '–'), (30, '24'), (33, 'August'), (40, '1978'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English'), (61, 'film'), (66, 'actress'), (73, '.'), (75, 'Although'), (84, 'she'), (88, 'made'), (93, 'more'), (98, 'than'), (103, '20'), (106, 'films'), (111, ','), (113, 'she'), (117, 'is'), (120, 'best'), (125, 'known'), (131, 'as'), (134, 'the'), (138, 'wife'), (143, 'of'), (146, 'actor'), (152, 'Charles'), (160, 'Boyer'), (165, '.'), (167, 'The'), (171, 'couple'), (177, "'s"), (180, 'only'), (185, 'child'), (190, ','), (192, 'Michael'), (199, ','), (201, 'died'), (206, 'by'), (209, 'self'), (213, '-'), (214, 'inflicted'), (224, 'gunshot'), (232, 'at'), (235, 'the'), (239, 'age'), (243, 'of'), (246, '21'), (248, '.')])</spacy_tokens>
+<spacy_chunks>[('Pat Paterson', 0, 12), ('10 April 1910', 14, 27), ('24 August 1978', 30, 44), ('an English film actress', 50, 73), ('more than 20 films', 93, 111), ('the wife', 134, 142), ('actor Charles Boyer', 146, 165), ("The couple's only child", 167, 190), ('Michael', 192, 199), ('self-inflicted gunshot', 209, 231), ('the age', 235, 242)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'IN', 'PRP', 'VBD', 'JJR', 'IN', 'CD', 'NNS', ',', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.', 'DT', 'NN', 'POS', 'JJ', 'NN', ',', 'NNP', ',', 'VBD', 'IN', 'NN', 'HYPH', 'VBN', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

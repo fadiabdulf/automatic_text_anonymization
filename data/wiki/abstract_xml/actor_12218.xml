@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Isabelle De Funès</title>
+<link/>https://en.wikipedia.org/wiki/Isabelle_De_Fun%C3%A8s
+<annotated>0</annotated>
+<originalabstract>Isabelle Christine Inès Léonore Girard (born July 27, 1944), better known by the name Isabelle De Funès, is a French actress, singer, model and photographer. She is best known for her portrayal of Guido Crepax's comic book character Valentina in the erotic thriller, Baba Yaga (1973).</originalabstract>
+<abstract>Isabelle_Christine_Inès_Léonore_Girard ( born July_27_,_1944 ) , better_known by the_name_Isabelle_De_Funès , is a_French_actress , singer_,_model_and_photographer . She is_best_known for her_portrayal of Guido_Crepax 's_comic_book_character_Valentina in the_erotic_thriller , Baba_Yaga_(_1973_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Isabelle'), (9, 'Christine'), (19, 'Inès'), (24, 'Léonore'), (32, 'Girard'), (39, '('), (40, 'born'), (45, 'July'), (50, '27'), (52, ','), (54, '1944'), (58, ')'), (59, ','), (61, 'better'), (68, 'known'), (74, 'by'), (77, 'the'), (81, 'name'), (86, 'Isabelle'), (95, 'De'), (98, 'Funès'), (103, ','), (105, 'is'), (108, 'a'), (110, 'French'), (117, 'actress'), (124, ','), (126, 'singer'), (132, ','), (134, 'model'), (140, 'and'), (144, 'photographer'), (156, '.'), (158, 'She'), (162, 'is'), (165, 'best'), (170, 'known'), (176, 'for'), (180, 'her'), (184, 'portrayal'), (194, 'of'), (197, 'Guido'), (203, 'Crepax'), (209, '\'s'), (212, 'comic'), (218, 'book'), (223, 'character'), (233, 'Valentina'), (243, 'in'), (246, 'the'), (250, 'erotic'), (257, 'thriller'), (265, ','), (267, 'Baba'), (272, 'Yaga'), (277, '('), (278, '1973'), (282, ')'), (283, '.')])</stanford_tokens>
+<opennlp_chunks>[('Isabelle Christine Inès Léonore Girard',0, 38), ('July 27, 1944',45, 58), ('better known',61, 73), ('the name Isabelle De Funès',77, 103), ('a French actress',108, 124), ('singer, model and photographer',126, 156), ('is best known',162, 175), ('her portrayal',180, 193), ('Guido Crepax',197, 209), ('\'s comic book character Valentina',209, 242), ('the erotic thriller',246, 265), ('Baba Yaga (1973)',267, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NN', 'NNP', 'IN', 'DT', 'JJ', 'NN', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Isabelle'), (9, 'Christine'), (19, 'Inès'), (24, 'Léonore'), (32, 'Girard'), (39, '('), (40, 'born'), (45, 'July'), (50, '27'), (52, ','), (54, '1944'), (58, ')'), (59, ','), (61, 'better'), (68, 'known'), (74, 'by'), (77, 'the'), (81, 'name'), (86, 'Isabelle'), (95, 'De'), (98, 'Funès'), (103, ','), (105, 'is'), (108, 'a'), (110, 'French'), (117, 'actress'), (124, ','), (126, 'singer'), (132, ','), (134, 'model'), (140, 'and'), (144, 'photographer'), (156, '.'), (158, 'She'), (162, 'is'), (165, 'best'), (170, 'known'), (176, 'for'), (180, 'her'), (184, 'portrayal'), (194, 'of'), (197, 'Guido'), (203, 'Crepax'), (209, "'s"), (212, 'comic'), (218, 'book'), (223, 'character'), (233, 'Valentina'), (243, 'in'), (246, 'the'), (250, 'erotic'), (257, 'thriller'), (265, ','), (267, 'Baba'), (272, 'Yaga'), (277, '('), (278, '1973'), (282, ')'), (283, '.')])</spacy_tokens>
+<spacy_chunks>[('Isabelle Christine Inès Léonore Girard', 0, 38), ('July 27, 1944', 45, 58), ('the name', 77, 85), ('Isabelle De Funès', 86, 103), ('a French actress', 108, 124), ('singer', 126, 132), ('photographer', 144, 156), ('her portrayal', 180, 193), ("Guido Crepax's comic book character", 197, 232), ('Valentina', 233, 242), ('the erotic thriller', 246, 265), ('Baba Yaga', 267, 276)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NN', 'NNP', 'IN', 'DT', 'JJ', 'NN', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

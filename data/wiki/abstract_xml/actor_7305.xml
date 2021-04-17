@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hank Worden</title>
+<link/>https://en.wikipedia.org/wiki/Hank_Worden
+<annotated>0</annotated>
+<originalabstract>Hank Worden (born Norton Earl Worden July 23, 1901 – December 6, 1992) was an American cowboy-turned-character actor who appeared in many Westerns, including many John Ford films like The Searchers and the TV series The Lone Ranger.</originalabstract>
+<abstract>Hank_Worden ( born Norton_Earl_Worden_July_23_,_1901 – December_6_,_1992 ) was an_American_cowboy-turned-character_actor who appeared in many_Westerns , including many_John_Ford_films like The_Searchers and the_TV_series The_Lone_Ranger .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hank'), (5, 'Worden'), (12, '('), (13, 'born'), (18, 'Norton'), (25, 'Earl'), (30, 'Worden'), (37, 'July'), (42, '23'), (44, ','), (46, '1901'), (51, '–'), (53, 'December'), (62, '6'), (63, ','), (65, '1992'), (69, ')'), (71, 'was'), (75, 'an'), (78, 'American'), (87, 'cowboy-turned-character'), (111, 'actor'), (117, 'who'), (121, 'appeared'), (130, 'in'), (133, 'many'), (138, 'Westerns'), (146, ','), (148, 'including'), (158, 'many'), (163, 'John'), (168, 'Ford'), (173, 'films'), (179, 'like'), (184, 'The'), (188, 'Searchers'), (198, 'and'), (202, 'the'), (206, 'TV'), (209, 'series'), (216, 'The'), (220, 'Lone'), (225, 'Ranger'), (231, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hank Worden',0, 11), ('Norton Earl Worden July 23, 1901',18, 50), ('December 6, 1992',53, 69), ('an American cowboy-turned-character actor',75, 116), ('many Westerns',133, 146), ('many John Ford films',158, 178), ('The Searchers',184, 197), ('the TV series',202, 215), ('The Lone Ranger',216, 231)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', ',', 'VBG', 'JJ', 'NNP', 'NNP', 'NNS', 'IN', 'DT', 'NNPS', 'CC', 'DT', 'NN', 'NN', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hank'), (5, 'Worden'), (12, '('), (13, 'born'), (18, 'Norton'), (25, 'Earl'), (30, 'Worden'), (37, 'July'), (42, '23'), (44, ','), (46, '1901'), (51, '–'), (53, 'December'), (62, '6'), (63, ','), (65, '1992'), (69, ')'), (71, 'was'), (75, 'an'), (78, 'American'), (87, 'cowboy'), (93, '-'), (94, 'turned'), (100, '-'), (101, 'character'), (111, 'actor'), (117, 'who'), (121, 'appeared'), (130, 'in'), (133, 'many'), (138, 'Westerns'), (146, ','), (148, 'including'), (158, 'many'), (163, 'John'), (168, 'Ford'), (173, 'films'), (179, 'like'), (184, 'The'), (188, 'Searchers'), (198, 'and'), (202, 'the'), (206, 'TV'), (209, 'series'), (216, 'The'), (220, 'Lone'), (225, 'Ranger'), (231, '.')])</spacy_tokens>
+<spacy_chunks>[('Hank Worden', 0, 11), ('July 23, 1901', 37, 50), ('December 6, 1992', 53, 69), ('an American cowboy-turned-character actor', 75, 116), ('many Westerns', 133, 146), ('many John Ford films', 158, 178), ('The Searchers', 184, 197), ('the TV series', 202, 215), ('The Lone Ranger', 216, 231)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'HYPH', 'VBN', 'HYPH', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNP', ',', 'VBG', 'JJ', 'NNP', 'NNP', 'NNS', 'IN', 'DT', 'NNPS', 'CC', 'DT', 'NN', 'NN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

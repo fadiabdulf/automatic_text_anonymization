@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lori Beth Denberg</title>
+<link/>https://en.wikipedia.org/wiki/Lori_Beth_Denberg
+<annotated>0</annotated>
+<originalabstract>Lori Beth Denberg (born February 2, 1976) is an American actress and comedian. She is best known for her work as an original cast member of the Nickelodeon sketch comedy series All That and for her role as Lydia Liza Gutman on The WB sitcom The Steve Harvey Show.</originalabstract>
+<abstract>Lori_Beth_Denberg ( born February_2_,_1976 ) is an_American_actress_and_comedian . She is_best_known for her_work as an_original_cast_member of the_Nickelodeon_sketch_comedy_series All_That and for her_role as Lydia_Liza_Gutman on The_WB_sitcom The_Steve_Harvey_Show .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lori'), (5, 'Beth'), (10, 'Denberg'), (18, '('), (19, 'born'), (24, 'February'), (33, '2'), (34, ','), (36, '1976'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'comedian'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'her'), (105, 'work'), (110, 'as'), (113, 'an'), (116, 'original'), (125, 'cast'), (130, 'member'), (137, 'of'), (140, 'the'), (144, 'Nickelodeon'), (156, 'sketch'), (163, 'comedy'), (170, 'series'), (177, 'All'), (181, 'That'), (186, 'and'), (190, 'for'), (194, 'her'), (198, 'role'), (203, 'as'), (206, 'Lydia'), (212, 'Liza'), (217, 'Gutman'), (224, 'on'), (227, 'The'), (231, 'WB'), (234, 'sitcom'), (241, 'The'), (245, 'Steve'), (251, 'Harvey'), (258, 'Show'), (262, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lori Beth Denberg',0, 17), ('February 2, 1976',24, 40), ('an American actress and comedian',45, 77), ('is best known',83, 96), ('her work',101, 109), ('an original cast member',113, 136), ('the Nickelodeon sketch comedy series',140, 176), ('All That',177, 185), ('her role',194, 202), ('Lydia Liza Gutman',206, 223), ('The WB sitcom',227, 240), ('The Steve Harvey Show',241, 262)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NN', 'DT', 'DT', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lori'), (5, 'Beth'), (10, 'Denberg'), (18, '('), (19, 'born'), (24, 'February'), (33, '2'), (34, ','), (36, '1976'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'comedian'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'her'), (105, 'work'), (110, 'as'), (113, 'an'), (116, 'original'), (125, 'cast'), (130, 'member'), (137, 'of'), (140, 'the'), (144, 'Nickelodeon'), (156, 'sketch'), (163, 'comedy'), (170, 'series'), (177, 'All'), (181, 'That'), (186, 'and'), (190, 'for'), (194, 'her'), (198, 'role'), (203, 'as'), (206, 'Lydia'), (212, 'Liza'), (217, 'Gutman'), (224, 'on'), (227, 'The'), (231, 'WB'), (234, 'sitcom'), (241, 'The'), (245, 'Steve'), (251, 'Harvey'), (258, 'Show'), (262, '.')])</spacy_tokens>
+<spacy_chunks>[('Lori Beth Denberg', 0, 17), ('February 2, 1976', 24, 40), ('an American actress', 45, 64), ('comedian', 69, 77), ('her work', 101, 109), ('an original cast member', 113, 136), ('the Nickelodeon sketch comedy series', 140, 176), ('All That', 177, 185), ('her role', 194, 202), ('Lydia Liza Gutman', 206, 223), ('The WB sitcom', 227, 240), ('The Steve Harvey Show', 241, 262)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNP', 'DT', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

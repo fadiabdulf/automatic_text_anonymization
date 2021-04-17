@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brian Delate</title>
+<link/>https://en.wikipedia.org/wiki/Brian_Delate
+<annotated>0</annotated>
+<originalabstract>Brian Delate (born April 8, 1949) is an American actor.
+He was born in Trenton, New Jersey, to Joseph and Patricia Delate, and was primarily raised in Bucks County, Pennsylvania.
+Delate served in the Vietnam War before entering a career in acting. 
+Brian is best known worldwide for portraying Walter Moore/Kirk Burbank in the 1998 Paramount film The Truman Show.
+Delate lives in California.</originalabstract>
+<abstract>Brian_Delate ( born April_8_,_1949 ) is an_American_actor . He was_born in Trenton , New_Jersey , to Joseph and Patricia_Delate , and was_primarily_raised in Bucks_County , Pennsylvania . Delate served in the_Vietnam_War before entering a_career in acting . Brian is_best_known worldwide for portraying Walter_Moore/Kirk_Burbank in the_1998_Paramount_film The_Truman_Show . Delate lives in California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brian'), (6, 'Delate'), (13, '('), (14, 'born'), (19, 'April'), (25, '8'), (26, ','), (28, '1949'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, '.'), (56, 'He'), (59, 'was'), (63, 'born'), (68, 'in'), (71, 'Trenton'), (78, ','), (80, 'New'), (84, 'Jersey'), (90, ','), (92, 'to'), (95, 'Joseph'), (102, 'and'), (106, 'Patricia'), (115, 'Delate'), (121, ','), (123, 'and'), (127, 'was'), (131, 'primarily'), (141, 'raised'), (148, 'in'), (151, 'Bucks'), (157, 'County'), (163, ','), (165, 'Pennsylvania'), (177, '.'), (179, 'Delate'), (186, 'served'), (193, 'in'), (196, 'the'), (200, 'Vietnam'), (208, 'War'), (212, 'before'), (219, 'entering'), (228, 'a'), (230, 'career'), (237, 'in'), (240, 'acting'), (246, '.'), (249, 'Brian'), (255, 'is'), (258, 'best'), (263, 'known'), (269, 'worldwide'), (279, 'for'), (283, 'portraying'), (294, 'Walter'), (301, 'Moore/Kirk'), (312, 'Burbank'), (320, 'in'), (323, 'the'), (327, '1998'), (332, 'Paramount'), (342, 'film'), (347, 'The'), (351, 'Truman'), (358, 'Show'), (362, '.'), (364, 'Delate'), (371, 'lives'), (377, 'in'), (380, 'California'), (390, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brian Delate',0, 12), ('April 8, 1949',19, 32), ('an American actor',37, 54), ('was born',59, 67), ('New Jersey',80, 90), ('Patricia Delate',106, 121), ('was primarily raised',127, 147), ('Bucks County',151, 163), ('the Vietnam War',196, 211), ('a career',228, 236), ('is best known',255, 268), ('Walter Moore/Kirk Burbank',294, 319), ('the 1998 Paramount film',323, 346), ('The Truman Show',347, 362)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'TO', 'NNP', 'CC', 'NNP', 'NNP', ',', 'CC', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'NNP', 'VBD', 'IN', 'DT', 'NNP', 'NN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'VBG', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'JJ', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NN', 'DT', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brian'), (6, 'Delate'), (13, '('), (14, 'born'), (19, 'April'), (25, '8'), (26, ','), (28, '1949'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, '.'), (56, 'He'), (59, 'was'), (63, 'born'), (68, 'in'), (71, 'Trenton'), (78, ','), (80, 'New'), (84, 'Jersey'), (90, ','), (92, 'to'), (95, 'Joseph'), (102, 'and'), (106, 'Patricia'), (115, 'Delate'), (121, ','), (123, 'and'), (127, 'was'), (131, 'primarily'), (141, 'raised'), (148, 'in'), (151, 'Bucks'), (157, 'County'), (163, ','), (165, 'Pennsylvania'), (177, '.'), (179, 'Delate'), (186, 'served'), (193, 'in'), (196, 'the'), (200, 'Vietnam'), (208, 'War'), (212, 'before'), (219, 'entering'), (228, 'a'), (230, 'career'), (237, 'in'), (240, 'acting'), (246, '.'), (249, 'Brian'), (255, 'is'), (258, 'best'), (263, 'known'), (269, 'worldwide'), (279, 'for'), (283, 'portraying'), (294, 'Walter'), (301, 'Moore'), (306, '/'), (307, 'Kirk'), (312, 'Burbank'), (320, 'in'), (323, 'the'), (327, '1998'), (332, 'Paramount'), (342, 'film'), (347, 'The'), (351, 'Truman'), (358, 'Show'), (362, '.'), (364, 'Delate'), (371, 'lives'), (377, 'in'), (380, 'California'), (390, '.')])</spacy_tokens>
+<spacy_chunks>[('Brian Delate', 0, 12), ('April 8, 1949', 19, 32), ('an American actor', 37, 54), ('Trenton, New Jersey', 71, 90), ('Joseph', 95, 101), ('Patricia Delate', 106, 121), ('Bucks County, Pennsylvania', 151, 177), ('the Vietnam War', 196, 211), ('a career', 228, 236), ('acting', 240, 246), ('Walter Moore/Kirk Burbank', 294, 319), ('the 1998 Paramount film', 323, 346), ('The Truman Show', 347, 362), ('California', 380, 390)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'IN', 'NNP', 'CC', 'NNP', 'NNP', ',', 'CC', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'NNP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'VBN', 'RB', 'IN', 'VBG', 'NNP', 'NNP', 'SYM', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NN', 'DT', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

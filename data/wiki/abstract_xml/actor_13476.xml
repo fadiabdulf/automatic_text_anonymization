@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Clea Lewis</title>
+<link/>https://en.wikipedia.org/wiki/Clea_Lewis
+<annotated>0</annotated>
+<originalabstract>Clea Lewis (born July 19, 1965) is an American actress and singer, best known for her television role as Ellen's annoying  friend, Audrey Penney in Ellen DeGeneres' sitcom Ellen.</originalabstract>
+<abstract>Clea_Lewis ( born July_19_,_1965 ) is an_American_actress_and_singer , best_known for her_television_role as Ellen 's_annoying_friend , Audrey_Penney in Ellen_DeGeneres '_sitcom_Ellen .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Clea'), (5, 'Lewis'), (11, '('), (12, 'born'), (17, 'July'), (22, '19'), (24, ','), (26, '1965'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'American'), (47, 'actress'), (55, 'and'), (59, 'singer'), (65, ','), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'television'), (97, 'role'), (102, 'as'), (105, 'Ellen'), (110, '\'s'), (113, 'annoying'), (123, 'friend'), (129, ','), (131, 'Audrey'), (138, 'Penney'), (145, 'in'), (148, 'Ellen'), (154, 'DeGeneres'), (163, '\''), (165, 'sitcom'), (172, 'Ellen'), (177, '.')])</stanford_tokens>
+<opennlp_chunks>[('Clea Lewis',0, 10), ('July 19, 1965',17, 30), ('an American actress and singer',35, 65), ('best known',67, 77), ('her television role',82, 101), ('\'s annoying  friend',110, 129), ('Audrey Penney',131, 144), ('Ellen DeGeneres',148, 163), ('\' sitcom Ellen',163, 177)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'POS', 'JJ', 'NN', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Clea'), (5, 'Lewis'), (11, '('), (12, 'born'), (17, 'July'), (22, '19'), (24, ','), (26, '1965'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'American'), (47, 'actress'), (55, 'and'), (59, 'singer'), (65, ','), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'television'), (97, 'role'), (102, 'as'), (105, 'Ellen'), (110, "'s"), (113, 'annoying'), (123, 'friend'), (129, ','), (131, 'Audrey'), (138, 'Penney'), (145, 'in'), (148, 'Ellen'), (154, 'DeGeneres'), (163, "'"), (165, 'sitcom'), (172, 'Ellen'), (177, '.')])</spacy_tokens>
+<spacy_chunks>[('Clea Lewis', 0, 10), ('July 19, 1965', 17, 30), ('an American actress', 35, 54), ('singer', 59, 65), ('her television role', 82, 101), ("Ellen's annoying  friend", 105, 129), ('Audrey Penney', 131, 144), ("Ellen DeGeneres' sitcom", 148, 171)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'POS', 'JJ', 'NN', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

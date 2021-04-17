@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joe Son</title>
+<link/>https://en.wikipedia.org/wiki/Joe_Son
+<annotated>0</annotated>
+<originalabstract>Joseph Hyungmin Son (Korean: 손형민; born November 22, 1970) is a South Korean-born American convicted felon and a former mixed martial artist and actor. He is currently serving life in prison in California for torture.</originalabstract>
+<abstract>Joseph_Hyungmin_Son ( Korean : 손형민 ; born November_22_,_1970 ) is a_South_Korean-born_American_convicted_felon and a_former_mixed_martial_artist_and_actor . He is_currently_serving life in prison in California for torture .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joseph'), (7, 'Hyungmin'), (16, 'Son'), (20, '('), (21, 'Korean'), (27, ':'), (29, '손형민'), (32, ';'), (34, 'born'), (39, 'November'), (48, '22'), (50, ','), (52, '1970'), (56, ')'), (58, 'is'), (61, 'a'), (63, 'South'), (69, 'Korean-born'), (81, 'American'), (90, 'convicted'), (100, 'felon'), (106, 'and'), (110, 'a'), (112, 'former'), (119, 'mixed'), (125, 'martial'), (133, 'artist'), (140, 'and'), (144, 'actor'), (149, '.'), (151, 'He'), (154, 'is'), (157, 'currently'), (167, 'serving'), (175, 'life'), (180, 'in'), (183, 'prison'), (190, 'in'), (193, 'California'), (204, 'for'), (208, 'torture'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joseph Hyungmin Son',0, 19), ('November 22, 1970',39, 56), ('a South Korean-born American convicted felon',61, 105), ('a former mixed martial artist and actor',110, 149), ('is currently serving',154, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ':', 'CD', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'JJ', 'VBN', 'NN', 'CC', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBG', 'NN', 'IN', 'NN', 'IN', 'NNP', 'IN', 'VBP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joseph'), (7, 'Hyungmin'), (16, 'Son'), (20, '('), (21, 'Korean'), (27, ':'), (29, '손형민'), (32, ';'), (34, 'born'), (39, 'November'), (48, '22'), (50, ','), (52, '1970'), (56, ')'), (58, 'is'), (61, 'a'), (63, 'South'), (69, 'Korean'), (75, '-'), (76, 'born'), (81, 'American'), (90, 'convicted'), (100, 'felon'), (106, 'and'), (110, 'a'), (112, 'former'), (119, 'mixed'), (125, 'martial'), (133, 'artist'), (140, 'and'), (144, 'actor'), (149, '.'), (151, 'He'), (154, 'is'), (157, 'currently'), (167, 'serving'), (175, 'life'), (180, 'in'), (183, 'prison'), (190, 'in'), (193, 'California'), (204, 'for'), (208, 'torture'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Joseph Hyungmin Son', 0, 19), ('(Korean: 손형민', 20, 32), ('November 22, 1970', 39, 56), ('a South Korean-born American convicted felon', 61, 105), ('a former mixed martial artist', 110, 139), ('prison', 183, 189), ('California', 193, 203), ('torture', 208, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ':', 'NN', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'HYPH', 'VBN', 'NNP', 'VBN', 'NN', 'CC', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBG', 'NN', 'IN', 'NN', 'IN', 'NNP', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

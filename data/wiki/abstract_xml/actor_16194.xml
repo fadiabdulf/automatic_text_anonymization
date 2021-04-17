@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Antonia García de Videgain</title>
+<link/>https://en.wikipedia.org/wiki/Antonia_Garc%C3%ADa_de_Videgain
+<annotated>0</annotated>
+<originalabstract>Antonia García (April 8, 1850 - June 25, 1924) was a famous Spanish singer and actress. Her birth and death both occurred in Cádiz and Madrid, Spain.</originalabstract>
+<abstract>Antonia_García ( April_8_,_1850 - June_25_,_1924 ) was a_famous_Spanish_singer_and_actress . Her_birth_and_death both occurred in Cádiz_and_Madrid , Spain .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Antonia'), (8, 'García'), (15, '('), (16, 'April'), (22, '8'), (23, ','), (25, '1850'), (30, '-'), (32, 'June'), (37, '25'), (39, ','), (41, '1924'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'famous'), (60, 'Spanish'), (68, 'singer'), (75, 'and'), (79, 'actress'), (86, '.'), (88, 'Her'), (92, 'birth'), (98, 'and'), (102, 'death'), (108, 'both'), (113, 'occurred'), (122, 'in'), (125, 'Cádiz'), (131, 'and'), (135, 'Madrid'), (141, ','), (143, 'Spain'), (148, '.')])</stanford_tokens>
+<opennlp_chunks>[('Antonia García',0, 14), ('April 8, 1850',16, 29), ('June 25, 1924',32, 45), ('a famous Spanish singer and actress',51, 86), ('Her birth and death',88, 107), ('Cádiz and Madrid',125, 141)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', 'CC', 'NN', 'CC', 'VBD', 'IN', 'NN', 'CC', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Antonia'), (8, 'García'), (15, '('), (16, 'April'), (22, '8'), (23, ','), (25, '1850'), (30, '-'), (32, 'June'), (37, '25'), (39, ','), (41, '1924'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'famous'), (60, 'Spanish'), (68, 'singer'), (75, 'and'), (79, 'actress'), (86, '.'), (88, 'Her'), (92, 'birth'), (98, 'and'), (102, 'death'), (108, 'both'), (113, 'occurred'), (122, 'in'), (125, 'Cádiz'), (131, 'and'), (135, 'Madrid'), (141, ','), (143, 'Spain'), (148, '.')])</spacy_tokens>
+<spacy_chunks>[('Antonia García', 0, 14), ('April 8, 1850', 16, 29), ('June 25, 1924', 32, 45), ('a famous Spanish singer', 51, 74), ('actress', 79, 86), ('Her birth', 88, 97), ('Madrid', 135, 141)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', 'CC', 'NN', 'DT', 'VBD', 'IN', 'NNP', 'CC', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

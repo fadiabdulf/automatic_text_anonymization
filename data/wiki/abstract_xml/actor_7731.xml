@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elwood Bredell</title>
+<link/>https://en.wikipedia.org/wiki/Elwood_Bredell
+<annotated>0</annotated>
+<originalabstract>Elwood Bailey Bredell (6 August 1884 – 22 May 1976) was an English cinematographer and occasional actor. Bredell worked on such films as The Killers (1946), The Unsuspected (1947) and the 1955 B-movie Female Jungle. He is sometimes credited as Woody Bredell or Elwood Burdell.</originalabstract>
+<abstract>Elwood_Bailey_Bredell ( 6_August_1884 – 22_May_1976 ) was an_English_cinematographer and occasional_actor . Bredell worked on such_films as The_Killers ( 1946_) , The_Unsuspected_(_1947_) and the_1955_B-movie_Female_Jungle . He is_sometimes_credited as Woody_Bredell or Elwood_Burdell .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elwood'), (7, 'Bailey'), (14, 'Bredell'), (22, '('), (23, '6'), (25, 'August'), (32, '1884'), (37, '–'), (39, '22'), (42, 'May'), (46, '1976'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'English'), (67, 'cinematographer'), (83, 'and'), (87, 'occasional'), (98, 'actor'), (103, '.'), (105, 'Bredell'), (113, 'worked'), (120, 'on'), (123, 'such'), (128, 'films'), (134, 'as'), (137, 'The'), (141, 'Killers'), (149, '('), (150, '1946'), (154, ')'), (155, ','), (157, 'The'), (161, 'Unsuspected'), (173, '('), (174, '1947'), (178, ')'), (180, 'and'), (184, 'the'), (188, '1955'), (193, 'B-movie'), (201, 'Female'), (208, 'Jungle'), (214, '.'), (216, 'He'), (219, 'is'), (222, 'sometimes'), (232, 'credited'), (241, 'as'), (244, 'Woody'), (250, 'Bredell'), (258, 'or'), (261, 'Elwood'), (268, 'Burdell'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elwood Bailey Bredell',0, 21), ('6 August 1884',23, 36), ('22 May 1976',39, 50), ('an English cinematographer',56, 82), ('occasional actor',87, 103), ('such films',123, 133), ('The Killers',137, 148), ('1946)',150, 155), ('The Unsuspected (1947)',157, 179), ('the 1955 B-movie Female Jungle',184, 214), ('is sometimes credited',219, 240), ('Woody Bredell',244, 257), ('Elwood Burdell',261, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', '.', 'NNP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'JJ', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'CD', 'NNP', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elwood'), (7, 'Bailey'), (14, 'Bredell'), (22, '('), (23, '6'), (25, 'August'), (32, '1884'), (37, '–'), (39, '22'), (42, 'May'), (46, '1976'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'English'), (67, 'cinematographer'), (83, 'and'), (87, 'occasional'), (98, 'actor'), (103, '.'), (105, 'Bredell'), (113, 'worked'), (120, 'on'), (123, 'such'), (128, 'films'), (134, 'as'), (137, 'The'), (141, 'Killers'), (149, '('), (150, '1946'), (154, ')'), (155, ','), (157, 'The'), (161, 'Unsuspected'), (173, '('), (174, '1947'), (178, ')'), (180, 'and'), (184, 'the'), (188, '1955'), (193, 'B'), (194, '-'), (195, 'movie'), (201, 'Female'), (208, 'Jungle'), (214, '.'), (216, 'He'), (219, 'is'), (222, 'sometimes'), (232, 'credited'), (241, 'as'), (244, 'Woody'), (250, 'Bredell'), (258, 'or'), (261, 'Elwood'), (268, 'Burdell'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('Elwood Bailey Bredell', 0, 21), ('6 August 1884', 23, 36), ('22 May 1976', 39, 50), ('an English cinematographer', 56, 82), ('occasional actor', 87, 103), ('such films', 123, 133), ('The Killers (1946', 137, 154), ('The Unsuspected', 157, 172), ('the 1955 B-movie Female Jungle', 184, 214), ('Woody Bredell', 244, 257), ('Elwood Burdell', 261, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', '.', 'NNP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'CD', 'NN', 'HYPH', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

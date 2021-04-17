@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Richard Gibson</title>
+<link/>https://en.wikipedia.org/wiki/Richard_Gibson
+<annotated>0</annotated>
+<originalabstract>Richard Gibson (born 1 January 1954) is an English actor, probably best known for his role as the archetypal Gestapo Officer Herr Otto Flick in the BBC hit sitcom series, 'Allo 'Allo!.</originalabstract>
+<abstract>Richard_Gibson ( born 1_January_1954 ) is an_English_actor , probably best_known for his_role as the_archetypal_Gestapo_Officer_Herr_Otto_Flick in the_BBC hit sitcom_series , ' Allo_'_Allo ! .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Gibson'), (15, '('), (16, 'born'), (21, '1'), (23, 'January'), (31, '1954'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actor'), (56, ','), (58, 'probably'), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'his'), (86, 'role'), (91, 'as'), (94, 'the'), (98, 'archetypal'), (109, 'Gestapo'), (117, 'Officer'), (125, 'Herr'), (130, 'Otto'), (135, 'Flick'), (141, 'in'), (144, 'the'), (148, 'BBC'), (152, 'hit'), (156, 'sitcom'), (163, 'series'), (169, ','), (171, '\''), (172, 'Allo'), (177, '\''), (178, 'Allo'), (182, '!'), (183, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Gibson',0, 14), ('1 January 1954',21, 35), ('an English actor',40, 56), ('best known',67, 77), ('his role',82, 90), ('the archetypal Gestapo Officer Herr Otto Flick',94, 140), ('the BBC',144, 151), ('sitcom series',156, 169), ('Allo \'Allo',172, 182)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'IN', 'DT', 'NNP', 'VBD', 'NN', 'NN', ',', '``', 'NNP', '``', 'NNP', '.', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Gibson'), (15, '('), (16, 'born'), (21, '1'), (23, 'January'), (31, '1954'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actor'), (56, ','), (58, 'probably'), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'his'), (86, 'role'), (91, 'as'), (94, 'the'), (98, 'archetypal'), (109, 'Gestapo'), (117, 'Officer'), (125, 'Herr'), (130, 'Otto'), (135, 'Flick'), (141, 'in'), (144, 'the'), (148, 'BBC'), (152, 'hit'), (156, 'sitcom'), (163, 'series'), (169, ','), (171, "'"), (172, 'Allo'), (177, "'"), (178, 'Allo!.')])</spacy_tokens>
+<spacy_chunks>[('Richard Gibson', 0, 14), ('1 January 1954', 21, 35), ('an English actor', 40, 56), ('his role', 82, 90), ('Gestapo Officer Herr Otto Flick', 109, 140), ('the BBC', 144, 151), ('sitcom series', 156, 169), ("'Allo 'Allo!", 171, 183)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'VBN', 'NN', 'NN', ',', "''", 'NNP', "''", 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

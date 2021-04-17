@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Patrick Barr</title>
+<link/>https://en.wikipedia.org/wiki/Patrick_Barr
+<annotated>0</annotated>
+<originalabstract>Patrick David Barr (13 February 1908 – 29 August 1985) was an English actor. In his career spanning over half a century, he appeared in about 144 films and television series.</originalabstract>
+<abstract>Patrick_David_Barr ( 13_February_1908 – 29_August_1985 ) was an_English_actor . In his_career spanning over half_a_century , he appeared in about_144_films_and_television_series .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Patrick'), (8, 'David'), (14, 'Barr'), (19, '('), (20, '13'), (23, 'February'), (32, '1908'), (37, '–'), (39, '29'), (42, 'August'), (49, '1985'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'English'), (70, 'actor'), (75, '.'), (77, 'In'), (80, 'his'), (84, 'career'), (91, 'spanning'), (100, 'over'), (105, 'half'), (110, 'a'), (112, 'century'), (119, ','), (121, 'he'), (124, 'appeared'), (133, 'in'), (136, 'about'), (142, '144'), (146, 'films'), (152, 'and'), (156, 'television'), (167, 'series'), (173, '.')])</stanford_tokens>
+<opennlp_chunks>[('Patrick David Barr',0, 18), ('13 February 1908',20, 36), ('29 August 1985',39, 53), ('an English actor',59, 75), ('his career',80, 90), ('half a century',105, 119), ('about 144 films and television series',136, 173)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'PRP$', 'NN', 'VBG', 'IN', 'PDT', 'DT', 'NN', ',', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Patrick'), (8, 'David'), (14, 'Barr'), (19, '('), (20, '13'), (23, 'February'), (32, '1908'), (37, '–'), (39, '29'), (42, 'August'), (49, '1985'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'English'), (70, 'actor'), (75, '.'), (77, 'In'), (80, 'his'), (84, 'career'), (91, 'spanning'), (100, 'over'), (105, 'half'), (110, 'a'), (112, 'century'), (119, ','), (121, 'he'), (124, 'appeared'), (133, 'in'), (136, 'about'), (142, '144'), (146, 'films'), (152, 'and'), (156, 'television'), (167, 'series'), (173, '.')])</spacy_tokens>
+<spacy_chunks>[('Patrick David Barr', 0, 18), ('13 February 1908', 20, 36), ('29 August 1985', 39, 53), ('an English actor', 59, 75), ('his career', 80, 90), ('half a century', 105, 119), ('about 144 films', 136, 151), ('television series', 156, 173)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'PRP$', 'NN', 'VBG', 'IN', 'PDT', 'DT', 'NN', ',', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

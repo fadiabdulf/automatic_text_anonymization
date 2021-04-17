@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Roxanne Hart</title>
+<link/>https://en.wikipedia.org/wiki/Roxanne_Hart
+<annotated>0</annotated>
+<originalabstract>Roxanne Hart (born July 27, 1952) is an American actress, best known for her roles as Brenda Wyatt in the 1986 film Highlander, and as Nurse Camille Shutt on the CBS medical drama series Chicago Hope (1994–1998). Hart also received Tony and Drama Desk Awards nominations for her stage works.</originalabstract>
+<abstract>Roxanne_Hart ( born July_27_,_1952 ) is an_American_actress , best_known for her_roles as Brenda_Wyatt in the_1986_film_Highlander , and as Nurse_Camille_Shutt on the_CBS_medical_drama_series_Chicago_Hope ( 1994 – 1998 ) . Hart also received Tony_and_Drama_Desk Awards nominations for her_stage works .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Roxanne'), (8, 'Hart'), (13, '('), (14, 'born'), (19, 'July'), (24, '27'), (26, ','), (28, '1952'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actress'), (56, ','), (58, 'best'), (63, 'known'), (69, 'for'), (73, 'her'), (77, 'roles'), (83, 'as'), (86, 'Brenda'), (93, 'Wyatt'), (99, 'in'), (102, 'the'), (106, '1986'), (111, 'film'), (116, 'Highlander'), (126, ','), (128, 'and'), (132, 'as'), (135, 'Nurse'), (141, 'Camille'), (149, 'Shutt'), (155, 'on'), (158, 'the'), (162, 'CBS'), (166, 'medical'), (174, 'drama'), (180, 'series'), (187, 'Chicago'), (195, 'Hope'), (200, '('), (201, '1994'), (205, '–'), (206, '1998'), (210, ')'), (211, '.'), (213, 'Hart'), (218, 'also'), (223, 'received'), (232, 'Tony'), (237, 'and'), (241, 'Drama'), (247, 'Desk'), (252, 'Awards'), (259, 'nominations'), (271, 'for'), (275, 'her'), (279, 'stage'), (285, 'works'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('Roxanne Hart',0, 12), ('July 27, 1952',19, 32), ('an American actress',37, 56), ('best known',58, 68), ('her roles',73, 82), ('Brenda Wyatt',86, 98), ('the 1986 film Highlander',102, 126), ('Nurse Camille Shutt',135, 154), ('the CBS medical drama series Chicago Hope',158, 199), ('Tony and Drama Desk',232, 251), ('her stage',275, 284)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', ',', 'CC', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'NNP', 'RB', 'VBD', 'NNP', 'CC', 'NNP', 'NNP', 'NNS', 'NNS', 'IN', 'PRP$', 'NN', 'VBZ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Roxanne'), (8, 'Hart'), (13, '('), (14, 'born'), (19, 'July'), (24, '27'), (26, ','), (28, '1952'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actress'), (56, ','), (58, 'best'), (63, 'known'), (69, 'for'), (73, 'her'), (77, 'roles'), (83, 'as'), (86, 'Brenda'), (93, 'Wyatt'), (99, 'in'), (102, 'the'), (106, '1986'), (111, 'film'), (116, 'Highlander'), (126, ','), (128, 'and'), (132, 'as'), (135, 'Nurse'), (141, 'Camille'), (149, 'Shutt'), (155, 'on'), (158, 'the'), (162, 'CBS'), (166, 'medical'), (174, 'drama'), (180, 'series'), (187, 'Chicago'), (195, 'Hope'), (200, '('), (201, '1994–1998'), (210, ')'), (211, '.'), (213, 'Hart'), (218, 'also'), (223, 'received'), (232, 'Tony'), (237, 'and'), (241, 'Drama'), (247, 'Desk'), (252, 'Awards'), (259, 'nominations'), (271, 'for'), (275, 'her'), (279, 'stage'), (285, 'works'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('Roxanne Hart', 0, 12), ('July 27, 1952', 19, 32), ('an American actress', 37, 56), ('her roles', 73, 82), ('Brenda Wyatt', 86, 98), ('the 1986 film', 102, 115), ('Highlander', 116, 126), ('Nurse Camille Shutt', 135, 154), ('the CBS medical drama series', 158, 186), ('Chicago Hope', 187, 199), ('Tony and Drama Desk Awards nominations', 232, 270), ('her stage works', 275, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'RB', 'VBD', 'NNP', 'CC', 'NNP', 'NNP', 'NNPS', 'NNS', 'IN', 'PRP$', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

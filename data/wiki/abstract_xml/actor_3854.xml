@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nick LaTour</title>
+<link/>https://en.wikipedia.org/wiki/Nick_LaTour
+<annotated>0</annotated>
+<originalabstract>Edgar Daniel Nixon, Jr. (August 1, 1928 – February 28, 2011), better known by his stage name Nick LaTour, was an American television, film, and stage actor. LaTour was the son of African American civil rights leader Edgar Nixon. On February 28, 2011, LaTour died of cancer at the age of 82.</originalabstract>
+<abstract>Edgar_Daniel_Nixon , Jr. ( August_1_,_1928 – February_28_,_2011 ) , better_known by his_stage_name_Nick_LaTour , was an_American_television , film , and stage_actor . LaTour was the_son of African_American_civil_rights_leader_Edgar_Nixon . On February_28_,_2011 , LaTour died of cancer at the_age of 82 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edgar'), (6, 'Daniel'), (13, 'Nixon'), (18, ','), (20, 'Jr.'), (24, '('), (25, 'August'), (32, '1'), (33, ','), (35, '1928'), (40, '–'), (42, 'February'), (51, '28'), (53, ','), (55, '2011'), (59, ')'), (60, ','), (62, 'better'), (69, 'known'), (75, 'by'), (78, 'his'), (82, 'stage'), (88, 'name'), (93, 'Nick'), (98, 'LaTour'), (104, ','), (106, 'was'), (110, 'an'), (113, 'American'), (122, 'television'), (132, ','), (134, 'film'), (138, ','), (140, 'and'), (144, 'stage'), (150, 'actor'), (155, '.'), (157, 'LaTour'), (164, 'was'), (168, 'the'), (172, 'son'), (176, 'of'), (179, 'African'), (187, 'American'), (196, 'civil'), (202, 'rights'), (209, 'leader'), (216, 'Edgar'), (222, 'Nixon'), (227, '.'), (229, 'On'), (232, 'February'), (241, '28'), (243, ','), (245, '2011'), (249, ','), (251, 'LaTour'), (258, 'died'), (263, 'of'), (266, 'cancer'), (273, 'at'), (276, 'the'), (280, 'age'), (284, 'of'), (287, '82'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edgar Daniel Nixon',0, 18), ('August 1, 1928',25, 39), ('February 28, 2011',42, 59), ('better known',62, 74), ('his stage name Nick LaTour',78, 104), ('an American television',110, 132), ('stage actor',144, 155), ('the son',168, 175), ('African American civil rights leader Edgar Nixon',179, 227), ('February 28, 2011',232, 249), ('the age',276, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'JJ', 'JJ', 'NNS', 'NN', 'NNP', 'NNP', '.', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'VBD', 'IN', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edgar'), (6, 'Daniel'), (13, 'Nixon'), (18, ','), (20, 'Jr.'), (24, '('), (25, 'August'), (32, '1'), (33, ','), (35, '1928'), (40, '–'), (42, 'February'), (51, '28'), (53, ','), (55, '2011'), (59, ')'), (60, ','), (62, 'better'), (69, 'known'), (75, 'by'), (78, 'his'), (82, 'stage'), (88, 'name'), (93, 'Nick'), (98, 'LaTour'), (104, ','), (106, 'was'), (110, 'an'), (113, 'American'), (122, 'television'), (132, ','), (134, 'film'), (138, ','), (140, 'and'), (144, 'stage'), (150, 'actor'), (155, '.'), (157, 'LaTour'), (164, 'was'), (168, 'the'), (172, 'son'), (176, 'of'), (179, 'African'), (187, 'American'), (196, 'civil'), (202, 'rights'), (209, 'leader'), (216, 'Edgar'), (222, 'Nixon'), (227, '.'), (229, 'On'), (232, 'February'), (241, '28'), (243, ','), (245, '2011'), (249, ','), (251, 'LaTour'), (258, 'died'), (263, 'of'), (266, 'cancer'), (273, 'at'), (276, 'the'), (280, 'age'), (284, 'of'), (287, '82'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('Edgar Daniel Nixon', 0, 18), ('Jr. (August', 20, 31), ('August 1, 1928', 25, 39), ('February 28, 2011', 42, 59), ('his stage name', 78, 92), ('Nick LaTour', 93, 104), ('an American television', 110, 132), ('stage actor', 144, 155), ('the son', 168, 175), ('African American civil rights leader Edgar Nixon', 179, 227), ('February 28, 2011', 232, 249), ('cancer', 266, 272), ('the age', 276, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'JJ', 'JJ', 'NNS', 'NN', 'NNP', 'NNP', '.', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'VBD', 'IN', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

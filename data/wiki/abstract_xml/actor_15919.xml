@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alice White</title>
+<link/>https://en.wikipedia.org/wiki/Alice_White
+<annotated>0</annotated>
+<originalabstract>Alice White (born Alva White, August 25, 1904 – February 19, 1983) was an American film actress. Her career spanned late silent films and early sound films.</originalabstract>
+<abstract>Alice_White ( born Alva_White , August_25_,_1904 – February_19_,_1983 ) was an_American_film_actress . Her_career spanned late_silent_films and early_sound_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alice'), (6, 'White'), (12, '('), (13, 'born'), (18, 'Alva'), (23, 'White'), (28, ','), (30, 'August'), (37, '25'), (39, ','), (41, '1904'), (46, '–'), (48, 'February'), (57, '19'), (59, ','), (61, '1983'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'film'), (88, 'actress'), (95, '.'), (97, 'Her'), (101, 'career'), (108, 'spanned'), (116, 'late'), (121, 'silent'), (128, 'films'), (134, 'and'), (138, 'early'), (144, 'sound'), (150, 'films'), (155, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alice White',0, 11), ('Alva White',18, 28), ('August 25, 1904',30, 45), ('February 19, 1983',48, 65), ('an American film actress',71, 95), ('Her career',97, 107), ('late silent films',116, 133), ('early sound films',138, 155)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP$', 'NN', 'VBD', 'JJ', 'JJ', 'NNS', 'CC', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alice'), (6, 'White'), (12, '('), (13, 'born'), (18, 'Alva'), (23, 'White'), (28, ','), (30, 'August'), (37, '25'), (39, ','), (41, '1904'), (46, '–'), (48, 'February'), (57, '19'), (59, ','), (61, '1983'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'film'), (88, 'actress'), (95, '.'), (97, 'Her'), (101, 'career'), (108, 'spanned'), (116, 'late'), (121, 'silent'), (128, 'films'), (134, 'and'), (138, 'early'), (144, 'sound'), (150, 'films'), (155, '.')])</spacy_tokens>
+<spacy_chunks>[('Alice White', 0, 11), ('born Alva White', 13, 28), ('August 25, 1904', 30, 45), ('February 19, 1983', 48, 65), ('an American film actress', 71, 95), ('Her career', 97, 107), ('late silent films', 116, 133), ('early sound films', 138, 155)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP$', 'NN', 'VBD', 'JJ', 'JJ', 'NNS', 'CC', 'JJ', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

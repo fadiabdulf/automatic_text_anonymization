@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mike Reid (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Mike_Reid_(actor)
+<annotated>0</annotated>
+<originalabstract>Michael Reid (19 January 1940 – 29 July 2007) was an English comedian, actor, author and occasional television presenter from London, who is best remembered for playing the role of Frank Butcher in EastEnders and hosting the popular children's TV show Runaround. He was noted for his gravelly voice and strong Cockney accent.</originalabstract>
+<abstract>Michael_Reid ( 19_January_1940 – 29_July_2007 ) was an_English_comedian , actor , author and occasional_television_presenter from London , who is_best_remembered for playing the_role of Frank_Butcher in EastEnders and hosting the_popular_children 's_TV_show_Runaround . He was_noted for his_gravelly_voice and strong_Cockney_accent .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michael'), (8, 'Reid'), (13, '('), (14, '19'), (17, 'January'), (25, '1940'), (30, '–'), (32, '29'), (35, 'July'), (40, '2007'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English'), (61, 'comedian'), (69, ','), (71, 'actor'), (76, ','), (78, 'author'), (85, 'and'), (89, 'occasional'), (100, 'television'), (111, 'presenter'), (121, 'from'), (126, 'London'), (132, ','), (134, 'who'), (138, 'is'), (141, 'best'), (146, 'remembered'), (157, 'for'), (161, 'playing'), (169, 'the'), (173, 'role'), (178, 'of'), (181, 'Frank'), (187, 'Butcher'), (195, 'in'), (198, 'EastEnders'), (209, 'and'), (213, 'hosting'), (221, 'the'), (225, 'popular'), (233, 'children'), (241, '\'s'), (244, 'TV'), (247, 'show'), (252, 'Runaround'), (261, '.'), (263, 'He'), (266, 'was'), (270, 'noted'), (276, 'for'), (280, 'his'), (284, 'gravelly'), (293, 'voice'), (299, 'and'), (303, 'strong'), (310, 'Cockney'), (318, 'accent'), (324, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michael Reid',0, 12), ('19 January 1940',14, 29), ('29 July 2007',32, 44), ('an English comedian',50, 69), ('occasional television presenter',89, 120), ('is best remembered',138, 156), ('the role',169, 177), ('Frank Butcher',181, 194), ('the popular children',221, 241), ('\'s TV show Runaround',241, 261), ('was noted',266, 275), ('his gravelly voice',280, 298), ('strong Cockney accent',303, 324)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', 'NN', 'IN', 'NNP', ',', 'WP', 'VBZ', 'JJS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'VBG', 'DT', 'JJ', 'NNS', 'POS', 'NN', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'CC', 'JJ', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michael'), (8, 'Reid'), (13, '('), (14, '19'), (17, 'January'), (25, '1940'), (30, '–'), (32, '29'), (35, 'July'), (40, '2007'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English'), (61, 'comedian'), (69, ','), (71, 'actor'), (76, ','), (78, 'author'), (85, 'and'), (89, 'occasional'), (100, 'television'), (111, 'presenter'), (121, 'from'), (126, 'London'), (132, ','), (134, 'who'), (138, 'is'), (141, 'best'), (146, 'remembered'), (157, 'for'), (161, 'playing'), (169, 'the'), (173, 'role'), (178, 'of'), (181, 'Frank'), (187, 'Butcher'), (195, 'in'), (198, 'EastEnders'), (209, 'and'), (213, 'hosting'), (221, 'the'), (225, 'popular'), (233, 'children'), (241, "'s"), (244, 'TV'), (247, 'show'), (252, 'Runaround'), (261, '.'), (263, 'He'), (266, 'was'), (270, 'noted'), (276, 'for'), (280, 'his'), (284, 'gravelly'), (293, 'voice'), (299, 'and'), (303, 'strong'), (310, 'Cockney'), (318, 'accent'), (324, '.')])</spacy_tokens>
+<spacy_chunks>[('Michael Reid', 0, 12), ('19 January 1940', 14, 29), ('29 July 2007', 32, 44), ('an English comedian', 50, 69), ('author', 78, 84), ('occasional television presenter', 89, 120), ('London', 126, 132), ('the role', 169, 177), ('Frank Butcher', 181, 194), ('EastEnders', 198, 208), ("the popular children's TV show Runaround", 221, 261), ('his gravelly voice', 280, 298), ('strong Cockney accent', 303, 324)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', 'NN', 'IN', 'NNP', ',', 'WP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'VBG', 'DT', 'JJ', 'NNS', 'POS', 'NN', 'NN', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'CC', 'JJ', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

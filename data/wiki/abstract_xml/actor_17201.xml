@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Iris Sadler</title>
+<link/>https://en.wikipedia.org/wiki/Iris_Sadler
+<annotated>0</annotated>
+<originalabstract>Iris Maud Sadler (22 March 1908-12 January 1991) was an English actress, best known for her role as Gladys the tea lady in the television sitcom Mind Your Language from 1977 to 1979. Her film credits include Mrs. Brown, You’ve Got a Lovely Daughter (1968).</originalabstract>
+<abstract>Iris_Maud_Sadler ( 22_March_1908-12_January_1991 ) was an_English_actress , best_known for her_role as Gladys the_tea_lady in the_television_sitcom Mind Your_Language from 1977 to 1979 . Her_film_credits include Mrs._Brown , You ’ve_Got a_Lovely_Daughter_(_1968_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Iris'), (5, 'Maud'), (10, 'Sadler'), (17, '('), (18, '22'), (21, 'March'), (27, '1908-12'), (35, 'January'), (43, '1991'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'English'), (64, 'actress'), (71, ','), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'her'), (92, 'role'), (97, 'as'), (100, 'Gladys'), (107, 'the'), (111, 'tea'), (115, 'lady'), (120, 'in'), (123, 'the'), (127, 'television'), (138, 'sitcom'), (145, 'Mind'), (150, 'Your'), (155, 'Language'), (164, 'from'), (169, '1977'), (174, 'to'), (177, '1979'), (181, '.'), (183, 'Her'), (187, 'film'), (192, 'credits'), (200, 'include'), (208, 'Mrs.'), (213, 'Brown'), (218, ','), (220, 'You'), (223, '’ve'), (227, 'Got'), (231, 'a'), (233, 'Lovely'), (240, 'Daughter'), (249, '('), (250, '1968'), (254, ')'), (255, '.')])</stanford_tokens>
+<opennlp_chunks>[('Iris Maud Sadler',0, 16), ('22 March 1908-12 January 1991',18, 47), ('an English actress',53, 71), ('best known',73, 83), ('her role',88, 96), ('the tea lady',107, 119), ('the television sitcom',123, 144), ('Your Language',150, 163), ('Her film credits',183, 199), ('Mrs. Brown',208, 218), ('’ve Got',223, 230), ('a Lovely Daughter (1968)',231, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'PRP$', 'NN', 'IN', 'CD', 'TO', 'CD', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NNP', 'NNP', ',', 'PRP', 'VBP', 'VBD', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Iris'), (5, 'Maud'), (10, 'Sadler'), (17, '('), (18, '22'), (21, 'March'), (27, '1908'), (31, '-'), (32, '12'), (35, 'January'), (43, '1991'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'English'), (64, 'actress'), (71, ','), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'her'), (92, 'role'), (97, 'as'), (100, 'Gladys'), (107, 'the'), (111, 'tea'), (115, 'lady'), (120, 'in'), (123, 'the'), (127, 'television'), (138, 'sitcom'), (145, 'Mind'), (150, 'Your'), (155, 'Language'), (164, 'from'), (169, '1977'), (174, 'to'), (177, '1979'), (181, '.'), (183, 'Her'), (187, 'film'), (192, 'credits'), (200, 'include'), (208, 'Mrs.'), (213, 'Brown'), (218, ','), (220, 'You'), (223, '’ve'), (227, 'Got'), (231, 'a'), (233, 'Lovely'), (240, 'Daughter'), (249, '('), (250, '1968'), (254, ')'), (255, '.')])</spacy_tokens>
+<spacy_chunks>[('Iris Maud Sadler', 0, 16), ('22 March 1908', 18, 31), ('12 January 1991', 32, 47), ('an English actress', 53, 71), ('her role', 88, 96), ('Gladys', 100, 106), ('the tea lady', 107, 119), ('the television sitcom', 123, 144), ('Mind Your Language', 145, 163), ('Her film credits', 183, 199), ('Mrs. Brown', 208, 218), ('a Lovely Daughter', 231, 248)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', 'VB', 'PRP$', 'NN', 'IN', 'CD', 'IN', 'CD', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NNP', 'NNP', ',', 'PRP', 'VB', 'VBN', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

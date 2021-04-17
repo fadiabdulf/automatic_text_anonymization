@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>J. D. Evermore</title>
+<link/>https://en.wikipedia.org/wiki/J._D._Evermore
+<annotated>0</annotated>
+<originalabstract>John Daniel Evermore (born November 15, 1968) is an American actor.
+Evermore was born in Greenville, Mississippi. He is known for playing the role of Thomas Silby in Treme, Detective Lutz in True Detective, Harley in The Walking Dead, Carl Daggett in Rectify, Holt in Maggie, and as Dewey Revette in Deepwater Horizon.</originalabstract>
+<abstract>John_Daniel_Evermore ( born November_15_,_1968 ) is an_American_actor . Evermore was_born in Greenville , Mississippi . He is_known for playing the_role of Thomas_Silby in Treme , Detective_Lutz in True_Detective , Harley in The_Walking_Dead , Carl_Daggett in Rectify , Holt in Maggie , and as Dewey_Revette in Deepwater_Horizon .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Daniel'), (12, 'Evermore'), (21, '('), (22, 'born'), (27, 'November'), (36, '15'), (38, ','), (40, '1968'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (66, '.'), (68, 'Evermore'), (77, 'was'), (81, 'born'), (86, 'in'), (89, 'Greenville'), (99, ','), (101, 'Mississippi'), (112, '.'), (114, 'He'), (117, 'is'), (120, 'known'), (126, 'for'), (130, 'playing'), (138, 'the'), (142, 'role'), (147, 'of'), (150, 'Thomas'), (157, 'Silby'), (163, 'in'), (166, 'Treme'), (171, ','), (173, 'Detective'), (183, 'Lutz'), (188, 'in'), (191, 'True'), (196, 'Detective'), (205, ','), (207, 'Harley'), (214, 'in'), (217, 'The'), (221, 'Walking'), (229, 'Dead'), (233, ','), (235, 'Carl'), (240, 'Daggett'), (248, 'in'), (251, 'Rectify'), (258, ','), (260, 'Holt'), (265, 'in'), (268, 'Maggie'), (274, ','), (276, 'and'), (280, 'as'), (283, 'Dewey'), (289, 'Revette'), (297, 'in'), (300, 'Deepwater'), (310, 'Horizon'), (317, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Daniel Evermore',0, 20), ('November 15, 1968',27, 44), ('an American actor',49, 66), ('was born',77, 85), ('is known',117, 125), ('the role',138, 146), ('Thomas Silby',150, 162), ('Detective Lutz',173, 187), ('True Detective',191, 205), ('The Walking Dead',217, 233), ('Carl Daggett',235, 247), ('Dewey Revette',283, 296), ('Deepwater Horizon',300, 317)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'RB', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'JJ', 'NN', ',', 'NNP', 'IN', 'DT', 'VBG', 'JJ', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Daniel'), (12, 'Evermore'), (21, '('), (22, 'born'), (27, 'November'), (36, '15'), (38, ','), (40, '1968'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (66, '.'), (68, 'Evermore'), (77, 'was'), (81, 'born'), (86, 'in'), (89, 'Greenville'), (99, ','), (101, 'Mississippi'), (112, '.'), (114, 'He'), (117, 'is'), (120, 'known'), (126, 'for'), (130, 'playing'), (138, 'the'), (142, 'role'), (147, 'of'), (150, 'Thomas'), (157, 'Silby'), (163, 'in'), (166, 'Treme'), (171, ','), (173, 'Detective'), (183, 'Lutz'), (188, 'in'), (191, 'True'), (196, 'Detective'), (205, ','), (207, 'Harley'), (214, 'in'), (217, 'The'), (221, 'Walking'), (229, 'Dead'), (233, ','), (235, 'Carl'), (240, 'Daggett'), (248, 'in'), (251, 'Rectify'), (258, ','), (260, 'Holt'), (265, 'in'), (268, 'Maggie'), (274, ','), (276, 'and'), (280, 'as'), (283, 'Dewey'), (289, 'Revette'), (297, 'in'), (300, 'Deepwater'), (310, 'Horizon'), (317, '.')])</spacy_tokens>
+<spacy_chunks>[('John Daniel Evermore', 0, 20), ('November 15, 1968', 27, 44), ('an American actor', 49, 66), ('Greenville, Mississippi', 89, 112), ('the role', 138, 146), ('Thomas Silby', 150, 162), ('Detective Lutz', 173, 187), ('True Detective', 191, 205), ('Harley', 207, 213), ('The Walking Dead', 217, 233), ('Carl Daggett', 235, 247), ('Rectify', 251, 258), ('Maggie', 268, 274), ('Dewey Revette', 283, 296), ('Deepwater Horizon', 300, 317)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

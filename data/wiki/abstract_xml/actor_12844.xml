@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Helen Holmes</title>
+<link/>https://en.wikipedia.org/wiki/Helen_Holmes
+<annotated>0</annotated>
+<originalabstract>Helen Holmes (June 19, 1892 – July 8, 1950) was an American silent film actress, most notable for starring in the serial The Hazards of Helen.</originalabstract>
+<abstract>Helen_Holmes ( June_19_,_1892 – July_8_,_1950 ) was an_American_silent_film_actress , most_notable for starring in the_serial The_Hazards of Helen .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Helen'), (6, 'Holmes'), (13, '('), (14, 'June'), (19, '19'), (21, ','), (23, '1892'), (28, '–'), (30, 'July'), (35, '8'), (36, ','), (38, '1950'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'silent'), (67, 'film'), (72, 'actress'), (79, ','), (81, 'most'), (86, 'notable'), (94, 'for'), (98, 'starring'), (107, 'in'), (110, 'the'), (114, 'serial'), (121, 'The'), (125, 'Hazards'), (133, 'of'), (136, 'Helen'), (141, '.')])</stanford_tokens>
+<opennlp_chunks>[('Helen Holmes',0, 12), ('June 19, 1892',14, 27), ('July 8, 1950',30, 42), ('an American silent film actress',48, 79), ('most notable',81, 93), ('the serial',110, 120), ('The Hazards',121, 132)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'JJS', 'JJ', 'IN', 'VBG', 'IN', 'DT', 'JJ', 'DT', 'NNS', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Helen'), (6, 'Holmes'), (13, '('), (14, 'June'), (19, '19'), (21, ','), (23, '1892'), (28, '–'), (30, 'July'), (35, '8'), (36, ','), (38, '1950'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'silent'), (67, 'film'), (72, 'actress'), (79, ','), (81, 'most'), (86, 'notable'), (94, 'for'), (98, 'starring'), (107, 'in'), (110, 'the'), (114, 'serial'), (121, 'The'), (125, 'Hazards'), (133, 'of'), (136, 'Helen'), (141, '.')])</spacy_tokens>
+<spacy_chunks>[('Helen Holmes', 0, 12), ('June 19, 1892', 14, 27), ('July 8, 1950', 30, 42), ('an American silent film actress', 48, 79), ('the serial', 110, 120), ('The Hazards of Helen', 121, 141)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'RBS', 'JJ', 'IN', 'VBG', 'IN', 'DT', 'NN', 'DT', 'NNPS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

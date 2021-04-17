@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Louis Quinn</title>
+<link/>https://en.wikipedia.org/wiki/Louis_Quinn
+<annotated>0</annotated>
+<originalabstract>Louis Quinn (March 23, 1915 – September 14, 1988) was an American television and film actor, best known for his role as Roscoe, the comic relief racetrack tout, from 1958 to 1963 in the ABC/Warner Brothers detective television series, 77 Sunset Strip.</originalabstract>
+<abstract>Louis_Quinn ( March_23_,_1915 – September_14_,_1988 ) was an_American_television_and_film_actor , best_known for his_role as Roscoe , the_comic_relief_racetrack tout , from 1958 to 1963 in the_ABC/Warner_Brothers_detective_television_series , 77_Sunset_Strip .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Louis'), (6, 'Quinn'), (12, '('), (13, 'March'), (19, '23'), (21, ','), (23, '1915'), (28, '–'), (30, 'September'), (40, '14'), (42, ','), (44, '1988'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'television'), (77, 'and'), (81, 'film'), (86, 'actor'), (91, ','), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'his'), (112, 'role'), (117, 'as'), (120, 'Roscoe'), (126, ','), (128, 'the'), (132, 'comic'), (138, 'relief'), (145, 'racetrack'), (155, 'tout'), (159, ','), (161, 'from'), (166, '1958'), (171, 'to'), (174, '1963'), (179, 'in'), (182, 'the'), (186, 'ABC/Warner'), (197, 'Brothers'), (206, 'detective'), (216, 'television'), (227, 'series'), (233, ','), (235, '77'), (238, 'Sunset'), (245, 'Strip'), (250, '.')])</stanford_tokens>
+<opennlp_chunks>[('Louis Quinn',0, 11), ('March 23, 1915',13, 27), ('September 14, 1988',30, 48), ('an American television and film actor',54, 91), ('best known',93, 103), ('his role',108, 116), ('the comic relief racetrack',128, 154), ('the ABC/Warner Brothers detective television series',182, 233), ('77 Sunset Strip',235, 250)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', ',', 'DT', 'JJ', 'NN', 'NN', 'VBP', ',', 'IN', 'CD', 'TO', 'CD', 'IN', 'DT', 'NNP', 'NNPS', 'NN', 'NN', 'NN', ',', 'CD', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Louis'), (6, 'Quinn'), (12, '('), (13, 'March'), (19, '23'), (21, ','), (23, '1915'), (28, '–'), (30, 'September'), (40, '14'), (42, ','), (44, '1988'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'television'), (77, 'and'), (81, 'film'), (86, 'actor'), (91, ','), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'his'), (112, 'role'), (117, 'as'), (120, 'Roscoe'), (126, ','), (128, 'the'), (132, 'comic'), (138, 'relief'), (145, 'racetrack'), (155, 'tout'), (159, ','), (161, 'from'), (166, '1958'), (171, 'to'), (174, '1963'), (179, 'in'), (182, 'the'), (186, 'ABC'), (189, '/'), (190, 'Warner'), (197, 'Brothers'), (206, 'detective'), (216, 'television'), (227, 'series'), (233, ','), (235, '77'), (238, 'Sunset'), (245, 'Strip'), (250, '.')])</spacy_tokens>
+<spacy_chunks>[('Louis Quinn', 0, 11), ('(March', 12, 18), ('March 23, 1915', 13, 27), ('September 14, 1988', 30, 48), ('an American television and film actor', 54, 91), ('his role', 108, 116), ('Roscoe', 120, 126), ('the comic relief racetrack tout', 128, 159), ('the ABC/Warner Brothers detective television series', 182, 233), ('77 Sunset Strip', 235, 250)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', ',', 'DT', 'JJ', 'NN', 'NN', 'NN', ',', 'IN', 'CD', 'IN', 'CD', 'IN', 'DT', 'NNP', 'SYM', 'NNP', 'NNPS', 'NN', 'NN', 'NN', ',', 'CD', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bob Steele (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Bob_Steele_(actor)
+<annotated>0</annotated>
+<originalabstract>Bob Steele (born Robert Adrian Bradbury, January 23, 1907 – December 21, 1988) was an American actor. He also was billed as Bob Bradbury Jr..</originalabstract>
+<abstract>Bob_Steele ( born Robert_Adrian_Bradbury , January_23_,_1907 – December_21_,_1988 ) was an_American_actor . He also was_billed as Bob_Bradbury_Jr . .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bob'), (4, 'Steele'), (11, '('), (12, 'born'), (17, 'Robert'), (24, 'Adrian'), (31, 'Bradbury'), (39, ','), (41, 'January'), (49, '23'), (51, ','), (53, '1907'), (58, '–'), (60, 'December'), (69, '21'), (71, ','), (73, '1988'), (77, ')'), (79, 'was'), (83, 'an'), (86, 'American'), (95, 'actor'), (100, '.'), (102, 'He'), (105, 'also'), (110, 'was'), (114, 'billed'), (121, 'as'), (124, 'Bob'), (128, 'Bradbury'), (137, 'Jr'), (139, '.'), (140, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bob Steele',0, 10), ('Robert Adrian Bradbury',17, 39), ('January 23, 1907',41, 57), ('December 21, 1988',60, 77), ('an American actor',83, 100), ('was billed',110, 120), ('Bob Bradbury Jr',124, 139)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'RB', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bob'), (4, 'Steele'), (11, '('), (12, 'born'), (17, 'Robert'), (24, 'Adrian'), (31, 'Bradbury'), (39, ','), (41, 'January'), (49, '23'), (51, ','), (53, '1907'), (58, '–'), (60, 'December'), (69, '21'), (71, ','), (73, '1988'), (77, ')'), (79, 'was'), (83, 'an'), (86, 'American'), (95, 'actor'), (100, '.'), (102, 'He'), (105, 'also'), (110, 'was'), (114, 'billed'), (121, 'as'), (124, 'Bob'), (128, 'Bradbury'), (137, 'Jr'), (139, '..')])</spacy_tokens>
+<spacy_chunks>[('Bob Steele', 0, 10), ('(born Robert Adrian Bradbury', 11, 39), ('January 23, 1907', 41, 57), ('December 21, 1988', 60, 77), ('an American actor', 83, 100), ('Bob Bradbury Jr', 124, 139)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'RB', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

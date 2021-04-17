@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Steven Bauer</title>
+<link/>https://en.wikipedia.org/wiki/Steven_Bauer
+<annotated>0</annotated>
+<originalabstract>Steven Bauer (born Esteban Ernesto Echevarría Samson; December 2, 1956) is a Cuban-American actor. He is known for his role as Manny Ribera in the 1983 film Scarface, as Don Eladio in the AMC drama series Breaking Bad, Avi in Ray Donovan, and the bilingual PBS show ¿Qué Pasa, USA?</originalabstract>
+<abstract>Steven_Bauer ( born Esteban_Ernesto_Echevarría_Samson ; December_2_,_1956 ) is a_Cuban-American_actor . He is_known for his_role as Manny_Ribera in the_1983_film_Scarface , as Don_Eladio in the_AMC_drama_series Breaking Bad_,_Avi in Ray_Donovan , and the_bilingual_PBS_show ¿ Qué_Pasa , USA ?</abstract>
+<stanford_tokens>OrderedDict([(0, 'Steven'), (7, 'Bauer'), (13, '('), (14, 'born'), (19, 'Esteban'), (27, 'Ernesto'), (35, 'Echevarría'), (46, 'Samson'), (52, ';'), (54, 'December'), (63, '2'), (64, ','), (66, '1956'), (70, ')'), (72, 'is'), (75, 'a'), (77, 'Cuban-American'), (92, 'actor'), (97, '.'), (99, 'He'), (102, 'is'), (105, 'known'), (111, 'for'), (115, 'his'), (119, 'role'), (124, 'as'), (127, 'Manny'), (133, 'Ribera'), (140, 'in'), (143, 'the'), (147, '1983'), (152, 'film'), (157, 'Scarface'), (165, ','), (167, 'as'), (170, 'Don'), (174, 'Eladio'), (181, 'in'), (184, 'the'), (188, 'AMC'), (192, 'drama'), (198, 'series'), (205, 'Breaking'), (214, 'Bad'), (217, ','), (219, 'Avi'), (223, 'in'), (226, 'Ray'), (230, 'Donovan'), (237, ','), (239, 'and'), (243, 'the'), (247, 'bilingual'), (257, 'PBS'), (261, 'show'), (266, '¿'), (267, 'Qué'), (271, 'Pasa'), (275, ','), (277, 'USA'), (280, '?')])</stanford_tokens>
+<opennlp_chunks>[('Steven Bauer',0, 12), ('Esteban Ernesto Echevarría Samson',19, 52), ('December 2, 1956',54, 70), ('a Cuban-American actor',75, 97), ('is known',102, 110), ('his role',115, 123), ('Manny Ribera',127, 139), ('the 1983 film Scarface',143, 165), ('Don Eladio',170, 180), ('the AMC drama series',184, 204), ('Bad, Avi',214, 222), ('Ray Donovan',226, 237), ('the bilingual PBS show',243, 265), ('Qué Pasa',267, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', ',', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'VBG', 'JJ', ',', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Steven'), (7, 'Bauer'), (13, '('), (14, 'born'), (19, 'Esteban'), (27, 'Ernesto'), (35, 'Echevarría'), (46, 'Samson'), (52, ';'), (54, 'December'), (63, '2'), (64, ','), (66, '1956'), (70, ')'), (72, 'is'), (75, 'a'), (77, 'Cuban'), (82, '-'), (83, 'American'), (92, 'actor'), (97, '.'), (99, 'He'), (102, 'is'), (105, 'known'), (111, 'for'), (115, 'his'), (119, 'role'), (124, 'as'), (127, 'Manny'), (133, 'Ribera'), (140, 'in'), (143, 'the'), (147, '1983'), (152, 'film'), (157, 'Scarface'), (165, ','), (167, 'as'), (170, 'Don'), (174, 'Eladio'), (181, 'in'), (184, 'the'), (188, 'AMC'), (192, 'drama'), (198, 'series'), (205, 'Breaking'), (214, 'Bad'), (217, ','), (219, 'Avi'), (223, 'in'), (226, 'Ray'), (230, 'Donovan'), (237, ','), (239, 'and'), (243, 'the'), (247, 'bilingual'), (257, 'PBS'), (261, 'show'), (266, '¿'), (267, 'Qué'), (271, 'Pasa'), (275, ','), (277, 'USA'), (280, '?')])</spacy_tokens>
+<spacy_chunks>[('Steven Bauer', 0, 12), ('born Esteban Ernesto Echevarría Samson', 14, 52), ('December 2, 1956', 54, 70), ('a Cuban-American actor', 75, 97), ('his role', 115, 123), ('Manny Ribera', 127, 139), ('the 1983 film', 143, 156), ('Scarface', 157, 165), ('Don Eladio', 170, 180), ('the AMC drama series', 184, 204), ('Breaking Bad', 205, 217), ('Ray Donovan', 226, 237), ('the bilingual PBS', 243, 260), ('¿Qué Pasa, USA?', 266, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', ',', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'DT', 'JJ', 'NNP', 'NN', 'NNP', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

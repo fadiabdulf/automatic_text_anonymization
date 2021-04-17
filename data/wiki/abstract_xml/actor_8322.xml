@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Harewood</title>
+<link/>https://en.wikipedia.org/wiki/David_Harewood
+<annotated>0</annotated>
+<originalabstract>David Harewood  (born 8 December 1965) is an English actor. He trained at the Royal Academy of Dramatic Art. He is known for playing CIA Counterterrorism Director David Estes in Homeland (2011–12), and J'onn J'onzz/Martian Manhunter and Hank Henshaw/Cyborg Superman in Supergirl (2015–present).</originalabstract>
+<abstract>David_Harewood ( born_8_December_1965 ) is an_English_actor . He trained at the_Royal_Academy of Dramatic_Art . He is_known for playing CIA_Counterterrorism_Director_David_Estes in Homeland_(_2011 – 12_) , and J'onn_J'onzz / Martian_Manhunter and Hank_Henshaw/Cyborg_Superman in Supergirl_(_2015 – present_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Harewood'), (16, '('), (17, 'born'), (22, '8'), (24, 'December'), (33, '1965'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'actor'), (58, '.'), (60, 'He'), (63, 'trained'), (71, 'at'), (74, 'the'), (78, 'Royal'), (84, 'Academy'), (92, 'of'), (95, 'Dramatic'), (104, 'Art'), (107, '.'), (109, 'He'), (112, 'is'), (115, 'known'), (121, 'for'), (125, 'playing'), (133, 'CIA'), (137, 'Counterterrorism'), (154, 'Director'), (163, 'David'), (169, 'Estes'), (175, 'in'), (178, 'Homeland'), (187, '('), (188, '2011'), (192, '–'), (193, '12'), (195, ')'), (196, ','), (198, 'and'), (202, 'J\'onn'), (208, 'J\'onzz'), (214, '/'), (215, 'Martian'), (223, 'Manhunter'), (233, 'and'), (237, 'Hank'), (242, 'Henshaw/Cyborg'), (257, 'Superman'), (266, 'in'), (269, 'Supergirl'), (279, '('), (280, '2015'), (284, '–'), (285, 'present'), (292, ')'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Harewood',0, 14), ('born 8 December 1965',17, 37), ('an English actor',42, 58), ('the Royal Academy',74, 91), ('Dramatic Art',95, 107), ('is known',112, 120), ('CIA Counterterrorism Director David Estes',133, 174), ('Homeland (2011',178, 192), ('12)',193, 196), ('J\'onn J\'onzz',202, 214), ('Martian Manhunter',215, 232), ('Hank Henshaw/Cyborg Superman',237, 265), ('Supergirl (2015',269, 284), ('present)',285, 293)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'CC', 'NN', 'NN', ':', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', ':', 'JJ', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Harewood'), (16, '('), (17, 'born'), (22, '8'), (24, 'December'), (33, '1965'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'actor'), (58, '.'), (60, 'He'), (63, 'trained'), (71, 'at'), (74, 'the'), (78, 'Royal'), (84, 'Academy'), (92, 'of'), (95, 'Dramatic'), (104, 'Art'), (107, '.'), (109, 'He'), (112, 'is'), (115, 'known'), (121, 'for'), (125, 'playing'), (133, 'CIA'), (137, 'Counterterrorism'), (154, 'Director'), (163, 'David'), (169, 'Estes'), (175, 'in'), (178, 'Homeland'), (187, '('), (188, '2011–12'), (195, ')'), (196, ','), (198, 'and'), (202, "J'onn"), (208, "J'onzz"), (214, '/'), (215, 'Martian'), (223, 'Manhunter'), (233, 'and'), (237, 'Hank'), (242, 'Henshaw'), (249, '/'), (250, 'Cyborg'), (257, 'Superman'), (266, 'in'), (269, 'Supergirl'), (279, '('), (280, '2015–present'), (292, ')'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('David Harewood', 0, 14), ('8 December 1965', 22, 37), ('an English actor', 42, 58), ('the Royal Academy', 74, 91), ('Royal Academy of Dramatic Art', 78, 107), ('CIA Counterterrorism Director David Estes', 133, 174), ('Homeland', 178, 186), ('2011–12', 188, 195), ("J'onn J'onzz/Martian Manhunter", 202, 232), ('Hank Henshaw/Cyborg Superman', 237, 265), ('Supergirl', 269, 278)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', ',', 'CC', 'NNP', 'JJ', 'SYM', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'SYM', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

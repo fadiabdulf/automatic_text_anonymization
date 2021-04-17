@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leonard Stone</title>
+<link/>https://en.wikipedia.org/wiki/Leonard_Stone
+<annotated>0</annotated>
+<originalabstract>Leonard Stone (November 3, 1923 – November 2, 2011) was an American character actor who played supporting roles in over 120 television shows and 35 films.</originalabstract>
+<abstract>Leonard_Stone ( November_3_,_1923 – November_2_,_2011 ) was an_American_character_actor who played_supporting roles in over_120_television_shows and 35_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leonard'), (8, 'Stone'), (14, '('), (15, 'November'), (24, '3'), (25, ','), (27, '1923'), (32, '–'), (34, 'November'), (43, '2'), (44, ','), (46, '2011'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'character'), (78, 'actor'), (84, 'who'), (88, 'played'), (95, 'supporting'), (106, 'roles'), (112, 'in'), (115, 'over'), (120, '120'), (124, 'television'), (135, 'shows'), (141, 'and'), (145, '35'), (148, 'films'), (153, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leonard Stone',0, 13), ('November 3, 1923',15, 31), ('November 2, 2011',34, 50), ('an American character actor',56, 83), ('played supporting',88, 105), ('over 120 television shows',115, 140), ('35 films',145, 153)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'VBG', 'NNS', 'IN', 'IN', 'CD', 'NN', 'NNS', 'CC', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leonard'), (8, 'Stone'), (14, '('), (15, 'November'), (24, '3'), (25, ','), (27, '1923'), (32, '–'), (34, 'November'), (43, '2'), (44, ','), (46, '2011'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'character'), (78, 'actor'), (84, 'who'), (88, 'played'), (95, 'supporting'), (106, 'roles'), (112, 'in'), (115, 'over'), (120, '120'), (124, 'television'), (135, 'shows'), (141, 'and'), (145, '35'), (148, 'films'), (153, '.')])</spacy_tokens>
+<spacy_chunks>[('Leonard Stone', 0, 13), ('(November', 14, 23), ('November 3, 1923', 15, 31), ('November 2, 2011', 34, 50), ('an American character actor', 56, 83), ('supporting roles', 95, 111), ('over 120 television shows', 115, 140), ('35 films', 145, 153)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'VBG', 'NNS', 'IN', 'IN', 'CD', 'NN', 'NNS', 'CC', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

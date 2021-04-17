@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Prunella Scales</title>
+<link/>https://en.wikipedia.org/wiki/Prunella_Scales
+<annotated>0</annotated>
+<originalabstract>Prunella Margaret Scales  (née Illingworth; born 22 June 1932), is an English actress best known for her role as Basil Fawlty's wife Sybil in the BBC comedy Fawlty Towers and her BAFTA award-nominated role as Queen Elizabeth II in  A Question of Attribution (Screen One, BBC 1991) by Alan Bennett.</originalabstract>
+<abstract>Prunella_Margaret_Scales ( née_Illingworth ; born_22_June_1932 ) , is an_English_actress best_known for her_role as Basil_Fawlty 's_wife_Sybil in the_BBC_comedy_Fawlty_Towers and her_BAFTA_award-nominated_role as Queen_Elizabeth_II in A_Question of Attribution ( Screen_One , BBC_1991 ) by Alan_Bennett .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Prunella'), (9, 'Margaret'), (18, 'Scales'), (26, '('), (27, 'née'), (31, 'Illingworth'), (42, ';'), (44, 'born'), (49, '22'), (52, 'June'), (57, '1932'), (61, ')'), (62, ','), (64, 'is'), (67, 'an'), (70, 'English'), (78, 'actress'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'her'), (105, 'role'), (110, 'as'), (113, 'Basil'), (119, 'Fawlty'), (125, '\'s'), (128, 'wife'), (133, 'Sybil'), (139, 'in'), (142, 'the'), (146, 'BBC'), (150, 'comedy'), (157, 'Fawlty'), (164, 'Towers'), (171, 'and'), (175, 'her'), (179, 'BAFTA'), (185, 'award-nominated'), (201, 'role'), (206, 'as'), (209, 'Queen'), (215, 'Elizabeth'), (225, 'II'), (228, 'in'), (232, 'A'), (234, 'Question'), (243, 'of'), (246, 'Attribution'), (258, '('), (259, 'Screen'), (266, 'One'), (269, ','), (271, 'BBC'), (275, '1991'), (279, ')'), (281, 'by'), (284, 'Alan'), (289, 'Bennett'), (296, '.')])</stanford_tokens>
+<opennlp_chunks>[('Prunella Margaret Scales',0, 24), ('née Illingworth',27, 42), ('born 22 June 1932',44, 61), ('an English actress',67, 85), ('best known',86, 96), ('her role',101, 109), ('Basil Fawlty',113, 125), ('\'s wife Sybil',125, 138), ('the BBC comedy Fawlty Towers',142, 170), ('her BAFTA award-nominated role',175, 205), ('Queen Elizabeth II',209, 227), ('A Question',232, 242), ('Screen One',259, 269), ('BBC 1991',271, 279), ('Alan Bennett',284, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'CC', 'PRP$', 'NN', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NN', '-LRB-', 'NNP', 'CD', ',', 'NNP', 'CD', '-RRB-', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Prunella'), (9, 'Margaret'), (18, 'Scales'), (26, '('), (27, 'née'), (31, 'Illingworth'), (42, ';'), (44, 'born'), (49, '22'), (52, 'June'), (57, '1932'), (61, ')'), (62, ','), (64, 'is'), (67, 'an'), (70, 'English'), (78, 'actress'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'her'), (105, 'role'), (110, 'as'), (113, 'Basil'), (119, 'Fawlty'), (125, "'s"), (128, 'wife'), (133, 'Sybil'), (139, 'in'), (142, 'the'), (146, 'BBC'), (150, 'comedy'), (157, 'Fawlty'), (164, 'Towers'), (171, 'and'), (175, 'her'), (179, 'BAFTA'), (185, 'award'), (190, '-'), (191, 'nominated'), (201, 'role'), (206, 'as'), (209, 'Queen'), (215, 'Elizabeth'), (225, 'II'), (228, 'in'), (232, 'A'), (234, 'Question'), (243, 'of'), (246, 'Attribution'), (258, '('), (259, 'Screen'), (266, 'One'), (269, ','), (271, 'BBC'), (275, '1991'), (279, ')'), (281, 'by'), (284, 'Alan'), (289, 'Bennett'), (296, '.')])</spacy_tokens>
+<spacy_chunks>[('Prunella Margaret Scales', 0, 24), ('(née Illingworth', 26, 42), ('22 June 1932', 49, 61), ('an English actress', 67, 85), ('her role', 101, 109), ("Basil Fawlty's wife", 113, 132), ('the BBC comedy', 142, 156), ('Fawlty Towers', 157, 170), ('BAFTA award-nominated role', 179, 205), ('Queen Elizabeth II', 209, 227), ('A Question of Attribution', 232, 257), ('Screen One, BBC', 259, 274), ('Alan Bennett', 284, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'VBD', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNPS', 'CC', 'PRP$', 'NNP', 'NN', 'HYPH', 'VBN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NN', '-LRB-', 'NNP', 'CD', ',', 'NNP', 'CD', '-RRB-', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sybil Seely</title>
+<link/>https://en.wikipedia.org/wiki/Sybil_Seely
+<annotated>0</annotated>
+<originalabstract>Sybil Seely (January 2, 1902 – June 26, 1984) was a silent film actress who worked with the well known silent film comedy actor Buster Keaton. She was credited in most of her films as Sibye Trevilla.</originalabstract>
+<abstract>Sybil_Seely ( January_2_,_1902 – June_26_,_1984 ) was a_silent_film_actress who worked with the_well_known_silent_film_comedy_actor_Buster_Keaton . She was_credited in most of her_films as Sibye_Trevilla .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sybil'), (6, 'Seely'), (12, '('), (13, 'January'), (21, '2'), (22, ','), (24, '1902'), (29, '–'), (31, 'June'), (36, '26'), (38, ','), (40, '1984'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'silent'), (59, 'film'), (64, 'actress'), (72, 'who'), (76, 'worked'), (83, 'with'), (88, 'the'), (92, 'well'), (97, 'known'), (103, 'silent'), (110, 'film'), (115, 'comedy'), (122, 'actor'), (128, 'Buster'), (135, 'Keaton'), (141, '.'), (143, 'She'), (147, 'was'), (151, 'credited'), (160, 'in'), (163, 'most'), (168, 'of'), (171, 'her'), (175, 'films'), (181, 'as'), (184, 'Sibye'), (190, 'Trevilla'), (198, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sybil Seely',0, 11), ('January 2, 1902',13, 28), ('June 26, 1984',31, 44), ('a silent film actress',50, 71), ('the well known silent film comedy actor Buster Keaton',88, 141), ('was credited',147, 159), ('her films',171, 180), ('Sibye Trevilla',184, 198)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'RB', 'VBN', 'JJ', 'NN', 'NN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'JJS', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sybil'), (6, 'Seely'), (12, '('), (13, 'January'), (21, '2'), (22, ','), (24, '1902'), (29, '–'), (31, 'June'), (36, '26'), (38, ','), (40, '1984'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'silent'), (59, 'film'), (64, 'actress'), (72, 'who'), (76, 'worked'), (83, 'with'), (88, 'the'), (92, 'well'), (97, 'known'), (103, 'silent'), (110, 'film'), (115, 'comedy'), (122, 'actor'), (128, 'Buster'), (135, 'Keaton'), (141, '.'), (143, 'She'), (147, 'was'), (151, 'credited'), (160, 'in'), (163, 'most'), (168, 'of'), (171, 'her'), (175, 'films'), (181, 'as'), (184, 'Sibye'), (190, 'Trevilla'), (198, '.')])</spacy_tokens>
+<spacy_chunks>[('Sybil Seely', 0, 11), ('(January', 12, 20), ('January 2, 1902', 13, 28), ('June 26, 1984', 31, 44), ('a silent film actress', 50, 71), ('the well known silent film comedy actor Buster Keaton', 88, 141), ('her films', 171, 180), ('Sibye Trevilla', 184, 198)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'RB', 'VBN', 'JJ', 'NN', 'NN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'JJS', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

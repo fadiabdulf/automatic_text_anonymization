@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Howard Gaye</title>
+<link/>https://en.wikipedia.org/wiki/Howard_Gaye
+<annotated>0</annotated>
+<originalabstract>Howard Gaye (23 May 1878 – 26 December 1955) was a British actor who worked mainly in the United States.
+He acted in 27 silent films including Robert E. Lee in Birth of a Nation (1915) and Jesus Christ in D. W. Griffith's Intolerance: Love's Struggle Throughout the Ages (1916).</originalabstract>
+<abstract>Howard_Gaye ( 23_May_1878 – 26_December_1955 ) was a_British_actor who worked mainly in the_United_States . He acted in 27_silent_films including Robert_E._Lee in Birth of a_Nation_(_1915_) and Jesus_Christ in D._W._Griffith 's_Intolerance : Love 's_Struggle Throughout the_Ages ( 1916_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Howard'), (7, 'Gaye'), (12, '('), (13, '23'), (16, 'May'), (20, '1878'), (25, '–'), (27, '26'), (30, 'December'), (39, '1955'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'British'), (59, 'actor'), (65, 'who'), (69, 'worked'), (76, 'mainly'), (83, 'in'), (86, 'the'), (90, 'United'), (97, 'States'), (103, '.'), (105, 'He'), (108, 'acted'), (114, 'in'), (117, '27'), (120, 'silent'), (127, 'films'), (133, 'including'), (143, 'Robert'), (150, 'E.'), (153, 'Lee'), (157, 'in'), (160, 'Birth'), (166, 'of'), (169, 'a'), (171, 'Nation'), (178, '('), (179, '1915'), (183, ')'), (185, 'and'), (189, 'Jesus'), (195, 'Christ'), (202, 'in'), (205, 'D.'), (208, 'W.'), (211, 'Griffith'), (219, '\'s'), (222, 'Intolerance'), (233, ':'), (235, 'Love'), (239, '\'s'), (242, 'Struggle'), (251, 'Throughout'), (262, 'the'), (266, 'Ages'), (271, '('), (272, '1916'), (276, ')'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Howard Gaye',0, 11), ('23 May 1878',13, 24), ('26 December 1955',27, 43), ('a British actor',49, 64), ('the United States',86, 103), ('27 silent films',117, 132), ('Robert E. Lee',143, 156), ('a Nation (1915)',169, 184), ('Jesus Christ',189, 201), ('D. W. Griffith',205, 219), ('\'s Intolerance',219, 233), ('\'s Struggle',239, 250), ('the Ages',262, 270), ('1916)',272, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'RB', 'IN', 'DT', 'NNP', 'NNPS', '.', 'PRP', 'VBD', 'IN', 'CD', 'JJ', 'NNS', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'NNP', ':', 'NNP', 'POS', 'NNP', 'IN', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Howard'), (7, 'Gaye'), (12, '('), (13, '23'), (16, 'May'), (20, '1878'), (25, '–'), (27, '26'), (30, 'December'), (39, '1955'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'British'), (59, 'actor'), (65, 'who'), (69, 'worked'), (76, 'mainly'), (83, 'in'), (86, 'the'), (90, 'United'), (97, 'States'), (103, '.'), (105, 'He'), (108, 'acted'), (114, 'in'), (117, '27'), (120, 'silent'), (127, 'films'), (133, 'including'), (143, 'Robert'), (150, 'E.'), (153, 'Lee'), (157, 'in'), (160, 'Birth'), (166, 'of'), (169, 'a'), (171, 'Nation'), (178, '('), (179, '1915'), (183, ')'), (185, 'and'), (189, 'Jesus'), (195, 'Christ'), (202, 'in'), (205, 'D.'), (208, 'W.'), (211, 'Griffith'), (219, "'s"), (222, 'Intolerance'), (233, ':'), (235, 'Love'), (239, "'s"), (242, 'Struggle'), (251, 'Throughout'), (262, 'the'), (266, 'Ages'), (271, '('), (272, '1916'), (276, ')'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Howard Gaye', 0, 11), ('23 May 1878', 13, 24), ('26 December 1955', 27, 43), ('a British actor', 49, 64), ('the United States', 86, 103), ('27 silent films', 117, 132), ('Robert E. Lee', 143, 156), ('Birth of a Nation', 160, 177), ('Jesus Christ', 189, 201), ("D. W. Griffith's Intolerance", 205, 233), ("Love's Struggle", 235, 250), ('the Ages', 262, 270)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'RB', 'IN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'JJ', 'NNS', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'NN', ':', 'NN', 'POS', 'NN', 'IN', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marie-Anne Chazel</title>
+<link/>https://en.wikipedia.org/wiki/Marie-Anne_Chazel
+<annotated>0</annotated>
+<originalabstract>Marie-Anne Chazel (born 19 September 1951) is a French actress, screenwriter and director, who has been active in both film and television since 1974.</originalabstract>
+<abstract>Marie-Anne_Chazel ( born 19_September_1951 ) is a_French_actress , screenwriter_and_director , who has_been active in both_film_and_television since 1974 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie-Anne'), (11, 'Chazel'), (18, '('), (19, 'born'), (24, '19'), (27, 'September'), (37, '1951'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'French'), (55, 'actress'), (62, ','), (64, 'screenwriter'), (77, 'and'), (81, 'director'), (89, ','), (91, 'who'), (95, 'has'), (99, 'been'), (104, 'active'), (111, 'in'), (114, 'both'), (119, 'film'), (124, 'and'), (128, 'television'), (139, 'since'), (145, '1974'), (149, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie-Anne Chazel',0, 17), ('19 September 1951',24, 41), ('a French actress',46, 62), ('screenwriter and director',64, 89), ('has been',95, 103), ('both film and television',114, 138)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'WP', 'VBZ', 'VBN', 'JJ', 'IN', 'CC', 'NN', 'CC', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (5, '-'), (6, 'Anne'), (11, 'Chazel'), (18, '('), (19, 'born'), (24, '19'), (27, 'September'), (37, '1951'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'French'), (55, 'actress'), (62, ','), (64, 'screenwriter'), (77, 'and'), (81, 'director'), (89, ','), (91, 'who'), (95, 'has'), (99, 'been'), (104, 'active'), (111, 'in'), (114, 'both'), (119, 'film'), (124, 'and'), (128, 'television'), (139, 'since'), (145, '1974'), (149, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie-Anne Chazel', 0, 17), ('19 September 1951', 24, 41), ('a French actress', 46, 62), ('screenwriter', 64, 76), ('director', 81, 89), ('both film', 114, 123), ('television', 128, 138)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'WP', 'VBZ', 'VBN', 'JJ', 'IN', 'DT', 'NN', 'CC', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

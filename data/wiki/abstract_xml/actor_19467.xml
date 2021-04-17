@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jo Kennedy</title>
+<link/>https://en.wikipedia.org/wiki/Jo_Kennedy
+<annotated>0</annotated>
+<originalabstract>Mary Jo Kopechne (; July 26, 1940 – July 18, 1969) was an American teacher, secretary, and political campaign specialist who died in a car accident at Chappaquiddick Island on July 18, 1969, while she was a passenger in a car being driven by U.S. Senator Ted Kennedy.</originalabstract>
+<abstract>Mary_Jo Kopechne ( ; July_26_,_1940 – July_18_,_1969 ) was an_American_teacher , secretary , and political_campaign_specialist who died in a_car_accident at Chappaquiddick_Island on July_18_,_1969 , while she was a_passenger in a_car being_driven by U.S._Senator_Ted_Kennedy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Jo'), (8, 'Kopechne'), (17, '('), (18, ';'), (20, 'July'), (25, '26'), (27, ','), (29, '1940'), (34, '–'), (36, 'July'), (41, '18'), (43, ','), (45, '1969'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'teacher'), (74, ','), (76, 'secretary'), (85, ','), (87, 'and'), (91, 'political'), (101, 'campaign'), (110, 'specialist'), (121, 'who'), (125, 'died'), (130, 'in'), (133, 'a'), (135, 'car'), (139, 'accident'), (148, 'at'), (151, 'Chappaquiddick'), (166, 'Island'), (173, 'on'), (176, 'July'), (181, '18'), (183, ','), (185, '1969'), (189, ','), (191, 'while'), (197, 'she'), (201, 'was'), (205, 'a'), (207, 'passenger'), (217, 'in'), (220, 'a'), (222, 'car'), (226, 'being'), (232, 'driven'), (239, 'by'), (242, 'U.S.'), (247, 'Senator'), (255, 'Ted'), (259, 'Kennedy'), (266, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Jo',0, 7), ('July 26, 1940',20, 33), ('July 18, 1969',36, 49), ('an American teacher',55, 74), ('political campaign specialist',91, 120), ('a car accident',133, 147), ('Chappaquiddick Island',151, 172), ('July 18, 1969',176, 189), ('a passenger',205, 216), ('a car',220, 225), ('being driven',226, 238), ('U.S. Senator Ted Kennedy',242, 266)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NN', 'VBG', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Jo'), (8, 'Kopechne'), (17, '(;'), (20, 'July'), (25, '26'), (27, ','), (29, '1940'), (34, '–'), (36, 'July'), (41, '18'), (43, ','), (45, '1969'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'teacher'), (74, ','), (76, 'secretary'), (85, ','), (87, 'and'), (91, 'political'), (101, 'campaign'), (110, 'specialist'), (121, 'who'), (125, 'died'), (130, 'in'), (133, 'a'), (135, 'car'), (139, 'accident'), (148, 'at'), (151, 'Chappaquiddick'), (166, 'Island'), (173, 'on'), (176, 'July'), (181, '18'), (183, ','), (185, '1969'), (189, ','), (191, 'while'), (197, 'she'), (201, 'was'), (205, 'a'), (207, 'passenger'), (217, 'in'), (220, 'a'), (222, 'car'), (226, 'being'), (232, 'driven'), (239, 'by'), (242, 'U.S.'), (247, 'Senator'), (255, 'Ted'), (259, 'Kennedy'), (266, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Jo Kopechne', 0, 16), ('July 26, 1940', 20, 33), ('July 18, 1969', 36, 49), ('an American teacher', 55, 74), ('secretary', 76, 85), ('political campaign specialist', 91, 120), ('a car accident', 133, 147), ('Chappaquiddick Island', 151, 172), ('July 18, 1969', 176, 189), ('a passenger', 205, 216), ('U.S. Senator Ted Kennedy', 242, 266)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'XX', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NN', 'VBG', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

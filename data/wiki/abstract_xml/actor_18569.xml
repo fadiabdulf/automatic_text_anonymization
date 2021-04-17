@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marie-Laure Dougnac</title>
+<link/>https://en.wikipedia.org/wiki/Marie-Laure_Dougnac
+<annotated>0</annotated>
+<originalabstract>Marie-Laure Dougnac (born 1 February 1962) is a French actress specializing in the dubbing of English films and TV shows into French.</originalabstract>
+<abstract>Marie-Laure_Dougnac ( born 1_February_1962 ) is a_French_actress specializing in the_dubbing of English_films and TV_shows into French .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie-Laure'), (12, 'Dougnac'), (20, '('), (21, 'born'), (26, '1'), (28, 'February'), (37, '1962'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'French'), (55, 'actress'), (63, 'specializing'), (76, 'in'), (79, 'the'), (83, 'dubbing'), (91, 'of'), (94, 'English'), (102, 'films'), (108, 'and'), (112, 'TV'), (115, 'shows'), (121, 'into'), (126, 'French'), (132, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie-Laure Dougnac',0, 19), ('1 February 1962',26, 41), ('a French actress',46, 62), ('the dubbing',79, 90), ('English films',94, 107), ('TV shows',112, 120)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBG', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (5, '-'), (6, 'Laure'), (12, 'Dougnac'), (20, '('), (21, 'born'), (26, '1'), (28, 'February'), (37, '1962'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'French'), (55, 'actress'), (63, 'specializing'), (76, 'in'), (79, 'the'), (83, 'dubbing'), (91, 'of'), (94, 'English'), (102, 'films'), (108, 'and'), (112, 'TV'), (115, 'shows'), (121, 'into'), (126, 'French'), (132, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie-Laure Dougnac', 0, 19), ('1 February 1962', 26, 41), ('a French actress', 46, 62), ('the dubbing', 79, 90), ('English films', 94, 107)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBG', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

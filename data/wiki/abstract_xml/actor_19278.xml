@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert Rabiah</title>
+<link/>https://en.wikipedia.org/wiki/Robert_Rabiah
+<annotated>0</annotated>
+<originalabstract>Robert Rabiah is an Australian film actor best known for his roles as Hakim in Face to Face, Nick in Chopper, Dario Mancini in Fat Tony  Co., Spiro Politis on TV soap Neighbours, Mehmet in Deadline Gallipoli, Mohsen in Ali's Wedding, Bilal in Safe Harbour and Sami Almasi in Secret City (TV series).</originalabstract>
+<abstract>Robert_Rabiah is an_Australian_film_actor best known for his_roles as Hakim in Face to Face , Nick in Chopper , Dario_Mancini in Fat_Tony_ , Spiro_Politis on TV_soap_Neighbours , Mehmet in Deadline_Gallipoli , Mohsen in Ali 's_Wedding , Bilal in Safe_Harbour and Sami_Almasi in Secret_City ( TV_series ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Rabiah'), (14, 'is'), (17, 'an'), (20, 'Australian'), (31, 'film'), (36, 'actor'), (42, 'best'), (47, 'known'), (53, 'for'), (57, 'his'), (61, 'roles'), (67, 'as'), (70, 'Hakim'), (76, 'in'), (79, 'Face'), (84, 'to'), (87, 'Face'), (91, ','), (93, 'Nick'), (98, 'in'), (101, 'Chopper'), (108, ','), (110, 'Dario'), (116, 'Mancini'), (124, 'in'), (127, 'Fat'), (131, 'Tony'), (136, ''), (138, 'Co.'), (141, ','), (143, 'Spiro'), (149, 'Politis'), (157, 'on'), (160, 'TV'), (163, 'soap'), (168, 'Neighbours'), (178, ','), (180, 'Mehmet'), (187, 'in'), (190, 'Deadline'), (199, 'Gallipoli'), (208, ','), (210, 'Mohsen'), (217, 'in'), (220, 'Ali'), (223, '\'s'), (226, 'Wedding'), (233, ','), (235, 'Bilal'), (241, 'in'), (244, 'Safe'), (249, 'Harbour'), (257, 'and'), (261, 'Sami'), (266, 'Almasi'), (273, 'in'), (276, 'Secret'), (283, 'City'), (288, '('), (289, 'TV'), (292, 'series'), (298, ')'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Rabiah',0, 13), ('an Australian film actor',17, 41), ('his roles',57, 66), ('Dario Mancini',110, 123), ('Fat Tony  Co.',127, 141), ('Spiro Politis',143, 156), ('TV soap Neighbours',160, 178), ('Deadline Gallipoli',190, 208), ('\'s Wedding',223, 233), ('Safe Harbour',244, 256), ('Sami Almasi',261, 272), ('Secret City',276, 287), ('TV series',289, 298)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'NNP', 'TO', 'NNP', ',', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NN', 'NN', 'NNP', ',', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'POS', 'NN', ',', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', 'NN', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Rabiah'), (14, 'is'), (17, 'an'), (20, 'Australian'), (31, 'film'), (36, 'actor'), (42, 'best'), (47, 'known'), (53, 'for'), (57, 'his'), (61, 'roles'), (67, 'as'), (70, 'Hakim'), (76, 'in'), (79, 'Face'), (84, 'to'), (87, 'Face'), (91, ','), (93, 'Nick'), (98, 'in'), (101, 'Chopper'), (108, ','), (110, 'Dario'), (116, 'Mancini'), (124, 'in'), (127, 'Fat'), (131, 'Tony'), (137, 'Co.'), (140, ','), (142, 'Spiro'), (148, 'Politis'), (156, 'on'), (159, 'TV'), (162, 'soap'), (167, 'Neighbours'), (177, ','), (179, 'Mehmet'), (186, 'in'), (189, 'Deadline'), (198, 'Gallipoli'), (207, ','), (209, 'Mohsen'), (216, 'in'), (219, 'Ali'), (222, "'s"), (225, 'Wedding'), (232, ','), (234, 'Bilal'), (240, 'in'), (243, 'Safe'), (248, 'Harbour'), (256, 'and'), (260, 'Sami'), (265, 'Almasi'), (272, 'in'), (275, 'Secret'), (282, 'City'), (287, '('), (288, 'TV'), (291, 'series'), (297, ')'), (298, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Rabiah', 0, 13), ('an Australian film actor', 17, 41), ('his roles', 57, 66), ('Face to Face', 79, 91), ('Chopper', 101, 108), ('Dario Mancini', 110, 123), ('Fat Tony  Co.', 127, 140), ('Spiro Politis', 142, 155), ('TV soap Neighbours', 159, 177), ('Mehmet', 179, 185), ('Deadline Gallipoli', 189, 207), ('Mohsen', 209, 215), ("Ali's Wedding", 219, 232), ('Safe Harbour', 243, 255), ('Sami Almasi', 260, 271), ('Secret City (TV series)', 275, 298)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'NNP', 'IN', 'NN', ',', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NN', 'NN', 'NNPS', ',', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'POS', 'NN', ',', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'NN', 'NN', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

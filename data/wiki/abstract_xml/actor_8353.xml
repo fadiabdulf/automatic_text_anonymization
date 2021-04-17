@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brendan Healy (comedian)</title>
+<link/>https://en.wikipedia.org/wiki/Brendan_Healy_(comedian)
+<annotated>0</annotated>
+<originalabstract>Brendan Healy (18 December 1956 – 18 February 2016) was a British entertainer from North East England. Beginning as a musician (on keyboards and occasional trombone), he worked in television, becoming an actor, theatre writer and producer, and, later, a comedian.</originalabstract>
+<abstract>Brendan_Healy ( 18_December_1956 – 18_February_2016 ) was a_British_entertainer from North_East_England . Beginning as a_musician_( on keyboards and occasional_trombone_) , he worked in television , becoming an_actor , theatre_writer_and_producer , and , later , a_comedian .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brendan'), (8, 'Healy'), (14, '('), (15, '18'), (18, 'December'), (27, '1956'), (32, '–'), (34, '18'), (37, 'February'), (46, '2016'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'British'), (66, 'entertainer'), (78, 'from'), (83, 'North'), (89, 'East'), (94, 'England'), (101, '.'), (103, 'Beginning'), (113, 'as'), (116, 'a'), (118, 'musician'), (127, '('), (128, 'on'), (131, 'keyboards'), (141, 'and'), (145, 'occasional'), (156, 'trombone'), (164, ')'), (165, ','), (167, 'he'), (170, 'worked'), (177, 'in'), (180, 'television'), (190, ','), (192, 'becoming'), (201, 'an'), (204, 'actor'), (209, ','), (211, 'theatre'), (219, 'writer'), (226, 'and'), (230, 'producer'), (238, ','), (240, 'and'), (243, ','), (245, 'later'), (250, ','), (252, 'a'), (254, 'comedian'), (262, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brendan Healy',0, 13), ('18 December 1956',15, 31), ('18 February 2016',34, 50), ('a British entertainer',56, 77), ('North East England',83, 101), ('a musician (',116, 128), ('occasional trombone)',145, 165), ('an actor',201, 209), ('theatre writer and producer',211, 238), ('a comedian',252, 262)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.', 'VBG', 'IN', 'DT', 'NN', '-LRB-', 'IN', 'NNS', 'CC', 'JJ', 'NN', '-RRB-', ',', 'PRP', 'VBD', 'IN', 'NN', ',', 'VBG', 'DT', 'NN', ',', 'NN', 'NN', 'CC', 'NN', ',', 'CC', ',', 'RB', ',', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brendan'), (8, 'Healy'), (14, '('), (15, '18'), (18, 'December'), (27, '1956'), (32, '–'), (34, '18'), (37, 'February'), (46, '2016'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'British'), (66, 'entertainer'), (78, 'from'), (83, 'North'), (89, 'East'), (94, 'England'), (101, '.'), (103, 'Beginning'), (113, 'as'), (116, 'a'), (118, 'musician'), (127, '('), (128, 'on'), (131, 'keyboards'), (141, 'and'), (145, 'occasional'), (156, 'trombone'), (164, ')'), (165, ','), (167, 'he'), (170, 'worked'), (177, 'in'), (180, 'television'), (190, ','), (192, 'becoming'), (201, 'an'), (204, 'actor'), (209, ','), (211, 'theatre'), (219, 'writer'), (226, 'and'), (230, 'producer'), (238, ','), (240, 'and'), (243, ','), (245, 'later'), (250, ','), (252, 'a'), (254, 'comedian'), (262, '.')])</spacy_tokens>
+<spacy_chunks>[('Brendan Healy', 0, 13), ('18 December 1956', 15, 31), ('18 February 2016', 34, 50), ('a British entertainer', 56, 77), ('North East England', 83, 101), ('a musician', 116, 126), ('keyboards', 131, 140), ('occasional trombone', 145, 164), ('television', 180, 190), ('an actor, theatre writer', 201, 225), ('producer', 230, 238), ('a comedian', 252, 262)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.', 'VBG', 'IN', 'DT', 'NN', '-LRB-', 'IN', 'NNS', 'CC', 'JJ', 'NN', '-RRB-', ',', 'PRP', 'VBD', 'IN', 'NN', ',', 'VBG', 'DT', 'NN', ',', 'NN', 'NN', 'CC', 'NN', ',', 'CC', ',', 'RB', ',', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

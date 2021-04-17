@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leslie Fenton</title>
+<link/>https://en.wikipedia.org/wiki/Leslie_Fenton
+<annotated>0</annotated>
+<originalabstract>Leslie Fenton (12 March 1902 – 25 March 1978) was an English-born American actor and film director. He appeared in 62 films between 1923 and 1945.</originalabstract>
+<abstract>Leslie_Fenton ( 12_March_1902 – 25_March_1978 ) was an_English-born_American_actor_and_film_director . He appeared in 62_films between 1923_and_1945 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leslie'), (7, 'Fenton'), (14, '('), (15, '12'), (18, 'March'), (24, '1902'), (29, '–'), (31, '25'), (34, 'March'), (40, '1978'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English-born'), (66, 'American'), (75, 'actor'), (81, 'and'), (85, 'film'), (90, 'director'), (98, '.'), (100, 'He'), (103, 'appeared'), (112, 'in'), (115, '62'), (118, 'films'), (124, 'between'), (132, '1923'), (137, 'and'), (141, '1945'), (145, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leslie Fenton',0, 13), ('12 March 1902',15, 28), ('25 March 1978',31, 44), ('an English-born American actor and film director',50, 98), ('62 films',115, 123), ('1923 and 1945',132, 145)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NN', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leslie'), (7, 'Fenton'), (14, '('), (15, '12'), (18, 'March'), (24, '1902'), (29, '–'), (31, '25'), (34, 'March'), (40, '1978'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English'), (60, '-'), (61, 'born'), (66, 'American'), (75, 'actor'), (81, 'and'), (85, 'film'), (90, 'director'), (98, '.'), (100, 'He'), (103, 'appeared'), (112, 'in'), (115, '62'), (118, 'films'), (124, 'between'), (132, '1923'), (137, 'and'), (141, '1945'), (145, '.')])</spacy_tokens>
+<spacy_chunks>[('Leslie Fenton', 0, 13), ('12 March 1902', 15, 28), ('25 March 1978', 31, 44), ('an English-born American actor', 50, 80), ('Film director', 85, 98), ('62 films', 115, 123)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

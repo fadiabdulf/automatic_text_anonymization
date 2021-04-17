@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tiny Sandford</title>
+<link/>https://en.wikipedia.org/wiki/Tiny_Sandford
+<annotated>0</annotated>
+<originalabstract>Stanley J. "Tiny" Sandford (February 26, 1894 – October 29, 1961) was a tall, burly actor who is best remembered for his roles in Laurel and Hardy and Charlie Chaplin films. He was usually cast as a comic heavy, and often played policemen, doormen, prizefighters, or bullies.</originalabstract>
+<abstract>Stanley_J._"_Tiny_"_Sandford ( February_26_,_1894 – October_29_,_1961 ) was a_tall_,_burly_actor who is_best_remembered for his_roles in Laurel_and_Hardy and Charlie_Chaplin_films . He was_usually_cast as a_comic_heavy , and often_played policemen , doormen , prizefighters , or bullies .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stanley'), (8, 'J.'), (11, '"'), (12, 'Tiny'), (16, '"'), (18, 'Sandford'), (27, '('), (28, 'February'), (37, '26'), (39, ','), (41, '1894'), (46, '–'), (48, 'October'), (56, '29'), (58, ','), (60, '1961'), (64, ')'), (66, 'was'), (70, 'a'), (72, 'tall'), (76, ','), (78, 'burly'), (84, 'actor'), (90, 'who'), (94, 'is'), (97, 'best'), (102, 'remembered'), (113, 'for'), (117, 'his'), (121, 'roles'), (127, 'in'), (130, 'Laurel'), (137, 'and'), (141, 'Hardy'), (147, 'and'), (151, 'Charlie'), (159, 'Chaplin'), (167, 'films'), (172, '.'), (174, 'He'), (177, 'was'), (181, 'usually'), (189, 'cast'), (194, 'as'), (197, 'a'), (199, 'comic'), (205, 'heavy'), (210, ','), (212, 'and'), (216, 'often'), (222, 'played'), (229, 'policemen'), (238, ','), (240, 'doormen'), (247, ','), (249, 'prizefighters'), (262, ','), (264, 'or'), (267, 'bullies'), (274, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stanley J. "Tiny" Sandford',0, 26), ('February 26, 1894',28, 45), ('October 29, 1961',48, 64), ('a tall, burly actor',70, 89), ('is best remembered',94, 112), ('his roles',117, 126), ('Laurel and Hardy',130, 146), ('Charlie Chaplin films',151, 172), ('was usually cast',177, 193), ('a comic heavy',197, 210), ('often played',216, 228)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', ',', 'JJ', 'NN', 'WP', 'VBZ', 'JJS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'CC', 'NNP', 'CC', 'NNP', 'NNP', 'NNS', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'DT', 'JJ', 'NN', ',', 'CC', 'RB', 'VBD', 'NNS', ',', 'NNS', ',', 'NNS', ',', 'CC', 'VBZ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stanley'), (8, 'J.'), (11, '"'), (12, 'Tiny'), (16, '"'), (18, 'Sandford'), (27, '('), (28, 'February'), (37, '26'), (39, ','), (41, '1894'), (46, '–'), (48, 'October'), (56, '29'), (58, ','), (60, '1961'), (64, ')'), (66, 'was'), (70, 'a'), (72, 'tall'), (76, ','), (78, 'burly'), (84, 'actor'), (90, 'who'), (94, 'is'), (97, 'best'), (102, 'remembered'), (113, 'for'), (117, 'his'), (121, 'roles'), (127, 'in'), (130, 'Laurel'), (137, 'and'), (141, 'Hardy'), (147, 'and'), (151, 'Charlie'), (159, 'Chaplin'), (167, 'films'), (172, '.'), (174, 'He'), (177, 'was'), (181, 'usually'), (189, 'cast'), (194, 'as'), (197, 'a'), (199, 'comic'), (205, 'heavy'), (210, ','), (212, 'and'), (216, 'often'), (222, 'played'), (229, 'policemen'), (238, ','), (240, 'doormen'), (247, ','), (249, 'prizefighters'), (262, ','), (264, 'or'), (267, 'bullies'), (274, '.')])</spacy_tokens>
+<spacy_chunks>[('Stanley J. "Tiny" Sandford', 0, 26), ('February 26, 1894', 28, 45), ('October 29, 1961', 48, 64), ('a tall, burly actor', 70, 89), ('Remember', 102, 110), ('his roles', 117, 126), ('Laurel and Hardy', 130, 146), ('Charlie Chaplin', 151, 166), ('a comic heavy', 197, 210), ('policemen', 229, 238), ('doormen', 240, 247), ('prizefighters', 249, 262), ('bullies', 267, 274)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'JJ', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', ',', 'JJ', 'NN', 'WP', 'VBZ', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'CC', 'NNP', 'CC', 'NNP', 'NNP', 'NNS', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'DT', 'JJ', 'NN', ',', 'CC', 'RB', 'VBD', 'NNS', ',', 'NNS', ',', 'NNS', ',', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

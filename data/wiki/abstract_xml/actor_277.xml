@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Obba Babatundé</title>
+<link/>https://en.wikipedia.org/wiki/Obba_Babatund%C3%A9
+<annotated>0</annotated>
+<originalabstract>Obba Babatundé (born December 1, 1951) is an American stage and movie actor.
+A native of Queens, New York, Babatundé has appeared in more than seventeen stage productions, thirty theatrical films, sixty made-for-television movies, and two prime-time series.</originalabstract>
+<abstract>Obba_Babatundé ( born December_1_,_1951 ) is an_American_stage_and_movie_actor . A_native of Queens , New_York , Babatundé has_appeared in more_than_seventeen_stage_productions , thirty_theatrical_films , sixty_made-for-television_movies , and two_prime-time_series .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Obba'), (5, 'Babatundé'), (15, '('), (16, 'born'), (21, 'December'), (30, '1'), (31, ','), (33, '1951'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'stage'), (60, 'and'), (64, 'movie'), (70, 'actor'), (75, '.'), (77, 'A'), (79, 'native'), (86, 'of'), (89, 'Queens'), (95, ','), (97, 'New'), (101, 'York'), (105, ','), (107, 'Babatundé'), (117, 'has'), (121, 'appeared'), (130, 'in'), (133, 'more'), (138, 'than'), (143, 'seventeen'), (153, 'stage'), (159, 'productions'), (170, ','), (172, 'thirty'), (179, 'theatrical'), (190, 'films'), (195, ','), (197, 'sixty'), (203, 'made-for-television'), (223, 'movies'), (229, ','), (231, 'and'), (235, 'two'), (239, 'prime-time'), (250, 'series'), (256, '.')])</stanford_tokens>
+<opennlp_chunks>[('Obba Babatundé',0, 14), ('December 1, 1951',21, 37), ('an American stage and movie actor',42, 75), ('A native',77, 85), ('New York',97, 105), ('has appeared',117, 129), ('more than seventeen stage productions',133, 170), ('thirty theatrical films',172, 195), ('sixty made-for-television movies',197, 229), ('two prime-time series',235, 256)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NN', 'NNS', ',', 'CD', 'JJ', 'NNS', ',', 'CD', 'JJ', 'NNS', ',', 'CC', 'CD', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Obba'), (5, 'Babatundé'), (15, '('), (16, 'born'), (21, 'December'), (30, '1'), (31, ','), (33, '1951'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'stage'), (60, 'and'), (64, 'movie'), (70, 'actor'), (75, '.'), (77, 'A'), (79, 'native'), (86, 'of'), (89, 'Queens'), (95, ','), (97, 'New'), (101, 'York'), (105, ','), (107, 'Babatundé'), (117, 'has'), (121, 'appeared'), (130, 'in'), (133, 'more'), (138, 'than'), (143, 'seventeen'), (153, 'stage'), (159, 'productions'), (170, ','), (172, 'thirty'), (179, 'theatrical'), (190, 'films'), (195, ','), (197, 'sixty'), (203, 'made'), (207, '-'), (208, 'for'), (211, '-'), (212, 'television'), (223, 'movies'), (229, ','), (231, 'and'), (235, 'two'), (239, 'prime'), (244, '-'), (245, 'time'), (250, 'series'), (256, '.')])</spacy_tokens>
+<spacy_chunks>[('Obba Babatundé', 0, 14), ('December 1, 1951', 21, 37), ('an American stage and movie actor', 42, 75), ('A native', 77, 85), ('Queens', 89, 95), ('New York', 97, 105), ('more than seventeen stage productions', 133, 170), ('thirty theatrical films', 172, 195), ('television', 212, 222), ('two prime-time series', 235, 256)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NN', 'NNS', ',', 'CD', 'JJ', 'NNS', ',', 'CD', 'VBN', 'HYPH', 'IN', 'HYPH', 'NN', 'NNS', ',', 'CC', 'CD', 'JJ', 'HYPH', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

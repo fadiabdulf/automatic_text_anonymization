@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>George Grizzard</title>
+<link/>https://en.wikipedia.org/wiki/George_Grizzard
+<annotated>0</annotated>
+<originalabstract>George Cooper Grizzard, Jr.  (April 1, 1928 – October 2, 2007) was an American Emmy Award- and Tony Award-winning actor of film,  stage, and television. He appeared in more than 40 films, dozens of television programs, and a number of Broadway plays.</originalabstract>
+<abstract>George_Cooper_Grizzard , Jr . (_April_1_,_1928 – October_2_,_2007_) was an_American_Emmy_Award - and Tony_Award-winning_actor of film , stage , and television . He appeared in more_than_40_films , dozens of television_programs , and a_number of Broadway plays .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Cooper'), (14, 'Grizzard'), (22, ','), (24, 'Jr'), (26, '.'), (29, '('), (30, 'April'), (36, '1'), (37, ','), (39, '1928'), (44, '–'), (46, 'October'), (54, '2'), (55, ','), (57, '2007'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'American'), (79, 'Emmy'), (84, 'Award'), (89, '-'), (91, 'and'), (95, 'Tony'), (100, 'Award-winning'), (114, 'actor'), (120, 'of'), (123, 'film'), (127, ','), (130, 'stage'), (135, ','), (137, 'and'), (141, 'television'), (151, '.'), (153, 'He'), (156, 'appeared'), (165, 'in'), (168, 'more'), (173, 'than'), (178, '40'), (181, 'films'), (186, ','), (188, 'dozens'), (195, 'of'), (198, 'television'), (209, 'programs'), (217, ','), (219, 'and'), (223, 'a'), (225, 'number'), (232, 'of'), (235, 'Broadway'), (244, 'plays'), (249, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Cooper Grizzard',0, 22), ('(April 1, 1928',29, 43), ('October 2, 2007)',46, 62), ('an American Emmy Award',67, 89), ('Tony Award-winning actor',95, 119), ('more than 40 films',168, 186), ('television programs',198, 217), ('a number',223, 231)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '.', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NNP', 'NN', ':', 'CC', 'NNP', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', ',', 'NNS', 'IN', 'NN', 'NNS', ',', 'CC', 'DT', 'NN', 'IN', 'NNP', 'VBZ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Cooper'), (14, 'Grizzard'), (22, ','), (24, 'Jr.'), (29, '('), (30, 'April'), (36, '1'), (37, ','), (39, '1928'), (44, '–'), (46, 'October'), (54, '2'), (55, ','), (57, '2007'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'American'), (79, 'Emmy'), (84, 'Award-'), (91, 'and'), (95, 'Tony'), (100, 'Award'), (105, '-'), (106, 'winning'), (114, 'actor'), (120, 'of'), (123, 'film'), (127, ','), (130, 'stage'), (135, ','), (137, 'and'), (141, 'television'), (151, '.'), (153, 'He'), (156, 'appeared'), (165, 'in'), (168, 'more'), (173, 'than'), (178, '40'), (181, 'films'), (186, ','), (188, 'dozens'), (195, 'of'), (198, 'television'), (209, 'programs'), (217, ','), (219, 'and'), (223, 'a'), (225, 'number'), (232, 'of'), (235, 'Broadway'), (244, 'plays'), (249, '.')])</spacy_tokens>
+<spacy_chunks>[('George Cooper Grizzard', 0, 22), ('April 1, 1928', 30, 43), ('October 2, 2007', 46, 61), ('an American Emmy Award-', 67, 90), ('and Tony Award-winning actor', 91, 119), ('television', 141, 151), ('more than 40 films', 168, 186), ('dozens', 188, 194), ('television programs', 198, 217), ('a number', 223, 231), ('Broadway', 235, 243)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'HYPH', 'VBG', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', ',', 'NNS', 'IN', 'NN', 'NNS', ',', 'CC', 'DT', 'NN', 'IN', 'NNP', 'VBZ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

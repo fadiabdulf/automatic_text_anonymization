@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Julianne Phillips</title>
+<link/>https://en.wikipedia.org/wiki/Julianne_Phillips
+<annotated>0</annotated>
+<originalabstract>Julianne Phillips (born May 6, 1960) is an American model and actress. She began her career as a model in the early 1980s, moved on to acting, attracted attention as the first wife of Bruce Springsteen, and later portrayed Francesca "Frankie" Reed on the television drama series Sisters (1991–96).</originalabstract>
+<abstract>Julianne_Phillips ( born May_6_,_1960 ) is an_American_model_and_actress . She began her_career as a_model in the_early_1980s , moved on to acting , attracted attention as the_first_wife of Bruce_Springsteen , and later_portrayed Francesca_"_Frankie_"_Reed on the_television_drama_series_Sisters ( 1991 – 96_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Julianne'), (9, 'Phillips'), (18, '('), (19, 'born'), (24, 'May'), (28, '6'), (29, ','), (31, '1960'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'model'), (58, 'and'), (62, 'actress'), (69, '.'), (71, 'She'), (75, 'began'), (81, 'her'), (85, 'career'), (92, 'as'), (95, 'a'), (97, 'model'), (103, 'in'), (106, 'the'), (110, 'early'), (116, '1980s'), (121, ','), (123, 'moved'), (129, 'on'), (132, 'to'), (135, 'acting'), (141, ','), (143, 'attracted'), (153, 'attention'), (163, 'as'), (166, 'the'), (170, 'first'), (176, 'wife'), (181, 'of'), (184, 'Bruce'), (190, 'Springsteen'), (201, ','), (203, 'and'), (207, 'later'), (213, 'portrayed'), (223, 'Francesca'), (233, '"'), (234, 'Frankie'), (241, '"'), (243, 'Reed'), (248, 'on'), (251, 'the'), (255, 'television'), (266, 'drama'), (272, 'series'), (279, 'Sisters'), (287, '('), (288, '1991'), (292, '–'), (293, '96'), (295, ')'), (296, '.')])</stanford_tokens>
+<opennlp_chunks>[('Julianne Phillips',0, 17), ('May 6, 1960',24, 35), ('an American model and actress',40, 69), ('her career',81, 91), ('a model',95, 102), ('the early 1980s',106, 121), ('the first wife',166, 180), ('Bruce Springsteen',184, 201), ('later portrayed',207, 222), ('Francesca "Frankie" Reed',223, 247), ('the television drama series Sisters',251, 286), ('96)',293, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'JJ', 'CD', ',', 'VBN', 'IN', 'TO', 'VBG', ',', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'CC', 'RB', 'VBD', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNS', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Julianne'), (9, 'Phillips'), (18, '('), (19, 'born'), (24, 'May'), (28, '6'), (29, ','), (31, '1960'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'model'), (58, 'and'), (62, 'actress'), (69, '.'), (71, 'She'), (75, 'began'), (81, 'her'), (85, 'career'), (92, 'as'), (95, 'a'), (97, 'model'), (103, 'in'), (106, 'the'), (110, 'early'), (116, '1980s'), (121, ','), (123, 'moved'), (129, 'on'), (132, 'to'), (135, 'acting'), (141, ','), (143, 'attracted'), (153, 'attention'), (163, 'as'), (166, 'the'), (170, 'first'), (176, 'wife'), (181, 'of'), (184, 'Bruce'), (190, 'Springsteen'), (201, ','), (203, 'and'), (207, 'later'), (213, 'portrayed'), (223, 'Francesca'), (233, '"'), (234, 'Frankie'), (241, '"'), (243, 'Reed'), (248, 'on'), (251, 'the'), (255, 'television'), (266, 'drama'), (272, 'series'), (279, 'Sisters'), (287, '('), (288, '1991–96'), (295, ')'), (296, '.')])</spacy_tokens>
+<spacy_chunks>[('Julianne Phillips', 0, 17), ('May 6, 1960', 24, 35), ('an American model', 40, 57), ('actress', 62, 69), ('her career', 81, 91), ('a model', 95, 102), ('the early 1980s', 106, 121), ('attention', 153, 162), ('the first wife', 166, 180), ('Bruce Springsteen', 184, 201), ('Francesca "Frankie" Reed', 223, 247), ('the television drama series', 251, 278), ('Sisters', 279, 286)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NNS', ',', 'VBD', 'RB', 'IN', 'VBG', ',', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'CC', 'RB', 'VBN', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

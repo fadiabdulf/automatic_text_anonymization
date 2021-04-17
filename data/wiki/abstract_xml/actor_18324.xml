@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bonnie Wright</title>
+<link/>https://en.wikipedia.org/wiki/Bonnie_Wright
+<annotated>0</annotated>
+<originalabstract>Bonnie Francesca Wright (born 17 February 1991) is an English actress, film director, screenwriter, model and producer. She is best known for playing the role of Ginny Weasley in the Harry Potter film series, based on the novel series of the same name by J. K. Rowling.</originalabstract>
+<abstract>Bonnie_Francesca_Wright ( born 17_February_1991 ) is an_English_actress , film_director , screenwriter , model_and_producer . She is_best_known for playing the_role of Ginny_Weasley in the_Harry_Potter_film_series , based on the_novel_series of the_same_name by J._K._Rowling .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bonnie'), (7, 'Francesca'), (17, 'Wright'), (24, '('), (25, 'born'), (30, '17'), (33, 'February'), (42, '1991'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'English'), (62, 'actress'), (69, ','), (71, 'film'), (76, 'director'), (84, ','), (86, 'screenwriter'), (98, ','), (100, 'model'), (106, 'and'), (110, 'producer'), (118, '.'), (120, 'She'), (124, 'is'), (127, 'best'), (132, 'known'), (138, 'for'), (142, 'playing'), (150, 'the'), (154, 'role'), (159, 'of'), (162, 'Ginny'), (168, 'Weasley'), (176, 'in'), (179, 'the'), (183, 'Harry'), (189, 'Potter'), (196, 'film'), (201, 'series'), (207, ','), (209, 'based'), (215, 'on'), (218, 'the'), (222, 'novel'), (228, 'series'), (235, 'of'), (238, 'the'), (242, 'same'), (247, 'name'), (252, 'by'), (255, 'J.'), (258, 'K.'), (261, 'Rowling'), (268, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bonnie Francesca Wright',0, 23), ('17 February 1991',30, 46), ('an English actress',51, 69), ('film director',71, 84), ('model and producer',100, 118), ('is best known',124, 137), ('the role',150, 158), ('Ginny Weasley',162, 175), ('the Harry Potter film series',179, 207), ('the novel series',218, 234), ('the same name',238, 251), ('J. K. Rowling',255, 268)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', ',', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bonnie'), (7, 'Francesca'), (17, 'Wright'), (24, '('), (25, 'born'), (30, '17'), (33, 'February'), (42, '1991'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'English'), (62, 'actress'), (69, ','), (71, 'film'), (76, 'director'), (84, ','), (86, 'screenwriter'), (98, ','), (100, 'model'), (106, 'and'), (110, 'producer'), (118, '.'), (120, 'She'), (124, 'is'), (127, 'best'), (132, 'known'), (138, 'for'), (142, 'playing'), (150, 'the'), (154, 'role'), (159, 'of'), (162, 'Ginny'), (168, 'Weasley'), (176, 'in'), (179, 'the'), (183, 'Harry'), (189, 'Potter'), (196, 'film'), (201, 'series'), (207, ','), (209, 'based'), (215, 'on'), (218, 'the'), (222, 'novel'), (228, 'series'), (235, 'of'), (238, 'the'), (242, 'same'), (247, 'name'), (252, 'by'), (255, 'J.'), (258, 'K.'), (261, 'Rowling'), (268, '.')])</spacy_tokens>
+<spacy_chunks>[('Bonnie Francesca Wright', 0, 23), ('17 February 1991', 30, 46), ('an English actress', 51, 69), ('film director', 71, 84), ('screenwriter', 86, 98), ('producer', 110, 118), ('the role', 150, 158), ('Ginny Weasley', 162, 175), ('the Harry Potter film series', 179, 207), ('the novel series', 218, 234), ('the same name', 238, 251), ('J. K. Rowling', 255, 268)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', ',', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Claudia Shear</title>
+<link/>https://en.wikipedia.org/wiki/Claudia_Shear
+<annotated>0</annotated>
+<originalabstract>Claudia Shear (born September 12, 1962) is an American actress and playwright. She was nominated for the Tony Award, Best Play and Best Actress for her play Dirty Blonde.</originalabstract>
+<abstract>Claudia_Shear ( born September_12_,_1962 ) is an_American_actress_and_playwright . She was_nominated for the_Tony_Award , Best_Play and Best_Actress for her_play_Dirty_Blonde .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Claudia'), (8, 'Shear'), (14, '('), (15, 'born'), (20, 'September'), (30, '12'), (32, ','), (34, '1962'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'playwright'), (77, '.'), (79, 'She'), (83, 'was'), (87, 'nominated'), (97, 'for'), (101, 'the'), (105, 'Tony'), (110, 'Award'), (115, ','), (117, 'Best'), (122, 'Play'), (127, 'and'), (131, 'Best'), (136, 'Actress'), (144, 'for'), (148, 'her'), (152, 'play'), (157, 'Dirty'), (163, 'Blonde'), (169, '.')])</stanford_tokens>
+<opennlp_chunks>[('Claudia Shear',0, 13), ('September 12, 1962',20, 38), ('an American actress and playwright',43, 77), ('was nominated',83, 96), ('the Tony Award',101, 115), ('Best Play',117, 126), ('Best Actress',131, 143), ('her play Dirty Blonde',148, 169)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NN', ',', 'JJS', 'VB', 'CC', 'JJS', 'NN', 'IN', 'PRP$', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Claudia'), (8, 'Shear'), (14, '('), (15, 'born'), (20, 'September'), (30, '12'), (32, ','), (34, '1962'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'playwright'), (77, '.'), (79, 'She'), (83, 'was'), (87, 'nominated'), (97, 'for'), (101, 'the'), (105, 'Tony'), (110, 'Award'), (115, ','), (117, 'Best'), (122, 'Play'), (127, 'and'), (131, 'Best'), (136, 'Actress'), (144, 'for'), (148, 'her'), (152, 'play'), (157, 'Dirty'), (163, 'Blonde'), (169, '.')])</spacy_tokens>
+<spacy_chunks>[('Claudia Shear', 0, 13), ('September 12, 1962', 20, 38), ('an American actress', 43, 62), ('playwright', 67, 77), ('the Tony Award', 101, 115), ('Best Play', 117, 126), ('Best Actress', 131, 143), ('Dirty Blonde', 157, 169)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'NN', 'CC', 'NNP', 'NN', 'IN', 'PRP$', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

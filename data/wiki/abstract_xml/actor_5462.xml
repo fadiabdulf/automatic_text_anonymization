@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ted Raimi</title>
+<link/>https://en.wikipedia.org/wiki/Ted_Raimi
+<annotated>0</annotated>
+<originalabstract>Theodore Raimi (born December 14, 1965) is an American actor, director, comedian, and writer perhaps best known for his role as Joxer the Mighty in Xena: Warrior Princess/Hercules: The Legendary Journeys. Raimi plays Ted Hoffman in his brother Sam Raimi's Spider-Man trilogy.</originalabstract>
+<abstract>Theodore_Raimi ( born December_14_,_1965 ) is an_American_actor , director , comedian , and writer_perhaps_best_known for his_role as Joxer the_Mighty in Xena : Warrior_Princess/Hercules : The_Legendary_Journeys . Raimi plays Ted_Hoffman in his_brother Sam_Raimi 's_Spider-Man_trilogy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Theodore'), (9, 'Raimi'), (15, '('), (16, 'born'), (21, 'December'), (30, '14'), (32, ','), (34, '1965'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'director'), (70, ','), (72, 'comedian'), (80, ','), (82, 'and'), (86, 'writer'), (93, 'perhaps'), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'his'), (120, 'role'), (125, 'as'), (128, 'Joxer'), (134, 'the'), (138, 'Mighty'), (145, 'in'), (148, 'Xena'), (152, ':'), (154, 'Warrior'), (162, 'Princess/Hercules'), (179, ':'), (181, 'The'), (185, 'Legendary'), (195, 'Journeys'), (203, '.'), (205, 'Raimi'), (211, 'plays'), (217, 'Ted'), (221, 'Hoffman'), (229, 'in'), (232, 'his'), (236, 'brother'), (244, 'Sam'), (248, 'Raimi'), (253, '\'s'), (256, 'Spider-Man'), (267, 'trilogy'), (274, '.')])</stanford_tokens>
+<opennlp_chunks>[('Theodore Raimi',0, 14), ('December 14, 1965',21, 38), ('an American actor',43, 60), ('writer perhaps best known',86, 111), ('his role',116, 124), ('the Mighty',134, 144), ('Warrior Princess/Hercules',154, 179), ('The Legendary Journeys',181, 203), ('Ted Hoffman',217, 228), ('his brother',232, 243), ('Sam Raimi',244, 253), ('\'s Spider-Man trilogy',253, 274)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'DT', 'NNP', 'IN', 'NNP', ':', 'NNP', 'NNP', ':', 'DT', 'JJ', 'NNPS', '.', 'NN', 'VBZ', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'NNP', 'NNP', 'POS', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Theodore'), (9, 'Raimi'), (15, '('), (16, 'born'), (21, 'December'), (30, '14'), (32, ','), (34, '1965'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'director'), (70, ','), (72, 'comedian'), (80, ','), (82, 'and'), (86, 'writer'), (93, 'perhaps'), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'his'), (120, 'role'), (125, 'as'), (128, 'Joxer'), (134, 'the'), (138, 'Mighty'), (145, 'in'), (148, 'Xena'), (152, ':'), (154, 'Warrior'), (162, 'Princess'), (170, '/'), (171, 'Hercules'), (179, ':'), (181, 'The'), (185, 'Legendary'), (195, 'Journeys'), (203, '.'), (205, 'Raimi'), (211, 'plays'), (217, 'Ted'), (221, 'Hoffman'), (229, 'in'), (232, 'his'), (236, 'brother'), (244, 'Sam'), (248, 'Raimi'), (253, "'s"), (256, 'Spider'), (262, '-'), (263, 'Man'), (267, 'trilogy'), (274, '.')])</spacy_tokens>
+<spacy_chunks>[('Theodore Raimi', 0, 14), ('December 14, 1965', 21, 38), ('an American actor', 43, 60), ('director', 62, 70), ('comedian', 72, 80), ('writer', 86, 92), ('his role', 116, 124), ('the Mighty', 134, 144), ('Xena: Warrior Princess', 148, 170), ('Warrior Princess/Hercules', 154, 179), ('Hercules: The Legendary Journeys', 171, 203), ('Ted Hoffman', 217, 228), ("Sam Raimi's", 244, 255), ('Spider-Man', 256, 266)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'DT', 'NNP', 'IN', 'NNP', ':', 'NNP', 'NNP', 'SYM', 'NNP', ':', 'DT', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'NNP', 'NNP', 'POS', 'NNP', 'HYPH', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fred Malatesta</title>
+<link/>https://en.wikipedia.org/wiki/Fred_Malatesta
+<annotated>0</annotated>
+<originalabstract>Fred Malatesta (April 18, 1889 – April 8, 1952) was an American film actor. He appeared in 118 films between 1915 and 1941. He was born in Naples, Italy, and died in Burbank, California.</originalabstract>
+<abstract>Fred_Malatesta ( April_18_,_1889 – April_8_,_1952 ) was an_American_film_actor . He appeared in 118_films between 1915_and_1941 . He was_born in Naples , Italy , and died in Burbank , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fred'), (5, 'Malatesta'), (15, '('), (16, 'April'), (22, '18'), (24, ','), (26, '1889'), (31, '–'), (33, 'April'), (39, '8'), (40, ','), (42, '1952'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'actor'), (74, '.'), (76, 'He'), (79, 'appeared'), (88, 'in'), (91, '118'), (95, 'films'), (101, 'between'), (109, '1915'), (114, 'and'), (118, '1941'), (122, '.'), (124, 'He'), (127, 'was'), (131, 'born'), (136, 'in'), (139, 'Naples'), (145, ','), (147, 'Italy'), (152, ','), (154, 'and'), (158, 'died'), (163, 'in'), (166, 'Burbank'), (173, ','), (175, 'California'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fred Malatesta',0, 14), ('April 18, 1889',16, 30), ('April 8, 1952',33, 46), ('an American film actor',52, 74), ('118 films',91, 100), ('1915 and 1941',109, 122), ('was born',127, 135)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fred'), (5, 'Malatesta'), (15, '('), (16, 'April'), (22, '18'), (24, ','), (26, '1889'), (31, '–'), (33, 'April'), (39, '8'), (40, ','), (42, '1952'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'actor'), (74, '.'), (76, 'He'), (79, 'appeared'), (88, 'in'), (91, '118'), (95, 'films'), (101, 'between'), (109, '1915'), (114, 'and'), (118, '1941'), (122, '.'), (124, 'He'), (127, 'was'), (131, 'born'), (136, 'in'), (139, 'Naples'), (145, ','), (147, 'Italy'), (152, ','), (154, 'and'), (158, 'died'), (163, 'in'), (166, 'Burbank'), (173, ','), (175, 'California'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('Fred Malatesta', 0, 14), ('April 18, 1889', 16, 30), ('April 8, 1952', 33, 46), ('an American film actor', 52, 74), ('118 films', 91, 100), ('Naples', 139, 145), ('Burbank, California', 166, 185)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

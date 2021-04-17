@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Booth Colman</title>
+<link/>https://en.wikipedia.org/wiki/Booth_Colman
+<annotated>0</annotated>
+<originalabstract>Booth Colman (March 8, 1923 – December 15, 2014) was an American film, television and stage actor. In his later years he played older authority figures, such as doctors and lawyers. Colman appeared in films since 1952, when he debuted (uncredited) in The Big Sky directed by Howard Hawks.</originalabstract>
+<abstract>Booth_Colman ( March_8_,_1923 – December_15_,_2014 ) was an_American_film_,_television_and_stage_actor . In his_later_years he played older_authority_figures , such_as doctors_and_lawyers . Colman appeared in films since 1952 , when he debuted (_uncredited_) in The_Big_Sky directed by Howard_Hawks .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Booth'), (6, 'Colman'), (13, '('), (14, 'March'), (20, '8'), (21, ','), (23, '1923'), (28, '–'), (30, 'December'), (39, '15'), (41, ','), (43, '2014'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (69, ','), (71, 'television'), (82, 'and'), (86, 'stage'), (92, 'actor'), (97, '.'), (99, 'In'), (102, 'his'), (106, 'later'), (112, 'years'), (118, 'he'), (121, 'played'), (128, 'older'), (134, 'authority'), (144, 'figures'), (151, ','), (153, 'such'), (158, 'as'), (161, 'doctors'), (169, 'and'), (173, 'lawyers'), (180, '.'), (182, 'Colman'), (189, 'appeared'), (198, 'in'), (201, 'films'), (207, 'since'), (213, '1952'), (217, ','), (219, 'when'), (224, 'he'), (227, 'debuted'), (235, '('), (236, 'uncredited'), (246, ')'), (248, 'in'), (251, 'The'), (255, 'Big'), (259, 'Sky'), (263, 'directed'), (272, 'by'), (275, 'Howard'), (282, 'Hawks'), (287, '.')])</stanford_tokens>
+<opennlp_chunks>[('Booth Colman',0, 12), ('March 8, 1923',14, 27), ('December 15, 2014',30, 47), ('an American film, television and stage actor',53, 97), ('his later years',102, 117), ('older authority figures',128, 151), ('such as',153, 160), ('doctors and lawyers',161, 180), ('(uncredited)',235, 247), ('The Big Sky',251, 262), ('Howard Hawks',275, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'PRP$', 'JJ', 'NNS', 'PRP', 'VBD', 'JJR', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNS', 'CC', 'NNS', '.', 'NNP', 'VBD', 'IN', 'NNS', 'IN', 'CD', ',', 'WRB', 'PRP', 'VBD', '-LRB-', 'JJ', '-RRB-', 'IN', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Booth'), (6, 'Colman'), (13, '('), (14, 'March'), (20, '8'), (21, ','), (23, '1923'), (28, '–'), (30, 'December'), (39, '15'), (41, ','), (43, '2014'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (69, ','), (71, 'television'), (82, 'and'), (86, 'stage'), (92, 'actor'), (97, '.'), (99, 'In'), (102, 'his'), (106, 'later'), (112, 'years'), (118, 'he'), (121, 'played'), (128, 'older'), (134, 'authority'), (144, 'figures'), (151, ','), (153, 'such'), (158, 'as'), (161, 'doctors'), (169, 'and'), (173, 'lawyers'), (180, '.'), (182, 'Colman'), (189, 'appeared'), (198, 'in'), (201, 'films'), (207, 'since'), (213, '1952'), (217, ','), (219, 'when'), (224, 'he'), (227, 'debuted'), (235, '('), (236, 'uncredited'), (246, ')'), (248, 'in'), (251, 'The'), (255, 'Big'), (259, 'Sky'), (263, 'directed'), (272, 'by'), (275, 'Howard'), (282, 'Hawks'), (287, '.')])</spacy_tokens>
+<spacy_chunks>[('Booth Colman', 0, 12), ('(March', 13, 19), ('March 8, 1923', 14, 27), ('December 15, 2014', 30, 47), ('an American film', 53, 69), ('television', 71, 81), ('stage actor', 86, 97), ('his later years', 102, 117), ('older authority figures', 128, 151), ('doctors', 161, 168), ('lawyers', 173, 180), ('The Big Sky', 251, 262), ('Howard Hawks', 275, 287)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'PRP$', 'JJ', 'NNS', 'PRP', 'VBD', 'JJR', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNS', 'CC', 'NNS', '.', 'NNP', 'VBD', 'IN', 'NNS', 'IN', 'CD', ',', 'WRB', 'PRP', 'VBD', '-LRB-', 'NNP', '-RRB-', 'IN', 'DT', 'NNP', 'NNP', 'VBN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

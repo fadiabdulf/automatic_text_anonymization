@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vin Moore</title>
+<link/>https://en.wikipedia.org/wiki/Vin_Moore
+<annotated>0</annotated>
+<originalabstract>Vin Moore (January 23, 1879 – December 5, 1949) was an American film director, actor and writer.  He directed 83 films between 1915 and 1938. He was born in Mayville, New York, and died in Hollywood, California.</originalabstract>
+<abstract>Vin_Moore ( January_23 , 1879 – December_5_,_1949 ) was an_American_film_director , actor_and_writer . He directed 83_films between 1915_and_1938 . He was_born in Mayville , New_York , and died in Hollywood , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vin'), (4, 'Moore'), (10, '('), (11, 'January'), (19, '23'), (21, ','), (23, '1879'), (28, '–'), (30, 'December'), (39, '5'), (40, ','), (42, '1949'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'director'), (77, ','), (79, 'actor'), (85, 'and'), (89, 'writer'), (95, '.'), (98, 'He'), (101, 'directed'), (110, '83'), (113, 'films'), (119, 'between'), (127, '1915'), (132, 'and'), (136, '1938'), (140, '.'), (142, 'He'), (145, 'was'), (149, 'born'), (154, 'in'), (157, 'Mayville'), (165, ','), (167, 'New'), (171, 'York'), (175, ','), (177, 'and'), (181, 'died'), (186, 'in'), (189, 'Hollywood'), (198, ','), (200, 'California'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vin Moore',0, 9), ('January 23',11, 21), ('December 5, 1949',30, 46), ('an American film director',52, 77), ('actor and writer',79, 95), ('83 films',110, 118), ('1915 and 1938',127, 140), ('was born',145, 153), ('New York',167, 175)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNS', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vin'), (4, 'Moore'), (10, '('), (11, 'January'), (19, '23'), (21, ','), (23, '1879'), (28, '–'), (30, 'December'), (39, '5'), (40, ','), (42, '1949'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'director'), (77, ','), (79, 'actor'), (85, 'and'), (89, 'writer'), (95, '.'), (98, 'He'), (101, 'directed'), (110, '83'), (113, 'films'), (119, 'between'), (127, '1915'), (132, 'and'), (136, '1938'), (140, '.'), (142, 'He'), (145, 'was'), (149, 'born'), (154, 'in'), (157, 'Mayville'), (165, ','), (167, 'New'), (171, 'York'), (175, ','), (177, 'and'), (181, 'died'), (186, 'in'), (189, 'Hollywood'), (198, ','), (200, 'California'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Vin Moore', 0, 9), ('(January', 10, 18), ('January 23, 1879', 11, 27), ('December 5, 1949', 30, 46), ('an American film director', 52, 77), ('writer', 89, 95), ('83 films', 110, 118), ('Mayville, New York', 157, 175), ('Hollywood, California', 189, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Eigenberg</title>
+<link/>https://en.wikipedia.org/wiki/David_Eigenberg
+<annotated>0</annotated>
+<originalabstract>David Eigenberg (born May 17, 1964) is an American actor.
+Eigenberg is best known for his long-running role as Steve Brady on the HBO sit-com, Sex and the City, and for his role as Lieutenant Christopher Herrmann, on NBC's Chicago Fire.</originalabstract>
+<abstract>David_Eigenberg ( born May_17_,_1964 ) is an_American_actor . Eigenberg is_best_known for his_long-running_role as Steve_Brady on the_HBO_sit-com , Sex and the_City , and for his_role as Lieutenant_Christopher_Herrmann , on NBC 's_Chicago_Fire .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Eigenberg'), (16, '('), (17, 'born'), (22, 'May'), (26, '17'), (28, ','), (30, '1964'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actor'), (56, '.'), (58, 'Eigenberg'), (68, 'is'), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'his'), (90, 'long-running'), (103, 'role'), (108, 'as'), (111, 'Steve'), (117, 'Brady'), (123, 'on'), (126, 'the'), (130, 'HBO'), (134, 'sit-com'), (141, ','), (143, 'Sex'), (147, 'and'), (151, 'the'), (155, 'City'), (159, ','), (161, 'and'), (165, 'for'), (169, 'his'), (173, 'role'), (178, 'as'), (181, 'Lieutenant'), (192, 'Christopher'), (204, 'Herrmann'), (212, ','), (214, 'on'), (217, 'NBC'), (220, '\'s'), (223, 'Chicago'), (231, 'Fire'), (235, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Eigenberg',0, 15), ('May 17, 1964',22, 34), ('an American actor',39, 56), ('is best known',68, 81), ('his long-running role',86, 107), ('Steve Brady',111, 122), ('the HBO sit-com',126, 141), ('the City',151, 159), ('his role',169, 177), ('Lieutenant Christopher Herrmann',181, 212), ('\'s Chicago Fire',220, 235)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', ',', 'NN', 'CC', 'DT', 'NNP', ',', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Eigenberg'), (16, '('), (17, 'born'), (22, 'May'), (26, '17'), (28, ','), (30, '1964'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actor'), (56, '.'), (58, 'Eigenberg'), (68, 'is'), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'his'), (90, 'long'), (94, '-'), (95, 'running'), (103, 'role'), (108, 'as'), (111, 'Steve'), (117, 'Brady'), (123, 'on'), (126, 'the'), (130, 'HBO'), (134, 'sit'), (137, '-'), (138, 'com'), (141, ','), (143, 'Sex'), (147, 'and'), (151, 'the'), (155, 'City'), (159, ','), (161, 'and'), (165, 'for'), (169, 'his'), (173, 'role'), (178, 'as'), (181, 'Lieutenant'), (192, 'Christopher'), (204, 'Herrmann'), (212, ','), (214, 'on'), (217, 'NBC'), (220, "'s"), (223, 'Chicago'), (231, 'Fire'), (235, '.')])</spacy_tokens>
+<spacy_chunks>[('David Eigenberg', 0, 15), ('May 17, 1964', 22, 34), ('an American actor', 39, 56), ('his long-running role', 86, 107), ('Steve Brady', 111, 122), ('the HBO sit-com', 126, 141), ('Sex and the City', 143, 159), ('his role', 169, 177), ('Lieutenant Christopher Herrmann', 181, 212), ("NBC's Chicago Fire", 217, 235)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'RB', 'HYPH', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'HYPH', 'NN', ',', 'NNP', 'CC', 'DT', 'NNP', ',', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lia Sargent</title>
+<link/>https://en.wikipedia.org/wiki/Lia_Sargent
+<annotated>0</annotated>
+<originalabstract>Lia Sargent (born February 20, 1957) is an American voice actress. She is known for extensive anime and video game voice work and has also done ADR directing and script writing for Animaze.. iNC.  She is the daughter of movie and TV director Joseph Sargent and actress Mary Carver.</originalabstract>
+<abstract>Lia_Sargent ( born February_20_,_1957 ) is an_American_voice_actress . She is_known for extensive_anime_and_video_game_voice_work and has_also_done ADR_directing_and_script writing for Animaze . . iNC . She is the_daughter of movie_and_TV_director_Joseph_Sargent and actress_Mary_Carver .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lia'), (4, 'Sargent'), (12, '('), (13, 'born'), (18, 'February'), (27, '20'), (29, ','), (31, '1957'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'voice'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'is'), (74, 'known'), (80, 'for'), (84, 'extensive'), (94, 'anime'), (100, 'and'), (104, 'video'), (110, 'game'), (115, 'voice'), (121, 'work'), (126, 'and'), (130, 'has'), (134, 'also'), (139, 'done'), (144, 'ADR'), (148, 'directing'), (158, 'and'), (162, 'script'), (169, 'writing'), (177, 'for'), (181, 'Animaze'), (188, '.'), (189, '.'), (191, 'iNC'), (194, '.'), (197, 'She'), (201, 'is'), (204, 'the'), (208, 'daughter'), (217, 'of'), (220, 'movie'), (226, 'and'), (230, 'TV'), (233, 'director'), (242, 'Joseph'), (249, 'Sargent'), (257, 'and'), (261, 'actress'), (269, 'Mary'), (274, 'Carver'), (280, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lia Sargent',0, 11), ('February 20, 1957',18, 35), ('an American voice actress',40, 65), ('is known',71, 79), ('extensive anime and video game voice work',84, 125), ('has also done',130, 143), ('ADR directing and script',144, 168), ('the daughter',204, 216), ('movie and TV director Joseph Sargent',220, 256), ('actress Mary Carver',261, 280)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', 'NN', 'CC', 'VBZ', 'RB', 'VBN', 'NN', 'NN', 'CC', 'NN', 'VBG', 'IN', 'NNP', '.', '.', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lia'), (4, 'Sargent'), (12, '('), (13, 'born'), (18, 'February'), (27, '20'), (29, ','), (31, '1957'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'voice'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'is'), (74, 'known'), (80, 'for'), (84, 'extensive'), (94, 'anime'), (100, 'and'), (104, 'video'), (110, 'game'), (115, 'voice'), (121, 'work'), (126, 'and'), (130, 'has'), (134, 'also'), (139, 'done'), (144, 'ADR'), (148, 'directing'), (158, 'and'), (162, 'script'), (169, 'writing'), (177, 'for'), (181, 'Animaze'), (188, '..'), (191, 'iNC'), (194, '.'), (197, 'She'), (201, 'is'), (204, 'the'), (208, 'daughter'), (217, 'of'), (220, 'movie'), (226, 'and'), (230, 'TV'), (233, 'director'), (242, 'Joseph'), (249, 'Sargent'), (257, 'and'), (261, 'actress'), (269, 'Mary'), (274, 'Carver'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('Lia Sargent', 0, 11), ('February 20, 1957', 18, 35), ('an American voice actress', 40, 65), ('extensive anime', 84, 99), ('video game voice work', 104, 125), ('ADR directing', 144, 157), ('script', 162, 168), ('Animaze.. iNC', 181, 194), ('the daughter', 204, 216), ('movie and TV director Joseph Sargent', 220, 256), ('actress Mary Carver', 261, 280)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', 'NN', 'CC', 'VBZ', 'RB', 'VBN', 'NNP', 'NN', 'CC', 'NN', 'VBG', 'IN', 'NNP', 'NFP', 'NFP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

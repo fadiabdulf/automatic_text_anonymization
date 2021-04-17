@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Patrick Poivey</title>
+<link/>https://en.wikipedia.org/wiki/Patrick_Poivey
+<annotated>0</annotated>
+<originalabstract>Patrick Poivey (born 18 February 1948) is a French actor. He is especially known for his voice: he is the French dub voice of Bruce Willis since 1988.</originalabstract>
+<abstract>Patrick_Poivey ( born 18_February_1948 ) is a_French_actor . He is_especially_known for his_voice : he is the_French_dub_voice of Bruce_Willis since 1988 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Patrick'), (8, 'Poivey'), (15, '('), (16, 'born'), (21, '18'), (24, 'February'), (33, '1948'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actor'), (56, '.'), (58, 'He'), (61, 'is'), (64, 'especially'), (75, 'known'), (81, 'for'), (85, 'his'), (89, 'voice'), (94, ':'), (96, 'he'), (99, 'is'), (102, 'the'), (106, 'French'), (113, 'dub'), (117, 'voice'), (123, 'of'), (126, 'Bruce'), (132, 'Willis'), (139, 'since'), (145, '1988'), (149, '.')])</stanford_tokens>
+<opennlp_chunks>[('Patrick Poivey',0, 14), ('18 February 1948',21, 37), ('a French actor',42, 56), ('is especially known',61, 80), ('his voice',85, 94), ('the French dub voice',102, 122), ('Bruce Willis',126, 138)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', ':', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Patrick'), (8, 'Poivey'), (15, '('), (16, 'born'), (21, '18'), (24, 'February'), (33, '1948'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actor'), (56, '.'), (58, 'He'), (61, 'is'), (64, 'especially'), (75, 'known'), (81, 'for'), (85, 'his'), (89, 'voice'), (94, ':'), (96, 'he'), (99, 'is'), (102, 'the'), (106, 'French'), (113, 'dub'), (117, 'voice'), (123, 'of'), (126, 'Bruce'), (132, 'Willis'), (139, 'since'), (145, '1988'), (149, '.')])</spacy_tokens>
+<spacy_chunks>[('Patrick Poivey', 0, 14), ('18 February 1948', 21, 37), ('a French actor', 42, 56), ('his voice', 85, 94), ('the French dub voice', 102, 122), ('Bruce Willis', 126, 138)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', ':', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

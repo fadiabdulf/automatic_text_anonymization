@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Philip Stainton</title>
+<link/>https://en.wikipedia.org/wiki/Philip_Stainton
+<annotated>0</annotated>
+<originalabstract>Philip Stainton (9 April 1908 – 1 August 1961) was a British-born actor. Stainton appeared in several Ealing comedies. He often played uniformed policemen, he appeared in both British and Australian productions</originalabstract>
+<abstract>Philip_Stainton ( 9_April_1908 – 1_August_1961 ) was a_British-born_actor . Stainton appeared in several_Ealing_comedies . He often played uniformed_policemen , he appeared in both_British_and_Australian_productions</abstract>
+<stanford_tokens>OrderedDict([(0, 'Philip'), (7, 'Stainton'), (16, '('), (17, '9'), (19, 'April'), (25, '1908'), (30, '–'), (32, '1'), (34, 'August'), (41, '1961'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'British-born'), (66, 'actor'), (71, '.'), (73, 'Stainton'), (82, 'appeared'), (91, 'in'), (94, 'several'), (102, 'Ealing'), (109, 'comedies'), (117, '.'), (119, 'He'), (122, 'often'), (128, 'played'), (135, 'uniformed'), (145, 'policemen'), (154, ','), (156, 'he'), (159, 'appeared'), (168, 'in'), (171, 'both'), (176, 'British'), (184, 'and'), (188, 'Australian'), (199, 'productions')])</stanford_tokens>
+<opennlp_chunks>[('Philip Stainton',0, 15), ('9 April 1908',17, 29), ('1 August 1961',32, 45), ('a British-born actor',51, 71), ('several Ealing comedies',94, 117), ('uniformed policemen',135, 154), ('both British and Australian productions',171, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'IN', 'JJ', 'JJ', 'NNS', '.', 'PRP', 'RB', 'VBD', 'JJ', 'NNS', ',', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NNS']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Philip'), (7, 'Stainton'), (16, '('), (17, '9'), (19, 'April'), (25, '1908'), (30, '–'), (32, '1'), (34, 'August'), (41, '1961'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'British'), (60, '-'), (61, 'born'), (66, 'actor'), (71, '.'), (73, 'Stainton'), (82, 'appeared'), (91, 'in'), (94, 'several'), (102, 'Ealing'), (109, 'comedies'), (117, '.'), (119, 'He'), (122, 'often'), (128, 'played'), (135, 'uniformed'), (145, 'policemen'), (154, ','), (156, 'he'), (159, 'appeared'), (168, 'in'), (171, 'both'), (176, 'British'), (184, 'and'), (188, 'Australian'), (199, 'productions')])</spacy_tokens>
+<spacy_chunks>[('Philip Stainton', 0, 15), ('9 April 1908', 17, 29), ('1 August 1961', 32, 45), ('a British-born actor', 51, 71), ('several Ealing comedies', 94, 117), ('uniformed policemen', 135, 154), ('both British and Australian productions', 171, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', '.', 'NNP', 'VBD', 'IN', 'JJ', 'NNP', 'NNS', '.', 'PRP', 'RB', 'VBD', 'JJ', 'NNS', ',', 'PRP', 'VBD', 'IN', 'CC', 'JJ', 'CC', 'JJ', 'NNS']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

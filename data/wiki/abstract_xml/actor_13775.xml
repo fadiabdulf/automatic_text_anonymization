@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elizabeth Marvel</title>
+<link/>https://en.wikipedia.org/wiki/Elizabeth_Marvel
+<annotated>0</annotated>
+<originalabstract>Elizabeth Marvel (born November 27, 1969) is an American actress. Her most prominent roles include Det. Nancy Parras on The District and Solicitor General Heather Dunbar on House of Cards.</originalabstract>
+<abstract>Elizabeth_Marvel ( born November_27_,_1969 ) is an_American_actress . Her_most_prominent_roles include Det._Nancy_Parras on The_District_and_Solicitor_General_Heather_Dunbar on House of Cards .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Marvel'), (17, '('), (18, 'born'), (23, 'November'), (32, '27'), (34, ','), (36, '1969'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, '.'), (66, 'Her'), (70, 'most'), (75, 'prominent'), (85, 'roles'), (91, 'include'), (99, 'Det.'), (104, 'Nancy'), (110, 'Parras'), (117, 'on'), (120, 'The'), (124, 'District'), (133, 'and'), (137, 'Solicitor'), (147, 'General'), (155, 'Heather'), (163, 'Dunbar'), (170, 'on'), (173, 'House'), (179, 'of'), (182, 'Cards'), (187, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elizabeth Marvel',0, 16), ('November 27, 1969',23, 40), ('an American actress',45, 64), ('Her most prominent roles',66, 90), ('Det. Nancy Parras',99, 116), ('The District and Solicitor General Heather Dunbar',120, 169)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'RBS', 'JJ', 'NNS', 'VBP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Marvel'), (17, '('), (18, 'born'), (23, 'November'), (32, '27'), (34, ','), (36, '1969'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, '.'), (66, 'Her'), (70, 'most'), (75, 'prominent'), (85, 'roles'), (91, 'include'), (99, 'Det'), (102, '.'), (104, 'Nancy'), (110, 'Parras'), (117, 'on'), (120, 'The'), (124, 'District'), (133, 'and'), (137, 'Solicitor'), (147, 'General'), (155, 'Heather'), (163, 'Dunbar'), (170, 'on'), (173, 'House'), (179, 'of'), (182, 'Cards'), (187, '.')])</spacy_tokens>
+<spacy_chunks>[('Elizabeth Marvel', 0, 16), ('November 27, 1969', 23, 40), ('an American actress', 45, 64), ('Her most prominent roles', 66, 90), ('Nancy Parras', 104, 116), ('The District and Solicitor General Heather Dunbar', 120, 169)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'RBS', 'JJ', 'NNS', 'VBP', 'NNP', '.', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

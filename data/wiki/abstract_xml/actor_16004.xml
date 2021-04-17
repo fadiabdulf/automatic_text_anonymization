@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Margery Wilson</title>
+<link/>https://en.wikipedia.org/wiki/Margery_Wilson
+<annotated>0</annotated>
+<originalabstract>Margery Wilson (October 31, 1896 – January 21, 1986), was an American actress, writer, and silent movie director. She appeared in 51 films between 1914 and 1939.
+Wilson was born in Gracey, Kentucky and died in Arcadia, California.</originalabstract>
+<abstract>Margery_Wilson ( October_31_,_1896 – January_21_,_1986 ) , was an_American_actress , writer , and silent_movie_director . She appeared in 51_films between 1914_and_1939 . Wilson was_born in Gracey_,_Kentucky_and died in Arcadia , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Margery'), (8, 'Wilson'), (15, '('), (16, 'October'), (24, '31'), (26, ','), (28, '1896'), (33, '–'), (35, 'January'), (43, '21'), (45, ','), (47, '1986'), (51, ')'), (52, ','), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'actress'), (77, ','), (79, 'writer'), (85, ','), (87, 'and'), (91, 'silent'), (98, 'movie'), (104, 'director'), (112, '.'), (114, 'She'), (118, 'appeared'), (127, 'in'), (130, '51'), (133, 'films'), (139, 'between'), (147, '1914'), (152, 'and'), (156, '1939'), (160, '.'), (162, 'Wilson'), (169, 'was'), (173, 'born'), (178, 'in'), (181, 'Gracey'), (187, ','), (189, 'Kentucky'), (198, 'and'), (202, 'died'), (207, 'in'), (210, 'Arcadia'), (217, ','), (219, 'California'), (229, '.')])</stanford_tokens>
+<opennlp_chunks>[('Margery Wilson',0, 14), ('October 31, 1896',16, 32), ('January 21, 1986',35, 51), ('an American actress',58, 77), ('silent movie director',91, 112), ('51 films',130, 138), ('1914 and 1939',147, 160), ('was born',169, 177), ('Gracey, Kentucky and',181, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Margery'), (8, 'Wilson'), (15, '('), (16, 'October'), (24, '31'), (26, ','), (28, '1896'), (33, '–'), (35, 'January'), (43, '21'), (45, ','), (47, '1986'), (51, ')'), (52, ','), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'actress'), (77, ','), (79, 'writer'), (85, ','), (87, 'and'), (91, 'silent'), (98, 'movie'), (104, 'director'), (112, '.'), (114, 'She'), (118, 'appeared'), (127, 'in'), (130, '51'), (133, 'films'), (139, 'between'), (147, '1914'), (152, 'and'), (156, '1939'), (160, '.'), (162, 'Wilson'), (169, 'was'), (173, 'born'), (178, 'in'), (181, 'Gracey'), (187, ','), (189, 'Kentucky'), (198, 'and'), (202, 'died'), (207, 'in'), (210, 'Arcadia'), (217, ','), (219, 'California'), (229, '.')])</spacy_tokens>
+<spacy_chunks>[('Margery Wilson', 0, 14), ('(October', 15, 23), ('October 31, 1896', 16, 32), ('January 21, 1986', 35, 51), ('an American actress', 58, 77), ('writer', 79, 85), ('silent movie director', 91, 112), ('51 films', 130, 138), ('Gracey, Kentucky', 181, 197), ('Arcadia', 210, 217), ('California', 219, 229)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

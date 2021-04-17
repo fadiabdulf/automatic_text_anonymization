@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lucy Fallon</title>
+<link/>https://en.wikipedia.org/wiki/Lucy_Fallon
+<annotated>0</annotated>
+<originalabstract>Lucy Elizabeth Fallon (born 13 November 1995) is an English actress. She is best known for her portrayal of Bethany Platt in the ITV soap opera Coronation Street.</originalabstract>
+<abstract>Lucy_Elizabeth_Fallon ( born_13_November_1995 ) is an_English_actress . She is_best_known for her_portrayal of Bethany_Platt in the_ITV_soap_opera_Coronation_Street .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lucy'), (5, 'Elizabeth'), (15, 'Fallon'), (22, '('), (23, 'born'), (28, '13'), (31, 'November'), (40, '1995'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'English'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'is'), (76, 'best'), (81, 'known'), (87, 'for'), (91, 'her'), (95, 'portrayal'), (105, 'of'), (108, 'Bethany'), (116, 'Platt'), (122, 'in'), (125, 'the'), (129, 'ITV'), (133, 'soap'), (138, 'opera'), (144, 'Coronation'), (155, 'Street'), (161, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lucy Elizabeth Fallon',0, 21), ('born 13 November 1995',23, 44), ('an English actress',49, 67), ('is best known',73, 86), ('her portrayal',91, 104), ('Bethany Platt',108, 121), ('the ITV soap opera Coronation Street',125, 161)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lucy'), (5, 'Elizabeth'), (15, 'Fallon'), (22, '('), (23, 'born'), (28, '13'), (31, 'November'), (40, '1995'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'English'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'is'), (76, 'best'), (81, 'known'), (87, 'for'), (91, 'her'), (95, 'portrayal'), (105, 'of'), (108, 'Bethany'), (116, 'Platt'), (122, 'in'), (125, 'the'), (129, 'ITV'), (133, 'soap'), (138, 'opera'), (144, 'Coronation'), (155, 'Street'), (161, '.')])</spacy_tokens>
+<spacy_chunks>[('Lucy Elizabeth Fallon', 0, 21), ('13 November 1995', 28, 44), ('an English actress', 49, 67), ('her portrayal', 91, 104), ('Bethany Platt', 108, 121), ('the ITV soap opera Coronation Street', 125, 161)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

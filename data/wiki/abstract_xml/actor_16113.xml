@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kathleen York</title>
+<link/>https://en.wikipedia.org/wiki/Kathleen_York
+<annotated>0</annotated>
+<originalabstract>Kathleen "Bird" York is an American actress, screenwriter, and Oscar-nominated singer-songwriter recording artist. She was nominated for an Academy Award for Best Original Song for "In the Deep" from the 2004 film Crash.</originalabstract>
+<abstract>Kathleen_"_Bird_"_York is an_American_actress , screenwriter , and Oscar-nominated_singer-songwriter_recording_artist . She was_nominated for an_Academy_Award for Best_Original_Song for " In the_Deep " from the_2004_film_Crash .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kathleen'), (9, '"'), (10, 'Bird'), (14, '"'), (16, 'York'), (21, 'is'), (24, 'an'), (27, 'American'), (36, 'actress'), (43, ','), (45, 'screenwriter'), (57, ','), (59, 'and'), (63, 'Oscar-nominated'), (79, 'singer-songwriter'), (97, 'recording'), (107, 'artist'), (113, '.'), (115, 'She'), (119, 'was'), (123, 'nominated'), (133, 'for'), (137, 'an'), (140, 'Academy'), (148, 'Award'), (154, 'for'), (158, 'Best'), (163, 'Original'), (172, 'Song'), (177, 'for'), (181, '"'), (182, 'In'), (185, 'the'), (189, 'Deep'), (193, '"'), (195, 'from'), (200, 'the'), (204, '2004'), (209, 'film'), (214, 'Crash'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kathleen "Bird" York',0, 20), ('an American actress',24, 43), ('Oscar-nominated singer-songwriter recording artist',63, 113), ('was nominated',119, 132), ('an Academy Award',137, 153), ('Best Original Song',158, 176), ('the Deep',185, 193), ('the 2004 film Crash',200, 219)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NN', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', '``', 'IN', 'DT', 'NNP', '\'\'', 'IN', 'DT', 'CD', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kathleen'), (9, '"'), (10, 'Bird'), (14, '"'), (16, 'York'), (21, 'is'), (24, 'an'), (27, 'American'), (36, 'actress'), (43, ','), (45, 'screenwriter'), (57, ','), (59, 'and'), (63, 'Oscar'), (68, '-'), (69, 'nominated'), (79, 'singer'), (85, '-'), (86, 'songwriter'), (97, 'recording'), (107, 'artist'), (113, '.'), (115, 'She'), (119, 'was'), (123, 'nominated'), (133, 'for'), (137, 'an'), (140, 'Academy'), (148, 'Award'), (154, 'for'), (158, 'Best'), (163, 'Original'), (172, 'Song'), (177, 'for'), (181, '"'), (182, 'In'), (185, 'the'), (189, 'Deep'), (193, '"'), (195, 'from'), (200, 'the'), (204, '2004'), (209, 'film'), (214, 'Crash'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Kathleen "Bird" York', 0, 20), ('an American actress', 24, 43), ('screenwriter', 45, 57), ('Oscar-nominated singer-songwriter recording artist', 63, 113), ('an Academy Award', 137, 153), ('Academy Award for Best Original Song', 140, 176), ('In the Deep', 182, 193), ('the 2004 film Crash', 200, 219)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NNP', 'HYPH', 'VBN', 'NN', 'HYPH', 'NN', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'JJS', 'JJ', 'NN', 'IN', '``', 'IN', 'DT', 'NNP', "''", 'IN', 'DT', 'CD', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joe Spano</title>
+<link/>https://en.wikipedia.org/wiki/Joe_Spano
+<annotated>0</annotated>
+<originalabstract>Joseph Peter Spano (born July 7, 1946) is an American actor who was originally best known for his role as Lt. Henry Goldblume on Hill Street Blues. Spano is now best known for his work on NCIS as FBI Special Agent Tobias C. Fornell.</originalabstract>
+<abstract>Joseph_Peter_Spano ( born July_7_,_1946 ) is an_American_actor who was_originally_best_known for his_role as Lt._Henry_Goldblume on Hill_Street_Blues . Spano is_now_best_known for his_work on NCIS as FBI_Special_Agent_Tobias_C._Fornell .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joseph'), (7, 'Peter'), (13, 'Spano'), (19, '('), (20, 'born'), (25, 'July'), (30, '7'), (31, ','), (33, '1946'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (60, 'who'), (64, 'was'), (68, 'originally'), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'his'), (98, 'role'), (103, 'as'), (106, 'Lt.'), (110, 'Henry'), (116, 'Goldblume'), (126, 'on'), (129, 'Hill'), (134, 'Street'), (141, 'Blues'), (146, '.'), (148, 'Spano'), (154, 'is'), (157, 'now'), (161, 'best'), (166, 'known'), (172, 'for'), (176, 'his'), (180, 'work'), (185, 'on'), (188, 'NCIS'), (193, 'as'), (196, 'FBI'), (200, 'Special'), (208, 'Agent'), (214, 'Tobias'), (221, 'C.'), (224, 'Fornell'), (231, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joseph Peter Spano',0, 18), ('July 7, 1946',25, 37), ('an American actor',42, 59), ('was originally best known',64, 89), ('his role',94, 102), ('Lt. Henry Goldblume',106, 125), ('Hill Street Blues',129, 146), ('is now best known',154, 171), ('his work',176, 184), ('FBI Special Agent Tobias C. Fornell',196, 231)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joseph'), (7, 'Peter'), (13, 'Spano'), (19, '('), (20, 'born'), (25, 'July'), (30, '7'), (31, ','), (33, '1946'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (60, 'who'), (64, 'was'), (68, 'originally'), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'his'), (98, 'role'), (103, 'as'), (106, 'Lt'), (108, '.'), (110, 'Henry'), (116, 'Goldblume'), (126, 'on'), (129, 'Hill'), (134, 'Street'), (141, 'Blues'), (146, '.'), (148, 'Spano'), (154, 'is'), (157, 'now'), (161, 'best'), (166, 'known'), (172, 'for'), (176, 'his'), (180, 'work'), (185, 'on'), (188, 'NCIS'), (193, 'as'), (196, 'FBI'), (200, 'Special'), (208, 'Agent'), (214, 'Tobias'), (221, 'C.'), (224, 'Fornell'), (231, '.')])</spacy_tokens>
+<spacy_chunks>[('Joseph Peter Spano', 0, 18), ('July 7, 1946', 25, 37), ('an American actor', 42, 59), ('his role', 94, 102), ('Henry Goldblume', 110, 125), ('Hill Street Blues', 129, 146), ('his work', 176, 184), ('FBI Special Agent Tobias C. Fornell', 196, 231)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNPS', '.', 'NNP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

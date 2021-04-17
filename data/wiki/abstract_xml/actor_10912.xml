@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Evelyn Brent</title>
+<link/>https://en.wikipedia.org/wiki/Evelyn_Brent
+<annotated>0</annotated>
+<originalabstract>Evelyn Brent (born Mary Elizabeth Riggs, October 20, 1895 – June 4, 1975) was an American film and stage actress.</originalabstract>
+<abstract>Evelyn_Brent ( born Mary_Elizabeth_Riggs , October_20_,_1895 – June_4_,_1975 ) was an_American_film_and_stage_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Evelyn'), (7, 'Brent'), (13, '('), (14, 'born'), (19, 'Mary'), (24, 'Elizabeth'), (34, 'Riggs'), (39, ','), (41, 'October'), (49, '20'), (51, ','), (53, '1895'), (58, '–'), (60, 'June'), (65, '4'), (66, ','), (68, '1975'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'film'), (95, 'and'), (99, 'stage'), (105, 'actress'), (112, '.')])</stanford_tokens>
+<opennlp_chunks>[('Evelyn Brent',0, 12), ('Mary Elizabeth Riggs',19, 39), ('October 20, 1895',41, 57), ('June 4, 1975',60, 72), ('an American film and stage actress',78, 112)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Evelyn'), (7, 'Brent'), (13, '('), (14, 'born'), (19, 'Mary'), (24, 'Elizabeth'), (34, 'Riggs'), (39, ','), (41, 'October'), (49, '20'), (51, ','), (53, '1895'), (58, '–'), (60, 'June'), (65, '4'), (66, ','), (68, '1975'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'film'), (95, 'and'), (99, 'stage'), (105, 'actress'), (112, '.')])</spacy_tokens>
+<spacy_chunks>[('Evelyn Brent', 0, 12), ('born Mary Elizabeth Riggs', 14, 39), ('October 20, 1895', 41, 57), ('June 4, 1975', 60, 72), ('an American film', 78, 94), ('stage actress', 99, 112)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

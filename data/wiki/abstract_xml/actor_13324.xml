@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cynthia Lamontagne</title>
+<link/>https://en.wikipedia.org/wiki/Cynthia_Lamontagne
+<annotated>0</annotated>
+<originalabstract>Cynthia Ann LaMontagne (born February 15, 1966) is an American actress who has appeared in numerous television shows and films. She is best known for her recurring role as "Big Rhonda" in the fourth season of That '70s Show.</originalabstract>
+<abstract>Cynthia_Ann_LaMontagne ( born February_15_,_1966 ) is an_American_actress who has_appeared in numerous_television_shows_and_films . She is_best_known for her_recurring_role as "_Big_Rhonda " in the_fourth_season of That_'70s_Show .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cynthia'), (8, 'Ann'), (12, 'LaMontagne'), (23, '('), (24, 'born'), (29, 'February'), (38, '15'), (40, ','), (42, '1966'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actress'), (71, 'who'), (75, 'has'), (79, 'appeared'), (88, 'in'), (91, 'numerous'), (100, 'television'), (111, 'shows'), (117, 'and'), (121, 'films'), (126, '.'), (128, 'She'), (132, 'is'), (135, 'best'), (140, 'known'), (146, 'for'), (150, 'her'), (154, 'recurring'), (164, 'role'), (169, 'as'), (172, '"'), (173, 'Big'), (177, 'Rhonda'), (183, '"'), (185, 'in'), (188, 'the'), (192, 'fourth'), (199, 'season'), (206, 'of'), (209, 'That'), (214, '\'70s'), (219, 'Show'), (223, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cynthia Ann LaMontagne',0, 22), ('February 15, 1966',29, 46), ('an American actress',51, 70), ('has appeared',75, 87), ('numerous television shows and films',91, 126), ('is best known',132, 145), ('her recurring role',150, 168), ('"Big Rhonda',172, 183), ('the fourth season',188, 205), ('That \'70s Show',209, 223)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', '``', 'JJ', 'NNP', '\'\'', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'CD', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cynthia'), (8, 'Ann'), (12, 'LaMontagne'), (23, '('), (24, 'born'), (29, 'February'), (38, '15'), (40, ','), (42, '1966'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actress'), (71, 'who'), (75, 'has'), (79, 'appeared'), (88, 'in'), (91, 'numerous'), (100, 'television'), (111, 'shows'), (117, 'and'), (121, 'films'), (126, '.'), (128, 'She'), (132, 'is'), (135, 'best'), (140, 'known'), (146, 'for'), (150, 'her'), (154, 'recurring'), (164, 'role'), (169, 'as'), (172, '"'), (173, 'Big'), (177, 'Rhonda'), (183, '"'), (185, 'in'), (188, 'the'), (192, 'fourth'), (199, 'season'), (206, 'of'), (209, 'That'), (214, "'"), (215, '70s'), (219, 'Show'), (223, '.')])</spacy_tokens>
+<spacy_chunks>[('Cynthia Ann LaMontagne', 0, 22), ('February 15, 1966', 29, 46), ('an American actress', 51, 70), ('numerous television shows', 91, 116), ('her recurring role', 150, 168), ('"Big Rhonda', 172, 183), ('the fourth season', 188, 205), ("That '70s Show", 209, 223)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'VBG', 'NN', 'IN', '``', 'NNP', 'NNP', "''", 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'CD', 'NNS', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

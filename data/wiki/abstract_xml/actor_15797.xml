@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kate Walsh (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Kate_Walsh_(actress)
+<annotated>0</annotated>
+<originalabstract>Kathleen Erin Walsh (born October 13, 1967) is an American actress and businesswoman. Her roles include Dr. Addison Montgomery on the ABC television dramas Grey's Anatomy and Private Practice, Rebecca Wright on the short-lived NBC sitcom Bad Judge, and Olivia Baker on the Netflix drama series 13 Reasons Why.</originalabstract>
+<abstract>Kathleen_Erin_Walsh ( born October_13_,_1967 ) is an_American_actress_and_businesswoman . Her_roles include Dr._Addison_Montgomery on the_ABC_television_dramas_Grey 's_Anatomy_and_Private_Practice , Rebecca_Wright on the_short-lived_NBC_sitcom_Bad_Judge , and Olivia_Baker on the_Netflix_drama_series 13_Reasons Why .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kathleen'), (9, 'Erin'), (14, 'Walsh'), (20, '('), (21, 'born'), (26, 'October'), (34, '13'), (36, ','), (38, '1967'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actress'), (67, 'and'), (71, 'businesswoman'), (84, '.'), (86, 'Her'), (90, 'roles'), (96, 'include'), (104, 'Dr.'), (108, 'Addison'), (116, 'Montgomery'), (127, 'on'), (130, 'the'), (134, 'ABC'), (138, 'television'), (149, 'dramas'), (156, 'Grey'), (160, '\'s'), (163, 'Anatomy'), (171, 'and'), (175, 'Private'), (183, 'Practice'), (191, ','), (193, 'Rebecca'), (201, 'Wright'), (208, 'on'), (211, 'the'), (215, 'short-lived'), (227, 'NBC'), (231, 'sitcom'), (238, 'Bad'), (242, 'Judge'), (247, ','), (249, 'and'), (253, 'Olivia'), (260, 'Baker'), (266, 'on'), (269, 'the'), (273, 'Netflix'), (281, 'drama'), (287, 'series'), (294, '13'), (297, 'Reasons'), (305, 'Why'), (308, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kathleen Erin Walsh',0, 19), ('October 13, 1967',26, 42), ('an American actress and businesswoman',47, 84), ('Her roles',86, 95), ('Dr. Addison Montgomery',104, 126), ('the ABC television dramas Grey',130, 160), ('\'s Anatomy and Private Practice',160, 191), ('Rebecca Wright',193, 207), ('the short-lived NBC sitcom Bad Judge',211, 247), ('Olivia Baker',253, 265), ('the Netflix drama series',269, 293), ('13 Reasons',294, 304)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NNS', 'VBP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'POS', 'NNP', 'CC', 'JJ', 'NN', ',', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'CD', 'NNS', 'WRB', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kathleen'), (9, 'Erin'), (14, 'Walsh'), (20, '('), (21, 'born'), (26, 'October'), (34, '13'), (36, ','), (38, '1967'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actress'), (67, 'and'), (71, 'businesswoman'), (84, '.'), (86, 'Her'), (90, 'roles'), (96, 'include'), (104, 'Dr.'), (108, 'Addison'), (116, 'Montgomery'), (127, 'on'), (130, 'the'), (134, 'ABC'), (138, 'television'), (149, 'dramas'), (156, 'Grey'), (160, "'s"), (163, 'Anatomy'), (171, 'and'), (175, 'Private'), (183, 'Practice'), (191, ','), (193, 'Rebecca'), (201, 'Wright'), (208, 'on'), (211, 'the'), (215, 'short'), (220, '-'), (221, 'lived'), (227, 'NBC'), (231, 'sitcom'), (238, 'Bad'), (242, 'Judge'), (247, ','), (249, 'and'), (253, 'Olivia'), (260, 'Baker'), (266, 'on'), (269, 'the'), (273, 'Netflix'), (281, 'drama'), (287, 'series'), (294, '13'), (297, 'Reasons'), (305, 'Why'), (308, '.')])</spacy_tokens>
+<spacy_chunks>[('Kathleen Erin Walsh', 0, 19), ('October 13, 1967', 26, 42), ('an American actress', 47, 66), ('businesswoman', 71, 84), ('Her roles', 86, 95), ('Dr. Addison Montgomery', 104, 126), ('the ABC television dramas', 130, 155), ("Grey's Anatomy and Private Practice", 156, 191), ('the short-lived NBC sitcom Bad Judge', 211, 247), ('the Netflix drama series', 269, 293), ('13 Reasons Why', 294, 308)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NNS', 'VBP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNS', 'NNP', 'POS', 'NNP', 'CC', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'RB', 'HYPH', 'VBN', 'NNP', 'NN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'CD', 'NNS', 'WRB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

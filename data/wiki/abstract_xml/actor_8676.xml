@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stephen Marcus</title>
+<link/>https://en.wikipedia.org/wiki/Stephen_Marcus
+<annotated>0</annotated>
+<originalabstract>Stephen Marcus (born Stephen Mark Scott; 18 June 1962) is a British actor, best known for his role as Nick the Greek in the film Lock, Stock and Two Smoking Barrels.</originalabstract>
+<abstract>Stephen_Marcus ( born Stephen_Mark_Scott ; 18_June_1962 ) is a_British_actor , best_known for his_role as Nick the_Greek in the_film_Lock , Stock and Two_Smoking_Barrels .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stephen'), (8, 'Marcus'), (15, '('), (16, 'born'), (21, 'Stephen'), (29, 'Mark'), (34, 'Scott'), (39, ';'), (41, '18'), (44, 'June'), (49, '1962'), (53, ')'), (55, 'is'), (58, 'a'), (60, 'British'), (68, 'actor'), (73, ','), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'role'), (99, 'as'), (102, 'Nick'), (107, 'the'), (111, 'Greek'), (117, 'in'), (120, 'the'), (124, 'film'), (129, 'Lock'), (133, ','), (135, 'Stock'), (141, 'and'), (145, 'Two'), (149, 'Smoking'), (157, 'Barrels'), (164, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stephen Marcus',0, 14), ('Stephen Mark Scott',21, 39), ('18 June 1962',41, 53), ('a British actor',58, 73), ('best known',75, 85), ('his role',90, 98), ('the Greek',107, 116), ('the film Lock',120, 133), ('Two Smoking Barrels',145, 164)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'DT', 'JJ', 'IN', 'DT', 'NN', 'NN', ',', 'NNP', 'CC', 'CD', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stephen'), (8, 'Marcus'), (15, '('), (16, 'born'), (21, 'Stephen'), (29, 'Mark'), (34, 'Scott'), (39, ';'), (41, '18'), (44, 'June'), (49, '1962'), (53, ')'), (55, 'is'), (58, 'a'), (60, 'British'), (68, 'actor'), (73, ','), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'role'), (99, 'as'), (102, 'Nick'), (107, 'the'), (111, 'Greek'), (117, 'in'), (120, 'the'), (124, 'film'), (129, 'Lock'), (133, ','), (135, 'Stock'), (141, 'and'), (145, 'Two'), (149, 'Smoking'), (157, 'Barrels'), (164, '.')])</spacy_tokens>
+<spacy_chunks>[('Stephen Marcus', 0, 14), ('born Stephen Mark Scott', 16, 39), ('18 June 1962', 41, 53), ('a British actor', 58, 73), ('his role', 90, 98), ('the Greek', 107, 116), ('the film Lock', 120, 133), ('Lock, Stock and Two Smoking Barrels', 129, 164)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'DT', 'NNP', 'IN', 'DT', 'NN', 'NNP', ',', 'NNP', 'CC', 'CD', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

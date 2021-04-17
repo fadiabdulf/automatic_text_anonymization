@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Milo Sperber</title>
+<link/>https://en.wikipedia.org/wiki/Milo_Sperber
+<annotated>0</annotated>
+<originalabstract>Milo Sperber (20 March 1911 – 22 December 1992) was a British actor, director and writer, who was born in Poland.</originalabstract>
+<abstract>Milo_Sperber ( 20_March_1911 – 22_December_1992 ) was a_British_actor , director_and_writer , who was_born in Poland .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Milo'), (5, 'Sperber'), (13, '('), (14, '20'), (17, 'March'), (23, '1911'), (28, '–'), (30, '22'), (33, 'December'), (42, '1992'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'British'), (62, 'actor'), (67, ','), (69, 'director'), (78, 'and'), (82, 'writer'), (88, ','), (90, 'who'), (94, 'was'), (98, 'born'), (103, 'in'), (106, 'Poland'), (112, '.')])</stanford_tokens>
+<opennlp_chunks>[('Milo Sperber',0, 12), ('20 March 1911',14, 27), ('22 December 1992',30, 46), ('a British actor',52, 67), ('director and writer',69, 88), ('was born',94, 102)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'WP', 'VBD', 'VBN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Milo'), (5, 'Sperber'), (13, '('), (14, '20'), (17, 'March'), (23, '1911'), (28, '–'), (30, '22'), (33, 'December'), (42, '1992'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'British'), (62, 'actor'), (67, ','), (69, 'director'), (78, 'and'), (82, 'writer'), (88, ','), (90, 'who'), (94, 'was'), (98, 'born'), (103, 'in'), (106, 'Poland'), (112, '.')])</spacy_tokens>
+<spacy_chunks>[('Milo Sperber', 0, 12), ('(20 March', 13, 22), ('20 March 1911', 14, 27), ('22 December 1992', 30, 46), ('a British actor', 52, 67), ('director', 69, 77), ('writer', 82, 88), ('Poland', 106, 112)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'WP', 'VBD', 'VBN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

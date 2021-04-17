@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Angela Thorne</title>
+<link/>https://en.wikipedia.org/wiki/Angela_Thorne
+<annotated>0</annotated>
+<originalabstract>Angela Thorne (born 25 January 1939) is an English actress of stage, television and film who is best known for her roles in To the Manor Born, as Audrey fforbes-Hamilton's best friend Marjory Frobisher, and as Margaret Thatcher in Anyone for Denis?</originalabstract>
+<abstract>Angela_Thorne ( born_25_January_1939 ) is an_English_actress of stage_,_television_and_film who is_best_known for her_roles in To the_Manor_Born , as Audrey_fforbes-Hamilton 's_best_friend_Marjory_Frobisher , and as Margaret_Thatcher in Anyone for Denis ?</abstract>
+<stanford_tokens>OrderedDict([(0, 'Angela'), (7, 'Thorne'), (14, '('), (15, 'born'), (20, '25'), (23, 'January'), (31, '1939'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actress'), (59, 'of'), (62, 'stage'), (67, ','), (69, 'television'), (80, 'and'), (84, 'film'), (89, 'who'), (93, 'is'), (96, 'best'), (101, 'known'), (107, 'for'), (111, 'her'), (115, 'roles'), (121, 'in'), (124, 'To'), (127, 'the'), (131, 'Manor'), (137, 'Born'), (141, ','), (143, 'as'), (146, 'Audrey'), (153, 'fforbes-Hamilton'), (169, '\'s'), (172, 'best'), (177, 'friend'), (184, 'Marjory'), (192, 'Frobisher'), (201, ','), (203, 'and'), (207, 'as'), (210, 'Margaret'), (219, 'Thatcher'), (228, 'in'), (231, 'Anyone'), (238, 'for'), (242, 'Denis'), (247, '?')])</stanford_tokens>
+<opennlp_chunks>[('Angela Thorne',0, 13), ('born 25 January 1939',15, 35), ('an English actress',40, 58), ('stage, television and film',62, 88), ('is best known',93, 106), ('her roles',111, 120), ('the Manor Born',127, 141), ('Audrey fforbes-Hamilton',146, 169), ('\'s best friend Marjory Frobisher',169, 201), ('Margaret Thatcher',210, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'TO', 'DT', 'NNP', 'NNP', ',', 'IN', 'NNP', 'NNP', 'POS', 'JJS', 'NN', 'NNP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Angela'), (7, 'Thorne'), (14, '('), (15, 'born'), (20, '25'), (23, 'January'), (31, '1939'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actress'), (59, 'of'), (62, 'stage'), (67, ','), (69, 'television'), (80, 'and'), (84, 'film'), (89, 'who'), (93, 'is'), (96, 'best'), (101, 'known'), (107, 'for'), (111, 'her'), (115, 'roles'), (121, 'in'), (124, 'To'), (127, 'the'), (131, 'Manor'), (137, 'Born'), (141, ','), (143, 'as'), (146, 'Audrey'), (153, 'fforbes'), (160, '-'), (161, 'Hamilton'), (169, "'s"), (172, 'best'), (177, 'friend'), (184, 'Marjory'), (192, 'Frobisher'), (201, ','), (203, 'and'), (207, 'as'), (210, 'Margaret'), (219, 'Thatcher'), (228, 'in'), (231, 'Anyone'), (238, 'for'), (242, 'Denis'), (247, '?')])</spacy_tokens>
+<spacy_chunks>[('Angela Thorne', 0, 13), ('25 January 1939', 20, 35), ('an English actress', 40, 58), ('television', 69, 79), ('her roles', 111, 120), ('To the Manor Born', 124, 141), ("Audrey fforbes-Hamilton's best friend", 146, 183), ('Marjory Frobisher', 184, 201), ('Margaret Thatcher', 210, 227), ('Anyone for Denis?', 231, 248)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'IN', 'DT', 'NNP', 'NNP', ',', 'IN', 'NNP', 'NNP', 'HYPH', 'NNP', 'POS', 'JJS', 'NN', 'NNP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

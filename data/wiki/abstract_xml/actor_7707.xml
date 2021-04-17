@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ross Boatman</title>
+<link/>https://en.wikipedia.org/wiki/Ross_Boatman
+<annotated>0</annotated>
+<originalabstract>Ross Maxim Boatman (born 3 March 1964) is an English RADA-trained actor, professional poker player and a member of the poker-playing foursome known as the Hendon Mob. He is best known for the role of Firefighter Kevin Medhurst in the ITV drama series London's Burning from 1988 to 1995 and again in 2000.</originalabstract>
+<abstract>Ross_Maxim_Boatman ( born 3_March_1964 ) is an_English_RADA-trained_actor , professional_poker_player and a_member of the_poker-playing_foursome known as the_Hendon_Mob . He is_best_known for the_role of Firefighter_Kevin_Medhurst in the_ITV_drama_series_London 's_Burning from 1988 to 1995 and again in 2000 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ross'), (5, 'Maxim'), (11, 'Boatman'), (19, '('), (20, 'born'), (25, '3'), (27, 'March'), (33, '1964'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'RADA-trained'), (66, 'actor'), (71, ','), (73, 'professional'), (86, 'poker'), (92, 'player'), (99, 'and'), (103, 'a'), (105, 'member'), (112, 'of'), (115, 'the'), (119, 'poker-playing'), (133, 'foursome'), (142, 'known'), (148, 'as'), (151, 'the'), (155, 'Hendon'), (162, 'Mob'), (165, '.'), (167, 'He'), (170, 'is'), (173, 'best'), (178, 'known'), (184, 'for'), (188, 'the'), (192, 'role'), (197, 'of'), (200, 'Firefighter'), (212, 'Kevin'), (218, 'Medhurst'), (227, 'in'), (230, 'the'), (234, 'ITV'), (238, 'drama'), (244, 'series'), (251, 'London'), (257, '\'s'), (260, 'Burning'), (268, 'from'), (273, '1988'), (278, 'to'), (281, '1995'), (286, 'and'), (290, 'again'), (296, 'in'), (299, '2000'), (303, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ross Maxim Boatman',0, 18), ('3 March 1964',25, 37), ('an English RADA-trained actor',42, 71), ('professional poker player',73, 98), ('a member',103, 111), ('the poker-playing foursome',115, 141), ('the Hendon Mob',151, 165), ('is best known',170, 183), ('the role',188, 196), ('Firefighter Kevin Medhurst',200, 226), ('the ITV drama series London',230, 257), ('\'s Burning',257, 267)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'JJ', 'NN', 'NN', 'CC', 'DT', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'VBN', 'IN', 'DT', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'POS', 'NN', 'IN', 'CD', 'TO', 'CD', 'CC', 'RB', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ross'), (5, 'Maxim'), (11, 'Boatman'), (19, '('), (20, 'born'), (25, '3'), (27, 'March'), (33, '1964'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'RADA'), (57, '-'), (58, 'trained'), (66, 'actor'), (71, ','), (73, 'professional'), (86, 'poker'), (92, 'player'), (99, 'and'), (103, 'a'), (105, 'member'), (112, 'of'), (115, 'the'), (119, 'poker'), (124, '-'), (125, 'playing'), (133, 'foursome'), (142, 'known'), (148, 'as'), (151, 'the'), (155, 'Hendon'), (162, 'Mob'), (165, '.'), (167, 'He'), (170, 'is'), (173, 'best'), (178, 'known'), (184, 'for'), (188, 'the'), (192, 'role'), (197, 'of'), (200, 'Firefighter'), (212, 'Kevin'), (218, 'Medhurst'), (227, 'in'), (230, 'the'), (234, 'ITV'), (238, 'drama'), (244, 'series'), (251, 'London'), (257, "'s"), (260, 'Burning'), (268, 'from'), (273, '1988'), (278, 'to'), (281, '1995'), (286, 'and'), (290, 'again'), (296, 'in'), (299, '2000'), (303, '.')])</spacy_tokens>
+<spacy_chunks>[('Ross Maxim Boatman', 0, 18), ('3 March 1964', 25, 37), ('an English RADA-trained actor', 42, 71), ('professional poker player', 73, 98), ('a member', 103, 111), ('the poker-playing foursome', 115, 141), ('The Hendon Mob', 151, 165), ('the role', 188, 196), ('Firefighter Kevin Medhurst', 200, 226), ('the ITV drama series', 230, 250), ("London's Burning", 251, 267)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'NNP', 'HYPH', 'VBN', 'NN', ',', 'JJ', 'NN', 'NN', 'CC', 'DT', 'NN', 'IN', 'DT', 'NN', 'HYPH', 'VBG', 'NN', 'VBN', 'IN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'POS', 'NN', 'IN', 'CD', 'IN', 'CD', 'CC', 'RB', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

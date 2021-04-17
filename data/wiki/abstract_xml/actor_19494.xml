@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mary Maguire</title>
+<link/>https://en.wikipedia.org/wiki/Mary_Maguire
+<annotated>0</annotated>
+<originalabstract>Mary Maguire (22 February 1919 – 18 May 1974) was an Australian-born actress who briefly became a Hollywood and British film star in the late 1930s.</originalabstract>
+<abstract>Mary_Maguire ( 22_February_1919 – 18_May_1974 ) was an_Australian-born_actress who briefly became a_Hollywood_and_British_film_star in the_late_1930s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Maguire'), (13, '('), (14, '22'), (17, 'February'), (26, '1919'), (31, '–'), (33, '18'), (36, 'May'), (40, '1974'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'Australian-born'), (69, 'actress'), (77, 'who'), (81, 'briefly'), (89, 'became'), (96, 'a'), (98, 'Hollywood'), (108, 'and'), (112, 'British'), (120, 'film'), (125, 'star'), (130, 'in'), (133, 'the'), (137, 'late'), (142, '1930s'), (147, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Maguire',0, 12), ('22 February 1919',14, 30), ('18 May 1974',33, 44), ('an Australian-born actress',50, 76), ('a Hollywood and British film star',96, 129), ('the late 1930s',133, 147)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'RB', 'VBD', 'DT', 'NNP', 'CC', 'NNP', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Maguire'), (13, '('), (14, '22'), (17, 'February'), (26, '1919'), (31, '–'), (33, '18'), (36, 'May'), (40, '1974'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'Australian'), (63, '-'), (64, 'born'), (69, 'actress'), (77, 'who'), (81, 'briefly'), (89, 'became'), (96, 'a'), (98, 'Hollywood'), (108, 'and'), (112, 'British'), (120, 'film'), (125, 'star'), (130, 'in'), (133, 'the'), (137, 'late'), (142, '1930s'), (147, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Maguire', 0, 12), ('22 February 1919', 14, 30), ('18 May 1974', 33, 44), ('an Australian-born actress', 50, 76), ('a Hollywood and British film star', 96, 129), ('the late 1930s', 133, 147)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'WP', 'RB', 'VBD', 'DT', 'NNP', 'CC', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

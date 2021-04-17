@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Pat Musick</title>
+<link/>https://en.wikipedia.org/wiki/Pat_Musick
+<annotated>0</annotated>
+<originalabstract>Patrice Anne Musick (born January 26, 1956) is an American voice actress, who has provided numerous voices in many television shows, films and video games. She and her former husband Jeff Whitman, a personal manager and set construction coordinator, are the parents of actress and singer Mae Whitman.</originalabstract>
+<abstract>Patrice_Anne_Musick ( born January_26_,_1956 ) is an_American_voice_actress , who has_provided numerous_voices in many_television_shows , films and video_games . She and her_former_husband_Jeff_Whitman , a_personal_manager and set_construction_coordinator , are the_parents of actress_and_singer_Mae_Whitman .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Patrice'), (8, 'Anne'), (13, 'Musick'), (20, '('), (21, 'born'), (26, 'January'), (34, '26'), (36, ','), (38, '1956'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'voice'), (65, 'actress'), (72, ','), (74, 'who'), (78, 'has'), (82, 'provided'), (91, 'numerous'), (100, 'voices'), (107, 'in'), (110, 'many'), (115, 'television'), (126, 'shows'), (131, ','), (133, 'films'), (139, 'and'), (143, 'video'), (149, 'games'), (154, '.'), (156, 'She'), (160, 'and'), (164, 'her'), (168, 'former'), (175, 'husband'), (183, 'Jeff'), (188, 'Whitman'), (195, ','), (197, 'a'), (199, 'personal'), (208, 'manager'), (216, 'and'), (220, 'set'), (224, 'construction'), (237, 'coordinator'), (248, ','), (250, 'are'), (254, 'the'), (258, 'parents'), (266, 'of'), (269, 'actress'), (277, 'and'), (281, 'singer'), (288, 'Mae'), (292, 'Whitman'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('Patrice Anne Musick',0, 19), ('January 26, 1956',26, 42), ('an American voice actress',47, 72), ('has provided',78, 90), ('numerous voices',91, 106), ('many television shows',110, 131), ('video games',143, 154), ('her former husband Jeff Whitman',164, 195), ('a personal manager',197, 215), ('set construction coordinator',220, 248), ('the parents',254, 265), ('actress and singer Mae Whitman',269, 299)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'WP', 'VBZ', 'VBN', 'JJ', 'NNS', 'IN', 'JJ', 'NN', 'NNS', ',', 'NNS', 'CC', 'NN', 'NNS', '.', 'PRP', 'CC', 'PRP$', 'JJ', 'NN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'CC', 'VBN', 'NN', 'NN', ',', 'VBP', 'DT', 'NNS', 'IN', 'NN', 'CC', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Patrice'), (8, 'Anne'), (13, 'Musick'), (20, '('), (21, 'born'), (26, 'January'), (34, '26'), (36, ','), (38, '1956'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'voice'), (65, 'actress'), (72, ','), (74, 'who'), (78, 'has'), (82, 'provided'), (91, 'numerous'), (100, 'voices'), (107, 'in'), (110, 'many'), (115, 'television'), (126, 'shows'), (131, ','), (133, 'films'), (139, 'and'), (143, 'video'), (149, 'games'), (154, '.'), (156, 'She'), (160, 'and'), (164, 'her'), (168, 'former'), (175, 'husband'), (183, 'Jeff'), (188, 'Whitman'), (195, ','), (197, 'a'), (199, 'personal'), (208, 'manager'), (216, 'and'), (220, 'set'), (224, 'construction'), (237, 'coordinator'), (248, ','), (250, 'are'), (254, 'the'), (258, 'parents'), (266, 'of'), (269, 'actress'), (277, 'and'), (281, 'singer'), (288, 'Mae'), (292, 'Whitman'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('Patrice Anne Musick', 0, 19), ('January 26, 1956', 26, 42), ('an American voice actress', 47, 72), ('numerous voices', 91, 106), ('many television shows', 110, 131), ('video games', 143, 154), ('her former husband', 164, 182), ('Jeff Whitman', 183, 195), ('a personal manager', 197, 215), ('construction coordinator', 224, 248), ('the parents', 254, 265), ('singer Mae Whitman', 281, 299)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'WP', 'VBZ', 'VBN', 'JJ', 'NNS', 'IN', 'JJ', 'NN', 'NNS', ',', 'NNS', 'CC', 'NN', 'NNS', '.', 'PRP', 'CC', 'PRP$', 'JJ', 'NN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'CC', 'VBN', 'NN', 'NN', ',', 'VBP', 'DT', 'NNS', 'IN', 'NN', 'CC', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

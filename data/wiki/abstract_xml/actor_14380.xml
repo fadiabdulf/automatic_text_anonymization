@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Aleksa Palladino</title>
+<link/>https://en.wikipedia.org/wiki/Aleksa_Palladino
+<annotated>0</annotated>
+<originalabstract>Aleksa Palladino (born September 21, 1980) is an American actress and singer, perhaps best known for her lead roles in Manny  Lo, The Adventures of Sebastian Cole, Find Me Guilty, Boardwalk Empire, Wrong Turn 2: Dead End, and Before the Devil Knows You're Dead.</originalabstract>
+<abstract>Aleksa_Palladino ( born September_21_,_1980 ) is an_American_actress_and_singer , perhaps_best_known for her_lead_roles in Manny_ , The_Adventures of Sebastian_Cole , Find Me Guilty , Boardwalk_Empire , Wrong_Turn_2 : Dead_End , and Before the_Devil_Knows You 're Dead .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Aleksa'), (7, 'Palladino'), (17, '('), (18, 'born'), (23, 'September'), (33, '21'), (35, ','), (37, '1980'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (66, 'and'), (70, 'singer'), (76, ','), (78, 'perhaps'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'her'), (105, 'lead'), (110, 'roles'), (116, 'in'), (119, 'Manny'), (125, ''), (127, 'Lo'), (129, ','), (131, 'The'), (135, 'Adventures'), (146, 'of'), (149, 'Sebastian'), (159, 'Cole'), (163, ','), (165, 'Find'), (170, 'Me'), (173, 'Guilty'), (179, ','), (181, 'Boardwalk'), (191, 'Empire'), (197, ','), (199, 'Wrong'), (205, 'Turn'), (210, '2'), (211, ':'), (213, 'Dead'), (218, 'End'), (221, ','), (223, 'and'), (227, 'Before'), (234, 'the'), (238, 'Devil'), (244, 'Knows'), (250, 'You'), (253, '\'re'), (257, 'Dead'), (261, '.')])</stanford_tokens>
+<opennlp_chunks>[('Aleksa Palladino',0, 16), ('September 21, 1980',23, 41), ('an American actress and singer',46, 76), ('perhaps best known',78, 96), ('her lead roles',101, 115), ('Manny  Lo',119, 129), ('The Adventures',131, 145), ('Sebastian Cole',149, 163), ('Boardwalk Empire',181, 197), ('Wrong Turn 2',199, 211), ('Dead End',213, 221), ('the Devil Knows',234, 249)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'CC', 'NNP', ',', 'DT', 'NNS', 'IN', 'NNP', 'NNP', ',', 'VB', 'PRP', 'NNP', ',', 'NNP', 'NNP', ',', 'JJ', 'NN', 'CD', ':', 'JJ', 'NN', ',', 'CC', 'IN', 'DT', 'NNP', 'NNP', 'PRP', 'VBP', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Aleksa'), (7, 'Palladino'), (17, '('), (18, 'born'), (23, 'September'), (33, '21'), (35, ','), (37, '1980'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (66, 'and'), (70, 'singer'), (76, ','), (78, 'perhaps'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'her'), (105, 'lead'), (110, 'roles'), (116, 'in'), (119, 'Manny'), (126, 'Lo'), (128, ','), (130, 'The'), (134, 'Adventures'), (145, 'of'), (148, 'Sebastian'), (158, 'Cole'), (162, ','), (164, 'Find'), (169, 'Me'), (172, 'Guilty'), (178, ','), (180, 'Boardwalk'), (190, 'Empire'), (196, ','), (198, 'Wrong'), (204, 'Turn'), (209, '2'), (210, ':'), (212, 'Dead'), (217, 'End'), (220, ','), (222, 'and'), (226, 'Before'), (233, 'the'), (237, 'Devil'), (243, 'Knows'), (249, 'You'), (252, "'re"), (256, 'Dead'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('Aleksa Palladino', 0, 16), ('September 21, 1980', 23, 41), ('an American actress', 46, 65), ('singer', 70, 76), ('her lead roles', 101, 115), ('Manny  Lo', 119, 128), ('The Adventures of Sebastian Cole', 130, 162), ('Find Me Guilty', 164, 178), ('Boardwalk Empire', 180, 196), ('Wrong Turn 2: Dead End', 198, 220), ("Before the Devil Knows You're Dead", 226, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNP', 'IN', 'NNP', 'NNP', ',', 'VB', 'PRP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NN', 'CD', ':', 'NNP', 'NN', ',', 'CC', 'IN', 'DT', 'NN', 'VBZ', 'PRP', 'VBP', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

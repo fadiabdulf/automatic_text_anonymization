@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mona Goya</title>
+<link/>https://en.wikipedia.org/wiki/Mona_Goya
+<annotated>0</annotated>
+<originalabstract>Mona Goya (25 November 1909 – 8 October 1961) was a Mexican-born French film actress who rose to fame in the 1930s.</originalabstract>
+<abstract>Mona_Goya ( 25_November_1909 – 8_October_1961 ) was a_Mexican-born_French_film_actress who rose to fame in the_1930s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mona'), (5, 'Goya'), (10, '('), (11, '25'), (14, 'November'), (23, '1909'), (28, '–'), (30, '8'), (32, 'October'), (40, '1961'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'Mexican-born'), (65, 'French'), (72, 'film'), (77, 'actress'), (85, 'who'), (89, 'rose'), (94, 'to'), (97, 'fame'), (102, 'in'), (105, 'the'), (109, '1930s'), (114, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mona Goya',0, 9), ('25 November 1909',11, 27), ('8 October 1961',30, 44), ('a Mexican-born French film actress',50, 84), ('the 1930s',105, 114)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'TO', 'NN', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mona'), (5, 'Goya'), (10, '('), (11, '25'), (14, 'November'), (23, '1909'), (28, '–'), (30, '8'), (32, 'October'), (40, '1961'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'Mexican'), (59, '-'), (60, 'born'), (65, 'French'), (72, 'film'), (77, 'actress'), (85, 'who'), (89, 'rose'), (94, 'to'), (97, 'fame'), (102, 'in'), (105, 'the'), (109, '1930s'), (114, '.')])</spacy_tokens>
+<spacy_chunks>[('Mona Goya', 0, 9), ('25 November 1909', 11, 27), ('8 October 1961', 30, 44), ('a Mexican-born French film actress', 50, 84), ('the 1930s', 105, 114)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'NN', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

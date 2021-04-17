@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cindy Robbins</title>
+<link/>https://en.wikipedia.org/wiki/Cindy_Robbins
+<annotated>0</annotated>
+<originalabstract>Cynthia Chenault (born January 5, 1937) is an American television actress and producer/writer active from the mid-1950s to the present.  She used the screen name Cindy Robbins in her acting credits.</originalabstract>
+<abstract>Cynthia_Chenault ( born January_5_,_1937 ) is an_American_television_actress_and_producer/writer_active from the_mid-1950s to the_present . She used the_screen_name_Cindy_Robbins in her_acting_credits .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cynthia'), (8, 'Chenault'), (17, '('), (18, 'born'), (23, 'January'), (31, '5'), (32, ','), (34, '1937'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'television'), (66, 'actress'), (74, 'and'), (78, 'producer/writer'), (94, 'active'), (101, 'from'), (106, 'the'), (110, 'mid-1950s'), (120, 'to'), (123, 'the'), (127, 'present'), (134, '.'), (137, 'She'), (141, 'used'), (146, 'the'), (150, 'screen'), (157, 'name'), (162, 'Cindy'), (168, 'Robbins'), (176, 'in'), (179, 'her'), (183, 'acting'), (190, 'credits'), (197, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cynthia Chenault',0, 16), ('January 5, 1937',23, 38), ('an American television actress and producer/writer active',43, 100), ('the mid-1950s',106, 119), ('the present',123, 134), ('the screen name Cindy Robbins',146, 175), ('her acting credits',179, 197)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'JJ', 'IN', 'DT', 'CD', 'TO', 'DT', 'JJ', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'VBG', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cynthia'), (8, 'Chenault'), (17, '('), (18, 'born'), (23, 'January'), (31, '5'), (32, ','), (34, '1937'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'television'), (66, 'actress'), (74, 'and'), (78, 'producer'), (86, '/'), (87, 'writer'), (94, 'active'), (101, 'from'), (106, 'the'), (110, 'mid-1950s'), (120, 'to'), (123, 'the'), (127, 'present'), (134, '.'), (137, 'She'), (141, 'used'), (146, 'the'), (150, 'screen'), (157, 'name'), (162, 'Cindy'), (168, 'Robbins'), (176, 'in'), (179, 'her'), (183, 'acting'), (190, 'credits'), (197, '.')])</spacy_tokens>
+<spacy_chunks>[('Cynthia Chenault', 0, 16), ('January 5, 1937', 23, 38), ('an American television actress', 43, 73), ('producer/writer', 78, 93), ('the present', 123, 134), ('the screen name', 146, 161), ('Cindy Robbins', 162, 175), ('her acting credits', 179, 197)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'SYM', 'NN', 'JJ', 'IN', 'DT', 'CD', 'IN', 'DT', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'VBG', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

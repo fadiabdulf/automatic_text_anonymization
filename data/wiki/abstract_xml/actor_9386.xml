@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brian Wilde</title>
+<link/>https://en.wikipedia.org/wiki/Brian_Wilde
+<annotated>0</annotated>
+<originalabstract>Brian George Wilde (13 June 1927 – 20 March 2008) was an English actor, best known for his roles in television comedy, including Mr Barrowclough in Porridge and "Foggy" Dewhurst in Last of the Summer Wine. His lugubrious world-weary face was a staple of British television for forty years.</originalabstract>
+<abstract>Brian_George_Wilde ( 13_June_1927 – 20_March_2008 ) was an_English_actor , best_known for his_roles in television_comedy , including Mr_Barrowclough in Porridge_and_"_Foggy_"_Dewhurst in Last of the_Summer_Wine . His_lugubrious_world-weary_face was a_staple of British_television for forty_years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brian'), (6, 'George'), (13, 'Wilde'), (19, '('), (20, '13'), (23, 'June'), (28, '1927'), (33, '–'), (35, '20'), (38, 'March'), (44, '2008'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'English'), (65, 'actor'), (70, ','), (72, 'best'), (77, 'known'), (83, 'for'), (87, 'his'), (91, 'roles'), (97, 'in'), (100, 'television'), (111, 'comedy'), (117, ','), (119, 'including'), (129, 'Mr'), (132, 'Barrowclough'), (145, 'in'), (148, 'Porridge'), (157, 'and'), (161, '"'), (162, 'Foggy'), (167, '"'), (169, 'Dewhurst'), (178, 'in'), (181, 'Last'), (186, 'of'), (189, 'the'), (193, 'Summer'), (200, 'Wine'), (204, '.'), (206, 'His'), (210, 'lugubrious'), (221, 'world-weary'), (233, 'face'), (238, 'was'), (242, 'a'), (244, 'staple'), (251, 'of'), (254, 'British'), (262, 'television'), (273, 'for'), (277, 'forty'), (283, 'years'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brian George Wilde',0, 18), ('13 June 1927',20, 32), ('20 March 2008',35, 48), ('an English actor',54, 70), ('best known',72, 82), ('his roles',87, 96), ('television comedy',100, 117), ('Mr Barrowclough',129, 144), ('Porridge and "Foggy" Dewhurst',148, 177), ('the Summer Wine',189, 204), ('His lugubrious world-weary face',206, 237), ('a staple',242, 250), ('British television',254, 272), ('forty years',277, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NN', ',', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'CC', '``', 'NNP', '\'\'', 'NNP', 'IN', 'JJ', 'IN', 'DT', 'NN', 'NN', '.', 'PRP$', 'JJ', 'JJ', 'NN', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'NN', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brian'), (6, 'George'), (13, 'Wilde'), (19, '('), (20, '13'), (23, 'June'), (28, '1927'), (33, '–'), (35, '20'), (38, 'March'), (44, '2008'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'English'), (65, 'actor'), (70, ','), (72, 'best'), (77, 'known'), (83, 'for'), (87, 'his'), (91, 'roles'), (97, 'in'), (100, 'television'), (111, 'comedy'), (117, ','), (119, 'including'), (129, 'Mr'), (132, 'Barrowclough'), (145, 'in'), (148, 'Porridge'), (157, 'and'), (161, '"'), (162, 'Foggy'), (167, '"'), (169, 'Dewhurst'), (178, 'in'), (181, 'Last'), (186, 'of'), (189, 'the'), (193, 'Summer'), (200, 'Wine'), (204, '.'), (206, 'His'), (210, 'lugubrious'), (221, 'world'), (226, '-'), (227, 'weary'), (233, 'face'), (238, 'was'), (242, 'a'), (244, 'staple'), (251, 'of'), (254, 'British'), (262, 'television'), (273, 'for'), (277, 'forty'), (283, 'years'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Brian George Wilde', 0, 18), ('13 June 1927', 20, 32), ('20 March 2008', 35, 48), ('an English actor', 54, 70), ('his roles', 87, 96), ('Television comedy', 100, 117), ('Mr Barrowclough', 129, 144), ('Porridge', 148, 156), ('"Foggy" Dewhurst', 161, 177), ('Last of the Summer Wine', 181, 204), ('His lugubrious world-weary face', 206, 237), ('a staple', 242, 250), ('British television', 254, 272), ('forty years', 277, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NN', ',', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'CC', '``', 'JJ', "''", 'NNP', 'IN', 'JJ', 'IN', 'DT', 'NNP', 'NNP', '.', 'PRP$', 'JJ', 'NN', 'HYPH', 'JJ', 'NN', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'NN', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

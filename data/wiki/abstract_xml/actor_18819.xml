@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marguerite Moreno</title>
+<link/>https://en.wikipedia.org/wiki/Marguerite_Moreno
+<annotated>0</annotated>
+<originalabstract>Marguerite Moreno (15 September 1871, Paris - 14 July 1948, Touzac, Lot) was a French stage and film actress, born Lucie Marie Marguerite Monceau.
+On 12 September 1900, in England, she married the writer Marcel Schwob,  whom she had met in 1895. In 1905 he died of pneumonia while Marguerite was away on tour.</originalabstract>
+<abstract>Marguerite_Moreno ( 15_September_1871 , Paris - 14 July_1948 , Touzac , Lot ) was a_French_stage_and_film_actress , born Lucie_Marie_Marguerite_Monceau . On 12_September_1900 , in England , she married the_writer_Marcel_Schwob , whom she had_met in 1895 . In 1905 he died of pneumonia while Marguerite was away on tour .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marguerite'), (11, 'Moreno'), (18, '('), (19, '15'), (22, 'September'), (32, '1871'), (36, ','), (38, 'Paris'), (44, '-'), (46, '14'), (49, 'July'), (54, '1948'), (58, ','), (60, 'Touzac'), (66, ','), (68, 'Lot'), (71, ')'), (73, 'was'), (77, 'a'), (79, 'French'), (86, 'stage'), (92, 'and'), (96, 'film'), (101, 'actress'), (108, ','), (110, 'born'), (115, 'Lucie'), (121, 'Marie'), (127, 'Marguerite'), (138, 'Monceau'), (145, '.'), (147, 'On'), (150, '12'), (153, 'September'), (163, '1900'), (167, ','), (169, 'in'), (172, 'England'), (179, ','), (181, 'she'), (185, 'married'), (193, 'the'), (197, 'writer'), (204, 'Marcel'), (211, 'Schwob'), (217, ','), (220, 'whom'), (225, 'she'), (229, 'had'), (233, 'met'), (237, 'in'), (240, '1895'), (244, '.'), (246, 'In'), (249, '1905'), (254, 'he'), (257, 'died'), (262, 'of'), (265, 'pneumonia'), (275, 'while'), (281, 'Marguerite'), (292, 'was'), (296, 'away'), (301, 'on'), (304, 'tour'), (308, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marguerite Moreno',0, 17), ('15 September 1871',19, 36), ('July 1948',49, 58), ('a French stage and film actress',77, 108), ('Lucie Marie Marguerite Monceau',115, 145), ('12 September 1900',150, 167), ('the writer Marcel Schwob',193, 217), ('had met',229, 236)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', ':', 'CD', 'NNP', 'CD', ',', 'NNP', ',', 'NN', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'IN', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', ',', 'PRP', 'VBD', 'DT', 'NN', 'NNP', 'NNP', ',', 'WP', 'PRP', 'VBD', 'VBN', 'IN', 'CD', '.', 'IN', 'CD', 'PRP', 'VBD', 'IN', 'NN', 'IN', 'NNP', 'VBD', 'RB', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marguerite'), (11, 'Moreno'), (18, '('), (19, '15'), (22, 'September'), (32, '1871'), (36, ','), (38, 'Paris'), (44, '-'), (46, '14'), (49, 'July'), (54, '1948'), (58, ','), (60, 'Touzac'), (66, ','), (68, 'Lot'), (71, ')'), (73, 'was'), (77, 'a'), (79, 'French'), (86, 'stage'), (92, 'and'), (96, 'film'), (101, 'actress'), (108, ','), (110, 'born'), (115, 'Lucie'), (121, 'Marie'), (127, 'Marguerite'), (138, 'Monceau'), (145, '.'), (147, 'On'), (150, '12'), (153, 'September'), (163, '1900'), (167, ','), (169, 'in'), (172, 'England'), (179, ','), (181, 'she'), (185, 'married'), (193, 'the'), (197, 'writer'), (204, 'Marcel'), (211, 'Schwob'), (217, ','), (220, 'whom'), (225, 'she'), (229, 'had'), (233, 'met'), (237, 'in'), (240, '1895'), (244, '.'), (246, 'In'), (249, '1905'), (254, 'he'), (257, 'died'), (262, 'of'), (265, 'pneumonia'), (275, 'while'), (281, 'Marguerite'), (292, 'was'), (296, 'away'), (301, 'on'), (304, 'tour'), (308, '.')])</spacy_tokens>
+<spacy_chunks>[('Marguerite Moreno', 0, 17), ('15 September 1871', 19, 36), ('14 July 1948', 46, 58), ('Touzac, Lot', 60, 71), ('a French stage and film actress', 77, 108), ('born Lucie Marie Marguerite Monceau', 110, 145), ('12 September 1900', 150, 167), ('England', 172, 179), ('the writer', 193, 203), ('Marcel Schwob', 204, 217), ('pneumonia', 265, 274)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', 'HYPH', 'CD', 'NNP', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'IN', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', ',', 'PRP', 'VBD', 'DT', 'NN', 'NNP', 'NNP', ',', 'WP', 'PRP', 'VBD', 'VBN', 'IN', 'CD', '.', 'IN', 'CD', 'PRP', 'VBD', 'IN', 'NN', 'IN', 'NNP', 'VBD', 'RB', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phillip Reed</title>
+<link/>https://en.wikipedia.org/wiki/Phillip_Reed
+<annotated>0</annotated>
+<originalabstract>For similarly named individuals, see Phil Reid (disambiguation).Phillip Reed (March 25, 1908 – December 7, 1996) was an American actor. He was perhaps best known for his role as Steve Wilson in a series of four films (1947–1948) based on the Big Town radio series.</originalabstract>
+<abstract>For similarly_named_individuals , see Phil_Reid ( disambiguation ) . Phillip_Reed ( March_25_,_1908 – December_7_,_1996_) was an_American_actor . He was_perhaps_best_known for his_role as Steve_Wilson in a_series of four_films ( 1947 – 1948_) based on the_Big_Town_radio_series .</abstract>
+<stanford_tokens>OrderedDict([(0, 'For'), (4, 'similarly'), (14, 'named'), (20, 'individuals'), (31, ','), (33, 'see'), (37, 'Phil'), (42, 'Reid'), (47, '('), (48, 'disambiguation'), (62, ')'), (63, '.'), (64, 'Phillip'), (72, 'Reed'), (77, '('), (78, 'March'), (84, '25'), (86, ','), (88, '1908'), (93, '–'), (95, 'December'), (104, '7'), (105, ','), (107, '1996'), (111, ')'), (113, 'was'), (117, 'an'), (120, 'American'), (129, 'actor'), (134, '.'), (136, 'He'), (139, 'was'), (143, 'perhaps'), (151, 'best'), (156, 'known'), (162, 'for'), (166, 'his'), (170, 'role'), (175, 'as'), (178, 'Steve'), (184, 'Wilson'), (191, 'in'), (194, 'a'), (196, 'series'), (203, 'of'), (206, 'four'), (211, 'films'), (217, '('), (218, '1947'), (222, '–'), (223, '1948'), (227, ')'), (229, 'based'), (235, 'on'), (238, 'the'), (242, 'Big'), (246, 'Town'), (251, 'radio'), (257, 'series'), (263, '.')])</stanford_tokens>
+<opennlp_chunks>[('similarly named individuals',4, 31), ('Phil Reid',37, 46), ('Phillip Reed',64, 76), ('March 25, 1908',78, 92), ('December 7, 1996)',95, 112), ('an American actor',117, 134), ('was perhaps best known',139, 161), ('his role',166, 174), ('Steve Wilson',178, 190), ('a series',194, 202), ('four films',206, 216), ('1948)',223, 228), ('the Big Town radio series',238, 263)]</opennlp_chunks>
+<stanford_pos>['IN', 'RB', 'VBN', 'NNS', ',', 'VBP', 'NNP', 'NNP', '-LRB-', 'NN', '-RRB-', '.', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'CD', 'NNS', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'For'), (4, 'similarly'), (14, 'named'), (20, 'individuals'), (31, ','), (33, 'see'), (37, 'Phil'), (42, 'Reid'), (47, '('), (48, 'disambiguation).Phillip'), (72, 'Reed'), (77, '('), (78, 'March'), (84, '25'), (86, ','), (88, '1908'), (93, '–'), (95, 'December'), (104, '7'), (105, ','), (107, '1996'), (111, ')'), (113, 'was'), (117, 'an'), (120, 'American'), (129, 'actor'), (134, '.'), (136, 'He'), (139, 'was'), (143, 'perhaps'), (151, 'best'), (156, 'known'), (162, 'for'), (166, 'his'), (170, 'role'), (175, 'as'), (178, 'Steve'), (184, 'Wilson'), (191, 'in'), (194, 'a'), (196, 'series'), (203, 'of'), (206, 'four'), (211, 'films'), (217, '('), (218, '1947–1948'), (227, ')'), (229, 'based'), (235, 'on'), (238, 'the'), (242, 'Big'), (246, 'Town'), (251, 'radio'), (257, 'series'), (263, '.')])</spacy_tokens>
+<spacy_chunks>[('similarly named individuals', 4, 31), ('Phil Reid (disambiguation)', 37, 63), ('disambiguation).Phillip Reed', 48, 76), ('March 25, 1908', 78, 92), ('December 7, 1996', 95, 111), ('an American actor', 117, 134), ('his role', 166, 174), ('Steve Wilson', 178, 190), ('a series', 194, 202), ('four films', 206, 216), ('the Big Town radio series', 238, 263)]</spacy_chunks>
+<spacy_pos>['IN', 'RB', 'VBN', 'NNS', ',', 'VB', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'CD', 'NNS', '-LRB-', 'CD', '-RRB-', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

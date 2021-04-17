@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Susan Backlinie</title>
+<link/>https://en.wikipedia.org/wiki/Susan_Backlinie
+<annotated>0</annotated>
+<originalabstract>Susan Backlinie (born Susan Jane Swindall on September 1, 1946) is a former actress and stuntwoman. She is known for her role as Chrissie Watkins, the first shark victim in Steven Spielberg's blockbuster Jaws (1975).</originalabstract>
+<abstract>Susan_Backlinie ( born Susan_Jane_Swindall on September_1_,_1946 ) is a_former_actress_and_stuntwoman . She is_known for her_role as Chrissie_Watkins , the_first_shark_victim in Steven_Spielberg 's_blockbuster_Jaws_(_1975_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Susan'), (6, 'Backlinie'), (16, '('), (17, 'born'), (22, 'Susan'), (28, 'Jane'), (33, 'Swindall'), (42, 'on'), (45, 'September'), (55, '1'), (56, ','), (58, '1946'), (62, ')'), (64, 'is'), (67, 'a'), (69, 'former'), (76, 'actress'), (84, 'and'), (88, 'stuntwoman'), (98, '.'), (100, 'She'), (104, 'is'), (107, 'known'), (113, 'for'), (117, 'her'), (121, 'role'), (126, 'as'), (129, 'Chrissie'), (138, 'Watkins'), (145, ','), (147, 'the'), (151, 'first'), (157, 'shark'), (163, 'victim'), (170, 'in'), (173, 'Steven'), (180, 'Spielberg'), (189, '\'s'), (192, 'blockbuster'), (204, 'Jaws'), (209, '('), (210, '1975'), (214, ')'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Susan Backlinie',0, 15), ('Susan Jane Swindall',22, 41), ('September 1, 1946',45, 62), ('a former actress and stuntwoman',67, 98), ('is known',104, 112), ('her role',117, 125), ('Chrissie Watkins',129, 145), ('the first shark victim',147, 169), ('Steven Spielberg',173, 189), ('\'s blockbuster Jaws (1975)',189, 215)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Susan'), (6, 'Backlinie'), (16, '('), (17, 'born'), (22, 'Susan'), (28, 'Jane'), (33, 'Swindall'), (42, 'on'), (45, 'September'), (55, '1'), (56, ','), (58, '1946'), (62, ')'), (64, 'is'), (67, 'a'), (69, 'former'), (76, 'actress'), (84, 'and'), (88, 'stuntwoman'), (98, '.'), (100, 'She'), (104, 'is'), (107, 'known'), (113, 'for'), (117, 'her'), (121, 'role'), (126, 'as'), (129, 'Chrissie'), (138, 'Watkins'), (145, ','), (147, 'the'), (151, 'first'), (157, 'shark'), (163, 'victim'), (170, 'in'), (173, 'Steven'), (180, 'Spielberg'), (189, "'s"), (192, 'blockbuster'), (204, 'Jaws'), (209, '('), (210, '1975'), (214, ')'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Susan Backlinie', 0, 15), ('Susan Jane Swindall', 22, 41), ('September 1, 1946', 45, 62), ('a former actress', 67, 83), ('stuntwoman', 88, 98), ('her role', 117, 125), ('Chrissie Watkins', 129, 145), ('the first shark victim', 147, 169), ("Steven Spielberg's blockbuster Jaws", 173, 208)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

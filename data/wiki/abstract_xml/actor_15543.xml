@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paula Tiso</title>
+<link/>https://en.wikipedia.org/wiki/Paula_Tiso
+<annotated>0</annotated>
+<originalabstract>Paula Tiso is an American voice actress who is best known as the English voice of Lulu in Final Fantasy X and Final Fantasy X-2.
+She also has voiced many TV and radio commercials and promos.
+She is married to fellow voice actor Paul Mercier, who is best known for his role of Leon S. Kennedy in Resident Evil 4.</originalabstract>
+<abstract>Paula_Tiso is an_American_voice_actress who is_best_known as the_English_voice of Lulu in Final_Fantasy_X_and_Final_Fantasy_X-2 . She also has_voiced many_TV_and_radio_commercials_and_promos . She is_married to fellow_voice_actor_Paul_Mercier , who is_best_known for his_role of Leon_S._Kennedy in Resident_Evil_4 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paula'), (6, 'Tiso'), (11, 'is'), (14, 'an'), (17, 'American'), (26, 'voice'), (32, 'actress'), (40, 'who'), (44, 'is'), (47, 'best'), (52, 'known'), (58, 'as'), (61, 'the'), (65, 'English'), (73, 'voice'), (79, 'of'), (82, 'Lulu'), (87, 'in'), (90, 'Final'), (96, 'Fantasy'), (104, 'X'), (106, 'and'), (110, 'Final'), (116, 'Fantasy'), (124, 'X-2'), (127, '.'), (129, 'She'), (133, 'also'), (138, 'has'), (142, 'voiced'), (149, 'many'), (154, 'TV'), (157, 'and'), (161, 'radio'), (167, 'commercials'), (179, 'and'), (183, 'promos'), (189, '.'), (191, 'She'), (195, 'is'), (198, 'married'), (206, 'to'), (209, 'fellow'), (216, 'voice'), (222, 'actor'), (228, 'Paul'), (233, 'Mercier'), (240, ','), (242, 'who'), (246, 'is'), (249, 'best'), (254, 'known'), (260, 'for'), (264, 'his'), (268, 'role'), (273, 'of'), (276, 'Leon'), (281, 'S.'), (284, 'Kennedy'), (292, 'in'), (295, 'Resident'), (304, 'Evil'), (309, '4'), (310, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paula Tiso',0, 10), ('an American voice actress',14, 39), ('is best known',44, 57), ('the English voice',61, 78), ('Final Fantasy X and Final Fantasy X-2',90, 127), ('has voiced',138, 148), ('many TV and radio commercials and promos',149, 189), ('is married',195, 205), ('fellow voice actor Paul Mercier',209, 240), ('is best known',246, 259), ('his role',264, 272), ('Leon S. Kennedy',276, 291), ('Resident Evil 4',295, 310)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'JJ', 'NNP', 'NN', 'CC', 'JJ', 'NNP', 'NN', '.', 'PRP', 'RB', 'VBZ', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBZ', 'VBN', 'TO', 'JJ', 'NN', 'NN', 'NNP', 'NNP', ',', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paula'), (6, 'Tiso'), (11, 'is'), (14, 'an'), (17, 'American'), (26, 'voice'), (32, 'actress'), (40, 'who'), (44, 'is'), (47, 'best'), (52, 'known'), (58, 'as'), (61, 'the'), (65, 'English'), (73, 'voice'), (79, 'of'), (82, 'Lulu'), (87, 'in'), (90, 'Final'), (96, 'Fantasy'), (104, 'X'), (106, 'and'), (110, 'Final'), (116, 'Fantasy'), (124, 'X-2'), (127, '.'), (129, 'She'), (133, 'also'), (138, 'has'), (142, 'voiced'), (149, 'many'), (154, 'TV'), (157, 'and'), (161, 'radio'), (167, 'commercials'), (179, 'and'), (183, 'promos'), (189, '.'), (191, 'She'), (195, 'is'), (198, 'married'), (206, 'to'), (209, 'fellow'), (216, 'voice'), (222, 'actor'), (228, 'Paul'), (233, 'Mercier'), (240, ','), (242, 'who'), (246, 'is'), (249, 'best'), (254, 'known'), (260, 'for'), (264, 'his'), (268, 'role'), (273, 'of'), (276, 'Leon'), (281, 'S.'), (284, 'Kennedy'), (292, 'in'), (295, 'Resident'), (304, 'Evil'), (309, '4'), (310, '.')])</spacy_tokens>
+<spacy_chunks>[('Paula Tiso', 0, 10), ('an American voice actress', 14, 39), ('the English voice', 61, 78), ('Final Fantasy X', 90, 105), ('Final Fantasy X-2', 110, 127), ('many TV and radio commercials', 149, 178), ('promos', 183, 189), ('fellow voice actor Paul Mercier', 209, 240), ('his role', 264, 272), ('Leon S. Kennedy', 276, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBZ', 'RBS', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NN', '.', 'PRP', 'RB', 'VBZ', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBZ', 'JJ', 'IN', 'JJ', 'NN', 'NN', 'NNP', 'NNP', ',', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

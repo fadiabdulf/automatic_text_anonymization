@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Grace Arnold</title>
+<link/>https://en.wikipedia.org/wiki/Grace_Arnold
+<annotated>0</annotated>
+<originalabstract>Grace Arnold (19 September 1894 – 26 February 1979) was an English actress. Her first film was Men Without Honour in 1939, where she starred opposite an actor named Ian Fleming.</originalabstract>
+<abstract>Grace_Arnold ( 19_September_1894 – 26_February_1979 ) was an_English_actress . Her_first_film was Men Without Honour in 1939 , where she starred opposite an_actor named Ian_Fleming .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Grace'), (6, 'Arnold'), (13, '('), (14, '19'), (17, 'September'), (27, '1894'), (32, '–'), (34, '26'), (37, 'February'), (46, '1979'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'English'), (67, 'actress'), (74, '.'), (76, 'Her'), (80, 'first'), (86, 'film'), (91, 'was'), (95, 'Men'), (99, 'Without'), (107, 'Honour'), (114, 'in'), (117, '1939'), (121, ','), (123, 'where'), (129, 'she'), (133, 'starred'), (141, 'opposite'), (150, 'an'), (153, 'actor'), (159, 'named'), (165, 'Ian'), (169, 'Fleming'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Grace Arnold',0, 12), ('19 September 1894',14, 31), ('26 February 1979',34, 50), ('an English actress',56, 74), ('Her first film',76, 90), ('an actor',150, 158), ('Ian Fleming',165, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'JJ', 'NN', 'VBD', 'NN', 'IN', 'NNP', 'IN', 'CD', ',', 'WRB', 'PRP', 'VBD', 'JJ', 'DT', 'NN', 'VBN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Grace'), (6, 'Arnold'), (13, '('), (14, '19'), (17, 'September'), (27, '1894'), (32, '–'), (34, '26'), (37, 'February'), (46, '1979'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'English'), (67, 'actress'), (74, '.'), (76, 'Her'), (80, 'first'), (86, 'film'), (91, 'was'), (95, 'Men'), (99, 'Without'), (107, 'Honour'), (114, 'in'), (117, '1939'), (121, ','), (123, 'where'), (129, 'she'), (133, 'starred'), (141, 'opposite'), (150, 'an'), (153, 'actor'), (159, 'named'), (165, 'Ian'), (169, 'Fleming'), (176, '.')])</spacy_tokens>
+<spacy_chunks>[('Grace Arnold', 0, 12), ('19 September 1894', 14, 31), ('26 February 1979', 34, 50), ('an English actress', 56, 74), ('Her first film', 76, 90), ('Men Without Honour', 95, 113), ('an actor', 150, 158)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'JJ', 'NN', 'VBD', 'NNP', 'IN', 'NN', 'IN', 'CD', ',', 'WRB', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'VBN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

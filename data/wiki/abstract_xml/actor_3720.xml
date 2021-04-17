@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fuzzy Knight</title>
+<link/>https://en.wikipedia.org/wiki/Fuzzy_Knight
+<annotated>0</annotated>
+<originalabstract>John Forrest "Fuzzy" Knight (May 9, 1901 – February 23, 1976) was an American film and television actor. He was also a singer, especially in his early career. He appeared in more than 180 films between 1928 and 1967, usually as a cowboy hero's comic sidekick.</originalabstract>
+<abstract>John_Forrest_"_Fuzzy_"_Knight ( May_9_,_1901 – February_23_,_1976 ) was an_American_film_and_television_actor . He was also a_singer , especially in his_early_career . He appeared in more_than_180_films between 1928_and_1967 , usually as a_cowboy_hero 's_comic_sidekick .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Forrest'), (13, '"'), (14, 'Fuzzy'), (19, '"'), (21, 'Knight'), (28, '('), (29, 'May'), (33, '9'), (34, ','), (36, '1901'), (41, '–'), (43, 'February'), (52, '23'), (54, ','), (56, '1976'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'film'), (83, 'and'), (87, 'television'), (98, 'actor'), (103, '.'), (105, 'He'), (108, 'was'), (112, 'also'), (117, 'a'), (119, 'singer'), (125, ','), (127, 'especially'), (138, 'in'), (141, 'his'), (145, 'early'), (151, 'career'), (157, '.'), (159, 'He'), (162, 'appeared'), (171, 'in'), (174, 'more'), (179, 'than'), (184, '180'), (188, 'films'), (194, 'between'), (202, '1928'), (207, 'and'), (211, '1967'), (215, ','), (217, 'usually'), (225, 'as'), (228, 'a'), (230, 'cowboy'), (237, 'hero'), (241, '\'s'), (244, 'comic'), (250, 'sidekick'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Forrest "Fuzzy" Knight',0, 27), ('May 9, 1901',29, 40), ('February 23, 1976',43, 60), ('an American film and television actor',66, 103), ('a singer',117, 125), ('his early career',141, 157), ('more than 180 films',174, 193), ('1928 and 1967',202, 215), ('a cowboy hero',228, 241), ('\'s comic sidekick',241, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', ',', 'RB', 'IN', 'PRP$', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'IN', 'DT', 'NN', 'NN', 'POS', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Forrest'), (13, '"'), (14, 'Fuzzy'), (19, '"'), (21, 'Knight'), (28, '('), (29, 'May'), (33, '9'), (34, ','), (36, '1901'), (41, '–'), (43, 'February'), (52, '23'), (54, ','), (56, '1976'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'film'), (83, 'and'), (87, 'television'), (98, 'actor'), (103, '.'), (105, 'He'), (108, 'was'), (112, 'also'), (117, 'a'), (119, 'singer'), (125, ','), (127, 'especially'), (138, 'in'), (141, 'his'), (145, 'early'), (151, 'career'), (157, '.'), (159, 'He'), (162, 'appeared'), (171, 'in'), (174, 'more'), (179, 'than'), (184, '180'), (188, 'films'), (194, 'between'), (202, '1928'), (207, 'and'), (211, '1967'), (215, ','), (217, 'usually'), (225, 'as'), (228, 'a'), (230, 'cowboy'), (237, 'hero'), (241, "'s"), (244, 'comic'), (250, 'sidekick'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('John Forrest', 0, 12), ('"Fuzzy" Knight', 13, 27), ('May 9, 1901', 29, 40), ('February 23, 1976', 43, 60), ('an American film and television actor', 66, 103), ('a singer', 117, 125), ('his early career', 141, 157), ('more than 180 films', 174, 193), ("a cowboy hero's comic sidekick", 228, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', ',', 'RB', 'IN', 'PRP$', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'IN', 'DT', 'JJ', 'NN', 'POS', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

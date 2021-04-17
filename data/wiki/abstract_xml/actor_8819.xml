@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peter Murray-Hill</title>
+<link/>https://en.wikipedia.org/wiki/Peter_Murray-Hill
+<annotated>0</annotated>
+<originalabstract>Peter Auriol Murray Hill (20 April 1908 – 25 November 1957) was an English actor, and publisher  He was married to the actress Phyllis Calvert from 1941 until his death.</originalabstract>
+<abstract>Peter_Auriol_Murray_Hill ( 20_April_1908 – 25_November_1957 ) was an_English_actor , and publisher He was_married to the_actress_Phyllis_Calvert from 1941 until his_death .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peter'), (6, 'Auriol'), (13, 'Murray'), (20, 'Hill'), (25, '('), (26, '20'), (29, 'April'), (35, '1908'), (40, '–'), (42, '25'), (45, 'November'), (54, '1957'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'English'), (75, 'actor'), (80, ','), (82, 'and'), (86, 'publisher'), (97, 'He'), (100, 'was'), (104, 'married'), (112, 'to'), (115, 'the'), (119, 'actress'), (127, 'Phyllis'), (135, 'Calvert'), (143, 'from'), (148, '1941'), (153, 'until'), (159, 'his'), (163, 'death'), (168, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peter Auriol Murray Hill',0, 24), ('20 April 1908',26, 39), ('25 November 1957',42, 58), ('an English actor',64, 80), ('was married',100, 111), ('the actress Phyllis Calvert',115, 142), ('his death',159, 168)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'CC', 'NN', 'PRP', 'VBD', 'VBN', 'TO', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peter'), (6, 'Auriol'), (13, 'Murray'), (20, 'Hill'), (25, '('), (26, '20'), (29, 'April'), (35, '1908'), (40, '–'), (42, '25'), (45, 'November'), (54, '1957'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'English'), (75, 'actor'), (80, ','), (82, 'and'), (86, 'publisher'), (97, 'He'), (100, 'was'), (104, 'married'), (112, 'to'), (115, 'the'), (119, 'actress'), (127, 'Phyllis'), (135, 'Calvert'), (143, 'from'), (148, '1941'), (153, 'until'), (159, 'his'), (163, 'death'), (168, '.')])</spacy_tokens>
+<spacy_chunks>[('Peter Auriol Murray Hill', 0, 24), ('20 April 1908', 26, 39), ('25 November 1957', 42, 58), ('an English actor', 64, 80), ('publisher', 86, 95), ('the actress', 115, 126), ('Phyllis Calvert', 127, 142), ('his death', 159, 168)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'CC', 'NN', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>José Riesgo</title>
+<link/>https://en.wikipedia.org/wiki/Jos%C3%A9_Riesgo
+<annotated>0</annotated>
+<originalabstract>José Riesgo (8 September 1919 - 16 May 2002) was a Spanish actor. After fighting in the Spanish Civil War for the Spanish Republican Army, he began acting in 1943. He played Julián in Barrio Sésamo. He died on 16 May 2002.</originalabstract>
+<abstract>José_Riesgo ( 8_September_1919 - 16 May_2002 ) was a_Spanish_actor . After fighting in the_Spanish_Civil_War for the_Spanish_Republican_Army , he began_acting in 1943 . He played Julián in Barrio_Sésamo . He died on 16_May_2002 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'José'), (5, 'Riesgo'), (12, '('), (13, '8'), (15, 'September'), (25, '1919'), (30, '-'), (32, '16'), (35, 'May'), (39, '2002'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'Spanish'), (59, 'actor'), (64, '.'), (66, 'After'), (72, 'fighting'), (81, 'in'), (84, 'the'), (88, 'Spanish'), (96, 'Civil'), (102, 'War'), (106, 'for'), (110, 'the'), (114, 'Spanish'), (122, 'Republican'), (133, 'Army'), (137, ','), (139, 'he'), (142, 'began'), (148, 'acting'), (155, 'in'), (158, '1943'), (162, '.'), (164, 'He'), (167, 'played'), (174, 'Julián'), (181, 'in'), (184, 'Barrio'), (191, 'Sésamo'), (197, '.'), (199, 'He'), (202, 'died'), (207, 'on'), (210, '16'), (213, 'May'), (217, '2002'), (221, '.')])</stanford_tokens>
+<opennlp_chunks>[('José Riesgo',0, 11), ('8 September 1919',13, 29), ('May 2002',35, 43), ('a Spanish actor',49, 64), ('the Spanish Civil War',84, 105), ('the Spanish Republican Army',110, 137), ('began acting',142, 154), ('Barrio Sésamo',184, 197), ('16 May 2002',210, 221)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'VBG', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'JJ', 'NNP', ',', 'PRP', 'VBD', 'VBG', 'IN', 'CD', '.', 'PRP', 'VBD', 'NNP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'José'), (5, 'Riesgo'), (12, '('), (13, '8'), (15, 'September'), (25, '1919'), (30, '-'), (32, '16'), (35, 'May'), (39, '2002'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'Spanish'), (59, 'actor'), (64, '.'), (66, 'After'), (72, 'fighting'), (81, 'in'), (84, 'the'), (88, 'Spanish'), (96, 'Civil'), (102, 'War'), (106, 'for'), (110, 'the'), (114, 'Spanish'), (122, 'Republican'), (133, 'Army'), (137, ','), (139, 'he'), (142, 'began'), (148, 'acting'), (155, 'in'), (158, '1943'), (162, '.'), (164, 'He'), (167, 'played'), (174, 'Julián'), (181, 'in'), (184, 'Barrio'), (191, 'Sésamo'), (197, '.'), (199, 'He'), (202, 'died'), (207, 'on'), (210, '16'), (213, 'May'), (217, '2002'), (221, '.')])</spacy_tokens>
+<spacy_chunks>[('José Riesgo', 0, 11), ('8 September 1919', 13, 29), ('16 May 2002', 32, 43), ('a Spanish actor', 49, 64), ('the Spanish Civil War', 84, 105), ('the Spanish Republican Army', 110, 137), ('Julián', 174, 180), ('Barrio Sésamo', 184, 197), ('16 May 2002', 210, 221)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'VBG', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'VBG', 'IN', 'CD', '.', 'PRP', 'VBD', 'NNP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

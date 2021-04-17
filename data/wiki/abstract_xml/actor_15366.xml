@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marcia Strassman</title>
+<link/>https://en.wikipedia.org/wiki/Marcia_Strassman
+<annotated>0</annotated>
+<originalabstract>Marcia Ann Strassman (April 28, 1948 – October 24, 2014) was an American actress and singer, best known for her roles as Nurse Margie Cutler on M*A*S*H, as Julie Kotter on Welcome Back, Kotter, and as Diane Szalinski in the film Honey, I Shrunk the Kids (1989).</originalabstract>
+<abstract>Marcia_Ann_Strassman ( April_28_,_1948 – October_24_,_2014 ) was an_American_actress_and_singer , best_known for her_roles as Nurse_Margie_Cutler on M * A_*_S_*_H , as Julie_Kotter on Welcome_Back , Kotter , and as Diane_Szalinski in the_film_Honey , I Shrunk the_Kids ( 1989 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marcia'), (7, 'Ann'), (11, 'Strassman'), (21, '('), (22, 'April'), (28, '28'), (30, ','), (32, '1948'), (37, '–'), (39, 'October'), (47, '24'), (49, ','), (51, '2014'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actress'), (81, 'and'), (85, 'singer'), (91, ','), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'her'), (112, 'roles'), (118, 'as'), (121, 'Nurse'), (127, 'Margie'), (134, 'Cutler'), (141, 'on'), (144, 'M'), (145, '*'), (146, 'A'), (147, '*'), (148, 'S'), (149, '*'), (150, 'H'), (151, ','), (153, 'as'), (156, 'Julie'), (162, 'Kotter'), (169, 'on'), (172, 'Welcome'), (180, 'Back'), (184, ','), (186, 'Kotter'), (192, ','), (194, 'and'), (198, 'as'), (201, 'Diane'), (207, 'Szalinski'), (217, 'in'), (220, 'the'), (224, 'film'), (229, 'Honey'), (234, ','), (236, 'I'), (238, 'Shrunk'), (245, 'the'), (249, 'Kids'), (254, '('), (255, '1989'), (259, ')'), (260, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marcia Ann Strassman',0, 20), ('April 28, 1948',22, 36), ('October 24, 2014',39, 55), ('an American actress and singer',61, 91), ('best known',93, 103), ('her roles',108, 117), ('Nurse Margie Cutler',121, 140), ('A*S*H',146, 151), ('Julie Kotter',156, 168), ('Welcome Back',172, 184), ('Diane Szalinski',201, 216), ('the film Honey',220, 234), ('the Kids',245, 253)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'NN', 'SYM', 'DT', 'SYM', 'NN', 'SYM', 'NN', ',', 'IN', 'NNP', 'NNP', 'IN', 'UH', 'RB', ',', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', ',', 'PRP', 'VBP', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marcia'), (7, 'Ann'), (11, 'Strassman'), (21, '('), (22, 'April'), (28, '28'), (30, ','), (32, '1948'), (37, '–'), (39, 'October'), (47, '24'), (49, ','), (51, '2014'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actress'), (81, 'and'), (85, 'singer'), (91, ','), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'her'), (112, 'roles'), (118, 'as'), (121, 'Nurse'), (127, 'Margie'), (134, 'Cutler'), (141, 'on'), (144, 'M*A*S*H'), (151, ','), (153, 'as'), (156, 'Julie'), (162, 'Kotter'), (169, 'on'), (172, 'Welcome'), (180, 'Back'), (184, ','), (186, 'Kotter'), (192, ','), (194, 'and'), (198, 'as'), (201, 'Diane'), (207, 'Szalinski'), (217, 'in'), (220, 'the'), (224, 'film'), (229, 'Honey'), (234, ','), (236, 'I'), (238, 'Shrunk'), (245, 'the'), (249, 'Kids'), (254, '('), (255, '1989'), (259, ')'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('Marcia Ann Strassman', 0, 20), ('April 28, 1948', 22, 36), ('October 24, 2014', 39, 55), ('an American actress', 61, 80), ('singer', 85, 91), ('her roles', 108, 117), ('Nurse Margie Cutler', 121, 140), ('M*A*S*H', 144, 151), ('Julie Kotter', 156, 168), ('Welcome Back, Kotter', 172, 192), ('Diane Szalinski', 201, 216), ('the film', 220, 228), ('Honey, I Shrunk the Kids', 229, 253)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'ADD', ',', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'RP', ',', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', ',', 'PRP', 'VBP', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

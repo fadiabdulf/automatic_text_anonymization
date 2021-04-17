@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sally Mortemore</title>
+<link/>https://en.wikipedia.org/wiki/Sally_Mortemore
+<annotated>0</annotated>
+<originalabstract>Sally Mortemore is an English stage, film and television actress. She appeared in Harry Potter and the Chamber of Secrets, where she played Madame Pince, the librarian of Hogwarts.</originalabstract>
+<abstract>Sally_Mortemore is an_English_stage , film_and_television_actress . She appeared in Harry_Potter and the_Chamber of Secrets , where she played Madame_Pince , the_librarian of Hogwarts .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sally'), (6, 'Mortemore'), (16, 'is'), (19, 'an'), (22, 'English'), (30, 'stage'), (35, ','), (37, 'film'), (42, 'and'), (46, 'television'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'appeared'), (79, 'in'), (82, 'Harry'), (88, 'Potter'), (95, 'and'), (99, 'the'), (103, 'Chamber'), (111, 'of'), (114, 'Secrets'), (121, ','), (123, 'where'), (129, 'she'), (133, 'played'), (140, 'Madame'), (147, 'Pince'), (152, ','), (154, 'the'), (158, 'librarian'), (168, 'of'), (171, 'Hogwarts'), (179, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sally Mortemore',0, 15), ('an English stage',19, 35), ('film and television actress',37, 64), ('Harry Potter',82, 94), ('the Chamber',99, 110), ('Madame Pince',140, 152), ('the librarian',154, 167)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'IN', 'NNS', ',', 'WRB', 'PRP', 'VBD', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sally'), (6, 'Mortemore'), (16, 'is'), (19, 'an'), (22, 'English'), (30, 'stage'), (35, ','), (37, 'film'), (42, 'and'), (46, 'television'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'appeared'), (79, 'in'), (82, 'Harry'), (88, 'Potter'), (95, 'and'), (99, 'the'), (103, 'Chamber'), (111, 'of'), (114, 'Secrets'), (121, ','), (123, 'where'), (129, 'she'), (133, 'played'), (140, 'Madame'), (147, 'Pince'), (152, ','), (154, 'the'), (158, 'librarian'), (168, 'of'), (171, 'Hogwarts'), (179, '.')])</spacy_tokens>
+<spacy_chunks>[('Sally Mortemore', 0, 15), ('an English stage', 19, 35), ('television', 46, 56), ('actress', 57, 64), ('Harry Potter and the Chamber of Secrets', 82, 121), ('Madame Pince', 140, 152), ('the librarian', 154, 167), ('Hogwarts', 171, 179)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'IN', 'NNPS', ',', 'WRB', 'PRP', 'VBD', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

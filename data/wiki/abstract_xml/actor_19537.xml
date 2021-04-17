@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mouche Phillips</title>
+<link/>https://en.wikipedia.org/wiki/Mouche_Phillips
+<annotated>0</annotated>
+<originalabstract>Mouche Phillips (born 23 March 1973 in Sydney, Australia) is an Australian actress, voice actress and theatre producer, best known for her television roles as Aviva "Viv" Newton in Home and Away (1989–90) and Eva Sykes in police procedural series Water Rats (2000–01).</originalabstract>
+<abstract>Mouche_Phillips ( born 23_March_1973 in Sydney , Australia ) is an_Australian_actress , voice_actress_and_theatre_producer , best_known for her_television_roles as Aviva_"_Viv_"_Newton in Home_and_Away ( 1989 – 90 ) and Eva_Sykes in police_procedural_series_Water_Rats ( 2000 – 01 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mouche'), (7, 'Phillips'), (16, '('), (17, 'born'), (22, '23'), (25, 'March'), (31, '1973'), (36, 'in'), (39, 'Sydney'), (45, ','), (47, 'Australia'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'Australian'), (75, 'actress'), (82, ','), (84, 'voice'), (90, 'actress'), (98, 'and'), (102, 'theatre'), (110, 'producer'), (118, ','), (120, 'best'), (125, 'known'), (131, 'for'), (135, 'her'), (139, 'television'), (150, 'roles'), (156, 'as'), (159, 'Aviva'), (165, '"'), (166, 'Viv'), (169, '"'), (171, 'Newton'), (178, 'in'), (181, 'Home'), (186, 'and'), (190, 'Away'), (195, '('), (196, '1989'), (200, '–'), (201, '90'), (203, ')'), (205, 'and'), (209, 'Eva'), (213, 'Sykes'), (219, 'in'), (222, 'police'), (229, 'procedural'), (240, 'series'), (247, 'Water'), (253, 'Rats'), (258, '('), (259, '2000'), (263, '–'), (264, '01'), (266, ')'), (267, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mouche Phillips',0, 15), ('23 March 1973',22, 35), ('an Australian actress',61, 82), ('voice actress and theatre producer',84, 118), ('best known',120, 130), ('her television roles',135, 155), ('Aviva "Viv" Newton',159, 177), ('Home and Away',181, 194), ('Eva Sykes',209, 218), ('police procedural series Water Rats',222, 257)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'NNP', 'CC', 'RB', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'NN', 'JJ', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mouche'), (7, 'Phillips'), (16, '('), (17, 'born'), (22, '23'), (25, 'March'), (31, '1973'), (36, 'in'), (39, 'Sydney'), (45, ','), (47, 'Australia'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'Australian'), (75, 'actress'), (82, ','), (84, 'voice'), (90, 'actress'), (98, 'and'), (102, 'theatre'), (110, 'producer'), (118, ','), (120, 'best'), (125, 'known'), (131, 'for'), (135, 'her'), (139, 'television'), (150, 'roles'), (156, 'as'), (159, 'Aviva'), (165, '"'), (166, 'Viv'), (169, '"'), (171, 'Newton'), (178, 'in'), (181, 'Home'), (186, 'and'), (190, 'Away'), (195, '('), (196, '1989–90'), (203, ')'), (205, 'and'), (209, 'Eva'), (213, 'Sykes'), (219, 'in'), (222, 'police'), (229, 'procedural'), (240, 'series'), (247, 'Water'), (253, 'Rats'), (258, '('), (259, '2000–01'), (266, ')'), (267, '.')])</spacy_tokens>
+<spacy_chunks>[('Mouche Phillips', 0, 15), ('23 March 1973', 22, 35), ('Sydney, Australia', 39, 56), ('an Australian actress', 61, 82), ('voice actress', 84, 97), ('theatre producer', 102, 118), ('her television roles', 135, 155), ('Aviva "Viv" Newton', 159, 177), ('Home and Away', 181, 194), ('Eva Sykes', 209, 218), ('police procedural series', 222, 246), ('Water Rats', 247, 257)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'NNP', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'NN', 'JJ', 'NN', 'NNP', 'NNPS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

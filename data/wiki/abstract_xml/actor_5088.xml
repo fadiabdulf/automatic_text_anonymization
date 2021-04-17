@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brad Oscar</title>
+<link/>https://en.wikipedia.org/wiki/Brad_Oscar
+<annotated>0</annotated>
+<originalabstract>Brad Oscar (born September 22, 1964) is an American musical theatre actor, known for his Broadway performances in musicals such as The Producers and Jekyll and Hyde. He has earned two Tony Award nominations; one for The Producers as Franz Liebkind, and one for Something Rotten! as Nostradamus.</originalabstract>
+<abstract>Brad_Oscar ( born September_22_,_1964 ) is an_American_musical_theatre_actor , known for his_Broadway_performances in musicals such_as The_Producers_and_Jekyll and Hyde . He has_earned two_Tony_Award_nominations ; one for The_Producers as Franz_Liebkind , and one for Something_Rotten ! as Nostradamus .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brad'), (5, 'Oscar'), (11, '('), (12, 'born'), (17, 'September'), (27, '22'), (29, ','), (31, '1964'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'musical'), (60, 'theatre'), (68, 'actor'), (73, ','), (75, 'known'), (81, 'for'), (85, 'his'), (89, 'Broadway'), (98, 'performances'), (111, 'in'), (114, 'musicals'), (123, 'such'), (128, 'as'), (131, 'The'), (135, 'Producers'), (145, 'and'), (149, 'Jekyll'), (156, 'and'), (160, 'Hyde'), (164, '.'), (166, 'He'), (169, 'has'), (173, 'earned'), (180, 'two'), (184, 'Tony'), (189, 'Award'), (195, 'nominations'), (206, ';'), (208, 'one'), (212, 'for'), (216, 'The'), (220, 'Producers'), (230, 'as'), (233, 'Franz'), (239, 'Liebkind'), (247, ','), (249, 'and'), (253, 'one'), (257, 'for'), (261, 'Something'), (271, 'Rotten'), (277, '!'), (279, 'as'), (282, 'Nostradamus'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brad Oscar',0, 10), ('September 22, 1964',17, 35), ('an American musical theatre actor',40, 73), ('his Broadway performances',85, 110), ('such as',123, 130), ('The Producers and Jekyll',131, 155), ('has earned',169, 179), ('two Tony Award nominations',180, 206), ('The Producers',216, 229), ('Franz Liebkind',233, 247), ('Something Rotten',261, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNP', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNPS', 'CC', 'NNP', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'CD', 'NNP', 'NN', 'NNS', ':', 'CD', 'IN', 'DT', 'NNPS', 'IN', 'NNP', 'NNP', ',', 'CC', 'CD', 'IN', 'NN', 'JJ', '.', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brad'), (5, 'Oscar'), (11, '('), (12, 'born'), (17, 'September'), (27, '22'), (29, ','), (31, '1964'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'musical'), (60, 'theatre'), (68, 'actor'), (73, ','), (75, 'known'), (81, 'for'), (85, 'his'), (89, 'Broadway'), (98, 'performances'), (111, 'in'), (114, 'musicals'), (123, 'such'), (128, 'as'), (131, 'The'), (135, 'Producers'), (145, 'and'), (149, 'Jekyll'), (156, 'and'), (160, 'Hyde'), (164, '.'), (166, 'He'), (169, 'has'), (173, 'earned'), (180, 'two'), (184, 'Tony'), (189, 'Award'), (195, 'nominations'), (206, ';'), (208, 'one'), (212, 'for'), (216, 'The'), (220, 'Producers'), (230, 'as'), (233, 'Franz'), (239, 'Liebkind'), (247, ','), (249, 'and'), (253, 'one'), (257, 'for'), (261, 'Something'), (271, 'Rotten'), (277, '!'), (279, 'as'), (282, 'Nostradamus'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('Brad Oscar', 0, 10), ('September 22, 1964', 17, 35), ('an American musical theatre actor', 40, 73), ('his Broadway performances', 85, 110), ('musicals', 114, 122), ('The Producers', 131, 144), ('Jekyll and Hyde', 149, 164), ('two Tony Award nominations', 180, 206), ('Franz Liebkind', 233, 247), ('Something Rotten!', 261, 278), ('Nostradamus', 282, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNP', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNPS', 'CC', 'NNP', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'CD', 'NNP', 'NNP', 'NNS', ':', 'CD', 'IN', 'DT', 'NNPS', 'IN', 'NNP', 'NNP', ',', 'CC', 'CD', 'IN', 'NNP', 'NNP', '.', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

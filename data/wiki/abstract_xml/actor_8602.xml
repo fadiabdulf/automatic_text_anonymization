@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Edward Lexy</title>
+<link/>https://en.wikipedia.org/wiki/Edward_Lexy
+<annotated>0</annotated>
+<originalabstract>Edward Lexy (18 February 1897, in London – 31 January 1970, in Dublin) was a British film actor.  He was born Edward Little.</originalabstract>
+<abstract>Edward_Lexy ( 18_February_1897 , in London – 31_January_1970 , in Dublin ) was a_British_film_actor . He was_born Edward_Little .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edward'), (7, 'Lexy'), (12, '('), (13, '18'), (16, 'February'), (25, '1897'), (29, ','), (31, 'in'), (34, 'London'), (41, '–'), (43, '31'), (46, 'January'), (54, '1970'), (58, ','), (60, 'in'), (63, 'Dublin'), (69, ')'), (71, 'was'), (75, 'a'), (77, 'British'), (85, 'film'), (90, 'actor'), (95, '.'), (98, 'He'), (101, 'was'), (105, 'born'), (110, 'Edward'), (117, 'Little'), (123, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edward Lexy',0, 11), ('18 February 1897',13, 29), ('31 January 1970',43, 58), ('a British film actor',75, 95), ('was born',101, 109), ('Edward Little',110, 123)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', ':', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edward'), (7, 'Lexy'), (12, '('), (13, '18'), (16, 'February'), (25, '1897'), (29, ','), (31, 'in'), (34, 'London'), (41, '–'), (43, '31'), (46, 'January'), (54, '1970'), (58, ','), (60, 'in'), (63, 'Dublin'), (69, ')'), (71, 'was'), (75, 'a'), (77, 'British'), (85, 'film'), (90, 'actor'), (95, '.'), (98, 'He'), (101, 'was'), (105, 'born'), (110, 'Edward'), (117, 'Little'), (123, '.')])</spacy_tokens>
+<spacy_chunks>[('Edward Lexy', 0, 11), ('18 February 1897', 13, 29), ('London', 34, 40), ('31 January 1970', 43, 58), ('Dublin', 63, 69), ('a British film actor', 75, 95)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', ':', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

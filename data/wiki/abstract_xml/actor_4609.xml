@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Milford</title>
+<link/>https://en.wikipedia.org/wiki/John_Milford
+<annotated>0</annotated>
+<originalabstract>John Milford (September 7, 1929 - August 14, 2000) was an American actor in theatre, television, and films, playing scores of roles, often as a western villain. He was estimated to have had about 500 appearances in TV roles.</originalabstract>
+<abstract>John_Milford ( September_7_,_1929 - August_14 , 2000 ) was an_American_actor in theatre_,_television , and films , playing scores of roles , often as a_western_villain . He was_estimated_to_have_had about 500_appearances in TV_roles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Milford'), (13, '('), (14, 'September'), (24, '7'), (25, ','), (27, '1929'), (32, '-'), (34, 'August'), (41, '14'), (43, ','), (45, '2000'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'in'), (76, 'theatre'), (83, ','), (85, 'television'), (95, ','), (97, 'and'), (101, 'films'), (106, ','), (108, 'playing'), (116, 'scores'), (123, 'of'), (126, 'roles'), (131, ','), (133, 'often'), (139, 'as'), (142, 'a'), (144, 'western'), (152, 'villain'), (159, '.'), (161, 'He'), (164, 'was'), (168, 'estimated'), (178, 'to'), (181, 'have'), (186, 'had'), (190, 'about'), (196, '500'), (200, 'appearances'), (212, 'in'), (215, 'TV'), (218, 'roles'), (223, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Milford',0, 12), ('September 7, 1929',14, 31), ('August 14',34, 43), ('an American actor',55, 72), ('theatre, television',76, 95), ('a western villain',142, 159), ('was estimated to have had',164, 189), ('500 appearances',196, 211), ('TV roles',215, 223)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NNS', ',', 'VBG', 'NNS', 'IN', 'NNS', ',', 'RB', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'VB', 'VBN', 'IN', 'CD', 'NNS', 'IN', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Milford'), (13, '('), (14, 'September'), (24, '7'), (25, ','), (27, '1929'), (32, '-'), (34, 'August'), (41, '14'), (43, ','), (45, '2000'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'in'), (76, 'theatre'), (83, ','), (85, 'television'), (95, ','), (97, 'and'), (101, 'films'), (106, ','), (108, 'playing'), (116, 'scores'), (123, 'of'), (126, 'roles'), (131, ','), (133, 'often'), (139, 'as'), (142, 'a'), (144, 'western'), (152, 'villain'), (159, '.'), (161, 'He'), (164, 'was'), (168, 'estimated'), (178, 'to'), (181, 'have'), (186, 'had'), (190, 'about'), (196, '500'), (200, 'appearances'), (212, 'in'), (215, 'TV'), (218, 'roles'), (223, '.')])</spacy_tokens>
+<spacy_chunks>[('John Milford', 0, 12), ('(September', 13, 23), ('September 7, 1929', 14, 31), ('August 14, 2000', 34, 49), ('an American actor', 55, 72), ('theatre', 76, 83), ('Television', 85, 95), ('scores', 116, 122), ('a western villain', 142, 159), ('about 500 appearances', 190, 211), ('TV roles', 215, 223)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NNS', ',', 'VBG', 'NNS', 'IN', 'NNS', ',', 'RB', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'VB', 'VBN', 'RB', 'CD', 'NNS', 'IN', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

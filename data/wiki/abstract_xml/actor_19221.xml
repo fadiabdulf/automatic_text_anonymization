@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Murray Matheson</title>
+<link/>https://en.wikipedia.org/wiki/Murray_Matheson
+<annotated>0</annotated>
+<originalabstract>Sidney Murray Matheson (1 July 1912 – 25 April 1985) was an American-based Australian actor. He appeared on stage and in films and television programs until 1983.</originalabstract>
+<abstract>Sidney_Murray_Matheson ( 1_July_1912 – 25_April_1985 ) was an_American-based_Australian_actor . He appeared on stage and in films_and_television_programs until 1983 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sidney'), (7, 'Murray'), (14, 'Matheson'), (23, '('), (24, '1'), (26, 'July'), (31, '1912'), (36, '–'), (38, '25'), (41, 'April'), (47, '1985'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American-based'), (75, 'Australian'), (86, 'actor'), (91, '.'), (93, 'He'), (96, 'appeared'), (105, 'on'), (108, 'stage'), (114, 'and'), (118, 'in'), (121, 'films'), (127, 'and'), (131, 'television'), (142, 'programs'), (151, 'until'), (157, '1983'), (161, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sidney Murray Matheson',0, 22), ('1 July 1912',24, 35), ('25 April 1985',38, 51), ('an American-based Australian actor',57, 91), ('films and television programs',121, 150)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NN', 'CC', 'IN', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sidney'), (7, 'Murray'), (14, 'Matheson'), (23, '('), (24, '1'), (26, 'July'), (31, '1912'), (36, '–'), (38, '25'), (41, 'April'), (47, '1985'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (68, '-'), (69, 'based'), (75, 'Australian'), (86, 'actor'), (91, '.'), (93, 'He'), (96, 'appeared'), (105, 'on'), (108, 'stage'), (114, 'and'), (118, 'in'), (121, 'films'), (127, 'and'), (131, 'television'), (142, 'programs'), (151, 'until'), (157, '1983'), (161, '.')])</spacy_tokens>
+<spacy_chunks>[('Sidney Murray Matheson', 0, 22), ('(1 July', 23, 30), ('1 July 1912', 24, 35), ('25 April 1985', 38, 51), ('an American-based Australian actor', 57, 91), ('television programs', 131, 150)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NN', 'CC', 'IN', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

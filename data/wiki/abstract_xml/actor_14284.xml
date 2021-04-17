@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dagmar Oakland</title>
+<link/>https://en.wikipedia.org/wiki/Dagmar_Oakland
+<annotated>0</annotated>
+<originalabstract>Dagmar Oakland (born Edna Andersen; November 25, 1893 – June 1989) was an American actress of stage and screen from San Francisco, California. Twice she was a member of the Ziegfeld Follies.</originalabstract>
+<abstract>Dagmar_Oakland ( born Edna_Andersen ; November_25_,_1893 – June 1989 ) was an_American_actress of stage_and_screen from San_Francisco , California . Twice she was a_member of the_Ziegfeld_Follies .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dagmar'), (7, 'Oakland'), (15, '('), (16, 'born'), (21, 'Edna'), (26, 'Andersen'), (34, ';'), (36, 'November'), (45, '25'), (47, ','), (49, '1893'), (54, '–'), (56, 'June'), (61, '1989'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'actress'), (91, 'of'), (94, 'stage'), (100, 'and'), (104, 'screen'), (111, 'from'), (116, 'San'), (120, 'Francisco'), (129, ','), (131, 'California'), (141, '.'), (143, 'Twice'), (149, 'she'), (153, 'was'), (157, 'a'), (159, 'member'), (166, 'of'), (169, 'the'), (173, 'Ziegfeld'), (182, 'Follies'), (189, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dagmar Oakland',0, 14), ('Edna Andersen',21, 34), ('November 25, 1893',36, 53), ('an American actress',71, 90), ('stage and screen',94, 110), ('San Francisco',116, 129), ('a member',157, 165), ('the Ziegfeld Follies',169, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'RB', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dagmar'), (7, 'Oakland'), (15, '('), (16, 'born'), (21, 'Edna'), (26, 'Andersen'), (34, ';'), (36, 'November'), (45, '25'), (47, ','), (49, '1893'), (54, '–'), (56, 'June'), (61, '1989'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'actress'), (91, 'of'), (94, 'stage'), (100, 'and'), (104, 'screen'), (111, 'from'), (116, 'San'), (120, 'Francisco'), (129, ','), (131, 'California'), (141, '.'), (143, 'Twice'), (149, 'she'), (153, 'was'), (157, 'a'), (159, 'member'), (166, 'of'), (169, 'the'), (173, 'Ziegfeld'), (182, 'Follies'), (189, '.')])</spacy_tokens>
+<spacy_chunks>[('Dagmar Oakland', 0, 14), ('born Edna Andersen', 16, 34), ('November 25, 1893', 36, 53), ('an American actress', 71, 90), ('screen', 104, 110), ('San Francisco, California', 116, 141), ('a member', 157, 165), ('the Ziegfeld Follies', 169, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'RB', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

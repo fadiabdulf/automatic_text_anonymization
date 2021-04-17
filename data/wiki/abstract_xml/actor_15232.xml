@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Julie Sommars</title>
+<link/>https://en.wikipedia.org/wiki/Julie_Sommars
+<annotated>0</annotated>
+<originalabstract>Juliana Edith "Julie" Sommars (born April 15, 1942) is an American actress. She won a Golden Globe Award for Best Actress – Television Series Musical or Comedy for her role in The Governor  J.J. in 1970, and was nominated for a Golden Globe Award for Best Supporting Actress on Television for Matlock in 1990.</originalabstract>
+<abstract>Juliana_Edith_"_Julie_"_Sommars ( born April_15_,_1942 ) is an_American_actress . She won a_Golden_Globe_Award for_Best_Actress – Television_Series_Musical_or_Comedy for her_role in The_Governor_ in 1970 , and was_nominated for a_Golden_Globe_Award for Best Supporting_Actress on Television for Matlock in 1990 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Juliana'), (8, 'Edith'), (14, '"'), (15, 'Julie'), (20, '"'), (22, 'Sommars'), (30, '('), (31, 'born'), (36, 'April'), (42, '15'), (44, ','), (46, '1942'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'American'), (67, 'actress'), (74, '.'), (76, 'She'), (80, 'won'), (84, 'a'), (86, 'Golden'), (93, 'Globe'), (99, 'Award'), (105, 'for'), (109, 'Best'), (114, 'Actress'), (122, '–'), (124, 'Television'), (135, 'Series'), (142, 'Musical'), (150, 'or'), (153, 'Comedy'), (160, 'for'), (164, 'her'), (168, 'role'), (173, 'in'), (176, 'The'), (180, 'Governor'), (189, ''), (191, 'J.J.'), (196, 'in'), (199, '1970'), (203, ','), (205, 'and'), (209, 'was'), (213, 'nominated'), (223, 'for'), (227, 'a'), (229, 'Golden'), (236, 'Globe'), (242, 'Award'), (248, 'for'), (252, 'Best'), (257, 'Supporting'), (268, 'Actress'), (276, 'on'), (279, 'Television'), (290, 'for'), (294, 'Matlock'), (302, 'in'), (305, '1990'), (309, '.')])</stanford_tokens>
+<opennlp_chunks>[('Juliana Edith "Julie" Sommars',0, 29), ('April 15, 1942',36, 50), ('an American actress',55, 74), ('a Golden Globe Award',84, 104), ('for Best Actress',105, 121), ('Television Series Musical or Comedy',124, 159), ('her role',164, 172), ('The Governor  J.J.',176, 195), ('was nominated',209, 222), ('a Golden Globe Award',227, 247), ('Supporting Actress',257, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NN', 'IN', 'JJS', 'NN', ':', 'NNP', 'NNP', 'JJ', 'CC', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'IN', 'CD', ',', 'CC', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'NN', 'IN', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Juliana'), (8, 'Edith'), (14, '"'), (15, 'Julie'), (20, '"'), (22, 'Sommars'), (30, '('), (31, 'born'), (36, 'April'), (42, '15'), (44, ','), (46, '1942'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'American'), (67, 'actress'), (74, '.'), (76, 'She'), (80, 'won'), (84, 'a'), (86, 'Golden'), (93, 'Globe'), (99, 'Award'), (105, 'for'), (109, 'Best'), (114, 'Actress'), (122, '–'), (124, 'Television'), (135, 'Series'), (142, 'Musical'), (150, 'or'), (153, 'Comedy'), (160, 'for'), (164, 'her'), (168, 'role'), (173, 'in'), (176, 'The'), (180, 'Governor'), (190, 'J.J.'), (195, 'in'), (198, '1970'), (202, ','), (204, 'and'), (208, 'was'), (212, 'nominated'), (222, 'for'), (226, 'a'), (228, 'Golden'), (235, 'Globe'), (241, 'Award'), (247, 'for'), (251, 'Best'), (256, 'Supporting'), (267, 'Actress'), (275, 'on'), (278, 'Television'), (289, 'for'), (293, 'Matlock'), (301, 'in'), (304, '1990'), (308, '.')])</spacy_tokens>
+<spacy_chunks>[('Juliana Edith "Julie" Sommars', 0, 29), ('April 15, 1942', 36, 50), ('an American actress', 55, 74), ('a Golden Globe Award', 84, 104), ('Golden Globe Award for Best Actress – Television Series Musical or Comedy', 86, 159), ('her role', 164, 172), ('The Governor  J.J.', 176, 194), ('Best Supporting Actress', 251, 274), ('Matlock', 293, 300)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', ',', 'CC', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NNP', 'IN', 'NNP', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

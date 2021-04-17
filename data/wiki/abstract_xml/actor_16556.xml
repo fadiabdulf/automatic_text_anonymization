@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rachel de Solla</title>
+<link/>https://en.wikipedia.org/wiki/Rachel_de_Solla
+<annotated>0</annotated>
+<originalabstract>Rachel de Solla was a British actress.She was born in 1854  in Strand, London, and died in Hammersmith, London at age 66.</originalabstract>
+<abstract>Rachel_de_Solla was a_British_actress.She was_born in 1854 in Strand , London , and died in Hammersmith , London at age_66 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rachel'), (7, 'de'), (10, 'Solla'), (16, 'was'), (20, 'a'), (22, 'British'), (30, 'actress.She'), (42, 'was'), (46, 'born'), (51, 'in'), (54, '1854'), (60, 'in'), (63, 'Strand'), (69, ','), (71, 'London'), (77, ','), (79, 'and'), (83, 'died'), (88, 'in'), (91, 'Hammersmith'), (102, ','), (104, 'London'), (111, 'at'), (114, 'age'), (118, '66'), (120, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rachel de Solla',0, 15), ('a British actress.She',20, 41), ('was born',42, 50), ('age 66',114, 120)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rachel'), (7, 'de'), (10, 'Solla'), (16, 'was'), (20, 'a'), (22, 'British'), (30, 'actress'), (37, '.'), (38, 'She'), (42, 'was'), (46, 'born'), (51, 'in'), (54, '1854'), (60, 'in'), (63, 'Strand'), (69, ','), (71, 'London'), (77, ','), (79, 'and'), (83, 'died'), (88, 'in'), (91, 'Hammersmith'), (102, ','), (104, 'London'), (111, 'at'), (114, 'age'), (118, '66'), (120, '.')])</spacy_tokens>
+<spacy_chunks>[('Rachel de Solla', 0, 15), ('a British actress', 20, 37), ('Strand, London', 63, 77), ('Hammersmith, London', 91, 110)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

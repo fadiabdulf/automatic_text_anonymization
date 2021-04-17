@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elden Henson</title>
+<link/>https://en.wikipedia.org/wiki/Elden_Henson
+<annotated>0</annotated>
+<originalabstract>Elden Henson (born Elden Ryan Ratliff; August 30, 1977) is an American actor. He is best known for playing Fulton Reed in The Mighty Ducks trilogy, Foggy Nelson in Daredevil and the wider Marvel Cinematic Universe television series, and Pollux in The Hunger Games: Mockingjay - Part 1 and Part 2.</originalabstract>
+<abstract>Elden_Henson ( born Elden_Ryan_Ratliff ; August_30 , 1977 ) is an_American_actor . He is_best_known for playing Fulton_Reed in The_Mighty_Ducks_trilogy , Foggy_Nelson in Daredevil and the_wider_Marvel_Cinematic_Universe_television_series , and Pollux in The_Hunger_Games : Mockingjay - Part 1 and Part_2 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elden'), (6, 'Henson'), (13, '('), (14, 'born'), (19, 'Elden'), (25, 'Ryan'), (30, 'Ratliff'), (37, ';'), (39, 'August'), (46, '30'), (48, ','), (50, '1977'), (54, ')'), (56, 'is'), (59, 'an'), (62, 'American'), (71, 'actor'), (76, '.'), (78, 'He'), (81, 'is'), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'playing'), (107, 'Fulton'), (114, 'Reed'), (119, 'in'), (122, 'The'), (126, 'Mighty'), (133, 'Ducks'), (139, 'trilogy'), (146, ','), (148, 'Foggy'), (154, 'Nelson'), (161, 'in'), (164, 'Daredevil'), (174, 'and'), (178, 'the'), (182, 'wider'), (188, 'Marvel'), (195, 'Cinematic'), (205, 'Universe'), (214, 'television'), (225, 'series'), (231, ','), (233, 'and'), (237, 'Pollux'), (244, 'in'), (247, 'The'), (251, 'Hunger'), (258, 'Games'), (263, ':'), (265, 'Mockingjay'), (276, '-'), (278, 'Part'), (283, '1'), (285, 'and'), (289, 'Part'), (294, '2'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elden Henson',0, 12), ('Elden Ryan Ratliff',19, 37), ('August 30',39, 48), ('an American actor',59, 76), ('is best known',81, 94), ('Fulton Reed',107, 118), ('The Mighty Ducks trilogy',122, 146), ('Foggy Nelson',148, 160), ('the wider Marvel Cinematic Universe television series',178, 231), ('The Hunger Games',247, 263), ('Part 2',289, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNS', 'NN', ',', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'DT', 'JJR', 'NNP', 'NNP', 'NNP', 'NN', 'NN', ',', 'CC', 'NNP', 'IN', 'DT', 'NNP', 'NNPS', ':', 'NNP', ':', 'NNP', 'CD', 'CC', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elden'), (6, 'Henson'), (13, '('), (14, 'born'), (19, 'Elden'), (25, 'Ryan'), (30, 'Ratliff'), (37, ';'), (39, 'August'), (46, '30'), (48, ','), (50, '1977'), (54, ')'), (56, 'is'), (59, 'an'), (62, 'American'), (71, 'actor'), (76, '.'), (78, 'He'), (81, 'is'), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'playing'), (107, 'Fulton'), (114, 'Reed'), (119, 'in'), (122, 'The'), (126, 'Mighty'), (133, 'Ducks'), (139, 'trilogy'), (146, ','), (148, 'Foggy'), (154, 'Nelson'), (161, 'in'), (164, 'Daredevil'), (174, 'and'), (178, 'the'), (182, 'wider'), (188, 'Marvel'), (195, 'Cinematic'), (205, 'Universe'), (214, 'television'), (225, 'series'), (231, ','), (233, 'and'), (237, 'Pollux'), (244, 'in'), (247, 'The'), (251, 'Hunger'), (258, 'Games'), (263, ':'), (265, 'Mockingjay'), (276, '-'), (278, 'Part'), (283, '1'), (285, 'and'), (289, 'Part'), (294, '2'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Elden Henson', 0, 12), ('born Elden Ryan Ratliff', 14, 37), ('August 30, 1977', 39, 54), ('an American actor', 59, 76), ('Fulton Reed', 107, 118), ('The Mighty Ducks trilogy', 122, 146), ('Foggy Nelson', 148, 160), ('Daredevil', 164, 173), ('the wider Marvel Cinematic Universe television series', 178, 231), ('Pollux', 237, 243), ('The Hunger Games: Mockingjay - Part 1', 247, 284)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNPS', 'NN', ',', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'DT', 'JJR', 'NNP', 'NNP', 'NNP', 'NN', 'NN', ',', 'CC', 'NNP', 'IN', 'DT', 'NNP', 'NNPS', ':', 'NNP', 'HYPH', 'NNP', 'CD', 'CC', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

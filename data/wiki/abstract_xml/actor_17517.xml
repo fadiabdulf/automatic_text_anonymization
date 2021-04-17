@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lucy Benjamin</title>
+<link/>https://en.wikipedia.org/wiki/Lucy_Benjamin
+<annotated>0</annotated>
+<originalabstract>Lucy Benjamin (born Lucy Jane Baker, 25 June 1970) is an English actress. From 1998 to 2003 she played Lisa Fowler in the BBC soap opera EastEnders.</originalabstract>
+<abstract>Lucy_Benjamin ( born Lucy_Jane_Baker , 25_June_1970 ) is an_English_actress . From 1998 to 2003 she played Lisa_Fowler in the_BBC_soap_opera_EastEnders .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lucy'), (5, 'Benjamin'), (14, '('), (15, 'born'), (20, 'Lucy'), (25, 'Jane'), (30, 'Baker'), (35, ','), (37, '25'), (40, 'June'), (45, '1970'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'English'), (65, 'actress'), (72, '.'), (74, 'From'), (79, '1998'), (84, 'to'), (87, '2003'), (92, 'she'), (96, 'played'), (103, 'Lisa'), (108, 'Fowler'), (115, 'in'), (118, 'the'), (122, 'BBC'), (126, 'soap'), (131, 'opera'), (137, 'EastEnders'), (147, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lucy Benjamin',0, 13), ('Lucy Jane Baker',20, 35), ('25 June 1970',37, 49), ('an English actress',54, 72), ('Lisa Fowler',103, 114), ('the BBC soap opera EastEnders',118, 147)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', 'TO', 'CD', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lucy'), (5, 'Benjamin'), (14, '('), (15, 'born'), (20, 'Lucy'), (25, 'Jane'), (30, 'Baker'), (35, ','), (37, '25'), (40, 'June'), (45, '1970'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'English'), (65, 'actress'), (72, '.'), (74, 'From'), (79, '1998'), (84, 'to'), (87, '2003'), (92, 'she'), (96, 'played'), (103, 'Lisa'), (108, 'Fowler'), (115, 'in'), (118, 'the'), (122, 'BBC'), (126, 'soap'), (131, 'opera'), (137, 'EastEnders'), (147, '.')])</spacy_tokens>
+<spacy_chunks>[('Lucy Benjamin', 0, 13), ('born Lucy Jane Baker', 15, 35), ('25 June 1970', 37, 49), ('an English actress', 54, 72), ('Lisa Fowler', 103, 114), ('the BBC soap opera', 118, 136), ('EastEnders', 137, 147)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', 'IN', 'CD', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

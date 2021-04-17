@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brad King (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Brad_King_(actor)
+<annotated>0</annotated>
+<originalabstract>Brad King (23 November 1917 - 1 November 1991) was an American actor. He is best known for briefly playing Hopalong Cassidy's sidekick in five of the Hoppy films.</originalabstract>
+<abstract>Brad_King ( 23_November_1917 - 1 November_1991 ) was an_American_actor . He is_best_known for briefly_playing_Hopalong_Cassidy 's_sidekick in five of the_Hoppy_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brad'), (5, 'King'), (10, '('), (11, '23'), (14, 'November'), (23, '1917'), (28, '-'), (30, '1'), (32, 'November'), (41, '1991'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, '.'), (70, 'He'), (73, 'is'), (76, 'best'), (81, 'known'), (87, 'for'), (91, 'briefly'), (99, 'playing'), (107, 'Hopalong'), (116, 'Cassidy'), (123, '\'s'), (126, 'sidekick'), (135, 'in'), (138, 'five'), (143, 'of'), (146, 'the'), (150, 'Hoppy'), (156, 'films'), (161, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brad King',0, 9), ('23 November 1917',11, 27), ('November 1991',32, 45), ('an American actor',51, 68), ('is best known',73, 86), ('briefly playing Hopalong Cassidy',91, 123), ('\'s sidekick',123, 134), ('the Hoppy films',146, 161)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'CD', 'IN', 'DT', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brad'), (5, 'King'), (10, '('), (11, '23'), (14, 'November'), (23, '1917'), (28, '-'), (30, '1'), (32, 'November'), (41, '1991'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, '.'), (70, 'He'), (73, 'is'), (76, 'best'), (81, 'known'), (87, 'for'), (91, 'briefly'), (99, 'playing'), (107, 'Hopalong'), (116, 'Cassidy'), (123, "'s"), (126, 'sidekick'), (135, 'in'), (138, 'five'), (143, 'of'), (146, 'the'), (150, 'Hoppy'), (156, 'films'), (161, '.')])</spacy_tokens>
+<spacy_chunks>[('Brad King', 0, 9), ('(23 November', 10, 22), ('23 November 1917', 11, 27), ('1 November 1991', 30, 45), ('an American actor', 51, 68), ("Hopalong Cassidy's sidekick", 107, 134), ('the Hoppy films', 146, 161)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'RB', 'VBG', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'CD', 'IN', 'DT', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

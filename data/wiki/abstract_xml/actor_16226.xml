@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sandra Mozarowsky</title>
+<link/>https://en.wikipedia.org/wiki/Sandra_Mozarowsky
+<annotated>0</annotated>
+<originalabstract>Sandra Mozarowsky (17 October 1958 - 14 September 1977) was a Spanish actress.  Her acting career started in 1969 and lasted until her death in 1977; she starred in films including La noche de las gaviotas (Night of the Seagulls), and Beatriz.</originalabstract>
+<abstract>Sandra_Mozarowsky ( 17_October_1958 - 14_September_1977 ) was a_Spanish_actress . Her_acting_career started in 1969 and lasted until her_death in 1977 ; she starred in films including La_noche de las_gaviotas ( Night of the_Seagulls_) , and Beatriz .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sandra'), (7, 'Mozarowsky'), (18, '('), (19, '17'), (22, 'October'), (30, '1958'), (35, '-'), (37, '14'), (40, 'September'), (50, '1977'), (54, ')'), (56, 'was'), (60, 'a'), (62, 'Spanish'), (70, 'actress'), (77, '.'), (80, 'Her'), (84, 'acting'), (91, 'career'), (98, 'started'), (106, 'in'), (109, '1969'), (114, 'and'), (118, 'lasted'), (125, 'until'), (131, 'her'), (135, 'death'), (141, 'in'), (144, '1977'), (148, ';'), (150, 'she'), (154, 'starred'), (162, 'in'), (165, 'films'), (171, 'including'), (181, 'La'), (184, 'noche'), (190, 'de'), (193, 'las'), (197, 'gaviotas'), (206, '('), (207, 'Night'), (213, 'of'), (216, 'the'), (220, 'Seagulls'), (228, ')'), (229, ','), (231, 'and'), (235, 'Beatriz'), (242, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sandra Mozarowsky',0, 17), ('17 October 1958',19, 34), ('14 September 1977',37, 54), ('a Spanish actress',60, 77), ('Her acting career',80, 97), ('her death',131, 140), ('La noche',181, 189), ('las gaviotas',193, 205), ('the Seagulls)',216, 229)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'VBG', 'NN', 'VBD', 'IN', 'CD', 'CC', 'VBD', 'IN', 'PRP$', 'NN', 'IN', 'CD', ':', 'PRP', 'VBD', 'IN', 'NNS', 'VBG', 'NNP', 'NNP', 'IN', 'FW', 'FW', '-LRB-', 'NN', 'IN', 'DT', 'NNS', '-RRB-', ',', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sandra'), (7, 'Mozarowsky'), (18, '('), (19, '17'), (22, 'October'), (30, '1958'), (35, '-'), (37, '14'), (40, 'September'), (50, '1977'), (54, ')'), (56, 'was'), (60, 'a'), (62, 'Spanish'), (70, 'actress'), (77, '.'), (80, 'Her'), (84, 'acting'), (91, 'career'), (98, 'started'), (106, 'in'), (109, '1969'), (114, 'and'), (118, 'lasted'), (125, 'until'), (131, 'her'), (135, 'death'), (141, 'in'), (144, '1977'), (148, ';'), (150, 'she'), (154, 'starred'), (162, 'in'), (165, 'films'), (171, 'including'), (181, 'La'), (184, 'noche'), (190, 'de'), (193, 'las'), (197, 'gaviotas'), (206, '('), (207, 'Night'), (213, 'of'), (216, 'the'), (220, 'Seagulls'), (228, ')'), (229, ','), (231, 'and'), (235, 'Beatriz'), (242, '.')])</spacy_tokens>
+<spacy_chunks>[('Sandra Mozarowsky', 0, 17), ('(17 October', 18, 29), ('17 October 1958', 19, 34), ('14 September 1977', 37, 54), ('a Spanish actress', 60, 77), ('Her acting career', 80, 97), ('her death', 131, 140), ('La noche de las gaviotas', 181, 205), ('Night of the Seagulls', 207, 228), ('Beatriz', 235, 242)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'VBG', 'NN', 'VBD', 'IN', 'CD', 'CC', 'VBD', 'IN', 'PRP$', 'NN', 'IN', 'CD', ':', 'PRP', 'VBD', 'IN', 'NNS', 'VBG', 'NNP', 'FW', 'FW', 'FW', 'NNS', '-LRB-', 'NN', 'IN', 'DT', 'NNPS', '-RRB-', ',', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

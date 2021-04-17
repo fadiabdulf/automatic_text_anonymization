@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harry Gribbon</title>
+<link/>https://en.wikipedia.org/wiki/Harry_Gribbon
+<annotated>0</annotated>
+<originalabstract>Harry Gribbon (June 9, 1885 – July 28, 1961) was an American film actor. He appeared in 144 films between 1915 and 1938. He was the brother of actor Eddie Gribbon and worked for the obscure L-KO Kompany after starting out with Mack Sennett. Many of his films from this era have been lost.</originalabstract>
+<abstract>Harry Gribbon ( June_9 , 1885 – July_28_,_1961 ) was an_American_film_actor . He appeared in 144_films between 1915_and_1938 . He was the_brother of actor_Eddie_Gribbon and worked for the_obscure_L-KO_Kompany after starting out with Mack_Sennett . Many of his_films from this_era have_been_lost .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harry'), (6, 'Gribbon'), (14, '('), (15, 'June'), (20, '9'), (21, ','), (23, '1885'), (28, '–'), (30, 'July'), (35, '28'), (37, ','), (39, '1961'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'film'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'appeared'), (85, 'in'), (88, '144'), (92, 'films'), (98, 'between'), (106, '1915'), (111, 'and'), (115, '1938'), (119, '.'), (121, 'He'), (124, 'was'), (128, 'the'), (132, 'brother'), (140, 'of'), (143, 'actor'), (149, 'Eddie'), (155, 'Gribbon'), (163, 'and'), (167, 'worked'), (174, 'for'), (178, 'the'), (182, 'obscure'), (190, 'L-KO'), (195, 'Kompany'), (203, 'after'), (209, 'starting'), (218, 'out'), (222, 'with'), (227, 'Mack'), (232, 'Sennett'), (239, '.'), (241, 'Many'), (246, 'of'), (249, 'his'), (253, 'films'), (259, 'from'), (264, 'this'), (269, 'era'), (273, 'have'), (278, 'been'), (283, 'lost'), (287, '.')])</stanford_tokens>
+<opennlp_chunks>[('June 9',15, 21), ('July 28, 1961',30, 43), ('an American film actor',49, 71), ('144 films',88, 97), ('1915 and 1938',106, 119), ('the brother',128, 139), ('actor Eddie Gribbon',143, 162), ('the obscure L-KO Kompany',178, 202), ('Mack Sennett',227, 239), ('his films',249, 258), ('this era',264, 272), ('have been lost',273, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'VBG', 'RP', 'IN', 'NNP', 'NNP', '.', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'VBP', 'VBN', 'VBN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harry'), (6, 'Gribbon'), (14, '('), (15, 'June'), (20, '9'), (21, ','), (23, '1885'), (28, '–'), (30, 'July'), (35, '28'), (37, ','), (39, '1961'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'film'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'appeared'), (85, 'in'), (88, '144'), (92, 'films'), (98, 'between'), (106, '1915'), (111, 'and'), (115, '1938'), (119, '.'), (121, 'He'), (124, 'was'), (128, 'the'), (132, 'brother'), (140, 'of'), (143, 'actor'), (149, 'Eddie'), (155, 'Gribbon'), (163, 'and'), (167, 'worked'), (174, 'for'), (178, 'the'), (182, 'obscure'), (190, 'L'), (191, '-'), (192, 'KO'), (195, 'Kompany'), (203, 'after'), (209, 'starting'), (218, 'out'), (222, 'with'), (227, 'Mack'), (232, 'Sennett'), (239, '.'), (241, 'Many'), (246, 'of'), (249, 'his'), (253, 'films'), (259, 'from'), (264, 'this'), (269, 'era'), (273, 'have'), (278, 'been'), (283, 'lost'), (287, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry Gribbon', 0, 13), ('June 9, 1885', 15, 27), ('July 28, 1961', 30, 43), ('an American film actor', 49, 71), ('144 films', 88, 97), ('the brother', 128, 139), ('actor Eddie Gribbon', 143, 162), ('the obscure L-KO Kompany', 178, 202), ('Mack Sennett', 227, 239), ('his films', 249, 258), ('this era', 264, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'DT', 'JJ', 'NNP', 'HYPH', 'NNP', 'NNP', 'IN', 'VBG', 'RP', 'IN', 'NNP', 'NNP', '.', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'VBP', 'VBN', 'VBN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

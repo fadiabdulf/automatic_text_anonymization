@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ariel Wizman</title>
+<link/>https://en.wikipedia.org/wiki/Ariel_Wizman
+<annotated>0</annotated>
+<originalabstract>Ariel Wizman (born 19 May 1962) is a French musician, DJ, journalist and actor born in Casablanca, Morocco.</originalabstract>
+<abstract>Ariel_Wizman ( born 19_May_1962 ) is a_French_musician , DJ , journalist_and_actor born in Casablanca , Morocco .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ariel'), (6, 'Wizman'), (13, '('), (14, 'born'), (19, '19'), (22, 'May'), (26, '1962'), (30, ')'), (32, 'is'), (35, 'a'), (37, 'French'), (44, 'musician'), (52, ','), (54, 'DJ'), (56, ','), (58, 'journalist'), (69, 'and'), (73, 'actor'), (79, 'born'), (84, 'in'), (87, 'Casablanca'), (97, ','), (99, 'Morocco'), (106, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ariel Wizman',0, 12), ('19 May 1962',19, 30), ('a French musician',35, 52), ('journalist and actor',58, 78)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NNP', ',', 'NN', 'CC', 'NN', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ariel'), (6, 'Wizman'), (13, '('), (14, 'born'), (19, '19'), (22, 'May'), (26, '1962'), (30, ')'), (32, 'is'), (35, 'a'), (37, 'French'), (44, 'musician'), (52, ','), (54, 'DJ'), (56, ','), (58, 'journalist'), (69, 'and'), (73, 'actor'), (79, 'born'), (84, 'in'), (87, 'Casablanca'), (97, ','), (99, 'Morocco'), (106, '.')])</spacy_tokens>
+<spacy_chunks>[('Ariel Wizman', 0, 12), ('19 May 1962', 19, 30), ('a French musician', 35, 52), ('journalist', 58, 68), ('Casablanca', 87, 97), ('Morocco', 99, 106)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NNP', ',', 'NN', 'CC', 'NN', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

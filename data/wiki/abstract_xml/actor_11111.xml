@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean Carlin</title>
+<link/>https://en.wikipedia.org/wiki/Jean_Carlin
+<annotated>0</annotated>
+<originalabstract>Jean Carlin, born Harriet Jean Sollenberger (September 2, 1921 – October 23, 1998) was an American film actress from Long Beach, California.</originalabstract>
+<abstract>Jean_Carlin , born Harriet_Jean_Sollenberger ( September_2_,_1921 – October_23_,_1998 ) was an_American_film_actress from Long_Beach , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean'), (5, 'Carlin'), (11, ','), (13, 'born'), (18, 'Harriet'), (26, 'Jean'), (31, 'Sollenberger'), (44, '('), (45, 'September'), (55, '2'), (56, ','), (58, '1921'), (63, '–'), (65, 'October'), (73, '23'), (75, ','), (77, '1998'), (81, ')'), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'film'), (104, 'actress'), (112, 'from'), (117, 'Long'), (122, 'Beach'), (127, ','), (129, 'California'), (139, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean Carlin',0, 11), ('Harriet Jean Sollenberger',18, 43), ('September 2, 1921',45, 62), ('October 23, 1998',65, 81), ('an American film actress',87, 111), ('Long Beach',117, 127)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'JJ', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (5, 'Carlin'), (11, ','), (13, 'born'), (18, 'Harriet'), (26, 'Jean'), (31, 'Sollenberger'), (44, '('), (45, 'September'), (55, '2'), (56, ','), (58, '1921'), (63, '–'), (65, 'October'), (73, '23'), (75, ','), (77, '1998'), (81, ')'), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'film'), (104, 'actress'), (112, 'from'), (117, 'Long'), (122, 'Beach'), (127, ','), (129, 'California'), (139, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean Carlin', 0, 11), ('born Harriet Jean Sollenberger', 13, 43), ('(September', 44, 54), ('September 2, 1921', 45, 62), ('October 23, 1998', 65, 81), ('an American film actress', 87, 111), ('Long Beach', 117, 127), ('California', 129, 139)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBD', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

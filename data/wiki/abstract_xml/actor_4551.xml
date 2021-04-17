@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Don Megowan</title>
+<link/>https://en.wikipedia.org/wiki/Don_Megowan
+<annotated>0</annotated>
+<originalabstract>Don Megowan (May 24, 1922 – June 26, 1981) was an American actor. He played the Gill-man on land in The Creature Walks Among Us, the final part of the Creature from the Black Lagoon trilogy.</originalabstract>
+<abstract>Don_Megowan ( May_24_,_1922 – June_26 , 1981 ) was an_American_actor . He played the_Gill-man on land in The_Creature_Walks Among Us , the_final_part of the_Creature from the_Black_Lagoon_trilogy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Don'), (4, 'Megowan'), (12, '('), (13, 'May'), (17, '24'), (19, ','), (21, '1922'), (26, '–'), (28, 'June'), (33, '26'), (35, ','), (37, '1981'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'American'), (59, 'actor'), (64, '.'), (66, 'He'), (69, 'played'), (76, 'the'), (80, 'Gill-man'), (89, 'on'), (92, 'land'), (97, 'in'), (100, 'The'), (104, 'Creature'), (113, 'Walks'), (119, 'Among'), (125, 'Us'), (127, ','), (129, 'the'), (133, 'final'), (139, 'part'), (144, 'of'), (147, 'the'), (151, 'Creature'), (160, 'from'), (165, 'the'), (169, 'Black'), (175, 'Lagoon'), (182, 'trilogy'), (189, '.')])</stanford_tokens>
+<opennlp_chunks>[('Don Megowan',0, 11), ('May 24, 1922',13, 25), ('June 26',28, 35), ('an American actor',47, 64), ('the Gill-man',76, 88), ('The Creature Walks',100, 118), ('the final part',129, 143), ('the Creature',147, 159), ('the Black Lagoon trilogy',165, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Don'), (4, 'Megowan'), (12, '('), (13, 'May'), (17, '24'), (19, ','), (21, '1922'), (26, '–'), (28, 'June'), (33, '26'), (35, ','), (37, '1981'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'American'), (59, 'actor'), (64, '.'), (66, 'He'), (69, 'played'), (76, 'the'), (80, 'Gill'), (84, '-'), (85, 'man'), (89, 'on'), (92, 'land'), (97, 'in'), (100, 'The'), (104, 'Creature'), (113, 'Walks'), (119, 'Among'), (125, 'Us'), (127, ','), (129, 'the'), (133, 'final'), (139, 'part'), (144, 'of'), (147, 'the'), (151, 'Creature'), (160, 'from'), (165, 'the'), (169, 'Black'), (175, 'Lagoon'), (182, 'trilogy'), (189, '.')])</spacy_tokens>
+<spacy_chunks>[('Don Megowan', 0, 11), ('May 24, 1922', 13, 25), ('June 26, 1981', 28, 41), ('an American actor', 47, 64), ('the Gill-man', 76, 88), ('The Creature Walks Among Us', 100, 127), ('Creature from the Black Lagoon', 151, 181), ('the Black Lagoon trilogy', 165, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'HYPH', 'NN', 'IN', 'NN', 'IN', 'DT', 'NN', 'VBZ', 'IN', 'PRP', ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

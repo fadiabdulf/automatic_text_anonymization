@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bryan Foy</title>
+<link/>https://en.wikipedia.org/wiki/Bryan_Foy
+<annotated>0</annotated>
+<originalabstract>Bryan Foy (December 8, 1896 – April 20, 1977) was an American film producer and director. He produced 214 films between 1924 and 1963. He also directed 41 films between 1923 and 1934.  He headed the B picture unit at Warner Bros. where he was known as "the keeper of the B's".</originalabstract>
+<abstract>Bryan_Foy ( December_8_,_1896 – April_20_,_1977 ) was an_American_film_producer_and_director . He produced 214_films between 1924_and_1963 . He also directed 41_films between 1923_and_1934 . He headed the_B_picture_unit at Warner_Bros. where he was_known as " the_keeper of the_B 's_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bryan'), (6, 'Foy'), (10, '('), (11, 'December'), (20, '8'), (21, ','), (23, '1896'), (28, '–'), (30, 'April'), (36, '20'), (38, ','), (40, '1977'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'film'), (67, 'producer'), (76, 'and'), (80, 'director'), (88, '.'), (90, 'He'), (93, 'produced'), (102, '214'), (106, 'films'), (112, 'between'), (120, '1924'), (125, 'and'), (129, '1963'), (133, '.'), (135, 'He'), (138, 'also'), (143, 'directed'), (152, '41'), (155, 'films'), (161, 'between'), (169, '1923'), (174, 'and'), (178, '1934'), (182, '.'), (185, 'He'), (188, 'headed'), (195, 'the'), (199, 'B'), (201, 'picture'), (209, 'unit'), (214, 'at'), (217, 'Warner'), (224, 'Bros.'), (230, 'where'), (236, 'he'), (239, 'was'), (243, 'known'), (249, 'as'), (252, '"'), (253, 'the'), (257, 'keeper'), (264, 'of'), (267, 'the'), (271, 'B'), (272, '\'s'), (274, '"'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bryan Foy',0, 9), ('December 8, 1896',11, 27), ('April 20, 1977',30, 44), ('an American film producer and director',50, 88), ('214 films',102, 111), ('1924 and 1963',120, 133), ('41 films',152, 160), ('1923 and 1934',169, 182), ('the B picture unit',195, 213), ('Warner Bros.',217, 229), ('was known',239, 248), ('the keeper',253, 263), ('the B',267, 272), ('\'s"',272, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'WRB', 'PRP', 'VBD', 'VBN', 'IN', '``', 'DT', 'NN', 'IN', 'DT', 'NN', 'POS', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bryan'), (6, 'Foy'), (10, '('), (11, 'December'), (20, '8'), (21, ','), (23, '1896'), (28, '–'), (30, 'April'), (36, '20'), (38, ','), (40, '1977'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'film'), (67, 'producer'), (76, 'and'), (80, 'director'), (88, '.'), (90, 'He'), (93, 'produced'), (102, '214'), (106, 'films'), (112, 'between'), (120, '1924'), (125, 'and'), (129, '1963'), (133, '.'), (135, 'He'), (138, 'also'), (143, 'directed'), (152, '41'), (155, 'films'), (161, 'between'), (169, '1923'), (174, 'and'), (178, '1934'), (182, '.'), (185, 'He'), (188, 'headed'), (195, 'the'), (199, 'B'), (201, 'picture'), (209, 'unit'), (214, 'at'), (217, 'Warner'), (224, 'Bros.'), (230, 'where'), (236, 'he'), (239, 'was'), (243, 'known'), (249, 'as'), (252, '"'), (253, 'the'), (257, 'keeper'), (264, 'of'), (267, 'the'), (271, 'B'), (272, "'s"), (274, '"'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('Bryan Foy', 0, 9), ('(December', 10, 19), ('December 8, 1896', 11, 27), ('April 20, 1977', 30, 44), ('an American film producer', 50, 75), ('director', 80, 88), ('214 films', 102, 111), ('41 films', 152, 160), ('the B picture unit', 195, 213), ('Warner Bros.', 217, 229), ('"the keeper', 252, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'WRB', 'PRP', 'VBD', 'VBN', 'IN', '``', 'DT', 'NN', 'IN', 'DT', 'NNP', 'POS', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

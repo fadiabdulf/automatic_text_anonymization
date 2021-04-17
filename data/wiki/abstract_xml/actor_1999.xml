@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>William J. Dyer</title>
+<link/>https://en.wikipedia.org/wiki/William_J._Dyer
+<annotated>0</annotated>
+<originalabstract>William J. Dyer (March 11, 1881 – December 22, 1933) was an American actor of the silent era. He appeared in dozens of films, mostly Westerns and action films, between 1915 and 1933. He was born in Atlanta, Georgia and died in Hollywood, California. He was also credited as William Dyer and Bill Dyer.</originalabstract>
+<abstract>William_J._Dyer ( March_11_,_1881 – December_22_,_1933 ) was an_American_actor of the_silent_era . He appeared in dozens of films , mostly Westerns_and_action_films , between 1915_and_1933 . He was_born in Atlanta , Georgia and died in Hollywood , California . He was_also_credited as William_Dyer and Bill_Dyer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'J.'), (11, 'Dyer'), (16, '('), (17, 'March'), (23, '11'), (25, ','), (27, '1881'), (32, '–'), (34, 'December'), (43, '22'), (45, ','), (47, '1933'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (75, 'of'), (78, 'the'), (82, 'silent'), (89, 'era'), (92, '.'), (94, 'He'), (97, 'appeared'), (106, 'in'), (109, 'dozens'), (116, 'of'), (119, 'films'), (124, ','), (126, 'mostly'), (133, 'Westerns'), (142, 'and'), (146, 'action'), (153, 'films'), (158, ','), (160, 'between'), (168, '1915'), (173, 'and'), (177, '1933'), (181, '.'), (183, 'He'), (186, 'was'), (190, 'born'), (195, 'in'), (198, 'Atlanta'), (205, ','), (207, 'Georgia'), (215, 'and'), (219, 'died'), (224, 'in'), (227, 'Hollywood'), (236, ','), (238, 'California'), (248, '.'), (250, 'He'), (253, 'was'), (257, 'also'), (262, 'credited'), (271, 'as'), (274, 'William'), (282, 'Dyer'), (287, 'and'), (291, 'Bill'), (296, 'Dyer'), (300, '.')])</stanford_tokens>
+<opennlp_chunks>[('William J. Dyer',0, 15), ('March 11, 1881',17, 31), ('December 22, 1933',34, 51), ('an American actor',57, 74), ('the silent era',78, 92), ('Westerns and action films',133, 158), ('1915 and 1933',168, 181), ('was born',186, 194), ('was also credited',253, 270), ('William Dyer',274, 286), ('Bill Dyer',291, 300)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNS', 'IN', 'NNS', ',', 'RB', 'NNP', 'CC', 'NN', 'NNS', ',', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'J.'), (11, 'Dyer'), (16, '('), (17, 'March'), (23, '11'), (25, ','), (27, '1881'), (32, '–'), (34, 'December'), (43, '22'), (45, ','), (47, '1933'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (75, 'of'), (78, 'the'), (82, 'silent'), (89, 'era'), (92, '.'), (94, 'He'), (97, 'appeared'), (106, 'in'), (109, 'dozens'), (116, 'of'), (119, 'films'), (124, ','), (126, 'mostly'), (133, 'Westerns'), (142, 'and'), (146, 'action'), (153, 'films'), (158, ','), (160, 'between'), (168, '1915'), (173, 'and'), (177, '1933'), (181, '.'), (183, 'He'), (186, 'was'), (190, 'born'), (195, 'in'), (198, 'Atlanta'), (205, ','), (207, 'Georgia'), (215, 'and'), (219, 'died'), (224, 'in'), (227, 'Hollywood'), (236, ','), (238, 'California'), (248, '.'), (250, 'He'), (253, 'was'), (257, 'also'), (262, 'credited'), (271, 'as'), (274, 'William'), (282, 'Dyer'), (287, 'and'), (291, 'Bill'), (296, 'Dyer'), (300, '.')])</spacy_tokens>
+<spacy_chunks>[('William J. Dyer', 0, 15), ('(March', 16, 22), ('March 11, 1881', 17, 31), ('December 22, 1933', 34, 51), ('an American actor', 57, 74), ('the silent era', 78, 92), ('dozens', 109, 115), ('mostly Westerns', 126, 141), ('action films', 146, 158), ('Atlanta, Georgia', 198, 214), ('Hollywood, California', 227, 248), ('William Dyer', 274, 286), ('Bill Dyer', 291, 300)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNS', 'IN', 'NNS', ',', 'RB', 'NNP', 'CC', 'NN', 'NNS', ',', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

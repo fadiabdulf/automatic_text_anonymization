@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Virginia Vale</title>
+<link/>https://en.wikipedia.org/wiki/Virginia_Vale
+<annotated>0</annotated>
+<originalabstract>Virginia Vale (born Dorothy Howe, 20 May 1920 – 14 Sep 2006) was an American film actress.  She starred in a number of B-movie Westerns but took a variety of other roles as well, notably in Blonde Comet (1941), in which she played a race car driver.</originalabstract>
+<abstract>Virginia_Vale ( born Dorothy_Howe , 20_May_1920 – 14_Sep_2006 ) was an_American_film_actress . She starred in a_number of B-movie_Westerns but took a_variety of other_roles as_well , notably in Blonde_Comet_(_1941_) , in which she played a_race_car_driver .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Virginia'), (9, 'Vale'), (14, '('), (15, 'born'), (20, 'Dorothy'), (28, 'Howe'), (32, ','), (34, '20'), (37, 'May'), (41, '1920'), (46, '–'), (48, '14'), (51, 'Sep'), (55, '2006'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'film'), (82, 'actress'), (89, '.'), (92, 'She'), (96, 'starred'), (104, 'in'), (107, 'a'), (109, 'number'), (116, 'of'), (119, 'B-movie'), (127, 'Westerns'), (136, 'but'), (140, 'took'), (145, 'a'), (147, 'variety'), (155, 'of'), (158, 'other'), (164, 'roles'), (170, 'as'), (173, 'well'), (177, ','), (179, 'notably'), (187, 'in'), (190, 'Blonde'), (197, 'Comet'), (203, '('), (204, '1941'), (208, ')'), (209, ','), (211, 'in'), (214, 'which'), (220, 'she'), (224, 'played'), (231, 'a'), (233, 'race'), (238, 'car'), (242, 'driver'), (248, '.')])</stanford_tokens>
+<opennlp_chunks>[('Virginia Vale',0, 13), ('Dorothy Howe',20, 32), ('20 May 1920',34, 45), ('14 Sep 2006',48, 59), ('an American film actress',65, 89), ('a number',107, 115), ('B-movie Westerns',119, 135), ('a variety',145, 154), ('other roles',158, 169), ('as well',170, 177), ('Blonde Comet (1941)',190, 209), ('a race car driver',231, 248)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'RB', 'RB', ',', 'RB', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Virginia'), (9, 'Vale'), (14, '('), (15, 'born'), (20, 'Dorothy'), (28, 'Howe'), (32, ','), (34, '20'), (37, 'May'), (41, '1920'), (46, '–'), (48, '14'), (51, 'Sep'), (55, '2006'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'film'), (82, 'actress'), (89, '.'), (92, 'She'), (96, 'starred'), (104, 'in'), (107, 'a'), (109, 'number'), (116, 'of'), (119, 'B'), (120, '-'), (121, 'movie'), (127, 'Westerns'), (136, 'but'), (140, 'took'), (145, 'a'), (147, 'variety'), (155, 'of'), (158, 'other'), (164, 'roles'), (170, 'as'), (173, 'well'), (177, ','), (179, 'notably'), (187, 'in'), (190, 'Blonde'), (197, 'Comet'), (203, '('), (204, '1941'), (208, ')'), (209, ','), (211, 'in'), (214, 'which'), (220, 'she'), (224, 'played'), (231, 'a'), (233, 'race'), (238, 'car'), (242, 'driver'), (248, '.')])</spacy_tokens>
+<spacy_chunks>[('Virginia Vale', 0, 13), ('(born Dorothy Howe', 14, 32), ('20 May 1920', 34, 45), ('14 Sep', 48, 54), ('an American film actress', 65, 89), ('a number', 107, 115), ('B-movie Westerns', 119, 135), ('a variety', 145, 154), ('other roles', 158, 169), ('Blonde Comet', 190, 202), ('a race car driver', 231, 248)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NN', 'HYPH', 'NN', 'NNP', 'CC', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'RB', 'RB', ',', 'RB', 'IN', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

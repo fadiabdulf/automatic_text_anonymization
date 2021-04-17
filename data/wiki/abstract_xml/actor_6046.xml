@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Matt Shakman</title>
+<link/>https://en.wikipedia.org/wiki/Matt_Shakman
+<annotated>0</annotated>
+<originalabstract>Matt Shakman (born August 8, 1975) is an American film, television, and theatre director, and former child actor.  He is most well known for his work on It's Always Sunny in Philadelphia, Fargo and Game of Thrones. He is the artistic director of the Geffen Playhouse in Los Angeles, California.</originalabstract>
+<abstract>Matt_Shakman ( born August_8_,_1975 ) is an_American_film , television , and theatre_director , and former_child_actor . He is most_well known for his_work on It 's Always_Sunny in Philadelphia_,_Fargo_and_Game of Thrones . He is the_artistic_director of the_Geffen_Playhouse in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Matt'), (5, 'Shakman'), (13, '('), (14, 'born'), (19, 'August'), (26, '8'), (27, ','), (29, '1975'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'film'), (54, ','), (56, 'television'), (66, ','), (68, 'and'), (72, 'theatre'), (80, 'director'), (88, ','), (90, 'and'), (94, 'former'), (101, 'child'), (107, 'actor'), (112, '.'), (115, 'He'), (118, 'is'), (121, 'most'), (126, 'well'), (131, 'known'), (137, 'for'), (141, 'his'), (145, 'work'), (150, 'on'), (153, 'It'), (155, '\'s'), (158, 'Always'), (165, 'Sunny'), (171, 'in'), (174, 'Philadelphia'), (186, ','), (188, 'Fargo'), (194, 'and'), (198, 'Game'), (203, 'of'), (206, 'Thrones'), (213, '.'), (215, 'He'), (218, 'is'), (221, 'the'), (225, 'artistic'), (234, 'director'), (243, 'of'), (246, 'the'), (250, 'Geffen'), (257, 'Playhouse'), (267, 'in'), (270, 'Los'), (274, 'Angeles'), (281, ','), (283, 'California'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('Matt Shakman',0, 12), ('August 8, 1975',19, 33), ('an American film',38, 54), ('theatre director',72, 88), ('former child actor',94, 112), ('most well',121, 130), ('his work',141, 149), ('Always Sunny',158, 170), ('Philadelphia, Fargo and Game',174, 202), ('the artistic director',221, 242), ('the Geffen Playhouse',246, 266), ('Los Angeles',270, 281)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', ',', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'PRP', 'VBZ', 'RB', 'JJ', 'IN', 'NNP', ',', 'NNP', 'CC', 'NNP', 'IN', 'NNPS', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Matt'), (5, 'Shakman'), (13, '('), (14, 'born'), (19, 'August'), (26, '8'), (27, ','), (29, '1975'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'film'), (54, ','), (56, 'television'), (66, ','), (68, 'and'), (72, 'theatre'), (80, 'director'), (88, ','), (90, 'and'), (94, 'former'), (101, 'child'), (107, 'actor'), (112, '.'), (115, 'He'), (118, 'is'), (121, 'most'), (126, 'well'), (131, 'known'), (137, 'for'), (141, 'his'), (145, 'work'), (150, 'on'), (153, 'It'), (155, "'s"), (158, 'Always'), (165, 'Sunny'), (171, 'in'), (174, 'Philadelphia'), (186, ','), (188, 'Fargo'), (194, 'and'), (198, 'Game'), (203, 'of'), (206, 'Thrones'), (213, '.'), (215, 'He'), (218, 'is'), (221, 'the'), (225, 'artistic'), (234, 'director'), (243, 'of'), (246, 'the'), (250, 'Geffen'), (257, 'Playhouse'), (267, 'in'), (270, 'Los'), (274, 'Angeles'), (281, ','), (283, 'California'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('Matt Shakman', 0, 12), ('August 8, 1975', 19, 33), ('an American film', 38, 54), ('television', 56, 66), ('theatre director', 72, 88), ('former child actor', 94, 112), ('his work', 141, 149), ("It's Always Sunny in Philadelphia", 153, 186), ('Game of Thrones', 198, 213), ('the artistic director', 221, 242), ('the Geffen Playhouse', 246, 266), ('Los Angeles', 270, 281), ('California', 283, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', ',', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'PRP', 'VBZ', 'RB', 'JJ', 'IN', 'NNP', ',', 'NNP', 'CC', 'NNP', 'IN', 'NNPS', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

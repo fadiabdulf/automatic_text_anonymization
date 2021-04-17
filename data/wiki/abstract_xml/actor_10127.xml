@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robin Renucci</title>
+<link/>https://en.wikipedia.org/wiki/Robin_Renucci
+<annotated>0</annotated>
+<originalabstract>Robin Renucci (born 11 July 1956, in Le Creusot, Saône-et-Loire) is a French film and television actor and film director.</originalabstract>
+<abstract>Robin_Renucci ( born 11_July_1956 , in Le_Creusot , Saône-et-Loire ) is a_French_film_and_television_actor_and_film_director .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robin'), (6, 'Renucci'), (14, '('), (15, 'born'), (20, '11'), (23, 'July'), (28, '1956'), (32, ','), (34, 'in'), (37, 'Le'), (40, 'Creusot'), (47, ','), (49, 'Saône-et-Loire'), (63, ')'), (65, 'is'), (68, 'a'), (70, 'French'), (77, 'film'), (82, 'and'), (86, 'television'), (97, 'actor'), (103, 'and'), (107, 'film'), (112, 'director'), (120, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robin Renucci',0, 13), ('11 July 1956',20, 32), ('Le Creusot',37, 47), ('a French film and television actor and film director',68, 120)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robin'), (6, 'Renucci'), (14, '('), (15, 'born'), (20, '11'), (23, 'July'), (28, '1956'), (32, ','), (34, 'in'), (37, 'Le'), (40, 'Creusot'), (47, ','), (49, 'Saône'), (54, '-'), (55, 'et'), (57, '-'), (58, 'Loire'), (63, ')'), (65, 'is'), (68, 'a'), (70, 'French'), (77, 'film'), (82, 'and'), (86, 'television'), (97, 'actor'), (103, 'and'), (107, 'film'), (112, 'director'), (120, '.')])</spacy_tokens>
+<spacy_chunks>[('Robin Renucci', 0, 13), ('11 July 1956', 20, 32), ('Le Creusot', 37, 47), ('Saône-et-Loire', 49, 63), ('a French film and television actor', 68, 102), ('Film director', 107, 120)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Yvonne Furneaux</title>
+<link/>https://en.wikipedia.org/wiki/Yvonne_Furneaux
+<annotated>0</annotated>
+<originalabstract>Yvonne Furneaux (born 11 May 1928, Roubaix, Nord-Pas-de-Calais, France) is a French film actress.</originalabstract>
+<abstract>Yvonne_Furneaux ( born 11_May_1928 , Roubaix , Nord-Pas-de-Calais , France ) is a_French_film_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Yvonne'), (7, 'Furneaux'), (16, '('), (17, 'born'), (22, '11'), (25, 'May'), (29, '1928'), (33, ','), (35, 'Roubaix'), (42, ','), (44, 'Nord-Pas-de-Calais'), (62, ','), (64, 'France'), (70, ')'), (72, 'is'), (75, 'a'), (77, 'French'), (84, 'film'), (89, 'actress'), (96, '.')])</stanford_tokens>
+<opennlp_chunks>[('Yvonne Furneaux',0, 15), ('11 May 1928',22, 33), ('a French film actress',75, 96)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', ',', 'NNP', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Yvonne'), (7, 'Furneaux'), (16, '('), (17, 'born'), (22, '11'), (25, 'May'), (29, '1928'), (33, ','), (35, 'Roubaix'), (42, ','), (44, 'Nord'), (48, '-'), (49, 'Pas'), (52, '-'), (53, 'de'), (55, '-'), (56, 'Calais'), (62, ','), (64, 'France'), (70, ')'), (72, 'is'), (75, 'a'), (77, 'French'), (84, 'film'), (89, 'actress'), (96, '.')])</spacy_tokens>
+<spacy_chunks>[('Yvonne Furneaux', 0, 15), ('11 May 1928', 22, 33), ('Roubaix', 35, 42), ('Nord-Pas-de-Calais', 44, 62), ('France', 64, 70), ('a French film actress', 75, 96)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', ',', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

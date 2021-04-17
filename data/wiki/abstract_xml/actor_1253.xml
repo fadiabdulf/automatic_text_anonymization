@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Julian Christopher</title>
+<link/>https://en.wikipedia.org/wiki/Julian_Christopher
+<annotated>0</annotated>
+<originalabstract>Julian Christopher (born November 7, 1944) is an American actor. He is best known for his roles in various films and television series from the 1970s to the present, including The Magician, with Bill Bixby. His most notable appearances were in Cool Breeze, X-Men: The Last Stand, Elysium and 88 Minutes.</originalabstract>
+<abstract>Julian_Christopher ( born November_7_,_1944 ) is an_American_actor . He is_best_known for his_roles in various_films_and_television_series from the_1970s to the_present , including The_Magician , with Bill_Bixby . His_most_notable_appearances were in Cool_Breeze , X-Men : The_Last_Stand_,_Elysium_and_88_Minutes .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Julian'), (7, 'Christopher'), (19, '('), (20, 'born'), (25, 'November'), (34, '7'), (35, ','), (37, '1944'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (63, '.'), (65, 'He'), (68, 'is'), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'his'), (90, 'roles'), (96, 'in'), (99, 'various'), (107, 'films'), (113, 'and'), (117, 'television'), (128, 'series'), (135, 'from'), (140, 'the'), (144, '1970s'), (150, 'to'), (153, 'the'), (157, 'present'), (164, ','), (166, 'including'), (176, 'The'), (180, 'Magician'), (188, ','), (190, 'with'), (195, 'Bill'), (200, 'Bixby'), (205, '.'), (207, 'His'), (211, 'most'), (216, 'notable'), (224, 'appearances'), (236, 'were'), (241, 'in'), (244, 'Cool'), (249, 'Breeze'), (255, ','), (257, 'X-Men'), (262, ':'), (264, 'The'), (268, 'Last'), (273, 'Stand'), (278, ','), (280, 'Elysium'), (288, 'and'), (292, '88'), (295, 'Minutes'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Julian Christopher',0, 18), ('November 7, 1944',25, 41), ('an American actor',46, 63), ('is best known',68, 81), ('his roles',86, 95), ('various films and television series',99, 134), ('the 1970s',140, 149), ('the present',153, 164), ('The Magician',176, 188), ('Bill Bixby',195, 205), ('His most notable appearances',207, 235), ('Cool Breeze',244, 255), ('The Last Stand, Elysium and 88 Minutes',264, 302)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NN', 'IN', 'DT', 'CD', 'TO', 'DT', 'JJ', ',', 'VBG', 'DT', 'NN', ',', 'IN', 'NNP', 'NNP', '.', 'PRP$', 'RBS', 'JJ', 'NNS', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ':', 'DT', 'JJ', 'VB', ',', 'NNP', 'CC', 'CD', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Julian'), (7, 'Christopher'), (19, '('), (20, 'born'), (25, 'November'), (34, '7'), (35, ','), (37, '1944'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (63, '.'), (65, 'He'), (68, 'is'), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'his'), (90, 'roles'), (96, 'in'), (99, 'various'), (107, 'films'), (113, 'and'), (117, 'television'), (128, 'series'), (135, 'from'), (140, 'the'), (144, '1970s'), (150, 'to'), (153, 'the'), (157, 'present'), (164, ','), (166, 'including'), (176, 'The'), (180, 'Magician'), (188, ','), (190, 'with'), (195, 'Bill'), (200, 'Bixby'), (205, '.'), (207, 'His'), (211, 'most'), (216, 'notable'), (224, 'appearances'), (236, 'were'), (241, 'in'), (244, 'Cool'), (249, 'Breeze'), (255, ','), (257, 'X'), (258, '-'), (259, 'Men'), (262, ':'), (264, 'The'), (268, 'Last'), (273, 'Stand'), (278, ','), (280, 'Elysium'), (288, 'and'), (292, '88'), (295, 'Minutes'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Julian Christopher', 0, 18), ('November 7, 1944', 25, 41), ('an American actor', 46, 63), ('his roles', 86, 95), ('various films and television series', 99, 134), ('the present', 153, 164), ('The Magician', 176, 188), ('Bill Bixby', 195, 205), ('His most notable appearances', 207, 235), ('Cool Breeze', 244, 255), ('X-Men: The Last Stand', 257, 278), ('Elysium', 280, 287), ('88 Minutes', 292, 302)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NN', 'IN', 'DT', 'CD', 'IN', 'DT', 'NN', ',', 'VBG', 'DT', 'NNP', ',', 'IN', 'NNP', 'NNP', '.', 'PRP$', 'RBS', 'JJ', 'NNS', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'NN', ':', 'DT', 'JJ', 'NNP', ',', 'NNP', 'CC', 'CD', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

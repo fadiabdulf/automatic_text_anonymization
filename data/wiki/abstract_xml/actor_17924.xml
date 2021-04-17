@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ophelia Lovibond</title>
+<link/>https://en.wikipedia.org/wiki/Ophelia_Lovibond
+<annotated>0</annotated>
+<originalabstract>Ophelia Lucy Lovibond (born 19 February 1986) is an English actress. She is known for her roles as Carina in the film Guardians of the Galaxy and as Izzy Gould in the BBC's W1A.</originalabstract>
+<abstract>Ophelia_Lucy_Lovibond ( born 19_February_1986 ) is an_English_actress . She is_known for her_roles as Carina in the_film_Guardians of the_Galaxy and as Izzy_Gould in the_BBC 's_W1A .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ophelia'), (8, 'Lucy'), (13, 'Lovibond'), (22, '('), (23, 'born'), (28, '19'), (31, 'February'), (40, '1986'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'English'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'is'), (76, 'known'), (82, 'for'), (86, 'her'), (90, 'roles'), (96, 'as'), (99, 'Carina'), (106, 'in'), (109, 'the'), (113, 'film'), (118, 'Guardians'), (128, 'of'), (131, 'the'), (135, 'Galaxy'), (142, 'and'), (146, 'as'), (149, 'Izzy'), (154, 'Gould'), (160, 'in'), (163, 'the'), (167, 'BBC'), (170, '\'s'), (173, 'W1A'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ophelia Lucy Lovibond',0, 21), ('19 February 1986',28, 44), ('an English actress',49, 67), ('is known',73, 81), ('her roles',86, 95), ('the film Guardians',109, 127), ('the Galaxy',131, 141), ('Izzy Gould',149, 159), ('the BBC',163, 170), ('\'s W1A',170, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'POS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ophelia'), (8, 'Lucy'), (13, 'Lovibond'), (22, '('), (23, 'born'), (28, '19'), (31, 'February'), (40, '1986'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'English'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'is'), (76, 'known'), (82, 'for'), (86, 'her'), (90, 'roles'), (96, 'as'), (99, 'Carina'), (106, 'in'), (109, 'the'), (113, 'film'), (118, 'Guardians'), (128, 'of'), (131, 'the'), (135, 'Galaxy'), (142, 'and'), (146, 'as'), (149, 'Izzy'), (154, 'Gould'), (160, 'in'), (163, 'the'), (167, 'BBC'), (170, "'s"), (173, 'W1A.')])</spacy_tokens>
+<spacy_chunks>[('Ophelia Lucy Lovibond', 0, 21), ('19 February 1986', 28, 44), ('an English actress', 49, 67), ('her roles', 86, 95), ('Carina', 99, 105), ('the film', 109, 117), ('Guardians of the Galaxy', 118, 141), ('Izzy Gould', 149, 159), ("the BBC's W1A.", 163, 177)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NNPS', 'IN', 'DT', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'POS', 'NNS']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

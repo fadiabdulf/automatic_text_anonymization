@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peter Helm</title>
+<link/>https://en.wikipedia.org/wiki/Peter_Helm
+<annotated>0</annotated>
+<originalabstract>Peter J. Helm (born December 22, 1941) is an actor originally from Toronto, Ontario, Canada, who appeared on American television from 1960-1971.</originalabstract>
+<abstract>Peter_J._Helm ( born December_22_,_1941 ) is an_actor originally from Toronto , Ontario , Canada , who appeared on American_television from 1960-1971 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peter'), (6, 'J.'), (9, 'Helm'), (14, '('), (15, 'born'), (20, 'December'), (29, '22'), (31, ','), (33, '1941'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'actor'), (51, 'originally'), (62, 'from'), (67, 'Toronto'), (74, ','), (76, 'Ontario'), (83, ','), (85, 'Canada'), (91, ','), (93, 'who'), (97, 'appeared'), (106, 'on'), (109, 'American'), (118, 'television'), (129, 'from'), (134, '1960-1971'), (143, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peter J. Helm',0, 13), ('December 22, 1941',20, 37), ('an actor',42, 50), ('American television',109, 128)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'RB', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peter'), (6, 'J.'), (9, 'Helm'), (14, '('), (15, 'born'), (20, 'December'), (29, '22'), (31, ','), (33, '1941'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'actor'), (51, 'originally'), (62, 'from'), (67, 'Toronto'), (74, ','), (76, 'Ontario'), (83, ','), (85, 'Canada'), (91, ','), (93, 'who'), (97, 'appeared'), (106, 'on'), (109, 'American'), (118, 'television'), (129, 'from'), (134, '1960'), (138, '-'), (139, '1971'), (143, '.')])</spacy_tokens>
+<spacy_chunks>[('Peter J. Helm', 0, 13), ('an actor', 42, 50), ('Toronto', 67, 74), ('Ontario', 76, 83), ('Canada', 85, 91), ('American television', 109, 128)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'RB', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'IN', 'CD', 'SYM', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

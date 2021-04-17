@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lita Milan</title>
+<link/>https://en.wikipedia.org/wiki/Lita_Milan
+<annotated>0</annotated>
+<originalabstract>Lita Milan (born 1933) is an American actress. Her film credits include The Violent Men (1955), Desert Sands (1955), Gun Brothers (1956), The Ride Back (1957), Bayou (1957), The Left Handed Gun (1958), Never Love a Stranger (1958) and I Mobster (1959).</originalabstract>
+<abstract>Lita_Milan ( born 1933 ) is an_American_actress . Her_film_credits include The_Violent_Men_(_1955_) , Desert_Sands_(_1955_) , Gun_Brothers_(_1956_) , The_Ride Back ( 1957_) , Bayou_(_1957_) , The_Left_Handed_Gun_(_1958_) , Never Love a_Stranger_(_1958_) and I Mobster (_1959_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lita'), (5, 'Milan'), (11, '('), (12, 'born'), (17, '1933'), (21, ')'), (23, 'is'), (26, 'an'), (29, 'American'), (38, 'actress'), (45, '.'), (47, 'Her'), (51, 'film'), (56, 'credits'), (64, 'include'), (72, 'The'), (76, 'Violent'), (84, 'Men'), (88, '('), (89, '1955'), (93, ')'), (94, ','), (96, 'Desert'), (103, 'Sands'), (109, '('), (110, '1955'), (114, ')'), (115, ','), (117, 'Gun'), (121, 'Brothers'), (130, '('), (131, '1956'), (135, ')'), (136, ','), (138, 'The'), (142, 'Ride'), (147, 'Back'), (152, '('), (153, '1957'), (157, ')'), (158, ','), (160, 'Bayou'), (166, '('), (167, '1957'), (171, ')'), (172, ','), (174, 'The'), (178, 'Left'), (183, 'Handed'), (190, 'Gun'), (194, '('), (195, '1958'), (199, ')'), (200, ','), (202, 'Never'), (208, 'Love'), (213, 'a'), (215, 'Stranger'), (224, '('), (225, '1958'), (229, ')'), (231, 'and'), (235, 'I'), (237, 'Mobster'), (245, '('), (246, '1959'), (250, ')'), (251, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lita Milan',0, 10), ('an American actress',26, 45), ('Her film credits',47, 63), ('The Violent Men (1955)',72, 94), ('Desert Sands (1955)',96, 115), ('Gun Brothers (1956)',117, 136), ('The Ride',138, 146), ('1957)',153, 158), ('Bayou (1957)',160, 172), ('The Left Handed Gun (1958)',174, 200), ('a Stranger (1958)',213, 230), ('(1959)',245, 251)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNPS', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NN', 'RB', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'VBN', 'VBN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'RB', 'NNP', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'PRP', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lita'), (5, 'Milan'), (11, '('), (12, 'born'), (17, '1933'), (21, ')'), (23, 'is'), (26, 'an'), (29, 'American'), (38, 'actress'), (45, '.'), (47, 'Her'), (51, 'film'), (56, 'credits'), (64, 'include'), (72, 'The'), (76, 'Violent'), (84, 'Men'), (88, '('), (89, '1955'), (93, ')'), (94, ','), (96, 'Desert'), (103, 'Sands'), (109, '('), (110, '1955'), (114, ')'), (115, ','), (117, 'Gun'), (121, 'Brothers'), (130, '('), (131, '1956'), (135, ')'), (136, ','), (138, 'The'), (142, 'Ride'), (147, 'Back'), (152, '('), (153, '1957'), (157, ')'), (158, ','), (160, 'Bayou'), (166, '('), (167, '1957'), (171, ')'), (172, ','), (174, 'The'), (178, 'Left'), (183, 'Handed'), (190, 'Gun'), (194, '('), (195, '1958'), (199, ')'), (200, ','), (202, 'Never'), (208, 'Love'), (213, 'a'), (215, 'Stranger'), (224, '('), (225, '1958'), (229, ')'), (231, 'and'), (235, 'I'), (237, 'Mobster'), (245, '('), (246, '1959'), (250, ')'), (251, '.')])</spacy_tokens>
+<spacy_chunks>[('Lita Milan', 0, 10), ('an American actress', 26, 45), ('Her film credits', 47, 63), ('The Violent Men', 72, 87), ('Desert Sands', 96, 108), ('Gun Brothers', 117, 129), ('The Ride Back', 138, 151), ('The Left Handed Gun', 174, 193), ('Never Love a Stranger', 202, 223), ('I Mobster', 235, 244)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'DT', 'JJ', 'NNPS', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNPS', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNPS', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'JJ', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'RB', 'VB', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

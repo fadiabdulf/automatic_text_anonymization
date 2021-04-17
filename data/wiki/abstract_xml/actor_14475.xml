@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Katherine Perry</title>
+<link/>https://en.wikipedia.org/wiki/Katherine_Perry
+<annotated>0</annotated>
+<originalabstract>Katherine Perry (January 5, 1897 – October 14, 1983) was an American stage and film actress. She appeared in 36 films between 1920 and 1936.
+Perry also was in the Ziegfeld Follies.She was born in New York City and died in Woodland Hills, Los Angeles. She was the second wife of Owen Moore.</originalabstract>
+<abstract>Katherine_Perry ( January_5_,_1897 – October_14_,_1983 ) was an_American_stage_and_film_actress . She appeared in 36_films between 1920_and_1936 . Perry also was in the_Ziegfeld_Follies.She was_born in New_York_City and died in Woodland_Hills , Los_Angeles . She was the_second_wife of Owen_Moore .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Katherine'), (10, 'Perry'), (16, '('), (17, 'January'), (25, '5'), (26, ','), (28, '1897'), (33, '–'), (35, 'October'), (43, '14'), (45, ','), (47, '1983'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'stage'), (75, 'and'), (79, 'film'), (84, 'actress'), (91, '.'), (93, 'She'), (97, 'appeared'), (106, 'in'), (109, '36'), (112, 'films'), (118, 'between'), (126, '1920'), (131, 'and'), (135, '1936'), (139, '.'), (141, 'Perry'), (147, 'also'), (152, 'was'), (156, 'in'), (159, 'the'), (163, 'Ziegfeld'), (172, 'Follies.She'), (184, 'was'), (188, 'born'), (193, 'in'), (196, 'New'), (200, 'York'), (205, 'City'), (210, 'and'), (214, 'died'), (219, 'in'), (222, 'Woodland'), (231, 'Hills'), (236, ','), (238, 'Los'), (242, 'Angeles'), (249, '.'), (251, 'She'), (255, 'was'), (259, 'the'), (263, 'second'), (270, 'wife'), (275, 'of'), (278, 'Owen'), (283, 'Moore'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Katherine Perry',0, 15), ('January 5, 1897',17, 32), ('October 14, 1983',35, 51), ('an American stage and film actress',57, 91), ('36 films',109, 117), ('1920 and 1936',126, 139), ('the Ziegfeld Follies.She',159, 183), ('was born',184, 192), ('New York City',196, 209), ('Woodland Hills',222, 236), ('Los Angeles',238, 249), ('the second wife',259, 274), ('Owen Moore',278, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Katherine'), (10, 'Perry'), (16, '('), (17, 'January'), (25, '5'), (26, ','), (28, '1897'), (33, '–'), (35, 'October'), (43, '14'), (45, ','), (47, '1983'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'stage'), (75, 'and'), (79, 'film'), (84, 'actress'), (91, '.'), (93, 'She'), (97, 'appeared'), (106, 'in'), (109, '36'), (112, 'films'), (118, 'between'), (126, '1920'), (131, 'and'), (135, '1936'), (139, '.'), (141, 'Perry'), (147, 'also'), (152, 'was'), (156, 'in'), (159, 'the'), (163, 'Ziegfeld'), (172, 'Follies'), (179, '.'), (180, 'She'), (184, 'was'), (188, 'born'), (193, 'in'), (196, 'New'), (200, 'York'), (205, 'City'), (210, 'and'), (214, 'died'), (219, 'in'), (222, 'Woodland'), (231, 'Hills'), (236, ','), (238, 'Los'), (242, 'Angeles'), (249, '.'), (251, 'She'), (255, 'was'), (259, 'the'), (263, 'second'), (270, 'wife'), (275, 'of'), (278, 'Owen'), (283, 'Moore'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Katherine Perry', 0, 15), ('(January', 16, 24), ('January 5, 1897', 17, 32), ('October 14, 1983', 35, 51), ('an American stage and film actress', 57, 91), ('36 films', 109, 117), ('the Ziegfeld Follies', 159, 179), ('New York City', 196, 209), ('Woodland Hills', 222, 236), ('Los Angeles', 238, 249), ('the second wife', 259, 274), ('Owen Moore', 278, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

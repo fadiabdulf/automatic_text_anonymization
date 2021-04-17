@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Simone Renant</title>
+<link/>https://en.wikipedia.org/wiki/Simone_Renant
+<annotated>0</annotated>
+<originalabstract>Simone Renant (19 March 1911 – 29 March 2004) was a French film actress. She appeared in 43 films between 1934 and 1983. She was born in Amiens, France and died in Garches, France.</originalabstract>
+<abstract>Simone_Renant ( 19_March_1911 – 29_March_2004 ) was a_French_film_actress . She appeared in 43_films between 1934_and_1983 . She was_born in Amiens_,_France and died in Garches , France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Simone'), (7, 'Renant'), (14, '('), (15, '19'), (18, 'March'), (24, '1911'), (29, '–'), (31, '29'), (34, 'March'), (40, '2004'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'French'), (59, 'film'), (64, 'actress'), (71, '.'), (73, 'She'), (77, 'appeared'), (86, 'in'), (89, '43'), (92, 'films'), (98, 'between'), (106, '1934'), (111, 'and'), (115, '1983'), (119, '.'), (121, 'She'), (125, 'was'), (129, 'born'), (134, 'in'), (137, 'Amiens'), (143, ','), (145, 'France'), (152, 'and'), (156, 'died'), (161, 'in'), (164, 'Garches'), (171, ','), (173, 'France'), (179, '.')])</stanford_tokens>
+<opennlp_chunks>[('Simone Renant',0, 13), ('19 March 1911',15, 28), ('29 March 2004',31, 44), ('a French film actress',50, 71), ('43 films',89, 97), ('1934 and 1983',106, 119), ('was born',125, 133), ('Amiens, France',137, 151)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Simone'), (7, 'Renant'), (14, '('), (15, '19'), (18, 'March'), (24, '1911'), (29, '–'), (31, '29'), (34, 'March'), (40, '2004'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'French'), (59, 'film'), (64, 'actress'), (71, '.'), (73, 'She'), (77, 'appeared'), (86, 'in'), (89, '43'), (92, 'films'), (98, 'between'), (106, '1934'), (111, 'and'), (115, '1983'), (119, '.'), (121, 'She'), (125, 'was'), (129, 'born'), (134, 'in'), (137, 'Amiens'), (143, ','), (145, 'France'), (152, 'and'), (156, 'died'), (161, 'in'), (164, 'Garches'), (171, ','), (173, 'France'), (179, '.')])</spacy_tokens>
+<spacy_chunks>[('Simone Renant', 0, 13), ('(19 March', 14, 23), ('19 March 1911', 15, 28), ('29 March 2004', 31, 44), ('a French film actress', 50, 71), ('43 films', 89, 97), ('Amiens', 137, 143), ('France', 145, 151), ('Garches', 164, 171)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

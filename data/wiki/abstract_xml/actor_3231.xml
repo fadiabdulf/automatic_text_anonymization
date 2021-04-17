@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wallace Howe</title>
+<link/>https://en.wikipedia.org/wiki/Wallace_Howe
+<annotated>0</annotated>
+<originalabstract>Wallace Howe (March 4, 1878 in Fitchburg, Massachusetts – November 23, 1957 in Los Angeles, California), born Orlando Wallace Howe, was an American film actor. He appeared in 104 films between 1918 and 1936, including many films with Harold Lloyd and Stan Laurel, and in short films with the original Our Gang.</originalabstract>
+<abstract>Wallace_Howe ( March_4_,_1878 in Fitchburg , Massachusetts – November_23_,_1957 in Los_Angeles , California ) , born Orlando_Wallace_Howe , was an_American_film_actor . He appeared in 104_films between 1918_and_1936 , including many_films with Harold_Lloyd and Stan_Laurel , and in short_films with the_original_Our_Gang .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wallace'), (8, 'Howe'), (13, '('), (14, 'March'), (20, '4'), (21, ','), (23, '1878'), (28, 'in'), (31, 'Fitchburg'), (40, ','), (42, 'Massachusetts'), (56, '–'), (58, 'November'), (67, '23'), (69, ','), (71, '1957'), (76, 'in'), (79, 'Los'), (83, 'Angeles'), (90, ','), (92, 'California'), (102, ')'), (103, ','), (105, 'born'), (110, 'Orlando'), (118, 'Wallace'), (126, 'Howe'), (130, ','), (132, 'was'), (136, 'an'), (139, 'American'), (148, 'film'), (153, 'actor'), (158, '.'), (160, 'He'), (163, 'appeared'), (172, 'in'), (175, '104'), (179, 'films'), (185, 'between'), (193, '1918'), (198, 'and'), (202, '1936'), (206, ','), (208, 'including'), (218, 'many'), (223, 'films'), (229, 'with'), (234, 'Harold'), (241, 'Lloyd'), (247, 'and'), (251, 'Stan'), (256, 'Laurel'), (262, ','), (264, 'and'), (268, 'in'), (271, 'short'), (277, 'films'), (283, 'with'), (288, 'the'), (292, 'original'), (301, 'Our'), (305, 'Gang'), (309, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wallace Howe',0, 12), ('March 4, 1878',14, 27), ('November 23, 1957',58, 75), ('Los Angeles',79, 90), ('Orlando Wallace Howe',110, 130), ('an American film actor',136, 158), ('104 films',175, 184), ('1918 and 1936',193, 206), ('many films',218, 228), ('Harold Lloyd',234, 246), ('Stan Laurel',251, 262), ('short films',271, 282), ('the original Our Gang',288, 309)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'CC', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wallace'), (8, 'Howe'), (13, '('), (14, 'March'), (20, '4'), (21, ','), (23, '1878'), (28, 'in'), (31, 'Fitchburg'), (40, ','), (42, 'Massachusetts'), (56, '–'), (58, 'November'), (67, '23'), (69, ','), (71, '1957'), (76, 'in'), (79, 'Los'), (83, 'Angeles'), (90, ','), (92, 'California'), (102, ')'), (103, ','), (105, 'born'), (110, 'Orlando'), (118, 'Wallace'), (126, 'Howe'), (130, ','), (132, 'was'), (136, 'an'), (139, 'American'), (148, 'film'), (153, 'actor'), (158, '.'), (160, 'He'), (163, 'appeared'), (172, 'in'), (175, '104'), (179, 'films'), (185, 'between'), (193, '1918'), (198, 'and'), (202, '1936'), (206, ','), (208, 'including'), (218, 'many'), (223, 'films'), (229, 'with'), (234, 'Harold'), (241, 'Lloyd'), (247, 'and'), (251, 'Stan'), (256, 'Laurel'), (262, ','), (264, 'and'), (268, 'in'), (271, 'short'), (277, 'films'), (283, 'with'), (288, 'the'), (292, 'original'), (301, 'Our'), (305, 'Gang'), (309, '.')])</spacy_tokens>
+<spacy_chunks>[('Wallace Howe', 0, 12), ('(March', 13, 19), ('March 4, 1878', 14, 27), ('Fitchburg, Massachusetts', 31, 55), ('November 23, 1957', 58, 75), ('Los Angeles, California', 79, 102), ('Orlando Wallace Howe', 110, 130), ('an American film actor', 136, 158), ('104 films', 175, 184), ('many films', 218, 228), ('Harold Lloyd', 234, 246), ('Stan Laurel', 251, 262), ('short films', 271, 282), ('the original Our Gang', 288, 309)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', ',', 'VBD', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'CC', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'PRP$', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

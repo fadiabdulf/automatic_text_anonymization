@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lena Ashwell</title>
+<link/>https://en.wikipedia.org/wiki/Lena_Ashwell
+<annotated>0</annotated>
+<originalabstract>Lena Margaret Ashwell, OBE (28 September 1872 – 13 March 1957) was a British actress and theatre manager and producer, known as the first to organise large-scale entertainment for troops at the front, which she did during World War I.</originalabstract>
+<abstract>Lena_Margaret_Ashwell , OBE ( 28_September_1872 – 13_March_1957 ) was a_British_actress_and_theatre_manager_and_producer , known as the_first to_organise large-scale_entertainment for troops at the_front , which she did during World_War_I.</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lena'), (5, 'Margaret'), (14, 'Ashwell'), (21, ','), (23, 'OBE'), (27, '('), (28, '28'), (31, 'September'), (41, '1872'), (46, '–'), (48, '13'), (51, 'March'), (57, '1957'), (61, ')'), (63, 'was'), (67, 'a'), (69, 'British'), (77, 'actress'), (85, 'and'), (89, 'theatre'), (97, 'manager'), (105, 'and'), (109, 'producer'), (117, ','), (119, 'known'), (125, 'as'), (128, 'the'), (132, 'first'), (138, 'to'), (141, 'organise'), (150, 'large-scale'), (162, 'entertainment'), (176, 'for'), (180, 'troops'), (187, 'at'), (190, 'the'), (194, 'front'), (199, ','), (201, 'which'), (207, 'she'), (211, 'did'), (215, 'during'), (222, 'World'), (228, 'War'), (232, 'I.')])</stanford_tokens>
+<opennlp_chunks>[('Lena Margaret Ashwell',0, 21), ('28 September 1872',28, 45), ('13 March 1957',48, 61), ('a British actress and theatre manager and producer',67, 117), ('the first',128, 137), ('to organise',138, 149), ('large-scale entertainment',150, 175), ('the front',190, 199), ('World War I.',222, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'DT', 'JJ', 'TO', 'VB', 'JJ', 'NN', 'IN', 'NNS', 'IN', 'DT', 'NN', ',', 'WDT', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lena'), (5, 'Margaret'), (14, 'Ashwell'), (21, ','), (23, 'OBE'), (27, '('), (28, '28'), (31, 'September'), (41, '1872'), (46, '–'), (48, '13'), (51, 'March'), (57, '1957'), (61, ')'), (63, 'was'), (67, 'a'), (69, 'British'), (77, 'actress'), (85, 'and'), (89, 'theatre'), (97, 'manager'), (105, 'and'), (109, 'producer'), (117, ','), (119, 'known'), (125, 'as'), (128, 'the'), (132, 'first'), (138, 'to'), (141, 'organise'), (150, 'large'), (155, '-'), (156, 'scale'), (162, 'entertainment'), (176, 'for'), (180, 'troops'), (187, 'at'), (190, 'the'), (194, 'front'), (199, ','), (201, 'which'), (207, 'she'), (211, 'did'), (215, 'during'), (222, 'World'), (228, 'War'), (232, 'I.')])</spacy_tokens>
+<spacy_chunks>[('Lena Margaret Ashwell', 0, 21), ('28 September 1872', 28, 45), ('13 March 1957', 48, 61), ('a British actress', 67, 84), ('theatre manager', 89, 104), ('producer', 109, 117), ('large-scale entertainment', 150, 175), ('troops', 180, 186), ('the front', 190, 199), ('World War I.', 222, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'DT', 'JJ', 'TO', 'VB', 'JJ', 'HYPH', 'NN', 'NN', 'IN', 'NNS', 'IN', 'DT', 'NN', ',', 'WDT', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

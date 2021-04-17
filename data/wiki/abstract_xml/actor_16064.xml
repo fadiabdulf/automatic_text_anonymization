@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Holly Woodlawn</title>
+<link/>https://en.wikipedia.org/wiki/Holly_Woodlawn
+<annotated>0</annotated>
+<originalabstract>Holly Woodlawn (October 26, 1946 – December 6, 2015) was a transgender Puerto Rican actress and Warhol superstar who appeared in his movies Trash (1970) and Women in Revolt (1971). She was probably best known as the Holly in Lou Reed's hit pop song "Walk on the Wild Side".</originalabstract>
+<abstract>Holly_Woodlawn ( October_26_,_1946 – December_6_,_2015 ) was a_transgender_Puerto_Rican_actress and Warhol_superstar who appeared in his_movies Trash ( 1970 ) and_Women in Revolt ( 1971 ) . She was_probably_best_known as the_Holly in Lou_Reed 's_hit_pop_song " Walk on the_Wild_Side_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Holly'), (6, 'Woodlawn'), (15, '('), (16, 'October'), (24, '26'), (26, ','), (28, '1946'), (33, '–'), (35, 'December'), (44, '6'), (45, ','), (47, '2015'), (51, ')'), (53, 'was'), (57, 'a'), (59, 'transgender'), (71, 'Puerto'), (78, 'Rican'), (84, 'actress'), (92, 'and'), (96, 'Warhol'), (103, 'superstar'), (113, 'who'), (117, 'appeared'), (126, 'in'), (129, 'his'), (133, 'movies'), (140, 'Trash'), (146, '('), (147, '1970'), (151, ')'), (153, 'and'), (157, 'Women'), (163, 'in'), (166, 'Revolt'), (173, '('), (174, '1971'), (178, ')'), (179, '.'), (181, 'She'), (185, 'was'), (189, 'probably'), (198, 'best'), (203, 'known'), (209, 'as'), (212, 'the'), (216, 'Holly'), (222, 'in'), (225, 'Lou'), (229, 'Reed'), (233, '\'s'), (236, 'hit'), (240, 'pop'), (244, 'song'), (249, '"'), (250, 'Walk'), (255, 'on'), (258, 'the'), (262, 'Wild'), (267, 'Side'), (271, '"'), (272, '.')])</stanford_tokens>
+<opennlp_chunks>[('Holly Woodlawn',0, 14), ('October 26, 1946',16, 32), ('December 6, 2015',35, 51), ('a transgender Puerto Rican actress',57, 91), ('Warhol superstar',96, 112), ('his movies',129, 139), ('and Women',153, 162), ('was probably best known',185, 208), ('the Holly',212, 221), ('Lou Reed',225, 233), ('\'s hit pop song',233, 248), ('the Wild Side"',258, 272)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NNP', 'NNP', 'NN', 'CC', 'NNP', 'NN', 'WP', 'VBD', 'IN', 'PRP$', 'NNS', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNS', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'RB', 'RB', 'VBN', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'NN', '``', 'VB', 'IN', 'DT', 'NNP', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Holly'), (6, 'Woodlawn'), (15, '('), (16, 'October'), (24, '26'), (26, ','), (28, '1946'), (33, '–'), (35, 'December'), (44, '6'), (45, ','), (47, '2015'), (51, ')'), (53, 'was'), (57, 'a'), (59, 'transgender'), (71, 'Puerto'), (78, 'Rican'), (84, 'actress'), (92, 'and'), (96, 'Warhol'), (103, 'superstar'), (113, 'who'), (117, 'appeared'), (126, 'in'), (129, 'his'), (133, 'movies'), (140, 'Trash'), (146, '('), (147, '1970'), (151, ')'), (153, 'and'), (157, 'Women'), (163, 'in'), (166, 'Revolt'), (173, '('), (174, '1971'), (178, ')'), (179, '.'), (181, 'She'), (185, 'was'), (189, 'probably'), (198, 'best'), (203, 'known'), (209, 'as'), (212, 'the'), (216, 'Holly'), (222, 'in'), (225, 'Lou'), (229, 'Reed'), (233, "'s"), (236, 'hit'), (240, 'pop'), (244, 'song'), (249, '"'), (250, 'Walk'), (255, 'on'), (258, 'the'), (262, 'Wild'), (267, 'Side'), (271, '"'), (272, '.')])</spacy_tokens>
+<spacy_chunks>[('Holly Woodlawn', 0, 14), ('(October', 15, 23), ('October 26, 1946', 16, 32), ('December 6, 2015', 35, 51), ('a transgender Puerto Rican actress', 57, 91), ('Warhol superstar', 96, 112), ('his movies', 129, 139), ('Trash (1970', 140, 151), ('Women In Revolt', 157, 172), ('the Holly', 212, 221), ("Lou Reed's hit pop song", 225, 248), ('the Wild Side', 258, 271)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'CC', 'NNP', 'NN', 'WP', 'VBD', 'IN', 'PRP$', 'NNS', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNPS', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'RB', 'RBS', 'VBN', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'VBN', 'NN', 'NN', '``', 'NNP', 'IN', 'DT', 'NNP', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Babe London</title>
+<link/>https://en.wikipedia.org/wiki/Babe_London
+<annotated>0</annotated>
+<originalabstract>Babe London (born Ruth Glover, August 28, 1901 – November 29, 1980) was an American actress and comedian, most remembered for her onetime-only partnership with Oliver Hardy, in the 1931's Laurel and Hardy's two-reeler Our Wife.</originalabstract>
+<abstract>Babe_London ( born_Ruth_Glover , August_28_,_1901 – November_29_,_1980 ) was an_American_actress_and_comedian , most remembered for her_onetime-only_partnership with Oliver_Hardy , in the_1931 's_Laurel and Hardy 's_two-reeler_Our_Wife .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Babe'), (5, 'London'), (12, '('), (13, 'born'), (18, 'Ruth'), (23, 'Glover'), (29, ','), (31, 'August'), (38, '28'), (40, ','), (42, '1901'), (47, '–'), (49, 'November'), (58, '29'), (60, ','), (62, '1980'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'American'), (84, 'actress'), (92, 'and'), (96, 'comedian'), (104, ','), (106, 'most'), (111, 'remembered'), (122, 'for'), (126, 'her'), (130, 'onetime-only'), (143, 'partnership'), (155, 'with'), (160, 'Oliver'), (167, 'Hardy'), (172, ','), (174, 'in'), (177, 'the'), (181, '1931'), (185, '\'s'), (188, 'Laurel'), (195, 'and'), (199, 'Hardy'), (204, '\'s'), (207, 'two-reeler'), (218, 'Our'), (222, 'Wife'), (226, '.')])</stanford_tokens>
+<opennlp_chunks>[('Babe London',0, 11), ('born Ruth Glover',13, 29), ('August 28, 1901',31, 46), ('November 29, 1980',49, 66), ('an American actress and comedian',72, 104), ('her onetime-only partnership',126, 154), ('Oliver Hardy',160, 172), ('the 1931',177, 185), ('\'s Laurel',185, 194), ('\'s two-reeler Our Wife',204, 226)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'JJS', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'DT', 'CD', 'POS', 'NNP', 'CC', 'NNP', 'POS', 'NN', 'PRP$', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Babe'), (5, 'London'), (12, '('), (13, 'born'), (18, 'Ruth'), (23, 'Glover'), (29, ','), (31, 'August'), (38, '28'), (40, ','), (42, '1901'), (47, '–'), (49, 'November'), (58, '29'), (60, ','), (62, '1980'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'American'), (84, 'actress'), (92, 'and'), (96, 'comedian'), (104, ','), (106, 'most'), (111, 'remembered'), (122, 'for'), (126, 'her'), (130, 'onetime'), (137, '-'), (138, 'only'), (143, 'partnership'), (155, 'with'), (160, 'Oliver'), (167, 'Hardy'), (172, ','), (174, 'in'), (177, 'the'), (181, '1931'), (185, "'s"), (188, 'Laurel'), (195, 'and'), (199, 'Hardy'), (204, "'s"), (207, 'two'), (210, '-'), (211, 'reeler'), (218, 'Our'), (222, 'Wife'), (226, '.')])</spacy_tokens>
+<spacy_chunks>[('Babe London', 0, 11), ('(born Ruth Glover', 12, 29), ('August 28, 1901', 31, 46), ('November 29, 1980', 49, 66), ('an American actress', 72, 91), ('comedian', 96, 104), ('her onetime-only partnership', 126, 154), ('Oliver Hardy', 160, 172), ("the 1931's Laurel", 177, 194), ('Laurel and Hardy', 188, 204), ('Our Wife', 218, 226)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBD', 'IN', 'PRP$', 'JJ', 'HYPH', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'DT', 'CD', 'POS', 'NNP', 'CC', 'NNP', 'POS', 'CD', 'HYPH', 'JJ', 'PRP$', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

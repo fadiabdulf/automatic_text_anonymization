@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Georges Chamarat</title>
+<link/>https://en.wikipedia.org/wiki/Georges_Chamarat
+<annotated>0</annotated>
+<originalabstract>Georges Chamarat (30 March 1901 – 21 November 1982) was a French actor. He appeared in 109 films and television shows between 1929 and 1981. He starred in the film The Adventures of Arsène Lupin, which was entered into the 7th Berlin International Film Festival.</originalabstract>
+<abstract>Georges_Chamarat ( 30_March_1901 – 21_November_1982 ) was a_French_actor . He appeared in 109_films_and_television_shows between 1929_and_1981 . He starred in the_film The_Adventures of Arsène_Lupin , which was_entered into the_7th_Berlin_International_Film_Festival .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Georges'), (8, 'Chamarat'), (17, '('), (18, '30'), (21, 'March'), (27, '1901'), (32, '–'), (34, '21'), (37, 'November'), (46, '1982'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'French'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'appeared'), (84, 'in'), (87, '109'), (91, 'films'), (97, 'and'), (101, 'television'), (112, 'shows'), (118, 'between'), (126, '1929'), (131, 'and'), (135, '1981'), (139, '.'), (141, 'He'), (144, 'starred'), (152, 'in'), (155, 'the'), (159, 'film'), (164, 'The'), (168, 'Adventures'), (179, 'of'), (182, 'Arsène'), (189, 'Lupin'), (194, ','), (196, 'which'), (202, 'was'), (206, 'entered'), (214, 'into'), (219, 'the'), (223, '7th'), (227, 'Berlin'), (234, 'International'), (248, 'Film'), (253, 'Festival'), (261, '.')])</stanford_tokens>
+<opennlp_chunks>[('Georges Chamarat',0, 16), ('30 March 1901',18, 31), ('21 November 1982',34, 50), ('a French actor',56, 70), ('109 films and television shows',87, 117), ('1929 and 1981',126, 139), ('the film',155, 163), ('The Adventures',164, 178), ('Arsène Lupin',182, 194), ('was entered',202, 213), ('the 7th Berlin International Film Festival',219, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'DT', 'NNS', 'IN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Georges'), (8, 'Chamarat'), (17, '('), (18, '30'), (21, 'March'), (27, '1901'), (32, '–'), (34, '21'), (37, 'November'), (46, '1982'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'French'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'appeared'), (84, 'in'), (87, '109'), (91, 'films'), (97, 'and'), (101, 'television'), (112, 'shows'), (118, 'between'), (126, '1929'), (131, 'and'), (135, '1981'), (139, '.'), (141, 'He'), (144, 'starred'), (152, 'in'), (155, 'the'), (159, 'film'), (164, 'The'), (168, 'Adventures'), (179, 'of'), (182, 'Arsène'), (189, 'Lupin'), (194, ','), (196, 'which'), (202, 'was'), (206, 'entered'), (214, 'into'), (219, 'the'), (223, '7th'), (227, 'Berlin'), (234, 'International'), (248, 'Film'), (253, 'Festival'), (261, '.')])</spacy_tokens>
+<spacy_chunks>[('Georges Chamarat', 0, 16), ('30 March 1901', 18, 31), ('21 November 1982', 34, 50), ('a French actor', 56, 70), ('109 films', 87, 96), ('television shows', 101, 117), ('the film', 155, 163), ('The Adventures of Arsène Lupin', 164, 194), ('the 7th Berlin International Film Festival', 219, 261)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

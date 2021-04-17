@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Clayton Moore</title>
+<link/>https://en.wikipedia.org/wiki/Clayton_Moore
+<annotated>0</annotated>
+<originalabstract>Clayton Moore (born Jack Carlton Moore, September 14, 1914 – December 28, 1999) was an American actor best known for playing the fictional western character the Lone Ranger from 1949–1951 and 1954–1957 on the television series of the same name and two related movies from the same producers.</originalabstract>
+<abstract>Clayton_Moore ( born Jack_Carlton_Moore , September_14_,_1914 – December_28_,_1999 ) was an_American_actor best_known for playing the_fictional_western_character the_Lone_Ranger from 1949 – 1951_and_1954 – 1957 on the_television_series of the_same_name and two_related_movies from the_same_producers .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Clayton'), (8, 'Moore'), (14, '('), (15, 'born'), (20, 'Jack'), (25, 'Carlton'), (33, 'Moore'), (38, ','), (40, 'September'), (50, '14'), (52, ','), (54, '1914'), (59, '–'), (61, 'December'), (70, '28'), (72, ','), (74, '1999'), (78, ')'), (80, 'was'), (84, 'an'), (87, 'American'), (96, 'actor'), (102, 'best'), (107, 'known'), (113, 'for'), (117, 'playing'), (125, 'the'), (129, 'fictional'), (139, 'western'), (147, 'character'), (157, 'the'), (161, 'Lone'), (166, 'Ranger'), (173, 'from'), (178, '1949'), (182, '–'), (183, '1951'), (188, 'and'), (192, '1954'), (196, '–'), (197, '1957'), (202, 'on'), (205, 'the'), (209, 'television'), (220, 'series'), (227, 'of'), (230, 'the'), (234, 'same'), (239, 'name'), (244, 'and'), (248, 'two'), (252, 'related'), (260, 'movies'), (267, 'from'), (272, 'the'), (276, 'same'), (281, 'producers'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('Clayton Moore',0, 13), ('Jack Carlton Moore',20, 38), ('September 14, 1914',40, 58), ('December 28, 1999',61, 78), ('an American actor',84, 101), ('best known',102, 112), ('the fictional western character',125, 156), ('the Lone Ranger',157, 172), ('1951 and 1954',183, 196), ('the television series',205, 226), ('the same name',230, 243), ('two related movies',248, 266), ('the same producers',272, 290)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'JJ', 'NN', 'DT', 'NNP', 'NNP', 'IN', 'CD', ':', 'CD', 'CC', 'CD', ':', 'CD', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'CC', 'CD', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Clayton'), (8, 'Moore'), (14, '('), (15, 'born'), (20, 'Jack'), (25, 'Carlton'), (33, 'Moore'), (38, ','), (40, 'September'), (50, '14'), (52, ','), (54, '1914'), (59, '–'), (61, 'December'), (70, '28'), (72, ','), (74, '1999'), (78, ')'), (80, 'was'), (84, 'an'), (87, 'American'), (96, 'actor'), (102, 'best'), (107, 'known'), (113, 'for'), (117, 'playing'), (125, 'the'), (129, 'fictional'), (139, 'western'), (147, 'character'), (157, 'the'), (161, 'Lone'), (166, 'Ranger'), (173, 'from'), (178, '1949–1951'), (188, 'and'), (192, '1954–1957'), (202, 'on'), (205, 'the'), (209, 'television'), (220, 'series'), (227, 'of'), (230, 'the'), (234, 'same'), (239, 'name'), (244, 'and'), (248, 'two'), (252, 'related'), (260, 'movies'), (267, 'from'), (272, 'the'), (276, 'same'), (281, 'producers'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('Clayton Moore', 0, 13), ('born Jack Carlton Moore', 15, 38), ('September 14, 1914', 40, 58), ('December 28, 1999', 61, 78), ('an American actor', 84, 101), ('the fictional western character', 125, 156), ('the Lone Ranger', 157, 172), ('the television series', 205, 226), ('the same name', 230, 243), ('two related movies', 248, 266), ('the same producers', 272, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'JJ', 'NN', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'CD', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'CC', 'CD', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

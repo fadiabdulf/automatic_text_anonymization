@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stelio Savante</title>
+<link/>https://en.wikipedia.org/wiki/Stelio_Savante
+<annotated>0</annotated>
+<originalabstract>Stelio Savante (born April 24, 1970) is a South African born New York actor. In 2007 he became the first male South African born Screen Actors Guild award nominee for his recurring role on Ugly Betty and also won best actor at the American Movie Awards in 2015 for his lead role in The Two Thieves.</originalabstract>
+<abstract>Stelio_Savante ( born April_24 , 1970 ) is a_South_African_born_New_York_actor . In 2007 he became the_first_male South_African_born_Screen_Actors_Guild_award_nominee for his_recurring_role on Ugly_Betty and also won best_actor at the_American_Movie_Awards in 2015 for his_lead_role in The_Two_Thieves .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stelio'), (7, 'Savante'), (15, '('), (16, 'born'), (21, 'April'), (27, '24'), (29, ','), (31, '1970'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'South'), (48, 'African'), (56, 'born'), (61, 'New'), (65, 'York'), (70, 'actor'), (75, '.'), (77, 'In'), (80, '2007'), (85, 'he'), (88, 'became'), (95, 'the'), (99, 'first'), (105, 'male'), (110, 'South'), (116, 'African'), (124, 'born'), (129, 'Screen'), (136, 'Actors'), (143, 'Guild'), (149, 'award'), (155, 'nominee'), (163, 'for'), (167, 'his'), (171, 'recurring'), (181, 'role'), (186, 'on'), (189, 'Ugly'), (194, 'Betty'), (200, 'and'), (204, 'also'), (209, 'won'), (213, 'best'), (218, 'actor'), (224, 'at'), (227, 'the'), (231, 'American'), (240, 'Movie'), (246, 'Awards'), (253, 'in'), (256, '2015'), (261, 'for'), (265, 'his'), (269, 'lead'), (274, 'role'), (279, 'in'), (282, 'The'), (286, 'Two'), (290, 'Thieves'), (297, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stelio Savante',0, 14), ('April 24',21, 29), ('a South African born New York actor',40, 75), ('the first male',95, 109), ('South African born Screen Actors Guild award nominee',110, 162), ('his recurring role',167, 185), ('Ugly Betty',189, 199), ('best actor',213, 223), ('the American Movie Awards',227, 252), ('his lead role',265, 278), ('The Two Thieves',282, 297)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'VBN', 'NNP', 'NNP', 'NN', '.', 'IN', 'CD', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'JJ', 'JJ', 'VBN', 'NNP', 'NNPS', 'NNP', 'NN', 'NN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'RB', 'VBD', 'JJS', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NNS', 'IN', 'CD', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stelio'), (7, 'Savante'), (15, '('), (16, 'born'), (21, 'April'), (27, '24'), (29, ','), (31, '1970'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'South'), (48, 'African'), (56, 'born'), (61, 'New'), (65, 'York'), (70, 'actor'), (75, '.'), (77, 'In'), (80, '2007'), (85, 'he'), (88, 'became'), (95, 'the'), (99, 'first'), (105, 'male'), (110, 'South'), (116, 'African'), (124, 'born'), (129, 'Screen'), (136, 'Actors'), (143, 'Guild'), (149, 'award'), (155, 'nominee'), (163, 'for'), (167, 'his'), (171, 'recurring'), (181, 'role'), (186, 'on'), (189, 'Ugly'), (194, 'Betty'), (200, 'and'), (204, 'also'), (209, 'won'), (213, 'best'), (218, 'actor'), (224, 'at'), (227, 'the'), (231, 'American'), (240, 'Movie'), (246, 'Awards'), (253, 'in'), (256, '2015'), (261, 'for'), (265, 'his'), (269, 'lead'), (274, 'role'), (279, 'in'), (282, 'The'), (286, 'Two'), (290, 'Thieves'), (297, '.')])</spacy_tokens>
+<spacy_chunks>[('Stelio Savante', 0, 14), ('April 24, 1970', 21, 35), ('a South African born New York actor', 40, 75), ('the first male South African', 95, 123), ('born Screen Actors Guild award nominee', 124, 162), ('his recurring role', 167, 185), ('Ugly Betty', 189, 199), ('best actor', 213, 223), ('the American Movie Awards', 227, 252), ('his lead role', 265, 278), ('The Two Thieves', 282, 297)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'VBN', 'NNP', 'NNP', 'NN', '.', 'IN', 'CD', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'VBN', 'NNP', 'NNPS', 'NNP', 'NN', 'NN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'RB', 'VBD', 'JJS', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNPS', 'IN', 'CD', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

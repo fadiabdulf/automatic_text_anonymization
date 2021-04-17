@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bijou Fernandez</title>
+<link/>https://en.wikipedia.org/wiki/Bijou_Fernandez
+<annotated>0</annotated>
+<originalabstract>Bijou Fernandez (born November 4, 1873? – November 7, 1961) was a Broadway actress from New York City.Her theatrical career endured for seven decades, from the 1880s until the mid 20th century. She appeared in a few movies in the silent film era.</originalabstract>
+<abstract>Bijou_Fernandez ( born November_4 , 1873 ? –_November_7_,_1961_) was a_Broadway_actress from New_York_City.Her_theatrical_career endured for seven_decades , from the_1880s until the_mid_20th_century . She appeared in a_few_movies in the_silent_film_era .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bijou'), (6, 'Fernandez'), (16, '('), (17, 'born'), (22, 'November'), (31, '4'), (32, ','), (34, '1873'), (38, '?'), (40, '–'), (42, 'November'), (51, '7'), (52, ','), (54, '1961'), (58, ')'), (60, 'was'), (64, 'a'), (66, 'Broadway'), (75, 'actress'), (83, 'from'), (88, 'New'), (92, 'York'), (97, 'City.Her'), (106, 'theatrical'), (117, 'career'), (124, 'endured'), (132, 'for'), (136, 'seven'), (142, 'decades'), (149, ','), (151, 'from'), (156, 'the'), (160, '1880s'), (166, 'until'), (172, 'the'), (176, 'mid'), (180, '20th'), (185, 'century'), (192, '.'), (194, 'She'), (198, 'appeared'), (207, 'in'), (210, 'a'), (212, 'few'), (216, 'movies'), (223, 'in'), (226, 'the'), (230, 'silent'), (237, 'film'), (242, 'era'), (245, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bijou Fernandez',0, 15), ('November 4',22, 32), ('– November 7, 1961)',40, 59), ('a Broadway actress',64, 82), ('New York City.Her theatrical career',88, 123), ('seven decades',136, 149), ('the 1880s',156, 165), ('the mid 20th century',172, 192), ('a few movies',210, 222), ('the silent film era',226, 245)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'NNP', '.', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'JJ', 'NN', 'VBD', 'IN', 'CD', 'NNS', ',', 'IN', 'DT', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bijou'), (6, 'Fernandez'), (16, '('), (17, 'born'), (22, 'November'), (31, '4'), (32, ','), (34, '1873'), (38, '?'), (40, '–'), (42, 'November'), (51, '7'), (52, ','), (54, '1961'), (58, ')'), (60, 'was'), (64, 'a'), (66, 'Broadway'), (75, 'actress'), (83, 'from'), (88, 'New'), (92, 'York'), (97, 'City'), (101, '.'), (102, 'Her'), (106, 'theatrical'), (117, 'career'), (124, 'endured'), (132, 'for'), (136, 'seven'), (142, 'decades'), (149, ','), (151, 'from'), (156, 'the'), (160, '1880s'), (166, 'until'), (172, 'the'), (176, 'mid'), (180, '20th'), (185, 'century'), (192, '.'), (194, 'She'), (198, 'appeared'), (207, 'in'), (210, 'a'), (212, 'few'), (216, 'movies'), (223, 'in'), (226, 'the'), (230, 'silent'), (237, 'film'), (242, 'era'), (245, '.')])</spacy_tokens>
+<spacy_chunks>[('Bijou Fernandez', 0, 15), ('November 4, 1873', 22, 38), ('November 7, 1961', 42, 58), ('a Broadway actress', 64, 82), ('New York City', 88, 101), ('Her theatrical career', 102, 123), ('seven decades', 136, 149), ('the mid 20th century', 172, 192), ('in a few movies', 207, 222), ('the silent film era', 226, 245)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '.', 'NFP', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP$', 'JJ', 'NN', 'VBN', 'IN', 'CD', 'NNS', ',', 'IN', 'DT', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

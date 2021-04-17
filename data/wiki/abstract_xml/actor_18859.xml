@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Madame Pasca</title>
+<link/>https://en.wikipedia.org/wiki/Madame_Pasca
+<annotated>0</annotated>
+<originalabstract>Alice Marie Angèle Pasquier (November 16, 1833 – May 25, 1914), better known by her stage name Madame Pasca and also known as Alix-Marie Pasquier, was a French stage actress.</originalabstract>
+<abstract>Alice_Marie_Angèle_Pasquier ( November_16_,_1833 – May_25_,_1914 ) , better_known by her_stage_name_Madame_Pasca and also known as Alix-Marie_Pasquier , was a_French_stage_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alice'), (6, 'Marie'), (12, 'Angèle'), (19, 'Pasquier'), (28, '('), (29, 'November'), (38, '16'), (40, ','), (42, '1833'), (47, '–'), (49, 'May'), (53, '25'), (55, ','), (57, '1914'), (61, ')'), (62, ','), (64, 'better'), (71, 'known'), (77, 'by'), (80, 'her'), (84, 'stage'), (90, 'name'), (95, 'Madame'), (102, 'Pasca'), (108, 'and'), (112, 'also'), (117, 'known'), (123, 'as'), (126, 'Alix-Marie'), (137, 'Pasquier'), (145, ','), (147, 'was'), (151, 'a'), (153, 'French'), (160, 'stage'), (166, 'actress'), (173, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alice Marie Angèle Pasquier',0, 27), ('November 16, 1833',29, 46), ('May 25, 1914',49, 61), ('better known',64, 76), ('her stage name Madame Pasca',80, 107), ('Alix-Marie Pasquier',126, 145), ('a French stage actress',151, 173)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alice'), (6, 'Marie'), (12, 'Angèle'), (19, 'Pasquier'), (28, '('), (29, 'November'), (38, '16'), (40, ','), (42, '1833'), (47, '–'), (49, 'May'), (53, '25'), (55, ','), (57, '1914'), (61, ')'), (62, ','), (64, 'better'), (71, 'known'), (77, 'by'), (80, 'her'), (84, 'stage'), (90, 'name'), (95, 'Madame'), (102, 'Pasca'), (108, 'and'), (112, 'also'), (117, 'known'), (123, 'as'), (126, 'Alix'), (130, '-'), (131, 'Marie'), (137, 'Pasquier'), (145, ','), (147, 'was'), (151, 'a'), (153, 'French'), (160, 'stage'), (166, 'actress'), (173, '.')])</spacy_tokens>
+<spacy_chunks>[('Alice Marie Angèle Pasquier', 0, 27), ('November 16, 1833', 29, 46), ('May 25, 1914', 49, 61), ('her stage name', 80, 94), ('Madame Pasca', 95, 107), ('Alix-Marie Pasquier', 126, 145), ('a French stage actress', 151, 173)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'RB', 'VBN', 'IN', 'NNP', 'HYPH', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

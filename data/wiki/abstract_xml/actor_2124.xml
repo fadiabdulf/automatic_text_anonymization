@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gene Evans</title>
+<link/>https://en.wikipedia.org/wiki/Gene_Evans
+<annotated>0</annotated>
+<originalabstract>Eugene Barton Evans (July 11, 1922 – April 1, 1998) was an American actor who appeared in numerous television series, made-for-television movies, and feature films between 1947 and 1989.</originalabstract>
+<abstract>Eugene_Barton_Evans ( July_11_,_1922 – April_1_,_1998 ) was an_American_actor who appeared in numerous_television_series , made-for-television_movies , and feature_films between 1947_and_1989 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eugene'), (7, 'Barton'), (14, 'Evans'), (20, '('), (21, 'July'), (26, '11'), (28, ','), (30, '1922'), (35, '–'), (37, 'April'), (43, '1'), (44, ','), (46, '1998'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (74, 'who'), (78, 'appeared'), (87, 'in'), (90, 'numerous'), (99, 'television'), (110, 'series'), (116, ','), (118, 'made-for-television'), (138, 'movies'), (144, ','), (146, 'and'), (150, 'feature'), (158, 'films'), (164, 'between'), (172, '1947'), (177, 'and'), (181, '1989'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eugene Barton Evans',0, 19), ('July 11, 1922',21, 34), ('April 1, 1998',37, 50), ('an American actor',56, 73), ('numerous television series',90, 116), ('made-for-television movies',118, 144), ('feature films',150, 163), ('1947 and 1989',172, 185)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'NN', ',', 'JJ', 'NNS', ',', 'CC', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eugene'), (7, 'Barton'), (14, 'Evans'), (20, '('), (21, 'July'), (26, '11'), (28, ','), (30, '1922'), (35, '–'), (37, 'April'), (43, '1'), (44, ','), (46, '1998'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (74, 'who'), (78, 'appeared'), (87, 'in'), (90, 'numerous'), (99, 'television'), (110, 'series'), (116, ','), (118, 'made'), (122, '-'), (123, 'for'), (126, '-'), (127, 'television'), (138, 'movies'), (144, ','), (146, 'and'), (150, 'feature'), (158, 'films'), (164, 'between'), (172, '1947'), (177, 'and'), (181, '1989'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('Eugene Barton Evans', 0, 19), ('July 11, 1922', 21, 34), ('April 1, 1998', 37, 50), ('an American actor', 56, 73), ('numerous television series', 90, 116), ('feature films', 150, 163)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'NN', ',', 'VBN', 'HYPH', 'IN', 'HYPH', 'NN', 'NNS', ',', 'CC', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Don Swayze</title>
+<link/>https://en.wikipedia.org/wiki/Don_Swayze
+<annotated>0</annotated>
+<originalabstract>Donald Carl Swayze (born August 10, 1958) is an American actor, noted for character acting in dramatic series and soap operas, as well as several feature films, and theatrical work, including comedy.</originalabstract>
+<abstract>Donald_Carl_Swayze ( born August_10_,_1958 ) is an_American_actor , noted for character_acting in dramatic_series_and_soap_operas , as_well_as several_feature_films , and theatrical_work , including comedy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Donald'), (7, 'Carl'), (12, 'Swayze'), (19, '('), (20, 'born'), (25, 'August'), (32, '10'), (34, ','), (36, '1958'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (62, ','), (64, 'noted'), (70, 'for'), (74, 'character'), (84, 'acting'), (91, 'in'), (94, 'dramatic'), (103, 'series'), (110, 'and'), (114, 'soap'), (119, 'operas'), (125, ','), (127, 'as'), (130, 'well'), (135, 'as'), (138, 'several'), (146, 'feature'), (154, 'films'), (159, ','), (161, 'and'), (165, 'theatrical'), (176, 'work'), (180, ','), (182, 'including'), (192, 'comedy'), (198, '.')])</stanford_tokens>
+<opennlp_chunks>[('Donald Carl Swayze',0, 18), ('August 10, 1958',25, 40), ('an American actor',45, 62), ('character acting',74, 90), ('dramatic series and soap operas',94, 125), ('as well as',127, 137), ('several feature films',138, 159), ('theatrical work',165, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBD', 'IN', 'NN', 'VBG', 'IN', 'JJ', 'NN', 'CC', 'NN', 'NNS', ',', 'RB', 'RB', 'IN', 'JJ', 'NN', 'NNS', ',', 'CC', 'JJ', 'NN', ',', 'VBG', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Donald'), (7, 'Carl'), (12, 'Swayze'), (19, '('), (20, 'born'), (25, 'August'), (32, '10'), (34, ','), (36, '1958'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (62, ','), (64, 'noted'), (70, 'for'), (74, 'character'), (84, 'acting'), (91, 'in'), (94, 'dramatic'), (103, 'series'), (110, 'and'), (114, 'soap'), (119, 'operas'), (125, ','), (127, 'as'), (130, 'well'), (135, 'as'), (138, 'several'), (146, 'feature'), (154, 'films'), (159, ','), (161, 'and'), (165, 'theatrical'), (176, 'work'), (180, ','), (182, 'including'), (192, 'comedy'), (198, '.')])</spacy_tokens>
+<spacy_chunks>[('Donald Carl Swayze', 0, 18), ('August 10, 1958', 25, 40), ('an American actor', 45, 62), ('Character', 74, 83), ('dramatic series', 94, 109), ('soap operas', 114, 125), ('several feature films', 138, 159), ('theatrical work', 165, 180), ('comedy', 192, 198)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NN', 'VBG', 'IN', 'JJ', 'NN', 'CC', 'NN', 'NNS', ',', 'RB', 'RB', 'IN', 'JJ', 'NN', 'NNS', ',', 'CC', 'JJ', 'NN', ',', 'VBG', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

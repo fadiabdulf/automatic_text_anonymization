@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michael Sklar</title>
+<link/>https://en.wikipedia.org/wiki/Michael_Sklar
+<annotated>0</annotated>
+<originalabstract>Michael Joel Sklar (July 12, 1944 – March 5, 1984) was an American actor, writer and fashion retailer.
+Sklar died of lymphoma at the New York University Medical Center on March 5, 1984, and was survived by his mother, Bertha Sklar, a sister, Carol Wueste, and a brother, Norman Sklar.</originalabstract>
+<abstract>Michael_Joel_Sklar ( July_12_,_1944 – March_5_,_1984 ) was an_American_actor_,_writer_and_fashion_retailer . Sklar died of lymphoma at the_New_York_University_Medical_Center on March_5_,_1984 , and was_survived by his_mother , Bertha_Sklar , a_sister , Carol_Wueste , and a_brother , Norman_Sklar .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michael'), (8, 'Joel'), (13, 'Sklar'), (19, '('), (20, 'July'), (25, '12'), (27, ','), (29, '1944'), (34, '–'), (36, 'March'), (42, '5'), (43, ','), (45, '1984'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, ','), (74, 'writer'), (81, 'and'), (85, 'fashion'), (93, 'retailer'), (101, '.'), (103, 'Sklar'), (109, 'died'), (114, 'of'), (117, 'lymphoma'), (126, 'at'), (129, 'the'), (133, 'New'), (137, 'York'), (142, 'University'), (153, 'Medical'), (161, 'Center'), (168, 'on'), (171, 'March'), (177, '5'), (178, ','), (180, '1984'), (184, ','), (186, 'and'), (190, 'was'), (194, 'survived'), (203, 'by'), (206, 'his'), (210, 'mother'), (216, ','), (218, 'Bertha'), (225, 'Sklar'), (230, ','), (232, 'a'), (234, 'sister'), (240, ','), (242, 'Carol'), (248, 'Wueste'), (254, ','), (256, 'and'), (260, 'a'), (262, 'brother'), (269, ','), (271, 'Norman'), (278, 'Sklar'), (283, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michael Joel Sklar',0, 18), ('July 12, 1944',20, 33), ('March 5, 1984',36, 49), ('an American actor, writer and fashion retailer',55, 101), ('the New York University Medical Center',129, 167), ('March 5, 1984',171, 184), ('was survived',190, 202), ('his mother',206, 216), ('Bertha Sklar',218, 230), ('a sister',232, 240), ('Carol Wueste',242, 254), ('a brother',260, 269), ('Norman Sklar',271, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'IN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'CC', 'VBD', 'VBN', 'IN', 'PRP$', 'NN', ',', 'NNP', 'NNP', ',', 'DT', 'NN', ',', 'NNP', 'NNP', ',', 'CC', 'DT', 'NN', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michael'), (8, 'Joel'), (13, 'Sklar'), (19, '('), (20, 'July'), (25, '12'), (27, ','), (29, '1944'), (34, '–'), (36, 'March'), (42, '5'), (43, ','), (45, '1984'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, ','), (74, 'writer'), (81, 'and'), (85, 'fashion'), (93, 'retailer'), (101, '.'), (103, 'Sklar'), (109, 'died'), (114, 'of'), (117, 'lymphoma'), (126, 'at'), (129, 'the'), (133, 'New'), (137, 'York'), (142, 'University'), (153, 'Medical'), (161, 'Center'), (168, 'on'), (171, 'March'), (177, '5'), (178, ','), (180, '1984'), (184, ','), (186, 'and'), (190, 'was'), (194, 'survived'), (203, 'by'), (206, 'his'), (210, 'mother'), (216, ','), (218, 'Bertha'), (225, 'Sklar'), (230, ','), (232, 'a'), (234, 'sister'), (240, ','), (242, 'Carol'), (248, 'Wueste'), (254, ','), (256, 'and'), (260, 'a'), (262, 'brother'), (269, ','), (271, 'Norman'), (278, 'Sklar'), (283, '.')])</spacy_tokens>
+<spacy_chunks>[('Michael Joel Sklar', 0, 18), ('July 12, 1944', 20, 33), ('March 5, 1984', 36, 49), ('an American actor', 55, 72), ('writer', 74, 80), ('fashion retailer', 85, 101), ('lymphoma', 117, 125), ('the New York University Medical Center', 129, 167), ('March 5, 1984', 171, 184), ('his mother', 206, 216), ('Bertha Sklar', 218, 230), ('a sister', 232, 240), ('Carol Wueste', 242, 254), ('a brother', 260, 269), ('Norman Sklar', 271, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'IN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'CC', 'VBD', 'VBN', 'IN', 'PRP$', 'NN', ',', 'NNP', 'NNP', ',', 'DT', 'NN', ',', 'NNP', 'NNP', ',', 'CC', 'DT', 'NN', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

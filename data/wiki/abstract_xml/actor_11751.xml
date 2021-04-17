@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elinor Donahue</title>
+<link/>https://en.wikipedia.org/wiki/Elinor_Donahue
+<annotated>0</annotated>
+<originalabstract>Mary Eleanor Donahue (born April 19, 1937), credited as Elinor Donahue, is an American actress, best remembered today for playing the role of Betty Anderson, the eldest child of Jim and Margaret Anderson (Robert Young and Jane Wyatt), on the 1950s American sitcom Father Knows Best.</originalabstract>
+<abstract>Mary_Eleanor Donahue ( born April_19_,_1937 ) , credited as Elinor_Donahue , is an_American_actress , best_remembered_today for playing the_role of Betty_Anderson , the_eldest_child of Jim and Margaret_Anderson ( Robert_Young and Jane_Wyatt ) , on the_1950s_American_sitcom_Father Knows Best .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Eleanor'), (13, 'Donahue'), (21, '('), (22, 'born'), (27, 'April'), (33, '19'), (35, ','), (37, '1937'), (41, ')'), (42, ','), (44, 'credited'), (53, 'as'), (56, 'Elinor'), (63, 'Donahue'), (70, ','), (72, 'is'), (75, 'an'), (78, 'American'), (87, 'actress'), (94, ','), (96, 'best'), (101, 'remembered'), (112, 'today'), (118, 'for'), (122, 'playing'), (130, 'the'), (134, 'role'), (139, 'of'), (142, 'Betty'), (148, 'Anderson'), (156, ','), (158, 'the'), (162, 'eldest'), (169, 'child'), (175, 'of'), (178, 'Jim'), (182, 'and'), (186, 'Margaret'), (195, 'Anderson'), (204, '('), (205, 'Robert'), (212, 'Young'), (218, 'and'), (222, 'Jane'), (227, 'Wyatt'), (232, ')'), (233, ','), (235, 'on'), (238, 'the'), (242, '1950s'), (248, 'American'), (257, 'sitcom'), (264, 'Father'), (271, 'Knows'), (277, 'Best'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Eleanor',0, 12), ('April 19, 1937',27, 41), ('Elinor Donahue',56, 70), ('an American actress',75, 94), ('best remembered today',96, 117), ('the role',130, 138), ('Betty Anderson',142, 156), ('the eldest child',158, 174), ('Margaret Anderson',186, 203), ('Robert Young',205, 217), ('Jane Wyatt',222, 232), ('the 1950s American sitcom Father',238, 270)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'JJS', 'VBN', 'NN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '-RRB-', ',', 'IN', 'DT', 'CD', 'JJ', 'NN', 'NN', 'VBZ', 'JJS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Eleanor'), (13, 'Donahue'), (21, '('), (22, 'born'), (27, 'April'), (33, '19'), (35, ','), (37, '1937'), (41, ')'), (42, ','), (44, 'credited'), (53, 'as'), (56, 'Elinor'), (63, 'Donahue'), (70, ','), (72, 'is'), (75, 'an'), (78, 'American'), (87, 'actress'), (94, ','), (96, 'best'), (101, 'remembered'), (112, 'today'), (118, 'for'), (122, 'playing'), (130, 'the'), (134, 'role'), (139, 'of'), (142, 'Betty'), (148, 'Anderson'), (156, ','), (158, 'the'), (162, 'eldest'), (169, 'child'), (175, 'of'), (178, 'Jim'), (182, 'and'), (186, 'Margaret'), (195, 'Anderson'), (204, '('), (205, 'Robert'), (212, 'Young'), (218, 'and'), (222, 'Jane'), (227, 'Wyatt'), (232, ')'), (233, ','), (235, 'on'), (238, 'the'), (242, '1950s'), (248, 'American'), (257, 'sitcom'), (264, 'Father'), (271, 'Knows'), (277, 'Best'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Eleanor Donahue', 0, 20), ('April 19, 1937', 27, 41), ('Elinor Donahue', 56, 70), ('an American actress', 75, 94), ('the role', 130, 138), ('Betty Anderson', 142, 156), ('the eldest child', 158, 174), ('Margaret Anderson', 186, 203), ('Robert Young', 205, 217), ('Jane Wyatt', 222, 232), ('American sitcom Father', 248, 270), ('Father Knows Best', 264, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBD', 'NN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJS', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '-RRB-', ',', 'IN', 'DT', 'CD', 'JJ', 'NN', 'NNP', 'VBZ', 'RBS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

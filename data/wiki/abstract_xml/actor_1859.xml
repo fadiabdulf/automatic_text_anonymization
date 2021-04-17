@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Dodson</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Dodson
+<annotated>0</annotated>
+<originalabstract>John Smeaton "Jack" Dodson (May 16, 1931 – September 16, 1994) was an American television actor best remembered for the milquetoast character Howard Sprague on The Andy Griffith Show and its spin-off Mayberry R.F.D.  From 1959 until his death in 1994, Dodson was married to television art director Mary Dodson.</originalabstract>
+<abstract>John_Smeaton_"_Jack_"_Dodson ( May_16_,_1931 – September_16_,_1994 ) was an_American_television_actor_best remembered for the_milquetoast_character_Howard_Sprague on The_Andy_Griffith_Show and its_spin-off_Mayberry_R.F.D. From 1959 until his_death in 1994 , Dodson was_married to television_art_director_Mary_Dodson .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Smeaton'), (13, '"'), (14, 'Jack'), (18, '"'), (20, 'Dodson'), (27, '('), (28, 'May'), (32, '16'), (34, ','), (36, '1931'), (41, '–'), (43, 'September'), (53, '16'), (55, ','), (57, '1994'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'American'), (79, 'television'), (90, 'actor'), (96, 'best'), (101, 'remembered'), (112, 'for'), (116, 'the'), (120, 'milquetoast'), (132, 'character'), (142, 'Howard'), (149, 'Sprague'), (157, 'on'), (160, 'The'), (164, 'Andy'), (169, 'Griffith'), (178, 'Show'), (183, 'and'), (187, 'its'), (191, 'spin-off'), (200, 'Mayberry'), (209, 'R.F.D.'), (217, 'From'), (222, '1959'), (227, 'until'), (233, 'his'), (237, 'death'), (243, 'in'), (246, '1994'), (250, ','), (252, 'Dodson'), (259, 'was'), (263, 'married'), (271, 'to'), (274, 'television'), (285, 'art'), (289, 'director'), (298, 'Mary'), (303, 'Dodson'), (309, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Smeaton "Jack" Dodson',0, 26), ('May 16, 1931',28, 40), ('September 16, 1994',43, 61), ('an American television actor best',67, 100), ('the milquetoast character Howard Sprague',116, 156), ('The Andy Griffith Show',160, 182), ('its spin-off Mayberry R.F.D.',187, 215), ('his death',233, 242), ('was married',259, 270), ('television art director Mary Dodson',274, 309)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'JJS', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'PRP$', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'CD', ',', 'NNP', 'VBD', 'VBN', 'TO', 'NN', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Smeaton'), (13, '"'), (14, 'Jack'), (18, '"'), (20, 'Dodson'), (27, '('), (28, 'May'), (32, '16'), (34, ','), (36, '1931'), (41, '–'), (43, 'September'), (53, '16'), (55, ','), (57, '1994'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'American'), (79, 'television'), (90, 'actor'), (96, 'best'), (101, 'remembered'), (112, 'for'), (116, 'the'), (120, 'milquetoast'), (132, 'character'), (142, 'Howard'), (149, 'Sprague'), (157, 'on'), (160, 'The'), (164, 'Andy'), (169, 'Griffith'), (178, 'Show'), (183, 'and'), (187, 'its'), (191, 'spin'), (195, '-'), (196, 'off'), (200, 'Mayberry'), (209, 'R.F.D.'), (217, 'From'), (222, '1959'), (227, 'until'), (233, 'his'), (237, 'death'), (243, 'in'), (246, '1994'), (250, ','), (252, 'Dodson'), (259, 'was'), (263, 'married'), (271, 'to'), (274, 'television'), (285, 'art'), (289, 'director'), (298, 'Mary'), (303, 'Dodson'), (309, '.')])</spacy_tokens>
+<spacy_chunks>[('John Smeaton', 0, 12), ('"Jack" Dodson', 13, 26), ('May 16, 1931', 28, 40), ('September 16, 1994', 43, 61), ('an American television actor', 67, 95), ('the milquetoast character', 116, 141), ('Howard Sprague', 142, 156), ('The Andy Griffith Show', 160, 182), ('its spin-off Mayberry R.F.D.', 187, 215), ('his death', 233, 242), ('television art director Mary Dodson', 274, 309)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'RB', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'PRP$', 'NN', 'HYPH', 'RP', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'CD', ',', 'NNP', 'VBD', 'JJ', 'IN', 'NN', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

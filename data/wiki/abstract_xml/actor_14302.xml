@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cathy O'Donnell</title>
+<link/>https://en.wikipedia.org/wiki/Cathy_O%27Donnell
+<annotated>0</annotated>
+<originalabstract>Cathy O'Donnell (born Ann Steely, July 6, 1923 – April 11, 1970) was an American actress, best remembered for her roles in films-noir and the award winning movies of film director William Wyler.</originalabstract>
+<abstract>Cathy_O'Donnell ( born Ann_Steely , July_6_,_1923 – April_11_,_1970 ) was an_American_actress , best remembered for her_roles in films-noir and the_award winning movies of film_director_William_Wyler .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cathy'), (6, 'O\'Donnell'), (16, '('), (17, 'born'), (22, 'Ann'), (26, 'Steely'), (32, ','), (34, 'July'), (39, '6'), (40, ','), (42, '1923'), (47, '–'), (49, 'April'), (55, '11'), (57, ','), (59, '1970'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'actress'), (88, ','), (90, 'best'), (95, 'remembered'), (106, 'for'), (110, 'her'), (114, 'roles'), (120, 'in'), (123, 'films-noir'), (134, 'and'), (138, 'the'), (142, 'award'), (148, 'winning'), (156, 'movies'), (163, 'of'), (166, 'film'), (171, 'director'), (180, 'William'), (188, 'Wyler'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cathy O\'Donnell',0, 15), ('Ann Steely',22, 32), ('July 6, 1923',34, 46), ('April 11, 1970',49, 63), ('an American actress',69, 88), ('her roles',110, 119), ('the award',138, 147), ('film director William Wyler',166, 193)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'CC', 'DT', 'NN', 'VBG', 'NNS', 'IN', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cathy'), (6, "O'Donnell"), (16, '('), (17, 'born'), (22, 'Ann'), (26, 'Steely'), (32, ','), (34, 'July'), (39, '6'), (40, ','), (42, '1923'), (47, '–'), (49, 'April'), (55, '11'), (57, ','), (59, '1970'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'actress'), (88, ','), (90, 'best'), (95, 'remembered'), (106, 'for'), (110, 'her'), (114, 'roles'), (120, 'in'), (123, 'films'), (128, '-'), (129, 'noir'), (134, 'and'), (138, 'the'), (142, 'award'), (148, 'winning'), (156, 'movies'), (163, 'of'), (166, 'film'), (171, 'director'), (180, 'William'), (188, 'Wyler'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[("Cathy O'Donnell", 0, 15), ('born Ann Steely', 17, 32), ('July 6, 1923', 34, 46), ('April 11, 1970', 49, 63), ('an American actress', 69, 88), ('her roles', 110, 119), ('films-noir', 123, 133), ('the award', 138, 147), ('movies', 156, 162), ('film director William Wyler', 166, 193)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBD', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', ':', 'NN', 'CC', 'DT', 'NN', 'VBG', 'NNS', 'IN', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

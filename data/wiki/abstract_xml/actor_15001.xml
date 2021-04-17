@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anne Schaefer</title>
+<link/>https://en.wikipedia.org/wiki/Anne_Schaefer
+<annotated>0</annotated>
+<originalabstract>Anne Schaefer (July 10, 1870 – May 3, 1957) was an American actress. She appeared in 147 films between 1911 and 1938. She was the aunt of fellow actresses Eva and Jane Novak.She was born in St. Louis, Missouri, and died in Los Angeles, California, aged 86.</originalabstract>
+<abstract>Anne_Schaefer ( July_10_,_1870 – May_3_,_1957 ) was an_American_actress . She appeared in 147_films between 1911_and_1938 . She was the_aunt of fellow_actresses_Eva_and_Jane_Novak.She was_born in St._Louis , Missouri , and died in Los_Angeles , California , aged_86 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anne'), (5, 'Schaefer'), (14, '('), (15, 'July'), (20, '10'), (22, ','), (24, '1870'), (29, '–'), (31, 'May'), (35, '3'), (36, ','), (38, '1957'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'appeared'), (82, 'in'), (85, '147'), (89, 'films'), (95, 'between'), (103, '1911'), (108, 'and'), (112, '1938'), (116, '.'), (118, 'She'), (122, 'was'), (126, 'the'), (130, 'aunt'), (135, 'of'), (138, 'fellow'), (145, 'actresses'), (155, 'Eva'), (159, 'and'), (163, 'Jane'), (168, 'Novak.She'), (178, 'was'), (182, 'born'), (187, 'in'), (190, 'St.'), (194, 'Louis'), (199, ','), (201, 'Missouri'), (209, ','), (211, 'and'), (215, 'died'), (220, 'in'), (223, 'Los'), (227, 'Angeles'), (234, ','), (236, 'California'), (246, ','), (248, 'aged'), (253, '86'), (255, '.')])</stanford_tokens>
+<opennlp_chunks>[('Anne Schaefer',0, 13), ('July 10, 1870',15, 28), ('May 3, 1957',31, 42), ('an American actress',48, 67), ('147 films',85, 94), ('1911 and 1938',103, 116), ('the aunt',126, 134), ('fellow actresses Eva and Jane Novak.She',138, 177), ('was born',178, 186), ('St. Louis',190, 199), ('Los Angeles',223, 234), ('aged 86',248, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'NNP', 'CC', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'JJ', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anne'), (5, 'Schaefer'), (14, '('), (15, 'July'), (20, '10'), (22, ','), (24, '1870'), (29, '–'), (31, 'May'), (35, '3'), (36, ','), (38, '1957'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'appeared'), (82, 'in'), (85, '147'), (89, 'films'), (95, 'between'), (103, '1911'), (108, 'and'), (112, '1938'), (116, '.'), (118, 'She'), (122, 'was'), (126, 'the'), (130, 'aunt'), (135, 'of'), (138, 'fellow'), (145, 'actresses'), (155, 'Eva'), (159, 'and'), (163, 'Jane'), (168, 'Novak'), (173, '.'), (174, 'She'), (178, 'was'), (182, 'born'), (187, 'in'), (190, 'St.'), (194, 'Louis'), (199, ','), (201, 'Missouri'), (209, ','), (211, 'and'), (215, 'died'), (220, 'in'), (223, 'Los'), (227, 'Angeles'), (234, ','), (236, 'California'), (246, ','), (248, 'aged'), (253, '86'), (255, '.')])</spacy_tokens>
+<spacy_chunks>[('Anne Schaefer', 0, 13), ('July 10, 1870', 15, 28), ('May 3, 1957', 31, 42), ('an American actress', 48, 67), ('147 films', 85, 94), ('the aunt', 126, 134), ('fellow actresses', 138, 154), ('Jane Novak', 163, 173), ('St. Louis, Missouri', 190, 209), ('Los Angeles, California', 223, 246)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'JJ', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

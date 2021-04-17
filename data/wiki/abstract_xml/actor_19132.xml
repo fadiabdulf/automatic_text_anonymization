@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gary Files</title>
+<link/>https://en.wikipedia.org/wiki/Gary_Files
+<annotated>0</annotated>
+<originalabstract>Gary Files is an Australian-Canadian actor, theatre director and radio writer who has worked in Australia, Canada, and the United Kingdom. Resident in Australia since 1976, Files is noted for the accentual versatility of his radio-based voice acting.</originalabstract>
+<abstract>Gary_Files is an_Australian-Canadian_actor , theatre_director_and_radio_writer who has_worked in Australia , Canada , and the_United_Kingdom . Resident in Australia since 1976 , Files is_noted for the_accentual_versatility of his_radio-based_voice_acting .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gary'), (5, 'Files'), (11, 'is'), (14, 'an'), (17, 'Australian-Canadian'), (37, 'actor'), (42, ','), (44, 'theatre'), (52, 'director'), (61, 'and'), (65, 'radio'), (71, 'writer'), (78, 'who'), (82, 'has'), (86, 'worked'), (93, 'in'), (96, 'Australia'), (105, ','), (107, 'Canada'), (113, ','), (115, 'and'), (119, 'the'), (123, 'United'), (130, 'Kingdom'), (137, '.'), (139, 'Resident'), (148, 'in'), (151, 'Australia'), (161, 'since'), (167, '1976'), (171, ','), (173, 'Files'), (179, 'is'), (182, 'noted'), (188, 'for'), (192, 'the'), (196, 'accentual'), (206, 'versatility'), (218, 'of'), (221, 'his'), (225, 'radio-based'), (237, 'voice'), (243, 'acting'), (249, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gary Files',0, 10), ('an Australian-Canadian actor',14, 42), ('theatre director and radio writer',44, 77), ('has worked',82, 92), ('the United Kingdom',119, 137), ('is noted',179, 187), ('the accentual versatility',192, 217), ('his radio-based voice acting',221, 249)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'DT', 'NNP', 'NNP', '.', 'NN', 'IN', 'NNP', 'IN', 'CD', ',', 'NNP', 'VBZ', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'PRP$', 'JJ', 'NN', 'VBG', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gary'), (5, 'Files'), (11, 'is'), (14, 'an'), (17, 'Australian'), (27, '-'), (28, 'Canadian'), (37, 'actor'), (42, ','), (44, 'theatre'), (52, 'director'), (61, 'and'), (65, 'radio'), (71, 'writer'), (78, 'who'), (82, 'has'), (86, 'worked'), (93, 'in'), (96, 'Australia'), (105, ','), (107, 'Canada'), (113, ','), (115, 'and'), (119, 'the'), (123, 'United'), (130, 'Kingdom'), (137, '.'), (139, 'Resident'), (148, 'in'), (151, 'Australia'), (161, 'since'), (167, '1976'), (171, ','), (173, 'Files'), (179, 'is'), (182, 'noted'), (188, 'for'), (192, 'the'), (196, 'accentual'), (206, 'versatility'), (218, 'of'), (221, 'his'), (225, 'radio'), (230, '-'), (231, 'based'), (237, 'voice'), (243, 'acting'), (249, '.')])</spacy_tokens>
+<spacy_chunks>[('Gary Files', 0, 10), ('an Australian-Canadian actor', 14, 42), ('theatre director', 44, 60), ('radio writer', 65, 77), ('Canada', 107, 113), ('the United Kingdom', 119, 137), ('Resident', 139, 147), ('the accentual versatility', 192, 217), ('his radio-based voice', 221, 242)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'DT', 'NNP', 'NNP', '.', 'NN', 'IN', 'NNP', 'IN', 'CD', ',', 'NNPS', 'VBZ', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'PRP$', 'NN', 'HYPH', 'VBN', 'NN', 'VBG', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

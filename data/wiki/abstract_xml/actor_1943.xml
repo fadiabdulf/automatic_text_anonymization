@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert Dryden</title>
+<link/>https://en.wikipedia.org/wiki/Robert_Dryden
+<annotated>0</annotated>
+<originalabstract>Robert Dryden (February 8, 1917 – December 16, 2003) was an American actor and voice-over performer "whose acting career spanned over four decades of radio, television, theater, and film appearances."</originalabstract>
+<abstract>Robert_Dryden ( February_8_,_1917 – December_16_,_2003 ) was an_American_actor_and_voice-over_performer " whose_acting_career spanned over four_decades of radio_,_television_,_theater , and film_appearances . "</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Dryden'), (14, '('), (15, 'February'), (24, '8'), (25, ','), (27, '1917'), (32, '–'), (34, 'December'), (43, '16'), (45, ','), (47, '2003'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (75, 'and'), (79, 'voice-over'), (90, 'performer'), (100, '"'), (101, 'whose'), (107, 'acting'), (114, 'career'), (121, 'spanned'), (129, 'over'), (134, 'four'), (139, 'decades'), (147, 'of'), (150, 'radio'), (155, ','), (157, 'television'), (167, ','), (169, 'theater'), (176, ','), (178, 'and'), (182, 'film'), (187, 'appearances'), (198, '.'), (199, '"')])</stanford_tokens>
+<opennlp_chunks>[('Robert Dryden',0, 13), ('February 8, 1917',15, 31), ('December 16, 2003',34, 51), ('an American actor and voice-over performer',57, 99), ('whose acting career',101, 120), ('four decades',134, 146), ('radio, television, theater',150, 176), ('film appearances',182, 198)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '``', 'WP$', 'VBG', 'NN', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NNS', '.', '\'\'']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Dryden'), (14, '('), (15, 'February'), (24, '8'), (25, ','), (27, '1917'), (32, '–'), (34, 'December'), (43, '16'), (45, ','), (47, '2003'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (75, 'and'), (79, 'voice'), (84, '-'), (85, 'over'), (90, 'performer'), (100, '"'), (101, 'whose'), (107, 'acting'), (114, 'career'), (121, 'spanned'), (129, 'over'), (134, 'four'), (139, 'decades'), (147, 'of'), (150, 'radio'), (155, ','), (157, 'television'), (167, ','), (169, 'theater'), (176, ','), (178, 'and'), (182, 'film'), (187, 'appearances'), (198, '.'), (199, '"')])</spacy_tokens>
+<spacy_chunks>[('Robert Dryden', 0, 13), ('(February', 14, 23), ('February 8, 1917', 15, 31), ('December 16, 2003', 34, 51), ('an American actor', 57, 74), ('voice-over performer', 79, 99), ('"whose acting career', 100, 120), ('four decades', 134, 146), ('television', 157, 167), ('theater', 169, 176), ('film appearances', 182, 198)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'HYPH', 'RP', 'NN', "''", 'WP$', 'NN', 'NN', 'VBN', 'IN', 'CD', 'NNS', 'IN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NNS', '.', "''"]</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Adele Ritchie</title>
+<link/>https://en.wikipedia.org/wiki/Adele_Ritchie
+<annotated>0</annotated>
+<originalabstract>Adele Ritchie (December 21, 1874 – April 24, 1930) was an American prima donna of comic opera and star of Edwardian musical comedies and vaudeville. Her career began in the early 1890s and continued for nearly twenty-five years. Her life would end tragically in a murder-suicide involving a close friend.</originalabstract>
+<abstract>Adele_Ritchie ( December_21_,_1874 – April_24 , 1930 ) was an_American_prima_donna of comic_opera_and_star of Edwardian_musical_comedies_and_vaudeville . Her_career began in the_early_1890s and continued for nearly_twenty-five_years . Her_life would_end tragically in a_murder-suicide involving a_close_friend .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Adele'), (6, 'Ritchie'), (14, '('), (15, 'December'), (24, '21'), (26, ','), (28, '1874'), (33, '–'), (35, 'April'), (41, '24'), (43, ','), (45, '1930'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'prima'), (73, 'donna'), (79, 'of'), (82, 'comic'), (88, 'opera'), (94, 'and'), (98, 'star'), (103, 'of'), (106, 'Edwardian'), (116, 'musical'), (124, 'comedies'), (133, 'and'), (137, 'vaudeville'), (147, '.'), (149, 'Her'), (153, 'career'), (160, 'began'), (166, 'in'), (169, 'the'), (173, 'early'), (179, '1890s'), (185, 'and'), (189, 'continued'), (199, 'for'), (203, 'nearly'), (210, 'twenty-five'), (222, 'years'), (227, '.'), (229, 'Her'), (233, 'life'), (238, 'would'), (244, 'end'), (248, 'tragically'), (259, 'in'), (262, 'a'), (264, 'murder-suicide'), (279, 'involving'), (289, 'a'), (291, 'close'), (297, 'friend'), (303, '.')])</stanford_tokens>
+<opennlp_chunks>[('Adele Ritchie',0, 13), ('December 21, 1874',15, 32), ('April 24',35, 43), ('an American prima donna',55, 78), ('comic opera and star',82, 102), ('Edwardian musical comedies and vaudeville',106, 147), ('Her career',149, 159), ('the early 1890s',169, 184), ('nearly twenty-five years',203, 227), ('Her life',229, 237), ('would end',238, 247), ('a murder-suicide',262, 278), ('a close friend',289, 303)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'JJ', 'NN', 'CC', 'NN', 'IN', 'JJ', 'JJ', 'NNS', 'CC', 'NN', '.', 'PRP$', 'NN', 'VBD', 'IN', 'DT', 'JJ', 'CD', 'CC', 'VBD', 'IN', 'RB', 'CD', 'NNS', '.', 'PRP$', 'NN', 'MD', 'VB', 'RB', 'IN', 'DT', 'NN', 'VBG', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Adele'), (6, 'Ritchie'), (14, '('), (15, 'December'), (24, '21'), (26, ','), (28, '1874'), (33, '–'), (35, 'April'), (41, '24'), (43, ','), (45, '1930'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'prima'), (73, 'donna'), (79, 'of'), (82, 'comic'), (88, 'opera'), (94, 'and'), (98, 'star'), (103, 'of'), (106, 'Edwardian'), (116, 'musical'), (124, 'comedies'), (133, 'and'), (137, 'vaudeville'), (147, '.'), (149, 'Her'), (153, 'career'), (160, 'began'), (166, 'in'), (169, 'the'), (173, 'early'), (179, '1890s'), (185, 'and'), (189, 'continued'), (199, 'for'), (203, 'nearly'), (210, 'twenty'), (216, '-'), (217, 'five'), (222, 'years'), (227, '.'), (229, 'Her'), (233, 'life'), (238, 'would'), (244, 'end'), (248, 'tragically'), (259, 'in'), (262, 'a'), (264, 'murder'), (270, '-'), (271, 'suicide'), (279, 'involving'), (289, 'a'), (291, 'close'), (297, 'friend'), (303, '.')])</spacy_tokens>
+<spacy_chunks>[('Adele Ritchie', 0, 13), ('(December', 14, 23), ('December 21, 1874', 15, 32), ('April 24, 1930', 35, 49), ('an American prima donna', 55, 78), ('Comic opera', 82, 93), ('Edwardian musical comedies', 106, 132), ('vaudeville', 137, 147), ('Her career', 149, 159), ('the early 1890s', 169, 184), ('nearly twenty-five years', 203, 227), ('Her life', 229, 237), ('a murder-suicide', 262, 278), ('a close friend', 289, 303)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'JJ', 'NN', 'CC', 'NN', 'IN', 'JJ', 'JJ', 'NNS', 'CC', 'NN', '.', 'PRP$', 'NN', 'VBD', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'VBD', 'IN', 'RB', 'CD', 'HYPH', 'CD', 'NNS', '.', 'PRP$', 'NN', 'MD', 'VB', 'RB', 'IN', 'DT', 'NN', 'HYPH', 'NN', 'VBG', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joyce Menges</title>
+<link/>https://en.wikipedia.org/wiki/Joyce_Menges
+<annotated>0</annotated>
+<originalabstract>Joyce Menges was an actress from 1967 to 1975. She starred in Robert Butler's Now You See Him, Now You Don't as well as in the TV show To Rome With Love starring John Forsythe. Joyce's son is Jimmy Tamborello, the composer for the electronic indie pop band The Postal Service.</originalabstract>
+<abstract>Joyce_Menges was an_actress from 1967 to 1975 . She starred in Robert_Butler 's Now_You See Him , Now You Do n't_as_well as in the_TV_show To Rome With Love starring John_Forsythe . Joyce 's_son is Jimmy_Tamborello , the_composer for the_electronic_indie_pop_band The_Postal_Service .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joyce'), (6, 'Menges'), (13, 'was'), (17, 'an'), (20, 'actress'), (28, 'from'), (33, '1967'), (38, 'to'), (41, '1975'), (45, '.'), (47, 'She'), (51, 'starred'), (59, 'in'), (62, 'Robert'), (69, 'Butler'), (75, '\'s'), (78, 'Now'), (82, 'You'), (86, 'See'), (90, 'Him'), (93, ','), (95, 'Now'), (99, 'You'), (103, 'Do'), (105, 'n\'t'), (109, 'as'), (112, 'well'), (117, 'as'), (120, 'in'), (123, 'the'), (127, 'TV'), (130, 'show'), (135, 'To'), (138, 'Rome'), (143, 'With'), (148, 'Love'), (153, 'starring'), (162, 'John'), (167, 'Forsythe'), (175, '.'), (177, 'Joyce'), (182, '\'s'), (185, 'son'), (189, 'is'), (192, 'Jimmy'), (198, 'Tamborello'), (208, ','), (210, 'the'), (214, 'composer'), (223, 'for'), (227, 'the'), (231, 'electronic'), (242, 'indie'), (248, 'pop'), (252, 'band'), (257, 'The'), (261, 'Postal'), (268, 'Service'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joyce Menges',0, 12), ('an actress',17, 27), ('Robert Butler',62, 75), ('Now You',78, 85), ('n\'t as well',105, 116), ('the TV show',123, 134), ('John Forsythe',162, 175), ('\'s son',182, 188), ('Jimmy Tamborello',192, 208), ('the composer',210, 222), ('the electronic indie pop band',227, 256), ('The Postal Service',257, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'CD', 'TO', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'POS', 'RB', 'PRP', 'VB', 'PRP', ',', 'RB', 'PRP', 'VBP', 'RB', 'RB', 'RB', 'IN', 'IN', 'DT', 'NN', 'NN', 'TO', 'NNP', 'IN', 'NNP', 'VBG', 'NNP', 'NNP', '.', 'NNP', 'POS', 'NN', 'VBZ', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joyce'), (6, 'Menges'), (13, 'was'), (17, 'an'), (20, 'actress'), (28, 'from'), (33, '1967'), (38, 'to'), (41, '1975'), (45, '.'), (47, 'She'), (51, 'starred'), (59, 'in'), (62, 'Robert'), (69, 'Butler'), (75, "'s"), (78, 'Now'), (82, 'You'), (86, 'See'), (90, 'Him'), (93, ','), (95, 'Now'), (99, 'You'), (103, 'Do'), (105, "n't"), (109, 'as'), (112, 'well'), (117, 'as'), (120, 'in'), (123, 'the'), (127, 'TV'), (130, 'show'), (135, 'To'), (138, 'Rome'), (143, 'With'), (148, 'Love'), (153, 'starring'), (162, 'John'), (167, 'Forsythe'), (175, '.'), (177, 'Joyce'), (182, "'s"), (185, 'son'), (189, 'is'), (192, 'Jimmy'), (198, 'Tamborello'), (208, ','), (210, 'the'), (214, 'composer'), (223, 'for'), (227, 'the'), (231, 'electronic'), (242, 'indie'), (248, 'pop'), (252, 'band'), (257, 'The'), (261, 'Postal'), (268, 'Service'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('Joyce Menges', 0, 12), ('an actress', 17, 27), ('Robert Butler', 62, 75), ("Now You See Him, Now You Don't", 78, 108), ('the TV', 123, 129), ('To Rome with Love', 135, 152), ('John Forsythe', 162, 175), ("Joyce's son", 177, 188), ('Jimmy Tamborello', 192, 208), ('the composer', 210, 222), ('the electronic indie pop band', 227, 256), ('The Postal Service', 257, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'VBZ', 'RB', 'PRP', 'VBP', 'PRP', ',', 'RB', 'PRP', 'VBP', 'RB', 'RB', 'RB', 'IN', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'VBG', 'NNP', 'NNP', '.', 'NNP', 'POS', 'NN', 'VBZ', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

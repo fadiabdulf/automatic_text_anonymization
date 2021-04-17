@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Pierre Couderc</title>
+<link/>https://en.wikipedia.org/wiki/Pierre_Couderc
+<annotated>0</annotated>
+<originalabstract>Pierre Couderc (18 November 1896 – 6 October 1966) was a French screenwriter, actor, acrobat, and film producer. He wrote for 34 films between 1925 and 1930. He also appeared in ten films between 1914 and 1934. He was born in Paris, France and died in Santa Monica, California.</originalabstract>
+<abstract>Pierre_Couderc ( 18_November_1896 – 6_October_1966 ) was a_French_screenwriter , actor , acrobat , and film_producer . He wrote for 34_films between 1925_and_1930 . He also appeared in ten_films between 1914_and_1934 . He was_born in Paris_,_France and died in Santa_Monica , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Pierre'), (7, 'Couderc'), (15, '('), (16, '18'), (19, 'November'), (28, '1896'), (33, '–'), (35, '6'), (37, 'October'), (45, '1966'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'French'), (64, 'screenwriter'), (76, ','), (78, 'actor'), (83, ','), (85, 'acrobat'), (92, ','), (94, 'and'), (98, 'film'), (103, 'producer'), (111, '.'), (113, 'He'), (116, 'wrote'), (122, 'for'), (126, '34'), (129, 'films'), (135, 'between'), (143, '1925'), (148, 'and'), (152, '1930'), (156, '.'), (158, 'He'), (161, 'also'), (166, 'appeared'), (175, 'in'), (178, 'ten'), (182, 'films'), (188, 'between'), (196, '1914'), (201, 'and'), (205, '1934'), (209, '.'), (211, 'He'), (214, 'was'), (218, 'born'), (223, 'in'), (226, 'Paris'), (231, ','), (233, 'France'), (240, 'and'), (244, 'died'), (249, 'in'), (252, 'Santa'), (258, 'Monica'), (264, ','), (266, 'California'), (276, '.')])</stanford_tokens>
+<opennlp_chunks>[('Pierre Couderc',0, 14), ('18 November 1896',16, 32), ('6 October 1966',35, 49), ('a French screenwriter',55, 76), ('film producer',98, 111), ('34 films',126, 134), ('1925 and 1930',143, 156), ('ten films',178, 187), ('1914 and 1934',196, 209), ('was born',214, 222), ('Paris, France',226, 239), ('Santa Monica',252, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Pierre'), (7, 'Couderc'), (15, '('), (16, '18'), (19, 'November'), (28, '1896'), (33, '–'), (35, '6'), (37, 'October'), (45, '1966'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'French'), (64, 'screenwriter'), (76, ','), (78, 'actor'), (83, ','), (85, 'acrobat'), (92, ','), (94, 'and'), (98, 'film'), (103, 'producer'), (111, '.'), (113, 'He'), (116, 'wrote'), (122, 'for'), (126, '34'), (129, 'films'), (135, 'between'), (143, '1925'), (148, 'and'), (152, '1930'), (156, '.'), (158, 'He'), (161, 'also'), (166, 'appeared'), (175, 'in'), (178, 'ten'), (182, 'films'), (188, 'between'), (196, '1914'), (201, 'and'), (205, '1934'), (209, '.'), (211, 'He'), (214, 'was'), (218, 'born'), (223, 'in'), (226, 'Paris'), (231, ','), (233, 'France'), (240, 'and'), (244, 'died'), (249, 'in'), (252, 'Santa'), (258, 'Monica'), (264, ','), (266, 'California'), (276, '.')])</spacy_tokens>
+<spacy_chunks>[('Pierre Couderc', 0, 14), ('18 November 1896', 16, 32), ('6 October 1966', 35, 49), ('a French screenwriter', 55, 76), ('acrobat', 85, 92), ('film producer', 98, 111), ('34 films', 126, 134), ('ten films', 178, 187), ('France', 233, 239), ('Santa Monica, California', 252, 276)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

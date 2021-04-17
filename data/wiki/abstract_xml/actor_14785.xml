@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Amanda Righetti</title>
+<link/>https://en.wikipedia.org/wiki/Amanda_Righetti
+<annotated>0</annotated>
+<originalabstract>Amanda Elizabeth Righetti (born April 4, 1983) is an American actress. She is best known for her role as Grace Van Pelt on The Mentalist, as well as her roles in Friday the 13th, The O.C. and Colony.</originalabstract>
+<abstract>Amanda_Elizabeth_Righetti ( born April_4_,_1983 ) is an_American_actress . She is_best_known for her_role as Grace_Van_Pelt on The_Mentalist , as_well_as her_roles in Friday the_13th , The_O.C._and_Colony .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Amanda'), (7, 'Elizabeth'), (17, 'Righetti'), (26, '('), (27, 'born'), (32, 'April'), (38, '4'), (39, ','), (41, '1983'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actress'), (69, '.'), (71, 'She'), (75, 'is'), (78, 'best'), (83, 'known'), (89, 'for'), (93, 'her'), (97, 'role'), (102, 'as'), (105, 'Grace'), (111, 'Van'), (115, 'Pelt'), (120, 'on'), (123, 'The'), (127, 'Mentalist'), (136, ','), (138, 'as'), (141, 'well'), (146, 'as'), (149, 'her'), (153, 'roles'), (159, 'in'), (162, 'Friday'), (169, 'the'), (173, '13th'), (177, ','), (179, 'The'), (183, 'O.C.'), (188, 'and'), (192, 'Colony'), (198, '.')])</stanford_tokens>
+<opennlp_chunks>[('Amanda Elizabeth Righetti',0, 25), ('April 4, 1983',32, 45), ('an American actress',50, 69), ('is best known',75, 88), ('her role',93, 101), ('Grace Van Pelt',105, 119), ('The Mentalist',123, 136), ('as well as',138, 148), ('her roles',149, 158), ('the 13th',169, 177), ('The O.C. and Colony',179, 198)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', ',', 'RB', 'RB', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'DT', 'JJ', ',', 'DT', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Amanda'), (7, 'Elizabeth'), (17, 'Righetti'), (26, '('), (27, 'born'), (32, 'April'), (38, '4'), (39, ','), (41, '1983'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actress'), (69, '.'), (71, 'She'), (75, 'is'), (78, 'best'), (83, 'known'), (89, 'for'), (93, 'her'), (97, 'role'), (102, 'as'), (105, 'Grace'), (111, 'Van'), (115, 'Pelt'), (120, 'on'), (123, 'The'), (127, 'Mentalist'), (136, ','), (138, 'as'), (141, 'well'), (146, 'as'), (149, 'her'), (153, 'roles'), (159, 'in'), (162, 'Friday'), (169, 'the'), (173, '13th'), (177, ','), (179, 'The'), (183, 'O.C.'), (188, 'and'), (192, 'Colony'), (198, '.')])</spacy_tokens>
+<spacy_chunks>[('Amanda Elizabeth Righetti', 0, 25), ('April 4, 1983', 32, 45), ('an American actress', 50, 69), ('her role', 93, 101), ('Grace Van Pelt', 105, 119), ('The Mentalist', 123, 136), ('her roles', 149, 158), ('Friday the 13th', 162, 177), ('The O.C.', 179, 187), ('Colony', 192, 198)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', ',', 'RB', 'RB', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'DT', 'NN', ',', 'DT', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

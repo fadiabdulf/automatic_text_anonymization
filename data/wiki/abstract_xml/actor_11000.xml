@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Winifred Bryson</title>
+<link/>https://en.wikipedia.org/wiki/Winifred_Bryson
+<annotated>0</annotated>
+<originalabstract>Winifred Bryson (born Winifred Brison, (1892-12-20)December 20, 1892 – (1987-08-20)August 20, 1987) was an American actress of the stage and of silent films.</originalabstract>
+<abstract>Winifred_Bryson ( born Winifred_Brison , ( 1892-12-20 ) December_20_,_1892 – ( 1987-08-20 ) August_20_,_1987 ) was an_American_actress of the_stage and of silent_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Winifred'), (9, 'Bryson'), (16, '('), (17, 'born'), (22, 'Winifred'), (31, 'Brison'), (37, ','), (39, '('), (40, '1892-12-20'), (50, ')'), (51, 'December'), (60, '20'), (62, ','), (64, '1892'), (69, '–'), (71, '('), (72, '1987-08-20'), (82, ')'), (83, 'August'), (90, '20'), (92, ','), (94, '1987'), (98, ')'), (100, 'was'), (104, 'an'), (107, 'American'), (116, 'actress'), (124, 'of'), (127, 'the'), (131, 'stage'), (137, 'and'), (141, 'of'), (144, 'silent'), (151, 'films'), (156, '.')])</stanford_tokens>
+<opennlp_chunks>[('Winifred Bryson',0, 15), ('Winifred Brison',22, 37), ('December 20, 1892',51, 68), ('August 20, 1987',83, 98), ('an American actress',104, 123), ('the stage',127, 136), ('silent films',144, 156)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', '-LRB-', 'CD', '-RRB-', 'NNP', 'CD', ',', 'CD', ':', '-LRB-', 'CD', '-RRB-', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'CC', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Winifred'), (9, 'Bryson'), (16, '('), (17, 'born'), (22, 'Winifred'), (31, 'Brison'), (37, ','), (39, '('), (40, '1892'), (44, '-'), (45, '12'), (47, '-'), (48, '20)December'), (60, '20'), (62, ','), (64, '1892'), (69, '–'), (71, '('), (72, '1987'), (76, '-'), (77, '08'), (79, '-'), (80, '20)August'), (90, '20'), (92, ','), (94, '1987'), (98, ')'), (100, 'was'), (104, 'an'), (107, 'American'), (116, 'actress'), (124, 'of'), (127, 'the'), (131, 'stage'), (137, 'and'), (141, 'of'), (144, 'silent'), (151, 'films'), (156, '.')])</spacy_tokens>
+<spacy_chunks>[('Winifred Bryson', 0, 15), ('born Winifred Brison', 17, 37), ('December 20, 1892', 51, 68), ('1987-08-2', 72, 81), ('August 20, 1987', 83, 98), ('an American actress', 104, 123), ('the stage', 127, 136), ('silent films', 144, 156)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', '-LRB-', 'CD', 'SYM', 'CD', 'SYM', 'CD', 'CD', ',', 'CD', 'SYM', '-LRB-', 'CD', 'SYM', 'CD', 'HYPH', 'CD', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'CC', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

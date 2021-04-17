@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Roy Emerton</title>
+<link/>https://en.wikipedia.org/wiki/Roy_Emerton
+<annotated>0</annotated>
+<originalabstract>Roy Emerton (9 October 1893 – 30 November 1944) was a British film actor.Earlier in his life, he was a sailor, stoker, docker, railway worker, miner and served in the First World War. He played in a great number of popular London stage plays and shows, including Shakespeare as well as film work.</originalabstract>
+<abstract>Roy_Emerton ( 9_October_1893 – 30_November_1944 ) was a_British_film_actor.Earlier in his_life , he was a_sailor , stoker , docker , railway_worker , miner and served in the_First_World_War . He played in a_great_number of popular_London_stage plays_and_shows , including Shakespeare_as_well_as_film_work .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Roy'), (4, 'Emerton'), (12, '('), (13, '9'), (15, 'October'), (23, '1893'), (28, '–'), (30, '30'), (33, 'November'), (42, '1944'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'British'), (62, 'film'), (67, 'actor.Earlier'), (81, 'in'), (84, 'his'), (88, 'life'), (92, ','), (94, 'he'), (97, 'was'), (101, 'a'), (103, 'sailor'), (109, ','), (111, 'stoker'), (117, ','), (119, 'docker'), (125, ','), (127, 'railway'), (135, 'worker'), (141, ','), (143, 'miner'), (149, 'and'), (153, 'served'), (160, 'in'), (163, 'the'), (167, 'First'), (173, 'World'), (179, 'War'), (182, '.'), (184, 'He'), (187, 'played'), (194, 'in'), (197, 'a'), (199, 'great'), (205, 'number'), (212, 'of'), (215, 'popular'), (223, 'London'), (230, 'stage'), (236, 'plays'), (242, 'and'), (246, 'shows'), (251, ','), (253, 'including'), (263, 'Shakespeare'), (275, 'as'), (278, 'well'), (283, 'as'), (286, 'film'), (291, 'work'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Roy Emerton',0, 11), ('9 October 1893',13, 27), ('30 November 1944',30, 46), ('a British film actor.Earlier',52, 80), ('his life',84, 92), ('a sailor',101, 109), ('railway worker',127, 141), ('the First World War',163, 182), ('a great number',197, 211), ('popular London stage',215, 235), ('plays and shows',236, 251), ('Shakespeare as well as film work',263, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'DT', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'NN', 'CC', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNP', 'NN', 'VBZ', 'CC', 'VBZ', ',', 'VBG', 'NNP', 'RB', 'RB', 'IN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Roy'), (4, 'Emerton'), (12, '('), (13, '9'), (15, 'October'), (23, '1893'), (28, '–'), (30, '30'), (33, 'November'), (42, '1944'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'British'), (62, 'film'), (67, 'actor'), (72, '.'), (73, 'Earlier'), (81, 'in'), (84, 'his'), (88, 'life'), (92, ','), (94, 'he'), (97, 'was'), (101, 'a'), (103, 'sailor'), (109, ','), (111, 'stoker'), (117, ','), (119, 'docker'), (125, ','), (127, 'railway'), (135, 'worker'), (141, ','), (143, 'miner'), (149, 'and'), (153, 'served'), (160, 'in'), (163, 'the'), (167, 'First'), (173, 'World'), (179, 'War'), (182, '.'), (184, 'He'), (187, 'played'), (194, 'in'), (197, 'a'), (199, 'great'), (205, 'number'), (212, 'of'), (215, 'popular'), (223, 'London'), (230, 'stage'), (236, 'plays'), (242, 'and'), (246, 'shows'), (251, ','), (253, 'including'), (263, 'Shakespeare'), (275, 'as'), (278, 'well'), (283, 'as'), (286, 'film'), (291, 'work'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Roy Emerton', 0, 11), ('9 October 1893', 13, 27), ('30 November 1944', 30, 46), ('a British film actor', 52, 72), ('his life', 84, 92), ('a sailor', 101, 109), ('stoker', 111, 117), ('docker', 119, 125), ('railway worker', 127, 141), ('the First World War', 163, 182), ('a great number', 197, 211), ('popular London stage plays', 215, 241), ('Shakespeare', 263, 274), ('film work', 286, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'RBR', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'DT', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'NN', 'CC', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNP', 'NN', 'NNS', 'CC', 'NNS', ',', 'VBG', 'NNP', 'RB', 'RB', 'IN', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

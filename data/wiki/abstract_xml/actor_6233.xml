@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James G. Snitzer</title>
+<link/>https://en.wikipedia.org/wiki/James_G._Snitzer
+<annotated>0</annotated>
+<originalabstract>James George Snitzer (1926 – 22 March 1945),  also known as Jimmy Snitzer or Jim Snitzer, was an American film actor. He was killed while serving with the United States Army in 1945.</originalabstract>
+<abstract>James_George_Snitzer ( 1926 – 22_March_1945 ) , also_known as Jimmy_Snitzer or Jim_Snitzer , was an_American_film_actor . He was_killed while serving with the_United_States_Army in 1945 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'George'), (13, 'Snitzer'), (21, '('), (22, '1926'), (27, '–'), (29, '22'), (32, 'March'), (38, '1945'), (42, ')'), (43, ','), (46, 'also'), (51, 'known'), (57, 'as'), (60, 'Jimmy'), (66, 'Snitzer'), (74, 'or'), (77, 'Jim'), (81, 'Snitzer'), (88, ','), (90, 'was'), (94, 'an'), (97, 'American'), (106, 'film'), (111, 'actor'), (116, '.'), (118, 'He'), (121, 'was'), (125, 'killed'), (132, 'while'), (138, 'serving'), (146, 'with'), (151, 'the'), (155, 'United'), (162, 'States'), (169, 'Army'), (174, 'in'), (177, '1945'), (181, '.')])</stanford_tokens>
+<opennlp_chunks>[('James George Snitzer',0, 20), ('22 March 1945',29, 42), ('also known',46, 56), ('Jimmy Snitzer',60, 73), ('Jim Snitzer',77, 88), ('an American film actor',94, 116), ('was killed',121, 131), ('the United States Army',151, 173)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'VBG', 'IN', 'DT', 'NNP', 'NNPS', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'George'), (13, 'Snitzer'), (21, '('), (22, '1926'), (27, '–'), (29, '22'), (32, 'March'), (38, '1945'), (42, ')'), (43, ','), (46, 'also'), (51, 'known'), (57, 'as'), (60, 'Jimmy'), (66, 'Snitzer'), (74, 'or'), (77, 'Jim'), (81, 'Snitzer'), (88, ','), (90, 'was'), (94, 'an'), (97, 'American'), (106, 'film'), (111, 'actor'), (116, '.'), (118, 'He'), (121, 'was'), (125, 'killed'), (132, 'while'), (138, 'serving'), (146, 'with'), (151, 'the'), (155, 'United'), (162, 'States'), (169, 'Army'), (174, 'in'), (177, '1945'), (181, '.')])</spacy_tokens>
+<spacy_chunks>[('James George Snitzer', 0, 20), ('22 March 1945', 29, 42), ('Jimmy Snitzer', 60, 73), ('Jim Snitzer', 77, 88), ('an American film actor', 94, 116), ('Killed', 125, 131), ('the United States Army', 151, 173)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'VBG', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Christy Knowings</title>
+<link/>https://en.wikipedia.org/wiki/Christy_Knowings
+<annotated>0</annotated>
+<originalabstract>Christy Lorraine Knowings (born February 25, 1980) is an American actress, comedian, musician, model, writer, and dancer who served three seasons on the Nickelodeon sketch-comedy series, All That (where she replaced Alisa Reyes in 1997 and was replaced by Giovonnie Samuels in 2002). She is from The Bronx, New York.</originalabstract>
+<abstract>Christy_Lorraine_Knowings ( born February_25_,_1980 ) is an_American_actress , comedian , musician , model , writer , and dancer who served three_seasons on the_Nickelodeon_sketch-comedy_series , All_That ( where she replaced Alisa_Reyes in 1997 and was_replaced by Giovonnie_Samuels in 2002 ) . She is from The_Bronx_,_New_York .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Christy'), (8, 'Lorraine'), (17, 'Knowings'), (26, '('), (27, 'born'), (32, 'February'), (41, '25'), (43, ','), (45, '1980'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'American'), (66, 'actress'), (73, ','), (75, 'comedian'), (83, ','), (85, 'musician'), (93, ','), (95, 'model'), (100, ','), (102, 'writer'), (108, ','), (110, 'and'), (114, 'dancer'), (121, 'who'), (125, 'served'), (132, 'three'), (138, 'seasons'), (146, 'on'), (149, 'the'), (153, 'Nickelodeon'), (165, 'sketch-comedy'), (179, 'series'), (185, ','), (187, 'All'), (191, 'That'), (196, '('), (197, 'where'), (203, 'she'), (207, 'replaced'), (216, 'Alisa'), (222, 'Reyes'), (228, 'in'), (231, '1997'), (236, 'and'), (240, 'was'), (244, 'replaced'), (253, 'by'), (256, 'Giovonnie'), (266, 'Samuels'), (274, 'in'), (277, '2002'), (281, ')'), (282, '.'), (284, 'She'), (288, 'is'), (291, 'from'), (296, 'The'), (300, 'Bronx'), (305, ','), (307, 'New'), (311, 'York'), (315, '.')])</stanford_tokens>
+<opennlp_chunks>[('Christy Lorraine Knowings',0, 25), ('February 25, 1980',32, 49), ('an American actress',54, 73), ('three seasons',132, 145), ('the Nickelodeon sketch-comedy series',149, 185), ('All That',187, 195), ('Alisa Reyes',216, 227), ('was replaced',240, 252), ('Giovonnie Samuels',256, 273), ('The Bronx, New York',296, 315)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'WP', 'VBD', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'JJ', 'NN', ',', 'DT', 'DT', '-LRB-', 'WRB', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'CD', '-RRB-', '.', 'PRP', 'VBZ', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Christy'), (8, 'Lorraine'), (17, 'Knowings'), (26, '('), (27, 'born'), (32, 'February'), (41, '25'), (43, ','), (45, '1980'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'American'), (66, 'actress'), (73, ','), (75, 'comedian'), (83, ','), (85, 'musician'), (93, ','), (95, 'model'), (100, ','), (102, 'writer'), (108, ','), (110, 'and'), (114, 'dancer'), (121, 'who'), (125, 'served'), (132, 'three'), (138, 'seasons'), (146, 'on'), (149, 'the'), (153, 'Nickelodeon'), (165, 'sketch'), (171, '-'), (172, 'comedy'), (179, 'series'), (185, ','), (187, 'All'), (191, 'That'), (196, '('), (197, 'where'), (203, 'she'), (207, 'replaced'), (216, 'Alisa'), (222, 'Reyes'), (228, 'in'), (231, '1997'), (236, 'and'), (240, 'was'), (244, 'replaced'), (253, 'by'), (256, 'Giovonnie'), (266, 'Samuels'), (274, 'in'), (277, '2002'), (281, ')'), (282, '.'), (284, 'She'), (288, 'is'), (291, 'from'), (296, 'The'), (300, 'Bronx'), (305, ','), (307, 'New'), (311, 'York'), (315, '.')])</spacy_tokens>
+<spacy_chunks>[('Christy Lorraine Knowings', 0, 25), ('February 25, 1980', 32, 49), ('an American actress', 54, 73), ('comedian', 75, 83), ('musician', 85, 93), ('writer', 102, 108), ('dancer', 114, 120), ('three seasons', 132, 145), ('the Nickelodeon sketch-comedy series', 149, 185), ('All That', 187, 195), ('Alisa Reyes', 216, 227), ('Giovonnie Samuels', 256, 273), ('The Bronx, New York', 296, 315)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'WP', 'VBD', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'HYPH', 'NN', 'NN', ',', 'DT', 'DT', '-LRB-', 'WRB', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'CD', '-RRB-', '.', 'PRP', 'VBZ', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

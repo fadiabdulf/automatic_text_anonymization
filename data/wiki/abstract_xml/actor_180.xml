@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tomas Arana</title>
+<link/>https://en.wikipedia.org/wiki/Tomas_Arana
+<annotated>0</annotated>
+<originalabstract>Tomas Arana (born Thomas Clifford Arana; April 3, 1955) is an Italian-American actor. He has appeared in films such as The Hunt for Red October, The Bodyguard, L.A. Confidential, Gladiator, and The Dark Knight Rises.</originalabstract>
+<abstract>Tomas_Arana ( born Thomas_Clifford_Arana ; April_3_,_1955 ) is an_Italian-American_actor . He has_appeared in films such_as The_Hunt for Red_October , The_Bodyguard , L.A._Confidential , Gladiator , and The_Dark_Knight_Rises .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tomas'), (6, 'Arana'), (12, '('), (13, 'born'), (18, 'Thomas'), (25, 'Clifford'), (34, 'Arana'), (39, ';'), (41, 'April'), (47, '3'), (48, ','), (50, '1955'), (54, ')'), (56, 'is'), (59, 'an'), (62, 'Italian-American'), (79, 'actor'), (84, '.'), (86, 'He'), (89, 'has'), (93, 'appeared'), (102, 'in'), (105, 'films'), (111, 'such'), (116, 'as'), (119, 'The'), (123, 'Hunt'), (128, 'for'), (132, 'Red'), (136, 'October'), (143, ','), (145, 'The'), (149, 'Bodyguard'), (158, ','), (160, 'L.A.'), (165, 'Confidential'), (177, ','), (179, 'Gladiator'), (188, ','), (190, 'and'), (194, 'The'), (198, 'Dark'), (203, 'Knight'), (210, 'Rises'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tomas Arana',0, 11), ('Thomas Clifford Arana',18, 39), ('April 3, 1955',41, 54), ('an Italian-American actor',59, 84), ('has appeared',89, 101), ('such as',111, 118), ('The Hunt',119, 127), ('Red October',132, 143), ('The Bodyguard',145, 158), ('L.A. Confidential',160, 177), ('The Dark Knight Rises',194, 215)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'DT', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tomas'), (6, 'Arana'), (12, '('), (13, 'born'), (18, 'Thomas'), (25, 'Clifford'), (34, 'Arana'), (39, ';'), (41, 'April'), (47, '3'), (48, ','), (50, '1955'), (54, ')'), (56, 'is'), (59, 'an'), (62, 'Italian'), (69, '-'), (70, 'American'), (79, 'actor'), (84, '.'), (86, 'He'), (89, 'has'), (93, 'appeared'), (102, 'in'), (105, 'films'), (111, 'such'), (116, 'as'), (119, 'The'), (123, 'Hunt'), (128, 'for'), (132, 'Red'), (136, 'October'), (143, ','), (145, 'The'), (149, 'Bodyguard'), (158, ','), (160, 'L.A.'), (165, 'Confidential'), (177, ','), (179, 'Gladiator'), (188, ','), (190, 'and'), (194, 'The'), (198, 'Dark'), (203, 'Knight'), (210, 'Rises'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Tomas Arana', 0, 11), ('Thomas Clifford Arana', 18, 39), ('April 3, 1955', 41, 54), ('an Italian-American actor', 59, 84), ('The Hunt for Red October', 119, 143), ('The Bodyguard', 145, 158), ('L.A. Confidential', 160, 177), ('Gladiator', 179, 188), ('The Dark Knight Rises', 194, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'DT', 'NNP', 'NNP', 'VBZ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anthony Eustrel</title>
+<link/>https://en.wikipedia.org/wiki/Anthony_Eustrel
+<annotated>0</annotated>
+<originalabstract>Anthony Eustrel (12 October 1902 – 2 July 1979) was an English actor. He made guest appearances on television programs such as Perry Mason, Maverick, Peter Gunn, 77 Sunset Strip, My Favorite Martian, Hogan's Heroes and Get Smart. His ashes are inurned at Chapel of the Pines Crematory.</originalabstract>
+<abstract>Anthony_Eustrel ( 12_October_1902 – 2_July_1979 ) was an_English_actor . He made guest_appearances on television_programs such_as Perry_Mason , Maverick , Peter_Gunn , 77_Sunset_Strip , My_Favorite_Martian , Hogan 's_Heroes and Get Smart . His_ashes are_inurned at Chapel of the_Pines_Crematory .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anthony'), (8, 'Eustrel'), (16, '('), (17, '12'), (20, 'October'), (28, '1902'), (33, '–'), (35, '2'), (37, 'July'), (42, '1979'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'English'), (63, 'actor'), (68, '.'), (70, 'He'), (73, 'made'), (78, 'guest'), (84, 'appearances'), (96, 'on'), (99, 'television'), (110, 'programs'), (119, 'such'), (124, 'as'), (127, 'Perry'), (133, 'Mason'), (138, ','), (140, 'Maverick'), (148, ','), (150, 'Peter'), (156, 'Gunn'), (160, ','), (162, '77'), (165, 'Sunset'), (172, 'Strip'), (177, ','), (179, 'My'), (182, 'Favorite'), (191, 'Martian'), (198, ','), (200, 'Hogan'), (205, '\'s'), (208, 'Heroes'), (215, 'and'), (219, 'Get'), (223, 'Smart'), (228, '.'), (230, 'His'), (234, 'ashes'), (240, 'are'), (244, 'inurned'), (252, 'at'), (255, 'Chapel'), (262, 'of'), (265, 'the'), (269, 'Pines'), (275, 'Crematory'), (284, '.')])</stanford_tokens>
+<opennlp_chunks>[('Anthony Eustrel',0, 15), ('12 October 1902',17, 32), ('2 July 1979',35, 46), ('an English actor',52, 68), ('guest appearances',78, 95), ('television programs',99, 118), ('such as',119, 126), ('Perry Mason',127, 138), ('Peter Gunn',150, 160), ('77 Sunset Strip',162, 177), ('My Favorite Martian',179, 198), ('\'s Heroes',205, 214), ('His ashes',230, 239), ('are inurned',240, 251), ('the Pines Crematory',265, 284)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NN', 'NNS', 'IN', 'NN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', ',', 'CD', 'NNP', 'NNP', ',', 'PRP$', 'NNP', 'NNP', ',', 'NNP', 'POS', 'NNPS', 'CC', 'VB', 'JJ', '.', 'PRP$', 'NNS', 'VBP', 'VBN', 'IN', 'NN', 'IN', 'DT', 'NNS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anthony'), (8, 'Eustrel'), (16, '('), (17, '12'), (20, 'October'), (28, '1902'), (33, '–'), (35, '2'), (37, 'July'), (42, '1979'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'English'), (63, 'actor'), (68, '.'), (70, 'He'), (73, 'made'), (78, 'guest'), (84, 'appearances'), (96, 'on'), (99, 'television'), (110, 'programs'), (119, 'such'), (124, 'as'), (127, 'Perry'), (133, 'Mason'), (138, ','), (140, 'Maverick'), (148, ','), (150, 'Peter'), (156, 'Gunn'), (160, ','), (162, '77'), (165, 'Sunset'), (172, 'Strip'), (177, ','), (179, 'My'), (182, 'Favorite'), (191, 'Martian'), (198, ','), (200, 'Hogan'), (205, "'s"), (208, 'Heroes'), (215, 'and'), (219, 'Get'), (223, 'Smart'), (228, '.'), (230, 'His'), (234, 'ashes'), (240, 'are'), (244, 'inurned'), (252, 'at'), (255, 'Chapel'), (262, 'of'), (265, 'the'), (269, 'Pines'), (275, 'Crematory'), (284, '.')])</spacy_tokens>
+<spacy_chunks>[('Anthony Eustrel', 0, 15), ('12 October 1902', 17, 32), ('2 July 1979', 35, 46), ('an English actor', 52, 68), ('guest appearances', 78, 95), ('television programs', 99, 118), ('Perry Mason', 127, 138), ('Maverick', 140, 148), ('Peter Gunn', 150, 160), ('77 Sunset Strip', 162, 177), ('My Favorite Martian', 179, 198), ("Hogan's Heroes", 200, 214), ('Get Smart', 219, 228), ('His ashes', 230, 239), ('Chapel of the Pines Crematory', 255, 284)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NN', 'NNS', 'IN', 'NN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', ',', 'CD', 'NNP', 'NNP', ',', 'PRP$', 'JJ', 'NNP', ',', 'NNP', 'POS', 'NNPS', 'CC', 'VB', 'JJ', '.', 'PRP$', 'NNS', 'VBP', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

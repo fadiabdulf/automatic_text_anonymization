@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mia Marvin</title>
+<link/>https://en.wikipedia.org/wiki/Mia_Marvin
+<annotated>0</annotated>
+<originalabstract>Mia Marvin (November 1, 1904 – September 27, 1992) was an American actress best known for her role in The Public Enemy as the woman who houses and seduces James Cagney. In her entire film career spanning five years she appeared in only three movies in her career but never in a credited role.</originalabstract>
+<abstract>Mia_Marvin ( November_1_,_1904 – September_27_,_1992 ) was an_American_actress best_known for her_role in The_Public_Enemy as the_woman who houses_and_seduces James_Cagney . In her_entire_film_career spanning five_years she appeared in only_three_movies in her_career but never in a_credited_role .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mia'), (4, 'Marvin'), (11, '('), (12, 'November'), (21, '1'), (22, ','), (24, '1904'), (29, '–'), (31, 'September'), (41, '27'), (43, ','), (45, '1992'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actress'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'her'), (94, 'role'), (99, 'in'), (102, 'The'), (106, 'Public'), (113, 'Enemy'), (119, 'as'), (122, 'the'), (126, 'woman'), (132, 'who'), (136, 'houses'), (143, 'and'), (147, 'seduces'), (155, 'James'), (161, 'Cagney'), (167, '.'), (169, 'In'), (172, 'her'), (176, 'entire'), (183, 'film'), (188, 'career'), (195, 'spanning'), (204, 'five'), (209, 'years'), (215, 'she'), (219, 'appeared'), (228, 'in'), (231, 'only'), (236, 'three'), (242, 'movies'), (249, 'in'), (252, 'her'), (256, 'career'), (263, 'but'), (267, 'never'), (273, 'in'), (276, 'a'), (278, 'credited'), (287, 'role'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mia Marvin',0, 10), ('November 1, 1904',12, 28), ('September 27, 1992',31, 49), ('an American actress',55, 74), ('best known',75, 85), ('her role',90, 98), ('The Public Enemy',102, 118), ('the woman',122, 131), ('houses and seduces',136, 154), ('James Cagney',155, 167), ('her entire film career',172, 194), ('five years',204, 214), ('only three movies',231, 248), ('her career',252, 262), ('a credited role',276, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'DT', 'NN', 'WP', 'VBZ', 'CC', 'VBZ', 'NNP', 'NNP', '.', 'IN', 'PRP$', 'JJ', 'NN', 'NN', 'VBG', 'CD', 'NNS', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'PRP$', 'NN', 'CC', 'RB', 'IN', 'DT', 'VBN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mia'), (4, 'Marvin'), (11, '('), (12, 'November'), (21, '1'), (22, ','), (24, '1904'), (29, '–'), (31, 'September'), (41, '27'), (43, ','), (45, '1992'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actress'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'her'), (94, 'role'), (99, 'in'), (102, 'The'), (106, 'Public'), (113, 'Enemy'), (119, 'as'), (122, 'the'), (126, 'woman'), (132, 'who'), (136, 'houses'), (143, 'and'), (147, 'seduces'), (155, 'James'), (161, 'Cagney'), (167, '.'), (169, 'In'), (172, 'her'), (176, 'entire'), (183, 'film'), (188, 'career'), (195, 'spanning'), (204, 'five'), (209, 'years'), (215, 'she'), (219, 'appeared'), (228, 'in'), (231, 'only'), (236, 'three'), (242, 'movies'), (249, 'in'), (252, 'her'), (256, 'career'), (263, 'but'), (267, 'never'), (273, 'in'), (276, 'a'), (278, 'credited'), (287, 'role'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Mia Marvin', 0, 10), ('(November', 11, 20), ('November 1, 1904', 12, 28), ('September 27, 1992', 31, 49), ('an American actress', 55, 74), ('her role', 90, 98), ('The Public Enemy', 102, 118), ('the woman', 122, 131), ('James Cagney', 155, 167), ('her entire film career', 172, 194), ('five years', 204, 214), ('only three movies', 231, 248), ('her career', 252, 262), ('a credited role', 276, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'WP', 'VBZ', 'CC', 'VBZ', 'NNP', 'NNP', '.', 'IN', 'PRP$', 'JJ', 'NN', 'NN', 'VBG', 'CD', 'NNS', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'PRP$', 'NN', 'CC', 'RB', 'IN', 'DT', 'VBN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

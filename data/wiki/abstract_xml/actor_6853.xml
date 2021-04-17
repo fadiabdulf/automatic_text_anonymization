@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frank Vincent</title>
+<link/>https://en.wikipedia.org/wiki/Frank_Vincent
+<annotated>0</annotated>
+<originalabstract>Frank Vincent Gattuso Jr. (April 15, 1937 – September 13, 2017), known professionally as Frank Vincent, was an American actor. He played prominent roles in the HBO series The Sopranos and in several films for director Martin Scorsese: Raging Bull (1980), Goodfellas (1990), and Casino (1995).</originalabstract>
+<abstract>Frank_Vincent_Gattuso_Jr. ( April_15_,_1937 – September_13_,_2017 ) , known professionally as Frank_Vincent , was an_American_actor . He played prominent_roles in the_HBO_series The_Sopranos and in several_films for director_Martin_Scorsese : Raging_Bull_(_1980_) , Goodfellas_(_1990_) , and Casino_(_1995_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frank'), (6, 'Vincent'), (14, 'Gattuso'), (22, 'Jr.'), (26, '('), (27, 'April'), (33, '15'), (35, ','), (37, '1937'), (42, '–'), (44, 'September'), (54, '13'), (56, ','), (58, '2017'), (62, ')'), (63, ','), (65, 'known'), (71, 'professionally'), (86, 'as'), (89, 'Frank'), (95, 'Vincent'), (102, ','), (104, 'was'), (108, 'an'), (111, 'American'), (120, 'actor'), (125, '.'), (127, 'He'), (130, 'played'), (137, 'prominent'), (147, 'roles'), (153, 'in'), (156, 'the'), (160, 'HBO'), (164, 'series'), (171, 'The'), (175, 'Sopranos'), (184, 'and'), (188, 'in'), (191, 'several'), (199, 'films'), (205, 'for'), (209, 'director'), (218, 'Martin'), (225, 'Scorsese'), (233, ':'), (235, 'Raging'), (242, 'Bull'), (247, '('), (248, '1980'), (252, ')'), (253, ','), (255, 'Goodfellas'), (266, '('), (267, '1990'), (271, ')'), (272, ','), (274, 'and'), (278, 'Casino'), (285, '('), (286, '1995'), (290, ')'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frank Vincent Gattuso Jr.',0, 25), ('April 15, 1937',27, 41), ('September 13, 2017',44, 62), ('Frank Vincent',89, 102), ('an American actor',108, 125), ('prominent roles',137, 152), ('the HBO series',156, 170), ('The Sopranos',171, 183), ('several films',191, 204), ('director Martin Scorsese',209, 233), ('Raging Bull (1980)',235, 253), ('Goodfellas (1990)',255, 272), ('Casino (1995)',278, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'JJ', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNPS', 'CC', 'IN', 'JJ', 'NNS', 'IN', 'NN', 'NNP', 'NNP', ':', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frank'), (6, 'Vincent'), (14, 'Gattuso'), (22, 'Jr.'), (26, '('), (27, 'April'), (33, '15'), (35, ','), (37, '1937'), (42, '–'), (44, 'September'), (54, '13'), (56, ','), (58, '2017'), (62, ')'), (63, ','), (65, 'known'), (71, 'professionally'), (86, 'as'), (89, 'Frank'), (95, 'Vincent'), (102, ','), (104, 'was'), (108, 'an'), (111, 'American'), (120, 'actor'), (125, '.'), (127, 'He'), (130, 'played'), (137, 'prominent'), (147, 'roles'), (153, 'in'), (156, 'the'), (160, 'HBO'), (164, 'series'), (171, 'The'), (175, 'Sopranos'), (184, 'and'), (188, 'in'), (191, 'several'), (199, 'films'), (205, 'for'), (209, 'director'), (218, 'Martin'), (225, 'Scorsese'), (233, ':'), (235, 'Raging'), (242, 'Bull'), (247, '('), (248, '1980'), (252, ')'), (253, ','), (255, 'Goodfellas'), (266, '('), (267, '1990'), (271, ')'), (272, ','), (274, 'and'), (278, 'Casino'), (285, '('), (286, '1995'), (290, ')'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Frank Vincent Gattuso Jr.', 0, 25), ('April 15, 1937', 27, 41), ('September 13, 2017', 44, 62), ('an American actor', 108, 125), ('prominent roles', 137, 152), ('the HBO series', 156, 170), ('The Sopranos', 171, 183), ('several films', 191, 204), ('director Martin Scorsese', 209, 233), ('Raging Bull', 235, 246), ('Goodfellas', 255, 265), ('Casino (1995', 278, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'JJ', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'CC', 'IN', 'JJ', 'NNS', 'IN', 'NN', 'NNP', 'NNP', ':', 'VBG', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

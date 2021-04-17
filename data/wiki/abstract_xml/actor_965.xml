@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frederick Burton (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Frederick_Burton_(actor)
+<annotated>0</annotated>
+<originalabstract>Frederick Burton (October 20, 1871 – October 23, 1957) was an American actor. He appeared in 122 films between 1914 and 1947. Burton was born in Gosport, Indiana and died in Woodland Hills, Los Angeles.</originalabstract>
+<abstract>Frederick_Burton ( October_20_,_1871 – October_23_,_1957 ) was an_American_actor . He appeared in 122_films between 1914_and_1947 . Burton was_born in Gosport , Indiana and died in Woodland_Hills , Los_Angeles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frederick'), (10, 'Burton'), (17, '('), (18, 'October'), (26, '20'), (28, ','), (30, '1871'), (35, '–'), (37, 'October'), (45, '23'), (47, ','), (49, '1957'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'actor'), (76, '.'), (78, 'He'), (81, 'appeared'), (90, 'in'), (93, '122'), (97, 'films'), (103, 'between'), (111, '1914'), (116, 'and'), (120, '1947'), (124, '.'), (126, 'Burton'), (133, 'was'), (137, 'born'), (142, 'in'), (145, 'Gosport'), (152, ','), (154, 'Indiana'), (162, 'and'), (166, 'died'), (171, 'in'), (174, 'Woodland'), (183, 'Hills'), (188, ','), (190, 'Los'), (194, 'Angeles'), (201, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frederick Burton',0, 16), ('October 20, 1871',18, 34), ('October 23, 1957',37, 53), ('an American actor',59, 76), ('122 films',93, 102), ('1914 and 1947',111, 124), ('was born',133, 141), ('Woodland Hills',174, 188), ('Los Angeles',190, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frederick'), (10, 'Burton'), (17, '('), (18, 'October'), (26, '20'), (28, ','), (30, '1871'), (35, '–'), (37, 'October'), (45, '23'), (47, ','), (49, '1957'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'actor'), (76, '.'), (78, 'He'), (81, 'appeared'), (90, 'in'), (93, '122'), (97, 'films'), (103, 'between'), (111, '1914'), (116, 'and'), (120, '1947'), (124, '.'), (126, 'Burton'), (133, 'was'), (137, 'born'), (142, 'in'), (145, 'Gosport'), (152, ','), (154, 'Indiana'), (162, 'and'), (166, 'died'), (171, 'in'), (174, 'Woodland'), (183, 'Hills'), (188, ','), (190, 'Los'), (194, 'Angeles'), (201, '.')])</spacy_tokens>
+<spacy_chunks>[('Frederick Burton', 0, 16), ('(October', 17, 25), ('October 20, 1871', 18, 34), ('October 23, 1957', 37, 53), ('an American actor', 59, 76), ('122 films', 93, 102), ('Gosport, Indiana', 145, 161), ('Woodland Hills, Los Angeles', 174, 201)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

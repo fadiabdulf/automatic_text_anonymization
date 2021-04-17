@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anthony O'Sullivan</title>
+<link/>https://en.wikipedia.org/wiki/Anthony_O%27Sullivan
+<annotated>0</annotated>
+<originalabstract>Anthony O'Sullivan (1855 – July 5, 1920) was an American silent film actor and director. He appeared in 163 films between 1906 and 1918.  He also directed 35 films between 1913 and 1915. He died in The Bronx, New York</originalabstract>
+<abstract>Anthony_O'Sullivan ( 1855 – July_5_,_1920 ) was an_American_silent_film_actor_and_director . He appeared in 163_films between 1906_and_1918 . He also directed 35_films between 1913_and_1915 . He died in The_Bronx_,_New_York</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anthony'), (8, 'O\'Sullivan'), (19, '('), (20, '1855'), (25, '–'), (27, 'July'), (32, '5'), (33, ','), (35, '1920'), (39, ')'), (41, 'was'), (45, 'an'), (48, 'American'), (57, 'silent'), (64, 'film'), (69, 'actor'), (75, 'and'), (79, 'director'), (87, '.'), (89, 'He'), (92, 'appeared'), (101, 'in'), (104, '163'), (108, 'films'), (114, 'between'), (122, '1906'), (127, 'and'), (131, '1918'), (135, '.'), (138, 'He'), (141, 'also'), (146, 'directed'), (155, '35'), (158, 'films'), (164, 'between'), (172, '1913'), (177, 'and'), (181, '1915'), (185, '.'), (187, 'He'), (190, 'died'), (195, 'in'), (198, 'The'), (202, 'Bronx'), (207, ','), (209, 'New'), (213, 'York')])</stanford_tokens>
+<opennlp_chunks>[('Anthony O\'Sullivan',0, 18), ('July 5, 1920',27, 39), ('an American silent film actor and director',45, 87), ('163 films',104, 113), ('1906 and 1918',122, 135), ('35 films',155, 163), ('1913 and 1915',172, 185), ('The Bronx, New York',198, 217)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anthony'), (8, "O'Sullivan"), (19, '('), (20, '1855'), (25, '–'), (27, 'July'), (32, '5'), (33, ','), (35, '1920'), (39, ')'), (41, 'was'), (45, 'an'), (48, 'American'), (57, 'silent'), (64, 'film'), (69, 'actor'), (75, 'and'), (79, 'director'), (87, '.'), (89, 'He'), (92, 'appeared'), (101, 'in'), (104, '163'), (108, 'films'), (114, 'between'), (122, '1906'), (127, 'and'), (131, '1918'), (135, '.'), (138, 'He'), (141, 'also'), (146, 'directed'), (155, '35'), (158, 'films'), (164, 'between'), (172, '1913'), (177, 'and'), (181, '1915'), (185, '.'), (187, 'He'), (190, 'died'), (195, 'in'), (198, 'The'), (202, 'Bronx'), (207, ','), (209, 'New'), (213, 'York')])</spacy_tokens>
+<spacy_chunks>[("Anthony O'Sullivan", 0, 18), ('1855 – July', 20, 31), ('July 5, 1920', 27, 39), ('an American silent film actor', 45, 74), ('director', 79, 87), ('163 films', 104, 113), ('35 films', 155, 163), ('The Bronx', 198, 207), ('New York', 209, 217)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

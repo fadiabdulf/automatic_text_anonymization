@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean-Marie Winling</title>
+<link/>https://en.wikipedia.org/wiki/Jean-Marie_Winling
+<annotated>0</annotated>
+<originalabstract>Jean-Marie Winling (born 1947) is a French actor. He has appeared in more than a hundred films since 1972.</originalabstract>
+<abstract>Jean-Marie_Winling ( born 1947 ) is a_French_actor . He has_appeared in more than a_hundred_films since 1972 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean-Marie'), (11, 'Winling'), (19, '('), (20, 'born'), (25, '1947'), (29, ')'), (31, 'is'), (34, 'a'), (36, 'French'), (43, 'actor'), (48, '.'), (50, 'He'), (53, 'has'), (57, 'appeared'), (66, 'in'), (69, 'more'), (74, 'than'), (79, 'a'), (81, 'hundred'), (89, 'films'), (95, 'since'), (101, '1972'), (105, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean-Marie Winling',0, 18), ('a French actor',34, 48), ('has appeared',53, 65), ('a hundred films',79, 94)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (4, '-'), (5, 'Marie'), (11, 'Winling'), (19, '('), (20, 'born'), (25, '1947'), (29, ')'), (31, 'is'), (34, 'a'), (36, 'French'), (43, 'actor'), (48, '.'), (50, 'He'), (53, 'has'), (57, 'appeared'), (66, 'in'), (69, 'more'), (74, 'than'), (79, 'a'), (81, 'hundred'), (89, 'films'), (95, 'since'), (101, '1972'), (105, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean-Marie Winling', 0, 18), ('a French actor', 34, 48), ('more than a hundred films', 69, 94)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

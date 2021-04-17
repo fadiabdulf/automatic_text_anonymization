@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hassan Johnson</title>
+<link/>https://en.wikipedia.org/wiki/Hassan_Johnson
+<annotated>0</annotated>
+<originalabstract>Hassan "Iniko" Johnson (born October 3, 1977) is an American actor, model and film producer from Brooklyn, New York. His most notable performance was in the HBO program The Wire as Roland "Wee-Bey" Brice.</originalabstract>
+<abstract>Hassan_"_Iniko_"_Johnson ( born October_3_,_1977 ) is an_American_actor_,_model_and_film_producer from Brooklyn , New_York . His_most_notable_performance was in the_HBO_program The_Wire as Roland_"_Wee-Bey_"_Brice .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hassan'), (7, '"'), (8, 'Iniko'), (13, '"'), (15, 'Johnson'), (23, '('), (24, 'born'), (29, 'October'), (37, '3'), (38, ','), (40, '1977'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (66, ','), (68, 'model'), (74, 'and'), (78, 'film'), (83, 'producer'), (92, 'from'), (97, 'Brooklyn'), (105, ','), (107, 'New'), (111, 'York'), (115, '.'), (117, 'His'), (121, 'most'), (126, 'notable'), (134, 'performance'), (146, 'was'), (150, 'in'), (153, 'the'), (157, 'HBO'), (161, 'program'), (169, 'The'), (173, 'Wire'), (178, 'as'), (181, 'Roland'), (188, '"'), (189, 'Wee-Bey'), (196, '"'), (198, 'Brice'), (203, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hassan "Iniko" Johnson',0, 22), ('October 3, 1977',29, 44), ('an American actor, model and film producer',49, 91), ('New York',107, 115), ('His most notable performance',117, 145), ('the HBO program',153, 168), ('The Wire',169, 177), ('Roland "Wee-Bey" Brice',181, 203)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'VBD', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NN', 'IN', 'NNP', '``', 'NNP', '\'\'', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hassan'), (7, '"'), (8, 'Iniko'), (13, '"'), (15, 'Johnson'), (23, '('), (24, 'born'), (29, 'October'), (37, '3'), (38, ','), (40, '1977'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (66, ','), (68, 'model'), (74, 'and'), (78, 'film'), (83, 'producer'), (92, 'from'), (97, 'Brooklyn'), (105, ','), (107, 'New'), (111, 'York'), (115, '.'), (117, 'His'), (121, 'most'), (126, 'notable'), (134, 'performance'), (146, 'was'), (150, 'in'), (153, 'the'), (157, 'HBO'), (161, 'program'), (169, 'The'), (173, 'Wire'), (178, 'as'), (181, 'Roland'), (188, '"'), (189, 'Wee'), (192, '-'), (193, 'Bey'), (196, '"'), (198, 'Brice'), (203, '.')])</spacy_tokens>
+<spacy_chunks>[('Hassan "Iniko" Johnson', 0, 22), ('October 3, 1977', 29, 44), ('an American actor, model and film producer', 49, 91), ('Brooklyn, New York', 97, 115), ('His most notable performance', 117, 145), ('the HBO program', 153, 168), ('The Wire', 169, 177), ('Roland "Wee-Bey" Brice', 181, 203)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'VBD', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'IN', 'NNP', '``', 'NNP', 'HYPH', 'NNP', "''", 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

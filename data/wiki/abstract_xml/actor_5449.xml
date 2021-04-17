@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Billy Quirk</title>
+<link/>https://en.wikipedia.org/wiki/Billy_Quirk
+<annotated>0</annotated>
+<originalabstract>William A. "Billy" Quirk (March 27, 1873 – April 20, 1926) was an American silent film actor. He appeared in 182 films between 1909 and 1924. He was born in Jersey City, New Jersey, and died in Los Angeles, California.</originalabstract>
+<abstract>William_A._"_Billy_"_Quirk ( March_27 , 1873 – April_20_,_1926 ) was an_American_silent_film_actor . He appeared in 182_films between 1909_and_1924 . He was_born in Jersey_City , New_Jersey , and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'A.'), (11, '"'), (12, 'Billy'), (17, '"'), (19, 'Quirk'), (25, '('), (26, 'March'), (32, '27'), (34, ','), (36, '1873'), (41, '–'), (43, 'April'), (49, '20'), (51, ','), (53, '1926'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'silent'), (82, 'film'), (87, 'actor'), (92, '.'), (94, 'He'), (97, 'appeared'), (106, 'in'), (109, '182'), (113, 'films'), (119, 'between'), (127, '1909'), (132, 'and'), (136, '1924'), (140, '.'), (142, 'He'), (145, 'was'), (149, 'born'), (154, 'in'), (157, 'Jersey'), (164, 'City'), (168, ','), (170, 'New'), (174, 'Jersey'), (180, ','), (182, 'and'), (186, 'died'), (191, 'in'), (194, 'Los'), (198, 'Angeles'), (205, ','), (207, 'California'), (217, '.')])</stanford_tokens>
+<opennlp_chunks>[('William A. "Billy" Quirk',0, 24), ('March 27',26, 34), ('April 20, 1926',43, 57), ('an American silent film actor',63, 92), ('182 films',109, 118), ('1909 and 1924',127, 140), ('was born',145, 153), ('Jersey City',157, 168), ('New Jersey',170, 180), ('Los Angeles',194, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'A.'), (11, '"'), (12, 'Billy'), (17, '"'), (19, 'Quirk'), (25, '('), (26, 'March'), (32, '27'), (34, ','), (36, '1873'), (41, '–'), (43, 'April'), (49, '20'), (51, ','), (53, '1926'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'silent'), (82, 'film'), (87, 'actor'), (92, '.'), (94, 'He'), (97, 'appeared'), (106, 'in'), (109, '182'), (113, 'films'), (119, 'between'), (127, '1909'), (132, 'and'), (136, '1924'), (140, '.'), (142, 'He'), (145, 'was'), (149, 'born'), (154, 'in'), (157, 'Jersey'), (164, 'City'), (168, ','), (170, 'New'), (174, 'Jersey'), (180, ','), (182, 'and'), (186, 'died'), (191, 'in'), (194, 'Los'), (198, 'Angeles'), (205, ','), (207, 'California'), (217, '.')])</spacy_tokens>
+<spacy_chunks>[('William A. "Billy" Quirk', 0, 24), ('March 27, 1873', 26, 40), ('April 20, 1926', 43, 57), ('an American silent film actor', 63, 92), ('182 films', 109, 118), ('Jersey City, New Jersey', 157, 180), ('Los Angeles, California', 194, 217)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

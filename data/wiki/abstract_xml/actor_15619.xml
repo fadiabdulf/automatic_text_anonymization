@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jessica Tuck</title>
+<link/>https://en.wikipedia.org/wiki/Jessica_Tuck
+<annotated>0</annotated>
+<originalabstract>Jessica Ines Tuck (born February 19, 1963) is an American actress, best known for her performances on television as Megan Gordon Harrison on the ABC soap opera One Life to Live, Gillian Gray in the CBS drama series Judging Amy, and as Nan Flanagan on the HBO series, True Blood.</originalabstract>
+<abstract>Jessica_Ines_Tuck ( born February_19_,_1963 ) is an_American_actress , best_known for her_performances on television as Megan_Gordon_Harrison on the_ABC_soap_opera One_Life to_Live , Gillian_Gray in the_CBS_drama_series Judging Amy , and as Nan_Flanagan on the_HBO_series , True_Blood .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jessica'), (8, 'Ines'), (13, 'Tuck'), (18, '('), (19, 'born'), (24, 'February'), (33, '19'), (35, ','), (37, '1963'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, ','), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'performances'), (99, 'on'), (102, 'television'), (113, 'as'), (116, 'Megan'), (122, 'Gordon'), (129, 'Harrison'), (138, 'on'), (141, 'the'), (145, 'ABC'), (149, 'soap'), (154, 'opera'), (160, 'One'), (164, 'Life'), (169, 'to'), (172, 'Live'), (176, ','), (178, 'Gillian'), (186, 'Gray'), (191, 'in'), (194, 'the'), (198, 'CBS'), (202, 'drama'), (208, 'series'), (215, 'Judging'), (223, 'Amy'), (226, ','), (228, 'and'), (232, 'as'), (235, 'Nan'), (239, 'Flanagan'), (248, 'on'), (251, 'the'), (255, 'HBO'), (259, 'series'), (265, ','), (267, 'True'), (272, 'Blood'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jessica Ines Tuck',0, 17), ('February 19, 1963',24, 41), ('an American actress',46, 65), ('best known',67, 77), ('her performances',82, 98), ('Megan Gordon Harrison',116, 137), ('the ABC soap opera',141, 159), ('One Life',160, 168), ('to Live',169, 176), ('Gillian Gray',178, 190), ('the CBS drama series',194, 214), ('Nan Flanagan',235, 247), ('the HBO series',251, 265), ('True Blood',267, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'CD', 'NN', 'TO', 'VB', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'VBG', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', ',', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jessica'), (8, 'Ines'), (13, 'Tuck'), (18, '('), (19, 'born'), (24, 'February'), (33, '19'), (35, ','), (37, '1963'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, ','), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'performances'), (99, 'on'), (102, 'television'), (113, 'as'), (116, 'Megan'), (122, 'Gordon'), (129, 'Harrison'), (138, 'on'), (141, 'the'), (145, 'ABC'), (149, 'soap'), (154, 'opera'), (160, 'One'), (164, 'Life'), (169, 'to'), (172, 'Live'), (176, ','), (178, 'Gillian'), (186, 'Gray'), (191, 'in'), (194, 'the'), (198, 'CBS'), (202, 'drama'), (208, 'series'), (215, 'Judging'), (223, 'Amy'), (226, ','), (228, 'and'), (232, 'as'), (235, 'Nan'), (239, 'Flanagan'), (248, 'on'), (251, 'the'), (255, 'HBO'), (259, 'series'), (265, ','), (267, 'True'), (272, 'Blood'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Jessica Ines Tuck', 0, 17), ('February 19, 1963', 24, 41), ('an American actress', 46, 65), ('her performances', 82, 98), ('television', 102, 112), ('Megan Gordon Harrison', 116, 137), ('On the', 138, 144), ('the ABC soap opera', 141, 159), ('One Life to Live', 160, 176), ('Gillian Gray', 178, 190), ('the CBS drama series', 194, 214), ('Judging Amy', 215, 226), ('Nan Flanagan', 235, 247), ('the HBO series', 251, 265), (', True Blood', 265, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'CD', 'NN', 'IN', 'VB', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', ',', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michael Hollick</title>
+<link/>https://en.wikipedia.org/wiki/Michael_Hollick
+<annotated>0</annotated>
+<originalabstract>Michael Andrew Hollick (born August 5, 1973 in Brooklyn, New York) is an American actor. He is best known for being the voice and physical actor of Niko Bellic in Grand Theft Auto IV.</originalabstract>
+<abstract>Michael_Andrew_Hollick ( born August_5_,_1973 in Brooklyn , New_York ) is an_American_actor . He is_best_known for being the_voice_and_physical_actor of Niko_Bellic in Grand_Theft_Auto_IV .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michael'), (8, 'Andrew'), (15, 'Hollick'), (23, '('), (24, 'born'), (29, 'August'), (36, '5'), (37, ','), (39, '1973'), (44, 'in'), (47, 'Brooklyn'), (55, ','), (57, 'New'), (61, 'York'), (65, ')'), (67, 'is'), (70, 'an'), (73, 'American'), (82, 'actor'), (87, '.'), (89, 'He'), (92, 'is'), (95, 'best'), (100, 'known'), (106, 'for'), (110, 'being'), (116, 'the'), (120, 'voice'), (126, 'and'), (130, 'physical'), (139, 'actor'), (145, 'of'), (148, 'Niko'), (153, 'Bellic'), (160, 'in'), (163, 'Grand'), (169, 'Theft'), (175, 'Auto'), (180, 'IV'), (182, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michael Andrew Hollick',0, 22), ('August 5, 1973',29, 43), ('New York',57, 65), ('an American actor',70, 87), ('is best known',92, 105), ('the voice and physical actor',116, 144), ('Niko Bellic',148, 159), ('Grand Theft Auto IV',163, 182)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'CC', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NN', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michael'), (8, 'Andrew'), (15, 'Hollick'), (23, '('), (24, 'born'), (29, 'August'), (36, '5'), (37, ','), (39, '1973'), (44, 'in'), (47, 'Brooklyn'), (55, ','), (57, 'New'), (61, 'York'), (65, ')'), (67, 'is'), (70, 'an'), (73, 'American'), (82, 'actor'), (87, '.'), (89, 'He'), (92, 'is'), (95, 'best'), (100, 'known'), (106, 'for'), (110, 'being'), (116, 'the'), (120, 'voice'), (126, 'and'), (130, 'physical'), (139, 'actor'), (145, 'of'), (148, 'Niko'), (153, 'Bellic'), (160, 'in'), (163, 'Grand'), (169, 'Theft'), (175, 'Auto'), (180, 'IV'), (182, '.')])</spacy_tokens>
+<spacy_chunks>[('Michael Andrew Hollick', 0, 22), ('August 5, 1973', 29, 43), ('Brooklyn', 47, 55), ('New York', 57, 65), ('an American actor', 70, 87), ('the voice', 116, 125), ('physical actor', 130, 144), ('Niko Bellic', 148, 159), ('Grand Theft Auto IV', 163, 182)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'NN', 'CC', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

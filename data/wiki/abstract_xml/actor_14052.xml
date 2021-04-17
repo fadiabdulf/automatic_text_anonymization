@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Katherine Moennig</title>
+<link/>https://en.wikipedia.org/wiki/Katherine_Moennig
+<annotated>0</annotated>
+<originalabstract>Katherine Sian Moennig (born December 29, 1977) is an American actress known for her role as Shane McCutcheon on The L Word (2004-09), as well as Jake Pratt on Young Americans (2000). Moennig has played the role of Lena in the Showtime series Ray Donovan since 2013.</originalabstract>
+<abstract>Katherine_Sian_Moennig ( born December_29_,_1977 ) is an_American_actress known for her_role as Shane_McCutcheon on The_L_Word ( 2004-09 ) , as_well_as Jake_Pratt on Young_Americans ( 2000 ) . Moennig has_played the_role of Lena in the_Showtime_series_Ray_Donovan since 2013 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Katherine'), (10, 'Sian'), (15, 'Moennig'), (23, '('), (24, 'born'), (29, 'December'), (38, '29'), (40, ','), (42, '1977'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actress'), (71, 'known'), (77, 'for'), (81, 'her'), (85, 'role'), (90, 'as'), (93, 'Shane'), (99, 'McCutcheon'), (110, 'on'), (113, 'The'), (117, 'L'), (119, 'Word'), (124, '('), (125, '2004-09'), (132, ')'), (133, ','), (135, 'as'), (138, 'well'), (143, 'as'), (146, 'Jake'), (151, 'Pratt'), (157, 'on'), (160, 'Young'), (166, 'Americans'), (176, '('), (177, '2000'), (181, ')'), (182, '.'), (184, 'Moennig'), (192, 'has'), (196, 'played'), (203, 'the'), (207, 'role'), (212, 'of'), (215, 'Lena'), (220, 'in'), (223, 'the'), (227, 'Showtime'), (236, 'series'), (243, 'Ray'), (247, 'Donovan'), (255, 'since'), (261, '2013'), (265, '.')])</stanford_tokens>
+<opennlp_chunks>[('Katherine Sian Moennig',0, 22), ('December 29, 1977',29, 46), ('an American actress',51, 70), ('her role',81, 89), ('Shane McCutcheon',93, 109), ('The L Word',113, 123), ('as well as',135, 145), ('Jake Pratt',146, 156), ('Young Americans',160, 175), ('has played',192, 202), ('the role',203, 211), ('the Showtime series Ray Donovan',223, 254)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'RB', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNPS', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'VBZ', 'VBN', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Katherine'), (10, 'Sian'), (15, 'Moennig'), (23, '('), (24, 'born'), (29, 'December'), (38, '29'), (40, ','), (42, '1977'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actress'), (71, 'known'), (77, 'for'), (81, 'her'), (85, 'role'), (90, 'as'), (93, 'Shane'), (99, 'McCutcheon'), (110, 'on'), (113, 'The'), (117, 'L'), (119, 'Word'), (124, '('), (125, '2004'), (129, '-'), (130, '09'), (132, ')'), (133, ','), (135, 'as'), (138, 'well'), (143, 'as'), (146, 'Jake'), (151, 'Pratt'), (157, 'on'), (160, 'Young'), (166, 'Americans'), (176, '('), (177, '2000'), (181, ')'), (182, '.'), (184, 'Moennig'), (192, 'has'), (196, 'played'), (203, 'the'), (207, 'role'), (212, 'of'), (215, 'Lena'), (220, 'in'), (223, 'the'), (227, 'Showtime'), (236, 'series'), (243, 'Ray'), (247, 'Donovan'), (255, 'since'), (261, '2013'), (265, '.')])</spacy_tokens>
+<spacy_chunks>[('Katherine Sian Moennig', 0, 22), ('December 29, 1977', 29, 46), ('an American actress', 51, 70), ('her role', 81, 89), ('Shane McCutcheon', 93, 109), ('The L Word', 113, 123), ('Jake Pratt', 146, 156), ('Young Americans', 160, 175), ('the role', 203, 211), ('the Showtime series', 223, 242), ('Ray Donovan', 243, 254)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', ',', 'RB', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNPS', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'VBZ', 'VBN', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

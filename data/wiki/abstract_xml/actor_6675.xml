@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phil Tonken</title>
+<link/>https://en.wikipedia.org/wiki/Phil_Tonken
+<annotated>0</annotated>
+<originalabstract>Phil Tonken (born Philip Simon Tonken; April 13, 1919 – February 4, 2000 in Washington, D.C.) was an American radio and television producer, announcer and voice-over artist.</originalabstract>
+<abstract>Phil_Tonken ( born Philip_Simon_Tonken ; April_13_,_1919 – February_4_,_2000 in Washington , D.C. ) was an_American_radio_and_television_producer_,_announcer_and_voice-over_artist .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phil'), (5, 'Tonken'), (12, '('), (13, 'born'), (18, 'Philip'), (25, 'Simon'), (31, 'Tonken'), (37, ';'), (39, 'April'), (45, '13'), (47, ','), (49, '1919'), (54, '–'), (56, 'February'), (65, '4'), (66, ','), (68, '2000'), (73, 'in'), (76, 'Washington'), (86, ','), (88, 'D.C.'), (92, ')'), (94, 'was'), (98, 'an'), (101, 'American'), (110, 'radio'), (116, 'and'), (120, 'television'), (131, 'producer'), (139, ','), (141, 'announcer'), (151, 'and'), (155, 'voice-over'), (166, 'artist'), (172, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phil Tonken',0, 11), ('Philip Simon Tonken',18, 37), ('April 13, 1919',39, 53), ('February 4, 2000',56, 72), ('an American radio and television producer, announcer and voice-over artist',98, 172)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phil'), (5, 'Tonken'), (12, '('), (13, 'born'), (18, 'Philip'), (25, 'Simon'), (31, 'Tonken'), (37, ';'), (39, 'April'), (45, '13'), (47, ','), (49, '1919'), (54, '–'), (56, 'February'), (65, '4'), (66, ','), (68, '2000'), (73, 'in'), (76, 'Washington'), (86, ','), (88, 'D.C.'), (92, ')'), (94, 'was'), (98, 'an'), (101, 'American'), (110, 'radio'), (116, 'and'), (120, 'television'), (131, 'producer'), (139, ','), (141, 'announcer'), (151, 'and'), (155, 'voice'), (160, '-'), (161, 'over'), (166, 'artist'), (172, '.')])</spacy_tokens>
+<spacy_chunks>[('Phil Tonken', 0, 11), ('(born Philip Simon Tonken', 12, 37), ('April 13, 1919', 39, 53), ('February 4, 2000', 56, 72), ('Washington, D.C.', 76, 92), ('an American radio and television producer', 98, 139), ('Announcer', 141, 150), ('voice-over artist', 155, 172)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'HYPH', 'RP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

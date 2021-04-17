@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chester Conklin</title>
+<link/>https://en.wikipedia.org/wiki/Chester_Conklin
+<annotated>0</annotated>
+<originalabstract>Chester Cooper Conklin (January 11, 1886 – October 11, 1971) was an early American film  comedian who started at Keystone Studios as one of Mack Sennett’s Keystone Cops, often paired with Mack Swain. He appeared in a series of films with Mabel Normand and worked closely with Charlie Chaplin, both in silent and sound films.</originalabstract>
+<abstract>Chester_Cooper_Conklin ( January_11_,_1886 – October_11_,_1971 ) was an_early_American_film_comedian who started at Keystone_Studios as one of Mack_Sennett ’s_Keystone_Cops , often paired with Mack_Swain . He appeared in a_series of films with Mabel_Normand and worked closely with Charlie_Chaplin , both in silent_and_sound_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Chester'), (8, 'Cooper'), (15, 'Conklin'), (23, '('), (24, 'January'), (32, '11'), (34, ','), (36, '1886'), (41, '–'), (43, 'October'), (51, '11'), (53, ','), (55, '1971'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'early'), (74, 'American'), (83, 'film'), (89, 'comedian'), (98, 'who'), (102, 'started'), (110, 'at'), (113, 'Keystone'), (122, 'Studios'), (130, 'as'), (133, 'one'), (137, 'of'), (140, 'Mack'), (145, 'Sennett'), (152, '’s'), (155, 'Keystone'), (164, 'Cops'), (168, ','), (170, 'often'), (176, 'paired'), (183, 'with'), (188, 'Mack'), (193, 'Swain'), (198, '.'), (200, 'He'), (203, 'appeared'), (212, 'in'), (215, 'a'), (217, 'series'), (224, 'of'), (227, 'films'), (233, 'with'), (238, 'Mabel'), (244, 'Normand'), (252, 'and'), (256, 'worked'), (263, 'closely'), (271, 'with'), (276, 'Charlie'), (284, 'Chaplin'), (291, ','), (293, 'both'), (298, 'in'), (301, 'silent'), (308, 'and'), (312, 'sound'), (318, 'films'), (323, '.')])</stanford_tokens>
+<opennlp_chunks>[('Chester Cooper Conklin',0, 22), ('January 11, 1886',24, 40), ('October 11, 1971',43, 59), ('an early American film  comedian',65, 97), ('Keystone Studios',113, 129), ('Mack Sennett',140, 152), ('’s Keystone Cops',152, 168), ('Mack Swain',188, 198), ('a series',215, 223), ('Mabel Normand',238, 251), ('Charlie Chaplin',276, 291), ('silent and sound films',301, 323)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'NN', 'NNP', 'IN', 'CD', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNS', ',', 'RB', 'JJ', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'VBD', 'RB', 'IN', 'NNP', 'NNP', ',', 'DT', 'IN', 'JJ', 'CC', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Chester'), (8, 'Cooper'), (15, 'Conklin'), (23, '('), (24, 'January'), (32, '11'), (34, ','), (36, '1886'), (41, '–'), (43, 'October'), (51, '11'), (53, ','), (55, '1971'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'early'), (74, 'American'), (83, 'film'), (89, 'comedian'), (98, 'who'), (102, 'started'), (110, 'at'), (113, 'Keystone'), (122, 'Studios'), (130, 'as'), (133, 'one'), (137, 'of'), (140, 'Mack'), (145, 'Sennett'), (152, '’s'), (155, 'Keystone'), (164, 'Cops'), (168, ','), (170, 'often'), (176, 'paired'), (183, 'with'), (188, 'Mack'), (193, 'Swain'), (198, '.'), (200, 'He'), (203, 'appeared'), (212, 'in'), (215, 'a'), (217, 'series'), (224, 'of'), (227, 'films'), (233, 'with'), (238, 'Mabel'), (244, 'Normand'), (252, 'and'), (256, 'worked'), (263, 'closely'), (271, 'with'), (276, 'Charlie'), (284, 'Chaplin'), (291, ','), (293, 'both'), (298, 'in'), (301, 'silent'), (308, 'and'), (312, 'sound'), (318, 'films'), (323, '.')])</spacy_tokens>
+<spacy_chunks>[('Chester Cooper Conklin', 0, 22), ('January 11, 1886', 24, 40), ('October 11, 1971', 43, 59), ('an early American film  comedian', 65, 97), ('Keystone Studios', 113, 129), ('Mack Sennett’s Keystone Cops', 140, 168), ('Mack Swain', 188, 198), ('a series', 215, 223), ('Mabel Normand', 238, 251), ('Charlie Chaplin', 276, 291), ('silent and sound films', 301, 323)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNPS', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'VBD', 'RB', 'IN', 'NNP', 'NNP', ',', 'CC', 'IN', 'JJ', 'CC', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

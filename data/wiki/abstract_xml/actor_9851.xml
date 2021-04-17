@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fernand Gravey</title>
+<link/>https://en.wikipedia.org/wiki/Fernand_Gravey
+<annotated>0</annotated>
+<originalabstract>Fernand Gravey (25 December 1905 in Ixelles (Belgium) – 2 November 1970 in Paris, France), also known as Fernand Gravet in America, was the son of actors Georges Mertens and Fernande Depernay, who appeared in silent films produced by pioneer "Belge Cinéma Film" (a subsidiary of Pathé).</originalabstract>
+<abstract>Fernand_Gravey ( 25_December_1905 in Ixelles ( Belgium ) – 2_November_1970 in Paris , France ) , also_known as Fernand_Gravet in America , was the_son of actors_Georges_Mertens and Fernande_Depernay , who appeared in silent_films produced by pioneer " Belge_Cinéma_Film " ( a_subsidiary of Pathé ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fernand'), (8, 'Gravey'), (15, '('), (16, '25'), (19, 'December'), (28, '1905'), (33, 'in'), (36, 'Ixelles'), (44, '('), (45, 'Belgium'), (52, ')'), (54, '–'), (56, '2'), (58, 'November'), (67, '1970'), (72, 'in'), (75, 'Paris'), (80, ','), (82, 'France'), (88, ')'), (89, ','), (91, 'also'), (96, 'known'), (102, 'as'), (105, 'Fernand'), (113, 'Gravet'), (120, 'in'), (123, 'America'), (130, ','), (132, 'was'), (136, 'the'), (140, 'son'), (144, 'of'), (147, 'actors'), (154, 'Georges'), (162, 'Mertens'), (170, 'and'), (174, 'Fernande'), (183, 'Depernay'), (191, ','), (193, 'who'), (197, 'appeared'), (206, 'in'), (209, 'silent'), (216, 'films'), (222, 'produced'), (231, 'by'), (234, 'pioneer'), (242, '"'), (243, 'Belge'), (249, 'Cinéma'), (256, 'Film'), (260, '"'), (262, '('), (263, 'a'), (265, 'subsidiary'), (276, 'of'), (279, 'Pathé'), (284, ')'), (285, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fernand Gravey',0, 14), ('25 December 1905',16, 32), ('2 November 1970',56, 71), ('also known',91, 101), ('Fernand Gravet',105, 119), ('the son',136, 143), ('actors Georges Mertens',147, 169), ('Fernande Depernay',174, 191), ('silent films',209, 221), ('Belge Cinéma Film',243, 260), ('a subsidiary',263, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', ':', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'VBD', 'DT', 'NN', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'WP', 'VBD', 'IN', 'JJ', 'NNS', 'VBN', 'IN', 'NN', '``', 'NNP', 'NNP', 'NNP', '\'\'', '-LRB-', 'DT', 'NN', 'IN', 'NN', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fernand'), (8, 'Gravey'), (15, '('), (16, '25'), (19, 'December'), (28, '1905'), (33, 'in'), (36, 'Ixelles'), (44, '('), (45, 'Belgium'), (52, ')'), (54, '–'), (56, '2'), (58, 'November'), (67, '1970'), (72, 'in'), (75, 'Paris'), (80, ','), (82, 'France'), (88, ')'), (89, ','), (91, 'also'), (96, 'known'), (102, 'as'), (105, 'Fernand'), (113, 'Gravet'), (120, 'in'), (123, 'America'), (130, ','), (132, 'was'), (136, 'the'), (140, 'son'), (144, 'of'), (147, 'actors'), (154, 'Georges'), (162, 'Mertens'), (170, 'and'), (174, 'Fernande'), (183, 'Depernay'), (191, ','), (193, 'who'), (197, 'appeared'), (206, 'in'), (209, 'silent'), (216, 'films'), (222, 'produced'), (231, 'by'), (234, 'pioneer'), (242, '"'), (243, 'Belge'), (249, 'Cinéma'), (256, 'Film'), (260, '"'), (262, '('), (263, 'a'), (265, 'subsidiary'), (276, 'of'), (279, 'Pathé'), (284, ')'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('Fernand Gravey', 0, 14), ('25 December 1905', 16, 32), ('Ixelles', 36, 43), ('(Belgium', 44, 52), ('2 November 1970', 56, 71), ('Paris, France', 75, 88), ('Fernand Gravet', 105, 119), ('America', 123, 130), ('the son', 136, 143), ('actors', 147, 153), ('Georges Mertens', 154, 169), ('Fernande Depernay', 174, 191), ('silent films', 209, 221), ('pioneer "Belge Cinéma Film', 234, 260), ('" (a subsidiary', 260, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', ':', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'VBD', 'DT', 'NN', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'WP', 'VBD', 'IN', 'JJ', 'NNS', 'VBN', 'IN', 'NN', "''", 'NNP', 'NNP', 'NNP', "''", '-LRB-', 'DT', 'NN', 'IN', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

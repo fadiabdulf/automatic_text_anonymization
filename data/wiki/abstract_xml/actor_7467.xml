@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Quim Gutiérrez</title>
+<link/>https://en.wikipedia.org/wiki/Quim_Guti%C3%A9rrez
+<annotated>0</annotated>
+<originalabstract>Joaquim Gutiérrez Ylla (born 27 March 1981) better known as Quim Gutiérrez is a Spanish actor. He won the 2006 Goya Award for Best New Actor for his performance in Azuloscurocasinegro.
+Quim was chosen by Givenchy Creative Director Riccardo Tisci to star in the brands Autumn/Winter 2013 Advertising Campaign</originalabstract>
+<abstract>Joaquim_Gutiérrez_Ylla ( born 27_March_1981 ) better_known as Quim_Gutiérrez is a_Spanish_actor . He won the_2006_Goya_Award for_Best_New_Actor for his_performance in Azuloscurocasinegro . Quim was_chosen by Givenchy_Creative_Director_Riccardo_Tisci to_star in the_brands_Autumn/Winter_2013_Advertising_Campaign</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joaquim'), (8, 'Gutiérrez'), (18, 'Ylla'), (23, '('), (24, 'born'), (29, '27'), (32, 'March'), (38, '1981'), (42, ')'), (44, 'better'), (51, 'known'), (57, 'as'), (60, 'Quim'), (65, 'Gutiérrez'), (75, 'is'), (78, 'a'), (80, 'Spanish'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'won'), (102, 'the'), (106, '2006'), (111, 'Goya'), (116, 'Award'), (122, 'for'), (126, 'Best'), (131, 'New'), (135, 'Actor'), (141, 'for'), (145, 'his'), (149, 'performance'), (161, 'in'), (164, 'Azuloscurocasinegro'), (183, '.'), (185, 'Quim'), (190, 'was'), (194, 'chosen'), (201, 'by'), (204, 'Givenchy'), (213, 'Creative'), (222, 'Director'), (231, 'Riccardo'), (240, 'Tisci'), (246, 'to'), (249, 'star'), (254, 'in'), (257, 'the'), (261, 'brands'), (268, 'Autumn/Winter'), (282, '2013'), (287, 'Advertising'), (299, 'Campaign')])</stanford_tokens>
+<opennlp_chunks>[('Joaquim Gutiérrez Ylla',0, 22), ('27 March 1981',29, 42), ('better known',44, 56), ('Quim Gutiérrez',60, 74), ('a Spanish actor',78, 93), ('the 2006 Goya Award',102, 121), ('for Best New Actor',122, 140), ('his performance',145, 160), ('was chosen',190, 200), ('Givenchy Creative Director Riccardo Tisci',204, 245), ('to star',246, 253), ('the brands Autumn/Winter 2013 Advertising Campaign',257, 307)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'CD', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'TO', 'VB', 'IN', 'DT', 'NNS', 'NNP', 'CD', 'NNP', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joaquim'), (8, 'Gutiérrez'), (18, 'Ylla'), (23, '('), (24, 'born'), (29, '27'), (32, 'March'), (38, '1981'), (42, ')'), (44, 'better'), (51, 'known'), (57, 'as'), (60, 'Quim'), (65, 'Gutiérrez'), (75, 'is'), (78, 'a'), (80, 'Spanish'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'won'), (102, 'the'), (106, '2006'), (111, 'Goya'), (116, 'Award'), (122, 'for'), (126, 'Best'), (131, 'New'), (135, 'Actor'), (141, 'for'), (145, 'his'), (149, 'performance'), (161, 'in'), (164, 'Azuloscurocasinegro'), (183, '.'), (185, 'Quim'), (190, 'was'), (194, 'chosen'), (201, 'by'), (204, 'Givenchy'), (213, 'Creative'), (222, 'Director'), (231, 'Riccardo'), (240, 'Tisci'), (246, 'to'), (249, 'star'), (254, 'in'), (257, 'the'), (261, 'brands'), (268, 'Autumn'), (274, '/'), (275, 'Winter'), (282, '2013'), (287, 'Advertising'), (299, 'Campaign')])</spacy_tokens>
+<spacy_chunks>[('Joaquim Gutiérrez Ylla', 0, 22), ('27 March 1981', 29, 42), ('a Spanish actor', 78, 93), ('the 2006 Goya Award', 102, 121), ('Goya Award for Best New Actor', 111, 140), ('his performance', 145, 160), ('Azuloscurocasinegro', 164, 183), ('Givenchy Creative Director Riccardo Tisci', 204, 245), ('the brands', 257, 267), ('Autumn/Winter', 268, 281), ('Advertising Campaign', 287, 307)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'RBR', 'VBN', 'IN', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'CD', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'TO', 'VB', 'IN', 'DT', 'NNS', 'NNP', 'SYM', 'NNP', 'CD', 'NN', 'NN']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

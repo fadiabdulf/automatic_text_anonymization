@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Helenka Pantaleoni</title>
+<link/>https://en.wikipedia.org/wiki/Helenka_Pantaleoni
+<annotated>0</annotated>
+<originalabstract>Helen Tradusa "Helenka" Adamowska Pantaleoni (November 22, 1900 – January 5, 1987) was a Polish American silent film actress and humanitarian. She was the founding director of the U.S. Committee for UNICEF, a role that she held for 25 years. Her granddaughter is American actress Téa Leoni.</originalabstract>
+<abstract>Helen_Tradusa_"_Helenka " Adamowska_Pantaleoni ( November_22_,_1900 – January_5_,_1987 ) was a_Polish_American_silent_film_actress_and_humanitarian . She was the_founding_director of the_U.S._Committee for UNICEF , a_role that she held for 25_years . Her_granddaughter is American_actress_Téa_Leoni .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Helen'), (6, 'Tradusa'), (14, '"'), (15, 'Helenka'), (22, '"'), (24, 'Adamowska'), (34, 'Pantaleoni'), (45, '('), (46, 'November'), (55, '22'), (57, ','), (59, '1900'), (64, '–'), (66, 'January'), (74, '5'), (75, ','), (77, '1987'), (81, ')'), (83, 'was'), (87, 'a'), (89, 'Polish'), (96, 'American'), (105, 'silent'), (112, 'film'), (117, 'actress'), (125, 'and'), (129, 'humanitarian'), (141, '.'), (143, 'She'), (147, 'was'), (151, 'the'), (155, 'founding'), (164, 'director'), (173, 'of'), (176, 'the'), (180, 'U.S.'), (185, 'Committee'), (195, 'for'), (199, 'UNICEF'), (205, ','), (207, 'a'), (209, 'role'), (214, 'that'), (219, 'she'), (223, 'held'), (228, 'for'), (232, '25'), (235, 'years'), (240, '.'), (242, 'Her'), (246, 'granddaughter'), (260, 'is'), (263, 'American'), (272, 'actress'), (280, 'Téa'), (284, 'Leoni'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('Helen Tradusa "Helenka',0, 22), ('Adamowska Pantaleoni',24, 44), ('November 22, 1900',46, 63), ('January 5, 1987',66, 81), ('a Polish American silent film actress and humanitarian',87, 141), ('the founding director',151, 172), ('the U.S. Committee',176, 194), ('a role',207, 213), ('25 years',232, 240), ('Her granddaughter',242, 259), ('American actress Téa Leoni',263, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'FW', '\'\'', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'JJ', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', ',', 'DT', 'NN', 'IN', 'PRP', 'VBD', 'IN', 'CD', 'NNS', '.', 'PRP$', 'NN', 'VBZ', 'JJ', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Helen'), (6, 'Tradusa'), (14, '"'), (15, 'Helenka'), (22, '"'), (24, 'Adamowska'), (34, 'Pantaleoni'), (45, '('), (46, 'November'), (55, '22'), (57, ','), (59, '1900'), (64, '–'), (66, 'January'), (74, '5'), (75, ','), (77, '1987'), (81, ')'), (83, 'was'), (87, 'a'), (89, 'Polish'), (96, 'American'), (105, 'silent'), (112, 'film'), (117, 'actress'), (125, 'and'), (129, 'humanitarian'), (141, '.'), (143, 'She'), (147, 'was'), (151, 'the'), (155, 'founding'), (164, 'director'), (173, 'of'), (176, 'the'), (180, 'U.S.'), (185, 'Committee'), (195, 'for'), (199, 'UNICEF'), (205, ','), (207, 'a'), (209, 'role'), (214, 'that'), (219, 'she'), (223, 'held'), (228, 'for'), (232, '25'), (235, 'years'), (240, '.'), (242, 'Her'), (246, 'granddaughter'), (260, 'is'), (263, 'American'), (272, 'actress'), (280, 'Téa'), (284, 'Leoni'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('Helen Tradusa', 0, 13), ('"Helenka" Adamowska Pantaleoni', 14, 44), ('November 22, 1900', 46, 63), ('1900 – January', 59, 73), ('January 5, 1987', 66, 81), ('a Polish American silent film actress', 87, 124), ('humanitarian', 129, 141), ('the founding director', 151, 172), ('the U.S. Committee', 176, 194), ('UNICEF', 199, 205), ('a role', 207, 213), ('25 years', 232, 240), ('Her granddaughter', 242, 259), ('American actress Téa Leoni', 263, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', ',', 'DT', 'NN', 'WDT', 'PRP', 'VBD', 'IN', 'CD', 'NNS', '.', 'PRP$', 'NN', 'VBZ', 'JJ', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

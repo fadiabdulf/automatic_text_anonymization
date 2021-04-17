@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rick Shapiro</title>
+<link/>https://en.wikipedia.org/wiki/Rick_Shapiro
+<annotated>0</annotated>
+<originalabstract>Rick Shapiro (born April 13, 1959) is a Los Angeles-based comedian and actor.</originalabstract>
+<abstract>Rick_Shapiro ( born April_13_,_1959 ) is a_Los_Angeles-based_comedian_and_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rick'), (5, 'Shapiro'), (13, '('), (14, 'born'), (19, 'April'), (25, '13'), (27, ','), (29, '1959'), (33, ')'), (35, 'is'), (38, 'a'), (40, 'Los'), (44, 'Angeles-based'), (58, 'comedian'), (67, 'and'), (71, 'actor'), (76, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rick Shapiro',0, 12), ('April 13, 1959',19, 33), ('a Los Angeles-based comedian and actor',38, 76)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'JJ', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rick'), (5, 'Shapiro'), (13, '('), (14, 'born'), (19, 'April'), (25, '13'), (27, ','), (29, '1959'), (33, ')'), (35, 'is'), (38, 'a'), (40, 'Los'), (44, 'Angeles'), (51, '-'), (52, 'based'), (58, 'comedian'), (67, 'and'), (71, 'actor'), (76, '.')])</spacy_tokens>
+<spacy_chunks>[('Rick Shapiro', 0, 12), ('April 13, 1959', 19, 33), ('a Los Angeles-based comedian', 38, 66)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'NNP', 'HYPH', 'VBN', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

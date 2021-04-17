@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Janet Waldo</title>
+<link/>https://en.wikipedia.org/wiki/Janet_Waldo
+<annotated>0</annotated>
+<originalabstract>Janet Marie Waldo (February 4, 1919 – June 12, 2016) was an American radio and voice actress. She is best known in animation for voicing Judy Jetson, Nancy in Shazzan, Penelope Pitstop, and Josie in Josie and the Pussycats, and on radio as the title character in Meet Corliss Archer.</originalabstract>
+<abstract>Janet_Marie_Waldo ( February_4_,_1919 – June_12_,_2016 ) was an_American_radio_and_voice_actress . She is_best_known in animation for voicing Judy_Jetson , Nancy in Shazzan , Penelope_Pitstop , and Josie in Josie and the_Pussycats , and on radio as the_title_character in Meet_Corliss_Archer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Janet'), (6, 'Marie'), (12, 'Waldo'), (18, '('), (19, 'February'), (28, '4'), (29, ','), (31, '1919'), (36, '–'), (38, 'June'), (43, '12'), (45, ','), (47, '2016'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'radio'), (75, 'and'), (79, 'voice'), (85, 'actress'), (92, '.'), (94, 'She'), (98, 'is'), (101, 'best'), (106, 'known'), (112, 'in'), (115, 'animation'), (125, 'for'), (129, 'voicing'), (137, 'Judy'), (142, 'Jetson'), (148, ','), (150, 'Nancy'), (156, 'in'), (159, 'Shazzan'), (166, ','), (168, 'Penelope'), (177, 'Pitstop'), (184, ','), (186, 'and'), (190, 'Josie'), (196, 'in'), (199, 'Josie'), (205, 'and'), (209, 'the'), (213, 'Pussycats'), (222, ','), (224, 'and'), (228, 'on'), (231, 'radio'), (237, 'as'), (240, 'the'), (244, 'title'), (250, 'character'), (260, 'in'), (263, 'Meet'), (268, 'Corliss'), (276, 'Archer'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Janet Marie Waldo',0, 17), ('February 4, 1919',19, 35), ('June 12, 2016',38, 51), ('an American radio and voice actress',57, 92), ('is best known',98, 111), ('Judy Jetson',137, 148), ('Penelope Pitstop',168, 184), ('the Pussycats',209, 222), ('the title character',240, 259), ('Meet Corliss Archer',263, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'IN', 'VBG', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'IN', 'NNP', 'CC', 'DT', 'NNPS', ',', 'CC', 'IN', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Janet'), (6, 'Marie'), (12, 'Waldo'), (18, '('), (19, 'February'), (28, '4'), (29, ','), (31, '1919'), (36, '–'), (38, 'June'), (43, '12'), (45, ','), (47, '2016'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'radio'), (75, 'and'), (79, 'voice'), (85, 'actress'), (92, '.'), (94, 'She'), (98, 'is'), (101, 'best'), (106, 'known'), (112, 'in'), (115, 'animation'), (125, 'for'), (129, 'voicing'), (137, 'Judy'), (142, 'Jetson'), (148, ','), (150, 'Nancy'), (156, 'in'), (159, 'Shazzan'), (166, ','), (168, 'Penelope'), (177, 'Pitstop'), (184, ','), (186, 'and'), (190, 'Josie'), (196, 'in'), (199, 'Josie'), (205, 'and'), (209, 'the'), (213, 'Pussycats'), (222, ','), (224, 'and'), (228, 'on'), (231, 'radio'), (237, 'as'), (240, 'the'), (244, 'title'), (250, 'character'), (260, 'in'), (263, 'Meet'), (268, 'Corliss'), (276, 'Archer'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Janet Marie Waldo', 0, 17), ('(February', 18, 27), ('February 4, 1919', 19, 35), ('June 12, 2016', 38, 51), ('an American radio and voice actress', 57, 92), ('animation', 115, 124), ('Judy Jetson', 137, 148), ('Shazzan', 159, 166), ('Penelope Pitstop', 168, 184), ('Josie and the Pussycats', 199, 222), ('the title character', 240, 259), ('Meet Corliss Archer', 263, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'NN', 'IN', 'VBG', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'IN', 'NNP', 'CC', 'DT', 'NNPS', ',', 'CC', 'IN', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

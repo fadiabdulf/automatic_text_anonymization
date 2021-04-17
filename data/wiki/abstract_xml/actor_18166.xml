@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Victoria Shalet</title>
+<link/>https://en.wikipedia.org/wiki/Victoria_Shalet
+<annotated>0</annotated>
+<originalabstract>Victoria Shalet (born 9 December 1981) is an English former actress most famous for her role as Harmony in the award-winning CBBC adaptation of the Dick King-Smith book The Queen's Nose.</originalabstract>
+<abstract>Victoria_Shalet ( born_9_December_1981 ) is an_English_former_actress_most_famous for her_role as Harmony in the_award-winning_CBBC_adaptation of the_Dick_King-Smith_book The_Queen 's_Nose .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Victoria'), (9, 'Shalet'), (16, '('), (17, 'born'), (22, '9'), (24, 'December'), (33, '1981'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'former'), (60, 'actress'), (68, 'most'), (73, 'famous'), (80, 'for'), (84, 'her'), (88, 'role'), (93, 'as'), (96, 'Harmony'), (104, 'in'), (107, 'the'), (111, 'award-winning'), (125, 'CBBC'), (130, 'adaptation'), (141, 'of'), (144, 'the'), (148, 'Dick'), (153, 'King-Smith'), (164, 'book'), (169, 'The'), (173, 'Queen'), (178, '\'s'), (181, 'Nose'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('Victoria Shalet',0, 15), ('born 9 December 1981',17, 37), ('an English former actress most famous',42, 79), ('her role',84, 92), ('the award-winning CBBC adaptation',107, 140), ('the Dick King-Smith book',144, 168), ('The Queen',169, 178), ('\'s Nose',178, 185)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'DT', 'NNP', 'POS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Victoria'), (9, 'Shalet'), (16, '('), (17, 'born'), (22, '9'), (24, 'December'), (33, '1981'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'former'), (60, 'actress'), (68, 'most'), (73, 'famous'), (80, 'for'), (84, 'her'), (88, 'role'), (93, 'as'), (96, 'Harmony'), (104, 'in'), (107, 'the'), (111, 'award'), (116, '-'), (117, 'winning'), (125, 'CBBC'), (130, 'adaptation'), (141, 'of'), (144, 'the'), (148, 'Dick'), (153, 'King'), (157, '-'), (158, 'Smith'), (164, 'book'), (169, 'The'), (173, 'Queen'), (178, "'s"), (181, 'Nose'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('Victoria Shalet', 0, 15), ('9 December 1981', 22, 37), ('an English former actress', 42, 67), ('her role', 84, 92), ('Harmony', 96, 103), ('the award-winning CBBC adaptation', 107, 140), ('the Dick King-Smith book', 144, 168), ("The Queen's Nose", 169, 185)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'HYPH', 'VBG', 'NNP', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'HYPH', 'NNP', 'NN', 'DT', 'NNP', 'POS', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

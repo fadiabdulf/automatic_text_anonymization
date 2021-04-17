@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lisa Rieffel</title>
+<link/>https://en.wikipedia.org/wiki/Lisa_Rieffel
+<annotated>0</annotated>
+<originalabstract>Lisa Rieffel (born January 12, 1975) is an American actress, singer and musician.</originalabstract>
+<abstract>Lisa_Rieffel ( born January_12_,_1975 ) is an_American_actress , singer_and_musician .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lisa'), (5, 'Rieffel'), (13, '('), (14, 'born'), (19, 'January'), (27, '12'), (29, ','), (31, '1975'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (59, ','), (61, 'singer'), (68, 'and'), (72, 'musician'), (80, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lisa Rieffel',0, 12), ('January 12, 1975',19, 35), ('an American actress',40, 59), ('singer and musician',61, 80)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lisa'), (5, 'Rieffel'), (13, '('), (14, 'born'), (19, 'January'), (27, '12'), (29, ','), (31, '1975'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (59, ','), (61, 'singer'), (68, 'and'), (72, 'musician'), (80, '.')])</spacy_tokens>
+<spacy_chunks>[('Lisa Rieffel', 0, 12), ('January 12, 1975', 19, 35), ('an American actress', 40, 59), ('singer', 61, 67), ('musician', 72, 80)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

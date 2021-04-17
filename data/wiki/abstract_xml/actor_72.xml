@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frank Albertson</title>
+<link/>https://en.wikipedia.org/wiki/Frank_Albertson
+<annotated>0</annotated>
+<originalabstract>Francis Healey Albertson (February 2, 1909 – February 29, 1964) was an American character actor who made his debut in a minor part in Hollywood at age thirteen. He had supporting roles in films such as It's a Wonderful Life (1946) and Psycho (1960).</originalabstract>
+<abstract>Francis_Healey_Albertson ( February_2_,_1909 – February_29_,_1964 ) was an_American_character_actor who made his_debut in a_minor_part in Hollywood at age_thirteen . He had_supporting roles in films such as It 's a_Wonderful_Life_(_1946_)_and_Psycho_(_1960_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Francis'), (8, 'Healey'), (15, 'Albertson'), (25, '('), (26, 'February'), (35, '2'), (36, ','), (38, '1909'), (43, '–'), (45, 'February'), (54, '29'), (56, ','), (58, '1964'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'character'), (90, 'actor'), (96, 'who'), (100, 'made'), (105, 'his'), (109, 'debut'), (115, 'in'), (118, 'a'), (120, 'minor'), (126, 'part'), (131, 'in'), (134, 'Hollywood'), (144, 'at'), (147, 'age'), (151, 'thirteen'), (159, '.'), (161, 'He'), (164, 'had'), (168, 'supporting'), (179, 'roles'), (185, 'in'), (188, 'films'), (194, 'such'), (199, 'as'), (202, 'It'), (204, '\'s'), (207, 'a'), (209, 'Wonderful'), (219, 'Life'), (224, '('), (225, '1946'), (229, ')'), (231, 'and'), (235, 'Psycho'), (242, '('), (243, '1960'), (247, ')'), (248, '.')])</stanford_tokens>
+<opennlp_chunks>[('Francis Healey Albertson',0, 24), ('February 2, 1909',26, 42), ('February 29, 1964',45, 62), ('an American character actor',68, 95), ('his debut',105, 114), ('a minor part',118, 130), ('age thirteen',147, 159), ('had supporting',164, 178), ('a Wonderful Life (1946) and Psycho (1960)',207, 248)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'NN', 'CD', '.', 'PRP', 'VBD', 'VBG', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Francis'), (8, 'Healey'), (15, 'Albertson'), (25, '('), (26, 'February'), (35, '2'), (36, ','), (38, '1909'), (43, '–'), (45, 'February'), (54, '29'), (56, ','), (58, '1964'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'character'), (90, 'actor'), (96, 'who'), (100, 'made'), (105, 'his'), (109, 'debut'), (115, 'in'), (118, 'a'), (120, 'minor'), (126, 'part'), (131, 'in'), (134, 'Hollywood'), (144, 'at'), (147, 'age'), (151, 'thirteen'), (159, '.'), (161, 'He'), (164, 'had'), (168, 'supporting'), (179, 'roles'), (185, 'in'), (188, 'films'), (194, 'such'), (199, 'as'), (202, 'It'), (204, "'s"), (207, 'a'), (209, 'Wonderful'), (219, 'Life'), (224, '('), (225, '1946'), (229, ')'), (231, 'and'), (235, 'Psycho'), (242, '('), (243, '1960'), (247, ')'), (248, '.')])</spacy_tokens>
+<spacy_chunks>[('Francis Healey Albertson', 0, 24), ('February 2, 1909', 26, 42), ('February 29, 1964', 45, 62), ('an American character actor', 68, 95), ('his debut', 105, 114), ('a minor part', 118, 130), ('Hollywood', 134, 143), ("It's a Wonderful Life", 202, 223), ('Psycho (1960', 235, 247)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'NN', 'CD', '.', 'PRP', 'VBD', 'VBG', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

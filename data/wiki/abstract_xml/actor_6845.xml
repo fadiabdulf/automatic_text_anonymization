@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Abe Vigoda</title>
+<link/>https://en.wikipedia.org/wiki/Abe_Vigoda
+<annotated>0</annotated>
+<originalabstract>Abraham Charles Vigoda (; February 24, 1921 – January 26, 2016) was an American actor  who was known for a number of roles, such as his portrayals of Salvatore Tessio in The Godfather (1972) and Phil Fish in Barney Miller (1975–1977, 1982) and Fish (1977–1978).</originalabstract>
+<abstract>Abraham_Charles_Vigoda ( ; February_24_,_1921 – January_26_,_2016 ) was an_American_actor who was_known for a_number of roles , such_as his_portrayals of Salvatore_Tessio in The_Godfather ( 1972 ) and_Phil_Fish in Barney_Miller ( 1975 – 1977 , 1982 ) and Fish ( 1977 – 1978 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Abraham'), (8, 'Charles'), (16, 'Vigoda'), (23, '('), (24, ';'), (26, 'February'), (35, '24'), (37, ','), (39, '1921'), (44, '–'), (46, 'January'), (54, '26'), (56, ','), (58, '2016'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (87, 'who'), (91, 'was'), (95, 'known'), (101, 'for'), (105, 'a'), (107, 'number'), (114, 'of'), (117, 'roles'), (122, ','), (124, 'such'), (129, 'as'), (132, 'his'), (136, 'portrayals'), (147, 'of'), (150, 'Salvatore'), (160, 'Tessio'), (167, 'in'), (170, 'The'), (174, 'Godfather'), (184, '('), (185, '1972'), (189, ')'), (191, 'and'), (195, 'Phil'), (200, 'Fish'), (205, 'in'), (208, 'Barney'), (215, 'Miller'), (222, '('), (223, '1975'), (227, '–'), (228, '1977'), (232, ','), (234, '1982'), (238, ')'), (240, 'and'), (244, 'Fish'), (249, '('), (250, '1977'), (254, '–'), (255, '1978'), (259, ')'), (260, '.')])</stanford_tokens>
+<opennlp_chunks>[('Abraham Charles Vigoda',0, 22), ('February 24, 1921',26, 43), ('January 26, 2016',46, 62), ('an American actor',68, 85), ('was known',91, 100), ('a number',105, 113), ('such as',124, 131), ('his portrayals',132, 146), ('Salvatore Tessio',150, 166), ('The Godfather',170, 183), ('and Phil Fish',191, 204), ('Barney Miller',208, 221)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNS', ',', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', ',', 'CD', '-RRB-', 'CC', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Abraham'), (8, 'Charles'), (16, 'Vigoda'), (23, '(;'), (26, 'February'), (35, '24'), (37, ','), (39, '1921'), (44, '–'), (46, 'January'), (54, '26'), (56, ','), (58, '2016'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (87, 'who'), (91, 'was'), (95, 'known'), (101, 'for'), (105, 'a'), (107, 'number'), (114, 'of'), (117, 'roles'), (122, ','), (124, 'such'), (129, 'as'), (132, 'his'), (136, 'portrayals'), (147, 'of'), (150, 'Salvatore'), (160, 'Tessio'), (167, 'in'), (170, 'The'), (174, 'Godfather'), (184, '('), (185, '1972'), (189, ')'), (191, 'and'), (195, 'Phil'), (200, 'Fish'), (205, 'in'), (208, 'Barney'), (215, 'Miller'), (222, '('), (223, '1975–1977'), (232, ','), (234, '1982'), (238, ')'), (240, 'and'), (244, 'Fish'), (249, '('), (250, '1977–1978'), (259, ')'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('Abraham Charles Vigoda', 0, 22), ('February 24, 1921', 26, 43), ('January 26, 2016', 46, 62), ('an American actor', 68, 85), ('a number', 105, 113), ('his portrayals', 132, 146), ('Salvatore Tessio', 150, 166), ('The Godfather', 170, 183), ('Phil Fish', 195, 204), ('Barney Miller', 208, 221)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NN', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNS', ',', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', ',', 'CD', '-RRB-', 'CC', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

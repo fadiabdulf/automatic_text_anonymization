@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vincent Ventresca</title>
+<link/>https://en.wikipedia.org/wiki/Vincent_Ventresca
+<annotated>0</annotated>
+<originalabstract>Vincent Paul Gerard Ventresca (born April 29, 1966) is an American actor, perhaps best known for portraying Darien Fawkes on Sci-Fi's The Invisible Man, and Professor Jack Reed on NBC's Boston Common. Ventresca is also known for his guest starring role as Fun Bobby on NBC's Friends.</originalabstract>
+<abstract>Vincent_Paul_Gerard_Ventresca ( born April_29_,_1966 ) is an_American_actor , perhaps_best_known for portraying Darien_Fawkes on Sci-Fi 's_The_Invisible_Man , and Professor_Jack_Reed on NBC 's_Boston_Common . Ventresca is_also_known for his_guest_starring_role as Fun_Bobby on NBC 's_Friends .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vincent'), (8, 'Paul'), (13, 'Gerard'), (20, 'Ventresca'), (30, '('), (31, 'born'), (36, 'April'), (42, '29'), (44, ','), (46, '1966'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, ','), (74, 'perhaps'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'portraying'), (108, 'Darien'), (115, 'Fawkes'), (122, 'on'), (125, 'Sci-Fi'), (131, '\'s'), (134, 'The'), (138, 'Invisible'), (148, 'Man'), (151, ','), (153, 'and'), (157, 'Professor'), (167, 'Jack'), (172, 'Reed'), (177, 'on'), (180, 'NBC'), (183, '\'s'), (186, 'Boston'), (193, 'Common'), (199, '.'), (201, 'Ventresca'), (211, 'is'), (214, 'also'), (219, 'known'), (225, 'for'), (229, 'his'), (233, 'guest'), (239, 'starring'), (248, 'role'), (253, 'as'), (256, 'Fun'), (260, 'Bobby'), (266, 'on'), (269, 'NBC'), (272, '\'s'), (275, 'Friends'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vincent Paul Gerard Ventresca',0, 29), ('April 29, 1966',36, 50), ('an American actor',55, 72), ('perhaps best known',74, 92), ('Darien Fawkes',108, 121), ('\'s The Invisible Man',131, 151), ('Professor Jack Reed',157, 176), ('\'s Boston Common',183, 199), ('is also known',211, 224), ('his guest starring role',229, 252), ('Fun Bobby',256, 265), ('\'s Friends',272, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'DT', 'JJ', 'NN', ',', 'CC', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vincent'), (8, 'Paul'), (13, 'Gerard'), (20, 'Ventresca'), (30, '('), (31, 'born'), (36, 'April'), (42, '29'), (44, ','), (46, '1966'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, ','), (74, 'perhaps'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'portraying'), (108, 'Darien'), (115, 'Fawkes'), (122, 'on'), (125, 'Sci'), (128, '-'), (129, 'Fi'), (131, "'s"), (134, 'The'), (138, 'Invisible'), (148, 'Man'), (151, ','), (153, 'and'), (157, 'Professor'), (167, 'Jack'), (172, 'Reed'), (177, 'on'), (180, 'NBC'), (183, "'s"), (186, 'Boston'), (193, 'Common'), (199, '.'), (201, 'Ventresca'), (211, 'is'), (214, 'also'), (219, 'known'), (225, 'for'), (229, 'his'), (233, 'guest'), (239, 'starring'), (248, 'role'), (253, 'as'), (256, 'Fun'), (260, 'Bobby'), (266, 'on'), (269, 'NBC'), (272, "'s"), (275, 'Friends'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Vincent Paul Gerard Ventresca', 0, 29), ('April 29, 1966', 36, 50), ('an American actor', 55, 72), ('Darien Fawkes', 108, 121), ("Sci-Fi's The Invisible Man", 125, 151), ('Professor Jack Reed', 157, 176), ("NBC's Boston Common", 180, 199), ('his guest starring role', 229, 252), ('Fun Bobby', 256, 265), ("NBC's Friends", 269, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'HYPH', 'NNP', 'POS', 'DT', 'JJ', 'NNP', ',', 'CC', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

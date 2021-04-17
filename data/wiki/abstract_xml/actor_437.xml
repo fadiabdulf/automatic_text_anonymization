@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arthur W. Bates</title>
+<link/>https://en.wikipedia.org/wiki/Arthur_W._Bates
+<annotated>0</annotated>
+<originalabstract>Arthur W. Bates (1883 – 16 August 1972) was an American silent film actor.
+Arthur W. Bates was born in 1883 in Chicago.Bates was acting with Essanay Studios in Chicago by 1915. After the studio closed down, he worked for the Chicago Transit Authority.Bates died in Chicago on 16 August 1972.</originalabstract>
+<abstract>Arthur_W._Bates ( 1883 – 16_August_1972 ) was an_American_silent_film_actor . Arthur_W._Bates was_born in 1883 in Chicago.Bates was_acting with Essanay_Studios in Chicago by 1915 . After the_studio closed down , he worked for the_Chicago_Transit_Authority.Bates died in Chicago on 16_August_1972 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthur'), (7, 'W.'), (10, 'Bates'), (16, '('), (17, '1883'), (22, '–'), (24, '16'), (27, 'August'), (34, '1972'), (38, ')'), (40, 'was'), (44, 'an'), (47, 'American'), (56, 'silent'), (63, 'film'), (68, 'actor'), (73, '.'), (75, 'Arthur'), (82, 'W.'), (85, 'Bates'), (91, 'was'), (95, 'born'), (100, 'in'), (103, '1883'), (108, 'in'), (111, 'Chicago.Bates'), (125, 'was'), (129, 'acting'), (136, 'with'), (141, 'Essanay'), (149, 'Studios'), (157, 'in'), (160, 'Chicago'), (168, 'by'), (171, '1915'), (175, '.'), (177, 'After'), (183, 'the'), (187, 'studio'), (194, 'closed'), (201, 'down'), (205, ','), (207, 'he'), (210, 'worked'), (217, 'for'), (221, 'the'), (225, 'Chicago'), (233, 'Transit'), (241, 'Authority.Bates'), (257, 'died'), (262, 'in'), (265, 'Chicago'), (273, 'on'), (276, '16'), (279, 'August'), (286, '1972'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthur W. Bates',0, 15), ('16 August 1972',24, 38), ('an American silent film actor',44, 73), ('Arthur W. Bates',75, 90), ('was born',91, 99), ('was acting',125, 135), ('Essanay Studios',141, 156), ('the studio',183, 193), ('the Chicago Transit Authority.Bates',221, 256), ('16 August 1972',276, 290)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'NNP', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'CD', 'IN', 'NNS', 'VBD', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'CD', '.', 'IN', 'DT', 'NN', 'VBD', 'RB', ',', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NNPS', 'VBD', 'IN', 'NNP', 'IN', 'CD', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthur'), (7, 'W.'), (10, 'Bates'), (16, '('), (17, '1883'), (22, '–'), (24, '16'), (27, 'August'), (34, '1972'), (38, ')'), (40, 'was'), (44, 'an'), (47, 'American'), (56, 'silent'), (63, 'film'), (68, 'actor'), (73, '.'), (75, 'Arthur'), (82, 'W.'), (85, 'Bates'), (91, 'was'), (95, 'born'), (100, 'in'), (103, '1883'), (108, 'in'), (111, 'Chicago'), (118, '.'), (119, 'Bates'), (125, 'was'), (129, 'acting'), (136, 'with'), (141, 'Essanay'), (149, 'Studios'), (157, 'in'), (160, 'Chicago'), (168, 'by'), (171, '1915'), (175, '.'), (177, 'After'), (183, 'the'), (187, 'studio'), (194, 'closed'), (201, 'down'), (205, ','), (207, 'he'), (210, 'worked'), (217, 'for'), (221, 'the'), (225, 'Chicago'), (233, 'Transit'), (241, 'Authority'), (250, '.'), (251, 'Bates'), (257, 'died'), (262, 'in'), (265, 'Chicago'), (273, 'on'), (276, '16'), (279, 'August'), (286, '1972'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('Arthur W. Bates', 0, 15), ('16 August 1972', 24, 38), ('an American silent film actor', 44, 73), ('Chicago', 111, 118), ('Essanay Studios', 141, 156), ('the studio', 183, 193), ('the Chicago Transit Authority', 221, 250), ('16 August 1972', 276, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'NNP', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'CD', 'IN', 'NNP', '.', 'NNP', 'VBD', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'CD', '.', 'IN', 'DT', 'NN', 'VBD', 'RB', ',', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'IN', 'NNP', 'IN', 'CD', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

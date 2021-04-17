@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marthe Mercadier</title>
+<link/>https://en.wikipedia.org/wiki/Marthe_Mercadier
+<annotated>0</annotated>
+<originalabstract>Marthe Mercadier (born 23 October 1928) is a French actress. Mercadier suffers from Alzheimer's disease.</originalabstract>
+<abstract>Marthe_Mercadier ( born 23_October_1928 ) is a_French_actress . Mercadier suffers from Alzheimer 's_disease .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marthe'), (7, 'Mercadier'), (17, '('), (18, 'born'), (23, '23'), (26, 'October'), (34, '1928'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'actress'), (59, '.'), (61, 'Mercadier'), (71, 'suffers'), (79, 'from'), (84, 'Alzheimer'), (93, '\'s'), (96, 'disease'), (103, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marthe Mercadier',0, 16), ('23 October 1928',23, 38), ('a French actress',43, 59), ('\'s disease',93, 103)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'IN', 'NNP', 'POS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marthe'), (7, 'Mercadier'), (17, '('), (18, 'born'), (23, '23'), (26, 'October'), (34, '1928'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'actress'), (59, '.'), (61, 'Mercadier'), (71, 'suffers'), (79, 'from'), (84, 'Alzheimer'), (93, "'s"), (96, 'disease'), (103, '.')])</spacy_tokens>
+<spacy_chunks>[('Marthe Mercadier', 0, 16), ('23 October 1928', 23, 38), ('a French actress', 43, 59), ("Alzheimer's disease", 84, 103)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'IN', 'NNP', 'POS', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eddie Ryder</title>
+<link/>https://en.wikipedia.org/wiki/Eddie_Ryder
+<annotated>0</annotated>
+<originalabstract>Eddie Ryder (January 23, 1923 – March 29, 1997) was an American television and film actor, as well as a writer and television director. Ryder was born in New York City and died in El Paso, Texas.</originalabstract>
+<abstract>Eddie_Ryder ( January_23_,_1923 – March_29_,_1997 ) was an_American_television_and_film_actor , as_well_as a_writer_and_television_director . Ryder was_born in New_York_City and died in El_Paso , Texas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eddie'), (6, 'Ryder'), (12, '('), (13, 'January'), (21, '23'), (23, ','), (25, '1923'), (30, '–'), (32, 'March'), (38, '29'), (40, ','), (42, '1997'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'television'), (75, 'and'), (79, 'film'), (84, 'actor'), (89, ','), (91, 'as'), (94, 'well'), (99, 'as'), (102, 'a'), (104, 'writer'), (111, 'and'), (115, 'television'), (126, 'director'), (134, '.'), (136, 'Ryder'), (142, 'was'), (146, 'born'), (151, 'in'), (154, 'New'), (158, 'York'), (163, 'City'), (168, 'and'), (172, 'died'), (177, 'in'), (180, 'El'), (183, 'Paso'), (187, ','), (189, 'Texas'), (194, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eddie Ryder',0, 11), ('January 23, 1923',13, 29), ('March 29, 1997',32, 46), ('an American television and film actor',52, 89), ('as well as',91, 101), ('a writer and television director',102, 134), ('was born',142, 150), ('New York City',154, 167), ('El Paso',180, 187)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'RB', 'IN', 'DT', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eddie'), (6, 'Ryder'), (12, '('), (13, 'January'), (21, '23'), (23, ','), (25, '1923'), (30, '–'), (32, 'March'), (38, '29'), (40, ','), (42, '1997'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'television'), (75, 'and'), (79, 'film'), (84, 'actor'), (89, ','), (91, 'as'), (94, 'well'), (99, 'as'), (102, 'a'), (104, 'writer'), (111, 'and'), (115, 'television'), (126, 'director'), (134, '.'), (136, 'Ryder'), (142, 'was'), (146, 'born'), (151, 'in'), (154, 'New'), (158, 'York'), (163, 'City'), (168, 'and'), (172, 'died'), (177, 'in'), (180, 'El'), (183, 'Paso'), (187, ','), (189, 'Texas'), (194, '.')])</spacy_tokens>
+<spacy_chunks>[('Eddie Ryder', 0, 11), ('(January', 12, 20), ('January 23, 1923', 13, 29), ('March 29, 1997', 32, 46), ('an American television and film actor', 52, 89), ('a writer and television director', 102, 134), ('New York City', 154, 167), ('El Paso, Texas', 180, 194)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'RB', 'IN', 'DT', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Franklin Cover</title>
+<link/>https://en.wikipedia.org/wiki/Franklin_Cover
+<annotated>0</annotated>
+<originalabstract>Franklin Edward Cover (November 20, 1928 – February 5, 2006) was an American actor best known for starring in the sitcom The Jeffersons. His character, Tom Willis, was half of one of the first interracial marriages to be seen on prime-time television.</originalabstract>
+<abstract>Franklin_Edward_Cover ( November_20_,_1928 – February_5_,_2006 ) was an_American_actor best_known for starring in the_sitcom The_Jeffersons . His_character , Tom_Willis , was half of one of the_first_interracial_marriages to_be_seen on prime-time_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Franklin'), (9, 'Edward'), (16, 'Cover'), (22, '('), (23, 'November'), (32, '20'), (34, ','), (36, '1928'), (41, '–'), (43, 'February'), (52, '5'), (53, ','), (55, '2006'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'actor'), (83, 'best'), (88, 'known'), (94, 'for'), (98, 'starring'), (107, 'in'), (110, 'the'), (114, 'sitcom'), (121, 'The'), (125, 'Jeffersons'), (135, '.'), (137, 'His'), (141, 'character'), (150, ','), (152, 'Tom'), (156, 'Willis'), (162, ','), (164, 'was'), (168, 'half'), (173, 'of'), (176, 'one'), (180, 'of'), (183, 'the'), (187, 'first'), (193, 'interracial'), (205, 'marriages'), (215, 'to'), (218, 'be'), (221, 'seen'), (226, 'on'), (229, 'prime-time'), (240, 'television'), (250, '.')])</stanford_tokens>
+<opennlp_chunks>[('Franklin Edward Cover',0, 21), ('November 20, 1928',23, 40), ('February 5, 2006',43, 59), ('an American actor',65, 82), ('best known',83, 93), ('the sitcom',110, 120), ('The Jeffersons',121, 135), ('His character',137, 150), ('Tom Willis',152, 162), ('the first interracial marriages',183, 214), ('to be seen',215, 225), ('prime-time television',229, 250)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'DT', 'NN', 'DT', 'NNPS', '.', 'PRP$', 'NN', ',', 'NNP', 'NNP', ',', 'VBD', 'NN', 'IN', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'NNS', 'TO', 'VB', 'VBN', 'IN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Franklin'), (9, 'Edward'), (16, 'Cover'), (22, '('), (23, 'November'), (32, '20'), (34, ','), (36, '1928'), (41, '–'), (43, 'February'), (52, '5'), (53, ','), (55, '2006'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'actor'), (83, 'best'), (88, 'known'), (94, 'for'), (98, 'starring'), (107, 'in'), (110, 'the'), (114, 'sitcom'), (121, 'The'), (125, 'Jeffersons'), (135, '.'), (137, 'His'), (141, 'character'), (150, ','), (152, 'Tom'), (156, 'Willis'), (162, ','), (164, 'was'), (168, 'half'), (173, 'of'), (176, 'one'), (180, 'of'), (183, 'the'), (187, 'first'), (193, 'interracial'), (205, 'marriages'), (215, 'to'), (218, 'be'), (221, 'seen'), (226, 'on'), (229, 'prime'), (234, '-'), (235, 'time'), (240, 'television'), (250, '.')])</spacy_tokens>
+<spacy_chunks>[('Franklin Edward Cover', 0, 21), ('November 20, 1928', 23, 40), ('February 5, 2006', 43, 59), ('an American actor', 65, 82), ('the sitcom', 110, 120), ('The Jeffersons', 121, 135), ('His character', 137, 150), ('Tom Willis', 152, 162), ('the first interracial marriages', 183, 214), ('prime-time television', 229, 250)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'IN', 'DT', 'NN', 'DT', 'NNPS', '.', 'PRP$', 'NN', ',', 'NNP', 'NNP', ',', 'VBD', 'NN', 'IN', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'NNS', 'TO', 'VB', 'VBN', 'IN', 'JJ', 'HYPH', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

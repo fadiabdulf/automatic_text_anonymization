@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Selena Royle</title>
+<link/>https://en.wikipedia.org/wiki/Selena_Royle
+<annotated>0</annotated>
+<originalabstract>Selena Royle (November 6, 1904 – April 23, 1983) was an American actress (of stage, radio, television and film), and later, an author.</originalabstract>
+<abstract>Selena_Royle ( November_6_,_1904 – April_23_,_1983 ) was an_American_actress ( of stage_,_radio_,_television_and_film ) , and later , an_author .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Selena'), (7, 'Royle'), (13, '('), (14, 'November'), (23, '6'), (24, ','), (26, '1904'), (31, '–'), (33, 'April'), (39, '23'), (41, ','), (43, '1983'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actress'), (73, '('), (74, 'of'), (77, 'stage'), (82, ','), (84, 'radio'), (89, ','), (91, 'television'), (102, 'and'), (106, 'film'), (110, ')'), (111, ','), (113, 'and'), (117, 'later'), (122, ','), (124, 'an'), (127, 'author'), (133, '.')])</stanford_tokens>
+<opennlp_chunks>[('Selena Royle',0, 12), ('November 6, 1904',14, 30), ('April 23, 1983',33, 47), ('an American actress',53, 72), ('stage, radio, television and film',77, 110), ('an author',124, 133)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '-LRB-', 'IN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '-RRB-', ',', 'CC', 'RB', ',', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Selena'), (7, 'Royle'), (13, '('), (14, 'November'), (23, '6'), (24, ','), (26, '1904'), (31, '–'), (33, 'April'), (39, '23'), (41, ','), (43, '1983'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actress'), (73, '('), (74, 'of'), (77, 'stage'), (82, ','), (84, 'radio'), (89, ','), (91, 'television'), (102, 'and'), (106, 'film'), (110, ')'), (111, ','), (113, 'and'), (117, 'later'), (122, ','), (124, 'an'), (127, 'author'), (133, '.')])</spacy_tokens>
+<spacy_chunks>[('Selena Royle', 0, 12), ('(November', 13, 22), ('November 6, 1904', 14, 30), ('April 23, 1983', 33, 47), ('an American actress', 53, 72), ('television', 91, 101), ('later, an author', 117, 133)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '-LRB-', 'IN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '-RRB-', ',', 'CC', 'RB', ',', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

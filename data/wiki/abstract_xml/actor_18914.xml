@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dany Robin</title>
+<link/>https://en.wikipedia.org/wiki/Dany_Robin
+<annotated>0</annotated>
+<originalabstract>Dany Robin (French pronunciation: ​[dani ʁɔbɛ̃]; 14 April 1927 – 25 May 1995) was a French actress of the 1950s and the 1960s.</originalabstract>
+<abstract>Dany_Robin ( French_pronunciation : [_dani_ʁɔbɛ̃_] ; 14_April_1927 – 25_May_1995 ) was a_French_actress of the_1950s and the_1960s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dany'), (5, 'Robin'), (11, '('), (12, 'French'), (19, 'pronunciation'), (32, ':'), (35, '['), (36, 'dani'), (41, 'ʁɔbɛ̃'), (46, ']'), (47, ';'), (49, '14'), (52, 'April'), (58, '1927'), (63, '–'), (65, '25'), (68, 'May'), (72, '1995'), (76, ')'), (78, 'was'), (82, 'a'), (84, 'French'), (91, 'actress'), (99, 'of'), (102, 'the'), (106, '1950s'), (112, 'and'), (116, 'the'), (120, '1960s'), (125, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dany Robin',0, 10), ('French pronunciation',12, 32), ('[dani ʁɔbɛ̃]',35, 47), ('14 April 1927',49, 62), ('25 May 1995',65, 76), ('a French actress',82, 98), ('the 1950s',102, 111), ('the 1960s',116, 125)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NN', ':', '-LRB-', 'JJ', 'NN', '-RRB-', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'CD', 'CC', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dany'), (5, 'Robin'), (11, '('), (12, 'French'), (19, 'pronunciation'), (32, ':'), (34, '\u200b[dani'), (41, 'ʁɔbɛ̃'), (46, ']'), (47, ';'), (49, '14'), (52, 'April'), (58, '1927'), (63, '–'), (65, '25'), (68, 'May'), (72, '1995'), (76, ')'), (78, 'was'), (82, 'a'), (84, 'French'), (91, 'actress'), (99, 'of'), (102, 'the'), (106, '1950s'), (112, 'and'), (116, 'the'), (120, '1960s'), (125, '.')])</spacy_tokens>
+<spacy_chunks>[('Dany Robin', 0, 10), ('French pronunciation', 12, 32), ('14 April 1927', 49, 62), ('25 May 1995', 65, 76), ('a French actress', 82, 98), ('the 1950s', 102, 111), ('the 1960s', 116, 125)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'JJ', 'NN', ':', 'ADD', 'CD', '-RRB-', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNS', 'CC', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

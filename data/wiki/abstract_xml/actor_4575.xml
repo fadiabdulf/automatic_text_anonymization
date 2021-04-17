@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gary Merrill</title>
+<link/>https://en.wikipedia.org/wiki/Gary_Merrill
+<annotated>0</annotated>
+<originalabstract>Gary Fred Merrill (August 2, 1915 – March 5, 1990) was an American film and television character actor whose credits included more than fifty feature films, a half-dozen mostly short-lived TV series, and dozens of television guest appearances. Merrill starred in All About Eve and married his co-star Bette Davis.</originalabstract>
+<abstract>Gary_Fred_Merrill ( August_2_,_1915 – March_5_,_1990 ) was an_American_film_and_television_character_actor whose_credits included more_than_fifty_feature_films , a_half-dozen_mostly_short-lived_TV_series , and dozens of television_guest_appearances . Merrill starred in All About Eve and married his_co-star_Bette_Davis .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gary'), (5, 'Fred'), (10, 'Merrill'), (18, '('), (19, 'August'), (26, '2'), (27, ','), (29, '1915'), (34, '–'), (36, 'March'), (42, '5'), (43, ','), (45, '1990'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'and'), (76, 'television'), (87, 'character'), (97, 'actor'), (103, 'whose'), (109, 'credits'), (117, 'included'), (126, 'more'), (131, 'than'), (136, 'fifty'), (142, 'feature'), (150, 'films'), (155, ','), (157, 'a'), (159, 'half-dozen'), (170, 'mostly'), (177, 'short-lived'), (189, 'TV'), (192, 'series'), (198, ','), (200, 'and'), (204, 'dozens'), (211, 'of'), (214, 'television'), (225, 'guest'), (231, 'appearances'), (242, '.'), (244, 'Merrill'), (252, 'starred'), (260, 'in'), (263, 'All'), (267, 'About'), (273, 'Eve'), (277, 'and'), (281, 'married'), (289, 'his'), (293, 'co-star'), (301, 'Bette'), (307, 'Davis'), (312, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gary Fred Merrill',0, 17), ('August 2, 1915',19, 33), ('March 5, 1990',36, 49), ('an American film and television character actor',55, 102), ('whose credits',103, 116), ('more than fifty feature films',126, 155), ('a half-dozen mostly short-lived TV series',157, 198), ('television guest appearances',214, 242), ('his co-star Bette Davis',289, 312)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', 'WP$', 'NNS', 'VBD', 'JJR', 'IN', 'CD', 'NN', 'NNS', ',', 'DT', 'JJ', 'RB', 'JJ', 'NN', 'NN', ',', 'CC', 'NNS', 'IN', 'NN', 'NN', 'NNS', '.', 'NNP', 'VBD', 'IN', 'DT', 'IN', 'NNP', 'CC', 'VBN', 'PRP$', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gary'), (5, 'Fred'), (10, 'Merrill'), (18, '('), (19, 'August'), (26, '2'), (27, ','), (29, '1915'), (34, '–'), (36, 'March'), (42, '5'), (43, ','), (45, '1990'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'and'), (76, 'television'), (87, 'character'), (97, 'actor'), (103, 'whose'), (109, 'credits'), (117, 'included'), (126, 'more'), (131, 'than'), (136, 'fifty'), (142, 'feature'), (150, 'films'), (155, ','), (157, 'a'), (159, 'half'), (163, '-'), (164, 'dozen'), (170, 'mostly'), (177, 'short'), (182, '-'), (183, 'lived'), (189, 'TV'), (192, 'series'), (198, ','), (200, 'and'), (204, 'dozens'), (211, 'of'), (214, 'television'), (225, 'guest'), (231, 'appearances'), (242, '.'), (244, 'Merrill'), (252, 'starred'), (260, 'in'), (263, 'All'), (267, 'About'), (273, 'Eve'), (277, 'and'), (281, 'married'), (289, 'his'), (293, 'co'), (295, '-'), (296, 'star'), (301, 'Bette'), (307, 'Davis'), (312, '.')])</spacy_tokens>
+<spacy_chunks>[('Gary Fred Merrill', 0, 17), ('August 2, 1915', 19, 33), ('March 5, 1990', 36, 49), ('an American film and television character actor', 55, 102), ('whose credits', 103, 116), ('more than fifty feature films', 126, 155), ('a half-dozen mostly short-lived TV series', 157, 198), ('dozens', 204, 210), ('television guest appearances', 214, 242), ('All About Eve', 263, 276), ('his co-star Bette Davis', 289, 312)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', 'WP$', 'NNS', 'VBD', 'JJR', 'IN', 'CD', 'NN', 'NNS', ',', 'DT', 'JJ', 'HYPH', 'NN', 'RB', 'RB', 'HYPH', 'VBN', 'NN', 'NN', ',', 'CC', 'NNS', 'IN', 'NN', 'NN', 'NNS', '.', 'NNP', 'VBD', 'IN', 'DT', 'RB', 'NNP', 'CC', 'VBD', 'PRP$', 'JJ', 'JJ', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

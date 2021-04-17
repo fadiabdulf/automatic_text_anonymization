@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robin Weaver</title>
+<link/>https://en.wikipedia.org/wiki/Robin_Weaver
+<annotated>0</annotated>
+<originalabstract>Robin Weaver (born April 1970) is an English actress well known for playing the roles of Clara in The Muppet Christmas Carol and recurring character Pamela Cooper in the E4 sitcom The Inbetweeners and its feature-length films, The Inbetweeners Movie and The Inbetweeners 2. She has also appeared in several television adverts.</originalabstract>
+<abstract>Robin_Weaver ( born April_1970 ) is an_English_actress well_known for playing the_roles of Clara in The_Muppet_Christmas_Carol and recurring character_Pamela_Cooper in the_E4_sitcom The_Inbetweeners and its_feature-length_films , The_Inbetweeners_Movie and The_Inbetweeners 2 . She has_also_appeared in several_television_adverts .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robin'), (6, 'Weaver'), (13, '('), (14, 'born'), (19, 'April'), (25, '1970'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'English'), (45, 'actress'), (53, 'well'), (58, 'known'), (64, 'for'), (68, 'playing'), (76, 'the'), (80, 'roles'), (86, 'of'), (89, 'Clara'), (95, 'in'), (98, 'The'), (102, 'Muppet'), (109, 'Christmas'), (119, 'Carol'), (125, 'and'), (129, 'recurring'), (139, 'character'), (149, 'Pamela'), (156, 'Cooper'), (163, 'in'), (166, 'the'), (170, 'E4'), (173, 'sitcom'), (180, 'The'), (184, 'Inbetweeners'), (197, 'and'), (201, 'its'), (205, 'feature-length'), (220, 'films'), (225, ','), (227, 'The'), (231, 'Inbetweeners'), (244, 'Movie'), (250, 'and'), (254, 'The'), (258, 'Inbetweeners'), (271, '2'), (272, '.'), (274, 'She'), (278, 'has'), (282, 'also'), (287, 'appeared'), (296, 'in'), (299, 'several'), (307, 'television'), (318, 'adverts'), (325, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robin Weaver',0, 12), ('April 1970',19, 29), ('an English actress',34, 52), ('well known',53, 63), ('the roles',76, 85), ('The Muppet Christmas Carol',98, 124), ('character Pamela Cooper',139, 162), ('the E4 sitcom',166, 179), ('The Inbetweeners',180, 196), ('its feature-length films',201, 225), ('The Inbetweeners Movie',227, 249), ('The Inbetweeners',254, 270), ('has also appeared',278, 295), ('several television adverts',299, 325)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'VBG', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNPS', 'CC', 'PRP$', 'JJ', 'NNS', ',', 'DT', 'NNP', 'NN', 'CC', 'DT', 'NNPS', 'LS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robin'), (6, 'Weaver'), (13, '('), (14, 'born'), (19, 'April'), (25, '1970'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'English'), (45, 'actress'), (53, 'well'), (58, 'known'), (64, 'for'), (68, 'playing'), (76, 'the'), (80, 'roles'), (86, 'of'), (89, 'Clara'), (95, 'in'), (98, 'The'), (102, 'Muppet'), (109, 'Christmas'), (119, 'Carol'), (125, 'and'), (129, 'recurring'), (139, 'character'), (149, 'Pamela'), (156, 'Cooper'), (163, 'in'), (166, 'the'), (170, 'E4'), (173, 'sitcom'), (180, 'The'), (184, 'Inbetweeners'), (197, 'and'), (201, 'its'), (205, 'feature'), (212, '-'), (213, 'length'), (220, 'films'), (225, ','), (227, 'The'), (231, 'Inbetweeners'), (244, 'Movie'), (250, 'and'), (254, 'The'), (258, 'Inbetweeners'), (271, '2'), (272, '.'), (274, 'She'), (278, 'has'), (282, 'also'), (287, 'appeared'), (296, 'in'), (299, 'several'), (307, 'television'), (318, 'adverts'), (325, '.')])</spacy_tokens>
+<spacy_chunks>[('Robin Weaver', 0, 12), ('an English actress', 34, 52), ('the roles', 76, 85), ('The Muppet Christmas Carol', 98, 124), ('recurring character Pamela Cooper', 129, 162), ('the E4 sitcom', 166, 179), ('The Inbetweeners', 180, 196), ('its feature-length films', 201, 225), ('The Inbetweeners Movie', 227, 249), ('The Inbetweeners 2', 254, 272), ('several television adverts', 299, 325)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'VBG', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNPS', 'CC', 'PRP$', 'NN', 'HYPH', 'NN', 'NNS', ',', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'CD', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

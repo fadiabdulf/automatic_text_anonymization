@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bobby Van</title>
+<link/>https://en.wikipedia.org/wiki/Bobby_Van
+<annotated>0</annotated>
+<originalabstract>Robert Jack Stein, better known by his stage name Bobby Van (December 6, 1928 – July 31, 1980) was a musical actor, best known for his career on Broadway, in films and television from the 1950s through the 1970s. He was also a game show host and panelist.</originalabstract>
+<abstract>Robert_Jack_Stein , better_known by his_stage_name_Bobby_Van ( December_6_,_1928 – July_31_,_1980 ) was a_musical_actor , best_known for his_career on Broadway , in films and television from the_1950s through the_1970s . He was also a_game_show_host_and_panelist .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Jack'), (12, 'Stein'), (17, ','), (19, 'better'), (26, 'known'), (32, 'by'), (35, 'his'), (39, 'stage'), (45, 'name'), (50, 'Bobby'), (56, 'Van'), (60, '('), (61, 'December'), (70, '6'), (71, ','), (73, '1928'), (78, '–'), (80, 'July'), (85, '31'), (87, ','), (89, '1980'), (93, ')'), (95, 'was'), (99, 'a'), (101, 'musical'), (109, 'actor'), (114, ','), (116, 'best'), (121, 'known'), (127, 'for'), (131, 'his'), (135, 'career'), (142, 'on'), (145, 'Broadway'), (153, ','), (155, 'in'), (158, 'films'), (164, 'and'), (168, 'television'), (179, 'from'), (184, 'the'), (188, '1950s'), (194, 'through'), (202, 'the'), (206, '1970s'), (211, '.'), (213, 'He'), (216, 'was'), (220, 'also'), (225, 'a'), (227, 'game'), (232, 'show'), (237, 'host'), (242, 'and'), (246, 'panelist'), (254, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Jack Stein',0, 17), ('better known',19, 31), ('his stage name Bobby Van',35, 59), ('December 6, 1928',61, 77), ('July 31, 1980',80, 93), ('a musical actor',99, 114), ('best known',116, 126), ('his career',131, 141), ('the 1950s',184, 193), ('the 1970s',202, 211), ('a game show host and panelist',225, 254)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', ',', 'IN', 'NNS', 'CC', 'NN', 'IN', 'DT', 'CD', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'NN', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Jack'), (12, 'Stein'), (17, ','), (19, 'better'), (26, 'known'), (32, 'by'), (35, 'his'), (39, 'stage'), (45, 'name'), (50, 'Bobby'), (56, 'Van'), (60, '('), (61, 'December'), (70, '6'), (71, ','), (73, '1928'), (78, '–'), (80, 'July'), (85, '31'), (87, ','), (89, '1980'), (93, ')'), (95, 'was'), (99, 'a'), (101, 'musical'), (109, 'actor'), (114, ','), (116, 'best'), (121, 'known'), (127, 'for'), (131, 'his'), (135, 'career'), (142, 'on'), (145, 'Broadway'), (153, ','), (155, 'in'), (158, 'films'), (164, 'and'), (168, 'television'), (179, 'from'), (184, 'the'), (188, '1950s'), (194, 'through'), (202, 'the'), (206, '1970s'), (211, '.'), (213, 'He'), (216, 'was'), (220, 'also'), (225, 'a'), (227, 'game'), (232, 'show'), (237, 'host'), (242, 'and'), (246, 'panelist'), (254, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Jack Stein', 0, 17), ('his stage name', 35, 49), ('Bobby Van', 50, 59), ('December 6, 1928', 61, 77), ('July 31, 1980', 80, 93), ('a musical actor', 99, 114), ('his career', 131, 141), ('Broadway', 145, 153), ('television', 168, 178), ('the 1950s', 184, 193), ('the 1970s', 202, 211), ('a game show host', 225, 241), ('panelist', 246, 254)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', ',', 'IN', 'NNS', 'CC', 'NN', 'IN', 'DT', 'NNS', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'NN', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

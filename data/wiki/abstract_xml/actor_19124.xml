@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dick Fair</title>
+<link/>https://en.wikipedia.org/wiki/Dick_Fair
+<annotated>0</annotated>
+<originalabstract>Dick Fair (born as Richard Edward Fair in 1907 in Mosman, New South Wales – 1982) was an Australian actor and radio compere, best known for hosting the enormously-popular radio shows 'Australia's Amateur Hour' and 'Australia's Hour of Song'. He occasionally acted under the name Grant Lyndsay.</originalabstract>
+<abstract>Dick_Fair ( born as Richard_Edward_Fair in 1907 in Mosman , New_South_Wales – 1982 ) was an_Australian_actor_and_radio_compere , best_known for hosting the_enormously-popular_radio shows ' Australia 's_Amateur_Hour ' and ' Australia 's_Hour of Song ' . He occasionally acted under the_name_Grant_Lyndsay .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dick'), (5, 'Fair'), (10, '('), (11, 'born'), (16, 'as'), (19, 'Richard'), (27, 'Edward'), (34, 'Fair'), (39, 'in'), (42, '1907'), (47, 'in'), (50, 'Mosman'), (56, ','), (58, 'New'), (62, 'South'), (68, 'Wales'), (74, '–'), (76, '1982'), (80, ')'), (82, 'was'), (86, 'an'), (89, 'Australian'), (100, 'actor'), (106, 'and'), (110, 'radio'), (116, 'compere'), (123, ','), (125, 'best'), (130, 'known'), (136, 'for'), (140, 'hosting'), (148, 'the'), (152, 'enormously-popular'), (171, 'radio'), (177, 'shows'), (183, '\''), (184, 'Australia'), (193, '\'s'), (196, 'Amateur'), (204, 'Hour'), (208, '\''), (210, 'and'), (214, '\''), (215, 'Australia'), (224, '\'s'), (227, 'Hour'), (232, 'of'), (235, 'Song'), (239, '\''), (240, '.'), (242, 'He'), (245, 'occasionally'), (258, 'acted'), (264, 'under'), (270, 'the'), (274, 'name'), (279, 'Grant'), (285, 'Lyndsay'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dick Fair',0, 9), ('Richard Edward Fair',19, 38), ('New South Wales',58, 73), ('an Australian actor and radio compere',86, 123), ('best known',125, 135), ('the enormously-popular radio',148, 176), ('\'s Amateur Hour',193, 208), ('\'s Hour',224, 231), ('the name Grant Lyndsay',270, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'VBZ', '``', 'NNP', 'POS', 'JJ', 'NNP', 'POS', 'CC', '``', 'NNP', 'POS', 'NNP', 'IN', 'NN', '\'\'', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dick'), (5, 'Fair'), (10, '('), (11, 'born'), (16, 'as'), (19, 'Richard'), (27, 'Edward'), (34, 'Fair'), (39, 'in'), (42, '1907'), (47, 'in'), (50, 'Mosman'), (56, ','), (58, 'New'), (62, 'South'), (68, 'Wales'), (74, '–'), (76, '1982'), (80, ')'), (82, 'was'), (86, 'an'), (89, 'Australian'), (100, 'actor'), (106, 'and'), (110, 'radio'), (116, 'compere'), (123, ','), (125, 'best'), (130, 'known'), (136, 'for'), (140, 'hosting'), (148, 'the'), (152, 'enormously'), (162, '-'), (163, 'popular'), (171, 'radio'), (177, 'shows'), (183, "'"), (184, 'Australia'), (193, "'s"), (196, 'Amateur'), (204, 'Hour'), (208, "'"), (210, 'and'), (214, "'"), (215, 'Australia'), (224, "'s"), (227, 'Hour'), (232, 'of'), (235, 'Song'), (239, "'"), (240, '.'), (242, 'He'), (245, 'occasionally'), (258, 'acted'), (264, 'under'), (270, 'the'), (274, 'name'), (279, 'Grant'), (285, 'Lyndsay'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Dick Fair', 0, 9), ('Richard Edward Fair', 19, 38), ('Mosman, New South Wales', 50, 73), ('an Australian actor', 86, 105), ('radio compere', 110, 123), ('the enormously-popular radio', 148, 176), ("Australia's Amateur Hour", 184, 208), ("'Australia's Hour", 214, 231), ('the name', 270, 278), ('Grant Lyndsay', 279, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'HYPH', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'RB', 'HYPH', 'JJ', 'NN', 'VBZ', '``', 'NNP', 'POS', 'NNP', 'NNP', "''", 'CC', "''", 'NNP', 'POS', 'NNP', 'IN', 'NNP', "''", '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

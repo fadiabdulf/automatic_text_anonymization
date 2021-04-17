@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phyllis Brooks</title>
+<link/>https://en.wikipedia.org/wiki/Phyllis_Brooks
+<annotated>0</annotated>
+<originalabstract>Phyllis Brooks (July 18, 1915 – August 1, 1995) was an American actress and model. She was born in Boise, Idaho. Some sources have also inaccurately cited 1914 as her year of birth, but 1915 is the correct year according to Social Security records.</originalabstract>
+<abstract>Phyllis_Brooks ( July_18_,_1915 – August_1_,_1995 ) was an_American_actress_and_model . She was_born in Boise , Idaho . Some_sources have_also_inaccurately_cited 1914 as her_year of birth , but 1915 is the_correct_year according to Social_Security_records .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phyllis'), (8, 'Brooks'), (15, '('), (16, 'July'), (21, '18'), (23, ','), (25, '1915'), (30, '–'), (32, 'August'), (39, '1'), (40, ','), (42, '1995'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'and'), (76, 'model'), (81, '.'), (83, 'She'), (87, 'was'), (91, 'born'), (96, 'in'), (99, 'Boise'), (104, ','), (106, 'Idaho'), (111, '.'), (113, 'Some'), (118, 'sources'), (126, 'have'), (131, 'also'), (136, 'inaccurately'), (149, 'cited'), (155, '1914'), (160, 'as'), (163, 'her'), (167, 'year'), (172, 'of'), (175, 'birth'), (180, ','), (182, 'but'), (186, '1915'), (191, 'is'), (194, 'the'), (198, 'correct'), (206, 'year'), (211, 'according'), (221, 'to'), (224, 'Social'), (231, 'Security'), (240, 'records'), (247, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phyllis Brooks',0, 14), ('July 18, 1915',16, 29), ('August 1, 1995',32, 46), ('an American actress and model',52, 81), ('was born',87, 95), ('Some sources',113, 125), ('have also inaccurately cited',126, 154), ('her year',163, 171), ('the correct year',194, 210), ('Social Security records',224, 247)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'DT', 'NNS', 'VBP', 'RB', 'RB', 'VBD', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'NN', ',', 'CC', 'CD', 'VBZ', 'DT', 'JJ', 'NN', 'VBG', 'TO', 'NNP', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phyllis'), (8, 'Brooks'), (15, '('), (16, 'July'), (21, '18'), (23, ','), (25, '1915'), (30, '–'), (32, 'August'), (39, '1'), (40, ','), (42, '1995'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'and'), (76, 'model'), (81, '.'), (83, 'She'), (87, 'was'), (91, 'born'), (96, 'in'), (99, 'Boise'), (104, ','), (106, 'Idaho'), (111, '.'), (113, 'Some'), (118, 'sources'), (126, 'have'), (131, 'also'), (136, 'inaccurately'), (149, 'cited'), (155, '1914'), (160, 'as'), (163, 'her'), (167, 'year'), (172, 'of'), (175, 'birth'), (180, ','), (182, 'but'), (186, '1915'), (191, 'is'), (194, 'the'), (198, 'correct'), (206, 'year'), (211, 'according'), (221, 'to'), (224, 'Social'), (231, 'Security'), (240, 'records'), (247, '.')])</spacy_tokens>
+<spacy_chunks>[('Phyllis Brooks', 0, 14), ('July 18, 1915', 16, 29), ('August 1, 1995', 32, 46), ('an American actress', 52, 71), ('Boise, Idaho', 99, 111), ('Some sources', 113, 125), ('her year', 163, 171), ('the correct year', 194, 210), ('Social Security records', 224, 247)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'DT', 'NNS', 'VBP', 'RB', 'RB', 'VBN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'NN', ',', 'CC', 'CD', 'VBZ', 'DT', 'JJ', 'NN', 'VBG', 'IN', 'NNP', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

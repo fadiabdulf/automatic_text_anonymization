@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hoon Lee</title>
+<link/>https://en.wikipedia.org/wiki/Hoon_Lee
+<annotated>0</annotated>
+<originalabstract>Tong Hoon Lee (born 1973 in Plymouth, Massachusetts) is an American stage, film and television actor who played the role of Job on the Cinemax series Banshee and played the role of the King in The King and I on Broadway.</originalabstract>
+<abstract>Tong_Hoon_Lee ( born_1973 in Plymouth , Massachusetts ) is an_American_stage , film_and_television_actor who played the_role of Job on the_Cinemax_series_Banshee and played the_role of the_King in The_King and I on Broadway .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tong'), (5, 'Hoon'), (10, 'Lee'), (14, '('), (15, 'born'), (20, '1973'), (25, 'in'), (28, 'Plymouth'), (36, ','), (38, 'Massachusetts'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'stage'), (73, ','), (75, 'film'), (80, 'and'), (84, 'television'), (95, 'actor'), (101, 'who'), (105, 'played'), (112, 'the'), (116, 'role'), (121, 'of'), (124, 'Job'), (128, 'on'), (131, 'the'), (135, 'Cinemax'), (143, 'series'), (150, 'Banshee'), (158, 'and'), (162, 'played'), (169, 'the'), (173, 'role'), (178, 'of'), (181, 'the'), (185, 'King'), (190, 'in'), (193, 'The'), (197, 'King'), (202, 'and'), (206, 'I'), (208, 'on'), (211, 'Broadway'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tong Hoon Lee',0, 13), ('born 1973',15, 24), ('an American stage',56, 73), ('film and television actor',75, 100), ('the role',112, 120), ('the Cinemax series Banshee',131, 157), ('the role',169, 177), ('the King',181, 189), ('The King',193, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'CC', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'PRP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tong'), (5, 'Hoon'), (10, 'Lee'), (14, '('), (15, 'born'), (20, '1973'), (25, 'in'), (28, 'Plymouth'), (36, ','), (38, 'Massachusetts'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'stage'), (73, ','), (75, 'film'), (80, 'and'), (84, 'television'), (95, 'actor'), (101, 'who'), (105, 'played'), (112, 'the'), (116, 'role'), (121, 'of'), (124, 'Job'), (128, 'on'), (131, 'the'), (135, 'Cinemax'), (143, 'series'), (150, 'Banshee'), (158, 'and'), (162, 'played'), (169, 'the'), (173, 'role'), (178, 'of'), (181, 'the'), (185, 'King'), (190, 'in'), (193, 'The'), (197, 'King'), (202, 'and'), (206, 'I'), (208, 'on'), (211, 'Broadway'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Tong Hoon Lee', 0, 13), ('Plymouth, Massachusetts', 28, 51), ('an American stage', 56, 73), ('television actor', 84, 100), ('the role', 112, 120), ('the Cinemax series', 131, 149), ('Banshee', 150, 157), ('the King', 181, 189), ('The King and I', 193, 207), ('Broadway', 211, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'VB', 'CC', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

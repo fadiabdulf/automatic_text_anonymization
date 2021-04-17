@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Edward Sorley</title>
+<link/>https://en.wikipedia.org/wiki/Edward_Sorley
+<annotated>0</annotated>
+<originalabstract>Edward Sorley (1871 – 16 October 1933) was a British actor.Sorley was born in Camberwell, Surrey and died at age 62 in Blackheath, London.</originalabstract>
+<abstract>Edward_Sorley ( 1871 – 16_October_1933 ) was a_British_actor.Sorley was_born in Camberwell , Surrey and died at age_62 in Blackheath , London .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edward'), (7, 'Sorley'), (14, '('), (15, '1871'), (20, '–'), (22, '16'), (25, 'October'), (33, '1933'), (37, ')'), (39, 'was'), (43, 'a'), (45, 'British'), (53, 'actor.Sorley'), (66, 'was'), (70, 'born'), (75, 'in'), (78, 'Camberwell'), (88, ','), (90, 'Surrey'), (97, 'and'), (101, 'died'), (106, 'at'), (109, 'age'), (113, '62'), (116, 'in'), (119, 'Blackheath'), (129, ','), (131, 'London'), (137, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edward Sorley',0, 13), ('16 October 1933',22, 37), ('a British actor.Sorley',43, 65), ('was born',66, 74), ('age 62',109, 115)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NN', 'CD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edward'), (7, 'Sorley'), (14, '('), (15, '1871'), (20, '–'), (22, '16'), (25, 'October'), (33, '1933'), (37, ')'), (39, 'was'), (43, 'a'), (45, 'British'), (53, 'actor'), (58, '.'), (59, 'Sorley'), (66, 'was'), (70, 'born'), (75, 'in'), (78, 'Camberwell'), (88, ','), (90, 'Surrey'), (97, 'and'), (101, 'died'), (106, 'at'), (109, 'age'), (113, '62'), (116, 'in'), (119, 'Blackheath'), (129, ','), (131, 'London'), (137, '.')])</spacy_tokens>
+<spacy_chunks>[('Edward Sorley', 0, 13), ('16 October 1933', 22, 37), ('a British actor', 43, 58), ('Camberwell, Surrey', 78, 96), ('Blackheath', 119, 129), ('London', 131, 137)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NN', 'CD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

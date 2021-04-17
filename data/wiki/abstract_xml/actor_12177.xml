@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mary Frann</title>
+<link/>https://en.wikipedia.org/wiki/Mary_Frann
+<annotated>0</annotated>
+<originalabstract>Mary Frann (born Mary Frances Luecke, February 27, 1943 – September 23, 1998) was an American stage, film and television actress. Frann is best known for her role as Bob Newhart's wife, Joanna Loudon, on the CBS sitcom Newhart, which aired from 1982 to 1990.</originalabstract>
+<abstract>Mary_Frann ( born Mary_Frances_Luecke , February_27_,_1943 – September_23_,_1998 ) was an_American_stage , film_and_television_actress . Frann is_best_known for her_role as Bob_Newhart 's_wife , Joanna_Loudon , on the_CBS_sitcom_Newhart , which aired from 1982 to 1990 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Frann'), (11, '('), (12, 'born'), (17, 'Mary'), (22, 'Frances'), (30, 'Luecke'), (36, ','), (38, 'February'), (47, '27'), (49, ','), (51, '1943'), (56, '–'), (58, 'September'), (68, '23'), (70, ','), (72, '1998'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'American'), (94, 'stage'), (99, ','), (101, 'film'), (106, 'and'), (110, 'television'), (121, 'actress'), (128, '.'), (130, 'Frann'), (136, 'is'), (139, 'best'), (144, 'known'), (150, 'for'), (154, 'her'), (158, 'role'), (163, 'as'), (166, 'Bob'), (170, 'Newhart'), (177, '\'s'), (180, 'wife'), (184, ','), (186, 'Joanna'), (193, 'Loudon'), (199, ','), (201, 'on'), (204, 'the'), (208, 'CBS'), (212, 'sitcom'), (219, 'Newhart'), (226, ','), (228, 'which'), (234, 'aired'), (240, 'from'), (245, '1982'), (250, 'to'), (253, '1990'), (257, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Frann',0, 10), ('Mary Frances Luecke',17, 36), ('February 27, 1943',38, 55), ('September 23, 1998',58, 76), ('an American stage',82, 99), ('film and television actress',101, 128), ('is best known',136, 149), ('her role',154, 162), ('Bob Newhart',166, 177), ('\'s wife',177, 184), ('Joanna Loudon',186, 199), ('the CBS sitcom Newhart',204, 226)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', ',', 'NNP', 'NNP', ',', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Frann'), (11, '('), (12, 'born'), (17, 'Mary'), (22, 'Frances'), (30, 'Luecke'), (36, ','), (38, 'February'), (47, '27'), (49, ','), (51, '1943'), (56, '–'), (58, 'September'), (68, '23'), (70, ','), (72, '1998'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'American'), (94, 'stage'), (99, ','), (101, 'film'), (106, 'and'), (110, 'television'), (121, 'actress'), (128, '.'), (130, 'Frann'), (136, 'is'), (139, 'best'), (144, 'known'), (150, 'for'), (154, 'her'), (158, 'role'), (163, 'as'), (166, 'Bob'), (170, 'Newhart'), (177, "'s"), (180, 'wife'), (184, ','), (186, 'Joanna'), (193, 'Loudon'), (199, ','), (201, 'on'), (204, 'the'), (208, 'CBS'), (212, 'sitcom'), (219, 'Newhart'), (226, ','), (228, 'which'), (234, 'aired'), (240, 'from'), (245, '1982'), (250, 'to'), (253, '1990'), (257, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Frann', 0, 10), ('Mary Frances Luecke', 17, 36), ('February 27, 1943', 38, 55), ('– September', 56, 67), ('September 23, 1998', 58, 76), ('an American stage', 82, 99), ('television', 110, 120), ('actress', 121, 128), ('her role', 154, 162), ("Bob Newhart's wife", 166, 184), ('Joanna Loudon', 186, 199), ('the CBS sitcom', 204, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'NNS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', ',', 'NNP', 'NNP', ',', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

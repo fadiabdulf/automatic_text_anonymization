@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Katherine Squire</title>
+<link/>https://en.wikipedia.org/wiki/Katherine_Squire
+<annotated>0</annotated>
+<originalabstract>Katherine Squire (March 9, 1903 – March 29, 1995) was an American actress who appeared on Broadway and in regional theater, movies and television, from the 1920s through the 1980s.</originalabstract>
+<abstract>Katherine_Squire ( March_9_,_1903 – March_29_,_1995 ) was an_American_actress who appeared on Broadway and in regional_theater , movies and television , from the_1920s through the_1980s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Katherine'), (10, 'Squire'), (17, '('), (18, 'March'), (24, '9'), (25, ','), (27, '1903'), (32, '–'), (34, 'March'), (40, '29'), (42, ','), (44, '1995'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'actress'), (74, 'who'), (78, 'appeared'), (87, 'on'), (90, 'Broadway'), (99, 'and'), (103, 'in'), (106, 'regional'), (115, 'theater'), (122, ','), (124, 'movies'), (131, 'and'), (135, 'television'), (145, ','), (147, 'from'), (152, 'the'), (156, '1920s'), (162, 'through'), (170, 'the'), (174, '1980s'), (179, '.')])</stanford_tokens>
+<opennlp_chunks>[('Katherine Squire',0, 16), ('March 9, 1903',18, 31), ('March 29, 1995',34, 48), ('an American actress',54, 73), ('regional theater',106, 122), ('the 1920s',152, 161), ('the 1980s',170, 179)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'CC', 'IN', 'JJ', 'NN', ',', 'NNS', 'CC', 'NN', ',', 'IN', 'DT', 'CD', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Katherine'), (10, 'Squire'), (17, '('), (18, 'March'), (24, '9'), (25, ','), (27, '1903'), (32, '–'), (34, 'March'), (40, '29'), (42, ','), (44, '1995'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'actress'), (74, 'who'), (78, 'appeared'), (87, 'on'), (90, 'Broadway'), (99, 'and'), (103, 'in'), (106, 'regional'), (115, 'theater'), (122, ','), (124, 'movies'), (131, 'and'), (135, 'television'), (145, ','), (147, 'from'), (152, 'the'), (156, '1920s'), (162, 'through'), (170, 'the'), (174, '1980s'), (179, '.')])</spacy_tokens>
+<spacy_chunks>[('Katherine Squire', 0, 16), ('(March', 17, 23), ('March 9, 1903', 18, 31), ('March 29, 1995', 34, 48), ('an American actress', 54, 73), ('Broadway', 90, 98), ('regional theater', 106, 122), ('movies', 124, 130), ('television', 135, 145), ('the 1920s', 152, 161)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'CC', 'IN', 'JJ', 'NN', ',', 'NNS', 'CC', 'NN', ',', 'IN', 'DT', 'NNS', 'IN', 'DT', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

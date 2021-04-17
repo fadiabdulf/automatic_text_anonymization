@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anthony Hawtrey</title>
+<link/>https://en.wikipedia.org/wiki/Anthony_Hawtrey
+<annotated>0</annotated>
+<originalabstract>Anthony John Hawtrey (1909–1954) was an English actor and theatre director.
+He was born in Claygate, Surrey on 22 January 1909, the illegitimate son of Sir Charles Hawtrey and Olive Morris (the daughter of Florence Terry), and was educated at Bradfield College prior to studying for the stage under Bertha Moore.</originalabstract>
+<abstract>Anthony_John_Hawtrey ( 1909 – 1954 ) was an_English_actor_and_theatre_director . He was_born in Claygate , Surrey on 22_January_1909 , the_illegitimate_son of Sir_Charles_Hawtrey and Olive_Morris ( the_daughter of Florence_Terry_) , and was_educated at Bradfield_College prior to studying for the_stage under Bertha_Moore .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anthony'), (8, 'John'), (13, 'Hawtrey'), (21, '('), (22, '1909'), (26, '–'), (27, '1954'), (31, ')'), (33, 'was'), (37, 'an'), (40, 'English'), (48, 'actor'), (54, 'and'), (58, 'theatre'), (66, 'director'), (74, '.'), (76, 'He'), (79, 'was'), (83, 'born'), (88, 'in'), (91, 'Claygate'), (99, ','), (101, 'Surrey'), (108, 'on'), (111, '22'), (114, 'January'), (122, '1909'), (126, ','), (128, 'the'), (132, 'illegitimate'), (145, 'son'), (149, 'of'), (152, 'Sir'), (156, 'Charles'), (164, 'Hawtrey'), (172, 'and'), (176, 'Olive'), (182, 'Morris'), (189, '('), (190, 'the'), (194, 'daughter'), (203, 'of'), (206, 'Florence'), (215, 'Terry'), (220, ')'), (221, ','), (223, 'and'), (227, 'was'), (231, 'educated'), (240, 'at'), (243, 'Bradfield'), (253, 'College'), (261, 'prior'), (267, 'to'), (270, 'studying'), (279, 'for'), (283, 'the'), (287, 'stage'), (293, 'under'), (299, 'Bertha'), (306, 'Moore'), (311, '.')])</stanford_tokens>
+<opennlp_chunks>[('Anthony John Hawtrey',0, 20), ('an English actor and theatre director',37, 74), ('was born',79, 87), ('22 January 1909',111, 126), ('the illegitimate son',128, 148), ('Sir Charles Hawtrey',152, 171), ('Olive Morris',176, 188), ('the daughter',190, 202), ('Florence Terry)',206, 221), ('was educated',227, 239), ('Bradfield College',243, 260), ('the stage',283, 292), ('Bertha Moore',299, 311)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'IN', 'CD', 'NNP', 'CD', ',', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '-LRB-', 'DT', 'NN', 'IN', 'NNP', 'NNP', '-RRB-', ',', 'CC', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'RB', 'TO', 'VBG', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anthony'), (8, 'John'), (13, 'Hawtrey'), (21, '('), (22, '1909–1954'), (31, ')'), (33, 'was'), (37, 'an'), (40, 'English'), (48, 'actor'), (54, 'and'), (58, 'theatre'), (66, 'director'), (74, '.'), (76, 'He'), (79, 'was'), (83, 'born'), (88, 'in'), (91, 'Claygate'), (99, ','), (101, 'Surrey'), (108, 'on'), (111, '22'), (114, 'January'), (122, '1909'), (126, ','), (128, 'the'), (132, 'illegitimate'), (145, 'son'), (149, 'of'), (152, 'Sir'), (156, 'Charles'), (164, 'Hawtrey'), (172, 'and'), (176, 'Olive'), (182, 'Morris'), (189, '('), (190, 'the'), (194, 'daughter'), (203, 'of'), (206, 'Florence'), (215, 'Terry'), (220, ')'), (221, ','), (223, 'and'), (227, 'was'), (231, 'educated'), (240, 'at'), (243, 'Bradfield'), (253, 'College'), (261, 'prior'), (267, 'to'), (270, 'studying'), (279, 'for'), (283, 'the'), (287, 'stage'), (293, 'under'), (299, 'Bertha'), (306, 'Moore'), (311, '.')])</spacy_tokens>
+<spacy_chunks>[('Anthony John Hawtrey', 0, 20), ('(1909–1954', 21, 31), ('an English actor and theatre director', 37, 74), ('Claygate', 91, 99), ('Surrey', 101, 107), ('22 January 1909', 111, 126), ('Sir Charles Hawtrey', 152, 171), ('Olive Morris', 176, 188), ('the daughter', 190, 202), ('Florence Terry', 206, 220), ('Bradfield College', 243, 260), ('the stage', 283, 292), ('Bertha Moore', 299, 311)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'IN', 'CD', 'NNP', 'CD', ',', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '-LRB-', 'DT', 'NN', 'IN', 'NNP', 'NNP', '-RRB-', ',', 'CC', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'RB', 'IN', 'VBG', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

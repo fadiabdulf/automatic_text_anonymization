@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Billy Drago</title>
+<link/>https://en.wikipedia.org/wiki/Billy_Drago
+<annotated>0</annotated>
+<originalabstract>William Eugen Burrows, Jr. (born September 18, 1949), known professionally by his stage name Billy Drago, is an American television and film actor. Frequently cast in the role of villain, Drago's films have included Clint Eastwood's western Pale Rider and Brian De Palma's The Untouchables.</originalabstract>
+<abstract>William_Eugen_Burrows , Jr. ( born September_18_,_1949 ) , known professionally by his_stage_name_Billy_Drago , is an_American_television_and_film_actor . Frequently cast in the_role of villain , Drago 's_films have_included Clint_Eastwood 's_western_Pale_Rider and Brian_De_Palma 's_The_Untouchables .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Eugen'), (14, 'Burrows'), (21, ','), (23, 'Jr.'), (27, '('), (28, 'born'), (33, 'September'), (43, '18'), (45, ','), (47, '1949'), (51, ')'), (52, ','), (54, 'known'), (60, 'professionally'), (75, 'by'), (78, 'his'), (82, 'stage'), (88, 'name'), (93, 'Billy'), (99, 'Drago'), (104, ','), (106, 'is'), (109, 'an'), (112, 'American'), (121, 'television'), (132, 'and'), (136, 'film'), (141, 'actor'), (146, '.'), (148, 'Frequently'), (159, 'cast'), (164, 'in'), (167, 'the'), (171, 'role'), (176, 'of'), (179, 'villain'), (186, ','), (188, 'Drago'), (193, '\'s'), (196, 'films'), (202, 'have'), (207, 'included'), (216, 'Clint'), (222, 'Eastwood'), (230, '\'s'), (233, 'western'), (241, 'Pale'), (246, 'Rider'), (252, 'and'), (256, 'Brian'), (262, 'De'), (265, 'Palma'), (270, '\'s'), (273, 'The'), (277, 'Untouchables'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Eugen Burrows',0, 21), ('September 18, 1949',33, 51), ('his stage name Billy Drago',78, 104), ('an American television and film actor',109, 146), ('the role',167, 175), ('\'s films',193, 201), ('have included',202, 215), ('Clint Eastwood',216, 230), ('\'s western Pale Rider',230, 251), ('Brian De Palma',256, 270), ('\'s The Untouchables',270, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NN', ',', 'NNP', 'POS', 'NNS', 'VBP', 'VBN', 'NNP', 'NNP', 'POS', 'JJ', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'POS', 'DT', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Eugen'), (14, 'Burrows'), (21, ','), (23, 'Jr.'), (27, '('), (28, 'born'), (33, 'September'), (43, '18'), (45, ','), (47, '1949'), (51, ')'), (52, ','), (54, 'known'), (60, 'professionally'), (75, 'by'), (78, 'his'), (82, 'stage'), (88, 'name'), (93, 'Billy'), (99, 'Drago'), (104, ','), (106, 'is'), (109, 'an'), (112, 'American'), (121, 'television'), (132, 'and'), (136, 'film'), (141, 'actor'), (146, '.'), (148, 'Frequently'), (159, 'cast'), (164, 'in'), (167, 'the'), (171, 'role'), (176, 'of'), (179, 'villain'), (186, ','), (188, 'Drago'), (193, "'s"), (196, 'films'), (202, 'have'), (207, 'included'), (216, 'Clint'), (222, 'Eastwood'), (230, "'s"), (233, 'western'), (241, 'Pale'), (246, 'Rider'), (252, 'and'), (256, 'Brian'), (262, 'De'), (265, 'Palma'), (270, "'s"), (273, 'The'), (277, 'Untouchables'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('William Eugen Burrows', 0, 21), ('September 18, 1949', 33, 51), ('his stage name', 78, 92), ('Billy Drago', 93, 104), ('an American television and film actor', 109, 146), ('the role', 167, 175), ('villain', 179, 186), ("Drago's films", 188, 201), ("Clint Eastwood's western Pale Rider", 216, 251), ("Brian De Palma's The Untouchables", 256, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NN', ',', 'NNP', 'POS', 'NNS', 'VBP', 'VBN', 'NNP', 'NNP', 'POS', 'JJ', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'POS', 'DT', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

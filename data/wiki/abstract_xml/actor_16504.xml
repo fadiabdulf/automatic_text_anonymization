@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jose Collins</title>
+<link/>https://en.wikipedia.org/wiki/Jose_Collins
+<annotated>0</annotated>
+<originalabstract>Jose Collins (sometimes styled José Collins, 23 May 1887 – 6 December 1958) was an English actress and singer celebrated for her performances in musical comedies and early motion pictures.</originalabstract>
+<abstract>Jose_Collins ( sometimes styled José_Collins , 23_May_1887 – 6_December_1958 ) was an_English_actress_and_singer celebrated for her_performances in musical_comedies and early_motion_pictures .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jose'), (5, 'Collins'), (13, '('), (14, 'sometimes'), (24, 'styled'), (31, 'José'), (36, 'Collins'), (43, ','), (45, '23'), (48, 'May'), (52, '1887'), (57, '–'), (59, '6'), (61, 'December'), (70, '1958'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'English'), (91, 'actress'), (99, 'and'), (103, 'singer'), (110, 'celebrated'), (121, 'for'), (125, 'her'), (129, 'performances'), (142, 'in'), (145, 'musical'), (153, 'comedies'), (162, 'and'), (166, 'early'), (172, 'motion'), (179, 'pictures'), (187, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jose Collins',0, 12), ('José Collins',31, 43), ('23 May 1887',45, 56), ('6 December 1958',59, 74), ('an English actress and singer',80, 109), ('her performances',125, 141), ('musical comedies',145, 161), ('early motion pictures',166, 187)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'RB', 'VBD', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'VBD', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNS', 'CC', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jose'), (5, 'Collins'), (13, '('), (14, 'sometimes'), (24, 'styled'), (31, 'José'), (36, 'Collins'), (43, ','), (45, '23'), (48, 'May'), (52, '1887'), (57, '–'), (59, '6'), (61, 'December'), (70, '1958'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'English'), (91, 'actress'), (99, 'and'), (103, 'singer'), (110, 'celebrated'), (121, 'for'), (125, 'her'), (129, 'performances'), (142, 'in'), (145, 'musical'), (153, 'comedies'), (162, 'and'), (166, 'early'), (172, 'motion'), (179, 'pictures'), (187, '.')])</spacy_tokens>
+<spacy_chunks>[('Jose Collins', 0, 12), ('José Collins', 31, 43), ('23 May 1887', 45, 56), ('6 December 1958', 59, 74), ('an English actress', 80, 98), ('singer', 103, 109), ('her performances', 125, 141), ('musical comedies', 145, 161), ('early motion pictures', 166, 187)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'RB', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'VBD', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNS', 'CC', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

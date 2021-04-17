@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nancy Priddy</title>
+<link/>https://en.wikipedia.org/wiki/Nancy_Priddy
+<annotated>0</annotated>
+<originalabstract>Nancy Lee Priddy (born January 22, 1941) is an American actress and singer-songwriter. As an actress, she has appeared on many television series, including Bewitched, The Waltons, and Matlock. She is the mother of actress Christina Applegate.</originalabstract>
+<abstract>Nancy_Lee_Priddy ( born January_22_,_1941 ) is an_American_actress_and_singer-songwriter . As an_actress , she has_appeared on many_television_series , including Bewitched , The_Waltons , and Matlock . She is the_mother of actress_Christina_Applegate .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nancy'), (6, 'Lee'), (10, 'Priddy'), (17, '('), (18, 'born'), (23, 'January'), (31, '22'), (33, ','), (35, '1941'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (64, 'and'), (68, 'singer-songwriter'), (85, '.'), (87, 'As'), (90, 'an'), (93, 'actress'), (100, ','), (102, 'she'), (106, 'has'), (110, 'appeared'), (119, 'on'), (122, 'many'), (127, 'television'), (138, 'series'), (144, ','), (146, 'including'), (156, 'Bewitched'), (165, ','), (167, 'The'), (171, 'Waltons'), (178, ','), (180, 'and'), (184, 'Matlock'), (191, '.'), (193, 'She'), (197, 'is'), (200, 'the'), (204, 'mother'), (211, 'of'), (214, 'actress'), (222, 'Christina'), (232, 'Applegate'), (241, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nancy Lee Priddy',0, 16), ('January 22, 1941',23, 39), ('an American actress and singer-songwriter',44, 85), ('an actress',90, 100), ('has appeared',106, 118), ('many television series',122, 144), ('The Waltons',167, 178), ('the mother',200, 210), ('actress Christina Applegate',214, 241)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'IN', 'DT', 'NN', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'NN', ',', 'VBG', 'NNP', ',', 'DT', 'NNPS', ',', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nancy'), (6, 'Lee'), (10, 'Priddy'), (17, '('), (18, 'born'), (23, 'January'), (31, '22'), (33, ','), (35, '1941'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (64, 'and'), (68, 'singer'), (74, '-'), (75, 'songwriter'), (85, '.'), (87, 'As'), (90, 'an'), (93, 'actress'), (100, ','), (102, 'she'), (106, 'has'), (110, 'appeared'), (119, 'on'), (122, 'many'), (127, 'television'), (138, 'series'), (144, ','), (146, 'including'), (156, 'Bewitched'), (165, ','), (167, 'The'), (171, 'Waltons'), (178, ','), (180, 'and'), (184, 'Matlock'), (191, '.'), (193, 'She'), (197, 'is'), (200, 'the'), (204, 'mother'), (211, 'of'), (214, 'actress'), (222, 'Christina'), (232, 'Applegate'), (241, '.')])</spacy_tokens>
+<spacy_chunks>[('Nancy Lee Priddy', 0, 16), ('January 22, 1941', 23, 39), ('an American actress', 44, 63), ('Singer-songwriter', 68, 85), ('many television series', 122, 144), ('Bewitched', 156, 165), ('The Waltons', 167, 178), ('Matlock', 184, 191), ('the mother', 200, 210), ('actress Christina Applegate', 214, 241)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'HYPH', 'NN', '.', 'IN', 'DT', 'NN', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'NN', ',', 'VBG', 'NNP', ',', 'DT', 'NNP', ',', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

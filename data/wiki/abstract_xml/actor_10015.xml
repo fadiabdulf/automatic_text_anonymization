@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kad Merad</title>
+<link/>https://en.wikipedia.org/wiki/Kad_Merad
+<annotated>0</annotated>
+<originalabstract>Kad Merad (born Kaddour Merad; 27 March 1964) is a French-Algerian filmmaker and actor who has acted both on stage and on screen.</originalabstract>
+<abstract>Kad_Merad ( born Kaddour_Merad ; 27_March_1964 ) is a_French-Algerian_filmmaker and actor who has_acted both on stage and on screen .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kad'), (4, 'Merad'), (10, '('), (11, 'born'), (16, 'Kaddour'), (24, 'Merad'), (29, ';'), (31, '27'), (34, 'March'), (40, '1964'), (44, ')'), (46, 'is'), (49, 'a'), (51, 'French-Algerian'), (67, 'filmmaker'), (77, 'and'), (81, 'actor'), (87, 'who'), (91, 'has'), (95, 'acted'), (101, 'both'), (106, 'on'), (109, 'stage'), (115, 'and'), (119, 'on'), (122, 'screen'), (128, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kad Merad',0, 9), ('Kaddour Merad',16, 29), ('27 March 1964',31, 44), ('a French-Algerian filmmaker',49, 76), ('has acted',91, 100)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'VBN', 'DT', 'IN', 'NN', 'CC', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kad'), (4, 'Merad'), (10, '('), (11, 'born'), (16, 'Kaddour'), (24, 'Merad'), (29, ';'), (31, '27'), (34, 'March'), (40, '1964'), (44, ')'), (46, 'is'), (49, 'a'), (51, 'French'), (57, '-'), (58, 'Algerian'), (67, 'filmmaker'), (77, 'and'), (81, 'actor'), (87, 'who'), (91, 'has'), (95, 'acted'), (101, 'both'), (106, 'on'), (109, 'stage'), (115, 'and'), (119, 'on'), (122, 'screen'), (128, '.')])</spacy_tokens>
+<spacy_chunks>[('Kad Merad', 0, 9), ('Kaddour Merad', 16, 29), ('27 March 1964', 31, 44), ('a French-Algerian filmmaker', 49, 76), ('screen', 122, 128)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'VBN', 'DT', 'IN', 'NN', 'CC', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

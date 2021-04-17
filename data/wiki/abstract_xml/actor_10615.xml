@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joan Barry (American actress)</title>
+<link/>https://en.wikipedia.org/wiki/Joan_Barry_(American_actress)
+<annotated>0</annotated>
+<originalabstract>Joan Barry was an American actress best known for winning a paternity suit in California in 1943 against Charlie Chaplin after an affair between the two resulted in two terminated pregnancies and the subject of the suit, a live-born girl named Carol Ann. Chaplin supported the girl financially until her 21st birthday.</originalabstract>
+<abstract>Joan_Barry was an_American_actress best_known for winning a_paternity_suit in California in 1943 against Charlie_Chaplin after an_affair between the_two resulted in two_terminated_pregnancies and the_subject of the_suit , a_live-born_girl named Carol_Ann . Chaplin supported the_girl financially until her_21st_birthday .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joan'), (5, 'Barry'), (11, 'was'), (15, 'an'), (18, 'American'), (27, 'actress'), (35, 'best'), (40, 'known'), (46, 'for'), (50, 'winning'), (58, 'a'), (60, 'paternity'), (70, 'suit'), (75, 'in'), (78, 'California'), (89, 'in'), (92, '1943'), (97, 'against'), (105, 'Charlie'), (113, 'Chaplin'), (121, 'after'), (127, 'an'), (130, 'affair'), (137, 'between'), (145, 'the'), (149, 'two'), (153, 'resulted'), (162, 'in'), (165, 'two'), (169, 'terminated'), (180, 'pregnancies'), (192, 'and'), (196, 'the'), (200, 'subject'), (208, 'of'), (211, 'the'), (215, 'suit'), (219, ','), (221, 'a'), (223, 'live-born'), (233, 'girl'), (238, 'named'), (244, 'Carol'), (250, 'Ann'), (253, '.'), (255, 'Chaplin'), (263, 'supported'), (273, 'the'), (277, 'girl'), (282, 'financially'), (294, 'until'), (300, 'her'), (304, '21st'), (309, 'birthday'), (317, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joan Barry',0, 10), ('an American actress',15, 34), ('best known',35, 45), ('a paternity suit',58, 74), ('Charlie Chaplin',105, 120), ('an affair',127, 136), ('the two',145, 152), ('two terminated pregnancies',165, 191), ('the subject',196, 207), ('the suit',211, 219), ('a live-born girl',221, 237), ('Carol Ann',244, 253), ('the girl',273, 281), ('her 21st birthday',300, 317)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NN', 'IN', 'NNP', 'IN', 'CD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'DT', 'CD', 'VBD', 'IN', 'CD', 'VBN', 'NNS', 'CC', 'DT', 'NN', 'IN', 'DT', 'NN', ',', 'DT', 'JJ', 'NN', 'VBN', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'DT', 'NN', 'RB', 'IN', 'PRP$', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joan'), (5, 'Barry'), (11, 'was'), (15, 'an'), (18, 'American'), (27, 'actress'), (35, 'best'), (40, 'known'), (46, 'for'), (50, 'winning'), (58, 'a'), (60, 'paternity'), (70, 'suit'), (75, 'in'), (78, 'California'), (89, 'in'), (92, '1943'), (97, 'against'), (105, 'Charlie'), (113, 'Chaplin'), (121, 'after'), (127, 'an'), (130, 'affair'), (137, 'between'), (145, 'the'), (149, 'two'), (153, 'resulted'), (162, 'in'), (165, 'two'), (169, 'terminated'), (180, 'pregnancies'), (192, 'and'), (196, 'the'), (200, 'subject'), (208, 'of'), (211, 'the'), (215, 'suit'), (219, ','), (221, 'a'), (223, 'live'), (227, '-'), (228, 'born'), (233, 'girl'), (238, 'named'), (244, 'Carol'), (250, 'Ann'), (253, '.'), (255, 'Chaplin'), (263, 'supported'), (273, 'the'), (277, 'girl'), (282, 'financially'), (294, 'until'), (300, 'her'), (304, '21st'), (309, 'birthday'), (317, '.')])</spacy_tokens>
+<spacy_chunks>[('Joan Barry', 0, 10), ('an American actress', 15, 34), ('a paternity suit', 58, 74), ('California', 78, 88), ('Charlie Chaplin', 105, 120), ('an affair', 127, 136), ('two terminated pregnancies', 165, 191), ('the subject', 196, 207), ('the suit', 211, 219), ('a live-born girl', 221, 237), ('the girl', 273, 281), ('her 21st birthday', 300, 317)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NN', 'IN', 'NNP', 'IN', 'CD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'DT', 'CD', 'VBD', 'IN', 'CD', 'VBN', 'NNS', 'CC', 'DT', 'NN', 'IN', 'DT', 'NN', ',', 'DT', 'RB', 'HYPH', 'VBN', 'NN', 'VBN', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'DT', 'NN', 'RB', 'IN', 'PRP$', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

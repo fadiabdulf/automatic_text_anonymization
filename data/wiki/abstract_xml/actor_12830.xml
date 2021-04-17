@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hope Holiday</title>
+<link/>https://en.wikipedia.org/wiki/Hope_Holiday
+<annotated>0</annotated>
+<originalabstract>Hope Holiday (November 30, 1930) is an American actress, perhaps best known for her role of Mrs. Margie MacDougall, Jack Lemmon's partner in self-pity on Christmas Eve night, in the Billy Wilder film The Apartment (1960).</originalabstract>
+<abstract>Hope_Holiday ( November_30_,_1930 ) is an_American_actress , perhaps_best_known for her_role of Mrs._Margie_MacDougall , Jack_Lemmon 's_partner in self-pity on Christmas_Eve_night , in the_Billy_Wilder_film The_Apartment ( 1960 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hope'), (5, 'Holiday'), (13, '('), (14, 'November'), (23, '30'), (25, ','), (27, '1930'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actress'), (55, ','), (57, 'perhaps'), (65, 'best'), (70, 'known'), (76, 'for'), (80, 'her'), (84, 'role'), (89, 'of'), (92, 'Mrs.'), (97, 'Margie'), (104, 'MacDougall'), (114, ','), (116, 'Jack'), (121, 'Lemmon'), (127, '\'s'), (130, 'partner'), (138, 'in'), (141, 'self-pity'), (151, 'on'), (154, 'Christmas'), (164, 'Eve'), (168, 'night'), (173, ','), (175, 'in'), (178, 'the'), (182, 'Billy'), (188, 'Wilder'), (195, 'film'), (200, 'The'), (204, 'Apartment'), (214, '('), (215, '1960'), (219, ')'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hope Holiday',0, 12), ('November 30, 1930',14, 31), ('an American actress',36, 55), ('perhaps best known',57, 75), ('her role',80, 88), ('Mrs. Margie MacDougall',92, 114), ('Jack Lemmon',116, 127), ('\'s partner',127, 137), ('Christmas Eve night',154, 173), ('the Billy Wilder film',178, 199), ('The Apartment',200, 213)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NN', ',', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hope'), (5, 'Holiday'), (13, '('), (14, 'November'), (23, '30'), (25, ','), (27, '1930'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actress'), (55, ','), (57, 'perhaps'), (65, 'best'), (70, 'known'), (76, 'for'), (80, 'her'), (84, 'role'), (89, 'of'), (92, 'Mrs.'), (97, 'Margie'), (104, 'MacDougall'), (114, ','), (116, 'Jack'), (121, 'Lemmon'), (127, "'s"), (130, 'partner'), (138, 'in'), (141, 'self'), (145, '-'), (146, 'pity'), (151, 'on'), (154, 'Christmas'), (164, 'Eve'), (168, 'night'), (173, ','), (175, 'in'), (178, 'the'), (182, 'Billy'), (188, 'Wilder'), (195, 'film'), (200, 'The'), (204, 'Apartment'), (214, '('), (215, '1960'), (219, ')'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Holiday', 5, 12), ('(November', 13, 22), ('November 30, 1930', 14, 31), ('an American actress', 36, 55), ('her role', 80, 88), ('Mrs. Margie MacDougall', 92, 114), ("Jack Lemmon's partner", 116, 137), ('self-pity', 141, 150), ('Christmas Eve night', 154, 173), ('the Billy Wilder film', 178, 199), ('The Apartment', 200, 213)]</spacy_chunks>
+<spacy_pos>['VB', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'NN', 'HYPH', 'NN', 'IN', 'NNP', 'NNP', 'NN', ',', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

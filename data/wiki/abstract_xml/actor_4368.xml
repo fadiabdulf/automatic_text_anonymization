@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tom Mason</title>
+<link/>https://en.wikipedia.org/wiki/Tom_Mason
+<annotated>0</annotated>
+<originalabstract>Thomas Robert "Tom" Mason (April 29, 1920 – December 1, 1980) was an American chiropractor, who was best known for appearing in films directed by Ed Wood, the husband of one of his patients.</originalabstract>
+<abstract>Thomas_Robert_"_Tom_"_Mason ( April_29_,_1920 – December_1_,_1980 ) was an_American_chiropractor , who was_best_known for appearing in films directed by Ed_Wood , the_husband of one of his_patients .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Thomas'), (7, 'Robert'), (14, '"'), (15, 'Tom'), (18, '"'), (20, 'Mason'), (26, '('), (27, 'April'), (33, '29'), (35, ','), (37, '1920'), (42, '–'), (44, 'December'), (53, '1'), (54, ','), (56, '1980'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'chiropractor'), (90, ','), (92, 'who'), (96, 'was'), (100, 'best'), (105, 'known'), (111, 'for'), (115, 'appearing'), (125, 'in'), (128, 'films'), (134, 'directed'), (143, 'by'), (146, 'Ed'), (149, 'Wood'), (153, ','), (155, 'the'), (159, 'husband'), (167, 'of'), (170, 'one'), (174, 'of'), (177, 'his'), (181, 'patients'), (189, '.')])</stanford_tokens>
+<opennlp_chunks>[('Thomas Robert "Tom" Mason',0, 25), ('April 29, 1920',27, 41), ('December 1, 1980',44, 60), ('an American chiropractor',66, 90), ('was best known',96, 110), ('Ed Wood',146, 153), ('the husband',155, 166), ('his patients',177, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'CD', 'IN', 'PRP$', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Thomas'), (7, 'Robert'), (14, '"'), (15, 'Tom'), (18, '"'), (20, 'Mason'), (26, '('), (27, 'April'), (33, '29'), (35, ','), (37, '1920'), (42, '–'), (44, 'December'), (53, '1'), (54, ','), (56, '1980'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'chiropractor'), (90, ','), (92, 'who'), (96, 'was'), (100, 'best'), (105, 'known'), (111, 'for'), (115, 'appearing'), (125, 'in'), (128, 'films'), (134, 'directed'), (143, 'by'), (146, 'Ed'), (149, 'Wood'), (153, ','), (155, 'the'), (159, 'husband'), (167, 'of'), (170, 'one'), (174, 'of'), (177, 'his'), (181, 'patients'), (189, '.')])</spacy_tokens>
+<spacy_chunks>[('Thomas Robert', 0, 13), ('"Tom" Mason', 14, 25), ('April 29, 1920', 27, 41), ('December 1, 1980', 44, 60), ('an American chiropractor', 66, 90), ('Ed Wood', 146, 153), ('the husband', 155, 166), ('his patients', 177, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'RBS', 'VBN', 'IN', 'VBG', 'IN', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'CD', 'IN', 'PRP$', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

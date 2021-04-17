@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Truly Shattuck</title>
+<link/>https://en.wikipedia.org/wiki/Truly_Shattuck
+<annotated>0</annotated>
+<originalabstract>Truly Shattuck  (July 27, 1875 – December 6, 1954)  was a soubrette star of vaudeville, music halls and Broadway whose career began in tragedy and ended in relative obscurity.</originalabstract>
+<abstract>Truly Shattuck ( July_27_,_1875 – December_6_,_1954 ) was a_soubrette_star of vaudeville , music_halls and Broadway whose_career began in tragedy and ended in relative_obscurity .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Truly'), (6, 'Shattuck'), (16, '('), (17, 'July'), (22, '27'), (24, ','), (26, '1875'), (31, '–'), (33, 'December'), (42, '6'), (43, ','), (45, '1954'), (49, ')'), (52, 'was'), (56, 'a'), (58, 'soubrette'), (68, 'star'), (73, 'of'), (76, 'vaudeville'), (86, ','), (88, 'music'), (94, 'halls'), (100, 'and'), (104, 'Broadway'), (113, 'whose'), (119, 'career'), (126, 'began'), (132, 'in'), (135, 'tragedy'), (143, 'and'), (147, 'ended'), (153, 'in'), (156, 'relative'), (165, 'obscurity'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('July 27, 1875',17, 30), ('December 6, 1954',33, 49), ('a soubrette star',56, 72), ('music halls',88, 99), ('whose career',113, 125), ('relative obscurity',156, 174)]</opennlp_chunks>
+<stanford_pos>['RB', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NN', ',', 'NN', 'NNS', 'CC', 'NNP', 'WP$', 'NN', 'VBD', 'IN', 'NN', 'CC', 'VBN', 'IN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Truly'), (6, 'Shattuck'), (16, '('), (17, 'July'), (22, '27'), (24, ','), (26, '1875'), (31, '–'), (33, 'December'), (42, '6'), (43, ','), (45, '1954'), (49, ')'), (52, 'was'), (56, 'a'), (58, 'soubrette'), (68, 'star'), (73, 'of'), (76, 'vaudeville'), (86, ','), (88, 'music'), (94, 'halls'), (100, 'and'), (104, 'Broadway'), (113, 'whose'), (119, 'career'), (126, 'began'), (132, 'in'), (135, 'tragedy'), (143, 'and'), (147, 'ended'), (153, 'in'), (156, 'relative'), (165, 'obscurity'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[('July 27, 1875', 17, 30), ('December 6, 1954', 33, 49), ('a soubrette star', 56, 72), ('vaudeville', 76, 86), ('music halls', 88, 99), ('Broadway', 104, 112), ('whose career', 113, 125), ('tragedy', 135, 142), ('relative obscurity', 156, 174)]</spacy_chunks>
+<spacy_pos>['RB', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', 'NNS', 'CC', 'NNP', 'WP$', 'NN', 'VBD', 'IN', 'NN', 'CC', 'VBD', 'IN', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

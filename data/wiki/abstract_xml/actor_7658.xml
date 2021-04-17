@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Richard Beckinsale</title>
+<link/>https://en.wikipedia.org/wiki/Richard_Beckinsale
+<annotated>0</annotated>
+<originalabstract>Richard Arthur Beckinsale (6 July 1947 – 19 March 1979) was an English actor, who played Lennie Godber in the BBC sitcom Porridge (along with its sequel series Going Straight) and Alan Moore in the British ITV sitcom Rising Damp.
+He is the father of actresses Samantha Beckinsale and Kate Beckinsale.</originalabstract>
+<abstract>Richard_Arthur_Beckinsale ( 6_July_1947 – 19_March_1979 ) was an_English_actor , who played Lennie_Godber in the_BBC_sitcom_Porridge ( along with its_sequel_series_Going_Straight ) and Alan_Moore in the_British_ITV_sitcom Rising Damp . He is the_father of actresses_Samantha_Beckinsale and Kate_Beckinsale .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Arthur'), (15, 'Beckinsale'), (26, '('), (27, '6'), (29, 'July'), (34, '1947'), (39, '–'), (41, '19'), (44, 'March'), (50, '1979'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'English'), (71, 'actor'), (76, ','), (78, 'who'), (82, 'played'), (89, 'Lennie'), (96, 'Godber'), (103, 'in'), (106, 'the'), (110, 'BBC'), (114, 'sitcom'), (121, 'Porridge'), (130, '('), (131, 'along'), (137, 'with'), (142, 'its'), (146, 'sequel'), (153, 'series'), (160, 'Going'), (166, 'Straight'), (174, ')'), (176, 'and'), (180, 'Alan'), (185, 'Moore'), (191, 'in'), (194, 'the'), (198, 'British'), (206, 'ITV'), (210, 'sitcom'), (217, 'Rising'), (224, 'Damp'), (228, '.'), (230, 'He'), (233, 'is'), (236, 'the'), (240, 'father'), (247, 'of'), (250, 'actresses'), (260, 'Samantha'), (269, 'Beckinsale'), (280, 'and'), (284, 'Kate'), (289, 'Beckinsale'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Arthur Beckinsale',0, 25), ('6 July 1947',27, 38), ('19 March 1979',41, 54), ('an English actor',60, 76), ('Lennie Godber',89, 102), ('the BBC sitcom Porridge',106, 129), ('its sequel series Going Straight',142, 174), ('Alan Moore',180, 190), ('the British ITV sitcom',194, 216), ('the father',236, 246), ('actresses Samantha Beckinsale',250, 279), ('Kate Beckinsale',284, 299)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', '-LRB-', 'IN', 'IN', 'PRP$', 'NN', 'NN', 'VBG', 'NN', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'VBG', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Arthur'), (15, 'Beckinsale'), (26, '('), (27, '6'), (29, 'July'), (34, '1947'), (39, '–'), (41, '19'), (44, 'March'), (50, '1979'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'English'), (71, 'actor'), (76, ','), (78, 'who'), (82, 'played'), (89, 'Lennie'), (96, 'Godber'), (103, 'in'), (106, 'the'), (110, 'BBC'), (114, 'sitcom'), (121, 'Porridge'), (130, '('), (131, 'along'), (137, 'with'), (142, 'its'), (146, 'sequel'), (153, 'series'), (160, 'Going'), (166, 'Straight'), (174, ')'), (176, 'and'), (180, 'Alan'), (185, 'Moore'), (191, 'in'), (194, 'the'), (198, 'British'), (206, 'ITV'), (210, 'sitcom'), (217, 'Rising'), (224, 'Damp'), (228, '.'), (230, 'He'), (233, 'is'), (236, 'the'), (240, 'father'), (247, 'of'), (250, 'actresses'), (260, 'Samantha'), (269, 'Beckinsale'), (280, 'and'), (284, 'Kate'), (289, 'Beckinsale'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('Richard Arthur Beckinsale', 0, 25), ('6 July 1947', 27, 38), ('19 March 1979', 41, 54), ('an English actor', 60, 76), ('Lennie Godber', 89, 102), ('the BBC sitcom Porridge', 106, 129), ('its sequel series', 142, 159), ('Going Straight', 160, 174), ('Alan Moore', 180, 190), ('the British ITV sitcom', 194, 216), ('Rising Damp', 217, 228), ('the father', 236, 246), ('actresses', 250, 259), ('Samantha Beckinsale', 260, 279), ('Kate Beckinsale', 284, 299)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', '-LRB-', 'IN', 'IN', 'PRP$', 'NN', 'NN', 'VBG', 'NNP', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'VBG', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

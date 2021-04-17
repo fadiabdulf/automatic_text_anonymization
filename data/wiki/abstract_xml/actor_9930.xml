@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Pierre Larquey</title>
+<link/>https://en.wikipedia.org/wiki/Pierre_Larquey
+<annotated>0</annotated>
+<originalabstract>Pierre Larquey (10 July 1884 – 17 April 1962) was a French film actor. He appeared in 214 films between 1913 and 1962. Born in Cénac, Gironde, France, he died in Maisons-Laffitte.</originalabstract>
+<abstract>Pierre_Larquey ( 10_July_1884 – 17_April_1962 ) was a_French_film_actor . He appeared in 214_films between 1913_and_1962 . Born in Cénac , Gironde , France , he died in Maisons-Laffitte .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Pierre'), (7, 'Larquey'), (15, '('), (16, '10'), (19, 'July'), (24, '1884'), (29, '–'), (31, '17'), (34, 'April'), (40, '1962'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'French'), (59, 'film'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'appeared'), (83, 'in'), (86, '214'), (90, 'films'), (96, 'between'), (104, '1913'), (109, 'and'), (113, '1962'), (117, '.'), (119, 'Born'), (124, 'in'), (127, 'Cénac'), (132, ','), (134, 'Gironde'), (141, ','), (143, 'France'), (149, ','), (151, 'he'), (154, 'died'), (159, 'in'), (162, 'Maisons-Laffitte'), (178, '.')])</stanford_tokens>
+<opennlp_chunks>[('Pierre Larquey',0, 14), ('10 July 1884',16, 28), ('17 April 1962',31, 44), ('a French film actor',50, 69), ('214 films',86, 95), ('1913 and 1962',104, 117)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Pierre'), (7, 'Larquey'), (15, '('), (16, '10'), (19, 'July'), (24, '1884'), (29, '–'), (31, '17'), (34, 'April'), (40, '1962'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'French'), (59, 'film'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'appeared'), (83, 'in'), (86, '214'), (90, 'films'), (96, 'between'), (104, '1913'), (109, 'and'), (113, '1962'), (117, '.'), (119, 'Born'), (124, 'in'), (127, 'Cénac'), (132, ','), (134, 'Gironde'), (141, ','), (143, 'France'), (149, ','), (151, 'he'), (154, 'died'), (159, 'in'), (162, 'Maisons'), (169, '-'), (170, 'Laffitte'), (178, '.')])</spacy_tokens>
+<spacy_chunks>[('Pierre Larquey', 0, 14), ('10 July 1884', 16, 28), ('17 April 1962', 31, 44), ('a French film actor', 50, 69), ('214 films', 86, 95), ('Gironde', 134, 141), ('France', 143, 149), ('Maisons-Laffitte', 162, 178)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'IN', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

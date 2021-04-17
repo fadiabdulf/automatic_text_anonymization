@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Seth Morris</title>
+<link/>https://en.wikipedia.org/wiki/Seth_Morris
+<annotated>0</annotated>
+<originalabstract>Seth Morris (born May 21, 1970) is an American actor, comedian, and writer known for his recurring roles on programs such as Go On, Happy Endings, The Hotwives of Orlando, Kroll Show, and Childrens Hospital.</originalabstract>
+<abstract>Seth_Morris ( born May_21_,_1970 ) is an_American_actor , comedian , and writer known for his_recurring_roles on programs such_as Go_On , Happy_Endings , The_Hotwives of Orlando , Kroll_Show , and Childrens_Hospital .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Seth'), (5, 'Morris'), (12, '('), (13, 'born'), (18, 'May'), (22, '21'), (24, ','), (26, '1970'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'American'), (47, 'actor'), (52, ','), (54, 'comedian'), (62, ','), (64, 'and'), (68, 'writer'), (75, 'known'), (81, 'for'), (85, 'his'), (89, 'recurring'), (99, 'roles'), (105, 'on'), (108, 'programs'), (117, 'such'), (122, 'as'), (125, 'Go'), (128, 'On'), (130, ','), (132, 'Happy'), (138, 'Endings'), (145, ','), (147, 'The'), (151, 'Hotwives'), (160, 'of'), (163, 'Orlando'), (170, ','), (172, 'Kroll'), (178, 'Show'), (182, ','), (184, 'and'), (188, 'Childrens'), (198, 'Hospital'), (206, '.')])</stanford_tokens>
+<opennlp_chunks>[('Seth Morris',0, 11), ('May 21, 1970',18, 30), ('an American actor',35, 52), ('his recurring roles',85, 104), ('such as',117, 124), ('Go On',125, 130), ('Happy Endings',132, 145), ('The Hotwives',147, 159), ('Kroll Show',172, 182), ('Childrens Hospital',188, 206)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', ',', 'JJ', 'NNS', ',', 'DT', 'NNS', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Seth'), (5, 'Morris'), (12, '('), (13, 'born'), (18, 'May'), (22, '21'), (24, ','), (26, '1970'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'American'), (47, 'actor'), (52, ','), (54, 'comedian'), (62, ','), (64, 'and'), (68, 'writer'), (75, 'known'), (81, 'for'), (85, 'his'), (89, 'recurring'), (99, 'roles'), (105, 'on'), (108, 'programs'), (117, 'such'), (122, 'as'), (125, 'Go'), (128, 'On'), (130, ','), (132, 'Happy'), (138, 'Endings'), (145, ','), (147, 'The'), (151, 'Hotwives'), (160, 'of'), (163, 'Orlando'), (170, ','), (172, 'Kroll'), (178, 'Show'), (182, ','), (184, 'and'), (188, 'Childrens'), (198, 'Hospital'), (206, '.')])</spacy_tokens>
+<spacy_chunks>[('Seth Morris', 0, 11), ('May 21, 1970', 18, 30), ('an American actor', 35, 52), ('comedian', 54, 62), ('writer', 68, 74), ('his recurring roles', 85, 104), ('programs', 108, 116), ('Go On', 125, 130), ('Happy Endings', 132, 145), ('The Hotwives of Orlando', 147, 170), ('Kroll Show', 172, 182), ('Childrens Hospital', 188, 206)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'VB', 'RP', ',', 'NNP', 'NNPS', ',', 'DT', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNPS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

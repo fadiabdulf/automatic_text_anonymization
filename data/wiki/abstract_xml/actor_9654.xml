@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>André Clavé</title>
+<link/>https://en.wikipedia.org/wiki/Andr%C3%A9_Clav%C3%A9
+<annotated>0</annotated>
+<originalabstract>André Clavé (1916–1981) was a French actor, director, theater director and Resistance fighter, deported during the Second World war, in the concentration camps of Buchenwald and of Dora.
+
+« Le témoignage du talent est bien sommaire, seul le message humain est important. »
+
+« The expression of the talent is too basic, alone the human message is important »</originalabstract>
+<abstract>André_Clavé ( 1916 – 1981 ) was a_French_actor , director , theater_director_and_Resistance_fighter , deported during the_Second_World_war , in the_concentration_camps of Buchenwald and of Dora . «_Le_témoignage_du_talent_est_bien_sommaire , seul le_message_humain_est_important . » « The_expression of the_talent is too_basic , alone the_human_message is important »</abstract>
+<stanford_tokens>OrderedDict([(0, 'André'), (6, 'Clavé'), (12, '('), (13, '1916'), (17, '–'), (18, '1981'), (22, ')'), (24, 'was'), (28, 'a'), (30, 'French'), (37, 'actor'), (42, ','), (44, 'director'), (52, ','), (54, 'theater'), (62, 'director'), (71, 'and'), (75, 'Resistance'), (86, 'fighter'), (93, ','), (95, 'deported'), (104, 'during'), (111, 'the'), (115, 'Second'), (122, 'World'), (128, 'war'), (131, ','), (133, 'in'), (136, 'the'), (140, 'concentration'), (154, 'camps'), (160, 'of'), (163, 'Buchenwald'), (174, 'and'), (178, 'of'), (181, 'Dora'), (185, '.'), (188, '«'), (190, 'Le'), (193, 'témoignage'), (204, 'du'), (207, 'talent'), (214, 'est'), (218, 'bien'), (223, 'sommaire'), (231, ','), (233, 'seul'), (238, 'le'), (241, 'message'), (249, 'humain'), (256, 'est'), (260, 'important'), (269, '.'), (271, '»'), (274, '«'), (276, 'The'), (280, 'expression'), (291, 'of'), (294, 'the'), (298, 'talent'), (305, 'is'), (308, 'too'), (312, 'basic'), (317, ','), (319, 'alone'), (325, 'the'), (329, 'human'), (335, 'message'), (343, 'is'), (346, 'important'), (356, '»')])</stanford_tokens>
+<opennlp_chunks>[('André Clavé',0, 11), ('a French actor',28, 42), ('theater director and Resistance fighter',54, 93), ('the Second World war',111, 131), ('the concentration camps',136, 159), ('« Le témoignage du talent est bien sommaire',188, 231), ('le message humain est important',238, 269), ('The expression',276, 290), ('the talent',294, 304), ('too basic',308, 317), ('the human message',325, 342)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NN', ',', 'IN', 'DT', 'NN', 'NNS', 'IN', 'NNP', 'CC', 'IN', 'NNP', '.', '``', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'NN', ',', 'NN', 'DT', 'NN', 'NN', 'NN', 'JJ', '.', '\'\'', '``', 'DT', 'NN', 'IN', 'DT', 'NN', 'VBZ', 'RB', 'JJ', ',', 'RB', 'DT', 'JJ', 'NN', 'VBZ', 'JJ', '\'\'']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'André'), (6, 'Clavé'), (12, '('), (13, '1916–1981'), (22, ')'), (24, 'was'), (28, 'a'), (30, 'French'), (37, 'actor'), (42, ','), (44, 'director'), (52, ','), (54, 'theater'), (62, 'director'), (71, 'and'), (75, 'Resistance'), (86, 'fighter'), (93, ','), (95, 'deported'), (104, 'during'), (111, 'the'), (115, 'Second'), (122, 'World'), (128, 'war'), (131, ','), (133, 'in'), (136, 'the'), (140, 'concentration'), (154, 'camps'), (160, 'of'), (163, 'Buchenwald'), (174, 'and'), (178, 'of'), (181, 'Dora'), (185, '.'), (188, '«'), (190, 'Le'), (193, 'témoignage'), (204, 'du'), (207, 'talent'), (214, 'est'), (218, 'bien'), (223, 'sommaire'), (231, ','), (233, 'seul'), (238, 'le'), (241, 'message'), (249, 'humain'), (256, 'est'), (260, 'important'), (269, '.'), (271, '»'), (274, '«'), (276, 'The'), (280, 'expression'), (291, 'of'), (294, 'the'), (298, 'talent'), (305, 'is'), (308, 'too'), (312, 'basic'), (317, ','), (319, 'alone'), (325, 'the'), (329, 'human'), (335, 'message'), (343, 'is'), (346, 'important'), (356, '»')])</spacy_tokens>
+<spacy_chunks>[('André Clavé', 0, 11), ('a French actor', 28, 42), ('director', 44, 52), ('theater director', 54, 70), ('Resistance fighter', 75, 93), ('the Second World war', 111, 131), ('the concentration camps', 136, 159), ('Buchenwald', 163, 173), ('Le témoignage du talent', 190, 213), ('The expression', 276, 290), ('the talent', 294, 304), ('the human message', 325, 342)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NN', ',', 'IN', 'DT', 'NN', 'NNS', 'IN', 'NNP', 'CC', 'IN', 'NNP', '.', 'NNP', 'FW', 'NN', 'FW', 'NN', 'FW', 'FW', 'FW', ',', 'FW', 'FW', 'NN', 'FW', 'FW', 'RB', '.', 'UH', "''", 'DT', 'NN', 'IN', 'DT', 'NN', 'VBZ', 'RB', 'JJ', ',', 'RB', 'DT', 'JJ', 'NN', 'VBZ', 'JJ', 'NN']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

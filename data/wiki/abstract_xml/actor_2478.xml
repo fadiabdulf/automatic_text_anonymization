@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Slim Gaut</title>
+<link/>https://en.wikipedia.org/wiki/Slim_Gaut
+<annotated>0</annotated>
+<originalabstract>Slim Gaut (July 8, 1893 – April 17, 1964) was an American film actor, born in Lewiston, Idaho. He appeared, unusually uncredited, in over 15 films between 1940 and 1956.
+Modern viewers may recognize Gaut as Shemp Howard's first dental patient in the film The Tooth Will Out.
+Gaut died in Los Angeles, California on April 17, 1964.</originalabstract>
+<abstract>Slim_Gaut ( July_8_,_1893 – April_17_,_1964 ) was an_American_film_actor , born in Lewiston , Idaho . He appeared , unusually uncredited , in over_15_films between 1940_and_1956 . Modern_viewers may_recognize Gaut as Shemp_Howard 's_first_dental_patient in the_film The_Tooth_Will_Out . Gaut died in Los_Angeles , California on April_17_,_1964 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Slim'), (5, 'Gaut'), (10, '('), (11, 'July'), (16, '8'), (17, ','), (19, '1893'), (24, '–'), (26, 'April'), (32, '17'), (34, ','), (36, '1964'), (40, ')'), (42, 'was'), (46, 'an'), (49, 'American'), (58, 'film'), (63, 'actor'), (68, ','), (70, 'born'), (75, 'in'), (78, 'Lewiston'), (86, ','), (88, 'Idaho'), (93, '.'), (95, 'He'), (98, 'appeared'), (106, ','), (108, 'unusually'), (118, 'uncredited'), (128, ','), (130, 'in'), (133, 'over'), (138, '15'), (141, 'films'), (147, 'between'), (155, '1940'), (160, 'and'), (164, '1956'), (168, '.'), (170, 'Modern'), (177, 'viewers'), (185, 'may'), (189, 'recognize'), (199, 'Gaut'), (204, 'as'), (207, 'Shemp'), (213, 'Howard'), (219, '\'s'), (222, 'first'), (228, 'dental'), (235, 'patient'), (243, 'in'), (246, 'the'), (250, 'film'), (255, 'The'), (259, 'Tooth'), (265, 'Will'), (270, 'Out'), (273, '.'), (275, 'Gaut'), (280, 'died'), (285, 'in'), (288, 'Los'), (292, 'Angeles'), (299, ','), (301, 'California'), (312, 'on'), (315, 'April'), (321, '17'), (323, ','), (325, '1964'), (329, '.')])</stanford_tokens>
+<opennlp_chunks>[('Slim Gaut',0, 9), ('July 8, 1893',11, 23), ('April 17, 1964',26, 40), ('an American film actor',46, 68), ('over 15 films',133, 146), ('1940 and 1956',155, 168), ('Modern viewers',170, 184), ('may recognize',185, 198), ('Shemp Howard',207, 219), ('\'s first dental patient',219, 242), ('the film',246, 254), ('The Tooth Will Out',255, 273), ('Los Angeles',288, 299), ('April 17, 1964',315, 329)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', ',', 'RB', 'JJ', ',', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'NNS', 'MD', 'VB', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NN', 'DT', 'NNP', 'NNP', 'IN', '.', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Slim'), (5, 'Gaut'), (10, '('), (11, 'July'), (16, '8'), (17, ','), (19, '1893'), (24, '–'), (26, 'April'), (32, '17'), (34, ','), (36, '1964'), (40, ')'), (42, 'was'), (46, 'an'), (49, 'American'), (58, 'film'), (63, 'actor'), (68, ','), (70, 'born'), (75, 'in'), (78, 'Lewiston'), (86, ','), (88, 'Idaho'), (93, '.'), (95, 'He'), (98, 'appeared'), (106, ','), (108, 'unusually'), (118, 'uncredited'), (128, ','), (130, 'in'), (133, 'over'), (138, '15'), (141, 'films'), (147, 'between'), (155, '1940'), (160, 'and'), (164, '1956'), (168, '.'), (170, 'Modern'), (177, 'viewers'), (185, 'may'), (189, 'recognize'), (199, 'Gaut'), (204, 'as'), (207, 'Shemp'), (213, 'Howard'), (219, "'s"), (222, 'first'), (228, 'dental'), (235, 'patient'), (243, 'in'), (246, 'the'), (250, 'film'), (255, 'The'), (259, 'Tooth'), (265, 'Will'), (270, 'Out'), (273, '.'), (275, 'Gaut'), (280, 'died'), (285, 'in'), (288, 'Los'), (292, 'Angeles'), (299, ','), (301, 'California'), (312, 'on'), (315, 'April'), (321, '17'), (323, ','), (325, '1964'), (329, '.')])</spacy_tokens>
+<spacy_chunks>[('Slim Gaut', 0, 9), ('July 8, 1893', 11, 23), ('April 17, 1964', 26, 40), ('an American film actor', 46, 68), ('Lewiston, Idaho', 78, 93), ('over 15 films', 133, 146), ('Modern viewers', 170, 184), ("Shemp Howard's first dental patient", 207, 242), ('the film', 246, 254), ('The Tooth Will Out', 255, 273), ('Los Angeles, California', 288, 311), ('April 17, 1964', 315, 329)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', ',', 'RB', 'JJ', ',', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'JJ', 'NNS', 'MD', 'VB', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NN', 'DT', 'NNP', 'MD', 'RB', '.', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mia Sara</title>
+<link/>https://en.wikipedia.org/wiki/Mia_Sara
+<annotated>0</annotated>
+<originalabstract>Mia Sarapochiello (born June 19, 1967) better known as Mia Sara, is a retired American actress. She is best known for her role as Sloane Peterson in the 1986 comedy film Ferris Bueller's Day Off, and other films such as Legend (1985) and Timecop (1994).</originalabstract>
+<abstract>Mia_Sarapochiello ( born June_19_,_1967 ) better_known as Mia_Sara , is a_retired_American_actress . She is_best_known for her_role as Sloane_Peterson in the_1986_comedy_film_Ferris_Bueller 's_Day Off , and other_films such_as Legend_(_1985_) and Timecop_(_1994_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mia'), (4, 'Sarapochiello'), (18, '('), (19, 'born'), (24, 'June'), (29, '19'), (31, ','), (33, '1967'), (37, ')'), (39, 'better'), (46, 'known'), (52, 'as'), (55, 'Mia'), (59, 'Sara'), (63, ','), (65, 'is'), (68, 'a'), (70, 'retired'), (78, 'American'), (87, 'actress'), (94, '.'), (96, 'She'), (100, 'is'), (103, 'best'), (108, 'known'), (114, 'for'), (118, 'her'), (122, 'role'), (127, 'as'), (130, 'Sloane'), (137, 'Peterson'), (146, 'in'), (149, 'the'), (153, '1986'), (158, 'comedy'), (165, 'film'), (170, 'Ferris'), (177, 'Bueller'), (184, '\'s'), (187, 'Day'), (191, 'Off'), (194, ','), (196, 'and'), (200, 'other'), (206, 'films'), (212, 'such'), (217, 'as'), (220, 'Legend'), (227, '('), (228, '1985'), (232, ')'), (234, 'and'), (238, 'Timecop'), (246, '('), (247, '1994'), (251, ')'), (252, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mia Sarapochiello',0, 17), ('June 19, 1967',24, 37), ('better known',39, 51), ('Mia Sara',55, 63), ('a retired American actress',68, 94), ('is best known',100, 113), ('her role',118, 126), ('Sloane Peterson',130, 145), ('the 1986 comedy film Ferris Bueller',149, 184), ('\'s Day',184, 190), ('other films',200, 211), ('such as',212, 219), ('Legend (1985)',220, 233), ('Timecop (1994)',238, 252)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', 'NNP', 'POS', 'NN', 'IN', ',', 'CC', 'JJ', 'NNS', 'JJ', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mia'), (4, 'Sarapochiello'), (18, '('), (19, 'born'), (24, 'June'), (29, '19'), (31, ','), (33, '1967'), (37, ')'), (39, 'better'), (46, 'known'), (52, 'as'), (55, 'Mia'), (59, 'Sara'), (63, ','), (65, 'is'), (68, 'a'), (70, 'retired'), (78, 'American'), (87, 'actress'), (94, '.'), (96, 'She'), (100, 'is'), (103, 'best'), (108, 'known'), (114, 'for'), (118, 'her'), (122, 'role'), (127, 'as'), (130, 'Sloane'), (137, 'Peterson'), (146, 'in'), (149, 'the'), (153, '1986'), (158, 'comedy'), (165, 'film'), (170, 'Ferris'), (177, 'Bueller'), (184, "'s"), (187, 'Day'), (191, 'Off'), (194, ','), (196, 'and'), (200, 'other'), (206, 'films'), (212, 'such'), (217, 'as'), (220, 'Legend'), (227, '('), (228, '1985'), (232, ')'), (234, 'and'), (238, 'Timecop'), (246, '('), (247, '1994'), (251, ')'), (252, '.')])</spacy_tokens>
+<spacy_chunks>[('Mia Sarapochiello', 0, 17), ('June 19, 1967', 24, 37), ('a retired American actress', 68, 94), ('her role', 118, 126), ('Sloane Peterson', 130, 145), ('the 1986 comedy film', 149, 169), ("Ferris Bueller's Day Off", 170, 194), ('other films', 200, 211), ('Legend (1985', 220, 232), ('Timecop', 238, 245)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'RBR', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'VBN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', ',', 'CC', 'JJ', 'NNS', 'JJ', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

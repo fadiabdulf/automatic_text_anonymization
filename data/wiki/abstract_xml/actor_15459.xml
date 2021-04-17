@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leigh Taylor-Young</title>
+<link/>https://en.wikipedia.org/wiki/Leigh_Taylor-Young
+<annotated>0</annotated>
+<originalabstract>Leigh Taylor-Young (born January 25, 1945) is an American actress who has appeared on stage, screen, podcast, radio and television.</originalabstract>
+<abstract>Leigh_Taylor-Young ( born January_25_,_1945 ) is an_American_actress who has_appeared on stage_,_screen_,_podcast_,_radio_and_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leigh'), (6, 'Taylor-Young'), (19, '('), (20, 'born'), (25, 'January'), (33, '25'), (35, ','), (37, '1945'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (66, 'who'), (70, 'has'), (74, 'appeared'), (83, 'on'), (86, 'stage'), (91, ','), (93, 'screen'), (99, ','), (101, 'podcast'), (108, ','), (110, 'radio'), (116, 'and'), (120, 'television'), (130, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leigh Taylor-Young',0, 18), ('January 25, 1945',25, 41), ('an American actress',46, 65), ('has appeared',70, 82), ('stage, screen, podcast, radio and television',86, 130)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leigh'), (6, 'Taylor'), (12, '-'), (13, 'Young'), (19, '('), (20, 'born'), (25, 'January'), (33, '25'), (35, ','), (37, '1945'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (66, 'who'), (70, 'has'), (74, 'appeared'), (83, 'on'), (86, 'stage'), (91, ','), (93, 'screen'), (99, ','), (101, 'podcast'), (108, ','), (110, 'radio'), (116, 'and'), (120, 'television'), (130, '.')])</spacy_tokens>
+<spacy_chunks>[('Leigh Taylor-Young', 0, 18), ('January 25, 1945', 25, 41), ('an American actress', 46, 65), ('screen', 93, 99), ('podcast', 101, 108), ('Television', 120, 130)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

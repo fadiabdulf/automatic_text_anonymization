@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jason London</title>
+<link/>https://en.wikipedia.org/wiki/Jason_London
+<annotated>0</annotated>
+<originalabstract>Jason Paul London (born November 7, 1972) is an American actor, best known for his role as Randall "Pink" Floyd in director Richard Linklater's film Dazed and Confused (1993).</originalabstract>
+<abstract>Jason_Paul_London ( born November_7_,_1972 ) is an_American_actor , best_known for his_role as Randall_"_Pink_"_Floyd in director_Richard_Linklater 's_film_Dazed_and_Confused ( 1993 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jason'), (6, 'Paul'), (11, 'London'), (18, '('), (19, 'born'), (24, 'November'), (33, '7'), (34, ','), (36, '1972'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (62, ','), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'his'), (83, 'role'), (88, 'as'), (91, 'Randall'), (99, '"'), (100, 'Pink'), (104, '"'), (106, 'Floyd'), (112, 'in'), (115, 'director'), (124, 'Richard'), (132, 'Linklater'), (141, '\'s'), (144, 'film'), (149, 'Dazed'), (155, 'and'), (159, 'Confused'), (168, '('), (169, '1993'), (173, ')'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jason Paul London',0, 17), ('November 7, 1972',24, 40), ('an American actor',45, 62), ('best known',64, 74), ('his role',79, 87), ('Randall "Pink" Floyd',91, 111), ('director Richard Linklater',115, 141), ('\'s film Dazed and Confused',141, 167)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'NN', 'NNP', 'NNP', 'POS', 'NN', 'JJ', 'CC', 'JJ', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jason'), (6, 'Paul'), (11, 'London'), (18, '('), (19, 'born'), (24, 'November'), (33, '7'), (34, ','), (36, '1972'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (62, ','), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'his'), (83, 'role'), (88, 'as'), (91, 'Randall'), (99, '"'), (100, 'Pink'), (104, '"'), (106, 'Floyd'), (112, 'in'), (115, 'director'), (124, 'Richard'), (132, 'Linklater'), (141, "'s"), (144, 'film'), (149, 'Dazed'), (155, 'and'), (159, 'Confused'), (168, '('), (169, '1993'), (173, ')'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[('Jason Paul London', 0, 17), ('November 7, 1972', 24, 40), ('an American actor', 45, 62), ('his role', 79, 87), ('Randall "Pink" Floyd', 91, 111), ("director Richard Linklater's film", 115, 148), ('Dazed and Confused', 149, 167)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'NN', 'NNP', 'NNP', 'POS', 'NN', 'JJ', 'CC', 'JJ', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

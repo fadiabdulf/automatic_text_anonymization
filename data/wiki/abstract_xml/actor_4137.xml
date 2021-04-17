@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ned Luke</title>
+<link/>https://en.wikipedia.org/wiki/Ned_Luke
+<annotated>0</annotated>
+<originalabstract>Ned Luke is an American actor. He is known for voicing and acting as Michael De Santa in the 2013 video game Grand Theft Auto V and Raffles in the animated movie Rover Dangerfield. He has appeared in 29 movies and television shows to date.</originalabstract>
+<abstract>Ned_Luke is an_American_actor . He is_known for voicing_and_acting as Michael_De_Santa in the_2013_video_game_Grand_Theft_Auto_V and Raffles in the_animated_movie_Rover_Dangerfield . He has_appeared in 29_movies_and_television_shows to date .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ned'), (4, 'Luke'), (9, 'is'), (12, 'an'), (15, 'American'), (24, 'actor'), (29, '.'), (31, 'He'), (34, 'is'), (37, 'known'), (43, 'for'), (47, 'voicing'), (55, 'and'), (59, 'acting'), (66, 'as'), (69, 'Michael'), (77, 'De'), (80, 'Santa'), (86, 'in'), (89, 'the'), (93, '2013'), (98, 'video'), (104, 'game'), (109, 'Grand'), (115, 'Theft'), (121, 'Auto'), (126, 'V'), (128, 'and'), (132, 'Raffles'), (140, 'in'), (143, 'the'), (147, 'animated'), (156, 'movie'), (162, 'Rover'), (168, 'Dangerfield'), (179, '.'), (181, 'He'), (184, 'has'), (188, 'appeared'), (197, 'in'), (200, '29'), (203, 'movies'), (210, 'and'), (214, 'television'), (225, 'shows'), (231, 'to'), (234, 'date'), (238, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ned Luke',0, 8), ('an American actor',12, 29), ('is known',34, 42), ('voicing and acting',47, 65), ('Michael De Santa',69, 85), ('the 2013 video game Grand Theft Auto V',89, 127), ('the animated movie Rover Dangerfield',143, 179), ('has appeared',184, 196), ('29 movies and television shows',200, 230)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'CC', 'VBG', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', 'NN', 'NN', 'NN', 'CC', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'TO', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ned'), (4, 'Luke'), (9, 'is'), (12, 'an'), (15, 'American'), (24, 'actor'), (29, '.'), (31, 'He'), (34, 'is'), (37, 'known'), (43, 'for'), (47, 'voicing'), (55, 'and'), (59, 'acting'), (66, 'as'), (69, 'Michael'), (77, 'De'), (80, 'Santa'), (86, 'in'), (89, 'the'), (93, '2013'), (98, 'video'), (104, 'game'), (109, 'Grand'), (115, 'Theft'), (121, 'Auto'), (126, 'V'), (128, 'and'), (132, 'Raffles'), (140, 'in'), (143, 'the'), (147, 'animated'), (156, 'movie'), (162, 'Rover'), (168, 'Dangerfield'), (179, '.'), (181, 'He'), (184, 'has'), (188, 'appeared'), (197, 'in'), (200, '29'), (203, 'movies'), (210, 'and'), (214, 'television'), (225, 'shows'), (231, 'to'), (234, 'date'), (238, '.')])</spacy_tokens>
+<spacy_chunks>[('Ned Luke', 0, 8), ('an American actor', 12, 29), ('Michael De Santa', 69, 85), ('the 2013 video game', 89, 108), ('Grand Theft Auto V', 109, 127), ('Raffles', 132, 139), ('the animated movie', 143, 161), ('Rover Dangerfield', 162, 179), ('29 movies', 200, 209), ('television shows', 214, 230)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'CC', 'VBG', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'CC', 'NNS', 'IN', 'DT', 'VBN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

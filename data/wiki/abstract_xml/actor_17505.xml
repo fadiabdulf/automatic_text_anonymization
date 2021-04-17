@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ann Beach</title>
+<link/>https://en.wikipedia.org/wiki/Ann_Beach
+<annotated>0</annotated>
+<originalabstract>Ann Beach (7 June 1938 – 9 March 2017) was a British actress. She is perhaps best remembered for her supporting role as Sonia Barrett, the quirky next-door neighbour on the British comedy Fresh Fields, starring Julia McKenzie and Anton Rodgers.</originalabstract>
+<abstract>Ann_Beach ( 7_June_1938 – 9_March_2017 ) was a_British_actress . She is_perhaps_best_remembered for her_supporting_role as Sonia_Barrett , the_quirky_next-door_neighbour on the_British_comedy_Fresh_Fields , starring Julia_McKenzie and Anton_Rodgers .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ann'), (4, 'Beach'), (10, '('), (11, '7'), (13, 'June'), (18, '1938'), (23, '–'), (25, '9'), (27, 'March'), (33, '2017'), (37, ')'), (39, 'was'), (43, 'a'), (45, 'British'), (53, 'actress'), (60, '.'), (62, 'She'), (66, 'is'), (69, 'perhaps'), (77, 'best'), (82, 'remembered'), (93, 'for'), (97, 'her'), (101, 'supporting'), (112, 'role'), (117, 'as'), (120, 'Sonia'), (126, 'Barrett'), (133, ','), (135, 'the'), (139, 'quirky'), (146, 'next-door'), (156, 'neighbour'), (166, 'on'), (169, 'the'), (173, 'British'), (181, 'comedy'), (188, 'Fresh'), (194, 'Fields'), (200, ','), (202, 'starring'), (211, 'Julia'), (217, 'McKenzie'), (226, 'and'), (230, 'Anton'), (236, 'Rodgers'), (243, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ann Beach',0, 9), ('7 June 1938',11, 22), ('9 March 2017',25, 37), ('a British actress',43, 60), ('is perhaps best remembered',66, 92), ('her supporting role',97, 116), ('Sonia Barrett',120, 133), ('the quirky next-door neighbour',135, 165), ('the British comedy Fresh Fields',169, 200), ('Julia McKenzie',211, 225), ('Anton Rodgers',230, 243)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', ',', 'VBG', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ann'), (4, 'Beach'), (10, '('), (11, '7'), (13, 'June'), (18, '1938'), (23, '–'), (25, '9'), (27, 'March'), (33, '2017'), (37, ')'), (39, 'was'), (43, 'a'), (45, 'British'), (53, 'actress'), (60, '.'), (62, 'She'), (66, 'is'), (69, 'perhaps'), (77, 'best'), (82, 'remembered'), (93, 'for'), (97, 'her'), (101, 'supporting'), (112, 'role'), (117, 'as'), (120, 'Sonia'), (126, 'Barrett'), (133, ','), (135, 'the'), (139, 'quirky'), (146, 'next'), (150, '-'), (151, 'door'), (156, 'neighbour'), (166, 'on'), (169, 'the'), (173, 'British'), (181, 'comedy'), (188, 'Fresh'), (194, 'Fields'), (200, ','), (202, 'starring'), (211, 'Julia'), (217, 'McKenzie'), (226, 'and'), (230, 'Anton'), (236, 'Rodgers'), (243, '.')])</spacy_tokens>
+<spacy_chunks>[('Ann Beach', 0, 9), ('7 June 1938', 11, 22), ('9 March 2017', 25, 37), ('a British actress', 43, 60), ('her supporting role', 97, 116), ('Sonia Barrett', 120, 133), ('the quirky next-door neighbour', 135, 165), ('On the', 166, 172), ('the British comedy Fresh Fields', 169, 200), ('Julia McKenzie', 211, 225), ('Anton Rodgers', 230, 243)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'JJ', 'HYPH', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNPS', ',', 'VBG', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

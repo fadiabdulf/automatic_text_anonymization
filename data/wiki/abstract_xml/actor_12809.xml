@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harriet Hoctor</title>
+<link/>https://en.wikipedia.org/wiki/Harriet_Hoctor
+<annotated>0</annotated>
+<originalabstract>Harriet Hoctor (September 25, 1905 – June 9, 1977) was a ballerina, dancer, actress and instructor. Composer George Gershwin composed a symphonic orchestral piece (Hoctor's Ballet) specifically for Hoctor in the film Shall We Dance (1937).</originalabstract>
+<abstract>Harriet_Hoctor ( September_25_,_1905 – June_9_,_1977 ) was a_ballerina , dancer , actress_and_instructor . Composer_George_Gershwin composed a_symphonic_orchestral_piece ( Hoctor 's_Ballet_) specifically for Hoctor in the_film Shall_We Dance ( 1937_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harriet'), (8, 'Hoctor'), (15, '('), (16, 'September'), (26, '25'), (28, ','), (30, '1905'), (35, '–'), (37, 'June'), (42, '9'), (43, ','), (45, '1977'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'ballerina'), (66, ','), (68, 'dancer'), (74, ','), (76, 'actress'), (84, 'and'), (88, 'instructor'), (98, '.'), (100, 'Composer'), (109, 'George'), (116, 'Gershwin'), (125, 'composed'), (134, 'a'), (136, 'symphonic'), (146, 'orchestral'), (157, 'piece'), (163, '('), (164, 'Hoctor'), (170, '\'s'), (173, 'Ballet'), (179, ')'), (181, 'specifically'), (194, 'for'), (198, 'Hoctor'), (205, 'in'), (208, 'the'), (212, 'film'), (217, 'Shall'), (223, 'We'), (226, 'Dance'), (232, '('), (233, '1937'), (237, ')'), (238, '.')])</stanford_tokens>
+<opennlp_chunks>[('Harriet Hoctor',0, 14), ('September 25, 1905',16, 34), ('June 9, 1977',37, 49), ('a ballerina',55, 66), ('actress and instructor',76, 98), ('Composer George Gershwin',100, 124), ('a symphonic orchestral piece',134, 162), ('\'s Ballet)',170, 180), ('the film',208, 216), ('Shall We',217, 225), ('1937)',233, 238)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NN', 'NNP', 'NNP', 'VBN', 'DT', 'JJ', 'JJ', 'NN', '-LRB-', 'NNP', 'POS', 'NNP', '-RRB-', 'RB', 'IN', 'NNP', 'IN', 'DT', 'NN', 'MD', 'PRP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harriet'), (8, 'Hoctor'), (15, '('), (16, 'September'), (26, '25'), (28, ','), (30, '1905'), (35, '–'), (37, 'June'), (42, '9'), (43, ','), (45, '1977'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'ballerina'), (66, ','), (68, 'dancer'), (74, ','), (76, 'actress'), (84, 'and'), (88, 'instructor'), (98, '.'), (100, 'Composer'), (109, 'George'), (116, 'Gershwin'), (125, 'composed'), (134, 'a'), (136, 'symphonic'), (146, 'orchestral'), (157, 'piece'), (163, '('), (164, 'Hoctor'), (170, "'s"), (173, 'Ballet'), (179, ')'), (181, 'specifically'), (194, 'for'), (198, 'Hoctor'), (205, 'in'), (208, 'the'), (212, 'film'), (217, 'Shall'), (223, 'We'), (226, 'Dance'), (232, '('), (233, '1937'), (237, ')'), (238, '.')])</spacy_tokens>
+<spacy_chunks>[('Harriet Hoctor', 0, 14), ('(September', 15, 25), ('September 25, 1905', 16, 34), ('June 9, 1977', 37, 49), ('a ballerina', 55, 66), ('dancer', 68, 74), ('actress', 76, 83), ('instructor', 88, 98), ('Composer George Gershwin', 100, 124), ('a symphonic orchestral piece', 134, 162), ("Hoctor's Ballet", 164, 179), ('the film', 208, 216), ('Shall We Dance (1937', 217, 237)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NN', 'NNP', 'NNP', 'VBD', 'DT', 'NN', 'JJ', 'NN', '-LRB-', 'NNP', 'POS', 'NNP', '-RRB-', 'RB', 'IN', 'NNP', 'IN', 'DT', 'NN', 'MD', 'PRP', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

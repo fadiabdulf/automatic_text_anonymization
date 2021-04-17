@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Georges Lannes</title>
+<link/>https://en.wikipedia.org/wiki/Georges_Lannes
+<annotated>0</annotated>
+<originalabstract>Georges Lannes (27 October 1895 – 8 July 1983) was a French film actor who appeared in more than a hundred films during his career including André Cornélis (1927).</originalabstract>
+<abstract>Georges_Lannes ( 27_October_1895 – 8_July_1983 ) was a_French_film_actor who appeared in more than a_hundred_films during his_career including André_Cornélis ( 1927 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Georges'), (8, 'Lannes'), (15, '('), (16, '27'), (19, 'October'), (27, '1895'), (32, '–'), (34, '8'), (36, 'July'), (41, '1983'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'French'), (60, 'film'), (65, 'actor'), (71, 'who'), (75, 'appeared'), (84, 'in'), (87, 'more'), (92, 'than'), (97, 'a'), (99, 'hundred'), (107, 'films'), (113, 'during'), (120, 'his'), (124, 'career'), (131, 'including'), (141, 'André'), (147, 'Cornélis'), (156, '('), (157, '1927'), (161, ')'), (162, '.')])</stanford_tokens>
+<opennlp_chunks>[('Georges Lannes',0, 14), ('27 October 1895',16, 31), ('8 July 1983',34, 45), ('a French film actor',51, 70), ('a hundred films',97, 112), ('his career',120, 130), ('André Cornélis',141, 155)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'DT', 'CD', 'NNS', 'IN', 'PRP$', 'NN', 'VBG', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Georges'), (8, 'Lannes'), (15, '('), (16, '27'), (19, 'October'), (27, '1895'), (32, '–'), (34, '8'), (36, 'July'), (41, '1983'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'French'), (60, 'film'), (65, 'actor'), (71, 'who'), (75, 'appeared'), (84, 'in'), (87, 'more'), (92, 'than'), (97, 'a'), (99, 'hundred'), (107, 'films'), (113, 'during'), (120, 'his'), (124, 'career'), (131, 'including'), (141, 'André'), (147, 'Cornélis'), (156, '('), (157, '1927'), (161, ')'), (162, '.')])</spacy_tokens>
+<spacy_chunks>[('Georges Lannes', 0, 14), ('27 October 1895', 16, 31), ('8 July 1983', 34, 45), ('a French film actor', 51, 70), ('more than a hundred films', 87, 112), ('his career', 120, 130), ('André Cornélis (1927', 141, 161)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'DT', 'CD', 'NNS', 'IN', 'PRP$', 'NN', 'VBG', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

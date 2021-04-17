@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brianna Brown</title>
+<link/>https://en.wikipedia.org/wiki/Brianna_Brown
+<annotated>0</annotated>
+<originalabstract>Brianna Lynn Brown (born October 2, 1979) is an American actress and producer. She is known for her television roles as Lisa Niles in the ABC soap opera General Hospital, and as Taylor Stappord in the Lifetime series Devious Maids.</originalabstract>
+<abstract>Brianna_Lynn_Brown ( born October_2_,_1979 ) is an_American_actress_and_producer . She is_known for her_television_roles as Lisa_Niles in the_ABC_soap_opera_General_Hospital , and as Taylor_Stappord in the_Lifetime_series_Devious_Maids .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brianna'), (8, 'Lynn'), (13, 'Brown'), (19, '('), (20, 'born'), (25, 'October'), (33, '2'), (34, ','), (36, '1979'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'producer'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'television'), (111, 'roles'), (117, 'as'), (120, 'Lisa'), (125, 'Niles'), (131, 'in'), (134, 'the'), (138, 'ABC'), (142, 'soap'), (147, 'opera'), (153, 'General'), (161, 'Hospital'), (169, ','), (171, 'and'), (175, 'as'), (178, 'Taylor'), (185, 'Stappord'), (194, 'in'), (197, 'the'), (201, 'Lifetime'), (210, 'series'), (217, 'Devious'), (225, 'Maids'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brianna Lynn Brown',0, 18), ('October 2, 1979',25, 40), ('an American actress and producer',45, 77), ('is known',83, 91), ('her television roles',96, 116), ('Lisa Niles',120, 130), ('the ABC soap opera General Hospital',134, 169), ('Taylor Stappord',178, 193), ('the Lifetime series Devious Maids',197, 230)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brianna'), (8, 'Lynn'), (13, 'Brown'), (19, '('), (20, 'born'), (25, 'October'), (33, '2'), (34, ','), (36, '1979'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'producer'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'television'), (111, 'roles'), (117, 'as'), (120, 'Lisa'), (125, 'Niles'), (131, 'in'), (134, 'the'), (138, 'ABC'), (142, 'soap'), (147, 'opera'), (153, 'General'), (161, 'Hospital'), (169, ','), (171, 'and'), (175, 'as'), (178, 'Taylor'), (185, 'Stappord'), (194, 'in'), (197, 'the'), (201, 'Lifetime'), (210, 'series'), (217, 'Devious'), (225, 'Maids'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[('Brianna Lynn Brown', 0, 18), ('October 2, 1979', 25, 40), ('an American actress', 45, 64), ('producer', 69, 77), ('her television roles', 96, 116), ('Lisa Niles', 120, 130), ('the ABC soap opera General Hospital', 134, 169), ('Taylor Stappord', 178, 193), ('the Lifetime series', 197, 216), ('Devious Maids', 217, 230)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

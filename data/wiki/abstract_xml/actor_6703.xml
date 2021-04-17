@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phillip Trent</title>
+<link/>https://en.wikipedia.org/wiki/Phillip_Trent
+<annotated>0</annotated>
+<originalabstract>Phillip Trent  (Oct 16, 1907, Wilkes-Barre, Pennsylvania–Jan 24, 2001, Englewood, New Jersey) was an American stage and film actor. He began his career on Broadway and starred in nine stage productions. He appeared in numerous films during the 1930s and 1940s. He also appeared as Clifford Jones.</originalabstract>
+<abstract>Phillip_Trent ( Oct_16_,_1907 , Wilkes-Barre , Pennsylvania – Jan_24_,_2001 , Englewood , New_Jersey ) was an_American_stage_and_film_actor . He began his_career on Broadway and starred in nine_stage_productions . He appeared in numerous_films during the_1930s_and_1940s . He also appeared as Clifford_Jones .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phillip'), (8, 'Trent'), (15, '('), (16, 'Oct'), (20, '16'), (22, ','), (24, '1907'), (28, ','), (30, 'Wilkes-Barre'), (42, ','), (44, 'Pennsylvania'), (56, '–'), (57, 'Jan'), (61, '24'), (63, ','), (65, '2001'), (69, ','), (71, 'Englewood'), (80, ','), (82, 'New'), (86, 'Jersey'), (92, ')'), (94, 'was'), (98, 'an'), (101, 'American'), (110, 'stage'), (116, 'and'), (120, 'film'), (125, 'actor'), (130, '.'), (132, 'He'), (135, 'began'), (141, 'his'), (145, 'career'), (152, 'on'), (155, 'Broadway'), (164, 'and'), (168, 'starred'), (176, 'in'), (179, 'nine'), (184, 'stage'), (190, 'productions'), (201, '.'), (203, 'He'), (206, 'appeared'), (215, 'in'), (218, 'numerous'), (227, 'films'), (233, 'during'), (240, 'the'), (244, '1930s'), (250, 'and'), (254, '1940s'), (259, '.'), (261, 'He'), (264, 'also'), (269, 'appeared'), (278, 'as'), (281, 'Clifford'), (290, 'Jones'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phillip Trent',0, 13), ('Oct 16, 1907',16, 28), ('Jan 24, 2001',57, 69), ('New Jersey',82, 92), ('an American stage and film actor',98, 130), ('his career',141, 151), ('nine stage productions',179, 201), ('numerous films',218, 232), ('the 1930s and 1940s',240, 259), ('Clifford Jones',281, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'CD', 'NN', 'NNS', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phillip'), (8, 'Trent'), (15, '('), (16, 'Oct'), (20, '16'), (22, ','), (24, '1907'), (28, ','), (30, 'Wilkes'), (36, '-'), (37, 'Barre'), (42, ','), (44, 'Pennsylvania'), (56, '–'), (57, 'Jan'), (61, '24'), (63, ','), (65, '2001'), (69, ','), (71, 'Englewood'), (80, ','), (82, 'New'), (86, 'Jersey'), (92, ')'), (94, 'was'), (98, 'an'), (101, 'American'), (110, 'stage'), (116, 'and'), (120, 'film'), (125, 'actor'), (130, '.'), (132, 'He'), (135, 'began'), (141, 'his'), (145, 'career'), (152, 'on'), (155, 'Broadway'), (164, 'and'), (168, 'starred'), (176, 'in'), (179, 'nine'), (184, 'stage'), (190, 'productions'), (201, '.'), (203, 'He'), (206, 'appeared'), (215, 'in'), (218, 'numerous'), (227, 'films'), (233, 'during'), (240, 'the'), (244, '1930s'), (250, 'and'), (254, '1940s'), (259, '.'), (261, 'He'), (264, 'also'), (269, 'appeared'), (278, 'as'), (281, 'Clifford'), (290, 'Jones'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Phillip Trent', 0, 13), ('Wilkes-Barre', 30, 42), ('New Jersey', 82, 92), ('an American stage', 98, 115), ('film actor', 120, 130), ('his career', 141, 151), ('Broadway', 155, 163), ('nine stage productions', 179, 201), ('numerous films', 218, 232), ('the 1930s', 240, 249), ('Clifford Jones', 281, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'HYPH', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'NNP', 'CC', 'VBN', 'IN', 'CD', 'NN', 'NNS', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

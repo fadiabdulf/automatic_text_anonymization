@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gary Vinson</title>
+<link/>https://en.wikipedia.org/wiki/Gary_Vinson
+<annotated>0</annotated>
+<originalabstract>Gary Vinson (October 22, 1936 – October 15, 1984) was an American actor who appeared in significant roles in three television series of the 1960s: The Roaring 20s, McHale's Navy, and Pistols 'n' Petticoats.</originalabstract>
+<abstract>Gary_Vinson ( October_22_,_1936 – October_15_,_1984 ) was an_American_actor who appeared in significant_roles in three_television_series of the_1960s : The_Roaring_20s , McHale 's_Navy , and Pistols_'n'_Petticoats .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gary'), (5, 'Vinson'), (12, '('), (13, 'October'), (21, '22'), (23, ','), (25, '1936'), (30, '–'), (32, 'October'), (40, '15'), (42, ','), (44, '1984'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'actor'), (72, 'who'), (76, 'appeared'), (85, 'in'), (88, 'significant'), (100, 'roles'), (106, 'in'), (109, 'three'), (115, 'television'), (126, 'series'), (133, 'of'), (136, 'the'), (140, '1960s'), (145, ':'), (147, 'The'), (151, 'Roaring'), (159, '20s'), (162, ','), (164, 'McHale'), (170, '\'s'), (173, 'Navy'), (177, ','), (179, 'and'), (183, 'Pistols'), (191, '\'n\''), (195, 'Petticoats'), (205, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gary Vinson',0, 11), ('October 22, 1936',13, 29), ('October 15, 1984',32, 48), ('an American actor',54, 71), ('significant roles',88, 105), ('three television series',109, 132), ('the 1960s',136, 145), ('The Roaring 20s',147, 162), ('\'s Navy',170, 177), ('Pistols \'n\' Petticoats',183, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'CD', 'NN', 'NN', 'IN', 'DT', 'NNS', ':', 'DT', 'NNP', 'CD', ',', 'NNP', 'POS', 'NNP', ',', 'CC', 'NNP', 'CC', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gary'), (5, 'Vinson'), (12, '('), (13, 'October'), (21, '22'), (23, ','), (25, '1936'), (30, '–'), (32, 'October'), (40, '15'), (42, ','), (44, '1984'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'actor'), (72, 'who'), (76, 'appeared'), (85, 'in'), (88, 'significant'), (100, 'roles'), (106, 'in'), (109, 'three'), (115, 'television'), (126, 'series'), (133, 'of'), (136, 'the'), (140, '1960s'), (145, ':'), (147, 'The'), (151, 'Roaring'), (159, '20s'), (162, ','), (164, 'McHale'), (170, "'s"), (173, 'Navy'), (177, ','), (179, 'and'), (183, 'Pistols'), (191, "'"), (192, 'n'), (193, "'"), (195, 'Petticoats'), (205, '.')])</spacy_tokens>
+<spacy_chunks>[('Gary Vinson', 0, 11), ('(October', 12, 20), ('October 22, 1936', 13, 29), ('October 15, 1984', 32, 48), ('an American actor', 54, 71), ('significant roles', 88, 105), ('three television series', 109, 132), ('the 1960s', 136, 145), ('The Roaring 20s', 147, 162), ("McHale's Navy", 164, 177), ("Pistols 'n' Petticoats", 183, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNPS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'CD', 'NN', 'NN', 'IN', 'DT', 'NNS', ':', 'DT', 'NNP', 'NNS', ',', 'NNP', 'POS', 'NNP', ',', 'CC', 'NNP', 'POS', 'CC', "''", 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Max Dearly</title>
+<link/>https://en.wikipedia.org/wiki/Max_Dearly
+<annotated>0</annotated>
+<originalabstract>Max Dearly (22 November 1874 - 2 June 1943) was a French stage and film actor.Dearly was born Lucien Paul Marie-Joseph Rolland in Paris, and died in Neuilly-sur-Seine 1943.</originalabstract>
+<abstract>Max_Dearly ( 22_November 1874 - 2 June_1943 ) was a_French_stage_and_film_actor.Dearly was_born Lucien_Paul_Marie-Joseph_Rolland in Paris , and died in Neuilly-sur-Seine_1943 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Max'), (4, 'Dearly'), (11, '('), (12, '22'), (15, 'November'), (24, '1874'), (29, '-'), (31, '2'), (33, 'June'), (38, '1943'), (42, ')'), (44, 'was'), (48, 'a'), (50, 'French'), (57, 'stage'), (63, 'and'), (67, 'film'), (72, 'actor.Dearly'), (85, 'was'), (89, 'born'), (94, 'Lucien'), (101, 'Paul'), (106, 'Marie-Joseph'), (119, 'Rolland'), (127, 'in'), (130, 'Paris'), (135, ','), (137, 'and'), (141, 'died'), (146, 'in'), (149, 'Neuilly-sur-Seine'), (167, '1943'), (171, '.')])</stanford_tokens>
+<opennlp_chunks>[('Max Dearly',0, 10), ('22 November',12, 23), ('June 1943',33, 42), ('a French stage and film actor.Dearly',48, 84), ('was born',85, 93), ('Lucien Paul Marie-Joseph Rolland',94, 126), ('Neuilly-sur-Seine 1943',149, 171)]</opennlp_chunks>
+<stanford_pos>['NNP', 'RB', '-LRB-', 'CD', 'NNP', 'SYM', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Max'), (4, 'Dearly'), (11, '('), (12, '22'), (15, 'November'), (24, '1874'), (29, '-'), (31, '2'), (33, 'June'), (38, '1943'), (42, ')'), (44, 'was'), (48, 'a'), (50, 'French'), (57, 'stage'), (63, 'and'), (67, 'film'), (72, 'actor'), (77, '.'), (78, 'Dearly'), (85, 'was'), (89, 'born'), (94, 'Lucien'), (101, 'Paul'), (106, 'Marie'), (111, '-'), (112, 'Joseph'), (119, 'Rolland'), (127, 'in'), (130, 'Paris'), (135, ','), (137, 'and'), (141, 'died'), (146, 'in'), (149, 'Neuilly'), (156, '-'), (157, 'sur'), (160, '-'), (161, 'Seine'), (167, '1943'), (171, '.')])</spacy_tokens>
+<spacy_chunks>[('22 November 1874', 12, 28), ('2 June 1943', 31, 42), ('a French stage', 48, 62), ('film actor', 67, 77), ('Lucien Paul Marie-Joseph Rolland', 94, 126)]</spacy_chunks>
+<spacy_pos>['NNP', 'RB', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'RB', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'HYPH', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'JJ', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

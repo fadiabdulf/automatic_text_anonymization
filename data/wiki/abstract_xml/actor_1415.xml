@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John M. Conroy</title>
+<link/>https://en.wikipedia.org/wiki/John_M._Conroy
+<annotated>0</annotated>
+<originalabstract>John Michael "Jack" Conroy (December 14, 1920 – December 5, 1979) was an American actor, aviator, and later businessman, whose company Aero Spacelines developed the Pregnant Guppy, Super Guppy, and Mini Guppy cargo aircraft. He later founded Conroy Aircraft and Specialized Aircraft in Santa Barbara, California.</originalabstract>
+<abstract>John_Michael_"_Jack_"_Conroy ( December_14_,_1920 – December_5_,_1979 ) was an_American_actor , aviator , and later businessman , whose_company_Aero_Spacelines developed the_Pregnant_Guppy , Super_Guppy , and Mini_Guppy_cargo_aircraft . He later founded Conroy_Aircraft and Specialized_Aircraft in Santa_Barbara , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Michael'), (13, '"'), (14, 'Jack'), (18, '"'), (20, 'Conroy'), (27, '('), (28, 'December'), (37, '14'), (39, ','), (41, '1920'), (46, '–'), (48, 'December'), (57, '5'), (58, ','), (60, '1979'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'actor'), (87, ','), (89, 'aviator'), (96, ','), (98, 'and'), (102, 'later'), (108, 'businessman'), (119, ','), (121, 'whose'), (127, 'company'), (135, 'Aero'), (140, 'Spacelines'), (151, 'developed'), (161, 'the'), (165, 'Pregnant'), (174, 'Guppy'), (179, ','), (181, 'Super'), (187, 'Guppy'), (192, ','), (194, 'and'), (198, 'Mini'), (203, 'Guppy'), (209, 'cargo'), (215, 'aircraft'), (223, '.'), (225, 'He'), (228, 'later'), (234, 'founded'), (242, 'Conroy'), (249, 'Aircraft'), (258, 'and'), (262, 'Specialized'), (274, 'Aircraft'), (283, 'in'), (286, 'Santa'), (292, 'Barbara'), (299, ','), (301, 'California'), (311, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Michael "Jack" Conroy',0, 26), ('December 14, 1920',28, 45), ('December 5, 1979',48, 64), ('an American actor',70, 87), ('whose company Aero Spacelines',121, 150), ('the Pregnant Guppy',161, 179), ('Super Guppy',181, 192), ('Mini Guppy cargo aircraft',198, 223), ('Conroy Aircraft',242, 257), ('Specialized Aircraft',262, 282), ('Santa Barbara',286, 299)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'RB', 'NN', ',', 'WP$', 'NN', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Michael'), (13, '"'), (14, 'Jack'), (18, '"'), (20, 'Conroy'), (27, '('), (28, 'December'), (37, '14'), (39, ','), (41, '1920'), (46, '–'), (48, 'December'), (57, '5'), (58, ','), (60, '1979'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'actor'), (87, ','), (89, 'aviator'), (96, ','), (98, 'and'), (102, 'later'), (108, 'businessman'), (119, ','), (121, 'whose'), (127, 'company'), (135, 'Aero'), (140, 'Spacelines'), (151, 'developed'), (161, 'the'), (165, 'Pregnant'), (174, 'Guppy'), (179, ','), (181, 'Super'), (187, 'Guppy'), (192, ','), (194, 'and'), (198, 'Mini'), (203, 'Guppy'), (209, 'cargo'), (215, 'aircraft'), (223, '.'), (225, 'He'), (228, 'later'), (234, 'founded'), (242, 'Conroy'), (249, 'Aircraft'), (258, 'and'), (262, 'Specialized'), (274, 'Aircraft'), (283, 'in'), (286, 'Santa'), (292, 'Barbara'), (299, ','), (301, 'California'), (311, '.')])</spacy_tokens>
+<spacy_chunks>[('John Michael "Jack" Conroy', 0, 26), ('December 14, 1920', 28, 45), ('December 5, 1979', 48, 64), ('an American actor', 70, 87), ('aviator', 89, 96), ('later businessman', 102, 119), ('whose company Aero Spacelines', 121, 150), ('the Pregnant Guppy', 161, 179), ('Super Guppy', 181, 192), ('Mini Guppy cargo aircraft', 198, 223), ('Conroy Aircraft', 242, 257), ('Specialized Aircraft', 262, 282), ('Santa Barbara', 286, 299), ('California', 301, 311)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'RB', 'NN', ',', 'WP$', 'NN', 'NNP', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Edna Mae Wilson</title>
+<link/>https://en.wikipedia.org/wiki/Edna_Mae_Wilson
+<annotated>0</annotated>
+<originalabstract>Edna Mae Wilson (1880–1960) was an American silent film actress. Signed by the Thanhouser Company based in New Rochelle, New York in 1913, she starred in about 15 films between 1913 and 1920, sometimes in only one short film a year and often credited alongside William Garwood. She died in New York on July 23, 1960.</originalabstract>
+<abstract>Edna_Mae_Wilson ( 1880 – 1960 ) was an_American_silent_film_actress . Signed by the_Thanhouser_Company based in New_Rochelle , New_York in 1913 , she starred in about_15_films between 1913_and_1920 , sometimes in only_one_short_film a_year and often_credited alongside William_Garwood . She died in New_York on July_23_,_1960 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edna'), (5, 'Mae'), (9, 'Wilson'), (16, '('), (17, '1880'), (21, '–'), (22, '1960'), (26, ')'), (28, 'was'), (32, 'an'), (35, 'American'), (44, 'silent'), (51, 'film'), (56, 'actress'), (63, '.'), (65, 'Signed'), (72, 'by'), (75, 'the'), (79, 'Thanhouser'), (90, 'Company'), (98, 'based'), (104, 'in'), (107, 'New'), (111, 'Rochelle'), (119, ','), (121, 'New'), (125, 'York'), (130, 'in'), (133, '1913'), (137, ','), (139, 'she'), (143, 'starred'), (151, 'in'), (154, 'about'), (160, '15'), (163, 'films'), (169, 'between'), (177, '1913'), (182, 'and'), (186, '1920'), (190, ','), (192, 'sometimes'), (202, 'in'), (205, 'only'), (210, 'one'), (214, 'short'), (220, 'film'), (225, 'a'), (227, 'year'), (232, 'and'), (236, 'often'), (242, 'credited'), (251, 'alongside'), (261, 'William'), (269, 'Garwood'), (276, '.'), (278, 'She'), (282, 'died'), (287, 'in'), (290, 'New'), (294, 'York'), (299, 'on'), (302, 'July'), (307, '23'), (309, ','), (311, '1960'), (315, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edna Mae Wilson',0, 15), ('an American silent film actress',32, 63), ('the Thanhouser Company',75, 97), ('New Rochelle',107, 119), ('New York',121, 129), ('about 15 films',154, 168), ('1913 and 1920',177, 190), ('only one short film',205, 224), ('a year',225, 231), ('often credited',236, 250), ('William Garwood',261, 276), ('New York',290, 298), ('July 23, 1960',302, 315)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'IN', 'RB', 'CD', 'JJ', 'NN', 'DT', 'NN', 'CC', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edna'), (5, 'Mae'), (9, 'Wilson'), (16, '('), (17, '1880–1960'), (26, ')'), (28, 'was'), (32, 'an'), (35, 'American'), (44, 'silent'), (51, 'film'), (56, 'actress'), (63, '.'), (65, 'Signed'), (72, 'by'), (75, 'the'), (79, 'Thanhouser'), (90, 'Company'), (98, 'based'), (104, 'in'), (107, 'New'), (111, 'Rochelle'), (119, ','), (121, 'New'), (125, 'York'), (130, 'in'), (133, '1913'), (137, ','), (139, 'she'), (143, 'starred'), (151, 'in'), (154, 'about'), (160, '15'), (163, 'films'), (169, 'between'), (177, '1913'), (182, 'and'), (186, '1920'), (190, ','), (192, 'sometimes'), (202, 'in'), (205, 'only'), (210, 'one'), (214, 'short'), (220, 'film'), (225, 'a'), (227, 'year'), (232, 'and'), (236, 'often'), (242, 'credited'), (251, 'alongside'), (261, 'William'), (269, 'Garwood'), (276, '.'), (278, 'She'), (282, 'died'), (287, 'in'), (290, 'New'), (294, 'York'), (299, 'on'), (302, 'July'), (307, '23'), (309, ','), (311, '1960'), (315, '.')])</spacy_tokens>
+<spacy_chunks>[('Edna Mae Wilson', 0, 15), ('(1880–1960', 16, 26), ('an American silent film actress', 32, 63), ('the Thanhouser Company', 75, 97), ('New Rochelle, New York', 107, 129), ('about 15 films', 154, 168), ('only one short film', 205, 224), ('William Garwood', 261, 276), ('July 23, 1960', 302, 315)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'IN', 'RB', 'CD', 'JJ', 'NN', 'DT', 'NN', 'CC', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

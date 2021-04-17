@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Germaine Sablon</title>
+<link/>https://en.wikipedia.org/wiki/Germaine_Sablon
+<annotated>0</annotated>
+<originalabstract>Germaine Sablon (19 July 1899 at Le Perreux-sur-Marne  – 17 April 1985 at Saint-Raphael) was a French singer, film actress and a WWII French Resistance fighter.
+She starred in some 15 films between 1920 and 1956.</originalabstract>
+<abstract>Germaine_Sablon ( 19_July_1899 at Le_Perreux-sur-Marne – 17_April_1985 at Saint-Raphael ) was a_French_singer , film_actress and a_WWII_French_Resistance_fighter . She starred in some_15_films between 1920_and_1956 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Germaine'), (9, 'Sablon'), (16, '('), (17, '19'), (20, 'July'), (25, '1899'), (30, 'at'), (33, 'Le'), (36, 'Perreux-sur-Marne'), (55, '–'), (57, '17'), (60, 'April'), (66, '1985'), (71, 'at'), (74, 'Saint-Raphael'), (87, ')'), (89, 'was'), (93, 'a'), (95, 'French'), (102, 'singer'), (108, ','), (110, 'film'), (115, 'actress'), (123, 'and'), (127, 'a'), (129, 'WWII'), (134, 'French'), (141, 'Resistance'), (152, 'fighter'), (159, '.'), (161, 'She'), (165, 'starred'), (173, 'in'), (176, 'some'), (181, '15'), (184, 'films'), (190, 'between'), (198, '1920'), (203, 'and'), (207, '1956'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Germaine Sablon',0, 15), ('19 July 1899',17, 29), ('Le Perreux-sur-Marne',33, 53), ('17 April 1985',57, 70), ('a French singer',93, 108), ('film actress',110, 122), ('a WWII French Resistance fighter',127, 159), ('some 15 films',176, 189), ('1920 and 1956',198, 211)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'IN', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'DT', 'NNP', 'NNP', 'NNP', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Germaine'), (9, 'Sablon'), (16, '('), (17, '19'), (20, 'July'), (25, '1899'), (30, 'at'), (33, 'Le'), (36, 'Perreux'), (43, '-'), (44, 'sur'), (47, '-'), (48, 'Marne'), (55, '–'), (57, '17'), (60, 'April'), (66, '1985'), (71, 'at'), (74, 'Saint'), (79, '-'), (80, 'Raphael'), (87, ')'), (89, 'was'), (93, 'a'), (95, 'French'), (102, 'singer'), (108, ','), (110, 'film'), (115, 'actress'), (123, 'and'), (127, 'a'), (129, 'WWII'), (134, 'French'), (141, 'Resistance'), (152, 'fighter'), (159, '.'), (161, 'She'), (165, 'starred'), (173, 'in'), (176, 'some'), (181, '15'), (184, 'films'), (190, 'between'), (198, '1920'), (203, 'and'), (207, '1956'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[('Germaine Sablon', 0, 15), ('19 July 1899', 17, 29), ('Le Perreux-sur-Marne', 33, 53), ('17 April 1985', 57, 70), ('Saint-Raphael', 74, 87), ('a French singer', 93, 108), ('film actress', 110, 122), ('a WWII French Resistance fighter', 127, 159), ('some 15 films', 176, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ':', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'HYPH', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'DT', 'NNP', 'NNP', 'NNP', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

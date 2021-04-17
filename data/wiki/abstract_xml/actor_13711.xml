@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Linda Manz</title>
+<link/>https://en.wikipedia.org/wiki/Linda_Manz
+<annotated>0</annotated>
+<originalabstract>Linda Manz (born August 20, 1961) is a retired American actress, mainly active from 1978 to 1985. She is best known for her roles in Days of Heaven (1978), Out of the Blue (1980) and Gummo (1997).</originalabstract>
+<abstract>Linda_Manz ( born August_20_,_1961 ) is a_retired_American_actress , mainly active from 1978 to 1985 . She is_best_known for her_roles in Days of Heaven_(_1978_) , Out of the_Blue_(_1980_) and Gummo_(_1997_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Linda'), (6, 'Manz'), (11, '('), (12, 'born'), (17, 'August'), (24, '20'), (26, ','), (28, '1961'), (32, ')'), (34, 'is'), (37, 'a'), (39, 'retired'), (47, 'American'), (56, 'actress'), (63, ','), (65, 'mainly'), (72, 'active'), (79, 'from'), (84, '1978'), (89, 'to'), (92, '1985'), (96, '.'), (98, 'She'), (102, 'is'), (105, 'best'), (110, 'known'), (116, 'for'), (120, 'her'), (124, 'roles'), (130, 'in'), (133, 'Days'), (138, 'of'), (141, 'Heaven'), (148, '('), (149, '1978'), (153, ')'), (154, ','), (156, 'Out'), (160, 'of'), (163, 'the'), (167, 'Blue'), (172, '('), (173, '1980'), (177, ')'), (179, 'and'), (183, 'Gummo'), (189, '('), (190, '1997'), (194, ')'), (195, '.')])</stanford_tokens>
+<opennlp_chunks>[('Linda Manz',0, 10), ('August 20, 1961',17, 32), ('a retired American actress',37, 63), ('is best known',102, 115), ('her roles',120, 129), ('Heaven (1978)',141, 154), ('the Blue (1980)',163, 178), ('Gummo (1997)',183, 195)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'RB', 'JJ', 'IN', 'CD', 'TO', 'CD', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Linda'), (6, 'Manz'), (11, '('), (12, 'born'), (17, 'August'), (24, '20'), (26, ','), (28, '1961'), (32, ')'), (34, 'is'), (37, 'a'), (39, 'retired'), (47, 'American'), (56, 'actress'), (63, ','), (65, 'mainly'), (72, 'active'), (79, 'from'), (84, '1978'), (89, 'to'), (92, '1985'), (96, '.'), (98, 'She'), (102, 'is'), (105, 'best'), (110, 'known'), (116, 'for'), (120, 'her'), (124, 'roles'), (130, 'in'), (133, 'Days'), (138, 'of'), (141, 'Heaven'), (148, '('), (149, '1978'), (153, ')'), (154, ','), (156, 'Out'), (160, 'of'), (163, 'the'), (167, 'Blue'), (172, '('), (173, '1980'), (177, ')'), (179, 'and'), (183, 'Gummo'), (189, '('), (190, '1997'), (194, ')'), (195, '.')])</spacy_tokens>
+<spacy_chunks>[('Linda Manz', 0, 10), ('August 20, 1961', 17, 32), ('a retired American actress', 37, 63), ('her roles', 120, 129), ('Days of Heaven', 133, 147), ('Out of the Blue (1980', 156, 177)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'VBN', 'JJ', 'NN', ',', 'RB', 'JJ', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

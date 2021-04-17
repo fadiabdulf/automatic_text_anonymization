@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wendy Padbury</title>
+<link/>https://en.wikipedia.org/wiki/Wendy_Padbury
+<annotated>0</annotated>
+<originalabstract>Wendy Padbury (born 7 December 1947) is a British actress who appeared in a number of popular television series, and is best remembered as Zoe Heriot, a companion to Patrick Troughton's Doctor in Doctor Who, from 1968 to 1969.</originalabstract>
+<abstract>Wendy_Padbury ( born_7_December_1947 ) is a_British_actress who appeared in a_number of popular_television_series , and is_best_remembered as Zoe_Heriot , a_companion to Patrick_Troughton 's_Doctor in Doctor Who , from 1968 to 1969 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wendy'), (6, 'Padbury'), (14, '('), (15, 'born'), (20, '7'), (22, 'December'), (31, '1947'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'British'), (50, 'actress'), (58, 'who'), (62, 'appeared'), (71, 'in'), (74, 'a'), (76, 'number'), (83, 'of'), (86, 'popular'), (94, 'television'), (105, 'series'), (111, ','), (113, 'and'), (117, 'is'), (120, 'best'), (125, 'remembered'), (136, 'as'), (139, 'Zoe'), (143, 'Heriot'), (149, ','), (151, 'a'), (153, 'companion'), (163, 'to'), (166, 'Patrick'), (174, 'Troughton'), (183, '\'s'), (186, 'Doctor'), (193, 'in'), (196, 'Doctor'), (203, 'Who'), (206, ','), (208, 'from'), (213, '1968'), (218, 'to'), (221, '1969'), (225, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wendy Padbury',0, 13), ('born 7 December 1947',15, 35), ('a British actress',40, 57), ('a number',74, 82), ('popular television series',86, 111), ('is best remembered',117, 135), ('Zoe Heriot',139, 149), ('a companion',151, 162), ('Patrick Troughton',166, 183), ('\'s Doctor',183, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NN', 'NN', ',', 'CC', 'VBZ', 'JJS', 'VBN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'TO', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'NNP', 'WP', ',', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wendy'), (6, 'Padbury'), (14, '('), (15, 'born'), (20, '7'), (22, 'December'), (31, '1947'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'British'), (50, 'actress'), (58, 'who'), (62, 'appeared'), (71, 'in'), (74, 'a'), (76, 'number'), (83, 'of'), (86, 'popular'), (94, 'television'), (105, 'series'), (111, ','), (113, 'and'), (117, 'is'), (120, 'best'), (125, 'remembered'), (136, 'as'), (139, 'Zoe'), (143, 'Heriot'), (149, ','), (151, 'a'), (153, 'companion'), (163, 'to'), (166, 'Patrick'), (174, 'Troughton'), (183, "'s"), (186, 'Doctor'), (193, 'in'), (196, 'Doctor'), (203, 'Who'), (206, ','), (208, 'from'), (213, '1968'), (218, 'to'), (221, '1969'), (225, '.')])</spacy_tokens>
+<spacy_chunks>[('Wendy Padbury', 0, 13), ('7 December 1947', 20, 35), ('a British actress', 40, 57), ('a number', 74, 82), ('popular television series', 86, 111), ('Zoe Heriot', 139, 149), ('a companion', 151, 162), ("Patrick Troughton's Doctor", 166, 192), ('Doctor Who', 196, 206)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NN', 'NN', ',', 'CC', 'VBZ', 'RBS', 'VBN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'NN', 'WP', ',', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

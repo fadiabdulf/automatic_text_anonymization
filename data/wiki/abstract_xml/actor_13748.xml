@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joan Marshall</title>
+<link/>https://en.wikipedia.org/wiki/Joan_Marshall
+<annotated>0</annotated>
+<originalabstract>Joan Marshall (born Joan Schrepfermann; June 6, 1931 – June 28, 1992) was an American film and television actress. She is best known for her appearances in The Twilight Zone's "Dead Man's Shoes", and Star Trek's "Court Martial".</originalabstract>
+<abstract>Joan_Marshall ( born Joan_Schrepfermann ; June_6_,_1931 – June_28_,_1992 ) was an_American_film_and_television_actress . She is_best_known for her_appearances in The_Twilight_Zone 's_"_Dead_Man 's_Shoes " , and Star_Trek 's_"_Court_Martial_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joan'), (5, 'Marshall'), (14, '('), (15, 'born'), (20, 'Joan'), (25, 'Schrepfermann'), (38, ';'), (40, 'June'), (45, '6'), (46, ','), (48, '1931'), (53, '–'), (55, 'June'), (60, '28'), (62, ','), (64, '1992'), (68, ')'), (70, 'was'), (74, 'an'), (77, 'American'), (86, 'film'), (91, 'and'), (95, 'television'), (106, 'actress'), (113, '.'), (115, 'She'), (119, 'is'), (122, 'best'), (127, 'known'), (133, 'for'), (137, 'her'), (141, 'appearances'), (153, 'in'), (156, 'The'), (160, 'Twilight'), (169, 'Zone'), (173, '\'s'), (176, '"'), (177, 'Dead'), (182, 'Man'), (185, '\'s'), (188, 'Shoes'), (193, '"'), (194, ','), (196, 'and'), (200, 'Star'), (205, 'Trek'), (209, '\'s'), (212, '"'), (213, 'Court'), (219, 'Martial'), (226, '"'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joan Marshall',0, 13), ('Joan Schrepfermann',20, 38), ('June 6, 1931',40, 52), ('June 28, 1992',55, 68), ('an American film and television actress',74, 113), ('is best known',119, 132), ('her appearances',137, 152), ('The Twilight Zone',156, 173), ('\'s "Dead Man',173, 185), ('\'s Shoes',185, 193), ('Star Trek',200, 209), ('\'s "Court Martial"',209, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'POS', '``', 'JJ', 'NN', 'POS', 'NNS', '\'\'', ',', 'CC', 'NNP', 'NNP', 'POS', '``', 'NNP', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joan'), (5, 'Marshall'), (14, '('), (15, 'born'), (20, 'Joan'), (25, 'Schrepfermann'), (38, ';'), (40, 'June'), (45, '6'), (46, ','), (48, '1931'), (53, '–'), (55, 'June'), (60, '28'), (62, ','), (64, '1992'), (68, ')'), (70, 'was'), (74, 'an'), (77, 'American'), (86, 'film'), (91, 'and'), (95, 'television'), (106, 'actress'), (113, '.'), (115, 'She'), (119, 'is'), (122, 'best'), (127, 'known'), (133, 'for'), (137, 'her'), (141, 'appearances'), (153, 'in'), (156, 'The'), (160, 'Twilight'), (169, 'Zone'), (173, "'s"), (176, '"'), (177, 'Dead'), (182, 'Man'), (185, "'s"), (188, 'Shoes'), (193, '"'), (194, ','), (196, 'and'), (200, 'Star'), (205, 'Trek'), (209, "'s"), (212, '"'), (213, 'Court'), (219, 'Martial'), (226, '"'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Joan Marshall', 0, 13), ('(born Joan Schrepfermann', 14, 38), ('June 6, 1931', 40, 52), ('June 28, 1992', 55, 68), ('an American film and television actress', 74, 113), ('her appearances', 137, 152), ('The Twilight Zone\'s "Dead Man\'s Shoes', 156, 193), ('Star Trek\'s "Court Martial', 200, 226)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'POS', '``', 'NNP', 'NNP', 'POS', 'NNPS', "''", ',', 'CC', 'NNP', 'NNP', 'POS', '``', 'NNP', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kathleen Crowley</title>
+<link/>https://en.wikipedia.org/wiki/Kathleen_Crowley
+<annotated>0</annotated>
+<originalabstract>Kathleen Crowley (born Betty Jane Crowley, December 26, 1929 – April 23, 2017) was an American actress who starred in a number of TV shows and films throughout the 1950s and 1960s, ending her career in 1970 at age 40.</originalabstract>
+<abstract>Kathleen_Crowley ( born Betty_Jane_Crowley , December_26_,_1929 – April_23_,_2017 ) was an_American_actress who starred in a_number of TV_shows and films throughout the_1950s_and_1960s , ending her_career in 1970 at age_40 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kathleen'), (9, 'Crowley'), (17, '('), (18, 'born'), (23, 'Betty'), (29, 'Jane'), (34, 'Crowley'), (41, ','), (43, 'December'), (52, '26'), (54, ','), (56, '1929'), (61, '–'), (63, 'April'), (69, '23'), (71, ','), (73, '2017'), (77, ')'), (79, 'was'), (83, 'an'), (86, 'American'), (95, 'actress'), (103, 'who'), (107, 'starred'), (115, 'in'), (118, 'a'), (120, 'number'), (127, 'of'), (130, 'TV'), (133, 'shows'), (139, 'and'), (143, 'films'), (149, 'throughout'), (160, 'the'), (164, '1950s'), (170, 'and'), (174, '1960s'), (179, ','), (181, 'ending'), (188, 'her'), (192, 'career'), (199, 'in'), (202, '1970'), (207, 'at'), (210, 'age'), (214, '40'), (216, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kathleen Crowley',0, 16), ('Betty Jane Crowley',23, 41), ('December 26, 1929',43, 60), ('April 23, 2017',63, 77), ('an American actress',83, 102), ('a number',118, 126), ('TV shows',130, 138), ('the 1950s and 1960s',160, 179), ('her career',188, 198), ('age 40',210, 216)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NN', 'NNS', 'CC', 'NNS', 'IN', 'DT', 'CD', 'CC', 'CD', ',', 'VBG', 'PRP$', 'NN', 'IN', 'CD', 'IN', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kathleen'), (9, 'Crowley'), (17, '('), (18, 'born'), (23, 'Betty'), (29, 'Jane'), (34, 'Crowley'), (41, ','), (43, 'December'), (52, '26'), (54, ','), (56, '1929'), (61, '–'), (63, 'April'), (69, '23'), (71, ','), (73, '2017'), (77, ')'), (79, 'was'), (83, 'an'), (86, 'American'), (95, 'actress'), (103, 'who'), (107, 'starred'), (115, 'in'), (118, 'a'), (120, 'number'), (127, 'of'), (130, 'TV'), (133, 'shows'), (139, 'and'), (143, 'films'), (149, 'throughout'), (160, 'the'), (164, '1950s'), (170, 'and'), (174, '1960s'), (179, ','), (181, 'ending'), (188, 'her'), (192, 'career'), (199, 'in'), (202, '1970'), (207, 'at'), (210, 'age'), (214, '40'), (216, '.')])</spacy_tokens>
+<spacy_chunks>[('Kathleen Crowley', 0, 16), ('born Betty Jane Crowley', 18, 41), ('December 26, 1929', 43, 60), ('April 23, 2017', 63, 77), ('an American actress', 83, 102), ('a number', 118, 126), ('TV shows', 130, 138), ('the 1950s', 160, 169), ('her career', 188, 198)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NN', 'NNS', 'CC', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', ',', 'VBG', 'PRP$', 'NN', 'IN', 'CD', 'IN', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

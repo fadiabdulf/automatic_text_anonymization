@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Antonia Clarke</title>
+<link/>https://en.wikipedia.org/wiki/Antonia_Clarke
+<annotated>0</annotated>
+<originalabstract>Antonia Clarke (born 24 May 1994) is an English actress and singer best known for her role as Penny Hamilton in the 2014 British horror thriller film Altar. Her other notable films include 2012 epic musical drama film Les Misérables and 2014 American romantic comedy film Magic in the Moonlight.</originalabstract>
+<abstract>Antonia_Clarke ( born 24_May_1994 ) is an_English_actress_and_singer best_known for her_role as Penny_Hamilton in the_2014_British_horror_thriller_film_Altar . Her_other_notable_films include 2012_epic_musical_drama_film_Les_Misérables and 2014_American_romantic_comedy_film_Magic in the_Moonlight .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Antonia'), (8, 'Clarke'), (15, '('), (16, 'born'), (21, '24'), (24, 'May'), (28, '1994'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'English'), (48, 'actress'), (56, 'and'), (60, 'singer'), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'role'), (91, 'as'), (94, 'Penny'), (100, 'Hamilton'), (109, 'in'), (112, 'the'), (116, '2014'), (121, 'British'), (129, 'horror'), (136, 'thriller'), (145, 'film'), (150, 'Altar'), (155, '.'), (157, 'Her'), (161, 'other'), (167, 'notable'), (175, 'films'), (181, 'include'), (189, '2012'), (194, 'epic'), (199, 'musical'), (207, 'drama'), (213, 'film'), (218, 'Les'), (222, 'Misérables'), (233, 'and'), (237, '2014'), (242, 'American'), (251, 'romantic'), (260, 'comedy'), (267, 'film'), (272, 'Magic'), (278, 'in'), (281, 'the'), (285, 'Moonlight'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Antonia Clarke',0, 14), ('24 May 1994',21, 32), ('an English actress and singer',37, 66), ('best known',67, 77), ('her role',82, 90), ('Penny Hamilton',94, 108), ('the 2014 British horror thriller film Altar',112, 155), ('Her other notable films',157, 180), ('2012 epic musical drama film Les Misérables',189, 232), ('2014 American romantic comedy film Magic',237, 277), ('the Moonlight',281, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'NN', 'NN', 'NN', 'NN', '.', 'PRP$', 'JJ', 'JJ', 'NNS', 'VBP', 'CD', 'NN', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'CD', 'JJ', 'JJ', 'NN', 'NN', 'NNP', 'IN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Antonia'), (8, 'Clarke'), (15, '('), (16, 'born'), (21, '24'), (24, 'May'), (28, '1994'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'English'), (48, 'actress'), (56, 'and'), (60, 'singer'), (67, 'best'), (72, 'known'), (78, 'for'), (82, 'her'), (86, 'role'), (91, 'as'), (94, 'Penny'), (100, 'Hamilton'), (109, 'in'), (112, 'the'), (116, '2014'), (121, 'British'), (129, 'horror'), (136, 'thriller'), (145, 'film'), (150, 'Altar'), (155, '.'), (157, 'Her'), (161, 'other'), (167, 'notable'), (175, 'films'), (181, 'include'), (189, '2012'), (194, 'epic'), (199, 'musical'), (207, 'drama'), (213, 'film'), (218, 'Les'), (222, 'Misérables'), (233, 'and'), (237, '2014'), (242, 'American'), (251, 'romantic'), (260, 'comedy'), (267, 'film'), (272, 'Magic'), (278, 'in'), (281, 'the'), (285, 'Moonlight'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Antonia Clarke', 0, 14), ('24 May 1994', 21, 32), ('an English actress', 37, 55), ('singer', 60, 66), ('her role', 82, 90), ('Penny Hamilton', 94, 108), ('the 2014 British horror thriller film Altar', 112, 155), ('Her other notable films', 157, 180), ('2012 epic musical drama film', 189, 217), ('Les Misérables', 218, 232), ('2014 American romantic comedy film', 237, 271), ('Magic in the Moonlight', 272, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'NN', 'NN', 'NN', 'NNP', '.', 'PRP$', 'JJ', 'JJ', 'NNS', 'VBP', 'CD', 'JJ', 'JJ', 'NN', 'NN', 'NNP', 'NNPS', 'CC', 'CD', 'JJ', 'JJ', 'NN', 'NN', 'NNP', 'IN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

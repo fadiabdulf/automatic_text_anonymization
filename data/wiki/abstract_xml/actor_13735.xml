@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Faye Marlowe</title>
+<link/>https://en.wikipedia.org/wiki/Faye_Marlowe
+<annotated>0</annotated>
+<originalabstract>Faye Marlowe (born October 26, 1926) is an American film and television actress whose career spanned a decade, from 1945 to 1955.</originalabstract>
+<abstract>Faye_Marlowe ( born October_26_,_1926 ) is an_American_film_and_television_actress whose_career spanned a_decade , from 1945 to 1955 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Faye'), (5, 'Marlowe'), (13, '('), (14, 'born'), (19, 'October'), (27, '26'), (29, ','), (31, '1926'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'film'), (57, 'and'), (61, 'television'), (72, 'actress'), (80, 'whose'), (86, 'career'), (93, 'spanned'), (101, 'a'), (103, 'decade'), (109, ','), (111, 'from'), (116, '1945'), (121, 'to'), (124, '1955'), (128, '.')])</stanford_tokens>
+<opennlp_chunks>[('Faye Marlowe',0, 12), ('October 26, 1926',19, 35), ('an American film and television actress',40, 79), ('whose career',80, 92), ('a decade',101, 109)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'DT', 'NN', ',', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Faye'), (5, 'Marlowe'), (13, '('), (14, 'born'), (19, 'October'), (27, '26'), (29, ','), (31, '1926'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'film'), (57, 'and'), (61, 'television'), (72, 'actress'), (80, 'whose'), (86, 'career'), (93, 'spanned'), (101, 'a'), (103, 'decade'), (109, ','), (111, 'from'), (116, '1945'), (121, 'to'), (124, '1955'), (128, '.')])</spacy_tokens>
+<spacy_chunks>[('Faye Marlowe', 0, 12), ('October 26, 1926', 19, 35), ('an American film and television actress', 40, 79), ('whose career', 80, 92)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'DT', 'NN', ',', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

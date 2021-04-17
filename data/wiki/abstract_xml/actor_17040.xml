@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Laila Morse</title>
+<link/>https://en.wikipedia.org/wiki/Laila_Morse
+<annotated>0</annotated>
+<originalabstract>Maureen "Mo" Oldman (born 1 August 1945), known by her stage name Laila Morse, is an English actress. Her best known roles include Janet in drama film Nil by Mouth (1997) and Mo Harris in BBC One soap opera EastEnders (2000–2016, 2018–present).</originalabstract>
+<abstract>Maureen_"_Mo_"_Oldman ( born 1_August_1945 ) , known by her_stage_name_Laila_Morse , is an_English_actress . Her_best_known_roles include Janet in drama_film_Nil by Mouth_(_1997_)_and_Mo_Harris in BBC_One_soap_opera_EastEnders_(_2000 – 2016_,_2018 – present_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maureen'), (8, '"'), (9, 'Mo'), (11, '"'), (13, 'Oldman'), (20, '('), (21, 'born'), (26, '1'), (28, 'August'), (35, '1945'), (39, ')'), (40, ','), (42, 'known'), (48, 'by'), (51, 'her'), (55, 'stage'), (61, 'name'), (66, 'Laila'), (72, 'Morse'), (77, ','), (79, 'is'), (82, 'an'), (85, 'English'), (93, 'actress'), (100, '.'), (102, 'Her'), (106, 'best'), (111, 'known'), (117, 'roles'), (123, 'include'), (131, 'Janet'), (137, 'in'), (140, 'drama'), (146, 'film'), (151, 'Nil'), (155, 'by'), (158, 'Mouth'), (164, '('), (165, '1997'), (169, ')'), (171, 'and'), (175, 'Mo'), (178, 'Harris'), (185, 'in'), (188, 'BBC'), (192, 'One'), (196, 'soap'), (201, 'opera'), (207, 'EastEnders'), (218, '('), (219, '2000'), (223, '–'), (224, '2016'), (228, ','), (230, '2018'), (234, '–'), (235, 'present'), (242, ')'), (243, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maureen "Mo" Oldman',0, 19), ('1 August 1945',26, 39), ('her stage name Laila Morse',51, 77), ('an English actress',82, 100), ('Her best known roles',102, 122), ('drama film Nil',140, 154), ('Mouth (1997) and Mo Harris',158, 184), ('BBC One soap opera EastEnders (2000',188, 223), ('2016, 2018',224, 234), ('present)',235, 243)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'JJS', 'VBN', 'NNS', 'VBP', 'NNP', 'IN', 'NN', 'NN', 'NN', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NN', 'NNP', 'IN', 'NNP', 'CD', 'NN', 'NN', 'NNS', '-LRB-', 'CD', ':', 'CD', ',', 'CD', ':', 'JJ', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maureen'), (8, '"'), (9, 'Mo'), (11, '"'), (13, 'Oldman'), (20, '('), (21, 'born'), (26, '1'), (28, 'August'), (35, '1945'), (39, ')'), (40, ','), (42, 'known'), (48, 'by'), (51, 'her'), (55, 'stage'), (61, 'name'), (66, 'Laila'), (72, 'Morse'), (77, ','), (79, 'is'), (82, 'an'), (85, 'English'), (93, 'actress'), (100, '.'), (102, 'Her'), (106, 'best'), (111, 'known'), (117, 'roles'), (123, 'include'), (131, 'Janet'), (137, 'in'), (140, 'drama'), (146, 'film'), (151, 'Nil'), (155, 'by'), (158, 'Mouth'), (164, '('), (165, '1997'), (169, ')'), (171, 'and'), (175, 'Mo'), (178, 'Harris'), (185, 'in'), (188, 'BBC'), (192, 'One'), (196, 'soap'), (201, 'opera'), (207, 'EastEnders'), (218, '('), (219, '2000–2016'), (228, ','), (230, '2018–present'), (242, ')'), (243, '.')])</spacy_tokens>
+<spacy_chunks>[('Maureen "Mo" Oldman', 0, 19), ('1 August 1945', 26, 39), ('her stage name', 51, 65), ('Laila Morse', 66, 77), ('an English actress', 82, 100), ('Her best known roles', 102, 122), ('drama film', 140, 150), ('Nil by Mouth', 151, 163), ('Mo Harris', 175, 184), ('BBC One soap opera', 188, 206), ('EastEnders', 207, 217)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'RBS', 'VBN', 'NNS', 'VBP', 'NNP', 'IN', 'NN', 'NN', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'CD', 'NN', 'NN', 'NNP', '-LRB-', 'CD', ',', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

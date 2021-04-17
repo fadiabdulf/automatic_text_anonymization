@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gale Storm</title>
+<link/>https://en.wikipedia.org/wiki/Gale_Storm
+<annotated>0</annotated>
+<originalabstract>Gale Storm (born Josephine Owaissa Cottle, April 5, 1922 – June 27, 2009) was an American actress and singer who starred in two popular television programs of the 1950s, My Little Margie and The Gale Storm Show.</originalabstract>
+<abstract>Gale_Storm ( born Josephine_Owaissa_Cottle , April_5_,_1922 – June_27_,_2009 ) was an_American_actress and singer who starred in two_popular_television_programs of the_1950s , My_Little_Margie and The_Gale_Storm_Show .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gale'), (5, 'Storm'), (11, '('), (12, 'born'), (17, 'Josephine'), (27, 'Owaissa'), (35, 'Cottle'), (41, ','), (43, 'April'), (49, '5'), (50, ','), (52, '1922'), (57, '–'), (59, 'June'), (64, '27'), (66, ','), (68, '2009'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'actress'), (98, 'and'), (102, 'singer'), (109, 'who'), (113, 'starred'), (121, 'in'), (124, 'two'), (128, 'popular'), (136, 'television'), (147, 'programs'), (156, 'of'), (159, 'the'), (163, '1950s'), (168, ','), (170, 'My'), (173, 'Little'), (180, 'Margie'), (187, 'and'), (191, 'The'), (195, 'Gale'), (200, 'Storm'), (206, 'Show'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gale Storm',0, 10), ('Josephine Owaissa Cottle',17, 41), ('April 5, 1922',43, 56), ('June 27, 2009',59, 72), ('an American actress',78, 97), ('two popular television programs',124, 155), ('the 1950s',159, 168), ('My Little Margie',170, 186), ('The Gale Storm Show',191, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NN', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'CD', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'CD', ',', 'PRP$', 'JJ', 'NNP', 'CC', 'DT', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gale'), (5, 'Storm'), (11, '('), (12, 'born'), (17, 'Josephine'), (27, 'Owaissa'), (35, 'Cottle'), (41, ','), (43, 'April'), (49, '5'), (50, ','), (52, '1922'), (57, '–'), (59, 'June'), (64, '27'), (66, ','), (68, '2009'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'actress'), (98, 'and'), (102, 'singer'), (109, 'who'), (113, 'starred'), (121, 'in'), (124, 'two'), (128, 'popular'), (136, 'television'), (147, 'programs'), (156, 'of'), (159, 'the'), (163, '1950s'), (168, ','), (170, 'My'), (173, 'Little'), (180, 'Margie'), (187, 'and'), (191, 'The'), (195, 'Gale'), (200, 'Storm'), (206, 'Show'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Gale Storm', 0, 10), ('Josephine Owaissa Cottle', 17, 41), ('April 5, 1922', 43, 56), ('June 27, 2009', 59, 72), ('an American actress', 78, 97), ('singer', 102, 108), ('two popular television programs', 124, 155), ('the 1950s', 159, 168), ('My Little Margie', 170, 186), ('The Gale Storm Show', 191, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'CD', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'NNS', ',', 'PRP$', 'JJ', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

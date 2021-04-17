@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Andy Philpot</title>
+<link/>https://en.wikipedia.org/wiki/Andy_Philpot
+<annotated>0</annotated>
+<originalabstract>Andrew Philpot, commonly credited as Andy Philpot, is an American actor and voice actor. He is known for several animation and video game voice roles, many in titles directed by Jack Fletcher. He is currently a Resident Artist at the Pacific Conservatory of the Performing Arts in Santa Maria, California.</originalabstract>
+<abstract>Andrew_Philpot , commonly_credited as Andy_Philpot , is an_American_actor_and_voice_actor . He is_known for several_animation_and_video_game_voice_roles , many in titles directed by Jack_Fletcher . He is currently a_Resident_Artist at the_Pacific_Conservatory of the_Performing_Arts in Santa_Maria , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Andrew'), (7, 'Philpot'), (14, ','), (16, 'commonly'), (25, 'credited'), (34, 'as'), (37, 'Andy'), (42, 'Philpot'), (49, ','), (51, 'is'), (54, 'an'), (57, 'American'), (66, 'actor'), (72, 'and'), (76, 'voice'), (82, 'actor'), (87, '.'), (89, 'He'), (92, 'is'), (95, 'known'), (101, 'for'), (105, 'several'), (113, 'animation'), (123, 'and'), (127, 'video'), (133, 'game'), (138, 'voice'), (144, 'roles'), (149, ','), (151, 'many'), (156, 'in'), (159, 'titles'), (166, 'directed'), (175, 'by'), (178, 'Jack'), (183, 'Fletcher'), (191, '.'), (193, 'He'), (196, 'is'), (199, 'currently'), (209, 'a'), (211, 'Resident'), (220, 'Artist'), (227, 'at'), (230, 'the'), (234, 'Pacific'), (242, 'Conservatory'), (255, 'of'), (258, 'the'), (262, 'Performing'), (273, 'Arts'), (278, 'in'), (281, 'Santa'), (287, 'Maria'), (292, ','), (294, 'California'), (304, '.')])</stanford_tokens>
+<opennlp_chunks>[('Andrew Philpot',0, 14), ('commonly credited',16, 33), ('Andy Philpot',37, 49), ('an American actor and voice actor',54, 87), ('is known',92, 100), ('several animation and video game voice roles',105, 149), ('Jack Fletcher',178, 191), ('a Resident Artist',209, 226), ('the Pacific Conservatory',230, 254), ('the Performing Arts',258, 277), ('Santa Maria',281, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'VBG', 'NNS', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Andrew'), (7, 'Philpot'), (14, ','), (16, 'commonly'), (25, 'credited'), (34, 'as'), (37, 'Andy'), (42, 'Philpot'), (49, ','), (51, 'is'), (54, 'an'), (57, 'American'), (66, 'actor'), (72, 'and'), (76, 'voice'), (82, 'actor'), (87, '.'), (89, 'He'), (92, 'is'), (95, 'known'), (101, 'for'), (105, 'several'), (113, 'animation'), (123, 'and'), (127, 'video'), (133, 'game'), (138, 'voice'), (144, 'roles'), (149, ','), (151, 'many'), (156, 'in'), (159, 'titles'), (166, 'directed'), (175, 'by'), (178, 'Jack'), (183, 'Fletcher'), (191, '.'), (193, 'He'), (196, 'is'), (199, 'currently'), (209, 'a'), (211, 'Resident'), (220, 'Artist'), (227, 'at'), (230, 'the'), (234, 'Pacific'), (242, 'Conservatory'), (255, 'of'), (258, 'the'), (262, 'Performing'), (273, 'Arts'), (278, 'in'), (281, 'Santa'), (287, 'Maria'), (292, ','), (294, 'California'), (304, '.')])</spacy_tokens>
+<spacy_chunks>[('Andrew Philpot', 0, 14), ('Andy Philpot', 37, 49), ('an American actor', 54, 71), ('Voice actor', 76, 87), ('several animation and video game voice roles', 105, 149), ('titles', 159, 165), ('Jack Fletcher', 178, 191), ('a Resident Artist', 209, 226), ('the Pacific Conservatory', 230, 254), ('Pacific Conservatory of the Performing Arts', 234, 277), ('Santa Maria, California', 281, 304)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

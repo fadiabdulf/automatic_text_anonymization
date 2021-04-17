@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charlie Covell</title>
+<link/>https://en.wikipedia.org/wiki/Charlie_Covell
+<annotated>0</annotated>
+<originalabstract>Charlotte Covell (born circa 1984), known as Charlie Covell, is a British actress, writer and producer, best known for her adaptation of the graphic comic series The End of the F***ing World for Channel 4/Netflix.</originalabstract>
+<abstract>Charlotte_Covell ( born_circa_1984 ) , known as Charlie_Covell , is a_British_actress_,_writer_and_producer , best_known for her_adaptation of the_graphic_comic_series The_End of the_F_***_ing_World for Channel_4/Netflix .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charlotte'), (10, 'Covell'), (17, '('), (18, 'born'), (23, 'circa'), (29, '1984'), (33, ')'), (34, ','), (36, 'known'), (42, 'as'), (45, 'Charlie'), (53, 'Covell'), (59, ','), (61, 'is'), (64, 'a'), (66, 'British'), (74, 'actress'), (81, ','), (83, 'writer'), (90, 'and'), (94, 'producer'), (102, ','), (104, 'best'), (109, 'known'), (115, 'for'), (119, 'her'), (123, 'adaptation'), (134, 'of'), (137, 'the'), (141, 'graphic'), (149, 'comic'), (155, 'series'), (162, 'The'), (166, 'End'), (170, 'of'), (173, 'the'), (177, 'F'), (178, '***'), (181, 'ing'), (185, 'World'), (191, 'for'), (195, 'Channel'), (203, '4/Netflix'), (212, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charlotte Covell',0, 16), ('born circa 1984',18, 33), ('Charlie Covell',45, 59), ('a British actress, writer and producer',64, 102), ('best known',104, 114), ('her adaptation',119, 133), ('the graphic comic series',137, 161), ('The End',162, 169), ('the F***ing World',173, 190), ('Channel 4/Netflix',195, 212)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NN', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'DT', 'NN', 'IN', 'DT', 'NN', 'CD', 'NN', 'NN', 'IN', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charlotte'), (10, 'Covell'), (17, '('), (18, 'born'), (23, 'circa'), (29, '1984'), (33, ')'), (34, ','), (36, 'known'), (42, 'as'), (45, 'Charlie'), (53, 'Covell'), (59, ','), (61, 'is'), (64, 'a'), (66, 'British'), (74, 'actress'), (81, ','), (83, 'writer'), (90, 'and'), (94, 'producer'), (102, ','), (104, 'best'), (109, 'known'), (115, 'for'), (119, 'her'), (123, 'adaptation'), (134, 'of'), (137, 'the'), (141, 'graphic'), (149, 'comic'), (155, 'series'), (162, 'The'), (166, 'End'), (170, 'of'), (173, 'the'), (177, 'F***ing'), (185, 'World'), (191, 'for'), (195, 'Channel'), (203, '4/Netflix'), (212, '.')])</spacy_tokens>
+<spacy_chunks>[('Charlotte Covell', 0, 16), ('Charlie Covell', 45, 59), ('a British actress', 64, 81), ('writer', 83, 89), ('producer', 94, 102), ('her adaptation', 119, 133), ('the graphic comic series', 137, 161), ('The End of the F***ing World', 162, 190), ('Channel 4', 195, 204)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NN', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

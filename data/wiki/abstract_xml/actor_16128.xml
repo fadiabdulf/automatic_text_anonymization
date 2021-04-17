@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sean Young</title>
+<link/>https://en.wikipedia.org/wiki/Sean_Young
+<annotated>0</annotated>
+<originalabstract>Mary Sean Young (born November 20, 1959) is an American actress. She is best known for her performances in the films Stripes (1981), Blade Runner (1982), Dune (1984), No Way Out (1987), Wall Street (1987), Cousins (1989) and Ace Ventura: Pet Detective (1994).</originalabstract>
+<abstract>Mary_Sean Young ( born November_20_,_1959 ) is an_American_actress . She is_best_known for her_performances in the_films_Stripes ( 1981_) , Blade_Runner_(_1982_) , Dune_(_1984_) , No_Way Out (_1987_) , Wall_Street_(_1987_)_,_Cousins_(_1989_)_and_Ace_Ventura : Pet_Detective_(_1994_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Sean'), (10, 'Young'), (16, '('), (17, 'born'), (22, 'November'), (31, '20'), (33, ','), (35, '1959'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (63, '.'), (65, 'She'), (69, 'is'), (72, 'best'), (77, 'known'), (83, 'for'), (87, 'her'), (91, 'performances'), (104, 'in'), (107, 'the'), (111, 'films'), (117, 'Stripes'), (125, '('), (126, '1981'), (130, ')'), (131, ','), (133, 'Blade'), (139, 'Runner'), (146, '('), (147, '1982'), (151, ')'), (152, ','), (154, 'Dune'), (159, '('), (160, '1984'), (164, ')'), (165, ','), (167, 'No'), (170, 'Way'), (174, 'Out'), (178, '('), (179, '1987'), (183, ')'), (184, ','), (186, 'Wall'), (191, 'Street'), (198, '('), (199, '1987'), (203, ')'), (204, ','), (206, 'Cousins'), (214, '('), (215, '1989'), (219, ')'), (221, 'and'), (225, 'Ace'), (229, 'Ventura'), (236, ':'), (238, 'Pet'), (242, 'Detective'), (252, '('), (253, '1994'), (257, ')'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Sean',0, 9), ('November 20, 1959',22, 39), ('an American actress',44, 63), ('is best known',69, 82), ('her performances',87, 103), ('the films Stripes',107, 124), ('1981)',126, 131), ('Blade Runner (1982)',133, 152), ('Dune (1984)',154, 165), ('No Way',167, 173), ('(1987)',178, 184), ('Wall Street (1987), Cousins (1989) and Ace Ventura',186, 236), ('Pet Detective (1994)',238, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NN', 'IN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNS', '-LRB-', 'CD', '-RRB-', 'CC', 'NN', 'NNP', ':', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Sean'), (10, 'Young'), (16, '('), (17, 'born'), (22, 'November'), (31, '20'), (33, ','), (35, '1959'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (63, '.'), (65, 'She'), (69, 'is'), (72, 'best'), (77, 'known'), (83, 'for'), (87, 'her'), (91, 'performances'), (104, 'in'), (107, 'the'), (111, 'films'), (117, 'Stripes'), (125, '('), (126, '1981'), (130, ')'), (131, ','), (133, 'Blade'), (139, 'Runner'), (146, '('), (147, '1982'), (151, ')'), (152, ','), (154, 'Dune'), (159, '('), (160, '1984'), (164, ')'), (165, ','), (167, 'No'), (170, 'Way'), (174, 'Out'), (178, '('), (179, '1987'), (183, ')'), (184, ','), (186, 'Wall'), (191, 'Street'), (198, '('), (199, '1987'), (203, ')'), (204, ','), (206, 'Cousins'), (214, '('), (215, '1989'), (219, ')'), (221, 'and'), (225, 'Ace'), (229, 'Ventura'), (236, ':'), (238, 'Pet'), (242, 'Detective'), (252, '('), (253, '1994'), (257, ')'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Sean Young', 0, 15), ('November 20, 1959', 22, 39), ('an American actress', 44, 63), ('her performances', 87, 103), ('the films', 107, 116), ('Stripes', 117, 124), ('Blade Runner', 133, 145), ('Dune (1984', 154, 164), ('No Way Out (1987', 167, 183), ('Wall Street (1987', 186, 203), ('Cousins (1989', 206, 219), ('Ace Ventura: Pet Detective', 225, 251)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NNPS', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NN', 'RB', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNS', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', ':', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

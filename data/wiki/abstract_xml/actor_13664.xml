@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tress MacNeille</title>
+<link/>https://en.wikipedia.org/wiki/Tress_MacNeille
+<annotated>0</annotated>
+<originalabstract>Tress MacNeille (born Teressa Claire Payne; June 20, 1951) is an American voice actress, who has voiced various characters in shows like The Simpsons, Futurama, Hey Arnold!, Tiny Toon Adventures, Rugrats, Animaniacs and Disney's House of Mouse.</originalabstract>
+<abstract>Tress_MacNeille ( born Teressa_Claire_Payne ; June_20_,_1951 ) is an_American_voice_actress , who has_voiced various_characters in shows like The_Simpsons , Futurama , Hey_Arnold ! , Tiny_Toon_Adventures , Rugrats , Animaniacs and Disney 's_House of Mouse .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tress'), (6, 'MacNeille'), (16, '('), (17, 'born'), (22, 'Teressa'), (30, 'Claire'), (37, 'Payne'), (42, ';'), (44, 'June'), (49, '20'), (51, ','), (53, '1951'), (57, ')'), (59, 'is'), (62, 'an'), (65, 'American'), (74, 'voice'), (80, 'actress'), (87, ','), (89, 'who'), (93, 'has'), (97, 'voiced'), (104, 'various'), (112, 'characters'), (123, 'in'), (126, 'shows'), (132, 'like'), (137, 'The'), (141, 'Simpsons'), (149, ','), (151, 'Futurama'), (159, ','), (161, 'Hey'), (165, 'Arnold'), (171, '!'), (172, ','), (174, 'Tiny'), (179, 'Toon'), (184, 'Adventures'), (194, ','), (196, 'Rugrats'), (203, ','), (205, 'Animaniacs'), (216, 'and'), (220, 'Disney'), (226, '\'s'), (229, 'House'), (235, 'of'), (238, 'Mouse'), (243, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tress MacNeille',0, 15), ('Teressa Claire Payne',22, 42), ('June 20, 1951',44, 57), ('an American voice actress',62, 87), ('has voiced',93, 103), ('various characters',104, 122), ('The Simpsons',137, 149), ('Hey Arnold',161, 171), ('Tiny Toon Adventures',174, 194), ('\'s House',226, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'WP', 'VBZ', 'VBN', 'JJ', 'NNS', 'IN', 'NNS', 'IN', 'DT', 'NNPS', ',', 'NNP', ',', 'UH', 'NNP', '.', ',', 'NNP', 'NNP', 'NNPS', ',', 'NNPS', ',', 'NNPS', 'CC', 'NNP', 'POS', 'NNP', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tress'), (6, 'MacNeille'), (16, '('), (17, 'born'), (22, 'Teressa'), (30, 'Claire'), (37, 'Payne'), (42, ';'), (44, 'June'), (49, '20'), (51, ','), (53, '1951'), (57, ')'), (59, 'is'), (62, 'an'), (65, 'American'), (74, 'voice'), (80, 'actress'), (87, ','), (89, 'who'), (93, 'has'), (97, 'voiced'), (104, 'various'), (112, 'characters'), (123, 'in'), (126, 'shows'), (132, 'like'), (137, 'The'), (141, 'Simpsons'), (149, ','), (151, 'Futurama'), (159, ','), (161, 'Hey'), (165, 'Arnold'), (171, '!'), (172, ','), (174, 'Tiny'), (179, 'Toon'), (184, 'Adventures'), (194, ','), (196, 'Rugrats'), (203, ','), (205, 'Animaniacs'), (216, 'and'), (220, 'Disney'), (226, "'s"), (229, 'House'), (235, 'of'), (238, 'Mouse'), (243, '.')])</spacy_tokens>
+<spacy_chunks>[('Tress MacNeille', 0, 15), ('(born Teressa Claire Payne', 16, 42), ('June 20, 1951', 44, 57), ('an American voice actress', 62, 87), ('various characters', 104, 122), ('The Simpsons', 137, 149), ('Futurama', 151, 159), ('Hey Arnold!', 161, 172), ('Tiny Toon Adventures', 174, 194), ('Rugrats', 196, 203), ('Animaniacs', 205, 215), ("Disney's House of Mouse", 220, 243)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'WP', 'VBZ', 'VBN', 'JJ', 'NNS', 'IN', 'NNS', 'IN', 'DT', 'NNPS', ',', 'NNP', ',', 'NNP', 'NNP', '.', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'NNP', 'POS', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

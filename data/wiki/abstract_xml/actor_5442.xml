@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ed Quinn</title>
+<link/>https://en.wikipedia.org/wiki/Ed_Quinn
+<annotated>0</annotated>
+<originalabstract>Arthur Edward Quinn (born February 26, 1968) is an American actor and musician who has appeared in several film and television roles, including One Day at a Time, Two Broke Girls, Eureka, Young Americans and True Blood.</originalabstract>
+<abstract>Arthur_Edward_Quinn ( born February_26_,_1968 ) is an_American_actor and musician who has_appeared in several_film_and_television_roles , including One_Day at a_Time , Two_Broke_Girls , Eureka , Young_Americans and True_Blood .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthur'), (7, 'Edward'), (14, 'Quinn'), (20, '('), (21, 'born'), (26, 'February'), (35, '26'), (37, ','), (39, '1968'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actor'), (66, 'and'), (70, 'musician'), (79, 'who'), (83, 'has'), (87, 'appeared'), (96, 'in'), (99, 'several'), (107, 'film'), (112, 'and'), (116, 'television'), (127, 'roles'), (132, ','), (134, 'including'), (144, 'One'), (148, 'Day'), (152, 'at'), (155, 'a'), (157, 'Time'), (161, ','), (163, 'Two'), (167, 'Broke'), (173, 'Girls'), (178, ','), (180, 'Eureka'), (186, ','), (188, 'Young'), (194, 'Americans'), (204, 'and'), (208, 'True'), (213, 'Blood'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthur Edward Quinn',0, 19), ('February 26, 1968',26, 43), ('an American actor',48, 65), ('has appeared',83, 95), ('several film and television roles',99, 132), ('One Day',144, 151), ('a Time',155, 161), ('Two Broke Girls',163, 178), ('Young Americans',188, 203), ('True Blood',208, 218)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'CC', 'NN', 'NNS', ',', 'VBG', 'CD', 'NN', 'IN', 'DT', 'NNP', ',', 'CD', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'NNPS', 'CC', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthur'), (7, 'Edward'), (14, 'Quinn'), (20, '('), (21, 'born'), (26, 'February'), (35, '26'), (37, ','), (39, '1968'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actor'), (66, 'and'), (70, 'musician'), (79, 'who'), (83, 'has'), (87, 'appeared'), (96, 'in'), (99, 'several'), (107, 'film'), (112, 'and'), (116, 'television'), (127, 'roles'), (132, ','), (134, 'including'), (144, 'One'), (148, 'Day'), (152, 'at'), (155, 'a'), (157, 'Time'), (161, ','), (163, 'Two'), (167, 'Broke'), (173, 'Girls'), (178, ','), (180, 'Eureka'), (186, ','), (188, 'Young'), (194, 'Americans'), (204, 'and'), (208, 'True'), (213, 'Blood'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Arthur Edward Quinn', 0, 19), ('February 26, 1968', 26, 43), ('an American actor', 48, 65), ('musician', 70, 78), ('several film and television roles', 99, 132), ('One Day', 144, 151), ('a Time', 155, 161), ('Two Broke Girls', 163, 178), ('Eureka', 180, 186), ('Young Americans', 188, 203), ('True Blood', 208, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'CC', 'NN', 'NNS', ',', 'VBG', 'CD', 'NNP', 'IN', 'DT', 'NNP', ',', 'CD', 'NNP', 'NNPS', ',', 'NNP', ',', 'NNP', 'NNPS', 'CC', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

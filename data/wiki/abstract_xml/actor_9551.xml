@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Francis Blanche</title>
+<link/>https://en.wikipedia.org/wiki/Francis_Blanche
+<annotated>0</annotated>
+<originalabstract>Francis-Jean Blanche, known as "Francis Blanche" (20 July 1921 – 6 July 1974) was a French actor, singer, humorist and author. He was a very popular figure on stage, radio and in films, during the 1950s and 1960s.</originalabstract>
+<abstract>Francis-Jean_Blanche , known as " Francis_Blanche " ( 20_July_1921 – 6_July_1974 ) was a_French_actor , singer , humorist_and_author . He was a_very_popular_figure on stage_,_radio and in films , during the_1950s_and_1960s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Francis-Jean'), (13, 'Blanche'), (20, ','), (22, 'known'), (28, 'as'), (31, '"'), (32, 'Francis'), (40, 'Blanche'), (47, '"'), (49, '('), (50, '20'), (53, 'July'), (58, '1921'), (63, '–'), (65, '6'), (67, 'July'), (72, '1974'), (76, ')'), (78, 'was'), (82, 'a'), (84, 'French'), (91, 'actor'), (96, ','), (98, 'singer'), (104, ','), (106, 'humorist'), (115, 'and'), (119, 'author'), (125, '.'), (127, 'He'), (130, 'was'), (134, 'a'), (136, 'very'), (141, 'popular'), (149, 'figure'), (156, 'on'), (159, 'stage'), (164, ','), (166, 'radio'), (172, 'and'), (176, 'in'), (179, 'films'), (184, ','), (186, 'during'), (193, 'the'), (197, '1950s'), (203, 'and'), (207, '1960s'), (212, '.')])</stanford_tokens>
+<opennlp_chunks>[('Francis-Jean Blanche',0, 20), ('Francis Blanche',32, 47), ('20 July 1921',50, 62), ('6 July 1974',65, 76), ('a French actor',82, 96), ('humorist and author',106, 125), ('a very popular figure',134, 155), ('stage, radio',159, 171), ('the 1950s and 1960s',193, 212)]</opennlp_chunks>
+<stanford_pos>['JJ', 'NNP', ',', 'VBN', 'IN', '``', 'NNP', 'NNP', '\'\'', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'RB', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'IN', 'NNS', ',', 'IN', 'DT', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Francis'), (7, '-'), (8, 'Jean'), (13, 'Blanche'), (20, ','), (22, 'known'), (28, 'as'), (31, '"'), (32, 'Francis'), (40, 'Blanche'), (47, '"'), (49, '('), (50, '20'), (53, 'July'), (58, '1921'), (63, '–'), (65, '6'), (67, 'July'), (72, '1974'), (76, ')'), (78, 'was'), (82, 'a'), (84, 'French'), (91, 'actor'), (96, ','), (98, 'singer'), (104, ','), (106, 'humorist'), (115, 'and'), (119, 'author'), (125, '.'), (127, 'He'), (130, 'was'), (134, 'a'), (136, 'very'), (141, 'popular'), (149, 'figure'), (156, 'on'), (159, 'stage'), (164, ','), (166, 'radio'), (172, 'and'), (176, 'in'), (179, 'films'), (184, ','), (186, 'during'), (193, 'the'), (197, '1950s'), (203, 'and'), (207, '1960s'), (212, '.')])</spacy_tokens>
+<spacy_chunks>[('Francis-Jean Blanche', 0, 20), ('"Francis Blanche', 31, 47), ('" (20 July', 47, 57), ('20 July 1921', 50, 62), ('6 July 1974', 65, 76), ('a French actor', 82, 96), ('singer', 98, 104), ('humorist', 106, 114), ('author', 119, 125), ('a very popular figure', 134, 155), ('the 1950s', 193, 202)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', ',', 'VBN', 'IN', '``', 'NNP', 'NNP', "''", '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'RB', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'IN', 'NNS', ',', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

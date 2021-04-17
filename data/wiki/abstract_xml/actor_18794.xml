@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marthe Mellot</title>
+<link/>https://en.wikipedia.org/wiki/Marthe_Mellot
+<annotated>0</annotated>
+<originalabstract>Marthe Mellot (16 February 1870 - 13 August 1947) was a French film actress.Marthe Mellot was born in Cosne-Cours-sur-Loire, Nièvre, France, and died in Paris.</originalabstract>
+<abstract>Marthe_Mellot ( 16_February 1870 - 13 August_1947 ) was a_French_film_actress.Marthe_Mellot was_born in Cosne-Cours-sur-Loire , Nièvre , France , and died in Paris .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marthe'), (7, 'Mellot'), (14, '('), (15, '16'), (18, 'February'), (27, '1870'), (32, '-'), (34, '13'), (37, 'August'), (44, '1947'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'film'), (68, 'actress.Marthe'), (83, 'Mellot'), (90, 'was'), (94, 'born'), (99, 'in'), (102, 'Cosne-Cours-sur-Loire'), (123, ','), (125, 'Nièvre'), (131, ','), (133, 'France'), (139, ','), (141, 'and'), (145, 'died'), (150, 'in'), (153, 'Paris'), (158, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marthe Mellot',0, 13), ('16 February',15, 26), ('August 1947',37, 48), ('a French film actress.Marthe Mellot',54, 89), ('was born',90, 98)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'SYM', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marthe'), (7, 'Mellot'), (14, '('), (15, '16'), (18, 'February'), (27, '1870'), (32, '-'), (34, '13'), (37, 'August'), (44, '1947'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'film'), (68, 'actress'), (75, '.'), (76, 'Marthe'), (83, 'Mellot'), (90, 'was'), (94, 'born'), (99, 'in'), (102, 'Cosne'), (107, '-'), (108, 'Cours'), (113, '-'), (114, 'sur'), (117, '-'), (118, 'Loire'), (123, ','), (125, 'Nièvre'), (131, ','), (133, 'France'), (139, ','), (141, 'and'), (145, 'died'), (150, 'in'), (153, 'Paris'), (158, '.')])</spacy_tokens>
+<spacy_chunks>[('Marthe Mellot', 0, 13), ('16 February 1870', 15, 31), ('13 August 1947', 34, 48), ('a French film actress', 54, 75), ('Cosne-Cours-sur-Loire', 102, 123), ('Nièvre', 125, 131), ('France', 133, 139)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Edith Storey</title>
+<link/>https://en.wikipedia.org/wiki/Edith_Storey
+<annotated>0</annotated>
+<originalabstract>Edith Storey (March 18, 1892 – October 9, 1967) was an American actress during the silent film era. She and her brother, Richard, both had brief acting careers. Richard Storey appeared in only four films, and Edith retired in 1921, aged 29.</originalabstract>
+<abstract>Edith_Storey ( March_18_,_1892 – October_9_,_1967 ) was an_American_actress during the_silent_film_era . She and her_brother , Richard , both had brief_acting_careers . Richard_Storey appeared in only_four_films , and Edith retired in 1921 , aged 29 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edith'), (6, 'Storey'), (13, '('), (14, 'March'), (20, '18'), (22, ','), (24, '1892'), (29, '–'), (31, 'October'), (39, '9'), (40, ','), (42, '1967'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'during'), (79, 'the'), (83, 'silent'), (90, 'film'), (95, 'era'), (98, '.'), (100, 'She'), (104, 'and'), (108, 'her'), (112, 'brother'), (119, ','), (121, 'Richard'), (128, ','), (130, 'both'), (135, 'had'), (139, 'brief'), (145, 'acting'), (152, 'careers'), (159, '.'), (161, 'Richard'), (169, 'Storey'), (176, 'appeared'), (185, 'in'), (188, 'only'), (193, 'four'), (198, 'films'), (203, ','), (205, 'and'), (209, 'Edith'), (215, 'retired'), (223, 'in'), (226, '1921'), (230, ','), (232, 'aged'), (237, '29'), (239, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edith Storey',0, 12), ('March 18, 1892',14, 28), ('October 9, 1967',31, 46), ('an American actress',52, 71), ('the silent film era',79, 98), ('her brother',108, 119), ('brief acting careers',139, 159), ('Richard Storey',161, 175), ('only four films',188, 203)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'CC', 'PRP$', 'NN', ',', 'NNP', ',', 'DT', 'VBD', 'JJ', 'VBG', 'NNS', '.', 'NNP', 'NNP', 'VBD', 'IN', 'RB', 'CD', 'NNS', ',', 'CC', 'NNP', 'VBD', 'IN', 'CD', ',', 'JJ', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edith'), (6, 'Storey'), (13, '('), (14, 'March'), (20, '18'), (22, ','), (24, '1892'), (29, '–'), (31, 'October'), (39, '9'), (40, ','), (42, '1967'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'during'), (79, 'the'), (83, 'silent'), (90, 'film'), (95, 'era'), (98, '.'), (100, 'She'), (104, 'and'), (108, 'her'), (112, 'brother'), (119, ','), (121, 'Richard'), (128, ','), (130, 'both'), (135, 'had'), (139, 'brief'), (145, 'acting'), (152, 'careers'), (159, '.'), (161, 'Richard'), (169, 'Storey'), (176, 'appeared'), (185, 'in'), (188, 'only'), (193, 'four'), (198, 'films'), (203, ','), (205, 'and'), (209, 'Edith'), (215, 'retired'), (223, 'in'), (226, '1921'), (230, ','), (232, 'aged'), (237, '29'), (239, '.')])</spacy_tokens>
+<spacy_chunks>[('Edith Storey', 0, 12), ('(March', 13, 19), ('March 18, 1892', 14, 28), ('October 9, 1967', 31, 46), ('an American actress', 52, 71), ('the silent film era', 79, 98), ('her brother', 108, 119), ('Richard', 121, 128), ('brief acting careers', 139, 159), ('Richard Storey', 161, 175), ('only four films', 188, 203)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'CC', 'PRP$', 'NN', ',', 'NNP', ',', 'DT', 'VBD', 'JJ', 'NN', 'NNS', '.', 'NNP', 'NNP', 'VBD', 'IN', 'RB', 'CD', 'NNS', ',', 'CC', 'NNP', 'VBD', 'IN', 'CD', ',', 'VBN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

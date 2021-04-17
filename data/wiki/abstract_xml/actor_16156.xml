@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Victoria Abril</title>
+<link/>https://en.wikipedia.org/wiki/Victoria_Abril
+<annotated>0</annotated>
+<originalabstract>Victoria Mérida Rojas (born 4 July 1959), better known as Victoria Abril, is a Spanish film actress and singer. She is possibly best known to international audiences for her performance in the movie ¡Átame! (Tie Me Up! Tie Me Down!) by director Pedro Almodóvar.</originalabstract>
+<abstract>Victoria_Mérida_Rojas ( born 4_July_1959 ) , better_known as Victoria_Abril , is a_Spanish_film_actress_and_singer . She is_possibly_best_known to international_audiences for her_performance in the_movie_¡_Átame ! ( Tie Me Up ! Tie Me Down ! ) by director_Pedro_Almodóvar .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Victoria'), (9, 'Mérida'), (16, 'Rojas'), (22, '('), (23, 'born'), (28, '4'), (30, 'July'), (35, '1959'), (39, ')'), (40, ','), (42, 'better'), (49, 'known'), (55, 'as'), (58, 'Victoria'), (67, 'Abril'), (72, ','), (74, 'is'), (77, 'a'), (79, 'Spanish'), (87, 'film'), (92, 'actress'), (100, 'and'), (104, 'singer'), (110, '.'), (112, 'She'), (116, 'is'), (119, 'possibly'), (128, 'best'), (133, 'known'), (139, 'to'), (142, 'international'), (156, 'audiences'), (166, 'for'), (170, 'her'), (174, 'performance'), (186, 'in'), (189, 'the'), (193, 'movie'), (199, '¡'), (200, 'Átame'), (205, '!'), (207, '('), (208, 'Tie'), (212, 'Me'), (215, 'Up'), (217, '!'), (219, 'Tie'), (223, 'Me'), (226, 'Down'), (230, '!'), (231, ')'), (233, 'by'), (236, 'director'), (245, 'Pedro'), (251, 'Almodóvar'), (260, '.')])</stanford_tokens>
+<opennlp_chunks>[('Victoria Mérida Rojas',0, 21), ('4 July 1959',28, 39), ('better known',42, 54), ('Victoria Abril',58, 72), ('a Spanish film actress and singer',77, 110), ('is possibly best known',116, 138), ('international audiences',142, 165), ('her performance',170, 185), ('the movie ¡Átame',189, 205), ('director Pedro Almodóvar',236, 260)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'TO', 'JJ', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'CD', 'NNP', '.', '-LRB-', 'VB', 'PRP', 'IN', '.', 'VB', 'PRP', 'IN', '.', '-RRB-', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Victoria'), (9, 'Mérida'), (16, 'Rojas'), (22, '('), (23, 'born'), (28, '4'), (30, 'July'), (35, '1959'), (39, ')'), (40, ','), (42, 'better'), (49, 'known'), (55, 'as'), (58, 'Victoria'), (67, 'Abril'), (72, ','), (74, 'is'), (77, 'a'), (79, 'Spanish'), (87, 'film'), (92, 'actress'), (100, 'and'), (104, 'singer'), (110, '.'), (112, 'She'), (116, 'is'), (119, 'possibly'), (128, 'best'), (133, 'known'), (139, 'to'), (142, 'international'), (156, 'audiences'), (166, 'for'), (170, 'her'), (174, 'performance'), (186, 'in'), (189, 'the'), (193, 'movie'), (199, '¡'), (200, 'Átame'), (205, '!'), (207, '('), (208, 'Tie'), (212, 'Me'), (215, 'Up'), (217, '!'), (219, 'Tie'), (223, 'Me'), (226, 'Down'), (230, '!'), (231, ')'), (233, 'by'), (236, 'director'), (245, 'Pedro'), (251, 'Almodóvar'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('Victoria Mérida Rojas', 0, 21), ('4 July 1959', 28, 39), ('Victoria Abril', 58, 72), ('a Spanish film actress', 77, 99), ('singer', 104, 110), ('international audiences', 142, 165), ('her performance', 170, 185), ('the movie', 189, 198), ('¡Átame', 199, 205), ('Tie Me Up! Tie Me Down!', 208, 231), ('director Pedro Almodóvar', 236, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'JJ', 'IN', 'JJ', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', '-LRB-', 'VB', 'PRP', 'RP', '.', 'VB', 'PRP', 'RP', '.', '-RRB-', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

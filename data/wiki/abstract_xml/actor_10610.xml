@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marti Barris</title>
+<link/>https://en.wikipedia.org/wiki/Marti_Barris
+<annotated>0</annotated>
+<originalabstract>Marti Barris (April 6, 1937 – December 13, 1995) was an American actress and popular singer. She recorded for Keen Records during the late 1950s and early 1960s, but never had a big hit. She was the daughter of Harry Barris and Loyce Whiteman, both musicians.</originalabstract>
+<abstract>Marti_Barris ( April_6_,_1937 – December_13_,_1995 ) was an_American_actress and popular_singer . She recorded for Keen_Records during the_late_1950s and early_1960s , but never_had a_big_hit . She was the_daughter of Harry_Barris and Loyce_Whiteman , both_musicians .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marti'), (6, 'Barris'), (13, '('), (14, 'April'), (20, '6'), (21, ','), (23, '1937'), (28, '–'), (30, 'December'), (39, '13'), (41, ','), (43, '1995'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actress'), (73, 'and'), (77, 'popular'), (85, 'singer'), (91, '.'), (93, 'She'), (97, 'recorded'), (106, 'for'), (110, 'Keen'), (115, 'Records'), (123, 'during'), (130, 'the'), (134, 'late'), (139, '1950s'), (145, 'and'), (149, 'early'), (155, '1960s'), (160, ','), (162, 'but'), (166, 'never'), (172, 'had'), (176, 'a'), (178, 'big'), (182, 'hit'), (185, '.'), (187, 'She'), (191, 'was'), (195, 'the'), (199, 'daughter'), (208, 'of'), (211, 'Harry'), (217, 'Barris'), (224, 'and'), (228, 'Loyce'), (234, 'Whiteman'), (242, ','), (244, 'both'), (249, 'musicians'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marti Barris',0, 12), ('April 6, 1937',14, 27), ('December 13, 1995',30, 47), ('an American actress',53, 72), ('popular singer',77, 91), ('Keen Records',110, 122), ('the late 1950s',130, 144), ('early 1960s',149, 160), ('never had',166, 175), ('a big hit',176, 185), ('the daughter',195, 207), ('Harry Barris',211, 223), ('Loyce Whiteman',228, 242), ('both musicians',244, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', ',', 'CC', 'RB', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marti'), (6, 'Barris'), (13, '('), (14, 'April'), (20, '6'), (21, ','), (23, '1937'), (28, '–'), (30, 'December'), (39, '13'), (41, ','), (43, '1995'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actress'), (73, 'and'), (77, 'popular'), (85, 'singer'), (91, '.'), (93, 'She'), (97, 'recorded'), (106, 'for'), (110, 'Keen'), (115, 'Records'), (123, 'during'), (130, 'the'), (134, 'late'), (139, '1950s'), (145, 'and'), (149, 'early'), (155, '1960s'), (160, ','), (162, 'but'), (166, 'never'), (172, 'had'), (176, 'a'), (178, 'big'), (182, 'hit'), (185, '.'), (187, 'She'), (191, 'was'), (195, 'the'), (199, 'daughter'), (208, 'of'), (211, 'Harry'), (217, 'Barris'), (224, 'and'), (228, 'Loyce'), (234, 'Whiteman'), (242, ','), (244, 'both'), (249, 'musicians'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Marti Barris', 0, 12), ('(April', 13, 19), ('April 6, 1937', 14, 27), ('December 13, 1995', 30, 47), ('an American actress', 53, 72), ('popular singer', 77, 91), ('Keen Records', 110, 122), ('the late 1950s', 130, 144), ('early 1960s', 149, 160), ('a big hit', 176, 185), ('the daughter', 195, 207), ('Harry Barris', 211, 223), ('Loyce Whiteman', 228, 242), ('both musicians', 244, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNPS', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', ',', 'CC', 'RB', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

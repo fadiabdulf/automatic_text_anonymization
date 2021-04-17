@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alison Carroll</title>
+<link/>https://en.wikipedia.org/wiki/Alison_Carroll
+<annotated>0</annotated>
+<originalabstract>Alison Laura Carroll (born 21 May 1985) is an English gymnast, model, and actress. She was the live-action model of the video game character Lara Croft from 2008 to 2010.</originalabstract>
+<abstract>Alison_Laura_Carroll ( born 21_May_1985 ) is an_English_gymnast , model , and actress . She was the_live-action_model of the_video_game_character_Lara_Croft from 2008 to 2010 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alison'), (7, 'Laura'), (13, 'Carroll'), (21, '('), (22, 'born'), (27, '21'), (30, 'May'), (34, '1985'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'English'), (54, 'gymnast'), (61, ','), (63, 'model'), (68, ','), (70, 'and'), (74, 'actress'), (81, '.'), (83, 'She'), (87, 'was'), (91, 'the'), (95, 'live-action'), (107, 'model'), (113, 'of'), (116, 'the'), (120, 'video'), (126, 'game'), (131, 'character'), (141, 'Lara'), (146, 'Croft'), (152, 'from'), (157, '2008'), (162, 'to'), (165, '2010'), (169, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alison Laura Carroll',0, 20), ('21 May 1985',27, 38), ('an English gymnast',43, 61), ('the live-action model',91, 112), ('the video game character Lara Croft',116, 151)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alison'), (7, 'Laura'), (13, 'Carroll'), (21, '('), (22, 'born'), (27, '21'), (30, 'May'), (34, '1985'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'English'), (54, 'gymnast'), (61, ','), (63, 'model'), (68, ','), (70, 'and'), (74, 'actress'), (81, '.'), (83, 'She'), (87, 'was'), (91, 'the'), (95, 'live'), (99, '-'), (100, 'action'), (107, 'model'), (113, 'of'), (116, 'the'), (120, 'video'), (126, 'game'), (131, 'character'), (141, 'Lara'), (146, 'Croft'), (152, 'from'), (157, '2008'), (162, 'to'), (165, '2010'), (169, '.')])</spacy_tokens>
+<spacy_chunks>[('Alison Laura Carroll', 0, 20), ('21 May 1985', 27, 38), ('an English gymnast', 43, 61), ('actress', 74, 81), ('the live-action model', 91, 112), ('the video game character', 116, 140), ('Lara Croft', 141, 151)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'HYPH', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

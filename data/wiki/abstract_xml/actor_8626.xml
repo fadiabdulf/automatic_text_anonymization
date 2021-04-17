@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Longden</title>
+<link/>https://en.wikipedia.org/wiki/John_Longden
+<annotated>0</annotated>
+<originalabstract>John Longden (11 November 1900 – 26 May 1971) was a West Indian-born English film actor. He appeared in 84 films between 1926 and 1964, including five films directed by Alfred Hitchcock.</originalabstract>
+<abstract>John_Longden ( 11_November_1900 – 26_May_1971 ) was a_West_Indian-born_English_film_actor . He appeared in 84_films between 1926_and_1964 , including five_films directed by Alfred_Hitchcock .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Longden'), (13, '('), (14, '11'), (17, 'November'), (26, '1900'), (31, '–'), (33, '26'), (36, 'May'), (40, '1971'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'West'), (57, 'Indian-born'), (69, 'English'), (77, 'film'), (82, 'actor'), (87, '.'), (89, 'He'), (92, 'appeared'), (101, 'in'), (104, '84'), (107, 'films'), (113, 'between'), (121, '1926'), (126, 'and'), (130, '1964'), (134, ','), (136, 'including'), (146, 'five'), (151, 'films'), (157, 'directed'), (166, 'by'), (169, 'Alfred'), (176, 'Hitchcock'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Longden',0, 12), ('11 November 1900',14, 30), ('26 May 1971',33, 44), ('a West Indian-born English film actor',50, 87), ('84 films',104, 112), ('1926 and 1964',121, 134), ('five films',146, 156), ('Alfred Hitchcock',169, 185)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'JJ', 'NNP', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Longden'), (13, '('), (14, '11'), (17, 'November'), (26, '1900'), (31, '–'), (33, '26'), (36, 'May'), (40, '1971'), (44, ')'), (46, 'was'), (50, 'a'), (52, 'West'), (57, 'Indian'), (63, '-'), (64, 'born'), (69, 'English'), (77, 'film'), (82, 'actor'), (87, '.'), (89, 'He'), (92, 'appeared'), (101, 'in'), (104, '84'), (107, 'films'), (113, 'between'), (121, '1926'), (126, 'and'), (130, '1964'), (134, ','), (136, 'including'), (146, 'five'), (151, 'films'), (157, 'directed'), (166, 'by'), (169, 'Alfred'), (176, 'Hitchcock'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('John Longden', 0, 12), ('11 November 1900', 14, 30), ('26 May 1971', 33, 44), ('a West Indian-born English film actor', 50, 87), ('84 films', 104, 112), ('five films', 146, 156), ('Alfred Hitchcock', 169, 185)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Delphine Seyrig</title>
+<link/>https://en.wikipedia.org/wiki/Delphine_Seyrig
+<annotated>0</annotated>
+<originalabstract>Delphine Claire Beltiane Seyrig (French: [sɛʁiɡ]; 10 April 1932 – 15 October 1990) was a Lebanese-born French stage and film actress, a film director and a feminist.</originalabstract>
+<abstract>Delphine_Claire_Beltiane_Seyrig ( French : [_sɛʁiɡ_] ; 10_April_1932 – 15_October_1990 ) was a_Lebanese-born_French_stage_and_film_actress , a_film_director and a_feminist .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Delphine'), (9, 'Claire'), (16, 'Beltiane'), (25, 'Seyrig'), (32, '('), (33, 'French'), (39, ':'), (41, '['), (42, 'sɛʁiɡ'), (47, ']'), (48, ';'), (50, '10'), (53, 'April'), (59, '1932'), (64, '–'), (66, '15'), (69, 'October'), (77, '1990'), (81, ')'), (83, 'was'), (87, 'a'), (89, 'Lebanese-born'), (103, 'French'), (110, 'stage'), (116, 'and'), (120, 'film'), (125, 'actress'), (132, ','), (134, 'a'), (136, 'film'), (141, 'director'), (150, 'and'), (154, 'a'), (156, 'feminist'), (164, '.')])</stanford_tokens>
+<opennlp_chunks>[('Delphine Claire Beltiane Seyrig',0, 31), ('[sɛʁiɡ]',41, 48), ('10 April 1932',50, 63), ('15 October 1990',66, 81), ('a Lebanese-born French stage and film actress',87, 132), ('a film director',134, 149), ('a feminist',154, 164)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NN', '-RRB-', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'DT', 'NN', 'NN', 'CC', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Delphine'), (9, 'Claire'), (16, 'Beltiane'), (25, 'Seyrig'), (32, '('), (33, 'French'), (39, ':'), (41, '['), (42, 'sɛʁiɡ'), (47, ']'), (48, ';'), (50, '10'), (53, 'April'), (59, '1932'), (64, '–'), (66, '15'), (69, 'October'), (77, '1990'), (81, ')'), (83, 'was'), (87, 'a'), (89, 'Lebanese'), (97, '-'), (98, 'born'), (103, 'French'), (110, 'stage'), (116, 'and'), (120, 'film'), (125, 'actress'), (132, ','), (134, 'a'), (136, 'film'), (141, 'director'), (150, 'and'), (154, 'a'), (156, 'feminist'), (164, '.')])</spacy_tokens>
+<spacy_chunks>[('Delphine Claire Beltiane Seyrig', 0, 31), ('(French', 32, 39), ('[sɛʁiɡ', 41, 47), ('10 April 1932', 50, 63), ('15 October 1990', 66, 81), ('a Lebanese-born French stage and film actress', 87, 132), ('a film director', 134, 149), ('a feminist', 154, 164)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NN', '-RRB-', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'DT', 'NN', 'NN', 'CC', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

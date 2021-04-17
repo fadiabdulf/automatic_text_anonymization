@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Reginald Tate</title>
+<link/>https://en.wikipedia.org/wiki/Reginald_Tate
+<annotated>0</annotated>
+<originalabstract>Reginald Tate (13 December 1896 – 23 August 1955) was an English actor, veteran of many roles on stage, in films and on television. He is remembered best as the first actor to play the television science-fiction character Professor Bernard Quatermass, in the 1953 BBC Television serial The Quatermass Experiment.</originalabstract>
+<abstract>Reginald_Tate ( 13_December_1896 – 23_August_1955 ) was an_English_actor , veteran of many_roles on stage , in films and on television . He is_remembered best as the_first_actor to_play the_television_science-fiction_character_Professor_Bernard_Quatermass , in the_1953_BBC_Television_serial The_Quatermass_Experiment .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Reginald'), (9, 'Tate'), (14, '('), (15, '13'), (18, 'December'), (27, '1896'), (32, '–'), (34, '23'), (37, 'August'), (44, '1955'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'English'), (65, 'actor'), (70, ','), (72, 'veteran'), (80, 'of'), (83, 'many'), (88, 'roles'), (94, 'on'), (97, 'stage'), (102, ','), (104, 'in'), (107, 'films'), (113, 'and'), (117, 'on'), (120, 'television'), (130, '.'), (132, 'He'), (135, 'is'), (138, 'remembered'), (149, 'best'), (154, 'as'), (157, 'the'), (161, 'first'), (167, 'actor'), (173, 'to'), (176, 'play'), (181, 'the'), (185, 'television'), (196, 'science-fiction'), (212, 'character'), (222, 'Professor'), (232, 'Bernard'), (240, 'Quatermass'), (250, ','), (252, 'in'), (255, 'the'), (259, '1953'), (264, 'BBC'), (268, 'Television'), (279, 'serial'), (286, 'The'), (290, 'Quatermass'), (301, 'Experiment'), (311, '.')])</stanford_tokens>
+<opennlp_chunks>[('Reginald Tate',0, 13), ('13 December 1896',15, 31), ('23 August 1955',34, 48), ('an English actor',54, 70), ('many roles',83, 93), ('is remembered',135, 148), ('the first actor',157, 172), ('to play',173, 180), ('the television science-fiction character Professor Bernard Quatermass',181, 250), ('the 1953 BBC Television serial',255, 285), ('The Quatermass Experiment',286, 311)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'NN', ',', 'IN', 'NNS', 'CC', 'IN', 'NN', '.', 'PRP', 'VBZ', 'JJ', 'RB', 'IN', 'DT', 'JJ', 'NN', 'TO', 'VB', 'DT', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', ',', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'DT', 'NNPS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Reginald'), (9, 'Tate'), (14, '('), (15, '13'), (18, 'December'), (27, '1896'), (32, '–'), (34, '23'), (37, 'August'), (44, '1955'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'English'), (65, 'actor'), (70, ','), (72, 'veteran'), (80, 'of'), (83, 'many'), (88, 'roles'), (94, 'on'), (97, 'stage'), (102, ','), (104, 'in'), (107, 'films'), (113, 'and'), (117, 'on'), (120, 'television'), (130, '.'), (132, 'He'), (135, 'is'), (138, 'remembered'), (149, 'best'), (154, 'as'), (157, 'the'), (161, 'first'), (167, 'actor'), (173, 'to'), (176, 'play'), (181, 'the'), (185, 'television'), (196, 'science'), (203, '-'), (204, 'fiction'), (212, 'character'), (222, 'Professor'), (232, 'Bernard'), (240, 'Quatermass'), (250, ','), (252, 'in'), (255, 'the'), (259, '1953'), (264, 'BBC'), (268, 'Television'), (279, 'serial'), (286, 'The'), (290, 'Quatermass'), (301, 'Experiment'), (311, '.')])</spacy_tokens>
+<spacy_chunks>[('Reginald Tate', 0, 13), ('13 December 1896', 15, 31), ('23 August 1955', 34, 48), ('an English actor', 54, 70), ('veteran', 72, 79), ('many roles', 83, 93), ('Television', 120, 130), ('the first actor', 157, 172), ('the television science-fiction character', 181, 221), ('Professor Bernard Quatermass', 222, 250), ('the 1953 BBC Television serial', 255, 285), ('The Quatermass Experiment', 286, 311)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'NN', ',', 'IN', 'NNS', 'CC', 'IN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'RBS', 'IN', 'DT', 'JJ', 'NN', 'TO', 'VB', 'DT', 'NN', 'NN', 'HYPH', 'NN', 'NN', 'NNP', 'NNP', 'NNP', ',', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marion Mack</title>
+<link/>https://en.wikipedia.org/wiki/Marion_Mack
+<annotated>0</annotated>
+<originalabstract>Marion Mack (April 8, 1902 – May 1, 1989) was an American film actress, scriptwriter and real estate broker. Mack is best known for co-starring with Buster Keaton in the 1926 silent comedy film, The General.</originalabstract>
+<abstract>Marion_Mack ( April_8_,_1902 – May_1_,_1989 ) was an_American_film_actress , scriptwriter and real_estate_broker . Mack is_best_known for co-starring with Buster_Keaton in the_1926_silent_comedy_film , The_General .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marion'), (7, 'Mack'), (12, '('), (13, 'April'), (19, '8'), (20, ','), (22, '1902'), (27, '–'), (29, 'May'), (33, '1'), (34, ','), (36, '1989'), (40, ')'), (42, 'was'), (46, 'an'), (49, 'American'), (58, 'film'), (63, 'actress'), (70, ','), (72, 'scriptwriter'), (85, 'and'), (89, 'real'), (94, 'estate'), (101, 'broker'), (107, '.'), (109, 'Mack'), (114, 'is'), (117, 'best'), (122, 'known'), (128, 'for'), (132, 'co-starring'), (144, 'with'), (149, 'Buster'), (156, 'Keaton'), (163, 'in'), (166, 'the'), (170, '1926'), (175, 'silent'), (182, 'comedy'), (189, 'film'), (193, ','), (195, 'The'), (199, 'General'), (206, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marion Mack',0, 11), ('April 8, 1902',13, 26), ('May 1, 1989',29, 40), ('an American film actress',46, 70), ('real estate broker',89, 107), ('is best known',114, 127), ('Buster Keaton',149, 162), ('the 1926 silent comedy film',166, 193), ('The General',195, 206)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'NN', 'NN', ',', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marion'), (7, 'Mack'), (12, '('), (13, 'April'), (19, '8'), (20, ','), (22, '1902'), (27, '–'), (29, 'May'), (33, '1'), (34, ','), (36, '1989'), (40, ')'), (42, 'was'), (46, 'an'), (49, 'American'), (58, 'film'), (63, 'actress'), (70, ','), (72, 'scriptwriter'), (85, 'and'), (89, 'real'), (94, 'estate'), (101, 'broker'), (107, '.'), (109, 'Mack'), (114, 'is'), (117, 'best'), (122, 'known'), (128, 'for'), (132, 'co'), (134, '-'), (135, 'starring'), (144, 'with'), (149, 'Buster'), (156, 'Keaton'), (163, 'in'), (166, 'the'), (170, '1926'), (175, 'silent'), (182, 'comedy'), (189, 'film'), (193, ','), (195, 'The'), (199, 'General'), (206, '.')])</spacy_tokens>
+<spacy_chunks>[('Marion Mack', 0, 11), ('(April', 12, 18), ('April 8, 1902', 13, 26), ('May 1, 1989', 29, 40), ('an American film actress', 46, 70), ('scriptwriter', 72, 84), ('real estate broker', 89, 107), ('co-starring', 132, 143), ('Buster Keaton', 149, 162), ('the 1926 silent comedy film', 166, 193), ('The General', 195, 206)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'VBN', 'IN', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'NN', 'NN', ',', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

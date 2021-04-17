@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>George Kuwa</title>
+<link/>https://en.wikipedia.org/wiki/George_Kuwa
+<annotated>0</annotated>
+<originalabstract>George Kuwa (7 April 1885 – 13 October 1931) was a Japanese and American Issei (Japanese immigrant) film actor of the silent era.  He appeared in 58 films between 1916 and 1931. He was the first actor to portray Charlie Chan on-screen, in the 1926 film serial The House Without a Key.</originalabstract>
+<abstract>George_Kuwa ( 7_April_1885 – 13_October_1931 ) was a_Japanese_and_American_Issei ( Japanese_immigrant ) film_actor of the_silent_era . He appeared in 58_films between 1916_and_1931 . He was the_first_actor to_portray Charlie_Chan_on-screen , in the_1926_film_serial The_House Without a_Key .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Kuwa'), (12, '('), (13, '7'), (15, 'April'), (21, '1885'), (26, '–'), (28, '13'), (31, 'October'), (39, '1931'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'Japanese'), (60, 'and'), (64, 'American'), (73, 'Issei'), (79, '('), (80, 'Japanese'), (89, 'immigrant'), (98, ')'), (100, 'film'), (105, 'actor'), (111, 'of'), (114, 'the'), (118, 'silent'), (125, 'era'), (128, '.'), (131, 'He'), (134, 'appeared'), (143, 'in'), (146, '58'), (149, 'films'), (155, 'between'), (163, '1916'), (168, 'and'), (172, '1931'), (176, '.'), (178, 'He'), (181, 'was'), (185, 'the'), (189, 'first'), (195, 'actor'), (201, 'to'), (204, 'portray'), (212, 'Charlie'), (220, 'Chan'), (225, 'on-screen'), (234, ','), (236, 'in'), (239, 'the'), (243, '1926'), (248, 'film'), (253, 'serial'), (260, 'The'), (264, 'House'), (270, 'Without'), (278, 'a'), (280, 'Key'), (283, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Kuwa',0, 11), ('7 April 1885',13, 25), ('13 October 1931',28, 43), ('a Japanese and American Issei',49, 78), ('Japanese immigrant',80, 98), ('film actor',100, 110), ('the silent era',114, 128), ('58 films',146, 154), ('1916 and 1931',163, 176), ('the first actor',185, 200), ('to portray',201, 211), ('Charlie Chan on-screen',212, 234), ('the 1926 film serial',239, 259), ('The House',260, 269), ('a Key',278, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'CC', 'JJ', 'NN', '-LRB-', 'JJ', 'JJ', '-RRB-', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'TO', 'VB', 'NNP', 'NNP', 'JJ', ',', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'NNP', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Kuwa'), (12, '('), (13, '7'), (15, 'April'), (21, '1885'), (26, '–'), (28, '13'), (31, 'October'), (39, '1931'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'Japanese'), (60, 'and'), (64, 'American'), (73, 'Issei'), (79, '('), (80, 'Japanese'), (89, 'immigrant'), (98, ')'), (100, 'film'), (105, 'actor'), (111, 'of'), (114, 'the'), (118, 'silent'), (125, 'era'), (128, '.'), (131, 'He'), (134, 'appeared'), (143, 'in'), (146, '58'), (149, 'films'), (155, 'between'), (163, '1916'), (168, 'and'), (172, '1931'), (176, '.'), (178, 'He'), (181, 'was'), (185, 'the'), (189, 'first'), (195, 'actor'), (201, 'to'), (204, 'portray'), (212, 'Charlie'), (220, 'Chan'), (225, 'on'), (227, '-'), (228, 'screen'), (234, ','), (236, 'in'), (239, 'the'), (243, '1926'), (248, 'film'), (253, 'serial'), (260, 'The'), (264, 'House'), (270, 'Without'), (278, 'a'), (280, 'Key'), (283, '.')])</spacy_tokens>
+<spacy_chunks>[('George Kuwa', 0, 11), ('(7 April', 12, 20), ('7 April 1885', 13, 25), ('13 October 1931', 28, 43), ('a Japanese and American Issei', 49, 78), ('Japanese immigrant) film actor', 80, 110), ('the silent era', 114, 128), ('58 films', 146, 154), ('the first actor', 185, 200), ('Charlie Chan', 212, 224), ('screen', 228, 234), ('the 1926 film serial', 239, 259), ('The House Without a Key', 260, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'CC', 'JJ', 'NNP', '-LRB-', 'JJ', 'NN', '-RRB-', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'TO', 'VB', 'NNP', 'NNP', 'IN', 'HYPH', 'NN', ',', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'NNP', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

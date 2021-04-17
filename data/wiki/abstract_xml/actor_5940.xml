@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eric Schaeffer</title>
+<link/>https://en.wikipedia.org/wiki/Eric_Schaeffer
+<annotated>0</annotated>
+<originalabstract>Eric Schaeffer (born January 22, 1962) is an American actor, writer and director.</originalabstract>
+<abstract>Eric_Schaeffer ( born January_22_,_1962 ) is an_American_actor_,_writer_and_director .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eric'), (5, 'Schaeffer'), (15, '('), (16, 'born'), (21, 'January'), (29, '22'), (31, ','), (33, '1962'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, ','), (61, 'writer'), (68, 'and'), (72, 'director'), (80, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eric Schaeffer',0, 14), ('January 22, 1962',21, 37), ('an American actor, writer and director',42, 80)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eric'), (5, 'Schaeffer'), (15, '('), (16, 'born'), (21, 'January'), (29, '22'), (31, ','), (33, '1962'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, ','), (61, 'writer'), (68, 'and'), (72, 'director'), (80, '.')])</spacy_tokens>
+<spacy_chunks>[('Eric Schaeffer', 0, 14), ('January 22, 1962', 21, 37), ('an American actor', 42, 59), ('writer', 61, 67), ('director', 72, 80)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

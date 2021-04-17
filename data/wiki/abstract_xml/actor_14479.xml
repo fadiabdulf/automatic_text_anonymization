@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Donna Pescow</title>
+<link/>https://en.wikipedia.org/wiki/Donna_Pescow
+<annotated>0</annotated>
+<originalabstract>Donna Pescow (born March 24, 1954) is an American film and television actress and director. She is known for her co-starring roles as Annette in the 1977 film Saturday Night Fever, Donna Garland in the sitcom Out of This World, and Eileen Stevens in the Disney Channel sitcom Even Stevens.</originalabstract>
+<abstract>Donna_Pescow ( born March_24_,_1954 ) is an_American_film_and_television_actress_and_director . She is_known for her_co-starring_roles as Annette in the_1977_film_Saturday_Night_Fever , Donna_Garland in the_sitcom Out of This_World , and Eileen_Stevens in the_Disney_Channel_sitcom Even Stevens .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Donna'), (6, 'Pescow'), (13, '('), (14, 'born'), (19, 'March'), (25, '24'), (27, ','), (29, '1954'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'film'), (55, 'and'), (59, 'television'), (70, 'actress'), (78, 'and'), (82, 'director'), (90, '.'), (92, 'She'), (96, 'is'), (99, 'known'), (105, 'for'), (109, 'her'), (113, 'co-starring'), (125, 'roles'), (131, 'as'), (134, 'Annette'), (142, 'in'), (145, 'the'), (149, '1977'), (154, 'film'), (159, 'Saturday'), (168, 'Night'), (174, 'Fever'), (179, ','), (181, 'Donna'), (187, 'Garland'), (195, 'in'), (198, 'the'), (202, 'sitcom'), (209, 'Out'), (213, 'of'), (216, 'This'), (221, 'World'), (226, ','), (228, 'and'), (232, 'Eileen'), (239, 'Stevens'), (247, 'in'), (250, 'the'), (254, 'Disney'), (261, 'Channel'), (269, 'sitcom'), (276, 'Even'), (281, 'Stevens'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Donna Pescow',0, 12), ('March 24, 1954',19, 33), ('an American film and television actress and director',38, 90), ('is known',96, 104), ('her co-starring roles',109, 130), ('the 1977 film Saturday Night Fever',145, 179), ('Donna Garland',181, 194), ('the sitcom',198, 208), ('This World',216, 226), ('Eileen Stevens',232, 246), ('the Disney Channel sitcom',250, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'NN', ',', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'IN', 'DT', 'NN', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'RB', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Donna'), (6, 'Pescow'), (13, '('), (14, 'born'), (19, 'March'), (25, '24'), (27, ','), (29, '1954'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'film'), (55, 'and'), (59, 'television'), (70, 'actress'), (78, 'and'), (82, 'director'), (90, '.'), (92, 'She'), (96, 'is'), (99, 'known'), (105, 'for'), (109, 'her'), (113, 'co'), (115, '-'), (116, 'starring'), (125, 'roles'), (131, 'as'), (134, 'Annette'), (142, 'in'), (145, 'the'), (149, '1977'), (154, 'film'), (159, 'Saturday'), (168, 'Night'), (174, 'Fever'), (179, ','), (181, 'Donna'), (187, 'Garland'), (195, 'in'), (198, 'the'), (202, 'sitcom'), (209, 'Out'), (213, 'of'), (216, 'This'), (221, 'World'), (226, ','), (228, 'and'), (232, 'Eileen'), (239, 'Stevens'), (247, 'in'), (250, 'the'), (254, 'Disney'), (261, 'Channel'), (269, 'sitcom'), (276, 'Even'), (281, 'Stevens'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Donna Pescow', 0, 12), ('March 24, 1954', 19, 33), ('an American film and television actress', 38, 77), ('director', 82, 90), ('her co-starring roles', 109, 130), ('Annette', 134, 141), ('the 1977 film', 145, 158), ('Saturday Night Fever', 159, 179), ('Donna Garland', 181, 194), ('the sitcom', 198, 208), ('Out of This World', 209, 226), ('Eileen Stevens', 232, 246), ('the Disney Channel sitcom', 250, 275), ('Even Stevens', 276, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'JJ', 'JJ', 'JJ', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'IN', 'DT', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'RB', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

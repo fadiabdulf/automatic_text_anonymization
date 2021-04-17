@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>André Deed</title>
+<link/>https://en.wikipedia.org/wiki/Andr%C3%A9_Deed
+<annotated>0</annotated>
+<originalabstract>Henri André Chapais, known as André Deed (22 February 1879 – 4 October 1940), was a French actor and director, best known for his Foolshead comedies, produced in the 1900s and 1910s. André Deed was one of the first named actors in cinema, and his film series based around Foolshead were a global success.</originalabstract>
+<abstract>Henri_André_Chapais , known as André_Deed ( 22_February_1879 – 4_October_1940 ) , was a_French_actor_and_director , best_known for his_Foolshead_comedies , produced in the_1900s_and_1910s . André_Deed was one of the_first_named_actors in cinema , and his_film_series based around Foolshead were a_global_success .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Henri'), (6, 'André'), (12, 'Chapais'), (19, ','), (21, 'known'), (27, 'as'), (30, 'André'), (36, 'Deed'), (41, '('), (42, '22'), (45, 'February'), (54, '1879'), (59, '–'), (61, '4'), (63, 'October'), (71, '1940'), (75, ')'), (76, ','), (78, 'was'), (82, 'a'), (84, 'French'), (91, 'actor'), (97, 'and'), (101, 'director'), (109, ','), (111, 'best'), (116, 'known'), (122, 'for'), (126, 'his'), (130, 'Foolshead'), (140, 'comedies'), (148, ','), (150, 'produced'), (159, 'in'), (162, 'the'), (166, '1900s'), (172, 'and'), (176, '1910s'), (181, '.'), (183, 'André'), (189, 'Deed'), (194, 'was'), (198, 'one'), (202, 'of'), (205, 'the'), (209, 'first'), (215, 'named'), (221, 'actors'), (228, 'in'), (231, 'cinema'), (237, ','), (239, 'and'), (243, 'his'), (247, 'film'), (252, 'series'), (259, 'based'), (265, 'around'), (272, 'Foolshead'), (282, 'were'), (287, 'a'), (289, 'global'), (296, 'success'), (303, '.')])</stanford_tokens>
+<opennlp_chunks>[('Henri André Chapais',0, 19), ('André Deed',30, 40), ('22 February 1879',42, 58), ('4 October 1940',61, 75), ('a French actor and director',82, 109), ('best known',111, 121), ('his Foolshead comedies',126, 148), ('the 1900s and 1910s',162, 181), ('André Deed',183, 193), ('the first named actors',205, 227), ('his film series',243, 258), ('a global success',287, 303)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'NNS', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNP', 'NNS', ',', 'VBN', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'NNP', 'NNP', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'VBN', 'NNS', 'IN', 'NN', ',', 'CC', 'PRP$', 'NN', 'NN', 'VBN', 'IN', 'NNP', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Henri'), (6, 'André'), (12, 'Chapais'), (19, ','), (21, 'known'), (27, 'as'), (30, 'André'), (36, 'Deed'), (41, '('), (42, '22'), (45, 'February'), (54, '1879'), (59, '–'), (61, '4'), (63, 'October'), (71, '1940'), (75, ')'), (76, ','), (78, 'was'), (82, 'a'), (84, 'French'), (91, 'actor'), (97, 'and'), (101, 'director'), (109, ','), (111, 'best'), (116, 'known'), (122, 'for'), (126, 'his'), (130, 'Foolshead'), (140, 'comedies'), (148, ','), (150, 'produced'), (159, 'in'), (162, 'the'), (166, '1900s'), (172, 'and'), (176, '1910s'), (181, '.'), (183, 'André'), (189, 'Deed'), (194, 'was'), (198, 'one'), (202, 'of'), (205, 'the'), (209, 'first'), (215, 'named'), (221, 'actors'), (228, 'in'), (231, 'cinema'), (237, ','), (239, 'and'), (243, 'his'), (247, 'film'), (252, 'series'), (259, 'based'), (265, 'around'), (272, 'Foolshead'), (282, 'were'), (287, 'a'), (289, 'global'), (296, 'success'), (303, '.')])</spacy_tokens>
+<spacy_chunks>[('Henri André Chapais', 0, 19), ('André Deed', 30, 40), ('22 February 1879', 42, 58), ('– 4 October', 59, 70), ('4 October 1940', 61, 75), ('a French actor', 82, 96), ('director', 101, 109), ('his Foolshead comedies', 126, 148), ('the 1900s', 162, 171), ('the first named actors', 205, 227), ('cinema', 231, 237), ('his film series', 243, 258), ('a global success', 287, 303)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNP', 'NNS', ',', 'VBN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'NNP', 'NNP', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'VBN', 'NNS', 'IN', 'NN', ',', 'CC', 'PRP$', 'NN', 'NN', 'VBN', 'IN', 'NNP', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

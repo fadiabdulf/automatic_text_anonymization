@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mabel Bert</title>
+<link/>https://en.wikipedia.org/wiki/Mabel_Bert
+<annotated>0</annotated>
+<originalabstract>Mabel Bert (née Scott, 1862 – ?) was an Australian-born American actress.</originalabstract>
+<abstract>Mabel_Bert ( née_Scott , 1862 – ? ) was an_Australian-born_American_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mabel'), (6, 'Bert'), (11, '('), (12, 'née'), (16, 'Scott'), (21, ','), (23, '1862'), (28, '–'), (30, '?'), (31, ')'), (33, 'was'), (37, 'an'), (40, 'Australian-born'), (56, 'American'), (65, 'actress'), (72, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mabel Bert',0, 10), ('née Scott',12, 21), ('an Australian-born American actress',37, 72)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ',', 'CD', ':', '.', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mabel'), (6, 'Bert'), (11, '('), (12, 'née'), (16, 'Scott'), (21, ','), (23, '1862'), (28, '–'), (30, '?'), (31, ')'), (33, 'was'), (37, 'an'), (40, 'Australian'), (50, '-'), (51, 'born'), (56, 'American'), (65, 'actress'), (72, '.')])</spacy_tokens>
+<spacy_chunks>[('Mabel Bert', 0, 10), ('an Australian-born American actress', 37, 72)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ',', 'CD', 'NFP', '.', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

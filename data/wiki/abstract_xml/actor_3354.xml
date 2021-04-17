@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marc Evan Jackson</title>
+<link/>https://en.wikipedia.org/wiki/Marc_Evan_Jackson
+<annotated>0</annotated>
+<originalabstract>Marc Evan Jackson (born August 21, 1970) is an American comedian and actor best known for his work as Sparks Nevada in the Thrilling Adventure Hour, Kevin Cozner in Brooklyn Nine-Nine, Trevor Nelsson in Parks and Recreation, Dr. Murphy in 22 Jump Street, and Shawn in The Good Place.</originalabstract>
+<abstract>Marc_Evan_Jackson ( born August_21_,_1970 ) is an_American_comedian_and_actor best_known for his_work as Sparks Nevada in the_Thrilling_Adventure_Hour , Kevin_Cozner in Brooklyn_Nine-Nine , Trevor_Nelsson in Parks_and_Recreation , Dr._Murphy in 22_Jump_Street , and Shawn in The_Good_Place .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marc'), (5, 'Evan'), (10, 'Jackson'), (18, '('), (19, 'born'), (24, 'August'), (31, '21'), (33, ','), (35, '1970'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'comedian'), (65, 'and'), (69, 'actor'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'work'), (99, 'as'), (102, 'Sparks'), (109, 'Nevada'), (116, 'in'), (119, 'the'), (123, 'Thrilling'), (133, 'Adventure'), (143, 'Hour'), (147, ','), (149, 'Kevin'), (155, 'Cozner'), (162, 'in'), (165, 'Brooklyn'), (174, 'Nine-Nine'), (183, ','), (185, 'Trevor'), (192, 'Nelsson'), (200, 'in'), (203, 'Parks'), (209, 'and'), (213, 'Recreation'), (223, ','), (225, 'Dr.'), (229, 'Murphy'), (236, 'in'), (239, '22'), (242, 'Jump'), (247, 'Street'), (253, ','), (255, 'and'), (259, 'Shawn'), (265, 'in'), (268, 'The'), (272, 'Good'), (277, 'Place'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marc Evan Jackson',0, 17), ('August 21, 1970',24, 39), ('an American comedian and actor',44, 74), ('best known',75, 85), ('his work',90, 98), ('the Thrilling Adventure Hour',119, 147), ('Kevin Cozner',149, 161), ('Brooklyn Nine-Nine',165, 183), ('Trevor Nelsson',185, 199), ('Parks and Recreation',203, 223), ('Dr. Murphy',225, 235), ('22 Jump Street',239, 253), ('The Good Place',268, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'VBZ', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'NNP', ',', 'CC', 'NNP', 'IN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marc'), (5, 'Evan'), (10, 'Jackson'), (18, '('), (19, 'born'), (24, 'August'), (31, '21'), (33, ','), (35, '1970'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'comedian'), (65, 'and'), (69, 'actor'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'work'), (99, 'as'), (102, 'Sparks'), (109, 'Nevada'), (116, 'in'), (119, 'the'), (123, 'Thrilling'), (133, 'Adventure'), (143, 'Hour'), (147, ','), (149, 'Kevin'), (155, 'Cozner'), (162, 'in'), (165, 'Brooklyn'), (174, 'Nine'), (178, '-'), (179, 'Nine'), (183, ','), (185, 'Trevor'), (192, 'Nelsson'), (200, 'in'), (203, 'Parks'), (209, 'and'), (213, 'Recreation'), (223, ','), (225, 'Dr.'), (229, 'Murphy'), (236, 'in'), (239, '22'), (242, 'Jump'), (247, 'Street'), (253, ','), (255, 'and'), (259, 'Shawn'), (265, 'in'), (268, 'The'), (272, 'Good'), (277, 'Place'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Marc Evan Jackson', 0, 17), ('August 21, 1970', 24, 39), ('an American comedian', 44, 64), ('his work', 90, 98), ('Sparks Nevada', 102, 115), ('the Thrilling Adventure Hour', 119, 147), ('Kevin Cozner', 149, 161), ('Brooklyn Nine-Nine', 165, 183), ('Trevor Nelsson', 185, 199), ('Parks and Recreation', 203, 223), ('Dr. Murphy', 225, 235), ('22 Jump Street', 239, 253), ('The Good Place', 268, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'HYPH', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'NNP', ',', 'CC', 'NNP', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marla Sokoloff</title>
+<link/>https://en.wikipedia.org/wiki/Marla_Sokoloff
+<annotated>0</annotated>
+<originalabstract>Marla Lynne Sokoloff (born December 19, 1980) is an American actress. She is known for playing the part of Lucy Hatcher on the television show The Practice, Wilima in the film Dude, Where's My Car?, and Gia Mahan on the ABC sitcom Full House and Fuller House.</originalabstract>
+<abstract>Marla_Lynne_Sokoloff ( born December_19_,_1980 ) is an_American_actress . She is_known for playing the_part of Lucy_Hatcher on the_television_show The_Practice_,_Wilima in the_film Dude , Where 's_My_Car ? , and Gia_Mahan on the_ABC_sitcom Full_House_and_Fuller_House .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marla'), (6, 'Lynne'), (12, 'Sokoloff'), (21, '('), (22, 'born'), (27, 'December'), (36, '19'), (38, ','), (40, '1980'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (68, '.'), (70, 'She'), (74, 'is'), (77, 'known'), (83, 'for'), (87, 'playing'), (95, 'the'), (99, 'part'), (104, 'of'), (107, 'Lucy'), (112, 'Hatcher'), (120, 'on'), (123, 'the'), (127, 'television'), (138, 'show'), (143, 'The'), (147, 'Practice'), (155, ','), (157, 'Wilima'), (164, 'in'), (167, 'the'), (171, 'film'), (176, 'Dude'), (180, ','), (182, 'Where'), (187, '\'s'), (190, 'My'), (193, 'Car'), (196, '?'), (197, ','), (199, 'and'), (203, 'Gia'), (207, 'Mahan'), (213, 'on'), (216, 'the'), (220, 'ABC'), (224, 'sitcom'), (231, 'Full'), (236, 'House'), (242, 'and'), (246, 'Fuller'), (253, 'House'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marla Lynne Sokoloff',0, 20), ('December 19, 1980',27, 44), ('an American actress',49, 68), ('is known',74, 82), ('the part',95, 103), ('Lucy Hatcher',107, 119), ('the television show',123, 142), ('The Practice, Wilima',143, 163), ('the film',167, 175), ('\'s My Car',187, 196), ('Gia Mahan',203, 212), ('the ABC sitcom',216, 230), ('Full House and Fuller House',231, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', ',', 'NNP', 'IN', 'DT', 'NN', 'NNP', ',', 'WRB', 'POS', 'PRP$', 'NN', '.', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'JJ', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marla'), (6, 'Lynne'), (12, 'Sokoloff'), (21, '('), (22, 'born'), (27, 'December'), (36, '19'), (38, ','), (40, '1980'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (68, '.'), (70, 'She'), (74, 'is'), (77, 'known'), (83, 'for'), (87, 'playing'), (95, 'the'), (99, 'part'), (104, 'of'), (107, 'Lucy'), (112, 'Hatcher'), (120, 'on'), (123, 'the'), (127, 'television'), (138, 'show'), (143, 'The'), (147, 'Practice'), (155, ','), (157, 'Wilima'), (164, 'in'), (167, 'the'), (171, 'film'), (176, 'Dude'), (180, ','), (182, 'Where'), (187, "'s"), (190, 'My'), (193, 'Car'), (196, '?'), (197, ','), (199, 'and'), (203, 'Gia'), (207, 'Mahan'), (213, 'on'), (216, 'the'), (220, 'ABC'), (224, 'sitcom'), (231, 'Full'), (236, 'House'), (242, 'and'), (246, 'Fuller'), (253, 'House'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Marla Lynne Sokoloff', 0, 20), ('December 19, 1980', 27, 44), ('an American actress', 49, 68), ('the part', 95, 103), ('Lucy Hatcher', 107, 119), ('the television show', 123, 142), ('The Practice', 143, 155), ('Wilima', 157, 163), ('the film', 167, 175), ("Dude, Where's My Car?", 176, 197), ('Gia Mahan', 203, 212), ('the ABC sitcom', 216, 230), ('Full House', 231, 241), ('Fuller House', 246, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', ',', 'NNP', 'IN', 'DT', 'NN', 'NNP', ',', 'WRB', 'VBZ', 'PRP$', 'NN', '.', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

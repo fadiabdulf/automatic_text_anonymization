@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fred Esmelton</title>
+<link/>https://en.wikipedia.org/wiki/Fred_Esmelton
+<annotated>0</annotated>
+<originalabstract>Fred Esmelton (22 June 1872 – 23 October 1933) was an Australian-born American film actor. He appeared in 30 films between years 1916 and 1931. He was born in Melbourne, Victoria and died in Los Angeles, California.</originalabstract>
+<abstract>Fred_Esmelton ( 22_June_1872 – 23_October_1933 ) was an_Australian-born_American_film_actor . He appeared in 30_films between years_1916_and_1931 . He was_born in Melbourne , Victoria and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fred'), (5, 'Esmelton'), (14, '('), (15, '22'), (18, 'June'), (23, '1872'), (28, '–'), (30, '23'), (33, 'October'), (41, '1933'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'Australian-born'), (70, 'American'), (79, 'film'), (84, 'actor'), (89, '.'), (91, 'He'), (94, 'appeared'), (103, 'in'), (106, '30'), (109, 'films'), (115, 'between'), (123, 'years'), (129, '1916'), (134, 'and'), (138, '1931'), (142, '.'), (144, 'He'), (147, 'was'), (151, 'born'), (156, 'in'), (159, 'Melbourne'), (168, ','), (170, 'Victoria'), (179, 'and'), (183, 'died'), (188, 'in'), (191, 'Los'), (195, 'Angeles'), (202, ','), (204, 'California'), (214, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fred Esmelton',0, 13), ('22 June 1872',15, 27), ('23 October 1933',30, 45), ('an Australian-born American film actor',51, 89), ('30 films',106, 114), ('years 1916 and 1931',123, 142), ('was born',147, 155), ('Los Angeles',191, 202)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'NNS', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fred'), (5, 'Esmelton'), (14, '('), (15, '22'), (18, 'June'), (23, '1872'), (28, '–'), (30, '23'), (33, 'October'), (41, '1933'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'Australian'), (64, '-'), (65, 'born'), (70, 'American'), (79, 'film'), (84, 'actor'), (89, '.'), (91, 'He'), (94, 'appeared'), (103, 'in'), (106, '30'), (109, 'films'), (115, 'between'), (123, 'years'), (129, '1916'), (134, 'and'), (138, '1931'), (142, '.'), (144, 'He'), (147, 'was'), (151, 'born'), (156, 'in'), (159, 'Melbourne'), (168, ','), (170, 'Victoria'), (179, 'and'), (183, 'died'), (188, 'in'), (191, 'Los'), (195, 'Angeles'), (202, ','), (204, 'California'), (214, '.')])</spacy_tokens>
+<spacy_chunks>[('Fred Esmelton', 0, 13), ('22 June 1872', 15, 27), ('23 October 1933', 30, 45), ('an Australian-born American film actor', 51, 89), ('30 films', 106, 114), ('Melbourne, Victoria', 159, 178), ('Los Angeles, California', 191, 214)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'NNS', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Helen Bray</title>
+<link/>https://en.wikipedia.org/wiki/Helen_Bray
+<annotated>0</annotated>
+<originalabstract>Helen Bray (November 25, 1889 – October 15, 1990) was a Missouri-born American actress who appeared in several silent films during the early 20th century.
+Bray is the great-grandmother of actress Michelle Pierce, who appears now in the TV show NCIS.</originalabstract>
+<abstract>Helen_Bray ( November_25_,_1889 – October_15_,_1990 ) was a_Missouri-born_American_actress who appeared in several_silent_films during the_early_20th_century . Bray is the_great-grandmother of actress_Michelle_Pierce , who appears now in the_TV_show_NCIS .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Helen'), (6, 'Bray'), (11, '('), (12, 'November'), (21, '25'), (23, ','), (25, '1889'), (30, '–'), (32, 'October'), (40, '15'), (42, ','), (44, '1990'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'Missouri-born'), (70, 'American'), (79, 'actress'), (87, 'who'), (91, 'appeared'), (100, 'in'), (103, 'several'), (111, 'silent'), (118, 'films'), (124, 'during'), (131, 'the'), (135, 'early'), (141, '20th'), (146, 'century'), (153, '.'), (155, 'Bray'), (160, 'is'), (163, 'the'), (167, 'great-grandmother'), (185, 'of'), (188, 'actress'), (196, 'Michelle'), (205, 'Pierce'), (211, ','), (213, 'who'), (217, 'appears'), (225, 'now'), (229, 'in'), (232, 'the'), (236, 'TV'), (239, 'show'), (244, 'NCIS'), (248, '.')])</stanford_tokens>
+<opennlp_chunks>[('Helen Bray',0, 10), ('November 25, 1889',12, 29), ('October 15, 1990',32, 48), ('a Missouri-born American actress',54, 86), ('several silent films',103, 123), ('the early 20th century',131, 153), ('the great-grandmother',163, 184), ('actress Michelle Pierce',188, 211), ('the TV show NCIS',232, 248)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', ',', 'WP', 'VBZ', 'RB', 'IN', 'DT', 'NN', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Helen'), (6, 'Bray'), (11, '('), (12, 'November'), (21, '25'), (23, ','), (25, '1889'), (30, '–'), (32, 'October'), (40, '15'), (42, ','), (44, '1990'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'Missouri'), (64, '-'), (65, 'born'), (70, 'American'), (79, 'actress'), (87, 'who'), (91, 'appeared'), (100, 'in'), (103, 'several'), (111, 'silent'), (118, 'films'), (124, 'during'), (131, 'the'), (135, 'early'), (141, '20th'), (146, 'century'), (153, '.'), (155, 'Bray'), (160, 'is'), (163, 'the'), (167, 'great'), (172, '-'), (173, 'grandmother'), (185, 'of'), (188, 'actress'), (196, 'Michelle'), (205, 'Pierce'), (211, ','), (213, 'who'), (217, 'appears'), (225, 'now'), (229, 'in'), (232, 'the'), (236, 'TV'), (239, 'show'), (244, 'NCIS'), (248, '.')])</spacy_tokens>
+<spacy_chunks>[('Helen Bray', 0, 10), ('(November', 11, 20), ('November 25, 1889', 12, 29), ('October 15, 1990', 32, 48), ('a Missouri-born American actress', 54, 86), ('several silent films', 103, 123), ('the early 20th century', 131, 153), ('the great-grandmother', 163, 184), ('actress Michelle Pierce', 188, 211), ('the TV show', 232, 243)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'DT', 'JJ', 'HYPH', 'NN', 'IN', 'NN', 'NNP', 'NNP', ',', 'WP', 'VBZ', 'RB', 'IN', 'DT', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

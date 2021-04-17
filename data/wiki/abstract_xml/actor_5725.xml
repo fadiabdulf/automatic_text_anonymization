@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kent Rogers</title>
+<link/>https://en.wikipedia.org/wiki/Kent_Rogers
+<annotated>0</annotated>
+<originalabstract>Kent Byron Rogers (July 31, 1923 – July 9, 1944) was an American actor and impressionist who appeared in several live-action shorts and features, and a voice actor for Warner Bros. Cartoons and Walter Lantz Productions.</originalabstract>
+<abstract>Kent_Byron_Rogers ( July_31_,_1923 – July_9_,_1944 ) was an_American_actor and impressionist who appeared in several_live-action_shorts_and_features , and a_voice_actor for Warner_Bros . Cartoons_and_Walter_Lantz_Productions .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kent'), (5, 'Byron'), (11, 'Rogers'), (18, '('), (19, 'July'), (24, '31'), (26, ','), (28, '1923'), (33, '–'), (35, 'July'), (40, '9'), (41, ','), (43, '1944'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (71, 'and'), (75, 'impressionist'), (89, 'who'), (93, 'appeared'), (102, 'in'), (105, 'several'), (113, 'live-action'), (125, 'shorts'), (132, 'and'), (136, 'features'), (144, ','), (146, 'and'), (150, 'a'), (152, 'voice'), (158, 'actor'), (164, 'for'), (168, 'Warner'), (175, 'Bros'), (179, '.'), (181, 'Cartoons'), (190, 'and'), (194, 'Walter'), (201, 'Lantz'), (207, 'Productions'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kent Byron Rogers',0, 17), ('July 31, 1923',19, 32), ('July 9, 1944',35, 47), ('an American actor',53, 70), ('several live-action shorts and features',105, 144), ('a voice actor',150, 163), ('Warner Bros',168, 179), ('Cartoons and Walter Lantz Productions',181, 218)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'WP', 'VBD', 'IN', 'JJ', 'JJ', 'NNS', 'CC', 'NNS', ',', 'CC', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', '.', 'NNS', 'CC', 'NNP', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kent'), (5, 'Byron'), (11, 'Rogers'), (18, '('), (19, 'July'), (24, '31'), (26, ','), (28, '1923'), (33, '–'), (35, 'July'), (40, '9'), (41, ','), (43, '1944'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (71, 'and'), (75, 'impressionist'), (89, 'who'), (93, 'appeared'), (102, 'in'), (105, 'several'), (113, 'live'), (117, '-'), (118, 'action'), (125, 'shorts'), (132, 'and'), (136, 'features'), (144, ','), (146, 'and'), (150, 'a'), (152, 'voice'), (158, 'actor'), (164, 'for'), (168, 'Warner'), (175, 'Bros.'), (181, 'Cartoons'), (190, 'and'), (194, 'Walter'), (201, 'Lantz'), (207, 'Productions'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Kent Byron Rogers', 0, 17), ('July 31, 1923', 19, 32), ('July 9, 1944', 35, 47), ('an American actor', 53, 70), ('impressionist', 75, 88), ('several live-action shorts', 105, 131), ('features', 136, 144), ('a voice actor', 150, 163), ('Warner Bros. Cartoons', 168, 189), ('Walter Lantz Productions', 194, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'JJ', 'HYPH', 'NN', 'NNS', 'CC', 'NNS', ',', 'CC', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNPS', 'NNPS', 'CC', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

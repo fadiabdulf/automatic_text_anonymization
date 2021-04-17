@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Didi Conn</title>
+<link/>https://en.wikipedia.org/wiki/Didi_Conn
+<annotated>0</annotated>
+<originalabstract>Edith Conn (née Bernstein; July 13, 1951), professionally known as Didi Conn,  is a film, stage and television actress from the U.S., best known for her work as Frenchie in Grease and Denise in the TV series Benson. Conn was born in Brooklyn, New York, the daughter of a clinical psychologist.</originalabstract>
+<abstract>Edith_Conn ( née_Bernstein ; July_13_,_1951 ) , professionally_known as Didi_Conn , is a_film_,_stage_and_television_actress from the_U.S. , best_known for her_work as Frenchie in Grease_and_Denise in the_TV_series_Benson . Conn was_born in Brooklyn , New_York , the_daughter of a_clinical_psychologist .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edith'), (6, 'Conn'), (11, '('), (12, 'née'), (16, 'Bernstein'), (25, ';'), (27, 'July'), (32, '13'), (34, ','), (36, '1951'), (40, ')'), (41, ','), (43, 'professionally'), (58, 'known'), (64, 'as'), (67, 'Didi'), (72, 'Conn'), (76, ','), (79, 'is'), (82, 'a'), (84, 'film'), (88, ','), (90, 'stage'), (96, 'and'), (100, 'television'), (111, 'actress'), (119, 'from'), (124, 'the'), (128, 'U.S.'), (132, ','), (134, 'best'), (139, 'known'), (145, 'for'), (149, 'her'), (153, 'work'), (158, 'as'), (161, 'Frenchie'), (170, 'in'), (173, 'Grease'), (180, 'and'), (184, 'Denise'), (191, 'in'), (194, 'the'), (198, 'TV'), (201, 'series'), (208, 'Benson'), (214, '.'), (216, 'Conn'), (221, 'was'), (225, 'born'), (230, 'in'), (233, 'Brooklyn'), (241, ','), (243, 'New'), (247, 'York'), (251, ','), (253, 'the'), (257, 'daughter'), (266, 'of'), (269, 'a'), (271, 'clinical'), (280, 'psychologist'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edith Conn',0, 10), ('née Bernstein',12, 25), ('July 13, 1951',27, 40), ('professionally known',43, 63), ('Didi Conn',67, 76), ('a film, stage and television actress',82, 118), ('the U.S.',124, 132), ('best known',134, 144), ('her work',149, 157), ('Grease and Denise',173, 190), ('the TV series Benson',194, 214), ('was born',221, 229), ('New York',243, 251), ('the daughter',253, 265), ('a clinical psychologist',269, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNP', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'CC', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edith'), (6, 'Conn'), (11, '('), (12, 'née'), (16, 'Bernstein'), (25, ';'), (27, 'July'), (32, '13'), (34, ','), (36, '1951'), (40, ')'), (41, ','), (43, 'professionally'), (58, 'known'), (64, 'as'), (67, 'Didi'), (72, 'Conn'), (76, ','), (79, 'is'), (82, 'a'), (84, 'film'), (88, ','), (90, 'stage'), (96, 'and'), (100, 'television'), (111, 'actress'), (119, 'from'), (124, 'the'), (128, 'U.S.'), (132, ','), (134, 'best'), (139, 'known'), (145, 'for'), (149, 'her'), (153, 'work'), (158, 'as'), (161, 'Frenchie'), (170, 'in'), (173, 'Grease'), (180, 'and'), (184, 'Denise'), (191, 'in'), (194, 'the'), (198, 'TV'), (201, 'series'), (208, 'Benson'), (214, '.'), (216, 'Conn'), (221, 'was'), (225, 'born'), (230, 'in'), (233, 'Brooklyn'), (241, ','), (243, 'New'), (247, 'York'), (251, ','), (253, 'the'), (257, 'daughter'), (266, 'of'), (269, 'a'), (271, 'clinical'), (280, 'psychologist'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Edith Conn', 0, 10), ('née Bernstein', 12, 25), ('July 13, 1951', 27, 40), ('Didi Conn', 67, 76), ('a film, stage and television actress', 82, 118), ('the U.S.', 124, 132), ('her work', 149, 157), ('Frenchie', 161, 169), ('Grease', 173, 179), ('Denise', 184, 190), ('the TV series', 194, 207), ('Benson', 208, 214), ('Brooklyn', 233, 241), ('New York', 243, 251), ('the daughter', 253, 265), ('a clinical psychologist', 269, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNP', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'CC', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tom Hennesy</title>
+<link/>https://en.wikipedia.org/wiki/Tom_Hennesy
+<annotated>0</annotated>
+<originalabstract>Tom Hennesy, American actor and stuntman. Known for playing the Gill-man (on land and in water) in Revenge of the Creature, the second installment of the Creature from the Black Lagoon trilogy.</originalabstract>
+<abstract>Tom_Hennesy , American_actor_and_stuntman . Known for playing the_Gill-man_( on land and in water_) in Revenge of the_Creature , the_second_installment of the_Creature from the_Black_Lagoon_trilogy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tom'), (4, 'Hennesy'), (11, ','), (13, 'American'), (22, 'actor'), (28, 'and'), (32, 'stuntman'), (40, '.'), (42, 'Known'), (48, 'for'), (52, 'playing'), (60, 'the'), (64, 'Gill-man'), (73, '('), (74, 'on'), (77, 'land'), (82, 'and'), (86, 'in'), (89, 'water'), (94, ')'), (96, 'in'), (99, 'Revenge'), (107, 'of'), (110, 'the'), (114, 'Creature'), (122, ','), (124, 'the'), (128, 'second'), (135, 'installment'), (147, 'of'), (150, 'the'), (154, 'Creature'), (163, 'from'), (168, 'the'), (172, 'Black'), (178, 'Lagoon'), (185, 'trilogy'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tom Hennesy',0, 11), ('American actor and stuntman',13, 40), ('the Gill-man (',60, 74), ('water)',89, 95), ('the Creature',110, 122), ('the second installment',124, 146), ('the Creature',150, 162), ('the Black Lagoon trilogy',168, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'NNP', 'NN', 'CC', 'NN', '.', 'VBN', 'IN', 'VBG', 'DT', 'NN', '-LRB-', 'IN', 'NN', 'CC', 'IN', 'NN', '-RRB-', 'IN', 'NN', 'IN', 'DT', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tom'), (4, 'Hennesy'), (11, ','), (13, 'American'), (22, 'actor'), (28, 'and'), (32, 'stuntman'), (40, '.'), (42, 'Known'), (48, 'for'), (52, 'playing'), (60, 'the'), (64, 'Gill'), (68, '-'), (69, 'man'), (73, '('), (74, 'on'), (77, 'land'), (82, 'and'), (86, 'in'), (89, 'water'), (94, ')'), (96, 'in'), (99, 'Revenge'), (107, 'of'), (110, 'the'), (114, 'Creature'), (122, ','), (124, 'the'), (128, 'second'), (135, 'installment'), (147, 'of'), (150, 'the'), (154, 'Creature'), (163, 'from'), (168, 'the'), (172, 'Black'), (178, 'Lagoon'), (185, 'trilogy'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('Tom Hennesy', 0, 11), ('American actor', 13, 27), ('Stuntman', 32, 40), ('the Gill-man', 60, 72), ('Revenge of the Creature', 99, 122), ('Creature from the Black Lagoon', 154, 184), ('the Black Lagoon trilogy', 168, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'JJ', 'NN', 'CC', 'NN', '.', 'VBN', 'IN', 'VBG', 'DT', 'NNP', 'HYPH', 'NNP', '-LRB-', 'IN', 'NN', 'CC', 'IN', 'NN', '-RRB-', 'IN', 'NNP', 'IN', 'DT', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

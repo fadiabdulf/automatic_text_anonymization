@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Ging</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Ging
+<annotated>0</annotated>
+<originalabstract>Jack Lee Ging (born November 30, 1931 in Alva, Oklahoma) is an American actor, best known as General Harlan "Bull" Fulbright on NBC's television adventure series The A-Team.</originalabstract>
+<abstract>Jack_Lee_Ging ( born November_30 , 1931 in Alva , Oklahoma ) is an_American_actor , best_known as General_Harlan_"_Bull_"_Fulbright on NBC 's_television_adventure series The_A-Team .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jack'), (5, 'Lee'), (9, 'Ging'), (14, '('), (15, 'born'), (20, 'November'), (29, '30'), (31, ','), (33, '1931'), (38, 'in'), (41, 'Alva'), (45, ','), (47, 'Oklahoma'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'actor'), (77, ','), (79, 'best'), (84, 'known'), (90, 'as'), (93, 'General'), (101, 'Harlan'), (108, '"'), (109, 'Bull'), (113, '"'), (115, 'Fulbright'), (125, 'on'), (128, 'NBC'), (131, '\'s'), (134, 'television'), (145, 'adventure'), (155, 'series'), (162, 'The'), (166, 'A-Team'), (172, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jack Lee Ging',0, 13), ('November 30',20, 31), ('an American actor',60, 77), ('best known',79, 89), ('General Harlan "Bull" Fulbright',93, 124), ('\'s television adventure',131, 154), ('The A-Team',162, 172)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'NN', 'NN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jack'), (5, 'Lee'), (9, 'Ging'), (14, '('), (15, 'born'), (20, 'November'), (29, '30'), (31, ','), (33, '1931'), (38, 'in'), (41, 'Alva'), (45, ','), (47, 'Oklahoma'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'actor'), (77, ','), (79, 'best'), (84, 'known'), (90, 'as'), (93, 'General'), (101, 'Harlan'), (108, '"'), (109, 'Bull'), (113, '"'), (115, 'Fulbright'), (125, 'on'), (128, 'NBC'), (131, "'s"), (134, 'television'), (145, 'adventure'), (155, 'series'), (162, 'The'), (166, 'A'), (167, '-'), (168, 'Team'), (172, '.')])</spacy_tokens>
+<spacy_chunks>[('Jack Lee Ging', 0, 13), ('November 30, 1931', 20, 37), ('Alva, Oklahoma', 41, 55), ('an American actor', 60, 77), ('General Harlan "Bull" Fulbright', 93, 124), ("NBC's television adventure series", 128, 161), ('The A-Team', 162, 172)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'NNP', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'NNP', 'POS', 'NN', 'NN', 'NN', 'DT', 'NNP', 'HYPH', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

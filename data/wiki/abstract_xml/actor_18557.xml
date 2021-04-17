@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Amélie Diéterle</title>
+<link/>https://en.wikipedia.org/wiki/Am%C3%A9lie_Di%C3%A9terle
+<annotated>0</annotated>
+<originalabstract>Amélie Diéterle was a French actress and opera singer. She was one of the popular actresses of the Belle Époque until the beginning of the Années Folles. Amélie Diéterle inspired the poets Léon Dierx and Stéphane Mallarmé and the painters Auguste Renoir, Henri de Toulouse-Lautrec and Alfred Philippe Roll.</originalabstract>
+<abstract>Amélie_Diéterle was a_French_actress_and_opera_singer . She was one of the_popular_actresses of the_Belle_Époque until the_beginning of the_Années_Folles . Amélie_Diéterle inspired the_poets_Léon_Dierx and Stéphane_Mallarmé and the_painters_Auguste_Renoir , Henri de Toulouse-Lautrec and Alfred_Philippe_Roll .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Amélie'), (7, 'Diéterle'), (16, 'was'), (20, 'a'), (22, 'French'), (29, 'actress'), (37, 'and'), (41, 'opera'), (47, 'singer'), (53, '.'), (55, 'She'), (59, 'was'), (63, 'one'), (67, 'of'), (70, 'the'), (74, 'popular'), (82, 'actresses'), (92, 'of'), (95, 'the'), (99, 'Belle'), (105, 'Époque'), (112, 'until'), (118, 'the'), (122, 'beginning'), (132, 'of'), (135, 'the'), (139, 'Années'), (146, 'Folles'), (152, '.'), (154, 'Amélie'), (161, 'Diéterle'), (170, 'inspired'), (179, 'the'), (183, 'poets'), (189, 'Léon'), (194, 'Dierx'), (200, 'and'), (204, 'Stéphane'), (213, 'Mallarmé'), (222, 'and'), (226, 'the'), (230, 'painters'), (239, 'Auguste'), (247, 'Renoir'), (253, ','), (255, 'Henri'), (261, 'de'), (264, 'Toulouse-Lautrec'), (281, 'and'), (285, 'Alfred'), (292, 'Philippe'), (301, 'Roll'), (305, '.')])</stanford_tokens>
+<opennlp_chunks>[('Amélie Diéterle',0, 15), ('a French actress and opera singer',20, 53), ('the popular actresses',70, 91), ('the Belle Époque',95, 111), ('the beginning',118, 131), ('the Années Folles',135, 152), ('Amélie Diéterle',154, 169), ('the poets Léon Dierx',179, 199), ('Stéphane Mallarmé',204, 221), ('the painters Auguste Renoir',226, 253), ('Alfred Philippe Roll',285, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'VBD', 'DT', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'CC', 'DT', 'NNS', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Amélie'), (7, 'Diéterle'), (16, 'was'), (20, 'a'), (22, 'French'), (29, 'actress'), (37, 'and'), (41, 'opera'), (47, 'singer'), (53, '.'), (55, 'She'), (59, 'was'), (63, 'one'), (67, 'of'), (70, 'the'), (74, 'popular'), (82, 'actresses'), (92, 'of'), (95, 'the'), (99, 'Belle'), (105, 'Époque'), (112, 'until'), (118, 'the'), (122, 'beginning'), (132, 'of'), (135, 'the'), (139, 'Années'), (146, 'Folles'), (152, '.'), (154, 'Amélie'), (161, 'Diéterle'), (170, 'inspired'), (179, 'the'), (183, 'poets'), (189, 'Léon'), (194, 'Dierx'), (200, 'and'), (204, 'Stéphane'), (213, 'Mallarmé'), (222, 'and'), (226, 'the'), (230, 'painters'), (239, 'Auguste'), (247, 'Renoir'), (253, ','), (255, 'Henri'), (261, 'de'), (264, 'Toulouse'), (272, '-'), (273, 'Lautrec'), (281, 'and'), (285, 'Alfred'), (292, 'Philippe'), (301, 'Roll'), (305, '.')])</spacy_tokens>
+<spacy_chunks>[('Amélie Diéterle', 0, 15), ('a French actress', 20, 36), ('opera singer', 41, 53), ('the popular actresses', 70, 91), ('the Belle Époque', 95, 111), ('the beginning', 118, 131), ('the Années Folles', 135, 152), ('the poets', 179, 188), ('Léon Dierx', 189, 199), ('Stéphane Mallarmé', 204, 221), ('the painters', 226, 238), ('Auguste Renoir', 239, 253), ('Henri de Toulouse-Lautrec', 255, 280), ('Alfred Philippe Roll', 285, 305)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'VBD', 'DT', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'CC', 'DT', 'NNS', 'NNP', 'NNP', ',', 'NNP', 'FW', 'NNP', 'HYPH', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

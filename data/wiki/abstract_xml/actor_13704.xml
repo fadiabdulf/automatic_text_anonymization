@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Toni Mannix</title>
+<link/>https://en.wikipedia.org/wiki/Toni_Mannix
+<annotated>0</annotated>
+<originalabstract>Toni Mannix (born Camille Bernice Froomess; February 19, 1906 – September 2, 1983) was an American actress and dancer in the early talkies. She became notorious for an extramarital relationship with actor George Reeves during her marriage to MGM studio head Eddie Mannix, who himself had previously been having an affair with her.</originalabstract>
+<abstract>Toni_Mannix ( born Camille_Bernice_Froomess ; February_19_,_1906 – September_2_,_1983 ) was an_American_actress_and_dancer in the_early_talkies . She became notorious for an_extramarital_relationship with actor_George_Reeves during her_marriage to MGM_studio_head_Eddie_Mannix , who himself had_previously_been_having an_affair with her .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Toni'), (5, 'Mannix'), (12, '('), (13, 'born'), (18, 'Camille'), (26, 'Bernice'), (34, 'Froomess'), (42, ';'), (44, 'February'), (53, '19'), (55, ','), (57, '1906'), (62, '–'), (64, 'September'), (74, '2'), (75, ','), (77, '1983'), (81, ')'), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'actress'), (107, 'and'), (111, 'dancer'), (118, 'in'), (121, 'the'), (125, 'early'), (131, 'talkies'), (138, '.'), (140, 'She'), (144, 'became'), (151, 'notorious'), (161, 'for'), (165, 'an'), (168, 'extramarital'), (181, 'relationship'), (194, 'with'), (199, 'actor'), (205, 'George'), (212, 'Reeves'), (219, 'during'), (226, 'her'), (230, 'marriage'), (239, 'to'), (242, 'MGM'), (246, 'studio'), (253, 'head'), (258, 'Eddie'), (264, 'Mannix'), (270, ','), (272, 'who'), (276, 'himself'), (284, 'had'), (288, 'previously'), (299, 'been'), (304, 'having'), (311, 'an'), (314, 'affair'), (321, 'with'), (326, 'her'), (329, '.')])</stanford_tokens>
+<opennlp_chunks>[('Toni Mannix',0, 11), ('Camille Bernice Froomess',18, 42), ('February 19, 1906',44, 61), ('September 2, 1983',64, 81), ('an American actress and dancer',87, 117), ('the early talkies',121, 138), ('an extramarital relationship',165, 193), ('actor George Reeves',199, 218), ('her marriage',226, 238), ('MGM studio head Eddie Mannix',242, 270), ('had previously been having',284, 310), ('an affair',311, 320)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'TO', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ',', 'WP', 'PRP', 'VBD', 'RB', 'VBN', 'VBG', 'DT', 'NN', 'IN', 'PRP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Toni'), (5, 'Mannix'), (12, '('), (13, 'born'), (18, 'Camille'), (26, 'Bernice'), (34, 'Froomess'), (42, ';'), (44, 'February'), (53, '19'), (55, ','), (57, '1906'), (62, '–'), (64, 'September'), (74, '2'), (75, ','), (77, '1983'), (81, ')'), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'actress'), (107, 'and'), (111, 'dancer'), (118, 'in'), (121, 'the'), (125, 'early'), (131, 'talkies'), (138, '.'), (140, 'She'), (144, 'became'), (151, 'notorious'), (161, 'for'), (165, 'an'), (168, 'extramarital'), (181, 'relationship'), (194, 'with'), (199, 'actor'), (205, 'George'), (212, 'Reeves'), (219, 'during'), (226, 'her'), (230, 'marriage'), (239, 'to'), (242, 'MGM'), (246, 'studio'), (253, 'head'), (258, 'Eddie'), (264, 'Mannix'), (270, ','), (272, 'who'), (276, 'himself'), (284, 'had'), (288, 'previously'), (299, 'been'), (304, 'having'), (311, 'an'), (314, 'affair'), (321, 'with'), (326, 'her'), (329, '.')])</spacy_tokens>
+<spacy_chunks>[('Toni Mannix', 0, 11), ('Camille Bernice Froomess', 18, 42), ('February 19, 1906', 44, 61), ('– September', 62, 73), ('September 2, 1983', 64, 81), ('an American actress', 87, 106), ('dancer', 111, 117), ('the early talkies', 121, 138), ('an extramarital relationship', 165, 193), ('actor George Reeves', 199, 218), ('her marriage', 226, 238), ('MGM studio head Eddie Mannix', 242, 270), ('himself', 276, 283), ('an affair', 311, 320)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ',', 'WP', 'PRP', 'VBD', 'RB', 'VBN', 'VBG', 'DT', 'NN', 'IN', 'PRP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

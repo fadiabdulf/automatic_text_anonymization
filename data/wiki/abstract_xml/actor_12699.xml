@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cheyenne Haynes</title>
+<link/>https://en.wikipedia.org/wiki/Cheyenne_Haynes
+<annotated>0</annotated>
+<originalabstract>Cheyenne Renee Haynes is an American actress, dancer, singer, and model.  Her notable works include the Lifetime Movie Network television film, Lies in Plain Sight, and I Know My Kid's a Star.</originalabstract>
+<abstract>Cheyenne_Renee_Haynes is an_American_actress , dancer , singer , and model . Her_notable_works include the_Lifetime_Movie_Network_television_film , Lies in Plain_Sight , and I Know My_Kid 's_a_Star .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cheyenne'), (9, 'Renee'), (15, 'Haynes'), (22, 'is'), (25, 'an'), (28, 'American'), (37, 'actress'), (44, ','), (46, 'dancer'), (52, ','), (54, 'singer'), (60, ','), (62, 'and'), (66, 'model'), (71, '.'), (74, 'Her'), (78, 'notable'), (86, 'works'), (92, 'include'), (100, 'the'), (104, 'Lifetime'), (113, 'Movie'), (119, 'Network'), (127, 'television'), (138, 'film'), (142, ','), (144, 'Lies'), (149, 'in'), (152, 'Plain'), (158, 'Sight'), (163, ','), (165, 'and'), (169, 'I'), (171, 'Know'), (176, 'My'), (179, 'Kid'), (182, '\'s'), (185, 'a'), (187, 'Star'), (191, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cheyenne Renee Haynes',0, 21), ('an American actress',25, 44), ('Her notable works',74, 91), ('the Lifetime Movie Network television film',100, 142), ('Plain Sight',152, 163), ('My Kid',176, 182), ('\'s a Star',182, 191)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP$', 'JJ', 'NNS', 'VBP', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'NN', ',', 'VBZ', 'IN', 'NNP', 'NNP', ',', 'CC', 'PRP', 'NNP', 'PRP$', 'NN', 'POS', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cheyenne'), (9, 'Renee'), (15, 'Haynes'), (22, 'is'), (25, 'an'), (28, 'American'), (37, 'actress'), (44, ','), (46, 'dancer'), (52, ','), (54, 'singer'), (60, ','), (62, 'and'), (66, 'model'), (71, '.'), (74, 'Her'), (78, 'notable'), (86, 'works'), (92, 'include'), (100, 'the'), (104, 'Lifetime'), (113, 'Movie'), (119, 'Network'), (127, 'television'), (138, 'film'), (142, ','), (144, 'Lies'), (149, 'in'), (152, 'Plain'), (158, 'Sight'), (163, ','), (165, 'and'), (169, 'I'), (171, 'Know'), (176, 'My'), (179, 'Kid'), (182, "'s"), (185, 'a'), (187, 'Star'), (191, '.')])</spacy_tokens>
+<spacy_chunks>[('Cheyenne Renee Haynes', 0, 21), ('an American actress', 25, 44), ('Dancer', 46, 52), ('Singer', 54, 60), ('Her notable works', 74, 91), ('the Lifetime Movie Network television film', 100, 142), ('Plain Sight', 152, 163), ("I Know My Kid's a Star", 169, 191)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP$', 'JJ', 'NNS', 'VBP', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'NN', ',', 'NNPS', 'IN', 'NNP', 'NNP', ',', 'CC', 'PRP', 'VBP', 'PRP$', 'NNP', 'POS', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jay Harrington</title>
+<link/>https://en.wikipedia.org/wiki/Jay_Harrington
+<annotated>0</annotated>
+<originalabstract>James H. Harrington III, professionally known as Jay Harrington, (born November 15, 1971) is an American actor. He is known for his role as the title character in the ABC sitcom Better Off Ted and as Deacon Kay in S.W.A.T.</originalabstract>
+<abstract>James_H._Harrington_III , professionally_known as Jay_Harrington , ( born November_15_,_1971 ) is an_American_actor . He is_known for his_role as the_title_character in the_ABC_sitcom Better Off Ted and as Deacon_Kay in S.W.A.T.</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'H.'), (9, 'Harrington'), (20, 'III'), (23, ','), (25, 'professionally'), (40, 'known'), (46, 'as'), (49, 'Jay'), (53, 'Harrington'), (63, ','), (65, '('), (66, 'born'), (71, 'November'), (80, '15'), (82, ','), (84, '1971'), (88, ')'), (90, 'is'), (93, 'an'), (96, 'American'), (105, 'actor'), (110, '.'), (112, 'He'), (115, 'is'), (118, 'known'), (124, 'for'), (128, 'his'), (132, 'role'), (137, 'as'), (140, 'the'), (144, 'title'), (150, 'character'), (160, 'in'), (163, 'the'), (167, 'ABC'), (171, 'sitcom'), (178, 'Better'), (185, 'Off'), (189, 'Ted'), (193, 'and'), (197, 'as'), (200, 'Deacon'), (207, 'Kay'), (211, 'in'), (214, 'S.W.A.T.')])</stanford_tokens>
+<opennlp_chunks>[('James H. Harrington III',0, 23), ('professionally known',25, 45), ('Jay Harrington',49, 63), ('November 15, 1971',71, 88), ('an American actor',93, 110), ('is known',115, 123), ('his role',128, 136), ('the title character',140, 159), ('the ABC sitcom',163, 177), ('Deacon Kay',200, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NN', 'RBR', 'IN', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'H.'), (9, 'Harrington'), (20, 'III'), (23, ','), (25, 'professionally'), (40, 'known'), (46, 'as'), (49, 'Jay'), (53, 'Harrington'), (63, ','), (65, '('), (66, 'born'), (71, 'November'), (80, '15'), (82, ','), (84, '1971'), (88, ')'), (90, 'is'), (93, 'an'), (96, 'American'), (105, 'actor'), (110, '.'), (112, 'He'), (115, 'is'), (118, 'known'), (124, 'for'), (128, 'his'), (132, 'role'), (137, 'as'), (140, 'the'), (144, 'title'), (150, 'character'), (160, 'in'), (163, 'the'), (167, 'ABC'), (171, 'sitcom'), (178, 'Better'), (185, 'Off'), (189, 'Ted'), (193, 'and'), (197, 'as'), (200, 'Deacon'), (207, 'Kay'), (211, 'in'), (214, 'S.W.A.T.')])</spacy_tokens>
+<spacy_chunks>[('James H. Harrington III', 0, 23), ('Jay Harrington', 49, 63), ('November 15, 1971', 71, 88), ('an American actor', 93, 110), ('his role', 128, 136), ('the title character', 140, 159), ('the ABC sitcom', 163, 177), ('Better Off Ted', 178, 192), ('Deacon Kay', 200, 210), ('S.W.A.T.', 214, 222)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NN', 'JJR', 'NNP', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

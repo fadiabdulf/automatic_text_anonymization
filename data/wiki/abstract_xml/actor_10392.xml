@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Adrienne Ames</title>
+<link/>https://en.wikipedia.org/wiki/Adrienne_Ames
+<annotated>0</annotated>
+<originalabstract>Adrienne Ames (born Ruth Adrienne McClure, August 3, 1907 – May 31, 1947) was an American film actress. Early in her career she was known as Adrienne Truex</originalabstract>
+<abstract>Adrienne_Ames ( born Ruth_Adrienne_McClure , August_3_,_1907 – May_31_,_1947 ) was an_American_film_actress . Early in her_career she was_known as Adrienne_Truex</abstract>
+<stanford_tokens>OrderedDict([(0, 'Adrienne'), (9, 'Ames'), (14, '('), (15, 'born'), (20, 'Ruth'), (25, 'Adrienne'), (34, 'McClure'), (41, ','), (43, 'August'), (50, '3'), (51, ','), (53, '1907'), (58, '–'), (60, 'May'), (64, '31'), (66, ','), (68, '1947'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'film'), (95, 'actress'), (102, '.'), (104, 'Early'), (110, 'in'), (113, 'her'), (117, 'career'), (124, 'she'), (128, 'was'), (132, 'known'), (138, 'as'), (141, 'Adrienne'), (150, 'Truex')])</stanford_tokens>
+<opennlp_chunks>[('Adrienne Ames',0, 13), ('Ruth Adrienne McClure',20, 41), ('August 3, 1907',43, 57), ('May 31, 1947',60, 72), ('an American film actress',78, 102), ('her career',113, 123), ('was known',128, 137), ('Adrienne Truex',141, 155)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'RB', 'IN', 'PRP$', 'NN', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Adrienne'), (9, 'Ames'), (14, '('), (15, 'born'), (20, 'Ruth'), (25, 'Adrienne'), (34, 'McClure'), (41, ','), (43, 'August'), (50, '3'), (51, ','), (53, '1907'), (58, '–'), (60, 'May'), (64, '31'), (66, ','), (68, '1947'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'film'), (95, 'actress'), (102, '.'), (104, 'Early'), (110, 'in'), (113, 'her'), (117, 'career'), (124, 'she'), (128, 'was'), (132, 'known'), (138, 'as'), (141, 'Adrienne'), (150, 'Truex')])</spacy_tokens>
+<spacy_chunks>[('Adrienne Ames', 0, 13), ('Ruth Adrienne McClure', 20, 41), ('August 3, 1907', 43, 57), ('May 31, 1947', 60, 72), ('an American film actress', 78, 102), ('her career', 113, 123), ('Adrienne Truex', 141, 155)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'RB', 'IN', 'PRP$', 'NN', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

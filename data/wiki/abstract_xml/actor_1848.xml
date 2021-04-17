@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles Dingle</title>
+<link/>https://en.wikipedia.org/wiki/Charles_Dingle
+<annotated>0</annotated>
+<originalabstract>Not to be confused with Charles Dingle, a US convicted murderer
+Charles Dingle (December 28, 1887 – January 19, 1956) was an American stage and film actor.</originalabstract>
+<abstract>Not to_be_confused with Charles_Dingle , a_US convicted murderer_Charles_Dingle ( December_28_,_1887 – January_19_,_1956 ) was an_American_stage_and_film_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Not'), (4, 'to'), (7, 'be'), (10, 'confused'), (19, 'with'), (24, 'Charles'), (32, 'Dingle'), (38, ','), (40, 'a'), (42, 'US'), (45, 'convicted'), (55, 'murderer'), (64, 'Charles'), (72, 'Dingle'), (79, '('), (80, 'December'), (89, '28'), (91, ','), (93, '1887'), (98, '–'), (100, 'January'), (108, '19'), (110, ','), (112, '1956'), (116, ')'), (118, 'was'), (122, 'an'), (125, 'American'), (134, 'stage'), (140, 'and'), (144, 'film'), (149, 'actor'), (154, '.')])</stanford_tokens>
+<opennlp_chunks>[('to be confused',4, 18), ('Charles Dingle',24, 38), ('a US',40, 44), ('murderer Charles Dingle',55, 78), ('December 28, 1887',80, 97), ('January 19, 1956',100, 116), ('an American stage and film actor',122, 154)]</opennlp_chunks>
+<stanford_pos>['RB', 'TO', 'VB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNP', 'VBD', 'NN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Not'), (4, 'to'), (7, 'be'), (10, 'confused'), (19, 'with'), (24, 'Charles'), (32, 'Dingle'), (38, ','), (40, 'a'), (42, 'US'), (45, 'convicted'), (55, 'murderer'), (64, 'Charles'), (72, 'Dingle'), (79, '('), (80, 'December'), (89, '28'), (91, ','), (93, '1887'), (98, '–'), (100, 'January'), (108, '19'), (110, ','), (112, '1956'), (116, ')'), (118, 'was'), (122, 'an'), (125, 'American'), (134, 'stage'), (140, 'and'), (144, 'film'), (149, 'actor'), (154, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Dingle', 24, 38), ('a US convicted murderer', 40, 63), ('December 28, 1887', 80, 97), ('January 19, 1956', 100, 116), ('an American stage', 122, 139), ('film actor', 144, 154)]</spacy_chunks>
+<spacy_pos>['RB', 'TO', 'VB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNP', 'VBN', 'NN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

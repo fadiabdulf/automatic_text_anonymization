@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Caroline Loeb</title>
+<link/>https://en.wikipedia.org/wiki/Caroline_Loeb
+<annotated>0</annotated>
+<originalabstract>Caroline Loeb (born 5 October 1955 in Neuilly-sur-Seine) is a French actress, radio host, singer, and director. She is particularly known for her 1980s hit C'est la ouate.</originalabstract>
+<abstract>Caroline_Loeb ( born_5_October_1955 in Neuilly-sur-Seine ) is a_French_actress , radio_host , singer , and director . She is_particularly_known for her_1980s_hit_C'est_la_ouate .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Caroline'), (9, 'Loeb'), (14, '('), (15, 'born'), (20, '5'), (22, 'October'), (30, '1955'), (35, 'in'), (38, 'Neuilly-sur-Seine'), (55, ')'), (57, 'is'), (60, 'a'), (62, 'French'), (69, 'actress'), (76, ','), (78, 'radio'), (84, 'host'), (88, ','), (90, 'singer'), (96, ','), (98, 'and'), (102, 'director'), (110, '.'), (112, 'She'), (116, 'is'), (119, 'particularly'), (132, 'known'), (138, 'for'), (142, 'her'), (146, '1980s'), (152, 'hit'), (156, 'C\'est'), (162, 'la'), (165, 'ouate'), (170, '.')])</stanford_tokens>
+<opennlp_chunks>[('Caroline Loeb',0, 13), ('born 5 October 1955',15, 34), ('a French actress',60, 76), ('radio host',78, 88), ('is particularly known',116, 137), ('her 1980s hit C\'est la ouate',142, 170)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'CD', 'NN', 'NNP', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Caroline'), (9, 'Loeb'), (14, '('), (15, 'born'), (20, '5'), (22, 'October'), (30, '1955'), (35, 'in'), (38, 'Neuilly'), (45, '-'), (46, 'sur'), (49, '-'), (50, 'Seine'), (55, ')'), (57, 'is'), (60, 'a'), (62, 'French'), (69, 'actress'), (76, ','), (78, 'radio'), (84, 'host'), (88, ','), (90, 'singer'), (96, ','), (98, 'and'), (102, 'director'), (110, '.'), (112, 'She'), (116, 'is'), (119, 'particularly'), (132, 'known'), (138, 'for'), (142, 'her'), (146, '1980s'), (152, 'hit'), (156, "C'est"), (162, 'la'), (165, 'ouate'), (170, '.')])</spacy_tokens>
+<spacy_chunks>[('Caroline Loeb', 0, 13), ('5 October 1955', 20, 34), ('Neuilly-sur-Seine', 38, 55), ('a French actress', 60, 76), ('radio host', 78, 88), ('singer', 90, 96), ('director', 102, 110), ("C'est la ouate", 156, 170)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'CD', 'VBD', 'FW', 'FW', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

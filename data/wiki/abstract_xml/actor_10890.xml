@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phoebe Brand</title>
+<link/>https://en.wikipedia.org/wiki/Phoebe_Brand
+<annotated>0</annotated>
+<originalabstract>Phoebe Brand (November 27, 1907 – July 3, 2004) was an American actress. Brand was born in Syracuse, New York in 1907 and raised in Ilion, Herkimer County, New York. Her father worked for Remington Typewriter Company as a mechanical engineer.</originalabstract>
+<abstract>Phoebe_Brand ( November_27_,_1907 – July_3_,_2004 ) was an_American_actress . Brand was_born in Syracuse , New_York in 1907 and raised in Ilion , Herkimer_County , New_York . Her_father worked for Remington_Typewriter_Company as a_mechanical_engineer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phoebe'), (7, 'Brand'), (13, '('), (14, 'November'), (23, '27'), (25, ','), (27, '1907'), (32, '–'), (34, 'July'), (39, '3'), (40, ','), (42, '2004'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (71, '.'), (73, 'Brand'), (79, 'was'), (83, 'born'), (88, 'in'), (91, 'Syracuse'), (99, ','), (101, 'New'), (105, 'York'), (110, 'in'), (113, '1907'), (118, 'and'), (122, 'raised'), (129, 'in'), (132, 'Ilion'), (137, ','), (139, 'Herkimer'), (148, 'County'), (154, ','), (156, 'New'), (160, 'York'), (164, '.'), (166, 'Her'), (170, 'father'), (177, 'worked'), (184, 'for'), (188, 'Remington'), (198, 'Typewriter'), (209, 'Company'), (217, 'as'), (220, 'a'), (222, 'mechanical'), (233, 'engineer'), (241, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phoebe Brand',0, 12), ('November 27, 1907',14, 31), ('July 3, 2004',34, 46), ('an American actress',52, 71), ('was born',79, 87), ('New York',101, 109), ('Herkimer County',139, 154), ('New York',156, 164), ('Her father',166, 176), ('Remington Typewriter Company',188, 216), ('a mechanical engineer',220, 241)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NN', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phoebe'), (7, 'Brand'), (13, '('), (14, 'November'), (23, '27'), (25, ','), (27, '1907'), (32, '–'), (34, 'July'), (39, '3'), (40, ','), (42, '2004'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (71, '.'), (73, 'Brand'), (79, 'was'), (83, 'born'), (88, 'in'), (91, 'Syracuse'), (99, ','), (101, 'New'), (105, 'York'), (110, 'in'), (113, '1907'), (118, 'and'), (122, 'raised'), (129, 'in'), (132, 'Ilion'), (137, ','), (139, 'Herkimer'), (148, 'County'), (154, ','), (156, 'New'), (160, 'York'), (164, '.'), (166, 'Her'), (170, 'father'), (177, 'worked'), (184, 'for'), (188, 'Remington'), (198, 'Typewriter'), (209, 'Company'), (217, 'as'), (220, 'a'), (222, 'mechanical'), (233, 'engineer'), (241, '.')])</spacy_tokens>
+<spacy_chunks>[('Phoebe Brand', 0, 12), ('(November', 13, 22), ('November 27, 1907', 14, 31), ('July 3, 2004', 34, 46), ('an American actress', 52, 71), ('Syracuse, New York', 91, 109), ('Ilion,', 132, 138), ('Herkimer County', 139, 154), ('Her father', 166, 176), ('Remington Typewriter Company', 188, 216), ('a mechanical engineer', 220, 241)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NN', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

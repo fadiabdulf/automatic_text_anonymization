@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jonathan Silverman</title>
+<link/>https://en.wikipedia.org/wiki/Jonathan_Silverman
+<annotated>0</annotated>
+<originalabstract>Jonathan Elihu Silverman (born August 5, 1966) is an American actor. Known for his role in the comedies Weekend at Bernie's and its sequel Weekend at Bernie's II.</originalabstract>
+<abstract>Jonathan_Elihu_Silverman ( born August_5_,_1966 ) is an_American_actor . Known for his_role in the_comedies_Weekend at Bernie 's and its_sequel_Weekend at Bernie 's_II .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Elihu'), (15, 'Silverman'), (25, '('), (26, 'born'), (31, 'August'), (38, '5'), (39, ','), (41, '1966'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, '.'), (69, 'Known'), (75, 'for'), (79, 'his'), (83, 'role'), (88, 'in'), (91, 'the'), (95, 'comedies'), (104, 'Weekend'), (112, 'at'), (115, 'Bernie'), (121, '\'s'), (124, 'and'), (128, 'its'), (132, 'sequel'), (139, 'Weekend'), (147, 'at'), (150, 'Bernie'), (156, '\'s'), (159, 'II'), (161, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jonathan Elihu Silverman',0, 24), ('August 5, 1966',31, 45), ('an American actor',50, 67), ('his role',79, 87), ('the comedies Weekend',91, 111), ('its sequel Weekend',128, 146), ('\'s II',156, 161)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNS', 'NNP', 'IN', 'NNP', 'POS', 'CC', 'PRP$', 'NN', 'NNP', 'IN', 'NNP', 'POS', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Elihu'), (15, 'Silverman'), (25, '('), (26, 'born'), (31, 'August'), (38, '5'), (39, ','), (41, '1966'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, '.'), (69, 'Known'), (75, 'for'), (79, 'his'), (83, 'role'), (88, 'in'), (91, 'the'), (95, 'comedies'), (104, 'Weekend'), (112, 'at'), (115, 'Bernie'), (121, "'s"), (124, 'and'), (128, 'its'), (132, 'sequel'), (139, 'Weekend'), (147, 'at'), (150, 'Bernie'), (156, "'s"), (159, 'II'), (161, '.')])</spacy_tokens>
+<spacy_chunks>[('Jonathan Elihu Silverman', 0, 24), ('August 5, 1966', 31, 45), ('an American actor', 50, 67), ('his role', 79, 87), ('the comedies Weekend', 91, 111), ('Bernie', 115, 121), ('its sequel Weekend', 128, 146), ("Weekend at Bernie's II", 139, 161)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNS', 'NN', 'IN', 'NNP', 'POS', 'CC', 'PRP$', 'NN', 'NNP', 'IN', 'NNP', 'POS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jo O'Meara</title>
+<link/>https://en.wikipedia.org/wiki/Jo_O%27Meara
+<annotated>0</annotated>
+<originalabstract>Joanne Valda O'Meara (born 29 April 1979) is an English singer and songwriter. She was member of pop group S Club 7 between 1999 and 2003. Her appearance on Celebrity Big Brother was cut short. O'Meara has been a member of spin-off group S Club 3 since 2008.</originalabstract>
+<abstract>Joanne_Valda_O'Meara ( born_29_April_1979 ) is an_English_singer_and_songwriter . She was member of pop_group_S_Club_7 between 1999_and_2003 . Her_appearance on Celebrity_Big_Brother was_cut short . O'Meara has_been a_member of spin-off_group_S Club_3 since 2008 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joanne'), (7, 'Valda'), (13, 'O\'Meara'), (21, '('), (22, 'born'), (27, '29'), (30, 'April'), (36, '1979'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'English'), (56, 'singer'), (63, 'and'), (67, 'songwriter'), (77, '.'), (79, 'She'), (83, 'was'), (87, 'member'), (94, 'of'), (97, 'pop'), (101, 'group'), (107, 'S'), (109, 'Club'), (114, '7'), (116, 'between'), (124, '1999'), (129, 'and'), (133, '2003'), (137, '.'), (139, 'Her'), (143, 'appearance'), (154, 'on'), (157, 'Celebrity'), (167, 'Big'), (171, 'Brother'), (179, 'was'), (183, 'cut'), (187, 'short'), (192, '.'), (194, 'O\'Meara'), (202, 'has'), (206, 'been'), (211, 'a'), (213, 'member'), (220, 'of'), (223, 'spin-off'), (232, 'group'), (238, 'S'), (240, 'Club'), (245, '3'), (247, 'since'), (253, '2008'), (257, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joanne Valda O\'Meara',0, 20), ('born 29 April 1979',22, 40), ('an English singer and songwriter',45, 77), ('pop group S Club 7',97, 115), ('1999 and 2003',124, 137), ('Her appearance',139, 153), ('Celebrity Big Brother',157, 178), ('was cut',179, 186), ('has been',202, 210), ('a member',211, 219), ('spin-off group S',223, 239), ('Club 3',240, 246)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'NN', 'IN', 'NN', 'NN', 'NN', 'NNP', 'CD', 'IN', 'CD', 'CC', 'CD', '.', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'VBD', 'VBN', 'JJ', '.', 'NNP', 'VBZ', 'VBN', 'DT', 'NN', 'IN', 'NN', 'NN', 'NN', 'NNP', 'CD', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joanne'), (7, 'Valda'), (13, "O'Meara"), (21, '('), (22, 'born'), (27, '29'), (30, 'April'), (36, '1979'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'English'), (56, 'singer'), (63, 'and'), (67, 'songwriter'), (77, '.'), (79, 'She'), (83, 'was'), (87, 'member'), (94, 'of'), (97, 'pop'), (101, 'group'), (107, 'S'), (109, 'Club'), (114, '7'), (116, 'between'), (124, '1999'), (129, 'and'), (133, '2003'), (137, '.'), (139, 'Her'), (143, 'appearance'), (154, 'on'), (157, 'Celebrity'), (167, 'Big'), (171, 'Brother'), (179, 'was'), (183, 'cut'), (187, 'short'), (192, '.'), (194, "O'Meara"), (202, 'has'), (206, 'been'), (211, 'a'), (213, 'member'), (220, 'of'), (223, 'spin'), (227, '-'), (228, 'off'), (232, 'group'), (238, 'S'), (240, 'Club'), (245, '3'), (247, 'since'), (253, '2008'), (257, '.')])</spacy_tokens>
+<spacy_chunks>[("Joanne Valda O'Meara", 0, 20), ('29 April 1979', 27, 40), ('an English singer', 45, 62), ('songwriter', 67, 77), ('member', 87, 93), ('pop group S Club', 97, 113), ('S Club 7', 107, 115), ('Her appearance', 139, 153), ('Celebrity Big Brother', 157, 178), ('a member', 211, 219), ('spin-off group S Club', 223, 244), ('S Club 3', 238, 246)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'CD', 'IN', 'CD', 'CC', 'CD', '.', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'VBD', 'VBN', 'JJ', '.', 'NNP', 'VBZ', 'VBN', 'DT', 'NN', 'IN', 'NN', 'HYPH', 'RP', 'NN', 'NNP', 'NNP', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

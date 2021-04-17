@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lynn Collins</title>
+<link/>https://en.wikipedia.org/wiki/Lynn_Collins
+<annotated>0</annotated>
+<originalabstract>Viola Lynn Collins (born May 16, 1977) is an American actress. She has made television appearances in True Blood and Manhunt: Unabomber, and is recognized for her roles in films such as X-Men Origins: Wolverine and John Carter.</originalabstract>
+<abstract>Viola_Lynn_Collins ( born May_16_,_1977 ) is an_American_actress . She has_made television_appearances in True_Blood_and_Manhunt : Unabomber , and is_recognized for her_roles in films such_as X-Men_Origins : Wolverine and John_Carter .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Viola'), (6, 'Lynn'), (11, 'Collins'), (19, '('), (20, 'born'), (25, 'May'), (29, '16'), (31, ','), (33, '1977'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'has'), (71, 'made'), (76, 'television'), (87, 'appearances'), (99, 'in'), (102, 'True'), (107, 'Blood'), (113, 'and'), (117, 'Manhunt'), (124, ':'), (126, 'Unabomber'), (135, ','), (137, 'and'), (141, 'is'), (144, 'recognized'), (155, 'for'), (159, 'her'), (163, 'roles'), (169, 'in'), (172, 'films'), (178, 'such'), (183, 'as'), (186, 'X-Men'), (192, 'Origins'), (199, ':'), (201, 'Wolverine'), (211, 'and'), (215, 'John'), (220, 'Carter'), (226, '.')])</stanford_tokens>
+<opennlp_chunks>[('Viola Lynn Collins',0, 18), ('May 16, 1977',25, 37), ('an American actress',42, 61), ('has made',67, 75), ('television appearances',76, 98), ('True Blood and Manhunt',102, 124), ('is recognized',141, 154), ('her roles',159, 168), ('such as',178, 185), ('X-Men Origins',186, 199), ('John Carter',215, 226)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'NN', 'NNS', 'IN', 'JJ', 'NN', 'CC', 'NN', ':', 'NNP', ',', 'CC', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NN', 'NNS', ':', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Viola'), (6, 'Lynn'), (11, 'Collins'), (19, '('), (20, 'born'), (25, 'May'), (29, '16'), (31, ','), (33, '1977'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'has'), (71, 'made'), (76, 'television'), (87, 'appearances'), (99, 'in'), (102, 'True'), (107, 'Blood'), (113, 'and'), (117, 'Manhunt'), (124, ':'), (126, 'Unabomber'), (135, ','), (137, 'and'), (141, 'is'), (144, 'recognized'), (155, 'for'), (159, 'her'), (163, 'roles'), (169, 'in'), (172, 'films'), (178, 'such'), (183, 'as'), (186, 'X'), (187, '-'), (188, 'Men'), (192, 'Origins'), (199, ':'), (201, 'Wolverine'), (211, 'and'), (215, 'John'), (220, 'Carter'), (226, '.')])</spacy_tokens>
+<spacy_chunks>[('Viola Lynn Collins', 0, 18), ('May 16, 1977', 25, 37), ('an American actress', 42, 61), ('television appearances', 76, 98), ('True Blood', 102, 112), ('Manhunt: Unabomber', 117, 135), ('her roles', 159, 168), ('X-Men Origins: Wolverine', 186, 210), ('John Carter', 215, 226)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'NN', 'NNS', 'IN', 'JJ', 'NNP', 'CC', 'NNP', ':', 'NNP', ',', 'CC', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NN', 'NNP', 'NN', 'NNPS', ':', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

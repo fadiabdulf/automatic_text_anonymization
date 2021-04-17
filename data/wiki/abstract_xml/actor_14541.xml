@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Shelley Plimpton</title>
+<link/>https://en.wikipedia.org/wiki/Shelley_Plimpton
+<annotated>0</annotated>
+<originalabstract>Shelley Plimpton (born February 27, 1947) is an American former actress and Broadway performer. She is perhaps best known for originating the role of Crissy in the off-Broadway production of Hair, a role she resumed when the production moved to Broadway in 1968. She is the mother of actress Martha Plimpton.</originalabstract>
+<abstract>Shelley_Plimpton ( born February_27_,_1947 ) is an_American_former_actress_and_Broadway_performer . She is_perhaps_best_known for originating the_role of Crissy in the_off-Broadway_production of Hair , a_role she resumed when the_production moved to Broadway in 1968 . She is the_mother of actress_Martha_Plimpton .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Shelley'), (8, 'Plimpton'), (17, '('), (18, 'born'), (23, 'February'), (32, '27'), (34, ','), (36, '1947'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'former'), (64, 'actress'), (72, 'and'), (76, 'Broadway'), (85, 'performer'), (94, '.'), (96, 'She'), (100, 'is'), (103, 'perhaps'), (111, 'best'), (116, 'known'), (122, 'for'), (126, 'originating'), (138, 'the'), (142, 'role'), (147, 'of'), (150, 'Crissy'), (157, 'in'), (160, 'the'), (164, 'off-Broadway'), (177, 'production'), (188, 'of'), (191, 'Hair'), (195, ','), (197, 'a'), (199, 'role'), (204, 'she'), (208, 'resumed'), (216, 'when'), (221, 'the'), (225, 'production'), (236, 'moved'), (242, 'to'), (245, 'Broadway'), (254, 'in'), (257, '1968'), (261, '.'), (263, 'She'), (267, 'is'), (270, 'the'), (274, 'mother'), (281, 'of'), (284, 'actress'), (292, 'Martha'), (299, 'Plimpton'), (307, '.')])</stanford_tokens>
+<opennlp_chunks>[('Shelley Plimpton',0, 16), ('February 27, 1947',23, 40), ('an American former actress and Broadway performer',45, 94), ('is perhaps best known',100, 121), ('the role',138, 146), ('the off-Broadway production',160, 187), ('a role',197, 203), ('the production',221, 235), ('the mother',270, 280), ('actress Martha Plimpton',284, 307)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'DT', 'NN', 'PRP', 'VBD', 'WRB', 'DT', 'NN', 'VBD', 'TO', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Shelley'), (8, 'Plimpton'), (17, '('), (18, 'born'), (23, 'February'), (32, '27'), (34, ','), (36, '1947'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'former'), (64, 'actress'), (72, 'and'), (76, 'Broadway'), (85, 'performer'), (94, '.'), (96, 'She'), (100, 'is'), (103, 'perhaps'), (111, 'best'), (116, 'known'), (122, 'for'), (126, 'originating'), (138, 'the'), (142, 'role'), (147, 'of'), (150, 'Crissy'), (157, 'in'), (160, 'the'), (164, 'off'), (167, '-'), (168, 'Broadway'), (177, 'production'), (188, 'of'), (191, 'Hair'), (195, ','), (197, 'a'), (199, 'role'), (204, 'she'), (208, 'resumed'), (216, 'when'), (221, 'the'), (225, 'production'), (236, 'moved'), (242, 'to'), (245, 'Broadway'), (254, 'in'), (257, '1968'), (261, '.'), (263, 'She'), (267, 'is'), (270, 'the'), (274, 'mother'), (281, 'of'), (284, 'actress'), (292, 'Martha'), (299, 'Plimpton'), (307, '.')])</spacy_tokens>
+<spacy_chunks>[('Shelley Plimpton', 0, 16), ('February 27, 1947', 23, 40), ('an American former actress', 45, 71), ('Broadway performer', 76, 94), ('the role', 138, 146), ('Crissy', 150, 156), ('the production', 221, 235), ('the mother', 270, 280), ('actress Martha Plimpton', 284, 307)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'IN', 'HYPH', 'NN', 'NN', 'IN', 'NNP', ',', 'DT', 'NN', 'PRP', 'VBD', 'WRB', 'DT', 'NN', 'VBD', 'IN', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

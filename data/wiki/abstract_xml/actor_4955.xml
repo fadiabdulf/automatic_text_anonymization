@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Norton</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Norton
+<annotated>0</annotated>
+<originalabstract>Jack Norton (September 2, 1882 – October 15, 1958) was an American stage and film character actor who appeared in 184 films between 1934 and 1948, often playing drunks, although in real life he was a teetotaler.</originalabstract>
+<abstract>Jack_Norton ( September_2_,_1882 – October_15_,_1958 ) was an_American_stage_and_film_character_actor who appeared in 184_films between 1934_and_1948 , often_playing drunks , although in real_life he was a_teetotaler .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jack'), (5, 'Norton'), (12, '('), (13, 'September'), (23, '2'), (24, ','), (26, '1882'), (31, '–'), (33, 'October'), (41, '15'), (43, ','), (45, '1958'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'stage'), (73, 'and'), (77, 'film'), (82, 'character'), (92, 'actor'), (98, 'who'), (102, 'appeared'), (111, 'in'), (114, '184'), (118, 'films'), (124, 'between'), (132, '1934'), (137, 'and'), (141, '1948'), (145, ','), (147, 'often'), (153, 'playing'), (161, 'drunks'), (167, ','), (169, 'although'), (178, 'in'), (181, 'real'), (186, 'life'), (191, 'he'), (194, 'was'), (198, 'a'), (200, 'teetotaler'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jack Norton',0, 11), ('September 2, 1882',13, 30), ('October 15, 1958',33, 49), ('an American stage and film character actor',55, 97), ('184 films',114, 123), ('1934 and 1948',132, 145), ('often playing',147, 160), ('real life',181, 190), ('a teetotaler',198, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', 'WP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'VBG', 'NNS', ',', 'IN', 'IN', 'JJ', 'NN', 'PRP', 'VBD', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jack'), (5, 'Norton'), (12, '('), (13, 'September'), (23, '2'), (24, ','), (26, '1882'), (31, '–'), (33, 'October'), (41, '15'), (43, ','), (45, '1958'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'stage'), (73, 'and'), (77, 'film'), (82, 'character'), (92, 'actor'), (98, 'who'), (102, 'appeared'), (111, 'in'), (114, '184'), (118, 'films'), (124, 'between'), (132, '1934'), (137, 'and'), (141, '1948'), (145, ','), (147, 'often'), (153, 'playing'), (161, 'drunks'), (167, ','), (169, 'although'), (178, 'in'), (181, 'real'), (186, 'life'), (191, 'he'), (194, 'was'), (198, 'a'), (200, 'teetotaler'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Jack Norton', 0, 11), ('September 2, 1882', 13, 30), ('October 15, 1958', 33, 49), ('an American stage and film character actor', 55, 97), ('184 films', 114, 123), ('drunks', 161, 167), ('real life', 181, 190), ('a teetotaler', 198, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', 'WP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RB', 'VBG', 'NNS', ',', 'IN', 'IN', 'JJ', 'NN', 'PRP', 'VBD', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>William Clifford (actor)</title>
+<link/>https://en.wikipedia.org/wiki/William_Clifford_(actor)
+<annotated>0</annotated>
+<originalabstract>William Clifford (June 27, 1877 – December 23, 1941), born William Morris Clifford, was an American actor and screenwriter of the silent era. He appeared in 170 films between 1910 and 1929. He also wrote for 30 films between 1913 and 1919. He was born in Cincinnati, Ohio and died in Los Angeles, California.</originalabstract>
+<abstract>William_Clifford ( June_27_,_1877 – December_23_,_1941 ) , born William_Morris_Clifford , was an_American_actor_and_screenwriter of the_silent_era . He appeared in 170_films between 1910_and_1929 . He also wrote for 30_films between 1913_and_1919 . He was_born in Cincinnati_,_Ohio_and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Clifford'), (17, '('), (18, 'June'), (23, '27'), (25, ','), (27, '1877'), (32, '–'), (34, 'December'), (43, '23'), (45, ','), (47, '1941'), (51, ')'), (52, ','), (54, 'born'), (59, 'William'), (67, 'Morris'), (74, 'Clifford'), (82, ','), (84, 'was'), (88, 'an'), (91, 'American'), (100, 'actor'), (106, 'and'), (110, 'screenwriter'), (123, 'of'), (126, 'the'), (130, 'silent'), (137, 'era'), (140, '.'), (142, 'He'), (145, 'appeared'), (154, 'in'), (157, '170'), (161, 'films'), (167, 'between'), (175, '1910'), (180, 'and'), (184, '1929'), (188, '.'), (190, 'He'), (193, 'also'), (198, 'wrote'), (204, 'for'), (208, '30'), (211, 'films'), (217, 'between'), (225, '1913'), (230, 'and'), (234, '1919'), (238, '.'), (240, 'He'), (243, 'was'), (247, 'born'), (252, 'in'), (255, 'Cincinnati'), (265, ','), (267, 'Ohio'), (272, 'and'), (276, 'died'), (281, 'in'), (284, 'Los'), (288, 'Angeles'), (295, ','), (297, 'California'), (307, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Clifford',0, 16), ('June 27, 1877',18, 31), ('December 23, 1941',34, 51), ('William Morris Clifford',59, 82), ('an American actor and screenwriter',88, 122), ('the silent era',126, 140), ('170 films',157, 166), ('1910 and 1929',175, 188), ('30 films',208, 216), ('1913 and 1919',225, 238), ('was born',243, 251), ('Cincinnati, Ohio and',255, 275), ('Los Angeles',284, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Clifford'), (17, '('), (18, 'June'), (23, '27'), (25, ','), (27, '1877'), (32, '–'), (34, 'December'), (43, '23'), (45, ','), (47, '1941'), (51, ')'), (52, ','), (54, 'born'), (59, 'William'), (67, 'Morris'), (74, 'Clifford'), (82, ','), (84, 'was'), (88, 'an'), (91, 'American'), (100, 'actor'), (106, 'and'), (110, 'screenwriter'), (123, 'of'), (126, 'the'), (130, 'silent'), (137, 'era'), (140, '.'), (142, 'He'), (145, 'appeared'), (154, 'in'), (157, '170'), (161, 'films'), (167, 'between'), (175, '1910'), (180, 'and'), (184, '1929'), (188, '.'), (190, 'He'), (193, 'also'), (198, 'wrote'), (204, 'for'), (208, '30'), (211, 'films'), (217, 'between'), (225, '1913'), (230, 'and'), (234, '1919'), (238, '.'), (240, 'He'), (243, 'was'), (247, 'born'), (252, 'in'), (255, 'Cincinnati'), (265, ','), (267, 'Ohio'), (272, 'and'), (276, 'died'), (281, 'in'), (284, 'Los'), (288, 'Angeles'), (295, ','), (297, 'California'), (307, '.')])</spacy_tokens>
+<spacy_chunks>[('William Clifford', 0, 16), ('June 27, 1877', 18, 31), ('December 23, 1941', 34, 51), ('born William Morris Clifford', 54, 82), ('an American actor', 88, 105), ('screenwriter', 110, 122), ('the silent era', 126, 140), ('170 films', 157, 166), ('30 films', 208, 216), ('Cincinnati, Ohio', 255, 271), ('Los Angeles, California', 284, 307)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wallace Lupino</title>
+<link/>https://en.wikipedia.org/wiki/Wallace_Lupino
+<annotated>0</annotated>
+<originalabstract>Wallace Lupino (23 January 1898 – 11 October 1961) was a British-born stage and film actor who was part of the Lupino family. He appeared in 63 films between 1918 and 1945, most often with his older brother, Lupino Lane. He was born in Edinburgh, Scotland, and died in Ashford, Kent, England.</originalabstract>
+<abstract>Wallace_Lupino ( 23_January_1898 – 11_October_1961 ) was a_British-born_stage_and_film_actor who was part of the_Lupino_family . He appeared in 63_films between 1918_and_1945 , most_often with his_older_brother , Lupino_Lane . He was_born in Edinburgh , Scotland , and died in Ashford , Kent , England .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wallace'), (8, 'Lupino'), (15, '('), (16, '23'), (19, 'January'), (27, '1898'), (32, '–'), (34, '11'), (37, 'October'), (45, '1961'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'British-born'), (70, 'stage'), (76, 'and'), (80, 'film'), (85, 'actor'), (91, 'who'), (95, 'was'), (99, 'part'), (104, 'of'), (107, 'the'), (111, 'Lupino'), (118, 'family'), (124, '.'), (126, 'He'), (129, 'appeared'), (138, 'in'), (141, '63'), (144, 'films'), (150, 'between'), (158, '1918'), (163, 'and'), (167, '1945'), (171, ','), (173, 'most'), (178, 'often'), (184, 'with'), (189, 'his'), (193, 'older'), (199, 'brother'), (206, ','), (208, 'Lupino'), (215, 'Lane'), (219, '.'), (221, 'He'), (224, 'was'), (228, 'born'), (233, 'in'), (236, 'Edinburgh'), (245, ','), (247, 'Scotland'), (255, ','), (257, 'and'), (261, 'died'), (266, 'in'), (269, 'Ashford'), (276, ','), (278, 'Kent'), (282, ','), (284, 'England'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wallace Lupino',0, 14), ('23 January 1898',16, 31), ('11 October 1961',34, 49), ('a British-born stage and film actor',55, 90), ('the Lupino family',107, 124), ('63 films',141, 149), ('1918 and 1945',158, 171), ('most often',173, 183), ('his older brother',189, 206), ('Lupino Lane',208, 219), ('was born',224, 232)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'NN', 'IN', 'DT', 'NNP', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RBS', 'RB', 'IN', 'PRP$', 'JJR', 'NN', ',', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wallace'), (8, 'Lupino'), (15, '('), (16, '23'), (19, 'January'), (27, '1898'), (32, '–'), (34, '11'), (37, 'October'), (45, '1961'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'British'), (64, '-'), (65, 'born'), (70, 'stage'), (76, 'and'), (80, 'film'), (85, 'actor'), (91, 'who'), (95, 'was'), (99, 'part'), (104, 'of'), (107, 'the'), (111, 'Lupino'), (118, 'family'), (124, '.'), (126, 'He'), (129, 'appeared'), (138, 'in'), (141, '63'), (144, 'films'), (150, 'between'), (158, '1918'), (163, 'and'), (167, '1945'), (171, ','), (173, 'most'), (178, 'often'), (184, 'with'), (189, 'his'), (193, 'older'), (199, 'brother'), (206, ','), (208, 'Lupino'), (215, 'Lane'), (219, '.'), (221, 'He'), (224, 'was'), (228, 'born'), (233, 'in'), (236, 'Edinburgh'), (245, ','), (247, 'Scotland'), (255, ','), (257, 'and'), (261, 'died'), (266, 'in'), (269, 'Ashford'), (276, ','), (278, 'Kent'), (282, ','), (284, 'England'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Wallace Lupino', 0, 14), ('23 January 1898', 16, 31), ('11 October 1961', 34, 49), ('a British-born stage', 55, 75), ('film actor', 80, 90), ('the Lupino family', 107, 124), ('63 films', 141, 149), ('his older brother', 189, 206), ('Lupino Lane', 208, 219), ('Edinburgh', 236, 245), ('Scotland', 247, 255), ('Ashford, Kent', 269, 282), ('England', 284, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'NN', 'IN', 'DT', 'NNP', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'RBS', 'RB', 'IN', 'PRP$', 'JJR', 'NN', ',', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

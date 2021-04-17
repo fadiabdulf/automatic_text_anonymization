@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lee Shumway</title>
+<link/>https://en.wikipedia.org/wiki/Lee_Shumway
+<annotated>0</annotated>
+<originalabstract>Lee Shumway (March 4, 1884 – January 4, 1959) was an American actor. He appeared in 417 films between 1909 and 1953. He was born in Salt Lake City, Utah and died in Los Angeles, California.</originalabstract>
+<abstract>Lee_Shumway ( March_4_,_1884 – January_4_,_1959 ) was an_American_actor . He appeared in 417_films between 1909_and_1953 . He was_born in Salt_Lake_City , Utah and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lee'), (4, 'Shumway'), (12, '('), (13, 'March'), (19, '4'), (20, ','), (22, '1884'), (27, '–'), (29, 'January'), (37, '4'), (38, ','), (40, '1959'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'appeared'), (81, 'in'), (84, '417'), (88, 'films'), (94, 'between'), (102, '1909'), (107, 'and'), (111, '1953'), (115, '.'), (117, 'He'), (120, 'was'), (124, 'born'), (129, 'in'), (132, 'Salt'), (137, 'Lake'), (142, 'City'), (146, ','), (148, 'Utah'), (153, 'and'), (157, 'died'), (162, 'in'), (165, 'Los'), (169, 'Angeles'), (176, ','), (178, 'California'), (188, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lee Shumway',0, 11), ('March 4, 1884',13, 26), ('January 4, 1959',29, 44), ('an American actor',50, 67), ('417 films',84, 93), ('1909 and 1953',102, 115), ('was born',120, 128), ('Salt Lake City',132, 146), ('Los Angeles',165, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lee'), (4, 'Shumway'), (12, '('), (13, 'March'), (19, '4'), (20, ','), (22, '1884'), (27, '–'), (29, 'January'), (37, '4'), (38, ','), (40, '1959'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'appeared'), (81, 'in'), (84, '417'), (88, 'films'), (94, 'between'), (102, '1909'), (107, 'and'), (111, '1953'), (115, '.'), (117, 'He'), (120, 'was'), (124, 'born'), (129, 'in'), (132, 'Salt'), (137, 'Lake'), (142, 'City'), (146, ','), (148, 'Utah'), (153, 'and'), (157, 'died'), (162, 'in'), (165, 'Los'), (169, 'Angeles'), (176, ','), (178, 'California'), (188, '.')])</spacy_tokens>
+<spacy_chunks>[('Lee Shumway', 0, 11), ('(March', 12, 18), ('March 4, 1884', 13, 26), ('January 4, 1959', 29, 44), ('an American actor', 50, 67), ('417 films', 84, 93), ('Salt Lake City', 132, 146), ('Los Angeles, California', 165, 188)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

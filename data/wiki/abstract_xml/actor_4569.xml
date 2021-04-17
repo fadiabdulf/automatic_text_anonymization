@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Matt Mercer (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Matt_Mercer_(actor)
+<annotated>0</annotated>
+<originalabstract>Matt Mercer (born March 17, 1980) is an American actor and filmmaker best known for his acting roles in Contracted, Contracted: Phase II, The Mind's Eye, and Beyond the Gates,.</originalabstract>
+<abstract>Matt_Mercer ( born March_17_,_1980 ) is an_American_actor_and_filmmaker best_known for his_acting_roles in Contracted , Contracted : Phase_II , The_Mind 's_Eye , and Beyond the_Gates_, .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Matt'), (5, 'Mercer'), (12, '('), (13, 'born'), (18, 'March'), (24, '17'), (26, ','), (28, '1980'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (55, 'and'), (59, 'filmmaker'), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'his'), (88, 'acting'), (95, 'roles'), (101, 'in'), (104, 'Contracted'), (114, ','), (116, 'Contracted'), (126, ':'), (128, 'Phase'), (134, 'II'), (136, ','), (138, 'The'), (142, 'Mind'), (146, '\'s'), (149, 'Eye'), (152, ','), (154, 'and'), (158, 'Beyond'), (165, 'the'), (169, 'Gates'), (174, ','), (175, '.')])</stanford_tokens>
+<opennlp_chunks>[('Matt Mercer',0, 11), ('March 17, 1980',18, 32), ('an American actor and filmmaker',37, 68), ('best known',69, 79), ('his acting roles',84, 100), ('Phase II',128, 136), ('The Mind',138, 146), ('\'s Eye',146, 152), ('the Gates,',165, 175)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'VBN', ',', 'VBN', ':', 'NN', 'CD', ',', 'DT', 'NNP', 'POS', 'NNP', ',', 'CC', 'IN', 'DT', 'NNP', ',', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Matt'), (5, 'Mercer'), (12, '('), (13, 'born'), (18, 'March'), (24, '17'), (26, ','), (28, '1980'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (55, 'and'), (59, 'filmmaker'), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'his'), (88, 'acting'), (95, 'roles'), (101, 'in'), (104, 'Contracted'), (114, ','), (116, 'Contracted'), (126, ':'), (128, 'Phase'), (134, 'II'), (136, ','), (138, 'The'), (142, 'Mind'), (146, "'s"), (149, 'Eye'), (152, ','), (154, 'and'), (158, 'Beyond'), (165, 'the'), (169, 'Gates'), (174, ','), (175, '.')])</spacy_tokens>
+<spacy_chunks>[('Matt Mercer', 0, 11), ('an American actor', 37, 54), ('filmmaker', 59, 68), ('his acting roles', 84, 100), ('Contracted, Contracted', 104, 126), ('Phase II', 128, 136), ("The Mind's Eye", 138, 152), ('the Gates', 165, 174)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNP', ',', 'NNP', ':', 'NN', 'NNP', ',', 'DT', 'NNP', 'POS', 'NNP', ',', 'CC', 'IN', 'DT', 'NNP', ',', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

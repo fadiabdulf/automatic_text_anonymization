@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anémone</title>
+<link/>https://en.wikipedia.org/wiki/An%C3%A9mone
+<annotated>0</annotated>
+<originalabstract>Anémone (born Anne Bourguignon; born 9 August 1950) is a French actress, filmmaker and political activist. She took her stage name in 1968 from the title of her film debut in Philippe Garrel's "Anémone".</originalabstract>
+<abstract>Anémone ( born Anne_Bourguignon ; born_9_August_1950 ) is a_French_actress_,_filmmaker_and_political_activist . She took her_stage_name in 1968 from the_title of her_film_debut in Philippe_Garrel 's_"_Anémone_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anémone'), (8, '('), (9, 'born'), (14, 'Anne'), (19, 'Bourguignon'), (30, ';'), (32, 'born'), (37, '9'), (39, 'August'), (46, '1950'), (50, ')'), (52, 'is'), (55, 'a'), (57, 'French'), (64, 'actress'), (71, ','), (73, 'filmmaker'), (83, 'and'), (87, 'political'), (97, 'activist'), (105, '.'), (107, 'She'), (111, 'took'), (116, 'her'), (120, 'stage'), (126, 'name'), (131, 'in'), (134, '1968'), (139, 'from'), (144, 'the'), (148, 'title'), (154, 'of'), (157, 'her'), (161, 'film'), (166, 'debut'), (172, 'in'), (175, 'Philippe'), (184, 'Garrel'), (190, '\'s'), (193, '"'), (194, 'Anémone'), (201, '"'), (202, '.')])</stanford_tokens>
+<opennlp_chunks>[('Anne Bourguignon',14, 30), ('born 9 August 1950',32, 50), ('a French actress, filmmaker and political activist',55, 105), ('her stage name',116, 130), ('the title',144, 153), ('her film debut',157, 171), ('Philippe Garrel',175, 190), ('\'s "Anémone"',190, 202)]</opennlp_chunks>
+<stanford_pos>['NN', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'CD', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', '``', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anémone'), (8, '('), (9, 'born'), (14, 'Anne'), (19, 'Bourguignon'), (30, ';'), (32, 'born'), (37, '9'), (39, 'August'), (46, '1950'), (50, ')'), (52, 'is'), (55, 'a'), (57, 'French'), (64, 'actress'), (71, ','), (73, 'filmmaker'), (83, 'and'), (87, 'political'), (97, 'activist'), (105, '.'), (107, 'She'), (111, 'took'), (116, 'her'), (120, 'stage'), (126, 'name'), (131, 'in'), (134, '1968'), (139, 'from'), (144, 'the'), (148, 'title'), (154, 'of'), (157, 'her'), (161, 'film'), (166, 'debut'), (172, 'in'), (175, 'Philippe'), (184, 'Garrel'), (190, "'s"), (193, '"'), (194, 'Anémone'), (201, '"'), (202, '.')])</spacy_tokens>
+<spacy_chunks>[('Anémone', 0, 7), ('(born Anne Bourguignon', 8, 30), ('9 August 1950', 37, 50), ('a French actress', 55, 71), ('filmmaker', 73, 82), ('political activist', 87, 105), ('her stage name', 116, 130), ('the title', 144, 153), ('her film debut', 157, 171), ('Philippe Garrel\'s "Anémone', 175, 201)]</spacy_chunks>
+<spacy_pos>['NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'CD', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', '``', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

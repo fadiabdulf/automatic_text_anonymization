@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Milanka Brooks</title>
+<link/>https://en.wikipedia.org/wiki/Milanka_Brooks
+<annotated>0</annotated>
+<originalabstract>Milanka Brooks is a British actress from London, England, best known for playing Ionela in Benidorm in 2015-2016. Brooks also played Elena Tulaska in "USS Callister", a 2017 episode of Black Mirror.</originalabstract>
+<abstract>Milanka_Brooks is a_British_actress from London , England , best_known for playing Ionela in Benidorm in 2015-2016 . Brooks also played Elena_Tulaska in "_USS_Callister " , a_2017_episode of Black_Mirror .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Milanka'), (8, 'Brooks'), (15, 'is'), (18, 'a'), (20, 'British'), (28, 'actress'), (36, 'from'), (41, 'London'), (47, ','), (49, 'England'), (56, ','), (58, 'best'), (63, 'known'), (69, 'for'), (73, 'playing'), (81, 'Ionela'), (88, 'in'), (91, 'Benidorm'), (100, 'in'), (103, '2015-2016'), (112, '.'), (114, 'Brooks'), (121, 'also'), (126, 'played'), (133, 'Elena'), (139, 'Tulaska'), (147, 'in'), (150, '"'), (151, 'USS'), (155, 'Callister'), (164, '"'), (165, ','), (167, 'a'), (169, '2017'), (174, 'episode'), (182, 'of'), (185, 'Black'), (191, 'Mirror'), (197, '.')])</stanford_tokens>
+<opennlp_chunks>[('Milanka Brooks',0, 14), ('a British actress',18, 35), ('best known',58, 68), ('Elena Tulaska',133, 146), ('"USS Callister',150, 164), ('a 2017 episode',167, 181), ('Black Mirror',185, 197)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNP', ',', 'NNP', ',', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'NNP', 'IN', 'CD', '.', 'NNP', 'RB', 'VBD', 'NNP', 'NNP', 'IN', '``', 'NNP', 'NNP', '\'\'', ',', 'DT', 'CD', 'NN', 'IN', 'JJ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Milanka'), (8, 'Brooks'), (15, 'is'), (18, 'a'), (20, 'British'), (28, 'actress'), (36, 'from'), (41, 'London'), (47, ','), (49, 'England'), (56, ','), (58, 'best'), (63, 'known'), (69, 'for'), (73, 'playing'), (81, 'Ionela'), (88, 'in'), (91, 'Benidorm'), (100, 'in'), (103, '2015'), (107, '-'), (108, '2016'), (112, '.'), (114, 'Brooks'), (121, 'also'), (126, 'played'), (133, 'Elena'), (139, 'Tulaska'), (147, 'in'), (150, '"'), (151, 'USS'), (155, 'Callister'), (164, '"'), (165, ','), (167, 'a'), (169, '2017'), (174, 'episode'), (182, 'of'), (185, 'Black'), (191, 'Mirror'), (197, '.')])</spacy_tokens>
+<spacy_chunks>[('Milanka Brooks', 0, 14), ('a British actress', 18, 35), ('London', 41, 47), ('England', 49, 56), ('Ionela', 81, 87), ('Benidorm', 91, 99), ('Elena Tulaska', 133, 146), ('"USS Callister', 150, 164), ('a 2017 episode', 167, 181), ('Black Mirror', 185, 197)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNP', ',', 'NNP', ',', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'NNP', 'IN', 'CD', 'SYM', 'CD', '.', 'NNP', 'RB', 'VBD', 'NNP', 'NNP', 'IN', '``', 'NNP', 'NNP', "''", ',', 'DT', 'CD', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

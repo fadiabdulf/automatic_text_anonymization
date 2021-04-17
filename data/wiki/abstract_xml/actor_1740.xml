@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Louis Dean</title>
+<link/>https://en.wikipedia.org/wiki/Louis_Dean
+<annotated>0</annotated>
+<originalabstract>Louis Dean (3 May 1874 – 8 April 1933), was an American actor. He appeared in 16 films between 1917 and 1923.
+He was born in Wilmington, Delaware, United States and died in Honolulu, Hawaii.</originalabstract>
+<abstract>Louis_Dean ( 3_May_1874 – 8_April_1933 ) , was an_American_actor . He appeared in 16_films between 1917_and_1923 . He was_born in Wilmington , Delaware , United_States and died in Honolulu , Hawaii .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Louis'), (6, 'Dean'), (11, '('), (12, '3'), (14, 'May'), (18, '1874'), (23, '–'), (25, '8'), (27, 'April'), (33, '1933'), (37, ')'), (38, ','), (40, 'was'), (44, 'an'), (47, 'American'), (56, 'actor'), (61, '.'), (63, 'He'), (66, 'appeared'), (75, 'in'), (78, '16'), (81, 'films'), (87, 'between'), (95, '1917'), (100, 'and'), (104, '1923'), (108, '.'), (110, 'He'), (113, 'was'), (117, 'born'), (122, 'in'), (125, 'Wilmington'), (135, ','), (137, 'Delaware'), (145, ','), (147, 'United'), (154, 'States'), (161, 'and'), (165, 'died'), (170, 'in'), (173, 'Honolulu'), (181, ','), (183, 'Hawaii'), (189, '.')])</stanford_tokens>
+<opennlp_chunks>[('Louis Dean',0, 10), ('3 May 1874',12, 22), ('8 April 1933',25, 37), ('an American actor',44, 61), ('16 films',78, 86), ('1917 and 1923',95, 108), ('was born',113, 121), ('United States',147, 160)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNPS', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Louis'), (6, 'Dean'), (11, '('), (12, '3'), (14, 'May'), (18, '1874'), (23, '–'), (25, '8'), (27, 'April'), (33, '1933'), (37, ')'), (38, ','), (40, 'was'), (44, 'an'), (47, 'American'), (56, 'actor'), (61, '.'), (63, 'He'), (66, 'appeared'), (75, 'in'), (78, '16'), (81, 'films'), (87, 'between'), (95, '1917'), (100, 'and'), (104, '1923'), (108, '.'), (110, 'He'), (113, 'was'), (117, 'born'), (122, 'in'), (125, 'Wilmington'), (135, ','), (137, 'Delaware'), (145, ','), (147, 'United'), (154, 'States'), (161, 'and'), (165, 'died'), (170, 'in'), (173, 'Honolulu'), (181, ','), (183, 'Hawaii'), (189, '.')])</spacy_tokens>
+<spacy_chunks>[('Louis Dean', 0, 10), ('(3 May', 11, 17), ('3 May 1874', 12, 22), ('8 April 1933', 25, 37), ('an American actor', 44, 61), ('16 films', 78, 86), ('Wilmington, Delaware', 125, 145), ('United States', 147, 160), ('Honolulu, Hawaii', 173, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

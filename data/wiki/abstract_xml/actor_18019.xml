@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ana Mulvoy-Ten</title>
+<link/>https://en.wikipedia.org/wiki/Ana_Mulvoy-Ten
+<annotated>0</annotated>
+<originalabstract>Ana Maria Mulvoy-Ten (born 8 May 1992) is an English-Spanish actress. She is known for playing the character of Amber Millington on the British boarding school drama House of Anubis.</originalabstract>
+<abstract>Ana_Maria_Mulvoy-Ten ( born 8_May_1992 ) is an_English-Spanish_actress . She is_known for playing the_character of Amber_Millington on the_British_boarding_school_drama_House of Anubis .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ana'), (4, 'Maria'), (10, 'Mulvoy-Ten'), (21, '('), (22, 'born'), (27, '8'), (29, 'May'), (33, '1992'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English-Spanish'), (61, 'actress'), (68, '.'), (70, 'She'), (74, 'is'), (77, 'known'), (83, 'for'), (87, 'playing'), (95, 'the'), (99, 'character'), (109, 'of'), (112, 'Amber'), (118, 'Millington'), (129, 'on'), (132, 'the'), (136, 'British'), (144, 'boarding'), (153, 'school'), (160, 'drama'), (166, 'House'), (172, 'of'), (175, 'Anubis'), (181, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ana Maria Mulvoy-Ten',0, 20), ('8 May 1992',27, 37), ('an English-Spanish actress',42, 68), ('is known',74, 82), ('the character',95, 108), ('Amber Millington',112, 128), ('the British boarding school drama House',132, 171)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'VBG', 'NN', 'NN', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ana'), (4, 'Maria'), (10, 'Mulvoy'), (16, '-'), (17, 'Ten'), (21, '('), (22, 'born'), (27, '8'), (29, 'May'), (33, '1992'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (52, '-'), (53, 'Spanish'), (61, 'actress'), (68, '.'), (70, 'She'), (74, 'is'), (77, 'known'), (83, 'for'), (87, 'playing'), (95, 'the'), (99, 'character'), (109, 'of'), (112, 'Amber'), (118, 'Millington'), (129, 'on'), (132, 'the'), (136, 'British'), (144, 'boarding'), (153, 'school'), (160, 'drama'), (166, 'House'), (172, 'of'), (175, 'Anubis'), (181, '.')])</spacy_tokens>
+<spacy_chunks>[('Ana Maria Mulvoy-Ten', 0, 20), ('8 May 1992', 27, 37), ('an English-Spanish actress', 42, 68), ('the character', 95, 108), ('Amber Millington', 112, 128), ('the British boarding school drama House', 132, 171), ('House of Anubis', 166, 181)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

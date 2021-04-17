@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Constance Ford</title>
+<link/>https://en.wikipedia.org/wiki/Constance_Ford
+<annotated>0</annotated>
+<originalabstract>Constance Ford (born Cornelia M. Ford; July 1, 1923 – February 26, 1993) was an American actress and model. She is best known for her long-running role as Ada Hobson on the daytime soap opera Another World.</originalabstract>
+<abstract>Constance_Ford ( born Cornelia_M._Ford ; July_1_,_1923 – February_26_,_1993 ) was an_American_actress_and_model . She is_best_known for her_long-running_role as Ada_Hobson on the_daytime_soap_opera Another_World .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Constance'), (10, 'Ford'), (15, '('), (16, 'born'), (21, 'Cornelia'), (30, 'M.'), (33, 'Ford'), (37, ';'), (39, 'July'), (44, '1'), (45, ','), (47, '1923'), (52, '–'), (54, 'February'), (63, '26'), (65, ','), (67, '1993'), (71, ')'), (73, 'was'), (77, 'an'), (80, 'American'), (89, 'actress'), (97, 'and'), (101, 'model'), (106, '.'), (108, 'She'), (112, 'is'), (115, 'best'), (120, 'known'), (126, 'for'), (130, 'her'), (134, 'long-running'), (147, 'role'), (152, 'as'), (155, 'Ada'), (159, 'Hobson'), (166, 'on'), (169, 'the'), (173, 'daytime'), (181, 'soap'), (186, 'opera'), (192, 'Another'), (200, 'World'), (205, '.')])</stanford_tokens>
+<opennlp_chunks>[('Constance Ford',0, 14), ('Cornelia M. Ford',21, 37), ('July 1, 1923',39, 51), ('February 26, 1993',54, 71), ('an American actress and model',77, 106), ('is best known',112, 125), ('her long-running role',130, 151), ('Ada Hobson',155, 165), ('the daytime soap opera',169, 191), ('Another World',192, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Constance'), (10, 'Ford'), (15, '('), (16, 'born'), (21, 'Cornelia'), (30, 'M.'), (33, 'Ford'), (37, ';'), (39, 'July'), (44, '1'), (45, ','), (47, '1923'), (52, '–'), (54, 'February'), (63, '26'), (65, ','), (67, '1993'), (71, ')'), (73, 'was'), (77, 'an'), (80, 'American'), (89, 'actress'), (97, 'and'), (101, 'model'), (106, '.'), (108, 'She'), (112, 'is'), (115, 'best'), (120, 'known'), (126, 'for'), (130, 'her'), (134, 'long'), (138, '-'), (139, 'running'), (147, 'role'), (152, 'as'), (155, 'Ada'), (159, 'Hobson'), (166, 'on'), (169, 'the'), (173, 'daytime'), (181, 'soap'), (186, 'opera'), (192, 'Another'), (200, 'World'), (205, '.')])</spacy_tokens>
+<spacy_chunks>[('Constance Ford', 0, 14), ('(born Cornelia M. Ford', 15, 37), ('July 1, 1923', 39, 51), ('February 26, 1993', 54, 71), ('an American actress', 77, 96), ('her long-running role', 130, 151), ('Ada Hobson', 155, 165), ('the daytime soap opera', 169, 191), ('Another World', 192, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'RB', 'HYPH', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

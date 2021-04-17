@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chick Vennera</title>
+<link/>https://en.wikipedia.org/wiki/Chick_Vennera
+<annotated>0</annotated>
+<originalabstract>Chick Vennera is an American actor known for his role as Joe Mondragon, in Robert Redford's The Milagro Beanfield War, among other movies.</originalabstract>
+<abstract>Chick_Vennera is an_American_actor known for his_role as Joe_Mondragon , in Robert_Redford 's The_Milagro_Beanfield_War , among other_movies .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Chick'), (6, 'Vennera'), (14, 'is'), (17, 'an'), (20, 'American'), (29, 'actor'), (35, 'known'), (41, 'for'), (45, 'his'), (49, 'role'), (54, 'as'), (57, 'Joe'), (61, 'Mondragon'), (70, ','), (72, 'in'), (75, 'Robert'), (82, 'Redford'), (89, '\'s'), (92, 'The'), (96, 'Milagro'), (104, 'Beanfield'), (114, 'War'), (117, ','), (119, 'among'), (125, 'other'), (131, 'movies'), (137, '.')])</stanford_tokens>
+<opennlp_chunks>[('Chick Vennera',0, 13), ('an American actor',17, 34), ('his role',45, 53), ('Joe Mondragon',57, 70), ('Robert Redford',75, 89), ('The Milagro Beanfield War',92, 117), ('other movies',125, 137)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'NNP', 'POS', 'DT', 'NNP', 'NNP', 'NNP', ',', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Chick'), (6, 'Vennera'), (14, 'is'), (17, 'an'), (20, 'American'), (29, 'actor'), (35, 'known'), (41, 'for'), (45, 'his'), (49, 'role'), (54, 'as'), (57, 'Joe'), (61, 'Mondragon'), (70, ','), (72, 'in'), (75, 'Robert'), (82, 'Redford'), (89, "'s"), (92, 'The'), (96, 'Milagro'), (104, 'Beanfield'), (114, 'War'), (117, ','), (119, 'among'), (125, 'other'), (131, 'movies'), (137, '.')])</spacy_tokens>
+<spacy_chunks>[('Chick Vennera', 0, 13), ('an American actor', 17, 34), ('his role', 45, 53), ('Joe Mondragon', 57, 70), ("Robert Redford's The Milagro Beanfield War", 75, 117), ('other movies', 125, 137)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

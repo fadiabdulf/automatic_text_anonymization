@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dorothy Page (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Dorothy_Page_(actress)
+<annotated>0</annotated>
+<originalabstract>Dorothy Page, dubbed "The Singing Cowgirl", born Dorothy Lillian Stofflett in Northampton, Pennsylvania (March 4, 1904 – March 26, 1961), was a B-movie actress during the 1930s.</originalabstract>
+<abstract>Dorothy_Page , dubbed " The_Singing_Cowgirl_" , born Dorothy_Lillian_Stofflett in Northampton , Pennsylvania ( March_4_,_1904 – March_26_,_1961 ) , was a_B-movie_actress during the_1930s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dorothy'), (8, 'Page'), (12, ','), (14, 'dubbed'), (21, '"'), (22, 'The'), (26, 'Singing'), (34, 'Cowgirl'), (41, '"'), (42, ','), (44, 'born'), (49, 'Dorothy'), (57, 'Lillian'), (65, 'Stofflett'), (75, 'in'), (78, 'Northampton'), (89, ','), (91, 'Pennsylvania'), (104, '('), (105, 'March'), (111, '4'), (112, ','), (114, '1904'), (119, '–'), (121, 'March'), (127, '26'), (129, ','), (131, '1961'), (135, ')'), (136, ','), (138, 'was'), (142, 'a'), (144, 'B-movie'), (152, 'actress'), (160, 'during'), (167, 'the'), (171, '1930s'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dorothy Page',0, 12), ('The Singing Cowgirl"',22, 42), ('Dorothy Lillian Stofflett',49, 74), ('March 4, 1904',105, 118), ('March 26, 1961',121, 135), ('a B-movie actress',142, 159), ('the 1930s',167, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', '``', 'DT', 'JJ', 'NN', '\'\'', ',', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dorothy'), (8, 'Page'), (12, ','), (14, 'dubbed'), (21, '"'), (22, 'The'), (26, 'Singing'), (34, 'Cowgirl'), (41, '"'), (42, ','), (44, 'born'), (49, 'Dorothy'), (57, 'Lillian'), (65, 'Stofflett'), (75, 'in'), (78, 'Northampton'), (89, ','), (91, 'Pennsylvania'), (104, '('), (105, 'March'), (111, '4'), (112, ','), (114, '1904'), (119, '–'), (121, 'March'), (127, '26'), (129, ','), (131, '1961'), (135, ')'), (136, ','), (138, 'was'), (142, 'a'), (144, 'B'), (145, '-'), (146, 'movie'), (152, 'actress'), (160, 'during'), (167, 'the'), (171, '1930s'), (176, '.')])</spacy_tokens>
+<spacy_chunks>[('Dorothy Page', 0, 12), ('The Singing Cowgirl', 22, 41), ('born Dorothy Lillian Stofflett', 44, 74), ('Northampton, Pennsylvania', 78, 103), ('March 4, 1904', 105, 118), ('March 26, 1961', 121, 135), ('a B-movie actress', 142, 159), ('the 1930s', 167, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBN', '``', 'DT', 'NNP', 'NNP', "''", ',', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'NN', 'HYPH', 'NN', 'NN', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

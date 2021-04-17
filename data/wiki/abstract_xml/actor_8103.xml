@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fred Feast</title>
+<link/>https://en.wikipedia.org/wiki/Fred_Feast
+<annotated>0</annotated>
+<originalabstract>Frederick Feast (5 October 1929 – 25 June 1999) was a British television actor, best remembered for playing the role of Fred Gee in Coronation Street.</originalabstract>
+<abstract>Frederick_Feast ( 5_October_1929 – 25_June_1999 ) was a_British_television_actor , best remembered for playing the_role of Fred_Gee in Coronation_Street .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frederick'), (10, 'Feast'), (16, '('), (17, '5'), (19, 'October'), (27, '1929'), (32, '–'), (34, '25'), (37, 'June'), (42, '1999'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'British'), (62, 'television'), (73, 'actor'), (78, ','), (80, 'best'), (85, 'remembered'), (96, 'for'), (100, 'playing'), (108, 'the'), (112, 'role'), (117, 'of'), (120, 'Fred'), (125, 'Gee'), (129, 'in'), (132, 'Coronation'), (143, 'Street'), (149, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frederick Feast',0, 15), ('5 October 1929',17, 31), ('25 June 1999',34, 46), ('a British television actor',52, 78), ('the role',108, 116), ('Fred Gee',120, 128), ('Coronation Street',132, 149)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'JJS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frederick'), (10, 'Feast'), (16, '('), (17, '5'), (19, 'October'), (27, '1929'), (32, '–'), (34, '25'), (37, 'June'), (42, '1999'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'British'), (62, 'television'), (73, 'actor'), (78, ','), (80, 'best'), (85, 'remembered'), (96, 'for'), (100, 'playing'), (108, 'the'), (112, 'role'), (117, 'of'), (120, 'Fred'), (125, 'Gee'), (129, 'in'), (132, 'Coronation'), (143, 'Street'), (149, '.')])</spacy_tokens>
+<spacy_chunks>[('Frederick Feast', 0, 15), ('5 October 1929', 17, 31), ('25 June 1999', 34, 46), ('a British television actor', 52, 78), ('the role', 108, 116), ('Fred Gee', 120, 128), ('Coronation Street', 132, 149)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'RBS', 'VBD', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

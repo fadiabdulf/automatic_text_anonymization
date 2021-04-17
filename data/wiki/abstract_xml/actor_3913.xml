@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mason Lee</title>
+<link/>https://en.wikipedia.org/wiki/Mason_Lee
+<annotated>0</annotated>
+<originalabstract>Mason Lee (born May 30, 1990) is a Taiwanese-American actor. He is the son of three-time Academy Award-winning director Ang Lee, and Jane Lin, a microbiology researcher. He is best known for playing the role of Teddy in The Hangover Part II.</originalabstract>
+<abstract>Mason_Lee ( born May_30 , 1990 ) is a_Taiwanese-American_actor . He is the_son of three-time_Academy_Award-winning_director_Ang_Lee , and Jane_Lin , a_microbiology_researcher . He is_best_known for playing the_role of Teddy in The_Hangover_Part_II .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mason'), (6, 'Lee'), (10, '('), (11, 'born'), (16, 'May'), (20, '30'), (22, ','), (24, '1990'), (28, ')'), (30, 'is'), (33, 'a'), (35, 'Taiwanese-American'), (54, 'actor'), (59, '.'), (61, 'He'), (64, 'is'), (67, 'the'), (71, 'son'), (75, 'of'), (78, 'three-time'), (89, 'Academy'), (97, 'Award-winning'), (111, 'director'), (120, 'Ang'), (124, 'Lee'), (127, ','), (129, 'and'), (133, 'Jane'), (138, 'Lin'), (141, ','), (143, 'a'), (145, 'microbiology'), (158, 'researcher'), (168, '.'), (170, 'He'), (173, 'is'), (176, 'best'), (181, 'known'), (187, 'for'), (191, 'playing'), (199, 'the'), (203, 'role'), (208, 'of'), (211, 'Teddy'), (217, 'in'), (220, 'The'), (224, 'Hangover'), (233, 'Part'), (238, 'II'), (240, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mason Lee',0, 9), ('May 30',16, 22), ('a Taiwanese-American actor',33, 59), ('the son',67, 74), ('three-time Academy Award-winning director Ang Lee',78, 127), ('Jane Lin',133, 141), ('a microbiology researcher',143, 168), ('is best known',173, 186), ('the role',199, 207), ('The Hangover Part II',220, 240)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'JJ', 'NN', 'JJ', 'NN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', ',', 'DT', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mason'), (6, 'Lee'), (10, '('), (11, 'born'), (16, 'May'), (20, '30'), (22, ','), (24, '1990'), (28, ')'), (30, 'is'), (33, 'a'), (35, 'Taiwanese'), (44, '-'), (45, 'American'), (54, 'actor'), (59, '.'), (61, 'He'), (64, 'is'), (67, 'the'), (71, 'son'), (75, 'of'), (78, 'three'), (83, '-'), (84, 'time'), (89, 'Academy'), (97, 'Award'), (102, '-'), (103, 'winning'), (111, 'director'), (120, 'Ang'), (124, 'Lee'), (127, ','), (129, 'and'), (133, 'Jane'), (138, 'Lin'), (141, ','), (143, 'a'), (145, 'microbiology'), (158, 'researcher'), (168, '.'), (170, 'He'), (173, 'is'), (176, 'best'), (181, 'known'), (187, 'for'), (191, 'playing'), (199, 'the'), (203, 'role'), (208, 'of'), (211, 'Teddy'), (217, 'in'), (220, 'The'), (224, 'Hangover'), (233, 'Part'), (238, 'II'), (240, '.')])</spacy_tokens>
+<spacy_chunks>[('Mason Lee', 0, 9), ('May 30, 1990', 16, 28), ('a Taiwanese-American actor', 33, 59), ('the son', 67, 74), ('three-time Academy Award-winning director Ang Lee', 78, 127), ('Jane Lin', 133, 141), ('a microbiology researcher', 143, 168), ('the role', 199, 207), ('The Hangover Part II', 220, 240)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'CD', 'HYPH', 'NN', 'NNP', 'NNP', 'HYPH', 'VBG', 'NN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', ',', 'DT', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

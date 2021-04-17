@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jolene Brand</title>
+<link/>https://en.wikipedia.org/wiki/Jolene_Brand
+<annotated>0</annotated>
+<originalabstract>Jolene Brand (born Jolene Marie Bufkin; July 31, 1934, Los Angeles, California) is an American actress. She is married to George Schlatter and has two daughters – Andrea Justine Schlatter and Maria S. Schlatter. She acted most in the 1950s/60s, and appeared in a number of Ernie Kovacs television programs.</originalabstract>
+<abstract>Jolene_Brand ( born Jolene_Marie_Bufkin ; July_31_,_1934 , Los_Angeles , California ) is an_American_actress . She is_married to George_Schlatter and has two_daughters – Andrea_Justine_Schlatter and Maria_S._Schlatter . She acted most in the_1950s/60s , and appeared in a_number of Ernie_Kovacs_television_programs .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jolene'), (7, 'Brand'), (13, '('), (14, 'born'), (19, 'Jolene'), (26, 'Marie'), (32, 'Bufkin'), (38, ';'), (40, 'July'), (45, '31'), (47, ','), (49, '1934'), (53, ','), (55, 'Los'), (59, 'Angeles'), (66, ','), (68, 'California'), (78, ')'), (80, 'is'), (83, 'an'), (86, 'American'), (95, 'actress'), (102, '.'), (104, 'She'), (108, 'is'), (111, 'married'), (119, 'to'), (122, 'George'), (129, 'Schlatter'), (139, 'and'), (143, 'has'), (147, 'two'), (151, 'daughters'), (161, '–'), (163, 'Andrea'), (170, 'Justine'), (178, 'Schlatter'), (188, 'and'), (192, 'Maria'), (198, 'S.'), (201, 'Schlatter'), (210, '.'), (212, 'She'), (216, 'acted'), (222, 'most'), (227, 'in'), (230, 'the'), (234, '1950s/60s'), (243, ','), (245, 'and'), (249, 'appeared'), (258, 'in'), (261, 'a'), (263, 'number'), (270, 'of'), (273, 'Ernie'), (279, 'Kovacs'), (286, 'television'), (297, 'programs'), (305, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jolene Brand',0, 12), ('Jolene Marie Bufkin',19, 38), ('July 31, 1934',40, 53), ('Los Angeles',55, 66), ('an American actress',83, 102), ('is married',108, 118), ('George Schlatter',122, 138), ('two daughters',147, 160), ('Andrea Justine Schlatter',163, 187), ('Maria S. Schlatter',192, 210), ('the 1950s/60s',230, 243), ('a number',261, 269), ('Ernie Kovacs television programs',273, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'TO', 'NNP', 'NNP', 'CC', 'VBZ', 'CD', 'NNS', ':', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RBS', 'IN', 'DT', 'CD', ',', 'CC', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jolene'), (7, 'Brand'), (13, '('), (14, 'born'), (19, 'Jolene'), (26, 'Marie'), (32, 'Bufkin'), (38, ';'), (40, 'July'), (45, '31'), (47, ','), (49, '1934'), (53, ','), (55, 'Los'), (59, 'Angeles'), (66, ','), (68, 'California'), (78, ')'), (80, 'is'), (83, 'an'), (86, 'American'), (95, 'actress'), (102, '.'), (104, 'She'), (108, 'is'), (111, 'married'), (119, 'to'), (122, 'George'), (129, 'Schlatter'), (139, 'and'), (143, 'has'), (147, 'two'), (151, 'daughters'), (161, '–'), (163, 'Andrea'), (170, 'Justine'), (178, 'Schlatter'), (188, 'and'), (192, 'Maria'), (198, 'S.'), (201, 'Schlatter'), (210, '.'), (212, 'She'), (216, 'acted'), (222, 'most'), (227, 'in'), (230, 'the'), (234, '1950s/60s'), (243, ','), (245, 'and'), (249, 'appeared'), (258, 'in'), (261, 'a'), (263, 'number'), (270, 'of'), (273, 'Ernie'), (279, 'Kovacs'), (286, 'television'), (297, 'programs'), (305, '.')])</spacy_tokens>
+<spacy_chunks>[('Jolene Brand', 0, 12), ('born Jolene Marie Bufkin', 14, 38), ('July 31, 1934', 40, 53), ('Los Angeles, California', 55, 78), ('an American actress', 83, 102), ('George Schlatter', 122, 138), ('two daughters', 147, 160), ('Andrea Justine Schlatter', 163, 187), ('Maria S. Schlatter', 192, 210), ('a number', 261, 269), ('Ernie Kovacs television programs', 273, 305)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'JJ', 'IN', 'NNP', 'NNP', 'CC', 'VBZ', 'CD', 'NNS', ':', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RBS', 'IN', 'DT', 'CD', ',', 'CC', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

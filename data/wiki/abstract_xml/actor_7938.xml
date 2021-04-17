@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charlie Creed-Miles</title>
+<link/>https://en.wikipedia.org/wiki/Charlie_Creed-Miles
+<annotated>0</annotated>
+<originalabstract>Charlie Creed-Miles (born 24 March 1972) is an English actor and musician.Creed-Miles was born in Nottingham, and had his first starring screen role, aged 19, in The Punk (1993).  His relationship with actress Samantha Morton (with whom he co-starred in The Last Yellow) produced a daughter, born in 2000.</originalabstract>
+<abstract>Charlie_Creed-Miles ( born 24_March_1972 ) is an_English_actor_and_musician.Creed-Miles was_born in Nottingham , and had his_first_starring_screen_role , aged_19 , in The_Punk ( 1993 ) . His_relationship with actress_Samantha_Morton ( with whom he co-starred in The_Last_Yellow_) produced a_daughter , born in 2000 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charlie'), (8, 'Creed-Miles'), (20, '('), (21, 'born'), (26, '24'), (29, 'March'), (35, '1972'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'English'), (55, 'actor'), (61, 'and'), (65, 'musician.Creed-Miles'), (86, 'was'), (90, 'born'), (95, 'in'), (98, 'Nottingham'), (108, ','), (110, 'and'), (114, 'had'), (118, 'his'), (122, 'first'), (128, 'starring'), (137, 'screen'), (144, 'role'), (148, ','), (150, 'aged'), (155, '19'), (157, ','), (159, 'in'), (162, 'The'), (166, 'Punk'), (171, '('), (172, '1993'), (176, ')'), (177, '.'), (180, 'His'), (184, 'relationship'), (197, 'with'), (202, 'actress'), (210, 'Samantha'), (219, 'Morton'), (226, '('), (227, 'with'), (232, 'whom'), (237, 'he'), (240, 'co-starred'), (251, 'in'), (254, 'The'), (258, 'Last'), (263, 'Yellow'), (269, ')'), (271, 'produced'), (280, 'a'), (282, 'daughter'), (290, ','), (292, 'born'), (297, 'in'), (300, '2000'), (304, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charlie Creed-Miles',0, 19), ('24 March 1972',26, 39), ('an English actor and musician.Creed-Miles',44, 85), ('was born',86, 94), ('his first starring screen role',118, 148), ('aged 19',150, 157), ('The Punk',162, 170), ('His relationship',180, 196), ('actress Samantha Morton',202, 225), ('The Last Yellow)',254, 270), ('a daughter',280, 290)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NNS', 'VBD', 'VBN', 'IN', 'NNP', ',', 'CC', 'VBD', 'PRP$', 'JJ', 'VBG', 'NN', 'NN', ',', 'JJ', 'CD', ',', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', '-LRB-', 'IN', 'WP', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'JJ', '-RRB-', 'VBD', 'DT', 'NN', ',', 'VBN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charlie'), (8, 'Creed'), (13, '-'), (14, 'Miles'), (20, '('), (21, 'born'), (26, '24'), (29, 'March'), (35, '1972'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'English'), (55, 'actor'), (61, 'and'), (65, 'musician'), (73, '.'), (74, 'Creed'), (79, '-'), (80, 'Miles'), (86, 'was'), (90, 'born'), (95, 'in'), (98, 'Nottingham'), (108, ','), (110, 'and'), (114, 'had'), (118, 'his'), (122, 'first'), (128, 'starring'), (137, 'screen'), (144, 'role'), (148, ','), (150, 'aged'), (155, '19'), (157, ','), (159, 'in'), (162, 'The'), (166, 'Punk'), (171, '('), (172, '1993'), (176, ')'), (177, '.'), (180, 'His'), (184, 'relationship'), (197, 'with'), (202, 'actress'), (210, 'Samantha'), (219, 'Morton'), (226, '('), (227, 'with'), (232, 'whom'), (237, 'he'), (240, 'co'), (242, '-'), (243, 'starred'), (251, 'in'), (254, 'The'), (258, 'Last'), (263, 'Yellow'), (269, ')'), (271, 'produced'), (280, 'a'), (282, 'daughter'), (290, ','), (292, 'born'), (297, 'in'), (300, '2000'), (304, '.')])</spacy_tokens>
+<spacy_chunks>[('Charlie Creed-Miles', 0, 19), ('24 March 1972', 26, 39), ('an English actor', 44, 60), ('musician', 65, 73), ('Nottingham', 98, 108), ('his first starring screen role', 118, 148), ('The Punk', 162, 170), ('His relationship', 180, 196), ('actress Samantha Morton', 202, 225), ('The Last Yellow', 254, 269), ('a daughter', 280, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NN', 'HYPH', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'CC', 'VBD', 'PRP$', 'JJ', 'VBG', 'NN', 'NN', ',', 'VBN', 'CD', ',', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', '-LRB-', 'IN', 'WP', 'PRP', 'VBZ', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'NN', ',', 'VBN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

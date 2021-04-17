@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lara Parker</title>
+<link/>https://en.wikipedia.org/wiki/Lara_Parker
+<annotated>0</annotated>
+<originalabstract>Lara Parker (born October 27, 1938) is an American television, stage, and film actress known for her role as Angelique on the cult ABC-TV serial Dark Shadows which aired from 1966 to 1971.</originalabstract>
+<abstract>Lara_Parker ( born October_27_,_1938 ) is an_American_television , stage , and film_actress known for her_role as Angelique on the_cult_ABC-TV_serial_Dark_Shadows which aired from 1966 to 1971 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lara'), (5, 'Parker'), (12, '('), (13, 'born'), (18, 'October'), (26, '27'), (28, ','), (30, '1938'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'television'), (61, ','), (63, 'stage'), (68, ','), (70, 'and'), (74, 'film'), (79, 'actress'), (87, 'known'), (93, 'for'), (97, 'her'), (101, 'role'), (106, 'as'), (109, 'Angelique'), (119, 'on'), (122, 'the'), (126, 'cult'), (131, 'ABC-TV'), (138, 'serial'), (145, 'Dark'), (150, 'Shadows'), (158, 'which'), (164, 'aired'), (170, 'from'), (175, '1966'), (180, 'to'), (183, '1971'), (187, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lara Parker',0, 11), ('October 27, 1938',18, 34), ('an American television',39, 61), ('film actress',74, 86), ('her role',97, 105), ('the cult ABC-TV serial Dark Shadows',122, 157)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'JJ', 'NNS', 'WDT', 'VBD', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lara'), (5, 'Parker'), (12, '('), (13, 'born'), (18, 'October'), (26, '27'), (28, ','), (30, '1938'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'television'), (61, ','), (63, 'stage'), (68, ','), (70, 'and'), (74, 'film'), (79, 'actress'), (87, 'known'), (93, 'for'), (97, 'her'), (101, 'role'), (106, 'as'), (109, 'Angelique'), (119, 'on'), (122, 'the'), (126, 'cult'), (131, 'ABC'), (134, '-'), (135, 'TV'), (138, 'serial'), (145, 'Dark'), (150, 'Shadows'), (158, 'which'), (164, 'aired'), (170, 'from'), (175, '1966'), (180, 'to'), (183, '1971'), (187, '.')])</spacy_tokens>
+<spacy_chunks>[('Lara Parker', 0, 11), ('October 27, 1938', 18, 34), ('an American television', 39, 61), ('film actress', 74, 86), ('her role', 97, 105), ('Angelique', 109, 118), ('the cult', 122, 130), ('ABC-TV serial Dark Shadows', 131, 157)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'HYPH', 'NN', 'NN', 'NNP', 'NNPS', 'WDT', 'VBD', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

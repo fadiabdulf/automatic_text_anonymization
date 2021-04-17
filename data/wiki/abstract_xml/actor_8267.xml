@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Richard Greene</title>
+<link/>https://en.wikipedia.org/wiki/Richard_Greene
+<annotated>0</annotated>
+<originalabstract>Richard Marius Joseph Greene (25 August 1918 – 1 June 1985) was a noted English film and television actor. A matinée idol who appeared in more than 40 films, he was perhaps best known for the lead role in the long-running British TV series The Adventures of Robin Hood, which ran for 143 episodes from 1955 to 1959.</originalabstract>
+<abstract>Richard_Marius_Joseph_Greene ( 25_August_1918 – 1_June_1985 ) was a_noted_English_film_and_television_actor . A_matinée_idol who appeared in more_than_40_films , he was_perhaps_best_known for the_lead_role in the_long-running_British_TV_series The_Adventures of Robin_Hood , which ran for 143_episodes from 1955 to 1959 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Marius'), (15, 'Joseph'), (22, 'Greene'), (29, '('), (30, '25'), (33, 'August'), (40, '1918'), (45, '–'), (47, '1'), (49, 'June'), (54, '1985'), (58, ')'), (60, 'was'), (64, 'a'), (66, 'noted'), (72, 'English'), (80, 'film'), (85, 'and'), (89, 'television'), (100, 'actor'), (105, '.'), (107, 'A'), (109, 'matinée'), (117, 'idol'), (122, 'who'), (126, 'appeared'), (135, 'in'), (138, 'more'), (143, 'than'), (148, '40'), (151, 'films'), (156, ','), (158, 'he'), (161, 'was'), (165, 'perhaps'), (173, 'best'), (178, 'known'), (184, 'for'), (188, 'the'), (192, 'lead'), (197, 'role'), (202, 'in'), (205, 'the'), (209, 'long-running'), (222, 'British'), (230, 'TV'), (233, 'series'), (240, 'The'), (244, 'Adventures'), (255, 'of'), (258, 'Robin'), (264, 'Hood'), (268, ','), (270, 'which'), (276, 'ran'), (280, 'for'), (284, '143'), (288, 'episodes'), (297, 'from'), (302, '1955'), (307, 'to'), (310, '1959'), (314, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Marius Joseph Greene',0, 28), ('25 August 1918',30, 44), ('1 June 1985',47, 58), ('a noted English film and television actor',64, 105), ('A matinée idol',107, 121), ('more than 40 films',138, 156), ('was perhaps best known',161, 183), ('the lead role',188, 201), ('the long-running British TV series',205, 239), ('The Adventures',240, 254), ('Robin Hood',258, 268), ('143 episodes',284, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'VBN', 'NNP', 'NN', 'CC', 'NN', 'NN', '.', 'DT', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', ',', 'PRP', 'VBD', 'RB', 'RB', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'DT', 'NNS', 'IN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Marius'), (15, 'Joseph'), (22, 'Greene'), (29, '('), (30, '25'), (33, 'August'), (40, '1918'), (45, '–'), (47, '1'), (49, 'June'), (54, '1985'), (58, ')'), (60, 'was'), (64, 'a'), (66, 'noted'), (72, 'English'), (80, 'film'), (85, 'and'), (89, 'television'), (100, 'actor'), (105, '.'), (107, 'A'), (109, 'matinée'), (117, 'idol'), (122, 'who'), (126, 'appeared'), (135, 'in'), (138, 'more'), (143, 'than'), (148, '40'), (151, 'films'), (156, ','), (158, 'he'), (161, 'was'), (165, 'perhaps'), (173, 'best'), (178, 'known'), (184, 'for'), (188, 'the'), (192, 'lead'), (197, 'role'), (202, 'in'), (205, 'the'), (209, 'long'), (213, '-'), (214, 'running'), (222, 'British'), (230, 'TV'), (233, 'series'), (240, 'The'), (244, 'Adventures'), (255, 'of'), (258, 'Robin'), (264, 'Hood'), (268, ','), (270, 'which'), (276, 'ran'), (280, 'for'), (284, '143'), (288, 'episodes'), (297, 'from'), (302, '1955'), (307, 'to'), (310, '1959'), (314, '.')])</spacy_tokens>
+<spacy_chunks>[('Richard Marius Joseph Greene', 0, 28), ('25 August 1918', 30, 44), ('1 June 1985', 47, 58), ('a noted English film and television actor', 64, 105), ('A matinée idol', 107, 121), ('more than 40 films', 138, 156), ('the lead role', 188, 201), ('the long-running British TV series', 205, 239), ('The Adventures of Robin Hood', 240, 268), ('143 episodes', 284, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'DT', 'NN', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', ',', 'PRP', 'VBD', 'RB', 'RBS', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'RB', 'HYPH', 'VBG', 'JJ', 'NN', 'NN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

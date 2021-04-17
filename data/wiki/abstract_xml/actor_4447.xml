@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tim McCoy</title>
+<link/>https://en.wikipedia.org/wiki/Tim_McCoy
+<annotated>0</annotated>
+<originalabstract>Timothy John Fitzgerald McCoy (April 10, 1891 – January 29, 1978) was an American actor, military officer, and expert on American Indian life and customs. He was also known Colonel T.J. McCoy.</originalabstract>
+<abstract>Timothy_John_Fitzgerald_McCoy ( April_10_,_1891 – January_29_,_1978 ) was an_American_actor , military_officer , and expert on American_Indian_life_and_customs . He was_also_known Colonel_T.J._McCoy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Timothy'), (8, 'John'), (13, 'Fitzgerald'), (24, 'McCoy'), (30, '('), (31, 'April'), (37, '10'), (39, ','), (41, '1891'), (46, '–'), (48, 'January'), (56, '29'), (58, ','), (60, '1978'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'actor'), (87, ','), (89, 'military'), (98, 'officer'), (105, ','), (107, 'and'), (111, 'expert'), (118, 'on'), (121, 'American'), (130, 'Indian'), (137, 'life'), (142, 'and'), (146, 'customs'), (153, '.'), (155, 'He'), (158, 'was'), (162, 'also'), (167, 'known'), (173, 'Colonel'), (181, 'T.J.'), (186, 'McCoy'), (191, '.')])</stanford_tokens>
+<opennlp_chunks>[('Timothy John Fitzgerald McCoy',0, 29), ('April 10, 1891',31, 45), ('January 29, 1978',48, 64), ('an American actor',70, 87), ('military officer',89, 105), ('American Indian life and customs',121, 153), ('was also known',158, 172), ('Colonel T.J. McCoy',173, 191)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', ',', 'CC', 'NN', 'IN', 'JJ', 'JJ', 'NN', 'CC', 'NNS', '.', 'PRP', 'VBD', 'RB', 'VBN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Timothy'), (8, 'John'), (13, 'Fitzgerald'), (24, 'McCoy'), (30, '('), (31, 'April'), (37, '10'), (39, ','), (41, '1891'), (46, '–'), (48, 'January'), (56, '29'), (58, ','), (60, '1978'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'actor'), (87, ','), (89, 'military'), (98, 'officer'), (105, ','), (107, 'and'), (111, 'expert'), (118, 'on'), (121, 'American'), (130, 'Indian'), (137, 'life'), (142, 'and'), (146, 'customs'), (153, '.'), (155, 'He'), (158, 'was'), (162, 'also'), (167, 'known'), (173, 'Colonel'), (181, 'T.J.'), (186, 'McCoy'), (191, '.')])</spacy_tokens>
+<spacy_chunks>[('Timothy John Fitzgerald McCoy', 0, 29), ('April 10, 1891', 31, 45), ('January 29, 1978', 48, 64), ('an American actor', 70, 87), ('military officer', 89, 105), ('expert', 111, 117), ('American Indian life', 121, 141), ('customs', 146, 153), ('Colonel T.J. McCoy', 173, 191)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', ',', 'CC', 'NN', 'IN', 'JJ', 'JJ', 'NN', 'CC', 'NNS', '.', 'PRP', 'VBD', 'RB', 'VBN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

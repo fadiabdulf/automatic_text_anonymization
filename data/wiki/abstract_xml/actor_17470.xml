@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hannah Arterton</title>
+<link/>https://en.wikipedia.org/wiki/Hannah_Arterton
+<annotated>0</annotated>
+<originalabstract>Hannah Jane Arterton (born 26 January 1989) is an English actress. She was born in Gravesend, Kent. Arterton attended Gravesend Grammar School for Girls and graduated from the Royal Academy of Dramatic Art in 2011. She is best known for playing Emma Castle in Netflix Original series Safe (2018).</originalabstract>
+<abstract>Hannah_Jane_Arterton ( born_26_January_1989 ) is an_English_actress . She was_born in Gravesend , Kent . Arterton attended Gravesend_Grammar_School for Girls and graduated from the_Royal_Academy of Dramatic_Art in 2011 . She is_best_known for playing Emma_Castle in Netflix_Original_series_Safe_(_2018_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hannah'), (7, 'Jane'), (12, 'Arterton'), (21, '('), (22, 'born'), (27, '26'), (30, 'January'), (38, '1989'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'English'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'was'), (75, 'born'), (80, 'in'), (83, 'Gravesend'), (92, ','), (94, 'Kent'), (98, '.'), (100, 'Arterton'), (109, 'attended'), (118, 'Gravesend'), (128, 'Grammar'), (136, 'School'), (143, 'for'), (147, 'Girls'), (153, 'and'), (157, 'graduated'), (167, 'from'), (172, 'the'), (176, 'Royal'), (182, 'Academy'), (190, 'of'), (193, 'Dramatic'), (202, 'Art'), (206, 'in'), (209, '2011'), (213, '.'), (215, 'She'), (219, 'is'), (222, 'best'), (227, 'known'), (233, 'for'), (237, 'playing'), (245, 'Emma'), (250, 'Castle'), (257, 'in'), (260, 'Netflix'), (268, 'Original'), (277, 'series'), (284, 'Safe'), (289, '('), (290, '2018'), (294, ')'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hannah Jane Arterton',0, 20), ('born 26 January 1989',22, 42), ('an English actress',47, 65), ('was born',71, 79), ('Gravesend Grammar School',118, 142), ('the Royal Academy',172, 189), ('Dramatic Art',193, 205), ('is best known',219, 232), ('Emma Castle',245, 256), ('Netflix Original series Safe (2018)',260, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'NNP', 'VBD', 'NNP', 'NNP', 'NNP', 'IN', 'NNPS', 'CC', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'JJ', 'NN', 'IN', 'CD', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hannah'), (7, 'Jane'), (12, 'Arterton'), (21, '('), (22, 'born'), (27, '26'), (30, 'January'), (38, '1989'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'English'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'was'), (75, 'born'), (80, 'in'), (83, 'Gravesend'), (92, ','), (94, 'Kent'), (98, '.'), (100, 'Arterton'), (109, 'attended'), (118, 'Gravesend'), (128, 'Grammar'), (136, 'School'), (143, 'for'), (147, 'Girls'), (153, 'and'), (157, 'graduated'), (167, 'from'), (172, 'the'), (176, 'Royal'), (182, 'Academy'), (190, 'of'), (193, 'Dramatic'), (202, 'Art'), (206, 'in'), (209, '2011'), (213, '.'), (215, 'She'), (219, 'is'), (222, 'best'), (227, 'known'), (233, 'for'), (237, 'playing'), (245, 'Emma'), (250, 'Castle'), (257, 'in'), (260, 'Netflix'), (268, 'Original'), (277, 'series'), (284, 'Safe'), (289, '('), (290, '2018'), (294, ')'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Hannah Jane Arterton', 0, 20), ('26 January 1989', 27, 42), ('an English actress', 47, 65), ('Gravesend', 83, 92), ('Gravesend Grammar School for Girls', 118, 152), ('the Royal Academy', 172, 189), ('Royal Academy of Dramatic Art', 176, 205), ('Emma Castle', 245, 256), ('Netflix Original series', 260, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'NNP', 'VBD', 'NNP', 'NNP', 'NNP', 'IN', 'NNPS', 'CC', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'JJ', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

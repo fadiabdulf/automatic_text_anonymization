@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Aline MacMahon</title>
+<link/>https://en.wikipedia.org/wiki/Aline_MacMahon
+<annotated>0</annotated>
+<originalabstract>Aline Laveen MacMahon (May 3, 1899 – October 12, 1991) was an American actress. Her career began on stage in 1921. She worked extensively in film and television until her retirement in 1975. She was nominated for an Academy Award for Best Supporting Actress for her performance in Dragon Seed (1944).</originalabstract>
+<abstract>Aline_Laveen_MacMahon ( May_3_,_1899 – October_12_,_1991 ) was an_American_actress . Her_career began on stage in 1921 . She worked extensively in film_and_television until her_retirement in 1975 . She was_nominated for an_Academy_Award for Best_Supporting_Actress for her_performance in Dragon_Seed_(_1944_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Aline'), (6, 'Laveen'), (13, 'MacMahon'), (22, '('), (23, 'May'), (27, '3'), (28, ','), (30, '1899'), (35, '–'), (37, 'October'), (45, '12'), (47, ','), (49, '1991'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'actress'), (78, '.'), (80, 'Her'), (84, 'career'), (91, 'began'), (97, 'on'), (100, 'stage'), (106, 'in'), (109, '1921'), (113, '.'), (115, 'She'), (119, 'worked'), (126, 'extensively'), (138, 'in'), (141, 'film'), (146, 'and'), (150, 'television'), (161, 'until'), (167, 'her'), (171, 'retirement'), (182, 'in'), (185, '1975'), (189, '.'), (191, 'She'), (195, 'was'), (199, 'nominated'), (209, 'for'), (213, 'an'), (216, 'Academy'), (224, 'Award'), (230, 'for'), (234, 'Best'), (239, 'Supporting'), (250, 'Actress'), (258, 'for'), (262, 'her'), (266, 'performance'), (278, 'in'), (281, 'Dragon'), (288, 'Seed'), (293, '('), (294, '1944'), (298, ')'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('Aline Laveen MacMahon',0, 21), ('May 3, 1899',23, 34), ('October 12, 1991',37, 53), ('an American actress',59, 78), ('Her career',80, 90), ('film and television',141, 160), ('her retirement',167, 181), ('was nominated',195, 208), ('an Academy Award',213, 229), ('Best Supporting Actress',234, 257), ('her performance',262, 277), ('Dragon Seed (1944)',281, 299)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'VBD', 'IN', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'RB', 'IN', 'NN', 'CC', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NN', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Aline'), (6, 'Laveen'), (13, 'MacMahon'), (22, '('), (23, 'May'), (27, '3'), (28, ','), (30, '1899'), (35, '–'), (37, 'October'), (45, '12'), (47, ','), (49, '1991'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'actress'), (78, '.'), (80, 'Her'), (84, 'career'), (91, 'began'), (97, 'on'), (100, 'stage'), (106, 'in'), (109, '1921'), (113, '.'), (115, 'She'), (119, 'worked'), (126, 'extensively'), (138, 'in'), (141, 'film'), (146, 'and'), (150, 'television'), (161, 'until'), (167, 'her'), (171, 'retirement'), (182, 'in'), (185, '1975'), (189, '.'), (191, 'She'), (195, 'was'), (199, 'nominated'), (209, 'for'), (213, 'an'), (216, 'Academy'), (224, 'Award'), (230, 'for'), (234, 'Best'), (239, 'Supporting'), (250, 'Actress'), (258, 'for'), (262, 'her'), (266, 'performance'), (278, 'in'), (281, 'Dragon'), (288, 'Seed'), (293, '('), (294, '1944'), (298, ')'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('Aline Laveen MacMahon', 0, 21), ('May 3, 1899', 23, 34), ('October 12, 1991', 37, 53), ('an American actress', 59, 78), ('Her career', 80, 90), ('television', 150, 160), ('her retirement', 167, 181), ('an Academy Award', 213, 229), ('Academy Award for Best Supporting Actress', 216, 257), ('her performance', 262, 277), ('Dragon Seed', 281, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'VBD', 'IN', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'RB', 'IN', 'NN', 'CC', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

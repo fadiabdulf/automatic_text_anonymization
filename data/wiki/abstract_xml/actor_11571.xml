@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vondell Darr</title>
+<link/>https://en.wikipedia.org/wiki/Vondell_Darr
+<annotated>0</annotated>
+<originalabstract>Vondell Darr Wilson (April 18, 1919 – September 10, 2012) was an American actress. She was born in Los Angeles. She achieved success in the late 1920s as a child actor and later played bit parts in her adult years. Her last role was in The Chocolate Soldier in 1941. Darr died on September 10, 2012.</originalabstract>
+<abstract>Vondell_Darr_Wilson ( April_18_,_1919 – September_10_,_2012 ) was an_American_actress . She was_born in Los_Angeles . She achieved success in the_late_1920s as a_child_actor and later_played bit_parts in her_adult_years . Her_last_role was in The_Chocolate_Soldier in 1941 . Darr died on September_10_,_2012 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vondell'), (8, 'Darr'), (13, 'Wilson'), (20, '('), (21, 'April'), (27, '18'), (29, ','), (31, '1919'), (36, '–'), (38, 'September'), (48, '10'), (50, ','), (52, '2012'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'actress'), (81, '.'), (83, 'She'), (87, 'was'), (91, 'born'), (96, 'in'), (99, 'Los'), (103, 'Angeles'), (110, '.'), (112, 'She'), (116, 'achieved'), (125, 'success'), (133, 'in'), (136, 'the'), (140, 'late'), (145, '1920s'), (151, 'as'), (154, 'a'), (156, 'child'), (162, 'actor'), (168, 'and'), (172, 'later'), (178, 'played'), (185, 'bit'), (189, 'parts'), (195, 'in'), (198, 'her'), (202, 'adult'), (208, 'years'), (213, '.'), (215, 'Her'), (219, 'last'), (224, 'role'), (229, 'was'), (233, 'in'), (236, 'The'), (240, 'Chocolate'), (250, 'Soldier'), (258, 'in'), (261, '1941'), (265, '.'), (267, 'Darr'), (272, 'died'), (277, 'on'), (280, 'September'), (290, '10'), (292, ','), (294, '2012'), (298, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vondell Darr Wilson',0, 19), ('April 18, 1919',21, 35), ('September 10, 2012',38, 56), ('an American actress',62, 81), ('was born',87, 95), ('Los Angeles',99, 110), ('the late 1920s',136, 150), ('a child actor',154, 167), ('later played',172, 184), ('bit parts',185, 194), ('her adult years',198, 213), ('Her last role',215, 228), ('The Chocolate Soldier',236, 257), ('September 10, 2012',280, 298)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'NN', 'CC', 'RB', 'VBD', 'NN', 'NNS', 'IN', 'PRP$', 'JJ', 'NNS', '.', 'PRP$', 'JJ', 'NN', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', '.', 'NNP', 'VBD', 'IN', 'NNP', 'CD', ',', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vondell'), (8, 'Darr'), (13, 'Wilson'), (20, '('), (21, 'April'), (27, '18'), (29, ','), (31, '1919'), (36, '–'), (38, 'September'), (48, '10'), (50, ','), (52, '2012'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'actress'), (81, '.'), (83, 'She'), (87, 'was'), (91, 'born'), (96, 'in'), (99, 'Los'), (103, 'Angeles'), (110, '.'), (112, 'She'), (116, 'achieved'), (125, 'success'), (133, 'in'), (136, 'the'), (140, 'late'), (145, '1920s'), (151, 'as'), (154, 'a'), (156, 'child'), (162, 'actor'), (168, 'and'), (172, 'later'), (178, 'played'), (185, 'bit'), (189, 'parts'), (195, 'in'), (198, 'her'), (202, 'adult'), (208, 'years'), (213, '.'), (215, 'Her'), (219, 'last'), (224, 'role'), (229, 'was'), (233, 'in'), (236, 'The'), (240, 'Chocolate'), (250, 'Soldier'), (258, 'in'), (261, '1941'), (265, '.'), (267, 'Darr'), (272, 'died'), (277, 'on'), (280, 'September'), (290, '10'), (292, ','), (294, '2012'), (298, '.')])</spacy_tokens>
+<spacy_chunks>[('Vondell Darr Wilson', 0, 19), ('April 18, 1919', 21, 35), ('September 10, 2012', 38, 56), ('an American actress', 62, 81), ('Los Angeles', 99, 110), ('success', 125, 132), ('the late 1920s', 136, 150), ('a child actor', 154, 167), ('bit parts', 185, 194), ('her adult years', 198, 213), ('Her last role', 215, 228), ('The Chocolate Soldier', 236, 257), ('September 10, 2012', 280, 298)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'NN', 'CC', 'RB', 'VBD', 'NN', 'NNS', 'IN', 'PRP$', 'NN', 'NNS', '.', 'PRP$', 'JJ', 'NN', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', '.', 'NNP', 'VBD', 'IN', 'NNP', 'CD', ',', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

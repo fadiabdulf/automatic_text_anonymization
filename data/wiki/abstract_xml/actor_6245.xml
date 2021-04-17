@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kevin Sorbo</title>
+<link/>https://en.wikipedia.org/wiki/Kevin_Sorbo
+<annotated>0</annotated>
+<originalabstract>Kevin David Sorbo (born September 24, 1958) is an American actor.  He is best known for his starring roles in two television series: as Hercules in Hercules: The Legendary Journeys, and as Captain Dylan Hunt in Andromeda.</originalabstract>
+<abstract>Kevin_David_Sorbo ( born September_24_,_1958 ) is an_American_actor . He is_best_known for his_starring_roles in two_television_series : as Hercules in Hercules : The_Legendary_Journeys ,_and as Captain_Dylan_Hunt in Andromeda .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kevin'), (6, 'David'), (12, 'Sorbo'), (18, '('), (19, 'born'), (24, 'September'), (34, '24'), (36, ','), (38, '1958'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (64, '.'), (67, 'He'), (70, 'is'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'his'), (92, 'starring'), (101, 'roles'), (107, 'in'), (110, 'two'), (114, 'television'), (125, 'series'), (131, ':'), (133, 'as'), (136, 'Hercules'), (145, 'in'), (148, 'Hercules'), (156, ':'), (158, 'The'), (162, 'Legendary'), (172, 'Journeys'), (180, ','), (182, 'and'), (186, 'as'), (189, 'Captain'), (197, 'Dylan'), (203, 'Hunt'), (208, 'in'), (211, 'Andromeda'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kevin David Sorbo',0, 17), ('September 24, 1958',24, 42), ('an American actor',47, 64), ('is best known',70, 83), ('his starring roles',88, 106), ('two television series',110, 131), ('The Legendary Journeys',158, 180), (', and',180, 185), ('Captain Dylan Hunt',189, 207)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'CD', 'NN', 'NN', ':', 'IN', 'NNP', 'IN', 'NNP', ':', 'DT', 'JJ', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kevin'), (6, 'David'), (12, 'Sorbo'), (18, '('), (19, 'born'), (24, 'September'), (34, '24'), (36, ','), (38, '1958'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (64, '.'), (67, 'He'), (70, 'is'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'his'), (92, 'starring'), (101, 'roles'), (107, 'in'), (110, 'two'), (114, 'television'), (125, 'series'), (131, ':'), (133, 'as'), (136, 'Hercules'), (145, 'in'), (148, 'Hercules'), (156, ':'), (158, 'The'), (162, 'Legendary'), (172, 'Journeys'), (180, ','), (182, 'and'), (186, 'as'), (189, 'Captain'), (197, 'Dylan'), (203, 'Hunt'), (208, 'in'), (211, 'Andromeda'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Kevin David Sorbo', 0, 17), ('September 24, 1958', 24, 42), ('an American actor', 47, 64), ('his starring roles', 88, 106), ('two television series', 110, 131), ('Hercules in', 136, 147), ('Hercules: The Legendary Journeys', 148, 180), ('Captain Dylan Hunt', 189, 207), ('Andromeda', 211, 220)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'CD', 'NN', 'NN', ':', 'IN', 'NNP', 'IN', 'NNP', ':', 'DT', 'NNP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

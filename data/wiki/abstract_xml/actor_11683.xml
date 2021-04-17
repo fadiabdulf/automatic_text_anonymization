@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marietta DePrima</title>
+<link/>https://en.wikipedia.org/wiki/Marietta_DePrima
+<annotated>0</annotated>
+<originalabstract>Marietta DePrima (born May 3, 1964) is an American actress best known for playing the role Sally Rogers, opposite actor Eric Allen Kramer, on the ABC/UPN sitcom, The Hughleys.</originalabstract>
+<abstract>Marietta_DePrima ( born May_3_,_1964 ) is an_American_actress best_known for playing the_role_Sally_Rogers , opposite_actor_Eric_Allen_Kramer , on the_ABC/UPN_sitcom , The_Hughleys .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marietta'), (9, 'DePrima'), (17, '('), (18, 'born'), (23, 'May'), (27, '3'), (28, ','), (30, '1964'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (59, 'best'), (64, 'known'), (70, 'for'), (74, 'playing'), (82, 'the'), (86, 'role'), (91, 'Sally'), (97, 'Rogers'), (103, ','), (105, 'opposite'), (114, 'actor'), (120, 'Eric'), (125, 'Allen'), (131, 'Kramer'), (137, ','), (139, 'on'), (142, 'the'), (146, 'ABC/UPN'), (154, 'sitcom'), (160, ','), (162, 'The'), (166, 'Hughleys'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marietta DePrima',0, 16), ('May 3, 1964',23, 34), ('an American actress',39, 58), ('best known',59, 69), ('the role Sally Rogers',82, 103), ('opposite actor Eric Allen Kramer',105, 137), ('the ABC/UPN sitcom',142, 160), ('The Hughleys',162, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NNP', 'NNP', ',', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', ',', 'DT', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marietta'), (9, 'DePrima'), (17, '('), (18, 'born'), (23, 'May'), (27, '3'), (28, ','), (30, '1964'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (59, 'best'), (64, 'known'), (70, 'for'), (74, 'playing'), (82, 'the'), (86, 'role'), (91, 'Sally'), (97, 'Rogers'), (103, ','), (105, 'opposite'), (114, 'actor'), (120, 'Eric'), (125, 'Allen'), (131, 'Kramer'), (137, ','), (139, 'on'), (142, 'the'), (146, 'ABC'), (149, '/'), (150, 'UPN'), (154, 'sitcom'), (160, ','), (162, 'The'), (166, 'Hughleys'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[('Marietta DePrima', 0, 16), ('May 3, 1964', 23, 34), ('an American actress', 39, 58), ('the role', 82, 90), ('Sally Rogers', 91, 103), ('opposite actor Eric Allen Kramer', 105, 137), ('the ABC/UPN sitcom', 142, 160), ('The Hughleys', 162, 174)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NNP', 'NNP', ',', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', ',', 'IN', 'DT', 'NNP', 'SYM', 'NNP', 'NN', ',', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

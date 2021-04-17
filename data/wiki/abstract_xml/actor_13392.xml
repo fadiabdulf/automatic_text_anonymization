@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Debra Laws</title>
+<link/>https://en.wikipedia.org/wiki/Debra_Laws
+<annotated>0</annotated>
+<originalabstract>Debra Renee Laws (born September 10, 1956) is an American singer and actress from Houston, Texas. She is best known for her 1981 R/Soul ballad "Very Special". In her music career, she works closely with her siblings, Eloise Laws, Hubert Laws and Ronnie Laws, who are producers.</originalabstract>
+<abstract>Debra_Renee_Laws ( born September_10_,_1956 ) is an_American_singer_and_actress from Houston , Texas . She is_best_known for her_1981_R / Soul_ballad " Very_Special " . In her_music_career , she works closely with her_siblings , Eloise_Laws , Hubert_Laws and Ronnie_Laws , who are producers .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Debra'), (6, 'Renee'), (12, 'Laws'), (17, '('), (18, 'born'), (23, 'September'), (33, '10'), (35, ','), (37, '1956'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'singer'), (65, 'and'), (69, 'actress'), (77, 'from'), (82, 'Houston'), (89, ','), (91, 'Texas'), (96, '.'), (98, 'She'), (102, 'is'), (105, 'best'), (110, 'known'), (116, 'for'), (120, 'her'), (124, '1981'), (129, 'R'), (132, '/'), (133, 'Soul'), (138, 'ballad'), (145, '"'), (146, 'Very'), (151, 'Special'), (158, '"'), (159, '.'), (161, 'In'), (164, 'her'), (168, 'music'), (174, 'career'), (180, ','), (182, 'she'), (186, 'works'), (192, 'closely'), (200, 'with'), (205, 'her'), (209, 'siblings'), (217, ','), (219, 'Eloise'), (226, 'Laws'), (230, ','), (232, 'Hubert'), (239, 'Laws'), (244, 'and'), (248, 'Ronnie'), (255, 'Laws'), (259, ','), (261, 'who'), (265, 'are'), (269, 'producers'), (278, '.')])</stanford_tokens>
+<opennlp_chunks>[('Debra Renee Laws',0, 16), ('September 10, 1956',23, 41), ('an American singer and actress',46, 76), ('is best known',102, 115), ('her 1981 R',120, 132), ('Soul ballad',133, 144), ('Very Special',146, 158), ('her music career',164, 180), ('her siblings',205, 217), ('Eloise Laws',219, 230), ('Hubert Laws',232, 243), ('Ronnie Laws',248, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'CD', 'NN', ':', 'NN', 'NN', '``', 'RB', 'JJ', '\'\'', '.', 'IN', 'PRP$', 'NN', 'NN', ',', 'PRP', 'VBZ', 'RB', 'IN', 'PRP$', 'NNS', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'WP', 'VBP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Debra'), (6, 'Renee'), (12, 'Laws'), (17, '('), (18, 'born'), (23, 'September'), (33, '10'), (35, ','), (37, '1956'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'singer'), (65, 'and'), (69, 'actress'), (77, 'from'), (82, 'Houston'), (89, ','), (91, 'Texas'), (96, '.'), (98, 'She'), (102, 'is'), (105, 'best'), (110, 'known'), (116, 'for'), (120, 'her'), (124, '1981'), (129, 'R'), (130, '/'), (131, 'Soul'), (136, 'ballad'), (143, '"'), (144, 'Very'), (149, 'Special'), (156, '"'), (157, '.'), (159, 'In'), (162, 'her'), (166, 'music'), (172, 'career'), (178, ','), (180, 'she'), (184, 'works'), (190, 'closely'), (198, 'with'), (203, 'her'), (207, 'siblings'), (215, ','), (217, 'Eloise'), (224, 'Laws'), (228, ','), (230, 'Hubert'), (237, 'Laws'), (242, 'and'), (246, 'Ronnie'), (253, 'Laws'), (257, ','), (259, 'who'), (263, 'are'), (267, 'producers'), (276, '.')])</spacy_tokens>
+<spacy_chunks>[('Debra Renee Laws', 0, 16), ('September 10, 1956', 23, 41), ('an American singer', 46, 64), ('actress', 69, 76), ('Houston', 82, 89), ('her 1981 R/Soul ballad', 120, 142), ('Very Special', 144, 156), ('her music career', 162, 178), ('her siblings', 203, 215), ('Eloise Laws', 217, 228), ('Hubert Laws', 230, 241), ('Ronnie Laws', 246, 257), ('producers', 267, 276)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'CD', 'NN', 'SYM', 'NN', 'NN', '``', 'RB', 'JJ', "''", '.', 'IN', 'PRP$', 'NN', 'NN', ',', 'PRP', 'VBZ', 'RB', 'IN', 'PRP$', 'NNS', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNPS', ',', 'WP', 'VBP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

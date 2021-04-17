@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Holly Gagnier</title>
+<link/>https://en.wikipedia.org/wiki/Holly_Gagnier
+<annotated>0</annotated>
+<originalabstract>Holly Gagnier (born December 12, 1958 in Ventura, California) is an American actress.</originalabstract>
+<abstract>Holly_Gagnier ( born December_12_,_1958 in Ventura , California ) is an_American_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Holly'), (6, 'Gagnier'), (14, '('), (15, 'born'), (20, 'December'), (29, '12'), (31, ','), (33, '1958'), (38, 'in'), (41, 'Ventura'), (48, ','), (50, 'California'), (60, ')'), (62, 'is'), (65, 'an'), (68, 'American'), (77, 'actress'), (84, '.')])</stanford_tokens>
+<opennlp_chunks>[('Holly Gagnier',0, 13), ('December 12, 1958',20, 37), ('an American actress',65, 84)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Holly'), (6, 'Gagnier'), (14, '('), (15, 'born'), (20, 'December'), (29, '12'), (31, ','), (33, '1958'), (38, 'in'), (41, 'Ventura'), (48, ','), (50, 'California'), (60, ')'), (62, 'is'), (65, 'an'), (68, 'American'), (77, 'actress'), (84, '.')])</spacy_tokens>
+<spacy_chunks>[('Holly Gagnier', 0, 13), ('December 12, 1958', 20, 37), ('Ventura', 41, 48), ('California', 50, 60), ('an American actress', 65, 84)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

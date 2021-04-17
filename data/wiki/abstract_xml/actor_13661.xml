@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mary MacLaren</title>
+<link/>https://en.wikipedia.org/wiki/Mary_MacLaren
+<annotated>0</annotated>
+<originalabstract>Mary MacLaren (born Mary MacDonald, January 19, 1896 – November 9, 1985) was an American film actress. She appeared in 136 films between 1916 and 1949.</originalabstract>
+<abstract>Mary_MacLaren ( born Mary_MacDonald , January_19_,_1896 – November_9_,_1985 ) was an_American_film_actress . She appeared in 136_films between 1916_and_1949 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'MacLaren'), (14, '('), (15, 'born'), (20, 'Mary'), (25, 'MacDonald'), (34, ','), (36, 'January'), (44, '19'), (46, ','), (48, '1896'), (53, '–'), (55, 'November'), (64, '9'), (65, ','), (67, '1985'), (71, ')'), (73, 'was'), (77, 'an'), (80, 'American'), (89, 'film'), (94, 'actress'), (101, '.'), (103, 'She'), (107, 'appeared'), (116, 'in'), (119, '136'), (123, 'films'), (129, 'between'), (137, '1916'), (142, 'and'), (146, '1949'), (150, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary MacLaren',0, 13), ('Mary MacDonald',20, 34), ('January 19, 1896',36, 52), ('November 9, 1985',55, 71), ('an American film actress',77, 101), ('136 films',119, 128), ('1916 and 1949',137, 150)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'MacLaren'), (14, '('), (15, 'born'), (20, 'Mary'), (25, 'MacDonald'), (34, ','), (36, 'January'), (44, '19'), (46, ','), (48, '1896'), (53, '–'), (55, 'November'), (64, '9'), (65, ','), (67, '1985'), (71, ')'), (73, 'was'), (77, 'an'), (80, 'American'), (89, 'film'), (94, 'actress'), (101, '.'), (103, 'She'), (107, 'appeared'), (116, 'in'), (119, '136'), (123, 'films'), (129, 'between'), (137, '1916'), (142, 'and'), (146, '1949'), (150, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary MacLaren', 0, 13), ('born Mary MacDonald', 15, 34), ('January 19, 1896', 36, 52), ('November 9, 1985', 55, 71), ('an American film actress', 77, 101), ('136 films', 119, 128)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

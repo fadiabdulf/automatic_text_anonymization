@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mary Kay Stearns</title>
+<link/>https://en.wikipedia.org/wiki/Mary_Kay_Stearns
+<annotated>0</annotated>
+<originalabstract>Mary Katherine Jones (born October 27, 1925), better known by her stage name Mary Kay Stearns, is an American actress best known for portraying the fictional version of herself on the sitcom Mary Kay and Johnny from 1947 until 1950.</originalabstract>
+<abstract>Mary_Katherine_Jones ( born October_27_,_1925 ) , better_known by her_stage_name_Mary_Kay_Stearns , is an_American_actress best_known for portraying the_fictional_version of herself on the_sitcom_Mary_Kay and Johnny from 1947 until 1950 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Katherine'), (15, 'Jones'), (21, '('), (22, 'born'), (27, 'October'), (35, '27'), (37, ','), (39, '1925'), (43, ')'), (44, ','), (46, 'better'), (53, 'known'), (59, 'by'), (62, 'her'), (66, 'stage'), (72, 'name'), (77, 'Mary'), (82, 'Kay'), (86, 'Stearns'), (93, ','), (95, 'is'), (98, 'an'), (101, 'American'), (110, 'actress'), (118, 'best'), (123, 'known'), (129, 'for'), (133, 'portraying'), (144, 'the'), (148, 'fictional'), (158, 'version'), (166, 'of'), (169, 'herself'), (177, 'on'), (180, 'the'), (184, 'sitcom'), (191, 'Mary'), (196, 'Kay'), (200, 'and'), (204, 'Johnny'), (211, 'from'), (216, '1947'), (221, 'until'), (227, '1950'), (231, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Katherine Jones',0, 20), ('October 27, 1925',27, 43), ('better known',46, 58), ('her stage name Mary Kay Stearns',62, 93), ('an American actress',98, 117), ('best known',118, 128), ('the fictional version',144, 165), ('the sitcom Mary Kay',180, 199)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'IN', 'PRP', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Katherine'), (15, 'Jones'), (21, '('), (22, 'born'), (27, 'October'), (35, '27'), (37, ','), (39, '1925'), (43, ')'), (44, ','), (46, 'better'), (53, 'known'), (59, 'by'), (62, 'her'), (66, 'stage'), (72, 'name'), (77, 'Mary'), (82, 'Kay'), (86, 'Stearns'), (93, ','), (95, 'is'), (98, 'an'), (101, 'American'), (110, 'actress'), (118, 'best'), (123, 'known'), (129, 'for'), (133, 'portraying'), (144, 'the'), (148, 'fictional'), (158, 'version'), (166, 'of'), (169, 'herself'), (177, 'on'), (180, 'the'), (184, 'sitcom'), (191, 'Mary'), (196, 'Kay'), (200, 'and'), (204, 'Johnny'), (211, 'from'), (216, '1947'), (221, 'until'), (227, '1950'), (231, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Katherine Jones', 0, 20), ('October 27, 1925', 27, 43), ('her stage name', 62, 76), ('Mary Kay Stearns', 77, 93), ('an American actress', 98, 117), ('the fictional version', 144, 165), ('herself', 169, 176), ('the sitcom', 180, 190), ('Mary Kay and Johnny', 191, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'IN', 'PRP', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alexandre Brasseur</title>
+<link/>https://en.wikipedia.org/wiki/Alexandre_Brasseur
+<annotated>0</annotated>
+<originalabstract>Alexandre Brasseur (born Alexandre Espinasse on 29 March 1971) is a French actor. He was born in Neuilly-sur-Seine, the son of actor Claude Brasseur and the grandson of actor Pierre Brasseur.</originalabstract>
+<abstract>Alexandre_Brasseur ( born Alexandre_Espinasse on 29_March_1971 ) is a_French_actor . He was_born in Neuilly-sur-Seine , the_son of actor_Claude_Brasseur and the_grandson of actor_Pierre_Brasseur .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alexandre'), (10, 'Brasseur'), (19, '('), (20, 'born'), (25, 'Alexandre'), (35, 'Espinasse'), (45, 'on'), (48, '29'), (51, 'March'), (57, '1971'), (61, ')'), (63, 'is'), (66, 'a'), (68, 'French'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'was'), (89, 'born'), (94, 'in'), (97, 'Neuilly-sur-Seine'), (114, ','), (116, 'the'), (120, 'son'), (124, 'of'), (127, 'actor'), (133, 'Claude'), (140, 'Brasseur'), (149, 'and'), (153, 'the'), (157, 'grandson'), (166, 'of'), (169, 'actor'), (175, 'Pierre'), (182, 'Brasseur'), (190, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alexandre Brasseur',0, 18), ('Alexandre Espinasse',25, 44), ('29 March 1971',48, 61), ('a French actor',66, 80), ('was born',85, 93), ('the son',116, 123), ('actor Claude Brasseur',127, 148), ('the grandson',153, 165), ('actor Pierre Brasseur',169, 190)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alexandre'), (10, 'Brasseur'), (19, '('), (20, 'born'), (25, 'Alexandre'), (35, 'Espinasse'), (45, 'on'), (48, '29'), (51, 'March'), (57, '1971'), (61, ')'), (63, 'is'), (66, 'a'), (68, 'French'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'was'), (89, 'born'), (94, 'in'), (97, 'Neuilly'), (104, '-'), (105, 'sur'), (108, '-'), (109, 'Seine'), (114, ','), (116, 'the'), (120, 'son'), (124, 'of'), (127, 'actor'), (133, 'Claude'), (140, 'Brasseur'), (149, 'and'), (153, 'the'), (157, 'grandson'), (166, 'of'), (169, 'actor'), (175, 'Pierre'), (182, 'Brasseur'), (190, '.')])</spacy_tokens>
+<spacy_chunks>[('Alexandre Brasseur', 0, 18), ('born Alexandre Espinasse', 20, 44), ('29 March 1971', 48, 61), ('a French actor', 66, 80), ('Neuilly-sur-Seine', 97, 114), ('the son', 116, 123), ('actor Claude Brasseur', 127, 148), ('the grandson', 153, 165), ('actor Pierre Brasseur', 169, 190)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

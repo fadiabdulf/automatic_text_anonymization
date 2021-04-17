@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Patricia Avery</title>
+<link/>https://en.wikipedia.org/wiki/Patricia_Avery
+<annotated>0</annotated>
+<originalabstract>Patricia Avery (November 12, 1902 – August 21, 1973) was an American silent film actress of the 1920s.</originalabstract>
+<abstract>Patricia_Avery ( November_12_,_1902 – August_21_,_1973 ) was an_American_silent_film_actress of the_1920s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Patricia'), (9, 'Avery'), (15, '('), (16, 'November'), (25, '12'), (27, ','), (29, '1902'), (34, '–'), (36, 'August'), (43, '21'), (45, ','), (47, '1973'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'silent'), (76, 'film'), (81, 'actress'), (89, 'of'), (92, 'the'), (96, '1920s'), (101, '.')])</stanford_tokens>
+<opennlp_chunks>[('Patricia Avery',0, 14), ('November 12, 1902',16, 33), ('August 21, 1973',36, 51), ('an American silent film actress',57, 88), ('the 1920s',92, 101)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Patricia'), (9, 'Avery'), (15, '('), (16, 'November'), (25, '12'), (27, ','), (29, '1902'), (34, '–'), (36, 'August'), (43, '21'), (45, ','), (47, '1973'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'silent'), (76, 'film'), (81, 'actress'), (89, 'of'), (92, 'the'), (96, '1920s'), (101, '.')])</spacy_tokens>
+<spacy_chunks>[('Patricia Avery', 0, 14), ('(November', 15, 24), ('November 12, 1902', 16, 33), ('August 21, 1973', 36, 51), ('an American silent film actress', 57, 88)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

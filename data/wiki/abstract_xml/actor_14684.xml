@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gina Ravera</title>
+<link/>https://en.wikipedia.org/wiki/Gina_Ravera
+<annotated>0</annotated>
+<originalabstract>Gina Ravera (born May 20, 1966) is an American actress. She has appeared in films Showgirls (1995), Soul Food (1997), Kiss the Girls (1997), and The Great Debaters (2007). She co-starred as detective Irene Daniels in the TNT crime drama series, The Closer (2005-2009).</originalabstract>
+<abstract>Gina_Ravera ( born May_20_,_1966 ) is an_American_actress . She has_appeared in films_Showgirls_(_1995_) , Soul_Food_(_1997_) , Kiss the_Girls ( 1997_) , and The_Great_Debaters ( 2007_) . She co-starred as detective_Irene_Daniels in the_TNT_crime_drama_series , The_Closer_(_2005-2009_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gina'), (5, 'Ravera'), (12, '('), (13, 'born'), (18, 'May'), (22, '20'), (24, ','), (26, '1966'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'American'), (47, 'actress'), (54, '.'), (56, 'She'), (60, 'has'), (64, 'appeared'), (73, 'in'), (76, 'films'), (82, 'Showgirls'), (92, '('), (93, '1995'), (97, ')'), (98, ','), (100, 'Soul'), (105, 'Food'), (110, '('), (111, '1997'), (115, ')'), (116, ','), (118, 'Kiss'), (123, 'the'), (127, 'Girls'), (133, '('), (134, '1997'), (138, ')'), (139, ','), (141, 'and'), (145, 'The'), (149, 'Great'), (155, 'Debaters'), (164, '('), (165, '2007'), (169, ')'), (170, '.'), (172, 'She'), (176, 'co-starred'), (187, 'as'), (190, 'detective'), (200, 'Irene'), (206, 'Daniels'), (214, 'in'), (217, 'the'), (221, 'TNT'), (225, 'crime'), (231, 'drama'), (237, 'series'), (243, ','), (245, 'The'), (249, 'Closer'), (256, '('), (257, '2005-2009'), (266, ')'), (267, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gina Ravera',0, 11), ('May 20, 1966',18, 30), ('an American actress',35, 54), ('has appeared',60, 72), ('films Showgirls (1995)',76, 98), ('Soul Food (1997)',100, 116), ('the Girls',123, 132), ('1997)',134, 139), ('The Great Debaters',145, 163), ('2007)',165, 170), ('detective Irene Daniels',190, 213), ('the TNT crime drama series',217, 243), ('The Closer (2005-2009)',245, 267)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'VB', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'JJ', 'NNS', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', ',', 'DT', 'JJR', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gina'), (5, 'Ravera'), (12, '('), (13, 'born'), (18, 'May'), (22, '20'), (24, ','), (26, '1966'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'American'), (47, 'actress'), (54, '.'), (56, 'She'), (60, 'has'), (64, 'appeared'), (73, 'in'), (76, 'films'), (82, 'Showgirls'), (92, '('), (93, '1995'), (97, ')'), (98, ','), (100, 'Soul'), (105, 'Food'), (110, '('), (111, '1997'), (115, ')'), (116, ','), (118, 'Kiss'), (123, 'the'), (127, 'Girls'), (133, '('), (134, '1997'), (138, ')'), (139, ','), (141, 'and'), (145, 'The'), (149, 'Great'), (155, 'Debaters'), (164, '('), (165, '2007'), (169, ')'), (170, '.'), (172, 'She'), (176, 'co'), (178, '-'), (179, 'starred'), (187, 'as'), (190, 'detective'), (200, 'Irene'), (206, 'Daniels'), (214, 'in'), (217, 'the'), (221, 'TNT'), (225, 'crime'), (231, 'drama'), (237, 'series'), (243, ','), (245, 'The'), (249, 'Closer'), (256, '('), (257, '2005'), (261, '-'), (262, '2009'), (266, ')'), (267, '.')])</spacy_tokens>
+<spacy_chunks>[('Gina Ravera', 0, 11), ('May 20, 1966', 18, 30), ('an American actress', 35, 54), ('Showgirls', 82, 91), ('Soul Food', 100, 109), ('Kiss the Girls (1997', 118, 138), ('The Great Debaters', 145, 163), ('detective Irene Daniels', 190, 213), ('the TNT crime drama series', 217, 243), ('The Closer', 245, 255)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'NNS', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'VB', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'JJ', 'NNPS', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBZ', 'VBD', 'VBN', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', ',', 'DT', 'JJR', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

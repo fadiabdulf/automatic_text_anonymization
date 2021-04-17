@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barbara Luddy</title>
+<link/>https://en.wikipedia.org/wiki/Barbara_Luddy
+<annotated>0</annotated>
+<originalabstract>Barbara Luddy (May 25, 1908 – April 1, 1979) was an American actress from Great Falls, Montana. Her film career began with silent pictures in the 1920s, during which time she was also a prolific radio performer.</originalabstract>
+<abstract>Barbara_Luddy ( May_25_,_1908 – April_1_,_1979 ) was an_American_actress from Great_Falls , Montana . Her_film_career began with silent_pictures in the_1920s , during which time she was also a_prolific_radio_performer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barbara'), (8, 'Luddy'), (14, '('), (15, 'May'), (19, '25'), (21, ','), (23, '1908'), (28, '–'), (30, 'April'), (36, '1'), (37, ','), (39, '1979'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'actress'), (69, 'from'), (74, 'Great'), (80, 'Falls'), (85, ','), (87, 'Montana'), (94, '.'), (96, 'Her'), (100, 'film'), (105, 'career'), (112, 'began'), (118, 'with'), (123, 'silent'), (130, 'pictures'), (139, 'in'), (142, 'the'), (146, '1920s'), (151, ','), (153, 'during'), (160, 'which'), (166, 'time'), (171, 'she'), (175, 'was'), (179, 'also'), (184, 'a'), (186, 'prolific'), (195, 'radio'), (201, 'performer'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barbara Luddy',0, 13), ('May 25, 1908',15, 27), ('April 1, 1979',30, 43), ('an American actress',49, 68), ('Great Falls',74, 85), ('Her film career',96, 111), ('silent pictures',123, 138), ('the 1920s',142, 151), ('a prolific radio performer',184, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'PRP$', 'NN', 'NN', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'CD', ',', 'IN', 'WDT', 'NN', 'PRP', 'VBD', 'RB', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barbara'), (8, 'Luddy'), (14, '('), (15, 'May'), (19, '25'), (21, ','), (23, '1908'), (28, '–'), (30, 'April'), (36, '1'), (37, ','), (39, '1979'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'actress'), (69, 'from'), (74, 'Great'), (80, 'Falls'), (85, ','), (87, 'Montana'), (94, '.'), (96, 'Her'), (100, 'film'), (105, 'career'), (112, 'began'), (118, 'with'), (123, 'silent'), (130, 'pictures'), (139, 'in'), (142, 'the'), (146, '1920s'), (151, ','), (153, 'during'), (160, 'which'), (166, 'time'), (171, 'she'), (175, 'was'), (179, 'also'), (184, 'a'), (186, 'prolific'), (195, 'radio'), (201, 'performer'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Barbara Luddy', 0, 13), ('May 25, 1908', 15, 27), ('April 1, 1979', 30, 43), ('an American actress', 49, 68), ('Great Falls, Montana', 74, 94), ('Her film career', 96, 111), ('silent pictures', 123, 138), ('the 1920s', 142, 151), ('which time', 160, 170), ('a prolific radio performer', 184, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'PRP$', 'NN', 'NN', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNS', ',', 'IN', 'WDT', 'NN', 'PRP', 'VBD', 'RB', 'DT', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

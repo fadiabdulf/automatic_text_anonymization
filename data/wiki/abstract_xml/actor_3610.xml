@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ricky Kelman</title>
+<link/>https://en.wikipedia.org/wiki/Ricky_Kelman
+<annotated>0</annotated>
+<originalabstract>Rickey William Kelman (born July 6, 1950), is a former child and young adult actor who appeared in film and on television from 1954 to 1974. He had supporting roles in two single-season situation comedies, The Dennis O'Keefe Show (1959-1960) on CBS and Our Man Higgins (1962-1963) on ABC.</originalabstract>
+<abstract>Rickey_William_Kelman ( born July_6_,_1950 ) , is a_former_child and young_adult_actor who appeared in film and on television from 1954 to 1974 . He had_supporting roles in two_single-season_situation_comedies , The_Dennis_O'Keefe_Show_(_1959-1960_) on CBS and Our_Man_Higgins_(_1962-1963_) on ABC .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rickey'), (7, 'William'), (15, 'Kelman'), (22, '('), (23, 'born'), (28, 'July'), (33, '6'), (34, ','), (36, '1950'), (40, ')'), (41, ','), (43, 'is'), (46, 'a'), (48, 'former'), (55, 'child'), (61, 'and'), (65, 'young'), (71, 'adult'), (77, 'actor'), (83, 'who'), (87, 'appeared'), (96, 'in'), (99, 'film'), (104, 'and'), (108, 'on'), (111, 'television'), (122, 'from'), (127, '1954'), (132, 'to'), (135, '1974'), (139, '.'), (141, 'He'), (144, 'had'), (148, 'supporting'), (159, 'roles'), (165, 'in'), (168, 'two'), (172, 'single-season'), (186, 'situation'), (196, 'comedies'), (204, ','), (206, 'The'), (210, 'Dennis'), (217, 'O\'Keefe'), (225, 'Show'), (230, '('), (231, '1959-1960'), (240, ')'), (242, 'on'), (245, 'CBS'), (249, 'and'), (253, 'Our'), (257, 'Man'), (261, 'Higgins'), (269, '('), (270, '1962-1963'), (279, ')'), (281, 'on'), (284, 'ABC'), (287, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rickey William Kelman',0, 21), ('July 6, 1950',28, 40), ('a former child',46, 60), ('young adult actor',65, 82), ('had supporting',144, 158), ('two single-season situation comedies',168, 204), ('The Dennis O\'Keefe Show (1959-1960)',206, 241), ('Our Man Higgins (1962-1963)',253, 280)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', 'CC', 'IN', 'NN', 'IN', 'CD', 'TO', 'CD', '.', 'PRP', 'VBD', 'VBG', 'NNS', 'IN', 'CD', 'JJ', 'NN', 'NNS', ',', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'IN', 'NNP', 'CC', 'PRP$', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rickey'), (7, 'William'), (15, 'Kelman'), (22, '('), (23, 'born'), (28, 'July'), (33, '6'), (34, ','), (36, '1950'), (40, ')'), (41, ','), (43, 'is'), (46, 'a'), (48, 'former'), (55, 'child'), (61, 'and'), (65, 'young'), (71, 'adult'), (77, 'actor'), (83, 'who'), (87, 'appeared'), (96, 'in'), (99, 'film'), (104, 'and'), (108, 'on'), (111, 'television'), (122, 'from'), (127, '1954'), (132, 'to'), (135, '1974'), (139, '.'), (141, 'He'), (144, 'had'), (148, 'supporting'), (159, 'roles'), (165, 'in'), (168, 'two'), (172, 'single'), (178, '-'), (179, 'season'), (186, 'situation'), (196, 'comedies'), (204, ','), (206, 'The'), (210, 'Dennis'), (217, "O'Keefe"), (225, 'Show'), (230, '('), (231, '1959'), (235, '-'), (236, '1960'), (240, ')'), (242, 'on'), (245, 'CBS'), (249, 'and'), (253, 'Our'), (257, 'Man'), (261, 'Higgins'), (269, '('), (270, '1962'), (274, '-'), (275, '1963'), (279, ')'), (281, 'on'), (284, 'ABC'), (287, '.')])</spacy_tokens>
+<spacy_chunks>[('Rickey William Kelman', 0, 21), ('July 6, 1950', 28, 40), ('a former child', 46, 60), ('young adult actor', 65, 82), ('television', 111, 121), ('two single-season situation comedies', 168, 204), ("The Dennis O'Keefe Show", 206, 229), ('Our Man Higgins', 253, 268)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'NN', 'CC', 'IN', 'NN', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'VBD', 'VBG', 'NNS', 'IN', 'CD', 'JJ', 'HYPH', 'NN', 'NN', 'NNS', ',', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', 'IN', 'NNP', 'CC', 'PRP$', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

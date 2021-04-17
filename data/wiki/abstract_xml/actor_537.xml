@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brooks Benedict</title>
+<link/>https://en.wikipedia.org/wiki/Brooks_Benedict
+<annotated>0</annotated>
+<originalabstract>Brooks Benedict (born Harold J. Mann, February 6, 1896 – January 1, 1968) was an American actor of the silent and sound film era, where he played supporting and utility roles in over 300 films, mostly uncredited.</originalabstract>
+<abstract>Brooks_Benedict ( born Harold_J._Mann , February_6_,_1896 – January_1_,_1968 ) was an_American_actor of the_silent_and_sound_film_era , where he played_supporting and utility_roles in over_300_films , mostly uncredited .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brooks'), (7, 'Benedict'), (16, '('), (17, 'born'), (22, 'Harold'), (29, 'J.'), (32, 'Mann'), (36, ','), (38, 'February'), (47, '6'), (48, ','), (50, '1896'), (55, '–'), (57, 'January'), (65, '1'), (66, ','), (68, '1968'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'actor'), (96, 'of'), (99, 'the'), (103, 'silent'), (110, 'and'), (114, 'sound'), (120, 'film'), (125, 'era'), (128, ','), (130, 'where'), (136, 'he'), (139, 'played'), (146, 'supporting'), (157, 'and'), (161, 'utility'), (169, 'roles'), (175, 'in'), (178, 'over'), (183, '300'), (187, 'films'), (192, ','), (194, 'mostly'), (201, 'uncredited'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brooks Benedict',0, 15), ('Harold J. Mann',22, 36), ('February 6, 1896',38, 54), ('January 1, 1968',57, 72), ('an American actor',78, 95), ('the silent and sound film era',99, 128), ('played supporting',139, 156), ('utility roles',161, 174), ('over 300 films',178, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN', 'NN', ',', 'WRB', 'PRP', 'VBD', 'VBG', 'CC', 'NN', 'NNS', 'IN', 'IN', 'CD', 'NNS', ',', 'RB', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brooks'), (7, 'Benedict'), (16, '('), (17, 'born'), (22, 'Harold'), (29, 'J.'), (32, 'Mann'), (36, ','), (38, 'February'), (47, '6'), (48, ','), (50, '1896'), (55, '–'), (57, 'January'), (65, '1'), (66, ','), (68, '1968'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'actor'), (96, 'of'), (99, 'the'), (103, 'silent'), (110, 'and'), (114, 'sound'), (120, 'film'), (125, 'era'), (128, ','), (130, 'where'), (136, 'he'), (139, 'played'), (146, 'supporting'), (157, 'and'), (161, 'utility'), (169, 'roles'), (175, 'in'), (178, 'over'), (183, '300'), (187, 'films'), (192, ','), (194, 'mostly'), (201, 'uncredited'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[('Brooks Benedict', 0, 15), ('born Harold J. Mann', 17, 36), ('February 6, 1896', 38, 54), ('January 1, 1968', 57, 72), ('an American actor', 78, 95), ('the silent and sound film era', 99, 128), ('supporting and utility roles', 146, 174), ('over 300 films', 178, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN', 'NN', ',', 'WRB', 'PRP', 'VBD', 'VBG', 'CC', 'NN', 'NNS', 'IN', 'IN', 'CD', 'NNS', ',', 'RB', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

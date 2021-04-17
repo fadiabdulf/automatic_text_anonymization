@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Andrea Gabriel</title>
+<link/>https://en.wikipedia.org/wiki/Andrea_Gabriel
+<annotated>0</annotated>
+<originalabstract>Andrea Gabriel is an American actress. She is known for her role on the ABC drama series Lost as Sayid Jarrah's love interest Nadia Jaseem.</originalabstract>
+<abstract>Andrea_Gabriel is an_American_actress . She is_known for her_role on the_ABC_drama_series Lost as Sayid_Jarrah 's_love_interest_Nadia_Jaseem .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Andrea'), (7, 'Gabriel'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'actress'), (37, '.'), (39, 'She'), (43, 'is'), (46, 'known'), (52, 'for'), (56, 'her'), (60, 'role'), (65, 'on'), (68, 'the'), (72, 'ABC'), (76, 'drama'), (82, 'series'), (89, 'Lost'), (94, 'as'), (97, 'Sayid'), (103, 'Jarrah'), (109, '\'s'), (112, 'love'), (117, 'interest'), (126, 'Nadia'), (132, 'Jaseem'), (138, '.')])</stanford_tokens>
+<opennlp_chunks>[('Andrea Gabriel',0, 14), ('an American actress',18, 37), ('is known',43, 51), ('her role',56, 64), ('the ABC drama series',68, 88), ('Sayid Jarrah',97, 109), ('\'s love interest Nadia Jaseem',109, 138)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Andrea'), (7, 'Gabriel'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'actress'), (37, '.'), (39, 'She'), (43, 'is'), (46, 'known'), (52, 'for'), (56, 'her'), (60, 'role'), (65, 'on'), (68, 'the'), (72, 'ABC'), (76, 'drama'), (82, 'series'), (89, 'Lost'), (94, 'as'), (97, 'Sayid'), (103, 'Jarrah'), (109, "'s"), (112, 'love'), (117, 'interest'), (126, 'Nadia'), (132, 'Jaseem'), (138, '.')])</spacy_tokens>
+<spacy_chunks>[('Andrea Gabriel', 0, 14), ('an American actress', 18, 37), ('her role', 56, 64), ('the ABC drama series', 68, 88), ("Sayid Jarrah's love interest", 97, 125), ('Nadia Jaseem', 126, 138)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'VBN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

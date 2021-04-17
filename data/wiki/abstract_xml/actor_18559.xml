@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lou Doillon</title>
+<link/>https://en.wikipedia.org/wiki/Lou_Doillon
+<annotated>0</annotated>
+<originalabstract>Lou Doillon (born 4 September 1982 in Neuilly sur Seine) is a French singer-songwriter, artist, actress and model.</originalabstract>
+<abstract>Lou_Doillon ( born 4_September_1982 in Neuilly_sur_Seine ) is a_French_singer-songwriter , artist , actress_and_model .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lou'), (4, 'Doillon'), (12, '('), (13, 'born'), (18, '4'), (20, 'September'), (30, '1982'), (35, 'in'), (38, 'Neuilly'), (46, 'sur'), (50, 'Seine'), (55, ')'), (57, 'is'), (60, 'a'), (62, 'French'), (69, 'singer-songwriter'), (86, ','), (88, 'artist'), (94, ','), (96, 'actress'), (104, 'and'), (108, 'model'), (113, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lou Doillon',0, 11), ('4 September 1982',18, 34), ('Neuilly sur Seine',38, 55), ('a French singer-songwriter',60, 86), ('actress and model',96, 113)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lou'), (4, 'Doillon'), (12, '('), (13, 'born'), (18, '4'), (20, 'September'), (30, '1982'), (35, 'in'), (38, 'Neuilly'), (46, 'sur'), (50, 'Seine'), (55, ')'), (57, 'is'), (60, 'a'), (62, 'French'), (69, 'singer'), (75, '-'), (76, 'songwriter'), (86, ','), (88, 'artist'), (94, ','), (96, 'actress'), (104, 'and'), (108, 'model'), (113, '.')])</spacy_tokens>
+<spacy_chunks>[('Lou Doillon', 0, 11), ('4 September 1982', 18, 34), ('Neuilly sur Seine', 38, 55), ('a French singer-songwriter', 60, 86), ('artist', 88, 94), ('actress', 96, 103)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'HYPH', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

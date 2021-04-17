@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mark Margolis</title>
+<link/>https://en.wikipedia.org/wiki/Mark_Margolis
+<annotated>0</annotated>
+<originalabstract>Mark Margolis (born November 26, 1939) is an American actor. He is known for his performances as Alberto "The Shadow" in Scarface (1983) and Antonio Nappa in Oz, and his Emmy-nominated performance as Don Héctor "Tio" Salamanca in Breaking Bad and Better Call Saul.</originalabstract>
+<abstract>Mark_Margolis ( born November_26_,_1939 ) is an_American_actor . He is_known for his_performances as Alberto " The_Shadow " in Scarface_(_1983 ) and Antonio_Nappa in Oz , and his_Emmy-nominated_performance as Don_Héctor_"_Tio_"_Salamanca in Breaking Bad_and_Better_Call_Saul .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mark'), (5, 'Margolis'), (14, '('), (15, 'born'), (20, 'November'), (29, '26'), (31, ','), (33, '1939'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, '.'), (61, 'He'), (64, 'is'), (67, 'known'), (73, 'for'), (77, 'his'), (81, 'performances'), (94, 'as'), (97, 'Alberto'), (105, '"'), (106, 'The'), (110, 'Shadow'), (116, '"'), (118, 'in'), (121, 'Scarface'), (130, '('), (131, '1983'), (135, ')'), (137, 'and'), (141, 'Antonio'), (149, 'Nappa'), (155, 'in'), (158, 'Oz'), (160, ','), (162, 'and'), (166, 'his'), (170, 'Emmy-nominated'), (185, 'performance'), (197, 'as'), (200, 'Don'), (204, 'Héctor'), (211, '"'), (212, 'Tio'), (215, '"'), (217, 'Salamanca'), (227, 'in'), (230, 'Breaking'), (239, 'Bad'), (243, 'and'), (247, 'Better'), (254, 'Call'), (259, 'Saul'), (263, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mark Margolis',0, 13), ('November 26, 1939',20, 37), ('an American actor',42, 59), ('is known',64, 72), ('his performances',77, 93), ('The Shadow',106, 116), ('Scarface (1983',121, 135), ('Antonio Nappa',141, 154), ('his Emmy-nominated performance',166, 196), ('Don Héctor "Tio" Salamanca',200, 226), ('Bad and Better Call Saul',239, 263)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', '``', 'DT', 'NNP', '\'\'', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'VBG', 'JJ', 'CC', 'RBR', 'VB', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mark'), (5, 'Margolis'), (14, '('), (15, 'born'), (20, 'November'), (29, '26'), (31, ','), (33, '1939'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, '.'), (61, 'He'), (64, 'is'), (67, 'known'), (73, 'for'), (77, 'his'), (81, 'performances'), (94, 'as'), (97, 'Alberto'), (105, '"'), (106, 'The'), (110, 'Shadow'), (116, '"'), (118, 'in'), (121, 'Scarface'), (130, '('), (131, '1983'), (135, ')'), (137, 'and'), (141, 'Antonio'), (149, 'Nappa'), (155, 'in'), (158, 'Oz'), (160, ','), (162, 'and'), (166, 'his'), (170, 'Emmy'), (174, '-'), (175, 'nominated'), (185, 'performance'), (197, 'as'), (200, 'Don'), (204, 'Héctor'), (211, '"'), (212, 'Tio'), (215, '"'), (217, 'Salamanca'), (227, 'in'), (230, 'Breaking'), (239, 'Bad'), (243, 'and'), (247, 'Better'), (254, 'Call'), (259, 'Saul'), (263, '.')])</spacy_tokens>
+<spacy_chunks>[('Mark Margolis', 0, 13), ('November 26, 1939', 20, 37), ('an American actor', 42, 59), ('his performances', 77, 93), ('Alberto', 97, 104), ('"The Shadow', 105, 116), ('Scarface (1983', 121, 135), ('Antonio Nappa', 141, 154), ('his Emmy-nominated performance', 166, 196), ('Don Héctor "Tio" Salamanca', 200, 226), ('Breaking Bad', 230, 242), ('Better Call Saul', 247, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', '``', 'DT', 'NNP', "''", 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'PRP$', 'NNP', 'HYPH', 'VBN', 'NN', 'IN', 'NNP', 'NNP', '``', 'NNP', '``', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'RBR', 'VB', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

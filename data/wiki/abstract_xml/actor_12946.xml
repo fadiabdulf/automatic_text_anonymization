@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Betty Hutton</title>
+<link/>https://en.wikipedia.org/wiki/Betty_Hutton
+<annotated>0</annotated>
+<originalabstract>Betty Hutton (born Elizabeth June Thornburg; February 26, 1921 – March 12, 2007)
+was an American stage, film, and television actress, comedian, dancer, and singer.</originalabstract>
+<abstract>Betty_Hutton ( born Elizabeth_June_Thornburg ; February_26_,_1921 – March_12_,_2007 ) was an_American_stage , film , and television_actress , comedian , dancer , and singer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Betty'), (6, 'Hutton'), (13, '('), (14, 'born'), (19, 'Elizabeth'), (29, 'June'), (34, 'Thornburg'), (43, ';'), (45, 'February'), (54, '26'), (56, ','), (58, '1921'), (63, '–'), (65, 'March'), (71, '12'), (73, ','), (75, '2007'), (79, ')'), (81, 'was'), (85, 'an'), (88, 'American'), (97, 'stage'), (102, ','), (104, 'film'), (108, ','), (110, 'and'), (114, 'television'), (125, 'actress'), (132, ','), (134, 'comedian'), (142, ','), (144, 'dancer'), (150, ','), (152, 'and'), (156, 'singer'), (162, '.')])</stanford_tokens>
+<opennlp_chunks>[('Betty Hutton',0, 12), ('Elizabeth June Thornburg',19, 43), ('February 26, 1921',45, 62), ('March 12, 2007',65, 79), ('an American stage',85, 102), ('television actress',114, 132)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Betty'), (6, 'Hutton'), (13, '('), (14, 'born'), (19, 'Elizabeth'), (29, 'June'), (34, 'Thornburg'), (43, ';'), (45, 'February'), (54, '26'), (56, ','), (58, '1921'), (63, '–'), (65, 'March'), (71, '12'), (73, ','), (75, '2007'), (79, ')'), (81, 'was'), (85, 'an'), (88, 'American'), (97, 'stage'), (102, ','), (104, 'film'), (108, ','), (110, 'and'), (114, 'television'), (125, 'actress'), (132, ','), (134, 'comedian'), (142, ','), (144, 'dancer'), (150, ','), (152, 'and'), (156, 'singer'), (162, '.')])</spacy_tokens>
+<spacy_chunks>[('Betty Hutton', 0, 12), ('born Elizabeth June Thornburg', 14, 43), ('February 26, 1921', 45, 62), ('March 12, 2007', 65, 79), ('an American stage', 85, 102), ('television actress', 114, 132), ('comedian', 134, 142), ('dancer', 144, 150), ('singer', 156, 162)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

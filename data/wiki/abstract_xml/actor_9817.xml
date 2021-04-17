@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jimmy Gaillard</title>
+<link/>https://en.wikipedia.org/wiki/Jimmy_Gaillard
+<annotated>0</annotated>
+<originalabstract>Jimmy Gaillard (1916–1985) was a French actor. He began his film career in 1924 as a child actor.</originalabstract>
+<abstract>Jimmy_Gaillard ( 1916 – 1985 ) was a_French_actor . He began his_film_career in 1924 as a_child_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jimmy'), (6, 'Gaillard'), (15, '('), (16, '1916'), (20, '–'), (21, '1985'), (25, ')'), (27, 'was'), (31, 'a'), (33, 'French'), (40, 'actor'), (45, '.'), (47, 'He'), (50, 'began'), (56, 'his'), (60, 'film'), (65, 'career'), (72, 'in'), (75, '1924'), (80, 'as'), (83, 'a'), (85, 'child'), (91, 'actor'), (96, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jimmy Gaillard',0, 14), ('a French actor',31, 45), ('his film career',56, 71), ('a child actor',83, 96)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'CD', 'IN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jimmy'), (6, 'Gaillard'), (15, '('), (16, '1916–1985'), (25, ')'), (27, 'was'), (31, 'a'), (33, 'French'), (40, 'actor'), (45, '.'), (47, 'He'), (50, 'began'), (56, 'his'), (60, 'film'), (65, 'career'), (72, 'in'), (75, '1924'), (80, 'as'), (83, 'a'), (85, 'child'), (91, 'actor'), (96, '.')])</spacy_tokens>
+<spacy_chunks>[('Jimmy Gaillard', 0, 14), ('a French actor', 31, 45), ('his film career', 56, 71), ('a child actor', 83, 96)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'CD', 'IN', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

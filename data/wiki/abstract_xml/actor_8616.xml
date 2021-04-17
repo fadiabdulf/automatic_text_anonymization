@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jeremy Lloyd</title>
+<link/>https://en.wikipedia.org/wiki/Jeremy_Lloyd
+<annotated>0</annotated>
+<originalabstract>John Jeremy Lloyd, OBE (22 July 1930 – 23 December 2014) was an English writer, screenwriter, author, poet and actor, best known as co-author and writer of several successful British sitcoms, including Are You Being Served? and 'Allo 'Allo!.</originalabstract>
+<abstract>John_Jeremy_Lloyd , OBE ( 22_July_1930 – 23_December_2014 ) was an_English_writer_,_screenwriter_,_author_,_poet_and_actor , best_known as co-author_and_writer of several_successful_British_sitcoms , including Are You Being_Served ? and ' Allo_'_Allo ! .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Jeremy'), (12, 'Lloyd'), (17, ','), (19, 'OBE'), (23, '('), (24, '22'), (27, 'July'), (32, '1930'), (37, '–'), (39, '23'), (42, 'December'), (51, '2014'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'English'), (72, 'writer'), (78, ','), (80, 'screenwriter'), (92, ','), (94, 'author'), (100, ','), (102, 'poet'), (107, 'and'), (111, 'actor'), (116, ','), (118, 'best'), (123, 'known'), (129, 'as'), (132, 'co-author'), (142, 'and'), (146, 'writer'), (153, 'of'), (156, 'several'), (164, 'successful'), (175, 'British'), (183, 'sitcoms'), (190, ','), (192, 'including'), (202, 'Are'), (206, 'You'), (210, 'Being'), (216, 'Served'), (222, '?'), (224, 'and'), (228, '\''), (229, 'Allo'), (234, '\''), (235, 'Allo'), (239, '!'), (240, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Jeremy Lloyd',0, 17), ('22 July 1930',24, 36), ('23 December 2014',39, 55), ('an English writer, screenwriter, author, poet and actor',61, 116), ('best known',118, 128), ('co-author and writer',132, 152), ('several successful British sitcoms',156, 190), ('Being Served',210, 222), ('Allo \'Allo',229, 239)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'NN', 'CC', 'NN', 'IN', 'JJ', 'JJ', 'JJ', 'NNS', ',', 'VBG', 'VBP', 'PRP', 'VBG', 'VBN', '.', 'CC', '``', 'NNP', '``', 'NNP', '.', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Jeremy'), (12, 'Lloyd'), (17, ','), (19, 'OBE'), (23, '('), (24, '22'), (27, 'July'), (32, '1930'), (37, '–'), (39, '23'), (42, 'December'), (51, '2014'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'English'), (72, 'writer'), (78, ','), (80, 'screenwriter'), (92, ','), (94, 'author'), (100, ','), (102, 'poet'), (107, 'and'), (111, 'actor'), (116, ','), (118, 'best'), (123, 'known'), (129, 'as'), (132, 'co'), (134, '-'), (135, 'author'), (142, 'and'), (146, 'writer'), (153, 'of'), (156, 'several'), (164, 'successful'), (175, 'British'), (183, 'sitcoms'), (190, ','), (192, 'including'), (202, 'Are'), (206, 'You'), (210, 'Being'), (216, 'Served'), (222, '?'), (224, 'and'), (228, "'"), (229, 'Allo'), (234, "'"), (235, 'Allo!.')])</spacy_tokens>
+<spacy_chunks>[('John Jeremy Lloyd', 0, 17), ('22 July 1930', 24, 36), ('23 December 2014', 39, 55), ('an English writer', 61, 78), ('screenwriter', 80, 92), ('author', 94, 100), ('co-author', 132, 141), ('several successful British sitcoms', 156, 190), ('Are You Being Served?', 202, 223), ("and 'Allo", 224, 233), ("'Allo 'Allo!", 228, 240), ('Allo!.', 235, 241)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'NN', 'NN', 'NN', 'CC', 'NN', 'IN', 'JJ', 'JJ', 'JJ', 'NNS', ',', 'VBG', 'VBP', 'PRP', 'VBG', 'VBN', '.', 'CC', '``', 'NNP', "''", 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

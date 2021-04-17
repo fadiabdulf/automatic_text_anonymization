@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Henry Armetta</title>
+<link/>https://en.wikipedia.org/wiki/Henry_Armetta
+<annotated>0</annotated>
+<originalabstract>Henry Armetta (born Enrico Armetta, July 4, 1888 – October 21, 1945) was an Italian-born American character actor who appeared in at least 150 American films, starting in silents around 1915 to 1946, when his last film was released posthumously.</originalabstract>
+<abstract>Henry_Armetta ( born Enrico_Armetta , July_4_,_1888 – October_21_,_1945 ) was an_Italian-born_American_character_actor who appeared in at_least_150_American_films , starting in silents around 1915 to 1946 , when his_last_film was_released posthumously .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Henry'), (6, 'Armetta'), (14, '('), (15, 'born'), (20, 'Enrico'), (27, 'Armetta'), (34, ','), (36, 'July'), (41, '4'), (42, ','), (44, '1888'), (49, '–'), (51, 'October'), (59, '21'), (61, ','), (63, '1945'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'Italian-born'), (89, 'American'), (98, 'character'), (108, 'actor'), (114, 'who'), (118, 'appeared'), (127, 'in'), (130, 'at'), (133, 'least'), (139, '150'), (143, 'American'), (152, 'films'), (157, ','), (159, 'starting'), (168, 'in'), (171, 'silents'), (179, 'around'), (186, '1915'), (191, 'to'), (194, '1946'), (198, ','), (200, 'when'), (205, 'his'), (209, 'last'), (214, 'film'), (219, 'was'), (223, 'released'), (232, 'posthumously'), (244, '.')])</stanford_tokens>
+<opennlp_chunks>[('Henry Armetta',0, 13), ('Enrico Armetta',20, 34), ('July 4, 1888',36, 48), ('October 21, 1945',51, 67), ('an Italian-born American character actor',73, 113), ('at least 150 American films',130, 157), ('his last film',205, 218), ('was released',219, 231)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'IN', 'JJS', 'CD', 'JJ', 'NNS', ',', 'VBG', 'IN', 'NNS', 'IN', 'CD', 'TO', 'CD', ',', 'WRB', 'PRP$', 'JJ', 'NN', 'VBD', 'VBN', 'RB', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Henry'), (6, 'Armetta'), (14, '('), (15, 'born'), (20, 'Enrico'), (27, 'Armetta'), (34, ','), (36, 'July'), (41, '4'), (42, ','), (44, '1888'), (49, '–'), (51, 'October'), (59, '21'), (61, ','), (63, '1945'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'Italian'), (83, '-'), (84, 'born'), (89, 'American'), (98, 'character'), (108, 'actor'), (114, 'who'), (118, 'appeared'), (127, 'in'), (130, 'at'), (133, 'least'), (139, '150'), (143, 'American'), (152, 'films'), (157, ','), (159, 'starting'), (168, 'in'), (171, 'silents'), (179, 'around'), (186, '1915'), (191, 'to'), (194, '1946'), (198, ','), (200, 'when'), (205, 'his'), (209, 'last'), (214, 'film'), (219, 'was'), (223, 'released'), (232, 'posthumously'), (244, '.')])</spacy_tokens>
+<spacy_chunks>[('Henry Armetta', 0, 13), ('(born Enrico Armetta', 14, 34), ('July 4, 1888', 36, 48), ('– October', 49, 58), ('October 21, 1945', 51, 67), ('an Italian-born American character actor', 73, 113), ('at least 150 American films', 130, 157), ('silents', 171, 178), ('his last film', 205, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'RB', 'JJS', 'CD', 'JJ', 'NNS', ',', 'VBG', 'IN', 'NNS', 'IN', 'CD', 'IN', 'CD', ',', 'WRB', 'PRP$', 'JJ', 'NN', 'VBD', 'VBN', 'RB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

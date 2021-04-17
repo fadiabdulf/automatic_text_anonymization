@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Gorcey</title>
+<link/>https://en.wikipedia.org/wiki/David_Gorcey
+<annotated>0</annotated>
+<originalabstract>David Gorcey (February 6, 1921 – October 23, 1984) was an American actor best known for portraying "Pee Wee" in Monogram Pictures' East Side Kids series, and "Chuck" in its offshoot The Bowery Boys. He was the younger brother of fellow Bowery Boy Leo Gorcey.</originalabstract>
+<abstract>David_Gorcey ( February_6_,_1921 – October_23_,_1984 ) was an_American_actor best_known for portraying " Pee_Wee " in Monogram_Pictures '_East_Side_Kids_series , and " Chuck " in its_offshoot The_Bowery_Boys . He was the_younger_brother of fellow_Bowery_Boy_Leo_Gorcey .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Gorcey'), (13, '('), (14, 'February'), (23, '6'), (24, ','), (26, '1921'), (31, '–'), (33, 'October'), (41, '23'), (43, ','), (45, '1984'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'portraying'), (99, '"'), (100, 'Pee'), (104, 'Wee'), (107, '"'), (109, 'in'), (112, 'Monogram'), (121, 'Pictures'), (129, '\''), (131, 'East'), (136, 'Side'), (141, 'Kids'), (146, 'series'), (152, ','), (154, 'and'), (158, '"'), (159, 'Chuck'), (164, '"'), (166, 'in'), (169, 'its'), (173, 'offshoot'), (182, 'The'), (186, 'Bowery'), (193, 'Boys'), (197, '.'), (199, 'He'), (202, 'was'), (206, 'the'), (210, 'younger'), (218, 'brother'), (226, 'of'), (229, 'fellow'), (236, 'Bowery'), (243, 'Boy'), (247, 'Leo'), (251, 'Gorcey'), (257, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Gorcey',0, 12), ('February 6, 1921',14, 30), ('October 23, 1984',33, 49), ('an American actor',55, 72), ('best known',73, 83), ('Pee Wee',100, 107), ('Monogram Pictures',112, 129), ('\' East Side Kids series',129, 152), ('its offshoot',169, 181), ('The Bowery Boys',182, 197), ('the younger brother',206, 225), ('fellow Bowery Boy Leo Gorcey',229, 257)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', '``', 'NNP', 'NNP', '\'\'', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'NNP', 'NN', ',', 'CC', '``', 'NNP', '\'\'', 'IN', 'PRP$', 'NN', 'DT', 'NNP', 'NNPS', '.', 'PRP', 'VBD', 'DT', 'JJR', 'NN', 'IN', 'JJ', 'NNP', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Gorcey'), (13, '('), (14, 'February'), (23, '6'), (24, ','), (26, '1921'), (31, '–'), (33, 'October'), (41, '23'), (43, ','), (45, '1984'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'portraying'), (99, '"'), (100, 'Pee'), (104, 'Wee'), (107, '"'), (109, 'in'), (112, 'Monogram'), (121, 'Pictures'), (129, "'"), (131, 'East'), (136, 'Side'), (141, 'Kids'), (146, 'series'), (152, ','), (154, 'and'), (158, '"'), (159, 'Chuck'), (164, '"'), (166, 'in'), (169, 'its'), (173, 'offshoot'), (182, 'The'), (186, 'Bowery'), (193, 'Boys'), (197, '.'), (199, 'He'), (202, 'was'), (206, 'the'), (210, 'younger'), (218, 'brother'), (226, 'of'), (229, 'fellow'), (236, 'Bowery'), (243, 'Boy'), (247, 'Leo'), (251, 'Gorcey'), (257, '.')])</spacy_tokens>
+<spacy_chunks>[('David Gorcey', 0, 12), ('February 6, 1921', 14, 30), ('October 23, 1984', 33, 49), ('an American actor', 55, 72), ('"Pee Wee', 99, 107), ("Monogram Pictures' East Side Kids series", 112, 152), ('"Chuck', 158, 164), ('its offshoot', 169, 181), ('The Bowery Boys', 182, 197), ('the younger brother', 206, 225), ('fellow Bowery Boy Leo Gorcey', 229, 257)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', '``', 'NNP', 'NNP', "''", 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'NNP', 'NN', ',', 'CC', '``', 'NNP', "''", 'IN', 'PRP$', 'NN', 'DT', 'NNP', 'NNPS', '.', 'PRP', 'VBD', 'DT', 'JJR', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

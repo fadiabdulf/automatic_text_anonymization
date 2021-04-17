@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ann May</title>
+<link/>https://en.wikipedia.org/wiki/Ann_May
+<annotated>0</annotated>
+<originalabstract>Ann May (1901 – July 26, 1985) was a silent film star who made motion pictures from (1919–1925). Her given name was Anna Max and she was born in Cincinnati, Ohio.  In appearance she was compared to Dorothy Gish, with her short fluffy hair and eyes which sparkled.</originalabstract>
+<abstract>Ann_May ( 1901 – July_26_,_1985 ) was a_silent_film_star who made motion_pictures from ( 1919 – 1925 ) . Her_given_name was Anna_Max and she was_born in Cincinnati , Ohio . In appearance she was_compared to Dorothy_Gish , with her_short_fluffy_hair_and_eyes which sparkled .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ann'), (4, 'May'), (8, '('), (9, '1901'), (14, '–'), (16, 'July'), (21, '26'), (23, ','), (25, '1985'), (29, ')'), (31, 'was'), (35, 'a'), (37, 'silent'), (44, 'film'), (49, 'star'), (54, 'who'), (58, 'made'), (63, 'motion'), (70, 'pictures'), (79, 'from'), (84, '('), (85, '1919'), (89, '–'), (90, '1925'), (94, ')'), (95, '.'), (97, 'Her'), (101, 'given'), (107, 'name'), (112, 'was'), (116, 'Anna'), (121, 'Max'), (125, 'and'), (129, 'she'), (133, 'was'), (137, 'born'), (142, 'in'), (145, 'Cincinnati'), (155, ','), (157, 'Ohio'), (161, '.'), (164, 'In'), (167, 'appearance'), (178, 'she'), (182, 'was'), (186, 'compared'), (195, 'to'), (198, 'Dorothy'), (206, 'Gish'), (210, ','), (212, 'with'), (217, 'her'), (221, 'short'), (227, 'fluffy'), (234, 'hair'), (239, 'and'), (243, 'eyes'), (248, 'which'), (254, 'sparkled'), (262, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ann May',0, 7), ('July 26, 1985',16, 29), ('a silent film star',35, 53), ('motion pictures',63, 78), ('Her given name',97, 111), ('Anna Max',116, 124), ('was born',133, 141), ('was compared',182, 194), ('Dorothy Gish',198, 210), ('her short fluffy hair and eyes',217, 247)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'NN', 'NNS', 'IN', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'PRP$', 'VBN', 'NN', 'VBD', 'NNP', 'NNP', 'CC', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'IN', 'NN', 'PRP', 'VBD', 'VBN', 'TO', 'NNP', 'NNP', ',', 'IN', 'PRP$', 'JJ', 'JJ', 'NN', 'CC', 'NNS', 'WDT', 'VBD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ann'), (4, 'May'), (8, '('), (9, '1901'), (14, '–'), (16, 'July'), (21, '26'), (23, ','), (25, '1985'), (29, ')'), (31, 'was'), (35, 'a'), (37, 'silent'), (44, 'film'), (49, 'star'), (54, 'who'), (58, 'made'), (63, 'motion'), (70, 'pictures'), (79, 'from'), (84, '('), (85, '1919–1925'), (94, ')'), (95, '.'), (97, 'Her'), (101, 'given'), (107, 'name'), (112, 'was'), (116, 'Anna'), (121, 'Max'), (125, 'and'), (129, 'she'), (133, 'was'), (137, 'born'), (142, 'in'), (145, 'Cincinnati'), (155, ','), (157, 'Ohio'), (161, '.'), (164, 'In'), (167, 'appearance'), (178, 'she'), (182, 'was'), (186, 'compared'), (195, 'to'), (198, 'Dorothy'), (206, 'Gish'), (210, ','), (212, 'with'), (217, 'her'), (221, 'short'), (227, 'fluffy'), (234, 'hair'), (239, 'and'), (243, 'eyes'), (248, 'which'), (254, 'sparkled'), (262, '.')])</spacy_tokens>
+<spacy_chunks>[('Ann May', 0, 7), ('July 26, 1985', 16, 29), ('a silent film star', 35, 53), ('motion pictures', 63, 78), ('Her given name', 97, 111), ('Anna Max', 116, 124), ('Cincinnati, Ohio', 145, 161), ('appearance', 167, 177), ('Dorothy Gish', 198, 210), ('her short fluffy hair', 217, 238)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'NN', 'NNS', 'IN', '-LRB-', 'CD', '-RRB-', '.', 'PRP$', 'JJ', 'NN', 'VBD', 'NNP', 'NNP', 'CC', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'IN', 'NN', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'IN', 'PRP$', 'JJ', 'JJ', 'NN', 'CC', 'NNS', 'WDT', 'VBD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

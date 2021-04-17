@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles K. French</title>
+<link/>https://en.wikipedia.org/wiki/Charles_K._French
+<annotated>0</annotated>
+<originalabstract>Charles K. French (born Charles Ekrauss French (or Charles E. Krauss); January 17, 1860 – August 2, 1952) was an American film actor, screenwriter and director who appeared in more than 240 films between 1909 and 1945.
+French was born in Columbus, Ohio, and graduated from Columbus High School. He married Isabelle Gurton.</originalabstract>
+<abstract>Charles_K._French ( born Charles_Ekrauss_French ( or_Charles_E._Krauss ) ; January_17_,_1860 – August_2_,_1952 ) was an_American_film_actor , screenwriter and director who appeared in more_than_240_films between 1909_and_1945 . French was_born in Columbus , Ohio , and graduated from Columbus_High_School . He married Isabelle_Gurton .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'K.'), (11, 'French'), (18, '('), (19, 'born'), (24, 'Charles'), (32, 'Ekrauss'), (40, 'French'), (47, '('), (48, 'or'), (51, 'Charles'), (59, 'E.'), (62, 'Krauss'), (68, ')'), (69, ';'), (71, 'January'), (79, '17'), (81, ','), (83, '1860'), (88, '–'), (90, 'August'), (97, '2'), (98, ','), (100, '1952'), (104, ')'), (106, 'was'), (110, 'an'), (113, 'American'), (122, 'film'), (127, 'actor'), (132, ','), (134, 'screenwriter'), (147, 'and'), (151, 'director'), (160, 'who'), (164, 'appeared'), (173, 'in'), (176, 'more'), (181, 'than'), (186, '240'), (190, 'films'), (196, 'between'), (204, '1909'), (209, 'and'), (213, '1945'), (217, '.'), (219, 'French'), (226, 'was'), (230, 'born'), (235, 'in'), (238, 'Columbus'), (246, ','), (248, 'Ohio'), (252, ','), (254, 'and'), (258, 'graduated'), (268, 'from'), (273, 'Columbus'), (282, 'High'), (287, 'School'), (293, '.'), (295, 'He'), (298, 'married'), (306, 'Isabelle'), (315, 'Gurton'), (321, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles K. French',0, 17), ('Charles Ekrauss French',24, 46), ('or Charles E. Krauss',48, 68), ('January 17, 1860',71, 87), ('August 2, 1952',90, 104), ('an American film actor',110, 132), ('more than 240 films',176, 195), ('1909 and 1945',204, 217), ('was born',226, 234), ('Columbus High School',273, 293), ('Isabelle Gurton',306, 321)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CC', 'NNP', 'NNP', 'NNP', '-RRB-', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'K.'), (11, 'French'), (18, '('), (19, 'born'), (24, 'Charles'), (32, 'Ekrauss'), (40, 'French'), (47, '('), (48, 'or'), (51, 'Charles'), (59, 'E.'), (62, 'Krauss'), (68, ')'), (69, ';'), (71, 'January'), (79, '17'), (81, ','), (83, '1860'), (88, '–'), (90, 'August'), (97, '2'), (98, ','), (100, '1952'), (104, ')'), (106, 'was'), (110, 'an'), (113, 'American'), (122, 'film'), (127, 'actor'), (132, ','), (134, 'screenwriter'), (147, 'and'), (151, 'director'), (160, 'who'), (164, 'appeared'), (173, 'in'), (176, 'more'), (181, 'than'), (186, '240'), (190, 'films'), (196, 'between'), (204, '1909'), (209, 'and'), (213, '1945'), (217, '.'), (219, 'French'), (226, 'was'), (230, 'born'), (235, 'in'), (238, 'Columbus'), (246, ','), (248, 'Ohio'), (252, ','), (254, 'and'), (258, 'graduated'), (268, 'from'), (273, 'Columbus'), (282, 'High'), (287, 'School'), (293, '.'), (295, 'He'), (298, 'married'), (306, 'Isabelle'), (315, 'Gurton'), (321, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles K. French', 0, 17), ('born Charles Ekrauss French', 19, 46), ('Charles E. Krauss', 51, 68), ('January 17, 1860', 71, 87), ('August 2, 1952', 90, 104), ('an American film actor', 110, 132), ('screenwriter', 134, 146), ('director', 151, 159), ('more than 240 films', 176, 195), ('Columbus, Ohio', 238, 252), ('Columbus High School', 273, 293), ('Isabelle Gurton', 306, 321)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CC', 'NNP', 'NNP', 'NNP', '-RRB-', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

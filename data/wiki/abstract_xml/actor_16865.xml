@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lillian Kemble-Cooper</title>
+<link/>https://en.wikipedia.org/wiki/Lillian_Kemble-Cooper
+<annotated>0</annotated>
+<originalabstract>Lillian Kemble-Cooper (March 21, 1892 in London, England – May 4, 1977 in Los Angeles, USA) was an English-born actress, who after emigrating to the US had a successful career on Broadway and in Hollywood film.</originalabstract>
+<abstract>Lillian_Kemble-Cooper ( March_21_,_1892 in London , England – May_4_,_1977 in Los_Angeles , USA ) was an_English-born_actress , who after emigrating to the_US had a_successful_career on Broadway and in Hollywood_film .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lillian'), (8, 'Kemble-Cooper'), (22, '('), (23, 'March'), (29, '21'), (31, ','), (33, '1892'), (38, 'in'), (41, 'London'), (47, ','), (49, 'England'), (57, '–'), (59, 'May'), (63, '4'), (64, ','), (66, '1977'), (71, 'in'), (74, 'Los'), (78, 'Angeles'), (85, ','), (87, 'USA'), (90, ')'), (92, 'was'), (96, 'an'), (99, 'English-born'), (112, 'actress'), (119, ','), (121, 'who'), (125, 'after'), (131, 'emigrating'), (142, 'to'), (145, 'the'), (149, 'US'), (152, 'had'), (156, 'a'), (158, 'successful'), (169, 'career'), (176, 'on'), (179, 'Broadway'), (188, 'and'), (192, 'in'), (195, 'Hollywood'), (205, 'film'), (209, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lillian Kemble-Cooper',0, 21), ('March 21, 1892',23, 37), ('May 4, 1977',59, 70), ('Los Angeles',74, 85), ('an English-born actress',96, 119), ('the US',145, 151), ('a successful career',156, 175), ('Hollywood film',195, 209)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'IN', 'VBG', 'TO', 'DT', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'CC', 'IN', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lillian'), (8, 'Kemble'), (14, '-'), (15, 'Cooper'), (22, '('), (23, 'March'), (29, '21'), (31, ','), (33, '1892'), (38, 'in'), (41, 'London'), (47, ','), (49, 'England'), (57, '–'), (59, 'May'), (63, '4'), (64, ','), (66, '1977'), (71, 'in'), (74, 'Los'), (78, 'Angeles'), (85, ','), (87, 'USA'), (90, ')'), (92, 'was'), (96, 'an'), (99, 'English'), (106, '-'), (107, 'born'), (112, 'actress'), (119, ','), (121, 'who'), (125, 'after'), (131, 'emigrating'), (142, 'to'), (145, 'the'), (149, 'US'), (152, 'had'), (156, 'a'), (158, 'successful'), (169, 'career'), (176, 'on'), (179, 'Broadway'), (188, 'and'), (192, 'in'), (195, 'Hollywood'), (205, 'film'), (209, '.')])</spacy_tokens>
+<spacy_chunks>[('Lillian Kemble-Cooper', 0, 21), ('March 21, 1892', 23, 37), ('London', 41, 47), ('England', 49, 56), ('May 4, 1977', 59, 70), ('Los Angeles', 74, 85), ('an English-born actress', 96, 119), ('the US', 145, 151), ('a successful career', 156, 175), ('Broadway', 179, 187), ('Hollywood film', 195, 209)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '.', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', ',', 'WP', 'IN', 'VBG', 'IN', 'DT', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'CC', 'IN', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

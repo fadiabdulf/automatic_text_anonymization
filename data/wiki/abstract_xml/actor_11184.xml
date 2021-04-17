@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peggie Castle</title>
+<link/>https://en.wikipedia.org/wiki/Peggie_Castle
+<annotated>0</annotated>
+<originalabstract>Peggie Castle (December 22, 1927 – August 11, 1973) was an American actress who specialized in playing the "other woman" in B-movies. She was also billed under the names Peggy Castle and Peggie Call.</originalabstract>
+<abstract>Peggie_Castle ( December_22_,_1927 – August_11_,_1973 ) was an_American_actress who specialized in playing the_"_other_woman " in B-movies . She was_also_billed under the_names_Peggy_Castle and Peggie_Call .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peggie'), (7, 'Castle'), (14, '('), (15, 'December'), (24, '22'), (26, ','), (28, '1927'), (33, '–'), (35, 'August'), (42, '11'), (44, ','), (46, '1973'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actress'), (76, 'who'), (80, 'specialized'), (92, 'in'), (95, 'playing'), (103, 'the'), (107, '"'), (108, 'other'), (114, 'woman'), (119, '"'), (121, 'in'), (124, 'B-movies'), (132, '.'), (134, 'She'), (138, 'was'), (142, 'also'), (147, 'billed'), (154, 'under'), (160, 'the'), (164, 'names'), (170, 'Peggy'), (176, 'Castle'), (183, 'and'), (187, 'Peggie'), (194, 'Call'), (198, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peggie Castle',0, 13), ('December 22, 1927',15, 32), ('August 11, 1973',35, 50), ('an American actress',56, 75), ('the "other woman',103, 119), ('was also billed',138, 153), ('the names Peggy Castle',160, 182), ('Peggie Call',187, 198)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'VBG', 'DT', '``', 'JJ', 'NN', '\'\'', 'IN', 'NNS', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'DT', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peggie'), (7, 'Castle'), (14, '('), (15, 'December'), (24, '22'), (26, ','), (28, '1927'), (33, '–'), (35, 'August'), (42, '11'), (44, ','), (46, '1973'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actress'), (76, 'who'), (80, 'specialized'), (92, 'in'), (95, 'playing'), (103, 'the'), (107, '"'), (108, 'other'), (114, 'woman'), (119, '"'), (121, 'in'), (124, 'B'), (125, '-'), (126, 'movies'), (132, '.'), (134, 'She'), (138, 'was'), (142, 'also'), (147, 'billed'), (154, 'under'), (160, 'the'), (164, 'names'), (170, 'Peggy'), (176, 'Castle'), (183, 'and'), (187, 'Peggie'), (194, 'Call'), (198, '.')])</spacy_tokens>
+<spacy_chunks>[('Peggie Castle', 0, 13), ('(December', 14, 23), ('December 22, 1927', 15, 32), ('August 11, 1973', 35, 50), ('an American actress', 56, 75), ('the "other woman', 103, 119), ('B-movies', 124, 132), ('the names', 160, 169), ('Peggy Castle', 170, 182), ('Peggie Call', 187, 198)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'VBG', 'DT', '``', 'JJ', 'NN', "''", 'IN', 'NN', 'HYPH', 'NNS', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'DT', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jill Larson</title>
+<link/>https://en.wikipedia.org/wiki/Jill_Larson
+<annotated>0</annotated>
+<originalabstract>Jill Larson (born October 7, 1947) is an American actress. She is best known for her role as Opal Cortlandt on the ABC daytime soap opera, All My Children.</originalabstract>
+<abstract>Jill_Larson ( born October_7_,_1947 ) is an_American_actress . She is_best_known for her_role as Opal_Cortlandt on the_ABC_daytime_soap_opera , All_My_Children .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jill'), (5, 'Larson'), (12, '('), (13, 'born'), (18, 'October'), (26, '7'), (27, ','), (29, '1947'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (57, '.'), (59, 'She'), (63, 'is'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'her'), (85, 'role'), (90, 'as'), (93, 'Opal'), (98, 'Cortlandt'), (108, 'on'), (111, 'the'), (115, 'ABC'), (119, 'daytime'), (127, 'soap'), (132, 'opera'), (137, ','), (139, 'All'), (143, 'My'), (146, 'Children'), (154, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jill Larson',0, 11), ('October 7, 1947',18, 33), ('an American actress',38, 57), ('is best known',63, 76), ('her role',81, 89), ('Opal Cortlandt',93, 107), ('the ABC daytime soap opera',111, 137), ('All My Children',139, 154)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NN', ',', 'DT', 'PRP$', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jill'), (5, 'Larson'), (12, '('), (13, 'born'), (18, 'October'), (26, '7'), (27, ','), (29, '1947'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (57, '.'), (59, 'She'), (63, 'is'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'her'), (85, 'role'), (90, 'as'), (93, 'Opal'), (98, 'Cortlandt'), (108, 'on'), (111, 'the'), (115, 'ABC'), (119, 'daytime'), (127, 'soap'), (132, 'opera'), (137, ','), (139, 'All'), (143, 'My'), (146, 'Children'), (154, '.')])</spacy_tokens>
+<spacy_chunks>[('Jill Larson', 0, 11), ('October 7, 1947', 18, 33), ('an American actress', 38, 57), ('her role', 81, 89), ('Opal Cortlandt', 93, 107), ('the ABC daytime soap opera', 111, 137), ('All My Children', 139, 154)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NN', ',', 'PDT', 'PRP$', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

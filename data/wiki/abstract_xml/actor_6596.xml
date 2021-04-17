@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arthur Thalasso</title>
+<link/>https://en.wikipedia.org/wiki/Arthur_Thalasso
+<annotated>0</annotated>
+<originalabstract>Arthur Thalasso (November 26, 1883 – February 13, 1954) was an American film actor.  He appeared in 71 films between 1919 and 1945. He was born in Cincinnati, Ohio, and died in Los Angeles, California.</originalabstract>
+<abstract>Arthur_Thalasso ( November_26_,_1883 – February_13_,_1954 ) was an_American_film_actor . He appeared in 71_films between 1919_and_1945 . He was_born in Cincinnati , Ohio , and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthur'), (7, 'Thalasso'), (16, '('), (17, 'November'), (26, '26'), (28, ','), (30, '1883'), (35, '–'), (37, 'February'), (46, '13'), (48, ','), (50, '1954'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'film'), (77, 'actor'), (82, '.'), (85, 'He'), (88, 'appeared'), (97, 'in'), (100, '71'), (103, 'films'), (109, 'between'), (117, '1919'), (122, 'and'), (126, '1945'), (130, '.'), (132, 'He'), (135, 'was'), (139, 'born'), (144, 'in'), (147, 'Cincinnati'), (157, ','), (159, 'Ohio'), (163, ','), (165, 'and'), (169, 'died'), (174, 'in'), (177, 'Los'), (181, 'Angeles'), (188, ','), (190, 'California'), (200, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthur Thalasso',0, 15), ('November 26, 1883',17, 34), ('February 13, 1954',37, 54), ('an American film actor',60, 82), ('71 films',100, 108), ('1919 and 1945',117, 130), ('was born',135, 143), ('Los Angeles',177, 188)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthur'), (7, 'Thalasso'), (16, '('), (17, 'November'), (26, '26'), (28, ','), (30, '1883'), (35, '–'), (37, 'February'), (46, '13'), (48, ','), (50, '1954'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'film'), (77, 'actor'), (82, '.'), (85, 'He'), (88, 'appeared'), (97, 'in'), (100, '71'), (103, 'films'), (109, 'between'), (117, '1919'), (122, 'and'), (126, '1945'), (130, '.'), (132, 'He'), (135, 'was'), (139, 'born'), (144, 'in'), (147, 'Cincinnati'), (157, ','), (159, 'Ohio'), (163, ','), (165, 'and'), (169, 'died'), (174, 'in'), (177, 'Los'), (181, 'Angeles'), (188, ','), (190, 'California'), (200, '.')])</spacy_tokens>
+<spacy_chunks>[('Arthur Thalasso', 0, 15), ('(November', 16, 25), ('November 26, 1883', 17, 34), ('February 13, 1954', 37, 54), ('an American film actor', 60, 82), ('71 films', 100, 108), ('Cincinnati', 147, 157), ('Los Angeles', 177, 188), ('California', 190, 200)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

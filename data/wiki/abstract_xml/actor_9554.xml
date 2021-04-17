@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bernard Blier</title>
+<link/>https://en.wikipedia.org/wiki/Bernard_Blier
+<annotated>0</annotated>
+<originalabstract>Bernard Blier (11 January 1916 – 29 March 1989) was a French character actor. 
+He was born in Buenos Aires, Argentina, where his father, a researcher at the Pasteur Institute, was posted at the time.</originalabstract>
+<abstract>Bernard_Blier ( 11_January_1916 – 29_March_1989 ) was a_French_character_actor . He was_born in Buenos_Aires , Argentina , where his_father , a_researcher at the_Pasteur_Institute , was_posted at the_time .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bernard'), (8, 'Blier'), (14, '('), (15, '11'), (18, 'January'), (26, '1916'), (31, '–'), (33, '29'), (36, 'March'), (42, '1989'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French'), (61, 'character'), (71, 'actor'), (76, '.'), (79, 'He'), (82, 'was'), (86, 'born'), (91, 'in'), (94, 'Buenos'), (101, 'Aires'), (106, ','), (108, 'Argentina'), (117, ','), (119, 'where'), (125, 'his'), (129, 'father'), (135, ','), (137, 'a'), (139, 'researcher'), (150, 'at'), (153, 'the'), (157, 'Pasteur'), (165, 'Institute'), (174, ','), (176, 'was'), (180, 'posted'), (187, 'at'), (190, 'the'), (194, 'time'), (198, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bernard Blier',0, 13), ('11 January 1916',15, 30), ('29 March 1989',33, 46), ('a French character actor',52, 76), ('was born',82, 90), ('Buenos Aires',94, 106), ('his father',125, 135), ('a researcher',137, 149), ('the Pasteur Institute',153, 174), ('was posted',176, 186), ('the time',190, 198)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'WRB', 'PRP$', 'NN', ',', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', ',', 'VBD', 'VBN', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bernard'), (8, 'Blier'), (14, '('), (15, '11'), (18, 'January'), (26, '1916'), (31, '–'), (33, '29'), (36, 'March'), (42, '1989'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French'), (61, 'character'), (71, 'actor'), (76, '.'), (79, 'He'), (82, 'was'), (86, 'born'), (91, 'in'), (94, 'Buenos'), (101, 'Aires'), (106, ','), (108, 'Argentina'), (117, ','), (119, 'where'), (125, 'his'), (129, 'father'), (135, ','), (137, 'a'), (139, 'researcher'), (150, 'at'), (153, 'the'), (157, 'Pasteur'), (165, 'Institute'), (174, ','), (176, 'was'), (180, 'posted'), (187, 'at'), (190, 'the'), (194, 'time'), (198, '.')])</spacy_tokens>
+<spacy_chunks>[('Bernard Blier', 0, 13), ('(11 January', 14, 25), ('11 January 1916', 15, 30), ('29 March 1989', 33, 46), ('a French character actor', 52, 76), ('Buenos Aires', 94, 106), ('Argentina', 108, 117), ('his father', 125, 135), ('a researcher', 137, 149), ('the Pasteur Institute', 153, 174), ('the time', 190, 198)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'WRB', 'PRP$', 'NN', ',', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', ',', 'VBD', 'VBN', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

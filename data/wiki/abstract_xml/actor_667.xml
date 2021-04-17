@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marc Blucas</title>
+<link/>https://en.wikipedia.org/wiki/Marc_Blucas
+<annotated>0</annotated>
+<originalabstract>Marcus Paul Blucas (born January 11, 1972) is an American actor, known for playing Riley Finn in Buffy the Vampire Slayer, Matthew Donnelly in Necessary Roughness and recently, abolitionist John Hawkes in Underground.  Prior to his acting career, he was known for playing college basketball with the Wake Forest Demon Deacons.</originalabstract>
+<abstract>Marcus_Paul_Blucas ( born January_11_,_1972 ) is an_American_actor , known for playing Riley_Finn in Buffy the_Vampire_Slayer , Matthew_Donnelly in Necessary_Roughness and recently , abolitionist_John_Hawkes in Underground . Prior to his_acting_career , he was_known for playing college_basketball with the Wake Forest_Demon_Deacons .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marcus'), (7, 'Paul'), (12, 'Blucas'), (19, '('), (20, 'born'), (25, 'January'), (33, '11'), (35, ','), (37, '1972'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (63, ','), (65, 'known'), (71, 'for'), (75, 'playing'), (83, 'Riley'), (89, 'Finn'), (94, 'in'), (97, 'Buffy'), (103, 'the'), (107, 'Vampire'), (115, 'Slayer'), (121, ','), (123, 'Matthew'), (131, 'Donnelly'), (140, 'in'), (143, 'Necessary'), (153, 'Roughness'), (163, 'and'), (167, 'recently'), (175, ','), (177, 'abolitionist'), (190, 'John'), (195, 'Hawkes'), (202, 'in'), (205, 'Underground'), (216, '.'), (219, 'Prior'), (225, 'to'), (228, 'his'), (232, 'acting'), (239, 'career'), (245, ','), (247, 'he'), (250, 'was'), (254, 'known'), (260, 'for'), (264, 'playing'), (272, 'college'), (280, 'basketball'), (291, 'with'), (296, 'the'), (300, 'Wake'), (305, 'Forest'), (312, 'Demon'), (318, 'Deacons'), (325, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marcus Paul Blucas',0, 18), ('January 11, 1972',25, 41), ('an American actor',46, 63), ('Riley Finn',83, 93), ('the Vampire Slayer',103, 121), ('Matthew Donnelly',123, 139), ('Necessary Roughness',143, 162), ('abolitionist John Hawkes',177, 201), ('his acting career',228, 245), ('was known',250, 259), ('college basketball',272, 290), ('Forest Demon Deacons',305, 325)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'DT', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'RB', ',', 'NN', 'NNP', 'NNP', 'IN', 'NNP', '.', 'RB', 'TO', 'PRP$', 'VBG', 'NN', ',', 'PRP', 'VBD', 'VBN', 'IN', 'VBG', 'NN', 'NN', 'IN', 'DT', 'VBP', 'NN', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marcus'), (7, 'Paul'), (12, 'Blucas'), (19, '('), (20, 'born'), (25, 'January'), (33, '11'), (35, ','), (37, '1972'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (63, ','), (65, 'known'), (71, 'for'), (75, 'playing'), (83, 'Riley'), (89, 'Finn'), (94, 'in'), (97, 'Buffy'), (103, 'the'), (107, 'Vampire'), (115, 'Slayer'), (121, ','), (123, 'Matthew'), (131, 'Donnelly'), (140, 'in'), (143, 'Necessary'), (153, 'Roughness'), (163, 'and'), (167, 'recently'), (175, ','), (177, 'abolitionist'), (190, 'John'), (195, 'Hawkes'), (202, 'in'), (205, 'Underground'), (216, '.'), (219, 'Prior'), (225, 'to'), (228, 'his'), (232, 'acting'), (239, 'career'), (245, ','), (247, 'he'), (250, 'was'), (254, 'known'), (260, 'for'), (264, 'playing'), (272, 'college'), (280, 'basketball'), (291, 'with'), (296, 'the'), (300, 'Wake'), (305, 'Forest'), (312, 'Demon'), (318, 'Deacons'), (325, '.')])</spacy_tokens>
+<spacy_chunks>[('Marcus Paul Blucas', 0, 18), ('January 11, 1972', 25, 41), ('an American actor', 46, 63), ('Riley Finn', 83, 93), ('Buffy the Vampire Slayer', 97, 121), ('Matthew Donnelly', 123, 139), ('Necessary Roughness', 143, 162), ('abolitionist John Hawkes', 177, 201), ('Underground', 205, 216), ('his acting career', 228, 245), ('college basketball', 272, 290), ('the Wake Forest Demon Deacons', 296, 325)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'DT', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'RB', ',', 'NN', 'NNP', 'NNP', 'IN', 'NNP', '.', 'RB', 'IN', 'PRP$', 'VBG', 'NN', ',', 'PRP', 'VBD', 'VBN', 'IN', 'VBG', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

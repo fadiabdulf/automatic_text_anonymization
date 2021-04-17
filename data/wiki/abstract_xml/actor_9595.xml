@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>André Brulé</title>
+<link/>https://en.wikipedia.org/wiki/Andr%C3%A9_Brul%C3%A9
+<annotated>0</annotated>
+<originalabstract>André Brulé ([26 September 1879 – 14 February 1953), born André Gresely, was a French theatre and film actor. He created the character Arsène Lupin for the French stage in 1908.
+He had a relationship with Ghislaine Dommanget, a French comedy actress, with whom he had a son. She later married Louis II, Prince of Monaco.</originalabstract>
+<abstract>André_Brulé ( [_26_September_1879 – 14_February_1953 ) , born André_Gresely , was a_French_theatre_and_film_actor . He created the_character_Arsène_Lupin for the_French_stage in 1908 . He had a_relationship with Ghislaine_Dommanget , a_French_comedy_actress , with whom he had a_son . She later married Louis_II , Prince of Monaco .</abstract>
+<stanford_tokens>OrderedDict([(0, 'André'), (6, 'Brulé'), (12, '('), (13, '['), (14, '26'), (17, 'September'), (27, '1879'), (32, '–'), (34, '14'), (37, 'February'), (46, '1953'), (50, ')'), (51, ','), (53, 'born'), (58, 'André'), (64, 'Gresely'), (71, ','), (73, 'was'), (77, 'a'), (79, 'French'), (86, 'theatre'), (94, 'and'), (98, 'film'), (103, 'actor'), (108, '.'), (110, 'He'), (113, 'created'), (121, 'the'), (125, 'character'), (135, 'Arsène'), (142, 'Lupin'), (148, 'for'), (152, 'the'), (156, 'French'), (163, 'stage'), (169, 'in'), (172, '1908'), (176, '.'), (178, 'He'), (181, 'had'), (185, 'a'), (187, 'relationship'), (200, 'with'), (205, 'Ghislaine'), (215, 'Dommanget'), (224, ','), (226, 'a'), (228, 'French'), (235, 'comedy'), (242, 'actress'), (249, ','), (251, 'with'), (256, 'whom'), (261, 'he'), (264, 'had'), (268, 'a'), (270, 'son'), (273, '.'), (275, 'She'), (279, 'later'), (285, 'married'), (293, 'Louis'), (299, 'II'), (301, ','), (303, 'Prince'), (310, 'of'), (313, 'Monaco'), (319, '.')])</stanford_tokens>
+<opennlp_chunks>[('André Brulé',0, 11), ('[26 September 1879',13, 31), ('14 February 1953',34, 50), ('André Gresely',58, 71), ('a French theatre and film actor',77, 108), ('the character Arsène Lupin',121, 147), ('the French stage',152, 168), ('a relationship',185, 199), ('Ghislaine Dommanget',205, 224), ('a French comedy actress',226, 249), ('a son',268, 273), ('Louis II',293, 301)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', '-LRB-', 'CD', 'NNP', 'NNS', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'NN', ',', 'IN', 'WP', 'PRP', 'VBD', 'DT', 'NN', '.', 'PRP', 'RB', 'VBD', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'André'), (6, 'Brulé'), (12, '('), (13, '['), (14, '26'), (17, 'September'), (27, '1879'), (32, '–'), (34, '14'), (37, 'February'), (46, '1953'), (50, ')'), (51, ','), (53, 'born'), (58, 'André'), (64, 'Gresely'), (71, ','), (73, 'was'), (77, 'a'), (79, 'French'), (86, 'theatre'), (94, 'and'), (98, 'film'), (103, 'actor'), (108, '.'), (110, 'He'), (113, 'created'), (121, 'the'), (125, 'character'), (135, 'Arsène'), (142, 'Lupin'), (148, 'for'), (152, 'the'), (156, 'French'), (163, 'stage'), (169, 'in'), (172, '1908'), (176, '.'), (178, 'He'), (181, 'had'), (185, 'a'), (187, 'relationship'), (200, 'with'), (205, 'Ghislaine'), (215, 'Dommanget'), (224, ','), (226, 'a'), (228, 'French'), (235, 'comedy'), (242, 'actress'), (249, ','), (251, 'with'), (256, 'whom'), (261, 'he'), (264, 'had'), (268, 'a'), (270, 'son'), (273, '.'), (275, 'She'), (279, 'later'), (285, 'married'), (293, 'Louis'), (299, 'II'), (301, ','), (303, 'Prince'), (310, 'of'), (313, 'Monaco'), (319, '.')])</spacy_tokens>
+<spacy_chunks>[('André Brulé', 0, 11), ('([26 September', 12, 26), ('26 September 1879', 14, 31), ('14 February 1953', 34, 50), ('André Gresely', 58, 71), ('a French theatre and film actor', 77, 108), ('the character', 121, 134), ('Arsène Lupin', 135, 147), ('the French stage', 152, 168), ('a relationship', 185, 199), ('Ghislaine Dommanget', 205, 224), ('a French comedy actress', 226, 249), ('Louis II, Prince of Monaco', 293, 319)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'NN', ',', 'IN', 'WP', 'PRP', 'VBD', 'DT', 'NN', '.', 'PRP', 'RB', 'VBD', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

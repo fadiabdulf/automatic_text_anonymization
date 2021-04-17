@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>R. D. Robb</title>
+<link/>https://en.wikipedia.org/wiki/R._D._Robb
+<annotated>0</annotated>
+<originalabstract>R. D. Robb (born March 31, 1972) is an American former actor who appeared as Schwartz in the 1983 film A Christmas Story. He was nominated for an Edda Award in 2005. In 2001 he co-wrote and directed the film Don's Plum.</originalabstract>
+<abstract>R._D. Robb ( born March_31_,_1972 ) is an_American_former_actor who appeared as Schwartz in the_1983_film A_Christmas_Story . He was_nominated for an_Edda_Award in 2005 . In 2001 he co-wrote_and_directed the_film Don 's_Plum .</abstract>
+<stanford_tokens>OrderedDict([(0, 'R.'), (3, 'D.'), (6, 'Robb'), (11, '('), (12, 'born'), (17, 'March'), (23, '31'), (25, ','), (27, '1972'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'former'), (55, 'actor'), (61, 'who'), (65, 'appeared'), (74, 'as'), (77, 'Schwartz'), (86, 'in'), (89, 'the'), (93, '1983'), (98, 'film'), (103, 'A'), (105, 'Christmas'), (115, 'Story'), (120, '.'), (122, 'He'), (125, 'was'), (129, 'nominated'), (139, 'for'), (143, 'an'), (146, 'Edda'), (151, 'Award'), (157, 'in'), (160, '2005'), (164, '.'), (166, 'In'), (169, '2001'), (174, 'he'), (177, 'co-wrote'), (186, 'and'), (190, 'directed'), (199, 'the'), (203, 'film'), (208, 'Don'), (211, '\'s'), (214, 'Plum'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('R. D.',0, 5), ('March 31, 1972',17, 31), ('an American former actor',36, 60), ('the 1983 film',89, 102), ('A Christmas Story',103, 120), ('was nominated',125, 138), ('an Edda Award',143, 156), ('co-wrote and directed',177, 198), ('the film',199, 207), ('\'s Plum',211, 218)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'CD', '.', 'IN', 'CD', 'PRP', 'VBD', 'CC', 'VBD', 'DT', 'NN', 'NNP', 'POS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'R.'), (3, 'D.'), (6, 'Robb'), (11, '('), (12, 'born'), (17, 'March'), (23, '31'), (25, ','), (27, '1972'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'former'), (55, 'actor'), (61, 'who'), (65, 'appeared'), (74, 'as'), (77, 'Schwartz'), (86, 'in'), (89, 'the'), (93, '1983'), (98, 'film'), (103, 'A'), (105, 'Christmas'), (115, 'Story'), (120, '.'), (122, 'He'), (125, 'was'), (129, 'nominated'), (139, 'for'), (143, 'an'), (146, 'Edda'), (151, 'Award'), (157, 'in'), (160, '2005'), (164, '.'), (166, 'In'), (169, '2001'), (174, 'he'), (177, 'co'), (179, '-'), (180, 'wrote'), (186, 'and'), (190, 'directed'), (199, 'the'), (203, 'film'), (208, 'Don'), (211, "'s"), (214, 'Plum'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('R. D. Robb', 0, 10), ('March 31, 1972', 17, 31), ('an American former actor', 36, 60), ('Schwartz', 77, 85), ('the 1983 film', 89, 102), ('A Christmas Story', 103, 120), ('an Edda Award', 143, 156), ('the film', 199, 207), ("Don's Plum", 208, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', '.', 'IN', 'CD', 'PRP', 'VBD', 'VBD', 'VBD', 'CC', 'VBD', 'DT', 'NN', 'NNP', 'POS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

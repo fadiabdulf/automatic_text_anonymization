@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peggy Rea</title>
+<link/>https://en.wikipedia.org/wiki/Peggy_Rea
+<annotated>0</annotated>
+<originalabstract>Peggy Jane Rea (March 31, 1921 – February 5, 2011) was a Los Angeles-born American actress known for her many roles in television, often playing matronly characters.</originalabstract>
+<abstract>Peggy_Jane_Rea ( March_31_,_1921 – February_5_,_2011 ) was a_Los_Angeles-born_American_actress known for her_many_roles in television , often playing matronly_characters .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peggy'), (6, 'Jane'), (11, 'Rea'), (15, '('), (16, 'March'), (22, '31'), (24, ','), (26, '1921'), (31, '–'), (33, 'February'), (42, '5'), (43, ','), (45, '2011'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'Los'), (61, 'Angeles-born'), (74, 'American'), (83, 'actress'), (91, 'known'), (97, 'for'), (101, 'her'), (105, 'many'), (110, 'roles'), (116, 'in'), (119, 'television'), (129, ','), (131, 'often'), (137, 'playing'), (145, 'matronly'), (154, 'characters'), (164, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peggy Jane Rea',0, 14), ('March 31, 1921',16, 30), ('February 5, 2011',33, 49), ('a Los Angeles-born American actress',55, 90), ('her many roles',101, 115), ('matronly characters',145, 164)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'NN', ',', 'RB', 'VBG', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peggy'), (6, 'Jane'), (11, 'Rea'), (15, '('), (16, 'March'), (22, '31'), (24, ','), (26, '1921'), (31, '–'), (33, 'February'), (42, '5'), (43, ','), (45, '2011'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'Los'), (61, 'Angeles'), (68, '-'), (69, 'born'), (74, 'American'), (83, 'actress'), (91, 'known'), (97, 'for'), (101, 'her'), (105, 'many'), (110, 'roles'), (116, 'in'), (119, 'television'), (129, ','), (131, 'often'), (137, 'playing'), (145, 'matronly'), (154, 'characters'), (164, '.')])</spacy_tokens>
+<spacy_chunks>[('Peggy Jane Rea', 0, 14), ('March 31, 1921', 16, 30), ('February 5, 2011', 33, 49), ('a Los Angeles-born American actress', 55, 90), ('her many roles', 101, 115), ('television', 119, 129), ('matronly characters', 145, 164)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'NN', ',', 'RB', 'VBG', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

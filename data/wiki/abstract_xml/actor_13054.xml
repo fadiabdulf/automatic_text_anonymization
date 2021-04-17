@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kidada Jones</title>
+<link/>https://en.wikipedia.org/wiki/Kidada_Jones
+<annotated>0</annotated>
+<originalabstract>Kidada Ann Jones (born March 22, 1974) is an American actress, model, and fashion designer. Jones works as a designer for The Walt Disney Company, where she has a line known as Kidada for Disney Couture. Jones is the daughter of composer Quincy Jones and actress Peggy Lipton.</originalabstract>
+<abstract>Kidada_Ann_Jones ( born March_22_,_1974 ) is an_American_actress , model , and fashion_designer . Jones works as a_designer for The_Walt_Disney_Company , where she has a_line known as Kidada for Disney_Couture . Jones is the_daughter of composer_Quincy_Jones and actress_Peggy_Lipton .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kidada'), (7, 'Ann'), (11, 'Jones'), (17, '('), (18, 'born'), (23, 'March'), (29, '22'), (31, ','), (33, '1974'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, ','), (63, 'model'), (68, ','), (70, 'and'), (74, 'fashion'), (82, 'designer'), (90, '.'), (92, 'Jones'), (98, 'works'), (104, 'as'), (107, 'a'), (109, 'designer'), (118, 'for'), (122, 'The'), (126, 'Walt'), (131, 'Disney'), (138, 'Company'), (145, ','), (147, 'where'), (153, 'she'), (157, 'has'), (161, 'a'), (163, 'line'), (168, 'known'), (174, 'as'), (177, 'Kidada'), (184, 'for'), (188, 'Disney'), (195, 'Couture'), (202, '.'), (204, 'Jones'), (210, 'is'), (213, 'the'), (217, 'daughter'), (226, 'of'), (229, 'composer'), (238, 'Quincy'), (245, 'Jones'), (251, 'and'), (255, 'actress'), (263, 'Peggy'), (269, 'Lipton'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kidada Ann Jones',0, 16), ('March 22, 1974',23, 37), ('an American actress',42, 61), ('fashion designer',74, 90), ('a designer',107, 117), ('The Walt Disney Company',122, 145), ('a line',161, 167), ('Disney Couture',188, 202), ('the daughter',213, 225), ('composer Quincy Jones',229, 250), ('actress Peggy Lipton',255, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'NNP', 'VBZ', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', ',', 'WRB', 'PRP', 'VBZ', 'DT', 'NN', 'VBN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kidada'), (7, 'Ann'), (11, 'Jones'), (17, '('), (18, 'born'), (23, 'March'), (29, '22'), (31, ','), (33, '1974'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, ','), (63, 'model'), (68, ','), (70, 'and'), (74, 'fashion'), (82, 'designer'), (90, '.'), (92, 'Jones'), (98, 'works'), (104, 'as'), (107, 'a'), (109, 'designer'), (118, 'for'), (122, 'The'), (126, 'Walt'), (131, 'Disney'), (138, 'Company'), (145, ','), (147, 'where'), (153, 'she'), (157, 'has'), (161, 'a'), (163, 'line'), (168, 'known'), (174, 'as'), (177, 'Kidada'), (184, 'for'), (188, 'Disney'), (195, 'Couture'), (202, '.'), (204, 'Jones'), (210, 'is'), (213, 'the'), (217, 'daughter'), (226, 'of'), (229, 'composer'), (238, 'Quincy'), (245, 'Jones'), (251, 'and'), (255, 'actress'), (263, 'Peggy'), (269, 'Lipton'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('Kidada Ann Jones', 0, 16), ('March 22, 1974', 23, 37), ('an American actress', 42, 61), ('fashion designer', 74, 90), ('a designer', 107, 117), ('The Walt Disney Company', 122, 145), ('a line', 161, 167), ('Disney Couture', 188, 202), ('the daughter', 213, 225), ('composer Quincy Jones', 229, 250), ('actress Peggy Lipton', 255, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'NNP', 'VBZ', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', ',', 'WRB', 'PRP', 'VBZ', 'DT', 'NN', 'VBN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

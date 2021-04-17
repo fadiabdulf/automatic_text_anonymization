@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eugene O'Brien (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Eugene_O%27Brien_(actor)
+<annotated>0</annotated>
+<originalabstract>Eugene O'Brien (born Louis O'Brien, November 14, 1880 – April 29, 1966) was an American silent film star and stage actor.</originalabstract>
+<abstract>Eugene_O'Brien ( born Louis_O'Brien , November_14 , 1880 – April_29_,_1966 ) was an_American_silent_film_star_and_stage_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eugene'), (7, 'O\'Brien'), (15, '('), (16, 'born'), (21, 'Louis'), (27, 'O\'Brien'), (34, ','), (36, 'November'), (45, '14'), (47, ','), (49, '1880'), (54, '–'), (56, 'April'), (62, '29'), (64, ','), (66, '1966'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'silent'), (95, 'film'), (100, 'star'), (105, 'and'), (109, 'stage'), (115, 'actor'), (120, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eugene O\'Brien',0, 14), ('Louis O\'Brien',21, 34), ('November 14',36, 47), ('April 29, 1966',56, 70), ('an American silent film star and stage actor',76, 120)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eugene'), (7, "O'Brien"), (15, '('), (16, 'born'), (21, 'Louis'), (27, "O'Brien"), (34, ','), (36, 'November'), (45, '14'), (47, ','), (49, '1880'), (54, '–'), (56, 'April'), (62, '29'), (64, ','), (66, '1966'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'silent'), (95, 'film'), (100, 'star'), (105, 'and'), (109, 'stage'), (115, 'actor'), (120, '.')])</spacy_tokens>
+<spacy_chunks>[("Eugene O'Brien", 0, 14), ("Louis O'Brien", 21, 34), ('November 14, 1880', 36, 53), ('April 29, 1966', 56, 70), ('an American silent film star', 76, 104), ('stage actor', 109, 120)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

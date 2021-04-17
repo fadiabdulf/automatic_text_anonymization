@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ad-Rock</title>
+<link/>https://en.wikipedia.org/wiki/Ad-Rock
+<annotated>0</annotated>
+<originalabstract>Adam Keefe Horovitz (born October 31, 1966), better known as Ad-Rock or King Ad-Rock, is an American rapper, guitarist and actor. He is best known as a member of the hip hop group the Beastie Boys. He is married to musician and feminist activist Kathleen Hanna.</originalabstract>
+<abstract>Adam_Keefe_Horovitz ( born October_31_,_1966 ) , better_known as Ad-Rock or King_Ad-Rock , is an_American_rapper , guitarist_and_actor . He is_best_known as a_member of the_hip_hop group the_Beastie_Boys . He is_married to musician_and_feminist_activist_Kathleen_Hanna .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Adam'), (5, 'Keefe'), (11, 'Horovitz'), (20, '('), (21, 'born'), (26, 'October'), (34, '31'), (36, ','), (38, '1966'), (42, ')'), (43, ','), (45, 'better'), (52, 'known'), (58, 'as'), (61, 'Ad-Rock'), (69, 'or'), (72, 'King'), (77, 'Ad-Rock'), (84, ','), (86, 'is'), (89, 'an'), (92, 'American'), (101, 'rapper'), (107, ','), (109, 'guitarist'), (119, 'and'), (123, 'actor'), (128, '.'), (130, 'He'), (133, 'is'), (136, 'best'), (141, 'known'), (147, 'as'), (150, 'a'), (152, 'member'), (159, 'of'), (162, 'the'), (166, 'hip'), (170, 'hop'), (174, 'group'), (180, 'the'), (184, 'Beastie'), (192, 'Boys'), (196, '.'), (198, 'He'), (201, 'is'), (204, 'married'), (212, 'to'), (215, 'musician'), (224, 'and'), (228, 'feminist'), (237, 'activist'), (246, 'Kathleen'), (255, 'Hanna'), (260, '.')])</stanford_tokens>
+<opennlp_chunks>[('Adam Keefe Horovitz',0, 19), ('October 31, 1966',26, 42), ('better known',45, 57), ('King Ad-Rock',72, 84), ('an American rapper',89, 107), ('guitarist and actor',109, 128), ('is best known',133, 146), ('a member',150, 158), ('the hip hop',162, 173), ('the Beastie Boys',180, 196), ('is married',201, 211), ('musician and feminist activist Kathleen Hanna',215, 260)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'CC', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'DT', 'NNP', 'NNPS', '.', 'PRP', 'VBZ', 'VBN', 'TO', 'NN', 'CC', 'JJ', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Adam'), (5, 'Keefe'), (11, 'Horovitz'), (20, '('), (21, 'born'), (26, 'October'), (34, '31'), (36, ','), (38, '1966'), (42, ')'), (43, ','), (45, 'better'), (52, 'known'), (58, 'as'), (61, 'Ad'), (63, '-'), (64, 'Rock'), (69, 'or'), (72, 'King'), (77, 'Ad'), (79, '-'), (80, 'Rock'), (84, ','), (86, 'is'), (89, 'an'), (92, 'American'), (101, 'rapper'), (107, ','), (109, 'guitarist'), (119, 'and'), (123, 'actor'), (128, '.'), (130, 'He'), (133, 'is'), (136, 'best'), (141, 'known'), (147, 'as'), (150, 'a'), (152, 'member'), (159, 'of'), (162, 'the'), (166, 'hip'), (170, 'hop'), (174, 'group'), (180, 'the'), (184, 'Beastie'), (192, 'Boys'), (196, '.'), (198, 'He'), (201, 'is'), (204, 'married'), (212, 'to'), (215, 'musician'), (224, 'and'), (228, 'feminist'), (237, 'activist'), (246, 'Kathleen'), (255, 'Hanna'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('Adam Keefe Horovitz', 0, 19), ('October 31, 1966', 26, 42), ('Ad-Rock or King Ad-Rock', 61, 84), ('an American rapper', 89, 107), ('guitarist', 109, 118), ('a member', 150, 158), ('the hip hop group', 162, 179), ('the Beastie Boys', 180, 196), ('musician', 215, 223), ('feminist activist Kathleen Hanna', 228, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'NNP', 'HYPH', 'NNP', 'CC', 'NNP', 'NNP', 'HYPH', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'DT', 'NNP', 'NNPS', '.', 'PRP', 'VBZ', 'JJ', 'IN', 'NN', 'CC', 'JJ', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

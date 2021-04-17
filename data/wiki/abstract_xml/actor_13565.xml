@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kamala Lopez</title>
+<link/>https://en.wikipedia.org/wiki/Kamala_Lopez
+<annotated>0</annotated>
+<originalabstract>Kamala Lopez is an actress, director, and political activist. She has appeared in such films as Any Day Now, I Heart Huckabees and Born in East L.A..</originalabstract>
+<abstract>Kamala_Lopez is an_actress , director , and political_activist . She has_appeared in such_films as Any_Day Now , I Heart_Huckabees and Born in East_L.A. .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kamala'), (7, 'Lopez'), (13, 'is'), (16, 'an'), (19, 'actress'), (26, ','), (28, 'director'), (36, ','), (38, 'and'), (42, 'political'), (52, 'activist'), (60, '.'), (62, 'She'), (66, 'has'), (70, 'appeared'), (79, 'in'), (82, 'such'), (87, 'films'), (93, 'as'), (96, 'Any'), (100, 'Day'), (104, 'Now'), (107, ','), (109, 'I'), (111, 'Heart'), (117, 'Huckabees'), (127, 'and'), (131, 'Born'), (136, 'in'), (139, 'East'), (144, 'L.A.'), (148, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kamala Lopez',0, 12), ('an actress',16, 26), ('political activist',42, 60), ('has appeared',66, 78), ('such films',82, 92), ('Any Day',96, 103), ('Heart Huckabees',111, 126), ('East L.A.',139, 148)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'RB', ',', 'PRP', 'NNP', 'NNP', 'CC', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kamala'), (7, 'Lopez'), (13, 'is'), (16, 'an'), (19, 'actress'), (26, ','), (28, 'director'), (36, ','), (38, 'and'), (42, 'political'), (52, 'activist'), (60, '.'), (62, 'She'), (66, 'has'), (70, 'appeared'), (79, 'in'), (82, 'such'), (87, 'films'), (93, 'as'), (96, 'Any'), (100, 'Day'), (104, 'Now'), (107, ','), (109, 'I'), (111, 'Heart'), (117, 'Huckabees'), (127, 'and'), (131, 'Born'), (136, 'in'), (139, 'East'), (144, 'L.A'), (147, '..')])</spacy_tokens>
+<spacy_chunks>[('Kamala Lopez', 0, 12), ('an actress', 16, 26), ('director', 28, 36), ('political activist', 42, 60), ('such films', 82, 92), ('Any Day Now', 96, 107), ('Now, I Heart Huckabees', 104, 126), ('Born in East L.A.', 131, 148)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'RB', ',', 'PRP', 'VBP', 'NNP', 'CC', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

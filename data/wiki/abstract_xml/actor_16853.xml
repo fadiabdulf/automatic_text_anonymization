@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lesley Judd</title>
+<link/>https://en.wikipedia.org/wiki/Lesley_Judd
+<annotated>0</annotated>
+<originalabstract>Lesley Judd (born 20 December 1946) is an English dancer and television presenter, best known as a long-serving host of the BBC children's programme Blue Peter.</originalabstract>
+<abstract>Lesley_Judd ( born_20_December_1946 ) is an_English_dancer_and_television_presenter , best_known as a_long-serving_host of the_BBC_children 's_programme_Blue_Peter .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lesley'), (7, 'Judd'), (12, '('), (13, 'born'), (18, '20'), (21, 'December'), (30, '1946'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'dancer'), (57, 'and'), (61, 'television'), (72, 'presenter'), (81, ','), (83, 'best'), (88, 'known'), (94, 'as'), (97, 'a'), (99, 'long-serving'), (112, 'host'), (117, 'of'), (120, 'the'), (124, 'BBC'), (128, 'children'), (136, '\'s'), (139, 'programme'), (149, 'Blue'), (154, 'Peter'), (159, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lesley Judd',0, 11), ('born 20 December 1946',13, 34), ('an English dancer and television presenter',39, 81), ('best known',83, 93), ('a long-serving host',97, 116), ('the BBC children',120, 136), ('\'s programme Blue Peter',136, 159)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNS', 'POS', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lesley'), (7, 'Judd'), (12, '('), (13, 'born'), (18, '20'), (21, 'December'), (30, '1946'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'dancer'), (57, 'and'), (61, 'television'), (72, 'presenter'), (81, ','), (83, 'best'), (88, 'known'), (94, 'as'), (97, 'a'), (99, 'long'), (103, '-'), (104, 'serving'), (112, 'host'), (117, 'of'), (120, 'the'), (124, 'BBC'), (128, 'children'), (136, "'s"), (139, 'programme'), (149, 'Blue'), (154, 'Peter'), (159, '.')])</spacy_tokens>
+<spacy_chunks>[('Lesley Judd', 0, 11), ('20 December 1946', 18, 34), ('an English dancer', 39, 56), ('television presenter', 61, 81), ('a long-serving host', 97, 116), ("the BBC children's programme", 120, 148), ('Blue Peter', 149, 159)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'DT', 'RB', 'HYPH', 'VBG', 'NN', 'IN', 'DT', 'NNP', 'NNS', 'POS', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

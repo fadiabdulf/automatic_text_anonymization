@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>François Leterrier</title>
+<link/>https://en.wikipedia.org/wiki/Fran%C3%A7ois_Leterrier
+<annotated>0</annotated>
+<originalabstract>François Leterrier, born 26 May 1929 in Margny-lès-Compiègne, is a French film director and actor. He entered the film industry when he was cast in Robert Bresson's film A Man Escaped. After this he went on to become a director himself.</originalabstract>
+<abstract>François_Leterrier , born 26_May_1929 in Margny-lès-Compiègne , is a_French_film_director_and_actor . He entered the_film_industry when he was_cast in Robert_Bresson 's_film_A_Man Escaped . After this he went on to_become a_director himself .</abstract>
+<stanford_tokens>OrderedDict([(0, 'François'), (9, 'Leterrier'), (18, ','), (20, 'born'), (25, '26'), (28, 'May'), (32, '1929'), (37, 'in'), (40, 'Margny-lès-Compiègne'), (60, ','), (62, 'is'), (65, 'a'), (67, 'French'), (74, 'film'), (79, 'director'), (88, 'and'), (92, 'actor'), (97, '.'), (99, 'He'), (102, 'entered'), (110, 'the'), (114, 'film'), (119, 'industry'), (128, 'when'), (133, 'he'), (136, 'was'), (140, 'cast'), (145, 'in'), (148, 'Robert'), (155, 'Bresson'), (162, '\'s'), (165, 'film'), (170, 'A'), (172, 'Man'), (176, 'Escaped'), (183, '.'), (185, 'After'), (191, 'this'), (196, 'he'), (199, 'went'), (204, 'on'), (207, 'to'), (210, 'become'), (217, 'a'), (219, 'director'), (228, 'himself'), (235, '.')])</stanford_tokens>
+<opennlp_chunks>[('François Leterrier',0, 18), ('26 May 1929',25, 36), ('a French film director and actor',65, 97), ('the film industry',110, 127), ('was cast',136, 144), ('Robert Bresson',148, 162), ('\'s film A Man',162, 175), ('to become',207, 216), ('a director',217, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'WRB', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'NN', 'VBN', '.', 'IN', 'DT', 'PRP', 'VBD', 'IN', 'TO', 'VB', 'DT', 'NN', 'PRP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'François'), (9, 'Leterrier'), (18, ','), (20, 'born'), (25, '26'), (28, 'May'), (32, '1929'), (37, 'in'), (40, 'Margny'), (46, '-'), (47, 'lès'), (50, '-'), (51, 'Compiègne'), (60, ','), (62, 'is'), (65, 'a'), (67, 'French'), (74, 'film'), (79, 'director'), (88, 'and'), (92, 'actor'), (97, '.'), (99, 'He'), (102, 'entered'), (110, 'the'), (114, 'film'), (119, 'industry'), (128, 'when'), (133, 'he'), (136, 'was'), (140, 'cast'), (145, 'in'), (148, 'Robert'), (155, 'Bresson'), (162, "'s"), (165, 'film'), (170, 'A'), (172, 'Man'), (176, 'Escaped'), (183, '.'), (185, 'After'), (191, 'this'), (196, 'he'), (199, 'went'), (204, 'on'), (207, 'to'), (210, 'become'), (217, 'a'), (219, 'director'), (228, 'himself'), (235, '.')])</spacy_tokens>
+<spacy_chunks>[('François Leterrier', 0, 18), ('26 May 1929', 25, 36), ('Margny-lès-Compiègne', 40, 60), ('a French film director', 65, 87), ('the film industry', 110, 127), ("Robert Bresson's film", 148, 169), ('A Man Escaped', 170, 183), ('a director', 217, 227), ('himself', 228, 235)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBD', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'WRB', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'DT', 'NN', 'VBD', '.', 'IN', 'DT', 'PRP', 'VBD', 'RP', 'TO', 'VB', 'DT', 'NN', 'PRP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

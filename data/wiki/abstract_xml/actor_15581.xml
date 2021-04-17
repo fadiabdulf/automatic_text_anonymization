@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jill Townsend</title>
+<link/>https://en.wikipedia.org/wiki/Jill_Townsend
+<annotated>0</annotated>
+<originalabstract>Jill Townsend (born January 25, 1945) is an American actress best known for her roles as Elizabeth Chynoweth in Poldark and Dulcey Coopersmith in the 1967 western television series Cimarron Strip.</originalabstract>
+<abstract>Jill_Townsend ( born January_25_,_1945 ) is an_American_actress best_known for her_roles as Elizabeth_Chynoweth in Poldark and Dulcey_Coopersmith in the_1967_western_television_series_Cimarron_Strip .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jill'), (5, 'Townsend'), (14, '('), (15, 'born'), (20, 'January'), (28, '25'), (30, ','), (32, '1945'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (61, 'best'), (66, 'known'), (72, 'for'), (76, 'her'), (80, 'roles'), (86, 'as'), (89, 'Elizabeth'), (99, 'Chynoweth'), (109, 'in'), (112, 'Poldark'), (120, 'and'), (124, 'Dulcey'), (131, 'Coopersmith'), (143, 'in'), (146, 'the'), (150, '1967'), (155, 'western'), (163, 'television'), (174, 'series'), (181, 'Cimarron'), (190, 'Strip'), (195, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jill Townsend',0, 13), ('January 25, 1945',20, 36), ('an American actress',41, 60), ('best known',61, 71), ('her roles',76, 85), ('Elizabeth Chynoweth',89, 108), ('Dulcey Coopersmith',124, 142), ('the 1967 western television series Cimarron Strip',146, 195)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jill'), (5, 'Townsend'), (14, '('), (15, 'born'), (20, 'January'), (28, '25'), (30, ','), (32, '1945'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (61, 'best'), (66, 'known'), (72, 'for'), (76, 'her'), (80, 'roles'), (86, 'as'), (89, 'Elizabeth'), (99, 'Chynoweth'), (109, 'in'), (112, 'Poldark'), (120, 'and'), (124, 'Dulcey'), (131, 'Coopersmith'), (143, 'in'), (146, 'the'), (150, '1967'), (155, 'western'), (163, 'television'), (174, 'series'), (181, 'Cimarron'), (190, 'Strip'), (195, '.')])</spacy_tokens>
+<spacy_chunks>[('Jill Townsend', 0, 13), ('January 25, 1945', 20, 36), ('an American actress', 41, 60), ('her roles', 76, 85), ('Elizabeth Chynoweth', 89, 108), ('Poldark', 112, 119), ('Dulcey Coopersmith', 124, 142), ('the 1967 western television series', 146, 180), ('Cimarron Strip', 181, 195)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wilhelm von Brincken</title>
+<link/>https://en.wikipedia.org/wiki/Wilhelm_von_Brincken
+<annotated>0</annotated>
+<originalabstract>Wilhelm von Brincken (May 27, 1881 – January 18, 1946), also known as Wilhelm L. von Brincken, William Vaughn, William von Brinken and William Vaughan, was a German spy during World War I, who would go on to become an American character actor of the silent and sound film eras.</originalabstract>
+<abstract>Wilhelm_von_Brincken ( May_27_,_1881 – January_18_,_1946 ) , also_known as Wilhelm_L._von_Brincken , William_Vaughn , William_von_Brinken and William_Vaughan , was a_German_spy during World_War_I , who would_go on to_become an_American_character_actor of the_silent_and_sound_film_eras .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wilhelm'), (8, 'von'), (12, 'Brincken'), (21, '('), (22, 'May'), (26, '27'), (28, ','), (30, '1881'), (35, '–'), (37, 'January'), (45, '18'), (47, ','), (49, '1946'), (53, ')'), (54, ','), (56, 'also'), (61, 'known'), (67, 'as'), (70, 'Wilhelm'), (78, 'L.'), (81, 'von'), (85, 'Brincken'), (93, ','), (95, 'William'), (103, 'Vaughn'), (109, ','), (111, 'William'), (119, 'von'), (123, 'Brinken'), (131, 'and'), (135, 'William'), (143, 'Vaughan'), (150, ','), (152, 'was'), (156, 'a'), (158, 'German'), (165, 'spy'), (169, 'during'), (176, 'World'), (182, 'War'), (186, 'I'), (187, ','), (189, 'who'), (193, 'would'), (199, 'go'), (202, 'on'), (205, 'to'), (208, 'become'), (215, 'an'), (218, 'American'), (227, 'character'), (237, 'actor'), (243, 'of'), (246, 'the'), (250, 'silent'), (257, 'and'), (261, 'sound'), (267, 'film'), (272, 'eras'), (276, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wilhelm von Brincken',0, 20), ('May 27, 1881',22, 34), ('January 18, 1946',37, 53), ('also known',56, 66), ('Wilhelm L. von Brincken',70, 93), ('William Vaughn',95, 109), ('William von Brinken',111, 130), ('William Vaughan',135, 150), ('a German spy',156, 168), ('World War I',176, 187), ('would go',193, 201), ('to become',205, 214), ('an American character actor',215, 242), ('the silent and sound film eras',246, 276)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'WP', 'MD', 'VB', 'IN', 'TO', 'VB', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wilhelm'), (8, 'von'), (12, 'Brincken'), (21, '('), (22, 'May'), (26, '27'), (28, ','), (30, '1881'), (35, '–'), (37, 'January'), (45, '18'), (47, ','), (49, '1946'), (53, ')'), (54, ','), (56, 'also'), (61, 'known'), (67, 'as'), (70, 'Wilhelm'), (78, 'L.'), (81, 'von'), (85, 'Brincken'), (93, ','), (95, 'William'), (103, 'Vaughn'), (109, ','), (111, 'William'), (119, 'von'), (123, 'Brinken'), (131, 'and'), (135, 'William'), (143, 'Vaughan'), (150, ','), (152, 'was'), (156, 'a'), (158, 'German'), (165, 'spy'), (169, 'during'), (176, 'World'), (182, 'War'), (186, 'I'), (187, ','), (189, 'who'), (193, 'would'), (199, 'go'), (202, 'on'), (205, 'to'), (208, 'become'), (215, 'an'), (218, 'American'), (227, 'character'), (237, 'actor'), (243, 'of'), (246, 'the'), (250, 'silent'), (257, 'and'), (261, 'sound'), (267, 'film'), (272, 'eras'), (276, '.')])</spacy_tokens>
+<spacy_chunks>[('Wilhelm von Brincken', 0, 20), ('(May 27, 1881 – January', 21, 44), ('January 18, 1946', 37, 53), ('Wilhelm L. von Brincken', 70, 93), ('William Vaughn', 95, 109), ('William von Brinken', 111, 130), ('William Vaughan', 135, 150), ('a German spy', 156, 168), ('World War I', 176, 187), ('an American character actor', 215, 242), ('the silent and sound film eras', 246, 276)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'WP', 'MD', 'VB', 'RP', 'TO', 'VB', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

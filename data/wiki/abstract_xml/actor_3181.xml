@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Allen Holubar</title>
+<link/>https://en.wikipedia.org/wiki/Allen_Holubar
+<annotated>0</annotated>
+<originalabstract>Allen Holubar (August 3, 1888 – November 20, 1923) was an American actor, film director, and screenwriter of the silent film era. He appeared in 38 films between 1913 and 1917. He also directed 33 films between 1916 and 1923.</originalabstract>
+<abstract>Allen_Holubar ( August_3_,_1888 – November_20_,_1923 ) was an_American_actor , film_director , and screenwriter of the_silent_film_era . He appeared in 38_films between 1913_and_1917 . He also directed 33_films between 1916_and_1923 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Allen'), (6, 'Holubar'), (14, '('), (15, 'August'), (22, '3'), (23, ','), (25, '1888'), (30, '–'), (32, 'November'), (41, '20'), (43, ','), (45, '1923'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, ','), (74, 'film'), (79, 'director'), (87, ','), (89, 'and'), (93, 'screenwriter'), (106, 'of'), (109, 'the'), (113, 'silent'), (120, 'film'), (125, 'era'), (128, '.'), (130, 'He'), (133, 'appeared'), (142, 'in'), (145, '38'), (148, 'films'), (154, 'between'), (162, '1913'), (167, 'and'), (171, '1917'), (175, '.'), (177, 'He'), (180, 'also'), (185, 'directed'), (194, '33'), (197, 'films'), (203, 'between'), (211, '1916'), (216, 'and'), (220, '1923'), (224, '.')])</stanford_tokens>
+<opennlp_chunks>[('Allen Holubar',0, 13), ('August 3, 1888',15, 29), ('November 20, 1923',32, 49), ('an American actor',55, 72), ('film director',74, 87), ('the silent film era',109, 128), ('38 films',145, 153), ('1913 and 1917',162, 175), ('33 films',194, 202), ('1916 and 1923',211, 224)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Allen'), (6, 'Holubar'), (14, '('), (15, 'August'), (22, '3'), (23, ','), (25, '1888'), (30, '–'), (32, 'November'), (41, '20'), (43, ','), (45, '1923'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, ','), (74, 'film'), (79, 'director'), (87, ','), (89, 'and'), (93, 'screenwriter'), (106, 'of'), (109, 'the'), (113, 'silent'), (120, 'film'), (125, 'era'), (128, '.'), (130, 'He'), (133, 'appeared'), (142, 'in'), (145, '38'), (148, 'films'), (154, 'between'), (162, '1913'), (167, 'and'), (171, '1917'), (175, '.'), (177, 'He'), (180, 'also'), (185, 'directed'), (194, '33'), (197, 'films'), (203, 'between'), (211, '1916'), (216, 'and'), (220, '1923'), (224, '.')])</spacy_tokens>
+<spacy_chunks>[('Allen Holubar', 0, 13), ('August 3, 1888', 15, 29), ('November 20, 1923', 32, 49), ('an American actor', 55, 72), ('Film director', 74, 87), ('screenwriter', 93, 105), ('the silent film era', 109, 128), ('38 films', 145, 153), ('33 films', 194, 202)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

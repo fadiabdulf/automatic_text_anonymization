@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Richard Cummings (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Richard_Cummings_(actor)
+<annotated>0</annotated>
+<originalabstract>Richard Henry Cummings (August 20, 1858 – December 25, 1938) was an American film actor of the silent era.
+Cummings performed in vaudeville and on stage before he began working in films. He appeared in 82 films between 1913 and 1930. He was born in New Haven, Connecticut, and died in Los Angeles, California.</originalabstract>
+<abstract>Richard_Henry_Cummings ( August_20_,_1858 – December_25_,_1938 ) was an_American_film_actor of the_silent_era . Cummings performed in vaudeville and on stage before he began_working in films . He appeared in 82_films between 1913_and_1930 . He was_born in New_Haven , Connecticut , and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Henry'), (14, 'Cummings'), (23, '('), (24, 'August'), (31, '20'), (33, ','), (35, '1858'), (40, '–'), (42, 'December'), (51, '25'), (53, ','), (55, '1938'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'film'), (82, 'actor'), (88, 'of'), (91, 'the'), (95, 'silent'), (102, 'era'), (105, '.'), (107, 'Cummings'), (116, 'performed'), (126, 'in'), (129, 'vaudeville'), (140, 'and'), (144, 'on'), (147, 'stage'), (153, 'before'), (160, 'he'), (163, 'began'), (169, 'working'), (177, 'in'), (180, 'films'), (185, '.'), (187, 'He'), (190, 'appeared'), (199, 'in'), (202, '82'), (205, 'films'), (211, 'between'), (219, '1913'), (224, 'and'), (228, '1930'), (232, '.'), (234, 'He'), (237, 'was'), (241, 'born'), (246, 'in'), (249, 'New'), (253, 'Haven'), (258, ','), (260, 'Connecticut'), (271, ','), (273, 'and'), (277, 'died'), (282, 'in'), (285, 'Los'), (289, 'Angeles'), (296, ','), (298, 'California'), (308, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Henry Cummings',0, 22), ('August 20, 1858',24, 39), ('December 25, 1938',42, 59), ('an American film actor',65, 87), ('the silent era',91, 105), ('began working',163, 176), ('82 films',202, 210), ('1913 and 1930',219, 232), ('was born',237, 245), ('New Haven',249, 258), ('Los Angeles',285, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBN', 'IN', 'NN', 'CC', 'IN', 'NN', 'IN', 'PRP', 'VBD', 'VBG', 'IN', 'NNS', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Henry'), (14, 'Cummings'), (23, '('), (24, 'August'), (31, '20'), (33, ','), (35, '1858'), (40, '–'), (42, 'December'), (51, '25'), (53, ','), (55, '1938'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'film'), (82, 'actor'), (88, 'of'), (91, 'the'), (95, 'silent'), (102, 'era'), (105, '.'), (107, 'Cummings'), (116, 'performed'), (126, 'in'), (129, 'vaudeville'), (140, 'and'), (144, 'on'), (147, 'stage'), (153, 'before'), (160, 'he'), (163, 'began'), (169, 'working'), (177, 'in'), (180, 'films'), (185, '.'), (187, 'He'), (190, 'appeared'), (199, 'in'), (202, '82'), (205, 'films'), (211, 'between'), (219, '1913'), (224, 'and'), (228, '1930'), (232, '.'), (234, 'He'), (237, 'was'), (241, 'born'), (246, 'in'), (249, 'New'), (253, 'Haven'), (258, ','), (260, 'Connecticut'), (271, ','), (273, 'and'), (277, 'died'), (282, 'in'), (285, 'Los'), (289, 'Angeles'), (296, ','), (298, 'California'), (308, '.')])</spacy_tokens>
+<spacy_chunks>[('Richard Henry Cummings', 0, 22), ('August 20, 1858', 24, 39), ('December 25, 1938', 42, 59), ('an American film actor', 65, 87), ('the silent era', 91, 105), ('vaudeville', 129, 139), ('82 films', 202, 210), ('New Haven, Connecticut', 249, 271), ('Los Angeles, California', 285, 308)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'IN', 'NN', 'CC', 'IN', 'NN', 'IN', 'PRP', 'VBD', 'VBG', 'IN', 'NNS', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

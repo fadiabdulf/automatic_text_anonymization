@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Catalina Speroni</title>
+<link/>https://en.wikipedia.org/wiki/Catalina_Speroni
+<annotated>0</annotated>
+<originalabstract>Catalina Speroni (January 1, 1938 – December 21, 2010) was an Argentine film, stage and television actress whose career spanned more than 40 years.
+Her film credits included Felicidades, Cómpices, Tatuado and El despertar de L. Her television credits included roles on Campeones de la Vida, Calabromas and La familia Benvenuto.</originalabstract>
+<abstract>Catalina_Speroni ( January_1_,_1938 – December_21_,_2010 ) was an_Argentine_film_,_stage_and_television_actress whose_career spanned more_than_40_years . Her_film_credits included Felicidades , Cómpices , Tatuado and El_despertar de L . Her_television_credits included roles on Campeones_de_la_Vida , Calabromas and La_familia_Benvenuto .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Catalina'), (9, 'Speroni'), (17, '('), (18, 'January'), (26, '1'), (27, ','), (29, '1938'), (34, '–'), (36, 'December'), (45, '21'), (47, ','), (49, '2010'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'Argentine'), (72, 'film'), (76, ','), (78, 'stage'), (84, 'and'), (88, 'television'), (99, 'actress'), (107, 'whose'), (113, 'career'), (120, 'spanned'), (128, 'more'), (133, 'than'), (138, '40'), (141, 'years'), (146, '.'), (148, 'Her'), (152, 'film'), (157, 'credits'), (165, 'included'), (174, 'Felicidades'), (185, ','), (187, 'Cómpices'), (195, ','), (197, 'Tatuado'), (205, 'and'), (209, 'El'), (212, 'despertar'), (222, 'de'), (225, 'L'), (226, '.'), (228, 'Her'), (232, 'television'), (243, 'credits'), (251, 'included'), (260, 'roles'), (266, 'on'), (269, 'Campeones'), (279, 'de'), (282, 'la'), (285, 'Vida'), (289, ','), (291, 'Calabromas'), (302, 'and'), (306, 'La'), (309, 'familia'), (317, 'Benvenuto'), (326, '.')])</stanford_tokens>
+<opennlp_chunks>[('Catalina Speroni',0, 16), ('January 1, 1938',18, 33), ('December 21, 2010',36, 53), ('an Argentine film, stage and television actress',59, 106), ('whose career',107, 119), ('more than 40 years',128, 146), ('Her film credits',148, 164), ('El despertar',209, 221), ('Her television credits',228, 250), ('Campeones de la Vida',269, 289), ('La familia Benvenuto',306, 326)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'JJR', 'IN', 'CD', 'NNS', '.', 'PRP$', 'NN', 'NNS', 'VBD', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.', 'PRP$', 'NN', 'NNS', 'VBD', 'NNS', 'IN', 'NNP', 'FW', 'FW', 'NNP', ',', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Catalina'), (9, 'Speroni'), (17, '('), (18, 'January'), (26, '1'), (27, ','), (29, '1938'), (34, '–'), (36, 'December'), (45, '21'), (47, ','), (49, '2010'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'Argentine'), (72, 'film'), (76, ','), (78, 'stage'), (84, 'and'), (88, 'television'), (99, 'actress'), (107, 'whose'), (113, 'career'), (120, 'spanned'), (128, 'more'), (133, 'than'), (138, '40'), (141, 'years'), (146, '.'), (148, 'Her'), (152, 'film'), (157, 'credits'), (165, 'included'), (174, 'Felicidades'), (185, ','), (187, 'Cómpices'), (195, ','), (197, 'Tatuado'), (205, 'and'), (209, 'El'), (212, 'despertar'), (222, 'de'), (225, 'L.'), (228, 'Her'), (232, 'television'), (243, 'credits'), (251, 'included'), (260, 'roles'), (266, 'on'), (269, 'Campeones'), (279, 'de'), (282, 'la'), (285, 'Vida'), (289, ','), (291, 'Calabromas'), (302, 'and'), (306, 'La'), (309, 'familia'), (317, 'Benvenuto'), (326, '.')])</spacy_tokens>
+<spacy_chunks>[('Catalina Speroni', 0, 16), ('(January', 17, 25), ('January 1, 1938', 18, 33), ('December 21, 2010', 36, 53), ('an Argentine film', 59, 76), ('television actress', 88, 106), ('whose career', 107, 119), ('more than 40 years', 128, 146), ('Her film credits', 148, 164), ('Felicidades', 174, 185), ('Cómpices', 187, 195), ('Tatuado', 197, 204), ('El despertar de L.', 209, 227), ('Her television credits', 228, 250), ('Campeones de la Vida', 269, 289), ('Calabromas', 291, 301), ('La familia Benvenuto', 306, 326)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'JJR', 'IN', 'CD', 'NNS', '.', 'PRP$', 'NN', 'NNS', 'VBD', 'NNPS', ',', 'NNPS', ',', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'NNP', 'PRP$', 'NN', 'NNS', 'VBD', 'NNS', 'IN', 'NNP', 'NNP', 'FW', 'NNP', ',', 'NNP', 'CC', 'NNP', 'FW', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

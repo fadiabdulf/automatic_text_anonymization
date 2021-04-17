@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Hedley</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Hedley
+<annotated>0</annotated>
+<originalabstract>Jack Hedley (born 28 October 1930 as Jack Hawkins; he changed his name to avoid confusion with his namesake) is an English actor, best known for his performances on television.</originalabstract>
+<abstract>Jack_Hedley ( born 28_October_1930 as Jack_Hawkins ; he changed his_name to_avoid confusion with his_namesake ) is an_English_actor , best_known for his_performances on television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jack'), (5, 'Hedley'), (12, '('), (13, 'born'), (18, '28'), (21, 'October'), (29, '1930'), (34, 'as'), (37, 'Jack'), (42, 'Hawkins'), (49, ';'), (51, 'he'), (54, 'changed'), (62, 'his'), (66, 'name'), (71, 'to'), (74, 'avoid'), (80, 'confusion'), (90, 'with'), (95, 'his'), (99, 'namesake'), (107, ')'), (109, 'is'), (112, 'an'), (115, 'English'), (123, 'actor'), (128, ','), (130, 'best'), (135, 'known'), (141, 'for'), (145, 'his'), (149, 'performances'), (162, 'on'), (165, 'television'), (175, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jack Hedley',0, 11), ('28 October 1930',18, 33), ('Jack Hawkins',37, 49), ('his name',62, 70), ('to avoid',71, 79), ('his namesake',95, 107), ('an English actor',112, 128), ('best known',130, 140), ('his performances',145, 161)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'NNP', ':', 'PRP', 'VBD', 'PRP$', 'NN', 'TO', 'VB', 'NN', 'IN', 'PRP$', 'NN', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jack'), (5, 'Hedley'), (12, '('), (13, 'born'), (18, '28'), (21, 'October'), (29, '1930'), (34, 'as'), (37, 'Jack'), (42, 'Hawkins'), (49, ';'), (51, 'he'), (54, 'changed'), (62, 'his'), (66, 'name'), (71, 'to'), (74, 'avoid'), (80, 'confusion'), (90, 'with'), (95, 'his'), (99, 'namesake'), (107, ')'), (109, 'is'), (112, 'an'), (115, 'English'), (123, 'actor'), (128, ','), (130, 'best'), (135, 'known'), (141, 'for'), (145, 'his'), (149, 'performances'), (162, 'on'), (165, 'television'), (175, '.')])</spacy_tokens>
+<spacy_chunks>[('Jack Hedley', 0, 11), ('28 October 1930', 18, 33), ('Jack Hawkins', 37, 49), ('his name', 62, 70), ('confusion', 80, 89), ('his namesake', 95, 107), ('an English actor', 112, 128), ('his performances', 145, 161), ('television', 165, 175)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'NNP', ':', 'PRP', 'VBD', 'PRP$', 'NN', 'TO', 'VB', 'NN', 'IN', 'PRP$', 'NN', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

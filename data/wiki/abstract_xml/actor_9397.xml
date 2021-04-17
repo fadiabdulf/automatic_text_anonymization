@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Williams (actor)</title>
+<link/>https://en.wikipedia.org/wiki/John_Williams_(actor)
+<annotated>0</annotated>
+<originalabstract>John Williams (15 April 1903 – 5 May 1983) was an English stage, film and television actor. He is remembered for his role as Chief Inspector Hubbard in Alfred Hitchcock's Dial M For Murder, as the chauffeur in Sabrina, and as portraying the second "Mr. French" on TV's Family Affair.</originalabstract>
+<abstract>John_Williams ( 15_April_1903 – 5_May_1983 ) was an_English_stage , film_and_television_actor . He is_remembered for his_role as Chief_Inspector_Hubbard in Alfred_Hitchcock 's_Dial_M For Murder , as the_chauffeur in Sabrina , and as portraying the_second_"_Mr._French " on TV 's_Family_Affair .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Williams'), (14, '('), (15, '15'), (18, 'April'), (24, '1903'), (29, '–'), (31, '5'), (33, 'May'), (37, '1983'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'English'), (58, 'stage'), (63, ','), (65, 'film'), (70, 'and'), (74, 'television'), (85, 'actor'), (90, '.'), (92, 'He'), (95, 'is'), (98, 'remembered'), (109, 'for'), (113, 'his'), (117, 'role'), (122, 'as'), (125, 'Chief'), (131, 'Inspector'), (141, 'Hubbard'), (149, 'in'), (152, 'Alfred'), (159, 'Hitchcock'), (168, '\'s'), (171, 'Dial'), (176, 'M'), (178, 'For'), (182, 'Murder'), (188, ','), (190, 'as'), (193, 'the'), (197, 'chauffeur'), (207, 'in'), (210, 'Sabrina'), (217, ','), (219, 'and'), (223, 'as'), (226, 'portraying'), (237, 'the'), (241, 'second'), (248, '"'), (249, 'Mr.'), (253, 'French'), (259, '"'), (261, 'on'), (264, 'TV'), (266, '\'s'), (269, 'Family'), (276, 'Affair'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Williams',0, 13), ('15 April 1903',15, 28), ('5 May 1983',31, 41), ('an English stage',47, 63), ('film and television actor',65, 90), ('is remembered',95, 108), ('his role',113, 121), ('Chief Inspector Hubbard',125, 148), ('Alfred Hitchcock',152, 168), ('\'s Dial M',168, 177), ('the chauffeur',193, 206), ('the second "Mr. French',237, 259), ('\'s Family Affair',266, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NN', 'IN', 'NN', ',', 'IN', 'DT', 'NN', 'IN', 'NNP', ',', 'CC', 'IN', 'VBG', 'DT', 'JJ', '``', 'NNP', 'NNP', '\'\'', 'IN', 'NN', 'POS', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Williams'), (14, '('), (15, '15'), (18, 'April'), (24, '1903'), (29, '–'), (31, '5'), (33, 'May'), (37, '1983'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'English'), (58, 'stage'), (63, ','), (65, 'film'), (70, 'and'), (74, 'television'), (85, 'actor'), (90, '.'), (92, 'He'), (95, 'is'), (98, 'remembered'), (109, 'for'), (113, 'his'), (117, 'role'), (122, 'as'), (125, 'Chief'), (131, 'Inspector'), (141, 'Hubbard'), (149, 'in'), (152, 'Alfred'), (159, 'Hitchcock'), (168, "'s"), (171, 'Dial'), (176, 'M'), (178, 'For'), (182, 'Murder'), (188, ','), (190, 'as'), (193, 'the'), (197, 'chauffeur'), (207, 'in'), (210, 'Sabrina'), (217, ','), (219, 'and'), (223, 'as'), (226, 'portraying'), (237, 'the'), (241, 'second'), (248, '"'), (249, 'Mr.'), (253, 'French'), (259, '"'), (261, 'on'), (264, 'TV'), (266, "'s"), (269, 'Family'), (276, 'Affair'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('John Williams', 0, 13), ('15 April 1903', 15, 28), ('5 May 1983', 31, 41), ('an English stage', 47, 63), ('television actor', 74, 90), ('his role', 113, 121), ('Chief Inspector Hubbard', 125, 148), ("Alfred Hitchcock's Dial M", 152, 177), ('Dial M for Murder', 171, 188), ('the chauffeur', 193, 206), ('Sabrina', 210, 217), ('the second "Mr. French', 237, 259), ("TV's Family Affair", 264, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'IN', 'NN', ',', 'IN', 'DT', 'NN', 'IN', 'NNP', ',', 'CC', 'IN', 'VBG', 'DT', 'JJ', '``', 'NNP', 'NNP', "''", 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

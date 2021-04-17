@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Muriel Ostriche</title>
+<link/>https://en.wikipedia.org/wiki/Muriel_Ostriche
+<annotated>0</annotated>
+<originalabstract>Muriel Ostriche (24 May 1896, New York City  - 3 May 1989, St Petersburg, Florida) was an American silent film actress. She was also the face of Moxie.
+She was signed by the Thanhouser Company based in New Rochelle, New York and starred in 134 films in her career.</originalabstract>
+<abstract>Muriel_Ostriche ( 24_May_1896 , New_York_City - 3 May_1989 , St_Petersburg , Florida ) was an_American_silent_film_actress . She was also the_face of Moxie . She was_signed by the_Thanhouser_Company based in New_Rochelle , New_York and starred in 134_films in her_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Muriel'), (7, 'Ostriche'), (16, '('), (17, '24'), (20, 'May'), (24, '1896'), (28, ','), (30, 'New'), (34, 'York'), (39, 'City'), (45, '-'), (47, '3'), (49, 'May'), (53, '1989'), (57, ','), (59, 'St'), (62, 'Petersburg'), (72, ','), (74, 'Florida'), (81, ')'), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'silent'), (106, 'film'), (111, 'actress'), (118, '.'), (120, 'She'), (124, 'was'), (128, 'also'), (133, 'the'), (137, 'face'), (142, 'of'), (145, 'Moxie'), (150, '.'), (152, 'She'), (156, 'was'), (160, 'signed'), (167, 'by'), (170, 'the'), (174, 'Thanhouser'), (185, 'Company'), (193, 'based'), (199, 'in'), (202, 'New'), (206, 'Rochelle'), (214, ','), (216, 'New'), (220, 'York'), (225, 'and'), (229, 'starred'), (237, 'in'), (240, '134'), (244, 'films'), (250, 'in'), (253, 'her'), (257, 'career'), (263, '.')])</stanford_tokens>
+<opennlp_chunks>[('Muriel Ostriche',0, 15), ('24 May 1896',17, 28), ('New York City',30, 43), ('May 1989',49, 57), ('St Petersburg',59, 72), ('an American silent film actress',87, 118), ('the face',133, 141), ('was signed',156, 166), ('the Thanhouser Company',170, 192), ('New Rochelle',202, 214), ('New York',216, 224), ('134 films',240, 249), ('her career',253, 263)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', 'NNP', 'NNP', ':', 'CD', 'MD', 'CD', ',', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'IN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Muriel'), (7, 'Ostriche'), (16, '('), (17, '24'), (20, 'May'), (24, '1896'), (28, ','), (30, 'New'), (34, 'York'), (39, 'City'), (45, '-'), (47, '3'), (49, 'May'), (53, '1989'), (57, ','), (59, 'St'), (62, 'Petersburg'), (72, ','), (74, 'Florida'), (81, ')'), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'silent'), (106, 'film'), (111, 'actress'), (118, '.'), (120, 'She'), (124, 'was'), (128, 'also'), (133, 'the'), (137, 'face'), (142, 'of'), (145, 'Moxie'), (150, '.'), (152, 'She'), (156, 'was'), (160, 'signed'), (167, 'by'), (170, 'the'), (174, 'Thanhouser'), (185, 'Company'), (193, 'based'), (199, 'in'), (202, 'New'), (206, 'Rochelle'), (214, ','), (216, 'New'), (220, 'York'), (225, 'and'), (229, 'starred'), (237, 'in'), (240, '134'), (244, 'films'), (250, 'in'), (253, 'her'), (257, 'career'), (263, '.')])</spacy_tokens>
+<spacy_chunks>[('Muriel Ostriche', 0, 15), ('24 May 1896', 17, 28), ('New York City', 30, 43), ('3 May 1989', 47, 57), ('St Petersburg', 59, 72), ('Florida', 74, 81), ('an American silent film actress', 87, 118), ('the face', 133, 141), ('the Thanhouser Company', 170, 192), ('New Rochelle, New York', 202, 224), ('134 films', 240, 249), ('her career', 253, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', 'NNP', 'NNP', 'HYPH', 'CD', 'NNP', 'CD', ',', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBN', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

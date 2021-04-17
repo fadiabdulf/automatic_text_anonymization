@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fred Melamed</title>
+<link/>https://en.wikipedia.org/wiki/Fred_Melamed
+<annotated>0</annotated>
+<originalabstract>Fred Melamed (born May 13, 1956) is an American actor, comedian,and writer. He is best known for portraying Sy Ableman in A Serious Man, Bruce Ben-Bacharach in Lady Dynamite, Sam Soto in In a World..., and for appearing in seven films directed by Woody Allen.</originalabstract>
+<abstract>Fred_Melamed ( born May_13_,_1956 ) is an_American_actor , comedian , and writer . He is_best_known for portraying Sy_Ableman in A_Serious_Man , Bruce_Ben-Bacharach in Lady_Dynamite , Sam_Soto in In a_World ... , and for appearing in_seven_films directed by Woody_Allen .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fred'), (5, 'Melamed'), (13, '('), (14, 'born'), (19, 'May'), (23, '13'), (25, ','), (27, '1956'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actor'), (53, ','), (55, 'comedian'), (63, ','), (64, 'and'), (68, 'writer'), (74, '.'), (76, 'He'), (79, 'is'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'portraying'), (108, 'Sy'), (111, 'Ableman'), (119, 'in'), (122, 'A'), (124, 'Serious'), (132, 'Man'), (135, ','), (137, 'Bruce'), (143, 'Ben-Bacharach'), (157, 'in'), (160, 'Lady'), (165, 'Dynamite'), (173, ','), (175, 'Sam'), (179, 'Soto'), (184, 'in'), (187, 'In'), (190, 'a'), (192, 'World'), (197, '...'), (200, ','), (202, 'and'), (206, 'for'), (210, 'appearing'), (220, 'in'), (223, 'seven'), (229, 'films'), (235, 'directed'), (244, 'by'), (247, 'Woody'), (253, 'Allen'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fred Melamed',0, 12), ('May 13, 1956',19, 31), ('an American actor',36, 53), ('is best known',79, 92), ('Sy Ableman',108, 118), ('A Serious Man',122, 135), ('Bruce Ben-Bacharach',137, 156), ('Lady Dynamite',160, 173), ('Sam Soto',175, 183), ('a World',190, 197), ('in seven films',220, 234), ('Woody Allen',247, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'IN', 'DT', 'NN', ':', ',', 'CC', 'IN', 'VBG', 'IN', 'CD', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fred'), (5, 'Melamed'), (13, '('), (14, 'born'), (19, 'May'), (23, '13'), (25, ','), (27, '1956'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actor'), (53, ','), (55, 'comedian'), (63, ','), (64, 'and'), (68, 'writer'), (74, '.'), (76, 'He'), (79, 'is'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'portraying'), (108, 'Sy'), (111, 'Ableman'), (119, 'in'), (122, 'A'), (124, 'Serious'), (132, 'Man'), (135, ','), (137, 'Bruce'), (143, 'Ben'), (146, '-'), (147, 'Bacharach'), (157, 'in'), (160, 'Lady'), (165, 'Dynamite'), (173, ','), (175, 'Sam'), (179, 'Soto'), (184, 'in'), (187, 'In'), (190, 'a'), (192, 'World'), (197, '...'), (200, ','), (202, 'and'), (206, 'for'), (210, 'appearing'), (220, 'in'), (223, 'seven'), (229, 'films'), (235, 'directed'), (244, 'by'), (247, 'Woody'), (253, 'Allen'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Fred Melamed', 0, 12), ('May 13, 1956', 19, 31), ('an American actor', 36, 53), ('comedian', 55, 63), ('writer', 68, 74), ('Sy Ableman', 108, 118), ('A Serious Man', 122, 135), ('Bruce Ben-Bacharach', 137, 156), ('Lady Dynamite', 160, 173), ('Sam Soto', 175, 183), ('In a World...', 187, 200), ('seven films', 223, 234), ('Woody Allen', 247, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', ',', 'NNP', 'NNP', 'HYPH', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'IN', 'DT', 'NNP', 'NFP', ',', 'CC', 'IN', 'VBG', 'IN', 'CD', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

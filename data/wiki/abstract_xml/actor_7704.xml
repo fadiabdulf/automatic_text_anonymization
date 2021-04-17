@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eric Blore</title>
+<link/>https://en.wikipedia.org/wiki/Eric_Blore
+<annotated>0</annotated>
+<originalabstract>Eric Blore (23 December 1887 – 2 March 1959) was an English comic actor who worked in the United States beginning in the 1920s and had a very busy career in Hollywood films in the 1930 and 1940s. Blore was born in Finchley, Middlesex, England.</originalabstract>
+<abstract>Eric_Blore ( 23_December_1887 – 2_March_1959 ) was an_English_comic_actor who worked in the_United_States beginning in the_1920s and had a_very_busy_career in Hollywood_films in the_1930_and_1940s . Blore was_born in Finchley , Middlesex , England .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eric'), (5, 'Blore'), (11, '('), (12, '23'), (15, 'December'), (24, '1887'), (29, '–'), (31, '2'), (33, 'March'), (39, '1959'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'comic'), (66, 'actor'), (72, 'who'), (76, 'worked'), (83, 'in'), (86, 'the'), (90, 'United'), (97, 'States'), (104, 'beginning'), (114, 'in'), (117, 'the'), (121, '1920s'), (127, 'and'), (131, 'had'), (135, 'a'), (137, 'very'), (142, 'busy'), (147, 'career'), (154, 'in'), (157, 'Hollywood'), (167, 'films'), (173, 'in'), (176, 'the'), (180, '1930'), (185, 'and'), (189, '1940s'), (194, '.'), (196, 'Blore'), (202, 'was'), (206, 'born'), (211, 'in'), (214, 'Finchley'), (222, ','), (224, 'Middlesex'), (233, ','), (235, 'England'), (242, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eric Blore',0, 10), ('23 December 1887',12, 28), ('2 March 1959',31, 43), ('an English comic actor',49, 71), ('the United States',86, 103), ('the 1920s',117, 126), ('a very busy career',135, 153), ('Hollywood films',157, 172), ('the 1930 and 1940s',176, 194), ('was born',202, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NNP', 'NNPS', 'VBG', 'IN', 'DT', 'CD', 'CC', 'VBD', 'DT', 'RB', 'JJ', 'NN', 'IN', 'NNP', 'NNS', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'NN', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eric'), (5, 'Blore'), (11, '('), (12, '23'), (15, 'December'), (24, '1887'), (29, '–'), (31, '2'), (33, 'March'), (39, '1959'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'comic'), (66, 'actor'), (72, 'who'), (76, 'worked'), (83, 'in'), (86, 'the'), (90, 'United'), (97, 'States'), (104, 'beginning'), (114, 'in'), (117, 'the'), (121, '1920s'), (127, 'and'), (131, 'had'), (135, 'a'), (137, 'very'), (142, 'busy'), (147, 'career'), (154, 'in'), (157, 'Hollywood'), (167, 'films'), (173, 'in'), (176, 'the'), (180, '1930'), (185, 'and'), (189, '1940s'), (194, '.'), (196, 'Blore'), (202, 'was'), (206, 'born'), (211, 'in'), (214, 'Finchley'), (222, ','), (224, 'Middlesex'), (233, ','), (235, 'England'), (242, '.')])</spacy_tokens>
+<spacy_chunks>[('Eric Blore', 0, 10), ('23 December 1887', 12, 28), ('2 March 1959', 31, 43), ('an English comic actor', 49, 71), ('the United States', 86, 103), ('the 1920s', 117, 126), ('a very busy career', 135, 153), ('Hollywood films', 157, 172), ('Finchley', 214, 222), ('Middlesex', 224, 233), ('England', 235, 242)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'VBG', 'IN', 'DT', 'NNS', 'CC', 'VBD', 'DT', 'RB', 'JJ', 'NN', 'IN', 'NNP', 'NNS', 'IN', 'DT', 'CD', 'CC', 'NNS', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

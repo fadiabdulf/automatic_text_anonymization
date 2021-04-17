@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robin Irvine</title>
+<link/>https://en.wikipedia.org/wiki/Robin_Irvine
+<annotated>0</annotated>
+<originalabstract>Robin Irvine (21 December 1901, Stoke Newington, London, England – 28 April 1933, Bermuda) was a British film actor. He was married to actress Ursula Jeans from 1931 until his death.</originalabstract>
+<abstract>Robin_Irvine ( 21 December_1901 , Stoke_Newington , London , England – 28_April_1933 , Bermuda ) was a_British_film_actor . He was_married to actress_Ursula_Jeans from 1931 until his_death .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robin'), (6, 'Irvine'), (13, '('), (14, '21'), (17, 'December'), (26, '1901'), (30, ','), (32, 'Stoke'), (38, 'Newington'), (47, ','), (49, 'London'), (55, ','), (57, 'England'), (65, '–'), (67, '28'), (70, 'April'), (76, '1933'), (80, ','), (82, 'Bermuda'), (89, ')'), (91, 'was'), (95, 'a'), (97, 'British'), (105, 'film'), (110, 'actor'), (115, '.'), (117, 'He'), (120, 'was'), (124, 'married'), (132, 'to'), (135, 'actress'), (143, 'Ursula'), (150, 'Jeans'), (156, 'from'), (161, '1931'), (166, 'until'), (172, 'his'), (176, 'death'), (181, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robin Irvine',0, 12), ('December 1901',17, 30), ('Stoke Newington',32, 47), ('28 April 1933',67, 80), ('a British film actor',95, 115), ('was married',120, 131), ('actress Ursula Jeans',135, 155), ('his death',172, 181)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', ':', 'CD', 'NNP', 'CD', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robin'), (6, 'Irvine'), (13, '('), (14, '21'), (17, 'December'), (26, '1901'), (30, ','), (32, 'Stoke'), (38, 'Newington'), (47, ','), (49, 'London'), (55, ','), (57, 'England'), (65, '–'), (67, '28'), (70, 'April'), (76, '1933'), (80, ','), (82, 'Bermuda'), (89, ')'), (91, 'was'), (95, 'a'), (97, 'British'), (105, 'film'), (110, 'actor'), (115, '.'), (117, 'He'), (120, 'was'), (124, 'married'), (132, 'to'), (135, 'actress'), (143, 'Ursula'), (150, 'Jeans'), (156, 'from'), (161, '1931'), (166, 'until'), (172, 'his'), (176, 'death'), (181, '.')])</spacy_tokens>
+<spacy_chunks>[('Robin Irvine', 0, 12), ('21 December 1901', 14, 30), ('Stoke Newington', 32, 47), ('London', 49, 55), ('England', 57, 64), ('28 April 1933', 67, 80), ('Bermuda', 82, 89), ('a British film actor', 95, 115), ('actress Ursula Jeans', 135, 155), ('his death', 172, 181)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', 'CD', 'NNP', 'CD', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'JJ', 'IN', 'NN', 'NNP', 'NNPS', 'IN', 'CD', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

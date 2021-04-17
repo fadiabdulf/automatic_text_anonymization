@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Linda Louise Duan</title>
+<link/>https://en.wikipedia.org/wiki/Linda_Louise_Duan
+<annotated>0</annotated>
+<originalabstract>Linda Louise Duan (born 13 December 1993) is a British-Chinese actress known for her brief portrayal of Tina Minoru in the 2016 film Doctor Strange.</originalabstract>
+<abstract>Linda_Louise_Duan ( born_13_December_1993 ) is a_British-Chinese_actress known for her_brief_portrayal of Tina_Minoru in the_2016_film_Doctor_Strange .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Linda'), (6, 'Louise'), (13, 'Duan'), (18, '('), (19, 'born'), (24, '13'), (27, 'December'), (36, '1993'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'British-Chinese'), (63, 'actress'), (71, 'known'), (77, 'for'), (81, 'her'), (85, 'brief'), (91, 'portrayal'), (101, 'of'), (104, 'Tina'), (109, 'Minoru'), (116, 'in'), (119, 'the'), (123, '2016'), (128, 'film'), (133, 'Doctor'), (140, 'Strange'), (147, '.')])</stanford_tokens>
+<opennlp_chunks>[('Linda Louise Duan',0, 17), ('born 13 December 1993',19, 40), ('a British-Chinese actress',45, 70), ('her brief portrayal',81, 100), ('Tina Minoru',104, 115), ('the 2016 film Doctor Strange',119, 147)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Linda'), (6, 'Louise'), (13, 'Duan'), (18, '('), (19, 'born'), (24, '13'), (27, 'December'), (36, '1993'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'British'), (54, '-'), (55, 'Chinese'), (63, 'actress'), (71, 'known'), (77, 'for'), (81, 'her'), (85, 'brief'), (91, 'portrayal'), (101, 'of'), (104, 'Tina'), (109, 'Minoru'), (116, 'in'), (119, 'the'), (123, '2016'), (128, 'film'), (133, 'Doctor'), (140, 'Strange'), (147, '.')])</spacy_tokens>
+<spacy_chunks>[('Linda Louise Duan', 0, 17), ('13 December 1993', 24, 40), ('a British-Chinese actress', 45, 70), ('her brief portrayal', 81, 100), ('Tina Minoru', 104, 115), ('the 2016 film', 119, 132), ('Doctor Strange', 133, 147)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

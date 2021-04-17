@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Pinner</title>
+<link/>https://en.wikipedia.org/wiki/David_Pinner
+<annotated>0</annotated>
+<originalabstract>Pinner is a town in the London Borough of Harrow in northwest London, England, 12 miles (19 km) from Charing Cross. It is also in the historic county of Middlesex.</originalabstract>
+<abstract>Pinner is a_town in the_London_Borough of Harrow in northwest_London_,_England , 12_miles ( 19_km ) from Charing_Cross . It is also in the_historic_county of Middlesex .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Pinner'), (7, 'is'), (10, 'a'), (12, 'town'), (17, 'in'), (20, 'the'), (24, 'London'), (31, 'Borough'), (39, 'of'), (42, 'Harrow'), (49, 'in'), (52, 'northwest'), (62, 'London'), (68, ','), (70, 'England'), (77, ','), (79, '12'), (82, 'miles'), (88, '('), (89, '19'), (92, 'km'), (94, ')'), (96, 'from'), (101, 'Charing'), (109, 'Cross'), (114, '.'), (116, 'It'), (119, 'is'), (122, 'also'), (127, 'in'), (130, 'the'), (134, 'historic'), (143, 'county'), (150, 'of'), (153, 'Middlesex'), (162, '.')])</stanford_tokens>
+<opennlp_chunks>[('a town',10, 16), ('the London Borough',20, 38), ('northwest London, England',52, 77), ('12 miles',79, 87), ('19 km',89, 94), ('Charing Cross',101, 114), ('the historic county',130, 149)]</opennlp_chunks>
+<stanford_pos>['NNP', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'RB', 'NNP', ',', 'NNP', ',', 'CD', 'NNS', '-LRB-', 'CD', 'NN', '-RRB-', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Pinner'), (7, 'is'), (10, 'a'), (12, 'town'), (17, 'in'), (20, 'the'), (24, 'London'), (31, 'Borough'), (39, 'of'), (42, 'Harrow'), (49, 'in'), (52, 'northwest'), (62, 'London'), (68, ','), (70, 'England'), (77, ','), (79, '12'), (82, 'miles'), (88, '('), (89, '19'), (92, 'km'), (94, ')'), (96, 'from'), (101, 'Charing'), (109, 'Cross'), (114, '.'), (116, 'It'), (119, 'is'), (122, 'also'), (127, 'in'), (130, 'the'), (134, 'historic'), (143, 'county'), (150, 'of'), (153, 'Middlesex'), (162, '.')])</spacy_tokens>
+<spacy_chunks>[('Pinner', 0, 6), ('a town', 10, 16), ('the London Borough', 20, 38), ('Harrow', 42, 48), ('northwest London', 52, 68), ('England', 70, 77), ('12 miles', 79, 87), ('19 km', 89, 94), ('Charing Cross', 101, 114), ('the historic county', 130, 149), ('Middlesex', 153, 162)]</spacy_chunks>
+<spacy_pos>['NNP', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'JJ', 'NNP', ',', 'NNP', ',', 'CD', 'NNS', '-LRB-', 'CD', 'NNS', '-RRB-', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

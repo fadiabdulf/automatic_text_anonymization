@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Addison Richards</title>
+<link/>https://en.wikipedia.org/wiki/Addison_Richards
+<annotated>0</annotated>
+<originalabstract>Addison Whittaker Richards, Jr. (October 20, 1902 – March 22, 1964) was an American actor of film and television. Richards appeared in more than three hundred films between 1933 and his death.</originalabstract>
+<abstract>Addison_Whittaker_Richards , Jr. ( October_20_,_1902 – March_22_,_1964 ) was an_American_actor of film_and_television . Richards appeared in more_than_three_hundred_films between 1933 and his_death .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Addison'), (8, 'Whittaker'), (18, 'Richards'), (26, ','), (28, 'Jr.'), (32, '('), (33, 'October'), (41, '20'), (43, ','), (45, '1902'), (50, '–'), (52, 'March'), (58, '22'), (60, ','), (62, '1964'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'American'), (84, 'actor'), (90, 'of'), (93, 'film'), (98, 'and'), (102, 'television'), (112, '.'), (114, 'Richards'), (123, 'appeared'), (132, 'in'), (135, 'more'), (140, 'than'), (145, 'three'), (151, 'hundred'), (159, 'films'), (165, 'between'), (173, '1933'), (178, 'and'), (182, 'his'), (186, 'death'), (191, '.')])</stanford_tokens>
+<opennlp_chunks>[('Addison Whittaker Richards',0, 26), ('October 20, 1902',33, 49), ('March 22, 1964',52, 66), ('an American actor',72, 89), ('film and television',93, 112), ('more than three hundred films',135, 164), ('his death',182, 191)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Addison'), (8, 'Whittaker'), (18, 'Richards'), (26, ','), (28, 'Jr.'), (32, '('), (33, 'October'), (41, '20'), (43, ','), (45, '1902'), (50, '–'), (52, 'March'), (58, '22'), (60, ','), (62, '1964'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'American'), (84, 'actor'), (90, 'of'), (93, 'film'), (98, 'and'), (102, 'television'), (112, '.'), (114, 'Richards'), (123, 'appeared'), (132, 'in'), (135, 'more'), (140, 'than'), (145, 'three'), (151, 'hundred'), (159, 'films'), (165, 'between'), (173, '1933'), (178, 'and'), (182, 'his'), (186, 'death'), (191, '.')])</spacy_tokens>
+<spacy_chunks>[('Addison Whittaker Richards', 0, 26), ('Jr. (October', 28, 40), ('October 20, 1902', 33, 49), ('March 22, 1964', 52, 66), ('an American actor', 72, 89), ('television', 102, 112), ('more than three hundred films', 135, 164), ('his death', 182, 191)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

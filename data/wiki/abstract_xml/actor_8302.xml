@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arthur Hambling</title>
+<link/>https://en.wikipedia.org/wiki/Arthur_Hambling
+<annotated>0</annotated>
+<originalabstract>Arthur Hambling (14 March 1888 – 6 December 1952) was a British actor, on stage from 1912, and best known for appearances in the films Henry V (1944) and The Lavender Hill Mob (1951).</originalabstract>
+<abstract>Arthur_Hambling ( 14_March_1888 – 6_December_1952 ) was a_British_actor , on stage from 1912 , and best_known for appearances in the_films_Henry_V ( 1944 ) and The_Lavender_Hill_Mob ( 1951 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthur'), (7, 'Hambling'), (16, '('), (17, '14'), (20, 'March'), (26, '1888'), (31, '–'), (33, '6'), (35, 'December'), (44, '1952'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'British'), (64, 'actor'), (69, ','), (71, 'on'), (74, 'stage'), (80, 'from'), (85, '1912'), (89, ','), (91, 'and'), (95, 'best'), (100, 'known'), (106, 'for'), (110, 'appearances'), (122, 'in'), (125, 'the'), (129, 'films'), (135, 'Henry'), (141, 'V'), (143, '('), (144, '1944'), (148, ')'), (150, 'and'), (154, 'The'), (158, 'Lavender'), (167, 'Hill'), (172, 'Mob'), (176, '('), (177, '1951'), (181, ')'), (182, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthur Hambling',0, 15), ('14 March 1888',17, 30), ('6 December 1952',33, 48), ('a British actor',54, 69), ('best known',95, 105), ('the films Henry V',125, 142), ('The Lavender Hill Mob',154, 175)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'IN', 'NN', 'IN', 'CD', ',', 'CC', 'RB', 'VBN', 'IN', 'NNS', 'IN', 'DT', 'NNS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthur'), (7, 'Hambling'), (16, '('), (17, '14'), (20, 'March'), (26, '1888'), (31, '–'), (33, '6'), (35, 'December'), (44, '1952'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'British'), (64, 'actor'), (69, ','), (71, 'on'), (74, 'stage'), (80, 'from'), (85, '1912'), (89, ','), (91, 'and'), (95, 'best'), (100, 'known'), (106, 'for'), (110, 'appearances'), (122, 'in'), (125, 'the'), (129, 'films'), (135, 'Henry'), (141, 'V'), (143, '('), (144, '1944'), (148, ')'), (150, 'and'), (154, 'The'), (158, 'Lavender'), (167, 'Hill'), (172, 'Mob'), (176, '('), (177, '1951'), (181, ')'), (182, '.')])</spacy_tokens>
+<spacy_chunks>[('Arthur Hambling', 0, 15), ('14 March 1888', 17, 30), ('6 December 1952', 33, 48), ('a British actor', 54, 69), ('appearances', 110, 121), ('the films', 125, 134), ('Henry V (1944', 135, 148), ('The Lavender Hill Mob', 154, 175)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'IN', 'NN', 'IN', 'CD', ',', 'CC', 'RBS', 'VBN', 'IN', 'NNS', 'IN', 'DT', 'NNS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Martin Barrass</title>
+<link/>https://en.wikipedia.org/wiki/Martin_Barrass
+<annotated>0</annotated>
+<originalabstract>Martin Barrass is an English film, television and theatre actor as well as being a DJ on local radio. He is best known for his role as Ron Frost in the television series Angels, Mike Conrad in Emmerdale and for appearing alongside Berwick Kaler in the annual York Theatre Royal Pantomime every year from 1984 onwards.</originalabstract>
+<abstract>Martin_Barrass is an_English_film_,_television_and_theatre_actor as_well as being a_DJ on local_radio . He is_best_known for his_role as Ron_Frost in the_television_series_Angels , Mike_Conrad in Emmerdale and for appearing alongside Berwick_Kaler in the_annual_York_Theatre_Royal_Pantomime every_year from 1984_onwards .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Martin'), (7, 'Barrass'), (15, 'is'), (18, 'an'), (21, 'English'), (29, 'film'), (33, ','), (35, 'television'), (46, 'and'), (50, 'theatre'), (58, 'actor'), (64, 'as'), (67, 'well'), (72, 'as'), (75, 'being'), (81, 'a'), (83, 'DJ'), (86, 'on'), (89, 'local'), (95, 'radio'), (100, '.'), (102, 'He'), (105, 'is'), (108, 'best'), (113, 'known'), (119, 'for'), (123, 'his'), (127, 'role'), (132, 'as'), (135, 'Ron'), (139, 'Frost'), (145, 'in'), (148, 'the'), (152, 'television'), (163, 'series'), (170, 'Angels'), (176, ','), (178, 'Mike'), (183, 'Conrad'), (190, 'in'), (193, 'Emmerdale'), (203, 'and'), (207, 'for'), (211, 'appearing'), (221, 'alongside'), (231, 'Berwick'), (239, 'Kaler'), (245, 'in'), (248, 'the'), (252, 'annual'), (259, 'York'), (264, 'Theatre'), (272, 'Royal'), (278, 'Pantomime'), (288, 'every'), (294, 'year'), (299, 'from'), (304, '1984'), (309, 'onwards'), (316, '.')])</stanford_tokens>
+<opennlp_chunks>[('Martin Barrass',0, 14), ('an English film, television and theatre actor',18, 63), ('as well',64, 71), ('a DJ',81, 85), ('local radio',89, 100), ('is best known',105, 118), ('his role',123, 131), ('Ron Frost',135, 144), ('the television series Angels',148, 176), ('Mike Conrad',178, 189), ('Berwick Kaler',231, 244), ('the annual York Theatre Royal Pantomime',248, 287), ('every year',288, 298), ('1984 onwards',304, 316)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'RB', 'RB', 'IN', 'VBG', 'DT', 'NNP', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', 'DT', 'NN', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Martin'), (7, 'Barrass'), (15, 'is'), (18, 'an'), (21, 'English'), (29, 'film'), (33, ','), (35, 'television'), (46, 'and'), (50, 'theatre'), (58, 'actor'), (64, 'as'), (67, 'well'), (72, 'as'), (75, 'being'), (81, 'a'), (83, 'DJ'), (86, 'on'), (89, 'local'), (95, 'radio'), (100, '.'), (102, 'He'), (105, 'is'), (108, 'best'), (113, 'known'), (119, 'for'), (123, 'his'), (127, 'role'), (132, 'as'), (135, 'Ron'), (139, 'Frost'), (145, 'in'), (148, 'the'), (152, 'television'), (163, 'series'), (170, 'Angels'), (176, ','), (178, 'Mike'), (183, 'Conrad'), (190, 'in'), (193, 'Emmerdale'), (203, 'and'), (207, 'for'), (211, 'appearing'), (221, 'alongside'), (231, 'Berwick'), (239, 'Kaler'), (245, 'in'), (248, 'the'), (252, 'annual'), (259, 'York'), (264, 'Theatre'), (272, 'Royal'), (278, 'Pantomime'), (288, 'every'), (294, 'year'), (299, 'from'), (304, '1984'), (309, 'onwards'), (316, '.')])</spacy_tokens>
+<spacy_chunks>[('Martin Barrass', 0, 14), ('an English film, television and theatre actor', 18, 63), ('a DJ', 81, 85), ('local radio', 89, 100), ('his role', 123, 131), ('Ron Frost', 135, 144), ('the television series', 148, 169), ('Angels', 170, 176), ('Mike Conrad', 178, 189), ('Emmerdale', 193, 202), ('Berwick Kaler', 231, 244), ('the annual York Theatre Royal Pantomime', 248, 287)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'RB', 'RB', 'IN', 'VBG', 'DT', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', 'DT', 'NN', 'IN', 'CD', 'RB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

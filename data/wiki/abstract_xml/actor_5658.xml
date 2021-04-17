@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jason Robards Sr.</title>
+<link/>https://en.wikipedia.org/wiki/Jason_Robards_Sr.
+<annotated>0</annotated>
+<originalabstract>Jason Nelson Robards Sr. (December 31, 1892 – April 4, 1963) was an American stage and screen actor, and the father of Oscar-winning actor Jason Robards Jr. Robards appeared in many films, initially as a leading man, then in character roles and occasional bits. Most of his final roles were in television.</originalabstract>
+<abstract>Jason_Nelson_Robards_Sr. ( December_31_,_1892 – April_4_,_1963 ) was an_American_stage_and_screen_actor , and the_father of Oscar-winning_actor_Jason_Robards_Jr . Robards appeared in many_films , initially as a_leading_man , then in character_roles and occasional_bits . Most of his_final_roles were in television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jason'), (6, 'Nelson'), (13, 'Robards'), (21, 'Sr.'), (25, '('), (26, 'December'), (35, '31'), (37, ','), (39, '1892'), (44, '–'), (46, 'April'), (52, '4'), (53, ','), (55, '1963'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'stage'), (83, 'and'), (87, 'screen'), (94, 'actor'), (99, ','), (101, 'and'), (105, 'the'), (109, 'father'), (116, 'of'), (119, 'Oscar-winning'), (133, 'actor'), (139, 'Jason'), (145, 'Robards'), (153, 'Jr'), (155, '.'), (157, 'Robards'), (165, 'appeared'), (174, 'in'), (177, 'many'), (182, 'films'), (187, ','), (189, 'initially'), (199, 'as'), (202, 'a'), (204, 'leading'), (212, 'man'), (215, ','), (217, 'then'), (222, 'in'), (225, 'character'), (235, 'roles'), (241, 'and'), (245, 'occasional'), (256, 'bits'), (260, '.'), (262, 'Most'), (267, 'of'), (270, 'his'), (274, 'final'), (280, 'roles'), (286, 'were'), (291, 'in'), (294, 'television'), (304, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jason Nelson Robards Sr.',0, 24), ('December 31, 1892',26, 43), ('April 4, 1963',46, 59), ('an American stage and screen actor',65, 99), ('the father',105, 115), ('Oscar-winning actor Jason Robards Jr',119, 155), ('many films',177, 187), ('a leading man',202, 215), ('character roles',225, 240), ('occasional bits',245, 260), ('his final roles',270, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'CC', 'DT', 'NN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', '.', 'NNS', 'VBD', 'IN', 'JJ', 'NNS', ',', 'RB', 'IN', 'DT', 'VBG', 'NN', ',', 'RB', 'IN', 'NN', 'NNS', 'CC', 'JJ', 'NNS', '.', 'JJS', 'IN', 'PRP$', 'JJ', 'NNS', 'VBD', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jason'), (6, 'Nelson'), (13, 'Robards'), (21, 'Sr'), (23, '.'), (25, '('), (26, 'December'), (35, '31'), (37, ','), (39, '1892'), (44, '–'), (46, 'April'), (52, '4'), (53, ','), (55, '1963'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'stage'), (83, 'and'), (87, 'screen'), (94, 'actor'), (99, ','), (101, 'and'), (105, 'the'), (109, 'father'), (116, 'of'), (119, 'Oscar'), (124, '-'), (125, 'winning'), (133, 'actor'), (139, 'Jason'), (145, 'Robards'), (153, 'Jr.'), (157, 'Robards'), (165, 'appeared'), (174, 'in'), (177, 'many'), (182, 'films'), (187, ','), (189, 'initially'), (199, 'as'), (202, 'a'), (204, 'leading'), (212, 'man'), (215, ','), (217, 'then'), (222, 'in'), (225, 'character'), (235, 'roles'), (241, 'and'), (245, 'occasional'), (256, 'bits'), (260, '.'), (262, 'Most'), (267, 'of'), (270, 'his'), (274, 'final'), (280, 'roles'), (286, 'were'), (291, 'in'), (294, 'television'), (304, '.')])</spacy_tokens>
+<spacy_chunks>[('Jason Nelson Robards Sr', 0, 23), ('(December', 25, 34), ('December 31, 1892', 26, 43), ('April 4, 1963', 46, 59), ('an American stage', 65, 82), ('screen actor', 87, 99), ('the father', 105, 115), ('Oscar-winning actor Jason Robards Jr. Robards', 119, 164), ('many films', 177, 187), ('a leading man', 202, 215), ('character roles', 225, 240), ('occasional bits', 245, 260), ('his final roles', 270, 285), ('television', 294, 304)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '.', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'CC', 'DT', 'NN', 'IN', 'NNP', 'HYPH', 'VBG', 'NN', 'NNP', 'NNP', 'NNP', 'NNP', 'VBD', 'IN', 'JJ', 'NNS', ',', 'RB', 'IN', 'DT', 'VBG', 'NN', ',', 'RB', 'IN', 'NN', 'NNS', 'CC', 'JJ', 'NNS', '.', 'JJS', 'IN', 'PRP$', 'JJ', 'NNS', 'VBD', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

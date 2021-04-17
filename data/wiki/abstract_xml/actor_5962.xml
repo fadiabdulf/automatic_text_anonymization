@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michael Schoeffling</title>
+<link/>https://en.wikipedia.org/wiki/Michael_Schoeffling
+<annotated>0</annotated>
+<originalabstract>Michael Earl Schoeffling (born December 10, 1960) is an American former actor and male model, known for playing Jake Ryan in Sixteen Candles, Kuch in Vision Quest, and Joe in Mermaids.</originalabstract>
+<abstract>Michael_Earl_Schoeffling ( born December_10_,_1960 ) is an_American_former_actor_and_male_model , known for playing Jake_Ryan in Sixteen_Candles , Kuch in Vision_Quest , and Joe in Mermaids .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michael'), (8, 'Earl'), (13, 'Schoeffling'), (25, '('), (26, 'born'), (31, 'December'), (40, '10'), (42, ','), (44, '1960'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'former'), (72, 'actor'), (78, 'and'), (82, 'male'), (87, 'model'), (92, ','), (94, 'known'), (100, 'for'), (104, 'playing'), (112, 'Jake'), (117, 'Ryan'), (122, 'in'), (125, 'Sixteen'), (133, 'Candles'), (140, ','), (142, 'Kuch'), (147, 'in'), (150, 'Vision'), (157, 'Quest'), (162, ','), (164, 'and'), (168, 'Joe'), (172, 'in'), (175, 'Mermaids'), (183, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michael Earl Schoeffling',0, 24), ('December 10, 1960',31, 48), ('an American former actor and male model',53, 92), ('Jake Ryan',112, 121), ('Sixteen Candles',125, 140), ('Vision Quest',150, 162)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'JJ', 'NN', ',', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'CD', 'NNS', ',', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michael'), (8, 'Earl'), (13, 'Schoeffling'), (25, '('), (26, 'born'), (31, 'December'), (40, '10'), (42, ','), (44, '1960'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'former'), (72, 'actor'), (78, 'and'), (82, 'male'), (87, 'model'), (92, ','), (94, 'known'), (100, 'for'), (104, 'playing'), (112, 'Jake'), (117, 'Ryan'), (122, 'in'), (125, 'Sixteen'), (133, 'Candles'), (140, ','), (142, 'Kuch'), (147, 'in'), (150, 'Vision'), (157, 'Quest'), (162, ','), (164, 'and'), (168, 'Joe'), (172, 'in'), (175, 'Mermaids'), (183, '.')])</spacy_tokens>
+<spacy_chunks>[('Michael Earl Schoeffling', 0, 24), ('December 10, 1960', 31, 48), ('an American former actor', 53, 77), ('Male model', 82, 92), ('Jake Ryan', 112, 121), ('Sixteen Candles', 125, 140), ('Vision Quest', 150, 162), ('Mermaids', 175, 183)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'JJ', 'NN', ',', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'CD', 'NNS', ',', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Laura Cepeda</title>
+<link/>https://en.wikipedia.org/wiki/Laura_Cepeda
+<annotated>0</annotated>
+<originalabstract>Laura Cepeda (Monterrey, México (born June 24, 1953) is a Spanish actress.</originalabstract>
+<abstract>Laura_Cepeda ( Monterrey , México ( born June_24_,_1953 ) is a_Spanish_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Laura'), (6, 'Cepeda'), (13, '('), (14, 'Monterrey'), (23, ','), (25, 'México'), (32, '('), (33, 'born'), (38, 'June'), (43, '24'), (45, ','), (47, '1953'), (51, ')'), (53, 'is'), (56, 'a'), (58, 'Spanish'), (66, 'actress'), (73, '.')])</stanford_tokens>
+<opennlp_chunks>[('Laura Cepeda',0, 12), ('June 24, 1953',38, 51), ('a Spanish actress',56, 73)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Laura'), (6, 'Cepeda'), (13, '('), (14, 'Monterrey'), (23, ','), (25, 'México'), (32, '('), (33, 'born'), (38, 'June'), (43, '24'), (45, ','), (47, '1953'), (51, ')'), (53, 'is'), (56, 'a'), (58, 'Spanish'), (66, 'actress'), (73, '.')])</spacy_tokens>
+<spacy_chunks>[('Laura Cepeda', 0, 12), ('Monterrey', 14, 23), ('México', 25, 31), ('June 24, 1953', 38, 51), ('a Spanish actress', 56, 73)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

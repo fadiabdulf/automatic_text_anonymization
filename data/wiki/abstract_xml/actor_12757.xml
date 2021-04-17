@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gloria Henry</title>
+<link/>https://en.wikipedia.org/wiki/Gloria_Henry
+<annotated>0</annotated>
+<originalabstract>Gloria Henry (born Gloria McEniry; April 2, 1923) is an American actress, best known for her role as Alice Mitchell, Dennis’s mother, from 1959 to 1963 on the CBS family sitcom, Dennis the Menace.</originalabstract>
+<abstract>Gloria_Henry ( born Gloria_McEniry ; April_2_,_1923 ) is an_American_actress , best_known for her_role as Alice_Mitchell , Dennis ’s_mother , from 1959 to 1963 on the_CBS_family_sitcom , Dennis the_Menace .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gloria'), (7, 'Henry'), (13, '('), (14, 'born'), (19, 'Gloria'), (26, 'McEniry'), (33, ';'), (35, 'April'), (41, '2'), (42, ','), (44, '1923'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actress'), (72, ','), (74, 'best'), (79, 'known'), (85, 'for'), (89, 'her'), (93, 'role'), (98, 'as'), (101, 'Alice'), (107, 'Mitchell'), (115, ','), (117, 'Dennis'), (123, '’s'), (126, 'mother'), (132, ','), (134, 'from'), (139, '1959'), (144, 'to'), (147, '1963'), (152, 'on'), (155, 'the'), (159, 'CBS'), (163, 'family'), (170, 'sitcom'), (176, ','), (178, 'Dennis'), (185, 'the'), (189, 'Menace'), (195, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gloria Henry',0, 12), ('Gloria McEniry',19, 33), ('April 2, 1923',35, 48), ('an American actress',53, 72), ('best known',74, 84), ('her role',89, 97), ('Alice Mitchell',101, 115), ('’s mother',123, 132), ('the CBS family sitcom',155, 176), ('the Menace',185, 195)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'POS', 'NN', ',', 'IN', 'CD', 'TO', 'CD', 'IN', 'DT', 'NNP', 'NN', 'NN', ',', 'NNP', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gloria'), (7, 'Henry'), (13, '('), (14, 'born'), (19, 'Gloria'), (26, 'McEniry'), (33, ';'), (35, 'April'), (41, '2'), (42, ','), (44, '1923'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actress'), (72, ','), (74, 'best'), (79, 'known'), (85, 'for'), (89, 'her'), (93, 'role'), (98, 'as'), (101, 'Alice'), (107, 'Mitchell'), (115, ','), (117, 'Dennis'), (123, '’s'), (126, 'mother'), (132, ','), (134, 'from'), (139, '1959'), (144, 'to'), (147, '1963'), (152, 'on'), (155, 'the'), (159, 'CBS'), (163, 'family'), (170, 'sitcom'), (176, ','), (178, 'Dennis'), (185, 'the'), (189, 'Menace'), (195, '.')])</spacy_tokens>
+<spacy_chunks>[('Gloria Henry', 0, 12), ('born Gloria McEniry', 14, 33), ('April 2, 1923', 35, 48), ('an American actress', 53, 72), ('her role', 89, 97), ('Alice Mitchell', 101, 115), ('Dennis’s mother', 117, 132), ('the CBS family sitcom', 155, 176), ('the Menace', 185, 195)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'POS', 'NN', ',', 'IN', 'CD', 'IN', 'CD', 'IN', 'DT', 'NNP', 'NN', 'NN', ',', 'NNP', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Pierre Blanchar</title>
+<link/>https://en.wikipedia.org/wiki/Pierre_Blanchar
+<annotated>0</annotated>
+<originalabstract>Pierre Blanchar (30 June 1892 – 21 November 1963) was a French actor. He appeared in 54 films between 1922 and 1961. Blanchar was married to actress Marthe Vinot, with whom he had a daughter, actress Dominique Blanchar.</originalabstract>
+<abstract>Pierre_Blanchar ( 30_June_1892 – 21_November_1963 ) was a_French_actor . He appeared in 54_films between 1922_and_1961 . Blanchar was_married to actress_Marthe_Vinot , with whom he had a_daughter , actress_Dominique_Blanchar .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Pierre'), (7, 'Blanchar'), (16, '('), (17, '30'), (20, 'June'), (25, '1892'), (30, '–'), (32, '21'), (35, 'November'), (44, '1963'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'actor'), (68, '.'), (70, 'He'), (73, 'appeared'), (82, 'in'), (85, '54'), (88, 'films'), (94, 'between'), (102, '1922'), (107, 'and'), (111, '1961'), (115, '.'), (117, 'Blanchar'), (126, 'was'), (130, 'married'), (138, 'to'), (141, 'actress'), (149, 'Marthe'), (156, 'Vinot'), (161, ','), (163, 'with'), (168, 'whom'), (173, 'he'), (176, 'had'), (180, 'a'), (182, 'daughter'), (190, ','), (192, 'actress'), (200, 'Dominique'), (210, 'Blanchar'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Pierre Blanchar',0, 15), ('30 June 1892',17, 29), ('21 November 1963',32, 48), ('a French actor',54, 68), ('54 films',85, 93), ('1922 and 1961',102, 115), ('was married',126, 137), ('actress Marthe Vinot',141, 161), ('a daughter',180, 190), ('actress Dominique Blanchar',192, 218)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'TO', 'NN', 'NNP', 'NNP', ',', 'IN', 'WP', 'PRP', 'VBD', 'DT', 'NN', ',', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Pierre'), (7, 'Blanchar'), (16, '('), (17, '30'), (20, 'June'), (25, '1892'), (30, '–'), (32, '21'), (35, 'November'), (44, '1963'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'actor'), (68, '.'), (70, 'He'), (73, 'appeared'), (82, 'in'), (85, '54'), (88, 'films'), (94, 'between'), (102, '1922'), (107, 'and'), (111, '1961'), (115, '.'), (117, 'Blanchar'), (126, 'was'), (130, 'married'), (138, 'to'), (141, 'actress'), (149, 'Marthe'), (156, 'Vinot'), (161, ','), (163, 'with'), (168, 'whom'), (173, 'he'), (176, 'had'), (180, 'a'), (182, 'daughter'), (190, ','), (192, 'actress'), (200, 'Dominique'), (210, 'Blanchar'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Pierre Blanchar', 0, 15), ('(30 June', 16, 24), ('30 June 1892', 17, 29), ('21 November 1963', 32, 48), ('a French actor', 54, 68), ('54 films', 85, 93), ('actress Marthe Vinot', 141, 161), ('a daughter', 180, 190), ('actress Dominique Blanchar', 192, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'JJ', 'IN', 'NN', 'NNP', 'NNP', ',', 'IN', 'WP', 'PRP', 'VBD', 'DT', 'NN', ',', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phoebe Cates</title>
+<link/>https://en.wikipedia.org/wiki/Phoebe_Cates
+<annotated>0</annotated>
+<originalabstract>Phoebe Belle Cates (born July 16, 1963) is a former American film actress, singer and model known primarily for her roles in several 1980s films, most notably Fast Times at Ridgemont High and Gremlins.</originalabstract>
+<abstract>Phoebe_Belle_Cates ( born July_16_,_1963 ) is a_former_American_film_actress , singer_and_model known primarily for her_roles in several_1980s_films , most_notably Fast_Times at Ridgemont_High_and_Gremlins .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phoebe'), (7, 'Belle'), (13, 'Cates'), (19, '('), (20, 'born'), (25, 'July'), (30, '16'), (32, ','), (34, '1963'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'former'), (52, 'American'), (61, 'film'), (66, 'actress'), (73, ','), (75, 'singer'), (82, 'and'), (86, 'model'), (92, 'known'), (98, 'primarily'), (108, 'for'), (112, 'her'), (116, 'roles'), (122, 'in'), (125, 'several'), (133, '1980s'), (139, 'films'), (144, ','), (146, 'most'), (151, 'notably'), (159, 'Fast'), (164, 'Times'), (170, 'at'), (173, 'Ridgemont'), (183, 'High'), (188, 'and'), (192, 'Gremlins'), (200, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phoebe Belle Cates',0, 18), ('July 16, 1963',25, 38), ('a former American film actress',43, 73), ('singer and model',75, 91), ('her roles',112, 121), ('several 1980s films',125, 144), ('most notably',146, 158), ('Fast Times',159, 169), ('Ridgemont High and Gremlins',173, 200)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'VBN', 'RB', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNS', 'NNS', ',', 'RBS', 'RB', 'JJ', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phoebe'), (7, 'Belle'), (13, 'Cates'), (19, '('), (20, 'born'), (25, 'July'), (30, '16'), (32, ','), (34, '1963'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'former'), (52, 'American'), (61, 'film'), (66, 'actress'), (73, ','), (75, 'singer'), (82, 'and'), (86, 'model'), (92, 'known'), (98, 'primarily'), (108, 'for'), (112, 'her'), (116, 'roles'), (122, 'in'), (125, 'several'), (133, '1980s'), (139, 'films'), (144, ','), (146, 'most'), (151, 'notably'), (159, 'Fast'), (164, 'Times'), (170, 'at'), (173, 'Ridgemont'), (183, 'High'), (188, 'and'), (192, 'Gremlins'), (200, '.')])</spacy_tokens>
+<spacy_chunks>[('Phoebe Belle Cates', 0, 18), ('July 16, 1963', 25, 38), ('a former American film actress', 43, 73), ('singer', 75, 81), ('her roles', 112, 121), ('several 1980s films', 125, 144), ('most notably Fast Times', 146, 169), ('Fast Times at Ridgemont High', 159, 187), ('Gremlins', 192, 200)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'VBN', 'RB', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNS', 'NNS', ',', 'RBS', 'RB', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

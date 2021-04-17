@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mary Ann Pascal</title>
+<link/>https://en.wikipedia.org/wiki/Mary_Ann_Pascal
+<annotated>0</annotated>
+<originalabstract>Mary Ann Pascal (born February 4, 1958) is an American actress and business executive. She is known for her role as Samantha "Sam" Booke (later Waters) on the Showtime original comedy series Brothers, and is currently Vice President of Player Development at Wynn Las Vegas.</originalabstract>
+<abstract>Mary_Ann Pascal ( born February_4_,_1958 ) is an_American_actress_and_business_executive . She is_known for her_role as Samantha_"_Sam_"_Booke ( later Waters_) on the_Showtime_original_comedy_series_Brothers , and is currently Vice_President of Player_Development at Wynn_Las_Vegas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Ann'), (9, 'Pascal'), (16, '('), (17, 'born'), (22, 'February'), (31, '4'), (32, ','), (34, '1958'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'business'), (76, 'executive'), (85, '.'), (87, 'She'), (91, 'is'), (94, 'known'), (100, 'for'), (104, 'her'), (108, 'role'), (113, 'as'), (116, 'Samantha'), (125, '"'), (126, 'Sam'), (129, '"'), (131, 'Booke'), (137, '('), (138, 'later'), (144, 'Waters'), (150, ')'), (152, 'on'), (155, 'the'), (159, 'Showtime'), (168, 'original'), (177, 'comedy'), (184, 'series'), (191, 'Brothers'), (199, ','), (201, 'and'), (205, 'is'), (208, 'currently'), (218, 'Vice'), (223, 'President'), (233, 'of'), (236, 'Player'), (243, 'Development'), (255, 'at'), (258, 'Wynn'), (263, 'Las'), (267, 'Vegas'), (272, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Ann',0, 8), ('February 4, 1958',22, 38), ('an American actress and business executive',43, 85), ('is known',91, 99), ('her role',104, 112), ('Samantha "Sam" Booke',116, 136), ('Waters)',144, 151), ('the Showtime original comedy series Brothers',155, 199), ('Vice President',218, 232), ('Player Development',236, 254), ('Wynn Las Vegas',258, 272)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'RB', 'NNP', '-RRB-', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NN', 'NN', ',', 'CC', 'VBZ', 'RB', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Ann'), (9, 'Pascal'), (16, '('), (17, 'born'), (22, 'February'), (31, '4'), (32, ','), (34, '1958'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'business'), (76, 'executive'), (85, '.'), (87, 'She'), (91, 'is'), (94, 'known'), (100, 'for'), (104, 'her'), (108, 'role'), (113, 'as'), (116, 'Samantha'), (125, '"'), (126, 'Sam'), (129, '"'), (131, 'Booke'), (137, '('), (138, 'later'), (144, 'Waters'), (150, ')'), (152, 'on'), (155, 'the'), (159, 'Showtime'), (168, 'original'), (177, 'comedy'), (184, 'series'), (191, 'Brothers'), (199, ','), (201, 'and'), (205, 'is'), (208, 'currently'), (218, 'Vice'), (223, 'President'), (233, 'of'), (236, 'Player'), (243, 'Development'), (255, 'at'), (258, 'Wynn'), (263, 'Las'), (267, 'Vegas'), (272, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Ann Pascal', 0, 15), ('February 4, 1958', 22, 38), ('an American actress', 43, 62), ('Business executive', 67, 85), ('her role', 104, 112), ('Samantha', 116, 124), ('"Sam" Booke', 125, 136), ('(later Waters', 137, 150), ('the Showtime original comedy series', 155, 190), ('Brothers', 191, 199), ('Vice President', 218, 232), ('Player Development', 236, 254), ('Wynn Las Vegas', 258, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'JJ', 'NNP', '-RRB-', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NN', 'NNPS', ',', 'CC', 'VBZ', 'RB', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

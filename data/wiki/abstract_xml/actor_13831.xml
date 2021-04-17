@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Shalane McCall</title>
+<link/>https://en.wikipedia.org/wiki/Shalane_McCall
+<annotated>0</annotated>
+<originalabstract>Shalane McCall (born September 16, 1972) is a former American child actress and model, best known for appearing for five seasons (1983–1988) on the hit CBS prime time soap opera Dallas playing Charlotte "Charlie" Wade, the daughter of Jenna Wade (Priscilla Presley).</originalabstract>
+<abstract>Shalane_McCall ( born September_16_,_1972 ) is a_former_American_child_actress_and_model , best_known for appearing for_five_seasons ( 1983 – 1988 ) on the_hit CBS_prime_time_soap_opera_Dallas playing Charlotte_"_Charlie_"_Wade , the_daughter of Jenna_Wade ( Priscilla_Presley ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Shalane'), (8, 'McCall'), (15, '('), (16, 'born'), (21, 'September'), (31, '16'), (33, ','), (35, '1972'), (39, ')'), (41, 'is'), (44, 'a'), (46, 'former'), (53, 'American'), (62, 'child'), (68, 'actress'), (76, 'and'), (80, 'model'), (85, ','), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'appearing'), (112, 'for'), (116, 'five'), (121, 'seasons'), (129, '('), (130, '1983'), (134, '–'), (135, '1988'), (139, ')'), (141, 'on'), (144, 'the'), (148, 'hit'), (152, 'CBS'), (156, 'prime'), (162, 'time'), (167, 'soap'), (172, 'opera'), (178, 'Dallas'), (185, 'playing'), (193, 'Charlotte'), (203, '"'), (204, 'Charlie'), (211, '"'), (213, 'Wade'), (217, ','), (219, 'the'), (223, 'daughter'), (232, 'of'), (235, 'Jenna'), (241, 'Wade'), (246, '('), (247, 'Priscilla'), (257, 'Presley'), (264, ')'), (265, '.')])</stanford_tokens>
+<opennlp_chunks>[('Shalane McCall',0, 14), ('September 16, 1972',21, 39), ('a former American child actress and model',44, 85), ('best known',87, 97), ('for five seasons',112, 128), ('the hit',144, 151), ('CBS prime time soap opera Dallas',152, 184), ('Charlotte "Charlie" Wade',193, 217), ('the daughter',219, 231), ('Jenna Wade',235, 245), ('Priscilla Presley',247, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'NN', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'CD', 'NNS', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'IN', 'DT', 'NN', 'NNP', 'JJ', 'NN', 'NN', 'NN', 'NNP', 'VBG', 'NNP', '``', 'NNP', '\'\'', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Shalane'), (8, 'McCall'), (15, '('), (16, 'born'), (21, 'September'), (31, '16'), (33, ','), (35, '1972'), (39, ')'), (41, 'is'), (44, 'a'), (46, 'former'), (53, 'American'), (62, 'child'), (68, 'actress'), (76, 'and'), (80, 'model'), (85, ','), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'appearing'), (112, 'for'), (116, 'five'), (121, 'seasons'), (129, '('), (130, '1983–1988'), (139, ')'), (141, 'on'), (144, 'the'), (148, 'hit'), (152, 'CBS'), (156, 'prime'), (162, 'time'), (167, 'soap'), (172, 'opera'), (178, 'Dallas'), (185, 'playing'), (193, 'Charlotte'), (203, '"'), (204, 'Charlie'), (211, '"'), (213, 'Wade'), (217, ','), (219, 'the'), (223, 'daughter'), (232, 'of'), (235, 'Jenna'), (241, 'Wade'), (246, '('), (247, 'Priscilla'), (257, 'Presley'), (264, ')'), (265, '.')])</spacy_tokens>
+<spacy_chunks>[('Shalane McCall', 0, 14), ('September 16, 1972', 21, 39), ('a former American child actress', 44, 75), ('five seasons', 116, 128), ('the hit CBS prime time soap opera', 144, 177), ('Dallas', 178, 184), ('Charlotte "Charlie" Wade', 193, 217), ('the daughter', 219, 231), ('Jenna Wade', 235, 245), ('Priscilla Presley', 247, 264)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'IN', 'CD', 'NNS', '-LRB-', 'CD', '-RRB-', 'IN', 'DT', 'VBN', 'NNP', 'JJ', 'NN', 'NN', 'NN', 'NNP', 'VBG', 'NNP', '``', 'NNP', '``', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

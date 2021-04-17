@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lee Philips</title>
+<link/>https://en.wikipedia.org/wiki/Lee_Philips
+<annotated>0</annotated>
+<originalabstract>For similarly named individuals, see Lee Phillips (disambiguation)Lee Philips (born Leon Friedman, January 10, 1927 – March 3, 1999) was an American actor, film director and television director.</originalabstract>
+<abstract>For similarly_named_individuals , see Lee_Phillips ( disambiguation ) Lee_Philips ( born Leon_Friedman , January_10_,_1927 – March_3_,_1999 ) was an_American_actor , film_director_and_television_director .</abstract>
+<stanford_tokens>OrderedDict([(0, 'For'), (4, 'similarly'), (14, 'named'), (20, 'individuals'), (31, ','), (33, 'see'), (37, 'Lee'), (41, 'Phillips'), (50, '('), (51, 'disambiguation'), (65, ')'), (66, 'Lee'), (70, 'Philips'), (78, '('), (79, 'born'), (84, 'Leon'), (89, 'Friedman'), (97, ','), (99, 'January'), (107, '10'), (109, ','), (111, '1927'), (116, '–'), (118, 'March'), (124, '3'), (125, ','), (127, '1999'), (131, ')'), (133, 'was'), (137, 'an'), (140, 'American'), (149, 'actor'), (154, ','), (156, 'film'), (161, 'director'), (170, 'and'), (174, 'television'), (185, 'director'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('similarly named individuals',4, 31), ('Lee Phillips',37, 49), ('Lee Philips',66, 77), ('Leon Friedman',84, 97), ('January 10, 1927',99, 115), ('March 3, 1999',118, 131), ('an American actor',137, 154), ('film director and television director',156, 193)]</opennlp_chunks>
+<stanford_pos>['IN', 'RB', 'VBN', 'NNS', ',', 'VBP', 'NNP', 'NNP', '-LRB-', 'NN', '-RRB-', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'For'), (4, 'similarly'), (14, 'named'), (20, 'individuals'), (31, ','), (33, 'see'), (37, 'Lee'), (41, 'Phillips'), (50, '('), (51, 'disambiguation)Lee'), (70, 'Philips'), (78, '('), (79, 'born'), (84, 'Leon'), (89, 'Friedman'), (97, ','), (99, 'January'), (107, '10'), (109, ','), (111, '1927'), (116, '–'), (118, 'March'), (124, '3'), (125, ','), (127, '1999'), (131, ')'), (133, 'was'), (137, 'an'), (140, 'American'), (149, 'actor'), (154, ','), (156, 'film'), (161, 'director'), (170, 'and'), (174, 'television'), (185, 'director'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[('similarly named individuals', 4, 31), ('Lee Phillips (disambiguation)', 37, 66), ('disambiguation)Lee Philips', 51, 77), ('born Leon Friedman', 79, 97), ('January 10, 1927', 99, 115), ('March 3, 1999', 118, 131), ('an American actor', 137, 154), ('Film director', 156, 169), ('Television director', 174, 193)]</spacy_chunks>
+<spacy_pos>['IN', 'RB', 'VBN', 'NNS', ',', 'VB', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

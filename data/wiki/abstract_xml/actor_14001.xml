@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peggy Miley</title>
+<link/>https://en.wikipedia.org/wiki/Peggy_Miley
+<annotated>0</annotated>
+<originalabstract>Peggy Miley  is an American actress and writer. She has played supporting roles in films such as Alice, The Little Princess, Bandits, The Back-up Plan, and Primary Colors. She is also known for her work in commercials, including a Christmas television ad for Cheerios in which she played the grandmother.</originalabstract>
+<abstract>Peggy_Miley is an_American_actress_and_writer . She has_played_supporting roles in films such_as Alice , The_Little_Princess , Bandits , The_Back-up_Plan , and Primary_Colors . She is_also_known for her_work in commercials , including a_Christmas_television_ad for Cheerios in which she played the_grandmother .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peggy'), (6, 'Miley'), (13, 'is'), (16, 'an'), (19, 'American'), (28, 'actress'), (36, 'and'), (40, 'writer'), (46, '.'), (48, 'She'), (52, 'has'), (56, 'played'), (63, 'supporting'), (74, 'roles'), (80, 'in'), (83, 'films'), (89, 'such'), (94, 'as'), (97, 'Alice'), (102, ','), (104, 'The'), (108, 'Little'), (115, 'Princess'), (123, ','), (125, 'Bandits'), (132, ','), (134, 'The'), (138, 'Back-up'), (146, 'Plan'), (150, ','), (152, 'and'), (156, 'Primary'), (164, 'Colors'), (170, '.'), (172, 'She'), (176, 'is'), (179, 'also'), (184, 'known'), (190, 'for'), (194, 'her'), (198, 'work'), (203, 'in'), (206, 'commercials'), (217, ','), (219, 'including'), (229, 'a'), (231, 'Christmas'), (241, 'television'), (252, 'ad'), (255, 'for'), (259, 'Cheerios'), (268, 'in'), (271, 'which'), (277, 'she'), (281, 'played'), (288, 'the'), (292, 'grandmother'), (303, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peggy Miley',0, 11), ('an American actress and writer',16, 46), ('has played supporting',52, 73), ('such as',89, 96), ('The Little Princess',104, 123), ('The Back-up Plan',134, 150), ('Primary Colors',156, 170), ('is also known',176, 189), ('her work',194, 202), ('a Christmas television ad',229, 254), ('the grandmother',288, 303)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'VBG', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'DT', 'JJ', 'NNP', ',', 'NNPS', ',', 'DT', 'JJ', 'NN', ',', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', ',', 'VBG', 'DT', 'NNP', 'NN', 'NN', 'IN', 'NNPS', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peggy'), (6, 'Miley'), (13, 'is'), (16, 'an'), (19, 'American'), (28, 'actress'), (36, 'and'), (40, 'writer'), (46, '.'), (48, 'She'), (52, 'has'), (56, 'played'), (63, 'supporting'), (74, 'roles'), (80, 'in'), (83, 'films'), (89, 'such'), (94, 'as'), (97, 'Alice'), (102, ','), (104, 'The'), (108, 'Little'), (115, 'Princess'), (123, ','), (125, 'Bandits'), (132, ','), (134, 'The'), (138, 'Back'), (142, '-'), (143, 'up'), (146, 'Plan'), (150, ','), (152, 'and'), (156, 'Primary'), (164, 'Colors'), (170, '.'), (172, 'She'), (176, 'is'), (179, 'also'), (184, 'known'), (190, 'for'), (194, 'her'), (198, 'work'), (203, 'in'), (206, 'commercials'), (217, ','), (219, 'including'), (229, 'a'), (231, 'Christmas'), (241, 'television'), (252, 'ad'), (255, 'for'), (259, 'Cheerios'), (268, 'in'), (271, 'which'), (277, 'she'), (281, 'played'), (288, 'the'), (292, 'grandmother'), (303, '.')])</spacy_tokens>
+<spacy_chunks>[('Peggy Miley', 0, 11), ('an American actress', 16, 35), ('writer', 40, 46), ('supporting roles', 63, 79), ('The Little Princess', 104, 123), ('Bandits', 125, 132), ('The Back-up Plan', 134, 150), ('Primary Colors', 156, 170), ('her work', 194, 202), ('commercials', 206, 217), ('a Christmas television ad', 229, 254), ('Cheerios', 259, 267), ('the grandmother', 288, 303)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'VBG', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'DT', 'NNP', 'NNP', ',', 'NNPS', ',', 'DT', 'NNP', 'HYPH', 'RP', 'NNP', ',', 'CC', 'NNP', 'NNPS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', ',', 'VBG', 'DT', 'NNP', 'NN', 'NN', 'IN', 'NNP', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

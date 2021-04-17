@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean Engstrom</title>
+<link/>https://en.wikipedia.org/wiki/Jean_Engstrom
+<annotated>0</annotated>
+<originalabstract>Jean Engstrom (July 25, 1920 – March 20, 1997) was an American actress active in regional theater, movies, and television in the 1950s and 1960s.</originalabstract>
+<abstract>Jean_Engstrom ( July_25_,_1920 – March_20_,_1997 ) was an_American_actress_active in regional_theater , movies , and television in the_1950s_and_1960s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean'), (5, 'Engstrom'), (14, '('), (15, 'July'), (20, '25'), (22, ','), (24, '1920'), (29, '–'), (31, 'March'), (37, '20'), (39, ','), (41, '1997'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actress'), (71, 'active'), (78, 'in'), (81, 'regional'), (90, 'theater'), (97, ','), (99, 'movies'), (105, ','), (107, 'and'), (111, 'television'), (122, 'in'), (125, 'the'), (129, '1950s'), (135, 'and'), (139, '1960s'), (144, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean Engstrom',0, 13), ('July 25, 1920',15, 28), ('March 20, 1997',31, 45), ('an American actress active',51, 77), ('regional theater',81, 97), ('the 1950s and 1960s',125, 144)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'JJ', 'IN', 'JJ', 'NN', ',', 'NNS', ',', 'CC', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (5, 'Engstrom'), (14, '('), (15, 'July'), (20, '25'), (22, ','), (24, '1920'), (29, '–'), (31, 'March'), (37, '20'), (39, ','), (41, '1997'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actress'), (71, 'active'), (78, 'in'), (81, 'regional'), (90, 'theater'), (97, ','), (99, 'movies'), (105, ','), (107, 'and'), (111, 'television'), (122, 'in'), (125, 'the'), (129, '1950s'), (135, 'and'), (139, '1960s'), (144, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean Engstrom', 0, 13), ('July 25, 1920', 15, 28), ('March 20, 1997', 31, 45), ('an American actress', 51, 70), ('regional theater', 81, 97), ('movies', 99, 105), ('television', 111, 121), ('the 1950s', 125, 134)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'JJ', 'IN', 'JJ', 'NN', ',', 'NNS', ',', 'CC', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

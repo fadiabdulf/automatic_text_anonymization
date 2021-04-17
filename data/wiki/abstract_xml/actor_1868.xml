@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Troy Donahue</title>
+<link/>https://en.wikipedia.org/wiki/Troy_Donahue
+<annotated>0</annotated>
+<originalabstract>Troy Donahue (born Merle Johnson, Jr., January 27, 1936 – September 2, 2001) was an American film and television actor and singer. He was a popular male sex symbol in the 1950s and 1960s.</originalabstract>
+<abstract>Troy_Donahue ( born Merle_Johnson , Jr. , January_27_,_1936 – September_2_,_2001 ) was an_American_film_and_television_actor_and_singer . He was a_popular_male_sex_symbol in the_1950s_and_1960s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Troy'), (5, 'Donahue'), (13, '('), (14, 'born'), (19, 'Merle'), (25, 'Johnson'), (32, ','), (34, 'Jr.'), (37, ','), (39, 'January'), (47, '27'), (49, ','), (51, '1936'), (56, '–'), (58, 'September'), (68, '2'), (69, ','), (71, '2001'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'American'), (93, 'film'), (98, 'and'), (102, 'television'), (113, 'actor'), (119, 'and'), (123, 'singer'), (129, '.'), (131, 'He'), (134, 'was'), (138, 'a'), (140, 'popular'), (148, 'male'), (153, 'sex'), (157, 'symbol'), (164, 'in'), (167, 'the'), (171, '1950s'), (177, 'and'), (181, '1960s'), (186, '.')])</stanford_tokens>
+<opennlp_chunks>[('Troy Donahue',0, 12), ('Merle Johnson',19, 32), ('January 27, 1936',39, 55), ('September 2, 2001',58, 75), ('an American film and television actor and singer',81, 129), ('a popular male sex symbol',138, 163), ('the 1950s and 1960s',167, 186)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Troy'), (5, 'Donahue'), (13, '('), (14, 'born'), (19, 'Merle'), (25, 'Johnson'), (32, ','), (34, 'Jr.'), (37, ','), (39, 'January'), (47, '27'), (49, ','), (51, '1936'), (56, '–'), (58, 'September'), (68, '2'), (69, ','), (71, '2001'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'American'), (93, 'film'), (98, 'and'), (102, 'television'), (113, 'actor'), (119, 'and'), (123, 'singer'), (129, '.'), (131, 'He'), (134, 'was'), (138, 'a'), (140, 'popular'), (148, 'male'), (153, 'sex'), (157, 'symbol'), (164, 'in'), (167, 'the'), (171, '1950s'), (177, 'and'), (181, '1960s'), (186, '.')])</spacy_tokens>
+<spacy_chunks>[('Troy Donahue', 0, 12), ('Merle Johnson, Jr.', 19, 37), ('January 27, 1936', 39, 55), ('– September', 56, 67), ('September 2, 2001', 58, 75), ('an American film and television actor', 81, 118), ('singer', 123, 129), ('a popular male sex symbol', 138, 163), ('the 1950s', 167, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

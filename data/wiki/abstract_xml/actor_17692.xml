@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Janine Duvitski</title>
+<link/>https://en.wikipedia.org/wiki/Janine_Duvitski
+<annotated>0</annotated>
+<originalabstract>Janine Duvitski (born Christine Janine Drzewicki; 
+28 June 1952) is an English actress, known for her roles as Jane Edwards in Waiting for God, Pippa Trench in One Foot in the Grave and Jacqueline Stewart in Benidorm. Duvitski first came to national attention in the play Abigail's Party, written and directed in 1977 by Mike Leigh.</originalabstract>
+<abstract>Janine_Duvitski ( born Christine_Janine_Drzewicki ; 28_June_1952 ) is an_English_actress , known for her_roles as Jane_Edwards in Waiting for God , Pippa_Trench in One_Foot in the_Grave and Jacqueline_Stewart in Benidorm . Duvitski first came to national_attention in the_play Abigail 's_Party , written_and_directed in 1977 by Mike_Leigh .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Janine'), (7, 'Duvitski'), (16, '('), (17, 'born'), (22, 'Christine'), (32, 'Janine'), (39, 'Drzewicki'), (48, ';'), (51, '28'), (54, 'June'), (59, '1952'), (63, ')'), (65, 'is'), (68, 'an'), (71, 'English'), (79, 'actress'), (86, ','), (88, 'known'), (94, 'for'), (98, 'her'), (102, 'roles'), (108, 'as'), (111, 'Jane'), (116, 'Edwards'), (124, 'in'), (127, 'Waiting'), (135, 'for'), (139, 'God'), (142, ','), (144, 'Pippa'), (150, 'Trench'), (157, 'in'), (160, 'One'), (164, 'Foot'), (169, 'in'), (172, 'the'), (176, 'Grave'), (182, 'and'), (186, 'Jacqueline'), (197, 'Stewart'), (205, 'in'), (208, 'Benidorm'), (216, '.'), (218, 'Duvitski'), (227, 'first'), (233, 'came'), (238, 'to'), (241, 'national'), (250, 'attention'), (260, 'in'), (263, 'the'), (267, 'play'), (272, 'Abigail'), (279, '\'s'), (282, 'Party'), (287, ','), (289, 'written'), (297, 'and'), (301, 'directed'), (310, 'in'), (313, '1977'), (318, 'by'), (321, 'Mike'), (326, 'Leigh'), (331, '.')])</stanford_tokens>
+<opennlp_chunks>[('Janine Duvitski',0, 15), ('Christine Janine Drzewicki',22, 48), ('28 June 1952',51, 63), ('an English actress',68, 86), ('her roles',98, 107), ('Jane Edwards',111, 123), ('Pippa Trench',144, 156), ('One Foot',160, 168), ('the Grave',172, 181), ('Jacqueline Stewart',186, 204), ('national attention',241, 259), ('the play',263, 271), ('\'s Party',279, 287), ('written and directed',289, 309), ('Mike Leigh',321, 331)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'IN', 'DT', 'NN', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.', 'NNP', 'RB', 'VBD', 'TO', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NNP', 'POS', 'NNP', ',', 'VBN', 'CC', 'VBN', 'IN', 'CD', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Janine'), (7, 'Duvitski'), (16, '('), (17, 'born'), (22, 'Christine'), (32, 'Janine'), (39, 'Drzewicki'), (48, ';'), (51, '28'), (54, 'June'), (59, '1952'), (63, ')'), (65, 'is'), (68, 'an'), (71, 'English'), (79, 'actress'), (86, ','), (88, 'known'), (94, 'for'), (98, 'her'), (102, 'roles'), (108, 'as'), (111, 'Jane'), (116, 'Edwards'), (124, 'in'), (127, 'Waiting'), (135, 'for'), (139, 'God'), (142, ','), (144, 'Pippa'), (150, 'Trench'), (157, 'in'), (160, 'One'), (164, 'Foot'), (169, 'in'), (172, 'the'), (176, 'Grave'), (182, 'and'), (186, 'Jacqueline'), (197, 'Stewart'), (205, 'in'), (208, 'Benidorm'), (216, '.'), (218, 'Duvitski'), (227, 'first'), (233, 'came'), (238, 'to'), (241, 'national'), (250, 'attention'), (260, 'in'), (263, 'the'), (267, 'play'), (272, 'Abigail'), (279, "'s"), (282, 'Party'), (287, ','), (289, 'written'), (297, 'and'), (301, 'directed'), (310, 'in'), (313, '1977'), (318, 'by'), (321, 'Mike'), (326, 'Leigh'), (331, '.')])</spacy_tokens>
+<spacy_chunks>[('Janine Duvitski', 0, 15), ('born Christine Janine Drzewicki', 17, 48), ('28 June 1952', 51, 63), ('an English actress', 68, 86), ('her roles', 98, 107), ('Jane Edwards', 111, 123), ('Waiting for God', 127, 142), ('Pippa Trench', 144, 156), ('One Foot in the Grave', 160, 181), ('Jacqueline Stewart', 186, 204), ('Benidorm', 208, 216), ('national attention', 241, 259), ('the play', 263, 271), ("Abigail's Party", 272, 287), ('Mike Leigh', 321, 331)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'VBG', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.', 'NNP', 'RB', 'VBD', 'IN', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NNP', 'POS', 'NNP', ',', 'VBN', 'CC', 'VBN', 'IN', 'CD', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

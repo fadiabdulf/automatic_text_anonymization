@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rita La Roy</title>
+<link/>https://en.wikipedia.org/wiki/Rita_La_Roy
+<annotated>0</annotated>
+<originalabstract>Rita La Roy (born Ina La Roi Stuart, October 2, 1901 – February 18, 1993) was an American actress and dancer, beginning her career in 1929, and having her last significant role in 1940.</originalabstract>
+<abstract>Rita_La_Roy ( born Ina_La_Roi_Stuart , October_2_,_1901 – February_18_,_1993 ) was an_American_actress_and_dancer , beginning her_career in 1929 , and having her_last_significant_role in 1940 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rita'), (5, 'La'), (8, 'Roy'), (12, '('), (13, 'born'), (18, 'Ina'), (22, 'La'), (25, 'Roi'), (29, 'Stuart'), (35, ','), (37, 'October'), (45, '2'), (46, ','), (48, '1901'), (53, '–'), (55, 'February'), (64, '18'), (66, ','), (68, '1993'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'actress'), (98, 'and'), (102, 'dancer'), (108, ','), (110, 'beginning'), (120, 'her'), (124, 'career'), (131, 'in'), (134, '1929'), (138, ','), (140, 'and'), (144, 'having'), (151, 'her'), (155, 'last'), (160, 'significant'), (172, 'role'), (177, 'in'), (180, '1940'), (184, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rita La Roy',0, 11), ('Ina La Roi Stuart',18, 35), ('October 2, 1901',37, 52), ('February 18, 1993',55, 72), ('an American actress and dancer',78, 108), ('her career',120, 130), ('her last significant role',151, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBG', 'PRP$', 'NN', 'IN', 'CD', ',', 'CC', 'VBG', 'PRP$', 'JJ', 'JJ', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rita'), (5, 'La'), (8, 'Roy'), (12, '('), (13, 'born'), (18, 'Ina'), (22, 'La'), (25, 'Roi'), (29, 'Stuart'), (35, ','), (37, 'October'), (45, '2'), (46, ','), (48, '1901'), (53, '–'), (55, 'February'), (64, '18'), (66, ','), (68, '1993'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'actress'), (98, 'and'), (102, 'dancer'), (108, ','), (110, 'beginning'), (120, 'her'), (124, 'career'), (131, 'in'), (134, '1929'), (138, ','), (140, 'and'), (144, 'having'), (151, 'her'), (155, 'last'), (160, 'significant'), (172, 'role'), (177, 'in'), (180, '1940'), (184, '.')])</spacy_tokens>
+<spacy_chunks>[('Rita La Roy', 0, 11), ('(born Ina La Roi Stuart', 12, 35), ('October 2, 1901', 37, 52), ('February 18, 1993', 55, 72), ('an American actress', 78, 97), ('dancer', 102, 108), ('her career', 120, 130), ('her last significant role', 151, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBG', 'PRP$', 'NN', 'IN', 'CD', ',', 'CC', 'VBG', 'PRP', 'JJ', 'JJ', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

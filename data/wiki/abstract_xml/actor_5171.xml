@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Pasquesi</title>
+<link/>https://en.wikipedia.org/wiki/David_Pasquesi
+<annotated>0</annotated>
+<originalabstract>David Pasquesi (born December 23, 1960) is an American comedian, actor and voice over actor living in Chicago. His screen credits include Groundhog Day, Strangers with Candy, Curb Your Enthusiasm, Return to Me, The Ice Harvest, and Veep.</originalabstract>
+<abstract>David_Pasquesi ( born December_23_,_1960 ) is an_American_comedian_,_actor_and_voice over actor_living in Chicago . His_screen_credits include Groundhog_Day , Strangers with Candy , Curb Your_Enthusiasm , Return to Me , The_Ice_Harvest , and Veep .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Pasquesi'), (15, '('), (16, 'born'), (21, 'December'), (30, '23'), (32, ','), (34, '1960'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'comedian'), (63, ','), (65, 'actor'), (71, 'and'), (75, 'voice'), (81, 'over'), (86, 'actor'), (92, 'living'), (99, 'in'), (102, 'Chicago'), (109, '.'), (111, 'His'), (115, 'screen'), (122, 'credits'), (130, 'include'), (138, 'Groundhog'), (148, 'Day'), (151, ','), (153, 'Strangers'), (163, 'with'), (168, 'Candy'), (173, ','), (175, 'Curb'), (180, 'Your'), (185, 'Enthusiasm'), (195, ','), (197, 'Return'), (204, 'to'), (207, 'Me'), (209, ','), (211, 'The'), (215, 'Ice'), (219, 'Harvest'), (226, ','), (228, 'and'), (232, 'Veep'), (236, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Pasquesi',0, 14), ('December 23, 1960',21, 38), ('an American comedian, actor and voice',43, 80), ('actor living',86, 98), ('His screen credits',111, 129), ('Groundhog Day',138, 151), ('Your Enthusiasm',180, 195), ('The Ice Harvest',211, 226)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'NN', 'NN', 'IN', 'NNP', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NNP', 'NNP', ',', 'NNPS', 'IN', 'NN', ',', 'VB', 'PRP$', 'NN', ',', 'NN', 'TO', 'PRP', ',', 'DT', 'NN', 'NN', ',', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Pasquesi'), (15, '('), (16, 'born'), (21, 'December'), (30, '23'), (32, ','), (34, '1960'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'comedian'), (63, ','), (65, 'actor'), (71, 'and'), (75, 'voice'), (81, 'over'), (86, 'actor'), (92, 'living'), (99, 'in'), (102, 'Chicago'), (109, '.'), (111, 'His'), (115, 'screen'), (122, 'credits'), (130, 'include'), (138, 'Groundhog'), (148, 'Day'), (151, ','), (153, 'Strangers'), (163, 'with'), (168, 'Candy'), (173, ','), (175, 'Curb'), (180, 'Your'), (185, 'Enthusiasm'), (195, ','), (197, 'Return'), (204, 'to'), (207, 'Me'), (209, ','), (211, 'The'), (215, 'Ice'), (219, 'Harvest'), (226, ','), (228, 'and'), (232, 'Veep'), (236, '.')])</spacy_tokens>
+<spacy_chunks>[('David Pasquesi', 0, 14), ('December 23, 1960', 21, 38), ('an American comedian', 43, 63), ('Voice over actor', 75, 91), ('Chicago', 102, 109), ('His screen credits', 111, 129), ('Groundhog Day', 138, 151), ('Strangers with Candy', 153, 173), ('Curb Your Enthusiasm', 175, 195), ('Return to Me', 197, 209), ('The Ice Harvest', 211, 226)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'NN', 'VBG', 'IN', 'NNP', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', ',', 'NNP', 'PRP$', 'NN', ',', 'NN', 'IN', 'PRP', ',', 'DT', 'NNP', 'NNP', ',', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

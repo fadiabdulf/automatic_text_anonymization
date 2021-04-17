@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>François Maistre</title>
+<link/>https://en.wikipedia.org/wiki/Fran%C3%A7ois_Maistre
+<annotated>0</annotated>
+<originalabstract>François Maistre (14 May 1925 – 16 May 2016) was a French film, television and theatre actor. Born in Demigny, Saône-et-Loire, France, he appeared in nearly 100 films between 1960 and 2003. His father was singer and actor A.-M. Julien.</originalabstract>
+<abstract>François_Maistre ( 14_May_1925 – 16_May_2016 ) was a_French_film_,_television_and_theatre_actor . Born in Demigny , Saône-et-Loire , France , he appeared in nearly_100_films between 1960_and_2003 . His_father was singer_and_actor_A.-M . Julien .</abstract>
+<stanford_tokens>OrderedDict([(0, 'François'), (9, 'Maistre'), (17, '('), (18, '14'), (21, 'May'), (25, '1925'), (30, '–'), (32, '16'), (35, 'May'), (39, '2016'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'French'), (58, 'film'), (62, ','), (64, 'television'), (75, 'and'), (79, 'theatre'), (87, 'actor'), (92, '.'), (94, 'Born'), (99, 'in'), (102, 'Demigny'), (109, ','), (111, 'Saône-et-Loire'), (125, ','), (127, 'France'), (133, ','), (135, 'he'), (138, 'appeared'), (147, 'in'), (150, 'nearly'), (157, '100'), (161, 'films'), (167, 'between'), (175, '1960'), (180, 'and'), (184, '2003'), (188, '.'), (190, 'His'), (194, 'father'), (201, 'was'), (205, 'singer'), (212, 'and'), (216, 'actor'), (222, 'A.-M'), (226, '.'), (228, 'Julien'), (234, '.')])</stanford_tokens>
+<opennlp_chunks>[('François Maistre',0, 16), ('14 May 1925',18, 29), ('16 May 2016',32, 43), ('a French film, television and theatre actor',49, 92), ('nearly 100 films',150, 166), ('1960 and 2003',175, 188), ('His father',190, 200), ('singer and actor A.-M',205, 226)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP$', 'NN', 'VBD', 'NN', 'CC', 'NN', 'NNP', '.', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'François'), (9, 'Maistre'), (17, '('), (18, '14'), (21, 'May'), (25, '1925'), (30, '–'), (32, '16'), (35, 'May'), (39, '2016'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'French'), (58, 'film'), (62, ','), (64, 'television'), (75, 'and'), (79, 'theatre'), (87, 'actor'), (92, '.'), (94, 'Born'), (99, 'in'), (102, 'Demigny'), (109, ','), (111, 'Saône'), (116, '-'), (117, 'et'), (119, '-'), (120, 'Loire'), (125, ','), (127, 'France'), (133, ','), (135, 'he'), (138, 'appeared'), (147, 'in'), (150, 'nearly'), (157, '100'), (161, 'films'), (167, 'between'), (175, '1960'), (180, 'and'), (184, '2003'), (188, '.'), (190, 'His'), (194, 'father'), (201, 'was'), (205, 'singer'), (212, 'and'), (216, 'actor'), (222, 'A.-M.'), (228, 'Julien'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('François Maistre', 0, 16), ('(14 May', 17, 24), ('14 May 1925', 18, 29), ('16 May 2016', 32, 43), ('a French film, television and theatre actor', 49, 92), ('Demigny', 102, 109), ('Saône-et-Loire', 111, 125), ('France', 127, 133), ('nearly 100 films', 150, 166), ('His father', 190, 200), ('singer', 205, 211), ('actor A.-M. Julien', 216, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP$', 'NN', 'VBD', 'NN', 'CC', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

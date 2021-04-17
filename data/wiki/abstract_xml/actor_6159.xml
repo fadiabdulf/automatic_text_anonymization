@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marc Singer</title>
+<link/>https://en.wikipedia.org/wiki/Marc_Singer
+<annotated>0</annotated>
+<originalabstract>Marc Singer (born January 29, 1948) is a Canadian-born American actor best known for his roles in the Beastmaster film series, as Mike Donovan in the original 1980s TV series  V, and his role in Dallas as Matt Cantrell.</originalabstract>
+<abstract>Marc_Singer ( born January_29_,_1948 ) is a_Canadian-born_American_actor best_known for his_roles in the_Beastmaster_film_series , as Mike_Donovan in the_original_1980s_TV_series_V , and his_role in Dallas as Matt_Cantrell .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marc'), (5, 'Singer'), (12, '('), (13, 'born'), (18, 'January'), (26, '29'), (28, ','), (30, '1948'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'Canadian-born'), (55, 'American'), (64, 'actor'), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'his'), (89, 'roles'), (95, 'in'), (98, 'the'), (102, 'Beastmaster'), (114, 'film'), (119, 'series'), (125, ','), (127, 'as'), (130, 'Mike'), (135, 'Donovan'), (143, 'in'), (146, 'the'), (150, 'original'), (159, '1980s'), (165, 'TV'), (168, 'series'), (176, 'V'), (177, ','), (179, 'and'), (183, 'his'), (187, 'role'), (192, 'in'), (195, 'Dallas'), (202, 'as'), (205, 'Matt'), (210, 'Cantrell'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marc Singer',0, 11), ('January 29, 1948',18, 34), ('a Canadian-born American actor',39, 69), ('best known',70, 80), ('his roles',85, 94), ('the Beastmaster film series',98, 125), ('Mike Donovan',130, 142), ('the original 1980s TV series  V',146, 177), ('his role',183, 191), ('Matt Cantrell',205, 218)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'NN', ',', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'CD', 'NN', 'NN', 'NN', ',', 'CC', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marc'), (5, 'Singer'), (12, '('), (13, 'born'), (18, 'January'), (26, '29'), (28, ','), (30, '1948'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'Canadian'), (49, '-'), (50, 'born'), (55, 'American'), (64, 'actor'), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'his'), (89, 'roles'), (95, 'in'), (98, 'the'), (102, 'Beastmaster'), (114, 'film'), (119, 'series'), (125, ','), (127, 'as'), (130, 'Mike'), (135, 'Donovan'), (143, 'in'), (146, 'the'), (150, 'original'), (159, '1980s'), (165, 'TV'), (168, 'series'), (176, 'V'), (177, ','), (179, 'and'), (183, 'his'), (187, 'role'), (192, 'in'), (195, 'Dallas'), (202, 'as'), (205, 'Matt'), (210, 'Cantrell'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Marc Singer', 0, 11), ('January 29, 1948', 18, 34), ('a Canadian-born American actor', 39, 69), ('his roles', 85, 94), ('the Beastmaster film series', 98, 125), ('Mike Donovan', 130, 142), ('the original 1980s TV series', 146, 174), ('Dallas', 195, 201), ('Matt Cantrell', 205, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'NN', ',', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNS', 'NN', 'NN', 'NN', ',', 'CC', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

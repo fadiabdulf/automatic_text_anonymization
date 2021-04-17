@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Françoise Fabian</title>
+<link/>https://en.wikipedia.org/wiki/Fran%C3%A7oise_Fabian
+<annotated>0</annotated>
+<originalabstract>Michèle Cortes de Leone y Fabianera, better known as her stage name Françoise Fabian (French: [fabjɑ̃]; born 10 May 1933), is a French film actress. She has appeared in more than 80 films since 1956.</originalabstract>
+<abstract>Michèle_Cortes de Leone_y_Fabianera , better_known as her_stage_name_Françoise_Fabian ( French : [_fabjɑ̃_] ; born_10_May_1933 ) , is a_French_film_actress . She has_appeared in more_than_80_films since 1956 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michèle'), (8, 'Cortes'), (15, 'de'), (18, 'Leone'), (24, 'y'), (26, 'Fabianera'), (35, ','), (37, 'better'), (44, 'known'), (50, 'as'), (53, 'her'), (57, 'stage'), (63, 'name'), (68, 'Françoise'), (78, 'Fabian'), (85, '('), (86, 'French'), (92, ':'), (94, '['), (95, 'fabjɑ̃'), (101, ']'), (102, ';'), (104, 'born'), (109, '10'), (112, 'May'), (116, '1933'), (120, ')'), (121, ','), (123, 'is'), (126, 'a'), (128, 'French'), (135, 'film'), (140, 'actress'), (147, '.'), (149, 'She'), (153, 'has'), (157, 'appeared'), (166, 'in'), (169, 'more'), (174, 'than'), (179, '80'), (182, 'films'), (188, 'since'), (194, '1956'), (198, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michèle Cortes',0, 14), ('Leone y Fabianera',18, 35), ('better known',37, 49), ('her stage name Françoise Fabian',53, 84), ('[fabjɑ̃]',94, 102), ('born 10 May 1933',104, 120), ('a French film actress',126, 147), ('has appeared',153, 165), ('more than 80 films',169, 187)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NN', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michèle'), (8, 'Cortes'), (15, 'de'), (18, 'Leone'), (24, 'y'), (26, 'Fabianera'), (35, ','), (37, 'better'), (44, 'known'), (50, 'as'), (53, 'her'), (57, 'stage'), (63, 'name'), (68, 'Françoise'), (78, 'Fabian'), (85, '('), (86, 'French'), (92, ':'), (94, '['), (95, 'fabjɑ̃'), (101, ']'), (102, ';'), (104, 'born'), (109, '10'), (112, 'May'), (116, '1933'), (120, ')'), (121, ','), (123, 'is'), (126, 'a'), (128, 'French'), (135, 'film'), (140, 'actress'), (147, '.'), (149, 'She'), (153, 'has'), (157, 'appeared'), (166, 'in'), (169, 'more'), (174, 'than'), (179, '80'), (182, 'films'), (188, 'since'), (194, '1956'), (198, '.')])</spacy_tokens>
+<spacy_chunks>[('Michèle Cortes de Leone y Fabianera', 0, 35), ('her stage name', 53, 67), ('Françoise Fabian', 68, 84), ('(French', 85, 92), ('[fabjɑ̃', 94, 101), ('10 May 1933', 109, 120), ('a French film actress', 126, 147), ('more than 80 films', 169, 187)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NNP', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

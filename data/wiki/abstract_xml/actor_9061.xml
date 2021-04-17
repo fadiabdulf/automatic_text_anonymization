@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Carlo Rota</title>
+<link/>https://en.wikipedia.org/wiki/Carlo_Rota
+<annotated>0</annotated>
+<originalabstract>Carlo Rota (born 17 April 1961) is an English-born Canadian actor, best known to Canadian audiences for his role on Little Mosque on the Prairie and to international audiences as systems analyst Morris O'Brian on the FOX series 24. He also has a co-starring role as Emilio Solano in Jane the Virgin.</originalabstract>
+<abstract>Carlo_Rota ( born 17_April_1961 ) is an_English-born_Canadian_actor , best_known to Canadian_audiences for his_role on Little_Mosque on the_Prairie_and to international_audiences as systems_analyst_Morris_O'Brian on the_FOX_series_24 . He also has a_co-starring_role as Emilio_Solano in Jane the_Virgin .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Carlo'), (6, 'Rota'), (11, '('), (12, 'born'), (17, '17'), (20, 'April'), (26, '1961'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'English-born'), (51, 'Canadian'), (60, 'actor'), (65, ','), (67, 'best'), (72, 'known'), (78, 'to'), (81, 'Canadian'), (90, 'audiences'), (100, 'for'), (104, 'his'), (108, 'role'), (113, 'on'), (116, 'Little'), (123, 'Mosque'), (130, 'on'), (133, 'the'), (137, 'Prairie'), (145, 'and'), (149, 'to'), (152, 'international'), (166, 'audiences'), (176, 'as'), (179, 'systems'), (187, 'analyst'), (195, 'Morris'), (202, 'O\'Brian'), (210, 'on'), (213, 'the'), (217, 'FOX'), (221, 'series'), (228, '24'), (230, '.'), (232, 'He'), (235, 'also'), (240, 'has'), (244, 'a'), (246, 'co-starring'), (258, 'role'), (263, 'as'), (266, 'Emilio'), (273, 'Solano'), (280, 'in'), (283, 'Jane'), (288, 'the'), (292, 'Virgin'), (298, '.')])</stanford_tokens>
+<opennlp_chunks>[('Carlo Rota',0, 10), ('17 April 1961',17, 30), ('an English-born Canadian actor',35, 65), ('best known',67, 77), ('Canadian audiences',81, 99), ('his role',104, 112), ('Little Mosque',116, 129), ('the Prairie and',133, 148), ('international audiences',152, 175), ('systems analyst Morris O\'Brian',179, 209), ('the FOX series 24',213, 230), ('a co-starring role',244, 262), ('Emilio Solano',266, 279), ('the Virgin',288, 298)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'RB', 'VBN', 'TO', 'JJ', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'CC', 'TO', 'JJ', 'NNS', 'IN', 'NNS', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'CD', '.', 'PRP', 'RB', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Carlo'), (6, 'Rota'), (11, '('), (12, 'born'), (17, '17'), (20, 'April'), (26, '1961'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'English'), (45, '-'), (46, 'born'), (51, 'Canadian'), (60, 'actor'), (65, ','), (67, 'best'), (72, 'known'), (78, 'to'), (81, 'Canadian'), (90, 'audiences'), (100, 'for'), (104, 'his'), (108, 'role'), (113, 'on'), (116, 'Little'), (123, 'Mosque'), (130, 'on'), (133, 'the'), (137, 'Prairie'), (145, 'and'), (149, 'to'), (152, 'international'), (166, 'audiences'), (176, 'as'), (179, 'systems'), (187, 'analyst'), (195, 'Morris'), (202, "O'Brian"), (210, 'on'), (213, 'the'), (217, 'FOX'), (221, 'series'), (228, '24'), (230, '.'), (232, 'He'), (235, 'also'), (240, 'has'), (244, 'a'), (246, 'co'), (248, '-'), (249, 'starring'), (258, 'role'), (263, 'as'), (266, 'Emilio'), (273, 'Solano'), (280, 'in'), (283, 'Jane'), (288, 'the'), (292, 'Virgin'), (298, '.')])</spacy_tokens>
+<spacy_chunks>[('Carlo Rota', 0, 10), ('17 April 1961', 17, 30), ('an English-born Canadian actor', 35, 65), ('Canadian audiences', 81, 99), ('his role', 104, 112), ('Little Mosque on the Prairie', 116, 144), ('international audiences', 152, 175), ("systems analyst Morris O'Brian", 179, 209), ('the FOX series', 213, 227), ('a co-starring role', 244, 262), ('Emilio Solano', 266, 279), ('Jane the Virgin', 283, 298)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', ',', 'RBS', 'JJ', 'IN', 'JJ', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'IN', 'JJ', 'NNS', 'IN', 'NNS', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'CD', '.', 'PRP', 'RB', 'VBZ', 'DT', 'NN', 'JJ', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

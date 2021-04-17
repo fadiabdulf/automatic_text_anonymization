@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Megan Ward</title>
+<link/>https://en.wikipedia.org/wiki/Megan_Ward
+<annotated>0</annotated>
+<originalabstract>Megan Marie Ward (born September 24, 1969) is an American actress best known for her numerous credits in science fiction and horror movies and television series. In 2007, she joined the cast of the American daytime drama General Hospital as Kate Howard.</originalabstract>
+<abstract>Megan_Marie_Ward ( born September_24_,_1969 ) is an_American_actress best_known for her_numerous_credits in science_fiction_and_horror_movies and television_series . In 2007 , she joined the_cast of the_American_daytime_drama_General_Hospital as Kate_Howard .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Megan'), (6, 'Marie'), (12, 'Ward'), (17, '('), (18, 'born'), (23, 'September'), (33, '24'), (35, ','), (37, '1969'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'her'), (85, 'numerous'), (94, 'credits'), (102, 'in'), (105, 'science'), (113, 'fiction'), (121, 'and'), (125, 'horror'), (132, 'movies'), (139, 'and'), (143, 'television'), (154, 'series'), (160, '.'), (162, 'In'), (165, '2007'), (169, ','), (171, 'she'), (175, 'joined'), (182, 'the'), (186, 'cast'), (191, 'of'), (194, 'the'), (198, 'American'), (207, 'daytime'), (215, 'drama'), (221, 'General'), (229, 'Hospital'), (238, 'as'), (241, 'Kate'), (246, 'Howard'), (252, '.')])</stanford_tokens>
+<opennlp_chunks>[('Megan Marie Ward',0, 16), ('September 24, 1969',23, 41), ('an American actress',46, 65), ('best known',66, 76), ('her numerous credits',81, 101), ('science fiction and horror movies',105, 138), ('television series',143, 160), ('the cast',182, 190), ('the American daytime drama General Hospital',194, 237), ('Kate Howard',241, 252)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'NN', 'NN', 'CC', 'NN', 'NNS', 'CC', 'NN', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Megan'), (6, 'Marie'), (12, 'Ward'), (17, '('), (18, 'born'), (23, 'September'), (33, '24'), (35, ','), (37, '1969'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'her'), (85, 'numerous'), (94, 'credits'), (102, 'in'), (105, 'science'), (113, 'fiction'), (121, 'and'), (125, 'horror'), (132, 'movies'), (139, 'and'), (143, 'television'), (154, 'series'), (160, '.'), (162, 'In'), (165, '2007'), (169, ','), (171, 'she'), (175, 'joined'), (182, 'the'), (186, 'cast'), (191, 'of'), (194, 'the'), (198, 'American'), (207, 'daytime'), (215, 'drama'), (221, 'General'), (229, 'Hospital'), (238, 'as'), (241, 'Kate'), (246, 'Howard'), (252, '.')])</spacy_tokens>
+<spacy_chunks>[('Megan Marie Ward', 0, 16), ('September 24, 1969', 23, 41), ('an American actress', 46, 65), ('her numerous credits', 81, 101), ('Science fiction', 105, 120), ('horror movies', 125, 138), ('television series', 143, 160), ('the cast', 182, 190), ('the American daytime drama General Hospital', 194, 237), ('Kate Howard', 241, 252)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'NN', 'NN', 'CC', 'NN', 'NNS', 'CC', 'NN', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

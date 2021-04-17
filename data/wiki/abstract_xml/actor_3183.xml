@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Skip Homeier</title>
+<link/>https://en.wikipedia.org/wiki/Skip_Homeier
+<annotated>0</annotated>
+<originalabstract>George Vincent Homeier (October 5, 1930 – June 25, 2017), known professionally as Skip Homeier, was an American actor who started his career at the age of eleven and became a child star.</originalabstract>
+<abstract>George_Vincent_Homeier ( October_5_,_1930 – June_25_,_2017 ) , known professionally as Skip_Homeier , was an_American_actor who started his_career at the_age of eleven and became a_child_star .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Vincent'), (15, 'Homeier'), (23, '('), (24, 'October'), (32, '5'), (33, ','), (35, '1930'), (40, '–'), (42, 'June'), (47, '25'), (49, ','), (51, '2017'), (55, ')'), (56, ','), (58, 'known'), (64, 'professionally'), (79, 'as'), (82, 'Skip'), (87, 'Homeier'), (94, ','), (96, 'was'), (100, 'an'), (103, 'American'), (112, 'actor'), (118, 'who'), (122, 'started'), (130, 'his'), (134, 'career'), (141, 'at'), (144, 'the'), (148, 'age'), (152, 'of'), (155, 'eleven'), (162, 'and'), (166, 'became'), (173, 'a'), (175, 'child'), (181, 'star'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Vincent Homeier',0, 22), ('October 5, 1930',24, 39), ('June 25, 2017',42, 55), ('Skip Homeier',82, 94), ('an American actor',100, 117), ('his career',130, 140), ('the age',144, 151), ('a child star',173, 185)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'VB', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNS', 'CC', 'VBD', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Vincent'), (15, 'Homeier'), (23, '('), (24, 'October'), (32, '5'), (33, ','), (35, '1930'), (40, '–'), (42, 'June'), (47, '25'), (49, ','), (51, '2017'), (55, ')'), (56, ','), (58, 'known'), (64, 'professionally'), (79, 'as'), (82, 'Skip'), (87, 'Homeier'), (94, ','), (96, 'was'), (100, 'an'), (103, 'American'), (112, 'actor'), (118, 'who'), (122, 'started'), (130, 'his'), (134, 'career'), (141, 'at'), (144, 'the'), (148, 'age'), (152, 'of'), (155, 'eleven'), (162, 'and'), (166, 'became'), (173, 'a'), (175, 'child'), (181, 'star'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('George Vincent Homeier', 0, 22), ('(October', 23, 31), ('October 5, 1930', 24, 39), ('June 25, 2017', 42, 55), ('Skip Homeier', 82, 94), ('an American actor', 100, 117), ('his career', 130, 140), ('the age', 144, 151), ('a child star', 173, 185)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', 'CC', 'VBD', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Spencer Grammer</title>
+<link/>https://en.wikipedia.org/wiki/Spencer_Grammer
+<annotated>0</annotated>
+<originalabstract>Spencer Karen Grammer (born October 9, 1983) is an American actress best known for her roles as the voice of Summer Smith in the Adult Swim animated science fiction series Rick and Morty and as Casey Cartwright in the ABC Family college comedy-drama series Greek.</originalabstract>
+<abstract>Spencer_Karen_Grammer ( born October_9_,_1983 ) is an_American_actress best_known for her_roles as the_voice of Summer_Smith in the_Adult_Swim_animated_science_fiction_series_Rick_and_Morty and as Casey_Cartwright in the_ABC_Family_college_comedy-drama_series_Greek .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Spencer'), (8, 'Karen'), (14, 'Grammer'), (22, '('), (23, 'born'), (28, 'October'), (36, '9'), (37, ','), (39, '1983'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (68, 'best'), (73, 'known'), (79, 'for'), (83, 'her'), (87, 'roles'), (93, 'as'), (96, 'the'), (100, 'voice'), (106, 'of'), (109, 'Summer'), (116, 'Smith'), (122, 'in'), (125, 'the'), (129, 'Adult'), (135, 'Swim'), (140, 'animated'), (149, 'science'), (157, 'fiction'), (165, 'series'), (172, 'Rick'), (177, 'and'), (181, 'Morty'), (187, 'and'), (191, 'as'), (194, 'Casey'), (200, 'Cartwright'), (211, 'in'), (214, 'the'), (218, 'ABC'), (222, 'Family'), (229, 'college'), (237, 'comedy-drama'), (250, 'series'), (257, 'Greek'), (262, '.')])</stanford_tokens>
+<opennlp_chunks>[('Spencer Karen Grammer',0, 21), ('October 9, 1983',28, 43), ('an American actress',48, 67), ('best known',68, 78), ('her roles',83, 92), ('the voice',96, 105), ('Summer Smith',109, 121), ('the Adult Swim animated science fiction series Rick and Morty',125, 186), ('Casey Cartwright',194, 210), ('the ABC Family college comedy-drama series Greek',214, 262)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'JJ', 'NN', 'NN', 'NN', 'NNP', 'CC', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'NN', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Spencer'), (8, 'Karen'), (14, 'Grammer'), (22, '('), (23, 'born'), (28, 'October'), (36, '9'), (37, ','), (39, '1983'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (68, 'best'), (73, 'known'), (79, 'for'), (83, 'her'), (87, 'roles'), (93, 'as'), (96, 'the'), (100, 'voice'), (106, 'of'), (109, 'Summer'), (116, 'Smith'), (122, 'in'), (125, 'the'), (129, 'Adult'), (135, 'Swim'), (140, 'animated'), (149, 'science'), (157, 'fiction'), (165, 'series'), (172, 'Rick'), (177, 'and'), (181, 'Morty'), (187, 'and'), (191, 'as'), (194, 'Casey'), (200, 'Cartwright'), (211, 'in'), (214, 'the'), (218, 'ABC'), (222, 'Family'), (229, 'college'), (237, 'comedy'), (243, '-'), (244, 'drama'), (250, 'series'), (257, 'Greek'), (262, '.')])</spacy_tokens>
+<spacy_chunks>[('Spencer Karen Grammer', 0, 21), ('October 9, 1983', 28, 43), ('an American actress', 48, 67), ('her roles', 83, 92), ('As the', 93, 99), ('the voice', 96, 105), ('Summer Smith', 109, 121), ('the Adult Swim animated science fiction series', 125, 171), ('Rick and Morty', 172, 186), ('Casey Cartwright', 194, 210), ('the ABC Family college comedy-drama series', 214, 256)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'VBD', 'NN', 'NN', 'NN', 'NNP', 'CC', 'NNP', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'HYPH', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

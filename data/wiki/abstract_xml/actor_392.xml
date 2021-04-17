@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Henry A. Barrows</title>
+<link/>https://en.wikipedia.org/wiki/Henry_A._Barrows
+<annotated>0</annotated>
+<originalabstract>Henry Arthur Barrows (April 29, 1875 – March 25, 1945) was an American actor who appeared in films from 1913 to 1936.
+Henry Barrows was born in Saco, Maine. He died in Los Angeles, California in 1945 and was interred there in the Los Angeles National Cemetery. He is the father of actor George Barrows.</originalabstract>
+<abstract>Henry_Arthur_Barrows ( April_29_,_1875 – March_25_,_1945 ) was an_American_actor who appeared in films from 1913 to 1936 . Henry_Barrows was_born in Saco , Maine . He died in Los_Angeles , California in 1945 and was_interred there in the_Los_Angeles_National_Cemetery . He is the_father of actor_George_Barrows .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Henry'), (6, 'Arthur'), (13, 'Barrows'), (21, '('), (22, 'April'), (28, '29'), (30, ','), (32, '1875'), (37, '–'), (39, 'March'), (45, '25'), (47, ','), (49, '1945'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'actor'), (77, 'who'), (81, 'appeared'), (90, 'in'), (93, 'films'), (99, 'from'), (104, '1913'), (109, 'to'), (112, '1936'), (116, '.'), (118, 'Henry'), (124, 'Barrows'), (132, 'was'), (136, 'born'), (141, 'in'), (144, 'Saco'), (148, ','), (150, 'Maine'), (155, '.'), (157, 'He'), (160, 'died'), (165, 'in'), (168, 'Los'), (172, 'Angeles'), (179, ','), (181, 'California'), (192, 'in'), (195, '1945'), (200, 'and'), (204, 'was'), (208, 'interred'), (217, 'there'), (223, 'in'), (226, 'the'), (230, 'Los'), (234, 'Angeles'), (242, 'National'), (251, 'Cemetery'), (259, '.'), (261, 'He'), (264, 'is'), (267, 'the'), (271, 'father'), (278, 'of'), (281, 'actor'), (287, 'George'), (294, 'Barrows'), (301, '.')])</stanford_tokens>
+<opennlp_chunks>[('Henry Arthur Barrows',0, 20), ('April 29, 1875',22, 36), ('March 25, 1945',39, 53), ('an American actor',59, 76), ('Henry Barrows',118, 131), ('was born',132, 140), ('Los Angeles',168, 179), ('was interred',204, 216), ('the Los Angeles National Cemetery',226, 259), ('the father',267, 277), ('actor George Barrows',281, 301)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNS', 'IN', 'CD', 'TO', 'CD', '.', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'CD', 'CC', 'VBD', 'VBN', 'RB', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Henry'), (6, 'Arthur'), (13, 'Barrows'), (21, '('), (22, 'April'), (28, '29'), (30, ','), (32, '1875'), (37, '–'), (39, 'March'), (45, '25'), (47, ','), (49, '1945'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'actor'), (77, 'who'), (81, 'appeared'), (90, 'in'), (93, 'films'), (99, 'from'), (104, '1913'), (109, 'to'), (112, '1936'), (116, '.'), (118, 'Henry'), (124, 'Barrows'), (132, 'was'), (136, 'born'), (141, 'in'), (144, 'Saco'), (148, ','), (150, 'Maine'), (155, '.'), (157, 'He'), (160, 'died'), (165, 'in'), (168, 'Los'), (172, 'Angeles'), (179, ','), (181, 'California'), (192, 'in'), (195, '1945'), (200, 'and'), (204, 'was'), (208, 'interred'), (217, 'there'), (223, 'in'), (226, 'the'), (230, 'Los'), (234, 'Angeles'), (242, 'National'), (251, 'Cemetery'), (259, '.'), (261, 'He'), (264, 'is'), (267, 'the'), (271, 'father'), (278, 'of'), (281, 'actor'), (287, 'George'), (294, 'Barrows'), (301, '.')])</spacy_tokens>
+<spacy_chunks>[('Henry Arthur Barrows', 0, 20), ('April 29, 1875', 22, 36), ('March 25, 1945', 39, 53), ('an American actor', 59, 76), ('Henry Barrows', 118, 131), ('Saco, Maine', 144, 155), ('Los Angeles, California', 168, 191), ('the Los Angeles National Cemetery', 226, 259), ('the father', 267, 277), ('actor George Barrows', 281, 301)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNS', 'IN', 'CD', 'IN', 'CD', '.', 'NNP', 'NNPS', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'CD', 'CC', 'VBD', 'VBN', 'RB', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

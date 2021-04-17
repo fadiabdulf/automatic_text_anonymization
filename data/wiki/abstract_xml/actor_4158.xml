@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ben Lyon</title>
+<link/>https://en.wikipedia.org/wiki/Ben_Lyon
+<annotated>0</annotated>
+<originalabstract>Ben Lyon (February 6, 1901 – March 22, 1979) was an American film actor and a studio executive at 20th Century Fox, who later acted in British radio, films and TV.</originalabstract>
+<abstract>Ben_Lyon ( February_6_,_1901 – March_22_,_1979 ) was an_American_film_actor and a_studio_executive at 20th_Century_Fox , who later acted in British_radio , films and TV .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ben'), (4, 'Lyon'), (9, '('), (10, 'February'), (19, '6'), (20, ','), (22, '1901'), (27, '–'), (29, 'March'), (35, '22'), (37, ','), (39, '1979'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'film'), (66, 'actor'), (72, 'and'), (76, 'a'), (78, 'studio'), (85, 'executive'), (95, 'at'), (98, '20th'), (103, 'Century'), (111, 'Fox'), (114, ','), (116, 'who'), (120, 'later'), (126, 'acted'), (132, 'in'), (135, 'British'), (143, 'radio'), (148, ','), (150, 'films'), (156, 'and'), (160, 'TV'), (162, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ben Lyon',0, 8), ('February 6, 1901',10, 26), ('March 22, 1979',29, 43), ('an American film actor',49, 71), ('a studio executive',76, 94), ('20th Century Fox',98, 114), ('British radio',135, 148)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'DT', 'NN', 'NN', 'IN', 'JJ', 'NNP', 'NNP', ',', 'WP', 'RB', 'VBD', 'IN', 'JJ', 'NN', ',', 'NNS', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ben'), (4, 'Lyon'), (9, '('), (10, 'February'), (19, '6'), (20, ','), (22, '1901'), (27, '–'), (29, 'March'), (35, '22'), (37, ','), (39, '1979'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'film'), (66, 'actor'), (72, 'and'), (76, 'a'), (78, 'studio'), (85, 'executive'), (95, 'at'), (98, '20th'), (103, 'Century'), (111, 'Fox'), (114, ','), (116, 'who'), (120, 'later'), (126, 'acted'), (132, 'in'), (135, 'British'), (143, 'radio'), (148, ','), (150, 'films'), (156, 'and'), (160, 'TV'), (162, '.')])</spacy_tokens>
+<spacy_chunks>[('Ben Lyon', 0, 8), ('(February', 9, 18), ('February 6, 1901', 10, 26), ('March 22, 1979', 29, 43), ('an American film actor', 49, 71), ('a studio executive', 76, 94), ('20th Century Fox', 98, 114), ('British radio', 135, 148)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'DT', 'NN', 'NN', 'IN', 'JJ', 'NNP', 'NNP', ',', 'WP', 'RB', 'VBD', 'IN', 'JJ', 'NN', ',', 'NNS', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maria Dizzia</title>
+<link/>https://en.wikipedia.org/wiki/Maria_Dizzia
+<annotated>0</annotated>
+<originalabstract>Maria Teresa Dizzia (born December 29, 1974) is an American actress. Dizzia was nominated for the 2010 Tony Award for Best Performance by a Featured Actress in a Play for her performance in In the Next Room (or The Vibrator Play).</originalabstract>
+<abstract>Maria_Teresa_Dizzia ( born December_29_,_1974 ) is an_American_actress . Dizzia was_nominated for the_2010_Tony_Award for Best Performance by a_Featured_Actress in a_Play for her_performance in In the_Next_Room ( or The_Vibrator_Play_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maria'), (6, 'Teresa'), (13, 'Dizzia'), (20, '('), (21, 'born'), (26, 'December'), (35, '29'), (37, ','), (39, '1974'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (69, 'Dizzia'), (76, 'was'), (80, 'nominated'), (90, 'for'), (94, 'the'), (98, '2010'), (103, 'Tony'), (108, 'Award'), (114, 'for'), (118, 'Best'), (123, 'Performance'), (135, 'by'), (138, 'a'), (140, 'Featured'), (149, 'Actress'), (157, 'in'), (160, 'a'), (162, 'Play'), (167, 'for'), (171, 'her'), (175, 'performance'), (187, 'in'), (190, 'In'), (193, 'the'), (197, 'Next'), (202, 'Room'), (207, '('), (208, 'or'), (211, 'The'), (215, 'Vibrator'), (224, 'Play'), (228, ')'), (229, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maria Teresa Dizzia',0, 19), ('December 29, 1974',26, 43), ('an American actress',48, 67), ('was nominated',76, 89), ('the 2010 Tony Award',94, 113), ('a Featured Actress',138, 156), ('a Play',160, 166), ('her performance',171, 186), ('the Next Room',193, 206), ('The Vibrator Play)',211, 229)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'DT', 'CD', 'NNP', 'NN', 'IN', 'JJS', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'IN', 'DT', 'JJ', 'NN', '-LRB-', 'CC', 'DT', 'NNP', 'NNP', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maria'), (6, 'Teresa'), (13, 'Dizzia'), (20, '('), (21, 'born'), (26, 'December'), (35, '29'), (37, ','), (39, '1974'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (69, 'Dizzia'), (76, 'was'), (80, 'nominated'), (90, 'for'), (94, 'the'), (98, '2010'), (103, 'Tony'), (108, 'Award'), (114, 'for'), (118, 'Best'), (123, 'Performance'), (135, 'by'), (138, 'a'), (140, 'Featured'), (149, 'Actress'), (157, 'in'), (160, 'a'), (162, 'Play'), (167, 'for'), (171, 'her'), (175, 'performance'), (187, 'in'), (190, 'In'), (193, 'the'), (197, 'Next'), (202, 'Room'), (207, '('), (208, 'or'), (211, 'The'), (215, 'Vibrator'), (224, 'Play'), (228, ')'), (229, '.')])</spacy_tokens>
+<spacy_chunks>[('Maria Teresa Dizzia', 0, 19), ('December 29, 1974', 26, 43), ('an American actress', 48, 67), ('the 2010 Tony Award', 94, 113), ('Tony Award for Best Performance by a Featured Actress in a Play', 103, 166), ('her performance', 171, 186), ('In the Next Room (or The Vibrator Play)', 190, 229)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'IN', 'NNP', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'IN', 'DT', 'NNP', 'NNP', '-LRB-', 'CC', 'DT', 'NN', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

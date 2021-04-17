@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bug Hall</title>
+<link/>https://en.wikipedia.org/wiki/Bug_Hall
+<annotated>0</annotated>
+<originalabstract>Brandon "Bug" Hall (born February 4, 1985) is an American actor.  He is best known for his childhood roles as Alfalfa in The Little Rascals (1994) and Buster Stupid in The Stupids (1996).</originalabstract>
+<abstract>Brandon_"_Bug_"_Hall ( born February_4_,_1985 ) is an_American_actor . He is_best_known for his_childhood_roles as Alfalfa in The_Little_Rascals ( 1994_) and Buster_Stupid in The_Stupids ( 1996_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brandon'), (8, '"'), (9, 'Bug'), (12, '"'), (14, 'Hall'), (19, '('), (20, 'born'), (25, 'February'), (34, '4'), (35, ','), (37, '1985'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (63, '.'), (66, 'He'), (69, 'is'), (72, 'best'), (77, 'known'), (83, 'for'), (87, 'his'), (91, 'childhood'), (101, 'roles'), (107, 'as'), (110, 'Alfalfa'), (118, 'in'), (121, 'The'), (125, 'Little'), (132, 'Rascals'), (140, '('), (141, '1994'), (145, ')'), (147, 'and'), (151, 'Buster'), (158, 'Stupid'), (165, 'in'), (168, 'The'), (172, 'Stupids'), (180, '('), (181, '1996'), (185, ')'), (186, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brandon "Bug" Hall',0, 18), ('February 4, 1985',25, 41), ('an American actor',46, 63), ('is best known',69, 82), ('his childhood roles',87, 106), ('The Little Rascals',121, 139), ('1994)',141, 146), ('Buster Stupid',151, 164), ('The Stupids',168, 179), ('1996)',181, 186)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NN', '\'\'', 'NN', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NNS', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brandon'), (8, '"'), (9, 'Bug'), (12, '"'), (14, 'Hall'), (19, '('), (20, 'born'), (25, 'February'), (34, '4'), (35, ','), (37, '1985'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (63, '.'), (66, 'He'), (69, 'is'), (72, 'best'), (77, 'known'), (83, 'for'), (87, 'his'), (91, 'childhood'), (101, 'roles'), (107, 'as'), (110, 'Alfalfa'), (118, 'in'), (121, 'The'), (125, 'Little'), (132, 'Rascals'), (140, '('), (141, '1994'), (145, ')'), (147, 'and'), (151, 'Buster'), (158, 'Stupid'), (165, 'in'), (168, 'The'), (172, 'Stupids'), (180, '('), (181, '1996'), (185, ')'), (186, '.')])</spacy_tokens>
+<spacy_chunks>[('Brandon "Bug" Hall', 0, 18), ('February 4, 1985', 25, 41), ('an American actor', 46, 63), ('his childhood roles', 87, 106), ('Alfalfa', 110, 117), ('The Little Rascals', 121, 139), ('Buster Stupid', 151, 164), ('The Stupids', 168, 179)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NNS', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

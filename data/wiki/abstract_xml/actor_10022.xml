@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gaston Michel</title>
+<link/>https://en.wikipedia.org/wiki/Gaston_Michel
+<annotated>0</annotated>
+<originalabstract>Gaston Michel (1856 - November 1921) was a French silent film actor. He starred in some 40 films between 1913 and his death in 1921.
+He died in November 1921, in Lisbon, Portugal.</originalabstract>
+<abstract>Gaston_Michel ( 1856 - November 1921 ) was a_French_silent_film_actor . He starred in some_40_films between 1913 and his_death in 1921 . He died in November_1921 , in Lisbon , Portugal .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gaston'), (7, 'Michel'), (14, '('), (15, '1856'), (20, '-'), (22, 'November'), (31, '1921'), (35, ')'), (37, 'was'), (41, 'a'), (43, 'French'), (50, 'silent'), (57, 'film'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'starred'), (80, 'in'), (83, 'some'), (88, '40'), (91, 'films'), (97, 'between'), (105, '1913'), (110, 'and'), (114, 'his'), (118, 'death'), (124, 'in'), (127, '1921'), (131, '.'), (133, 'He'), (136, 'died'), (141, 'in'), (144, 'November'), (153, '1921'), (157, ','), (159, 'in'), (162, 'Lisbon'), (168, ','), (170, 'Portugal'), (178, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gaston Michel',0, 13), ('a French silent film actor',41, 67), ('some 40 films',83, 96), ('his death',114, 123), ('November 1921',144, 157)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'SYM', ':', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'PRP$', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'CD', ',', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gaston'), (7, 'Michel'), (14, '('), (15, '1856'), (20, '-'), (22, 'November'), (31, '1921'), (35, ')'), (37, 'was'), (41, 'a'), (43, 'French'), (50, 'silent'), (57, 'film'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'starred'), (80, 'in'), (83, 'some'), (88, '40'), (91, 'films'), (97, 'between'), (105, '1913'), (110, 'and'), (114, 'his'), (118, 'death'), (124, 'in'), (127, '1921'), (131, '.'), (133, 'He'), (136, 'died'), (141, 'in'), (144, 'November'), (153, '1921'), (157, ','), (159, 'in'), (162, 'Lisbon'), (168, ','), (170, 'Portugal'), (178, '.')])</spacy_tokens>
+<spacy_chunks>[('Gaston Michel', 0, 13), ('1856 - November', 15, 30), ('a French silent film actor', 41, 67), ('some 40 films', 83, 96), ('his death', 114, 123), ('Lisbon', 162, 168), ('Portugal', 170, 178)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'PRP$', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'CD', ',', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

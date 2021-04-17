@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Flora Finch</title>
+<link/>https://en.wikipedia.org/wiki/Flora_Finch
+<annotated>0</annotated>
+<originalabstract>Flora Finch (17 June 1867 – 4 January 1940) was an English-born vaudevillian, stage and film actress who starred in over 300 silent films, including over 200 for the Vitagraph Studios film company.</originalabstract>
+<abstract>Flora_Finch ( 17_June_1867 – 4_January_1940 ) was an_English-born_vaudevillian_,_stage_and_film_actress who starred in over_300_silent_films , including over_200 for the_Vitagraph_Studios_film_company .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Flora'), (6, 'Finch'), (12, '('), (13, '17'), (16, 'June'), (21, '1867'), (26, '–'), (28, '4'), (30, 'January'), (38, '1940'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'English-born'), (64, 'vaudevillian'), (76, ','), (78, 'stage'), (84, 'and'), (88, 'film'), (93, 'actress'), (101, 'who'), (105, 'starred'), (113, 'in'), (116, 'over'), (121, '300'), (125, 'silent'), (132, 'films'), (137, ','), (139, 'including'), (149, 'over'), (154, '200'), (158, 'for'), (162, 'the'), (166, 'Vitagraph'), (176, 'Studios'), (184, 'film'), (189, 'company'), (196, '.')])</stanford_tokens>
+<opennlp_chunks>[('Flora Finch',0, 11), ('17 June 1867',13, 25), ('4 January 1940',28, 42), ('an English-born vaudevillian, stage and film actress',48, 100), ('over 300 silent films',116, 137), ('over 200',149, 157), ('the Vitagraph Studios film company',162, 196)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'IN', 'IN', 'CD', 'JJ', 'NNS', ',', 'VBG', 'IN', 'CD', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Flora'), (6, 'Finch'), (12, '('), (13, '17'), (16, 'June'), (21, '1867'), (26, '–'), (28, '4'), (30, 'January'), (38, '1940'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'English'), (58, '-'), (59, 'born'), (64, 'vaudevillian'), (76, ','), (78, 'stage'), (84, 'and'), (88, 'film'), (93, 'actress'), (101, 'who'), (105, 'starred'), (113, 'in'), (116, 'over'), (121, '300'), (125, 'silent'), (132, 'films'), (137, ','), (139, 'including'), (149, 'over'), (154, '200'), (158, 'for'), (162, 'the'), (166, 'Vitagraph'), (176, 'Studios'), (184, 'film'), (189, 'company'), (196, '.')])</spacy_tokens>
+<spacy_chunks>[('Flora Finch', 0, 11), ('17 June 1867', 13, 25), ('4 January 1940', 28, 42), ('an English-born vaudevillian, stage and film actress', 48, 100), ('over 300 silent films', 116, 137), ('the Vitagraph Studios film company', 162, 196)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'RB', 'IN', 'CD', 'JJ', 'NNS', ',', 'VBG', 'IN', 'CD', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

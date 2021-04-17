@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wallas Eaton</title>
+<link/>https://en.wikipedia.org/wiki/Wallas_Eaton
+<annotated>0</annotated>
+<originalabstract>Wallas Eaton (18 February 1917 – 3 November 1995), sometimes credited as Wallace Eaton or Wallis Eaton, was an English film, radio, television and theatre actor.
+He is perhaps best remembered for his voice roles between 1949 and 1960 in the BBC radio-comedy serial Take It from Here.</originalabstract>
+<abstract>Wallas_Eaton ( 18_February_1917 – 3_November_1995 ) , sometimes_credited as Wallace_Eaton or Wallis_Eaton , was an_English_film , radio_,_television_and_theatre_actor . He is_perhaps_best_remembered for his_voice_roles between 1949_and_1960 in the_BBC_radio-comedy_serial Take It from Here .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wallas'), (7, 'Eaton'), (13, '('), (14, '18'), (17, 'February'), (26, '1917'), (31, '–'), (33, '3'), (35, 'November'), (44, '1995'), (48, ')'), (49, ','), (51, 'sometimes'), (61, 'credited'), (70, 'as'), (73, 'Wallace'), (81, 'Eaton'), (87, 'or'), (90, 'Wallis'), (97, 'Eaton'), (102, ','), (104, 'was'), (108, 'an'), (111, 'English'), (119, 'film'), (123, ','), (125, 'radio'), (130, ','), (132, 'television'), (143, 'and'), (147, 'theatre'), (155, 'actor'), (160, '.'), (162, 'He'), (165, 'is'), (168, 'perhaps'), (176, 'best'), (181, 'remembered'), (192, 'for'), (196, 'his'), (200, 'voice'), (206, 'roles'), (212, 'between'), (220, '1949'), (225, 'and'), (229, '1960'), (234, 'in'), (237, 'the'), (241, 'BBC'), (245, 'radio-comedy'), (258, 'serial'), (265, 'Take'), (270, 'It'), (273, 'from'), (278, 'Here'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wallas Eaton',0, 12), ('18 February 1917',14, 30), ('3 November 1995',33, 48), ('sometimes credited',51, 69), ('Wallace Eaton',73, 86), ('Wallis Eaton',90, 102), ('an English film',108, 123), ('radio, television and theatre actor',125, 160), ('is perhaps best remembered',165, 191), ('his voice roles',196, 211), ('1949 and 1960',220, 233), ('the BBC radio-comedy serial',237, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'VB', 'PRP', 'IN', 'RB', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wallas'), (7, 'Eaton'), (13, '('), (14, '18'), (17, 'February'), (26, '1917'), (31, '–'), (33, '3'), (35, 'November'), (44, '1995'), (48, ')'), (49, ','), (51, 'sometimes'), (61, 'credited'), (70, 'as'), (73, 'Wallace'), (81, 'Eaton'), (87, 'or'), (90, 'Wallis'), (97, 'Eaton'), (102, ','), (104, 'was'), (108, 'an'), (111, 'English'), (119, 'film'), (123, ','), (125, 'radio'), (130, ','), (132, 'television'), (143, 'and'), (147, 'theatre'), (155, 'actor'), (160, '.'), (162, 'He'), (165, 'is'), (168, 'perhaps'), (176, 'best'), (181, 'remembered'), (192, 'for'), (196, 'his'), (200, 'voice'), (206, 'roles'), (212, 'between'), (220, '1949'), (225, 'and'), (229, '1960'), (234, 'in'), (237, 'the'), (241, 'BBC'), (245, 'radio'), (250, '-'), (251, 'comedy'), (258, 'serial'), (265, 'Take'), (270, 'It'), (273, 'from'), (278, 'Here'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Wallas Eaton', 0, 12), ('18 February 1917', 14, 30), ('3 November 1995', 33, 48), ('Wallace Eaton', 73, 86), ('Wallis Eaton', 90, 102), ('an English film, radio, television and theatre actor', 108, 160), ('his voice roles', 196, 211), ('the BBC radio-comedy serial', 237, 264), ('Take It from Here', 265, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', 'IN', 'DT', 'NNP', 'NN', 'HYPH', 'NN', 'NN', 'VB', 'PRP', 'IN', 'RB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

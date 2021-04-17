@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ernie Lotinga</title>
+<link/>https://en.wikipedia.org/wiki/Ernie_Lotinga
+<annotated>0</annotated>
+<originalabstract>Ernie Lotinga (1876–1951) was a British comedian and film actor. Lotinga became known for the Josser series of comedy film in which he starred during the 1930s.
+After seeing him perform on stage in 1927, T.S. Eliot wrote to Virginia Woolf that Lotinga was, "the greatest living British histrionic artist, in the purest tradition of British obscenity."</originalabstract>
+<abstract>Ernie_Lotinga ( 1876 – 1951 ) was a_British_comedian_and_film_actor . Lotinga became_known for the_Josser_series of comedy_film in which he starred during the_1930s . After seeing him perform on stage in 1927 , T.S._Eliot wrote to Virginia_Woolf that Lotinga was , " the_greatest_living British_histrionic_artist , in the_purest_tradition of British_obscenity . "</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ernie'), (6, 'Lotinga'), (14, '('), (15, '1876'), (19, '–'), (20, '1951'), (24, ')'), (26, 'was'), (30, 'a'), (32, 'British'), (40, 'comedian'), (49, 'and'), (53, 'film'), (58, 'actor'), (63, '.'), (65, 'Lotinga'), (73, 'became'), (80, 'known'), (86, 'for'), (90, 'the'), (94, 'Josser'), (101, 'series'), (108, 'of'), (111, 'comedy'), (118, 'film'), (123, 'in'), (126, 'which'), (132, 'he'), (135, 'starred'), (143, 'during'), (150, 'the'), (154, '1930s'), (159, '.'), (161, 'After'), (167, 'seeing'), (174, 'him'), (178, 'perform'), (186, 'on'), (189, 'stage'), (195, 'in'), (198, '1927'), (202, ','), (204, 'T.S.'), (209, 'Eliot'), (215, 'wrote'), (221, 'to'), (224, 'Virginia'), (233, 'Woolf'), (239, 'that'), (244, 'Lotinga'), (252, 'was'), (255, ','), (257, '"'), (258, 'the'), (262, 'greatest'), (271, 'living'), (278, 'British'), (286, 'histrionic'), (297, 'artist'), (303, ','), (305, 'in'), (308, 'the'), (312, 'purest'), (319, 'tradition'), (329, 'of'), (332, 'British'), (340, 'obscenity'), (349, '.'), (350, '"')])</stanford_tokens>
+<opennlp_chunks>[('Ernie Lotinga',0, 13), ('a British comedian and film actor',30, 63), ('became known',73, 85), ('the Josser series',90, 107), ('comedy film',111, 122), ('the 1930s',150, 159), ('T.S. Eliot',204, 214), ('Virginia Woolf',224, 238), ('the greatest living',258, 277), ('British histrionic artist',278, 303), ('the purest tradition',308, 328), ('British obscenity',332, 349)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'NN', 'NN', 'IN', 'WDT', 'PRP', 'VBD', 'IN', 'DT', 'NNS', '.', 'IN', 'VBG', 'PRP', 'VB', 'IN', 'NN', 'IN', 'CD', ',', 'NNP', 'NNP', 'VBD', 'TO', 'NNP', 'NNP', 'WDT', 'NNP', 'VBD', ',', '``', 'DT', 'JJS', 'NN', 'JJ', 'JJ', 'NN', ',', 'IN', 'DT', 'JJS', 'NN', 'IN', 'JJ', 'NN', '.', '\'\'']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ernie'), (6, 'Lotinga'), (14, '('), (15, '1876–1951'), (24, ')'), (26, 'was'), (30, 'a'), (32, 'British'), (40, 'comedian'), (49, 'and'), (53, 'film'), (58, 'actor'), (63, '.'), (65, 'Lotinga'), (73, 'became'), (80, 'known'), (86, 'for'), (90, 'the'), (94, 'Josser'), (101, 'series'), (108, 'of'), (111, 'comedy'), (118, 'film'), (123, 'in'), (126, 'which'), (132, 'he'), (135, 'starred'), (143, 'during'), (150, 'the'), (154, '1930s'), (159, '.'), (161, 'After'), (167, 'seeing'), (174, 'him'), (178, 'perform'), (186, 'on'), (189, 'stage'), (195, 'in'), (198, '1927'), (202, ','), (204, 'T.S.'), (209, 'Eliot'), (215, 'wrote'), (221, 'to'), (224, 'Virginia'), (233, 'Woolf'), (239, 'that'), (244, 'Lotinga'), (252, 'was'), (255, ','), (257, '"'), (258, 'the'), (262, 'greatest'), (271, 'living'), (278, 'British'), (286, 'histrionic'), (297, 'artist'), (303, ','), (305, 'in'), (308, 'the'), (312, 'purest'), (319, 'tradition'), (329, 'of'), (332, 'British'), (340, 'obscenity'), (349, '.'), (350, '"')])</spacy_tokens>
+<spacy_chunks>[('Ernie Lotinga', 0, 13), ('a British comedian and film actor', 30, 63), ('the Josser series', 90, 107), ('comedy film', 111, 122), ('the 1930s', 150, 159), ('T.S. Eliot', 204, 214), ('Virginia Woolf', 224, 238), ('"the greatest living British histrionic artist', 257, 303), ('the purest tradition', 308, 328), ('British obscenity', 332, 349)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'NN', 'NN', 'IN', 'WDT', 'PRP', 'VBD', 'IN', 'DT', 'NNS', '.', 'IN', 'VBG', 'PRP', 'VB', 'IN', 'NN', 'IN', 'CD', ',', 'NNP', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', 'WDT', 'NNP', 'VBD', ',', '``', 'DT', 'JJS', 'VBG', 'JJ', 'JJ', 'NN', ',', 'IN', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NN', '.', "''"]</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eva Puck</title>
+<link/>https://en.wikipedia.org/wiki/Eva_Puck
+<annotated>0</annotated>
+<originalabstract>Eva Puck (November 25, 1892 – October 25, 1979) was an American entertainer, a vaudeville headliner who later found success performing in Broadway musical comedies and film.</originalabstract>
+<abstract>Eva_Puck ( November_25_,_1892 – October_25_,_1979 ) was an_American_entertainer , a_vaudeville_headliner who later found success_performing in Broadway_musical_comedies_and_film .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eva'), (4, 'Puck'), (9, '('), (10, 'November'), (19, '25'), (21, ','), (23, '1892'), (28, '–'), (30, 'October'), (38, '25'), (40, ','), (42, '1979'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'entertainer'), (75, ','), (77, 'a'), (79, 'vaudeville'), (90, 'headliner'), (100, 'who'), (104, 'later'), (110, 'found'), (116, 'success'), (124, 'performing'), (135, 'in'), (138, 'Broadway'), (147, 'musical'), (155, 'comedies'), (164, 'and'), (168, 'film'), (172, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eva Puck',0, 8), ('November 25, 1892',10, 27), ('October 25, 1979',30, 46), ('an American entertainer',52, 75), ('a vaudeville headliner',77, 99), ('success performing',116, 134), ('Broadway musical comedies and film',138, 172)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'DT', 'NN', 'NN', 'WP', 'RB', 'VBD', 'NN', 'VBG', 'IN', 'NNP', 'JJ', 'NNS', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eva'), (4, 'Puck'), (9, '('), (10, 'November'), (19, '25'), (21, ','), (23, '1892'), (28, '–'), (30, 'October'), (38, '25'), (40, ','), (42, '1979'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'entertainer'), (75, ','), (77, 'a'), (79, 'vaudeville'), (90, 'headliner'), (100, 'who'), (104, 'later'), (110, 'found'), (116, 'success'), (124, 'performing'), (135, 'in'), (138, 'Broadway'), (147, 'musical'), (155, 'comedies'), (164, 'and'), (168, 'film'), (172, '.')])</spacy_tokens>
+<spacy_chunks>[('Eva Puck', 0, 8), ('(November', 9, 18), ('November 25, 1892', 10, 27), ('– October', 28, 37), ('October 25, 1979', 30, 46), ('an American entertainer', 52, 75), ('a vaudeville headliner', 77, 99), ('success', 116, 123), ('Broadway musical comedies', 138, 163)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'DT', 'NN', 'NN', 'WP', 'RB', 'VBD', 'NN', 'VBG', 'IN', 'NNP', 'JJ', 'NNS', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

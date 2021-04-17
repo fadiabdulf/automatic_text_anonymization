@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eddie Polo</title>
+<link/>https://en.wikipedia.org/wiki/Eddie_Polo
+<annotated>0</annotated>
+<originalabstract>Eddie Polo (1 February 1875 – 14 June 1961) was an Austrian-American actor of the silent era. He was of Jewish descent.</originalabstract>
+<abstract>Eddie_Polo ( 1_February_1875 – 14_June_1961 ) was an_Austrian-American_actor of the_silent_era . He was of Jewish_descent .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eddie'), (6, 'Polo'), (11, '('), (12, '1'), (14, 'February'), (23, '1875'), (28, '–'), (30, '14'), (33, 'June'), (38, '1961'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'Austrian-American'), (69, 'actor'), (75, 'of'), (78, 'the'), (82, 'silent'), (89, 'era'), (92, '.'), (94, 'He'), (97, 'was'), (101, 'of'), (104, 'Jewish'), (111, 'descent'), (118, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eddie Polo',0, 10), ('1 February 1875',12, 27), ('14 June 1961',30, 42), ('an Austrian-American actor',48, 74), ('the silent era',78, 92), ('Jewish descent',104, 118)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eddie'), (6, 'Polo'), (11, '('), (12, '1'), (14, 'February'), (23, '1875'), (28, '–'), (30, '14'), (33, 'June'), (38, '1961'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'Austrian'), (59, '-'), (60, 'American'), (69, 'actor'), (75, 'of'), (78, 'the'), (82, 'silent'), (89, 'era'), (92, '.'), (94, 'He'), (97, 'was'), (101, 'of'), (104, 'Jewish'), (111, 'descent'), (118, '.')])</spacy_tokens>
+<spacy_chunks>[('Eddie Polo', 0, 10), ('1 February 1875', 12, 27), ('14 June 1961', 30, 42), ('an Austrian-American actor', 48, 74), ('the silent era', 78, 92), ('Jewish descent', 104, 118)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

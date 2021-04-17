@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Legolas</title>
+<link/>http://en.wikipedia.org/wiki/Legolas
+<annotated>0</annotated>
+<originalabstract>Legolas (pronounced [ˈlɛɡɔlas]) is a fictional character in J. R. R. Tolkien's legendarium. He is a Sindarin Elf of the Woodland Realm and one of nine members of the Fellowship of the Ring.</originalabstract>
+<abstract>Legolas (pronounced [ˈlɛɡɔlas]) is a fictional character in J. R. R. Tolkien's legendarium. He is a Sindarin Elf of the Woodland Realm and one of nine members of the Fellowship of the Ring.</abstract>
+<stanford_tokens>OrderedDict([(0, 'Legolas'), (8, '('), (9, 'pronounced'), (20, '['), (21, 'ˈlɛɡɔlas'), (29, ']'), (30, ')'), (32, 'is'), (35, 'a'), (37, 'fictional'), (47, 'character'), (57, 'in'), (60, 'J.'), (63, 'R.'), (66, 'R.'), (69, 'Tolkien'), (76, "'s"), (79, 'legendarium'), (90, '.'), (92, 'He'), (95, 'is'), (98, 'a'), (100, 'Sindarin'), (109, 'Elf'), (113, 'of'), (116, 'the'), (120, 'Woodland'), (129, 'Realm'), (135, 'and'), (139, 'one'), (143, 'of'), (146, 'nine'), (151, 'members'), (159, 'of'), (162, 'the'), (166, 'Fellowship'), (177, 'of'), (180, 'the'), (184, 'Ring'), (188, '.')])</stanford_tokens>
+<opennlp_chunks>[('Legolas', 0, 7), ('[ˈlɛɡɔlas', 20, 29), ('a fictional character', 35, 56), ("J. R. R. Tolkien's legendarium", 60, 90), ('a Sindarin Elf', 98, 112), ('the Woodland Realm', 116, 134), ('nine members', 146, 158), ('The Fellowship of the Ring', 162, 188)]</opennlp_chunks>
+<stanford_pos>['NNP', '-LRB-', 'JJ', '-LRB-', 'NNP', '-RRB-', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'POS', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'CD', 'IN', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Legolas'), (8, '('), (9, 'pronounced'), (20, '['), (21, 'ˈlɛɡɔlas'), (29, ']'), (30, ')'), (32, 'is'), (35, 'a'), (37, 'fictional'), (47, 'character'), (57, 'in'), (60, 'J.'), (63, 'R.'), (66, 'R.'), (69, 'Tolkien'), (76, "'s"), (79, 'legendarium'), (90, '.'), (92, 'He'), (95, 'is'), (98, 'a'), (100, 'Sindarin'), (109, 'Elf'), (113, 'of'), (116, 'the'), (120, 'Woodland'), (129, 'Realm'), (135, 'and'), (139, 'one'), (143, 'of'), (146, 'nine'), (151, 'members'), (159, 'of'), (162, 'the'), (166, 'Fellowship'), (177, 'of'), (180, 'the'), (184, 'Ring'), (188, '.')])</spacy_tokens>
+<spacy_chunks>[('Legolas', 0, 7), ('[ˈlɛɡɔlas', 20, 29), ('a fictional character', 35, 56), ("J. R. R. Tolkien's legendarium", 60, 90), ('a Sindarin Elf', 98, 112), ('the Woodland Realm', 116, 134), ('nine members', 146, 158), ('The Fellowship of the Ring', 162, 188)]</spacy_chunks>
+<spacy_pos>['NNP', '-LRB-', 'JJ', '-LRB-', 'NNP', '-RRB-', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'POS', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'CD', 'IN', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+</doc>

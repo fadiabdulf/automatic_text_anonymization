@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tacholas</title>
+<link/>https://en.wikipedia.org/wiki/Tacholas
+<annotated>0</annotated>
+<originalabstract>Fernando Luís "Tacholas" Iglesias Sánchez (August 25, 1909 – May 14, 1991) was a Spanish-Argentine actor from Ourense. He starred in the 1962 film Una Jaula no tiene secretos.</originalabstract>
+<abstract>Fernando_Luís_"_Tacholas_"_Iglesias_Sánchez ( August_25_,_1909 – May_14_,_1991 ) was a_Spanish-Argentine_actor from Ourense . He starred in the_1962_film_Una_Jaula no_tiene_secretos .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fernando'), (9, 'Luís'), (14, '"'), (15, 'Tacholas'), (23, '"'), (25, 'Iglesias'), (34, 'Sánchez'), (42, '('), (43, 'August'), (50, '25'), (52, ','), (54, '1909'), (59, '–'), (61, 'May'), (65, '14'), (67, ','), (69, '1991'), (73, ')'), (75, 'was'), (79, 'a'), (81, 'Spanish-Argentine'), (99, 'actor'), (105, 'from'), (110, 'Ourense'), (117, '.'), (119, 'He'), (122, 'starred'), (130, 'in'), (133, 'the'), (137, '1962'), (142, 'film'), (147, 'Una'), (151, 'Jaula'), (157, 'no'), (160, 'tiene'), (166, 'secretos'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fernando Luís "Tacholas" Iglesias Sánchez',0, 41), ('August 25, 1909',43, 58), ('May 14, 1991',61, 73), ('a Spanish-Argentine actor',79, 104), ('the 1962 film Una Jaula',133, 156), ('no tiene secretos',157, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'DT', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fernando'), (9, 'Luís'), (14, '"'), (15, 'Tacholas'), (23, '"'), (25, 'Iglesias'), (34, 'Sánchez'), (42, '('), (43, 'August'), (50, '25'), (52, ','), (54, '1909'), (59, '–'), (61, 'May'), (65, '14'), (67, ','), (69, '1991'), (73, ')'), (75, 'was'), (79, 'a'), (81, 'Spanish'), (88, '-'), (89, 'Argentine'), (99, 'actor'), (105, 'from'), (110, 'Ourense'), (117, '.'), (119, 'He'), (122, 'starred'), (130, 'in'), (133, 'the'), (137, '1962'), (142, 'film'), (147, 'Una'), (151, 'Jaula'), (157, 'no'), (160, 'tiene'), (166, 'secretos'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[('Fernando Luís', 0, 13), ('"Tacholas" Iglesias Sánchez', 14, 41), ('(August', 42, 49), ('August 25, 1909', 43, 58), ('May 14, 1991', 61, 73), ('a Spanish-Argentine actor', 79, 104), ('Ourense', 110, 117), ('the 1962 film', 133, 146), ('Una Jaula no tiene secretos', 147, 174)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'DT', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

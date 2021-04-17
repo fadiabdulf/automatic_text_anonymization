@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Greg Wise</title>
+<link/>https://en.wikipedia.org/wiki/Greg_Wise
+<annotated>0</annotated>
+<originalabstract>Matthew Gregory Wise (born 15 May 1966) is an English actor and producer. He has appeared in many British television works, as well as several feature films (notably the role of John Willoughby in Sense and Sensibility).</originalabstract>
+<abstract>Matthew_Gregory_Wise ( born 15_May_1966 ) is an_English_actor_and_producer . He has_appeared in many_British_television_works , as_well_as several_feature_films ( notably_the_role of John_Willoughby in Sense_and_Sensibility_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Matthew'), (8, 'Gregory'), (16, 'Wise'), (21, '('), (22, 'born'), (27, '15'), (30, 'May'), (34, '1966'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'English'), (54, 'actor'), (60, 'and'), (64, 'producer'), (72, '.'), (74, 'He'), (77, 'has'), (81, 'appeared'), (90, 'in'), (93, 'many'), (98, 'British'), (106, 'television'), (117, 'works'), (122, ','), (124, 'as'), (127, 'well'), (132, 'as'), (135, 'several'), (143, 'feature'), (151, 'films'), (157, '('), (158, 'notably'), (166, 'the'), (170, 'role'), (175, 'of'), (178, 'John'), (183, 'Willoughby'), (194, 'in'), (197, 'Sense'), (203, 'and'), (207, 'Sensibility'), (218, ')'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Matthew Gregory Wise',0, 20), ('15 May 1966',27, 38), ('an English actor and producer',43, 72), ('has appeared',77, 89), ('many British television works',93, 122), ('as well as',124, 134), ('several feature films',135, 156), ('notably the role',158, 174), ('John Willoughby',178, 193), ('Sense and Sensibility)',197, 219)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'JJ', 'NN', 'NNS', ',', 'RB', 'RB', 'IN', 'JJ', 'NN', 'NNS', '-LRB-', 'RB', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NN', 'CC', 'NN', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Matthew'), (8, 'Gregory'), (16, 'Wise'), (21, '('), (22, 'born'), (27, '15'), (30, 'May'), (34, '1966'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'English'), (54, 'actor'), (60, 'and'), (64, 'producer'), (72, '.'), (74, 'He'), (77, 'has'), (81, 'appeared'), (90, 'in'), (93, 'many'), (98, 'British'), (106, 'television'), (117, 'works'), (122, ','), (124, 'as'), (127, 'well'), (132, 'as'), (135, 'several'), (143, 'feature'), (151, 'films'), (157, '('), (158, 'notably'), (166, 'the'), (170, 'role'), (175, 'of'), (178, 'John'), (183, 'Willoughby'), (194, 'in'), (197, 'Sense'), (203, 'and'), (207, 'Sensibility'), (218, ')'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Matthew Gregory Wise', 0, 20), ('15 May 1966', 27, 38), ('an English actor', 43, 59), ('producer', 64, 72), ('many British television works', 93, 122), ('several feature films', 135, 156), ('notably the role', 158, 174), ('John Willoughby', 178, 193), ('Sense and Sensibility', 197, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'JJ', 'NN', 'NNS', ',', 'RB', 'RB', 'IN', 'JJ', 'NN', 'NNS', '-LRB-', 'RB', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

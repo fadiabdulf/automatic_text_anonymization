@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brian George</title>
+<link/>https://en.wikipedia.org/wiki/Brian_George
+<annotated>0</annotated>
+<originalabstract>Brian George (born 1 July 1952) is an Israeli-English actor, singer, voice artist and comedian best known for playing Pakistani restaurateur Babu Bhatt on Seinfeld and the gynaecologist father of Raj Koothrappali on The Big Bang Theory.</originalabstract>
+<abstract>Brian_George ( born 1_July_1952 ) is an_Israeli-English_actor , singer , voice_artist_and_comedian best_known for playing Pakistani_restaurateur_Babu_Bhatt on Seinfeld and the_gynaecologist_father of Raj_Koothrappali on The_Big_Bang_Theory .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brian'), (6, 'George'), (13, '('), (14, 'born'), (19, '1'), (21, 'July'), (26, '1952'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'Israeli-English'), (54, 'actor'), (59, ','), (61, 'singer'), (67, ','), (69, 'voice'), (75, 'artist'), (82, 'and'), (86, 'comedian'), (95, 'best'), (100, 'known'), (106, 'for'), (110, 'playing'), (118, 'Pakistani'), (128, 'restaurateur'), (141, 'Babu'), (146, 'Bhatt'), (152, 'on'), (155, 'Seinfeld'), (164, 'and'), (168, 'the'), (172, 'gynaecologist'), (186, 'father'), (193, 'of'), (196, 'Raj'), (200, 'Koothrappali'), (213, 'on'), (216, 'The'), (220, 'Big'), (224, 'Bang'), (229, 'Theory'), (235, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brian George',0, 12), ('1 July 1952',19, 30), ('an Israeli-English actor',35, 59), ('voice artist and comedian',69, 94), ('best known',95, 105), ('Pakistani restaurateur Babu Bhatt',118, 151), ('the gynaecologist father',168, 192), ('Raj Koothrappali',196, 212), ('The Big Bang Theory',216, 235)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brian'), (6, 'George'), (13, '('), (14, 'born'), (19, '1'), (21, 'July'), (26, '1952'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'Israeli'), (45, '-'), (46, 'English'), (54, 'actor'), (59, ','), (61, 'singer'), (67, ','), (69, 'voice'), (75, 'artist'), (82, 'and'), (86, 'comedian'), (95, 'best'), (100, 'known'), (106, 'for'), (110, 'playing'), (118, 'Pakistani'), (128, 'restaurateur'), (141, 'Babu'), (146, 'Bhatt'), (152, 'on'), (155, 'Seinfeld'), (164, 'and'), (168, 'the'), (172, 'gynaecologist'), (186, 'father'), (193, 'of'), (196, 'Raj'), (200, 'Koothrappali'), (213, 'on'), (216, 'The'), (220, 'Big'), (224, 'Bang'), (229, 'Theory'), (235, '.')])</spacy_tokens>
+<spacy_chunks>[('Brian George', 0, 12), ('1 July 1952', 19, 30), ('an Israeli-English actor', 35, 59), ('singer', 61, 67), ('voice artist', 69, 81), ('comedian', 86, 94), ('Pakistani restaurateur Babu Bhatt', 118, 151), ('Seinfeld', 155, 163), ('the gynaecologist father', 168, 192), ('Raj Koothrappali', 196, 212), ('The Big Bang Theory', 216, 235)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Teddy Sampson</title>
+<link/>https://en.wikipedia.org/wiki/Teddy_Sampson
+<annotated>0</annotated>
+<originalabstract>Nora Sampson, better known by her stage name Teddy Sampson (August 8, 1895 – November 24, 1970), was an American stage and silent film actress who appeared in at least forty-one motion pictures between 1914 and 1923.</originalabstract>
+<abstract>Nora_Sampson , better_known by her_stage_name_Teddy_Sampson ( August_8_,_1895 – November_24 , 1970 ) , was an_American_stage and silent_film_actress who appeared in at_least_forty-one_motion_pictures between 1914_and_1923 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nora'), (5, 'Sampson'), (12, ','), (14, 'better'), (21, 'known'), (27, 'by'), (30, 'her'), (34, 'stage'), (40, 'name'), (45, 'Teddy'), (51, 'Sampson'), (59, '('), (60, 'August'), (67, '8'), (68, ','), (70, '1895'), (75, '–'), (77, 'November'), (86, '24'), (88, ','), (90, '1970'), (94, ')'), (95, ','), (97, 'was'), (101, 'an'), (104, 'American'), (113, 'stage'), (119, 'and'), (123, 'silent'), (130, 'film'), (135, 'actress'), (143, 'who'), (147, 'appeared'), (156, 'in'), (159, 'at'), (162, 'least'), (168, 'forty-one'), (178, 'motion'), (185, 'pictures'), (194, 'between'), (202, '1914'), (207, 'and'), (211, '1923'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nora Sampson',0, 12), ('better known',14, 26), ('her stage name Teddy Sampson',30, 58), ('August 8, 1895',60, 74), ('November 24',77, 88), ('an American stage',101, 118), ('silent film actress',123, 142), ('at least forty-one motion pictures',159, 193), ('1914 and 1923',202, 215)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'IN', 'JJS', 'CD', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nora'), (5, 'Sampson'), (12, ','), (14, 'better'), (21, 'known'), (27, 'by'), (30, 'her'), (34, 'stage'), (40, 'name'), (45, 'Teddy'), (51, 'Sampson'), (59, '('), (60, 'August'), (67, '8'), (68, ','), (70, '1895'), (75, '–'), (77, 'November'), (86, '24'), (88, ','), (90, '1970'), (94, ')'), (95, ','), (97, 'was'), (101, 'an'), (104, 'American'), (113, 'stage'), (119, 'and'), (123, 'silent'), (130, 'film'), (135, 'actress'), (143, 'who'), (147, 'appeared'), (156, 'in'), (159, 'at'), (162, 'least'), (168, 'forty'), (173, '-'), (174, 'one'), (178, 'motion'), (185, 'pictures'), (194, 'between'), (202, '1914'), (207, 'and'), (211, '1923'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Nora Sampson', 0, 12), ('her stage name', 30, 44), ('Teddy Sampson', 45, 58), ('August 8, 1895', 60, 74), ('November 24, 1970', 77, 94), ('an American stage', 101, 118), ('silent film actress', 123, 142), ('at least forty-one motion pictures', 159, 193)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'RB', 'JJS', 'CD', 'HYPH', 'CD', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

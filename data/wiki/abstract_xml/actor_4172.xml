@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James MacArthur</title>
+<link/>https://en.wikipedia.org/wiki/James_MacArthur
+<annotated>0</annotated>
+<originalabstract>James Gordon MacArthur (December 8, 1937 – October 28, 2010) was an American actor best known for the role of Danny "Danno" Williams, the reliable second-in-command of the fictional Hawaiian State Police squad in the long-running television series Hawaii Five-O.</originalabstract>
+<abstract>James_Gordon_MacArthur ( December_8_,_1937 – October_28_,_2010 ) was an_American_actor best_known for the_role of Danny_"_Danno_"_Williams , the_reliable_second-in-command of the_fictional_Hawaiian_State_Police_squad in the_long-running_television_series_Hawaii_Five-O .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Gordon'), (13, 'MacArthur'), (23, '('), (24, 'December'), (33, '8'), (34, ','), (36, '1937'), (41, '–'), (43, 'October'), (51, '28'), (53, ','), (55, '2010'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'actor'), (83, 'best'), (88, 'known'), (94, 'for'), (98, 'the'), (102, 'role'), (107, 'of'), (110, 'Danny'), (116, '"'), (117, 'Danno'), (122, '"'), (124, 'Williams'), (132, ','), (134, 'the'), (138, 'reliable'), (147, 'second-in-command'), (165, 'of'), (168, 'the'), (172, 'fictional'), (182, 'Hawaiian'), (191, 'State'), (197, 'Police'), (204, 'squad'), (210, 'in'), (213, 'the'), (217, 'long-running'), (230, 'television'), (241, 'series'), (248, 'Hawaii'), (255, 'Five-O'), (261, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Gordon MacArthur',0, 22), ('December 8, 1937',24, 40), ('October 28, 2010',43, 59), ('an American actor',65, 82), ('best known',83, 93), ('the role',98, 106), ('Danny "Danno" Williams',110, 132), ('the reliable second-in-command',134, 164), ('the fictional Hawaiian State Police squad',168, 209), ('the long-running television series Hawaii Five-O',213, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', '``', 'NNP', '\'\'', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NNS', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Gordon'), (13, 'MacArthur'), (23, '('), (24, 'December'), (33, '8'), (34, ','), (36, '1937'), (41, '–'), (43, 'October'), (51, '28'), (53, ','), (55, '2010'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'actor'), (83, 'best'), (88, 'known'), (94, 'for'), (98, 'the'), (102, 'role'), (107, 'of'), (110, 'Danny'), (116, '"'), (117, 'Danno'), (122, '"'), (124, 'Williams'), (132, ','), (134, 'the'), (138, 'reliable'), (147, 'second'), (153, '-'), (154, 'in'), (156, '-'), (157, 'command'), (165, 'of'), (168, 'the'), (172, 'fictional'), (182, 'Hawaiian'), (191, 'State'), (197, 'Police'), (204, 'squad'), (210, 'in'), (213, 'the'), (217, 'long'), (221, '-'), (222, 'running'), (230, 'television'), (241, 'series'), (248, 'Hawaii'), (255, 'Five'), (259, '-'), (260, 'O.')])</spacy_tokens>
+<spacy_chunks>[('James Gordon MacArthur', 0, 22), ('December 8, 1937', 24, 40), ('October 28, 2010', 43, 59), ('an American actor', 65, 82), ('the role', 98, 106), ('Danny "Danno" Williams', 110, 132), ('command', 157, 164), ('the fictional Hawaiian State Police squad', 168, 209), ('the long-running television series', 213, 247)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNPS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', '``', 'NNP', '``', 'NNP', ',', 'DT', 'JJ', 'JJ', 'HYPH', 'IN', 'HYPH', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NNP', 'NNP', 'NN', 'IN', 'DT', 'RB', 'HYPH', 'VBG', 'NN', 'NN', 'NNP', 'NNP', 'HYPH', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

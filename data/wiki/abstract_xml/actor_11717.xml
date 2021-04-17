@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dorothy Dickson</title>
+<link/>https://en.wikipedia.org/wiki/Dorothy_Dickson
+<annotated>0</annotated>
+<originalabstract>Dorothy Dickson (July 25, 1893 – September 25, 1995) was an American-born, London-based theater actress and singer. She died two months after her 102nd birthday.</originalabstract>
+<abstract>Dorothy_Dickson ( July_25_,_1893 – September_25_,_1995 ) was an_American-born_,_London-based_theater_actress_and_singer . She died two_months after her_102nd_birthday .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dorothy'), (8, 'Dickson'), (16, '('), (17, 'July'), (22, '25'), (24, ','), (26, '1893'), (31, '–'), (33, 'September'), (43, '25'), (45, ','), (47, '1995'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American-born'), (73, ','), (75, 'London-based'), (88, 'theater'), (96, 'actress'), (104, 'and'), (108, 'singer'), (114, '.'), (116, 'She'), (120, 'died'), (125, 'two'), (129, 'months'), (136, 'after'), (142, 'her'), (146, '102nd'), (152, 'birthday'), (160, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dorothy Dickson',0, 15), ('July 25, 1893',17, 30), ('September 25, 1995',33, 51), ('an American-born, London-based theater actress and singer',57, 114), ('two months',125, 135), ('her 102nd birthday',142, 160)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', ',', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dorothy'), (8, 'Dickson'), (16, '('), (17, 'July'), (22, '25'), (24, ','), (26, '1893'), (31, '–'), (33, 'September'), (43, '25'), (45, ','), (47, '1995'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (68, '-'), (69, 'born'), (73, ','), (75, 'London'), (81, '-'), (82, 'based'), (88, 'theater'), (96, 'actress'), (104, 'and'), (108, 'singer'), (114, '.'), (116, 'She'), (120, 'died'), (125, 'two'), (129, 'months'), (136, 'after'), (142, 'her'), (146, '102nd'), (152, 'birthday'), (160, '.')])</spacy_tokens>
+<spacy_chunks>[('Dorothy Dickson', 0, 15), ('July 25, 1893', 17, 30), ('September 25, 1995', 33, 51), ('an American-born, London-based theater actress', 57, 103), ('singer', 108, 114), ('her 102nd birthday', 142, 160)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', ',', 'NNP', 'HYPH', 'VBN', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

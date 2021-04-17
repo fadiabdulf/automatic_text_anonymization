@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barry Quin</title>
+<link/>https://en.wikipedia.org/wiki/Barry_Quin
+<annotated>0</annotated>
+<originalabstract>Barry Quin (born 1949) is a British-Australian who is a stage and television actor, best known for his role in the original cast of Prisoner playing Dr. Greg Miller. He was married to his Prisoner co-star Peta Toppano during the early 1980s, but they divorced after ten years; he has since remarried.</originalabstract>
+<abstract>Barry_Quin ( born 1949 ) is a_British-Australian who is a_stage_and_television_actor , best_known for his_role in the_original_cast of Prisoner_playing_Dr._Greg_Miller . He was_married to his_Prisoner_co-star_Peta_Toppano during the_early_1980s , but they divorced after ten_years ; he has_since_remarried .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barry'), (6, 'Quin'), (11, '('), (12, 'born'), (17, '1949'), (21, ')'), (23, 'is'), (26, 'a'), (28, 'British-Australian'), (47, 'who'), (51, 'is'), (54, 'a'), (56, 'stage'), (62, 'and'), (66, 'television'), (77, 'actor'), (82, ','), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'role'), (108, 'in'), (111, 'the'), (115, 'original'), (124, 'cast'), (129, 'of'), (132, 'Prisoner'), (141, 'playing'), (149, 'Dr.'), (153, 'Greg'), (158, 'Miller'), (164, '.'), (166, 'He'), (169, 'was'), (173, 'married'), (181, 'to'), (184, 'his'), (188, 'Prisoner'), (197, 'co-star'), (205, 'Peta'), (210, 'Toppano'), (218, 'during'), (225, 'the'), (229, 'early'), (235, '1980s'), (240, ','), (242, 'but'), (246, 'they'), (251, 'divorced'), (260, 'after'), (266, 'ten'), (270, 'years'), (275, ';'), (277, 'he'), (280, 'has'), (284, 'since'), (290, 'remarried'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barry Quin',0, 10), ('a British-Australian',26, 46), ('a stage and television actor',54, 82), ('best known',84, 94), ('his role',99, 107), ('the original cast',111, 128), ('Prisoner playing Dr. Greg Miller',132, 164), ('was married',169, 180), ('his Prisoner co-star Peta Toppano',184, 217), ('the early 1980s',225, 240), ('ten years',266, 275), ('has since remarried',280, 299)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'WP', 'VBZ', 'DT', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'TO', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'CD', ',', 'CC', 'PRP', 'VBD', 'IN', 'CD', 'NNS', ':', 'PRP', 'VBZ', 'IN', 'VBN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barry'), (6, 'Quin'), (11, '('), (12, 'born'), (17, '1949'), (21, ')'), (23, 'is'), (26, 'a'), (28, 'British'), (35, '-'), (36, 'Australian'), (47, 'who'), (51, 'is'), (54, 'a'), (56, 'stage'), (62, 'and'), (66, 'television'), (77, 'actor'), (82, ','), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'role'), (108, 'in'), (111, 'the'), (115, 'original'), (124, 'cast'), (129, 'of'), (132, 'Prisoner'), (141, 'playing'), (149, 'Dr.'), (153, 'Greg'), (158, 'Miller'), (164, '.'), (166, 'He'), (169, 'was'), (173, 'married'), (181, 'to'), (184, 'his'), (188, 'Prisoner'), (197, 'co'), (199, '-'), (200, 'star'), (205, 'Peta'), (210, 'Toppano'), (218, 'during'), (225, 'the'), (229, 'early'), (235, '1980s'), (240, ','), (242, 'but'), (246, 'they'), (251, 'divorced'), (260, 'after'), (266, 'ten'), (270, 'years'), (275, ';'), (277, 'he'), (280, 'has'), (284, 'since'), (290, 'remarried'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('Barry Quin', 0, 10), ('British-Australian', 28, 46), ('a stage', 54, 61), ('television actor', 66, 82), ('his role', 99, 107), ('the original cast', 111, 128), ('Prisoner', 132, 140), ('Dr. Greg Miller', 149, 164), ('his Prisoner co-star Peta Toppano', 184, 217), ('ten years', 266, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'WP', 'VBZ', 'DT', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'VBG', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'JJ', 'IN', 'PRP$', 'NNP', 'JJ', 'NN', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'CD', ',', 'CC', 'PRP', 'VBD', 'IN', 'CD', 'NNS', ':', 'PRP', 'VBZ', 'IN', 'VBN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

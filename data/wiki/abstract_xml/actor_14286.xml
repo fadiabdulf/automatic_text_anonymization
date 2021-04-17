@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Laura Oakley</title>
+<link/>https://en.wikipedia.org/wiki/Laura_Oakley
+<annotated>0</annotated>
+<originalabstract>Laura Oakley (July 10, 1879, Oakland, California  - January 30, 1957, Altadena, California) was an American silent film actress.</originalabstract>
+<abstract>Laura_Oakley ( July_10 , 1879 , Oakland , California - January_30_,_1957_,_Altadena_,_California ) was an_American_silent_film_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Laura'), (6, 'Oakley'), (13, '('), (14, 'July'), (19, '10'), (21, ','), (23, '1879'), (27, ','), (29, 'Oakland'), (36, ','), (38, 'California'), (50, '-'), (52, 'January'), (60, '30'), (62, ','), (64, '1957'), (68, ','), (70, 'Altadena'), (78, ','), (80, 'California'), (90, ')'), (92, 'was'), (96, 'an'), (99, 'American'), (108, 'silent'), (115, 'film'), (120, 'actress'), (127, '.')])</stanford_tokens>
+<opennlp_chunks>[('Laura Oakley',0, 12), ('July 10',14, 21), ('January 30, 1957, Altadena, California',52, 90), ('an American silent film actress',96, 127)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNS', ',', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Laura'), (6, 'Oakley'), (13, '('), (14, 'July'), (19, '10'), (21, ','), (23, '1879'), (27, ','), (29, 'Oakland'), (36, ','), (38, 'California'), (50, '-'), (52, 'January'), (60, '30'), (62, ','), (64, '1957'), (68, ','), (70, 'Altadena'), (78, ','), (80, 'California'), (90, ')'), (92, 'was'), (96, 'an'), (99, 'American'), (108, 'silent'), (115, 'film'), (120, 'actress'), (127, '.')])</spacy_tokens>
+<spacy_chunks>[('Laura Oakley', 0, 12), ('July 10, 1879', 14, 27), ('Oakland, California', 29, 48), ('January 30, 1957', 52, 68), ('Altadena, California', 70, 90), ('an American silent film actress', 96, 127)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

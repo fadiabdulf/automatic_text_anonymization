@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ann Gillis</title>
+<link/>https://en.wikipedia.org/wiki/Ann_Gillis
+<annotated>0</annotated>
+<originalabstract>Alma Mabel (Ann) Conner (February 12, 1927 – January 31, 2018), known professionally as Ann Gillis, was an American actress, best known for her film roles as a child actress. She was sometimes credited as Anne Gillis or Ann Gilles. She performed the voice of Faline in the 1942 Disney animated film Bambi.</originalabstract>
+<abstract>Alma_Mabel ( Ann ) Conner ( February_12_,_1927 – January_31_,_2018 ) , known professionally as Ann_Gillis , was an_American_actress , best_known for her_film_roles as a_child_actress . She was_sometimes_credited as Anne_Gillis or Ann_Gilles . She performed the_voice of Faline in the_1942_Disney_animated_film_Bambi .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alma'), (5, 'Mabel'), (11, '('), (12, 'Ann'), (15, ')'), (17, 'Conner'), (24, '('), (25, 'February'), (34, '12'), (36, ','), (38, '1927'), (43, '–'), (45, 'January'), (53, '31'), (55, ','), (57, '2018'), (61, ')'), (62, ','), (64, 'known'), (70, 'professionally'), (85, 'as'), (88, 'Ann'), (92, 'Gillis'), (98, ','), (100, 'was'), (104, 'an'), (107, 'American'), (116, 'actress'), (123, ','), (125, 'best'), (130, 'known'), (136, 'for'), (140, 'her'), (144, 'film'), (149, 'roles'), (155, 'as'), (158, 'a'), (160, 'child'), (166, 'actress'), (173, '.'), (175, 'She'), (179, 'was'), (183, 'sometimes'), (193, 'credited'), (202, 'as'), (205, 'Anne'), (210, 'Gillis'), (217, 'or'), (220, 'Ann'), (224, 'Gilles'), (230, '.'), (232, 'She'), (236, 'performed'), (246, 'the'), (250, 'voice'), (256, 'of'), (259, 'Faline'), (266, 'in'), (269, 'the'), (273, '1942'), (278, 'Disney'), (285, 'animated'), (294, 'film'), (299, 'Bambi'), (304, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alma Mabel',0, 10), ('February 12, 1927',25, 42), ('January 31, 2018',45, 61), ('Ann Gillis',88, 98), ('an American actress',104, 123), ('best known',125, 135), ('her film roles',140, 154), ('a child actress',158, 173), ('was sometimes credited',179, 201), ('Anne Gillis',205, 216), ('Ann Gilles',220, 230), ('the voice',246, 255), ('the 1942 Disney animated film Bambi',269, 304)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'DT', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'JJ', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alma'), (5, 'Mabel'), (11, '('), (12, 'Ann'), (15, ')'), (17, 'Conner'), (24, '('), (25, 'February'), (34, '12'), (36, ','), (38, '1927'), (43, '–'), (45, 'January'), (53, '31'), (55, ','), (57, '2018'), (61, ')'), (62, ','), (64, 'known'), (70, 'professionally'), (85, 'as'), (88, 'Ann'), (92, 'Gillis'), (98, ','), (100, 'was'), (104, 'an'), (107, 'American'), (116, 'actress'), (123, ','), (125, 'best'), (130, 'known'), (136, 'for'), (140, 'her'), (144, 'film'), (149, 'roles'), (155, 'as'), (158, 'a'), (160, 'child'), (166, 'actress'), (173, '.'), (175, 'She'), (179, 'was'), (183, 'sometimes'), (193, 'credited'), (202, 'as'), (205, 'Anne'), (210, 'Gillis'), (217, 'or'), (220, 'Ann'), (224, 'Gilles'), (230, '.'), (232, 'She'), (236, 'performed'), (246, 'the'), (250, 'voice'), (256, 'of'), (259, 'Faline'), (266, 'in'), (269, 'the'), (273, '1942'), (278, 'Disney'), (285, 'animated'), (294, 'film'), (299, 'Bambi'), (304, '.')])</spacy_tokens>
+<spacy_chunks>[('Alma Mabel', 0, 10), ('Ann) Conner', 12, 23), ('February 12, 1927', 25, 42), ('January 31, 2018', 45, 61), ('Ann Gillis', 88, 98), ('an American actress', 104, 123), ('her film roles', 140, 154), ('a child actress', 158, 173), ('Anne Gillis', 205, 216), ('Ann Gilles', 220, 230), ('the voice', 246, 255), ('Faline', 259, 265), ('the 1942 Disney animated film', 269, 298)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'DT', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'VBD', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

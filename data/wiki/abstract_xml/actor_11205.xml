@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rachel Chagall</title>
+<link/>https://en.wikipedia.org/wiki/Rachel_Chagall
+<annotated>0</annotated>
+<originalabstract>Rachel Chagall (born Rachel Levin; 24 November 1952) is an American actress, best known for roles as Gaby in the film Gaby: A True Story (1987), for which she was nominated for Golden Globe Award for Best Actress – Motion Picture Drama, and as Val Toriello on The Nanny (1993–1999).</originalabstract>
+<abstract>Rachel_Chagall ( born Rachel_Levin ; 24_November_1952 ) is an_American_actress , best_known for roles as Gaby in the_film_Gaby : A_True_Story ( 1987 ) , for which she was_nominated for Golden_Globe_Award for_Best_Actress – Motion_Picture_Drama , and as Val_Toriello on The_Nanny ( 1993 – 1999 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rachel'), (7, 'Chagall'), (15, '('), (16, 'born'), (21, 'Rachel'), (28, 'Levin'), (33, ';'), (35, '24'), (38, 'November'), (47, '1952'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'actress'), (75, ','), (77, 'best'), (82, 'known'), (88, 'for'), (92, 'roles'), (98, 'as'), (101, 'Gaby'), (106, 'in'), (109, 'the'), (113, 'film'), (118, 'Gaby'), (122, ':'), (124, 'A'), (126, 'True'), (131, 'Story'), (137, '('), (138, '1987'), (142, ')'), (143, ','), (145, 'for'), (149, 'which'), (155, 'she'), (159, 'was'), (163, 'nominated'), (173, 'for'), (177, 'Golden'), (184, 'Globe'), (190, 'Award'), (196, 'for'), (200, 'Best'), (205, 'Actress'), (213, '–'), (215, 'Motion'), (222, 'Picture'), (230, 'Drama'), (235, ','), (237, 'and'), (241, 'as'), (244, 'Val'), (248, 'Toriello'), (257, 'on'), (260, 'The'), (264, 'Nanny'), (270, '('), (271, '1993'), (275, '–'), (276, '1999'), (280, ')'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rachel Chagall',0, 14), ('Rachel Levin',21, 33), ('24 November 1952',35, 51), ('an American actress',56, 75), ('best known',77, 87), ('the film Gaby',109, 122), ('A True Story',124, 136), ('was nominated',159, 172), ('Golden Globe Award',177, 195), ('for Best Actress',196, 212), ('Motion Picture Drama',215, 235), ('Val Toriello',244, 256), ('The Nanny',260, 269)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NNP', ':', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NN', 'IN', 'JJS', 'NN', ':', 'NNP', 'NNP', 'NN', ',', 'CC', 'IN', 'NN', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rachel'), (7, 'Chagall'), (15, '('), (16, 'born'), (21, 'Rachel'), (28, 'Levin'), (33, ';'), (35, '24'), (38, 'November'), (47, '1952'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'actress'), (75, ','), (77, 'best'), (82, 'known'), (88, 'for'), (92, 'roles'), (98, 'as'), (101, 'Gaby'), (106, 'in'), (109, 'the'), (113, 'film'), (118, 'Gaby'), (122, ':'), (124, 'A'), (126, 'True'), (131, 'Story'), (137, '('), (138, '1987'), (142, ')'), (143, ','), (145, 'for'), (149, 'which'), (155, 'she'), (159, 'was'), (163, 'nominated'), (173, 'for'), (177, 'Golden'), (184, 'Globe'), (190, 'Award'), (196, 'for'), (200, 'Best'), (205, 'Actress'), (213, '–'), (215, 'Motion'), (222, 'Picture'), (230, 'Drama'), (235, ','), (237, 'and'), (241, 'as'), (244, 'Val'), (248, 'Toriello'), (257, 'on'), (260, 'The'), (264, 'Nanny'), (270, '('), (271, '1993–1999'), (280, ')'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('Rachel Chagall', 0, 14), ('born Rachel Levin', 16, 33), ('24 November 1952', 35, 51), ('an American actress', 56, 75), ('the film', 109, 117), ('Gaby: A True Story', 118, 136), ('Golden Globe Award for Best Actress – Motion Picture Drama', 177, 235), ('Val Toriello', 244, 256), ('The Nanny', 260, 269)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NNP', ':', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Crystal Yu</title>
+<link/>https://en.wikipedia.org/wiki/Crystal_Yu
+<annotated>0</annotated>
+<originalabstract>Crystal Yu (born c. 1988) is a Hong Kong-born television, film and stage actress best known for playing Lily Chao in the British BBC medical drama Casualty.</originalabstract>
+<abstract>Crystal_Yu ( born c._1988 ) is a_Hong_Kong-born_television , film_and_stage_actress best_known for playing Lily_Chao in the_British_BBC_medical_drama_Casualty .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Crystal'), (8, 'Yu'), (11, '('), (12, 'born'), (17, 'c.'), (20, '1988'), (24, ')'), (26, 'is'), (29, 'a'), (31, 'Hong'), (36, 'Kong-born'), (46, 'television'), (56, ','), (58, 'film'), (63, 'and'), (67, 'stage'), (73, 'actress'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'Lily'), (109, 'Chao'), (114, 'in'), (117, 'the'), (121, 'British'), (129, 'BBC'), (133, 'medical'), (141, 'drama'), (147, 'Casualty'), (155, '.')])</stanford_tokens>
+<opennlp_chunks>[('Crystal Yu',0, 10), ('c. 1988',17, 24), ('a Hong Kong-born television',29, 56), ('film and stage actress',58, 80), ('best known',81, 91), ('Lily Chao',104, 113), ('the British BBC medical drama Casualty',117, 155)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'RB', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'NNP', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'JJ', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Crystal'), (8, 'Yu'), (11, '('), (12, 'born'), (17, 'c.'), (20, '1988'), (24, ')'), (26, 'is'), (29, 'a'), (31, 'Hong'), (36, 'Kong'), (40, '-'), (41, 'born'), (46, 'television'), (56, ','), (58, 'film'), (63, 'and'), (67, 'stage'), (73, 'actress'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'Lily'), (109, 'Chao'), (114, 'in'), (117, 'the'), (121, 'British'), (129, 'BBC'), (133, 'medical'), (141, 'drama'), (147, 'Casualty'), (155, '.')])</spacy_tokens>
+<spacy_chunks>[('Crystal Yu', 0, 10), ('a Hong Kong-born television', 29, 56), ('stage actress', 67, 80), ('Lily Chao', 104, 113), ('the British BBC medical drama', 117, 146), ('Casualty', 147, 155)]</spacy_chunks>
+<spacy_pos>['NN', 'NNP', '-LRB-', 'VBN', 'NN', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'NNP', 'HYPH', 'VBN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'JJ', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

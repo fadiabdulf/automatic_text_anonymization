@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nina Bara</title>
+<link/>https://en.wikipedia.org/wiki/Nina_Bara
+<annotated>0</annotated>
+<originalabstract>Nina Bara (born Frances Joan Baur, died August 15, 1990) was an an American actress who performed in films, on television, and on old-time radio.</originalabstract>
+<abstract>Nina_Bara ( born Frances_Joan_Baur , died August_15_,_1990 ) was an an_American_actress who performed in films , on television , and on old-time_radio .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nina'), (5, 'Bara'), (10, '('), (11, 'born'), (16, 'Frances'), (24, 'Joan'), (29, 'Baur'), (33, ','), (35, 'died'), (40, 'August'), (47, '15'), (49, ','), (51, '1990'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'an'), (67, 'American'), (76, 'actress'), (84, 'who'), (88, 'performed'), (98, 'in'), (101, 'films'), (106, ','), (108, 'on'), (111, 'television'), (121, ','), (123, 'and'), (127, 'on'), (130, 'old-time'), (139, 'radio'), (144, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nina Bara',0, 9), ('Frances Joan Baur',16, 33), ('August 15, 1990',40, 55), ('an American actress',64, 83), ('old-time radio',130, 144)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNS', ',', 'IN', 'NN', ',', 'CC', 'IN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nina'), (5, 'Bara'), (10, '('), (11, 'born'), (16, 'Frances'), (24, 'Joan'), (29, 'Baur'), (33, ','), (35, 'died'), (40, 'August'), (47, '15'), (49, ','), (51, '1990'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'an'), (67, 'American'), (76, 'actress'), (84, 'who'), (88, 'performed'), (98, 'in'), (101, 'films'), (106, ','), (108, 'on'), (111, 'television'), (121, ','), (123, 'and'), (127, 'on'), (130, 'old'), (133, '-'), (134, 'time'), (139, 'radio'), (144, '.')])</spacy_tokens>
+<spacy_chunks>[('Nina Bara', 0, 9), ('(born Frances Joan Baur', 10, 33), ('August 15, 1990', 40, 55), ('an an American actress', 61, 83), ('television', 111, 121), ('old-time radio', 130, 144)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNS', ',', 'IN', 'NN', ',', 'CC', 'IN', 'JJ', 'HYPH', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

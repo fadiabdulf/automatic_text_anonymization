@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fred Gamble (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Fred_Gamble_(actor)
+<annotated>0</annotated>
+<originalabstract>Fred Gamble (October 26, 1868 – February 17, 1939) was an American film actor. He appeared in 138 films between 1913 and 1928. He was born in Indianapolis, Indiana, and died in Hollywood, California.
+At age 15, Gamble left his home to join a minstrel show, beginning his career as an entertainer.</originalabstract>
+<abstract>Fred_Gamble ( October_26_,_1868 – February_17_,_1939 ) was an_American_film_actor . He appeared in 138_films between 1913_and_1928 . He was_born in Indianapolis , Indiana , and died in Hollywood , California . At age_15 , Gamble left his_home to_join a_minstrel_show , beginning his_career as an_entertainer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fred'), (5, 'Gamble'), (12, '('), (13, 'October'), (21, '26'), (23, ','), (25, '1868'), (30, '–'), (32, 'February'), (41, '17'), (43, ','), (45, '1939'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'actor'), (77, '.'), (79, 'He'), (82, 'appeared'), (91, 'in'), (94, '138'), (98, 'films'), (104, 'between'), (112, '1913'), (117, 'and'), (121, '1928'), (125, '.'), (127, 'He'), (130, 'was'), (134, 'born'), (139, 'in'), (142, 'Indianapolis'), (154, ','), (156, 'Indiana'), (163, ','), (165, 'and'), (169, 'died'), (174, 'in'), (177, 'Hollywood'), (186, ','), (188, 'California'), (198, '.'), (200, 'At'), (203, 'age'), (207, '15'), (209, ','), (211, 'Gamble'), (218, 'left'), (223, 'his'), (227, 'home'), (232, 'to'), (235, 'join'), (240, 'a'), (242, 'minstrel'), (251, 'show'), (255, ','), (257, 'beginning'), (267, 'his'), (271, 'career'), (278, 'as'), (281, 'an'), (284, 'entertainer'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fred Gamble',0, 11), ('October 26, 1868',13, 29), ('February 17, 1939',32, 49), ('an American film actor',55, 77), ('138 films',94, 103), ('1913 and 1928',112, 125), ('was born',130, 138), ('age 15',203, 209), ('his home',223, 231), ('to join',232, 239), ('a minstrel show',240, 255), ('his career',267, 277), ('an entertainer',281, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.', 'IN', 'NN', 'CD', ',', 'NNP', 'VBD', 'PRP$', 'NN', 'TO', 'VB', 'DT', 'NN', 'NN', ',', 'VBG', 'PRP$', 'NN', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fred'), (5, 'Gamble'), (12, '('), (13, 'October'), (21, '26'), (23, ','), (25, '1868'), (30, '–'), (32, 'February'), (41, '17'), (43, ','), (45, '1939'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'actor'), (77, '.'), (79, 'He'), (82, 'appeared'), (91, 'in'), (94, '138'), (98, 'films'), (104, 'between'), (112, '1913'), (117, 'and'), (121, '1928'), (125, '.'), (127, 'He'), (130, 'was'), (134, 'born'), (139, 'in'), (142, 'Indianapolis'), (154, ','), (156, 'Indiana'), (163, ','), (165, 'and'), (169, 'died'), (174, 'in'), (177, 'Hollywood'), (186, ','), (188, 'California'), (198, '.'), (200, 'At'), (203, 'age'), (207, '15'), (209, ','), (211, 'Gamble'), (218, 'left'), (223, 'his'), (227, 'home'), (232, 'to'), (235, 'join'), (240, 'a'), (242, 'minstrel'), (251, 'show'), (255, ','), (257, 'beginning'), (267, 'his'), (271, 'career'), (278, 'as'), (281, 'an'), (284, 'entertainer'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Fred Gamble', 0, 11), ('October 26, 1868', 13, 29), ('February 17, 1939', 32, 49), ('an American film actor', 55, 77), ('138 films', 94, 103), ('Indianapolis, Indiana', 142, 163), ('Hollywood, California', 177, 198), ('his home', 223, 231), ('a minstrel show', 240, 255), ('his career', 267, 277), ('an entertainer', 281, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.', 'IN', 'NN', 'CD', ',', 'NNP', 'VBD', 'PRP$', 'NN', 'TO', 'VB', 'DT', 'NN', 'NN', ',', 'VBG', 'PRP$', 'NN', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

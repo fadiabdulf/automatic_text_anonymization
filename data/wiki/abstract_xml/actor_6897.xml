@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert Wahlberg</title>
+<link/>https://en.wikipedia.org/wiki/Robert_Wahlberg
+<annotated>0</annotated>
+<originalabstract>Robert George Wahlberg (born December 18, 1967) is an American actor who has appeared in films such as Southie, Mystic River and The Departed.</originalabstract>
+<abstract>Robert_George_Wahlberg ( born December_18_,_1967 ) is an_American_actor who has_appeared in films such_as Southie , Mystic_River and The Departed .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'George'), (14, 'Wahlberg'), (23, '('), (24, 'born'), (29, 'December'), (38, '18'), (40, ','), (42, '1967'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'who'), (73, 'has'), (77, 'appeared'), (86, 'in'), (89, 'films'), (95, 'such'), (100, 'as'), (103, 'Southie'), (110, ','), (112, 'Mystic'), (119, 'River'), (125, 'and'), (129, 'The'), (133, 'Departed'), (141, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert George Wahlberg',0, 22), ('December 18, 1967',29, 46), ('an American actor',51, 68), ('has appeared',73, 85), ('such as',95, 102), ('Mystic River',112, 124)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'DT', 'VBN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'George'), (14, 'Wahlberg'), (23, '('), (24, 'born'), (29, 'December'), (38, '18'), (40, ','), (42, '1967'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'who'), (73, 'has'), (77, 'appeared'), (86, 'in'), (89, 'films'), (95, 'such'), (100, 'as'), (103, 'Southie'), (110, ','), (112, 'Mystic'), (119, 'River'), (125, 'and'), (129, 'The'), (133, 'Departed'), (141, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert George Wahlberg', 0, 22), ('December 18, 1967', 29, 46), ('an American actor', 51, 68), ('Southie', 103, 110), ('Mystic River', 112, 124), ('The Departed', 129, 141)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

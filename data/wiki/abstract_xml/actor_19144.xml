@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alfred Frith</title>
+<link/>https://en.wikipedia.org/wiki/Alfred_Frith
+<annotated>0</annotated>
+<originalabstract>Alfred Frith (1885–1941) was a British-born stage comedian who worked extensively in India and Africa before settling in Australia. He often worked for J.C. Williamson Ltd and appeared opposite Zane Grey in the film White Death (1936).</originalabstract>
+<abstract>Alfred_Frith ( 1885 – 1941 ) was a_British-born_stage_comedian who worked extensively in India_and_Africa before settling in Australia . He often worked for J.C._Williamson_Ltd and appeared opposite_Zane_Grey in the_film_White_Death_(_1936_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alfred'), (7, 'Frith'), (13, '('), (14, '1885'), (18, '–'), (19, '1941'), (23, ')'), (25, 'was'), (29, 'a'), (31, 'British-born'), (44, 'stage'), (50, 'comedian'), (59, 'who'), (63, 'worked'), (70, 'extensively'), (82, 'in'), (85, 'India'), (91, 'and'), (95, 'Africa'), (102, 'before'), (109, 'settling'), (118, 'in'), (121, 'Australia'), (130, '.'), (132, 'He'), (135, 'often'), (141, 'worked'), (148, 'for'), (152, 'J.C.'), (157, 'Williamson'), (168, 'Ltd'), (172, 'and'), (176, 'appeared'), (185, 'opposite'), (194, 'Zane'), (199, 'Grey'), (204, 'in'), (207, 'the'), (211, 'film'), (216, 'White'), (222, 'Death'), (228, '('), (229, '1936'), (233, ')'), (234, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alfred Frith',0, 12), ('a British-born stage comedian',29, 58), ('India and Africa',85, 101), ('J.C. Williamson Ltd',152, 171), ('opposite Zane Grey',185, 203), ('the film White Death (1936)',207, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'RB', 'IN', 'NNP', 'CC', 'NNP', 'IN', 'VBG', 'IN', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alfred'), (7, 'Frith'), (13, '('), (14, '1885–1941'), (23, ')'), (25, 'was'), (29, 'a'), (31, 'British'), (38, '-'), (39, 'born'), (44, 'stage'), (50, 'comedian'), (59, 'who'), (63, 'worked'), (70, 'extensively'), (82, 'in'), (85, 'India'), (91, 'and'), (95, 'Africa'), (102, 'before'), (109, 'settling'), (118, 'in'), (121, 'Australia'), (130, '.'), (132, 'He'), (135, 'often'), (141, 'worked'), (148, 'for'), (152, 'J.C.'), (157, 'Williamson'), (168, 'Ltd'), (172, 'and'), (176, 'appeared'), (185, 'opposite'), (194, 'Zane'), (199, 'Grey'), (204, 'in'), (207, 'the'), (211, 'film'), (216, 'White'), (222, 'Death'), (228, '('), (229, '1936'), (233, ')'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('Alfred Frith', 0, 12), ('a British-born stage comedian', 29, 58), ('Africa', 95, 101), ('Australia', 121, 130), ('J.C. Williamson Ltd', 152, 171), ('Zane Grey', 194, 203), ('the film', 207, 215), ('White Death', 216, 227)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'NN', 'WP', 'VBD', 'RB', 'IN', 'NNP', 'CC', 'NNP', 'IN', 'VBG', 'IN', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

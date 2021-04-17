@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mark Kiely</title>
+<link/>https://en.wikipedia.org/wiki/Mark_Kiely
+<annotated>0</annotated>
+<originalabstract>Mark Kiely is an American actor, probably best known for his recurring guest appearance as Gil Meyers in Beverly Hills, 90210. He also appeared in Charlie's Angels and "The Judge." He currently lives in Rhode Island and is a beloved swim coach to many. He also graduated from Assumption College in Worcester, Mass.</originalabstract>
+<abstract>Mark_Kiely is an_American_actor , probably best_known for his_recurring_guest_appearance as Gil_Meyers in Beverly_Hills , 90210 . He also appeared in Charlie 's_Angels and " The_Judge . " He currently lives in Rhode_Island and is a_beloved swim coach to many . He also graduated from Assumption_College in Worcester , Mass .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mark'), (5, 'Kiely'), (11, 'is'), (14, 'an'), (17, 'American'), (26, 'actor'), (31, ','), (33, 'probably'), (42, 'best'), (47, 'known'), (53, 'for'), (57, 'his'), (61, 'recurring'), (71, 'guest'), (77, 'appearance'), (88, 'as'), (91, 'Gil'), (95, 'Meyers'), (102, 'in'), (105, 'Beverly'), (113, 'Hills'), (118, ','), (120, '90210'), (125, '.'), (127, 'He'), (130, 'also'), (135, 'appeared'), (144, 'in'), (147, 'Charlie'), (154, '\'s'), (157, 'Angels'), (164, 'and'), (168, '"'), (169, 'The'), (173, 'Judge'), (178, '.'), (179, '"'), (181, 'He'), (184, 'currently'), (194, 'lives'), (200, 'in'), (203, 'Rhode'), (209, 'Island'), (216, 'and'), (220, 'is'), (223, 'a'), (225, 'beloved'), (233, 'swim'), (238, 'coach'), (244, 'to'), (247, 'many'), (251, '.'), (253, 'He'), (256, 'also'), (261, 'graduated'), (271, 'from'), (276, 'Assumption'), (287, 'College'), (295, 'in'), (298, 'Worcester'), (307, ','), (309, 'Mass'), (313, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mark Kiely',0, 10), ('an American actor',14, 31), ('best known',42, 52), ('his recurring guest appearance',57, 87), ('Gil Meyers',91, 101), ('Beverly Hills',105, 118), ('\'s Angels',154, 163), ('The Judge',169, 178), ('Rhode Island',203, 215), ('a beloved',223, 232), ('Assumption College',276, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'POS', 'NNPS', 'CC', '``', 'DT', 'NNP', '.', '\'\'', 'PRP', 'RB', 'VBZ', 'IN', 'NNP', 'NNP', 'CC', 'VBZ', 'DT', 'JJ', 'VBP', 'NN', 'TO', 'JJ', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mark'), (5, 'Kiely'), (11, 'is'), (14, 'an'), (17, 'American'), (26, 'actor'), (31, ','), (33, 'probably'), (42, 'best'), (47, 'known'), (53, 'for'), (57, 'his'), (61, 'recurring'), (71, 'guest'), (77, 'appearance'), (88, 'as'), (91, 'Gil'), (95, 'Meyers'), (102, 'in'), (105, 'Beverly'), (113, 'Hills'), (118, ','), (120, '90210'), (125, '.'), (127, 'He'), (130, 'also'), (135, 'appeared'), (144, 'in'), (147, 'Charlie'), (154, "'s"), (157, 'Angels'), (164, 'and'), (168, '"'), (169, 'The'), (173, 'Judge'), (178, '.'), (179, '"'), (181, 'He'), (184, 'currently'), (194, 'lives'), (200, 'in'), (203, 'Rhode'), (209, 'Island'), (216, 'and'), (220, 'is'), (223, 'a'), (225, 'beloved'), (233, 'swim'), (238, 'coach'), (244, 'to'), (247, 'many'), (251, '.'), (253, 'He'), (256, 'also'), (261, 'graduated'), (271, 'from'), (276, 'Assumption'), (287, 'College'), (295, 'in'), (298, 'Worcester'), (307, ','), (309, 'Mass.')])</spacy_tokens>
+<spacy_chunks>[('Mark Kiely', 0, 10), ('an American actor', 14, 31), ('his recurring guest appearance', 57, 87), ('Gil Meyers', 91, 101), ('Beverly Hills, 90210', 105, 125), ("Charlie's Angels", 147, 163), ('"The Judge', 168, 178), ('Rhode Island', 203, 215), ('a beloved swim coach', 223, 243), ('Assumption College', 276, 294), ('Worcester', 298, 307)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RBS', 'JJ', 'IN', 'PRP$', 'VBG', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CD', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'POS', 'NNPS', 'CC', '``', 'DT', 'NNP', '.', "''", 'PRP', 'RB', 'VBZ', 'IN', 'NNP', 'NNP', 'CC', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'IN', 'JJ', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

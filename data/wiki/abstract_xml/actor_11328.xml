@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ann Codee</title>
+<link/>https://en.wikipedia.org/wiki/Ann_Codee
+<annotated>0</annotated>
+<originalabstract>Ann Codee (March 5, 1890–May 18, 1961) was a Belgian actress with numerous hit films on her résumé, such as Can-Can, Kiss Me Kate, and Interrupted Melody. Born in Antwerp, Belgium, her name was sometimes found in newspapers as Anna Cody.</originalabstract>
+<abstract>Ann_Codee ( March_5_,_1890 – May_18_,_1961 ) was a_Belgian_actress with numerous_hit_films on her_résumé , such_as Can-Can , Kiss Me Kate , and Interrupted Melody . Born in Antwerp , Belgium , her_name was_sometimes_found in newspapers as Anna_Cody .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ann'), (4, 'Codee'), (10, '('), (11, 'March'), (17, '5'), (18, ','), (20, '1890'), (24, '–'), (25, 'May'), (29, '18'), (31, ','), (33, '1961'), (37, ')'), (39, 'was'), (43, 'a'), (45, 'Belgian'), (53, 'actress'), (61, 'with'), (66, 'numerous'), (75, 'hit'), (79, 'films'), (85, 'on'), (88, 'her'), (92, 'résumé'), (98, ','), (100, 'such'), (105, 'as'), (108, 'Can-Can'), (115, ','), (117, 'Kiss'), (122, 'Me'), (125, 'Kate'), (129, ','), (131, 'and'), (135, 'Interrupted'), (147, 'Melody'), (153, '.'), (155, 'Born'), (160, 'in'), (163, 'Antwerp'), (170, ','), (172, 'Belgium'), (179, ','), (181, 'her'), (185, 'name'), (190, 'was'), (194, 'sometimes'), (204, 'found'), (210, 'in'), (213, 'newspapers'), (224, 'as'), (227, 'Anna'), (232, 'Cody'), (236, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ann Codee',0, 9), ('March 5, 1890',11, 24), ('May 18, 1961',25, 37), ('a Belgian actress',43, 60), ('numerous hit films',66, 84), ('her résumé',88, 98), ('such as',100, 107), ('her name',181, 189), ('was sometimes found',190, 209), ('Anna Cody',227, 236)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'PRP$', 'NN', ',', 'JJ', 'IN', 'NNP', ',', 'VBP', 'PRP', 'NNP', ',', 'CC', 'VBN', 'NNP', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'PRP$', 'NN', 'VBD', 'RB', 'VBN', 'IN', 'NNS', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ann'), (4, 'Codee'), (10, '('), (11, 'March'), (17, '5'), (18, ','), (20, '1890–May'), (29, '18'), (31, ','), (33, '1961'), (37, ')'), (39, 'was'), (43, 'a'), (45, 'Belgian'), (53, 'actress'), (61, 'with'), (66, 'numerous'), (75, 'hit'), (79, 'films'), (85, 'on'), (88, 'her'), (92, 'résumé'), (98, ','), (100, 'such'), (105, 'as'), (108, 'Can'), (111, '-'), (112, 'Can'), (115, ','), (117, 'Kiss'), (122, 'Me'), (125, 'Kate'), (129, ','), (131, 'and'), (135, 'Interrupted'), (147, 'Melody'), (153, '.'), (155, 'Born'), (160, 'in'), (163, 'Antwerp'), (170, ','), (172, 'Belgium'), (179, ','), (181, 'her'), (185, 'name'), (190, 'was'), (194, 'sometimes'), (204, 'found'), (210, 'in'), (213, 'newspapers'), (224, 'as'), (227, 'Anna'), (232, 'Cody'), (236, '.')])</spacy_tokens>
+<spacy_chunks>[('Ann Codee', 0, 9), ('(March', 10, 16), ('March 5, 1890', 11, 24), ('May 18, 1961', 25, 37), ('a Belgian actress', 43, 60), ('numerous hit films', 66, 84), ('her résumé', 88, 98), ('Can-Can', 108, 115), ('Kiss Me Kate', 117, 129), ('Interrupted Melody', 135, 153), ('Antwerp, Belgium', 163, 179), ('her name', 181, 189), ('newspapers', 213, 223), ('Anna Cody', 227, 236)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'VBN', 'NNS', 'IN', 'PRP$', 'NN', ',', 'JJ', 'IN', 'NNP', ',', 'MD', ',', 'VB', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'PRP$', 'NN', 'VBD', 'RB', 'VBN', 'IN', 'NNS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

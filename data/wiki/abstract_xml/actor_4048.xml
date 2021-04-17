@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eric Lloyd</title>
+<link/>https://en.wikipedia.org/wiki/Eric_Lloyd
+<annotated>0</annotated>
+<originalabstract>Eric Lloyd (born David Eric Lloyd Morelli; May 19, 1986) is an American actor, comedian, musician and producer. Lloyd is best known for work as a child actor in such roles as Charlie Calvin in Disney's The Santa Clause film trilogy, and as "Little John" Warner in the NBC television series Jesse.</originalabstract>
+<abstract>Eric_Lloyd ( born David_Eric_Lloyd_Morelli ; May_19_,_1986 ) is an_American_actor , comedian , musician_and_producer . Lloyd is_best_known for work as a_child_actor in such_roles as Charlie_Calvin in Disney 's_The_Santa_Clause_film_trilogy , and as " Little_John_"_Warner in the_NBC_television_series_Jesse .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eric'), (5, 'Lloyd'), (11, '('), (12, 'born'), (17, 'David'), (23, 'Eric'), (28, 'Lloyd'), (34, 'Morelli'), (41, ';'), (43, 'May'), (47, '19'), (49, ','), (51, '1986'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'actor'), (77, ','), (79, 'comedian'), (87, ','), (89, 'musician'), (98, 'and'), (102, 'producer'), (110, '.'), (112, 'Lloyd'), (118, 'is'), (121, 'best'), (126, 'known'), (132, 'for'), (136, 'work'), (141, 'as'), (144, 'a'), (146, 'child'), (152, 'actor'), (158, 'in'), (161, 'such'), (166, 'roles'), (172, 'as'), (175, 'Charlie'), (183, 'Calvin'), (190, 'in'), (193, 'Disney'), (199, '\'s'), (202, 'The'), (206, 'Santa'), (212, 'Clause'), (219, 'film'), (224, 'trilogy'), (231, ','), (233, 'and'), (237, 'as'), (240, '"'), (241, 'Little'), (248, 'John'), (252, '"'), (254, 'Warner'), (261, 'in'), (264, 'the'), (268, 'NBC'), (272, 'television'), (283, 'series'), (290, 'Jesse'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eric Lloyd',0, 10), ('David Eric Lloyd Morelli',17, 41), ('May 19, 1986',43, 55), ('an American actor',60, 77), ('musician and producer',89, 110), ('is best known',118, 131), ('a child actor',144, 157), ('such roles',161, 171), ('Charlie Calvin',175, 189), ('\'s The Santa Clause film trilogy',199, 231), ('Little John" Warner',241, 260), ('the NBC television series Jesse',264, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'DT', 'NNP', 'NN', 'NN', 'NN', ',', 'CC', 'IN', '``', 'JJ', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eric'), (5, 'Lloyd'), (11, '('), (12, 'born'), (17, 'David'), (23, 'Eric'), (28, 'Lloyd'), (34, 'Morelli'), (41, ';'), (43, 'May'), (47, '19'), (49, ','), (51, '1986'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'actor'), (77, ','), (79, 'comedian'), (87, ','), (89, 'musician'), (98, 'and'), (102, 'producer'), (110, '.'), (112, 'Lloyd'), (118, 'is'), (121, 'best'), (126, 'known'), (132, 'for'), (136, 'work'), (141, 'as'), (144, 'a'), (146, 'child'), (152, 'actor'), (158, 'in'), (161, 'such'), (166, 'roles'), (172, 'as'), (175, 'Charlie'), (183, 'Calvin'), (190, 'in'), (193, 'Disney'), (199, "'s"), (202, 'The'), (206, 'Santa'), (212, 'Clause'), (219, 'film'), (224, 'trilogy'), (231, ','), (233, 'and'), (237, 'as'), (240, '"'), (241, 'Little'), (248, 'John'), (252, '"'), (254, 'Warner'), (261, 'in'), (264, 'the'), (268, 'NBC'), (272, 'television'), (283, 'series'), (290, 'Jesse'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Eric Lloyd', 0, 10), ('David Eric Lloyd Morelli', 17, 41), ('May 19, 1986', 43, 55), ('an American actor', 60, 77), ('comedian', 79, 87), ('musician', 89, 97), ('producer', 102, 110), ('a child actor', 144, 157), ('such roles', 161, 171), ('Charlie Calvin', 175, 189), ("Disney's The Santa Clause film trilogy", 193, 231), ('"Little John" Warner', 240, 260), ('the NBC television series', 264, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'VBN', 'IN', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'DT', 'NNP', 'NNP', 'NN', 'NN', ',', 'CC', 'IN', '``', 'NNP', 'NNP', "''", 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

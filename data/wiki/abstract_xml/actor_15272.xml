@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Khyva St. Albans</title>
+<link/>https://en.wikipedia.org/wiki/Khyva_St._Albans
+<annotated>0</annotated>
+<originalabstract>Khyva St. Albans (1896-1989), also known as Zara Alexeyewa, Ayenara Alexeyeva, and Elinore Saenger, was an American actress, dancer, and choreographer. She was a longtime resident of Ajijic, on Lake Chapala in Mexico.</originalabstract>
+<abstract>Khyva_St._Albans ( 1896-1989 ) , also_known as Zara_Alexeyewa , Ayenara_Alexeyeva , and Elinore_Saenger , was an_American_actress , dancer , and choreographer . She was a_longtime_resident of Ajijic , on Lake_Chapala in Mexico .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Khyva'), (6, 'St.'), (10, 'Albans'), (17, '('), (18, '1896-1989'), (27, ')'), (28, ','), (30, 'also'), (35, 'known'), (41, 'as'), (44, 'Zara'), (49, 'Alexeyewa'), (58, ','), (60, 'Ayenara'), (68, 'Alexeyeva'), (77, ','), (79, 'and'), (83, 'Elinore'), (91, 'Saenger'), (98, ','), (100, 'was'), (104, 'an'), (107, 'American'), (116, 'actress'), (123, ','), (125, 'dancer'), (131, ','), (133, 'and'), (137, 'choreographer'), (150, '.'), (152, 'She'), (156, 'was'), (160, 'a'), (162, 'longtime'), (171, 'resident'), (180, 'of'), (183, 'Ajijic'), (189, ','), (191, 'on'), (194, 'Lake'), (199, 'Chapala'), (207, 'in'), (210, 'Mexico'), (216, '.')])</stanford_tokens>
+<opennlp_chunks>[('Khyva St. Albans',0, 16), ('also known',30, 40), ('Zara Alexeyewa',44, 58), ('Ayenara Alexeyeva',60, 77), ('Elinore Saenger',83, 98), ('an American actress',104, 123), ('a longtime resident',160, 179), ('Lake Chapala',194, 206)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', ',', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Khyva'), (6, 'St.'), (10, 'Albans'), (17, '('), (18, '1896'), (22, '-'), (23, '1989'), (27, ')'), (28, ','), (30, 'also'), (35, 'known'), (41, 'as'), (44, 'Zara'), (49, 'Alexeyewa'), (58, ','), (60, 'Ayenara'), (68, 'Alexeyeva'), (77, ','), (79, 'and'), (83, 'Elinore'), (91, 'Saenger'), (98, ','), (100, 'was'), (104, 'an'), (107, 'American'), (116, 'actress'), (123, ','), (125, 'dancer'), (131, ','), (133, 'and'), (137, 'choreographer'), (150, '.'), (152, 'She'), (156, 'was'), (160, 'a'), (162, 'longtime'), (171, 'resident'), (180, 'of'), (183, 'Ajijic'), (189, ','), (191, 'on'), (194, 'Lake'), (199, 'Chapala'), (207, 'in'), (210, 'Mexico'), (216, '.')])</spacy_tokens>
+<spacy_chunks>[('Khyva St. Albans', 0, 16), ('Zara Alexeyewa', 44, 58), ('Ayenara Alexeyeva', 60, 77), ('Elinore Saenger', 83, 98), ('an American actress', 104, 123), ('dancer', 125, 131), ('choreographer', 137, 150), ('a longtime resident', 160, 179), ('Ajijic', 183, 189), ('Lake Chapala', 194, 206), ('Mexico', 210, 216)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', ',', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

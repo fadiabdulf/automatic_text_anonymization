@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Christopher Ryan</title>
+<link/>https://en.wikipedia.org/wiki/Christopher_Ryan
+<annotated>0</annotated>
+<originalabstract>Christopher Ryan (born Christopher Papazoglou; 25 January 1950) is an English actor best known for his roles as Mike in the BBC comedy series The Young Ones, Tony Driscoll in the BBC comedy series Only Fools and Horses, and as Edina Monsoon's ex-husband Marshall Turtle in the BBC sitcom Absolutely Fabulous.</originalabstract>
+<abstract>Christopher_Ryan ( born Christopher_Papazoglou ; 25_January_1950 ) is an_English_actor best_known for his_roles as Mike in the_BBC_comedy_series The_Young_Ones , Tony_Driscoll in the_BBC_comedy_series_Only_Fools_and_Horses , and as Edina_Monsoon 's_ex-husband_Marshall_Turtle in the_BBC_sitcom Absolutely Fabulous .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Christopher'), (12, 'Ryan'), (17, '('), (18, 'born'), (23, 'Christopher'), (35, 'Papazoglou'), (45, ';'), (47, '25'), (50, 'January'), (58, '1950'), (62, ')'), (64, 'is'), (67, 'an'), (70, 'English'), (78, 'actor'), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'roles'), (109, 'as'), (112, 'Mike'), (117, 'in'), (120, 'the'), (124, 'BBC'), (128, 'comedy'), (135, 'series'), (142, 'The'), (146, 'Young'), (152, 'Ones'), (156, ','), (158, 'Tony'), (163, 'Driscoll'), (172, 'in'), (175, 'the'), (179, 'BBC'), (183, 'comedy'), (190, 'series'), (197, 'Only'), (202, 'Fools'), (208, 'and'), (212, 'Horses'), (218, ','), (220, 'and'), (224, 'as'), (227, 'Edina'), (233, 'Monsoon'), (240, '\'s'), (243, 'ex-husband'), (254, 'Marshall'), (263, 'Turtle'), (270, 'in'), (273, 'the'), (277, 'BBC'), (281, 'sitcom'), (288, 'Absolutely'), (299, 'Fabulous'), (307, '.')])</stanford_tokens>
+<opennlp_chunks>[('Christopher Ryan',0, 16), ('Christopher Papazoglou',23, 45), ('25 January 1950',47, 62), ('an English actor',67, 83), ('best known',84, 94), ('his roles',99, 108), ('the BBC comedy series',120, 141), ('The Young Ones',142, 156), ('Tony Driscoll',158, 171), ('the BBC comedy series Only Fools and Horses',175, 218), ('Edina Monsoon',227, 240), ('\'s ex-husband Marshall Turtle',240, 269), ('the BBC sitcom',273, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'DT', 'JJ', 'NNS', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'RB', 'NNPS', 'CC', 'NNS', ',', 'CC', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'RB', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Christopher'), (12, 'Ryan'), (17, '('), (18, 'born'), (23, 'Christopher'), (35, 'Papazoglou'), (45, ';'), (47, '25'), (50, 'January'), (58, '1950'), (62, ')'), (64, 'is'), (67, 'an'), (70, 'English'), (78, 'actor'), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'his'), (103, 'roles'), (109, 'as'), (112, 'Mike'), (117, 'in'), (120, 'the'), (124, 'BBC'), (128, 'comedy'), (135, 'series'), (142, 'The'), (146, 'Young'), (152, 'Ones'), (156, ','), (158, 'Tony'), (163, 'Driscoll'), (172, 'in'), (175, 'the'), (179, 'BBC'), (183, 'comedy'), (190, 'series'), (197, 'Only'), (202, 'Fools'), (208, 'and'), (212, 'Horses'), (218, ','), (220, 'and'), (224, 'as'), (227, 'Edina'), (233, 'Monsoon'), (240, "'s"), (243, 'ex'), (245, '-'), (246, 'husband'), (254, 'Marshall'), (263, 'Turtle'), (270, 'in'), (273, 'the'), (277, 'BBC'), (281, 'sitcom'), (288, 'Absolutely'), (299, 'Fabulous'), (307, '.')])</spacy_tokens>
+<spacy_chunks>[('Christopher Ryan', 0, 16), ('born Christopher Papazoglou', 18, 45), ('25 January 1950', 47, 62), ('an English actor', 67, 83), ('his roles', 99, 108), ('the BBC comedy series', 120, 141), ('The Young Ones', 142, 156), ('Tony Driscoll', 158, 171), ('Only Fools And Horses', 197, 218), ("Edina Monsoon's ex-husband Marshall Turtle", 227, 269), ('the BBC sitcom', 273, 287), ('Absolutely Fabulous', 288, 307)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'DT', 'NNP', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNPS', 'CC', 'NNPS', ',', 'CC', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'RB', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

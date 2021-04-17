@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bob Fosse</title>
+<link/>https://en.wikipedia.org/wiki/Bob_Fosse
+<annotated>0</annotated>
+<originalabstract>Robert Louis Fosse (June 23, 1927 – September 23, 1987) was an American dancer, musical theatre choreographer, director and film director.He won eight Tony Awards for choreography, more than anyone else, as well as one for direction. He was nominated for four Academy Awards, winning for his direction of Cabaret.</originalabstract>
+<abstract>Robert_Louis_Fosse ( June_23_,_1927 – September_23_,_1987 ) was an_American_dancer , musical_theatre_choreographer , director_and_film_director.He won eight_Tony_Awards for choreography , more_than_anyone_else , as_well_as one for direction . He was_nominated for four_Academy_Awards , winning for his_direction of Cabaret .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Louis'), (13, 'Fosse'), (19, '('), (20, 'June'), (25, '23'), (27, ','), (29, '1927'), (34, '–'), (36, 'September'), (46, '23'), (48, ','), (50, '1987'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'dancer'), (78, ','), (80, 'musical'), (88, 'theatre'), (96, 'choreographer'), (109, ','), (111, 'director'), (120, 'and'), (124, 'film'), (129, 'director.He'), (141, 'won'), (145, 'eight'), (151, 'Tony'), (156, 'Awards'), (163, 'for'), (167, 'choreography'), (179, ','), (181, 'more'), (186, 'than'), (191, 'anyone'), (198, 'else'), (202, ','), (204, 'as'), (207, 'well'), (212, 'as'), (215, 'one'), (219, 'for'), (223, 'direction'), (232, '.'), (234, 'He'), (237, 'was'), (241, 'nominated'), (251, 'for'), (255, 'four'), (260, 'Academy'), (268, 'Awards'), (274, ','), (276, 'winning'), (284, 'for'), (288, 'his'), (292, 'direction'), (302, 'of'), (305, 'Cabaret'), (312, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Louis Fosse',0, 18), ('June 23, 1927',20, 33), ('September 23, 1987',36, 54), ('an American dancer',60, 78), ('musical theatre choreographer',80, 109), ('director and film director.He',111, 140), ('eight Tony Awards',145, 162), ('more than anyone else',181, 202), ('as well as',204, 214), ('was nominated',237, 250), ('four Academy Awards',255, 274), ('his direction',288, 301)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'VBD', 'CD', 'NNP', 'NNS', 'IN', 'NN', ',', 'JJR', 'IN', 'NN', 'RB', ',', 'RB', 'RB', 'IN', 'CD', 'IN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'CD', 'NNP', 'NNS', ',', 'VBG', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Louis'), (13, 'Fosse'), (19, '('), (20, 'June'), (25, '23'), (27, ','), (29, '1927'), (34, '–'), (36, 'September'), (46, '23'), (48, ','), (50, '1987'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'dancer'), (78, ','), (80, 'musical'), (88, 'theatre'), (96, 'choreographer'), (109, ','), (111, 'director'), (120, 'and'), (124, 'film'), (129, 'director'), (137, '.'), (138, 'He'), (141, 'won'), (145, 'eight'), (151, 'Tony'), (156, 'Awards'), (163, 'for'), (167, 'choreography'), (179, ','), (181, 'more'), (186, 'than'), (191, 'anyone'), (198, 'else'), (202, ','), (204, 'as'), (207, 'well'), (212, 'as'), (215, 'one'), (219, 'for'), (223, 'direction'), (232, '.'), (234, 'He'), (237, 'was'), (241, 'nominated'), (251, 'for'), (255, 'four'), (260, 'Academy'), (268, 'Awards'), (274, ','), (276, 'winning'), (284, 'for'), (288, 'his'), (292, 'direction'), (302, 'of'), (305, 'Cabaret'), (312, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Louis Fosse', 0, 18), ('June 23, 1927', 20, 33), ('September 23, 1987', 36, 54), ('an American dancer', 60, 78), ('musical theatre choreographer', 80, 109), ('director', 111, 119), ('Film director', 124, 137), ('eight Tony Awards', 145, 162), ('choreography', 167, 179), ('anyone', 191, 197), ('direction', 223, 232), ('four Academy Awards', 255, 274), ('his direction', 288, 301), ('Cabaret', 305, 312)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'CD', 'NNP', 'NNPS', 'IN', 'NN', ',', 'JJR', 'IN', 'NN', 'RB', ',', 'RB', 'RB', 'IN', 'CD', 'IN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'CD', 'NNP', 'NNPS', ',', 'VBG', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

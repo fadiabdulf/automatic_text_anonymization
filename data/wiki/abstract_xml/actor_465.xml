@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Clyde Beatty</title>
+<link/>https://en.wikipedia.org/wiki/Clyde_Beatty
+<annotated>0</annotated>
+<originalabstract>Clyde Beatty (June 10, 1903 – July 19, 1965) joined the circus as a cage cleaner as a teen and became famous as a lion tamer and animal trainer. He also became a circus impresario who owned his own show, which later merged with the Cole Bros. Circus to form the Clyde Beatty–Cole Bros. Circus.</originalabstract>
+<abstract>Clyde_Beatty ( June_10_,_1903 – July_19_,_1965 ) joined the_circus as a_cage cleaner as a_teen and became famous as a_lion tamer and animal_trainer . He also became a_circus_impresario who owned his_own_show , which later merged with the_Cole_Bros . Circus to_form the_Clyde_Beatty – Cole_Bros . Circus .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Clyde'), (6, 'Beatty'), (13, '('), (14, 'June'), (19, '10'), (21, ','), (23, '1903'), (28, '–'), (30, 'July'), (35, '19'), (37, ','), (39, '1965'), (43, ')'), (45, 'joined'), (52, 'the'), (56, 'circus'), (63, 'as'), (66, 'a'), (68, 'cage'), (73, 'cleaner'), (81, 'as'), (84, 'a'), (86, 'teen'), (91, 'and'), (95, 'became'), (102, 'famous'), (109, 'as'), (112, 'a'), (114, 'lion'), (119, 'tamer'), (125, 'and'), (129, 'animal'), (136, 'trainer'), (143, '.'), (145, 'He'), (148, 'also'), (153, 'became'), (160, 'a'), (162, 'circus'), (169, 'impresario'), (180, 'who'), (184, 'owned'), (190, 'his'), (194, 'own'), (198, 'show'), (202, ','), (204, 'which'), (210, 'later'), (216, 'merged'), (223, 'with'), (228, 'the'), (232, 'Cole'), (237, 'Bros'), (241, '.'), (243, 'Circus'), (250, 'to'), (253, 'form'), (258, 'the'), (262, 'Clyde'), (268, 'Beatty'), (274, '–'), (275, 'Cole'), (280, 'Bros'), (284, '.'), (286, 'Circus'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Clyde Beatty',0, 12), ('June 10, 1903',14, 27), ('July 19, 1965',30, 43), ('the circus',52, 62), ('a cage',66, 72), ('a teen',84, 90), ('a lion',112, 118), ('animal trainer',129, 143), ('a circus impresario',160, 179), ('his own show',190, 202), ('the Cole Bros',228, 241), ('to form',250, 257), ('the Clyde Beatty',258, 274), ('Cole Bros',275, 284)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NN', 'JJR', 'IN', 'DT', 'NN', 'CC', 'VBD', 'JJ', 'IN', 'DT', 'NN', 'JJR', 'CC', 'JJ', 'NN', '.', 'PRP', 'RB', 'VBD', 'DT', 'NN', 'NN', 'WP', 'VBD', 'PRP$', 'JJ', 'NN', ',', 'WDT', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'NNP', '.', 'NNP', 'TO', 'VB', 'DT', 'NNP', 'NNP', ':', 'NNP', 'NNP', '.', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Clyde'), (6, 'Beatty'), (13, '('), (14, 'June'), (19, '10'), (21, ','), (23, '1903'), (28, '–'), (30, 'July'), (35, '19'), (37, ','), (39, '1965'), (43, ')'), (45, 'joined'), (52, 'the'), (56, 'circus'), (63, 'as'), (66, 'a'), (68, 'cage'), (73, 'cleaner'), (81, 'as'), (84, 'a'), (86, 'teen'), (91, 'and'), (95, 'became'), (102, 'famous'), (109, 'as'), (112, 'a'), (114, 'lion'), (119, 'tamer'), (125, 'and'), (129, 'animal'), (136, 'trainer'), (143, '.'), (145, 'He'), (148, 'also'), (153, 'became'), (160, 'a'), (162, 'circus'), (169, 'impresario'), (180, 'who'), (184, 'owned'), (190, 'his'), (194, 'own'), (198, 'show'), (202, ','), (204, 'which'), (210, 'later'), (216, 'merged'), (223, 'with'), (228, 'the'), (232, 'Cole'), (237, 'Bros.'), (243, 'Circus'), (250, 'to'), (253, 'form'), (258, 'the'), (262, 'Clyde'), (268, 'Beatty'), (274, '–'), (275, 'Cole'), (280, 'Bros.'), (286, 'Circus'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Clyde Beatty', 0, 12), ('June 10, 1903', 14, 27), ('July 19, 1965', 30, 43), ('the circus', 52, 62), ('a teen', 84, 90), ('a lion', 112, 118), ('Animal', 129, 135), ('a circus impresario', 160, 179), ('his own show', 190, 202), ('the Cole Bros. Circus', 228, 249), ('the Clyde Beatty–Cole Bros. Circus', 258, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NN', 'JJR', 'IN', 'DT', 'NN', 'CC', 'VBD', 'JJ', 'IN', 'DT', 'NN', 'JJR', 'CC', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'DT', 'NN', 'NN', 'WP', 'VBD', 'PRP$', 'JJ', 'NN', ',', 'WDT', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'NNPS', 'NNP', 'TO', 'VB', 'DT', 'NNP', 'NNP', 'HYPH', 'NNP', 'NNPS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

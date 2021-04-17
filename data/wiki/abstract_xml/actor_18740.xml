@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Virginie Ledoyen</title>
+<link/>https://en.wikipedia.org/wiki/Virginie_Ledoyen
+<annotated>0</annotated>
+<originalabstract>Virginie Fernandez (born 15 November 1976), known by her stage name Virginie Ledoyen (French pronunciation: ​[viʁʒini lədwaˈjɛ̃]), is a French actress who has appeared in French, British and American films.</originalabstract>
+<abstract>Virginie_Fernandez ( born 15_November_1976 ) , known by her_stage_name_Virginie_Ledoyen ( French_pronunciation : [_viʁʒini_lədwaˈjɛ̃_] ) , is a_French_actress who has_appeared in French_,_British_and_American_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Virginie'), (9, 'Fernandez'), (19, '('), (20, 'born'), (25, '15'), (28, 'November'), (37, '1976'), (41, ')'), (42, ','), (44, 'known'), (50, 'by'), (53, 'her'), (57, 'stage'), (63, 'name'), (68, 'Virginie'), (77, 'Ledoyen'), (85, '('), (86, 'French'), (93, 'pronunciation'), (106, ':'), (109, '['), (110, 'viʁʒini'), (118, 'lədwaˈjɛ̃'), (127, ']'), (128, ')'), (129, ','), (131, 'is'), (134, 'a'), (136, 'French'), (143, 'actress'), (151, 'who'), (155, 'has'), (159, 'appeared'), (168, 'in'), (171, 'French'), (177, ','), (179, 'British'), (187, 'and'), (191, 'American'), (200, 'films'), (205, '.')])</stanford_tokens>
+<opennlp_chunks>[('Virginie Fernandez',0, 18), ('15 November 1976',25, 41), ('her stage name Virginie Ledoyen',53, 84), ('French pronunciation',86, 106), ('[viʁʒini lədwaˈjɛ̃]',109, 128), ('a French actress',134, 150), ('has appeared',155, 167), ('French, British and American films',171, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'NNP', 'NN', ':', '-LRB-', 'NNS', 'NN', '-RRB-', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', ',', 'JJ', 'CC', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Virginie'), (9, 'Fernandez'), (19, '('), (20, 'born'), (25, '15'), (28, 'November'), (37, '1976'), (41, ')'), (42, ','), (44, 'known'), (50, 'by'), (53, 'her'), (57, 'stage'), (63, 'name'), (68, 'Virginie'), (77, 'Ledoyen'), (85, '('), (86, 'French'), (93, 'pronunciation'), (106, ':'), (108, '\u200b[viʁʒini'), (118, 'lədwaˈjɛ̃'), (127, ']'), (128, ')'), (129, ','), (131, 'is'), (134, 'a'), (136, 'French'), (143, 'actress'), (151, 'who'), (155, 'has'), (159, 'appeared'), (168, 'in'), (171, 'French'), (177, ','), (179, 'British'), (187, 'and'), (191, 'American'), (200, 'films'), (205, '.')])</spacy_tokens>
+<spacy_chunks>[('Virginie Fernandez', 0, 18), ('15 November 1976', 25, 41), ('her stage name', 53, 67), ('Virginie Ledoyen', 68, 84), ('French pronunciation', 86, 106), ('a French actress', 134, 150), ('French, British and American films', 171, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'JJ', 'NN', ':', 'ADD', 'JJ', '-RRB-', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', ',', 'JJ', 'CC', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

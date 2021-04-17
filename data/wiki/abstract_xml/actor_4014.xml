@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chad Lindberg</title>
+<link/>https://en.wikipedia.org/wiki/Chad_Lindberg
+<annotated>0</annotated>
+<originalabstract>Chad Tyler Lindberg (born November 1, 1976) is an American actor. He is known for his film roles in The Fast and the Furious and October Sky, as well as television roles on Sons of Anarchy and Supernatural. Lindberg was the co-host of the television series Ghost Stalkers.</originalabstract>
+<abstract>Chad_Tyler_Lindberg ( born November_1_,_1976 ) is an_American_actor . He is_known for his_film_roles in The_Fast and the_Furious_and_October_Sky , as_well_as television_roles on Sons of Anarchy_and_Supernatural . Lindberg was the_co-host of the_television_series_Ghost_Stalkers .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Chad'), (5, 'Tyler'), (11, 'Lindberg'), (20, '('), (21, 'born'), (26, 'November'), (35, '1'), (36, ','), (38, '1976'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (64, '.'), (66, 'He'), (69, 'is'), (72, 'known'), (78, 'for'), (82, 'his'), (86, 'film'), (91, 'roles'), (97, 'in'), (100, 'The'), (104, 'Fast'), (109, 'and'), (113, 'the'), (117, 'Furious'), (125, 'and'), (129, 'October'), (137, 'Sky'), (140, ','), (142, 'as'), (145, 'well'), (150, 'as'), (153, 'television'), (164, 'roles'), (170, 'on'), (173, 'Sons'), (178, 'of'), (181, 'Anarchy'), (189, 'and'), (193, 'Supernatural'), (205, '.'), (207, 'Lindberg'), (216, 'was'), (220, 'the'), (224, 'co-host'), (232, 'of'), (235, 'the'), (239, 'television'), (250, 'series'), (257, 'Ghost'), (263, 'Stalkers'), (271, '.')])</stanford_tokens>
+<opennlp_chunks>[('Chad Tyler Lindberg',0, 19), ('November 1, 1976',26, 42), ('an American actor',47, 64), ('is known',69, 77), ('his film roles',82, 96), ('The Fast',100, 108), ('the Furious and October Sky',113, 140), ('as well as',142, 152), ('television roles',153, 169), ('Anarchy and Supernatural',181, 205), ('the co-host',220, 231), ('the television series Ghost Stalkers',235, 271)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'DT', 'JJ', 'CC', 'DT', 'JJ', 'CC', 'NNP', 'NNP', ',', 'RB', 'RB', 'IN', 'NN', 'NNS', 'IN', 'NNS', 'IN', 'NNP', 'CC', 'NNP', '.', 'NNP', 'VBD', 'DT', 'VB', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Chad'), (5, 'Tyler'), (11, 'Lindberg'), (20, '('), (21, 'born'), (26, 'November'), (35, '1'), (36, ','), (38, '1976'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (64, '.'), (66, 'He'), (69, 'is'), (72, 'known'), (78, 'for'), (82, 'his'), (86, 'film'), (91, 'roles'), (97, 'in'), (100, 'The'), (104, 'Fast'), (109, 'and'), (113, 'the'), (117, 'Furious'), (125, 'and'), (129, 'October'), (137, 'Sky'), (140, ','), (142, 'as'), (145, 'well'), (150, 'as'), (153, 'television'), (164, 'roles'), (170, 'on'), (173, 'Sons'), (178, 'of'), (181, 'Anarchy'), (189, 'and'), (193, 'Supernatural'), (205, '.'), (207, 'Lindberg'), (216, 'was'), (220, 'the'), (224, 'co'), (226, '-'), (227, 'host'), (232, 'of'), (235, 'the'), (239, 'television'), (250, 'series'), (257, 'Ghost'), (263, 'Stalkers'), (271, '.')])</spacy_tokens>
+<spacy_chunks>[('Chad Tyler Lindberg', 0, 19), ('November 1, 1976', 26, 42), ('an American actor', 47, 64), ('his film roles', 82, 96), ('The Fast and the Furious', 100, 124), ('the Furious and October Sky', 113, 140), ('television roles', 153, 169), ('Sons of Anarchy', 173, 188), ('Supernatural', 193, 205), ('the co-host', 220, 231), ('the television series', 235, 256), ('Ghost Stalkers', 257, 271)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'DT', 'JJ', 'CC', 'DT', 'JJ', 'CC', 'NNP', 'NNP', ',', 'RB', 'RB', 'IN', 'NN', 'NNS', 'IN', 'NNPS', 'IN', 'NNP', 'CC', 'NNP', '.', 'NNP', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

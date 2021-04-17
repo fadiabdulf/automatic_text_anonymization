@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rodney Kageyama</title>
+<link/>https://en.wikipedia.org/wiki/Rodney_Kageyama
+<annotated>0</annotated>
+<originalabstract>Rodney Kageyama (born Rodney Masao Kageyama on November 1, 1941) is an American stage, film and TV actor. He is a Nisei Japanese American (second-generation).
+In 2007, Kageyama was diagnosed with Non-Hodgkin lymphoma. He underwent chemotherapy and as of spring 2008 was declared cancer-free.</originalabstract>
+<abstract>Rodney_Kageyama ( born Rodney_Masao_Kageyama on November_1_,_1941 ) is an_American_stage_,_film_and_TV_actor . He is a_Nisei_Japanese_American_(_second-generation_) . In 2007 , Kageyama was_diagnosed with Non-Hodgkin_lymphoma . He underwent chemotherapy and as of spring_2008 was_declared cancer-free .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rodney'), (7, 'Kageyama'), (16, '('), (17, 'born'), (22, 'Rodney'), (29, 'Masao'), (35, 'Kageyama'), (44, 'on'), (47, 'November'), (56, '1'), (57, ','), (59, '1941'), (63, ')'), (65, 'is'), (68, 'an'), (71, 'American'), (80, 'stage'), (85, ','), (87, 'film'), (92, 'and'), (96, 'TV'), (99, 'actor'), (104, '.'), (106, 'He'), (109, 'is'), (112, 'a'), (114, 'Nisei'), (120, 'Japanese'), (129, 'American'), (138, '('), (139, 'second-generation'), (156, ')'), (157, '.'), (159, 'In'), (162, '2007'), (166, ','), (168, 'Kageyama'), (177, 'was'), (181, 'diagnosed'), (191, 'with'), (196, 'Non-Hodgkin'), (208, 'lymphoma'), (216, '.'), (218, 'He'), (221, 'underwent'), (231, 'chemotherapy'), (244, 'and'), (248, 'as'), (251, 'of'), (254, 'spring'), (261, '2008'), (266, 'was'), (270, 'declared'), (279, 'cancer-free'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rodney Kageyama',0, 15), ('Rodney Masao Kageyama',22, 43), ('November 1, 1941',47, 63), ('an American stage, film and TV actor',68, 104), ('a Nisei Japanese American (second-generation)',112, 157), ('was diagnosed',177, 190), ('Non-Hodgkin lymphoma',196, 216), ('spring 2008',254, 265), ('was declared',266, 278)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'JJ', 'JJ', '-LRB-', 'JJ', '-RRB-', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'VBN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NN', 'CC', 'IN', 'IN', 'NN', 'CD', 'VBD', 'VBN', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rodney'), (7, 'Kageyama'), (16, '('), (17, 'born'), (22, 'Rodney'), (29, 'Masao'), (35, 'Kageyama'), (44, 'on'), (47, 'November'), (56, '1'), (57, ','), (59, '1941'), (63, ')'), (65, 'is'), (68, 'an'), (71, 'American'), (80, 'stage'), (85, ','), (87, 'film'), (92, 'and'), (96, 'TV'), (99, 'actor'), (104, '.'), (106, 'He'), (109, 'is'), (112, 'a'), (114, 'Nisei'), (120, 'Japanese'), (129, 'American'), (138, '('), (139, 'second'), (145, '-'), (146, 'generation'), (156, ')'), (157, '.'), (159, 'In'), (162, '2007'), (166, ','), (168, 'Kageyama'), (177, 'was'), (181, 'diagnosed'), (191, 'with'), (196, 'Non'), (199, '-'), (200, 'Hodgkin'), (208, 'lymphoma'), (216, '.'), (218, 'He'), (221, 'underwent'), (231, 'chemotherapy'), (244, 'and'), (248, 'as'), (251, 'of'), (254, 'spring'), (261, '2008'), (266, 'was'), (270, 'declared'), (279, 'cancer'), (285, '-'), (286, 'free'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('Rodney Kageyama', 0, 15), ('(born Rodney Masao Kageyama', 16, 43), ('November 1, 1941', 47, 63), ('an American stage', 68, 85), ('TV actor', 96, 104), ('Japanese American', 120, 137), ('(second-generation', 138, 156), ('Non-Hodgkin lymphoma', 196, 216), ('chemotherapy', 231, 243), ('spring', 254, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'JJ', 'JJ', '-LRB-', 'JJ', 'HYPH', 'NN', '-RRB-', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'VBN', 'IN', 'JJ', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NN', 'CC', 'IN', 'IN', 'NN', 'CD', 'VBD', 'VBN', 'NN', 'HYPH', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

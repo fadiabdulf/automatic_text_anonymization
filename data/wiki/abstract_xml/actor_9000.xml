@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul Ready</title>
+<link/>https://en.wikipedia.org/wiki/Paul_Ready
+<annotated>0</annotated>
+<originalabstract>Paul Ready is a British actor. He is known principally for his work on stage, but he has also appeared in television, radio and films. He received a commendation at the 2003 Ian Charleson Awards.</originalabstract>
+<abstract>Paul_Ready is a_British_actor . He is_known principally for his_work on stage , but he has_also_appeared in television_,_radio_and_films . He received a_commendation at the_2003_Ian_Charleson_Awards .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Ready'), (11, 'is'), (14, 'a'), (16, 'British'), (24, 'actor'), (29, '.'), (31, 'He'), (34, 'is'), (37, 'known'), (43, 'principally'), (55, 'for'), (59, 'his'), (63, 'work'), (68, 'on'), (71, 'stage'), (76, ','), (78, 'but'), (82, 'he'), (85, 'has'), (89, 'also'), (94, 'appeared'), (103, 'in'), (106, 'television'), (116, ','), (118, 'radio'), (124, 'and'), (128, 'films'), (133, '.'), (135, 'He'), (138, 'received'), (147, 'a'), (149, 'commendation'), (162, 'at'), (165, 'the'), (169, '2003'), (174, 'Ian'), (178, 'Charleson'), (188, 'Awards'), (194, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Ready',0, 10), ('a British actor',14, 29), ('is known',34, 42), ('his work',59, 67), ('has also appeared',85, 102), ('television, radio and films',106, 133), ('a commendation',147, 161), ('the 2003 Ian Charleson Awards',165, 194)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'NN', ',', 'CC', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', ',', 'NN', 'CC', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Ready'), (11, 'is'), (14, 'a'), (16, 'British'), (24, 'actor'), (29, '.'), (31, 'He'), (34, 'is'), (37, 'known'), (43, 'principally'), (55, 'for'), (59, 'his'), (63, 'work'), (68, 'on'), (71, 'stage'), (76, ','), (78, 'but'), (82, 'he'), (85, 'has'), (89, 'also'), (94, 'appeared'), (103, 'in'), (106, 'television'), (116, ','), (118, 'radio'), (124, 'and'), (128, 'films'), (133, '.'), (135, 'He'), (138, 'received'), (147, 'a'), (149, 'commendation'), (162, 'at'), (165, 'the'), (169, '2003'), (174, 'Ian'), (178, 'Charleson'), (188, 'Awards'), (194, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Ready', 0, 10), ('a British actor', 14, 29), ('his work', 59, 67), ('television', 106, 116), ('a commendation', 147, 161), ('the 2003 Ian Charleson Awards', 165, 194)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'NN', ',', 'CC', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', ',', 'NN', 'CC', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

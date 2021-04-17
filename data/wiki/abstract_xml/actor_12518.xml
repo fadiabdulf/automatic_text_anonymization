@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dorothy Gulliver</title>
+<link/>https://en.wikipedia.org/wiki/Dorothy_Gulliver
+<annotated>0</annotated>
+<originalabstract>Dorothy Kathleen Gulliver (September 6, 1908 – May 23, 1997) was an American silent film actress, and one of the few to make a successful transition with the advent of "talkies", when films began using sound.</originalabstract>
+<abstract>Dorothy_Kathleen_Gulliver ( September_6_,_1908 – May_23_,_1997 ) was an_American_silent_film_actress , and one of the_few to_make a_successful_transition with the_advent of " talkies " , when films began_using sound .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dorothy'), (8, 'Kathleen'), (17, 'Gulliver'), (26, '('), (27, 'September'), (37, '6'), (38, ','), (40, '1908'), (45, '–'), (47, 'May'), (51, '23'), (53, ','), (55, '1997'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'silent'), (84, 'film'), (89, 'actress'), (96, ','), (98, 'and'), (102, 'one'), (106, 'of'), (109, 'the'), (113, 'few'), (117, 'to'), (120, 'make'), (125, 'a'), (127, 'successful'), (138, 'transition'), (149, 'with'), (154, 'the'), (158, 'advent'), (165, 'of'), (168, '"'), (169, 'talkies'), (176, '"'), (177, ','), (179, 'when'), (184, 'films'), (190, 'began'), (196, 'using'), (202, 'sound'), (207, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dorothy Kathleen Gulliver',0, 25), ('September 6, 1908',27, 44), ('May 23, 1997',47, 59), ('an American silent film actress',65, 96), ('the few',109, 116), ('to make',117, 124), ('a successful transition',125, 148), ('the advent',154, 164), ('began using',190, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'CC', 'CD', 'IN', 'DT', 'JJ', 'TO', 'VB', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', '``', 'NNS', '\'\'', ',', 'WRB', 'NNS', 'VBD', 'VBG', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dorothy'), (8, 'Kathleen'), (17, 'Gulliver'), (26, '('), (27, 'September'), (37, '6'), (38, ','), (40, '1908'), (45, '–'), (47, 'May'), (51, '23'), (53, ','), (55, '1997'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'silent'), (84, 'film'), (89, 'actress'), (96, ','), (98, 'and'), (102, 'one'), (106, 'of'), (109, 'the'), (113, 'few'), (117, 'to'), (120, 'make'), (125, 'a'), (127, 'successful'), (138, 'transition'), (149, 'with'), (154, 'the'), (158, 'advent'), (165, 'of'), (168, '"'), (169, 'talkies'), (176, '"'), (177, ','), (179, 'when'), (184, 'films'), (190, 'began'), (196, 'using'), (202, 'sound'), (207, '.')])</spacy_tokens>
+<spacy_chunks>[('Dorothy Kathleen Gulliver', 0, 25), ('(September', 26, 36), ('September 6, 1908', 27, 44), ('May 23, 1997', 47, 59), ('an American silent film actress', 65, 96), ('a successful transition', 125, 148), ('the advent', 154, 164), ('"talkies', 168, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'MD', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'CC', 'CD', 'IN', 'DT', 'JJ', 'TO', 'VB', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', '``', 'NNS', "''", ',', 'WRB', 'NNS', 'VBD', 'VBG', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Florence Guérin</title>
+<link/>https://en.wikipedia.org/wiki/Florence_Gu%C3%A9rin
+<annotated>0</annotated>
+<originalabstract>Florence Guérin (born on 12 June 1965), also known as Florence Nicolas, is a French actress. Born in Nice, France, she appeared both in film and in television roles since 1980.</originalabstract>
+<abstract>Florence_Guérin ( born on 12_June_1965 ) , also_known as Florence_Nicolas , is a_French_actress . Born in Nice , France , she appeared both in film and in television_roles since 1980 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Florence'), (9, 'Guérin'), (16, '('), (17, 'born'), (22, 'on'), (25, '12'), (28, 'June'), (33, '1965'), (37, ')'), (38, ','), (40, 'also'), (45, 'known'), (51, 'as'), (54, 'Florence'), (63, 'Nicolas'), (70, ','), (72, 'is'), (75, 'a'), (77, 'French'), (84, 'actress'), (91, '.'), (93, 'Born'), (98, 'in'), (101, 'Nice'), (105, ','), (107, 'France'), (113, ','), (115, 'she'), (119, 'appeared'), (128, 'both'), (133, 'in'), (136, 'film'), (141, 'and'), (145, 'in'), (148, 'television'), (159, 'roles'), (165, 'since'), (171, '1980'), (175, '.')])</stanford_tokens>
+<opennlp_chunks>[('Florence Guérin',0, 15), ('12 June 1965',25, 37), ('also known',40, 50), ('Florence Nicolas',54, 70), ('a French actress',75, 91), ('television roles',148, 164)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'IN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'CC', 'IN', 'NN', 'CC', 'IN', 'NN', 'NNS', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Florence'), (9, 'Guérin'), (16, '('), (17, 'born'), (22, 'on'), (25, '12'), (28, 'June'), (33, '1965'), (37, ')'), (38, ','), (40, 'also'), (45, 'known'), (51, 'as'), (54, 'Florence'), (63, 'Nicolas'), (70, ','), (72, 'is'), (75, 'a'), (77, 'French'), (84, 'actress'), (91, '.'), (93, 'Born'), (98, 'in'), (101, 'Nice'), (105, ','), (107, 'France'), (113, ','), (115, 'she'), (119, 'appeared'), (128, 'both'), (133, 'in'), (136, 'film'), (141, 'and'), (145, 'in'), (148, 'television'), (159, 'roles'), (165, 'since'), (171, '1980'), (175, '.')])</spacy_tokens>
+<spacy_chunks>[('Florence Guérin', 0, 15), ('12 June 1965', 25, 37), ('Florence Nicolas', 54, 70), ('a French actress', 75, 91), ('France', 107, 113), ('television roles', 148, 164)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'IN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'CC', 'IN', 'NN', 'CC', 'IN', 'NN', 'NNS', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

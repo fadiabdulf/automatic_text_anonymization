@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wilbur Snyder</title>
+<link/>https://en.wikipedia.org/wiki/Wilbur_Snyder
+<annotated>0</annotated>
+<originalabstract>Wilbur Snyder (September 15, 1929 – December 25, 1991) was an American football player and professional wrestler.</originalabstract>
+<abstract>Wilbur_Snyder ( September_15_,_1929 – December_25_,_1991 ) was an_American_football_player and professional_wrestler .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wilbur'), (7, 'Snyder'), (14, '('), (15, 'September'), (25, '15'), (27, ','), (29, '1929'), (34, '–'), (36, 'December'), (45, '25'), (47, ','), (49, '1991'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'football'), (80, 'player'), (87, 'and'), (91, 'professional'), (104, 'wrestler'), (112, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wilbur Snyder',0, 13), ('September 15, 1929',15, 33), ('December 25, 1991',36, 53), ('an American football player',59, 86), ('professional wrestler',91, 112)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wilbur'), (7, 'Snyder'), (14, '('), (15, 'September'), (25, '15'), (27, ','), (29, '1929'), (34, '–'), (36, 'December'), (45, '25'), (47, ','), (49, '1991'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'football'), (80, 'player'), (87, 'and'), (91, 'professional'), (104, 'wrestler'), (112, '.')])</spacy_tokens>
+<spacy_chunks>[('Wilbur Snyder', 0, 13), ('(September', 14, 24), ('September 15, 1929', 15, 33), ('December 25, 1991', 36, 53), ('an American football player', 59, 86), ('professional wrestler', 91, 112)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

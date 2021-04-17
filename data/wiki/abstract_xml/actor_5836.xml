@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>William Russell (American actor)</title>
+<link/>https://en.wikipedia.org/wiki/William_Russell_(American_actor)
+<annotated>0</annotated>
+<originalabstract>William Russell (April 12, 1884 – February 18, 1929), born William Francis Lerche, was an American actor, director, producer and screenwriter. He appeared in over two hundred silent era motion pictures between 1910 and 1929, directing five of them in 1916 and producing two through his own production company in 1918 and 1925.</originalabstract>
+<abstract>William_Russell ( April_12_,_1884 – February_18_,_1929 ) , born William_Francis_Lerche , was an_American_actor , director , producer_and_screenwriter . He appeared in over_two_hundred_silent_era_motion_pictures between 1910_and_1929 , directing five of them in 1916 and producing two through his_own_production_company in 1918_and_1925 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Russell'), (16, '('), (17, 'April'), (23, '12'), (25, ','), (27, '1884'), (32, '–'), (34, 'February'), (43, '18'), (45, ','), (47, '1929'), (51, ')'), (52, ','), (54, 'born'), (59, 'William'), (67, 'Francis'), (75, 'Lerche'), (81, ','), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'actor'), (104, ','), (106, 'director'), (114, ','), (116, 'producer'), (125, 'and'), (129, 'screenwriter'), (141, '.'), (143, 'He'), (146, 'appeared'), (155, 'in'), (158, 'over'), (163, 'two'), (167, 'hundred'), (175, 'silent'), (182, 'era'), (186, 'motion'), (193, 'pictures'), (202, 'between'), (210, '1910'), (215, 'and'), (219, '1929'), (223, ','), (225, 'directing'), (235, 'five'), (240, 'of'), (243, 'them'), (248, 'in'), (251, '1916'), (256, 'and'), (260, 'producing'), (270, 'two'), (274, 'through'), (282, 'his'), (286, 'own'), (290, 'production'), (301, 'company'), (309, 'in'), (312, '1918'), (317, 'and'), (321, '1925'), (325, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Russell',0, 15), ('April 12, 1884',17, 31), ('February 18, 1929',34, 51), ('William Francis Lerche',59, 81), ('an American actor',87, 104), ('producer and screenwriter',116, 141), ('over two hundred silent era motion pictures',158, 201), ('1910 and 1929',210, 223), ('his own production company',282, 308), ('1918 and 1925',312, 325)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'CD', 'JJ', 'NN', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'IN', 'PRP', 'IN', 'CD', 'CC', 'VBG', 'CD', 'IN', 'PRP$', 'JJ', 'NN', 'NN', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Russell'), (16, '('), (17, 'April'), (23, '12'), (25, ','), (27, '1884'), (32, '–'), (34, 'February'), (43, '18'), (45, ','), (47, '1929'), (51, ')'), (52, ','), (54, 'born'), (59, 'William'), (67, 'Francis'), (75, 'Lerche'), (81, ','), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'actor'), (104, ','), (106, 'director'), (114, ','), (116, 'producer'), (125, 'and'), (129, 'screenwriter'), (141, '.'), (143, 'He'), (146, 'appeared'), (155, 'in'), (158, 'over'), (163, 'two'), (167, 'hundred'), (175, 'silent'), (182, 'era'), (186, 'motion'), (193, 'pictures'), (202, 'between'), (210, '1910'), (215, 'and'), (219, '1929'), (223, ','), (225, 'directing'), (235, 'five'), (240, 'of'), (243, 'them'), (248, 'in'), (251, '1916'), (256, 'and'), (260, 'producing'), (270, 'two'), (274, 'through'), (282, 'his'), (286, 'own'), (290, 'production'), (301, 'company'), (309, 'in'), (312, '1918'), (317, 'and'), (321, '1925'), (325, '.')])</spacy_tokens>
+<spacy_chunks>[('William Russell', 0, 15), ('(April', 16, 22), ('April 12, 1884', 17, 31), ('February 18, 1929', 34, 51), ('William Francis Lerche', 59, 81), ('an American actor', 87, 104), ('director', 106, 114), ('producer', 116, 124), ('Screenwriter', 129, 141), ('over two hundred silent era motion pictures', 158, 201), ('his own production company', 282, 308)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'CD', 'JJ', 'NN', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'CD', 'IN', 'PRP', 'IN', 'CD', 'CC', 'VBG', 'CD', 'IN', 'PRP$', 'JJ', 'NN', 'NN', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

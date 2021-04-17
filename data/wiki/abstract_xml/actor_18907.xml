@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nathalie Richard</title>
+<link/>https://en.wikipedia.org/wiki/Nathalie_Richard
+<annotated>0</annotated>
+<originalabstract>Nathalie Richard (born 6 January 1963) is a French actress.
+Richard was born in Paris, France. She received the Prix Michel Simon film prize for most promising actress/actor for her role in the 1988 Jacques Rivette film Gang of Four.</originalabstract>
+<abstract>Nathalie_Richard ( born 6_January_1963 ) is a_French_actress . Richard was_born in Paris , France . She received the_Prix_Michel_Simon_film_prize for most_promising_actress/actor for her_role in the_1988_Jacques_Rivette_film_Gang of Four .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nathalie'), (9, 'Richard'), (17, '('), (18, 'born'), (23, '6'), (25, 'January'), (33, '1963'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (58, '.'), (60, 'Richard'), (68, 'was'), (72, 'born'), (77, 'in'), (80, 'Paris'), (85, ','), (87, 'France'), (93, '.'), (95, 'She'), (99, 'received'), (108, 'the'), (112, 'Prix'), (117, 'Michel'), (124, 'Simon'), (130, 'film'), (135, 'prize'), (141, 'for'), (145, 'most'), (150, 'promising'), (160, 'actress/actor'), (174, 'for'), (178, 'her'), (182, 'role'), (187, 'in'), (190, 'the'), (194, '1988'), (199, 'Jacques'), (207, 'Rivette'), (215, 'film'), (220, 'Gang'), (225, 'of'), (228, 'Four'), (232, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nathalie Richard',0, 16), ('6 January 1963',23, 37), ('a French actress',42, 58), ('was born',68, 76), ('the Prix Michel Simon film prize',108, 140), ('most promising actress/actor',145, 173), ('her role',178, 186), ('the 1988 Jacques Rivette film Gang',190, 224)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nathalie'), (9, 'Richard'), (17, '('), (18, 'born'), (23, '6'), (25, 'January'), (33, '1963'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (58, '.'), (60, 'Richard'), (68, 'was'), (72, 'born'), (77, 'in'), (80, 'Paris'), (85, ','), (87, 'France'), (93, '.'), (95, 'She'), (99, 'received'), (108, 'the'), (112, 'Prix'), (117, 'Michel'), (124, 'Simon'), (130, 'film'), (135, 'prize'), (141, 'for'), (145, 'most'), (150, 'promising'), (160, 'actress'), (167, '/'), (168, 'actor'), (174, 'for'), (178, 'her'), (182, 'role'), (187, 'in'), (190, 'the'), (194, '1988'), (199, 'Jacques'), (207, 'Rivette'), (215, 'film'), (220, 'Gang'), (225, 'of'), (228, 'Four'), (232, '.')])</spacy_tokens>
+<spacy_chunks>[('Nathalie Richard', 0, 16), ('6 January 1963', 23, 37), ('a French actress', 42, 58), ('France', 87, 93), ('the Prix Michel Simon film prize', 108, 140), ('most promising actress/actor', 145, 173), ('her role', 178, 186), ('the 1988 Jacques Rivette film Gang', 190, 224), ('Gang of Four', 220, 232)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'IN', 'RBS', 'JJ', 'NN', 'SYM', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

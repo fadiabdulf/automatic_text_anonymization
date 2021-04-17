@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Richard Rosson</title>
+<link/>https://en.wikipedia.org/wiki/Richard_Rosson
+<annotated>0</annotated>
+<originalabstract>Richard Rosson (April 4, 1893 – May 31, 1953) was an American film director and actor. As an actor, he was known for the nearly 100 films he was in during the silent era. As a director, he was a co-director of the 1932 film Scarface.</originalabstract>
+<abstract>Richard_Rosson ( April_4_,_1893 – May_31_,_1953 ) was an_American_film_director_and_actor . As an_actor , he was_known for the_nearly_100_films he was in during the_silent_era . As a_director , he was a_co-director of the_1932_film_Scarface .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Rosson'), (15, '('), (16, 'April'), (22, '4'), (23, ','), (25, '1893'), (30, '–'), (32, 'May'), (36, '31'), (38, ','), (40, '1953'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'film'), (67, 'director'), (76, 'and'), (80, 'actor'), (85, '.'), (87, 'As'), (90, 'an'), (93, 'actor'), (98, ','), (100, 'he'), (103, 'was'), (107, 'known'), (113, 'for'), (117, 'the'), (121, 'nearly'), (128, '100'), (132, 'films'), (138, 'he'), (141, 'was'), (145, 'in'), (148, 'during'), (155, 'the'), (159, 'silent'), (166, 'era'), (169, '.'), (171, 'As'), (174, 'a'), (176, 'director'), (184, ','), (186, 'he'), (189, 'was'), (193, 'a'), (195, 'co-director'), (207, 'of'), (210, 'the'), (214, '1932'), (219, 'film'), (224, 'Scarface'), (232, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Rosson',0, 14), ('April 4, 1893',16, 29), ('May 31, 1953',32, 44), ('an American film director and actor',50, 85), ('an actor',90, 98), ('was known',103, 112), ('the nearly 100 films',117, 137), ('the silent era',155, 169), ('a director',174, 184), ('a co-director',193, 206), ('the 1932 film Scarface',210, 232)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'IN', 'DT', 'NN', ',', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'RB', 'CD', 'NNS', 'PRP', 'VBD', 'IN', 'IN', 'DT', 'JJ', 'NN', '.', 'IN', 'DT', 'NN', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Rosson'), (15, '('), (16, 'April'), (22, '4'), (23, ','), (25, '1893'), (30, '–'), (32, 'May'), (36, '31'), (38, ','), (40, '1953'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'film'), (67, 'director'), (76, 'and'), (80, 'actor'), (85, '.'), (87, 'As'), (90, 'an'), (93, 'actor'), (98, ','), (100, 'he'), (103, 'was'), (107, 'known'), (113, 'for'), (117, 'the'), (121, 'nearly'), (128, '100'), (132, 'films'), (138, 'he'), (141, 'was'), (145, 'in'), (148, 'during'), (155, 'the'), (159, 'silent'), (166, 'era'), (169, '.'), (171, 'As'), (174, 'a'), (176, 'director'), (184, ','), (186, 'he'), (189, 'was'), (193, 'a'), (195, 'co'), (197, '-'), (198, 'director'), (207, 'of'), (210, 'the'), (214, '1932'), (219, 'film'), (224, 'Scarface'), (232, '.')])</spacy_tokens>
+<spacy_chunks>[('Richard Rosson', 0, 14), ('(April', 15, 21), ('April 4, 1893', 16, 29), ('May 31, 1953', 32, 44), ('an American film director', 50, 75), ('an actor', 90, 98), ('the nearly 100 films', 117, 137), ('the silent era', 155, 169), ('a director', 174, 184), ('a co-director', 193, 206), ('the 1932 film', 210, 223), ('Scarface', 224, 232)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'IN', 'DT', 'NN', ',', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'RB', 'CD', 'NNS', 'PRP', 'VBD', 'IN', 'IN', 'DT', 'JJ', 'NN', '.', 'IN', 'DT', 'NN', ',', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

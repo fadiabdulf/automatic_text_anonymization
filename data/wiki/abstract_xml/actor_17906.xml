@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lydia Leonard</title>
+<link/>https://en.wikipedia.org/wiki/Lydia_Leonard
+<annotated>0</annotated>
+<originalabstract>Lydia Leonard (born 5 December 1981) is an English stage, film and television actress.</originalabstract>
+<abstract>Lydia_Leonard ( born_5_December_1981 ) is an_English_stage , film_and_television_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lydia'), (6, 'Leonard'), (14, '('), (15, 'born'), (20, '5'), (22, 'December'), (31, '1981'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'stage'), (56, ','), (58, 'film'), (63, 'and'), (67, 'television'), (78, 'actress'), (85, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lydia Leonard',0, 13), ('born 5 December 1981',15, 35), ('an English stage',40, 56), ('film and television actress',58, 85)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lydia'), (6, 'Leonard'), (14, '('), (15, 'born'), (20, '5'), (22, 'December'), (31, '1981'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'stage'), (56, ','), (58, 'film'), (63, 'and'), (67, 'television'), (78, 'actress'), (85, '.')])</spacy_tokens>
+<spacy_chunks>[('Lydia Leonard', 0, 13), ('5 December 1981', 20, 35), ('an English stage', 40, 56), ('television', 67, 77), ('actress', 78, 85)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

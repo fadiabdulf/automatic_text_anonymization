@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Quentin Dolmaire</title>
+<link/>https://en.wikipedia.org/wiki/Quentin_Dolmaire
+<annotated>0</annotated>
+<originalabstract>Quentin Dolmaire (born 18 February 1994) is a French actor. He was nominated for the César Award for Most Promising Actor in 2016 for his role in My Golden Days.</originalabstract>
+<abstract>Quentin_Dolmaire ( born 18_February_1994 ) is a_French_actor . He was_nominated for the_César_Award for Most_Promising_Actor in 2016 for his_role in My_Golden_Days .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Quentin'), (8, 'Dolmaire'), (17, '('), (18, 'born'), (23, '18'), (26, 'February'), (35, '1994'), (39, ')'), (41, 'is'), (44, 'a'), (46, 'French'), (53, 'actor'), (58, '.'), (60, 'He'), (63, 'was'), (67, 'nominated'), (77, 'for'), (81, 'the'), (85, 'César'), (91, 'Award'), (97, 'for'), (101, 'Most'), (106, 'Promising'), (116, 'Actor'), (122, 'in'), (125, '2016'), (130, 'for'), (134, 'his'), (138, 'role'), (143, 'in'), (146, 'My'), (149, 'Golden'), (156, 'Days'), (160, '.')])</stanford_tokens>
+<opennlp_chunks>[('Quentin Dolmaire',0, 16), ('18 February 1994',23, 39), ('a French actor',44, 58), ('was nominated',63, 76), ('the César Award',81, 96), ('Most Promising Actor',101, 121), ('his role',134, 142), ('My Golden Days',146, 160)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'PRP$', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Quentin'), (8, 'Dolmaire'), (17, '('), (18, 'born'), (23, '18'), (26, 'February'), (35, '1994'), (39, ')'), (41, 'is'), (44, 'a'), (46, 'French'), (53, 'actor'), (58, '.'), (60, 'He'), (63, 'was'), (67, 'nominated'), (77, 'for'), (81, 'the'), (85, 'César'), (91, 'Award'), (97, 'for'), (101, 'Most'), (106, 'Promising'), (116, 'Actor'), (122, 'in'), (125, '2016'), (130, 'for'), (134, 'his'), (138, 'role'), (143, 'in'), (146, 'My'), (149, 'Golden'), (156, 'Days'), (160, '.')])</spacy_tokens>
+<spacy_chunks>[('Quentin Dolmaire', 0, 16), ('18 February 1994', 23, 39), ('a French actor', 44, 58), ('the César Award', 81, 96), ('César Award for Most Promising Actor', 85, 121), ('his role', 134, 142), ('My Golden Days', 146, 160)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'JJS', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'PRP$', 'JJ', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

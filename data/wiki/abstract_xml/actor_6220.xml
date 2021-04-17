@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Roger Smith (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Roger_Smith_(actor)
+<annotated>0</annotated>
+<originalabstract>Roger LaVerne Smith (December 18, 1932 – June 4, 2017) was an American television and film actor, producer and screenwriter. He starred in the television detective series 77 Sunset Strip and in the comedy series Mister Roberts. Smith went on to manage the career of Ann-Margret, his wife of 50 years.</originalabstract>
+<abstract>Roger_LaVerne_Smith ( December_18_,_1932 – June_4_,_2017 ) was an_American_television_and_film_actor , producer_and_screenwriter . He starred in the_television_detective_series_77_Sunset_Strip and in the_comedy_series_Mister_Roberts . Smith went on to_manage the_career of Ann-Margret , his_wife of 50_years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Roger'), (6, 'LaVerne'), (14, 'Smith'), (20, '('), (21, 'December'), (30, '18'), (32, ','), (34, '1932'), (39, '–'), (41, 'June'), (46, '4'), (47, ','), (49, '2017'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'television'), (82, 'and'), (86, 'film'), (91, 'actor'), (96, ','), (98, 'producer'), (107, 'and'), (111, 'screenwriter'), (123, '.'), (125, 'He'), (128, 'starred'), (136, 'in'), (139, 'the'), (143, 'television'), (154, 'detective'), (164, 'series'), (171, '77'), (174, 'Sunset'), (181, 'Strip'), (187, 'and'), (191, 'in'), (194, 'the'), (198, 'comedy'), (205, 'series'), (212, 'Mister'), (219, 'Roberts'), (226, '.'), (228, 'Smith'), (234, 'went'), (239, 'on'), (242, 'to'), (245, 'manage'), (252, 'the'), (256, 'career'), (263, 'of'), (266, 'Ann-Margret'), (277, ','), (279, 'his'), (283, 'wife'), (288, 'of'), (291, '50'), (294, 'years'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('Roger LaVerne Smith',0, 19), ('December 18, 1932',21, 38), ('June 4, 2017',41, 53), ('an American television and film actor',59, 96), ('producer and screenwriter',98, 123), ('the television detective series 77 Sunset Strip',139, 186), ('the comedy series Mister Roberts',194, 226), ('to manage',242, 251), ('the career',252, 262), ('his wife',279, 287), ('50 years',291, 299)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'NN', 'CD', 'NNP', 'NNP', 'CC', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'IN', 'TO', 'VB', 'DT', 'NN', 'IN', 'NNP', ',', 'PRP$', 'NN', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Roger'), (6, 'LaVerne'), (14, 'Smith'), (20, '('), (21, 'December'), (30, '18'), (32, ','), (34, '1932'), (39, '–'), (41, 'June'), (46, '4'), (47, ','), (49, '2017'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'television'), (82, 'and'), (86, 'film'), (91, 'actor'), (96, ','), (98, 'producer'), (107, 'and'), (111, 'screenwriter'), (123, '.'), (125, 'He'), (128, 'starred'), (136, 'in'), (139, 'the'), (143, 'television'), (154, 'detective'), (164, 'series'), (171, '77'), (174, 'Sunset'), (181, 'Strip'), (187, 'and'), (191, 'in'), (194, 'the'), (198, 'comedy'), (205, 'series'), (212, 'Mister'), (219, 'Roberts'), (226, '.'), (228, 'Smith'), (234, 'went'), (239, 'on'), (242, 'to'), (245, 'manage'), (252, 'the'), (256, 'career'), (263, 'of'), (266, 'Ann'), (269, '-'), (270, 'Margret'), (277, ','), (279, 'his'), (283, 'wife'), (288, 'of'), (291, '50'), (294, 'years'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('Roger LaVerne Smith', 0, 19), ('December 18, 1932', 21, 38), ('June 4, 2017', 41, 53), ('an American television and film actor', 59, 96), ('producer', 98, 106), ('screenwriter', 111, 123), ('the television detective series', 139, 170), ('77 Sunset Strip', 171, 186), ('the comedy series', 194, 211), ('Mister Roberts', 212, 226), ('the career', 252, 262), ('Ann-Margret', 266, 277), ('his wife', 279, 287), ('50 years', 291, 299)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'NN', 'CD', 'NNP', 'NNP', 'CC', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'RP', 'TO', 'VB', 'DT', 'NN', 'IN', 'NNP', 'HYPH', 'NNP', ',', 'PRP$', 'NN', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

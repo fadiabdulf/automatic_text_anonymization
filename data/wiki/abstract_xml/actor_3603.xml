@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>George Kelly (playwright)</title>
+<link/>https://en.wikipedia.org/wiki/George_Kelly_(playwright)
+<annotated>0</annotated>
+<originalabstract>George Edward Kelly (January 16, 1887 – June 18, 1974) was an American playwright, screenwriter, director, and actor. He began his career in vaudeville as an actor and sketch writer. He became best known for his satiric comedies, including The Torch-Bearers (1922) and The Show-Off (1924).</originalabstract>
+<abstract>George_Edward_Kelly ( January_16_,_1887 – June_18_,_1974 ) was an_American_playwright , screenwriter , director , and actor . He began his_career in vaudeville as an_actor_and_sketch_writer . He became_best_known for his_satiric_comedies , including The_Torch-Bearers ( 1922_) and The_Show-Off_(_1924_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Edward'), (14, 'Kelly'), (20, '('), (21, 'January'), (29, '16'), (31, ','), (33, '1887'), (38, '–'), (40, 'June'), (45, '18'), (47, ','), (49, '1974'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'playwright'), (81, ','), (83, 'screenwriter'), (95, ','), (97, 'director'), (105, ','), (107, 'and'), (111, 'actor'), (116, '.'), (118, 'He'), (121, 'began'), (127, 'his'), (131, 'career'), (138, 'in'), (141, 'vaudeville'), (152, 'as'), (155, 'an'), (158, 'actor'), (164, 'and'), (168, 'sketch'), (175, 'writer'), (181, '.'), (183, 'He'), (186, 'became'), (193, 'best'), (198, 'known'), (204, 'for'), (208, 'his'), (212, 'satiric'), (220, 'comedies'), (228, ','), (230, 'including'), (240, 'The'), (244, 'Torch-Bearers'), (258, '('), (259, '1922'), (263, ')'), (265, 'and'), (269, 'The'), (273, 'Show-Off'), (282, '('), (283, '1924'), (287, ')'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Edward Kelly',0, 19), ('January 16, 1887',21, 37), ('June 18, 1974',40, 53), ('an American playwright',59, 81), ('his career',127, 137), ('an actor and sketch writer',155, 181), ('became best known',186, 203), ('his satiric comedies',208, 228), ('The Torch-Bearers',240, 257), ('1922)',259, 264), ('The Show-Off (1924)',269, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'DT', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', ',', 'VBG', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Edward'), (14, 'Kelly'), (20, '('), (21, 'January'), (29, '16'), (31, ','), (33, '1887'), (38, '–'), (40, 'June'), (45, '18'), (47, ','), (49, '1974'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'playwright'), (81, ','), (83, 'screenwriter'), (95, ','), (97, 'director'), (105, ','), (107, 'and'), (111, 'actor'), (116, '.'), (118, 'He'), (121, 'began'), (127, 'his'), (131, 'career'), (138, 'in'), (141, 'vaudeville'), (152, 'as'), (155, 'an'), (158, 'actor'), (164, 'and'), (168, 'sketch'), (175, 'writer'), (181, '.'), (183, 'He'), (186, 'became'), (193, 'best'), (198, 'known'), (204, 'for'), (208, 'his'), (212, 'satiric'), (220, 'comedies'), (228, ','), (230, 'including'), (240, 'The'), (244, 'Torch'), (249, '-'), (250, 'Bearers'), (258, '('), (259, '1922'), (263, ')'), (265, 'and'), (269, 'The'), (273, 'Show'), (277, '-'), (278, 'Off'), (282, '('), (283, '1924'), (287, ')'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('George Edward Kelly', 0, 19), ('January 16, 1887', 21, 37), ('June 18, 1974', 40, 53), ('an American playwright', 59, 81), ('screenwriter', 83, 95), ('director', 97, 105), ('his career', 127, 137), ('vaudeville', 141, 151), ('an actor', 155, 163), ('sketch writer', 168, 181), ('his satiric comedies', 208, 228), ('The Torch-Bearers', 240, 257), ('The Show-Off', 269, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'DT', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'PRP$', 'JJ', 'NNS', ',', 'VBG', 'DT', 'NNP', 'HYPH', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NN', 'HYPH', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

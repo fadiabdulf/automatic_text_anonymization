@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nita Naldi</title>
+<link/>https://en.wikipedia.org/wiki/Nita_Naldi
+<annotated>0</annotated>
+<originalabstract>Nita Naldi (born Mary Nonna Dooley, November 13, 1894 – February 17, 1961) was an American stage performer and silent film actress. She was often cast in theatrical and screen productions as a “vamp” or femme fatale, a persona first popularized by actress Theda Bara.</originalabstract>
+<abstract>Nita_Naldi ( born Mary_Nonna_Dooley , November_13_,_1894 – February_17_,_1961 ) was an_American_stage_performer and silent_film_actress . She was_often_cast in theatrical_and_screen_productions as a_“_vamp ” or femme_fatale , a_persona first_popularized by actress_Theda_Bara .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nita'), (5, 'Naldi'), (11, '('), (12, 'born'), (17, 'Mary'), (22, 'Nonna'), (28, 'Dooley'), (34, ','), (36, 'November'), (45, '13'), (47, ','), (49, '1894'), (54, '–'), (56, 'February'), (65, '17'), (67, ','), (69, '1961'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'American'), (91, 'stage'), (97, 'performer'), (107, 'and'), (111, 'silent'), (118, 'film'), (123, 'actress'), (130, '.'), (132, 'She'), (136, 'was'), (140, 'often'), (146, 'cast'), (151, 'in'), (154, 'theatrical'), (165, 'and'), (169, 'screen'), (176, 'productions'), (188, 'as'), (191, 'a'), (193, '“'), (194, 'vamp'), (198, '”'), (200, 'or'), (203, 'femme'), (209, 'fatale'), (215, ','), (217, 'a'), (219, 'persona'), (227, 'first'), (233, 'popularized'), (245, 'by'), (248, 'actress'), (256, 'Theda'), (262, 'Bara'), (266, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nita Naldi',0, 10), ('Mary Nonna Dooley',17, 34), ('November 13, 1894',36, 53), ('February 17, 1961',56, 73), ('an American stage performer',79, 106), ('silent film actress',111, 130), ('was often cast',136, 150), ('theatrical and screen productions',154, 187), ('a “vamp',191, 198), ('femme fatale',203, 215), ('a persona',217, 226), ('first popularized',227, 244), ('actress Theda Bara',248, 266)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'JJ', 'CC', 'NN', 'NNS', 'IN', 'DT', '``', 'NN', '\'\'', 'CC', 'JJ', 'NN', ',', 'DT', 'NN', 'RB', 'VBN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nita'), (5, 'Naldi'), (11, '('), (12, 'born'), (17, 'Mary'), (22, 'Nonna'), (28, 'Dooley'), (34, ','), (36, 'November'), (45, '13'), (47, ','), (49, '1894'), (54, '–'), (56, 'February'), (65, '17'), (67, ','), (69, '1961'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'American'), (91, 'stage'), (97, 'performer'), (107, 'and'), (111, 'silent'), (118, 'film'), (123, 'actress'), (130, '.'), (132, 'She'), (136, 'was'), (140, 'often'), (146, 'cast'), (151, 'in'), (154, 'theatrical'), (165, 'and'), (169, 'screen'), (176, 'productions'), (188, 'as'), (191, 'a'), (193, '“'), (194, 'vamp'), (198, '”'), (200, 'or'), (203, 'femme'), (209, 'fatale'), (215, ','), (217, 'a'), (219, 'persona'), (227, 'first'), (233, 'popularized'), (245, 'by'), (248, 'actress'), (256, 'Theda'), (262, 'Bara'), (266, '.')])</spacy_tokens>
+<spacy_chunks>[('Nita Naldi', 0, 10), ('(born Mary Nonna Dooley', 11, 34), ('November 13, 1894', 36, 53), ('February 17, 1961', 56, 73), ('an American stage performer', 79, 106), ('silent film actress', 111, 130), ('theatrical and screen productions', 154, 187), ('a “vamp” or femme fatale', 191, 215), ('a persona', 217, 226), ('actress Theda Bara', 248, 266)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NN', 'CC', 'NN', 'NNS', 'IN', 'DT', '``', 'NN', "''", 'CC', 'NN', 'NN', ',', 'DT', 'NN', 'RB', 'VBN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

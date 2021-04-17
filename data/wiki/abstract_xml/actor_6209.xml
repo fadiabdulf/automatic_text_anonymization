@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kent Smith</title>
+<link/>https://en.wikipedia.org/wiki/Kent_Smith
+<annotated>0</annotated>
+<originalabstract>Frank Kent Smith (March 19, 1907 – April 23, 1985) was an American actor who had a lengthy career in film, theatre and television.</originalabstract>
+<abstract>Frank_Kent_Smith ( March_19_,_1907 – April_23_,_1985 ) was an_American_actor who had a_lengthy_career in film_,_theatre_and_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frank'), (6, 'Kent'), (11, 'Smith'), (17, '('), (18, 'March'), (24, '19'), (26, ','), (28, '1907'), (33, '–'), (35, 'April'), (41, '23'), (43, ','), (45, '1985'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'who'), (77, 'had'), (81, 'a'), (83, 'lengthy'), (91, 'career'), (98, 'in'), (101, 'film'), (105, ','), (107, 'theatre'), (115, 'and'), (119, 'television'), (129, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frank Kent Smith',0, 16), ('March 19, 1907',18, 32), ('April 23, 1985',35, 49), ('an American actor',55, 72), ('a lengthy career',81, 97), ('film, theatre and television',101, 129)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frank'), (6, 'Kent'), (11, 'Smith'), (17, '('), (18, 'March'), (24, '19'), (26, ','), (28, '1907'), (33, '–'), (35, 'April'), (41, '23'), (43, ','), (45, '1985'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'who'), (77, 'had'), (81, 'a'), (83, 'lengthy'), (91, 'career'), (98, 'in'), (101, 'film'), (105, ','), (107, 'theatre'), (115, 'and'), (119, 'television'), (129, '.')])</spacy_tokens>
+<spacy_chunks>[('Frank Kent Smith', 0, 16), ('March 19, 1907', 18, 32), ('April 23, 1985', 35, 49), ('an American actor', 55, 72), ('a lengthy career', 81, 97), ('theatre', 107, 114), ('television', 119, 129)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

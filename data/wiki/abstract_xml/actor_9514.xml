@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean Becker (director)</title>
+<link/>https://en.wikipedia.org/wiki/Jean_Becker_(director)
+<annotated>0</annotated>
+<originalabstract>Jean Becker (born 10 May 1933) is a French film director, screenwriter and actor. He is son of the director Jacques Becker.</originalabstract>
+<abstract>Jean_Becker ( born 10_May_1933 ) is a_French_film_director , screenwriter_and_actor . He is son of the_director_Jacques_Becker .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean'), (5, 'Becker'), (12, '('), (13, 'born'), (18, '10'), (21, 'May'), (25, '1933'), (29, ')'), (31, 'is'), (34, 'a'), (36, 'French'), (43, 'film'), (48, 'director'), (56, ','), (58, 'screenwriter'), (71, 'and'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'is'), (88, 'son'), (92, 'of'), (95, 'the'), (99, 'director'), (108, 'Jacques'), (116, 'Becker'), (122, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean Becker',0, 11), ('10 May 1933',18, 29), ('a French film director',34, 56), ('screenwriter and actor',58, 80), ('the director Jacques Becker',95, 122)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (5, 'Becker'), (12, '('), (13, 'born'), (18, '10'), (21, 'May'), (25, '1933'), (29, ')'), (31, 'is'), (34, 'a'), (36, 'French'), (43, 'film'), (48, 'director'), (56, ','), (58, 'screenwriter'), (71, 'and'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'is'), (88, 'son'), (92, 'of'), (95, 'the'), (99, 'director'), (108, 'Jacques'), (116, 'Becker'), (122, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean Becker', 0, 11), ('10 May 1933', 18, 29), ('a French film director', 34, 56), ('Screenwriter', 58, 70), ('the director', 95, 107), ('Jacques Becker', 108, 122)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

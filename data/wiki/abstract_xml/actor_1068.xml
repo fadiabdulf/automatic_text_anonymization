@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Steve Cardenas</title>
+<link/>https://en.wikipedia.org/wiki/Steve_Cardenas
+<annotated>0</annotated>
+<originalabstract>Stephen Antonio Cardenas (born May 29, 1974) is an American martial artist, musician, and semi retired actor. Cardenas is best known for playing the character Rocky DeSantos, which was the second Red Power Ranger in Mighty Morphin Power Rangers and eventually became the Blue Zeo Ranger in Power Rangers Zeo, two seasons later.</originalabstract>
+<abstract>Stephen_Antonio_Cardenas ( born May_29_,_1974 ) is an_American_martial_artist , musician , and semi retired actor . Cardenas is_best_known for playing the_character_Rocky_DeSantos , which was the_second_Red_Power_Ranger in Mighty_Morphin_Power_Rangers and eventually_became the_Blue_Zeo_Ranger in Power_Rangers_Zeo , two_seasons later .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stephen'), (8, 'Antonio'), (16, 'Cardenas'), (25, '('), (26, 'born'), (31, 'May'), (35, '29'), (37, ','), (39, '1974'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'martial'), (68, 'artist'), (74, ','), (76, 'musician'), (84, ','), (86, 'and'), (90, 'semi'), (95, 'retired'), (103, 'actor'), (108, '.'), (110, 'Cardenas'), (119, 'is'), (122, 'best'), (127, 'known'), (133, 'for'), (137, 'playing'), (145, 'the'), (149, 'character'), (159, 'Rocky'), (165, 'DeSantos'), (173, ','), (175, 'which'), (181, 'was'), (185, 'the'), (189, 'second'), (196, 'Red'), (200, 'Power'), (206, 'Ranger'), (213, 'in'), (216, 'Mighty'), (223, 'Morphin'), (231, 'Power'), (237, 'Rangers'), (245, 'and'), (249, 'eventually'), (260, 'became'), (267, 'the'), (271, 'Blue'), (276, 'Zeo'), (280, 'Ranger'), (287, 'in'), (290, 'Power'), (296, 'Rangers'), (304, 'Zeo'), (307, ','), (309, 'two'), (313, 'seasons'), (321, 'later'), (326, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stephen Antonio Cardenas',0, 24), ('May 29, 1974',31, 43), ('an American martial artist',48, 74), ('is best known',119, 132), ('the character Rocky DeSantos',145, 173), ('the second Red Power Ranger',185, 212), ('Mighty Morphin Power Rangers',216, 244), ('eventually became',249, 266), ('the Blue Zeo Ranger',267, 286), ('Power Rangers Zeo',290, 307), ('two seasons',309, 320)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'VBD', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNPS', 'CC', 'RB', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNPS', 'NNP', ',', 'CD', 'NNS', 'RB', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stephen'), (8, 'Antonio'), (16, 'Cardenas'), (25, '('), (26, 'born'), (31, 'May'), (35, '29'), (37, ','), (39, '1974'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'martial'), (68, 'artist'), (74, ','), (76, 'musician'), (84, ','), (86, 'and'), (90, 'semi'), (95, 'retired'), (103, 'actor'), (108, '.'), (110, 'Cardenas'), (119, 'is'), (122, 'best'), (127, 'known'), (133, 'for'), (137, 'playing'), (145, 'the'), (149, 'character'), (159, 'Rocky'), (165, 'DeSantos'), (173, ','), (175, 'which'), (181, 'was'), (185, 'the'), (189, 'second'), (196, 'Red'), (200, 'Power'), (206, 'Ranger'), (213, 'in'), (216, 'Mighty'), (223, 'Morphin'), (231, 'Power'), (237, 'Rangers'), (245, 'and'), (249, 'eventually'), (260, 'became'), (267, 'the'), (271, 'Blue'), (276, 'Zeo'), (280, 'Ranger'), (287, 'in'), (290, 'Power'), (296, 'Rangers'), (304, 'Zeo'), (307, ','), (309, 'two'), (313, 'seasons'), (321, 'later'), (326, '.')])</spacy_tokens>
+<spacy_chunks>[('Stephen Antonio Cardenas', 0, 24), ('May 29, 1974', 31, 43), ('an American martial artist', 48, 74), ('musician', 76, 84), ('semi retired actor', 90, 108), ('the character', 145, 158), ('Rocky DeSantos', 159, 173), ('the second Red Power Ranger', 185, 212), ('Mighty Morphin Power Rangers', 216, 244), ('the Blue Zeo Ranger', 267, 286), ('Power Rangers Zeo', 290, 307)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'VBN', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNPS', 'CC', 'RB', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNS', 'RB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Travis Tedford</title>
+<link/>https://en.wikipedia.org/wiki/Travis_Tedford
+<annotated>0</annotated>
+<originalabstract>Travis William Tedford (born August 19, 1988) is an American former actor. A child actor during the 1990s, he is best known for portraying Our Gang kid Spanky McFarland in the 1994 feature film The Little Rascals and for being the first Welch's "advertising-spokeskid" beginning in 1994 at age 5.</originalabstract>
+<abstract>Travis_William_Tedford ( born August_19_,_1988 ) is an_American_former_actor . A_child_actor during the_1990s , he is_best_known for portraying Our_Gang_kid_Spanky_McFarland in the_1994_feature_film The_Little_Rascals and for being the_first_Welch 's_"_advertising-spokeskid_"_beginning in 1994 at age_5 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Travis'), (7, 'William'), (15, 'Tedford'), (23, '('), (24, 'born'), (29, 'August'), (36, '19'), (38, ','), (40, '1988'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'former'), (68, 'actor'), (73, '.'), (75, 'A'), (77, 'child'), (83, 'actor'), (89, 'during'), (96, 'the'), (100, '1990s'), (105, ','), (107, 'he'), (110, 'is'), (113, 'best'), (118, 'known'), (124, 'for'), (128, 'portraying'), (139, 'Our'), (143, 'Gang'), (148, 'kid'), (152, 'Spanky'), (159, 'McFarland'), (169, 'in'), (172, 'the'), (176, '1994'), (181, 'feature'), (189, 'film'), (194, 'The'), (198, 'Little'), (205, 'Rascals'), (213, 'and'), (217, 'for'), (221, 'being'), (227, 'the'), (231, 'first'), (237, 'Welch'), (242, '\'s'), (245, '"'), (246, 'advertising-spokeskid'), (267, '"'), (269, 'beginning'), (279, 'in'), (282, '1994'), (287, 'at'), (290, 'age'), (294, '5'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Travis William Tedford',0, 22), ('August 19, 1988',29, 44), ('an American former actor',49, 73), ('A child actor',75, 88), ('the 1990s',96, 105), ('is best known',110, 123), ('Our Gang kid Spanky McFarland',139, 168), ('the 1994 feature film',172, 193), ('The Little Rascals',194, 212), ('the first Welch',227, 242), ('\'s "advertising-spokeskid" beginning',242, 278), ('age 5',290, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', ',', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'JJ', 'NNS', 'CC', 'IN', 'VBG', 'DT', 'JJ', 'NNP', 'POS', '``', 'JJ', '\'\'', 'NN', 'IN', 'CD', 'IN', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Travis'), (7, 'William'), (15, 'Tedford'), (23, '('), (24, 'born'), (29, 'August'), (36, '19'), (38, ','), (40, '1988'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'former'), (68, 'actor'), (73, '.'), (75, 'A'), (77, 'child'), (83, 'actor'), (89, 'during'), (96, 'the'), (100, '1990s'), (105, ','), (107, 'he'), (110, 'is'), (113, 'best'), (118, 'known'), (124, 'for'), (128, 'portraying'), (139, 'Our'), (143, 'Gang'), (148, 'kid'), (152, 'Spanky'), (159, 'McFarland'), (169, 'in'), (172, 'the'), (176, '1994'), (181, 'feature'), (189, 'film'), (194, 'The'), (198, 'Little'), (205, 'Rascals'), (213, 'and'), (217, 'for'), (221, 'being'), (227, 'the'), (231, 'first'), (237, 'Welch'), (242, "'s"), (245, '"'), (246, 'advertising'), (257, '-'), (258, 'spokeskid'), (267, '"'), (269, 'beginning'), (279, 'in'), (282, '1994'), (287, 'at'), (290, 'age'), (294, '5'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Travis William Tedford', 0, 22), ('August 19, 1988', 29, 44), ('an American former actor', 49, 73), ('Child actor', 77, 88), ('the 1990s', 96, 105), ('Our Gang kid Spanky McFarland', 139, 168), ('the 1994 feature film', 172, 193), ('The Little Rascals', 194, 212), ('Welch\'s "advertising-spokeskid', 237, 267)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNS', ',', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'PRP$', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'NNP', 'NNPS', 'CC', 'IN', 'VBG', 'DT', 'JJ', 'NNP', 'POS', '``', 'NN', 'HYPH', 'NN', '``', 'VBG', 'IN', 'CD', 'IN', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Siobhan Fallon Hogan</title>
+<link/>https://en.wikipedia.org/wiki/Siobhan_Fallon_Hogan
+<annotated>0</annotated>
+<originalabstract>Siobhan Fallon Hogan (born May 13, 1961) is an American actress and comedian. She appeared in films such as Men in Black, Forrest Gump, The Negotiator, Holes, Daddy Day Care and Going in Style.</originalabstract>
+<abstract>Siobhan_Fallon_Hogan ( born May_13_,_1961 ) is an_American_actress_and_comedian . She appeared in films such_as Men in Black , Forrest_Gump , The_Negotiator_,_Holes_,_Daddy_Day_Care and Going in Style .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Siobhan'), (8, 'Fallon'), (15, 'Hogan'), (21, '('), (22, 'born'), (27, 'May'), (31, '13'), (33, ','), (35, '1961'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (64, 'and'), (68, 'comedian'), (76, '.'), (78, 'She'), (82, 'appeared'), (91, 'in'), (94, 'films'), (100, 'such'), (105, 'as'), (108, 'Men'), (112, 'in'), (115, 'Black'), (120, ','), (122, 'Forrest'), (130, 'Gump'), (134, ','), (136, 'The'), (140, 'Negotiator'), (150, ','), (152, 'Holes'), (157, ','), (159, 'Daddy'), (165, 'Day'), (169, 'Care'), (174, 'and'), (178, 'Going'), (184, 'in'), (187, 'Style'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('Siobhan Fallon Hogan',0, 20), ('May 13, 1961',27, 39), ('an American actress and comedian',44, 76), ('such as',100, 107), ('Forrest Gump',122, 134), ('The Negotiator, Holes, Daddy Day Care',136, 173)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNS', 'JJ', 'IN', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'DT', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'CC', 'VBG', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Siobhan'), (8, 'Fallon'), (15, 'Hogan'), (21, '('), (22, 'born'), (27, 'May'), (31, '13'), (33, ','), (35, '1961'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (64, 'and'), (68, 'comedian'), (76, '.'), (78, 'She'), (82, 'appeared'), (91, 'in'), (94, 'films'), (100, 'such'), (105, 'as'), (108, 'Men'), (112, 'in'), (115, 'Black'), (120, ','), (122, 'Forrest'), (130, 'Gump'), (134, ','), (136, 'The'), (140, 'Negotiator'), (150, ','), (152, 'Holes'), (157, ','), (159, 'Daddy'), (165, 'Day'), (169, 'Care'), (174, 'and'), (178, 'Going'), (184, 'in'), (187, 'Style'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('Siobhan Fallon Hogan', 0, 20), ('May 13, 1961', 27, 39), ('an American actress', 44, 63), ('comedian', 68, 76), ('Men in Black', 108, 120), ('Forrest Gump', 122, 134), ('The Negotiator', 136, 150), (', Daddy Day Care', 157, 173), ('Going in Style', 178, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNS', 'JJ', 'IN', 'NNPS', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'DT', 'NNP', ',', 'NNPS', ',', 'NNP', 'NNP', 'NNP', 'CC', 'VBG', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

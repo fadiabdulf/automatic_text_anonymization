@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Melba Moore</title>
+<link/>https://en.wikipedia.org/wiki/Melba_Moore
+<annotated>0</annotated>
+<originalabstract>Beatrice Melba Hill (born October 29, 1945), known by her stage name, Melba Moore is an American singer, actress, voice actress, and entertainer. Moore is the daughter of saxophonist Teddy Hill and R singer Bonnie Davis.</originalabstract>
+<abstract>Beatrice_Melba_Hill ( born October_29_,_1945 ) , known by her_stage_name , Melba_Moore is an_American_singer , actress , voice_actress , and entertainer . Moore is the_daughter of saxophonist_Teddy_Hill_and_R .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Beatrice'), (9, 'Melba'), (15, 'Hill'), (20, '('), (21, 'born'), (26, 'October'), (34, '29'), (36, ','), (38, '1945'), (42, ')'), (43, ','), (45, 'known'), (51, 'by'), (54, 'her'), (58, 'stage'), (64, 'name'), (68, ','), (70, 'Melba'), (76, 'Moore'), (82, 'is'), (85, 'an'), (88, 'American'), (97, 'singer'), (103, ','), (105, 'actress'), (112, ','), (114, 'voice'), (120, 'actress'), (127, ','), (129, 'and'), (133, 'entertainer'), (144, '.'), (146, 'Moore'), (152, 'is'), (155, 'the'), (159, 'daughter'), (168, 'of'), (171, 'saxophonist'), (183, 'Teddy'), (189, 'Hill'), (194, 'and'), (198, 'R'), (202, 'singer'), (209, 'Bonnie'), (216, 'Davis'), (221, '.')])</stanford_tokens>
+<opennlp_chunks>[('Beatrice Melba Hill',0, 19), ('October 29, 1945',26, 42), ('her stage name',54, 68), ('Melba Moore',70, 81), ('an American singer',85, 103), ('voice actress',114, 127), ('the daughter',155, 167), ('saxophonist Teddy Hill and R singer Bonnie Davis',171, 221)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NN', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', ',', 'NN', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'JJ', 'NNP', 'NNP', 'CC', 'NNP', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Beatrice'), (9, 'Melba'), (15, 'Hill'), (20, '('), (21, 'born'), (26, 'October'), (34, '29'), (36, ','), (38, '1945'), (42, ')'), (43, ','), (45, 'known'), (51, 'by'), (54, 'her'), (58, 'stage'), (64, 'name'), (68, ','), (70, 'Melba'), (76, 'Moore'), (82, 'is'), (85, 'an'), (88, 'American'), (97, 'singer'), (103, ','), (105, 'actress'), (112, ','), (114, 'voice'), (120, 'actress'), (127, ','), (129, 'and'), (133, 'entertainer'), (144, '.'), (146, 'Moore'), (152, 'is'), (155, 'the'), (159, 'daughter'), (168, 'of'), (171, 'saxophonist'), (183, 'Teddy'), (189, 'Hill'), (194, 'and'), (198, 'R'), (200, 'singer'), (207, 'Bonnie'), (214, 'Davis'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Beatrice Melba Hill', 0, 19), ('October 29, 1945', 26, 42), ('her stage name', 54, 68), ('Melba Moore', 70, 81), ('an American singer', 85, 103), ('actress', 105, 112), ('voice actress', 114, 127), ('entertainer', 133, 144), ('the daughter', 155, 167), ('saxophonist', 171, 182), ('Teddy Hill', 183, 193), ('R singer Bonnie Davis', 198, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', ',', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

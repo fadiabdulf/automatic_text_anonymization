@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peter Mayhew</title>
+<link/>https://en.wikipedia.org/wiki/Peter_Mayhew
+<annotated>0</annotated>
+<originalabstract>Peter Mayhew (born 19 May 1944) is an English-American actor, best known for portraying Chewbacca in the Star Wars film series. He played the character in all of his live action appearances from the 1977 original to 2015's The Force Awakens before his retirement from the role.</originalabstract>
+<abstract>Peter_Mayhew ( born 19_May_1944 ) is an_English-American_actor , best_known for portraying_Chewbacca in the_Star_Wars_film_series . He played the_character in all of his_live_action_appearances from the_1977_original to 2015 's The_Force Awakens before his_retirement from the_role .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peter'), (6, 'Mayhew'), (13, '('), (14, 'born'), (19, '19'), (22, 'May'), (26, '1944'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'English-American'), (55, 'actor'), (60, ','), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'portraying'), (88, 'Chewbacca'), (98, 'in'), (101, 'the'), (105, 'Star'), (110, 'Wars'), (115, 'film'), (120, 'series'), (126, '.'), (128, 'He'), (131, 'played'), (138, 'the'), (142, 'character'), (152, 'in'), (155, 'all'), (159, 'of'), (162, 'his'), (166, 'live'), (171, 'action'), (178, 'appearances'), (190, 'from'), (195, 'the'), (199, '1977'), (204, 'original'), (213, 'to'), (216, '2015'), (220, '\'s'), (223, 'The'), (227, 'Force'), (233, 'Awakens'), (241, 'before'), (248, 'his'), (252, 'retirement'), (263, 'from'), (268, 'the'), (272, 'role'), (276, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peter Mayhew',0, 12), ('19 May 1944',19, 30), ('an English-American actor',35, 60), ('best known',62, 72), ('portraying Chewbacca',77, 97), ('the Star Wars film series',101, 126), ('the character',138, 151), ('his live action appearances',162, 189), ('the 1977 original',195, 212), ('The Force',223, 232), ('his retirement',248, 262), ('the role',268, 276)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'IN', 'PRP$', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'CD', 'JJ', 'TO', 'CD', 'POS', 'DT', 'NN', 'VBZ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peter'), (6, 'Mayhew'), (13, '('), (14, 'born'), (19, '19'), (22, 'May'), (26, '1944'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'English'), (45, '-'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'portraying'), (88, 'Chewbacca'), (98, 'in'), (101, 'the'), (105, 'Star'), (110, 'Wars'), (115, 'film'), (120, 'series'), (126, '.'), (128, 'He'), (131, 'played'), (138, 'the'), (142, 'character'), (152, 'in'), (155, 'all'), (159, 'of'), (162, 'his'), (166, 'live'), (171, 'action'), (178, 'appearances'), (190, 'from'), (195, 'the'), (199, '1977'), (204, 'original'), (213, 'to'), (216, '2015'), (220, "'s"), (223, 'The'), (227, 'Force'), (233, 'Awakens'), (241, 'before'), (248, 'his'), (252, 'retirement'), (263, 'from'), (268, 'the'), (272, 'role'), (276, '.')])</spacy_tokens>
+<spacy_chunks>[('Peter Mayhew', 0, 12), ('19 May 1944', 19, 30), ('an English-American actor', 35, 60), ('Chewbacca', 88, 97), ('the Star Wars film series', 101, 126), ('the character', 138, 151), ('his live action appearances', 162, 189), ("2015's The Force", 216, 232), ('his retirement', 248, 262), ('the role', 268, 276)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'IN', 'PRP$', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'CD', 'JJ', 'IN', 'CD', 'POS', 'DT', 'NNP', 'VBZ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>K. Callan</title>
+<link/>https://en.wikipedia.org/wiki/K._Callan
+<annotated>0</annotated>
+<originalabstract>K. Callan (born Katherine Elizabeth Borman) is an American author and actress known for playing Clark Kent's mother Martha in the ABC television series Lois  Clark: The New Adventures of Superman.</originalabstract>
+<abstract>K._Callan ( born Katherine_Elizabeth_Borman ) is an_American_author_and_actress known for playing Clark_Kent 's_mother_Martha in the_ABC_television_series_Lois_ : The_New_Adventures of Superman .</abstract>
+<stanford_tokens>OrderedDict([(0, 'K.'), (3, 'Callan'), (10, '('), (11, 'born'), (16, 'Katherine'), (26, 'Elizabeth'), (36, 'Borman'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'author'), (66, 'and'), (70, 'actress'), (78, 'known'), (84, 'for'), (88, 'playing'), (96, 'Clark'), (102, 'Kent'), (106, '\'s'), (109, 'mother'), (116, 'Martha'), (123, 'in'), (126, 'the'), (130, 'ABC'), (134, 'television'), (145, 'series'), (152, 'Lois'), (157, ''), (159, 'Clark'), (164, ':'), (166, 'The'), (170, 'New'), (174, 'Adventures'), (185, 'of'), (188, 'Superman'), (196, '.')])</stanford_tokens>
+<opennlp_chunks>[('K. Callan',0, 9), ('Katherine Elizabeth Borman',16, 42), ('an American author and actress',47, 77), ('Clark Kent',96, 106), ('\'s mother Martha',106, 122), ('the ABC television series Lois  Clark',126, 164), ('The New Adventures',166, 184)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'CC', 'NNP', ':', 'DT', 'JJ', 'NNS', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'K.'), (3, 'Callan'), (10, '('), (11, 'born'), (16, 'Katherine'), (26, 'Elizabeth'), (36, 'Borman'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'author'), (66, 'and'), (70, 'actress'), (78, 'known'), (84, 'for'), (88, 'playing'), (96, 'Clark'), (102, 'Kent'), (106, "'s"), (109, 'mother'), (116, 'Martha'), (123, 'in'), (126, 'the'), (130, 'ABC'), (134, 'television'), (145, 'series'), (152, 'Lois'), (158, 'Clark'), (163, ':'), (165, 'The'), (169, 'New'), (173, 'Adventures'), (184, 'of'), (187, 'Superman'), (195, '.')])</spacy_tokens>
+<spacy_chunks>[('K. Callan', 0, 9), ('born Katherine Elizabeth Borman', 11, 42), ('an American author', 47, 65), ('actress', 70, 77), ("Clark Kent's mother", 96, 115), ('Martha', 116, 122), ('the ABC television series', 126, 151), ('The New Adventures', 165, 183), ('Superman', 187, 195)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ':', 'DT', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

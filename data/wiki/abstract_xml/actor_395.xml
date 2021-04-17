@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dave Barry (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Dave_Barry_(actor)
+<annotated>0</annotated>
+<originalabstract>Dave Barry (August 26, 1918 – August 16, 2001) was an American actor, comedian, entertainer and radio moderator.</originalabstract>
+<abstract>Dave_Barry ( August_26_,_1918 – August_16_,_2001 ) was an_American_actor , comedian , entertainer_and_radio_moderator .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dave'), (5, 'Barry'), (11, '('), (12, 'August'), (19, '26'), (21, ','), (23, '1918'), (28, '–'), (30, 'August'), (37, '16'), (39, ','), (41, '2001'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, ','), (70, 'comedian'), (78, ','), (80, 'entertainer'), (92, 'and'), (96, 'radio'), (102, 'moderator'), (111, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dave Barry',0, 10), ('August 26, 1918',12, 27), ('August 16, 2001',30, 45), ('an American actor',51, 68), ('entertainer and radio moderator',80, 111)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dave'), (5, 'Barry'), (11, '('), (12, 'August'), (19, '26'), (21, ','), (23, '1918'), (28, '–'), (30, 'August'), (37, '16'), (39, ','), (41, '2001'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, ','), (70, 'comedian'), (78, ','), (80, 'entertainer'), (92, 'and'), (96, 'radio'), (102, 'moderator'), (111, '.')])</spacy_tokens>
+<spacy_chunks>[('Dave Barry', 0, 10), ('(August', 11, 18), ('August 26, 1918', 12, 27), ('August 16, 2001', 30, 45), ('an American actor, comedian, entertainer and radio moderator', 51, 111)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hal Walters</title>
+<link/>https://en.wikipedia.org/wiki/Hal_Walters
+<annotated>0</annotated>
+<originalabstract>Hal Walters (1892–1940) was an English actor. Born 29 January 1892 as Henry Paul Walters, he was best known for his role in The Four Feathers (1939).</originalabstract>
+<abstract>Hal_Walters ( 1892 – 1940 ) was an_English_actor . Born_29_January_1892 as Henry_Paul_Walters , he was_best_known for his_role in The_Four_Feathers ( 1939_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hal'), (4, 'Walters'), (12, '('), (13, '1892'), (17, '–'), (18, '1940'), (22, ')'), (24, 'was'), (28, 'an'), (31, 'English'), (39, 'actor'), (44, '.'), (46, 'Born'), (51, '29'), (54, 'January'), (62, '1892'), (67, 'as'), (70, 'Henry'), (76, 'Paul'), (81, 'Walters'), (88, ','), (90, 'he'), (93, 'was'), (97, 'best'), (102, 'known'), (108, 'for'), (112, 'his'), (116, 'role'), (121, 'in'), (124, 'The'), (128, 'Four'), (133, 'Feathers'), (142, '('), (143, '1939'), (147, ')'), (148, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hal Walters',0, 11), ('an English actor',28, 44), ('Born 29 January 1892',46, 66), ('Henry Paul Walters',70, 88), ('was best known',93, 107), ('his role',112, 120), ('The Four Feathers',124, 141), ('1939)',143, 148)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NNS', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hal'), (4, 'Walters'), (12, '('), (13, '1892–1940'), (22, ')'), (24, 'was'), (28, 'an'), (31, 'English'), (39, 'actor'), (44, '.'), (46, 'Born'), (51, '29'), (54, 'January'), (62, '1892'), (67, 'as'), (70, 'Henry'), (76, 'Paul'), (81, 'Walters'), (88, ','), (90, 'he'), (93, 'was'), (97, 'best'), (102, 'known'), (108, 'for'), (112, 'his'), (116, 'role'), (121, 'in'), (124, 'The'), (128, 'Four'), (133, 'Feathers'), (142, '('), (143, '1939'), (147, ')'), (148, '.')])</spacy_tokens>
+<spacy_chunks>[('Hal Walters', 0, 11), ('an English actor', 28, 44), ('29 January 1892', 51, 66), ('his role', 112, 120), ('The Four Feathers (1939', 124, 147)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NNPS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

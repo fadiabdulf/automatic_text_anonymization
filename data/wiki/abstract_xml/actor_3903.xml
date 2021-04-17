@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Davey Lee</title>
+<link/>https://en.wikipedia.org/wiki/Davey_Lee
+<annotated>0</annotated>
+<originalabstract>Davey Lee (29 December 1924 – 17 June 2008) was an American child actor. He was born in Hollywood, California, United States. He appeared in six feature films between 1928 and 1930.</originalabstract>
+<abstract>Davey_Lee ( 29_December_1924 – 17_June_2008 ) was an_American_child_actor . He was_born in Hollywood , California , United_States . He appeared in six_feature_films between 1928_and_1930 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Davey'), (6, 'Lee'), (10, '('), (11, '29'), (14, 'December'), (23, '1924'), (28, '–'), (30, '17'), (33, 'June'), (38, '2008'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'child'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'was'), (80, 'born'), (85, 'in'), (88, 'Hollywood'), (97, ','), (99, 'California'), (109, ','), (111, 'United'), (118, 'States'), (124, '.'), (126, 'He'), (129, 'appeared'), (138, 'in'), (141, 'six'), (145, 'feature'), (153, 'films'), (159, 'between'), (167, '1928'), (172, 'and'), (176, '1930'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('Davey Lee',0, 9), ('29 December 1924',11, 27), ('17 June 2008',30, 42), ('an American child actor',48, 71), ('was born',76, 84), ('United States',111, 124), ('six feature films',141, 158), ('1928 and 1930',167, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNPS', '.', 'PRP', 'VBD', 'IN', 'CD', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Davey'), (6, 'Lee'), (10, '('), (11, '29'), (14, 'December'), (23, '1924'), (28, '–'), (30, '17'), (33, 'June'), (38, '2008'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'child'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'was'), (80, 'born'), (85, 'in'), (88, 'Hollywood'), (97, ','), (99, 'California'), (109, ','), (111, 'United'), (118, 'States'), (124, '.'), (126, 'He'), (129, 'appeared'), (138, 'in'), (141, 'six'), (145, 'feature'), (153, 'films'), (159, 'between'), (167, '1928'), (172, 'and'), (176, '1930'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('Davey Lee', 0, 9), ('29 December 1924', 11, 27), ('17 June 2008', 30, 42), ('an American child actor', 48, 71), ('Hollywood, California', 88, 109), ('United States', 111, 124), ('six feature films', 141, 158)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

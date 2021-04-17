@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul Le Person</title>
+<link/>https://en.wikipedia.org/wiki/Paul_Le_Person
+<annotated>0</annotated>
+<originalabstract>Paul Le Person (10 February 1931 in Argenteuil – 8 August 2005) was a French actor of Breton origin. He appeared in more than ninety films from 1963 to 2005.</originalabstract>
+<abstract>Paul_Le_Person ( 10_February_1931 in Argenteuil – 8_August_2005 ) was a_French_actor of Breton_origin . He appeared in more_than_ninety_films from 1963 to 2005 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Le'), (8, 'Person'), (15, '('), (16, '10'), (19, 'February'), (28, '1931'), (33, 'in'), (36, 'Argenteuil'), (47, '–'), (49, '8'), (51, 'August'), (58, '2005'), (62, ')'), (64, 'was'), (68, 'a'), (70, 'French'), (77, 'actor'), (83, 'of'), (86, 'Breton'), (93, 'origin'), (99, '.'), (101, 'He'), (104, 'appeared'), (113, 'in'), (116, 'more'), (121, 'than'), (126, 'ninety'), (133, 'films'), (139, 'from'), (144, '1963'), (149, 'to'), (152, '2005'), (156, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Le Person',0, 14), ('10 February 1931',16, 32), ('8 August 2005',49, 62), ('a French actor',68, 82), ('Breton origin',86, 99), ('more than ninety films',116, 138)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NN', '-LRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Le'), (8, 'Person'), (15, '('), (16, '10'), (19, 'February'), (28, '1931'), (33, 'in'), (36, 'Argenteuil'), (47, '–'), (49, '8'), (51, 'August'), (58, '2005'), (62, ')'), (64, 'was'), (68, 'a'), (70, 'French'), (77, 'actor'), (83, 'of'), (86, 'Breton'), (93, 'origin'), (99, '.'), (101, 'He'), (104, 'appeared'), (113, 'in'), (116, 'more'), (121, 'than'), (126, 'ninety'), (133, 'films'), (139, 'from'), (144, '1963'), (149, 'to'), (152, '2005'), (156, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Le Person', 0, 14), ('10 February 1931', 16, 32), ('Argenteuil', 36, 46), ('8 August 2005', 49, 62), ('a French actor', 68, 82), ('Breton origin', 86, 99), ('more than ninety films', 116, 138)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'HYPH', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

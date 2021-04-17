@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Neva Gerber</title>
+<link/>https://en.wikipedia.org/wiki/Neva_Gerber
+<annotated>0</annotated>
+<originalabstract>Genevieve Dolores Gerber (April 3, 1894 – January 2, 1974) was an American silent film actress who appeared in 128 films between 1912 and 1930. She used the name Jean Dolores in her last two films.</originalabstract>
+<abstract>Genevieve_Dolores_Gerber ( April_3_,_1894 – January_2_,_1974 ) was an_American_silent_film_actress who appeared in 128_films between 1912_and_1930 . She used the_name_Jean_Dolores in her_last_two_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Genevieve'), (10, 'Dolores'), (18, 'Gerber'), (25, '('), (26, 'April'), (32, '3'), (33, ','), (35, '1894'), (40, '–'), (42, 'January'), (50, '2'), (51, ','), (53, '1974'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'silent'), (82, 'film'), (87, 'actress'), (95, 'who'), (99, 'appeared'), (108, 'in'), (111, '128'), (115, 'films'), (121, 'between'), (129, '1912'), (134, 'and'), (138, '1930'), (142, '.'), (144, 'She'), (148, 'used'), (153, 'the'), (157, 'name'), (162, 'Jean'), (167, 'Dolores'), (175, 'in'), (178, 'her'), (182, 'last'), (187, 'two'), (191, 'films'), (196, '.')])</stanford_tokens>
+<opennlp_chunks>[('Genevieve Dolores Gerber',0, 24), ('April 3, 1894',26, 39), ('January 2, 1974',42, 57), ('an American silent film actress',63, 94), ('128 films',111, 120), ('1912 and 1930',129, 142), ('the name Jean Dolores',153, 174), ('her last two films',178, 196)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'JJ', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Genevieve'), (10, 'Dolores'), (18, 'Gerber'), (25, '('), (26, 'April'), (32, '3'), (33, ','), (35, '1894'), (40, '–'), (42, 'January'), (50, '2'), (51, ','), (53, '1974'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'silent'), (82, 'film'), (87, 'actress'), (95, 'who'), (99, 'appeared'), (108, 'in'), (111, '128'), (115, 'films'), (121, 'between'), (129, '1912'), (134, 'and'), (138, '1930'), (142, '.'), (144, 'She'), (148, 'used'), (153, 'the'), (157, 'name'), (162, 'Jean'), (167, 'Dolores'), (175, 'in'), (178, 'her'), (182, 'last'), (187, 'two'), (191, 'films'), (196, '.')])</spacy_tokens>
+<spacy_chunks>[('Genevieve Dolores Gerber', 0, 24), ('April 3, 1894', 26, 39), ('January 2, 1974', 42, 57), ('an American silent film actress', 63, 94), ('128 films', 111, 120), ('the name', 153, 161), ('Jean Dolores', 162, 174), ('her last two films', 178, 196)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'JJ', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

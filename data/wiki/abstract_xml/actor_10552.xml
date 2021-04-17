@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brenda Bakke</title>
+<link/>https://en.wikipedia.org/wiki/Brenda_Bakke
+<annotated>0</annotated>
+<originalabstract>Brenda Jean Bakke (born May 15, 1963) is an American actress, best known for her roles in 1990s films Hot Shots! Part Deux, Gunmen, Demon Knight and Under Siege 2: Dark Territory. Bakke also played Lana Turner in the 1997  neo-noir L.A. Confidential.</originalabstract>
+<abstract>Brenda_Jean_Bakke ( born May_15_,_1963 ) is an_American_actress , best_known for her_roles in 1990s_films Hot_Shots ! Part_Deux , Gunmen , Demon_Knight and Under Siege_2 : Dark_Territory . Bakke also played Lana_Turner in the_1997_neo-noir_L.A._Confidential .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brenda'), (7, 'Jean'), (12, 'Bakke'), (18, '('), (19, 'born'), (24, 'May'), (28, '15'), (30, ','), (32, '1963'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (60, ','), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'her'), (81, 'roles'), (87, 'in'), (90, '1990s'), (96, 'films'), (102, 'Hot'), (106, 'Shots'), (111, '!'), (113, 'Part'), (118, 'Deux'), (122, ','), (124, 'Gunmen'), (130, ','), (132, 'Demon'), (138, 'Knight'), (145, 'and'), (149, 'Under'), (155, 'Siege'), (161, '2'), (162, ':'), (164, 'Dark'), (169, 'Territory'), (178, '.'), (180, 'Bakke'), (186, 'also'), (191, 'played'), (198, 'Lana'), (203, 'Turner'), (210, 'in'), (213, 'the'), (217, '1997'), (223, 'neo-noir'), (232, 'L.A.'), (237, 'Confidential'), (249, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brenda Jean Bakke',0, 17), ('May 15, 1963',24, 36), ('an American actress',41, 60), ('best known',62, 72), ('her roles',77, 86), ('1990s films',90, 101), ('Hot Shots',102, 111), ('Part Deux',113, 122), ('Demon Knight',132, 144), ('Siege 2',155, 162), ('Dark Territory',164, 178), ('Lana Turner',198, 209), ('the 1997  neo-noir L.A. Confidential',213, 249)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'CD', 'NNS', 'NNP', 'NNP', '.', 'NNP', 'NNP', ',', 'NNS', ',', 'NNP', 'NNP', 'CC', 'IN', 'NN', 'CD', ':', 'JJ', 'NN', '.', 'NNP', 'RB', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brenda'), (7, 'Jean'), (12, 'Bakke'), (18, '('), (19, 'born'), (24, 'May'), (28, '15'), (30, ','), (32, '1963'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (60, ','), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'her'), (81, 'roles'), (87, 'in'), (90, '1990s'), (96, 'films'), (102, 'Hot'), (106, 'Shots'), (111, '!'), (113, 'Part'), (118, 'Deux'), (122, ','), (124, 'Gunmen'), (130, ','), (132, 'Demon'), (138, 'Knight'), (145, 'and'), (149, 'Under'), (155, 'Siege'), (161, '2'), (162, ':'), (164, 'Dark'), (169, 'Territory'), (178, '.'), (180, 'Bakke'), (186, 'also'), (191, 'played'), (198, 'Lana'), (203, 'Turner'), (210, 'in'), (213, 'the'), (217, '1997'), (223, 'neo'), (226, '-'), (227, 'noir'), (232, 'L.A.'), (237, 'Confidential'), (249, '.')])</spacy_tokens>
+<spacy_chunks>[('Brenda Jean Bakke', 0, 17), ('May 15, 1963', 24, 36), ('an American actress', 41, 60), ('her roles', 77, 86), ('Hot Shots! Part Deux', 102, 122), ('Gunmen', 124, 130), ('Demon Knight', 132, 144), ('Under Siege 2: Dark Territory', 149, 178), ('Lana Turner', 198, 209), ('the 1997  neo-noir L.A. Confidential', 213, 249)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'NNS', 'NNP', 'NNS', '.', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', 'CC', 'IN', 'NNP', 'CD', ':', 'NNP', 'NNP', '.', 'NNP', 'RB', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

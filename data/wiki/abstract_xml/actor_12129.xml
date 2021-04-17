@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Deborah Foreman</title>
+<link/>https://en.wikipedia.org/wiki/Deborah_Foreman
+<annotated>0</annotated>
+<originalabstract>Deborah Lynn Foreman (born October 12, 1962) is an American actress. She is perhaps best known for her starring role in the 1983 movie Valley Girl, as "Julie Richman" acting opposite Nicolas Cage as "Randy".</originalabstract>
+<abstract>Deborah_Lynn_Foreman ( born October_12_,_1962 ) is an_American_actress . She is_perhaps_best_known for her_starring_role in the_1983_movie_Valley_Girl , as "_Julie_Richman " acting opposite_Nicolas_Cage as " Randy " .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Deborah'), (8, 'Lynn'), (13, 'Foreman'), (21, '('), (22, 'born'), (27, 'October'), (35, '12'), (37, ','), (39, '1962'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'is'), (76, 'perhaps'), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'her'), (103, 'starring'), (112, 'role'), (117, 'in'), (120, 'the'), (124, '1983'), (129, 'movie'), (135, 'Valley'), (142, 'Girl'), (146, ','), (148, 'as'), (151, '"'), (152, 'Julie'), (158, 'Richman'), (165, '"'), (167, 'acting'), (174, 'opposite'), (183, 'Nicolas'), (191, 'Cage'), (196, 'as'), (199, '"'), (200, 'Randy'), (205, '"'), (206, '.')])</stanford_tokens>
+<opennlp_chunks>[('Deborah Lynn Foreman',0, 20), ('October 12, 1962',27, 43), ('an American actress',48, 67), ('is perhaps best known',73, 94), ('her starring role',99, 116), ('the 1983 movie Valley Girl',120, 146), ('"Julie Richman',151, 165), ('opposite Nicolas Cage',174, 195)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', ',', 'IN', '``', 'NNP', 'NNP', '\'\'', 'VBG', 'JJ', 'NNP', 'NNP', 'IN', '``', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Deborah'), (8, 'Lynn'), (13, 'Foreman'), (21, '('), (22, 'born'), (27, 'October'), (35, '12'), (37, ','), (39, '1962'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'is'), (76, 'perhaps'), (84, 'best'), (89, 'known'), (95, 'for'), (99, 'her'), (103, 'starring'), (112, 'role'), (117, 'in'), (120, 'the'), (124, '1983'), (129, 'movie'), (135, 'Valley'), (142, 'Girl'), (146, ','), (148, 'as'), (151, '"'), (152, 'Julie'), (158, 'Richman'), (165, '"'), (167, 'acting'), (174, 'opposite'), (183, 'Nicolas'), (191, 'Cage'), (196, 'as'), (199, '"'), (200, 'Randy'), (205, '"'), (206, '.')])</spacy_tokens>
+<spacy_chunks>[('Deborah Lynn Foreman', 0, 20), ('October 12, 1962', 27, 43), ('an American actress', 48, 67), ('her starring role', 99, 116), ('the 1983 movie', 120, 134), ('Valley Girl', 135, 146), ('"Julie Richman', 151, 165), ('opposite Nicolas Cage', 174, 195), ('"Randy', 199, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', ',', 'IN', '``', 'NNP', 'NNP', "''", 'VBG', 'IN', 'NNP', 'NNP', 'IN', '``', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

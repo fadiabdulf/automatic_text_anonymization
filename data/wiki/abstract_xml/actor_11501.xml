@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Pauline Curley</title>
+<link/>https://en.wikipedia.org/wiki/Pauline_Curley
+<annotated>0</annotated>
+<originalabstract>Pauline Curley (December 19, 1903 – December 11, 2000) was a vaudeville and silent film actress from Holyoke, Massachusetts.
+Her film career spanned much of the silent era, from 1912-1929.</originalabstract>
+<abstract>Pauline_Curley ( December_19_,_1903 – December_11_,_2000 ) was a_vaudeville and silent_film_actress from Holyoke , Massachusetts . Her_film_career spanned much of the_silent_era , from 1912-1929 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Pauline'), (8, 'Curley'), (15, '('), (16, 'December'), (25, '19'), (27, ','), (29, '1903'), (34, '–'), (36, 'December'), (45, '11'), (47, ','), (49, '2000'), (53, ')'), (55, 'was'), (59, 'a'), (61, 'vaudeville'), (72, 'and'), (76, 'silent'), (83, 'film'), (88, 'actress'), (96, 'from'), (101, 'Holyoke'), (108, ','), (110, 'Massachusetts'), (123, '.'), (125, 'Her'), (129, 'film'), (134, 'career'), (141, 'spanned'), (149, 'much'), (154, 'of'), (157, 'the'), (161, 'silent'), (168, 'era'), (171, ','), (173, 'from'), (178, '1912-1929'), (187, '.')])</stanford_tokens>
+<opennlp_chunks>[('Pauline Curley',0, 14), ('December 19, 1903',16, 33), ('December 11, 2000',36, 53), ('a vaudeville',59, 71), ('silent film actress',76, 95), ('Her film career',125, 140), ('the silent era',157, 171)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'JJ', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP$', 'NN', 'NN', 'VBD', 'RB', 'IN', 'DT', 'JJ', 'NN', ',', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Pauline'), (8, 'Curley'), (15, '('), (16, 'December'), (25, '19'), (27, ','), (29, '1903'), (34, '–'), (36, 'December'), (45, '11'), (47, ','), (49, '2000'), (53, ')'), (55, 'was'), (59, 'a'), (61, 'vaudeville'), (72, 'and'), (76, 'silent'), (83, 'film'), (88, 'actress'), (96, 'from'), (101, 'Holyoke'), (108, ','), (110, 'Massachusetts'), (123, '.'), (125, 'Her'), (129, 'film'), (134, 'career'), (141, 'spanned'), (149, 'much'), (154, 'of'), (157, 'the'), (161, 'silent'), (168, 'era'), (171, ','), (173, 'from'), (178, '1912'), (182, '-'), (183, '1929'), (187, '.')])</spacy_tokens>
+<spacy_chunks>[('Pauline Curley', 0, 14), ('December 19, 1903', 16, 33), ('December 11, 2000', 36, 53), ('a vaudeville and silent film actress', 59, 95), ('Holyoke, Massachusetts', 101, 123), ('Her film career', 125, 140), ('the silent era', 157, 171)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'JJ', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP$', 'NN', 'NN', 'VBN', 'JJ', 'IN', 'DT', 'JJ', 'NN', ',', 'IN', 'CD', 'SYM', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

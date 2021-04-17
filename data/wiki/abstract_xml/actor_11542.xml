@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lili Damita</title>
+<link/>https://en.wikipedia.org/wiki/Lili_Damita
+<annotated>0</annotated>
+<originalabstract>Lili Damita (born Liliane Marie-Madeleine Carré, 10 July 1904 – 21 March 1994) was a French-American actress and singer who appeared in 33 films between 1922 and 1937.</originalabstract>
+<abstract>Lili_Damita ( born Liliane_Marie-Madeleine_Carré , 10_July_1904 – 21_March_1994 ) was a_French-American_actress and singer who appeared in 33_films between 1922_and_1937 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lili'), (5, 'Damita'), (12, '('), (13, 'born'), (18, 'Liliane'), (26, 'Marie-Madeleine'), (42, 'Carré'), (47, ','), (49, '10'), (52, 'July'), (57, '1904'), (62, '–'), (64, '21'), (67, 'March'), (73, '1994'), (77, ')'), (79, 'was'), (83, 'a'), (85, 'French-American'), (101, 'actress'), (109, 'and'), (113, 'singer'), (120, 'who'), (124, 'appeared'), (133, 'in'), (136, '33'), (139, 'films'), (145, 'between'), (153, '1922'), (158, 'and'), (162, '1937'), (166, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lili Damita',0, 11), ('Liliane Marie-Madeleine Carré',18, 47), ('10 July 1904',49, 61), ('21 March 1994',64, 77), ('a French-American actress',83, 108), ('33 films',136, 144), ('1922 and 1937',153, 166)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lili'), (5, 'Damita'), (12, '('), (13, 'born'), (18, 'Liliane'), (26, 'Marie'), (31, '-'), (32, 'Madeleine'), (42, 'Carré'), (47, ','), (49, '10'), (52, 'July'), (57, '1904'), (62, '–'), (64, '21'), (67, 'March'), (73, '1994'), (77, ')'), (79, 'was'), (83, 'a'), (85, 'French'), (91, '-'), (92, 'American'), (101, 'actress'), (109, 'and'), (113, 'singer'), (120, 'who'), (124, 'appeared'), (133, 'in'), (136, '33'), (139, 'films'), (145, 'between'), (153, '1922'), (158, 'and'), (162, '1937'), (166, '.')])</spacy_tokens>
+<spacy_chunks>[('Lili Damita', 0, 11), ('born Liliane Marie-Madeleine Carré', 13, 47), ('10 July 1904', 49, 61), ('21 March 1994', 64, 77), ('a French-American actress', 83, 108), ('singer', 113, 119), ('33 films', 136, 144)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'HYPH', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

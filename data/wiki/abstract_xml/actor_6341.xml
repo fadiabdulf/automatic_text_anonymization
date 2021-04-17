@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marshall Stedman</title>
+<link/>https://en.wikipedia.org/wiki/Marshall_Stedman
+<annotated>0</annotated>
+<originalabstract>Marshall Stedman (August 16, 1874 – December 16, 1943) was an American stage and silent screen actor/director, playwright, author and drama teacher.</originalabstract>
+<abstract>Marshall_Stedman ( August_16_,_1874 – December_16_,_1943 ) was an_American_stage and silent_screen_actor/director , playwright_,_author_and_drama_teacher .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marshall'), (9, 'Stedman'), (17, '('), (18, 'August'), (25, '16'), (27, ','), (29, '1874'), (34, '–'), (36, 'December'), (45, '16'), (47, ','), (49, '1943'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'stage'), (77, 'and'), (81, 'silent'), (88, 'screen'), (95, 'actor/director'), (109, ','), (111, 'playwright'), (121, ','), (123, 'author'), (130, 'and'), (134, 'drama'), (140, 'teacher'), (147, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marshall Stedman',0, 16), ('August 16, 1874',18, 33), ('December 16, 1943',36, 53), ('an American stage',59, 76), ('silent screen actor/director',81, 109), ('playwright, author and drama teacher',111, 147)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marshall'), (9, 'Stedman'), (17, '('), (18, 'August'), (25, '16'), (27, ','), (29, '1874'), (34, '–'), (36, 'December'), (45, '16'), (47, ','), (49, '1943'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'stage'), (77, 'and'), (81, 'silent'), (88, 'screen'), (95, 'actor'), (100, '/'), (101, 'director'), (109, ','), (111, 'playwright'), (121, ','), (123, 'author'), (130, 'and'), (134, 'drama'), (140, 'teacher'), (147, '.')])</spacy_tokens>
+<spacy_chunks>[('Marshall Stedman', 0, 16), ('(August', 17, 24), ('August 16, 1874', 18, 33), ('December 16, 1943', 36, 53), ('an American stage', 59, 76), ('silent screen actor/director', 81, 109), ('playwright', 111, 121), ('author', 123, 129), ('drama teacher', 134, 147)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'SYM', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

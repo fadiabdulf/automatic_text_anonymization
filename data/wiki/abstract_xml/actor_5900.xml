@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jake Sandvig</title>
+<link/>https://en.wikipedia.org/wiki/Jake_Sandvig
+<annotated>0</annotated>
+<originalabstract>Steven Jacob "Jake" Sandvig (born September 8, 1986) is an American actor. He is best known for playing Hugh Payne in Twenty Good Years and Preston Shackleton in Cracking Up. In 2009, he made a guest appearance in Ruby  the Rockits. He is also known for his roles in Easy A and Sky High.</originalabstract>
+<abstract>Steven_Jacob_"_Jake_"_Sandvig ( born September_8_,_1986 ) is an_American_actor . He is_best_known for playing Hugh_Payne in Twenty_Good_Years and Preston_Shackleton in Cracking Up . In 2009 , he made a_guest_appearance in Ruby_ . He is_also_known for his_roles in Easy_A and Sky_High .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Steven'), (7, 'Jacob'), (13, '"'), (14, 'Jake'), (18, '"'), (20, 'Sandvig'), (28, '('), (29, 'born'), (34, 'September'), (44, '8'), (45, ','), (47, '1986'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'actor'), (73, '.'), (75, 'He'), (78, 'is'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'Hugh'), (109, 'Payne'), (115, 'in'), (118, 'Twenty'), (125, 'Good'), (130, 'Years'), (136, 'and'), (140, 'Preston'), (148, 'Shackleton'), (159, 'in'), (162, 'Cracking'), (171, 'Up'), (173, '.'), (175, 'In'), (178, '2009'), (182, ','), (184, 'he'), (187, 'made'), (192, 'a'), (194, 'guest'), (200, 'appearance'), (211, 'in'), (214, 'Ruby'), (219, ''), (221, 'the'), (225, 'Rockits'), (232, '.'), (234, 'He'), (237, 'is'), (240, 'also'), (245, 'known'), (251, 'for'), (255, 'his'), (259, 'roles'), (265, 'in'), (268, 'Easy'), (273, 'A'), (275, 'and'), (279, 'Sky'), (283, 'High'), (287, '.')])</stanford_tokens>
+<opennlp_chunks>[('Steven Jacob "Jake" Sandvig',0, 27), ('September 8, 1986',34, 51), ('an American actor',56, 73), ('is best known',78, 91), ('Hugh Payne',104, 114), ('Twenty Good Years',118, 135), ('Preston Shackleton',140, 158), ('a guest appearance',192, 210), ('Ruby  the Rockits',214, 232), ('is also known',237, 250), ('his roles',255, 264), ('Easy A',268, 274), ('Sky High',279, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'CD', 'JJ', 'NNS', 'CC', 'NNP', 'NNP', 'IN', 'VBG', 'RP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'CC', 'DT', 'NNPS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Steven'), (7, 'Jacob'), (13, '"'), (14, 'Jake'), (18, '"'), (20, 'Sandvig'), (28, '('), (29, 'born'), (34, 'September'), (44, '8'), (45, ','), (47, '1986'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'actor'), (73, '.'), (75, 'He'), (78, 'is'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'Hugh'), (109, 'Payne'), (115, 'in'), (118, 'Twenty'), (125, 'Good'), (130, 'Years'), (136, 'and'), (140, 'Preston'), (148, 'Shackleton'), (159, 'in'), (162, 'Cracking'), (171, 'Up'), (173, '.'), (175, 'In'), (178, '2009'), (182, ','), (184, 'he'), (187, 'made'), (192, 'a'), (194, 'guest'), (200, 'appearance'), (211, 'in'), (214, 'Ruby'), (220, 'the'), (224, 'Rockits'), (231, '.'), (233, 'He'), (236, 'is'), (239, 'also'), (244, 'known'), (250, 'for'), (254, 'his'), (258, 'roles'), (264, 'in'), (267, 'Easy'), (272, 'A'), (274, 'and'), (278, 'Sky'), (282, 'High'), (286, '.')])</spacy_tokens>
+<spacy_chunks>[('Steven Jacob', 0, 12), ('"Jake" Sandvig', 13, 27), ('September 8, 1986', 34, 51), ('an American actor', 56, 73), ('Hugh Payne', 104, 114), ('Twenty Good Years', 118, 135), ('Preston Shackleton', 140, 158), ('Cracking Up', 162, 173), ('a guest appearance', 192, 210), ('the Rockits', 220, 231), ('his roles', 254, 263), ('Easy A', 267, 273), ('Sky High', 278, 286)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNPS', 'CC', 'NNP', 'NNP', 'IN', 'VBG', 'RP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'DT', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

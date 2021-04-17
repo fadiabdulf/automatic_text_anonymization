@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frank Villard</title>
+<link/>https://en.wikipedia.org/wiki/Frank_Villard
+<annotated>0</annotated>
+<originalabstract>Frank Villard (24 March 1917 – 19 September 1980) was a French film actor. He was born François Drouineau in  Saint-Jean-d'Angély.</originalabstract>
+<abstract>Frank_Villard ( 24_March_1917 – 19_September_1980 ) was a_French_film_actor . He was_born François_Drouineau in Saint-Jean-d'Angély .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frank'), (6, 'Villard'), (14, '('), (15, '24'), (18, 'March'), (24, '1917'), (29, '–'), (31, '19'), (34, 'September'), (44, '1980'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'film'), (68, 'actor'), (73, '.'), (75, 'He'), (78, 'was'), (82, 'born'), (87, 'François'), (96, 'Drouineau'), (106, 'in'), (110, 'Saint-Jean-d\'Angély'), (129, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frank Villard',0, 13), ('24 March 1917',15, 28), ('19 September 1980',31, 48), ('a French film actor',54, 73), ('was born',78, 86), ('François Drouineau',87, 105)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frank'), (6, 'Villard'), (14, '('), (15, '24'), (18, 'March'), (24, '1917'), (29, '–'), (31, '19'), (34, 'September'), (44, '1980'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'film'), (68, 'actor'), (73, '.'), (75, 'He'), (78, 'was'), (82, 'born'), (87, 'François'), (96, 'Drouineau'), (106, 'in'), (110, 'Saint'), (115, '-'), (116, 'Jean'), (120, '-'), (121, "d'Angély"), (129, '.')])</spacy_tokens>
+<spacy_chunks>[('Frank Villard', 0, 13), ('(24 March', 14, 23), ('24 March 1917', 15, 28), ('19 September 1980', 31, 48), ('a French film actor', 54, 73), ("Saint-Jean-d'Angély", 110, 129)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

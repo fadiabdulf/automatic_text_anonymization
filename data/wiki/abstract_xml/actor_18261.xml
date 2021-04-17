@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brooke Vincent</title>
+<link/>https://en.wikipedia.org/wiki/Brooke_Vincent
+<annotated>0</annotated>
+<originalabstract>Brooke Vincent (born 4 June 1992) is an English actress. She is known for her portrayal of Sophie Webster in the ITV soap-opera Coronation Street since 2004 where she took over the role from Emma Woodward.</originalabstract>
+<abstract>Brooke_Vincent ( born 4_June_1992 ) is an_English_actress . She is_known for her_portrayal of Sophie_Webster in the_ITV_soap-opera_Coronation_Street since 2004 where she took over the_role from Emma_Woodward .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brooke'), (7, 'Vincent'), (15, '('), (16, 'born'), (21, '4'), (23, 'June'), (28, '1992'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'English'), (48, 'actress'), (55, '.'), (57, 'She'), (61, 'is'), (64, 'known'), (70, 'for'), (74, 'her'), (78, 'portrayal'), (88, 'of'), (91, 'Sophie'), (98, 'Webster'), (106, 'in'), (109, 'the'), (113, 'ITV'), (117, 'soap-opera'), (128, 'Coronation'), (139, 'Street'), (146, 'since'), (152, '2004'), (157, 'where'), (163, 'she'), (167, 'took'), (172, 'over'), (177, 'the'), (181, 'role'), (186, 'from'), (191, 'Emma'), (196, 'Woodward'), (204, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brooke Vincent',0, 14), ('4 June 1992',21, 32), ('an English actress',37, 55), ('is known',61, 69), ('her portrayal',74, 87), ('Sophie Webster',91, 105), ('the ITV soap-opera Coronation Street',109, 145), ('the role',177, 185), ('Emma Woodward',191, 204)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'WRB', 'PRP', 'VBD', 'RP', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brooke'), (7, 'Vincent'), (15, '('), (16, 'born'), (21, '4'), (23, 'June'), (28, '1992'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'English'), (48, 'actress'), (55, '.'), (57, 'She'), (61, 'is'), (64, 'known'), (70, 'for'), (74, 'her'), (78, 'portrayal'), (88, 'of'), (91, 'Sophie'), (98, 'Webster'), (106, 'in'), (109, 'the'), (113, 'ITV'), (117, 'soap'), (121, '-'), (122, 'opera'), (128, 'Coronation'), (139, 'Street'), (146, 'since'), (152, '2004'), (157, 'where'), (163, 'she'), (167, 'took'), (172, 'over'), (177, 'the'), (181, 'role'), (186, 'from'), (191, 'Emma'), (196, 'Woodward'), (204, '.')])</spacy_tokens>
+<spacy_chunks>[('Brooke Vincent', 0, 14), ('4 June 1992', 21, 32), ('an English actress', 37, 55), ('her portrayal', 74, 87), ('Sophie Webster', 91, 105), ('the ITV soap-opera Coronation Street', 109, 145), ('the role', 177, 185), ('Emma Woodward', 191, 204)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'HYPH', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'WRB', 'PRP', 'VBD', 'RP', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

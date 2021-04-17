@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Mitchum</title>
+<link/>https://en.wikipedia.org/wiki/John_Mitchum
+<annotated>0</annotated>
+<originalabstract>John Mitchum (September 6, 1919 – November 29, 2001) was an American actor from the 1940s to the 1970s in film and television. Early in his career, he was credited as Jack Mitchum.</originalabstract>
+<abstract>John_Mitchum ( September_6_,_1919 – November_29_,_2001 ) was an_American_actor from the_1940s to the_1970s in film_and_television . Early in his_career , he was_credited as Jack_Mitchum .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Mitchum'), (13, '('), (14, 'September'), (24, '6'), (25, ','), (27, '1919'), (32, '–'), (34, 'November'), (43, '29'), (45, ','), (47, '2001'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (75, 'from'), (80, 'the'), (84, '1940s'), (90, 'to'), (93, 'the'), (97, '1970s'), (103, 'in'), (106, 'film'), (111, 'and'), (115, 'television'), (125, '.'), (127, 'Early'), (133, 'in'), (136, 'his'), (140, 'career'), (146, ','), (148, 'he'), (151, 'was'), (155, 'credited'), (164, 'as'), (167, 'Jack'), (172, 'Mitchum'), (179, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Mitchum',0, 12), ('September 6, 1919',14, 31), ('November 29, 2001',34, 51), ('an American actor',57, 74), ('the 1940s',80, 89), ('the 1970s',93, 102), ('film and television',106, 125), ('his career',136, 146), ('was credited',151, 163), ('Jack Mitchum',167, 179)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'CD', 'TO', 'DT', 'NNS', 'IN', 'NN', 'CC', 'NN', '.', 'RB', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Mitchum'), (13, '('), (14, 'September'), (24, '6'), (25, ','), (27, '1919'), (32, '–'), (34, 'November'), (43, '29'), (45, ','), (47, '2001'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (75, 'from'), (80, 'the'), (84, '1940s'), (90, 'to'), (93, 'the'), (97, '1970s'), (103, 'in'), (106, 'film'), (111, 'and'), (115, 'television'), (125, '.'), (127, 'Early'), (133, 'in'), (136, 'his'), (140, 'career'), (146, ','), (148, 'he'), (151, 'was'), (155, 'credited'), (164, 'as'), (167, 'Jack'), (172, 'Mitchum'), (179, '.')])</spacy_tokens>
+<spacy_chunks>[('John Mitchum', 0, 12), ('(September', 13, 23), ('September 6, 1919', 14, 31), ('November 29, 2001', 34, 51), ('an American actor', 57, 74), ('the 1940s', 80, 89), ('the 1970s', 93, 102), ('television', 115, 125), ('his career', 136, 146), ('Jack Mitchum', 167, 179)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNS', 'IN', 'DT', 'NNS', 'IN', 'NN', 'CC', 'NN', '.', 'RB', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

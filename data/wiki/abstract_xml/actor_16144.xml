@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vanessa Zima</title>
+<link/>https://en.wikipedia.org/wiki/Vanessa_Zima
+<annotated>0</annotated>
+<originalabstract>Vanessa Zima (born December 17, 1986) is an American actress. She is known for her roles as a child actress in the 1990s films The Baby-Sitters Club, Ulee's Gold, and Wicked, and for her recurring role on the first season of the 1995 television legal drama Murder One.</originalabstract>
+<abstract>Vanessa_Zima ( born December_17_,_1986 ) is an_American_actress . She is_known for her_roles as a_child_actress in the_1990s_films The_Baby-Sitters_Club , Ulee 's_Gold , and Wicked , and for her_recurring_role on the_first_season of the_1995_television_legal_drama_Murder_One .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vanessa'), (8, 'Zima'), (13, '('), (14, 'born'), (19, 'December'), (28, '17'), (30, ','), (32, '1986'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (60, '.'), (62, 'She'), (66, 'is'), (69, 'known'), (75, 'for'), (79, 'her'), (83, 'roles'), (89, 'as'), (92, 'a'), (94, 'child'), (100, 'actress'), (108, 'in'), (111, 'the'), (115, '1990s'), (121, 'films'), (127, 'The'), (131, 'Baby-Sitters'), (144, 'Club'), (148, ','), (150, 'Ulee'), (154, '\'s'), (157, 'Gold'), (161, ','), (163, 'and'), (167, 'Wicked'), (173, ','), (175, 'and'), (179, 'for'), (183, 'her'), (187, 'recurring'), (197, 'role'), (202, 'on'), (205, 'the'), (209, 'first'), (215, 'season'), (222, 'of'), (225, 'the'), (229, '1995'), (234, 'television'), (245, 'legal'), (251, 'drama'), (257, 'Murder'), (264, 'One'), (267, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vanessa Zima',0, 12), ('December 17, 1986',19, 36), ('an American actress',41, 60), ('is known',66, 74), ('her roles',79, 88), ('a child actress',92, 107), ('the 1990s films',111, 126), ('The Baby-Sitters Club',127, 148), ('\'s Gold',154, 161), ('her recurring role',183, 201), ('the first season',205, 221), ('the 1995 television legal drama Murder One',225, 267)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'NNS', 'DT', 'NNP', 'NNP', ',', 'NNP', 'POS', 'NN', ',', 'CC', 'JJ', ',', 'CC', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'CD', 'NN', 'JJ', 'NN', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vanessa'), (8, 'Zima'), (13, '('), (14, 'born'), (19, 'December'), (28, '17'), (30, ','), (32, '1986'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (60, '.'), (62, 'She'), (66, 'is'), (69, 'known'), (75, 'for'), (79, 'her'), (83, 'roles'), (89, 'as'), (92, 'a'), (94, 'child'), (100, 'actress'), (108, 'in'), (111, 'the'), (115, '1990s'), (121, 'films'), (127, 'The'), (131, 'Baby'), (135, '-'), (136, 'Sitters'), (144, 'Club'), (148, ','), (150, 'Ulee'), (154, "'s"), (157, 'Gold'), (161, ','), (163, 'and'), (167, 'Wicked'), (173, ','), (175, 'and'), (179, 'for'), (183, 'her'), (187, 'recurring'), (197, 'role'), (202, 'on'), (205, 'the'), (209, 'first'), (215, 'season'), (222, 'of'), (225, 'the'), (229, '1995'), (234, 'television'), (245, 'legal'), (251, 'drama'), (257, 'Murder'), (264, 'One'), (267, '.')])</spacy_tokens>
+<spacy_chunks>[('Vanessa Zima', 0, 12), ('December 17, 1986', 19, 36), ('an American actress', 41, 60), ('her roles', 79, 88), ('a child actress', 92, 107), ('the 1990s', 111, 120), ('The Baby-Sitters Club', 127, 148), ("Ulee's Gold", 150, 161), ('Wicked', 167, 173), ('her recurring role', 183, 201), ('the first season', 205, 221), ('the 1995 television legal drama', 225, 256), ('Murder One', 257, 267)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNS', 'NNS', 'DT', 'NNP', 'HYPH', 'NNP', 'NNP', ',', 'NNP', 'POS', 'NN', ',', 'CC', 'NNP', ',', 'CC', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'CD', 'NN', 'JJ', 'NN', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

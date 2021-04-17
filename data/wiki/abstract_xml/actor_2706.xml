@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mace Greenleaf</title>
+<link/>https://en.wikipedia.org/wiki/Mace_Greenleaf
+<annotated>0</annotated>
+<originalabstract>Mace Greenleaf (December 8, 1872 – March 23, 1912) was an American stage and silent film actor.</originalabstract>
+<abstract>Mace_Greenleaf ( December_8_,_1872 – March_23_,_1912 ) was an_American_stage and silent_film_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mace'), (5, 'Greenleaf'), (15, '('), (16, 'December'), (25, '8'), (26, ','), (28, '1872'), (33, '–'), (35, 'March'), (41, '23'), (43, ','), (45, '1912'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'stage'), (73, 'and'), (77, 'silent'), (84, 'film'), (89, 'actor'), (94, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mace Greenleaf',0, 14), ('December 8, 1872',16, 32), ('March 23, 1912',35, 49), ('an American stage',55, 72), ('silent film actor',77, 94)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mace'), (5, 'Greenleaf'), (15, '('), (16, 'December'), (25, '8'), (26, ','), (28, '1872'), (33, '–'), (35, 'March'), (41, '23'), (43, ','), (45, '1912'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'stage'), (73, 'and'), (77, 'silent'), (84, 'film'), (89, 'actor'), (94, '.')])</spacy_tokens>
+<spacy_chunks>[('Mace Greenleaf', 0, 14), ('(December', 15, 24), ('December 8, 1872', 16, 32), ('March 23, 1912', 35, 49), ('an American stage', 55, 72), ('silent film actor', 77, 94)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

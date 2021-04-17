@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wheeler Dryden</title>
+<link/>https://en.wikipedia.org/wiki/Wheeler_Dryden
+<annotated>0</annotated>
+<originalabstract>George Dryden Wheeler Jr. (31 August 1892 – 30 September 1957) was an English born American actor and film director. He was the son of Hannah Chaplin and music hall entertainer Leo Dryden, and half brother of actors Charlie and Sydney Chaplin. He was also the father of rock musician Spencer Dryden.</originalabstract>
+<abstract>George_Dryden_Wheeler_Jr. ( 31_August_1892 – 30_September_1957 ) was an_English_born_American_actor_and_film_director . He was the_son of Hannah_Chaplin_and_music_hall_entertainer_Leo_Dryden , and half_brother of actors_Charlie_and_Sydney_Chaplin . He was also the_father of rock_musician_Spencer_Dryden .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Dryden'), (14, 'Wheeler'), (22, 'Jr.'), (26, '('), (27, '31'), (30, 'August'), (37, '1892'), (42, '–'), (44, '30'), (47, 'September'), (57, '1957'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'English'), (78, 'born'), (83, 'American'), (92, 'actor'), (98, 'and'), (102, 'film'), (107, 'director'), (115, '.'), (117, 'He'), (120, 'was'), (124, 'the'), (128, 'son'), (132, 'of'), (135, 'Hannah'), (142, 'Chaplin'), (150, 'and'), (154, 'music'), (160, 'hall'), (165, 'entertainer'), (177, 'Leo'), (181, 'Dryden'), (187, ','), (189, 'and'), (193, 'half'), (198, 'brother'), (206, 'of'), (209, 'actors'), (216, 'Charlie'), (224, 'and'), (228, 'Sydney'), (235, 'Chaplin'), (242, '.'), (244, 'He'), (247, 'was'), (251, 'also'), (256, 'the'), (260, 'father'), (267, 'of'), (270, 'rock'), (275, 'musician'), (284, 'Spencer'), (292, 'Dryden'), (298, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Dryden Wheeler Jr.',0, 25), ('31 August 1892',27, 41), ('30 September 1957',44, 61), ('an English born American actor and film director',67, 115), ('the son',124, 131), ('Hannah Chaplin and music hall entertainer Leo Dryden',135, 187), ('half brother',193, 205), ('actors Charlie and Sydney Chaplin',209, 242), ('the father',256, 266), ('rock musician Spencer Dryden',270, 298)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NN', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'NN', 'NN', 'IN', 'NNS', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Dryden'), (14, 'Wheeler'), (22, 'Jr.'), (26, '('), (27, '31'), (30, 'August'), (37, '1892'), (42, '–'), (44, '30'), (47, 'September'), (57, '1957'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'English'), (78, 'born'), (83, 'American'), (92, 'actor'), (98, 'and'), (102, 'film'), (107, 'director'), (115, '.'), (117, 'He'), (120, 'was'), (124, 'the'), (128, 'son'), (132, 'of'), (135, 'Hannah'), (142, 'Chaplin'), (150, 'and'), (154, 'music'), (160, 'hall'), (165, 'entertainer'), (177, 'Leo'), (181, 'Dryden'), (187, ','), (189, 'and'), (193, 'half'), (198, 'brother'), (206, 'of'), (209, 'actors'), (216, 'Charlie'), (224, 'and'), (228, 'Sydney'), (235, 'Chaplin'), (242, '.'), (244, 'He'), (247, 'was'), (251, 'also'), (256, 'the'), (260, 'father'), (267, 'of'), (270, 'rock'), (275, 'musician'), (284, 'Spencer'), (292, 'Dryden'), (298, '.')])</spacy_tokens>
+<spacy_chunks>[('George Dryden Wheeler Jr.', 0, 25), ('31 August 1892', 27, 41), ('30 September 1957', 44, 61), ('an English born American actor and film director', 67, 115), ('the son', 124, 131), ('Hannah Chaplin', 135, 149), ('music hall entertainer Leo Dryden', 154, 187), ('half brother', 193, 205), ('actors', 209, 215), ('Charlie', 216, 223), ('Sydney Chaplin', 228, 242), ('the father', 256, 266), ('rock musician Spencer Dryden', 270, 298)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NN', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'JJ', 'NN', 'IN', 'NNS', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

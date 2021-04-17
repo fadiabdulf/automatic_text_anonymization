@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Steve Cochran</title>
+<link/>https://en.wikipedia.org/wiki/Steve_Cochran
+<annotated>0</annotated>
+<originalabstract>Steve Cochran (born Robert Alexander Cochran, May 25, 1917 – June 15, 1965) was an American film, television and stage actor. He attended the University of Wyoming. After a stint working as a cowpuncher, Cochran developed his acting skills in local theatre and gradually progressed to Broadway, film and television.</originalabstract>
+<abstract>Steve_Cochran ( born Robert_Alexander_Cochran , May_25_,_1917 – June_15_,_1965 ) was an_American_film_,_television_and_stage_actor . He attended the_University of Wyoming . After a_stint working as a_cowpuncher , Cochran developed his_acting_skills in local_theatre and gradually_progressed to Broadway , film_and_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Steve'), (6, 'Cochran'), (14, '('), (15, 'born'), (20, 'Robert'), (27, 'Alexander'), (37, 'Cochran'), (44, ','), (46, 'May'), (50, '25'), (52, ','), (54, '1917'), (59, '–'), (61, 'June'), (66, '15'), (68, ','), (70, '1965'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'film'), (96, ','), (98, 'television'), (109, 'and'), (113, 'stage'), (119, 'actor'), (124, '.'), (126, 'He'), (129, 'attended'), (138, 'the'), (142, 'University'), (153, 'of'), (156, 'Wyoming'), (163, '.'), (165, 'After'), (171, 'a'), (173, 'stint'), (179, 'working'), (187, 'as'), (190, 'a'), (192, 'cowpuncher'), (202, ','), (204, 'Cochran'), (212, 'developed'), (222, 'his'), (226, 'acting'), (233, 'skills'), (240, 'in'), (243, 'local'), (249, 'theatre'), (257, 'and'), (261, 'gradually'), (271, 'progressed'), (282, 'to'), (285, 'Broadway'), (293, ','), (295, 'film'), (300, 'and'), (304, 'television'), (314, '.')])</stanford_tokens>
+<opennlp_chunks>[('Steve Cochran',0, 13), ('Robert Alexander Cochran',20, 44), ('May 25, 1917',46, 58), ('June 15, 1965',61, 74), ('an American film, television and stage actor',80, 124), ('the University',138, 152), ('a stint',171, 178), ('a cowpuncher',190, 202), ('his acting skills',222, 239), ('local theatre',243, 256), ('gradually progressed',261, 281), ('film and television',295, 314)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'IN', 'NNP', '.', 'IN', 'DT', 'NN', 'VBG', 'IN', 'DT', 'NN', ',', 'NNP', 'VBD', 'PRP$', 'VBG', 'NNS', 'IN', 'JJ', 'NN', 'CC', 'RB', 'VBD', 'TO', 'NNP', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Steve'), (6, 'Cochran'), (14, '('), (15, 'born'), (20, 'Robert'), (27, 'Alexander'), (37, 'Cochran'), (44, ','), (46, 'May'), (50, '25'), (52, ','), (54, '1917'), (59, '–'), (61, 'June'), (66, '15'), (68, ','), (70, '1965'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'film'), (96, ','), (98, 'television'), (109, 'and'), (113, 'stage'), (119, 'actor'), (124, '.'), (126, 'He'), (129, 'attended'), (138, 'the'), (142, 'University'), (153, 'of'), (156, 'Wyoming'), (163, '.'), (165, 'After'), (171, 'a'), (173, 'stint'), (179, 'working'), (187, 'as'), (190, 'a'), (192, 'cowpuncher'), (202, ','), (204, 'Cochran'), (212, 'developed'), (222, 'his'), (226, 'acting'), (233, 'skills'), (240, 'in'), (243, 'local'), (249, 'theatre'), (257, 'and'), (261, 'gradually'), (271, 'progressed'), (282, 'to'), (285, 'Broadway'), (293, ','), (295, 'film'), (300, 'and'), (304, 'television'), (314, '.')])</spacy_tokens>
+<spacy_chunks>[('Steve Cochran', 0, 13), ('Robert Alexander Cochran', 20, 44), ('May 25, 1917', 46, 58), ('June 15, 1965', 61, 74), ('an American film', 80, 96), ('television', 98, 108), ('stage actor', 113, 124), ('the University', 138, 152), ('University of Wyoming', 142, 163), ('a stint', 171, 178), ('a cowpuncher', 190, 202), ('his acting skills', 222, 239), ('local theatre', 243, 256), ('Broadway', 285, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'IN', 'NNP', '.', 'IN', 'DT', 'NN', 'VBG', 'IN', 'DT', 'NN', ',', 'NNP', 'VBD', 'PRP$', 'VBG', 'NNS', 'IN', 'JJ', 'NN', 'CC', 'RB', 'VBN', 'IN', 'NNP', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

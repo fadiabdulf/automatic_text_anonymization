@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dan Duryea</title>
+<link/>https://en.wikipedia.org/wiki/Dan_Duryea
+<annotated>0</annotated>
+<originalabstract>Dan Duryea (January 23, 1907 – June 7, 1968) was an American actor in film, stage, and television. Known for portraying a vast range of character roles as a villain, he nonetheless had a long career in a wide variety of leading and secondary roles.</originalabstract>
+<abstract>Dan_Duryea ( January_23_,_1907 – June_7_,_1968 ) was an_American_actor in film , stage , and television . Known for portraying a_vast_range of character_roles as a_villain , he nonetheless had a_long_career in a_wide_variety of leading_and_secondary_roles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dan'), (4, 'Duryea'), (11, '('), (12, 'January'), (20, '23'), (22, ','), (24, '1907'), (29, '–'), (31, 'June'), (36, '7'), (37, ','), (39, '1968'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'actor'), (67, 'in'), (70, 'film'), (74, ','), (76, 'stage'), (81, ','), (83, 'and'), (87, 'television'), (97, '.'), (99, 'Known'), (105, 'for'), (109, 'portraying'), (120, 'a'), (122, 'vast'), (127, 'range'), (133, 'of'), (136, 'character'), (146, 'roles'), (152, 'as'), (155, 'a'), (157, 'villain'), (164, ','), (166, 'he'), (169, 'nonetheless'), (181, 'had'), (185, 'a'), (187, 'long'), (192, 'career'), (199, 'in'), (202, 'a'), (204, 'wide'), (209, 'variety'), (217, 'of'), (220, 'leading'), (228, 'and'), (232, 'secondary'), (242, 'roles'), (247, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dan Duryea',0, 10), ('January 23, 1907',12, 28), ('June 7, 1968',31, 43), ('an American actor',49, 66), ('a vast range',120, 132), ('character roles',136, 151), ('a villain',155, 164), ('a long career',185, 198), ('a wide variety',202, 216), ('leading and secondary roles',220, 247)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NNS', 'IN', 'DT', 'NN', ',', 'PRP', 'RB', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'VBG', 'CC', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dan'), (4, 'Duryea'), (11, '('), (12, 'January'), (20, '23'), (22, ','), (24, '1907'), (29, '–'), (31, 'June'), (36, '7'), (37, ','), (39, '1968'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'actor'), (67, 'in'), (70, 'film'), (74, ','), (76, 'stage'), (81, ','), (83, 'and'), (87, 'television'), (97, '.'), (99, 'Known'), (105, 'for'), (109, 'portraying'), (120, 'a'), (122, 'vast'), (127, 'range'), (133, 'of'), (136, 'character'), (146, 'roles'), (152, 'as'), (155, 'a'), (157, 'villain'), (164, ','), (166, 'he'), (169, 'nonetheless'), (181, 'had'), (185, 'a'), (187, 'long'), (192, 'career'), (199, 'in'), (202, 'a'), (204, 'wide'), (209, 'variety'), (217, 'of'), (220, 'leading'), (228, 'and'), (232, 'secondary'), (242, 'roles'), (247, '.')])</spacy_tokens>
+<spacy_chunks>[('Dan Duryea', 0, 10), ('(January', 11, 19), ('January 23, 1907', 12, 28), ('June 7, 1968', 31, 43), ('an American actor', 49, 66), ('television', 87, 97), ('a vast range', 120, 132), ('character roles', 136, 151), ('a villain', 155, 164), ('a long career', 185, 198), ('a wide variety', 202, 216), ('leading and secondary roles', 220, 247)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NNS', 'IN', 'DT', 'NN', ',', 'PRP', 'RB', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'CC', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

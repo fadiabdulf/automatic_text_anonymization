@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lee Bowman</title>
+<link/>https://en.wikipedia.org/wiki/Lee_Bowman
+<annotated>0</annotated>
+<originalabstract>Lee Bowman (December 28, 1914 – December 25, 1979) was an American film and television actor. According to one obituary, "his roles ranged from romantic lead to worldly, wisecracking lout in his most famous years".</originalabstract>
+<abstract>Lee_Bowman ( December_28_,_1914 – December_25_,_1979 ) was an_American_film_and_television_actor . According to one_obituary , " his_roles ranged from romantic_lead to worldly_,_wisecracking_lout in his_most_famous_years " .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lee'), (4, 'Bowman'), (11, '('), (12, 'December'), (21, '28'), (23, ','), (25, '1914'), (30, '–'), (32, 'December'), (41, '25'), (43, ','), (45, '1979'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'and'), (76, 'television'), (87, 'actor'), (92, '.'), (94, 'According'), (104, 'to'), (107, 'one'), (111, 'obituary'), (119, ','), (121, '"'), (122, 'his'), (126, 'roles'), (132, 'ranged'), (139, 'from'), (144, 'romantic'), (153, 'lead'), (158, 'to'), (161, 'worldly'), (168, ','), (170, 'wisecracking'), (183, 'lout'), (188, 'in'), (191, 'his'), (195, 'most'), (200, 'famous'), (207, 'years'), (212, '"'), (213, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lee Bowman',0, 10), ('December 28, 1914',12, 29), ('December 25, 1979',32, 49), ('an American film and television actor',55, 92), ('one obituary',107, 119), ('his roles',122, 131), ('romantic lead',144, 157), ('worldly, wisecracking lout',161, 187), ('his most famous years',191, 212)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'VBG', 'TO', 'CD', 'NN', ',', '``', 'PRP$', 'NNS', 'VBD', 'IN', 'JJ', 'NN', 'TO', 'JJ', ',', 'JJ', 'NN', 'IN', 'PRP$', 'RBS', 'JJ', 'NNS', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lee'), (4, 'Bowman'), (11, '('), (12, 'December'), (21, '28'), (23, ','), (25, '1914'), (30, '–'), (32, 'December'), (41, '25'), (43, ','), (45, '1979'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'and'), (76, 'television'), (87, 'actor'), (92, '.'), (94, 'According'), (104, 'to'), (107, 'one'), (111, 'obituary'), (119, ','), (121, '"'), (122, 'his'), (126, 'roles'), (132, 'ranged'), (139, 'from'), (144, 'romantic'), (153, 'lead'), (158, 'to'), (161, 'worldly'), (168, ','), (170, 'wisecracking'), (183, 'lout'), (188, 'in'), (191, 'his'), (195, 'most'), (200, 'famous'), (207, 'years'), (212, '"'), (213, '.')])</spacy_tokens>
+<spacy_chunks>[('Lee Bowman', 0, 10), ('(December', 11, 20), ('December 28, 1914', 12, 29), ('December 25, 1979', 32, 49), ('an American film and television actor', 55, 92), ('one obituary', 107, 119), ('his roles', 122, 131), ('romantic lead', 144, 157), ('worldly, wisecracking lout', 161, 187), ('his most famous years', 191, 212)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'VBG', 'IN', 'CD', 'NN', ',', "''", 'PRP$', 'NNS', 'VBD', 'IN', 'JJ', 'NN', 'IN', 'JJ', ',', 'JJ', 'NN', 'IN', 'PRP$', 'RBS', 'JJ', 'NNS', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

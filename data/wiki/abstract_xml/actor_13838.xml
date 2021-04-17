@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Patti McCarty</title>
+<link/>https://en.wikipedia.org/wiki/Patti_McCarty
+<annotated>0</annotated>
+<originalabstract>Patti McCarty (February 11, 1921 - July 7, 1985), in Healdsburg, Sonoma County, California was an American actress. (A January 27, 1941, newspaper article says that she was born in Bakersfield, California, and grew up in Healdsburg.)</originalabstract>
+<abstract>Patti_McCarty ( February_11_,_1921 - July_7_,_1985 ) , in Healdsburg , Sonoma_County , California was an_American_actress . (_A_January_27_,_1941_,_newspaper_article says that she was_born in Bakersfield , California , and grew up in Healdsburg . )</abstract>
+<stanford_tokens>OrderedDict([(0, 'Patti'), (6, 'McCarty'), (14, '('), (15, 'February'), (24, '11'), (26, ','), (28, '1921'), (33, '-'), (35, 'July'), (40, '7'), (41, ','), (43, '1985'), (47, ')'), (48, ','), (50, 'in'), (53, 'Healdsburg'), (63, ','), (65, 'Sonoma'), (72, 'County'), (78, ','), (80, 'California'), (91, 'was'), (95, 'an'), (98, 'American'), (107, 'actress'), (114, '.'), (116, '('), (117, 'A'), (119, 'January'), (127, '27'), (129, ','), (131, '1941'), (135, ','), (137, 'newspaper'), (147, 'article'), (155, 'says'), (160, 'that'), (165, 'she'), (169, 'was'), (173, 'born'), (178, 'in'), (181, 'Bakersfield'), (192, ','), (194, 'California'), (204, ','), (206, 'and'), (210, 'grew'), (215, 'up'), (218, 'in'), (221, 'Healdsburg'), (231, '.'), (232, ')')])</stanford_tokens>
+<opennlp_chunks>[('Patti McCarty',0, 13), ('February 11, 1921',15, 32), ('July 7, 1985',35, 47), ('Sonoma County',65, 78), ('an American actress',95, 114), ('(A January 27, 1941, newspaper article',116, 154), ('was born',169, 177)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'DT', 'JJ', 'NN', '.', '-LRB-', 'DT', 'NNP', 'CD', ',', 'CD', ',', 'NN', 'NN', 'VBZ', 'IN', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'RP', 'IN', 'NNP', '.', '-RRB-']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Patti'), (6, 'McCarty'), (14, '('), (15, 'February'), (24, '11'), (26, ','), (28, '1921'), (33, '-'), (35, 'July'), (40, '7'), (41, ','), (43, '1985'), (47, ')'), (48, ','), (50, 'in'), (53, 'Healdsburg'), (63, ','), (65, 'Sonoma'), (72, 'County'), (78, ','), (80, 'California'), (91, 'was'), (95, 'an'), (98, 'American'), (107, 'actress'), (114, '.'), (116, '('), (117, 'A'), (119, 'January'), (127, '27'), (129, ','), (131, '1941'), (135, ','), (137, 'newspaper'), (147, 'article'), (155, 'says'), (160, 'that'), (165, 'she'), (169, 'was'), (173, 'born'), (178, 'in'), (181, 'Bakersfield'), (192, ','), (194, 'California'), (204, ','), (206, 'and'), (210, 'grew'), (215, 'up'), (218, 'in'), (221, 'Healdsburg'), (231, '.'), (232, ')')])</spacy_tokens>
+<spacy_chunks>[('Patti McCarty', 0, 13), ('February 11, 1921', 15, 32), ('July 7, 1985', 35, 47), ('Healdsburg,', 53, 64), ('Sonoma County, California', 65, 90), ('an American actress', 95, 114), ('January 27, 1941', 119, 135), ('newspaper article', 137, 154), ('Bakersfield', 181, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'DT', 'JJ', 'NN', '.', '-LRB-', 'DT', 'NNP', 'CD', ',', 'CD', ',', 'NN', 'NN', 'VBZ', 'IN', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'RP', 'IN', 'NNP', '.', '-RRB-']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

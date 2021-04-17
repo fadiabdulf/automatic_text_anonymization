@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lorraine Bracco</title>
+<link/>https://en.wikipedia.org/wiki/Lorraine_Bracco
+<annotated>0</annotated>
+<originalabstract>Lorraine Bracco (born October 2, 1954) is an American actress. She is best known for her performances as Dr. Jennifer Melfi on the HBO series The Sopranos, and as Karen Friedman Hill in the 1990 Martin Scorsese film Goodfellas, for which she was nominated for the Academy Award for Best Supporting Actress.</originalabstract>
+<abstract>Lorraine_Bracco ( born October_2_,_1954 ) is an_American_actress . She is_best_known for her_performances as Dr._Jennifer_Melfi on the_HBO_series The_Sopranos , and as Karen_Friedman_Hill in the_1990_Martin_Scorsese_film_Goodfellas , for which she was_nominated for the_Academy_Award for Best_Supporting_Actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lorraine'), (9, 'Bracco'), (16, '('), (17, 'born'), (22, 'October'), (30, '2'), (31, ','), (33, '1954'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'is'), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'her'), (89, 'performances'), (102, 'as'), (105, 'Dr.'), (109, 'Jennifer'), (118, 'Melfi'), (124, 'on'), (127, 'the'), (131, 'HBO'), (135, 'series'), (142, 'The'), (146, 'Sopranos'), (154, ','), (156, 'and'), (160, 'as'), (163, 'Karen'), (169, 'Friedman'), (178, 'Hill'), (183, 'in'), (186, 'the'), (190, '1990'), (195, 'Martin'), (202, 'Scorsese'), (211, 'film'), (216, 'Goodfellas'), (226, ','), (228, 'for'), (232, 'which'), (238, 'she'), (242, 'was'), (246, 'nominated'), (256, 'for'), (260, 'the'), (264, 'Academy'), (272, 'Award'), (278, 'for'), (282, 'Best'), (287, 'Supporting'), (298, 'Actress'), (305, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lorraine Bracco',0, 15), ('October 2, 1954',22, 37), ('an American actress',42, 61), ('is best known',67, 80), ('her performances',85, 101), ('Dr. Jennifer Melfi',105, 123), ('the HBO series',127, 141), ('The Sopranos',142, 154), ('Karen Friedman Hill',163, 182), ('the 1990 Martin Scorsese film Goodfellas',186, 226), ('was nominated',242, 255), ('the Academy Award',260, 277), ('Best Supporting Actress',282, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNPS', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'NNP', ',', 'IN', 'WDT', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lorraine'), (9, 'Bracco'), (16, '('), (17, 'born'), (22, 'October'), (30, '2'), (31, ','), (33, '1954'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'is'), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'her'), (89, 'performances'), (102, 'as'), (105, 'Dr.'), (109, 'Jennifer'), (118, 'Melfi'), (124, 'on'), (127, 'the'), (131, 'HBO'), (135, 'series'), (142, 'The'), (146, 'Sopranos'), (154, ','), (156, 'and'), (160, 'as'), (163, 'Karen'), (169, 'Friedman'), (178, 'Hill'), (183, 'in'), (186, 'the'), (190, '1990'), (195, 'Martin'), (202, 'Scorsese'), (211, 'film'), (216, 'Goodfellas'), (226, ','), (228, 'for'), (232, 'which'), (238, 'she'), (242, 'was'), (246, 'nominated'), (256, 'for'), (260, 'the'), (264, 'Academy'), (272, 'Award'), (278, 'for'), (282, 'Best'), (287, 'Supporting'), (298, 'Actress'), (305, '.')])</spacy_tokens>
+<spacy_chunks>[('Lorraine Bracco', 0, 15), ('October 2, 1954', 22, 37), ('an American actress', 42, 61), ('her performances', 85, 101), ('Dr. Jennifer Melfi', 105, 123), ('the HBO series', 127, 141), ('The Sopranos', 142, 154), ('Karen Friedman Hill', 163, 182), ('the 1990 Martin Scorsese film', 186, 215), ('Goodfellas', 216, 226), ('the Academy Award', 260, 277), ('Academy Award for Best Supporting Actress', 264, 305)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'NNP', ',', 'IN', 'WDT', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

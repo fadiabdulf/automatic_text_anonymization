@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Kirkwood Jr.</title>
+<link/>https://en.wikipedia.org/wiki/James_Kirkwood_Jr.
+<annotated>0</annotated>
+<originalabstract>James Kirkwood Jr. (August 22, 1924 – April 21, 1989) was an American playwright, author and actor. In 1976 he received the Tony Award, the Drama Desk Award for Outstanding Book of a Musical, and the Pulitzer Prize for Drama for the Broadway hit A Chorus Line.</originalabstract>
+<abstract>James_Kirkwood_Jr. ( August_22_,_1924 – April_21_,_1989 ) was an_American_playwright , author_and_actor . In 1976 he received the_Tony_Award , the_Drama_Desk_Award for Outstanding_Book of a_Musical , and the_Pulitzer_Prize for Drama for the_Broadway_hit A_Chorus_Line .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Kirkwood'), (15, 'Jr.'), (19, '('), (20, 'August'), (27, '22'), (29, ','), (31, '1924'), (36, '–'), (38, 'April'), (44, '21'), (46, ','), (48, '1989'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'playwright'), (80, ','), (82, 'author'), (89, 'and'), (93, 'actor'), (98, '.'), (100, 'In'), (103, '1976'), (108, 'he'), (111, 'received'), (120, 'the'), (124, 'Tony'), (129, 'Award'), (134, ','), (136, 'the'), (140, 'Drama'), (146, 'Desk'), (151, 'Award'), (157, 'for'), (161, 'Outstanding'), (173, 'Book'), (178, 'of'), (181, 'a'), (183, 'Musical'), (190, ','), (192, 'and'), (196, 'the'), (200, 'Pulitzer'), (209, 'Prize'), (215, 'for'), (219, 'Drama'), (225, 'for'), (229, 'the'), (233, 'Broadway'), (242, 'hit'), (246, 'A'), (248, 'Chorus'), (255, 'Line'), (259, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Kirkwood Jr.',0, 18), ('August 22, 1924',20, 35), ('April 21, 1989',38, 52), ('an American playwright',58, 80), ('author and actor',82, 98), ('the Tony Award',120, 134), ('the Drama Desk Award',136, 156), ('Outstanding Book',161, 177), ('a Musical',181, 190), ('the Pulitzer Prize',196, 214), ('the Broadway hit',229, 245), ('A Chorus Line',246, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'IN', 'CD', 'PRP', 'VBD', 'DT', 'NNP', 'NN', ',', 'DT', 'NNP', 'NNP', 'NN', 'IN', 'JJ', 'NN', 'IN', 'DT', 'JJ', ',', 'CC', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Kirkwood'), (15, 'Jr.'), (19, '('), (20, 'August'), (27, '22'), (29, ','), (31, '1924'), (36, '–'), (38, 'April'), (44, '21'), (46, ','), (48, '1989'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'playwright'), (80, ','), (82, 'author'), (89, 'and'), (93, 'actor'), (98, '.'), (100, 'In'), (103, '1976'), (108, 'he'), (111, 'received'), (120, 'the'), (124, 'Tony'), (129, 'Award'), (134, ','), (136, 'the'), (140, 'Drama'), (146, 'Desk'), (151, 'Award'), (157, 'for'), (161, 'Outstanding'), (173, 'Book'), (178, 'of'), (181, 'a'), (183, 'Musical'), (190, ','), (192, 'and'), (196, 'the'), (200, 'Pulitzer'), (209, 'Prize'), (215, 'for'), (219, 'Drama'), (225, 'for'), (229, 'the'), (233, 'Broadway'), (242, 'hit'), (246, 'A'), (248, 'Chorus'), (255, 'Line'), (259, '.')])</spacy_tokens>
+<spacy_chunks>[('James Kirkwood Jr.', 0, 18), ('August 22, 1924', 20, 35), ('April 21, 1989', 38, 52), ('an American playwright', 58, 80), ('author', 82, 88), ('the Tony Award', 120, 134), ('the Drama Desk Award', 136, 156), ('Drama Desk Award for Outstanding Book of a Musical', 140, 190), ('the Pulitzer Prize', 196, 214), ('Pulitzer Prize for Drama', 200, 224), ('the Broadway', 229, 241), ('A Chorus Line', 246, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'IN', 'CD', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', ',', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', ',', 'CC', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'VBD', 'DT', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

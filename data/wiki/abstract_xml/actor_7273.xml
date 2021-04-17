@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Zevi Wolmark</title>
+<link/>https://en.wikipedia.org/wiki/Zevi_Wolmark
+<annotated>0</annotated>
+<originalabstract>Zevi Wolmark (born August 19, 1962) is an American film and theatre actor and artist. His on-screen career was at its peak in the late 1980s and early 1990s. He is chiefly known for his appearance in the 1988 TV Series Superboy as well as for lending his voice to the animated TV Series C.O.P.S.</originalabstract>
+<abstract>Zevi_Wolmark ( born August_19_,_1962 ) is an_American_film_and_theatre_actor_and_artist . His_on-screen_career was at its_peak in the_late_1980s and early_1990s . He is_chiefly_known for his_appearance in the_1988_TV_Series_Superboy as_well as for lending his_voice to the_animated_TV_Series_C.O.P.S.</abstract>
+<stanford_tokens>OrderedDict([(0, 'Zevi'), (5, 'Wolmark'), (13, '('), (14, 'born'), (19, 'August'), (26, '19'), (28, ','), (30, '1962'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'film'), (56, 'and'), (60, 'theatre'), (68, 'actor'), (74, 'and'), (78, 'artist'), (84, '.'), (86, 'His'), (90, 'on-screen'), (100, 'career'), (107, 'was'), (111, 'at'), (114, 'its'), (118, 'peak'), (123, 'in'), (126, 'the'), (130, 'late'), (135, '1980s'), (141, 'and'), (145, 'early'), (151, '1990s'), (156, '.'), (158, 'He'), (161, 'is'), (164, 'chiefly'), (172, 'known'), (178, 'for'), (182, 'his'), (186, 'appearance'), (197, 'in'), (200, 'the'), (204, '1988'), (209, 'TV'), (212, 'Series'), (219, 'Superboy'), (228, 'as'), (231, 'well'), (236, 'as'), (239, 'for'), (243, 'lending'), (251, 'his'), (255, 'voice'), (261, 'to'), (264, 'the'), (268, 'animated'), (277, 'TV'), (280, 'Series'), (287, 'C.O.P.S.')])</stanford_tokens>
+<opennlp_chunks>[('Zevi Wolmark',0, 12), ('August 19, 1962',19, 34), ('an American film and theatre actor and artist',39, 84), ('His on-screen career',86, 106), ('its peak',114, 122), ('the late 1980s',126, 140), ('early 1990s',145, 156), ('is chiefly known',161, 177), ('his appearance',182, 196), ('the 1988 TV Series Superboy',200, 227), ('as well',228, 235), ('his voice',251, 260), ('the animated TV Series C.O.P.S.',264, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'PRP$', 'JJ', 'NN', 'VBD', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', 'RB', 'RB', 'IN', 'IN', 'VBG', 'PRP$', 'NN', 'TO', 'DT', 'JJ', 'NN', 'NN', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Zevi'), (5, 'Wolmark'), (13, '('), (14, 'born'), (19, 'August'), (26, '19'), (28, ','), (30, '1962'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'film'), (56, 'and'), (60, 'theatre'), (68, 'actor'), (74, 'and'), (78, 'artist'), (84, '.'), (86, 'His'), (90, 'on'), (92, '-'), (93, 'screen'), (100, 'career'), (107, 'was'), (111, 'at'), (114, 'its'), (118, 'peak'), (123, 'in'), (126, 'the'), (130, 'late'), (135, '1980s'), (141, 'and'), (145, 'early'), (151, '1990s'), (156, '.'), (158, 'He'), (161, 'is'), (164, 'chiefly'), (172, 'known'), (178, 'for'), (182, 'his'), (186, 'appearance'), (197, 'in'), (200, 'the'), (204, '1988'), (209, 'TV'), (212, 'Series'), (219, 'Superboy'), (228, 'as'), (231, 'well'), (236, 'as'), (239, 'for'), (243, 'lending'), (251, 'his'), (255, 'voice'), (261, 'to'), (264, 'the'), (268, 'animated'), (277, 'TV'), (280, 'Series'), (287, 'C.O.P.S.')])</spacy_tokens>
+<spacy_chunks>[('Zevi Wolmark', 0, 12), ('August 19, 1962', 19, 34), ('an American film and theatre actor', 39, 73), ('artist', 78, 84), ('screen', 93, 99), ('its peak', 114, 122), ('the late 1980s', 126, 140), ('early 1990s', 145, 156), ('his appearance', 182, 196), ('the 1988 TV Series Superboy', 200, 227), ('his voice', 251, 260), ('the animated TV Series C.O.P.S.', 264, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'PRP$', 'IN', 'HYPH', 'NN', 'NN', 'VBD', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNP', 'RB', 'RB', 'IN', 'IN', 'VBG', 'PRP$', 'NN', 'IN', 'DT', 'VBN', 'NNP', 'NNP', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

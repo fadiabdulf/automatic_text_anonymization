@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Guy Oliver</title>
+<link/>https://en.wikipedia.org/wiki/Guy_Oliver
+<annotated>0</annotated>
+<originalabstract>George Guy Oliver (September 25, 1878 – September 1, 1932) was an American actor. He appeared in at least 189 silent film era motion pictures and 32 talkies in character roles between 1911 and 1931. His obituary gives him credit for at least 600. He directed three films in 1915.</originalabstract>
+<abstract>George_Guy_Oliver ( September_25_,_1878 – September_1_,_1932 ) was an_American_actor . He appeared in at_least_189_silent_film_era_motion_pictures and 32_talkies in character_roles between 1911_and_1931 . His_obituary gives him credit for at_least_600 . He directed three_films in 1915 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Guy'), (11, 'Oliver'), (18, '('), (19, 'September'), (29, '25'), (31, ','), (33, '1878'), (38, '–'), (40, 'September'), (50, '1'), (51, ','), (53, '1932'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'appeared'), (94, 'in'), (97, 'at'), (100, 'least'), (106, '189'), (110, 'silent'), (117, 'film'), (122, 'era'), (126, 'motion'), (133, 'pictures'), (142, 'and'), (146, '32'), (149, 'talkies'), (157, 'in'), (160, 'character'), (170, 'roles'), (176, 'between'), (184, '1911'), (189, 'and'), (193, '1931'), (197, '.'), (199, 'His'), (203, 'obituary'), (212, 'gives'), (218, 'him'), (222, 'credit'), (229, 'for'), (233, 'at'), (236, 'least'), (242, '600'), (245, '.'), (247, 'He'), (250, 'directed'), (259, 'three'), (265, 'films'), (271, 'in'), (274, '1915'), (278, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Guy Oliver',0, 17), ('September 25, 1878',19, 37), ('September 1, 1932',40, 57), ('an American actor',63, 80), ('at least 189 silent film era motion pictures',97, 141), ('32 talkies',146, 156), ('character roles',160, 175), ('1911 and 1931',184, 197), ('His obituary',199, 211), ('at least 600',233, 245), ('three films',259, 270)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'JJS', 'CD', 'JJ', 'NN', 'NN', 'NN', 'NNS', 'CC', 'CD', 'NNS', 'IN', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP$', 'NN', 'VBZ', 'PRP', 'NN', 'IN', 'IN', 'JJS', 'CD', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Guy'), (11, 'Oliver'), (18, '('), (19, 'September'), (29, '25'), (31, ','), (33, '1878'), (38, '–'), (40, 'September'), (50, '1'), (51, ','), (53, '1932'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'appeared'), (94, 'in'), (97, 'at'), (100, 'least'), (106, '189'), (110, 'silent'), (117, 'film'), (122, 'era'), (126, 'motion'), (133, 'pictures'), (142, 'and'), (146, '32'), (149, 'talkies'), (157, 'in'), (160, 'character'), (170, 'roles'), (176, 'between'), (184, '1911'), (189, 'and'), (193, '1931'), (197, '.'), (199, 'His'), (203, 'obituary'), (212, 'gives'), (218, 'him'), (222, 'credit'), (229, 'for'), (233, 'at'), (236, 'least'), (242, '600'), (245, '.'), (247, 'He'), (250, 'directed'), (259, 'three'), (265, 'films'), (271, 'in'), (274, '1915'), (278, '.')])</spacy_tokens>
+<spacy_chunks>[('George Guy Oliver', 0, 17), ('(September', 18, 28), ('September 25, 1878', 19, 37), ('September 1, 1932', 40, 57), ('an American actor', 63, 80), ('at least 189 silent film era motion pictures', 97, 141), ('32 talkies', 146, 156), ('character roles', 160, 175), ('His obituary', 199, 211), ('credit', 222, 228), ('three films', 259, 270)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'RB', 'JJS', 'CD', 'JJ', 'NN', 'NN', 'NN', 'NNS', 'CC', 'CD', 'NNS', 'IN', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP$', 'NN', 'VBZ', 'PRP', 'NN', 'IN', 'RB', 'JJS', 'CD', '.', 'PRP', 'VBD', 'CD', 'NNS', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Victor Woolf</title>
+<link/>https://en.wikipedia.org/wiki/Victor_Woolf
+<annotated>0</annotated>
+<originalabstract>Victor John Woolf (1911–1975) was an English actor, both on stage and on screen. He worked behind the scenes as well, notably as the stage manager in the 1969 West End production of Mame.</originalabstract>
+<abstract>Victor_John_Woolf ( 1911 – 1975 ) was an_English_actor , both on stage and on screen . He worked behind the_scenes as_well , notably as the_stage_manager in the_1969_West_End_production of Mame .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Victor'), (7, 'John'), (12, 'Woolf'), (18, '('), (19, '1911'), (23, '–'), (24, '1975'), (28, ')'), (30, 'was'), (34, 'an'), (37, 'English'), (45, 'actor'), (50, ','), (52, 'both'), (57, 'on'), (60, 'stage'), (66, 'and'), (70, 'on'), (73, 'screen'), (79, '.'), (81, 'He'), (84, 'worked'), (91, 'behind'), (98, 'the'), (102, 'scenes'), (109, 'as'), (112, 'well'), (116, ','), (118, 'notably'), (126, 'as'), (129, 'the'), (133, 'stage'), (139, 'manager'), (147, 'in'), (150, 'the'), (154, '1969'), (159, 'West'), (164, 'End'), (168, 'production'), (179, 'of'), (182, 'Mame'), (186, '.')])</stanford_tokens>
+<opennlp_chunks>[('Victor John Woolf',0, 17), ('an English actor',34, 50), ('the scenes',98, 108), ('as well',109, 116), ('the stage manager',129, 146), ('the 1969 West End production',150, 178)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'DT', 'IN', 'NN', 'CC', 'IN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNS', 'RB', 'RB', ',', 'RB', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Victor'), (7, 'John'), (12, 'Woolf'), (18, '('), (19, '1911–1975'), (28, ')'), (30, 'was'), (34, 'an'), (37, 'English'), (45, 'actor'), (50, ','), (52, 'both'), (57, 'on'), (60, 'stage'), (66, 'and'), (70, 'on'), (73, 'screen'), (79, '.'), (81, 'He'), (84, 'worked'), (91, 'behind'), (98, 'the'), (102, 'scenes'), (109, 'as'), (112, 'well'), (116, ','), (118, 'notably'), (126, 'as'), (129, 'the'), (133, 'stage'), (139, 'manager'), (147, 'in'), (150, 'the'), (154, '1969'), (159, 'West'), (164, 'End'), (168, 'production'), (179, 'of'), (182, 'Mame'), (186, '.')])</spacy_tokens>
+<spacy_chunks>[('Victor John Woolf', 0, 17), ('an English actor', 34, 50), ('screen', 73, 79), ('the scenes', 98, 108), ('the stage manager', 129, 146), ('the 1969 West End production', 150, 178)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'DT', 'IN', 'NN', 'CC', 'IN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNS', 'RB', 'RB', ',', 'RB', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

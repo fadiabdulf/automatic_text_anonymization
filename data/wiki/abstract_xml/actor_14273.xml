@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eva Novak</title>
+<link/>https://en.wikipedia.org/wiki/Eva_Novak
+<annotated>0</annotated>
+<originalabstract>Eva Barbara Novak (February 14, 1898 – April 17, 1988) was an American film actress, who was quite popular during the silent film era. She was the younger sister of actress Jane Novak and daughter of Joseph, an immigrant from Bohemia, and Barbara Novak.</originalabstract>
+<abstract>Eva_Barbara_Novak ( February_14_,_1898 – April_17_,_1988 ) was an_American_film_actress , who was quite_popular during the_silent_film_era . She was the_younger_sister of actress_Jane_Novak and daughter of Joseph , an_immigrant from Bohemia , and Barbara_Novak .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eva'), (4, 'Barbara'), (12, 'Novak'), (18, '('), (19, 'February'), (28, '14'), (30, ','), (32, '1898'), (37, '–'), (39, 'April'), (45, '17'), (47, ','), (49, '1988'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'film'), (76, 'actress'), (83, ','), (85, 'who'), (89, 'was'), (93, 'quite'), (99, 'popular'), (107, 'during'), (114, 'the'), (118, 'silent'), (125, 'film'), (130, 'era'), (133, '.'), (135, 'She'), (139, 'was'), (143, 'the'), (147, 'younger'), (155, 'sister'), (162, 'of'), (165, 'actress'), (173, 'Jane'), (178, 'Novak'), (184, 'and'), (188, 'daughter'), (197, 'of'), (200, 'Joseph'), (206, ','), (208, 'an'), (211, 'immigrant'), (221, 'from'), (226, 'Bohemia'), (233, ','), (235, 'and'), (239, 'Barbara'), (247, 'Novak'), (252, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eva Barbara Novak',0, 17), ('February 14, 1898',19, 36), ('April 17, 1988',39, 53), ('an American film actress',59, 83), ('quite popular',93, 106), ('the silent film era',114, 133), ('the younger sister',143, 161), ('actress Jane Novak',165, 183), ('an immigrant',208, 220), ('Barbara Novak',239, 252)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'WP', 'VBD', 'RB', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJR', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'IN', 'NNP', ',', 'DT', 'JJ', 'IN', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eva'), (4, 'Barbara'), (12, 'Novak'), (18, '('), (19, 'February'), (28, '14'), (30, ','), (32, '1898'), (37, '–'), (39, 'April'), (45, '17'), (47, ','), (49, '1988'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'film'), (76, 'actress'), (83, ','), (85, 'who'), (89, 'was'), (93, 'quite'), (99, 'popular'), (107, 'during'), (114, 'the'), (118, 'silent'), (125, 'film'), (130, 'era'), (133, '.'), (135, 'She'), (139, 'was'), (143, 'the'), (147, 'younger'), (155, 'sister'), (162, 'of'), (165, 'actress'), (173, 'Jane'), (178, 'Novak'), (184, 'and'), (188, 'daughter'), (197, 'of'), (200, 'Joseph'), (206, ','), (208, 'an'), (211, 'immigrant'), (221, 'from'), (226, 'Bohemia'), (233, ','), (235, 'and'), (239, 'Barbara'), (247, 'Novak'), (252, '.')])</spacy_tokens>
+<spacy_chunks>[('Eva Barbara Novak', 0, 17), ('February 14, 1898', 19, 36), ('April 17, 1988', 39, 53), ('an American film actress', 59, 83), ('the silent film era', 114, 133), ('the younger sister', 143, 161), ('actress Jane Novak', 165, 183), ('daughter', 188, 196), ('Joseph', 200, 206), ('an immigrant', 208, 220), ('Bohemia', 226, 233)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'WP', 'VBD', 'RB', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJR', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'IN', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

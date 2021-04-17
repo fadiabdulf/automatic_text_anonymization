@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Karen Grassle</title>
+<link/>https://en.wikipedia.org/wiki/Karen_Grassle
+<annotated>0</annotated>
+<originalabstract>Karen Trust Grassle (born February 25, 1942) is an American actress, known for her role as Caroline Ingalls, the wife of Michael Landon's character and the mother of Melissa Sue Anderson’s and Melissa Gilbert's character, in the NBC television drama series Little House on the Prairie.</originalabstract>
+<abstract>Karen_Trust_Grassle ( born February_25_,_1942 ) is an_American_actress , known for her_role as Caroline_Ingalls , the_wife of Michael_Landon 's_character and the_mother of Melissa_Sue_Anderson ’s and Melissa_Gilbert 's_character , in the_NBC_television_drama_series_Little_House on the_Prairie .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Karen'), (6, 'Trust'), (12, 'Grassle'), (20, '('), (21, 'born'), (26, 'February'), (35, '25'), (37, ','), (39, '1942'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, ','), (69, 'known'), (75, 'for'), (79, 'her'), (83, 'role'), (88, 'as'), (91, 'Caroline'), (100, 'Ingalls'), (107, ','), (109, 'the'), (113, 'wife'), (118, 'of'), (121, 'Michael'), (129, 'Landon'), (135, '\'s'), (138, 'character'), (148, 'and'), (152, 'the'), (156, 'mother'), (163, 'of'), (166, 'Melissa'), (174, 'Sue'), (178, 'Anderson'), (186, '’s'), (189, 'and'), (193, 'Melissa'), (201, 'Gilbert'), (208, '\'s'), (211, 'character'), (220, ','), (222, 'in'), (225, 'the'), (229, 'NBC'), (233, 'television'), (244, 'drama'), (250, 'series'), (257, 'Little'), (264, 'House'), (270, 'on'), (273, 'the'), (277, 'Prairie'), (284, '.')])</stanford_tokens>
+<opennlp_chunks>[('Karen Trust Grassle',0, 19), ('February 25, 1942',26, 43), ('an American actress',48, 67), ('her role',79, 87), ('Caroline Ingalls',91, 107), ('the wife',109, 117), ('Michael Landon',121, 135), ('\'s character',135, 147), ('the mother',152, 162), ('Melissa Sue Anderson',166, 186), ('Melissa Gilbert',193, 208), ('\'s character',208, 220), ('the NBC television drama series Little House',225, 269), ('the Prairie',273, 284)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'CC', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'CC', 'NNP', 'NNP', 'POS', 'NN', ',', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Karen'), (6, 'Trust'), (12, 'Grassle'), (20, '('), (21, 'born'), (26, 'February'), (35, '25'), (37, ','), (39, '1942'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, ','), (69, 'known'), (75, 'for'), (79, 'her'), (83, 'role'), (88, 'as'), (91, 'Caroline'), (100, 'Ingalls'), (107, ','), (109, 'the'), (113, 'wife'), (118, 'of'), (121, 'Michael'), (129, 'Landon'), (135, "'s"), (138, 'character'), (148, 'and'), (152, 'the'), (156, 'mother'), (163, 'of'), (166, 'Melissa'), (174, 'Sue'), (178, 'Anderson'), (186, '’s'), (189, 'and'), (193, 'Melissa'), (201, 'Gilbert'), (208, "'s"), (211, 'character'), (220, ','), (222, 'in'), (225, 'the'), (229, 'NBC'), (233, 'television'), (244, 'drama'), (250, 'series'), (257, 'Little'), (264, 'House'), (270, 'on'), (273, 'the'), (277, 'Prairie'), (284, '.')])</spacy_tokens>
+<spacy_chunks>[('Karen Trust Grassle', 0, 19), ('February 25, 1942', 26, 43), ('an American actress', 48, 67), ('her role', 79, 87), ('Caroline Ingalls', 91, 107), ('the wife', 109, 117), ("Michael Landon's character", 121, 147), ('the mother', 152, 162), ("Melissa Sue Anderson’s and Melissa Gilbert's character", 166, 220), ('the NBC television drama series', 225, 256), ('Little House on the Prairie', 257, 284)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'CC', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'POS', 'NN', ',', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

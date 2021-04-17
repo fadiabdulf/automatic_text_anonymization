@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Émile Drain</title>
+<link/>https://en.wikipedia.org/wiki/%C3%89mile_Drain
+<annotated>0</annotated>
+<originalabstract>Émile Drain (1890–1966) was a French actor and comedian.
+In 1925, he starred as Napoleon with Gloria Swanson in Madame Sans-Gene. In 1927 he played Napoleon in the Donald Crisp directed The Fighting Eagle. In 1948, he appeared, again as Napoleon, in the film The Lame Devil.</originalabstract>
+<abstract>Émile_Drain ( 1890 – 1966 ) was a_French_actor_and_comedian . In 1925 , he starred as Napoleon with Gloria_Swanson in Madame_Sans-Gene . In 1927 he played Napoleon in the_Donald_Crisp directed The_Fighting Eagle . In 1948 , he appeared , again as Napoleon , in the_film The_Lame_Devil .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Émile'), (6, 'Drain'), (12, '('), (13, '1890'), (17, '–'), (18, '1966'), (22, ')'), (24, 'was'), (28, 'a'), (30, 'French'), (37, 'actor'), (43, 'and'), (47, 'comedian'), (55, '.'), (57, 'In'), (60, '1925'), (64, ','), (66, 'he'), (69, 'starred'), (77, 'as'), (80, 'Napoleon'), (89, 'with'), (94, 'Gloria'), (101, 'Swanson'), (109, 'in'), (112, 'Madame'), (119, 'Sans-Gene'), (128, '.'), (130, 'In'), (133, '1927'), (138, 'he'), (141, 'played'), (148, 'Napoleon'), (157, 'in'), (160, 'the'), (164, 'Donald'), (171, 'Crisp'), (177, 'directed'), (186, 'The'), (190, 'Fighting'), (199, 'Eagle'), (204, '.'), (206, 'In'), (209, '1948'), (213, ','), (215, 'he'), (218, 'appeared'), (226, ','), (228, 'again'), (234, 'as'), (237, 'Napoleon'), (245, ','), (247, 'in'), (250, 'the'), (254, 'film'), (259, 'The'), (263, 'Lame'), (268, 'Devil'), (273, '.')])</stanford_tokens>
+<opennlp_chunks>[('Émile Drain',0, 11), ('a French actor and comedian',28, 55), ('Gloria Swanson',94, 108), ('Madame Sans-Gene',112, 128), ('the Donald Crisp',160, 176), ('The Fighting',186, 198), ('the film',250, 258), ('The Lame Devil',259, 273)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.', 'IN', 'CD', 'PRP', 'VBD', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'VBD', 'DT', 'NN', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', ',', 'RB', 'IN', 'NNP', ',', 'IN', 'DT', 'NN', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Émile'), (6, 'Drain'), (12, '('), (13, '1890–1966'), (22, ')'), (24, 'was'), (28, 'a'), (30, 'French'), (37, 'actor'), (43, 'and'), (47, 'comedian'), (55, '.'), (57, 'In'), (60, '1925'), (64, ','), (66, 'he'), (69, 'starred'), (77, 'as'), (80, 'Napoleon'), (89, 'with'), (94, 'Gloria'), (101, 'Swanson'), (109, 'in'), (112, 'Madame'), (119, 'Sans'), (123, '-'), (124, 'Gene'), (128, '.'), (130, 'In'), (133, '1927'), (138, 'he'), (141, 'played'), (148, 'Napoleon'), (157, 'in'), (160, 'the'), (164, 'Donald'), (171, 'Crisp'), (177, 'directed'), (186, 'The'), (190, 'Fighting'), (199, 'Eagle'), (204, '.'), (206, 'In'), (209, '1948'), (213, ','), (215, 'he'), (218, 'appeared'), (226, ','), (228, 'again'), (234, 'as'), (237, 'Napoleon'), (245, ','), (247, 'in'), (250, 'the'), (254, 'film'), (259, 'The'), (263, 'Lame'), (268, 'Devil'), (273, '.')])</spacy_tokens>
+<spacy_chunks>[('Émile Drain', 0, 11), ('a French actor', 28, 42), ('Comedian', 47, 55), ('Napoleon', 80, 88), ('Gloria Swanson', 94, 108), ('Madame Sans-Gene', 112, 128), ('the Donald Crisp', 160, 176), ('The Fighting Eagle', 186, 204), ('the film', 250, 258), ('The Lame Devil', 259, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'IN', 'CD', 'PRP', 'VBD', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', ',', 'RB', 'IN', 'NNP', ',', 'IN', 'DT', 'NN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

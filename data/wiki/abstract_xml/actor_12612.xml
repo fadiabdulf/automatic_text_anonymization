@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Angie Harmon</title>
+<link/>https://en.wikipedia.org/wiki/Angie_Harmon
+<annotated>0</annotated>
+<originalabstract>Angela Michelle Harmon (born August 10, 1972) is an American actress and model. She was a professional model before gaining international fame for her roles in Baywatch Nights and as New York A.D.A. Abbie Carmichael on Law  Order. She also starred as Detective Jane Rizzoli on the TNT series Rizzoli  Isles.</originalabstract>
+<abstract>Angela_Michelle_Harmon ( born August_10_,_1972 ) is an_American_actress_and_model . She was a_professional_model before gaining international_fame for her_roles in Baywatch_Nights and as New_York_A.D.A._Abbie_Carmichael on Law_ . She also starred as Detective_Jane_Rizzoli on the_TNT_series_Rizzoli_ .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Angela'), (7, 'Michelle'), (16, 'Harmon'), (23, '('), (24, 'born'), (29, 'August'), (36, '10'), (38, ','), (40, '1972'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (69, 'and'), (73, 'model'), (78, '.'), (80, 'She'), (84, 'was'), (88, 'a'), (90, 'professional'), (103, 'model'), (109, 'before'), (116, 'gaining'), (124, 'international'), (138, 'fame'), (143, 'for'), (147, 'her'), (151, 'roles'), (157, 'in'), (160, 'Baywatch'), (169, 'Nights'), (176, 'and'), (180, 'as'), (183, 'New'), (187, 'York'), (192, 'A.D.A.'), (199, 'Abbie'), (205, 'Carmichael'), (216, 'on'), (219, 'Law'), (223, ''), (225, 'Order'), (230, '.'), (232, 'She'), (236, 'also'), (241, 'starred'), (249, 'as'), (252, 'Detective'), (262, 'Jane'), (267, 'Rizzoli'), (275, 'on'), (278, 'the'), (282, 'TNT'), (286, 'series'), (293, 'Rizzoli'), (301, ''), (303, 'Isles'), (308, '.')])</stanford_tokens>
+<opennlp_chunks>[('Angela Michelle Harmon',0, 22), ('August 10, 1972',29, 44), ('an American actress and model',49, 78), ('a professional model',88, 108), ('international fame',124, 142), ('her roles',147, 156), ('Baywatch Nights',160, 175), ('New York A.D.A. Abbie Carmichael',183, 215), ('Law  Order',219, 230), ('Detective Jane Rizzoli',252, 274), ('the TNT series Rizzoli  Isles',278, 308)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'VBG', 'JJ', 'NN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNPS', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Angela'), (7, 'Michelle'), (16, 'Harmon'), (23, '('), (24, 'born'), (29, 'August'), (36, '10'), (38, ','), (40, '1972'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (69, 'and'), (73, 'model'), (78, '.'), (80, 'She'), (84, 'was'), (88, 'a'), (90, 'professional'), (103, 'model'), (109, 'before'), (116, 'gaining'), (124, 'international'), (138, 'fame'), (143, 'for'), (147, 'her'), (151, 'roles'), (157, 'in'), (160, 'Baywatch'), (169, 'Nights'), (176, 'and'), (180, 'as'), (183, 'New'), (187, 'York'), (192, 'A.D.A.'), (199, 'Abbie'), (205, 'Carmichael'), (216, 'on'), (219, 'Law'), (224, 'Order'), (229, '.'), (231, 'She'), (235, 'also'), (240, 'starred'), (248, 'as'), (251, 'Detective'), (261, 'Jane'), (266, 'Rizzoli'), (274, 'on'), (277, 'the'), (281, 'TNT'), (285, 'series'), (292, 'Rizzoli'), (301, 'Isles'), (306, '.')])</spacy_tokens>
+<spacy_chunks>[('Angela Michelle Harmon', 0, 22), ('August 10, 1972', 29, 44), ('an American actress', 49, 68), ('a professional model', 88, 108), ('international fame', 124, 142), ('her roles', 147, 156), ('Baywatch Nights', 160, 175), ('New York A.D.A. Abbie Carmichael', 183, 215), ('Law  Order', 219, 229), ('Detective Jane Rizzoli', 251, 273), ('the TNT series', 277, 291), ('Rizzoli  Isles', 292, 306)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'VBG', 'JJ', 'NN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNPS', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NN', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chic Johnson</title>
+<link/>https://en.wikipedia.org/wiki/Chic_Johnson
+<annotated>0</annotated>
+<originalabstract>Harold Ogden "Chic" Johnson (March 15, 1891 – February 28, 1962) was the barrel-chested half of the American comedy team of Olsen and Johnson, known for his strangely infectious, high-pitched laugh.</originalabstract>
+<abstract>Harold_Ogden_"_Chic_"_Johnson ( March_15_,_1891 – February_28_,_1962 ) was the_barrel-chested_half of the_American_comedy_team of Olsen_and_Johnson , known for his_strangely_infectious_,_high-pitched_laugh .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harold'), (7, 'Ogden'), (13, '"'), (14, 'Chic'), (18, '"'), (20, 'Johnson'), (28, '('), (29, 'March'), (35, '15'), (37, ','), (39, '1891'), (44, '–'), (46, 'February'), (55, '28'), (57, ','), (59, '1962'), (63, ')'), (65, 'was'), (69, 'the'), (73, 'barrel-chested'), (88, 'half'), (93, 'of'), (96, 'the'), (100, 'American'), (109, 'comedy'), (116, 'team'), (121, 'of'), (124, 'Olsen'), (130, 'and'), (134, 'Johnson'), (141, ','), (143, 'known'), (149, 'for'), (153, 'his'), (157, 'strangely'), (167, 'infectious'), (177, ','), (179, 'high-pitched'), (192, 'laugh'), (197, '.')])</stanford_tokens>
+<opennlp_chunks>[('Harold Ogden "Chic" Johnson',0, 27), ('March 15, 1891',29, 43), ('February 28, 1962',46, 63), ('the barrel-chested half',69, 92), ('the American comedy team',96, 120), ('Olsen and Johnson',124, 141), ('his strangely infectious, high-pitched laugh',153, 197)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'JJ', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'CC', 'NNP', ',', 'VBN', 'IN', 'PRP$', 'RB', 'JJ', ',', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harold'), (7, 'Ogden'), (13, '"'), (14, 'Chic'), (18, '"'), (20, 'Johnson'), (28, '('), (29, 'March'), (35, '15'), (37, ','), (39, '1891'), (44, '–'), (46, 'February'), (55, '28'), (57, ','), (59, '1962'), (63, ')'), (65, 'was'), (69, 'the'), (73, 'barrel'), (79, '-'), (80, 'chested'), (88, 'half'), (93, 'of'), (96, 'the'), (100, 'American'), (109, 'comedy'), (116, 'team'), (121, 'of'), (124, 'Olsen'), (130, 'and'), (134, 'Johnson'), (141, ','), (143, 'known'), (149, 'for'), (153, 'his'), (157, 'strangely'), (167, 'infectious'), (177, ','), (179, 'high'), (183, '-'), (184, 'pitched'), (192, 'laugh'), (197, '.')])</spacy_tokens>
+<spacy_chunks>[('Harold Ogden', 0, 12), ('"Chic" Johnson', 13, 27), ('March 15, 1891', 29, 43), ('– February', 44, 54), ('February 28, 1962', 46, 63), ('the barrel-chested half', 69, 92), ('the American comedy team', 96, 120), ('Olsen and Johnson', 124, 141), ('his strangely infectious, high-pitched laugh', 153, 197)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'JJ', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'HYPH', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'CC', 'NNP', ',', 'VBN', 'IN', 'PRP$', 'RB', 'JJ', ',', 'RB', 'HYPH', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

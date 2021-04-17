@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rupert Crosse</title>
+<link/>https://en.wikipedia.org/wiki/Rupert_Crosse
+<annotated>0</annotated>
+<originalabstract>For the British lawyer, see Rupert Cross.Rupert Crosse (November 29, 1927 – March 5, 1973) was an American television and film actor noted as the first African American to receive a nomination for a Best Supporting Actor Academy Award — for his role in the 1969 adaptation of William Faulkner's The Reivers.</originalabstract>
+<abstract>For the_British_lawyer , see Rupert_Cross.Rupert_Crosse ( November_29_,_1927 – March_5_,_1973 ) was an_American_television_and_film_actor noted as the_first_African_American to_receive a_nomination for a_Best_Supporting_Actor_Academy_Award — for his_role in the_1969_adaptation of William_Faulkner 's_The_Reivers .</abstract>
+<stanford_tokens>OrderedDict([(0, 'For'), (4, 'the'), (8, 'British'), (16, 'lawyer'), (22, ','), (24, 'see'), (28, 'Rupert'), (35, 'Cross.Rupert'), (48, 'Crosse'), (55, '('), (56, 'November'), (65, '29'), (67, ','), (69, '1927'), (74, '–'), (76, 'March'), (82, '5'), (83, ','), (85, '1973'), (89, ')'), (91, 'was'), (95, 'an'), (98, 'American'), (107, 'television'), (118, 'and'), (122, 'film'), (127, 'actor'), (133, 'noted'), (139, 'as'), (142, 'the'), (146, 'first'), (152, 'African'), (160, 'American'), (169, 'to'), (172, 'receive'), (180, 'a'), (182, 'nomination'), (193, 'for'), (197, 'a'), (199, 'Best'), (204, 'Supporting'), (215, 'Actor'), (221, 'Academy'), (229, 'Award'), (235, '—'), (237, 'for'), (241, 'his'), (245, 'role'), (250, 'in'), (253, 'the'), (257, '1969'), (262, 'adaptation'), (273, 'of'), (276, 'William'), (284, 'Faulkner'), (292, '\'s'), (295, 'The'), (299, 'Reivers'), (306, '.')])</stanford_tokens>
+<opennlp_chunks>[('the British lawyer',4, 22), ('Rupert Cross.Rupert Crosse',28, 54), ('November 29, 1927',56, 73), ('March 5, 1973',76, 89), ('an American television and film actor',95, 132), ('the first African American',142, 168), ('to receive',169, 179), ('a nomination',180, 192), ('a Best Supporting Actor Academy Award',197, 234), ('his role',241, 249), ('the 1969 adaptation',253, 272), ('William Faulkner',276, 292), ('\'s The Reivers',292, 306)]</opennlp_chunks>
+<stanford_pos>['IN', 'DT', 'JJ', 'NN', ',', 'VB', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'VBD', 'IN', 'DT', 'JJ', 'JJ', 'JJ', 'TO', 'VB', 'DT', 'NN', 'IN', 'DT', 'NN', 'VBG', 'NN', 'NN', 'NN', ':', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'DT', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'For'), (4, 'the'), (8, 'British'), (16, 'lawyer'), (22, ','), (24, 'see'), (28, 'Rupert'), (35, 'Cross'), (40, '.'), (41, 'Rupert'), (48, 'Crosse'), (55, '('), (56, 'November'), (65, '29'), (67, ','), (69, '1927'), (74, '–'), (76, 'March'), (82, '5'), (83, ','), (85, '1973'), (89, ')'), (91, 'was'), (95, 'an'), (98, 'American'), (107, 'television'), (118, 'and'), (122, 'film'), (127, 'actor'), (133, 'noted'), (139, 'as'), (142, 'the'), (146, 'first'), (152, 'African'), (160, 'American'), (169, 'to'), (172, 'receive'), (180, 'a'), (182, 'nomination'), (193, 'for'), (197, 'a'), (199, 'Best'), (204, 'Supporting'), (215, 'Actor'), (221, 'Academy'), (229, 'Award'), (235, '—'), (237, 'for'), (241, 'his'), (245, 'role'), (250, 'in'), (253, 'the'), (257, '1969'), (262, 'adaptation'), (273, 'of'), (276, 'William'), (284, 'Faulkner'), (292, "'s"), (295, 'The'), (299, 'Reivers'), (306, '.')])</spacy_tokens>
+<spacy_chunks>[('the British lawyer', 4, 22), ('Rupert Cross', 28, 40), ('Rupert Crosse', 41, 54), ('November 29, 1927', 56, 73), ('March 5, 1973', 76, 89), ('an American television and film actor', 95, 132), ('the first African American', 142, 168), ('a nomination', 180, 192), ('a Best Supporting Actor Academy Award', 197, 234), ('his role', 241, 249), ('the 1969 adaptation', 253, 272), ("William Faulkner's The Reivers", 276, 306)]</spacy_chunks>
+<spacy_pos>['IN', 'DT', 'JJ', 'NN', ',', 'VB', 'NNP', 'NNP', '.', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'VBD', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'TO', 'VB', 'DT', 'NN', 'IN', 'DT', 'NNP', 'VBG', 'NNP', 'NNP', 'NNP', ',', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'DT', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

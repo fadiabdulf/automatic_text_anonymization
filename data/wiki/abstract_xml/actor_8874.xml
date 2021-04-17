@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Orchard</title>
+<link/>https://en.wikipedia.org/wiki/John_Orchard
+<annotated>0</annotated>
+<originalabstract>John Orchard (15 November 1928 – 3 November 1995) was an English actor. He is probably best remembered for playing Australian anesthesiologist "Ugly John" Black in the first season of M*A*S*H.</originalabstract>
+<abstract>John_Orchard ( 15_November_1928 – 3_November_1995 ) was an_English_actor . He is_probably_best_remembered for playing Australian_anesthesiologist " Ugly_John_"_Black in the_first_season of M * A_*_S * H.</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Orchard'), (13, '('), (14, '15'), (17, 'November'), (26, '1928'), (31, '–'), (33, '3'), (35, 'November'), (44, '1995'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'English'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'is'), (78, 'probably'), (87, 'best'), (92, 'remembered'), (103, 'for'), (107, 'playing'), (115, 'Australian'), (126, 'anesthesiologist'), (143, '"'), (144, 'Ugly'), (149, 'John'), (153, '"'), (155, 'Black'), (161, 'in'), (164, 'the'), (168, 'first'), (174, 'season'), (181, 'of'), (184, 'M'), (185, '*'), (186, 'A'), (187, '*'), (188, 'S'), (189, '*'), (190, 'H.')])</stanford_tokens>
+<opennlp_chunks>[('John Orchard',0, 12), ('15 November 1928',14, 30), ('3 November 1995',33, 48), ('an English actor',54, 70), ('is probably best remembered',75, 102), ('Australian anesthesiologist',115, 142), ('Ugly John" Black',144, 160), ('the first season',164, 180), ('A*S',186, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'VBG', 'JJ', 'NN', '``', 'NNP', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'SYM', 'DT', 'SYM', 'NN', 'SYM', 'NN']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Orchard'), (13, '('), (14, '15'), (17, 'November'), (26, '1928'), (31, '–'), (33, '3'), (35, 'November'), (44, '1995'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'English'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'is'), (78, 'probably'), (87, 'best'), (92, 'remembered'), (103, 'for'), (107, 'playing'), (115, 'Australian'), (126, 'anesthesiologist'), (143, '"'), (144, 'Ugly'), (149, 'John'), (153, '"'), (155, 'Black'), (161, 'in'), (164, 'the'), (168, 'first'), (174, 'season'), (181, 'of'), (184, 'M*A*S*H.')])</spacy_tokens>
+<spacy_chunks>[('John Orchard', 0, 12), ('15 November 1928', 14, 30), ('3 November 1995', 33, 48), ('an English actor', 54, 70), ('Australian anesthesiologist "Ugly John" Black', 115, 160), ('the first season', 164, 180), ('M*A*S*H.', 184, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'VBG', 'JJ', 'NN', '``', 'NNP', 'NNP', '``', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

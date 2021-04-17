@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Betty Marsden</title>
+<link/>https://en.wikipedia.org/wiki/Betty_Marsden
+<annotated>0</annotated>
+<originalabstract>Betty Marsden (24 February 1919 – 18 July 1998) was an English comedy actress. She is particularly remembered as a cast member of the radio series Beyond Our Ken and Round the Horne. Marsden also appeared in two Carry On films, Carry On Regardless (1961) and Carry On Camping (1969).</originalabstract>
+<abstract>Betty_Marsden ( 24_February_1919 – 18_July_1998 ) was an_English_comedy_actress . She is_particularly_remembered as a_cast_member of the_radio_series_Beyond_Our_Ken_and_Round the_Horne . Marsden also appeared in two_Carry On films , Carry On Regardless_(_1961_) and Carry On Camping_(_1969_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Betty'), (6, 'Marsden'), (14, '('), (15, '24'), (18, 'February'), (27, '1919'), (32, '–'), (34, '18'), (37, 'July'), (42, '1998'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'English'), (63, 'comedy'), (70, 'actress'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'particularly'), (99, 'remembered'), (110, 'as'), (113, 'a'), (115, 'cast'), (120, 'member'), (127, 'of'), (130, 'the'), (134, 'radio'), (140, 'series'), (147, 'Beyond'), (154, 'Our'), (158, 'Ken'), (162, 'and'), (166, 'Round'), (172, 'the'), (176, 'Horne'), (181, '.'), (183, 'Marsden'), (191, 'also'), (196, 'appeared'), (205, 'in'), (208, 'two'), (212, 'Carry'), (218, 'On'), (221, 'films'), (226, ','), (228, 'Carry'), (234, 'On'), (237, 'Regardless'), (248, '('), (249, '1961'), (253, ')'), (255, 'and'), (259, 'Carry'), (265, 'On'), (268, 'Camping'), (276, '('), (277, '1969'), (281, ')'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Betty Marsden',0, 13), ('24 February 1919',15, 31), ('18 July 1998',34, 46), ('an English comedy actress',52, 77), ('is particularly remembered',83, 109), ('a cast member',113, 126), ('the radio series Beyond Our Ken and Round',130, 171), ('the Horne',172, 181), ('two Carry',208, 217), ('Regardless (1961)',237, 254), ('Camping (1969)',268, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'PRP$', 'NNP', 'CC', 'NNP', 'DT', 'NNP', '.', 'NNP', 'RB', 'VBD', 'IN', 'CD', 'NNP', 'IN', 'NNS', ',', 'VB', 'IN', 'RB', '-LRB-', 'CD', '-RRB-', 'CC', 'VB', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Betty'), (6, 'Marsden'), (14, '('), (15, '24'), (18, 'February'), (27, '1919'), (32, '–'), (34, '18'), (37, 'July'), (42, '1998'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'English'), (63, 'comedy'), (70, 'actress'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'particularly'), (99, 'remembered'), (110, 'as'), (113, 'a'), (115, 'cast'), (120, 'member'), (127, 'of'), (130, 'the'), (134, 'radio'), (140, 'series'), (147, 'Beyond'), (154, 'Our'), (158, 'Ken'), (162, 'and'), (166, 'Round'), (172, 'the'), (176, 'Horne'), (181, '.'), (183, 'Marsden'), (191, 'also'), (196, 'appeared'), (205, 'in'), (208, 'two'), (212, 'Carry'), (218, 'On'), (221, 'films'), (226, ','), (228, 'Carry'), (234, 'On'), (237, 'Regardless'), (248, '('), (249, '1961'), (253, ')'), (255, 'and'), (259, 'Carry'), (265, 'On'), (268, 'Camping'), (276, '('), (277, '1969'), (281, ')'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Betty Marsden', 0, 13), ('(24 February', 14, 26), ('24 February 1919', 15, 31), ('18 July 1998', 34, 46), ('an English comedy actress', 52, 77), ('a cast member', 113, 126), ('the radio series', 130, 146), ('Beyond Our Ken', 147, 161), ('Round the Horne', 166, 181), ('two Carry', 208, 217), ('Carry On films', 212, 226), ('Carry On Regardless', 228, 247), ('Carry On Camping', 259, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'PRP$', 'NNP', 'CC', 'NNP', 'DT', 'NNP', '.', 'NNP', 'RB', 'VBD', 'IN', 'CD', 'NN', 'IN', 'NNS', ',', 'VB', 'IN', 'RB', '-LRB-', 'CD', '-RRB-', 'CC', 'VB', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

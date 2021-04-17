@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joseph Graybill</title>
+<link/>https://en.wikipedia.org/wiki/Joseph_Graybill
+<annotated>0</annotated>
+<originalabstract>Joseph Graybill (April 17, 1887 – August 3, 1913)  was an American silent film actor. He appeared in several films directed by D.W. Griffith.
+Graybill joined the Biograph Company around 1909 in New York City. By 1910 Griffith was the main director. Graybill worked with Biograph in 1911 in California.</originalabstract>
+<abstract>Joseph_Graybill ( April_17_,_1887 – August_3_,_1913 ) was an_American_silent_film_actor . He appeared in several_films directed by D.W._Griffith . Graybill joined the_Biograph_Company around 1909 in New_York_City . By 1910_Griffith was the_main_director . Graybill worked with Biograph in 1911 in California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joseph'), (7, 'Graybill'), (16, '('), (17, 'April'), (23, '17'), (25, ','), (27, '1887'), (32, '–'), (34, 'August'), (41, '3'), (42, ','), (44, '1913'), (48, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'silent'), (74, 'film'), (79, 'actor'), (84, '.'), (86, 'He'), (89, 'appeared'), (98, 'in'), (101, 'several'), (109, 'films'), (115, 'directed'), (124, 'by'), (127, 'D.W.'), (132, 'Griffith'), (140, '.'), (142, 'Graybill'), (151, 'joined'), (158, 'the'), (162, 'Biograph'), (171, 'Company'), (179, 'around'), (186, '1909'), (191, 'in'), (194, 'New'), (198, 'York'), (203, 'City'), (207, '.'), (209, 'By'), (212, '1910'), (217, 'Griffith'), (226, 'was'), (230, 'the'), (234, 'main'), (239, 'director'), (247, '.'), (249, 'Graybill'), (258, 'worked'), (265, 'with'), (270, 'Biograph'), (279, 'in'), (282, '1911'), (287, 'in'), (290, 'California'), (300, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joseph Graybill',0, 15), ('April 17, 1887',17, 31), ('August 3, 1913',34, 48), ('an American silent film actor',55, 84), ('several films',101, 114), ('D.W. Griffith',127, 140), ('the Biograph Company',158, 178), ('New York City',194, 207), ('1910 Griffith',212, 225), ('the main director',230, 247)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', '.', 'NN', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'NNP', 'NNP', 'NNP', '.', 'IN', 'CD', 'NNP', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'IN', 'NNP', 'IN', 'CD', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joseph'), (7, 'Graybill'), (16, '('), (17, 'April'), (23, '17'), (25, ','), (27, '1887'), (32, '–'), (34, 'August'), (41, '3'), (42, ','), (44, '1913'), (48, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'silent'), (74, 'film'), (79, 'actor'), (84, '.'), (86, 'He'), (89, 'appeared'), (98, 'in'), (101, 'several'), (109, 'films'), (115, 'directed'), (124, 'by'), (127, 'D.W.'), (132, 'Griffith'), (140, '.'), (142, 'Graybill'), (151, 'joined'), (158, 'the'), (162, 'Biograph'), (171, 'Company'), (179, 'around'), (186, '1909'), (191, 'in'), (194, 'New'), (198, 'York'), (203, 'City'), (207, '.'), (209, 'By'), (212, '1910'), (217, 'Griffith'), (226, 'was'), (230, 'the'), (234, 'main'), (239, 'director'), (247, '.'), (249, 'Graybill'), (258, 'worked'), (265, 'with'), (270, 'Biograph'), (279, 'in'), (282, '1911'), (287, 'in'), (290, 'California'), (300, '.')])</spacy_tokens>
+<spacy_chunks>[('Joseph Graybill', 0, 15), ('April 17, 1887', 17, 31), ('August 3, 1913', 34, 48), ('an American silent film actor', 55, 84), ('several films', 101, 114), ('D.W. Griffith', 127, 140), ('the Biograph Company', 158, 178), ('New York City', 194, 207), ('the main director', 230, 247), ('California', 290, 300)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'NNP', 'NNP', 'NNP', '.', 'IN', 'CD', 'NNP', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'IN', 'NNP', 'IN', 'CD', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

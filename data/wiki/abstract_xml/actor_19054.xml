@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Billy Bevan</title>
+<link/>https://en.wikipedia.org/wiki/Billy_Bevan
+<annotated>0</annotated>
+<originalabstract>Billy Bevan (born William Bevan Harris, 29 September 1887 – 26 November 1957) was an Australian-born vaudevillian, who became an American film actor. He appeared in 254 American films between 1916 and 1950.</originalabstract>
+<abstract>Billy_Bevan ( born William_Bevan_Harris , 29_September_1887 – 26_November_1957 ) was an_Australian-born_vaudevillian , who became an_American_film_actor . He appeared in 254_American_films between 1916_and_1950 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Billy'), (6, 'Bevan'), (12, '('), (13, 'born'), (18, 'William'), (26, 'Bevan'), (32, 'Harris'), (38, ','), (40, '29'), (43, 'September'), (53, '1887'), (58, '–'), (60, '26'), (63, 'November'), (72, '1957'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'Australian-born'), (101, 'vaudevillian'), (113, ','), (115, 'who'), (119, 'became'), (126, 'an'), (129, 'American'), (138, 'film'), (143, 'actor'), (148, '.'), (150, 'He'), (153, 'appeared'), (162, 'in'), (165, '254'), (169, 'American'), (178, 'films'), (184, 'between'), (192, '1916'), (197, 'and'), (201, '1950'), (205, '.')])</stanford_tokens>
+<opennlp_chunks>[('Billy Bevan',0, 11), ('William Bevan Harris',18, 38), ('29 September 1887',40, 57), ('26 November 1957',60, 76), ('an Australian-born vaudevillian',82, 113), ('an American film actor',126, 148), ('254 American films',165, 183), ('1916 and 1950',192, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'JJ', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Billy'), (6, 'Bevan'), (12, '('), (13, 'born'), (18, 'William'), (26, 'Bevan'), (32, 'Harris'), (38, ','), (40, '29'), (43, 'September'), (53, '1887'), (58, '–'), (60, '26'), (63, 'November'), (72, '1957'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'Australian'), (95, '-'), (96, 'born'), (101, 'vaudevillian'), (113, ','), (115, 'who'), (119, 'became'), (126, 'an'), (129, 'American'), (138, 'film'), (143, 'actor'), (148, '.'), (150, 'He'), (153, 'appeared'), (162, 'in'), (165, '254'), (169, 'American'), (178, 'films'), (184, 'between'), (192, '1916'), (197, 'and'), (201, '1950'), (205, '.')])</spacy_tokens>
+<spacy_chunks>[('Billy Bevan', 0, 11), ('(born William Bevan Harris', 12, 38), ('29 September 1887', 40, 57), ('26 November 1957', 60, 76), ('an Australian-born vaudevillian', 82, 113), ('an American film actor', 126, 148), ('254 American films', 165, 183)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', ',', 'WP', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'JJ', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

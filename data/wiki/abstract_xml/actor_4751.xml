@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wayne Morris (American actor)</title>
+<link/>https://en.wikipedia.org/wiki/Wayne_Morris_(American_actor)
+<annotated>0</annotated>
+<originalabstract>Wayne Morris (February 17, 1914 – September 14, 1959) was an American film and television actor, as well as a decorated World War II fighter ace. He appeared in many films, including Paths of Glory (1957), The Bushwackers (1952), and the title role of Kid Galahad (1937).</originalabstract>
+<abstract>Wayne_Morris ( February_17_,_1914 – September_14_,_1959 ) was an_American_film_and_television_actor , as_well_as a_decorated_World_War_II_fighter_ace . He appeared in many_films , including Paths of Glory_(_1957_) , The_Bushwackers ( 1952_) , and the_title_role of Kid_Galahad_(_1937_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wayne'), (6, 'Morris'), (13, '('), (14, 'February'), (23, '17'), (25, ','), (27, '1914'), (32, '–'), (34, 'September'), (44, '14'), (46, ','), (48, '1959'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'film'), (75, 'and'), (79, 'television'), (90, 'actor'), (95, ','), (97, 'as'), (100, 'well'), (105, 'as'), (108, 'a'), (110, 'decorated'), (120, 'World'), (126, 'War'), (130, 'II'), (133, 'fighter'), (141, 'ace'), (144, '.'), (146, 'He'), (149, 'appeared'), (158, 'in'), (161, 'many'), (166, 'films'), (171, ','), (173, 'including'), (183, 'Paths'), (189, 'of'), (192, 'Glory'), (198, '('), (199, '1957'), (203, ')'), (204, ','), (206, 'The'), (210, 'Bushwackers'), (222, '('), (223, '1952'), (227, ')'), (228, ','), (230, 'and'), (234, 'the'), (238, 'title'), (244, 'role'), (249, 'of'), (252, 'Kid'), (256, 'Galahad'), (264, '('), (265, '1937'), (269, ')'), (270, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wayne Morris',0, 12), ('February 17, 1914',14, 31), ('September 14, 1959',34, 52), ('an American film and television actor',58, 95), ('as well as',97, 107), ('a decorated World War II fighter ace',108, 144), ('many films',161, 171), ('Glory (1957)',192, 204), ('The Bushwackers',206, 221), ('1952)',223, 228), ('the title role',234, 248), ('Kid Galahad (1937)',252, 270)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'RB', 'IN', 'DT', 'VBN', 'NNP', 'NNP', 'NNP', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', ',', 'VBG', 'NNS', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'NN', 'NN', 'IN', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wayne'), (6, 'Morris'), (13, '('), (14, 'February'), (23, '17'), (25, ','), (27, '1914'), (32, '–'), (34, 'September'), (44, '14'), (46, ','), (48, '1959'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'film'), (75, 'and'), (79, 'television'), (90, 'actor'), (95, ','), (97, 'as'), (100, 'well'), (105, 'as'), (108, 'a'), (110, 'decorated'), (120, 'World'), (126, 'War'), (130, 'II'), (133, 'fighter'), (141, 'ace'), (144, '.'), (146, 'He'), (149, 'appeared'), (158, 'in'), (161, 'many'), (166, 'films'), (171, ','), (173, 'including'), (183, 'Paths'), (189, 'of'), (192, 'Glory'), (198, '('), (199, '1957'), (203, ')'), (204, ','), (206, 'The'), (210, 'Bushwackers'), (222, '('), (223, '1952'), (227, ')'), (228, ','), (230, 'and'), (234, 'the'), (238, 'title'), (244, 'role'), (249, 'of'), (252, 'Kid'), (256, 'Galahad'), (264, '('), (265, '1937'), (269, ')'), (270, '.')])</spacy_tokens>
+<spacy_chunks>[('Wayne Morris', 0, 12), ('February 17, 1914', 14, 31), ('September 14, 1959', 34, 52), ('an American film and television actor', 58, 95), ('a decorated World War II fighter ace', 108, 144), ('many films', 161, 171), ('Paths of Glory', 183, 197), ('The Bushwackers', 206, 221), ('Kid Galahad (1937', 252, 269)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'RB', 'IN', 'DT', 'VBN', 'NNP', 'NNP', 'NNP', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', ',', 'VBG', 'NNPS', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

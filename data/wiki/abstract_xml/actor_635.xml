@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maurice Black</title>
+<link/>https://en.wikipedia.org/wiki/Maurice_Black
+<annotated>0</annotated>
+<originalabstract>Maurice Black (January 14, 1891 – January 18, 1938) was an American character actor known for his portrayal of mobsters. He appeared in more than 100 films from 1928 to 1938, when he died of pneumonia, aged 47. He was married to Edythe Raynore.</originalabstract>
+<abstract>Maurice_Black ( January_14_,_1891 – January_18_,_1938 ) was an_American_character_actor known for his_portrayal of mobsters . He appeared in more_than_100_films from 1928 to 1938 , when he died of pneumonia , aged_47 . He was_married to Edythe_Raynore .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maurice'), (8, 'Black'), (14, '('), (15, 'January'), (23, '14'), (25, ','), (27, '1891'), (32, '–'), (34, 'January'), (42, '18'), (44, ','), (46, '1938'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'character'), (78, 'actor'), (84, 'known'), (90, 'for'), (94, 'his'), (98, 'portrayal'), (108, 'of'), (111, 'mobsters'), (119, '.'), (121, 'He'), (124, 'appeared'), (133, 'in'), (136, 'more'), (141, 'than'), (146, '100'), (150, 'films'), (156, 'from'), (161, '1928'), (166, 'to'), (169, '1938'), (173, ','), (175, 'when'), (180, 'he'), (183, 'died'), (188, 'of'), (191, 'pneumonia'), (200, ','), (202, 'aged'), (207, '47'), (209, '.'), (211, 'He'), (214, 'was'), (218, 'married'), (226, 'to'), (229, 'Edythe'), (236, 'Raynore'), (243, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maurice Black',0, 13), ('January 14, 1891',15, 31), ('January 18, 1938',34, 50), ('an American character actor',56, 83), ('his portrayal',94, 107), ('more than 100 films',136, 155), ('aged 47',202, 209), ('was married',214, 225), ('Edythe Raynore',229, 243)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'TO', 'CD', ',', 'WRB', 'PRP', 'VBD', 'IN', 'NN', ',', 'JJ', 'CD', '.', 'PRP', 'VBD', 'VBN', 'TO', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maurice'), (8, 'Black'), (14, '('), (15, 'January'), (23, '14'), (25, ','), (27, '1891'), (32, '–'), (34, 'January'), (42, '18'), (44, ','), (46, '1938'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'character'), (78, 'actor'), (84, 'known'), (90, 'for'), (94, 'his'), (98, 'portrayal'), (108, 'of'), (111, 'mobsters'), (119, '.'), (121, 'He'), (124, 'appeared'), (133, 'in'), (136, 'more'), (141, 'than'), (146, '100'), (150, 'films'), (156, 'from'), (161, '1928'), (166, 'to'), (169, '1938'), (173, ','), (175, 'when'), (180, 'he'), (183, 'died'), (188, 'of'), (191, 'pneumonia'), (200, ','), (202, 'aged'), (207, '47'), (209, '.'), (211, 'He'), (214, 'was'), (218, 'married'), (226, 'to'), (229, 'Edythe'), (236, 'Raynore'), (243, '.')])</spacy_tokens>
+<spacy_chunks>[('Maurice Black', 0, 13), ('(January', 14, 22), ('January 14, 1891', 15, 31), ('– January', 32, 41), ('January 18, 1938', 34, 50), ('an American character actor', 56, 83), ('his portrayal', 94, 107), ('mobsters', 111, 119), ('more than 100 films', 136, 155), ('pneumonia', 191, 200), ('Edythe Raynore', 229, 243)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'CD', ',', 'WRB', 'PRP', 'VBD', 'IN', 'NN', ',', 'VBN', 'CD', '.', 'PRP', 'VBD', 'JJ', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

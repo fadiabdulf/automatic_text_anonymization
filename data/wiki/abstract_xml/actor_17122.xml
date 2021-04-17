@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nova Pilbeam</title>
+<link/>https://en.wikipedia.org/wiki/Nova_Pilbeam
+<annotated>0</annotated>
+<originalabstract>Nova Margery Pilbeam (15 November 1919 – 17 July 2015) was an English film and stage actress. She played leading roles in two Alfred Hitchcock movies of the 1930s, and made her last film in 1948.</originalabstract>
+<abstract>Nova_Margery_Pilbeam ( 15_November_1919 – 17_July_2015 ) was an_English_film_and_stage_actress . She played_leading roles in two_Alfred_Hitchcock_movies of the_1930s , and made her_last_film in 1948 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nova'), (5, 'Margery'), (13, 'Pilbeam'), (21, '('), (22, '15'), (25, 'November'), (34, '1919'), (39, '–'), (41, '17'), (44, 'July'), (49, '2015'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'English'), (70, 'film'), (75, 'and'), (79, 'stage'), (85, 'actress'), (92, '.'), (94, 'She'), (98, 'played'), (105, 'leading'), (113, 'roles'), (119, 'in'), (122, 'two'), (126, 'Alfred'), (133, 'Hitchcock'), (143, 'movies'), (150, 'of'), (153, 'the'), (157, '1930s'), (162, ','), (164, 'and'), (168, 'made'), (173, 'her'), (177, 'last'), (182, 'film'), (187, 'in'), (190, '1948'), (194, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nova Margery Pilbeam',0, 20), ('15 November 1919',22, 38), ('17 July 2015',41, 53), ('an English film and stage actress',59, 92), ('played leading',98, 112), ('two Alfred Hitchcock movies',122, 149), ('the 1930s',153, 162), ('her last film',173, 186)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBG', 'NNS', 'IN', 'CD', 'NNP', 'NNP', 'NNS', 'IN', 'DT', 'NNS', ',', 'CC', 'VBD', 'PRP$', 'JJ', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nova'), (5, 'Margery'), (13, 'Pilbeam'), (21, '('), (22, '15'), (25, 'November'), (34, '1919'), (39, '–'), (41, '17'), (44, 'July'), (49, '2015'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'English'), (70, 'film'), (75, 'and'), (79, 'stage'), (85, 'actress'), (92, '.'), (94, 'She'), (98, 'played'), (105, 'leading'), (113, 'roles'), (119, 'in'), (122, 'two'), (126, 'Alfred'), (133, 'Hitchcock'), (143, 'movies'), (150, 'of'), (153, 'the'), (157, '1930s'), (162, ','), (164, 'and'), (168, 'made'), (173, 'her'), (177, 'last'), (182, 'film'), (187, 'in'), (190, '1948'), (194, '.')])</spacy_tokens>
+<spacy_chunks>[('Nova Margery Pilbeam', 0, 20), ('(15 November', 21, 33), ('15 November 1919', 22, 38), ('17 July 2015', 41, 53), ('an English film', 59, 74), ('stage actress', 79, 92), ('leading roles', 105, 118), ('two Alfred Hitchcock movies', 122, 149), ('the 1930s', 153, 162), ('her last film', 173, 186)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBG', 'NNS', 'IN', 'CD', 'NNP', 'NNP', 'NNS', 'IN', 'DT', 'NNS', ',', 'CC', 'VBD', 'PRP', 'JJ', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

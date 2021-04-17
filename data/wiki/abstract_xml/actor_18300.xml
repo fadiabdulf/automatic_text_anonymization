@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Emma Williams (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Emma_Williams_(actress)
+<annotated>0</annotated>
+<originalabstract>Emma Williams (born 20 May 1983, Halifax) is an English actress of stage, screen, TV and radio. She has been nominated four times for an Olivier Award.</originalabstract>
+<abstract>Emma_Williams ( born 20_May_1983 , Halifax ) is an_English_actress of stage_,_screen_,_TV_and_radio . She has_been_nominated four_times for an_Olivier_Award .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Emma'), (5, 'Williams'), (14, '('), (15, 'born'), (20, '20'), (23, 'May'), (27, '1983'), (31, ','), (33, 'Halifax'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'English'), (56, 'actress'), (64, 'of'), (67, 'stage'), (72, ','), (74, 'screen'), (80, ','), (82, 'TV'), (85, 'and'), (89, 'radio'), (94, '.'), (96, 'She'), (100, 'has'), (104, 'been'), (109, 'nominated'), (119, 'four'), (124, 'times'), (130, 'for'), (134, 'an'), (137, 'Olivier'), (145, 'Award'), (150, '.')])</stanford_tokens>
+<opennlp_chunks>[('Emma Williams',0, 13), ('20 May 1983',20, 31), ('an English actress',45, 63), ('stage, screen, TV and radio',67, 94), ('has been nominated',100, 118), ('four times',119, 129), ('an Olivier Award',134, 150)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'VBN', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Emma'), (5, 'Williams'), (14, '('), (15, 'born'), (20, '20'), (23, 'May'), (27, '1983'), (31, ','), (33, 'Halifax'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'English'), (56, 'actress'), (64, 'of'), (67, 'stage'), (72, ','), (74, 'screen'), (80, ','), (82, 'TV'), (85, 'and'), (89, 'radio'), (94, '.'), (96, 'She'), (100, 'has'), (104, 'been'), (109, 'nominated'), (119, 'four'), (124, 'times'), (130, 'for'), (134, 'an'), (137, 'Olivier'), (145, 'Award'), (150, '.')])</spacy_tokens>
+<spacy_chunks>[('Emma Williams', 0, 13), ('20 May 1983', 20, 31), ('Halifax', 33, 40), ('an English actress', 45, 63), ('screen', 74, 80), ('an Olivier Award', 134, 150)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'VBN', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

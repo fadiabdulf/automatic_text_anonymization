@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Richard Anconina</title>
+<link/>https://en.wikipedia.org/wiki/Richard_Anconina
+<annotated>0</annotated>
+<originalabstract>Richard Anconina (French: [ʁi.ʃaʁ ɑ̃.kɔ.ni.na] ; born 28 January 1953) is a French actor.  He won the César Award for Best Supporting Actor in 1983 and in 1989 was named César for Best Actor.</originalabstract>
+<abstract>Richard_Anconina ( French : [_ʁi.ʃaʁ_ɑ̃.kɔ.ni.na_] ; born_28_January_1953 ) is a_French_actor . He won the_César_Award for Best Supporting_Actor in 1983 and in 1989 was_named César_for_Best_Actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Anconina'), (17, '('), (18, 'French'), (24, ':'), (26, '['), (27, 'ʁi.ʃaʁ'), (34, 'ɑ̃.kɔ.ni.na'), (45, ']'), (47, ';'), (49, 'born'), (54, '28'), (57, 'January'), (65, '1953'), (69, ')'), (71, 'is'), (74, 'a'), (76, 'French'), (83, 'actor'), (88, '.'), (91, 'He'), (94, 'won'), (98, 'the'), (102, 'César'), (108, 'Award'), (114, 'for'), (118, 'Best'), (123, 'Supporting'), (134, 'Actor'), (140, 'in'), (143, '1983'), (148, 'and'), (152, 'in'), (155, '1989'), (160, 'was'), (164, 'named'), (170, 'César'), (176, 'for'), (180, 'Best'), (185, 'Actor'), (190, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Anconina',0, 16), ('[ʁi.ʃaʁ ɑ̃.kɔ.ni.na]',26, 46), ('born 28 January 1953',49, 69), ('a French actor',74, 88), ('the César Award',98, 113), ('Supporting Actor',123, 139), ('was named',160, 169), ('César for Best Actor',170, 190)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'JJ', 'NN', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'CD', 'CC', 'IN', 'CD', 'VBD', 'VBN', 'NNP', 'IN', 'JJS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Anconina'), (17, '('), (18, 'French'), (24, ':'), (26, '['), (27, 'ʁi.ʃaʁ'), (34, 'ɑ̃.kɔ.ni.na'), (45, ']'), (47, ';'), (49, 'born'), (54, '28'), (57, 'January'), (65, '1953'), (69, ')'), (71, 'is'), (74, 'a'), (76, 'French'), (83, 'actor'), (88, '.'), (91, 'He'), (94, 'won'), (98, 'the'), (102, 'César'), (108, 'Award'), (114, 'for'), (118, 'Best'), (123, 'Supporting'), (134, 'Actor'), (140, 'in'), (143, '1983'), (148, 'and'), (152, 'in'), (155, '1989'), (160, 'was'), (164, 'named'), (170, 'César'), (176, 'for'), (180, 'Best'), (185, 'Actor'), (190, '.')])</spacy_tokens>
+<spacy_chunks>[('Richard Anconina', 0, 16), ('(French', 17, 24), ('[ʁi.ʃaʁ', 26, 33), ('28 January 1953', 54, 69), ('a French actor', 74, 88), ('the César Award', 98, 113), ('César Award for Best Supporting Actor', 102, 139), ('Best Actor', 180, 190)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NNP', "''", '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NN', 'IN', 'CD', 'CC', 'IN', 'CD', 'VBD', 'VBN', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

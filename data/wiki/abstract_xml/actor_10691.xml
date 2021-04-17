@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Camilla Belle</title>
+<link/>https://en.wikipedia.org/wiki/Camilla_Belle
+<annotated>0</annotated>
+<originalabstract>Camilla Belle Routh (born October 2, 1986) is a Brazilian-American actress, director, writer and producer. Her works include The Ballad of Jack and Rose, When a Stranger Calls, 10,000 BC, and Push.</originalabstract>
+<abstract>Camilla_Belle_Routh ( born October_2_,_1986 ) is a_Brazilian-American_actress , director , writer_and_producer . Her_works include The_Ballad of Jack_and_Rose , When a_Stranger_Calls , 10,000_BC , and Push .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Camilla'), (8, 'Belle'), (14, 'Routh'), (20, '('), (21, 'born'), (26, 'October'), (34, '2'), (35, ','), (37, '1986'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'Brazilian-American'), (67, 'actress'), (74, ','), (76, 'director'), (84, ','), (86, 'writer'), (93, 'and'), (97, 'producer'), (105, '.'), (107, 'Her'), (111, 'works'), (117, 'include'), (125, 'The'), (129, 'Ballad'), (136, 'of'), (139, 'Jack'), (144, 'and'), (148, 'Rose'), (152, ','), (154, 'When'), (159, 'a'), (161, 'Stranger'), (170, 'Calls'), (175, ','), (177, '10,000'), (184, 'BC'), (186, ','), (188, 'and'), (192, 'Push'), (196, '.')])</stanford_tokens>
+<opennlp_chunks>[('Camilla Belle Routh',0, 19), ('October 2, 1986',26, 41), ('a Brazilian-American actress',46, 74), ('writer and producer',86, 105), ('Her works',107, 116), ('The Ballad',125, 135), ('Jack and Rose',139, 152), ('a Stranger Calls',159, 175), ('10,000 BC',177, 186)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP$', 'NNS', 'VBP', 'DT', 'NN', 'IN', 'NNP', 'CC', 'NNP', ',', 'WRB', 'DT', 'NNP', 'NNS', ',', 'CD', 'NNP', ',', 'CC', 'VB', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Camilla'), (8, 'Belle'), (14, 'Routh'), (20, '('), (21, 'born'), (26, 'October'), (34, '2'), (35, ','), (37, '1986'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'Brazilian'), (57, '-'), (58, 'American'), (67, 'actress'), (74, ','), (76, 'director'), (84, ','), (86, 'writer'), (93, 'and'), (97, 'producer'), (105, '.'), (107, 'Her'), (111, 'works'), (117, 'include'), (125, 'The'), (129, 'Ballad'), (136, 'of'), (139, 'Jack'), (144, 'and'), (148, 'Rose'), (152, ','), (154, 'When'), (159, 'a'), (161, 'Stranger'), (170, 'Calls'), (175, ','), (177, '10,000'), (184, 'BC'), (186, ','), (188, 'and'), (192, 'Push'), (196, '.')])</spacy_tokens>
+<spacy_chunks>[('Camilla Belle Routh', 0, 19), ('October 2, 1986', 26, 41), ('a Brazilian-American actress', 46, 74), ('director', 76, 84), ('writer', 86, 92), ('producer', 97, 105), ('Her works', 107, 116), ('The Ballad of Jack and Rose', 125, 152), ('When a Stranger Calls', 154, 175), ('10,000 BC', 177, 186)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP$', 'NNS', 'VBP', 'DT', 'NNP', 'IN', 'NNP', 'CC', 'NNP', ',', 'WRB', 'DT', 'NN', 'VBZ', ',', 'CD', 'NNP', ',', 'CC', 'VB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

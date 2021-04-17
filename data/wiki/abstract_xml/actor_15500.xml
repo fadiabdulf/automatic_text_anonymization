@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eva Thatcher</title>
+<link/>https://en.wikipedia.org/wiki/Eva_Thatcher
+<annotated>0</annotated>
+<originalabstract>Eva Thatcher (March 14, 1862 – September 28, 1942) was an American film actress.  She appeared in more than one hundred films between 1912 and 1930. She was born in Omaha, Nebraska, and died in Los Angeles, California.</originalabstract>
+<abstract>Eva_Thatcher ( March_14_,_1862 – September_28_,_1942 ) was an_American_film_actress . She appeared in more_than_one_hundred_films between 1912_and_1930 . She was_born in Omaha , Nebraska , and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eva'), (4, 'Thatcher'), (13, '('), (14, 'March'), (20, '14'), (22, ','), (24, '1862'), (29, '–'), (31, 'September'), (41, '28'), (43, ','), (45, '1942'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'actress'), (79, '.'), (82, 'She'), (86, 'appeared'), (95, 'in'), (98, 'more'), (103, 'than'), (108, 'one'), (112, 'hundred'), (120, 'films'), (126, 'between'), (134, '1912'), (139, 'and'), (143, '1930'), (147, '.'), (149, 'She'), (153, 'was'), (157, 'born'), (162, 'in'), (165, 'Omaha'), (170, ','), (172, 'Nebraska'), (180, ','), (182, 'and'), (186, 'died'), (191, 'in'), (194, 'Los'), (198, 'Angeles'), (205, ','), (207, 'California'), (217, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eva Thatcher',0, 12), ('March 14, 1862',14, 28), ('September 28, 1942',31, 49), ('an American film actress',55, 79), ('more than one hundred films',98, 125), ('1912 and 1930',134, 147), ('was born',153, 161), ('Los Angeles',194, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eva'), (4, 'Thatcher'), (13, '('), (14, 'March'), (20, '14'), (22, ','), (24, '1862'), (29, '–'), (31, 'September'), (41, '28'), (43, ','), (45, '1942'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'actress'), (79, '.'), (82, 'She'), (86, 'appeared'), (95, 'in'), (98, 'more'), (103, 'than'), (108, 'one'), (112, 'hundred'), (120, 'films'), (126, 'between'), (134, '1912'), (139, 'and'), (143, '1930'), (147, '.'), (149, 'She'), (153, 'was'), (157, 'born'), (162, 'in'), (165, 'Omaha'), (170, ','), (172, 'Nebraska'), (180, ','), (182, 'and'), (186, 'died'), (191, 'in'), (194, 'Los'), (198, 'Angeles'), (205, ','), (207, 'California'), (217, '.')])</spacy_tokens>
+<spacy_chunks>[('Eva Thatcher', 0, 12), ('(March', 13, 19), ('March 14, 1862', 14, 28), ('September 28, 1942', 31, 49), ('an American film actress', 55, 79), ('more than one hundred films', 98, 125), ('Omaha, Nebraska', 165, 180), ('Los Angeles, California', 194, 217)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

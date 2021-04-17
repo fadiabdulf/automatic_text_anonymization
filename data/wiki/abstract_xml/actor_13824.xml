@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mary McAllister</title>
+<link/>https://en.wikipedia.org/wiki/Mary_McAllister
+<annotated>0</annotated>
+<originalabstract>Mary McAlister, also known as Little Mary McAlister, (May 27, 1909 – May 1, 1991) was an American silent film actress of Hollywood's early years, and a pioneer of child actors.</originalabstract>
+<abstract>Mary_McAlister , also_known as Little_Mary_McAlister , ( May_27_,_1909 – May_1_,_1991 ) was an_American_silent_film_actress of Hollywood 's_early_years , and a_pioneer of child_actors .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'McAlister'), (14, ','), (16, 'also'), (21, 'known'), (27, 'as'), (30, 'Little'), (37, 'Mary'), (42, 'McAlister'), (51, ','), (53, '('), (54, 'May'), (58, '27'), (60, ','), (62, '1909'), (67, '–'), (69, 'May'), (73, '1'), (74, ','), (76, '1991'), (80, ')'), (82, 'was'), (86, 'an'), (89, 'American'), (98, 'silent'), (105, 'film'), (110, 'actress'), (118, 'of'), (121, 'Hollywood'), (130, '\'s'), (133, 'early'), (139, 'years'), (144, ','), (146, 'and'), (150, 'a'), (152, 'pioneer'), (160, 'of'), (163, 'child'), (169, 'actors'), (175, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary McAlister',0, 14), ('also known',16, 26), ('Little Mary McAlister',30, 51), ('May 27, 1909',54, 66), ('May 1, 1991',69, 80), ('an American silent film actress',86, 117), ('\'s early years',130, 144), ('a pioneer',150, 159), ('child actors',163, 175)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'JJ', 'NNP', 'NNP', ',', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'POS', 'JJ', 'NNS', ',', 'CC', 'DT', 'NN', 'IN', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'McAlister'), (14, ','), (16, 'also'), (21, 'known'), (27, 'as'), (30, 'Little'), (37, 'Mary'), (42, 'McAlister'), (51, ','), (53, '('), (54, 'May'), (58, '27'), (60, ','), (62, '1909'), (67, '–'), (69, 'May'), (73, '1'), (74, ','), (76, '1991'), (80, ')'), (82, 'was'), (86, 'an'), (89, 'American'), (98, 'silent'), (105, 'film'), (110, 'actress'), (118, 'of'), (121, 'Hollywood'), (130, "'s"), (133, 'early'), (139, 'years'), (144, ','), (146, 'and'), (150, 'a'), (152, 'pioneer'), (160, 'of'), (163, 'child'), (169, 'actors'), (175, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary McAlister', 0, 14), ('Little Mary McAlister', 30, 51), ('May 27, 1909', 54, 66), ('May 1, 1991', 69, 80), ('an American silent film actress', 86, 117), ("Hollywood's early years", 121, 144), ('a pioneer', 150, 159), ('child actors', 163, 175)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'POS', 'JJ', 'NNS', ',', 'CC', 'DT', 'NN', 'IN', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

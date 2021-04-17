@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elizabeth Henstridge</title>
+<link/>https://en.wikipedia.org/wiki/Elizabeth_Henstridge
+<annotated>0</annotated>
+<originalabstract>Elizabeth Frances Henstridge (born 11 September 1987) is an English actress best known for her role in ABC's Marvel's Agents of S.H.I.E.L.D. as Agent Jemma Simmons (2013–present).</originalabstract>
+<abstract>Elizabeth_Frances_Henstridge ( born 11_September_1987 ) is an_English_actress best_known for her_role in ABC 's_Marvel 's_Agents of S.H.I.E.L.D. as Agent_Jemma_Simmons ( 2013 – present ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Frances'), (18, 'Henstridge'), (29, '('), (30, 'born'), (35, '11'), (38, 'September'), (48, '1987'), (52, ')'), (54, 'is'), (57, 'an'), (60, 'English'), (68, 'actress'), (76, 'best'), (81, 'known'), (87, 'for'), (91, 'her'), (95, 'role'), (100, 'in'), (103, 'ABC'), (106, '\'s'), (109, 'Marvel'), (115, '\'s'), (118, 'Agents'), (125, 'of'), (128, 'S.H.I.E.L.D.'), (141, 'as'), (144, 'Agent'), (150, 'Jemma'), (156, 'Simmons'), (164, '('), (165, '2013'), (169, '–'), (170, 'present'), (177, ')'), (178, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elizabeth Frances Henstridge',0, 28), ('11 September 1987',35, 52), ('an English actress',57, 75), ('best known',76, 86), ('her role',91, 99), ('\'s Marvel',106, 115), ('\'s Agents',115, 124), ('Agent Jemma Simmons',144, 163)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'POS', 'NNP', 'POS', 'NNS', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'JJ', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Frances'), (18, 'Henstridge'), (29, '('), (30, 'born'), (35, '11'), (38, 'September'), (48, '1987'), (52, ')'), (54, 'is'), (57, 'an'), (60, 'English'), (68, 'actress'), (76, 'best'), (81, 'known'), (87, 'for'), (91, 'her'), (95, 'role'), (100, 'in'), (103, 'ABC'), (106, "'s"), (109, 'Marvel'), (115, "'s"), (118, 'Agents'), (125, 'of'), (128, 'S.H.I.E.L.D.'), (141, 'as'), (144, 'Agent'), (150, 'Jemma'), (156, 'Simmons'), (164, '('), (165, '2013–present'), (177, ')'), (178, '.')])</spacy_tokens>
+<spacy_chunks>[('Elizabeth Frances Henstridge', 0, 28), ('11 September 1987', 35, 52), ('an English actress', 57, 75), ('her role', 91, 99), ("ABC's Marvel's Agents", 103, 124), ('Agents of S.H.I.E.L.D.', 118, 140), ('Agent Jemma Simmons', 144, 163)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'POS', 'NNP', 'POS', 'NNPS', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

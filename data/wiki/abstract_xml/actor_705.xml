@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sorrell Booke</title>
+<link/>https://en.wikipedia.org/wiki/Sorrell_Booke
+<annotated>0</annotated>
+<originalabstract>Sorrell Booke (January 4, 1930 – February 11, 1994) was an American actor who performed on stage, screen, and television. He is best known for his role as corrupt politician Jefferson Davis "Boss" Hogg in the television show The Dukes of Hazzard.</originalabstract>
+<abstract>Sorrell_Booke ( January_4_,_1930 – February_11_,_1994 ) was an_American_actor who performed on stage , screen , and television . He is_best_known for his_role as corrupt_politician_Jefferson_Davis_"_Boss_"_Hogg in the_television_show The_Dukes of Hazzard .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sorrell'), (8, 'Booke'), (14, '('), (15, 'January'), (23, '4'), (24, ','), (26, '1930'), (31, '–'), (33, 'February'), (42, '11'), (44, ','), (46, '1994'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (74, 'who'), (78, 'performed'), (88, 'on'), (91, 'stage'), (96, ','), (98, 'screen'), (104, ','), (106, 'and'), (110, 'television'), (120, '.'), (122, 'He'), (125, 'is'), (128, 'best'), (133, 'known'), (139, 'for'), (143, 'his'), (147, 'role'), (152, 'as'), (155, 'corrupt'), (163, 'politician'), (174, 'Jefferson'), (184, 'Davis'), (190, '"'), (191, 'Boss'), (195, '"'), (197, 'Hogg'), (202, 'in'), (205, 'the'), (209, 'television'), (220, 'show'), (225, 'The'), (229, 'Dukes'), (235, 'of'), (238, 'Hazzard'), (245, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sorrell Booke',0, 13), ('January 4, 1930',15, 30), ('February 11, 1994',33, 50), ('an American actor',56, 73), ('is best known',125, 138), ('his role',143, 151), ('corrupt politician Jefferson Davis "Boss" Hogg',155, 201), ('the television show',205, 224), ('The Dukes',225, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNPS', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sorrell'), (8, 'Booke'), (14, '('), (15, 'January'), (23, '4'), (24, ','), (26, '1930'), (31, '–'), (33, 'February'), (42, '11'), (44, ','), (46, '1994'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (74, 'who'), (78, 'performed'), (88, 'on'), (91, 'stage'), (96, ','), (98, 'screen'), (104, ','), (106, 'and'), (110, 'television'), (120, '.'), (122, 'He'), (125, 'is'), (128, 'best'), (133, 'known'), (139, 'for'), (143, 'his'), (147, 'role'), (152, 'as'), (155, 'corrupt'), (163, 'politician'), (174, 'Jefferson'), (184, 'Davis'), (190, '"'), (191, 'Boss'), (195, '"'), (197, 'Hogg'), (202, 'in'), (205, 'the'), (209, 'television'), (220, 'show'), (225, 'The'), (229, 'Dukes'), (235, 'of'), (238, 'Hazzard'), (245, '.')])</spacy_tokens>
+<spacy_chunks>[('Sorrell Booke', 0, 13), ('(January', 14, 22), ('January 4, 1930', 15, 30), ('February 11, 1994', 33, 50), ('an American actor', 56, 73), ('screen', 98, 104), ('television', 110, 120), ('his role', 143, 151), ('corrupt politician Jefferson Davis "Boss" Hogg', 155, 201), ('the television show', 205, 224), ('The Dukes of Hazzard', 225, 245)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNPS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

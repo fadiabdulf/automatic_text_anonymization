@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Scalia</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Scalia
+<annotated>0</annotated>
+<originalabstract>Jack Scalia (born November 10, 1950) is an American actor. He has had many roles in television series (both as a regular and as a guest-star), television movies, and feature films. He is perhaps best known for his role as Chris Stamp on All My Children from 2001 to 2003.</originalabstract>
+<abstract>Jack_Scalia ( born November_10_,_1950 ) is an_American_actor . He has_had many_roles in television_series_( both as a_regular_and as a_guest-star_) , television_movies , and feature_films . He is_perhaps_best_known for his_role as Chris_Stamp on All_My_Children from 2001 to 2003 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jack'), (5, 'Scalia'), (12, '('), (13, 'born'), (18, 'November'), (27, '10'), (29, ','), (31, '1950'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actor'), (57, '.'), (59, 'He'), (62, 'has'), (66, 'had'), (70, 'many'), (75, 'roles'), (81, 'in'), (84, 'television'), (95, 'series'), (102, '('), (103, 'both'), (108, 'as'), (111, 'a'), (113, 'regular'), (121, 'and'), (125, 'as'), (128, 'a'), (130, 'guest-star'), (140, ')'), (141, ','), (143, 'television'), (154, 'movies'), (160, ','), (162, 'and'), (166, 'feature'), (174, 'films'), (179, '.'), (181, 'He'), (184, 'is'), (187, 'perhaps'), (195, 'best'), (200, 'known'), (206, 'for'), (210, 'his'), (214, 'role'), (219, 'as'), (222, 'Chris'), (228, 'Stamp'), (234, 'on'), (237, 'All'), (241, 'My'), (244, 'Children'), (253, 'from'), (258, '2001'), (263, 'to'), (266, '2003'), (270, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jack Scalia',0, 11), ('November 10, 1950',18, 35), ('an American actor',40, 57), ('has had',62, 69), ('many roles',70, 80), ('television series (',84, 103), ('a regular and',111, 124), ('a guest-star)',128, 141), ('television movies',143, 160), ('feature films',166, 179), ('is perhaps best known',184, 205), ('his role',210, 218), ('Chris Stamp',222, 233), ('All My Children',237, 252)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'JJ', 'NNS', 'IN', 'NN', 'NN', '-LRB-', 'CC', 'IN', 'DT', 'JJ', 'CC', 'IN', 'DT', 'NN', '-RRB-', ',', 'NN', 'NNS', ',', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'PRP$', 'NNS', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jack'), (5, 'Scalia'), (12, '('), (13, 'born'), (18, 'November'), (27, '10'), (29, ','), (31, '1950'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actor'), (57, '.'), (59, 'He'), (62, 'has'), (66, 'had'), (70, 'many'), (75, 'roles'), (81, 'in'), (84, 'television'), (95, 'series'), (102, '('), (103, 'both'), (108, 'as'), (111, 'a'), (113, 'regular'), (121, 'and'), (125, 'as'), (128, 'a'), (130, 'guest'), (135, '-'), (136, 'star'), (140, ')'), (141, ','), (143, 'television'), (154, 'movies'), (160, ','), (162, 'and'), (166, 'feature'), (174, 'films'), (179, '.'), (181, 'He'), (184, 'is'), (187, 'perhaps'), (195, 'best'), (200, 'known'), (206, 'for'), (210, 'his'), (214, 'role'), (219, 'as'), (222, 'Chris'), (228, 'Stamp'), (234, 'on'), (237, 'All'), (241, 'My'), (244, 'Children'), (253, 'from'), (258, '2001'), (263, 'to'), (266, '2003'), (270, '.')])</spacy_tokens>
+<spacy_chunks>[('Jack Scalia', 0, 11), ('November 10, 1950', 18, 35), ('an American actor', 40, 57), ('many roles', 70, 80), ('television series', 84, 101), ('a guest-star', 128, 140), ('television movies', 143, 160), ('feature films', 166, 179), ('his role', 210, 218), ('Chris Stamp', 222, 233), ('All My Children', 237, 252)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'JJ', 'NNS', 'IN', 'NN', 'NN', '-LRB-', 'DT', 'IN', 'DT', 'JJ', 'CC', 'IN', 'DT', 'NN', 'HYPH', 'NN', '-RRB-', ',', 'NN', 'NNS', ',', 'CC', 'NN', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'PDT', 'PRP$', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Franklin Ritchie</title>
+<link/>https://en.wikipedia.org/wiki/Franklin_Ritchie
+<annotated>0</annotated>
+<originalabstract>Franklin Ritchie (June 26, 1865 – January 26, 1918) was an American actor of the silent film era. He appeared in 51 films between 1913 and 1917. He was born in Ritchie, Pennsylvania and died in Los Angeles, California.</originalabstract>
+<abstract>Franklin_Ritchie ( June_26_,_1865 – January_26_,_1918 ) was an_American_actor of the_silent_film_era . He appeared in 51_films between 1913_and_1917 . He was_born in Ritchie , Pennsylvania and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Franklin'), (9, 'Ritchie'), (17, '('), (18, 'June'), (23, '26'), (25, ','), (27, '1865'), (32, '–'), (34, 'January'), (42, '26'), (44, ','), (46, '1918'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (74, 'of'), (77, 'the'), (81, 'silent'), (88, 'film'), (93, 'era'), (96, '.'), (98, 'He'), (101, 'appeared'), (110, 'in'), (113, '51'), (116, 'films'), (122, 'between'), (130, '1913'), (135, 'and'), (139, '1917'), (143, '.'), (145, 'He'), (148, 'was'), (152, 'born'), (157, 'in'), (160, 'Ritchie'), (167, ','), (169, 'Pennsylvania'), (182, 'and'), (186, 'died'), (191, 'in'), (194, 'Los'), (198, 'Angeles'), (205, ','), (207, 'California'), (217, '.')])</stanford_tokens>
+<opennlp_chunks>[('Franklin Ritchie',0, 16), ('June 26, 1865',18, 31), ('January 26, 1918',34, 50), ('an American actor',56, 73), ('the silent film era',77, 96), ('51 films',113, 121), ('1913 and 1917',130, 143), ('was born',148, 156), ('Los Angeles',194, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Franklin'), (9, 'Ritchie'), (17, '('), (18, 'June'), (23, '26'), (25, ','), (27, '1865'), (32, '–'), (34, 'January'), (42, '26'), (44, ','), (46, '1918'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (74, 'of'), (77, 'the'), (81, 'silent'), (88, 'film'), (93, 'era'), (96, '.'), (98, 'He'), (101, 'appeared'), (110, 'in'), (113, '51'), (116, 'films'), (122, 'between'), (130, '1913'), (135, 'and'), (139, '1917'), (143, '.'), (145, 'He'), (148, 'was'), (152, 'born'), (157, 'in'), (160, 'Ritchie'), (167, ','), (169, 'Pennsylvania'), (182, 'and'), (186, 'died'), (191, 'in'), (194, 'Los'), (198, 'Angeles'), (205, ','), (207, 'California'), (217, '.')])</spacy_tokens>
+<spacy_chunks>[('Franklin Ritchie', 0, 16), ('June 26, 1865', 18, 31), ('January 26, 1918', 34, 50), ('an American actor', 56, 73), ('the silent film era', 77, 96), ('51 films', 113, 121), ('Ritchie, Pennsylvania', 160, 181), ('Los Angeles, California', 194, 217)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

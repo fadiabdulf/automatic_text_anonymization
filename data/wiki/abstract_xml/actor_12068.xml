@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jada Fire</title>
+<link/>https://en.wikipedia.org/wiki/Jada_Fire
+<annotated>0</annotated>
+<originalabstract>Jada Fire (born September 1, 1976) is an American retired pornographic actress. On February 2, 2012 she announced that she was retiring from pornography.In 2008, she played the role of Condi (a parody of then Secretary of State Condoleezza Rice) in the Hustler production Who's Nailin' Paylin?.</originalabstract>
+<abstract>Jada_Fire ( born September_1_,_1976 ) is an_American_retired_pornographic_actress . On February_2_,_2012 she announced that she was_retiring from pornography.In_2008 , she played the_role of Condi_( a_parody of then_Secretary of State_Condoleezza_Rice_) in the_Hustler_production Who 's Nailin '_Paylin ? .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jada'), (5, 'Fire'), (10, '('), (11, 'born'), (16, 'September'), (26, '1'), (27, ','), (29, '1976'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'retired'), (58, 'pornographic'), (71, 'actress'), (78, '.'), (80, 'On'), (83, 'February'), (92, '2'), (93, ','), (95, '2012'), (100, 'she'), (104, 'announced'), (114, 'that'), (119, 'she'), (123, 'was'), (127, 'retiring'), (136, 'from'), (141, 'pornography.In'), (156, '2008'), (160, ','), (162, 'she'), (166, 'played'), (173, 'the'), (177, 'role'), (182, 'of'), (185, 'Condi'), (191, '('), (192, 'a'), (194, 'parody'), (201, 'of'), (204, 'then'), (209, 'Secretary'), (219, 'of'), (222, 'State'), (228, 'Condoleezza'), (240, 'Rice'), (244, ')'), (246, 'in'), (249, 'the'), (253, 'Hustler'), (261, 'production'), (272, 'Who'), (275, '\'s'), (278, 'Nailin'), (284, '\''), (286, 'Paylin'), (292, '?'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jada Fire',0, 9), ('September 1, 1976',16, 33), ('an American retired pornographic actress',38, 78), ('February 2, 2012',83, 99), ('was retiring',123, 135), ('pornography.In 2008',141, 160), ('the role',173, 181), ('Condi (',185, 192), ('a parody',192, 200), ('then Secretary',204, 218), ('State Condoleezza Rice)',222, 245), ('the Hustler production',249, 271), ('\' Paylin',284, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'JJ', 'NN', '.', 'IN', 'NNP', 'CD', ',', 'CD', 'PRP', 'VBD', 'IN', 'PRP', 'VBD', 'VBG', 'IN', 'NNP', 'CD', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', '-LRB-', 'DT', 'NN', 'IN', 'RB', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'IN', 'DT', 'NN', 'NN', 'WP', 'VBZ', 'NNP', 'POS', 'NNP', '.', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jada'), (5, 'Fire'), (10, '('), (11, 'born'), (16, 'September'), (26, '1'), (27, ','), (29, '1976'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'retired'), (58, 'pornographic'), (71, 'actress'), (78, '.'), (80, 'On'), (83, 'February'), (92, '2'), (93, ','), (95, '2012'), (100, 'she'), (104, 'announced'), (114, 'that'), (119, 'she'), (123, 'was'), (127, 'retiring'), (136, 'from'), (141, 'pornography'), (152, '.'), (153, 'In'), (156, '2008'), (160, ','), (162, 'she'), (166, 'played'), (173, 'the'), (177, 'role'), (182, 'of'), (185, 'Condi'), (191, '('), (192, 'a'), (194, 'parody'), (201, 'of'), (204, 'then'), (209, 'Secretary'), (219, 'of'), (222, 'State'), (228, 'Condoleezza'), (240, 'Rice'), (244, ')'), (246, 'in'), (249, 'the'), (253, 'Hustler'), (261, 'production'), (272, 'Who'), (275, "'s"), (278, 'Nailin'), (284, "'"), (286, 'Paylin'), (292, '?'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('Jada Fire', 0, 9), ('September 1, 1976', 16, 33), ('an American retired pornographic actress', 38, 78), ('February 2, 2012', 83, 99), ('pornography', 141, 152), ('the role', 173, 181), ('a parody', 192, 200), ('the Hustler production', 249, 271), ("Nailin' Paylin", 278, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'VBN', 'JJ', 'NN', '.', 'IN', 'NNP', 'CD', ',', 'CD', 'PRP', 'VBD', 'IN', 'PRP', 'VBD', 'VBG', 'IN', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', '-LRB-', 'DT', 'NN', 'IN', 'RB', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'IN', 'DT', 'NNP', 'NN', 'WP', 'VBZ', 'NNP', "''", 'NNP', '.', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

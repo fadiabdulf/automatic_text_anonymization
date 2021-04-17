@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Huffman</title>
+<link/>https://en.wikipedia.org/wiki/David_Huffman
+<annotated>0</annotated>
+<originalabstract>David Oliver Huffman (May 10, 1945 – February 27, 1985) was an American stage, television and film actor. His parents are Clarence Huffman a Western Electric shop foreman (retired) and Opal Huffman (née Dippel).</originalabstract>
+<abstract>David_Oliver_Huffman ( May_10_,_1945 – February_27_,_1985 ) was an_American_stage_,_television_and_film_actor . His_parents are Clarence_Huffman a_Western_Electric_shop_foreman ( retired_) and Opal_Huffman_(_née_Dippel_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Oliver'), (13, 'Huffman'), (21, '('), (22, 'May'), (26, '10'), (28, ','), (30, '1945'), (35, '–'), (37, 'February'), (46, '27'), (48, ','), (50, '1985'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'stage'), (77, ','), (79, 'television'), (90, 'and'), (94, 'film'), (99, 'actor'), (104, '.'), (106, 'His'), (110, 'parents'), (118, 'are'), (122, 'Clarence'), (131, 'Huffman'), (139, 'a'), (141, 'Western'), (149, 'Electric'), (158, 'shop'), (163, 'foreman'), (171, '('), (172, 'retired'), (179, ')'), (181, 'and'), (185, 'Opal'), (190, 'Huffman'), (198, '('), (199, 'née'), (203, 'Dippel'), (209, ')'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Oliver Huffman',0, 20), ('May 10, 1945',22, 34), ('February 27, 1985',37, 54), ('an American stage, television and film actor',60, 104), ('His parents',106, 117), ('Clarence Huffman',122, 138), ('a Western Electric shop foreman',139, 170), ('retired)',172, 180), ('Opal Huffman (née Dippel)',185, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP$', 'NNS', 'VBP', 'NNP', 'NNP', 'DT', 'NNP', 'NNP', 'NN', 'NN', '-LRB-', 'VBN', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Oliver'), (13, 'Huffman'), (21, '('), (22, 'May'), (26, '10'), (28, ','), (30, '1945'), (35, '–'), (37, 'February'), (46, '27'), (48, ','), (50, '1985'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'stage'), (77, ','), (79, 'television'), (90, 'and'), (94, 'film'), (99, 'actor'), (104, '.'), (106, 'His'), (110, 'parents'), (118, 'are'), (122, 'Clarence'), (131, 'Huffman'), (139, 'a'), (141, 'Western'), (149, 'Electric'), (158, 'shop'), (163, 'foreman'), (171, '('), (172, 'retired'), (179, ')'), (181, 'and'), (185, 'Opal'), (190, 'Huffman'), (198, '('), (199, 'née'), (203, 'Dippel'), (209, ')'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('David Oliver Huffman', 0, 20), ('May 10, 1945', 22, 34), ('February 27, 1985', 37, 54), ('an American stage', 60, 77), ('television and film actor', 79, 104), ('His parents', 106, 117), ('Clarence Huffman', 122, 138), ('a Western Electric shop foreman', 139, 170), ('Opal Huffman', 185, 197), ('(née Dippel', 198, 209)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP$', 'NNS', 'VBP', 'NNP', 'NNP', 'DT', 'NNP', 'NNP', 'NN', 'NN', '-LRB-', 'VBN', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

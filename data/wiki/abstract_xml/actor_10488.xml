@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Karen Austin</title>
+<link/>https://en.wikipedia.org/wiki/Karen_Austin
+<annotated>0</annotated>
+<originalabstract>Karen Austin (born October 24, 1955) is an American actress. She played Lana Wagner on the sitcom Night Court in 1984. Her film appearances include Summer Rental (1985), Jagged Edge (1985), and The Ladies Club (1986).</originalabstract>
+<abstract>Karen_Austin ( born October_24_,_1955 ) is an_American_actress . She played Lana_Wagner on the_sitcom_Night_Court in 1984 . Her_film_appearances include Summer_Rental_(_1985_) , Jagged_Edge_(_1985_) , and The_Ladies_Club_(_1986_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Karen'), (6, 'Austin'), (13, '('), (14, 'born'), (19, 'October'), (27, '24'), (29, ','), (31, '1955'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (59, '.'), (61, 'She'), (65, 'played'), (72, 'Lana'), (77, 'Wagner'), (84, 'on'), (87, 'the'), (91, 'sitcom'), (98, 'Night'), (104, 'Court'), (110, 'in'), (113, '1984'), (117, '.'), (119, 'Her'), (123, 'film'), (128, 'appearances'), (140, 'include'), (148, 'Summer'), (155, 'Rental'), (162, '('), (163, '1985'), (167, ')'), (168, ','), (170, 'Jagged'), (177, 'Edge'), (182, '('), (183, '1985'), (187, ')'), (188, ','), (190, 'and'), (194, 'The'), (198, 'Ladies'), (205, 'Club'), (210, '('), (211, '1986'), (215, ')'), (216, '.')])</stanford_tokens>
+<opennlp_chunks>[('Karen Austin',0, 12), ('October 24, 1955',19, 35), ('an American actress',40, 59), ('Lana Wagner',72, 83), ('the sitcom Night Court',87, 109), ('Her film appearances',119, 139), ('Summer Rental (1985)',148, 168), ('Jagged Edge (1985)',170, 188), ('The Ladies Club (1986)',194, 216)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'CD', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NNP', 'JJ', '-LRB-', 'CD', '-RRB-', ',', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Karen'), (6, 'Austin'), (13, '('), (14, 'born'), (19, 'October'), (27, '24'), (29, ','), (31, '1955'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (59, '.'), (61, 'She'), (65, 'played'), (72, 'Lana'), (77, 'Wagner'), (84, 'on'), (87, 'the'), (91, 'sitcom'), (98, 'Night'), (104, 'Court'), (110, 'in'), (113, '1984'), (117, '.'), (119, 'Her'), (123, 'film'), (128, 'appearances'), (140, 'include'), (148, 'Summer'), (155, 'Rental'), (162, '('), (163, '1985'), (167, ')'), (168, ','), (170, 'Jagged'), (177, 'Edge'), (182, '('), (183, '1985'), (187, ')'), (188, ','), (190, 'and'), (194, 'The'), (198, 'Ladies'), (205, 'Club'), (210, '('), (211, '1986'), (215, ')'), (216, '.')])</spacy_tokens>
+<spacy_chunks>[('Karen Austin', 0, 12), ('October 24, 1955', 19, 35), ('an American actress', 40, 59), ('Lana Wagner', 72, 83), ('the sitcom Night Court', 87, 109), ('Her film appearances', 119, 139), ('Summer Rental', 148, 161), ('Jagged Edge', 170, 181), ('The Ladies Club', 194, 209)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'CD', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'NNPS', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

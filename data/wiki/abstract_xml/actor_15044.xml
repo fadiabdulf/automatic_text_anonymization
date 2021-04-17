@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eileen Sedgwick</title>
+<link/>https://en.wikipedia.org/wiki/Eileen_Sedgwick
+<annotated>0</annotated>
+<originalabstract>Eileen Sedgwick (October 17, 1898 – March 15, 1991) was an American actress of the silent era. She appeared in 115 films during her 15-year career. She was the sister of film director Edward Sedgwick.</originalabstract>
+<abstract>Eileen_Sedgwick ( October_17_,_1898 – March_15_,_1991 ) was an_American_actress of the_silent_era . She appeared in 115_films during her_15-year_career . She was the_sister of film_director_Edward_Sedgwick .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eileen'), (7, 'Sedgwick'), (16, '('), (17, 'October'), (25, '17'), (27, ','), (29, '1898'), (34, '–'), (36, 'March'), (42, '15'), (44, ','), (46, '1991'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actress'), (76, 'of'), (79, 'the'), (83, 'silent'), (90, 'era'), (93, '.'), (95, 'She'), (99, 'appeared'), (108, 'in'), (111, '115'), (115, 'films'), (121, 'during'), (128, 'her'), (132, '15-year'), (140, 'career'), (146, '.'), (148, 'She'), (152, 'was'), (156, 'the'), (160, 'sister'), (167, 'of'), (170, 'film'), (175, 'director'), (184, 'Edward'), (191, 'Sedgwick'), (199, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eileen Sedgwick',0, 15), ('October 17, 1898',17, 33), ('March 15, 1991',36, 50), ('an American actress',56, 75), ('the silent era',79, 93), ('115 films',111, 120), ('her 15-year career',128, 146), ('the sister',156, 166), ('film director Edward Sedgwick',170, 199)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eileen'), (7, 'Sedgwick'), (16, '('), (17, 'October'), (25, '17'), (27, ','), (29, '1898'), (34, '–'), (36, 'March'), (42, '15'), (44, ','), (46, '1991'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actress'), (76, 'of'), (79, 'the'), (83, 'silent'), (90, 'era'), (93, '.'), (95, 'She'), (99, 'appeared'), (108, 'in'), (111, '115'), (115, 'films'), (121, 'during'), (128, 'her'), (132, '15-year'), (140, 'career'), (146, '.'), (148, 'She'), (152, 'was'), (156, 'the'), (160, 'sister'), (167, 'of'), (170, 'film'), (175, 'director'), (184, 'Edward'), (191, 'Sedgwick'), (199, '.')])</spacy_tokens>
+<spacy_chunks>[('Eileen Sedgwick', 0, 15), ('(October', 16, 24), ('October 17, 1898', 17, 33), ('March 15, 1991', 36, 50), ('an American actress', 56, 75), ('the silent era', 79, 93), ('115 films', 111, 120), ('her 15-year career', 128, 146), ('the sister', 156, 166), ('film director Edward Sedgwick', 170, 199)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

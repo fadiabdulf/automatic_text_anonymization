@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Glenn Butcher</title>
+<link/>https://en.wikipedia.org/wiki/Glenn_Butcher
+<annotated>0</annotated>
+<originalabstract>Glenn Butcher is an Australian actor and writer, known for Full Frontal (1993), Soft Fruit (1999), Play School (1997-2000) and Young Einstein (1988). Butcher starred in the 2005 television movie, Da Kath and Kim Code, and the 2012 comedy, Kath  Kimderella.</originalabstract>
+<abstract>Glenn_Butcher is an_Australian_actor_and_writer , known for Full_Frontal ( 1993 ) , Soft_Fruit ( 1999 ) , Play_School ( 1997-2000 ) and_Young_Einstein ( 1988 ) . Butcher starred in the_2005_television_movie , Da_Kath and Kim_Code , and the_2012_comedy , Kath_ .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Glenn'), (6, 'Butcher'), (14, 'is'), (17, 'an'), (20, 'Australian'), (31, 'actor'), (37, 'and'), (41, 'writer'), (47, ','), (49, 'known'), (55, 'for'), (59, 'Full'), (64, 'Frontal'), (72, '('), (73, '1993'), (77, ')'), (78, ','), (80, 'Soft'), (85, 'Fruit'), (91, '('), (92, '1999'), (96, ')'), (97, ','), (99, 'Play'), (104, 'School'), (111, '('), (112, '1997-2000'), (121, ')'), (123, 'and'), (127, 'Young'), (133, 'Einstein'), (142, '('), (143, '1988'), (147, ')'), (148, '.'), (150, 'Butcher'), (158, 'starred'), (166, 'in'), (169, 'the'), (173, '2005'), (178, 'television'), (189, 'movie'), (194, ','), (196, 'Da'), (199, 'Kath'), (204, 'and'), (208, 'Kim'), (212, 'Code'), (216, ','), (218, 'and'), (222, 'the'), (226, '2012'), (231, 'comedy'), (237, ','), (239, 'Kath'), (244, ''), (246, 'Kimderella'), (256, '.')])</stanford_tokens>
+<opennlp_chunks>[('Glenn Butcher',0, 13), ('an Australian actor and writer',17, 47), ('Full Frontal',59, 71), ('Soft Fruit',80, 90), ('Play School',99, 110), ('and Young Einstein',123, 141), ('the 2005 television movie',169, 194), ('Da Kath',196, 203), ('Kim Code',208, 216), ('the 2012 comedy',222, 237), ('Kath  Kimderella',239, 256)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'JJ', 'JJ', '-LRB-', 'CD', '-RRB-', ',', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NN', ',', 'NN', 'NN', 'CC', 'NNP', 'NNP', ',', 'CC', 'DT', 'CD', 'NN', ',', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Glenn'), (6, 'Butcher'), (14, 'is'), (17, 'an'), (20, 'Australian'), (31, 'actor'), (37, 'and'), (41, 'writer'), (47, ','), (49, 'known'), (55, 'for'), (59, 'Full'), (64, 'Frontal'), (72, '('), (73, '1993'), (77, ')'), (78, ','), (80, 'Soft'), (85, 'Fruit'), (91, '('), (92, '1999'), (96, ')'), (97, ','), (99, 'Play'), (104, 'School'), (111, '('), (112, '1997'), (116, '-'), (117, '2000'), (121, ')'), (123, 'and'), (127, 'Young'), (133, 'Einstein'), (142, '('), (143, '1988'), (147, ')'), (148, '.'), (150, 'Butcher'), (158, 'starred'), (166, 'in'), (169, 'the'), (173, '2005'), (178, 'television'), (189, 'movie'), (194, ','), (196, 'Da'), (199, 'Kath'), (204, 'and'), (208, 'Kim'), (212, 'Code'), (216, ','), (218, 'and'), (222, 'the'), (226, '2012'), (231, 'comedy'), (237, ','), (239, 'Kath'), (245, 'Kimderella'), (255, '.')])</spacy_tokens>
+<spacy_chunks>[('Glenn Butcher', 0, 13), ('an Australian actor', 17, 36), ('writer', 41, 47), ('Full Frontal', 59, 71), ('Soft Fruit', 80, 90), ('School', 104, 110), ('the 2005 television movie', 169, 194)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NN', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'NN', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NN', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'CC', 'DT', 'CD', 'NN', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

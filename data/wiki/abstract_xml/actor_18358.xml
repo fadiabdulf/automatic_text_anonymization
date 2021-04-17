@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fanny Ardant</title>
+<link/>https://en.wikipedia.org/wiki/Fanny_Ardant
+<annotated>0</annotated>
+<originalabstract>Fanny Marguerite Judith Ardant (born 22 March 1949) is a French actress. She has appeared in more than eighty motion pictures since 1976. Ardant won the César Award for Best Actress in 1997 for her performance in Pédale douce.</originalabstract>
+<abstract>Fanny_Marguerite_Judith_Ardant ( born 22_March_1949 ) is a_French_actress . She has_appeared in more_than_eighty_motion_pictures since 1976 . Ardant won the_César_Award for_Best_Actress in 1997 for her_performance in Pédale_douce .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fanny'), (6, 'Marguerite'), (17, 'Judith'), (24, 'Ardant'), (31, '('), (32, 'born'), (37, '22'), (40, 'March'), (46, '1949'), (50, ')'), (52, 'is'), (55, 'a'), (57, 'French'), (64, 'actress'), (71, '.'), (73, 'She'), (77, 'has'), (81, 'appeared'), (90, 'in'), (93, 'more'), (98, 'than'), (103, 'eighty'), (110, 'motion'), (117, 'pictures'), (126, 'since'), (132, '1976'), (136, '.'), (138, 'Ardant'), (145, 'won'), (149, 'the'), (153, 'César'), (159, 'Award'), (165, 'for'), (169, 'Best'), (174, 'Actress'), (182, 'in'), (185, '1997'), (190, 'for'), (194, 'her'), (198, 'performance'), (210, 'in'), (213, 'Pédale'), (220, 'douce'), (225, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fanny Marguerite Judith Ardant',0, 30), ('22 March 1949',37, 50), ('a French actress',55, 71), ('has appeared',77, 89), ('more than eighty motion pictures',93, 125), ('the César Award',149, 164), ('for Best Actress',165, 181), ('her performance',194, 209), ('Pédale douce',213, 225)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NN', 'NNS', 'IN', 'CD', '.', 'NNP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'NN', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fanny'), (6, 'Marguerite'), (17, 'Judith'), (24, 'Ardant'), (31, '('), (32, 'born'), (37, '22'), (40, 'March'), (46, '1949'), (50, ')'), (52, 'is'), (55, 'a'), (57, 'French'), (64, 'actress'), (71, '.'), (73, 'She'), (77, 'has'), (81, 'appeared'), (90, 'in'), (93, 'more'), (98, 'than'), (103, 'eighty'), (110, 'motion'), (117, 'pictures'), (126, 'since'), (132, '1976'), (136, '.'), (138, 'Ardant'), (145, 'won'), (149, 'the'), (153, 'César'), (159, 'Award'), (165, 'for'), (169, 'Best'), (174, 'Actress'), (182, 'in'), (185, '1997'), (190, 'for'), (194, 'her'), (198, 'performance'), (210, 'in'), (213, 'Pédale'), (220, 'douce'), (225, '.')])</spacy_tokens>
+<spacy_chunks>[('Fanny Marguerite Judith Ardant', 0, 30), ('22 March 1949', 37, 50), ('a French actress', 55, 71), ('more than eighty motion pictures', 93, 125), ('the César Award', 149, 164), ('César Award for Best Actress', 153, 181), ('her performance', 194, 209), ('Pédale douce', 213, 225)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NN', 'NNS', 'IN', 'CD', '.', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

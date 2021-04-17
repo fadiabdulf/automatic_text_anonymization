@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chris D'Elia</title>
+<link/>https://en.wikipedia.org/wiki/Chris_D%27Elia
+<annotated>0</annotated>
+<originalabstract>Christopher D'Elia (born March 29, 1980) is an American stand-up comedian, actor, writer and podcast host. He is known for playing Alex Miller on the NBC sitcom Whitney; Danny Burton on the sitcom Undateable, also on NBC; and Kenny on The Good Doctor on ABC.</originalabstract>
+<abstract>Christopher_D'Elia ( born March_29_,_1980 ) is an_American_stand-up_comedian , actor_,_writer_and_podcast_host . He is_known for playing Alex_Miller on the_NBC_sitcom_Whitney ; Danny_Burton on the_sitcom_Undateable , also on NBC ; and Kenny on The_Good_Doctor on ABC .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Christopher'), (12, 'D\'Elia'), (19, '('), (20, 'born'), (25, 'March'), (31, '29'), (33, ','), (35, '1980'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'stand-up'), (65, 'comedian'), (73, ','), (75, 'actor'), (80, ','), (82, 'writer'), (89, 'and'), (93, 'podcast'), (101, 'host'), (105, '.'), (107, 'He'), (110, 'is'), (113, 'known'), (119, 'for'), (123, 'playing'), (131, 'Alex'), (136, 'Miller'), (143, 'on'), (146, 'the'), (150, 'NBC'), (154, 'sitcom'), (161, 'Whitney'), (168, ';'), (170, 'Danny'), (176, 'Burton'), (183, 'on'), (186, 'the'), (190, 'sitcom'), (197, 'Undateable'), (207, ','), (209, 'also'), (214, 'on'), (217, 'NBC'), (220, ';'), (222, 'and'), (226, 'Kenny'), (232, 'on'), (235, 'The'), (239, 'Good'), (244, 'Doctor'), (251, 'on'), (254, 'ABC'), (257, '.')])</stanford_tokens>
+<opennlp_chunks>[('Christopher D\'Elia',0, 18), ('March 29, 1980',25, 39), ('an American stand-up comedian',44, 73), ('actor, writer and podcast host',75, 105), ('is known',110, 118), ('Alex Miller',131, 142), ('the NBC sitcom Whitney',146, 168), ('Danny Burton',170, 182), ('the sitcom Undateable',186, 207), ('The Good Doctor',235, 250)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', ':', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'JJ', ',', 'RB', 'IN', 'NNP', ':', 'CC', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Christopher'), (12, "D'Elia"), (19, '('), (20, 'born'), (25, 'March'), (31, '29'), (33, ','), (35, '1980'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'stand'), (61, '-'), (62, 'up'), (65, 'comedian'), (73, ','), (75, 'actor'), (80, ','), (82, 'writer'), (89, 'and'), (93, 'podcast'), (101, 'host'), (105, '.'), (107, 'He'), (110, 'is'), (113, 'known'), (119, 'for'), (123, 'playing'), (131, 'Alex'), (136, 'Miller'), (143, 'on'), (146, 'the'), (150, 'NBC'), (154, 'sitcom'), (161, 'Whitney'), (168, ';'), (170, 'Danny'), (176, 'Burton'), (183, 'on'), (186, 'the'), (190, 'sitcom'), (197, 'Undateable'), (207, ','), (209, 'also'), (214, 'on'), (217, 'NBC'), (220, ';'), (222, 'and'), (226, 'Kenny'), (232, 'on'), (235, 'The'), (239, 'Good'), (244, 'Doctor'), (251, 'on'), (254, 'ABC'), (257, '.')])</spacy_tokens>
+<spacy_chunks>[("Christopher D'Elia", 0, 18), ('March 29, 1980', 25, 39), ('an American stand-up comedian', 44, 73), ('writer', 82, 88), ('podcast', 93, 100), ('Alex Miller', 131, 142), ('the NBC sitcom', 146, 160), ('Whitney', 161, 168), ('Danny Burton', 170, 182), ('the sitcom', 186, 196), ('Undateable', 197, 207), ('The Good Doctor', 235, 250)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'VB', 'HYPH', 'RP', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', ':', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', ',', 'RB', 'IN', 'NNP', ':', 'CC', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

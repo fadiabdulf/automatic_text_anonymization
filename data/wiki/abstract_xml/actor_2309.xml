@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fabian Forte</title>
+<link/>https://en.wikipedia.org/wiki/Fabian_Forte
+<annotated>0</annotated>
+<originalabstract>Fabiano Anthony Forte (born February 6, 1943), professionally known as Fabian, is an American singer and actor.
+Forte rose to national prominence after performing several times on American Bandstand. He became a teen idol of the late 1950s and early 1960s. Eleven of his songs reached the Billboard Hot 100 listing.</originalabstract>
+<abstract>Fabiano_Anthony_Forte ( born February_6_,_1943 ) , professionally_known as Fabian , is an_American_singer_and_actor . Forte rose to national_prominence after performing several_times on American_Bandstand . He became a_teen_idol of the_late_1950s and early_1960s . Eleven of his_songs reached the_Billboard_Hot_100_listing .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fabiano'), (8, 'Anthony'), (16, 'Forte'), (22, '('), (23, 'born'), (28, 'February'), (37, '6'), (38, ','), (40, '1943'), (44, ')'), (45, ','), (47, 'professionally'), (62, 'known'), (68, 'as'), (71, 'Fabian'), (77, ','), (79, 'is'), (82, 'an'), (85, 'American'), (94, 'singer'), (101, 'and'), (105, 'actor'), (110, '.'), (112, 'Forte'), (118, 'rose'), (123, 'to'), (126, 'national'), (135, 'prominence'), (146, 'after'), (152, 'performing'), (163, 'several'), (171, 'times'), (177, 'on'), (180, 'American'), (189, 'Bandstand'), (198, '.'), (200, 'He'), (203, 'became'), (210, 'a'), (212, 'teen'), (217, 'idol'), (222, 'of'), (225, 'the'), (229, 'late'), (234, '1950s'), (240, 'and'), (244, 'early'), (250, '1960s'), (255, '.'), (257, 'Eleven'), (264, 'of'), (267, 'his'), (271, 'songs'), (277, 'reached'), (285, 'the'), (289, 'Billboard'), (299, 'Hot'), (303, '100'), (307, 'listing'), (314, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fabiano Anthony Forte',0, 21), ('February 6, 1943',28, 44), ('professionally known',47, 67), ('an American singer and actor',82, 110), ('national prominence',126, 145), ('several times',163, 176), ('American Bandstand',180, 198), ('a teen idol',210, 221), ('the late 1950s',225, 239), ('early 1960s',244, 255), ('his songs',267, 276), ('the Billboard Hot 100 listing',285, 314)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'TO', 'JJ', 'NN', 'IN', 'VBG', 'JJ', 'NNS', 'IN', 'JJ', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.', 'CD', 'IN', 'PRP$', 'NNS', 'VBD', 'DT', 'NNP', 'NNP', 'CD', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fabiano'), (8, 'Anthony'), (16, 'Forte'), (22, '('), (23, 'born'), (28, 'February'), (37, '6'), (38, ','), (40, '1943'), (44, ')'), (45, ','), (47, 'professionally'), (62, 'known'), (68, 'as'), (71, 'Fabian'), (77, ','), (79, 'is'), (82, 'an'), (85, 'American'), (94, 'singer'), (101, 'and'), (105, 'actor'), (110, '.'), (112, 'Forte'), (118, 'rose'), (123, 'to'), (126, 'national'), (135, 'prominence'), (146, 'after'), (152, 'performing'), (163, 'several'), (171, 'times'), (177, 'on'), (180, 'American'), (189, 'Bandstand'), (198, '.'), (200, 'He'), (203, 'became'), (210, 'a'), (212, 'teen'), (217, 'idol'), (222, 'of'), (225, 'the'), (229, 'late'), (234, '1950s'), (240, 'and'), (244, 'early'), (250, '1960s'), (255, '.'), (257, 'Eleven'), (264, 'of'), (267, 'his'), (271, 'songs'), (277, 'reached'), (285, 'the'), (289, 'Billboard'), (299, 'Hot'), (303, '100'), (307, 'listing'), (314, '.')])</spacy_tokens>
+<spacy_chunks>[('Fabiano Anthony Forte', 0, 21), ('February 6, 1943', 28, 44), ('an American singer', 82, 100), ('national prominence', 126, 145), ('American Bandstand', 180, 198), ('a teen idol', 210, 221), ('the late 1950s', 225, 239), ('early 1960s', 244, 255), ('his songs', 267, 276), ('the Billboard Hot 100 listing', 285, 314)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'IN', 'JJ', 'NN', 'IN', 'VBG', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.', 'CD', 'IN', 'PRP$', 'NNS', 'VBD', 'DT', 'NNP', 'NNP', 'CD', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Victoria Vinton</title>
+<link/>https://en.wikipedia.org/wiki/Victoria_Vinton
+<annotated>0</annotated>
+<originalabstract>Victoria Vinton, born Victoria Velnette Vinton (August 23, 1912 – June 12, 1980) was an early B-movie actress, starring in over thirty films from 1932 into 1940, mostly in westerns.</originalabstract>
+<abstract>Victoria_Vinton , born Victoria_Velnette_Vinton ( August_23_,_1912 – June_12_,_1980 ) was an_early_B-movie_actress , starring in over_thirty_films from 1932 into 1940 , mostly in westerns .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Victoria'), (9, 'Vinton'), (15, ','), (17, 'born'), (22, 'Victoria'), (31, 'Velnette'), (40, 'Vinton'), (47, '('), (48, 'August'), (55, '23'), (57, ','), (59, '1912'), (64, '–'), (66, 'June'), (71, '12'), (73, ','), (75, '1980'), (79, ')'), (81, 'was'), (85, 'an'), (88, 'early'), (94, 'B-movie'), (102, 'actress'), (109, ','), (111, 'starring'), (120, 'in'), (123, 'over'), (128, 'thirty'), (135, 'films'), (141, 'from'), (146, '1932'), (151, 'into'), (156, '1940'), (160, ','), (162, 'mostly'), (169, 'in'), (172, 'westerns'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('Victoria Vinton',0, 15), ('Victoria Velnette Vinton',22, 46), ('August 23, 1912',48, 63), ('June 12, 1980',66, 79), ('an early B-movie actress',85, 109), ('over thirty films',123, 140)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', ',', 'VBG', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'CD', ',', 'RB', 'IN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Victoria'), (9, 'Vinton'), (15, ','), (17, 'born'), (22, 'Victoria'), (31, 'Velnette'), (40, 'Vinton'), (47, '('), (48, 'August'), (55, '23'), (57, ','), (59, '1912'), (64, '–'), (66, 'June'), (71, '12'), (73, ','), (75, '1980'), (79, ')'), (81, 'was'), (85, 'an'), (88, 'early'), (94, 'B'), (95, '-'), (96, 'movie'), (102, 'actress'), (109, ','), (111, 'starring'), (120, 'in'), (123, 'over'), (128, 'thirty'), (135, 'films'), (141, 'from'), (146, '1932'), (151, 'into'), (156, '1940'), (160, ','), (162, 'mostly'), (169, 'in'), (172, 'westerns'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('Victoria Vinton', 0, 15), ('Victoria Velnette Vinton', 22, 46), ('August 23, 1912', 48, 63), ('June 12, 1980', 66, 79), ('an early B-movie actress', 85, 109), ('over thirty films', 123, 140), ('westerns', 172, 180)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'HYPH', 'NN', 'NN', ',', 'VBG', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'CD', ',', 'RB', 'IN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

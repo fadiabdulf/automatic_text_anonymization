@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sam Flint</title>
+<link/>https://en.wikipedia.org/wiki/Sam_Flint
+<annotated>0</annotated>
+<originalabstract>Sam Flint (October 19, 1882 – October 17, 1980) was an American actor.
+Flint was married to actress Ella Ethridge, whom he met after she watched him in a play in Galveston, Texas. Later they had an agreement: "Neither will accept a part with any company unless the contract includes the other."</originalabstract>
+<abstract>Sam_Flint ( October_19_,_1882 – October_17_,_1980 ) was an_American_actor . Flint was_married to actress_Ella_Ethridge , whom he met after she watched him in a_play in Galveston , Texas . Later they had an_agreement : " Neither will_accept a_part with any_company unless the_contract includes the_other . "</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sam'), (4, 'Flint'), (10, '('), (11, 'October'), (19, '19'), (21, ','), (23, '1882'), (28, '–'), (30, 'October'), (38, '17'), (40, ','), (42, '1980'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'Flint'), (77, 'was'), (81, 'married'), (89, 'to'), (92, 'actress'), (100, 'Ella'), (105, 'Ethridge'), (113, ','), (115, 'whom'), (120, 'he'), (123, 'met'), (127, 'after'), (133, 'she'), (137, 'watched'), (145, 'him'), (149, 'in'), (152, 'a'), (154, 'play'), (159, 'in'), (162, 'Galveston'), (171, ','), (173, 'Texas'), (178, '.'), (180, 'Later'), (186, 'they'), (191, 'had'), (195, 'an'), (198, 'agreement'), (207, ':'), (209, '"'), (210, 'Neither'), (218, 'will'), (223, 'accept'), (230, 'a'), (232, 'part'), (237, 'with'), (242, 'any'), (246, 'company'), (254, 'unless'), (261, 'the'), (265, 'contract'), (274, 'includes'), (283, 'the'), (287, 'other'), (292, '.'), (293, '"')])</stanford_tokens>
+<opennlp_chunks>[('Sam Flint',0, 9), ('October 19, 1882',11, 27), ('October 17, 1980',30, 46), ('an American actor',52, 69), ('was married',77, 88), ('actress Ella Ethridge',92, 113), ('a play',152, 158), ('an agreement',195, 207), ('will accept',218, 229), ('a part',230, 236), ('any company',242, 253), ('the contract',261, 273), ('the other',283, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'TO', 'NN', 'NNP', 'NNP', ',', 'WP', 'PRP', 'VBD', 'IN', 'PRP', 'VBD', 'PRP', 'IN', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'RB', 'PRP', 'VBD', 'DT', 'NN', ':', '``', 'CC', 'MD', 'VB', 'DT', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'VBZ', 'DT', 'JJ', '.', '\'\'']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sam'), (4, 'Flint'), (10, '('), (11, 'October'), (19, '19'), (21, ','), (23, '1882'), (28, '–'), (30, 'October'), (38, '17'), (40, ','), (42, '1980'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'Flint'), (77, 'was'), (81, 'married'), (89, 'to'), (92, 'actress'), (100, 'Ella'), (105, 'Ethridge'), (113, ','), (115, 'whom'), (120, 'he'), (123, 'met'), (127, 'after'), (133, 'she'), (137, 'watched'), (145, 'him'), (149, 'in'), (152, 'a'), (154, 'play'), (159, 'in'), (162, 'Galveston'), (171, ','), (173, 'Texas'), (178, '.'), (180, 'Later'), (186, 'they'), (191, 'had'), (195, 'an'), (198, 'agreement'), (207, ':'), (209, '"'), (210, 'Neither'), (218, 'will'), (223, 'accept'), (230, 'a'), (232, 'part'), (237, 'with'), (242, 'any'), (246, 'company'), (254, 'unless'), (261, 'the'), (265, 'contract'), (274, 'includes'), (283, 'the'), (287, 'other'), (292, '.'), (293, '"')])</spacy_tokens>
+<spacy_chunks>[('Sam Flint', 0, 9), ('(October', 10, 18), ('October 19, 1882', 11, 27), ('October 17, 1980', 30, 46), ('an American actor', 52, 69), ('actress Ella Ethridge', 92, 113), ('a play', 152, 158), ('Galveston', 162, 171), ('an agreement', 195, 207), ('a part', 230, 236), ('any company', 242, 253), ('the contract', 261, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'JJ', 'IN', 'NN', 'NNP', 'NNP', ',', 'WP', 'PRP', 'VBD', 'IN', 'PRP', 'VBD', 'PRP', 'IN', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', '.', 'RB', 'PRP', 'VBD', 'DT', 'NN', ':', '``', 'CC', 'MD', 'VB', 'DT', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'VBZ', 'DT', 'JJ', '.', "''"]</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

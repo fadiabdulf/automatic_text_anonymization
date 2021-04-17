@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ross Bagley</title>
+<link/>https://en.wikipedia.org/wiki/Ross_Bagley
+<annotated>0</annotated>
+<originalabstract>Ross Elliot Bagley (born December 5, 1988) is an American former actor and comedian he is best known for his role as Nicky Banks in The Fresh Prince of Bel-Air as well as Dylan Dubrow-Hiller in Independence Day.</originalabstract>
+<abstract>Ross_Elliot_Bagley ( born December_5_,_1988 ) is an_American_former_actor_and_comedian he is_best_known for his_role as Nicky_Banks in The_Fresh_Prince of Bel-Air as_well as Dylan_Dubrow-Hiller in Independence_Day .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ross'), (5, 'Elliot'), (12, 'Bagley'), (19, '('), (20, 'born'), (25, 'December'), (34, '5'), (35, ','), (37, '1988'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'former'), (65, 'actor'), (71, 'and'), (75, 'comedian'), (84, 'he'), (87, 'is'), (90, 'best'), (95, 'known'), (101, 'for'), (105, 'his'), (109, 'role'), (114, 'as'), (117, 'Nicky'), (123, 'Banks'), (129, 'in'), (132, 'The'), (136, 'Fresh'), (142, 'Prince'), (149, 'of'), (152, 'Bel-Air'), (160, 'as'), (163, 'well'), (168, 'as'), (171, 'Dylan'), (177, 'Dubrow-Hiller'), (191, 'in'), (194, 'Independence'), (207, 'Day'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ross Elliot Bagley',0, 18), ('December 5, 1988',25, 41), ('an American former actor and comedian',46, 83), ('is best known',87, 100), ('his role',105, 113), ('Nicky Banks',117, 128), ('The Fresh Prince',132, 148), ('as well',160, 167), ('Dylan Dubrow-Hiller',171, 190), ('Independence Day',194, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'RB', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ross'), (5, 'Elliot'), (12, 'Bagley'), (19, '('), (20, 'born'), (25, 'December'), (34, '5'), (35, ','), (37, '1988'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'former'), (65, 'actor'), (71, 'and'), (75, 'comedian'), (84, 'he'), (87, 'is'), (90, 'best'), (95, 'known'), (101, 'for'), (105, 'his'), (109, 'role'), (114, 'as'), (117, 'Nicky'), (123, 'Banks'), (129, 'in'), (132, 'The'), (136, 'Fresh'), (142, 'Prince'), (149, 'of'), (152, 'Bel'), (155, '-'), (156, 'Air'), (160, 'as'), (163, 'well'), (168, 'as'), (171, 'Dylan'), (177, 'Dubrow'), (183, '-'), (184, 'Hiller'), (191, 'in'), (194, 'Independence'), (207, 'Day'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Ross Elliot Bagley', 0, 18), ('December 5, 1988', 25, 41), ('an American former actor', 46, 70), ('comedian', 75, 83), ('his role', 105, 113), ('Nicky Banks', 117, 128), ('The Fresh Prince of Bel-Air', 132, 159), ('Dylan Dubrow-Hiller', 171, 190), ('Independence Day', 194, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'HYPH', 'NNP', 'RB', 'RB', 'IN', 'NNP', 'NNP', 'HYPH', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

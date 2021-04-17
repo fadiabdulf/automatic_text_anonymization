@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Rand (actor)</title>
+<link/>https://en.wikipedia.org/wiki/John_Rand_(actor)
+<annotated>0</annotated>
+<originalabstract>John Rand (November 19, 1871–January 25, 1940) was an American actor who started his film career in the 1910s, and most notably supported Charles Chaplin in over 20 of his subjects.</originalabstract>
+<abstract>John_Rand ( November_19_,_1871 – January_25_,_1940 ) was an_American_actor who started his_film_career in the_1910s , and most_notably_supported_Charles_Chaplin in over_20 of his_subjects .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Rand'), (10, '('), (11, 'November'), (20, '19'), (22, ','), (24, '1871'), (28, '–'), (29, 'January'), (37, '25'), (39, ','), (41, '1940'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'who'), (73, 'started'), (81, 'his'), (85, 'film'), (90, 'career'), (97, 'in'), (100, 'the'), (104, '1910s'), (109, ','), (111, 'and'), (115, 'most'), (120, 'notably'), (128, 'supported'), (138, 'Charles'), (146, 'Chaplin'), (154, 'in'), (157, 'over'), (162, '20'), (165, 'of'), (168, 'his'), (172, 'subjects'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Rand',0, 9), ('November 19, 1871',11, 28), ('January 25, 1940',29, 45), ('an American actor',51, 68), ('his film career',81, 96), ('the 1910s',100, 109), ('most notably supported Charles Chaplin',115, 153), ('over 20',157, 164), ('his subjects',168, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'DT', 'CD', ',', 'CC', 'RBS', 'RB', 'VBN', 'NNP', 'NNP', 'IN', 'IN', 'CD', 'IN', 'PRP$', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Rand'), (10, '('), (11, 'November'), (20, '19'), (22, ','), (24, '1871–January'), (37, '25'), (39, ','), (41, '1940'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'who'), (73, 'started'), (81, 'his'), (85, 'film'), (90, 'career'), (97, 'in'), (100, 'the'), (104, '1910s'), (109, ','), (111, 'and'), (115, 'most'), (120, 'notably'), (128, 'supported'), (138, 'Charles'), (146, 'Chaplin'), (154, 'in'), (157, 'over'), (162, '20'), (165, 'of'), (168, 'his'), (172, 'subjects'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('John Rand', 0, 9), ('(November', 10, 19), ('November 19, 1871', 11, 28), ('January 25, 1940', 29, 45), ('an American actor', 51, 68), ('his film career', 81, 96), ('the 1910s', 100, 109), ('Charles Chaplin', 138, 153), ('his subjects', 168, 180)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'DT', 'NNS', ',', 'CC', 'RBS', 'RB', 'VBD', 'NNP', 'NNP', 'IN', 'IN', 'CD', 'IN', 'PRP$', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

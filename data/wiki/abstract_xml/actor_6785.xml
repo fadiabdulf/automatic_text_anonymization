@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lewis Van Bergen</title>
+<link/>https://en.wikipedia.org/wiki/Lewis_Van_Bergen
+<annotated>0</annotated>
+<originalabstract>Lewis Van Bergen (born November 9, 1938) is an American actor, best known for his role as Jon Sable on the short-lived 1987 television series Sable.
+He was beaten by Warren Beatty's Bugsy Siegel in the film Bugsy, in the role of Joey Adonis, with whom Siegel competed for the affection of Virginia Hill.</originalabstract>
+<abstract>Lewis_Van_Bergen ( born November_9_,_1938 ) is an_American_actor , best_known for his_role as Jon_Sable on the_short-lived_1987_television_series_Sable . He was_beaten by Warren_Beatty 's_Bugsy_Siegel in the_film Bugsy , in the_role of Joey_Adonis , with whom Siegel competed for the_affection of Virginia_Hill .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lewis'), (6, 'Van'), (10, 'Bergen'), (17, '('), (18, 'born'), (23, 'November'), (32, '9'), (33, ','), (35, '1938'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (61, ','), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'role'), (87, 'as'), (90, 'Jon'), (94, 'Sable'), (100, 'on'), (103, 'the'), (107, 'short-lived'), (119, '1987'), (124, 'television'), (135, 'series'), (142, 'Sable'), (147, '.'), (149, 'He'), (152, 'was'), (156, 'beaten'), (163, 'by'), (166, 'Warren'), (173, 'Beatty'), (179, '\'s'), (182, 'Bugsy'), (188, 'Siegel'), (195, 'in'), (198, 'the'), (202, 'film'), (207, 'Bugsy'), (212, ','), (214, 'in'), (217, 'the'), (221, 'role'), (226, 'of'), (229, 'Joey'), (234, 'Adonis'), (240, ','), (242, 'with'), (247, 'whom'), (252, 'Siegel'), (259, 'competed'), (268, 'for'), (272, 'the'), (276, 'affection'), (286, 'of'), (289, 'Virginia'), (298, 'Hill'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lewis Van Bergen',0, 16), ('November 9, 1938',23, 39), ('an American actor',44, 61), ('best known',63, 73), ('his role',78, 86), ('Jon Sable',90, 99), ('the short-lived 1987 television series Sable',103, 147), ('was beaten',152, 162), ('Warren Beatty',166, 179), ('\'s Bugsy Siegel',179, 194), ('the film',198, 206), ('the role',217, 225), ('Joey Adonis',229, 240), ('the affection',272, 285), ('Virginia Hill',289, 302)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'CD', 'NN', 'NN', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', ',', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'WP', 'NNP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lewis'), (6, 'Van'), (10, 'Bergen'), (17, '('), (18, 'born'), (23, 'November'), (32, '9'), (33, ','), (35, '1938'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (61, ','), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'role'), (87, 'as'), (90, 'Jon'), (94, 'Sable'), (100, 'on'), (103, 'the'), (107, 'short'), (112, '-'), (113, 'lived'), (119, '1987'), (124, 'television'), (135, 'series'), (142, 'Sable'), (147, '.'), (149, 'He'), (152, 'was'), (156, 'beaten'), (163, 'by'), (166, 'Warren'), (173, 'Beatty'), (179, "'s"), (182, 'Bugsy'), (188, 'Siegel'), (195, 'in'), (198, 'the'), (202, 'film'), (207, 'Bugsy'), (212, ','), (214, 'in'), (217, 'the'), (221, 'role'), (226, 'of'), (229, 'Joey'), (234, 'Adonis'), (240, ','), (242, 'with'), (247, 'whom'), (252, 'Siegel'), (259, 'competed'), (268, 'for'), (272, 'the'), (276, 'affection'), (286, 'of'), (289, 'Virginia'), (298, 'Hill'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Lewis Van Bergen', 0, 16), ('November 9, 1938', 23, 39), ('an American actor', 44, 61), ('his role', 78, 86), ('Jon Sable', 90, 99), ('the short-lived 1987 television series', 103, 141), ("Warren Beatty's Bugsy Siegel", 166, 194), ('the film', 198, 206), ('the role', 217, 225), ('Joey Adonis', 229, 240), ('the affection', 272, 285), ('Virginia Hill', 289, 302)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'RB', 'HYPH', 'VBN', 'CD', 'NN', 'NN', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', ',', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'WP', 'NNP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

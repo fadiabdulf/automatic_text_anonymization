@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barbara Kent</title>
+<link/>https://en.wikipedia.org/wiki/Barbara_Kent
+<annotated>0</annotated>
+<originalabstract>Barbara Kent (born Barbara Cloutman, December 16, 1907 – October 13, 2011) was an American film actress, prominent from the silent film era to the early talkies of the 1920s and 1930s, and a former (1925) Miss Hollywood.</originalabstract>
+<abstract>Barbara_Kent ( born Barbara_Cloutman , December_16_,_1907 – October_13_,_2011 ) was an_American_film_actress , prominent from the_silent_film_era to the_early_talkies of the_1920s_and_1930s , and a_former ( 1925 ) Miss_Hollywood .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barbara'), (8, 'Kent'), (13, '('), (14, 'born'), (19, 'Barbara'), (27, 'Cloutman'), (35, ','), (37, 'December'), (46, '16'), (48, ','), (50, '1907'), (55, '–'), (57, 'October'), (65, '13'), (67, ','), (69, '2011'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'American'), (91, 'film'), (96, 'actress'), (103, ','), (105, 'prominent'), (115, 'from'), (120, 'the'), (124, 'silent'), (131, 'film'), (136, 'era'), (140, 'to'), (143, 'the'), (147, 'early'), (153, 'talkies'), (161, 'of'), (164, 'the'), (168, '1920s'), (174, 'and'), (178, '1930s'), (183, ','), (185, 'and'), (189, 'a'), (191, 'former'), (198, '('), (199, '1925'), (203, ')'), (205, 'Miss'), (210, 'Hollywood'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barbara Kent',0, 12), ('Barbara Cloutman',19, 35), ('December 16, 1907',37, 54), ('October 13, 2011',57, 73), ('an American film actress',79, 103), ('the silent film era',120, 139), ('the early talkies',143, 160), ('the 1920s and 1930s',164, 183), ('a former',189, 197), ('Miss Hollywood',205, 219)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NN', 'TO', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'CD', 'CC', 'CD', ',', 'CC', 'DT', 'JJ', '-LRB-', 'CD', '-RRB-', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barbara'), (8, 'Kent'), (13, '('), (14, 'born'), (19, 'Barbara'), (27, 'Cloutman'), (35, ','), (37, 'December'), (46, '16'), (48, ','), (50, '1907'), (55, '–'), (57, 'October'), (65, '13'), (67, ','), (69, '2011'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'American'), (91, 'film'), (96, 'actress'), (103, ','), (105, 'prominent'), (115, 'from'), (120, 'the'), (124, 'silent'), (131, 'film'), (136, 'era'), (140, 'to'), (143, 'the'), (147, 'early'), (153, 'talkies'), (161, 'of'), (164, 'the'), (168, '1920s'), (174, 'and'), (178, '1930s'), (183, ','), (185, 'and'), (189, 'a'), (191, 'former'), (198, '('), (199, '1925'), (203, ')'), (205, 'Miss'), (210, 'Hollywood'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Barbara Kent', 0, 12), ('(born Barbara Cloutman', 13, 35), ('December 16, 1907', 37, 54), ('October 13, 2011', 57, 73), ('an American film actress', 79, 103), ('the silent film era', 120, 139), ('the early talkies', 143, 160), ('the 1920s', 164, 173), ('Miss Hollywood', 205, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', ',', 'CC', 'DT', 'JJ', '-LRB-', 'CD', '-RRB-', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

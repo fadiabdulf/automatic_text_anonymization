@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michael Sundin</title>
+<link/>https://en.wikipedia.org/wiki/Michael_Sundin
+<annotated>0</annotated>
+<originalabstract>Michael Sundin (1 March 1961 – 23 July 1989) was an English television presenter, actor, dancer and trampolinist. He was a presenter of the BBC children's programme Blue Peter presenter for 77 episodes between 1984 and 1985.</originalabstract>
+<abstract>Michael_Sundin ( 1_March_1961 – 23_July_1989 ) was an_English_television_presenter , actor , dancer_and_trampolinist . He was a_presenter of the_BBC_children 's_programme_Blue_Peter_presenter for 77_episodes between 1984_and_1985 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michael'), (8, 'Sundin'), (15, '('), (16, '1'), (18, 'March'), (24, '1961'), (29, '–'), (31, '23'), (34, 'July'), (39, '1989'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'television'), (71, 'presenter'), (80, ','), (82, 'actor'), (87, ','), (89, 'dancer'), (96, 'and'), (100, 'trampolinist'), (112, '.'), (114, 'He'), (117, 'was'), (121, 'a'), (123, 'presenter'), (133, 'of'), (136, 'the'), (140, 'BBC'), (144, 'children'), (152, '\'s'), (155, 'programme'), (165, 'Blue'), (170, 'Peter'), (176, 'presenter'), (186, 'for'), (190, '77'), (193, 'episodes'), (202, 'between'), (210, '1984'), (215, 'and'), (219, '1985'), (223, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michael Sundin',0, 14), ('1 March 1961',16, 28), ('23 July 1989',31, 43), ('an English television presenter',49, 80), ('dancer and trampolinist',89, 112), ('a presenter',121, 132), ('the BBC children',136, 152), ('\'s programme Blue Peter presenter',152, 185), ('77 episodes',190, 201), ('1984 and 1985',210, 223)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNS', 'POS', 'NN', 'NNP', 'NNP', 'NN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michael'), (8, 'Sundin'), (15, '('), (16, '1'), (18, 'March'), (24, '1961'), (29, '–'), (31, '23'), (34, 'July'), (39, '1989'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'television'), (71, 'presenter'), (80, ','), (82, 'actor'), (87, ','), (89, 'dancer'), (96, 'and'), (100, 'trampolinist'), (112, '.'), (114, 'He'), (117, 'was'), (121, 'a'), (123, 'presenter'), (133, 'of'), (136, 'the'), (140, 'BBC'), (144, 'children'), (152, "'s"), (155, 'programme'), (165, 'Blue'), (170, 'Peter'), (176, 'presenter'), (186, 'for'), (190, '77'), (193, 'episodes'), (202, 'between'), (210, '1984'), (215, 'and'), (219, '1985'), (223, '.')])</spacy_tokens>
+<spacy_chunks>[('Michael Sundin', 0, 14), ('(1 March', 15, 23), ('1 March 1961', 16, 28), ('23 July 1989', 31, 43), ('an English television presenter', 49, 80), ('dancer', 89, 95), ('trampolinist', 100, 112), ('a presenter', 121, 132), ("the BBC children's programme", 136, 164), ('Blue Peter presenter', 165, 185), ('77 episodes', 190, 201)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNS', 'POS', 'NN', 'NNP', 'NNP', 'NN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

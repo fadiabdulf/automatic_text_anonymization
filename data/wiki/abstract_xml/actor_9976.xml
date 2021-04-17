@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Moussa Maaskri</title>
+<link/>https://en.wikipedia.org/wiki/Moussa_Maaskri
+<annotated>0</annotated>
+<originalabstract>Moussa Maaskri (Arabic: موسى معسكري‎) (born 15 November 1962) is an Algerian-born French actor. He appeared in more than seventy films since 1991.</originalabstract>
+<abstract>Moussa_Maaskri ( Arabic : موسى_معسكري ) ( born 15_November_1962 ) is an_Algerian-born_French_actor . He appeared in more_than_seventy_films since 1991 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Moussa'), (7, 'Maaskri'), (15, '('), (16, 'Arabic'), (22, ':'), (24, 'موسى'), (29, 'معسكري'), (36, ')'), (38, '('), (39, 'born'), (44, '15'), (47, 'November'), (56, '1962'), (60, ')'), (62, 'is'), (65, 'an'), (68, 'Algerian-born'), (82, 'French'), (89, 'actor'), (94, '.'), (96, 'He'), (99, 'appeared'), (108, 'in'), (111, 'more'), (116, 'than'), (121, 'seventy'), (129, 'films'), (135, 'since'), (141, '1991'), (145, '.')])</stanford_tokens>
+<opennlp_chunks>[('Moussa Maaskri',0, 14), ('موسى معسكري',24, 35), ('15 November 1962',44, 60), ('an Algerian-born French actor',65, 94), ('more than seventy films',111, 134)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', 'CD', 'NN', '-RRB-', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Moussa'), (7, 'Maaskri'), (15, '('), (16, 'Arabic'), (22, ':'), (24, 'موسى'), (29, 'معسكري\u200e'), (36, ')'), (38, '('), (39, 'born'), (44, '15'), (47, 'November'), (56, '1962'), (60, ')'), (62, 'is'), (65, 'an'), (68, 'Algerian'), (76, '-'), (77, 'born'), (82, 'French'), (89, 'actor'), (94, '.'), (96, 'He'), (99, 'appeared'), (108, 'in'), (111, 'more'), (116, 'than'), (121, 'seventy'), (129, 'films'), (135, 'since'), (141, '1991'), (145, '.')])</spacy_tokens>
+<spacy_chunks>[('Moussa Maaskri', 0, 14), ('(Arabic', 15, 22), ('15 November 1962', 44, 60), ('an Algerian-born French actor', 65, 94), ('more than seventy films', 111, 134)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', 'NNP', 'NNP', '-RRB-', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

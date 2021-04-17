@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joe Mantell</title>
+<link/>https://en.wikipedia.org/wiki/Joe_Mantell
+<annotated>0</annotated>
+<originalabstract>Joe Mantell (né Mantel; December 21, 1915 – September 29, 2010) was an American actor of film and television. He was nominated for an Academy Award for Best Supporting Actor for his role as Angie in the 1955 film Marty, which won the Academy Award for Best Picture.</originalabstract>
+<abstract>Joe_Mantell ( né_Mantel ; December_21_,_1915 – September_29_,_2010 ) was an_American_actor of film_and_television . He was_nominated for an_Academy_Award for Best_Supporting_Actor for his_role as Angie in the_1955_film_Marty , which won the_Academy_Award for Best_Picture .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joe'), (4, 'Mantell'), (12, '('), (13, 'né'), (16, 'Mantel'), (22, ';'), (24, 'December'), (33, '21'), (35, ','), (37, '1915'), (42, '–'), (44, 'September'), (54, '29'), (56, ','), (58, '2010'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (86, 'of'), (89, 'film'), (94, 'and'), (98, 'television'), (108, '.'), (110, 'He'), (113, 'was'), (117, 'nominated'), (127, 'for'), (131, 'an'), (134, 'Academy'), (142, 'Award'), (148, 'for'), (152, 'Best'), (157, 'Supporting'), (168, 'Actor'), (174, 'for'), (178, 'his'), (182, 'role'), (187, 'as'), (190, 'Angie'), (196, 'in'), (199, 'the'), (203, '1955'), (208, 'film'), (213, 'Marty'), (218, ','), (220, 'which'), (226, 'won'), (230, 'the'), (234, 'Academy'), (242, 'Award'), (248, 'for'), (252, 'Best'), (257, 'Picture'), (264, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joe Mantell',0, 11), ('né Mantel',13, 22), ('December 21, 1915',24, 41), ('September 29, 2010',44, 62), ('an American actor',68, 85), ('film and television',89, 108), ('was nominated',113, 126), ('an Academy Award',131, 147), ('Best Supporting Actor',152, 173), ('his role',178, 186), ('the 1955 film Marty',199, 218), ('the Academy Award',230, 247), ('Best Picture',252, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NN', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', ',', 'WDT', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joe'), (4, 'Mantell'), (12, '('), (13, 'né'), (16, 'Mantel'), (22, ';'), (24, 'December'), (33, '21'), (35, ','), (37, '1915'), (42, '–'), (44, 'September'), (54, '29'), (56, ','), (58, '2010'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (86, 'of'), (89, 'film'), (94, 'and'), (98, 'television'), (108, '.'), (110, 'He'), (113, 'was'), (117, 'nominated'), (127, 'for'), (131, 'an'), (134, 'Academy'), (142, 'Award'), (148, 'for'), (152, 'Best'), (157, 'Supporting'), (168, 'Actor'), (174, 'for'), (178, 'his'), (182, 'role'), (187, 'as'), (190, 'Angie'), (196, 'in'), (199, 'the'), (203, '1955'), (208, 'film'), (213, 'Marty'), (218, ','), (220, 'which'), (226, 'won'), (230, 'the'), (234, 'Academy'), (242, 'Award'), (248, 'for'), (252, 'Best'), (257, 'Picture'), (264, '.')])</spacy_tokens>
+<spacy_chunks>[('Joe Mantell', 0, 11), ('(né Mantel', 12, 22), ('December 21, 1915', 24, 41), ('September 29, 2010', 44, 62), ('an American actor', 68, 85), ('television', 98, 108), ('an Academy Award', 131, 147), ('Academy Award for Best Supporting Actor', 134, 173), ('his role', 178, 186), ('the 1955 film', 199, 212), ('the Academy Award', 230, 247), ('Academy Award for Best Picture', 234, 264)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NN', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', ',', 'WDT', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

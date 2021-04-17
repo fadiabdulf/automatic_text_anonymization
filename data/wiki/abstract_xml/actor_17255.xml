@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Madeline Smith</title>
+<link/>https://en.wikipedia.org/wiki/Madeline_Smith
+<annotated>0</annotated>
+<originalabstract>Madeline Smith (born 2 August 1949) is an English actress. Having been a model in the late 1960s, she appeared in many television series and stage productions, plus comedy and horror films, in the 1970s and 1980s.</originalabstract>
+<abstract>Madeline_Smith ( born_2_August_1949 ) is an_English_actress . Having_been a_model in the_late_1960s , she appeared in many_television_series_and_stage_productions , plus comedy_and_horror_films , in the_1970s_and_1980s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Madeline'), (9, 'Smith'), (15, '('), (16, 'born'), (21, '2'), (23, 'August'), (30, '1949'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actress'), (57, '.'), (59, 'Having'), (66, 'been'), (71, 'a'), (73, 'model'), (79, 'in'), (82, 'the'), (86, 'late'), (91, '1960s'), (96, ','), (98, 'she'), (102, 'appeared'), (111, 'in'), (114, 'many'), (119, 'television'), (130, 'series'), (137, 'and'), (141, 'stage'), (147, 'productions'), (158, ','), (160, 'plus'), (165, 'comedy'), (172, 'and'), (176, 'horror'), (183, 'films'), (188, ','), (190, 'in'), (193, 'the'), (197, '1970s'), (203, 'and'), (207, '1980s'), (212, '.')])</stanford_tokens>
+<opennlp_chunks>[('Madeline Smith',0, 14), ('born 2 August 1949',16, 34), ('an English actress',39, 57), ('Having been',59, 70), ('a model',71, 78), ('the late 1960s',82, 96), ('many television series and stage productions',114, 158), ('comedy and horror films',165, 188), ('the 1970s and 1980s',193, 212)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'VBG', 'VBN', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NNS', ',', 'PRP', 'VBD', 'IN', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NNS', ',', 'CC', 'NN', 'CC', 'NN', 'NNS', ',', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Madeline'), (9, 'Smith'), (15, '('), (16, 'born'), (21, '2'), (23, 'August'), (30, '1949'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actress'), (57, '.'), (59, 'Having'), (66, 'been'), (71, 'a'), (73, 'model'), (79, 'in'), (82, 'the'), (86, 'late'), (91, '1960s'), (96, ','), (98, 'she'), (102, 'appeared'), (111, 'in'), (114, 'many'), (119, 'television'), (130, 'series'), (137, 'and'), (141, 'stage'), (147, 'productions'), (158, ','), (160, 'plus'), (165, 'comedy'), (172, 'and'), (176, 'horror'), (183, 'films'), (188, ','), (190, 'in'), (193, 'the'), (197, '1970s'), (203, 'and'), (207, '1980s'), (212, '.')])</spacy_tokens>
+<spacy_chunks>[('Madeline Smith', 0, 14), ('2 August 1949', 21, 34), ('an English actress', 39, 57), ('a model', 71, 78), ('In The', 79, 85), ('the late 1960s', 82, 96), ('many television series', 114, 136), ('stage productions', 141, 158), ('comedy and horror films', 165, 188), ('the 1970s', 193, 202)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'VBG', 'VBN', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NNS', ',', 'PRP', 'VBD', 'IN', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NNS', ',', 'CC', 'NN', 'CC', 'NN', 'NNS', ',', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

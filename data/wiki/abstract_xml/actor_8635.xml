@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arthur Lovegrove</title>
+<link/>https://en.wikipedia.org/wiki/Arthur_Lovegrove
+<annotated>0</annotated>
+<originalabstract>Arthur Lovegrove (15 July 1913 – 7 November 1981) was a British actor and playwright. His comedy Goodnight Mrs Puffin starring Irene Handl, ran for 3 years in London's West End, from 1961.</originalabstract>
+<abstract>Arthur_Lovegrove ( 15_July_1913 – 7_November_1981 ) was a_British_actor_and_playwright . His_comedy_Goodnight_Mrs_Puffin starring Irene_Handl , ran for 3_years in London 's_West_End , from 1961 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthur'), (7, 'Lovegrove'), (17, '('), (18, '15'), (21, 'July'), (26, '1913'), (31, '–'), (33, '7'), (35, 'November'), (44, '1981'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'British'), (64, 'actor'), (70, 'and'), (74, 'playwright'), (84, '.'), (86, 'His'), (90, 'comedy'), (97, 'Goodnight'), (107, 'Mrs'), (111, 'Puffin'), (118, 'starring'), (127, 'Irene'), (133, 'Handl'), (138, ','), (140, 'ran'), (144, 'for'), (148, '3'), (150, 'years'), (156, 'in'), (159, 'London'), (165, '\'s'), (168, 'West'), (173, 'End'), (176, ','), (178, 'from'), (183, '1961'), (187, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthur Lovegrove',0, 16), ('15 July 1913',18, 30), ('7 November 1981',33, 48), ('a British actor and playwright',54, 84), ('His comedy Goodnight Mrs Puffin',86, 117), ('Irene Handl',127, 138), ('3 years',148, 155), ('\'s West End',165, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', 'NNP', 'NNP', 'NNP', 'VBG', 'NNP', 'NNP', ',', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'NNP', 'POS', 'NNP', 'NNP', ',', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthur'), (7, 'Lovegrove'), (17, '('), (18, '15'), (21, 'July'), (26, '1913'), (31, '–'), (33, '7'), (35, 'November'), (44, '1981'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'British'), (64, 'actor'), (70, 'and'), (74, 'playwright'), (84, '.'), (86, 'His'), (90, 'comedy'), (97, 'Goodnight'), (107, 'Mrs'), (111, 'Puffin'), (118, 'starring'), (127, 'Irene'), (133, 'Handl'), (138, ','), (140, 'ran'), (144, 'for'), (148, '3'), (150, 'years'), (156, 'in'), (159, 'London'), (165, "'s"), (168, 'West'), (173, 'End'), (176, ','), (178, 'from'), (183, '1961'), (187, '.')])</spacy_tokens>
+<spacy_chunks>[('Arthur Lovegrove', 0, 16), ('(15 July', 17, 25), ('15 July 1913', 18, 30), ('7 November 1981', 33, 48), ('a British actor', 54, 69), ('playwright', 74, 84), ('His comedy', 86, 96), ('Goodnight Mrs Puffin', 97, 117), ('Irene Handl', 127, 138), ('3 years', 148, 155), ("London's West End", 159, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', 'NNP', 'NNP', 'NNP', 'VBG', 'NNP', 'NNP', ',', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'NNP', 'POS', 'NNP', 'NNP', ',', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jackie Moran</title>
+<link/>https://en.wikipedia.org/wiki/Jackie_Moran
+<annotated>0</annotated>
+<originalabstract>Jackie Moran (January 26, 1923 – September 20, 1990) was an American movie actor who, between 1936 and 1946, appeared in over thirty films, primarily in teenage roles.</originalabstract>
+<abstract>Jackie_Moran ( January_26_,_1923 – September_20_,_1990 ) was an_American_movie_actor who , between 1936_and_1946 , appeared in over_thirty_films , primarily in teenage_roles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jackie'), (7, 'Moran'), (13, '('), (14, 'January'), (22, '26'), (24, ','), (26, '1923'), (31, '–'), (33, 'September'), (43, '20'), (45, ','), (47, '1990'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'movie'), (75, 'actor'), (81, 'who'), (84, ','), (86, 'between'), (94, '1936'), (99, 'and'), (103, '1946'), (107, ','), (109, 'appeared'), (118, 'in'), (121, 'over'), (126, 'thirty'), (133, 'films'), (138, ','), (140, 'primarily'), (150, 'in'), (153, 'teenage'), (161, 'roles'), (166, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jackie Moran',0, 12), ('January 26, 1923',14, 30), ('September 20, 1990',33, 51), ('an American movie actor',57, 80), ('1936 and 1946',94, 107), ('over thirty films',121, 138), ('teenage roles',153, 166)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', ',', 'IN', 'CD', 'CC', 'CD', ',', 'VBD', 'IN', 'IN', 'CD', 'NNS', ',', 'RB', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jackie'), (7, 'Moran'), (13, '('), (14, 'January'), (22, '26'), (24, ','), (26, '1923'), (31, '–'), (33, 'September'), (43, '20'), (45, ','), (47, '1990'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'movie'), (75, 'actor'), (81, 'who'), (84, ','), (86, 'between'), (94, '1936'), (99, 'and'), (103, '1946'), (107, ','), (109, 'appeared'), (118, 'in'), (121, 'over'), (126, 'thirty'), (133, 'films'), (138, ','), (140, 'primarily'), (150, 'in'), (153, 'teenage'), (161, 'roles'), (166, '.')])</spacy_tokens>
+<spacy_chunks>[('Jackie Moran', 0, 12), ('(January', 13, 21), ('January 26, 1923', 14, 30), ('September 20, 1990', 33, 51), ('an American movie actor', 57, 80), ('over thirty films', 121, 138), ('teenage roles', 153, 166)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', ',', 'IN', 'CD', 'CC', 'CD', ',', 'VBD', 'IN', 'IN', 'CD', 'NNS', ',', 'RB', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lenne Hardt</title>
+<link/>https://en.wikipedia.org/wiki/Lenne_Hardt
+<annotated>0</annotated>
+<originalabstract>Lenne Hardt (born May 10) is a voice actress and ring announcer for Japanese mixed martial arts organizations. Her resume includes PRIDE Fighting Championships, DREAM, ONE Championship and Glory World Series and she currently works in Rizin Fighting Federation. She is also the official announcer for Japanese idol group Momoiro Clover Z.</originalabstract>
+<abstract>Lenne_Hardt ( born May_10 ) is a_voice_actress_and_ring_announcer for Japanese_mixed_martial_arts_organizations . Her_resume includes PRIDE_Fighting_Championships , DREAM , ONE_Championship_and_Glory_World_Series and she currently works in Rizin_Fighting_Federation . She is also the_official_announcer for Japanese_idol_group_Momoiro_Clover_Z.</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lenne'), (6, 'Hardt'), (12, '('), (13, 'born'), (18, 'May'), (22, '10'), (24, ')'), (26, 'is'), (29, 'a'), (31, 'voice'), (37, 'actress'), (45, 'and'), (49, 'ring'), (54, 'announcer'), (64, 'for'), (68, 'Japanese'), (77, 'mixed'), (83, 'martial'), (91, 'arts'), (96, 'organizations'), (109, '.'), (111, 'Her'), (115, 'resume'), (122, 'includes'), (131, 'PRIDE'), (137, 'Fighting'), (146, 'Championships'), (159, ','), (161, 'DREAM'), (166, ','), (168, 'ONE'), (172, 'Championship'), (185, 'and'), (189, 'Glory'), (195, 'World'), (201, 'Series'), (208, 'and'), (212, 'she'), (216, 'currently'), (226, 'works'), (232, 'in'), (235, 'Rizin'), (241, 'Fighting'), (250, 'Federation'), (260, '.'), (262, 'She'), (266, 'is'), (269, 'also'), (274, 'the'), (278, 'official'), (287, 'announcer'), (297, 'for'), (301, 'Japanese'), (310, 'idol'), (315, 'group'), (321, 'Momoiro'), (329, 'Clover'), (336, 'Z.')])</stanford_tokens>
+<opennlp_chunks>[('Lenne Hardt',0, 11), ('May 10',18, 24), ('a voice actress and ring announcer',29, 63), ('Japanese mixed martial arts organizations',68, 109), ('Her resume',111, 121), ('PRIDE Fighting Championships',131, 159), ('ONE Championship and Glory World Series',168, 207), ('Rizin Fighting Federation',235, 260), ('the official announcer',274, 296), ('Japanese idol group Momoiro Clover Z.',301, 338)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'NN', 'CC', 'NN', 'NN', 'IN', 'JJ', 'JJ', 'JJ', 'NNS', 'NNS', '.', 'PRP$', 'VBP', 'VBZ', 'NN', 'NN', 'NNS', ',', 'NN', ',', 'CD', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'CC', 'PRP', 'RB', 'VBZ', 'IN', 'NNP', 'NN', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lenne'), (6, 'Hardt'), (12, '('), (13, 'born'), (18, 'May'), (22, '10'), (24, ')'), (26, 'is'), (29, 'a'), (31, 'voice'), (37, 'actress'), (45, 'and'), (49, 'ring'), (54, 'announcer'), (64, 'for'), (68, 'Japanese'), (77, 'mixed'), (83, 'martial'), (91, 'arts'), (96, 'organizations'), (109, '.'), (111, 'Her'), (115, 'resume'), (122, 'includes'), (131, 'PRIDE'), (137, 'Fighting'), (146, 'Championships'), (159, ','), (161, 'DREAM'), (166, ','), (168, 'ONE'), (172, 'Championship'), (185, 'and'), (189, 'Glory'), (195, 'World'), (201, 'Series'), (208, 'and'), (212, 'she'), (216, 'currently'), (226, 'works'), (232, 'in'), (235, 'Rizin'), (241, 'Fighting'), (250, 'Federation'), (260, '.'), (262, 'She'), (266, 'is'), (269, 'also'), (274, 'the'), (278, 'official'), (287, 'announcer'), (297, 'for'), (301, 'Japanese'), (310, 'idol'), (315, 'group'), (321, 'Momoiro'), (329, 'Clover'), (336, 'Z.')])</spacy_tokens>
+<spacy_chunks>[('Lenne Hardt', 0, 11), ('a voice actress', 29, 44), ('Ring announcer', 49, 63), ('Japanese mixed martial arts organizations', 68, 109), ('Her resume', 111, 121), ('Pride Fighting Championships', 131, 159), ('ONE Championship and Glory World Series', 168, 207), ('Rizin Fighting Federation', 235, 260), ('the official announcer', 274, 296), ('Japanese idol group Momoiro Clover Z.', 301, 338)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', 'NN', 'CC', 'NN', 'NN', 'IN', 'JJ', 'VBN', 'JJ', 'NNS', 'NNS', '.', 'PRP$', 'NN', 'VBZ', 'NNP', 'NNP', 'NNPS', ',', 'NN', ',', 'CD', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', 'CC', 'PRP', 'RB', 'VBZ', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michele Dotrice</title>
+<link/>https://en.wikipedia.org/wiki/Michele_Dotrice
+<annotated>0</annotated>
+<originalabstract>Michele Dotrice (born 27 September 1948) is an English actress, best known for her portrayal of Betty Spencer, the long-suffering wife of Frank Spencer, played by Michael Crawford, in the BBC sitcom Some Mothers Do 'Ave 'Em, which ran from 1973 to 1978, and returned in 2016 for a special.</originalabstract>
+<abstract>Michele_Dotrice ( born 27_September_1948 ) is an_English_actress , best_known for her_portrayal of Betty_Spencer , the_long-suffering_wife of Frank_Spencer , played by Michael_Crawford , in the_BBC_sitcom Some_Mothers Do ' Ave_'Em , which ran from 1973 to 1978 , and returned in 2016 for a_special .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michele'), (8, 'Dotrice'), (16, '('), (17, 'born'), (22, '27'), (25, 'September'), (35, '1948'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'English'), (55, 'actress'), (62, ','), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'her'), (83, 'portrayal'), (93, 'of'), (96, 'Betty'), (102, 'Spencer'), (109, ','), (111, 'the'), (115, 'long-suffering'), (130, 'wife'), (135, 'of'), (138, 'Frank'), (144, 'Spencer'), (151, ','), (153, 'played'), (160, 'by'), (163, 'Michael'), (171, 'Crawford'), (179, ','), (181, 'in'), (184, 'the'), (188, 'BBC'), (192, 'sitcom'), (199, 'Some'), (204, 'Mothers'), (212, 'Do'), (215, '\''), (216, 'Ave'), (220, '\'Em'), (223, ','), (225, 'which'), (231, 'ran'), (235, 'from'), (240, '1973'), (245, 'to'), (248, '1978'), (252, ','), (254, 'and'), (258, 'returned'), (267, 'in'), (270, '2016'), (275, 'for'), (279, 'a'), (281, 'special'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michele Dotrice',0, 15), ('27 September 1948',22, 39), ('an English actress',44, 62), ('best known',64, 74), ('her portrayal',79, 92), ('Betty Spencer',96, 109), ('the long-suffering wife',111, 134), ('Frank Spencer',138, 151), ('Michael Crawford',163, 179), ('the BBC sitcom',184, 198), ('Some Mothers',199, 211), ('Ave \'Em',216, 223), ('a special',279, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNS', 'VBP', '``', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', 'TO', 'CD', ',', 'CC', 'VBD', 'IN', 'CD', 'IN', 'DT', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michele'), (8, 'Dotrice'), (16, '('), (17, 'born'), (22, '27'), (25, 'September'), (35, '1948'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'English'), (55, 'actress'), (62, ','), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'her'), (83, 'portrayal'), (93, 'of'), (96, 'Betty'), (102, 'Spencer'), (109, ','), (111, 'the'), (115, 'long'), (119, '-'), (120, 'suffering'), (130, 'wife'), (135, 'of'), (138, 'Frank'), (144, 'Spencer'), (151, ','), (153, 'played'), (160, 'by'), (163, 'Michael'), (171, 'Crawford'), (179, ','), (181, 'in'), (184, 'the'), (188, 'BBC'), (192, 'sitcom'), (199, 'Some'), (204, 'Mothers'), (212, 'Do'), (215, "'"), (216, 'Ave'), (220, "'"), (221, 'Em'), (223, ','), (225, 'which'), (231, 'ran'), (235, 'from'), (240, '1973'), (245, 'to'), (248, '1978'), (252, ','), (254, 'and'), (258, 'returned'), (267, 'in'), (270, '2016'), (275, 'for'), (279, 'a'), (281, 'special'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Michele Dotrice', 0, 15), ('27 September 1948', 22, 39), ('an English actress', 44, 62), ('her portrayal', 79, 92), ('Betty Spencer', 96, 109), ('the long-suffering wife', 111, 134), ('Frank Spencer', 138, 151), ('Michael Crawford', 163, 179), ('the BBC sitcom', 184, 198), ("Some Mothers Do 'Ave 'Em", 199, 223), ('a special', 279, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'RB', 'HYPH', 'VBG', 'NN', 'IN', 'NNP', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNS', 'VBP', '``', 'NN', "''", 'UH', ',', 'WDT', 'VBD', 'IN', 'CD', 'IN', 'CD', ',', 'CC', 'VBD', 'IN', 'CD', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

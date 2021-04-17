@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lydia Sherwood</title>
+<link/>https://en.wikipedia.org/wiki/Lydia_Sherwood
+<annotated>0</annotated>
+<originalabstract>Lydia Sherwood (5 May 1906 – 20 April 1989) was a British film actress and stage actress. She made her debut on stage in Daisy Fisher's comedy play Lavender Ladies. She was married to the poet Lazarus Aaronson from 1924 to 1931.</originalabstract>
+<abstract>Lydia_Sherwood ( 5_May_1906 – 20_April_1989 ) was a_British_film_actress_and_stage_actress . She made her_debut on stage in Daisy_Fisher 's_comedy_play_Lavender_Ladies . She was_married to the_poet_Lazarus_Aaronson from 1924 to 1931 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lydia'), (6, 'Sherwood'), (15, '('), (16, '5'), (18, 'May'), (22, '1906'), (27, '–'), (29, '20'), (32, 'April'), (38, '1989'), (42, ')'), (44, 'was'), (48, 'a'), (50, 'British'), (58, 'film'), (63, 'actress'), (71, 'and'), (75, 'stage'), (81, 'actress'), (88, '.'), (90, 'She'), (94, 'made'), (99, 'her'), (103, 'debut'), (109, 'on'), (112, 'stage'), (118, 'in'), (121, 'Daisy'), (127, 'Fisher'), (133, '\'s'), (136, 'comedy'), (143, 'play'), (148, 'Lavender'), (157, 'Ladies'), (163, '.'), (165, 'She'), (169, 'was'), (173, 'married'), (181, 'to'), (184, 'the'), (188, 'poet'), (193, 'Lazarus'), (201, 'Aaronson'), (210, 'from'), (215, '1924'), (220, 'to'), (223, '1931'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lydia Sherwood',0, 14), ('5 May 1906',16, 26), ('20 April 1989',29, 42), ('a British film actress and stage actress',48, 88), ('her debut',99, 108), ('Daisy Fisher',121, 133), ('\'s comedy play Lavender Ladies',133, 163), ('was married',169, 180), ('the poet Lazarus Aaronson',184, 209)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'TO', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lydia'), (6, 'Sherwood'), (15, '('), (16, '5'), (18, 'May'), (22, '1906'), (27, '–'), (29, '20'), (32, 'April'), (38, '1989'), (42, ')'), (44, 'was'), (48, 'a'), (50, 'British'), (58, 'film'), (63, 'actress'), (71, 'and'), (75, 'stage'), (81, 'actress'), (88, '.'), (90, 'She'), (94, 'made'), (99, 'her'), (103, 'debut'), (109, 'on'), (112, 'stage'), (118, 'in'), (121, 'Daisy'), (127, 'Fisher'), (133, "'s"), (136, 'comedy'), (143, 'play'), (148, 'Lavender'), (157, 'Ladies'), (163, '.'), (165, 'She'), (169, 'was'), (173, 'married'), (181, 'to'), (184, 'the'), (188, 'poet'), (193, 'Lazarus'), (201, 'Aaronson'), (210, 'from'), (215, '1924'), (220, 'to'), (223, '1931'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Lydia Sherwood', 0, 14), ('(5 May', 15, 21), ('5 May 1906', 16, 26), ('20 April 1989', 29, 42), ('a British film actress', 48, 70), ('Stage actress', 75, 88), ('her debut', 99, 108), ('Daisy Fisher', 121, 133), ('Comedy', 136, 142), ('Lavender Ladies', 148, 163), ('the poet', 184, 192), ('Lazarus Aaronson', 193, 209)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'VBP', 'NNP', 'NNPS', '.', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

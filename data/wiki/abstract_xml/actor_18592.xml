@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Annie Fargé</title>
+<link/>https://en.wikipedia.org/wiki/Annie_Farg%C3%A9
+<annotated>0</annotated>
+<originalabstract>Annie Fargé (15 April 1934 – 4 March 2011) was a French actress named "most promising new star in a situation comedy" in 1961 when she played the title role in CBS's Angel. Especially in Europe, she was often credited as "Annie Fargue".</originalabstract>
+<abstract>Annie_Fargé ( 15_April_1934 – 4_March_2011 ) was a_French_actress named "_most_promising_new_star in a_situation_comedy " in 1961 when she played the_title_role in CBS 's_Angel . Especially in Europe , she was_often_credited as " Annie_Fargue_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Annie'), (6, 'Fargé'), (12, '('), (13, '15'), (16, 'April'), (22, '1934'), (27, '–'), (29, '4'), (31, 'March'), (37, '2011'), (41, ')'), (43, 'was'), (47, 'a'), (49, 'French'), (56, 'actress'), (64, 'named'), (70, '"'), (71, 'most'), (76, 'promising'), (86, 'new'), (90, 'star'), (95, 'in'), (98, 'a'), (100, 'situation'), (110, 'comedy'), (116, '"'), (118, 'in'), (121, '1961'), (126, 'when'), (131, 'she'), (135, 'played'), (142, 'the'), (146, 'title'), (152, 'role'), (157, 'in'), (160, 'CBS'), (163, '\'s'), (166, 'Angel'), (171, '.'), (173, 'Especially'), (184, 'in'), (187, 'Europe'), (193, ','), (195, 'she'), (199, 'was'), (203, 'often'), (209, 'credited'), (218, 'as'), (221, '"'), (222, 'Annie'), (228, 'Fargue'), (234, '"'), (235, '.')])</stanford_tokens>
+<opennlp_chunks>[('Annie Fargé',0, 11), ('15 April 1934',13, 26), ('4 March 2011',29, 41), ('a French actress',47, 63), ('"most promising new star',70, 94), ('a situation comedy',98, 116), ('the title role',142, 156), ('\'s Angel',163, 171), ('was often credited',199, 217), ('Annie Fargue"',222, 235)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', '``', 'RBS', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', '\'\'', 'IN', 'CD', 'WRB', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'POS', 'NNP', '.', 'RB', 'IN', 'NNP', ',', 'PRP', 'VBD', 'RB', 'VBN', 'IN', '``', 'NNP', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Annie'), (6, 'Fargé'), (12, '('), (13, '15'), (16, 'April'), (22, '1934'), (27, '–'), (29, '4'), (31, 'March'), (37, '2011'), (41, ')'), (43, 'was'), (47, 'a'), (49, 'French'), (56, 'actress'), (64, 'named'), (70, '"'), (71, 'most'), (76, 'promising'), (86, 'new'), (90, 'star'), (95, 'in'), (98, 'a'), (100, 'situation'), (110, 'comedy'), (116, '"'), (118, 'in'), (121, '1961'), (126, 'when'), (131, 'she'), (135, 'played'), (142, 'the'), (146, 'title'), (152, 'role'), (157, 'in'), (160, 'CBS'), (163, "'s"), (166, 'Angel'), (171, '.'), (173, 'Especially'), (184, 'in'), (187, 'Europe'), (193, ','), (195, 'she'), (199, 'was'), (203, 'often'), (209, 'credited'), (218, 'as'), (221, '"'), (222, 'Annie'), (228, 'Fargue'), (234, '"'), (235, '.')])</spacy_tokens>
+<spacy_chunks>[('Annie Fargé', 0, 11), ('15 April 1934', 13, 26), ('4 March 2011', 29, 41), ('a French actress', 47, 63), ('new star', 86, 94), ('a situation comedy', 98, 116), ('the title role', 142, 156), ("CBS's Angel", 160, 171), ('Europe', 187, 193), ('"Annie Fargue', 221, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', '``', 'RBS', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', "''", 'IN', 'CD', 'WRB', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'POS', 'NNP', '.', 'RB', 'IN', 'NNP', ',', 'PRP', 'VBD', 'RB', 'VBN', 'IN', '``', 'NNP', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

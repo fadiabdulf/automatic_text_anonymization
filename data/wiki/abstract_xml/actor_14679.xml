@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rappin' Granny</title>
+<link/>https://en.wikipedia.org/wiki/Rappin%27_Granny
+<annotated>0</annotated>
+<originalabstract>Vivian Lee Smallwood (June 18, 1933 - July 22, 2017), known by her stage name Rappin' Granny, was an American grandmother who performed hip-hop music. She lived in Castaic, California, near Los Angeles.
+Smallwood was a contestant on the NBC television series America's Got Talent during the 2006 season.</originalabstract>
+<abstract>Vivian_Lee_Smallwood ( June_18_,_1933 - July_22_,_2017 ) , known by her_stage_name_Rappin_'_Granny , was an_American_grandmother who performed hip-hop_music . She lived in Castaic , California , near Los_Angeles . Smallwood was a_contestant on the_NBC_television_series_America 's_Got_Talent during the_2006_season .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vivian'), (7, 'Lee'), (11, 'Smallwood'), (21, '('), (22, 'June'), (27, '18'), (29, ','), (31, '1933'), (36, '-'), (38, 'July'), (43, '22'), (45, ','), (47, '2017'), (51, ')'), (52, ','), (54, 'known'), (60, 'by'), (63, 'her'), (67, 'stage'), (73, 'name'), (78, 'Rappin'), (84, '\''), (86, 'Granny'), (92, ','), (94, 'was'), (98, 'an'), (101, 'American'), (110, 'grandmother'), (122, 'who'), (126, 'performed'), (136, 'hip-hop'), (144, 'music'), (149, '.'), (151, 'She'), (155, 'lived'), (161, 'in'), (164, 'Castaic'), (171, ','), (173, 'California'), (183, ','), (185, 'near'), (190, 'Los'), (194, 'Angeles'), (201, '.'), (203, 'Smallwood'), (213, 'was'), (217, 'a'), (219, 'contestant'), (230, 'on'), (233, 'the'), (237, 'NBC'), (241, 'television'), (252, 'series'), (259, 'America'), (266, '\'s'), (269, 'Got'), (273, 'Talent'), (280, 'during'), (287, 'the'), (291, '2006'), (296, 'season'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vivian Lee Smallwood',0, 20), ('June 18, 1933',22, 35), ('July 22, 2017',38, 51), ('her stage name Rappin\' Granny',63, 92), ('an American grandmother',98, 121), ('hip-hop music',136, 149), ('Los Angeles',190, 201), ('a contestant',217, 229), ('the NBC television series America',233, 266), ('\'s Got Talent',266, 279), ('the 2006 season',287, 302)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NN', '\'\'', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'IN', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'POS', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vivian'), (7, 'Lee'), (11, 'Smallwood'), (21, '('), (22, 'June'), (27, '18'), (29, ','), (31, '1933'), (36, '-'), (38, 'July'), (43, '22'), (45, ','), (47, '2017'), (51, ')'), (52, ','), (54, 'known'), (60, 'by'), (63, 'her'), (67, 'stage'), (73, 'name'), (78, 'Rappin'), (84, "'"), (86, 'Granny'), (92, ','), (94, 'was'), (98, 'an'), (101, 'American'), (110, 'grandmother'), (122, 'who'), (126, 'performed'), (136, 'hip'), (139, '-'), (140, 'hop'), (144, 'music'), (149, '.'), (151, 'She'), (155, 'lived'), (161, 'in'), (164, 'Castaic'), (171, ','), (173, 'California'), (183, ','), (185, 'near'), (190, 'Los'), (194, 'Angeles'), (201, '.'), (203, 'Smallwood'), (213, 'was'), (217, 'a'), (219, 'contestant'), (230, 'on'), (233, 'the'), (237, 'NBC'), (241, 'television'), (252, 'series'), (259, 'America'), (266, "'s"), (269, 'Got'), (273, 'Talent'), (280, 'during'), (287, 'the'), (291, '2006'), (296, 'season'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Vivian Lee Smallwood', 0, 20), ('June 18, 1933', 22, 35), ('July 22, 2017', 38, 51), ("her stage name Rappin' Granny", 63, 92), ('an American grandmother', 98, 121), ('Hip-hop music', 136, 149), ('Castaic, California', 164, 183), ('Los Angeles', 190, 201), ('a contestant', 217, 229), ('the NBC television series', 233, 258), ("America's Got Talent", 259, 279), ('the 2006 season', 287, 302)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', "''", 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'NN', 'HYPH', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'IN', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'POS', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

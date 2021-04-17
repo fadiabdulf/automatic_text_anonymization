@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dennis Chun</title>
+<link/>https://en.wikipedia.org/wiki/Dennis_Chun
+<annotated>0</annotated>
+<originalabstract>Dennis Chun (born March 18, 1952) is an American actor, he is the son of actor Kam Fong Chun, and has a main role as Sgt. Duke Lukela in the 2010 remake of the 1968 television series Hawaii Five-O in which his father had a main role as Chin Ho Kelly.</originalabstract>
+<abstract>Dennis_Chun ( born March_18_,_1952 ) is an_American_actor , he is the_son of actor_Kam_Fong_Chun , and has a_main_role as Sgt._Duke_Lukela in the_2010_remake of the_1968_television_series_Hawaii_Five-O in which his_father had a_main_role as Chin_Ho_Kelly .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dennis'), (7, 'Chun'), (12, '('), (13, 'born'), (18, 'March'), (24, '18'), (26, ','), (28, '1952'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, ','), (56, 'he'), (59, 'is'), (62, 'the'), (66, 'son'), (70, 'of'), (73, 'actor'), (79, 'Kam'), (83, 'Fong'), (88, 'Chun'), (92, ','), (94, 'and'), (98, 'has'), (102, 'a'), (104, 'main'), (109, 'role'), (114, 'as'), (117, 'Sgt.'), (122, 'Duke'), (127, 'Lukela'), (134, 'in'), (137, 'the'), (141, '2010'), (146, 'remake'), (153, 'of'), (156, 'the'), (160, '1968'), (165, 'television'), (176, 'series'), (183, 'Hawaii'), (190, 'Five-O'), (197, 'in'), (200, 'which'), (206, 'his'), (210, 'father'), (217, 'had'), (221, 'a'), (223, 'main'), (228, 'role'), (233, 'as'), (236, 'Chin'), (241, 'Ho'), (244, 'Kelly'), (249, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dennis Chun',0, 11), ('March 18, 1952',18, 32), ('an American actor',37, 54), ('the son',62, 69), ('actor Kam Fong Chun',73, 92), ('a main role',102, 113), ('Sgt. Duke Lukela',117, 133), ('the 2010 remake',137, 152), ('the 1968 television series Hawaii Five-O',156, 196), ('his father',206, 216), ('a main role',221, 232), ('Chin Ho Kelly',236, 249)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'NNP', ',', 'CC', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'WDT', 'PRP$', 'NN', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dennis'), (7, 'Chun'), (12, '('), (13, 'born'), (18, 'March'), (24, '18'), (26, ','), (28, '1952'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, ','), (56, 'he'), (59, 'is'), (62, 'the'), (66, 'son'), (70, 'of'), (73, 'actor'), (79, 'Kam'), (83, 'Fong'), (88, 'Chun'), (92, ','), (94, 'and'), (98, 'has'), (102, 'a'), (104, 'main'), (109, 'role'), (114, 'as'), (117, 'Sgt'), (120, '.'), (122, 'Duke'), (127, 'Lukela'), (134, 'in'), (137, 'the'), (141, '2010'), (146, 'remake'), (153, 'of'), (156, 'the'), (160, '1968'), (165, 'television'), (176, 'series'), (183, 'Hawaii'), (190, 'Five'), (194, '-'), (195, 'O'), (197, 'in'), (200, 'which'), (206, 'his'), (210, 'father'), (217, 'had'), (221, 'a'), (223, 'main'), (228, 'role'), (233, 'as'), (236, 'Chin'), (241, 'Ho'), (244, 'Kelly'), (249, '.')])</spacy_tokens>
+<spacy_chunks>[('Dennis Chun', 0, 11), ('March 18, 1952', 18, 32), ('an American actor', 37, 54), ('the son', 62, 69), ('actor Kam Fong Chun', 73, 92), ('a main role', 102, 113), ('Duke Lukela', 122, 133), ('the 2010 remake', 137, 152), ('the 1968 television series', 156, 182), ('Hawaii Five-O', 183, 196), ('his father', 206, 216), ('Chin Ho Kelly', 236, 249)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'NNP', ',', 'CC', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNP', '.', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', 'NNP', 'HYPH', 'NN', 'IN', 'WDT', 'PRP$', 'NN', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

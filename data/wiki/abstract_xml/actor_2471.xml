@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sean Garrison</title>
+<link/>https://en.wikipedia.org/wiki/Sean_Garrison
+<annotated>0</annotated>
+<originalabstract>Sean Garrison (October 19, 1937 – March 2, 2018) was an American film and television actor. His longest-running role was in the 1967 CBS western-legal drama Dundee and the Culhane.</originalabstract>
+<abstract>Sean_Garrison ( October_19_,_1937 – March_2_,_2018 ) was an_American_film_and_television_actor . His_longest-running_role was in the_1967_CBS_western-legal_drama_Dundee and the_Culhane .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sean'), (5, 'Garrison'), (14, '('), (15, 'October'), (23, '19'), (25, ','), (27, '1937'), (32, '–'), (34, 'March'), (40, '2'), (41, ','), (43, '2018'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'and'), (74, 'television'), (85, 'actor'), (90, '.'), (92, 'His'), (96, 'longest-running'), (112, 'role'), (117, 'was'), (121, 'in'), (124, 'the'), (128, '1967'), (133, 'CBS'), (137, 'western-legal'), (151, 'drama'), (157, 'Dundee'), (164, 'and'), (168, 'the'), (172, 'Culhane'), (179, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sean Garrison',0, 13), ('October 19, 1937',15, 31), ('March 2, 2018',34, 47), ('an American film and television actor',53, 90), ('His longest-running role',92, 116), ('the 1967 CBS western-legal drama Dundee',124, 163), ('the Culhane',168, 179)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP$', 'JJ', 'NN', 'VBD', 'IN', 'DT', 'CD', 'NNP', 'JJ', 'NN', 'NNP', 'CC', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sean'), (5, 'Garrison'), (14, '('), (15, 'October'), (23, '19'), (25, ','), (27, '1937'), (32, '–'), (34, 'March'), (40, '2'), (41, ','), (43, '2018'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'and'), (74, 'television'), (85, 'actor'), (90, '.'), (92, 'His'), (96, 'longest'), (103, '-'), (104, 'running'), (112, 'role'), (117, 'was'), (121, 'in'), (124, 'the'), (128, '1967'), (133, 'CBS'), (137, 'western'), (144, '-'), (145, 'legal'), (151, 'drama'), (157, 'Dundee'), (164, 'and'), (168, 'the'), (172, 'Culhane'), (179, '.')])</spacy_tokens>
+<spacy_chunks>[('Sean Garrison', 0, 13), ('(October', 14, 22), ('October 19, 1937', 15, 31), ('March 2, 2018', 34, 47), ('an American film and television actor', 53, 90), ('His longest-running role', 92, 116), ('the 1967 CBS western-legal drama', 124, 156), ('Dundee and the Culhane', 157, 179)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP$', 'RBS', 'HYPH', 'VBG', 'NN', 'VBD', 'IN', 'DT', 'CD', 'NNP', 'JJ', 'HYPH', 'JJ', 'NN', 'NNP', 'CC', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

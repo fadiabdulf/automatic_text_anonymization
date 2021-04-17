@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Emily Lloyd</title>
+<link/>https://en.wikipedia.org/wiki/Emily_Lloyd
+<annotated>0</annotated>
+<originalabstract>Emily Lloyd-Pack (born 29 September 1970), known as Emily Lloyd, is an English actress, perhaps best known for her breakthrough performance at the age of sixteen in the 1987 David Leland film Wish You Were Here, for which she received critical acclaim.</originalabstract>
+<abstract>Emily_Lloyd-Pack ( born_29_September_1970 ) , known as Emily_Lloyd , is an_English_actress , perhaps_best_known for her_breakthrough_performance at the_age of sixteen in the_1987_David_Leland_film_Wish You Were Here , for which she received critical_acclaim .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Emily'), (6, 'Lloyd-Pack'), (17, '('), (18, 'born'), (23, '29'), (26, 'September'), (36, '1970'), (40, ')'), (41, ','), (43, 'known'), (49, 'as'), (52, 'Emily'), (58, 'Lloyd'), (63, ','), (65, 'is'), (68, 'an'), (71, 'English'), (79, 'actress'), (86, ','), (88, 'perhaps'), (96, 'best'), (101, 'known'), (107, 'for'), (111, 'her'), (115, 'breakthrough'), (128, 'performance'), (140, 'at'), (143, 'the'), (147, 'age'), (151, 'of'), (154, 'sixteen'), (162, 'in'), (165, 'the'), (169, '1987'), (174, 'David'), (180, 'Leland'), (187, 'film'), (192, 'Wish'), (197, 'You'), (201, 'Were'), (206, 'Here'), (210, ','), (212, 'for'), (216, 'which'), (222, 'she'), (226, 'received'), (235, 'critical'), (244, 'acclaim'), (251, '.')])</stanford_tokens>
+<opennlp_chunks>[('Emily Lloyd-Pack',0, 16), ('born 29 September 1970',18, 40), ('Emily Lloyd',52, 63), ('an English actress',68, 86), ('perhaps best known',88, 106), ('her breakthrough performance',111, 139), ('the age',143, 150), ('the 1987 David Leland film Wish',165, 196), ('critical acclaim',235, 251)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'NNP', 'PRP', 'VBD', 'RB', ',', 'IN', 'WDT', 'PRP', 'VBD', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Emily'), (6, 'Lloyd'), (11, '-'), (12, 'Pack'), (17, '('), (18, 'born'), (23, '29'), (26, 'September'), (36, '1970'), (40, ')'), (41, ','), (43, 'known'), (49, 'as'), (52, 'Emily'), (58, 'Lloyd'), (63, ','), (65, 'is'), (68, 'an'), (71, 'English'), (79, 'actress'), (86, ','), (88, 'perhaps'), (96, 'best'), (101, 'known'), (107, 'for'), (111, 'her'), (115, 'breakthrough'), (128, 'performance'), (140, 'at'), (143, 'the'), (147, 'age'), (151, 'of'), (154, 'sixteen'), (162, 'in'), (165, 'the'), (169, '1987'), (174, 'David'), (180, 'Leland'), (187, 'film'), (192, 'Wish'), (197, 'You'), (201, 'Were'), (206, 'Here'), (210, ','), (212, 'for'), (216, 'which'), (222, 'she'), (226, 'received'), (235, 'critical'), (244, 'acclaim'), (251, '.')])</spacy_tokens>
+<spacy_chunks>[('Emily Lloyd-Pack', 0, 16), ('29 September 1970', 23, 40), ('an English actress', 68, 86), ('her breakthrough performance', 111, 139), ('the age', 143, 150), ('the 1987 David Leland film', 165, 191), ('Wish You Were Here', 192, 210), ('critical acclaim', 235, 251)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', 'VBP', 'PRP', 'VBD', 'RB', ',', 'IN', 'WDT', 'PRP', 'VBD', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bob Trocolor</title>
+<link/>https://en.wikipedia.org/wiki/Bob_Trocolor
+<annotated>0</annotated>
+<originalabstract>Robert G. Trocolor (March 31, 1917 – July 27, 1984) was an American football player and coach. He was also a college basketball and football head coach as well as movie actor.</originalabstract>
+<abstract>Robert_G._Trocolor ( March_31_,_1917 – July_27_,_1984 ) was an_American_football_player_and_coach . He was also a_college_basketball_and_football_head_coach as_well as movie_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'G.'), (10, 'Trocolor'), (19, '('), (20, 'March'), (26, '31'), (28, ','), (30, '1917'), (35, '–'), (37, 'July'), (42, '27'), (44, ','), (46, '1984'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'football'), (77, 'player'), (84, 'and'), (88, 'coach'), (93, '.'), (95, 'He'), (98, 'was'), (102, 'also'), (107, 'a'), (109, 'college'), (117, 'basketball'), (128, 'and'), (132, 'football'), (141, 'head'), (146, 'coach'), (152, 'as'), (155, 'well'), (160, 'as'), (163, 'movie'), (169, 'actor'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert G. Trocolor',0, 18), ('March 31, 1917',20, 34), ('July 27, 1984',37, 50), ('an American football player and coach',56, 93), ('a college basketball and football head coach',107, 151), ('as well',152, 159), ('movie actor',163, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'NN', 'CC', 'NN', 'NN', 'NN', 'RB', 'RB', 'IN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'G.'), (10, 'Trocolor'), (19, '('), (20, 'March'), (26, '31'), (28, ','), (30, '1917'), (35, '–'), (37, 'July'), (42, '27'), (44, ','), (46, '1984'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'football'), (77, 'player'), (84, 'and'), (88, 'coach'), (93, '.'), (95, 'He'), (98, 'was'), (102, 'also'), (107, 'a'), (109, 'college'), (117, 'basketball'), (128, 'and'), (132, 'football'), (141, 'head'), (146, 'coach'), (152, 'as'), (155, 'well'), (160, 'as'), (163, 'movie'), (169, 'actor'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert G. Trocolor', 0, 18), ('March 31, 1917', 20, 34), ('July 27, 1984', 37, 50), ('an American football player', 56, 83), ('a college basketball and football head coach', 107, 151), ('movie actor', 163, 174)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'NN', 'CC', 'NN', 'NN', 'NN', 'RB', 'RB', 'IN', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

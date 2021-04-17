@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ridge Bond</title>
+<link/>https://en.wikipedia.org/wiki/Ridge_Bond
+<annotated>0</annotated>
+<originalabstract>Ridgely McClure "Ridge" Bond (July 12, 1922 – May 6, 1997) was an American actor, singer and businessman, who is best known for playing the role of Curly in the musical Oklahoma! on Broadway and on tour. He retired from acting when the musical closed in 1954, and entered the insurance business.</originalabstract>
+<abstract>Ridgely_McClure_"_Ridge_"_Bond ( July_12_,_1922 – May_6_,_1997 ) was an_American_actor , singer_and_businessman , who is_best_known for playing the_role of Curly in the_musical_Oklahoma ! on Broadway and on tour . He retired from acting when the_musical closed in 1954 , and entered the_insurance_business .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ridgely'), (8, 'McClure'), (16, '"'), (17, 'Ridge'), (22, '"'), (24, 'Bond'), (29, '('), (30, 'July'), (35, '12'), (37, ','), (39, '1922'), (44, '–'), (46, 'May'), (50, '6'), (51, ','), (53, '1997'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'actor'), (80, ','), (82, 'singer'), (89, 'and'), (93, 'businessman'), (104, ','), (106, 'who'), (110, 'is'), (113, 'best'), (118, 'known'), (124, 'for'), (128, 'playing'), (136, 'the'), (140, 'role'), (145, 'of'), (148, 'Curly'), (154, 'in'), (157, 'the'), (161, 'musical'), (169, 'Oklahoma'), (177, '!'), (179, 'on'), (182, 'Broadway'), (191, 'and'), (195, 'on'), (198, 'tour'), (202, '.'), (204, 'He'), (207, 'retired'), (215, 'from'), (220, 'acting'), (227, 'when'), (232, 'the'), (236, 'musical'), (244, 'closed'), (251, 'in'), (254, '1954'), (258, ','), (260, 'and'), (264, 'entered'), (272, 'the'), (276, 'insurance'), (286, 'business'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ridgely McClure "Ridge" Bond',0, 28), ('July 12, 1922',30, 43), ('May 6, 1997',46, 57), ('an American actor',63, 80), ('singer and businessman',82, 104), ('is best known',110, 123), ('the role',136, 144), ('the musical Oklahoma',157, 177), ('the musical',232, 243), ('the insurance business',272, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NNP', '.', 'IN', 'NNP', 'CC', 'IN', 'NN', '.', 'PRP', 'VBD', 'IN', 'VBG', 'WRB', 'DT', 'NN', 'VBD', 'IN', 'CD', ',', 'CC', 'VBD', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ridgely'), (8, 'McClure'), (16, '"'), (17, 'Ridge'), (22, '"'), (24, 'Bond'), (29, '('), (30, 'July'), (35, '12'), (37, ','), (39, '1922'), (44, '–'), (46, 'May'), (50, '6'), (51, ','), (53, '1997'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'actor'), (80, ','), (82, 'singer'), (89, 'and'), (93, 'businessman'), (104, ','), (106, 'who'), (110, 'is'), (113, 'best'), (118, 'known'), (124, 'for'), (128, 'playing'), (136, 'the'), (140, 'role'), (145, 'of'), (148, 'Curly'), (154, 'in'), (157, 'the'), (161, 'musical'), (169, 'Oklahoma'), (177, '!'), (179, 'on'), (182, 'Broadway'), (191, 'and'), (195, 'on'), (198, 'tour'), (202, '.'), (204, 'He'), (207, 'retired'), (215, 'from'), (220, 'acting'), (227, 'when'), (232, 'the'), (236, 'musical'), (244, 'closed'), (251, 'in'), (254, '1954'), (258, ','), (260, 'and'), (264, 'entered'), (272, 'the'), (276, 'insurance'), (286, 'business'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Ridgely McClure "Ridge" Bond', 0, 28), ('July 12, 1922', 30, 43), ('May 6, 1997', 46, 57), ('an American actor', 63, 80), ('singer', 82, 88), ('businessman', 93, 104), ('the role', 136, 144), ('the musical Oklahoma', 157, 177), ('Oklahoma!', 169, 178), ('Broadway', 182, 190), ('the insurance business', 272, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', "''", 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NNP', '.', 'IN', 'NNP', 'CC', 'IN', 'NN', '.', 'PRP', 'VBD', 'IN', 'VBG', 'WRB', 'DT', 'JJ', 'VBD', 'IN', 'CD', ',', 'CC', 'VBD', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kevin J. O'Connor (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Kevin_J._O%27Connor_(actor)
+<annotated>0</annotated>
+<originalabstract>Kevin James O'Connor (born November 15, 1963) is an American actor.
+O'Connor is known for portraying character roles in major studio films such as There Will Be Blood, The Mummy, Lord of Illusions, F/X2 and Van Helsing. He is a favorite of writer/director Stephen Sommers, who usually casts him in his films.</originalabstract>
+<abstract>Kevin_James_O'Connor ( born November_15_,_1963 ) is an_American_actor . O'Connor is_known for portraying character_roles in major_studio_films such_as There Will_Be Blood , The_Mummy_,_Lord of Illusions_,_F/X2_and_Van_Helsing . He is a_favorite of writer/director_Stephen_Sommers , who usually casts him in his_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kevin'), (6, 'James'), (12, 'O\'Connor'), (21, '('), (22, 'born'), (27, 'November'), (36, '15'), (38, ','), (40, '1963'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (66, '.'), (68, 'O\'Connor'), (77, 'is'), (80, 'known'), (86, 'for'), (90, 'portraying'), (101, 'character'), (111, 'roles'), (117, 'in'), (120, 'major'), (126, 'studio'), (133, 'films'), (139, 'such'), (144, 'as'), (147, 'There'), (153, 'Will'), (158, 'Be'), (161, 'Blood'), (166, ','), (168, 'The'), (172, 'Mummy'), (177, ','), (179, 'Lord'), (184, 'of'), (187, 'Illusions'), (196, ','), (198, 'F/X2'), (203, 'and'), (207, 'Van'), (211, 'Helsing'), (218, '.'), (220, 'He'), (223, 'is'), (226, 'a'), (228, 'favorite'), (237, 'of'), (240, 'writer/director'), (256, 'Stephen'), (264, 'Sommers'), (271, ','), (273, 'who'), (277, 'usually'), (285, 'casts'), (291, 'him'), (295, 'in'), (298, 'his'), (302, 'films'), (307, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kevin James O\'Connor',0, 20), ('November 15, 1963',27, 44), ('an American actor',49, 66), ('is known',77, 85), ('character roles',101, 116), ('major studio films',120, 138), ('such as',139, 146), ('Will Be',153, 160), ('The Mummy, Lord',168, 183), ('Illusions, F/X2 and Van Helsing',187, 218), ('a favorite',226, 236), ('writer/director Stephen Sommers',240, 271), ('his films',298, 307)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'VBG', 'NN', 'NNS', 'IN', 'JJ', 'NN', 'NNS', 'JJ', 'IN', 'EX', 'MD', 'VB', 'NN', ',', 'DT', 'NNP', ',', 'NNP', 'IN', 'NNPS', ',', 'NN', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', ',', 'WP', 'RB', 'VBZ', 'PRP', 'IN', 'PRP$', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kevin'), (6, 'James'), (12, "O'Connor"), (21, '('), (22, 'born'), (27, 'November'), (36, '15'), (38, ','), (40, '1963'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (66, '.'), (68, "O'Connor"), (77, 'is'), (80, 'known'), (86, 'for'), (90, 'portraying'), (101, 'character'), (111, 'roles'), (117, 'in'), (120, 'major'), (126, 'studio'), (133, 'films'), (139, 'such'), (144, 'as'), (147, 'There'), (153, 'Will'), (158, 'Be'), (161, 'Blood'), (166, ','), (168, 'The'), (172, 'Mummy'), (177, ','), (179, 'Lord'), (184, 'of'), (187, 'Illusions'), (196, ','), (198, 'F'), (199, '/'), (200, 'X2'), (203, 'and'), (207, 'Van'), (211, 'Helsing'), (218, '.'), (220, 'He'), (223, 'is'), (226, 'a'), (228, 'favorite'), (237, 'of'), (240, 'writer'), (246, '/'), (247, 'director'), (256, 'Stephen'), (264, 'Sommers'), (271, ','), (273, 'who'), (277, 'usually'), (285, 'casts'), (291, 'him'), (295, 'in'), (298, 'his'), (302, 'films'), (307, '.')])</spacy_tokens>
+<spacy_chunks>[("Kevin James O'Connor", 0, 20), ('November 15, 1963', 27, 44), ('an American actor', 49, 66), ('character roles', 101, 116), ('major studio films', 120, 138), ('There Will Be Blood', 147, 166), ('The Mummy', 168, 177), ('Lord of Illusions', 179, 196), ('Van Helsing', 207, 218), ('a favorite', 226, 236), ('writer/director Stephen Sommers', 240, 271), ('his films', 298, 307)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'VBG', 'NN', 'NNS', 'IN', 'JJ', 'NN', 'NNS', 'JJ', 'IN', 'EX', 'MD', 'VB', 'NN', ',', 'DT', 'NNP', ',', 'NNP', 'IN', 'NNPS', ',', 'NNP', 'SYM', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'SYM', 'NN', 'NNP', 'NNP', ',', 'WP', 'RB', 'VBZ', 'PRP', 'IN', 'PRP$', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

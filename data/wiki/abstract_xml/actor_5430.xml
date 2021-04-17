@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Qualen</title>
+<link/>https://en.wikipedia.org/wiki/John_Qualen
+<annotated>0</annotated>
+<originalabstract>John Qualen (born Johan Mandt Kvalen, December 8, 1899 – September 12, 1987) was a Canadian-American character actor of Norwegian heritage who specialized in Scandinavian roles.</originalabstract>
+<abstract>John_Qualen ( born Johan_Mandt_Kvalen , December_8_,_1899 – September_12_,_1987 ) was a_Canadian-American_character_actor of Norwegian_heritage who specialized in Scandinavian_roles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Qualen'), (12, '('), (13, 'born'), (18, 'Johan'), (24, 'Mandt'), (30, 'Kvalen'), (36, ','), (38, 'December'), (47, '8'), (48, ','), (50, '1899'), (55, '–'), (57, 'September'), (67, '12'), (69, ','), (71, '1987'), (75, ')'), (77, 'was'), (81, 'a'), (83, 'Canadian-American'), (101, 'character'), (111, 'actor'), (117, 'of'), (120, 'Norwegian'), (130, 'heritage'), (139, 'who'), (143, 'specialized'), (155, 'in'), (158, 'Scandinavian'), (171, 'roles'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Qualen',0, 11), ('Johan Mandt Kvalen',18, 36), ('December 8, 1899',38, 54), ('September 12, 1987',57, 75), ('a Canadian-American character actor',81, 116), ('Norwegian heritage',120, 138), ('Scandinavian roles',158, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Qualen'), (12, '('), (13, 'born'), (18, 'Johan'), (24, 'Mandt'), (30, 'Kvalen'), (36, ','), (38, 'December'), (47, '8'), (48, ','), (50, '1899'), (55, '–'), (57, 'September'), (67, '12'), (69, ','), (71, '1987'), (75, ')'), (77, 'was'), (81, 'a'), (83, 'Canadian'), (91, '-'), (92, 'American'), (101, 'character'), (111, 'actor'), (117, 'of'), (120, 'Norwegian'), (130, 'heritage'), (139, 'who'), (143, 'specialized'), (155, 'in'), (158, 'Scandinavian'), (171, 'roles'), (176, '.')])</spacy_tokens>
+<spacy_chunks>[('John Qualen', 0, 11), ('born Johan Mandt Kvalen', 13, 36), ('December 8, 1899', 38, 54), ('September 12, 1987', 57, 75), ('a Canadian-American character actor', 81, 116), ('Norwegian heritage', 120, 138), ('Scandinavian roles', 158, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'NN', 'IN', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

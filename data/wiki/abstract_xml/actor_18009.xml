@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Katherine Rose Morley</title>
+<link/>https://en.wikipedia.org/wiki/Katherine_Rose_Morley
+<annotated>0</annotated>
+<originalabstract>Katherine Rose Morley is an actress from Liverpool, England, best known for playing Lucy Garner in The Mill (TV series) in 2013-2014, as Emma Moxam in Thirteen (TV series) and as Ellie Wallace in the British comedy TV Series Last Tango in Halifax starring alongside Derek Jacobi and  Sarah Lancashire.</originalabstract>
+<abstract>Katherine_Rose_Morley is an_actress from Liverpool , England , best_known for playing Lucy_Garner in The_Mill ( TV_series ) in 2013-2014 , as Emma_Moxam in Thirteen ( TV_series ) and as Ellie_Wallace in the_British_comedy_TV_Series Last_Tango in Halifax_starring alongside Derek_Jacobi and Sarah_Lancashire .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Katherine'), (10, 'Rose'), (15, 'Morley'), (22, 'is'), (25, 'an'), (28, 'actress'), (36, 'from'), (41, 'Liverpool'), (50, ','), (52, 'England'), (59, ','), (61, 'best'), (66, 'known'), (72, 'for'), (76, 'playing'), (84, 'Lucy'), (89, 'Garner'), (96, 'in'), (99, 'The'), (103, 'Mill'), (108, '('), (109, 'TV'), (112, 'series'), (118, ')'), (120, 'in'), (123, '2013-2014'), (132, ','), (134, 'as'), (137, 'Emma'), (142, 'Moxam'), (148, 'in'), (151, 'Thirteen'), (160, '('), (161, 'TV'), (164, 'series'), (170, ')'), (172, 'and'), (176, 'as'), (179, 'Ellie'), (185, 'Wallace'), (193, 'in'), (196, 'the'), (200, 'British'), (208, 'comedy'), (215, 'TV'), (218, 'Series'), (225, 'Last'), (230, 'Tango'), (236, 'in'), (239, 'Halifax'), (247, 'starring'), (256, 'alongside'), (266, 'Derek'), (272, 'Jacobi'), (279, 'and'), (284, 'Sarah'), (290, 'Lancashire'), (300, '.')])</stanford_tokens>
+<opennlp_chunks>[('Katherine Rose Morley',0, 21), ('an actress',25, 35), ('best known',61, 71), ('Lucy Garner',84, 95), ('The Mill',99, 107), ('TV series',109, 118), ('Emma Moxam',137, 147), ('TV series',161, 170), ('Ellie Wallace',179, 192), ('the British comedy TV Series',196, 224), ('Last Tango',225, 235), ('Halifax starring',239, 255), ('Derek Jacobi',266, 278), ('Sarah Lancashire',284, 300)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', ',', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'NNP', 'NN', '-RRB-', 'IN', 'CD', ',', 'IN', 'NNP', 'NNP', 'IN', 'CD', '-LRB-', 'NN', 'NN', '-RRB-', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'JJ', 'NNP', 'IN', 'NNP', 'VBG', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Katherine'), (10, 'Rose'), (15, 'Morley'), (22, 'is'), (25, 'an'), (28, 'actress'), (36, 'from'), (41, 'Liverpool'), (50, ','), (52, 'England'), (59, ','), (61, 'best'), (66, 'known'), (72, 'for'), (76, 'playing'), (84, 'Lucy'), (89, 'Garner'), (96, 'in'), (99, 'The'), (103, 'Mill'), (108, '('), (109, 'TV'), (112, 'series'), (118, ')'), (120, 'in'), (123, '2013'), (127, '-'), (128, '2014'), (132, ','), (134, 'as'), (137, 'Emma'), (142, 'Moxam'), (148, 'in'), (151, 'Thirteen'), (160, '('), (161, 'TV'), (164, 'series'), (170, ')'), (172, 'and'), (176, 'as'), (179, 'Ellie'), (185, 'Wallace'), (193, 'in'), (196, 'the'), (200, 'British'), (208, 'comedy'), (215, 'TV'), (218, 'Series'), (225, 'Last'), (230, 'Tango'), (236, 'in'), (239, 'Halifax'), (247, 'starring'), (256, 'alongside'), (266, 'Derek'), (272, 'Jacobi'), (279, 'and'), (284, 'Sarah'), (290, 'Lancashire'), (300, '.')])</spacy_tokens>
+<spacy_chunks>[('Katherine Rose Morley', 0, 21), ('an actress', 25, 35), ('Liverpool', 41, 50), ('England', 52, 59), ('Lucy Garner', 84, 95), ('The Mill (TV series)', 99, 119), ('Emma Moxam', 137, 147), ('Thirteen (TV series)', 151, 171), ('Ellie Wallace', 179, 192), ('the British comedy TV Series Last Tango', 196, 235), ('Last Tango in Halifax', 225, 246), ('Derek Jacobi', 266, 278), ('Sarah Lancashire', 284, 300)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', ',', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'NN', 'NN', '-RRB-', 'IN', 'CD', 'SYM', 'CD', ',', 'IN', 'NNP', 'NNP', 'IN', 'CD', '-LRB-', 'NN', 'NN', '-RRB-', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'JJ', 'NNP', 'IN', 'NNP', 'VBG', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

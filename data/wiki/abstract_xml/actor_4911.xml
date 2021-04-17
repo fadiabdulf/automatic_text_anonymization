@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dustin Nguyen</title>
+<link/>https://en.wikipedia.org/wiki/Dustin_Nguyen
+<annotated>0</annotated>
+<originalabstract>Dustin Nguyen (born September 17, 1962) is an American actor, director, writer, and martial artist. He is best known for his roles as Harry Truman Ioki on 21 Jump Street, and as Johnny Loh on V.I.P. In Films, he's known for starring in Little Fish, The Doom Generation and The Rebel.</originalabstract>
+<abstract>Dustin_Nguyen ( born September_17_,_1962 ) is an_American_actor , director , writer , and martial_artist . He is_best_known for his_roles as Harry_Truman_Ioki on 21_Jump_Street , and as Johnny_Loh on V.I.P . In Films , he 's_known for starring in Little_Fish , The_Doom_Generation and The_Rebel .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dustin'), (7, 'Nguyen'), (14, '('), (15, 'born'), (20, 'September'), (30, '17'), (32, ','), (34, '1962'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'director'), (70, ','), (72, 'writer'), (78, ','), (80, 'and'), (84, 'martial'), (92, 'artist'), (98, '.'), (100, 'He'), (103, 'is'), (106, 'best'), (111, 'known'), (117, 'for'), (121, 'his'), (125, 'roles'), (131, 'as'), (134, 'Harry'), (140, 'Truman'), (147, 'Ioki'), (152, 'on'), (155, '21'), (158, 'Jump'), (163, 'Street'), (169, ','), (171, 'and'), (175, 'as'), (178, 'Johnny'), (185, 'Loh'), (189, 'on'), (192, 'V.I.P'), (197, '.'), (199, 'In'), (202, 'Films'), (207, ','), (209, 'he'), (211, '\'s'), (214, 'known'), (220, 'for'), (224, 'starring'), (233, 'in'), (236, 'Little'), (243, 'Fish'), (247, ','), (249, 'The'), (253, 'Doom'), (258, 'Generation'), (269, 'and'), (273, 'The'), (277, 'Rebel'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dustin Nguyen',0, 13), ('September 17, 1962',20, 38), ('an American actor',43, 60), ('martial artist',84, 98), ('is best known',103, 116), ('his roles',121, 130), ('Harry Truman Ioki',134, 151), ('21 Jump Street',155, 169), ('Johnny Loh',178, 188), ('\'s known',211, 219), ('Little Fish',236, 247), ('The Doom Generation',249, 268), ('The Rebel',273, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '.', 'IN', 'NNS', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'IN', 'JJ', 'NN', ',', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dustin'), (7, 'Nguyen'), (14, '('), (15, 'born'), (20, 'September'), (30, '17'), (32, ','), (34, '1962'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, ','), (62, 'director'), (70, ','), (72, 'writer'), (78, ','), (80, 'and'), (84, 'martial'), (92, 'artist'), (98, '.'), (100, 'He'), (103, 'is'), (106, 'best'), (111, 'known'), (117, 'for'), (121, 'his'), (125, 'roles'), (131, 'as'), (134, 'Harry'), (140, 'Truman'), (147, 'Ioki'), (152, 'on'), (155, '21'), (158, 'Jump'), (163, 'Street'), (169, ','), (171, 'and'), (175, 'as'), (178, 'Johnny'), (185, 'Loh'), (189, 'on'), (192, 'V.I.P.'), (199, 'In'), (202, 'Films'), (207, ','), (209, 'he'), (211, "'s"), (214, 'known'), (220, 'for'), (224, 'starring'), (233, 'in'), (236, 'Little'), (243, 'Fish'), (247, ','), (249, 'The'), (253, 'Doom'), (258, 'Generation'), (269, 'and'), (273, 'The'), (277, 'Rebel'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Dustin Nguyen', 0, 13), ('September 17, 1962', 20, 38), ('an American actor', 43, 60), ('director', 62, 70), ('writer', 72, 78), ('Martial artist', 84, 98), ('his roles', 121, 130), ('Harry Truman Ioki', 134, 151), ('21 Jump Street', 155, 169), ('Johnny Loh', 178, 188), ('V.I.P.', 192, 198), ('Little Fish', 236, 247), ('The Doom Generation', 249, 268), ('The Rebel', 273, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'NNPS', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'IN', 'JJ', 'NN', ',', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

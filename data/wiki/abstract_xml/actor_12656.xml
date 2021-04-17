@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dee Hartford</title>
+<link/>https://en.wikipedia.org/wiki/Dee_Hartford
+<annotated>0</annotated>
+<originalabstract>Dee Hartford (born Donna Higgins, April 21, 1928) is a retired American television actress. She was married to Howard Hawks from 1953-59. Her sister was actress Eden Hartford.</originalabstract>
+<abstract>Dee_Hartford ( born Donna_Higgins , April_21_,_1928 ) is a_retired_American_television_actress . She was_married to Howard_Hawks from 1953-59 . Her_sister was actress_Eden_Hartford .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dee'), (4, 'Hartford'), (13, '('), (14, 'born'), (19, 'Donna'), (25, 'Higgins'), (32, ','), (34, 'April'), (40, '21'), (42, ','), (44, '1928'), (48, ')'), (50, 'is'), (53, 'a'), (55, 'retired'), (63, 'American'), (72, 'television'), (83, 'actress'), (90, '.'), (92, 'She'), (96, 'was'), (100, 'married'), (108, 'to'), (111, 'Howard'), (118, 'Hawks'), (124, 'from'), (129, '1953-59'), (136, '.'), (138, 'Her'), (142, 'sister'), (149, 'was'), (153, 'actress'), (161, 'Eden'), (166, 'Hartford'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dee Hartford',0, 12), ('Donna Higgins',19, 32), ('April 21, 1928',34, 48), ('a retired American television actress',53, 90), ('was married',96, 107), ('Howard Hawks',111, 123), ('Her sister',138, 148), ('actress Eden Hartford',153, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'NNP', 'NNPS', 'IN', 'CD', '.', 'PRP$', 'NN', 'VBD', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dee'), (4, 'Hartford'), (13, '('), (14, 'born'), (19, 'Donna'), (25, 'Higgins'), (32, ','), (34, 'April'), (40, '21'), (42, ','), (44, '1928'), (48, ')'), (50, 'is'), (53, 'a'), (55, 'retired'), (63, 'American'), (72, 'television'), (83, 'actress'), (90, '.'), (92, 'She'), (96, 'was'), (100, 'married'), (108, 'to'), (111, 'Howard'), (118, 'Hawks'), (124, 'from'), (129, '1953'), (133, '-'), (134, '59'), (136, '.'), (138, 'Her'), (142, 'sister'), (149, 'was'), (153, 'actress'), (161, 'Eden'), (166, 'Hartford'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[('Dee Hartford', 0, 12), ('born Donna Higgins', 14, 32), ('April 21, 1928', 34, 48), ('a retired American television actress', 53, 90), ('Howard Hawks', 111, 123), ('Her sister', 138, 148), ('actress Eden Hartford', 153, 174)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'JJ', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'SYM', 'CD', '.', 'PRP$', 'NN', 'VBD', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

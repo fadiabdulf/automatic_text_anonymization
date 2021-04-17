@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mireille Balin</title>
+<link/>https://en.wikipedia.org/wiki/Mireille_Balin
+<annotated>0</annotated>
+<originalabstract>Mireille Césarine Balin (born Blanche Mireille Césarine Balin 20 July 1909 in Monte Carlo – 9 November 1968 in Clichy, France) was a French actress. Considered one of the finest actresses of French cinema in the 1930s, she was discredited by her fraternization with the Nazis.</originalabstract>
+<abstract>Mireille_Césarine_Balin ( born Blanche_Mireille_Césarine_Balin_20_July_1909 in Monte_Carlo – 9_November_1968 in Clichy , France ) was a_French_actress . Considered one of the_finest_actresses of French_cinema in the_1930s , she was_discredited by her_fraternization with the_Nazis .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mireille'), (9, 'Césarine'), (18, 'Balin'), (24, '('), (25, 'born'), (30, 'Blanche'), (38, 'Mireille'), (47, 'Césarine'), (56, 'Balin'), (62, '20'), (65, 'July'), (70, '1909'), (75, 'in'), (78, 'Monte'), (84, 'Carlo'), (90, '–'), (92, '9'), (94, 'November'), (103, '1968'), (108, 'in'), (111, 'Clichy'), (117, ','), (119, 'France'), (125, ')'), (127, 'was'), (131, 'a'), (133, 'French'), (140, 'actress'), (147, '.'), (149, 'Considered'), (160, 'one'), (164, 'of'), (167, 'the'), (171, 'finest'), (178, 'actresses'), (188, 'of'), (191, 'French'), (198, 'cinema'), (205, 'in'), (208, 'the'), (212, '1930s'), (217, ','), (219, 'she'), (223, 'was'), (227, 'discredited'), (239, 'by'), (242, 'her'), (246, 'fraternization'), (261, 'with'), (266, 'the'), (270, 'Nazis'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mireille Césarine Balin',0, 23), ('Blanche Mireille Césarine Balin 20 July 1909',30, 74), ('Monte Carlo',78, 89), ('9 November 1968',92, 107), ('a French actress',131, 147), ('the finest actresses',167, 187), ('French cinema',191, 204), ('the 1930s',208, 217), ('was discredited',223, 238), ('her fraternization',242, 260), ('the Nazis',266, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'CD', 'IN', 'DT', 'JJS', 'NNS', 'IN', 'JJ', 'NN', 'IN', 'DT', 'NNS', ',', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mireille'), (9, 'Césarine'), (18, 'Balin'), (24, '('), (25, 'born'), (30, 'Blanche'), (38, 'Mireille'), (47, 'Césarine'), (56, 'Balin'), (62, '20'), (65, 'July'), (70, '1909'), (75, 'in'), (78, 'Monte'), (84, 'Carlo'), (90, '–'), (92, '9'), (94, 'November'), (103, '1968'), (108, 'in'), (111, 'Clichy'), (117, ','), (119, 'France'), (125, ')'), (127, 'was'), (131, 'a'), (133, 'French'), (140, 'actress'), (147, '.'), (149, 'Considered'), (160, 'one'), (164, 'of'), (167, 'the'), (171, 'finest'), (178, 'actresses'), (188, 'of'), (191, 'French'), (198, 'cinema'), (205, 'in'), (208, 'the'), (212, '1930s'), (217, ','), (219, 'she'), (223, 'was'), (227, 'discredited'), (239, 'by'), (242, 'her'), (246, 'fraternization'), (261, 'with'), (266, 'the'), (270, 'Nazis'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('Mireille Césarine Balin', 0, 23), ('born Blanche Mireille Césarine Balin', 25, 61), ('20 July 1909', 62, 74), ('Monte Carlo', 78, 89), ('9 November 1968', 92, 107), ('Clichy,', 111, 118), ('France', 119, 125), ('a French actress', 131, 147), ('the finest actresses', 167, 187), ('French cinema', 191, 204), ('the 1930s', 208, 217), ('her fraternization', 242, 260), ('the Nazis', 266, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'CD', 'IN', 'DT', 'JJS', 'NNS', 'IN', 'JJ', 'NN', 'IN', 'DT', 'NNS', ',', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jeff Morrow</title>
+<link/>https://en.wikipedia.org/wiki/Jeff_Morrow
+<annotated>0</annotated>
+<originalabstract>Leslie Irving Morrow, known as Jeff Morrow (January 13, 1907 – December 26, 1993), was an American actor educated at the Pratt Institute in his native New York City. Morrow was a commercial artist prior to turning to acting. Early in his career, he acted on the Broadway stage using the name Irving Morrow.</originalabstract>
+<abstract>Leslie_Irving_Morrow , known as Jeff_Morrow ( January_13_,_1907 – December_26_,_1993 ) , was an_American_actor educated at the_Pratt_Institute in his_native_New_York_City . Morrow was a_commercial_artist prior to turning to acting . Early in his_career , he acted on the_Broadway_stage using the_name_Irving_Morrow .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leslie'), (7, 'Irving'), (14, 'Morrow'), (20, ','), (22, 'known'), (28, 'as'), (31, 'Jeff'), (36, 'Morrow'), (43, '('), (44, 'January'), (52, '13'), (54, ','), (56, '1907'), (61, '–'), (63, 'December'), (72, '26'), (74, ','), (76, '1993'), (80, ')'), (81, ','), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'actor'), (105, 'educated'), (114, 'at'), (117, 'the'), (121, 'Pratt'), (127, 'Institute'), (137, 'in'), (140, 'his'), (144, 'native'), (151, 'New'), (155, 'York'), (160, 'City'), (164, '.'), (166, 'Morrow'), (173, 'was'), (177, 'a'), (179, 'commercial'), (190, 'artist'), (197, 'prior'), (203, 'to'), (206, 'turning'), (214, 'to'), (217, 'acting'), (223, '.'), (225, 'Early'), (231, 'in'), (234, 'his'), (238, 'career'), (244, ','), (246, 'he'), (249, 'acted'), (255, 'on'), (258, 'the'), (262, 'Broadway'), (271, 'stage'), (277, 'using'), (283, 'the'), (287, 'name'), (292, 'Irving'), (299, 'Morrow'), (305, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leslie Irving Morrow',0, 20), ('Jeff Morrow',31, 42), ('January 13, 1907',44, 60), ('December 26, 1993',63, 80), ('an American actor',87, 104), ('the Pratt Institute',117, 136), ('his native New York City',140, 164), ('a commercial artist',177, 196), ('his career',234, 244), ('the Broadway stage',258, 276), ('the name Irving Morrow',283, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'PRP$', 'JJ', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'TO', 'VBG', 'TO', 'VBG', '.', 'RB', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NN', 'VBG', 'DT', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leslie'), (7, 'Irving'), (14, 'Morrow'), (20, ','), (22, 'known'), (28, 'as'), (31, 'Jeff'), (36, 'Morrow'), (43, '('), (44, 'January'), (52, '13'), (54, ','), (56, '1907'), (61, '–'), (63, 'December'), (72, '26'), (74, ','), (76, '1993'), (80, ')'), (81, ','), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'actor'), (105, 'educated'), (114, 'at'), (117, 'the'), (121, 'Pratt'), (127, 'Institute'), (137, 'in'), (140, 'his'), (144, 'native'), (151, 'New'), (155, 'York'), (160, 'City'), (164, '.'), (166, 'Morrow'), (173, 'was'), (177, 'a'), (179, 'commercial'), (190, 'artist'), (197, 'prior'), (203, 'to'), (206, 'turning'), (214, 'to'), (217, 'acting'), (223, '.'), (225, 'Early'), (231, 'in'), (234, 'his'), (238, 'career'), (244, ','), (246, 'he'), (249, 'acted'), (255, 'on'), (258, 'the'), (262, 'Broadway'), (271, 'stage'), (277, 'using'), (283, 'the'), (287, 'name'), (292, 'Irving'), (299, 'Morrow'), (305, '.')])</spacy_tokens>
+<spacy_chunks>[('Leslie Irving Morrow', 0, 20), ('Jeff Morrow', 31, 42), ('January 13, 1907', 44, 60), ('December 26, 1993', 63, 80), ('an American actor', 87, 104), ('the Pratt Institute', 117, 136), ('his native New York City', 140, 164), ('a commercial artist', 177, 196), ('his career', 234, 244), ('the Broadway stage', 258, 276), ('the name', 283, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'PRP$', 'JJ', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'IN', 'VBG', 'IN', 'VBG', '.', 'RB', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NN', 'VBG', 'DT', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lorenzo Tucker</title>
+<link/>https://en.wikipedia.org/wiki/Lorenzo_Tucker
+<annotated>0</annotated>
+<originalabstract>Lorenzo Tucker (June 27, 1907 – August 19, 1986), known as the "Black Valentino,"  was an African-American stage and screen actor who played the romantic lead in the early black films of Oscar Micheaux.</originalabstract>
+<abstract>Lorenzo_Tucker ( June_27_,_1907 – August_19_,_1986 ) , known as the_"_Black_Valentino , " was an_African-American_stage_and_screen_actor who played the_romantic_lead in the_early_black_films of Oscar_Micheaux .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lorenzo'), (8, 'Tucker'), (15, '('), (16, 'June'), (21, '27'), (23, ','), (25, '1907'), (30, '–'), (32, 'August'), (39, '19'), (41, ','), (43, '1986'), (47, ')'), (48, ','), (50, 'known'), (56, 'as'), (59, 'the'), (63, '"'), (64, 'Black'), (70, 'Valentino'), (79, ','), (80, '"'), (83, 'was'), (87, 'an'), (90, 'African-American'), (107, 'stage'), (113, 'and'), (117, 'screen'), (124, 'actor'), (130, 'who'), (134, 'played'), (141, 'the'), (145, 'romantic'), (154, 'lead'), (159, 'in'), (162, 'the'), (166, 'early'), (172, 'black'), (178, 'films'), (184, 'of'), (187, 'Oscar'), (193, 'Micheaux'), (201, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lorenzo Tucker',0, 14), ('June 27, 1907',16, 29), ('August 19, 1986',32, 47), ('the "Black Valentino',59, 79), ('an African-American stage and screen actor',87, 129), ('the romantic lead',141, 158), ('the early black films',162, 183), ('Oscar Micheaux',187, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'DT', '``', 'JJ', 'NN', ',', '\'\'', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lorenzo'), (8, 'Tucker'), (15, '('), (16, 'June'), (21, '27'), (23, ','), (25, '1907'), (30, '–'), (32, 'August'), (39, '19'), (41, ','), (43, '1986'), (47, ')'), (48, ','), (50, 'known'), (56, 'as'), (59, 'the'), (63, '"'), (64, 'Black'), (70, 'Valentino'), (79, ','), (80, '"'), (83, 'was'), (87, 'an'), (90, 'African'), (97, '-'), (98, 'American'), (107, 'stage'), (113, 'and'), (117, 'screen'), (124, 'actor'), (130, 'who'), (134, 'played'), (141, 'the'), (145, 'romantic'), (154, 'lead'), (159, 'in'), (162, 'the'), (166, 'early'), (172, 'black'), (178, 'films'), (184, 'of'), (187, 'Oscar'), (193, 'Micheaux'), (201, '.')])</spacy_tokens>
+<spacy_chunks>[('Lorenzo Tucker', 0, 14), ('June 27, 1907', 16, 29), ('August 19, 1986', 32, 47), ('the "Black Valentino', 59, 79), ('an African-American stage', 87, 112), ('screen actor', 117, 129), ('the romantic lead', 141, 158), ('the early black films', 162, 183), ('Oscar Micheaux', 187, 201)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'DT', '``', 'NNP', 'NNP', ',', "''", 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

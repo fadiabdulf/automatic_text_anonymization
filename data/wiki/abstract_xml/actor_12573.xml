@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kipp Hamilton</title>
+<link/>https://en.wikipedia.org/wiki/Kipp_Hamilton
+<annotated>0</annotated>
+<originalabstract>Kipp Hamilton (August 16, 1934 – January 29, 1981) was an American actress, singer and model. She was the younger sister of producer Joe Hamilton and the sister-in-law of Carol Burnett.</originalabstract>
+<abstract>Kipp_Hamilton ( August_16_,_1934 – January_29 , 1981 ) was an_American_actress , singer_and_model . She was the_younger_sister of producer_Joe_Hamilton and the_sister-in-law of Carol_Burnett .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kipp'), (5, 'Hamilton'), (14, '('), (15, 'August'), (22, '16'), (24, ','), (26, '1934'), (31, '–'), (33, 'January'), (41, '29'), (43, ','), (45, '1981'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actress'), (74, ','), (76, 'singer'), (83, 'and'), (87, 'model'), (92, '.'), (94, 'She'), (98, 'was'), (102, 'the'), (106, 'younger'), (114, 'sister'), (121, 'of'), (124, 'producer'), (133, 'Joe'), (137, 'Hamilton'), (146, 'and'), (150, 'the'), (154, 'sister-in-law'), (168, 'of'), (171, 'Carol'), (177, 'Burnett'), (184, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kipp Hamilton',0, 13), ('August 16, 1934',15, 30), ('January 29',33, 43), ('an American actress',55, 74), ('singer and model',76, 92), ('the younger sister',102, 120), ('producer Joe Hamilton',124, 145), ('the sister-in-law',150, 167), ('Carol Burnett',171, 184)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJR', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kipp'), (5, 'Hamilton'), (14, '('), (15, 'August'), (22, '16'), (24, ','), (26, '1934'), (31, '–'), (33, 'January'), (41, '29'), (43, ','), (45, '1981'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actress'), (74, ','), (76, 'singer'), (83, 'and'), (87, 'model'), (92, '.'), (94, 'She'), (98, 'was'), (102, 'the'), (106, 'younger'), (114, 'sister'), (121, 'of'), (124, 'producer'), (133, 'Joe'), (137, 'Hamilton'), (146, 'and'), (150, 'the'), (154, 'sister'), (160, '-'), (161, 'in'), (163, '-'), (164, 'law'), (168, 'of'), (171, 'Carol'), (177, 'Burnett'), (184, '.')])</spacy_tokens>
+<spacy_chunks>[('Kipp Hamilton', 0, 13), ('August 16, 1934', 15, 30), ('January 29, 1981', 33, 49), ('an American actress', 55, 74), ('singer', 76, 82), ('the younger sister', 102, 120), ('producer Joe Hamilton', 124, 145), ('the sister', 150, 160), ('Carol Burnett', 171, 184)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJR', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'DT', 'NN', 'HYPH', 'IN', 'HYPH', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

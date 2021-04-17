@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Christine Elise</title>
+<link/>https://en.wikipedia.org/wiki/Christine_Elise
+<annotated>0</annotated>
+<originalabstract>Christine Elise (born February 12, 1965) is an American film and television actress. She is best known for her roles as Emily Valentine in Beverly Hills, 90210 and Kyle in Child's Play 2 (1990), and Cult of Chucky (2017, Cameo, Unrated Version Only).</originalabstract>
+<abstract>Christine_Elise ( born February_12_,_1965 ) is an_American_film_and_television_actress . She is_best_known for her_roles as Emily_Valentine in Beverly_Hills , 90210 and Kyle in Child 's_Play_2_(_1990_) , and Cult of Chucky_(_2017 , Cameo , Unrated_Version_Only_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Christine'), (10, 'Elise'), (16, '('), (17, 'born'), (22, 'February'), (31, '12'), (33, ','), (35, '1965'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'film'), (61, 'and'), (65, 'television'), (76, 'actress'), (83, '.'), (85, 'She'), (89, 'is'), (92, 'best'), (97, 'known'), (103, 'for'), (107, 'her'), (111, 'roles'), (117, 'as'), (120, 'Emily'), (126, 'Valentine'), (136, 'in'), (139, 'Beverly'), (147, 'Hills'), (152, ','), (154, '90210'), (160, 'and'), (164, 'Kyle'), (169, 'in'), (172, 'Child'), (177, '\'s'), (180, 'Play'), (185, '2'), (187, '('), (188, '1990'), (192, ')'), (193, ','), (195, 'and'), (199, 'Cult'), (204, 'of'), (207, 'Chucky'), (214, '('), (215, '2017'), (219, ','), (221, 'Cameo'), (226, ','), (228, 'Unrated'), (236, 'Version'), (244, 'Only'), (248, ')'), (249, '.')])</stanford_tokens>
+<opennlp_chunks>[('Christine Elise',0, 15), ('February 12, 1965',22, 39), ('an American film and television actress',44, 83), ('is best known',89, 102), ('her roles',107, 116), ('Emily Valentine',120, 135), ('Beverly Hills',139, 152), ('\'s Play 2 (1990)',177, 193), ('Chucky (2017',207, 219), ('Unrated Version Only)',228, 249)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CD', 'CC', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'CD', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NN', 'IN', 'NNP', '-LRB-', 'CD', ',', 'NNP', ',', 'NNP', 'NNP', 'RB', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Christine'), (10, 'Elise'), (16, '('), (17, 'born'), (22, 'February'), (31, '12'), (33, ','), (35, '1965'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'film'), (61, 'and'), (65, 'television'), (76, 'actress'), (83, '.'), (85, 'She'), (89, 'is'), (92, 'best'), (97, 'known'), (103, 'for'), (107, 'her'), (111, 'roles'), (117, 'as'), (120, 'Emily'), (126, 'Valentine'), (136, 'in'), (139, 'Beverly'), (147, 'Hills'), (152, ','), (154, '90210'), (160, 'and'), (164, 'Kyle'), (169, 'in'), (172, 'Child'), (177, "'s"), (180, 'Play'), (185, '2'), (187, '('), (188, '1990'), (192, ')'), (193, ','), (195, 'and'), (199, 'Cult'), (204, 'of'), (207, 'Chucky'), (214, '('), (215, '2017'), (219, ','), (221, 'Cameo'), (226, ','), (228, 'Unrated'), (236, 'Version'), (244, 'Only'), (248, ')'), (249, '.')])</spacy_tokens>
+<spacy_chunks>[('Christine Elise', 0, 15), ('February 12, 1965', 22, 39), ('an American film and television actress', 44, 83), ('her roles', 107, 116), ('Emily Valentine', 120, 135), ('Beverly Hills, 90210', 139, 159), ("Child's Play 2", 172, 186), ('Cult of Chucky', 199, 213), ('Unrated Version', 228, 243)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CD', 'CC', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'CD', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', ',', 'NNP', ',', 'NNP', 'NNP', 'RB', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

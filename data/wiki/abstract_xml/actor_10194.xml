@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean-François Stévenin</title>
+<link/>https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_St%C3%A9venin
+<annotated>0</annotated>
+<originalabstract>Jean-François Stévenin (French: [stevnɛ̃]; born 23 April 1944) is a French actor and filmmaker. He has appeared in 150 films and television shows since 1968. He starred in the film Cold Moon, which was entered into the 1991 Cannes Film Festival.</originalabstract>
+<abstract>Jean-François_Stévenin ( French : [_stevnɛ̃_] ; born_23_April_1944 ) is a_French_actor_and_filmmaker . He has_appeared in 150_films_and_television_shows since 1968 . He starred in the_film_Cold_Moon , which was_entered into the_1991_Cannes_Film_Festival .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean-François'), (14, 'Stévenin'), (23, '('), (24, 'French'), (30, ':'), (32, '['), (33, 'stevnɛ̃'), (40, ']'), (41, ';'), (43, 'born'), (48, '23'), (51, 'April'), (57, '1944'), (61, ')'), (63, 'is'), (66, 'a'), (68, 'French'), (75, 'actor'), (81, 'and'), (85, 'filmmaker'), (94, '.'), (96, 'He'), (99, 'has'), (103, 'appeared'), (112, 'in'), (115, '150'), (119, 'films'), (125, 'and'), (129, 'television'), (140, 'shows'), (146, 'since'), (152, '1968'), (156, '.'), (158, 'He'), (161, 'starred'), (169, 'in'), (172, 'the'), (176, 'film'), (181, 'Cold'), (186, 'Moon'), (190, ','), (192, 'which'), (198, 'was'), (202, 'entered'), (210, 'into'), (215, 'the'), (219, '1991'), (224, 'Cannes'), (231, 'Film'), (236, 'Festival'), (244, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean-François Stévenin',0, 22), ('[stevnɛ̃]',32, 41), ('born 23 April 1944',43, 61), ('a French actor and filmmaker',66, 94), ('has appeared',99, 111), ('150 films and television shows',115, 145), ('the film Cold Moon',172, 190), ('was entered',198, 209), ('the 1991 Cannes Film Festival',215, 244)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NN', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (4, '-'), (5, 'François'), (14, 'Stévenin'), (23, '('), (24, 'French'), (30, ':'), (32, '['), (33, 'stevnɛ̃'), (40, ']'), (41, ';'), (43, 'born'), (48, '23'), (51, 'April'), (57, '1944'), (61, ')'), (63, 'is'), (66, 'a'), (68, 'French'), (75, 'actor'), (81, 'and'), (85, 'filmmaker'), (94, '.'), (96, 'He'), (99, 'has'), (103, 'appeared'), (112, 'in'), (115, '150'), (119, 'films'), (125, 'and'), (129, 'television'), (140, 'shows'), (146, 'since'), (152, '1968'), (156, '.'), (158, 'He'), (161, 'starred'), (169, 'in'), (172, 'the'), (176, 'film'), (181, 'Cold'), (186, 'Moon'), (190, ','), (192, 'which'), (198, 'was'), (202, 'entered'), (210, 'into'), (215, 'the'), (219, '1991'), (224, 'Cannes'), (231, 'Film'), (236, 'Festival'), (244, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean-François Stévenin', 0, 22), ('(French', 23, 30), ('[stevnɛ̃', 32, 40), ('23 April 1944', 48, 61), ('a French actor', 66, 80), ('filmmaker', 85, 94), ('150 films', 115, 124), ('television shows', 129, 145), ('the film', 172, 180), ('Cold Moon', 181, 190), ('the 1991 Cannes Film Festival', 215, 244)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NNP', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bodil Rosing</title>
+<link/>https://en.wikipedia.org/wiki/Bodil_Rosing
+<annotated>0</annotated>
+<originalabstract>Bodil Rosing (born Bodil Hammerich; December 27, 1877 – December 31, 1941) was a Danish-American film actress in the silent and sound eras.</originalabstract>
+<abstract>Bodil_Rosing ( born Bodil_Hammerich ; December_27_,_1877 – December_31_,_1941 ) was a_Danish-American_film_actress in the_silent_and_sound_eras .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bodil'), (6, 'Rosing'), (13, '('), (14, 'born'), (19, 'Bodil'), (25, 'Hammerich'), (34, ';'), (36, 'December'), (45, '27'), (47, ','), (49, '1877'), (54, '–'), (56, 'December'), (65, '31'), (67, ','), (69, '1941'), (73, ')'), (75, 'was'), (79, 'a'), (81, 'Danish-American'), (97, 'film'), (102, 'actress'), (110, 'in'), (113, 'the'), (117, 'silent'), (124, 'and'), (128, 'sound'), (134, 'eras'), (138, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bodil Rosing',0, 12), ('Bodil Hammerich',19, 34), ('December 27, 1877',36, 53), ('December 31, 1941',56, 73), ('a Danish-American film actress',79, 109), ('the silent and sound eras',113, 138)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bodil'), (6, 'Rosing'), (13, '('), (14, 'born'), (19, 'Bodil'), (25, 'Hammerich'), (34, ';'), (36, 'December'), (45, '27'), (47, ','), (49, '1877'), (54, '–'), (56, 'December'), (65, '31'), (67, ','), (69, '1941'), (73, ')'), (75, 'was'), (79, 'a'), (81, 'Danish'), (87, '-'), (88, 'American'), (97, 'film'), (102, 'actress'), (110, 'in'), (113, 'the'), (117, 'silent'), (124, 'and'), (128, 'sound'), (134, 'eras'), (138, '.')])</spacy_tokens>
+<spacy_chunks>[('Bodil Rosing', 0, 12), ('(born Bodil Hammerich', 13, 34), ('December 27, 1877', 36, 53), ('December 31, 1941', 56, 73), ('a Danish-American film actress', 79, 109), ('the silent and sound eras', 113, 138)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

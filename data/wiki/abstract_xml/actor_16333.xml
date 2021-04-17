@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wendy Barrie</title>
+<link/>https://en.wikipedia.org/wiki/Wendy_Barrie
+<annotated>0</annotated>
+<originalabstract>Wendy Barrie (born Marguerite Wendy Jenkins, 18 April 1912 – 2 February 1978) was a British-American film and television actress.</originalabstract>
+<abstract>Wendy_Barrie ( born Marguerite_Wendy_Jenkins , 18_April_1912 – 2_February_1978 ) was a_British-American_film_and_television_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wendy'), (6, 'Barrie'), (13, '('), (14, 'born'), (19, 'Marguerite'), (30, 'Wendy'), (36, 'Jenkins'), (43, ','), (45, '18'), (48, 'April'), (54, '1912'), (59, '–'), (61, '2'), (63, 'February'), (72, '1978'), (76, ')'), (78, 'was'), (82, 'a'), (84, 'British-American'), (101, 'film'), (106, 'and'), (110, 'television'), (121, 'actress'), (128, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wendy Barrie',0, 12), ('Marguerite Wendy Jenkins',19, 43), ('18 April 1912',45, 58), ('2 February 1978',61, 76), ('a British-American film and television actress',82, 128)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wendy'), (6, 'Barrie'), (13, '('), (14, 'born'), (19, 'Marguerite'), (30, 'Wendy'), (36, 'Jenkins'), (43, ','), (45, '18'), (48, 'April'), (54, '1912'), (59, '–'), (61, '2'), (63, 'February'), (72, '1978'), (76, ')'), (78, 'was'), (82, 'a'), (84, 'British'), (91, '-'), (92, 'American'), (101, 'film'), (106, 'and'), (110, 'television'), (121, 'actress'), (128, '.')])</spacy_tokens>
+<spacy_chunks>[('Wendy Barrie', 0, 12), ('(born Marguerite Wendy Jenkins', 13, 43), ('18 April 1912', 45, 58), ('2 February 1978', 61, 76), ('a British-American film and television actress', 82, 128)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

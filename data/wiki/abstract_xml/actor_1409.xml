@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Conrad</title>
+<link/>https://en.wikipedia.org/wiki/David_Conrad
+<annotated>0</annotated>
+<originalabstract>David Conrad (born August 17, 1967) is an American actor. From 2005 to 2010, he starred in the television series Ghost Whisperer alongside Jennifer Love Hewitt.</originalabstract>
+<abstract>David_Conrad ( born August_17_,_1967 ) is an_American_actor . From 2005 to 2010 , he starred in the_television_series_Ghost_Whisperer alongside Jennifer_Love_Hewitt .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Conrad'), (13, '('), (14, 'born'), (19, 'August'), (26, '17'), (28, ','), (30, '1967'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actor'), (56, '.'), (58, 'From'), (63, '2005'), (68, 'to'), (71, '2010'), (75, ','), (77, 'he'), (80, 'starred'), (88, 'in'), (91, 'the'), (95, 'television'), (106, 'series'), (113, 'Ghost'), (119, 'Whisperer'), (129, 'alongside'), (139, 'Jennifer'), (148, 'Love'), (153, 'Hewitt'), (159, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Conrad',0, 12), ('August 17, 1967',19, 34), ('an American actor',39, 56), ('the television series Ghost Whisperer',91, 128), ('Jennifer Love Hewitt',139, 159)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', 'TO', 'CD', ',', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Conrad'), (13, '('), (14, 'born'), (19, 'August'), (26, '17'), (28, ','), (30, '1967'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actor'), (56, '.'), (58, 'From'), (63, '2005'), (68, 'to'), (71, '2010'), (75, ','), (77, 'he'), (80, 'starred'), (88, 'in'), (91, 'the'), (95, 'television'), (106, 'series'), (113, 'Ghost'), (119, 'Whisperer'), (129, 'alongside'), (139, 'Jennifer'), (148, 'Love'), (153, 'Hewitt'), (159, '.')])</spacy_tokens>
+<spacy_chunks>[('David Conrad', 0, 12), ('August 17, 1967', 19, 34), ('an American actor', 39, 56), ('the television series', 91, 112), ('Ghost Whisperer', 113, 128), ('Jennifer Love Hewitt', 139, 159)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

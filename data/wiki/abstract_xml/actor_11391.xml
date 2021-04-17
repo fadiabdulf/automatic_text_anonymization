@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Shirl Conway</title>
+<link/>https://en.wikipedia.org/wiki/Shirl_Conway
+<annotated>0</annotated>
+<originalabstract>Shirl Conway (June 13, 1916 – May 7, 2007), born Shirley Elizabeth Crosman, was an American television and Broadway actress.</originalabstract>
+<abstract>Shirl_Conway ( June_13_,_1916 – May_7_,_2007 ) , born Shirley_Elizabeth_Crosman , was an_American_television and Broadway_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Shirl'), (6, 'Conway'), (13, '('), (14, 'June'), (19, '13'), (21, ','), (23, '1916'), (28, '–'), (30, 'May'), (34, '7'), (35, ','), (37, '2007'), (41, ')'), (42, ','), (44, 'born'), (49, 'Shirley'), (57, 'Elizabeth'), (67, 'Crosman'), (74, ','), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'television'), (103, 'and'), (107, 'Broadway'), (116, 'actress'), (123, '.')])</stanford_tokens>
+<opennlp_chunks>[('Shirl Conway',0, 12), ('June 13, 1916',14, 27), ('May 7, 2007',30, 41), ('Shirley Elizabeth Crosman',49, 74), ('an American television',80, 102), ('Broadway actress',107, 123)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Shirl'), (6, 'Conway'), (13, '('), (14, 'June'), (19, '13'), (21, ','), (23, '1916'), (28, '–'), (30, 'May'), (34, '7'), (35, ','), (37, '2007'), (41, ')'), (42, ','), (44, 'born'), (49, 'Shirley'), (57, 'Elizabeth'), (67, 'Crosman'), (74, ','), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'television'), (103, 'and'), (107, 'Broadway'), (116, 'actress'), (123, '.')])</spacy_tokens>
+<spacy_chunks>[('Shirl Conway', 0, 12), ('June 13, 1916', 14, 27), ('May 7, 2007', 30, 41), ('born Shirley Elizabeth Crosman', 44, 74), ('an American television and Broadway actress', 80, 123)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

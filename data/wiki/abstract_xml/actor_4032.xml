@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Lipton</title>
+<link/>https://en.wikipedia.org/wiki/James_Lipton
+<annotated>0</annotated>
+<originalabstract>James Lipton (born September 19, 1926) is an American writer, lyricist, actor and dean emeritus of the Actors Studio Drama School at Pace University in New York City. He is the executive producer, writer and host of the Bravo cable television series Inside the Actors Studio, which debuted in 1994.</originalabstract>
+<abstract>James_Lipton ( born September_19_,_1926 ) is an_American_writer_,_lyricist_,_actor_and_dean_emeritus of the_Actors_Studio_Drama_School at Pace_University in New_York_City . He is the_executive_producer_,_writer_and_host of the_Bravo_cable_television_series Inside the_Actors_Studio , which debuted in 1994 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Lipton'), (13, '('), (14, 'born'), (19, 'September'), (29, '19'), (31, ','), (33, '1926'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'writer'), (60, ','), (62, 'lyricist'), (70, ','), (72, 'actor'), (78, 'and'), (82, 'dean'), (87, 'emeritus'), (96, 'of'), (99, 'the'), (103, 'Actors'), (110, 'Studio'), (117, 'Drama'), (123, 'School'), (130, 'at'), (133, 'Pace'), (138, 'University'), (149, 'in'), (152, 'New'), (156, 'York'), (161, 'City'), (165, '.'), (167, 'He'), (170, 'is'), (173, 'the'), (177, 'executive'), (187, 'producer'), (195, ','), (197, 'writer'), (204, 'and'), (208, 'host'), (213, 'of'), (216, 'the'), (220, 'Bravo'), (226, 'cable'), (232, 'television'), (243, 'series'), (250, 'Inside'), (257, 'the'), (261, 'Actors'), (268, 'Studio'), (274, ','), (276, 'which'), (282, 'debuted'), (290, 'in'), (293, '1994'), (297, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Lipton',0, 12), ('September 19, 1926',19, 37), ('an American writer, lyricist, actor and dean emeritus',42, 95), ('the Actors Studio Drama School',99, 129), ('Pace University',133, 148), ('New York City',152, 165), ('the executive producer, writer and host',173, 212), ('the Bravo cable television series',216, 249), ('the Actors Studio',257, 274)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Lipton'), (13, '('), (14, 'born'), (19, 'September'), (29, '19'), (31, ','), (33, '1926'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'writer'), (60, ','), (62, 'lyricist'), (70, ','), (72, 'actor'), (78, 'and'), (82, 'dean'), (87, 'emeritus'), (96, 'of'), (99, 'the'), (103, 'Actors'), (110, 'Studio'), (117, 'Drama'), (123, 'School'), (130, 'at'), (133, 'Pace'), (138, 'University'), (149, 'in'), (152, 'New'), (156, 'York'), (161, 'City'), (165, '.'), (167, 'He'), (170, 'is'), (173, 'the'), (177, 'executive'), (187, 'producer'), (195, ','), (197, 'writer'), (204, 'and'), (208, 'host'), (213, 'of'), (216, 'the'), (220, 'Bravo'), (226, 'cable'), (232, 'television'), (243, 'series'), (250, 'Inside'), (257, 'the'), (261, 'Actors'), (268, 'Studio'), (274, ','), (276, 'which'), (282, 'debuted'), (290, 'in'), (293, '1994'), (297, '.')])</spacy_tokens>
+<spacy_chunks>[('James Lipton', 0, 12), ('September 19, 1926', 19, 37), ('an American writer', 42, 60), ('lyricist', 62, 70), ('dean emeritus', 82, 95), ('the Actors Studio Drama School', 99, 129), ('Actors Studio', 103, 116), ('Pace University', 133, 148), ('New York City', 152, 165), ('the executive producer', 173, 195), ('the Bravo cable television series', 216, 249), ('Inside the Actors Studio', 250, 274)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNPS', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'IN', 'DT', 'NNPS', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

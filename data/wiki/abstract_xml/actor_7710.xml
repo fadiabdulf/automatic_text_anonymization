@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert Bolder</title>
+<link/>https://en.wikipedia.org/wiki/Robert_Bolder
+<annotated>0</annotated>
+<originalabstract>Robert Bolder (20 July 1859 – 10 December 1937) was an English film actor of the silent era. He appeared in 99 films between 1912 and 1936. He was born in London and died in Los Angeles, California. In the early part of the 20th-century Bolder was involved in several Broadway productions.</originalabstract>
+<abstract>Robert_Bolder ( 20_July_1859 – 10_December_1937 ) was an_English_film_actor of the_silent_era . He appeared in 99_films between 1912_and_1936 . He was_born in London and died in Los_Angeles , California . In the_early_part of the_20th-century_Bolder was_involved in several_Broadway_productions .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Bolder'), (14, '('), (15, '20'), (18, 'July'), (23, '1859'), (28, '–'), (30, '10'), (33, 'December'), (42, '1937'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'English'), (63, 'film'), (68, 'actor'), (74, 'of'), (77, 'the'), (81, 'silent'), (88, 'era'), (91, '.'), (93, 'He'), (96, 'appeared'), (105, 'in'), (108, '99'), (111, 'films'), (117, 'between'), (125, '1912'), (130, 'and'), (134, '1936'), (138, '.'), (140, 'He'), (143, 'was'), (147, 'born'), (152, 'in'), (155, 'London'), (162, 'and'), (166, 'died'), (171, 'in'), (174, 'Los'), (178, 'Angeles'), (185, ','), (187, 'California'), (197, '.'), (199, 'In'), (202, 'the'), (206, 'early'), (212, 'part'), (217, 'of'), (220, 'the'), (224, '20th-century'), (237, 'Bolder'), (244, 'was'), (248, 'involved'), (257, 'in'), (260, 'several'), (268, 'Broadway'), (277, 'productions'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Bolder',0, 13), ('20 July 1859',15, 27), ('10 December 1937',30, 46), ('an English film actor',52, 73), ('the silent era',77, 91), ('99 films',108, 116), ('1912 and 1936',125, 138), ('was born',143, 151), ('Los Angeles',174, 185), ('the early part',202, 216), ('the 20th-century Bolder',220, 243), ('was involved',244, 256), ('several Broadway productions',260, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'VBD', 'VBN', 'IN', 'JJ', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Bolder'), (14, '('), (15, '20'), (18, 'July'), (23, '1859'), (28, '–'), (30, '10'), (33, 'December'), (42, '1937'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'English'), (63, 'film'), (68, 'actor'), (74, 'of'), (77, 'the'), (81, 'silent'), (88, 'era'), (91, '.'), (93, 'He'), (96, 'appeared'), (105, 'in'), (108, '99'), (111, 'films'), (117, 'between'), (125, '1912'), (130, 'and'), (134, '1936'), (138, '.'), (140, 'He'), (143, 'was'), (147, 'born'), (152, 'in'), (155, 'London'), (162, 'and'), (166, 'died'), (171, 'in'), (174, 'Los'), (178, 'Angeles'), (185, ','), (187, 'California'), (197, '.'), (199, 'In'), (202, 'the'), (206, 'early'), (212, 'part'), (217, 'of'), (220, 'the'), (224, '20th'), (228, '-'), (229, 'century'), (237, 'Bolder'), (244, 'was'), (248, 'involved'), (257, 'in'), (260, 'several'), (268, 'Broadway'), (277, 'productions'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Bolder', 0, 13), ('20 July 1859', 15, 27), ('10 December 1937', 30, 46), ('an English film actor', 52, 73), ('the silent era', 77, 91), ('99 films', 108, 116), ('London', 155, 161), ('Los Angeles, California', 174, 197), ('the early part', 202, 216), ('the 20th-century Bolder', 220, 243), ('several Broadway productions', 260, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'HYPH', 'NN', 'NN', 'VBD', 'VBN', 'IN', 'JJ', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

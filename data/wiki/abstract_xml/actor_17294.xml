@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Trudie Styler</title>
+<link/>https://en.wikipedia.org/wiki/Trudie_Styler
+<annotated>0</annotated>
+<originalabstract>Trudie Styler (born 6 January 1954) is an English actress, film producer and director.</originalabstract>
+<abstract>Trudie_Styler ( born_6_January_1954 ) is an_English_actress , film_producer_and_director .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Trudie'), (7, 'Styler'), (14, '('), (15, 'born'), (20, '6'), (22, 'January'), (30, '1954'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actress'), (57, ','), (59, 'film'), (64, 'producer'), (73, 'and'), (77, 'director'), (85, '.')])</stanford_tokens>
+<opennlp_chunks>[('Trudie Styler',0, 13), ('born 6 January 1954',15, 34), ('an English actress',39, 57), ('film producer and director',59, 85)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Trudie'), (7, 'Styler'), (14, '('), (15, 'born'), (20, '6'), (22, 'January'), (30, '1954'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actress'), (57, ','), (59, 'film'), (64, 'producer'), (73, 'and'), (77, 'director'), (85, '.')])</spacy_tokens>
+<spacy_chunks>[('Trudie Styler', 0, 13), ('6 January 1954', 20, 34), ('an English actress', 39, 57), ('film producer', 59, 72), ('director', 77, 85)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

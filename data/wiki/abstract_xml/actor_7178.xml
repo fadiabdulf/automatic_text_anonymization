@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maston Williams</title>
+<link/>https://en.wikipedia.org/wiki/Maston_Williams
+<annotated>0</annotated>
+<originalabstract>Maston Williams (April 23, 1879 – July 15, 1978) was an American actor who appeared in films during the 1930s. He appeared in more than 40 films between 1931 and 1939.</originalabstract>
+<abstract>Maston_Williams ( April_23 , 1879 – July_15_,_1978 ) was an_American_actor who appeared in films during the_1930s . He appeared in more_than_40_films between 1931_and_1939 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maston'), (7, 'Williams'), (16, '('), (17, 'April'), (23, '23'), (25, ','), (27, '1879'), (32, '–'), (34, 'July'), (39, '15'), (41, ','), (43, '1978'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (71, 'who'), (75, 'appeared'), (84, 'in'), (87, 'films'), (93, 'during'), (100, 'the'), (104, '1930s'), (109, '.'), (111, 'He'), (114, 'appeared'), (123, 'in'), (126, 'more'), (131, 'than'), (136, '40'), (139, 'films'), (145, 'between'), (153, '1931'), (158, 'and'), (162, '1939'), (166, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maston Williams',0, 15), ('April 23',17, 25), ('July 15, 1978',34, 47), ('an American actor',53, 70), ('the 1930s',100, 109), ('more than 40 films',126, 144), ('1931 and 1939',153, 166)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNS', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNS', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maston'), (7, 'Williams'), (16, '('), (17, 'April'), (23, '23'), (25, ','), (27, '1879'), (32, '–'), (34, 'July'), (39, '15'), (41, ','), (43, '1978'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (71, 'who'), (75, 'appeared'), (84, 'in'), (87, 'films'), (93, 'during'), (100, 'the'), (104, '1930s'), (109, '.'), (111, 'He'), (114, 'appeared'), (123, 'in'), (126, 'more'), (131, 'than'), (136, '40'), (139, 'films'), (145, 'between'), (153, '1931'), (158, 'and'), (162, '1939'), (166, '.')])</spacy_tokens>
+<spacy_chunks>[('Maston Williams', 0, 15), ('(April', 16, 22), ('April 23, 1879', 17, 31), ('July 15, 1978', 34, 47), ('an American actor', 53, 70), ('the 1930s', 100, 109), ('more than 40 films', 126, 144)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNS', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

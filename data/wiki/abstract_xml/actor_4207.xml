@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Albert MacQuarrie</title>
+<link/>https://en.wikipedia.org/wiki/Albert_MacQuarrie
+<annotated>0</annotated>
+<originalabstract>Albert MacQuarrie (January 8, 1882, San Francisco – February 17, 1950, California) was an American silent film actor.
+He was signed in 1912 and starred in about 70 films before his retirement.
+He starred with William Garwood in films such as Lord John in New York and The Grey Sisterhood and also starred regularly with Douglas Fairbanks.</originalabstract>
+<abstract>Albert_MacQuarrie ( January_8_,_1882 , San_Francisco – February_17_,_1950 , California ) was an_American_silent_film_actor . He was_signed in 1912 and starred in about_70_films before his_retirement . He starred with William_Garwood in films such_as Lord_John in New_York and The_Grey_Sisterhood and also starred regularly with Douglas_Fairbanks .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Albert'), (7, 'MacQuarrie'), (18, '('), (19, 'January'), (27, '8'), (28, ','), (30, '1882'), (34, ','), (36, 'San'), (40, 'Francisco'), (50, '–'), (52, 'February'), (61, '17'), (63, ','), (65, '1950'), (69, ','), (71, 'California'), (81, ')'), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'silent'), (106, 'film'), (111, 'actor'), (116, '.'), (118, 'He'), (121, 'was'), (125, 'signed'), (132, 'in'), (135, '1912'), (140, 'and'), (144, 'starred'), (152, 'in'), (155, 'about'), (161, '70'), (164, 'films'), (170, 'before'), (177, 'his'), (181, 'retirement'), (191, '.'), (193, 'He'), (196, 'starred'), (204, 'with'), (209, 'William'), (217, 'Garwood'), (225, 'in'), (228, 'films'), (234, 'such'), (239, 'as'), (242, 'Lord'), (247, 'John'), (252, 'in'), (255, 'New'), (259, 'York'), (264, 'and'), (268, 'The'), (272, 'Grey'), (277, 'Sisterhood'), (288, 'and'), (292, 'also'), (297, 'starred'), (305, 'regularly'), (315, 'with'), (320, 'Douglas'), (328, 'Fairbanks'), (337, '.')])</stanford_tokens>
+<opennlp_chunks>[('Albert MacQuarrie',0, 17), ('January 8, 1882',19, 34), ('San Francisco',36, 49), ('February 17, 1950',52, 69), ('an American silent film actor',87, 116), ('was signed',121, 131), ('about 70 films',155, 169), ('his retirement',177, 191), ('William Garwood',209, 224), ('such as',234, 241), ('Lord John',242, 251), ('New York',255, 263), ('The Grey Sisterhood',268, 287), ('Douglas Fairbanks',320, 337)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'CD', 'CC', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'PRP$', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'CC', 'RB', 'VBD', 'RB', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Albert'), (7, 'MacQuarrie'), (18, '('), (19, 'January'), (27, '8'), (28, ','), (30, '1882'), (34, ','), (36, 'San'), (40, 'Francisco'), (50, '–'), (52, 'February'), (61, '17'), (63, ','), (65, '1950'), (69, ','), (71, 'California'), (81, ')'), (83, 'was'), (87, 'an'), (90, 'American'), (99, 'silent'), (106, 'film'), (111, 'actor'), (116, '.'), (118, 'He'), (121, 'was'), (125, 'signed'), (132, 'in'), (135, '1912'), (140, 'and'), (144, 'starred'), (152, 'in'), (155, 'about'), (161, '70'), (164, 'films'), (170, 'before'), (177, 'his'), (181, 'retirement'), (191, '.'), (193, 'He'), (196, 'starred'), (204, 'with'), (209, 'William'), (217, 'Garwood'), (225, 'in'), (228, 'films'), (234, 'such'), (239, 'as'), (242, 'Lord'), (247, 'John'), (252, 'in'), (255, 'New'), (259, 'York'), (264, 'and'), (268, 'The'), (272, 'Grey'), (277, 'Sisterhood'), (288, 'and'), (292, 'also'), (297, 'starred'), (305, 'regularly'), (315, 'with'), (320, 'Douglas'), (328, 'Fairbanks'), (337, '.')])</spacy_tokens>
+<spacy_chunks>[('Albert MacQuarrie', 0, 17), ('(January', 18, 26), ('January 8, 1882', 19, 34), ('San Francisco', 36, 49), ('February 17, 1950', 52, 69), ('California', 71, 81), ('an American silent film actor', 87, 116), ('about 70 films', 155, 169), ('his retirement', 177, 191), ('William Garwood', 209, 224), ('Lord John in New York', 242, 263), ('The Grey Sisterhood', 268, 287), ('Douglas Fairbanks', 320, 337)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'CD', 'CC', 'VBN', 'IN', 'RB', 'CD', 'NNS', 'IN', 'PRP$', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'CC', 'RB', 'VBD', 'RB', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

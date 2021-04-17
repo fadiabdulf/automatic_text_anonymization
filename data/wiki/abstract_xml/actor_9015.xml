@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Trevor Reid</title>
+<link/>https://en.wikipedia.org/wiki/Trevor_Reid
+<annotated>0</annotated>
+<originalabstract>Trevor Reid was a British actor. Born on 25 January 1908 in Liverpool, Lancashire, England, UK. He acted in 47 films from 1938-1965. He died on 19 April 1965 (age 57) in London.</originalabstract>
+<abstract>Trevor_Reid was a_British_actor . Born on 25_January_1908 in Liverpool , Lancashire , England , UK . He acted in 47_films from 1938-1965 . He died on 19_April_1965 ( age_57_) in London .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Trevor'), (7, 'Reid'), (12, 'was'), (16, 'a'), (18, 'British'), (26, 'actor'), (31, '.'), (33, 'Born'), (38, 'on'), (41, '25'), (44, 'January'), (52, '1908'), (57, 'in'), (60, 'Liverpool'), (69, ','), (71, 'Lancashire'), (81, ','), (83, 'England'), (90, ','), (92, 'UK'), (94, '.'), (96, 'He'), (99, 'acted'), (105, 'in'), (108, '47'), (111, 'films'), (117, 'from'), (122, '1938-1965'), (131, '.'), (133, 'He'), (136, 'died'), (141, 'on'), (144, '19'), (147, 'April'), (153, '1965'), (158, '('), (159, 'age'), (163, '57'), (165, ')'), (167, 'in'), (170, 'London'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Trevor Reid',0, 11), ('a British actor',16, 31), ('25 January 1908',41, 56), ('47 films',108, 116), ('19 April 1965',144, 157), ('age 57)',159, 166)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'IN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNP', 'CD', '-LRB-', 'NN', 'CD', '-RRB-', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Trevor'), (7, 'Reid'), (12, 'was'), (16, 'a'), (18, 'British'), (26, 'actor'), (31, '.'), (33, 'Born'), (38, 'on'), (41, '25'), (44, 'January'), (52, '1908'), (57, 'in'), (60, 'Liverpool'), (69, ','), (71, 'Lancashire'), (81, ','), (83, 'England'), (90, ','), (92, 'UK'), (94, '.'), (96, 'He'), (99, 'acted'), (105, 'in'), (108, '47'), (111, 'films'), (117, 'from'), (122, '1938'), (126, '-'), (127, '1965'), (131, '.'), (133, 'He'), (136, 'died'), (141, 'on'), (144, '19'), (147, 'April'), (153, '1965'), (158, '('), (159, 'age'), (163, '57'), (165, ')'), (167, 'in'), (170, 'London'), (176, '.')])</spacy_tokens>
+<spacy_chunks>[('Trevor Reid', 0, 11), ('a British actor', 16, 31), ('25 January 1908', 41, 56), ('Liverpool', 60, 69), ('Lancashire', 71, 81), ('England', 83, 90), ('47 films', 108, 116), ('19 April 1965', 144, 157), ('London', 170, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', '.', 'VBN', 'IN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'SYM', 'CD', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNP', 'CD', '-LRB-', 'NN', 'CD', '-RRB-', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

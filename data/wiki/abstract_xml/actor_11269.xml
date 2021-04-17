@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leigh Christian</title>
+<link/>https://en.wikipedia.org/wiki/Leigh_Christian
+<annotated>0</annotated>
+<originalabstract>Leigh Christian (born October 25, 1945) is an American actress best known for her guest starring roles on many major television series during the 1970s and 1980s including The Rockford Files, Hawaii Five-O, The Six Million Dollar Man, Knight Rider, Starsky and Hutch, The Ghost Busters, amongst others.</originalabstract>
+<abstract>Leigh_Christian ( born October_25_,_1945 ) is an_American_actress best_known for her_guest starring roles on many_major_television_series during the_1970s_and_1980s including The_Rockford_Files , Hawaii_Five-O , The_Six_Million_Dollar_Man , Knight_Rider , Starsky_and_Hutch , The_Ghost_Busters , amongst others .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leigh'), (6, 'Christian'), (16, '('), (17, 'born'), (22, 'October'), (30, '25'), (32, ','), (34, '1945'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'her'), (82, 'guest'), (88, 'starring'), (97, 'roles'), (103, 'on'), (106, 'many'), (111, 'major'), (117, 'television'), (128, 'series'), (135, 'during'), (142, 'the'), (146, '1970s'), (152, 'and'), (156, '1980s'), (162, 'including'), (172, 'The'), (176, 'Rockford'), (185, 'Files'), (190, ','), (192, 'Hawaii'), (199, 'Five-O'), (205, ','), (207, 'The'), (211, 'Six'), (215, 'Million'), (223, 'Dollar'), (230, 'Man'), (233, ','), (235, 'Knight'), (242, 'Rider'), (247, ','), (249, 'Starsky'), (257, 'and'), (261, 'Hutch'), (266, ','), (268, 'The'), (272, 'Ghost'), (278, 'Busters'), (285, ','), (287, 'amongst'), (295, 'others'), (301, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leigh Christian',0, 15), ('October 25, 1945',22, 38), ('an American actress',43, 62), ('best known',63, 73), ('her guest',78, 87), ('many major television series',106, 134), ('the 1970s and 1980s',142, 161), ('The Rockford Files',172, 190), ('Hawaii Five-O',192, 205), ('The Six Million Dollar Man',207, 233), ('Knight Rider',235, 247), ('Starsky and Hutch',249, 266), ('The Ghost Busters',268, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'VBG', 'NNS', 'IN', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', 'VBG', 'DT', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'DT', 'CD', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'CC', 'NNP', ',', 'DT', 'NN', 'NNS', ',', 'IN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leigh'), (6, 'Christian'), (16, '('), (17, 'born'), (22, 'October'), (30, '25'), (32, ','), (34, '1945'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'her'), (82, 'guest'), (88, 'starring'), (97, 'roles'), (103, 'on'), (106, 'many'), (111, 'major'), (117, 'television'), (128, 'series'), (135, 'during'), (142, 'the'), (146, '1970s'), (152, 'and'), (156, '1980s'), (162, 'including'), (172, 'The'), (176, 'Rockford'), (185, 'Files'), (190, ','), (192, 'Hawaii'), (199, 'Five'), (203, '-'), (204, 'O'), (205, ','), (207, 'The'), (211, 'Six'), (215, 'Million'), (223, 'Dollar'), (230, 'Man'), (233, ','), (235, 'Knight'), (242, 'Rider'), (247, ','), (249, 'Starsky'), (257, 'and'), (261, 'Hutch'), (266, ','), (268, 'The'), (272, 'Ghost'), (278, 'Busters'), (285, ','), (287, 'amongst'), (295, 'others'), (301, '.')])</spacy_tokens>
+<spacy_chunks>[('Leigh Christian', 0, 15), ('October 25, 1945', 22, 38), ('an American actress', 43, 62), ('her guest starring roles', 78, 102), ('many major television series', 106, 134), ('the 1970s', 142, 151), ('The Rockford Files', 172, 190), ('The Six Million Dollar Man', 207, 233), ('Knight Rider', 235, 247), ('Starsky and Hutch', 249, 266), ('The Ghost Busters', 268, 285), ('others', 295, 301)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'VBG', 'NNS', 'IN', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', 'VBG', 'DT', 'NNP', 'NNP', ',', 'NNP', 'CD', 'HYPH', 'UH', ',', 'DT', 'CD', 'CD', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'CC', 'NNP', ',', 'DT', 'NNP', 'NNPS', ',', 'IN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

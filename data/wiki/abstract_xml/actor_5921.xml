@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Savage (actor)</title>
+<link/>https://en.wikipedia.org/wiki/John_Savage_(actor)
+<annotated>0</annotated>
+<originalabstract>John Savage (born John Smeallie Youngs; August 25, 1949)  is an American actor, best known for his roles in the films The Deer Hunter, The Onion Field, Hair and Salvador. He is also known for his role as Donald Lydecker in the TV series Dark Angel.</originalabstract>
+<abstract>John_Savage ( born John_Smeallie_Youngs ; August_25_,_1949 ) is an_American_actor , best_known for his_roles in the_films The_Deer_Hunter , The_Onion_Field , Hair and Salvador . He is_also_known for his_role as Donald_Lydecker in the_TV_series_Dark_Angel .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Savage'), (12, '('), (13, 'born'), (18, 'John'), (23, 'Smeallie'), (32, 'Youngs'), (38, ';'), (40, 'August'), (47, '25'), (49, ','), (51, '1949'), (55, ')'), (58, 'is'), (61, 'an'), (64, 'American'), (73, 'actor'), (78, ','), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'his'), (99, 'roles'), (105, 'in'), (108, 'the'), (112, 'films'), (118, 'The'), (122, 'Deer'), (127, 'Hunter'), (133, ','), (135, 'The'), (139, 'Onion'), (145, 'Field'), (150, ','), (152, 'Hair'), (157, 'and'), (161, 'Salvador'), (169, '.'), (171, 'He'), (174, 'is'), (177, 'also'), (182, 'known'), (188, 'for'), (192, 'his'), (196, 'role'), (201, 'as'), (204, 'Donald'), (211, 'Lydecker'), (220, 'in'), (223, 'the'), (227, 'TV'), (230, 'series'), (237, 'Dark'), (242, 'Angel'), (247, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Savage',0, 11), ('John Smeallie Youngs',18, 38), ('August 25, 1949',40, 55), ('an American actor',61, 78), ('best known',80, 90), ('his roles',95, 104), ('the films',108, 117), ('The Deer Hunter',118, 133), ('The Onion Field',135, 150), ('is also known',174, 187), ('his role',192, 200), ('Donald Lydecker',204, 219), ('the TV series Dark Angel',223, 247)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'DT', 'NNS', 'NNP', ',', 'DT', 'NNP', 'NNP', ',', 'NNP', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'JJ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Savage'), (12, '('), (13, 'born'), (18, 'John'), (23, 'Smeallie'), (32, 'Youngs'), (38, ';'), (40, 'August'), (47, '25'), (49, ','), (51, '1949'), (55, ')'), (58, 'is'), (61, 'an'), (64, 'American'), (73, 'actor'), (78, ','), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'his'), (99, 'roles'), (105, 'in'), (108, 'the'), (112, 'films'), (118, 'The'), (122, 'Deer'), (127, 'Hunter'), (133, ','), (135, 'The'), (139, 'Onion'), (145, 'Field'), (150, ','), (152, 'Hair'), (157, 'and'), (161, 'Salvador'), (169, '.'), (171, 'He'), (174, 'is'), (177, 'also'), (182, 'known'), (188, 'for'), (192, 'his'), (196, 'role'), (201, 'as'), (204, 'Donald'), (211, 'Lydecker'), (220, 'in'), (223, 'the'), (227, 'TV'), (230, 'series'), (237, 'Dark'), (242, 'Angel'), (247, '.')])</spacy_tokens>
+<spacy_chunks>[('John Savage', 0, 11), ('born John Smeallie Youngs', 13, 38), ('August 25, 1949', 40, 55), ('an American actor', 61, 78), ('his roles', 95, 104), ('the films', 108, 117), ('The Deer Hunter', 118, 133), ('The Onion Field', 135, 150), ('Salvador', 161, 169), ('Donald Lydecker', 204, 219), ('the TV series', 223, 236), ('Dark Angel', 237, 247)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'DT', 'NNP', 'NNP', ',', 'DT', 'NNP', 'NNP', ',', 'NNP', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

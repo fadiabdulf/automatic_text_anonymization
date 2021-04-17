@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tod Slaughter</title>
+<link/>https://en.wikipedia.org/wiki/Tod_Slaughter
+<annotated>0</annotated>
+<originalabstract>Tod Slaughter (born Norman Carter Slaughter, 19 March 1885 – 19 February 1956) was an English actor, best known for playing over-the-top maniacs in macabre film adaptations of Victorian melodramas.</originalabstract>
+<abstract>Tod_Slaughter ( born Norman_Carter_Slaughter , 19_March_1885 – 19_February_1956 ) was an_English_actor , best_known for playing over-the-top_maniacs in macabre_film_adaptations of Victorian_melodramas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tod'), (4, 'Slaughter'), (14, '('), (15, 'born'), (20, 'Norman'), (27, 'Carter'), (34, 'Slaughter'), (43, ','), (45, '19'), (48, 'March'), (54, '1885'), (59, '–'), (61, '19'), (64, 'February'), (73, '1956'), (77, ')'), (79, 'was'), (83, 'an'), (86, 'English'), (94, 'actor'), (99, ','), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'playing'), (124, 'over-the-top'), (137, 'maniacs'), (145, 'in'), (148, 'macabre'), (156, 'film'), (161, 'adaptations'), (173, 'of'), (176, 'Victorian'), (186, 'melodramas'), (196, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tod Slaughter',0, 13), ('Norman Carter Slaughter',20, 43), ('19 March 1885',45, 58), ('19 February 1956',61, 77), ('an English actor',83, 99), ('best known',101, 111), ('over-the-top maniacs',124, 144), ('macabre film adaptations',148, 172), ('Victorian melodramas',176, 196)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'JJ', 'NNS', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tod'), (4, 'Slaughter'), (14, '('), (15, 'born'), (20, 'Norman'), (27, 'Carter'), (34, 'Slaughter'), (43, ','), (45, '19'), (48, 'March'), (54, '1885'), (59, '–'), (61, '19'), (64, 'February'), (73, '1956'), (77, ')'), (79, 'was'), (83, 'an'), (86, 'English'), (94, 'actor'), (99, ','), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'playing'), (124, 'over'), (128, '-'), (129, 'the'), (132, '-'), (133, 'top'), (137, 'maniacs'), (145, 'in'), (148, 'macabre'), (156, 'film'), (161, 'adaptations'), (173, 'of'), (176, 'Victorian'), (186, 'melodramas'), (196, '.')])</spacy_tokens>
+<spacy_chunks>[('Tod Slaughter', 0, 13), ('born Norman Carter Slaughter', 15, 43), ('19 March 1885', 45, 58), ('19 February 1956', 61, 77), ('an English actor', 83, 99), ('the-top', 129, 136), ('macabre film adaptations', 148, 172), ('Victorian melodramas', 176, 196)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'IN', 'HYPH', 'DT', 'HYPH', 'NN', 'NN', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

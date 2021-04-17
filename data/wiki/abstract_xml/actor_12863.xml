@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alex Kapp Horner</title>
+<link/>https://en.wikipedia.org/wiki/Alex_Kapp_Horner
+<annotated>0</annotated>
+<originalabstract>Alex Kapp Horner (born Alexandra Kapp; December 5, 1969) is an American television actress, best recognized for her role as Lindsay on the CBS sitcom The New Adventures of Old Christine (2006–10).</originalabstract>
+<abstract>Alex_Kapp_Horner ( born Alexandra_Kapp ; December_5_,_1969 ) is an_American_television_actress , best recognized for her_role as Lindsay on the_CBS_sitcom The_New_Adventures of Old_Christine ( 2006 – 10 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alex'), (5, 'Kapp'), (10, 'Horner'), (17, '('), (18, 'born'), (23, 'Alexandra'), (33, 'Kapp'), (37, ';'), (39, 'December'), (48, '5'), (49, ','), (51, '1969'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'television'), (83, 'actress'), (90, ','), (92, 'best'), (97, 'recognized'), (108, 'for'), (112, 'her'), (116, 'role'), (121, 'as'), (124, 'Lindsay'), (132, 'on'), (135, 'the'), (139, 'CBS'), (143, 'sitcom'), (150, 'The'), (154, 'New'), (158, 'Adventures'), (169, 'of'), (172, 'Old'), (176, 'Christine'), (186, '('), (187, '2006'), (191, '–'), (192, '10'), (194, ')'), (195, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alex Kapp Horner',0, 16), ('Alexandra Kapp',23, 37), ('December 5, 1969',39, 55), ('an American television actress',60, 90), ('her role',112, 120), ('the CBS sitcom',135, 149), ('The New Adventures',150, 168), ('Old Christine',172, 185)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'JJS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'NNPS', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alex'), (5, 'Kapp'), (10, 'Horner'), (17, '('), (18, 'born'), (23, 'Alexandra'), (33, 'Kapp'), (37, ';'), (39, 'December'), (48, '5'), (49, ','), (51, '1969'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'television'), (83, 'actress'), (90, ','), (92, 'best'), (97, 'recognized'), (108, 'for'), (112, 'her'), (116, 'role'), (121, 'as'), (124, 'Lindsay'), (132, 'on'), (135, 'the'), (139, 'CBS'), (143, 'sitcom'), (150, 'The'), (154, 'New'), (158, 'Adventures'), (169, 'of'), (172, 'Old'), (176, 'Christine'), (186, '('), (187, '2006–10'), (194, ')'), (195, '.')])</spacy_tokens>
+<spacy_chunks>[('Alex Kapp Horner', 0, 16), ('Alexandra Kapp', 23, 37), ('December 5, 1969', 39, 55), ('an American television actress', 60, 90), ('her role', 112, 120), ('Lindsay', 124, 131), ('the CBS sitcom', 135, 149), ('The New Adventures of Old Christine', 150, 185), ('2006–10', 187, 194)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

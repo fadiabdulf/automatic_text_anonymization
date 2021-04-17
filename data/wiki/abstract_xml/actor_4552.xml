@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Thomas Meighan</title>
+<link/>https://en.wikipedia.org/wiki/Thomas_Meighan
+<annotated>0</annotated>
+<originalabstract>Thomas Meighan (April 9, 1879 – July 8, 1936) was an American actor of silent films and early talkies. He played several leading man roles opposite popular actresses of the day including Mary Pickford and Gloria Swanson. At one point he commanded $10,000 a week.</originalabstract>
+<abstract>Thomas_Meighan ( April_9 , 1879 – July_8_,_1936 ) was an_American_actor of silent_films and early_talkies . He played several_leading_man roles opposite_popular_actresses of the_day including Mary_Pickford and Gloria_Swanson . At one_point he commanded $_10,000 a_week .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Thomas'), (7, 'Meighan'), (15, '('), (16, 'April'), (22, '9'), (23, ','), (25, '1879'), (30, '–'), (32, 'July'), (37, '8'), (38, ','), (40, '1936'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (68, 'of'), (71, 'silent'), (78, 'films'), (84, 'and'), (88, 'early'), (94, 'talkies'), (101, '.'), (103, 'He'), (106, 'played'), (113, 'several'), (121, 'leading'), (129, 'man'), (133, 'roles'), (139, 'opposite'), (148, 'popular'), (156, 'actresses'), (166, 'of'), (169, 'the'), (173, 'day'), (177, 'including'), (187, 'Mary'), (192, 'Pickford'), (201, 'and'), (205, 'Gloria'), (212, 'Swanson'), (219, '.'), (221, 'At'), (224, 'one'), (228, 'point'), (234, 'he'), (237, 'commanded'), (247, '$'), (248, '10,000'), (255, 'a'), (257, 'week'), (261, '.')])</stanford_tokens>
+<opennlp_chunks>[('Thomas Meighan',0, 14), ('April 9',16, 23), ('July 8, 1936',32, 44), ('an American actor',50, 67), ('silent films',71, 83), ('early talkies',88, 101), ('several leading man',113, 132), ('opposite popular actresses',139, 165), ('the day',169, 176), ('Mary Pickford',187, 200), ('Gloria Swanson',205, 219), ('one point',224, 233), ('$10,000',247, 254), ('a week',255, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNS', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'JJ', 'VBG', 'NN', 'NNS', 'JJ', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'VBG', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'IN', 'CD', 'NN', 'PRP', 'VBD', '$', 'CD', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Thomas'), (7, 'Meighan'), (15, '('), (16, 'April'), (22, '9'), (23, ','), (25, '1879'), (30, '–'), (32, 'July'), (37, '8'), (38, ','), (40, '1936'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (68, 'of'), (71, 'silent'), (78, 'films'), (84, 'and'), (88, 'early'), (94, 'talkies'), (101, '.'), (103, 'He'), (106, 'played'), (113, 'several'), (121, 'leading'), (129, 'man'), (133, 'roles'), (139, 'opposite'), (148, 'popular'), (156, 'actresses'), (166, 'of'), (169, 'the'), (173, 'day'), (177, 'including'), (187, 'Mary'), (192, 'Pickford'), (201, 'and'), (205, 'Gloria'), (212, 'Swanson'), (219, '.'), (221, 'At'), (224, 'one'), (228, 'point'), (234, 'he'), (237, 'commanded'), (247, '$'), (248, '10,000'), (255, 'a'), (257, 'week'), (261, '.')])</spacy_tokens>
+<spacy_chunks>[('Thomas Meighan', 0, 14), ('(April', 15, 21), ('April 9, 1879', 16, 29), ('July 8, 1936', 32, 44), ('an American actor', 50, 67), ('silent films', 71, 83), ('early talkies', 88, 101), ('several leading man roles', 113, 138), ('popular actresses', 148, 165), ('the day', 169, 176), ('Mary Pickford', 187, 200), ('Gloria Swanson', 205, 219), ('one point', 224, 233)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'JJ', 'VBG', 'NN', 'NNS', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'VBG', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'IN', 'CD', 'NN', 'PRP', 'VBD', '$', 'CD', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

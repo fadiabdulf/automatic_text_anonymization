@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul Hertzberg</title>
+<link/>https://en.wikipedia.org/wiki/Paul_Hertzberg
+<annotated>0</annotated>
+<originalabstract>Paul Hertzberg is an American film producer and actor. His genres included thrillers, action, drama, and sci-fi. He is currently the president and chief executive officer of CineTel Films, Inc. Much like his company's vice president, Lisa M. Hansen, Hertzberg also frequently made cameos in the films he has been involved with.</originalabstract>
+<abstract>Paul_Hertzberg is an_American_film_producer_and_actor . His_genres included thrillers , action , drama , and sci-fi . He is currently the_president and chief_executive_officer of CineTel_Films , Inc . Much like his_company 's_vice_president , Lisa_M._Hansen , Hertzberg also frequently made cameos in the_films he has_been_involved with .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Hertzberg'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'film'), (35, 'producer'), (44, 'and'), (48, 'actor'), (53, '.'), (55, 'His'), (59, 'genres'), (66, 'included'), (75, 'thrillers'), (84, ','), (86, 'action'), (92, ','), (94, 'drama'), (99, ','), (101, 'and'), (105, 'sci-fi'), (111, '.'), (113, 'He'), (116, 'is'), (119, 'currently'), (129, 'the'), (133, 'president'), (143, 'and'), (147, 'chief'), (153, 'executive'), (163, 'officer'), (171, 'of'), (174, 'CineTel'), (182, 'Films'), (187, ','), (189, 'Inc'), (192, '.'), (194, 'Much'), (199, 'like'), (204, 'his'), (208, 'company'), (215, '\'s'), (218, 'vice'), (223, 'president'), (232, ','), (234, 'Lisa'), (239, 'M.'), (242, 'Hansen'), (248, ','), (250, 'Hertzberg'), (260, 'also'), (265, 'frequently'), (276, 'made'), (281, 'cameos'), (288, 'in'), (291, 'the'), (295, 'films'), (301, 'he'), (304, 'has'), (308, 'been'), (313, 'involved'), (322, 'with'), (326, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Hertzberg',0, 14), ('an American film producer and actor',18, 53), ('His genres',55, 65), ('the president',129, 142), ('chief executive officer',147, 170), ('CineTel Films',174, 187), ('his company',204, 215), ('\'s vice president',215, 232), ('Lisa M. Hansen',234, 248), ('the films',291, 300), ('has been involved',304, 321)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP$', 'NNS', 'VBD', 'NNS', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'DT', 'NN', 'CC', 'JJ', 'JJ', 'NN', 'IN', 'NNP', 'NNPS', ',', 'NNP', '.', 'RB', 'IN', 'PRP$', 'NN', 'POS', 'NN', 'NN', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'RB', 'RB', 'VBN', 'NNS', 'IN', 'DT', 'NNS', 'PRP', 'VBZ', 'VBN', 'VBN', 'IN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Hertzberg'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'film'), (35, 'producer'), (44, 'and'), (48, 'actor'), (53, '.'), (55, 'His'), (59, 'genres'), (66, 'included'), (75, 'thrillers'), (84, ','), (86, 'action'), (92, ','), (94, 'drama'), (99, ','), (101, 'and'), (105, 'sci'), (108, '-'), (109, 'fi'), (111, '.'), (113, 'He'), (116, 'is'), (119, 'currently'), (129, 'the'), (133, 'president'), (143, 'and'), (147, 'chief'), (153, 'executive'), (163, 'officer'), (171, 'of'), (174, 'CineTel'), (182, 'Films'), (187, ','), (189, 'Inc.'), (194, 'Much'), (199, 'like'), (204, 'his'), (208, 'company'), (215, "'s"), (218, 'vice'), (223, 'president'), (232, ','), (234, 'Lisa'), (239, 'M.'), (242, 'Hansen'), (248, ','), (250, 'Hertzberg'), (260, 'also'), (265, 'frequently'), (276, 'made'), (281, 'cameos'), (288, 'in'), (291, 'the'), (295, 'films'), (301, 'he'), (304, 'has'), (308, 'been'), (313, 'involved'), (322, 'with'), (326, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Hertzberg', 0, 14), ('an American film producer', 18, 43), ('His genres', 55, 65), ('thrillers', 75, 84), ('action', 86, 92), ('sci-fi', 105, 111), ('the president', 129, 142), ('chief executive officer', 147, 170), ('CineTel Films', 174, 187), ("his company's vice president", 204, 232), ('Lisa M. Hansen', 234, 248), ('the films', 291, 300)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP$', 'NNS', 'VBD', 'NNS', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'HYPH', 'NN', '.', 'PRP', 'VBZ', 'RB', 'DT', 'NN', 'CC', 'JJ', 'JJ', 'NN', 'IN', 'NNP', 'NNPS', ',', 'NNP', 'RB', 'IN', 'PRP$', 'NN', 'POS', 'NN', 'NN', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'RB', 'RB', 'VBD', 'JJ', 'IN', 'DT', 'NNS', 'PRP', 'VBZ', 'VBN', 'VBN', 'IN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

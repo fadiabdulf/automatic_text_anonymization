@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Matt Doran</title>
+<link/>https://en.wikipedia.org/wiki/Matt_Doran
+<annotated>0</annotated>
+<originalabstract>Matthew J. Doran (born 30 March 1976) is an Australian actor, known for his role as "Mouse" in The Matrix and as "Elan Sleazebaggano" in Star Wars: Episode II – Attack of the Clones.</originalabstract>
+<abstract>Matthew_J._Doran ( born 30_March_1976 ) is an_Australian_actor , known for his_role as " Mouse " in The_Matrix and as "_Elan_Sleazebaggano " in Star_Wars : Episode_II – Attack of the_Clones .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Matthew'), (8, 'J.'), (11, 'Doran'), (17, '('), (18, 'born'), (23, '30'), (26, 'March'), (32, '1976'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'Australian'), (55, 'actor'), (60, ','), (62, 'known'), (68, 'for'), (72, 'his'), (76, 'role'), (81, 'as'), (84, '"'), (85, 'Mouse'), (90, '"'), (92, 'in'), (95, 'The'), (99, 'Matrix'), (106, 'and'), (110, 'as'), (113, '"'), (114, 'Elan'), (119, 'Sleazebaggano'), (132, '"'), (134, 'in'), (137, 'Star'), (142, 'Wars'), (146, ':'), (148, 'Episode'), (156, 'II'), (159, '–'), (161, 'Attack'), (168, 'of'), (171, 'the'), (175, 'Clones'), (181, '.')])</stanford_tokens>
+<opennlp_chunks>[('Matthew J. Doran',0, 16), ('30 March 1976',23, 36), ('an Australian actor',41, 60), ('his role',72, 80), ('The Matrix',95, 105), ('"Elan Sleazebaggano',113, 132), ('Star Wars',137, 146), ('Episode II',148, 158), ('the Clones',171, 181)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', '``', 'NN', '\'\'', 'IN', 'DT', 'NNP', 'CC', 'IN', '``', 'NNP', 'NNP', '\'\'', 'IN', 'NNP', 'NNP', ':', 'NNP', 'NNP', ':', 'NN', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Matthew'), (8, 'J.'), (11, 'Doran'), (17, '('), (18, 'born'), (23, '30'), (26, 'March'), (32, '1976'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'Australian'), (55, 'actor'), (60, ','), (62, 'known'), (68, 'for'), (72, 'his'), (76, 'role'), (81, 'as'), (84, '"'), (85, 'Mouse'), (90, '"'), (92, 'in'), (95, 'The'), (99, 'Matrix'), (106, 'and'), (110, 'as'), (113, '"'), (114, 'Elan'), (119, 'Sleazebaggano'), (132, '"'), (134, 'in'), (137, 'Star'), (142, 'Wars'), (146, ':'), (148, 'Episode'), (156, 'II'), (159, '–'), (161, 'Attack'), (168, 'of'), (171, 'the'), (175, 'Clones'), (181, '.')])</spacy_tokens>
+<spacy_chunks>[('Matthew J. Doran', 0, 16), ('30 March 1976', 23, 36), ('an Australian actor', 41, 60), ('his role', 72, 80), ('"Mouse', 84, 90), ('The Matrix', 95, 105), ('"Elan Sleazebaggano', 113, 132), ('Star Wars: Episode II – Attack of the Clones', 137, 181)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', '``', 'NNP', "''", 'IN', 'DT', 'NNP', 'CC', 'IN', '``', 'NNP', 'NNP', "''", 'IN', 'NNP', 'NNPS', ':', 'NNP', 'NNP', ':', 'NN', 'IN', 'DT', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

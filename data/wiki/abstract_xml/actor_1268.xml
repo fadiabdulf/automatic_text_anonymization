@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dick Clair</title>
+<link/>https://en.wikipedia.org/wiki/Dick_Clair
+<annotated>0</annotated>
+<originalabstract>Dick Clair (November 12, 1931 – December 12, 1988) was an American television producer, actor and television and film writer, best known for the television sitcoms It's a Living, The Facts of Life, and Mama's Family.</originalabstract>
+<abstract>Dick_Clair ( November_12_,_1931 – December_12_,_1988 ) was an_American_television_producer_,_actor_and_television_and_film_writer , best_known for the_television_sitcoms It 's a_Living , The_Facts of Life , and Mama 's_Family .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dick'), (5, 'Clair'), (11, '('), (12, 'November'), (21, '12'), (23, ','), (25, '1931'), (30, '–'), (32, 'December'), (41, '12'), (43, ','), (45, '1988'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'television'), (78, 'producer'), (86, ','), (88, 'actor'), (94, 'and'), (98, 'television'), (109, 'and'), (113, 'film'), (118, 'writer'), (124, ','), (126, 'best'), (131, 'known'), (137, 'for'), (141, 'the'), (145, 'television'), (156, 'sitcoms'), (164, 'It'), (166, '\'s'), (169, 'a'), (171, 'Living'), (177, ','), (179, 'The'), (183, 'Facts'), (189, 'of'), (192, 'Life'), (196, ','), (198, 'and'), (202, 'Mama'), (206, '\'s'), (209, 'Family'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dick Clair',0, 10), ('November 12, 1931',12, 29), ('December 12, 1988',32, 49), ('an American television producer, actor and television and film writer',55, 124), ('best known',126, 136), ('the television sitcoms',141, 163), ('a Living',169, 177), ('The Facts',179, 188), ('\'s Family',206, 215)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'DT', 'NN', 'NNS', 'PRP', 'VBZ', 'DT', 'VBG', ',', 'DT', 'NNS', 'IN', 'NNP', ',', 'CC', 'NN', 'POS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dick'), (5, 'Clair'), (11, '('), (12, 'November'), (21, '12'), (23, ','), (25, '1931'), (30, '–'), (32, 'December'), (41, '12'), (43, ','), (45, '1988'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'television'), (78, 'producer'), (86, ','), (88, 'actor'), (94, 'and'), (98, 'television'), (109, 'and'), (113, 'film'), (118, 'writer'), (124, ','), (126, 'best'), (131, 'known'), (137, 'for'), (141, 'the'), (145, 'television'), (156, 'sitcoms'), (164, 'It'), (166, "'s"), (169, 'a'), (171, 'Living'), (177, ','), (179, 'The'), (183, 'Facts'), (189, 'of'), (192, 'Life'), (196, ','), (198, 'and'), (202, 'Mama'), (206, "'s"), (209, 'Family'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Dick Clair', 0, 10), ('November 12, 1931', 12, 29), ('December 12, 1988', 32, 49), ('an American television producer', 55, 86), ('television and film writer', 98, 124), ('the television sitcoms', 141, 163), ('a Living', 169, 177), ('The Facts of Life', 179, 196), ("Mama's Family", 202, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'NNS', 'PRP', 'VBZ', 'DT', 'NN', ',', 'DT', 'NNPS', 'IN', 'NNP', ',', 'CC', 'NNP', 'POS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

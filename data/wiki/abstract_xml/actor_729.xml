@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wade Boteler</title>
+<link/>https://en.wikipedia.org/wiki/Wade_Boteler
+<annotated>0</annotated>
+<originalabstract>Wade Boteler (October 3, 1888 – May 7, 1943) was an American film actor and writer. He appeared in more than 430 films between 1919 and 1943. He was born in Santa Ana, California, and died in Hollywood, California from a heart attack.On Broadway, Boteler appeared in the play The Silent Voice (1914).</originalabstract>
+<abstract>Wade_Boteler ( October_3_,_1888 – May_7_,_1943 ) was an_American_film_actor_and_writer . He appeared in more_than_430_films between 1919_and_1943 . He was_born in Santa_Ana , California , and died in Hollywood , California from a_heart_attack.On_Broadway , Boteler appeared in the_play The_Silent_Voice_(_1914_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wade'), (5, 'Boteler'), (13, '('), (14, 'October'), (22, '3'), (23, ','), (25, '1888'), (30, '–'), (32, 'May'), (36, '7'), (37, ','), (39, '1943'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'film'), (66, 'actor'), (72, 'and'), (76, 'writer'), (82, '.'), (84, 'He'), (87, 'appeared'), (96, 'in'), (99, 'more'), (104, 'than'), (109, '430'), (113, 'films'), (119, 'between'), (127, '1919'), (132, 'and'), (136, '1943'), (140, '.'), (142, 'He'), (145, 'was'), (149, 'born'), (154, 'in'), (157, 'Santa'), (163, 'Ana'), (166, ','), (168, 'California'), (178, ','), (180, 'and'), (184, 'died'), (189, 'in'), (192, 'Hollywood'), (201, ','), (203, 'California'), (214, 'from'), (219, 'a'), (221, 'heart'), (227, 'attack.On'), (237, 'Broadway'), (245, ','), (247, 'Boteler'), (255, 'appeared'), (264, 'in'), (267, 'the'), (271, 'play'), (276, 'The'), (280, 'Silent'), (287, 'Voice'), (293, '('), (294, '1914'), (298, ')'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wade Boteler',0, 12), ('October 3, 1888',14, 29), ('May 7, 1943',32, 43), ('an American film actor and writer',49, 82), ('more than 430 films',99, 118), ('1919 and 1943',127, 140), ('was born',145, 153), ('Santa Ana',157, 166), ('a heart attack.On Broadway',219, 245), ('the play',267, 275), ('The Silent Voice (1914)',276, 299)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', ',', 'NNP', 'VBD', 'IN', 'DT', 'NN', 'DT', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wade'), (5, 'Boteler'), (13, '('), (14, 'October'), (22, '3'), (23, ','), (25, '1888'), (30, '–'), (32, 'May'), (36, '7'), (37, ','), (39, '1943'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'film'), (66, 'actor'), (72, 'and'), (76, 'writer'), (82, '.'), (84, 'He'), (87, 'appeared'), (96, 'in'), (99, 'more'), (104, 'than'), (109, '430'), (113, 'films'), (119, 'between'), (127, '1919'), (132, 'and'), (136, '1943'), (140, '.'), (142, 'He'), (145, 'was'), (149, 'born'), (154, 'in'), (157, 'Santa'), (163, 'Ana'), (166, ','), (168, 'California'), (178, ','), (180, 'and'), (184, 'died'), (189, 'in'), (192, 'Hollywood'), (201, ','), (203, 'California'), (214, 'from'), (219, 'a'), (221, 'heart'), (227, 'attack'), (233, '.'), (234, 'On'), (237, 'Broadway'), (245, ','), (247, 'Boteler'), (255, 'appeared'), (264, 'in'), (267, 'the'), (271, 'play'), (276, 'The'), (280, 'Silent'), (287, 'Voice'), (293, '('), (294, '1914'), (298, ')'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('Wade Boteler', 0, 12), ('(October', 13, 21), ('October 3, 1888', 14, 29), ('May 7, 1943', 32, 43), ('an American film actor', 49, 71), ('writer', 76, 82), ('more than 430 films', 99, 118), ('Santa Ana, California', 157, 178), ('Hollywood, California', 192, 213), ('a heart attack', 219, 233), ('Broadway', 237, 245), ('the play', 267, 275), ('The Silent Voice', 276, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'DT', 'NN', 'NN', '.', 'IN', 'NNP', ',', 'NNP', 'VBD', 'IN', 'DT', 'NN', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

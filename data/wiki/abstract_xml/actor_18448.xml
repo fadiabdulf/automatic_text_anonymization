@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Blanchette Brunoy</title>
+<link/>https://en.wikipedia.org/wiki/Blanchette_Brunoy
+<annotated>0</annotated>
+<originalabstract>Blanchette Brunoy (5 October 1915 – 3 April 2005) was a French actress. She was born Blanche Bilhaud in Paris as the daughter of a physician, and died in  Manosque, Alpes-de-Haute-Provence of old age.</originalabstract>
+<abstract>Blanchette_Brunoy ( 5_October_1915 – 3_April_2005 ) was a_French_actress . She was_born Blanche_Bilhaud in Paris as the_daughter of a_physician , and died in Manosque , Alpes-de-Haute-Provence of old_age .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Blanchette'), (11, 'Brunoy'), (18, '('), (19, '5'), (21, 'October'), (29, '1915'), (34, '–'), (36, '3'), (38, 'April'), (44, '2005'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'actress'), (70, '.'), (72, 'She'), (76, 'was'), (80, 'born'), (85, 'Blanche'), (93, 'Bilhaud'), (101, 'in'), (104, 'Paris'), (110, 'as'), (113, 'the'), (117, 'daughter'), (126, 'of'), (129, 'a'), (131, 'physician'), (140, ','), (142, 'and'), (146, 'died'), (151, 'in'), (155, 'Manosque'), (163, ','), (165, 'Alpes-de-Haute-Provence'), (189, 'of'), (192, 'old'), (196, 'age'), (199, '.')])</stanford_tokens>
+<opennlp_chunks>[('Blanchette Brunoy',0, 17), ('5 October 1915',19, 33), ('3 April 2005',36, 48), ('a French actress',54, 70), ('was born',76, 84), ('Blanche Bilhaud',85, 100), ('the daughter',113, 125), ('a physician',129, 140), ('old age',192, 199)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Blanchette'), (11, 'Brunoy'), (18, '('), (19, '5'), (21, 'October'), (29, '1915'), (34, '–'), (36, '3'), (38, 'April'), (44, '2005'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'actress'), (70, '.'), (72, 'She'), (76, 'was'), (80, 'born'), (85, 'Blanche'), (93, 'Bilhaud'), (101, 'in'), (104, 'Paris'), (110, 'as'), (113, 'the'), (117, 'daughter'), (126, 'of'), (129, 'a'), (131, 'physician'), (140, ','), (142, 'and'), (146, 'died'), (151, 'in'), (155, 'Manosque'), (163, ','), (165, 'Alpes'), (170, '-'), (171, 'de'), (173, '-'), (174, 'Haute'), (179, '-'), (180, 'Provence'), (189, 'of'), (192, 'old'), (196, 'age'), (199, '.')])</spacy_tokens>
+<spacy_chunks>[('Blanchette Brunoy', 0, 17), ('5 October 1915', 19, 33), ('3 April 2005', 36, 48), ('a French actress', 54, 70), ('the daughter', 113, 125), ('a physician', 129, 140), ('Manosque', 155, 163), ('Alpes-de-Haute-Provence', 165, 188), ('old age', 192, 199)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'JJ', 'NNP', 'HYPH', 'NNP', 'IN', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

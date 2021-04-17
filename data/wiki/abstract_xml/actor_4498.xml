@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lafe McKee</title>
+<link/>https://en.wikipedia.org/wiki/Lafe_McKee
+<annotated>0</annotated>
+<originalabstract>Lafayette S. "Lafe" McKee (January 23, 1872 – August 10, 1959) was an American actor who appeared in more than 400 films from 1912 to 1948.  Part of his career was spent with Art Mix Productions. McKee also worked as a stage actor from 1910 until at least 1932, and began working in show business in 1893.</originalabstract>
+<abstract>Lafayette_S._"_Lafe_"_McKee ( January_23_,_1872 – August_10_,_1959 ) was an_American_actor who appeared in more_than_400_films from 1912 to 1948 . Part of his_career was_spent with Art_Mix_Productions . McKee also worked as a_stage_actor from 1910 until at_least_1932 , and began_working in show_business in 1893 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lafayette'), (10, 'S.'), (13, '"'), (14, 'Lafe'), (18, '"'), (20, 'McKee'), (26, '('), (27, 'January'), (35, '23'), (37, ','), (39, '1872'), (44, '–'), (46, 'August'), (53, '10'), (55, ','), (57, '1959'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'American'), (79, 'actor'), (85, 'who'), (89, 'appeared'), (98, 'in'), (101, 'more'), (106, 'than'), (111, '400'), (115, 'films'), (121, 'from'), (126, '1912'), (131, 'to'), (134, '1948'), (138, '.'), (141, 'Part'), (146, 'of'), (149, 'his'), (153, 'career'), (160, 'was'), (164, 'spent'), (170, 'with'), (175, 'Art'), (179, 'Mix'), (183, 'Productions'), (194, '.'), (196, 'McKee'), (202, 'also'), (207, 'worked'), (214, 'as'), (217, 'a'), (219, 'stage'), (225, 'actor'), (231, 'from'), (236, '1910'), (241, 'until'), (247, 'at'), (250, 'least'), (256, '1932'), (260, ','), (262, 'and'), (266, 'began'), (272, 'working'), (280, 'in'), (283, 'show'), (288, 'business'), (297, 'in'), (300, '1893'), (304, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lafayette S. "Lafe" McKee',0, 25), ('January 23, 1872',27, 43), ('August 10, 1959',46, 61), ('an American actor',67, 84), ('more than 400 films',101, 120), ('his career',149, 159), ('was spent',160, 169), ('Art Mix Productions',175, 194), ('a stage actor',217, 230), ('at least 1932',247, 260), ('began working',266, 279), ('show business',283, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'TO', 'CD', '.', 'NN', 'IN', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNPS', '.', 'NNP', 'RB', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'CD', 'IN', 'IN', 'JJS', 'CD', ',', 'CC', 'VBD', 'VBG', 'IN', 'NN', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lafayette'), (10, 'S.'), (13, '"'), (14, 'Lafe'), (18, '"'), (20, 'McKee'), (26, '('), (27, 'January'), (35, '23'), (37, ','), (39, '1872'), (44, '–'), (46, 'August'), (53, '10'), (55, ','), (57, '1959'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'American'), (79, 'actor'), (85, 'who'), (89, 'appeared'), (98, 'in'), (101, 'more'), (106, 'than'), (111, '400'), (115, 'films'), (121, 'from'), (126, '1912'), (131, 'to'), (134, '1948'), (138, '.'), (141, 'Part'), (146, 'of'), (149, 'his'), (153, 'career'), (160, 'was'), (164, 'spent'), (170, 'with'), (175, 'Art'), (179, 'Mix'), (183, 'Productions'), (194, '.'), (196, 'McKee'), (202, 'also'), (207, 'worked'), (214, 'as'), (217, 'a'), (219, 'stage'), (225, 'actor'), (231, 'from'), (236, '1910'), (241, 'until'), (247, 'at'), (250, 'least'), (256, '1932'), (260, ','), (262, 'and'), (266, 'began'), (272, 'working'), (280, 'in'), (283, 'show'), (288, 'business'), (297, 'in'), (300, '1893'), (304, '.')])</spacy_tokens>
+<spacy_chunks>[('Lafayette S. "Lafe" McKee', 0, 25), ('January 23, 1872', 27, 43), ('August 10, 1959', 46, 61), ('an American actor', 67, 84), ('more than 400 films', 101, 120), ('his career', 149, 159), ('Art Mix Productions', 175, 194), ('a stage actor', 217, 230), ('Show business', 283, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'IN', 'CD', '.', 'NN', 'IN', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'RB', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'CD', 'IN', 'IN', 'JJS', 'CD', ',', 'CC', 'VBD', 'VBG', 'IN', 'NN', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

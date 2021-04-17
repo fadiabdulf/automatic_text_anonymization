@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Florence Desmond</title>
+<link/>https://en.wikipedia.org/wiki/Florence_Desmond
+<annotated>0</annotated>
+<originalabstract>Florence Dawson  (31 May 1905 – 16 January 1993), better known by her stage name Florence Desmond, was an English actress, comedian and impersonator.</originalabstract>
+<abstract>Florence_Dawson ( 31_May_1905 – 16_January_1993 ) , better_known by her_stage_name_Florence_Desmond , was an_English_actress , comedian_and_impersonator .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Florence'), (9, 'Dawson'), (17, '('), (18, '31'), (21, 'May'), (25, '1905'), (30, '–'), (32, '16'), (35, 'January'), (43, '1993'), (47, ')'), (48, ','), (50, 'better'), (57, 'known'), (63, 'by'), (66, 'her'), (70, 'stage'), (76, 'name'), (81, 'Florence'), (90, 'Desmond'), (97, ','), (99, 'was'), (103, 'an'), (106, 'English'), (114, 'actress'), (121, ','), (123, 'comedian'), (132, 'and'), (136, 'impersonator'), (148, '.')])</stanford_tokens>
+<opennlp_chunks>[('Florence Dawson',0, 15), ('31 May 1905',18, 29), ('16 January 1993',32, 47), ('better known',50, 62), ('her stage name Florence Desmond',66, 97), ('an English actress',103, 121), ('comedian and impersonator',123, 148)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Florence'), (9, 'Dawson'), (17, '('), (18, '31'), (21, 'May'), (25, '1905'), (30, '–'), (32, '16'), (35, 'January'), (43, '1993'), (47, ')'), (48, ','), (50, 'better'), (57, 'known'), (63, 'by'), (66, 'her'), (70, 'stage'), (76, 'name'), (81, 'Florence'), (90, 'Desmond'), (97, ','), (99, 'was'), (103, 'an'), (106, 'English'), (114, 'actress'), (121, ','), (123, 'comedian'), (132, 'and'), (136, 'impersonator'), (148, '.')])</spacy_tokens>
+<spacy_chunks>[('Florence Dawson', 0, 15), ('(31 May', 17, 24), ('31 May 1905', 18, 29), ('16 January 1993', 32, 47), ('her stage name', 66, 80), ('Florence Desmond', 81, 97), ('an English actress', 103, 121), ('Comedian', 123, 131), ('Impersonator', 136, 148)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Carol Haney</title>
+<link/>https://en.wikipedia.org/wiki/Carol_Haney
+<annotated>0</annotated>
+<originalabstract>Carol Haney (born Carolyn Haney; August 24, 1924 – May 10, 1964) was an American dancer and actress.  After assisting Gene Kelly in choreographing films, Haney won a Tony Award for her role in Broadway's The Pajama Game, while later work as a stage choreographer earned her three Tony nominations.</originalabstract>
+<abstract>Carol_Haney ( born Carolyn_Haney ; August_24_,_1924 – May_10_,_1964 ) was an_American_dancer_and_actress . After assisting Gene_Kelly in choreographing_films , Haney won a_Tony_Award for her_role in Broadway 's_The_Pajama_Game , while later_work as a_stage_choreographer earned her_three_Tony_nominations .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Carol'), (6, 'Haney'), (12, '('), (13, 'born'), (18, 'Carolyn'), (26, 'Haney'), (31, ';'), (33, 'August'), (40, '24'), (42, ','), (44, '1924'), (49, '–'), (51, 'May'), (55, '10'), (57, ','), (59, '1964'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'dancer'), (88, 'and'), (92, 'actress'), (99, '.'), (102, 'After'), (108, 'assisting'), (118, 'Gene'), (123, 'Kelly'), (129, 'in'), (132, 'choreographing'), (147, 'films'), (152, ','), (154, 'Haney'), (160, 'won'), (164, 'a'), (166, 'Tony'), (171, 'Award'), (177, 'for'), (181, 'her'), (185, 'role'), (190, 'in'), (193, 'Broadway'), (201, '\'s'), (204, 'The'), (208, 'Pajama'), (215, 'Game'), (219, ','), (221, 'while'), (227, 'later'), (233, 'work'), (238, 'as'), (241, 'a'), (243, 'stage'), (249, 'choreographer'), (263, 'earned'), (270, 'her'), (274, 'three'), (280, 'Tony'), (285, 'nominations'), (296, '.')])</stanford_tokens>
+<opennlp_chunks>[('Carol Haney',0, 11), ('Carolyn Haney',18, 31), ('August 24, 1924',33, 48), ('May 10, 1964',51, 63), ('an American dancer and actress',69, 99), ('Gene Kelly',118, 128), ('choreographing films',132, 152), ('a Tony Award',164, 176), ('her role',181, 189), ('\'s The Pajama Game',201, 219), ('later work',227, 237), ('a stage choreographer',241, 262), ('her three Tony nominations',270, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'VBG', 'NNS', ',', 'NNP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'POS', 'DT', 'NN', 'NN', ',', 'IN', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'VBD', 'PRP$', 'CD', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Carol'), (6, 'Haney'), (12, '('), (13, 'born'), (18, 'Carolyn'), (26, 'Haney'), (31, ';'), (33, 'August'), (40, '24'), (42, ','), (44, '1924'), (49, '–'), (51, 'May'), (55, '10'), (57, ','), (59, '1964'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'dancer'), (88, 'and'), (92, 'actress'), (99, '.'), (102, 'After'), (108, 'assisting'), (118, 'Gene'), (123, 'Kelly'), (129, 'in'), (132, 'choreographing'), (147, 'films'), (152, ','), (154, 'Haney'), (160, 'won'), (164, 'a'), (166, 'Tony'), (171, 'Award'), (177, 'for'), (181, 'her'), (185, 'role'), (190, 'in'), (193, 'Broadway'), (201, "'s"), (204, 'The'), (208, 'Pajama'), (215, 'Game'), (219, ','), (221, 'while'), (227, 'later'), (233, 'work'), (238, 'as'), (241, 'a'), (243, 'stage'), (249, 'choreographer'), (263, 'earned'), (270, 'her'), (274, 'three'), (280, 'Tony'), (285, 'nominations'), (296, '.')])</spacy_tokens>
+<spacy_chunks>[('Carol Haney', 0, 11), ('born Carolyn Haney', 13, 31), ('August 24, 1924', 33, 48), ('May 10, 1964', 51, 63), ('an American dancer', 69, 87), ('actress', 92, 99), ('Gene Kelly', 118, 128), ('a Tony Award', 164, 176), ('Tony Award for', 166, 180), ('her role', 181, 189), ("Broadway's The Pajama Game", 193, 219), ('a stage choreographer', 241, 262), ('her three Tony nominations', 270, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'VBG', 'NNS', ',', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'POS', 'DT', 'NNP', 'NNP', ',', 'IN', 'RB', 'NN', 'IN', 'DT', 'NN', 'NN', 'VBD', 'PRP', 'CD', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

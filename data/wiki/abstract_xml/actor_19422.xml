@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fearless Nadia</title>
+<link/>https://en.wikipedia.org/wiki/Fearless_Nadia
+<annotated>0</annotated>
+<originalabstract>Mary Ann Evans, also known by her stage name Fearless Nadia (8 January 1908 – 9 January 1996) was an Indian actress   and stuntwoman of Australian origin who is most remembered as the masked, cloaked adventurer in Hunterwali, released in 1935, which was one of the earliest female-lead Indian films.</originalabstract>
+<abstract>Mary_Ann_Evans , also_known by her_stage_name Fearless_Nadia ( 8_January_1908 – 9_January_1996 ) was an_Indian_actress_and_stuntwoman of Australian_origin who is most_remembered as the_masked_,_cloaked_adventurer in Hunterwali , released in 1935 , which was one of the_earliest_female-lead_Indian_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Ann'), (9, 'Evans'), (14, ','), (16, 'also'), (21, 'known'), (27, 'by'), (30, 'her'), (34, 'stage'), (40, 'name'), (45, 'Fearless'), (54, 'Nadia'), (60, '('), (61, '8'), (63, 'January'), (71, '1908'), (76, '–'), (78, '9'), (80, 'January'), (88, '1996'), (92, ')'), (94, 'was'), (98, 'an'), (101, 'Indian'), (108, 'actress'), (118, 'and'), (122, 'stuntwoman'), (133, 'of'), (136, 'Australian'), (147, 'origin'), (154, 'who'), (158, 'is'), (161, 'most'), (166, 'remembered'), (177, 'as'), (180, 'the'), (184, 'masked'), (190, ','), (192, 'cloaked'), (200, 'adventurer'), (211, 'in'), (214, 'Hunterwali'), (224, ','), (226, 'released'), (235, 'in'), (238, '1935'), (242, ','), (244, 'which'), (250, 'was'), (254, 'one'), (258, 'of'), (261, 'the'), (265, 'earliest'), (274, 'female-lead'), (286, 'Indian'), (293, 'films'), (298, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Ann Evans',0, 14), ('also known',16, 26), ('her stage name',30, 44), ('Fearless Nadia',45, 59), ('8 January 1908',61, 75), ('9 January 1996',78, 92), ('an Indian actress   and stuntwoman',98, 132), ('Australian origin',136, 153), ('most remembered',161, 176), ('the masked, cloaked adventurer',180, 210), ('the earliest female-lead Indian films',261, 298)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'JJ', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'JJ', 'NN', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'DT', 'VBN', ',', 'VBN', 'NN', 'IN', 'NNP', ',', 'VBN', 'IN', 'CD', ',', 'WDT', 'VBD', 'CD', 'IN', 'DT', 'JJS', 'JJ', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Ann'), (9, 'Evans'), (14, ','), (16, 'also'), (21, 'known'), (27, 'by'), (30, 'her'), (34, 'stage'), (40, 'name'), (45, 'Fearless'), (54, 'Nadia'), (60, '('), (61, '8'), (63, 'January'), (71, '1908'), (76, '–'), (78, '9'), (80, 'January'), (88, '1996'), (92, ')'), (94, 'was'), (98, 'an'), (101, 'Indian'), (108, 'actress'), (118, 'and'), (122, 'stuntwoman'), (133, 'of'), (136, 'Australian'), (147, 'origin'), (154, 'who'), (158, 'is'), (161, 'most'), (166, 'remembered'), (177, 'as'), (180, 'the'), (184, 'masked'), (190, ','), (192, 'cloaked'), (200, 'adventurer'), (211, 'in'), (214, 'Hunterwali'), (224, ','), (226, 'released'), (235, 'in'), (238, '1935'), (242, ','), (244, 'which'), (250, 'was'), (254, 'one'), (258, 'of'), (261, 'the'), (265, 'earliest'), (274, 'female'), (280, '-'), (281, 'lead'), (286, 'Indian'), (293, 'films'), (298, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Ann Evans', 0, 14), ('her stage name', 30, 44), ('Fearless Nadia', 45, 59), ('(8 January', 60, 70), ('8 January 1908', 61, 75), ('9 January 1996', 78, 92), ('an Indian actress', 98, 115), ('stuntwoman', 122, 132), ('Australian origin', 136, 153), ('the masked, cloaked adventurer', 180, 210), ('Hunterwali', 214, 224), ('the earliest female-lead Indian films', 261, 298)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'JJ', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'JJ', 'NN', 'WP', 'VBZ', 'RBS', 'VBN', 'IN', 'DT', 'NN', ',', 'VBN', 'NN', 'IN', 'NNP', ',', 'VBN', 'IN', 'CD', ',', 'WDT', 'VBD', 'CD', 'IN', 'DT', 'JJS', 'JJ', 'HYPH', 'JJ', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

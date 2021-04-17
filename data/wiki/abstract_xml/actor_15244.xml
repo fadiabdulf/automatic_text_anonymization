@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maelcum Soul</title>
+<link/>https://en.wikipedia.org/wiki/Maelcum_Soul
+<annotated>0</annotated>
+<originalabstract>Maelcum Soul (born Patricia Ann Soul; September 22, 1940 – April 5, 1968) was an American bartender, artist's model, and actress. In the 1960s, she portrayed leading characters in two of filmmaker John Waters' earliest works, Roman Candles and Eat Your Makeup.</originalabstract>
+<abstract>Maelcum_Soul ( born Patricia_Ann_Soul ; September_22_,_1940 – April_5_,_1968 ) was an_American_bartender , artist 's_model , and actress . In the_1960s , she portrayed_leading characters in two of filmmaker_John_Waters '_earliest_works , Roman_Candles and Eat Your_Makeup .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maelcum'), (8, 'Soul'), (13, '('), (14, 'born'), (19, 'Patricia'), (28, 'Ann'), (32, 'Soul'), (36, ';'), (38, 'September'), (48, '22'), (50, ','), (52, '1940'), (57, '–'), (59, 'April'), (65, '5'), (66, ','), (68, '1968'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'bartender'), (99, ','), (101, 'artist'), (107, '\'s'), (110, 'model'), (115, ','), (117, 'and'), (121, 'actress'), (128, '.'), (130, 'In'), (133, 'the'), (137, '1960s'), (142, ','), (144, 'she'), (148, 'portrayed'), (158, 'leading'), (166, 'characters'), (177, 'in'), (180, 'two'), (184, 'of'), (187, 'filmmaker'), (197, 'John'), (202, 'Waters'), (208, '\''), (210, 'earliest'), (219, 'works'), (224, ','), (226, 'Roman'), (232, 'Candles'), (240, 'and'), (244, 'Eat'), (248, 'Your'), (253, 'Makeup'), (259, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maelcum Soul',0, 12), ('Patricia Ann Soul',19, 36), ('September 22, 1940',38, 56), ('April 5, 1968',59, 72), ('an American bartender',78, 99), ('\'s model',107, 115), ('the 1960s',133, 142), ('portrayed leading',148, 165), ('filmmaker John Waters',187, 208), ('\' earliest works',208, 224), ('Roman Candles',226, 239), ('Your Makeup',248, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'POS', 'NN', ',', 'CC', 'NN', '.', 'IN', 'DT', 'NNS', ',', 'PRP', 'VBD', 'VBG', 'NNS', 'IN', 'CD', 'IN', 'NN', 'NNP', 'NNP', 'POS', 'JJS', 'NNS', ',', 'NNP', 'NNPS', 'CC', 'VB', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maelcum'), (8, 'Soul'), (13, '('), (14, 'born'), (19, 'Patricia'), (28, 'Ann'), (32, 'Soul'), (36, ';'), (38, 'September'), (48, '22'), (50, ','), (52, '1940'), (57, '–'), (59, 'April'), (65, '5'), (66, ','), (68, '1968'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'bartender'), (99, ','), (101, 'artist'), (107, "'s"), (110, 'model'), (115, ','), (117, 'and'), (121, 'actress'), (128, '.'), (130, 'In'), (133, 'the'), (137, '1960s'), (142, ','), (144, 'she'), (148, 'portrayed'), (158, 'leading'), (166, 'characters'), (177, 'in'), (180, 'two'), (184, 'of'), (187, 'filmmaker'), (197, 'John'), (202, 'Waters'), (208, "'"), (210, 'earliest'), (219, 'works'), (224, ','), (226, 'Roman'), (232, 'Candles'), (240, 'and'), (244, 'Eat'), (248, 'Your'), (253, 'Makeup'), (259, '.')])</spacy_tokens>
+<spacy_chunks>[('Maelcum Soul', 0, 12), ('(born Patricia Ann Soul', 13, 36), ('September 22, 1940', 38, 56), ('April 5, 1968', 59, 72), ('an American bartender', 78, 99), ("artist's model", 101, 115), ('actress', 121, 128), ('the 1960s', 133, 142), ('leading characters', 158, 176), ("filmmaker John Waters' earliest works", 187, 224), ('Roman Candles', 226, 239), ('Eat Your Makeup', 244, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'POS', 'NN', ',', 'CC', 'NN', '.', 'IN', 'DT', 'NNS', ',', 'PRP', 'VBD', 'VBG', 'NNS', 'IN', 'CD', 'IN', 'NN', 'NNP', 'NNP', 'POS', 'JJS', 'NNS', ',', 'NNP', 'NNPS', 'CC', 'VB', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ivo Dawson</title>
+<link/>https://en.wikipedia.org/wiki/Ivo_Dawson
+<annotated>0</annotated>
+<originalabstract>Ivo Dawson (13 December 1879 - 7 March 1934) was a British actor.Dawson was born in Rutland, England, UK and died in Los Angeles, California, USA, age 54.</originalabstract>
+<abstract>Ivo_Dawson ( 13_December_1879 - 7_March_1934 ) was a_British_actor.Dawson was_born in Rutland , England , UK and died in Los_Angeles , California , USA , age_54 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ivo'), (4, 'Dawson'), (11, '('), (12, '13'), (15, 'December'), (24, '1879'), (29, '-'), (31, '7'), (33, 'March'), (39, '1934'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'British'), (59, 'actor.Dawson'), (72, 'was'), (76, 'born'), (81, 'in'), (84, 'Rutland'), (91, ','), (93, 'England'), (100, ','), (102, 'UK'), (105, 'and'), (109, 'died'), (114, 'in'), (117, 'Los'), (121, 'Angeles'), (128, ','), (130, 'California'), (140, ','), (142, 'USA'), (145, ','), (147, 'age'), (151, '54'), (153, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ivo Dawson',0, 10), ('13 December 1879',12, 28), ('7 March 1934',31, 43), ('a British actor.Dawson',49, 71), ('was born',72, 80), ('Los Angeles',117, 128), ('age 54',147, 153)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'NNS', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ivo'), (4, 'Dawson'), (11, '('), (12, '13'), (15, 'December'), (24, '1879'), (29, '-'), (31, '7'), (33, 'March'), (39, '1934'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'British'), (59, 'actor'), (64, '.'), (65, 'Dawson'), (72, 'was'), (76, 'born'), (81, 'in'), (84, 'Rutland'), (91, ','), (93, 'England'), (100, ','), (102, 'UK'), (105, 'and'), (109, 'died'), (114, 'in'), (117, 'Los'), (121, 'Angeles'), (128, ','), (130, 'California'), (140, ','), (142, 'USA'), (145, ','), (147, 'age'), (151, '54'), (153, '.')])</spacy_tokens>
+<spacy_chunks>[('Ivo Dawson', 0, 10), ('13 December 1879', 12, 28), ('- 7 March', 29, 38), ('7 March 1934', 31, 43), ('a British actor', 49, 64), ('Rutland', 84, 91), ('England', 93, 100), ('Los Angeles', 117, 128), ('California', 130, 140)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maria Darling</title>
+<link/>https://en.wikipedia.org/wiki/Maria_Darling
+<annotated>0</annotated>
+<originalabstract>Maria Darling (born (1964-10-23)23 October 1964) is a British voice actress who regularly provides character voices for children's television programmes in the UK and the US, as well as video games such as the Professor Layton series and the UK versions of the Ape Escape franchise.</originalabstract>
+<abstract>Maria_Darling ( born ( 1964-10-23 ) 23_October_1964 ) is a_British_voice_actress who regularly provides character_voices for children 's_television_programmes in the_UK and the_US , as_well_as video_games such_as the_Professor_Layton_series and the_UK_versions of the_Ape_Escape_franchise .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maria'), (6, 'Darling'), (14, '('), (15, 'born'), (20, '('), (21, '1964-10-23'), (31, ')'), (32, '23'), (35, 'October'), (43, '1964'), (47, ')'), (49, 'is'), (52, 'a'), (54, 'British'), (62, 'voice'), (68, 'actress'), (76, 'who'), (80, 'regularly'), (90, 'provides'), (99, 'character'), (109, 'voices'), (116, 'for'), (120, 'children'), (128, '\'s'), (131, 'television'), (142, 'programmes'), (153, 'in'), (156, 'the'), (160, 'UK'), (163, 'and'), (167, 'the'), (171, 'US'), (173, ','), (175, 'as'), (178, 'well'), (183, 'as'), (186, 'video'), (192, 'games'), (198, 'such'), (203, 'as'), (206, 'the'), (210, 'Professor'), (220, 'Layton'), (227, 'series'), (234, 'and'), (238, 'the'), (242, 'UK'), (245, 'versions'), (254, 'of'), (257, 'the'), (261, 'Ape'), (265, 'Escape'), (272, 'franchise'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maria Darling',0, 13), ('23 October 1964',32, 47), ('a British voice actress',52, 75), ('character voices',99, 115), ('\'s television programmes',128, 152), ('the UK',156, 162), ('the US',167, 173), ('as well as',175, 185), ('video games',186, 197), ('such as',198, 205), ('the Professor Layton series',206, 233), ('the UK versions',238, 253), ('the Ape Escape franchise',257, 281)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', '-LRB-', 'CD', '-RRB-', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'WP', 'RB', 'VBZ', 'NN', 'NNS', 'IN', 'NNS', 'POS', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'CC', 'DT', 'NNP', ',', 'RB', 'RB', 'IN', 'NN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'CC', 'DT', 'NNP', 'NNS', 'IN', 'DT', 'NN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maria'), (6, 'Darling'), (14, '('), (15, 'born'), (20, '('), (21, '1964'), (25, '-'), (26, '10'), (28, '-'), (29, '23)23'), (35, 'October'), (43, '1964'), (47, ')'), (49, 'is'), (52, 'a'), (54, 'British'), (62, 'voice'), (68, 'actress'), (76, 'who'), (80, 'regularly'), (90, 'provides'), (99, 'character'), (109, 'voices'), (116, 'for'), (120, 'children'), (128, "'s"), (131, 'television'), (142, 'programmes'), (153, 'in'), (156, 'the'), (160, 'UK'), (163, 'and'), (167, 'the'), (171, 'US'), (173, ','), (175, 'as'), (178, 'well'), (183, 'as'), (186, 'video'), (192, 'games'), (198, 'such'), (203, 'as'), (206, 'the'), (210, 'Professor'), (220, 'Layton'), (227, 'series'), (234, 'and'), (238, 'the'), (242, 'UK'), (245, 'versions'), (254, 'of'), (257, 'the'), (261, 'Ape'), (265, 'Escape'), (272, 'franchise'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('Maria Darling', 0, 13), ('1964-10-2', 21, 30), ('23 October 1964', 32, 47), ('a British voice actress', 52, 75), ('character voices', 99, 115), ("children's television programmes", 120, 152), ('the UK', 156, 162), ('the US', 167, 173), ('video games', 186, 197), ('the Professor Layton series', 206, 233), ('the UK versions', 238, 253), ('the Ape Escape franchise', 257, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', '-LRB-', 'CD', 'SYM', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'WP', 'RB', 'VBZ', 'NN', 'NNS', 'IN', 'NNS', 'POS', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'CC', 'DT', 'NNP', ',', 'RB', 'RB', 'IN', 'NN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'CC', 'DT', 'NNP', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barret Oliver</title>
+<link/>https://en.wikipedia.org/wiki/Barret_Oliver
+<annotated>0</annotated>
+<originalabstract>Barret Spencer Oliver (born August 24, 1973) is an American photographer and former child actor. He is known for his role as Bastian Balthazar Bux in the film adaptation of Michael Ende's novel The Neverending Story, followed by roles in D.A.R.Y.L., Cocoon and Cocoon: The Return.</originalabstract>
+<abstract>Barret_Spencer_Oliver ( born August_24_,_1973 ) is an_American_photographer_and_former_child_actor . He is_known for his_role as Bastian_Balthazar_Bux in the_film_adaptation of Michael_Ende 's_novel_The_Neverending_Story , followed by roles in D.A.R.Y.L._,_Cocoon_and_Cocoon : The_Return .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barret'), (7, 'Spencer'), (15, 'Oliver'), (22, '('), (23, 'born'), (28, 'August'), (35, '24'), (37, ','), (39, '1973'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'photographer'), (73, 'and'), (77, 'former'), (84, 'child'), (90, 'actor'), (95, '.'), (97, 'He'), (100, 'is'), (103, 'known'), (109, 'for'), (113, 'his'), (117, 'role'), (122, 'as'), (125, 'Bastian'), (133, 'Balthazar'), (143, 'Bux'), (147, 'in'), (150, 'the'), (154, 'film'), (159, 'adaptation'), (170, 'of'), (173, 'Michael'), (181, 'Ende'), (185, '\'s'), (188, 'novel'), (194, 'The'), (198, 'Neverending'), (210, 'Story'), (215, ','), (217, 'followed'), (226, 'by'), (229, 'roles'), (235, 'in'), (238, 'D.A.R.Y.L.'), (248, ','), (250, 'Cocoon'), (257, 'and'), (261, 'Cocoon'), (267, ':'), (269, 'The'), (273, 'Return'), (279, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barret Spencer Oliver',0, 21), ('August 24, 1973',28, 43), ('an American photographer and former child actor',48, 95), ('is known',100, 108), ('his role',113, 121), ('Bastian Balthazar Bux',125, 146), ('the film adaptation',150, 169), ('Michael Ende',173, 185), ('\'s novel The Neverending Story',185, 215), ('D.A.R.Y.L., Cocoon and Cocoon',238, 267), ('The Return',269, 279)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'DT', 'NNP', 'NNP', ',', 'VBN', 'IN', 'NNS', 'IN', 'NNP', ',', 'NNP', 'CC', 'NNP', ':', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barret'), (7, 'Spencer'), (15, 'Oliver'), (22, '('), (23, 'born'), (28, 'August'), (35, '24'), (37, ','), (39, '1973'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'photographer'), (73, 'and'), (77, 'former'), (84, 'child'), (90, 'actor'), (95, '.'), (97, 'He'), (100, 'is'), (103, 'known'), (109, 'for'), (113, 'his'), (117, 'role'), (122, 'as'), (125, 'Bastian'), (133, 'Balthazar'), (143, 'Bux'), (147, 'in'), (150, 'the'), (154, 'film'), (159, 'adaptation'), (170, 'of'), (173, 'Michael'), (181, 'Ende'), (185, "'s"), (188, 'novel'), (194, 'The'), (198, 'Neverending'), (210, 'Story'), (215, ','), (217, 'followed'), (226, 'by'), (229, 'roles'), (235, 'in'), (238, 'D.A.R.Y.L.'), (248, ','), (250, 'Cocoon'), (257, 'and'), (261, 'Cocoon'), (267, ':'), (269, 'The'), (273, 'Return'), (279, '.')])</spacy_tokens>
+<spacy_chunks>[('Barret Spencer Oliver', 0, 21), ('August 24, 1973', 28, 43), ('an American photographer', 48, 72), ('former child actor', 77, 95), ('his role', 113, 121), ('Bastian Balthazar Bux', 125, 146), ('the film adaptation', 150, 169), ("Michael Ende's novel", 173, 193), ('The Neverending Story', 194, 215), ('D.A.R.Y.L.', 238, 248), ('Cocoon', 250, 256), ('Cocoon: The Return', 261, 279)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'DT', 'NNP', 'NNP', ',', 'VBN', 'IN', 'NNS', 'IN', 'NNP', ',', 'NNP', 'CC', 'NN', ':', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

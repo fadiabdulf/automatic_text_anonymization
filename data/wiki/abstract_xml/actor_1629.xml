@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Badge Dale</title>
+<link/>https://en.wikipedia.org/wiki/James_Badge_Dale
+<annotated>0</annotated>
+<originalabstract>James Badgett Dale (born May 1, 1978), known professionally as James Badge Dale, is an American actor. He is known for playing Simon in Lord of the Flies, Chase Edmunds in 24, State Trooper Barrigan in Martin Scorsese's The Departed, Robert Leckie in The Pacific, and Eric Savin in  Iron Man 3.</originalabstract>
+<abstract>James_Badgett_Dale ( born May_1_,_1978 ) , known professionally as James_Badge_Dale , is an_American_actor . He is_known for playing Simon in Lord of the_Flies , Chase_Edmunds in 24 , State_Trooper_Barrigan in Martin_Scorsese 's_The_Departed_,_Robert_Leckie in The_Pacific , and Eric_Savin in Iron_Man_3 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Badgett'), (14, 'Dale'), (19, '('), (20, 'born'), (25, 'May'), (29, '1'), (30, ','), (32, '1978'), (36, ')'), (37, ','), (39, 'known'), (45, 'professionally'), (60, 'as'), (63, 'James'), (69, 'Badge'), (75, 'Dale'), (79, ','), (81, 'is'), (84, 'an'), (87, 'American'), (96, 'actor'), (101, '.'), (103, 'He'), (106, 'is'), (109, 'known'), (115, 'for'), (119, 'playing'), (127, 'Simon'), (133, 'in'), (136, 'Lord'), (141, 'of'), (144, 'the'), (148, 'Flies'), (153, ','), (155, 'Chase'), (161, 'Edmunds'), (169, 'in'), (172, '24'), (174, ','), (176, 'State'), (182, 'Trooper'), (190, 'Barrigan'), (199, 'in'), (202, 'Martin'), (209, 'Scorsese'), (217, '\'s'), (220, 'The'), (224, 'Departed'), (232, ','), (234, 'Robert'), (241, 'Leckie'), (248, 'in'), (251, 'The'), (255, 'Pacific'), (262, ','), (264, 'and'), (268, 'Eric'), (273, 'Savin'), (279, 'in'), (283, 'Iron'), (288, 'Man'), (292, '3'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Badgett Dale',0, 18), ('May 1, 1978',25, 36), ('James Badge Dale',63, 79), ('an American actor',84, 101), ('is known',106, 114), ('the Flies',144, 153), ('Chase Edmunds',155, 168), ('State Trooper Barrigan',176, 198), ('Martin Scorsese',202, 217), ('\'s The Departed, Robert Leckie',217, 247), ('The Pacific',251, 262), ('Eric Savin',268, 278), ('Iron Man 3',283, 293)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'NNP', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'CD', ',', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'DT', 'VBN', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Badgett'), (14, 'Dale'), (19, '('), (20, 'born'), (25, 'May'), (29, '1'), (30, ','), (32, '1978'), (36, ')'), (37, ','), (39, 'known'), (45, 'professionally'), (60, 'as'), (63, 'James'), (69, 'Badge'), (75, 'Dale'), (79, ','), (81, 'is'), (84, 'an'), (87, 'American'), (96, 'actor'), (101, '.'), (103, 'He'), (106, 'is'), (109, 'known'), (115, 'for'), (119, 'playing'), (127, 'Simon'), (133, 'in'), (136, 'Lord'), (141, 'of'), (144, 'the'), (148, 'Flies'), (153, ','), (155, 'Chase'), (161, 'Edmunds'), (169, 'in'), (172, '24'), (174, ','), (176, 'State'), (182, 'Trooper'), (190, 'Barrigan'), (199, 'in'), (202, 'Martin'), (209, 'Scorsese'), (217, "'s"), (220, 'The'), (224, 'Departed'), (232, ','), (234, 'Robert'), (241, 'Leckie'), (248, 'in'), (251, 'The'), (255, 'Pacific'), (262, ','), (264, 'and'), (268, 'Eric'), (273, 'Savin'), (279, 'in'), (283, 'Iron'), (288, 'Man'), (292, '3'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('James Badgett Dale', 0, 18), ('May 1, 1978', 25, 36), ('James Badge Dale', 63, 79), ('an American actor', 84, 101), ('Lord of the Flies', 136, 153), ('Chase Edmunds', 155, 168), ("Martin Scorsese's The Departed", 202, 232), ('Robert Leckie', 234, 247), ('The Pacific', 251, 262), ('Eric Savin', 268, 278), ('Iron Man 3', 283, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'CD', ',', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'DT', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

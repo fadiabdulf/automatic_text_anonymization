@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Virginia Brown Faire</title>
+<link/>https://en.wikipedia.org/wiki/Virginia_Brown_Faire
+<annotated>0</annotated>
+<originalabstract>Virginia Brown Faire (born Virginia Labuna, June 26, 1904 – June 30, 1980) was an American silent-film actress, appearing in dramatic films and, later, in sound westerns.</originalabstract>
+<abstract>Virginia_Brown_Faire ( born Virginia_Labuna , June_26_,_1904 – June_30_,_1980 ) was an_American_silent-film_actress , appearing in dramatic_films and , later , in sound_westerns .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Virginia'), (9, 'Brown'), (15, 'Faire'), (21, '('), (22, 'born'), (27, 'Virginia'), (36, 'Labuna'), (42, ','), (44, 'June'), (49, '26'), (51, ','), (53, '1904'), (58, '–'), (60, 'June'), (65, '30'), (67, ','), (69, '1980'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'American'), (91, 'silent-film'), (103, 'actress'), (110, ','), (112, 'appearing'), (122, 'in'), (125, 'dramatic'), (134, 'films'), (140, 'and'), (143, ','), (145, 'later'), (150, ','), (152, 'in'), (155, 'sound'), (161, 'westerns'), (169, '.')])</stanford_tokens>
+<opennlp_chunks>[('Virginia Brown Faire',0, 20), ('Virginia Labuna',27, 42), ('June 26, 1904',44, 57), ('June 30, 1980',60, 73), ('an American silent-film actress',79, 110), ('dramatic films',125, 139), ('sound westerns',155, 169)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'VBG', 'IN', 'JJ', 'NNS', 'CC', ',', 'RB', ',', 'IN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Virginia'), (9, 'Brown'), (15, 'Faire'), (21, '('), (22, 'born'), (27, 'Virginia'), (36, 'Labuna'), (42, ','), (44, 'June'), (49, '26'), (51, ','), (53, '1904'), (58, '–'), (60, 'June'), (65, '30'), (67, ','), (69, '1980'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'American'), (91, 'silent'), (97, '-'), (98, 'film'), (103, 'actress'), (110, ','), (112, 'appearing'), (122, 'in'), (125, 'dramatic'), (134, 'films'), (140, 'and'), (143, ','), (145, 'later'), (150, ','), (152, 'in'), (155, 'sound'), (161, 'westerns'), (169, '.')])</spacy_tokens>
+<spacy_chunks>[('Virginia Brown Faire', 0, 20), ('Virginia Labuna', 27, 42), ('June 26, 1904', 44, 57), ('June 30, 1980', 60, 73), ('an American silent-film actress', 79, 110), ('dramatic films', 125, 139), ('sound westerns', 155, 169)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'HYPH', 'NN', 'NN', ',', 'VBG', 'IN', 'JJ', 'NNS', 'CC', ',', 'RB', ',', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

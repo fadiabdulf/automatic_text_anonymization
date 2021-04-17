@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Tolkan</title>
+<link/>https://en.wikipedia.org/wiki/James_Tolkan
+<annotated>0</annotated>
+<originalabstract>James Stewart Tolkan (born June 20, 1931) is an American actor, known for his work in films such as Serpico, Top Gun and the Back to the Future franchise.</originalabstract>
+<abstract>James_Stewart_Tolkan ( born June_20_,_1931 ) is an_American_actor , known for his_work in films such_as Serpico , Top_Gun and the_Back to the_Future_franchise .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Stewart'), (14, 'Tolkan'), (21, '('), (22, 'born'), (27, 'June'), (32, '20'), (34, ','), (36, '1931'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (62, ','), (64, 'known'), (70, 'for'), (74, 'his'), (78, 'work'), (83, 'in'), (86, 'films'), (92, 'such'), (97, 'as'), (100, 'Serpico'), (107, ','), (109, 'Top'), (113, 'Gun'), (117, 'and'), (121, 'the'), (125, 'Back'), (130, 'to'), (133, 'the'), (137, 'Future'), (144, 'franchise'), (153, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Stewart Tolkan',0, 20), ('June 20, 1931',27, 40), ('an American actor',45, 62), ('his work',74, 82), ('such as',92, 99), ('Top Gun',109, 116), ('the Back',121, 129), ('the Future franchise',133, 153)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'TO', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Stewart'), (14, 'Tolkan'), (21, '('), (22, 'born'), (27, 'June'), (32, '20'), (34, ','), (36, '1931'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (62, ','), (64, 'known'), (70, 'for'), (74, 'his'), (78, 'work'), (83, 'in'), (86, 'films'), (92, 'such'), (97, 'as'), (100, 'Serpico'), (107, ','), (109, 'Top'), (113, 'Gun'), (117, 'and'), (121, 'the'), (125, 'Back'), (130, 'to'), (133, 'the'), (137, 'Future'), (144, 'franchise'), (153, '.')])</spacy_tokens>
+<spacy_chunks>[('James Stewart Tolkan', 0, 20), ('June 20, 1931', 27, 40), ('an American actor', 45, 62), ('his work', 74, 82), ('Serpico', 100, 107), ('Top Gun', 109, 116), ('the Back', 121, 129), ('Back to the Future', 125, 143), ('the Future franchise', 133, 153)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

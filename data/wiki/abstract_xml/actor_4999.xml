@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hugh O'Connor</title>
+<link/>https://en.wikipedia.org/wiki/Hugh_O%27Connor
+<annotated>0</annotated>
+<originalabstract>Hugh Edward Ralph O'Connor (April 7, 1962 – March 28, 1995) was an American actor known for his role as James Flynn in the 1984 film, Brass, and his portrayal as Lonnie Jamison on In the Heat of the Night until his death in 1995. He was the son of actor Carroll O'Connor.</originalabstract>
+<abstract>Hugh_Edward_Ralph_O'Connor ( April_7_,_1962 – March_28_,_1995 ) was an_American_actor known for his_role as James_Flynn in the_1984_film , Brass , and his_portrayal as Lonnie_Jamison on In the_Heat of the_Night until his_death in 1995 . He was the_son of actor_Carroll_O'Connor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hugh'), (5, 'Edward'), (12, 'Ralph'), (18, 'O\'Connor'), (27, '('), (28, 'April'), (34, '7'), (35, ','), (37, '1962'), (42, '–'), (44, 'March'), (50, '28'), (52, ','), (54, '1995'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actor'), (82, 'known'), (88, 'for'), (92, 'his'), (96, 'role'), (101, 'as'), (104, 'James'), (110, 'Flynn'), (116, 'in'), (119, 'the'), (123, '1984'), (128, 'film'), (132, ','), (134, 'Brass'), (139, ','), (141, 'and'), (145, 'his'), (149, 'portrayal'), (159, 'as'), (162, 'Lonnie'), (169, 'Jamison'), (177, 'on'), (180, 'In'), (183, 'the'), (187, 'Heat'), (192, 'of'), (195, 'the'), (199, 'Night'), (205, 'until'), (211, 'his'), (215, 'death'), (221, 'in'), (224, '1995'), (228, '.'), (230, 'He'), (233, 'was'), (237, 'the'), (241, 'son'), (245, 'of'), (248, 'actor'), (254, 'Carroll'), (262, 'O\'Connor'), (270, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hugh Edward Ralph O\'Connor',0, 26), ('April 7, 1962',28, 41), ('March 28, 1995',44, 58), ('an American actor',64, 81), ('his role',92, 100), ('James Flynn',104, 115), ('the 1984 film',119, 132), ('his portrayal',145, 158), ('Lonnie Jamison',162, 176), ('the Heat',183, 191), ('the Night',195, 204), ('his death',211, 220), ('the son',237, 244), ('actor Carroll O\'Connor',248, 270)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', ',', 'NN', ',', 'CC', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hugh'), (5, 'Edward'), (12, 'Ralph'), (18, "O'Connor"), (27, '('), (28, 'April'), (34, '7'), (35, ','), (37, '1962'), (42, '–'), (44, 'March'), (50, '28'), (52, ','), (54, '1995'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actor'), (82, 'known'), (88, 'for'), (92, 'his'), (96, 'role'), (101, 'as'), (104, 'James'), (110, 'Flynn'), (116, 'in'), (119, 'the'), (123, '1984'), (128, 'film'), (132, ','), (134, 'Brass'), (139, ','), (141, 'and'), (145, 'his'), (149, 'portrayal'), (159, 'as'), (162, 'Lonnie'), (169, 'Jamison'), (177, 'on'), (180, 'In'), (183, 'the'), (187, 'Heat'), (192, 'of'), (195, 'the'), (199, 'Night'), (205, 'until'), (211, 'his'), (215, 'death'), (221, 'in'), (224, '1995'), (228, '.'), (230, 'He'), (233, 'was'), (237, 'the'), (241, 'son'), (245, 'of'), (248, 'actor'), (254, 'Carroll'), (262, "O'Connor"), (270, '.')])</spacy_tokens>
+<spacy_chunks>[("Hugh Edward Ralph O'Connor", 0, 26), ('April 7, 1962', 28, 41), ('March 28, 1995', 44, 58), ('an American actor', 64, 81), ('his role', 92, 100), ('James Flynn', 104, 115), ('the 1984 film', 119, 132), ('his portrayal', 145, 158), ('Lonnie Jamison', 162, 176), ('In the Heat of the Night', 180, 204), ('his death', 211, 220), ('the son', 237, 244), ("actor Carroll O'Connor", 248, 270)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', ',', 'NNP', ',', 'CC', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'RP', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

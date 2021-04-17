@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mark Blum</title>
+<link/>https://en.wikipedia.org/wiki/Mark_Blum
+<annotated>0</annotated>
+<originalabstract>Mark Blum (born May 14, 1950) is an American actor in movies, on television, and on the stage.</originalabstract>
+<abstract>Mark_Blum ( born May_14_,_1950 ) is an_American_actor in movies , on television , and on the_stage .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mark'), (5, 'Blum'), (10, '('), (11, 'born'), (16, 'May'), (20, '14'), (22, ','), (24, '1950'), (28, ')'), (30, 'is'), (33, 'an'), (36, 'American'), (45, 'actor'), (51, 'in'), (54, 'movies'), (60, ','), (62, 'on'), (65, 'television'), (75, ','), (77, 'and'), (81, 'on'), (84, 'the'), (88, 'stage'), (93, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mark Blum',0, 9), ('May 14, 1950',16, 28), ('an American actor',33, 50), ('the stage',84, 93)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNS', ',', 'IN', 'NN', ',', 'CC', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mark'), (5, 'Blum'), (10, '('), (11, 'born'), (16, 'May'), (20, '14'), (22, ','), (24, '1950'), (28, ')'), (30, 'is'), (33, 'an'), (36, 'American'), (45, 'actor'), (51, 'in'), (54, 'movies'), (60, ','), (62, 'on'), (65, 'television'), (75, ','), (77, 'and'), (81, 'on'), (84, 'the'), (88, 'stage'), (93, '.')])</spacy_tokens>
+<spacy_chunks>[('Mark Blum', 0, 9), ('May 14, 1950', 16, 28), ('an American actor', 33, 50), ('movies', 54, 60), ('television', 65, 75), ('the stage', 84, 93)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NNS', ',', 'IN', 'NN', ',', 'CC', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

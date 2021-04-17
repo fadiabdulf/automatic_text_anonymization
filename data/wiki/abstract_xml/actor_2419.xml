@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ben Gage</title>
+<link/>https://en.wikipedia.org/wiki/Ben_Gage
+<annotated>0</annotated>
+<originalabstract>Ben Gage (October 29, 1914 - April 28, 1978) was an American radio singer and announcer, occasional off-screen film singer dubbing the voice of non-singing actors, and television actor active from 1937 to 1975. Born in Chicago, Illinois, he was married to film star Esther Williams.</originalabstract>
+<abstract>Ben_Gage ( October_29_,_1914 - April_28_,_1978 ) was an_American_radio_singer_and_announcer , occasional_off-screen_film_singer dubbing the_voice of non-singing_actors , and television_actor_active from 1937 to 1975 . Born in Chicago , Illinois , he was_married to film_star_Esther_Williams .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ben'), (4, 'Gage'), (9, '('), (10, 'October'), (18, '29'), (20, ','), (22, '1914'), (27, '-'), (29, 'April'), (35, '28'), (37, ','), (39, '1978'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'radio'), (67, 'singer'), (74, 'and'), (78, 'announcer'), (87, ','), (89, 'occasional'), (100, 'off-screen'), (111, 'film'), (116, 'singer'), (123, 'dubbing'), (131, 'the'), (135, 'voice'), (141, 'of'), (144, 'non-singing'), (156, 'actors'), (162, ','), (164, 'and'), (168, 'television'), (179, 'actor'), (185, 'active'), (192, 'from'), (197, '1937'), (202, 'to'), (205, '1975'), (209, '.'), (211, 'Born'), (216, 'in'), (219, 'Chicago'), (226, ','), (228, 'Illinois'), (236, ','), (238, 'he'), (241, 'was'), (245, 'married'), (253, 'to'), (256, 'film'), (261, 'star'), (266, 'Esther'), (273, 'Williams'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ben Gage',0, 8), ('October 29, 1914',10, 26), ('April 28, 1978',29, 43), ('an American radio singer and announcer',49, 87), ('occasional off-screen film singer',89, 122), ('the voice',131, 140), ('non-singing actors',144, 162), ('television actor active',168, 191), ('was married',241, 252), ('film star Esther Williams',256, 281)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', ',', 'JJ', 'JJ', 'NN', 'NN', 'VBG', 'DT', 'NN', 'IN', 'JJ', 'NNS', ',', 'CC', 'NN', 'NN', 'JJ', 'IN', 'CD', 'TO', 'CD', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'VBN', 'TO', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ben'), (4, 'Gage'), (9, '('), (10, 'October'), (18, '29'), (20, ','), (22, '1914'), (27, '-'), (29, 'April'), (35, '28'), (37, ','), (39, '1978'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'radio'), (67, 'singer'), (74, 'and'), (78, 'announcer'), (87, ','), (89, 'occasional'), (100, 'off'), (103, '-'), (104, 'screen'), (111, 'film'), (116, 'singer'), (123, 'dubbing'), (131, 'the'), (135, 'voice'), (141, 'of'), (144, 'non'), (147, '-'), (148, 'singing'), (156, 'actors'), (162, ','), (164, 'and'), (168, 'television'), (179, 'actor'), (185, 'active'), (192, 'from'), (197, '1937'), (202, 'to'), (205, '1975'), (209, '.'), (211, 'Born'), (216, 'in'), (219, 'Chicago'), (226, ','), (228, 'Illinois'), (236, ','), (238, 'he'), (241, 'was'), (245, 'married'), (253, 'to'), (256, 'film'), (261, 'star'), (266, 'Esther'), (273, 'Williams'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('Ben Gage', 0, 8), ('(October', 9, 17), ('October 29, 1914', 10, 26), ('April 28, 1978', 29, 43), ('an American radio singer', 49, 73), ('announcer', 78, 87), ('occasional off-screen film singer', 89, 122), ('the voice', 131, 140), ('non-singing actors', 144, 162), ('television actor', 168, 184), ('Chicago, Illinois', 219, 236), ('film star Esther Williams', 256, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', ',', 'JJ', 'IN', 'HYPH', 'NN', 'NN', 'NN', 'VBG', 'DT', 'NN', 'IN', 'JJ', 'JJ', 'JJ', 'NNS', ',', 'CC', 'NN', 'NN', 'JJ', 'IN', 'CD', 'IN', 'CD', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'PRP', 'VBD', 'JJ', 'TO', 'VB', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

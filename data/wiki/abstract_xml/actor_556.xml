@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Beradino</title>
+<link/>https://en.wikipedia.org/wiki/John_Beradino
+<annotated>0</annotated>
+<originalabstract>John Beradino (born Giovanni Berardino, May 1, 1917 – May 19, 1996) was an American infielder in Major League Baseball and an actor. Known as Johnny Berardino during his baseball career, he was also credited during his acting career as John Berardino, John Baradino, John Barardino or John Barradino.</originalabstract>
+<abstract>John_Beradino ( born Giovanni_Berardino , May_1_,_1917 – May_19_,_1996 ) was an_American_infielder in Major_League_Baseball and an_actor . Known as Johnny_Berardino during his_baseball_career , he was_also_credited during his_acting_career as John_Berardino , John_Baradino , John_Barardino or John_Barradino .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Beradino'), (14, '('), (15, 'born'), (20, 'Giovanni'), (29, 'Berardino'), (38, ','), (40, 'May'), (44, '1'), (45, ','), (47, '1917'), (52, '–'), (54, 'May'), (58, '19'), (60, ','), (62, '1996'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'American'), (84, 'infielder'), (94, 'in'), (97, 'Major'), (103, 'League'), (110, 'Baseball'), (119, 'and'), (123, 'an'), (126, 'actor'), (131, '.'), (133, 'Known'), (139, 'as'), (142, 'Johnny'), (149, 'Berardino'), (159, 'during'), (166, 'his'), (170, 'baseball'), (179, 'career'), (185, ','), (187, 'he'), (190, 'was'), (194, 'also'), (199, 'credited'), (208, 'during'), (215, 'his'), (219, 'acting'), (226, 'career'), (233, 'as'), (236, 'John'), (241, 'Berardino'), (250, ','), (252, 'John'), (257, 'Baradino'), (265, ','), (267, 'John'), (272, 'Barardino'), (282, 'or'), (285, 'John'), (290, 'Barradino'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Beradino',0, 13), ('Giovanni Berardino',20, 38), ('May 1, 1917',40, 51), ('May 19, 1996',54, 66), ('an American infielder',72, 93), ('Major League Baseball',97, 118), ('an actor',123, 131), ('Johnny Berardino',142, 158), ('his baseball career',166, 185), ('was also credited',190, 207), ('his acting career',215, 232), ('John Berardino',236, 250), ('John Baradino',252, 265), ('John Barardino',267, 281), ('John Barradino',285, 299)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'DT', 'NN', '.', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'NN', ',', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Beradino'), (14, '('), (15, 'born'), (20, 'Giovanni'), (29, 'Berardino'), (38, ','), (40, 'May'), (44, '1'), (45, ','), (47, '1917'), (52, '–'), (54, 'May'), (58, '19'), (60, ','), (62, '1996'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'American'), (84, 'infielder'), (94, 'in'), (97, 'Major'), (103, 'League'), (110, 'Baseball'), (119, 'and'), (123, 'an'), (126, 'actor'), (131, '.'), (133, 'Known'), (139, 'as'), (142, 'Johnny'), (149, 'Berardino'), (159, 'during'), (166, 'his'), (170, 'baseball'), (179, 'career'), (185, ','), (187, 'he'), (190, 'was'), (194, 'also'), (199, 'credited'), (208, 'during'), (215, 'his'), (219, 'acting'), (226, 'career'), (233, 'as'), (236, 'John'), (241, 'Berardino'), (250, ','), (252, 'John'), (257, 'Baradino'), (265, ','), (267, 'John'), (272, 'Barardino'), (282, 'or'), (285, 'John'), (290, 'Barradino'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('John Beradino', 0, 13), ('born Giovanni Berardino', 15, 38), ('May 1, 1917', 40, 51), ('May 19, 1996', 54, 66), ('an American infielder', 72, 93), ('Major League Baseball', 97, 118), ('an actor', 123, 131), ('Johnny Berardino', 142, 158), ('his baseball career', 166, 185), ('his acting career', 215, 232), ('John Berardino', 236, 250), ('John Baradino', 252, 265), ('John Barardino', 267, 281), ('John Barradino', 285, 299)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'DT', 'NN', '.', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'NN', ',', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

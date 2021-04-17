@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joe Mantello</title>
+<link/>https://en.wikipedia.org/wiki/Joe_Mantello
+<annotated>0</annotated>
+<originalabstract>Joseph Mantello (born December 27, 1962) is an American actor and director best known for his work on Broadway productions of Wicked, Take Me Out and Assassins, as well as earlier in his career being one of the original Broadway cast of Angels in America.</originalabstract>
+<abstract>Joseph_Mantello ( born December_27_,_1962 ) is an_American_actor_and_director best_known for his_work on Broadway_productions of Wicked , Take Me Out and Assassins , as_well_as earlier in his_career being one of the_original_Broadway_cast of Angels in America .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joseph'), (7, 'Mantello'), (16, '('), (17, 'born'), (22, 'December'), (31, '27'), (33, ','), (35, '1962'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (62, 'and'), (66, 'director'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'work'), (99, 'on'), (102, 'Broadway'), (111, 'productions'), (123, 'of'), (126, 'Wicked'), (132, ','), (134, 'Take'), (139, 'Me'), (142, 'Out'), (146, 'and'), (150, 'Assassins'), (159, ','), (161, 'as'), (164, 'well'), (169, 'as'), (172, 'earlier'), (180, 'in'), (183, 'his'), (187, 'career'), (194, 'being'), (200, 'one'), (204, 'of'), (207, 'the'), (211, 'original'), (220, 'Broadway'), (229, 'cast'), (234, 'of'), (237, 'Angels'), (244, 'in'), (247, 'America'), (254, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joseph Mantello',0, 15), ('December 27, 1962',22, 39), ('an American actor and director',44, 74), ('best known',75, 85), ('his work',90, 98), ('Broadway productions',102, 122), ('as well as',161, 171), ('his career',183, 193), ('the original Broadway cast',207, 233)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNS', 'IN', 'JJ', ',', 'VB', 'PRP', 'IN', 'CC', 'NNS', ',', 'RB', 'RB', 'IN', 'JJR', 'IN', 'PRP$', 'NN', 'VBG', 'CD', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'NNPS', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joseph'), (7, 'Mantello'), (16, '('), (17, 'born'), (22, 'December'), (31, '27'), (33, ','), (35, '1962'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (62, 'and'), (66, 'director'), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'his'), (94, 'work'), (99, 'on'), (102, 'Broadway'), (111, 'productions'), (123, 'of'), (126, 'Wicked'), (132, ','), (134, 'Take'), (139, 'Me'), (142, 'Out'), (146, 'and'), (150, 'Assassins'), (159, ','), (161, 'as'), (164, 'well'), (169, 'as'), (172, 'earlier'), (180, 'in'), (183, 'his'), (187, 'career'), (194, 'being'), (200, 'one'), (204, 'of'), (207, 'the'), (211, 'original'), (220, 'Broadway'), (229, 'cast'), (234, 'of'), (237, 'Angels'), (244, 'in'), (247, 'America'), (254, '.')])</spacy_tokens>
+<spacy_chunks>[('Joseph Mantello', 0, 15), ('December 27, 1962', 22, 39), ('an American actor', 44, 61), ('director', 66, 74), ('his work', 90, 98), ('Broadway productions', 102, 122), ('Wicked', 126, 132), ('Take Me Out', 134, 145), ('Assassins', 150, 159), ('his career', 183, 193), ('the original Broadway cast', 207, 233), ('Angels in America', 237, 254)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNS', 'IN', 'NNP', ',', 'VB', 'PRP', 'NNPS', 'CC', 'NNS', ',', 'RB', 'RB', 'IN', 'RBR', 'IN', 'PRP$', 'NN', 'VBG', 'CD', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'NNPS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

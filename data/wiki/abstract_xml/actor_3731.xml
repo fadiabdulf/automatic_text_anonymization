@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Milt Kogan</title>
+<link/>https://en.wikipedia.org/wiki/Milt_Kogan
+<annotated>0</annotated>
+<originalabstract>Milt Kogan (born April 10, 1936) is an American actor. He is best known for playing the desk sergeant, Officer Kogan, on the television series Barney Miller in 1975.</originalabstract>
+<abstract>Milt_Kogan ( born April_10_,_1936 ) is an_American_actor . He is_best_known for playing the_desk_sergeant , Officer_Kogan , on the_television_series_Barney_Miller in 1975 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Milt'), (5, 'Kogan'), (11, '('), (12, 'born'), (17, 'April'), (23, '10'), (25, ','), (27, '1936'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actor'), (53, '.'), (55, 'He'), (58, 'is'), (61, 'best'), (66, 'known'), (72, 'for'), (76, 'playing'), (84, 'the'), (88, 'desk'), (93, 'sergeant'), (101, ','), (103, 'Officer'), (111, 'Kogan'), (116, ','), (118, 'on'), (121, 'the'), (125, 'television'), (136, 'series'), (143, 'Barney'), (150, 'Miller'), (157, 'in'), (160, '1975'), (164, '.')])</stanford_tokens>
+<opennlp_chunks>[('Milt Kogan',0, 10), ('April 10, 1936',17, 31), ('an American actor',36, 53), ('is best known',58, 71), ('the desk sergeant',84, 101), ('Officer Kogan',103, 116), ('the television series Barney Miller',121, 156)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NN', ',', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Milt'), (5, 'Kogan'), (11, '('), (12, 'born'), (17, 'April'), (23, '10'), (25, ','), (27, '1936'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actor'), (53, '.'), (55, 'He'), (58, 'is'), (61, 'best'), (66, 'known'), (72, 'for'), (76, 'playing'), (84, 'the'), (88, 'desk'), (93, 'sergeant'), (101, ','), (103, 'Officer'), (111, 'Kogan'), (116, ','), (118, 'on'), (121, 'the'), (125, 'television'), (136, 'series'), (143, 'Barney'), (150, 'Miller'), (157, 'in'), (160, '1975'), (164, '.')])</spacy_tokens>
+<spacy_chunks>[('Milt Kogan', 0, 10), ('April 10, 1936', 17, 31), ('an American actor', 36, 53), ('the desk sergeant', 84, 101), ('Officer Kogan', 103, 116), ('the television series', 121, 142), ('Barney Miller', 143, 156)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'NN', 'NN', ',', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

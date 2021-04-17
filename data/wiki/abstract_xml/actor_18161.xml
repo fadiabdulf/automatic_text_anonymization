@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Serena Scott Thomas</title>
+<link/>https://en.wikipedia.org/wiki/Serena_Scott_Thomas
+<annotated>0</annotated>
+<originalabstract>Serena Harriet Scott Thomas (born 21 September 1961) is an English actress. Her television roles include Diana, Princess of Wales in Diana: Her True Story in 1993. Her film appearances include The World Is Not Enough (1999), Hostage (2005), Brothel (2008), and Inherent Vice (2014).</originalabstract>
+<abstract>Serena_Harriet_Scott_Thomas ( born 21_September_1961 ) is an_English_actress . Her_television_roles include Diana_,_Princess of Wales in Diana : Her_True_Story in 1993 . Her_film_appearances include The_World Is Not_Enough_(_1999_) , Hostage_(_2005_) , Brothel_(_2008_) , and Inherent_Vice_(_2014_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Serena'), (7, 'Harriet'), (15, 'Scott'), (21, 'Thomas'), (28, '('), (29, 'born'), (34, '21'), (37, 'September'), (47, '1961'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'English'), (67, 'actress'), (74, '.'), (76, 'Her'), (80, 'television'), (91, 'roles'), (97, 'include'), (105, 'Diana'), (110, ','), (112, 'Princess'), (121, 'of'), (124, 'Wales'), (130, 'in'), (133, 'Diana'), (138, ':'), (140, 'Her'), (144, 'True'), (149, 'Story'), (155, 'in'), (158, '1993'), (162, '.'), (164, 'Her'), (168, 'film'), (173, 'appearances'), (185, 'include'), (193, 'The'), (197, 'World'), (203, 'Is'), (206, 'Not'), (210, 'Enough'), (217, '('), (218, '1999'), (222, ')'), (223, ','), (225, 'Hostage'), (233, '('), (234, '2005'), (238, ')'), (239, ','), (241, 'Brothel'), (249, '('), (250, '2008'), (254, ')'), (255, ','), (257, 'and'), (261, 'Inherent'), (270, 'Vice'), (275, '('), (276, '2014'), (280, ')'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('Serena Harriet Scott Thomas',0, 27), ('21 September 1961',34, 51), ('an English actress',56, 74), ('Her television roles',76, 96), ('Diana, Princess',105, 120), ('Her True Story',140, 154), ('Her film appearances',164, 184), ('The World',193, 202), ('Not Enough (1999)',206, 223), ('Hostage (2005)',225, 239), ('Brothel (2008)',241, 255), ('Inherent Vice (2014)',261, 281)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'IN', 'NNP', ':', 'PRP$', 'JJ', 'NNP', 'IN', 'CD', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'DT', 'NN', 'VBZ', 'RB', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Serena'), (7, 'Harriet'), (15, 'Scott'), (21, 'Thomas'), (28, '('), (29, 'born'), (34, '21'), (37, 'September'), (47, '1961'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'English'), (67, 'actress'), (74, '.'), (76, 'Her'), (80, 'television'), (91, 'roles'), (97, 'include'), (105, 'Diana'), (110, ','), (112, 'Princess'), (121, 'of'), (124, 'Wales'), (130, 'in'), (133, 'Diana'), (138, ':'), (140, 'Her'), (144, 'True'), (149, 'Story'), (155, 'in'), (158, '1993'), (162, '.'), (164, 'Her'), (168, 'film'), (173, 'appearances'), (185, 'include'), (193, 'The'), (197, 'World'), (203, 'Is'), (206, 'Not'), (210, 'Enough'), (217, '('), (218, '1999'), (222, ')'), (223, ','), (225, 'Hostage'), (233, '('), (234, '2005'), (238, ')'), (239, ','), (241, 'Brothel'), (249, '('), (250, '2008'), (254, ')'), (255, ','), (257, 'and'), (261, 'Inherent'), (270, 'Vice'), (275, '('), (276, '2014'), (280, ')'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('Serena Harriet Scott Thomas', 0, 27), ('21 September 1961', 34, 51), ('an English actress', 56, 74), ('Her television roles', 76, 96), ('Diana, Princess of Wales', 105, 129), ('Diana: Her True Story', 133, 154), ('Her film appearances', 164, 184), ('The World Is Not Enough', 193, 216), ('Hostage (2005', 225, 238), ('Brothel', 241, 248), ('Inherent Vice', 261, 274)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'IN', 'NNP', ':', 'PRP$', 'NNP', 'NNP', 'IN', 'CD', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'DT', 'NNP', 'VBZ', 'RB', 'JJ', '-LRB-', 'CD', '-RRB-', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

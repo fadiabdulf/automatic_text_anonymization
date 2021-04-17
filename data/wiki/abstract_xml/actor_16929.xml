@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Delia Lindsay</title>
+<link/>https://en.wikipedia.org/wiki/Delia_Lindsay
+<annotated>0</annotated>
+<originalabstract>Delia Lindsay is an English film and television actress. She was married to actor Jeremy Sinden from 1978 until his death in 1996. The couple had two children, Kezia and Harriet.</originalabstract>
+<abstract>Delia_Lindsay is an_English_film_and_television_actress . She was_married to actor_Jeremy_Sinden from 1978 until his_death in 1996 . The_couple had two_children , Kezia and Harriet .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Delia'), (6, 'Lindsay'), (14, 'is'), (17, 'an'), (20, 'English'), (28, 'film'), (33, 'and'), (37, 'television'), (48, 'actress'), (55, '.'), (57, 'She'), (61, 'was'), (65, 'married'), (73, 'to'), (76, 'actor'), (82, 'Jeremy'), (89, 'Sinden'), (96, 'from'), (101, '1978'), (106, 'until'), (112, 'his'), (116, 'death'), (122, 'in'), (125, '1996'), (129, '.'), (131, 'The'), (135, 'couple'), (142, 'had'), (146, 'two'), (150, 'children'), (158, ','), (160, 'Kezia'), (166, 'and'), (170, 'Harriet'), (177, '.')])</stanford_tokens>
+<opennlp_chunks>[('Delia Lindsay',0, 13), ('an English film and television actress',17, 55), ('was married',61, 72), ('actor Jeremy Sinden',76, 95), ('his death',112, 121), ('The couple',131, 141), ('two children',146, 158)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.', 'DT', 'NN', 'VBD', 'CD', 'NNS', ',', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Delia'), (6, 'Lindsay'), (14, 'is'), (17, 'an'), (20, 'English'), (28, 'film'), (33, 'and'), (37, 'television'), (48, 'actress'), (55, '.'), (57, 'She'), (61, 'was'), (65, 'married'), (73, 'to'), (76, 'actor'), (82, 'Jeremy'), (89, 'Sinden'), (96, 'from'), (101, '1978'), (106, 'until'), (112, 'his'), (116, 'death'), (122, 'in'), (125, '1996'), (129, '.'), (131, 'The'), (135, 'couple'), (142, 'had'), (146, 'two'), (150, 'children'), (158, ','), (160, 'Kezia'), (166, 'and'), (170, 'Harriet'), (177, '.')])</spacy_tokens>
+<spacy_chunks>[('Delia Lindsay', 0, 13), ('an English film and television actress', 17, 55), ('actor Jeremy Sinden', 76, 95), ('his death', 112, 121), ('The couple', 131, 141), ('two children', 146, 158), ('Harriet', 170, 177)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'JJ', 'TO', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.', 'DT', 'NN', 'VBD', 'CD', 'NNS', ',', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

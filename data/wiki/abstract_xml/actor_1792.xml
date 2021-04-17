@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bob Denver</title>
+<link/>https://en.wikipedia.org/wiki/Bob_Denver
+<annotated>0</annotated>
+<originalabstract>Robert Osbourne Denver (January 9, 1935 – September 2, 2005) was an American comedic actor, widely known for portraying Gilligan on the television series Gilligan's Island and the beatnik Maynard G. Krebs on the 1959–1963 sitcom The Many Loves of Dobie Gillis.</originalabstract>
+<abstract>Robert_Osbourne_Denver ( January_9_,_1935 – September_2_,_2005 ) was an_American_comedic_actor , widely_known for portraying Gilligan on the_television_series_Gilligan 's_Island and the_beatnik_Maynard_G._Krebs on the_1959 – 1963_sitcom The_Many_Loves of Dobie_Gillis .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Osbourne'), (16, 'Denver'), (23, '('), (24, 'January'), (32, '9'), (33, ','), (35, '1935'), (40, '–'), (42, 'September'), (52, '2'), (53, ','), (55, '2005'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'comedic'), (85, 'actor'), (90, ','), (92, 'widely'), (99, 'known'), (105, 'for'), (109, 'portraying'), (120, 'Gilligan'), (129, 'on'), (132, 'the'), (136, 'television'), (147, 'series'), (154, 'Gilligan'), (162, '\'s'), (165, 'Island'), (172, 'and'), (176, 'the'), (180, 'beatnik'), (188, 'Maynard'), (196, 'G.'), (199, 'Krebs'), (205, 'on'), (208, 'the'), (212, '1959'), (216, '–'), (217, '1963'), (222, 'sitcom'), (229, 'The'), (233, 'Many'), (238, 'Loves'), (244, 'of'), (247, 'Dobie'), (253, 'Gillis'), (259, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Osbourne Denver',0, 22), ('January 9, 1935',24, 39), ('September 2, 2005',42, 59), ('an American comedic actor',65, 90), ('widely known',92, 104), ('the television series Gilligan',132, 162), ('\'s Island',162, 171), ('the beatnik Maynard G. Krebs',176, 204), ('the 1959',208, 216), ('1963 sitcom',217, 228), ('The Many Loves',229, 243), ('Dobie Gillis',247, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'POS', 'NN', 'CC', 'DT', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', ':', 'CD', 'NN', 'DT', 'JJ', 'VBZ', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Osbourne'), (16, 'Denver'), (23, '('), (24, 'January'), (32, '9'), (33, ','), (35, '1935'), (40, '–'), (42, 'September'), (52, '2'), (53, ','), (55, '2005'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'comedic'), (85, 'actor'), (90, ','), (92, 'widely'), (99, 'known'), (105, 'for'), (109, 'portraying'), (120, 'Gilligan'), (129, 'on'), (132, 'the'), (136, 'television'), (147, 'series'), (154, 'Gilligan'), (162, "'s"), (165, 'Island'), (172, 'and'), (176, 'the'), (180, 'beatnik'), (188, 'Maynard'), (196, 'G.'), (199, 'Krebs'), (205, 'on'), (208, 'the'), (212, '1959–1963'), (222, 'sitcom'), (229, 'The'), (233, 'Many'), (238, 'Loves'), (244, 'of'), (247, 'Dobie'), (253, 'Gillis'), (259, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Osbourne Denver', 0, 22), ('(January', 23, 31), ('January 9, 1935', 24, 39), ('September 2, 2005', 42, 59), ('an American comedic actor', 65, 90), ('Gilligan', 120, 128), ('the television series', 132, 153), ("Gilligan's Island", 154, 171), ('the beatnik', 176, 187), ('Maynard G. Krebs', 188, 204), ('the 1959–1963 sitcom', 208, 228), ('The Many Loves of Dobie Gillis', 229, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'POS', 'NNP', 'CC', 'DT', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'DT', 'JJ', 'NNPS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tim Talman</title>
+<link/>https://en.wikipedia.org/wiki/Tim_Talman
+<annotated>0</annotated>
+<originalabstract>Tim Talman (born February 23, 1965) is an American stage, film, and television actor.  He is the youngest son of the late William Talman, who was known on television as Perry Mason's district attorney, Hamilton Burger.  With the rest of his family, he appeared in a William Talman 1968 anti-smoking ad.</originalabstract>
+<abstract>Tim_Talman ( born February_23_,_1965 ) is an_American_stage , film , and television_actor . He is the_youngest_son of the_late_William_Talman , who was_known on television as Perry_Mason 's_district_attorney , Hamilton_Burger . With the_rest of his_family , he appeared in a_William_Talman_1968_anti-smoking_ad .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tim'), (4, 'Talman'), (11, '('), (12, 'born'), (17, 'February'), (26, '23'), (28, ','), (30, '1965'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'stage'), (56, ','), (58, 'film'), (62, ','), (64, 'and'), (68, 'television'), (79, 'actor'), (84, '.'), (87, 'He'), (90, 'is'), (93, 'the'), (97, 'youngest'), (106, 'son'), (110, 'of'), (113, 'the'), (117, 'late'), (122, 'William'), (130, 'Talman'), (136, ','), (138, 'who'), (142, 'was'), (146, 'known'), (152, 'on'), (155, 'television'), (166, 'as'), (169, 'Perry'), (175, 'Mason'), (180, '\'s'), (183, 'district'), (192, 'attorney'), (200, ','), (202, 'Hamilton'), (211, 'Burger'), (217, '.'), (220, 'With'), (225, 'the'), (229, 'rest'), (234, 'of'), (237, 'his'), (241, 'family'), (247, ','), (249, 'he'), (252, 'appeared'), (261, 'in'), (264, 'a'), (266, 'William'), (274, 'Talman'), (281, '1968'), (286, 'anti-smoking'), (299, 'ad'), (301, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tim Talman',0, 10), ('February 23, 1965',17, 34), ('an American stage',39, 56), ('television actor',68, 84), ('the youngest son',93, 109), ('the late William Talman',113, 136), ('was known',142, 151), ('Perry Mason',169, 180), ('\'s district attorney',180, 200), ('Hamilton Burger',202, 217), ('the rest',225, 233), ('his family',237, 247), ('a William Talman 1968 anti-smoking ad',264, 301)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJS', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', ',', 'WP', 'VBD', 'VBN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', ',', 'NNP', 'NNP', '.', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'CD', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tim'), (4, 'Talman'), (11, '('), (12, 'born'), (17, 'February'), (26, '23'), (28, ','), (30, '1965'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'stage'), (56, ','), (58, 'film'), (62, ','), (64, 'and'), (68, 'television'), (79, 'actor'), (84, '.'), (87, 'He'), (90, 'is'), (93, 'the'), (97, 'youngest'), (106, 'son'), (110, 'of'), (113, 'the'), (117, 'late'), (122, 'William'), (130, 'Talman'), (136, ','), (138, 'who'), (142, 'was'), (146, 'known'), (152, 'on'), (155, 'television'), (166, 'as'), (169, 'Perry'), (175, 'Mason'), (180, "'s"), (183, 'district'), (192, 'attorney'), (200, ','), (202, 'Hamilton'), (211, 'Burger'), (217, '.'), (220, 'With'), (225, 'the'), (229, 'rest'), (234, 'of'), (237, 'his'), (241, 'family'), (247, ','), (249, 'he'), (252, 'appeared'), (261, 'in'), (264, 'a'), (266, 'William'), (274, 'Talman'), (281, '1968'), (286, 'anti'), (290, '-'), (291, 'smoking'), (299, 'ad'), (301, '.')])</spacy_tokens>
+<spacy_chunks>[('Tim Talman', 0, 10), ('February 23, 1965', 17, 34), ('an American stage', 39, 56), ('television actor', 68, 84), ('the youngest son', 93, 109), ('the late William Talman', 113, 136), ("Perry Mason's district attorney", 169, 200), ('Hamilton Burger', 202, 217), ('the rest', 225, 233), ('his family', 237, 247), ('a William Talman 1968 anti-smoking ad', 264, 301)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'DT', 'JJS', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', ',', 'WP', 'VBD', 'VBN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', ',', 'NNP', 'NNP', '.', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'CD', 'JJ', 'JJ', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

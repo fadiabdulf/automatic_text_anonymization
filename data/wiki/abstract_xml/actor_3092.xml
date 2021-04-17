@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charlie Hill</title>
+<link/>https://en.wikipedia.org/wiki/Charlie_Hill
+<annotated>0</annotated>
+<originalabstract>Charles Allan Hill (July 6, 1951 – December 30, 2013) was an American stand-up comedian, actor, and writer of Oneida-Mohawk-Cree heritage. He wrote for the television series Roseanne.</originalabstract>
+<abstract>Charles_Allan_Hill ( July_6_,_1951 – December_30 , 2013 ) was an_American_stand-up_comedian , actor , and writer of Oneida-Mohawk-Cree_heritage . He wrote for the_television_series_Roseanne .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Allan'), (14, 'Hill'), (19, '('), (20, 'July'), (25, '6'), (26, ','), (28, '1951'), (33, '–'), (35, 'December'), (44, '30'), (46, ','), (48, '2013'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'stand-up'), (79, 'comedian'), (87, ','), (89, 'actor'), (94, ','), (96, 'and'), (100, 'writer'), (107, 'of'), (110, 'Oneida-Mohawk-Cree'), (129, 'heritage'), (137, '.'), (139, 'He'), (142, 'wrote'), (148, 'for'), (152, 'the'), (156, 'television'), (167, 'series'), (174, 'Roseanne'), (182, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Allan Hill',0, 18), ('July 6, 1951',20, 32), ('December 30',35, 46), ('an American stand-up comedian',58, 87), ('Oneida-Mohawk-Cree heritage',110, 137), ('the television series Roseanne',152, 182)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'IN', 'NNP', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Allan'), (14, 'Hill'), (19, '('), (20, 'July'), (25, '6'), (26, ','), (28, '1951'), (33, '–'), (35, 'December'), (44, '30'), (46, ','), (48, '2013'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'stand'), (75, '-'), (76, 'up'), (79, 'comedian'), (87, ','), (89, 'actor'), (94, ','), (96, 'and'), (100, 'writer'), (107, 'of'), (110, 'Oneida'), (116, '-'), (117, 'Mohawk'), (123, '-'), (124, 'Cree'), (129, 'heritage'), (137, '.'), (139, 'He'), (142, 'wrote'), (148, 'for'), (152, 'the'), (156, 'television'), (167, 'series'), (174, 'Roseanne'), (182, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Allan Hill', 0, 18), ('July 6, 1951', 20, 32), ('December 30, 2013', 35, 52), ('an American stand-up comedian', 58, 87), ('writer', 100, 106), ('Oneida-Mohawk-Cree heritage', 110, 137), ('the television series', 152, 173), ('Roseanne', 174, 182)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'VB', 'HYPH', 'RP', 'NN', ',', 'NN', ',', 'CC', 'NN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

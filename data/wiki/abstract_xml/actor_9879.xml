@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fernand Herrmann</title>
+<link/>https://en.wikipedia.org/wiki/Fernand_Herrmann
+<annotated>0</annotated>
+<originalabstract>Fernand Herrmann (February 21, 1886 – April 1925) was a French silent film actor.
+He starred in some 26 films between 1914 and 1925.
+He appeared in films such as the Louis Feuillade-directed Les Vampires serial that ran in installments from 1915 to 1916, and Barabbas in 1920.</originalabstract>
+<abstract>Fernand_Herrmann ( February_21_,_1886 – April_1925 ) was a_French_silent_film_actor . He starred in some_26_films between 1914_and_1925 . He appeared in films such_as the_Louis_Feuillade-directed_Les_Vampires_serial that ran in installments from 1915 to 1916 , and Barabbas in 1920 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fernand'), (8, 'Herrmann'), (17, '('), (18, 'February'), (27, '21'), (29, ','), (31, '1886'), (36, '–'), (38, 'April'), (44, '1925'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'silent'), (70, 'film'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'starred'), (93, 'in'), (96, 'some'), (101, '26'), (104, 'films'), (110, 'between'), (118, '1914'), (123, 'and'), (127, '1925'), (131, '.'), (133, 'He'), (136, 'appeared'), (145, 'in'), (148, 'films'), (154, 'such'), (159, 'as'), (162, 'the'), (166, 'Louis'), (172, 'Feuillade-directed'), (191, 'Les'), (195, 'Vampires'), (204, 'serial'), (211, 'that'), (216, 'ran'), (220, 'in'), (223, 'installments'), (236, 'from'), (241, '1915'), (246, 'to'), (249, '1916'), (253, ','), (255, 'and'), (259, 'Barabbas'), (268, 'in'), (271, '1920'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fernand Herrmann',0, 16), ('February 21, 1886',18, 35), ('April 1925',38, 48), ('a French silent film actor',54, 80), ('some 26 films',96, 109), ('1914 and 1925',118, 131), ('such as',154, 161), ('the Louis Feuillade-directed Les Vampires serial',162, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'JJ', 'NNP', 'NNPS', 'NN', 'WDT', 'VBD', 'IN', 'NNS', 'IN', 'CD', 'TO', 'CD', ',', 'CC', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fernand'), (8, 'Herrmann'), (17, '('), (18, 'February'), (27, '21'), (29, ','), (31, '1886'), (36, '–'), (38, 'April'), (44, '1925'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'silent'), (70, 'film'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'starred'), (93, 'in'), (96, 'some'), (101, '26'), (104, 'films'), (110, 'between'), (118, '1914'), (123, 'and'), (127, '1925'), (131, '.'), (133, 'He'), (136, 'appeared'), (145, 'in'), (148, 'films'), (154, 'such'), (159, 'as'), (162, 'the'), (166, 'Louis'), (172, 'Feuillade'), (181, '-'), (182, 'directed'), (191, 'Les'), (195, 'Vampires'), (204, 'serial'), (211, 'that'), (216, 'ran'), (220, 'in'), (223, 'installments'), (236, 'from'), (241, '1915'), (246, 'to'), (249, '1916'), (253, ','), (255, 'and'), (259, 'Barabbas'), (268, 'in'), (271, '1920'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('Fernand Herrmann', 0, 16), ('February 21, 1886', 18, 35), ('a French silent film actor', 54, 80), ('some 26 films', 96, 109), ('the Louis Feuillade-directed Les Vampires serial', 162, 210), ('installments', 223, 235), ('Barabbas', 259, 267)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'NNP', 'HYPH', 'VBN', 'NNP', 'NNP', 'NN', 'WDT', 'VBD', 'IN', 'NNS', 'IN', 'CD', 'IN', 'CD', ',', 'CC', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

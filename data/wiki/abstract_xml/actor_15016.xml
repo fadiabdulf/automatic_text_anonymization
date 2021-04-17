@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Emily Schulman</title>
+<link/>https://en.wikipedia.org/wiki/Emily_Schulman
+<annotated>0</annotated>
+<originalabstract>Emily Hope Schulman (born August 17, 1977) is a former child actress and commercial agent, and current acting instructor. She is best known for her role as next-door neighbor Harriet Brindle on the sitcom Small Wonder, which ran from 1985 to 1989.</originalabstract>
+<abstract>Emily_Hope_Schulman ( born August_17_,_1977 ) is a_former_child_actress_and_commercial_agent , and current_acting_instructor . She is_best_known for her_role as next-door_neighbor_Harriet_Brindle on the_sitcom_Small_Wonder , which ran from 1985 to 1989 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Emily'), (6, 'Hope'), (11, 'Schulman'), (20, '('), (21, 'born'), (26, 'August'), (33, '17'), (35, ','), (37, '1977'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'former'), (55, 'child'), (61, 'actress'), (69, 'and'), (73, 'commercial'), (84, 'agent'), (89, ','), (91, 'and'), (95, 'current'), (103, 'acting'), (110, 'instructor'), (120, '.'), (122, 'She'), (126, 'is'), (129, 'best'), (134, 'known'), (140, 'for'), (144, 'her'), (148, 'role'), (153, 'as'), (156, 'next-door'), (166, 'neighbor'), (175, 'Harriet'), (183, 'Brindle'), (191, 'on'), (194, 'the'), (198, 'sitcom'), (205, 'Small'), (211, 'Wonder'), (217, ','), (219, 'which'), (225, 'ran'), (229, 'from'), (234, '1985'), (239, 'to'), (242, '1989'), (246, '.')])</stanford_tokens>
+<opennlp_chunks>[('Emily Hope Schulman',0, 19), ('August 17, 1977',26, 41), ('a former child actress and commercial agent',46, 89), ('current acting instructor',95, 120), ('is best known',126, 139), ('her role',144, 152), ('next-door neighbor Harriet Brindle',156, 190), ('the sitcom Small Wonder',194, 217)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', ',', 'CC', 'JJ', 'VBG', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'JJ', 'JJ', ',', 'WDT', 'VBD', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Emily'), (6, 'Hope'), (11, 'Schulman'), (20, '('), (21, 'born'), (26, 'August'), (33, '17'), (35, ','), (37, '1977'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'former'), (55, 'child'), (61, 'actress'), (69, 'and'), (73, 'commercial'), (84, 'agent'), (89, ','), (91, 'and'), (95, 'current'), (103, 'acting'), (110, 'instructor'), (120, '.'), (122, 'She'), (126, 'is'), (129, 'best'), (134, 'known'), (140, 'for'), (144, 'her'), (148, 'role'), (153, 'as'), (156, 'next'), (160, '-'), (161, 'door'), (166, 'neighbor'), (175, 'Harriet'), (183, 'Brindle'), (191, 'on'), (194, 'the'), (198, 'sitcom'), (205, 'Small'), (211, 'Wonder'), (217, ','), (219, 'which'), (225, 'ran'), (229, 'from'), (234, '1985'), (239, 'to'), (242, '1989'), (246, '.')])</spacy_tokens>
+<spacy_chunks>[('Emily Hope Schulman', 0, 19), ('August 17, 1977', 26, 41), ('a former child actress', 46, 68), ('commercial agent', 73, 89), ('current acting instructor', 95, 120), ('her role', 144, 152), ('next-door neighbor Harriet Brindle', 156, 190), ('the sitcom', 194, 204), ('Small Wonder', 205, 217)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', ',', 'CC', 'JJ', 'VBG', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'JJ', 'HYPH', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

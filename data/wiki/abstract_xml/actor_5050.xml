@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Afemo Omilami</title>
+<link/>https://en.wikipedia.org/wiki/Afemo_Omilami
+<annotated>0</annotated>
+<originalabstract>Afemo Omilami (born December 13, 1950) is an American actor. Also played iIn The Heat Of The Night</originalabstract>
+<abstract>Afemo_Omilami ( born December_13_,_1950 ) is an_American_actor . Also played iIn The_Heat Of The_Night</abstract>
+<stanford_tokens>OrderedDict([(0, 'Afemo'), (6, 'Omilami'), (14, '('), (15, 'born'), (20, 'December'), (29, '13'), (31, ','), (33, '1950'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, '.'), (61, 'Also'), (66, 'played'), (73, 'iIn'), (77, 'The'), (81, 'Heat'), (86, 'Of'), (89, 'The'), (93, 'Night')])</stanford_tokens>
+<opennlp_chunks>[('Afemo Omilami',0, 13), ('December 13, 1950',20, 37), ('an American actor',42, 59), ('The Heat',77, 85), ('The Night',89, 98)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'RB', 'VBN', 'NNP', 'DT', 'NNP', 'IN', 'DT', 'NN']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Afemo'), (6, 'Omilami'), (14, '('), (15, 'born'), (20, 'December'), (29, '13'), (31, ','), (33, '1950'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, '.'), (61, 'Also'), (66, 'played'), (73, 'iIn'), (77, 'The'), (81, 'Heat'), (86, 'Of'), (89, 'The'), (93, 'Night')])</spacy_tokens>
+<spacy_chunks>[('Afemo Omilami', 0, 13), ('December 13, 1950', 20, 37), ('an American actor', 42, 59), ('In the Heat of the Night', 74, 98)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'RB', 'VBD', 'NNS', 'DT', 'NNP', 'IN', 'DT', 'NN']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

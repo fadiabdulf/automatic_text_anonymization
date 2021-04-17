@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tris Coffin</title>
+<link/>https://en.wikipedia.org/wiki/Tris_Coffin
+<annotated>0</annotated>
+<originalabstract>Tristram Chockley Coffin (August 13, 1909 – March 26, 1990) was a film and television actor from the latter 1930s through the 1970s, usually in westerns or other action-adventure productions.</originalabstract>
+<abstract>Tristram_Chockley_Coffin ( August_13_,_1909 – March_26_,_1990 ) was a_film_and_television_actor from the_latter_1930s through the_1970s , usually in westerns or other_action-adventure_productions .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tristram'), (9, 'Chockley'), (18, 'Coffin'), (25, '('), (26, 'August'), (33, '13'), (35, ','), (37, '1909'), (42, '–'), (44, 'March'), (50, '26'), (52, ','), (54, '1990'), (58, ')'), (60, 'was'), (64, 'a'), (66, 'film'), (71, 'and'), (75, 'television'), (86, 'actor'), (92, 'from'), (97, 'the'), (101, 'latter'), (108, '1930s'), (114, 'through'), (122, 'the'), (126, '1970s'), (131, ','), (133, 'usually'), (141, 'in'), (144, 'westerns'), (153, 'or'), (156, 'other'), (162, 'action-adventure'), (179, 'productions'), (190, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tristram Chockley Coffin',0, 24), ('August 13, 1909',26, 41), ('March 26, 1990',44, 58), ('a film and television actor',64, 91), ('the latter 1930s',97, 113), ('the 1970s',122, 131), ('other action-adventure productions',156, 190)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NNS', ',', 'RB', 'IN', 'NNS', 'CC', 'JJ', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tristram'), (9, 'Chockley'), (18, 'Coffin'), (25, '('), (26, 'August'), (33, '13'), (35, ','), (37, '1909'), (42, '–'), (44, 'March'), (50, '26'), (52, ','), (54, '1990'), (58, ')'), (60, 'was'), (64, 'a'), (66, 'film'), (71, 'and'), (75, 'television'), (86, 'actor'), (92, 'from'), (97, 'the'), (101, 'latter'), (108, '1930s'), (114, 'through'), (122, 'the'), (126, '1970s'), (131, ','), (133, 'usually'), (141, 'in'), (144, 'westerns'), (153, 'or'), (156, 'other'), (162, 'action'), (168, '-'), (169, 'adventure'), (179, 'productions'), (190, '.')])</spacy_tokens>
+<spacy_chunks>[('Tristram Chockley Coffin', 0, 24), ('August 13, 1909', 26, 41), ('March 26, 1990', 44, 58), ('a film and television actor', 64, 91), ('the latter 1930s', 97, 113), ('the 1970s', 122, 131), ('westerns', 144, 152), ('other action-adventure productions', 156, 190)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NNS', ',', 'RB', 'IN', 'NNS', 'CC', 'JJ', 'NN', 'HYPH', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Ewart</title>
+<link/>https://en.wikipedia.org/wiki/John_Ewart
+<annotated>0</annotated>
+<originalabstract>John Ewart (26 February 1928 – 8 March 1994) was an Australian actor of radio, stage, television and film. Ewart won an AACTA Award for Best Actor in a Supporting Role. He was married to children's host Jane Fennell.</originalabstract>
+<abstract>John_Ewart ( 26_February_1928 – 8_March_1994 ) was an_Australian_actor of radio_,_stage_,_television_and_film . Ewart won an_AACTA_Award for_Best_Actor in a_Supporting_Role . He was_married to children 's_host_Jane_Fennell .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Ewart'), (11, '('), (12, '26'), (15, 'February'), (24, '1928'), (29, '–'), (31, '8'), (33, 'March'), (39, '1994'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'Australian'), (63, 'actor'), (69, 'of'), (72, 'radio'), (77, ','), (79, 'stage'), (84, ','), (86, 'television'), (97, 'and'), (101, 'film'), (105, '.'), (107, 'Ewart'), (113, 'won'), (117, 'an'), (120, 'AACTA'), (126, 'Award'), (132, 'for'), (136, 'Best'), (141, 'Actor'), (147, 'in'), (150, 'a'), (152, 'Supporting'), (163, 'Role'), (167, '.'), (169, 'He'), (172, 'was'), (176, 'married'), (184, 'to'), (187, 'children'), (195, '\'s'), (198, 'host'), (203, 'Jane'), (208, 'Fennell'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Ewart',0, 10), ('26 February 1928',12, 28), ('8 March 1994',31, 43), ('an Australian actor',49, 68), ('radio, stage, television and film',72, 105), ('an AACTA Award',117, 131), ('for Best Actor',132, 146), ('a Supporting Role',150, 167), ('was married',172, 183), ('\'s host Jane Fennell',195, 215)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'NN', 'IN', 'DT', 'VBG', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'NNS', 'POS', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Ewart'), (11, '('), (12, '26'), (15, 'February'), (24, '1928'), (29, '–'), (31, '8'), (33, 'March'), (39, '1994'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'Australian'), (63, 'actor'), (69, 'of'), (72, 'radio'), (77, ','), (79, 'stage'), (84, ','), (86, 'television'), (97, 'and'), (101, 'film'), (105, '.'), (107, 'Ewart'), (113, 'won'), (117, 'an'), (120, 'AACTA'), (126, 'Award'), (132, 'for'), (136, 'Best'), (141, 'Actor'), (147, 'in'), (150, 'a'), (152, 'Supporting'), (163, 'Role'), (167, '.'), (169, 'He'), (172, 'was'), (176, 'married'), (184, 'to'), (187, 'children'), (195, "'s"), (198, 'host'), (203, 'Jane'), (208, 'Fennell'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('John Ewart', 0, 10), ('26 February 1928', 12, 28), ('8 March 1994', 31, 43), ('an Australian actor', 49, 68), ('television', 86, 96), ('an AACTA Award', 117, 131), ('AACTA Award for Best Actor in a Supporting Role', 120, 167), ("children's host", 187, 202), ('Jane Fennell', 203, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'VBG', 'NN', '.', 'PRP', 'VBD', 'JJ', 'IN', 'NNS', 'POS', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

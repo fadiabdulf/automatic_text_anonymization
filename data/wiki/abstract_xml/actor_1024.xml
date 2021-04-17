@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rory Calhoun</title>
+<link/>https://en.wikipedia.org/wiki/Rory_Calhoun
+<annotated>0</annotated>
+<originalabstract>Rory Calhoun (born Francis Timothy McCown, August 8, 1922 – April 28, 1999) was an American film and television actor, screenwriter and producer. He starred in a large number of Westerns in the 1950s and 1960s, and appeared in support parts in films such as How to Marry a Millionaire (1953).</originalabstract>
+<abstract>Rory_Calhoun ( born Francis_Timothy_McCown , August_8_,_1922 – April_28_,_1999 ) was an_American_film_and_television_actor , screenwriter_and_producer . He starred in a_large_number of Westerns in the_1950s_and_1960s , and appeared in support_parts in films such_as How to_Marry a_Millionaire_(_1953_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rory'), (5, 'Calhoun'), (13, '('), (14, 'born'), (19, 'Francis'), (27, 'Timothy'), (35, 'McCown'), (41, ','), (43, 'August'), (50, '8'), (51, ','), (53, '1922'), (58, '–'), (60, 'April'), (66, '28'), (68, ','), (70, '1999'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'film'), (97, 'and'), (101, 'television'), (112, 'actor'), (117, ','), (119, 'screenwriter'), (132, 'and'), (136, 'producer'), (144, '.'), (146, 'He'), (149, 'starred'), (157, 'in'), (160, 'a'), (162, 'large'), (168, 'number'), (175, 'of'), (178, 'Westerns'), (187, 'in'), (190, 'the'), (194, '1950s'), (200, 'and'), (204, '1960s'), (209, ','), (211, 'and'), (215, 'appeared'), (224, 'in'), (227, 'support'), (235, 'parts'), (241, 'in'), (244, 'films'), (250, 'such'), (255, 'as'), (258, 'How'), (262, 'to'), (265, 'Marry'), (271, 'a'), (273, 'Millionaire'), (285, '('), (286, '1953'), (290, ')'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rory Calhoun',0, 12), ('Francis Timothy McCown',19, 41), ('August 8, 1922',43, 57), ('April 28, 1999',60, 74), ('an American film and television actor',80, 117), ('screenwriter and producer',119, 144), ('a large number',160, 174), ('the 1950s and 1960s',190, 209), ('support parts',227, 240), ('such as',250, 257), ('to Marry',262, 270), ('a Millionaire (1953)',271, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'CC', 'CD', ',', 'CC', 'VBD', 'IN', 'NN', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'WRB', 'TO', 'VB', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rory'), (5, 'Calhoun'), (13, '('), (14, 'born'), (19, 'Francis'), (27, 'Timothy'), (35, 'McCown'), (41, ','), (43, 'August'), (50, '8'), (51, ','), (53, '1922'), (58, '–'), (60, 'April'), (66, '28'), (68, ','), (70, '1999'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'film'), (97, 'and'), (101, 'television'), (112, 'actor'), (117, ','), (119, 'screenwriter'), (132, 'and'), (136, 'producer'), (144, '.'), (146, 'He'), (149, 'starred'), (157, 'in'), (160, 'a'), (162, 'large'), (168, 'number'), (175, 'of'), (178, 'Westerns'), (187, 'in'), (190, 'the'), (194, '1950s'), (200, 'and'), (204, '1960s'), (209, ','), (211, 'and'), (215, 'appeared'), (224, 'in'), (227, 'support'), (235, 'parts'), (241, 'in'), (244, 'films'), (250, 'such'), (255, 'as'), (258, 'How'), (262, 'to'), (265, 'Marry'), (271, 'a'), (273, 'Millionaire'), (285, '('), (286, '1953'), (290, ')'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Rory Calhoun', 0, 12), ('born Francis Timothy McCown', 14, 41), ('August 8, 1922', 43, 57), ('April 28, 1999', 60, 74), ('an American film and television actor', 80, 117), ('screenwriter', 119, 131), ('producer', 136, 144), ('a large number', 160, 174), ('Westerns', 178, 186), ('the 1950s', 190, 199), ('support parts', 227, 240), ('How to Marry a Millionaire', 258, 284)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNS', 'CC', 'NNS', ',', 'CC', 'VBD', 'IN', 'NN', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'WRB', 'TO', 'VB', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

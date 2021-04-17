@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fiske O'Hara</title>
+<link/>https://en.wikipedia.org/wiki/Fiske_O%27Hara
+<annotated>0</annotated>
+<originalabstract>Fiske O'Hara (March 11, 1878, Rockland, Maine – July 12, 1945, Hollywood, California) was an American singer and actor who was nicknamed the Irish Tenor.
+He was born George Russ Clary Fiske O'Hara on March 11, 1878 and died on August 2, 1945, aged 67. He is buried in Kensico Cemetery in Valhalla, New York</originalabstract>
+<abstract>Fiske_O'Hara ( March_11_,_1878 , Rockland , Maine – July_12_,_1945 , Hollywood , California ) was an_American_singer and actor who was_nicknamed the_Irish_Tenor . He was_born George_Russ_Clary_Fiske_O'Hara on March_11_,_1878 and died on August_2_,_1945 , aged 67 . He is_buried in Kensico_Cemetery in Valhalla , New_York</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fiske'), (6, 'O\'Hara'), (13, '('), (14, 'March'), (20, '11'), (22, ','), (24, '1878'), (28, ','), (30, 'Rockland'), (38, ','), (40, 'Maine'), (46, '–'), (48, 'July'), (53, '12'), (55, ','), (57, '1945'), (61, ','), (63, 'Hollywood'), (72, ','), (74, 'California'), (84, ')'), (86, 'was'), (90, 'an'), (93, 'American'), (102, 'singer'), (109, 'and'), (113, 'actor'), (119, 'who'), (123, 'was'), (127, 'nicknamed'), (137, 'the'), (141, 'Irish'), (147, 'Tenor'), (152, '.'), (154, 'He'), (157, 'was'), (161, 'born'), (166, 'George'), (173, 'Russ'), (178, 'Clary'), (184, 'Fiske'), (190, 'O\'Hara'), (197, 'on'), (200, 'March'), (206, '11'), (208, ','), (210, '1878'), (215, 'and'), (219, 'died'), (224, 'on'), (227, 'August'), (234, '2'), (235, ','), (237, '1945'), (241, ','), (243, 'aged'), (248, '67'), (250, '.'), (252, 'He'), (255, 'is'), (258, 'buried'), (265, 'in'), (268, 'Kensico'), (276, 'Cemetery'), (285, 'in'), (288, 'Valhalla'), (296, ','), (298, 'New'), (302, 'York')])</stanford_tokens>
+<opennlp_chunks>[('Fiske O\'Hara',0, 12), ('March 11, 1878',14, 28), ('July 12, 1945',48, 61), ('an American singer',90, 108), ('was nicknamed',123, 136), ('the Irish Tenor',137, 152), ('was born',157, 165), ('George Russ Clary Fiske O\'Hara',166, 196), ('March 11, 1878',200, 214), ('August 2, 1945',227, 241), ('is buried',255, 264), ('Kensico Cemetery',268, 284), ('New York',298, 306)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'VBN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', 'CC', 'VBD', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'JJ', 'CD', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fiske'), (6, "O'Hara"), (13, '('), (14, 'March'), (20, '11'), (22, ','), (24, '1878'), (28, ','), (30, 'Rockland'), (38, ','), (40, 'Maine'), (46, '–'), (48, 'July'), (53, '12'), (55, ','), (57, '1945'), (61, ','), (63, 'Hollywood'), (72, ','), (74, 'California'), (84, ')'), (86, 'was'), (90, 'an'), (93, 'American'), (102, 'singer'), (109, 'and'), (113, 'actor'), (119, 'who'), (123, 'was'), (127, 'nicknamed'), (137, 'the'), (141, 'Irish'), (147, 'Tenor'), (152, '.'), (154, 'He'), (157, 'was'), (161, 'born'), (166, 'George'), (173, 'Russ'), (178, 'Clary'), (184, 'Fiske'), (190, "O'Hara"), (197, 'on'), (200, 'March'), (206, '11'), (208, ','), (210, '1878'), (215, 'and'), (219, 'died'), (224, 'on'), (227, 'August'), (234, '2'), (235, ','), (237, '1945'), (241, ','), (243, 'aged'), (248, '67'), (250, '.'), (252, 'He'), (255, 'is'), (258, 'buried'), (265, 'in'), (268, 'Kensico'), (276, 'Cemetery'), (285, 'in'), (288, 'Valhalla'), (296, ','), (298, 'New'), (302, 'York')])</spacy_tokens>
+<spacy_chunks>[("Fiske O'Hara", 0, 12), ('(March', 13, 19), ('March 11, 1878', 14, 28), ('Rockland, Maine', 30, 45), ('July 12, 1945', 48, 61), ('Hollywood, California', 63, 84), ('an American singer', 90, 108), ('March 11, 1878', 200, 214), ('August 2, 1945', 227, 241), ('Kensico Cemetery', 268, 284), ('Valhalla', 288, 296), ('New York', 298, 306)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'VBN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', 'CC', 'VBD', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'VBN', 'CD', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

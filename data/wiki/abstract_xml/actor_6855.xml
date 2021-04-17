@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jan-Michael Vincent</title>
+<link/>https://en.wikipedia.org/wiki/Jan-Michael_Vincent
+<annotated>0</annotated>
+<originalabstract>Jan-Michael Vincent (born July 15, 1944) is a retired American actor best known for his role as attack helicopter pilot Stringfellow Hawke on the television series Airwolf (1984–86) and as the protagonist of 1978's  Big Wednesday.</originalabstract>
+<abstract>Jan-Michael_Vincent ( born July_15_,_1944 ) is a_retired_American_actor best_known for his_role as attack_helicopter_pilot_Stringfellow_Hawke on the_television_series_Airwolf ( 1984 – 86 ) and as the_protagonist of 1978 's_Big_Wednesday .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jan-Michael'), (12, 'Vincent'), (20, '('), (21, 'born'), (26, 'July'), (31, '15'), (33, ','), (35, '1944'), (39, ')'), (41, 'is'), (44, 'a'), (46, 'retired'), (54, 'American'), (63, 'actor'), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'his'), (88, 'role'), (93, 'as'), (96, 'attack'), (103, 'helicopter'), (114, 'pilot'), (120, 'Stringfellow'), (133, 'Hawke'), (139, 'on'), (142, 'the'), (146, 'television'), (157, 'series'), (164, 'Airwolf'), (172, '('), (173, '1984'), (177, '–'), (178, '86'), (180, ')'), (182, 'and'), (186, 'as'), (189, 'the'), (193, 'protagonist'), (205, 'of'), (208, '1978'), (212, '\'s'), (216, 'Big'), (220, 'Wednesday'), (229, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jan-Michael Vincent',0, 19), ('July 15, 1944',26, 39), ('a retired American actor',44, 68), ('best known',69, 79), ('his role',84, 92), ('attack helicopter pilot Stringfellow Hawke',96, 138), ('the television series Airwolf',142, 171), ('the protagonist',189, 204), ('\'s  Big Wednesday',212, 229)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'IN', 'DT', 'NN', 'IN', 'CD', 'POS', 'JJ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jan'), (3, '-'), (4, 'Michael'), (12, 'Vincent'), (20, '('), (21, 'born'), (26, 'July'), (31, '15'), (33, ','), (35, '1944'), (39, ')'), (41, 'is'), (44, 'a'), (46, 'retired'), (54, 'American'), (63, 'actor'), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'his'), (88, 'role'), (93, 'as'), (96, 'attack'), (103, 'helicopter'), (114, 'pilot'), (120, 'Stringfellow'), (133, 'Hawke'), (139, 'on'), (142, 'the'), (146, 'television'), (157, 'series'), (164, 'Airwolf'), (172, '('), (173, '1984–86'), (180, ')'), (182, 'and'), (186, 'as'), (189, 'the'), (193, 'protagonist'), (205, 'of'), (208, '1978'), (212, "'s"), (216, 'Big'), (220, 'Wednesday'), (229, '.')])</spacy_tokens>
+<spacy_chunks>[('Jan-Michael Vincent', 0, 19), ('July 15, 1944', 26, 39), ('a retired American actor', 44, 68), ('his role', 84, 92), ('attack helicopter pilot Stringfellow Hawke', 96, 138), ('the television series', 142, 163), ('Airwolf', 164, 171), ('1984–86', 173, 180), ('the protagonist', 189, 204), ('Big Wednesday', 216, 229)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', '-LRB-', 'NNP', '-RRB-', 'CC', 'IN', 'DT', 'NN', 'IN', 'CD', 'POS', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

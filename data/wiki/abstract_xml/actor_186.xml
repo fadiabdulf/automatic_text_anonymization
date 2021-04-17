@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sebastian Arcelus</title>
+<link/>https://en.wikipedia.org/wiki/Sebastian_Arcelus
+<annotated>0</annotated>
+<originalabstract>Sebastian Carlos Arcelus (born November 5, 1976) is an American actor, best known for his roles as Lucas Goodwin in the Netflix TV series House of Cards from 2013 to 2016 and Jay Whitman in the CBS TV series Madam Secretary.</originalabstract>
+<abstract>Sebastian_Carlos_Arcelus ( born November_5_,_1976 ) is an_American_actor , best_known for his_roles as Lucas_Goodwin in the_Netflix_TV_series_House of Cards from 2013 to 2016 and Jay_Whitman in the_CBS_TV_series_Madam_Secretary .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sebastian'), (10, 'Carlos'), (17, 'Arcelus'), (25, '('), (26, 'born'), (31, 'November'), (40, '5'), (41, ','), (43, '1976'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, ','), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'his'), (90, 'roles'), (96, 'as'), (99, 'Lucas'), (105, 'Goodwin'), (113, 'in'), (116, 'the'), (120, 'Netflix'), (128, 'TV'), (131, 'series'), (138, 'House'), (144, 'of'), (147, 'Cards'), (153, 'from'), (158, '2013'), (163, 'to'), (166, '2016'), (171, 'and'), (175, 'Jay'), (179, 'Whitman'), (187, 'in'), (190, 'the'), (194, 'CBS'), (198, 'TV'), (201, 'series'), (208, 'Madam'), (214, 'Secretary'), (223, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sebastian Carlos Arcelus',0, 24), ('November 5, 1976',31, 47), ('an American actor',52, 69), ('best known',71, 81), ('his roles',86, 95), ('Lucas Goodwin',99, 112), ('the Netflix TV series House',116, 143), ('Jay Whitman',175, 186), ('the CBS TV series Madam Secretary',190, 223)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'IN', 'NNP', 'IN', 'CD', 'TO', 'CD', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sebastian'), (10, 'Carlos'), (17, 'Arcelus'), (25, '('), (26, 'born'), (31, 'November'), (40, '5'), (41, ','), (43, '1976'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, ','), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'his'), (90, 'roles'), (96, 'as'), (99, 'Lucas'), (105, 'Goodwin'), (113, 'in'), (116, 'the'), (120, 'Netflix'), (128, 'TV'), (131, 'series'), (138, 'House'), (144, 'of'), (147, 'Cards'), (153, 'from'), (158, '2013'), (163, 'to'), (166, '2016'), (171, 'and'), (175, 'Jay'), (179, 'Whitman'), (187, 'in'), (190, 'the'), (194, 'CBS'), (198, 'TV'), (201, 'series'), (208, 'Madam'), (214, 'Secretary'), (223, '.')])</spacy_tokens>
+<spacy_chunks>[('Sebastian Carlos Arcelus', 0, 24), ('November 5, 1976', 31, 47), ('an American actor', 52, 69), ('his roles', 86, 95), ('Lucas Goodwin', 99, 112), ('the Netflix TV series House', 116, 143), ('House of', 138, 146), ('Jay Whitman', 175, 186), ('the CBS TV series', 190, 207), ('Madam Secretary', 208, 223)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'IN', 'NNPS', 'IN', 'CD', 'IN', 'CD', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

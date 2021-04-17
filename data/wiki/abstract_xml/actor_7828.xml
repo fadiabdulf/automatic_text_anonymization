@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Babou Ceesay</title>
+<link/>https://en.wikipedia.org/wiki/Babou_Ceesay
+<annotated>0</annotated>
+<originalabstract>Babou Ceesay (born 1979) is a Gambian-English actor, He is known for his roles in Severance, A.D. The Bible Continues, National Treasure and Guerrilla.</originalabstract>
+<abstract>Babou_Ceesay ( born 1979 ) is a_Gambian-English_actor , He is_known for his_roles in Severance , A.D . The_Bible Continues , National_Treasure_and_Guerrilla .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Babou'), (6, 'Ceesay'), (13, '('), (14, 'born'), (19, '1979'), (23, ')'), (25, 'is'), (28, 'a'), (30, 'Gambian-English'), (46, 'actor'), (51, ','), (53, 'He'), (56, 'is'), (59, 'known'), (65, 'for'), (69, 'his'), (73, 'roles'), (79, 'in'), (82, 'Severance'), (91, ','), (93, 'A.D'), (96, '.'), (98, 'The'), (102, 'Bible'), (108, 'Continues'), (117, ','), (119, 'National'), (128, 'Treasure'), (137, 'and'), (141, 'Guerrilla'), (150, '.')])</stanford_tokens>
+<opennlp_chunks>[('Babou Ceesay',0, 12), ('a Gambian-English actor',28, 51), ('is known',56, 64), ('his roles',69, 78), ('The Bible',98, 107), ('National Treasure and Guerrilla',119, 150)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', ',', 'NNP', '.', 'DT', 'NNP', 'VBZ', ',', 'NNP', 'NNP', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Babou'), (6, 'Ceesay'), (13, '('), (14, 'born'), (19, '1979'), (23, ')'), (25, 'is'), (28, 'a'), (30, 'Gambian'), (37, '-'), (38, 'English'), (46, 'actor'), (51, ','), (53, 'He'), (56, 'is'), (59, 'known'), (65, 'for'), (69, 'his'), (73, 'roles'), (79, 'in'), (82, 'Severance'), (91, ','), (93, 'A.D.'), (98, 'The'), (102, 'Bible'), (108, 'Continues'), (117, ','), (119, 'National'), (128, 'Treasure'), (137, 'and'), (141, 'Guerrilla'), (150, '.')])</spacy_tokens>
+<spacy_chunks>[('Babou Ceesay', 0, 12), ('a Gambian-English actor', 28, 51), ('his roles', 69, 78), ('Severance', 82, 91), ('A.D. The Bible Continues', 93, 117), ('Guerrilla', 141, 150)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'HYPH', 'NNP', 'NN', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', ',', 'NNP', 'DT', 'NNP', 'VBZ', ',', 'NNP', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

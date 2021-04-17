@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Florence Marly</title>
+<link/>https://en.wikipedia.org/wiki/Florence_Marly
+<annotated>0</annotated>
+<originalabstract>Florence Marly (2 June 1919 – 9 November 1978) was a Czech-born French film actress. During World War II, Marly moved to neutral Argentina with her Jewish husband, film director Pierre Chenal, where she appeared in several films. She also acted in two of her husband's films while they were in Chile.</originalabstract>
+<abstract>Florence_Marly ( 2_June_1919 – 9_November_1978 ) was a_Czech-born_French_film_actress . During World_War_II , Marly moved to neutral_Argentina with her_Jewish_husband , film_director_Pierre_Chenal , where she appeared in several_films . She also acted in two of her_husband 's_films while they were in Chile .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Florence'), (9, 'Marly'), (15, '('), (16, '2'), (18, 'June'), (23, '1919'), (28, '–'), (30, '9'), (32, 'November'), (41, '1978'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'Czech-born'), (64, 'French'), (71, 'film'), (76, 'actress'), (83, '.'), (85, 'During'), (92, 'World'), (98, 'War'), (102, 'II'), (104, ','), (106, 'Marly'), (112, 'moved'), (118, 'to'), (121, 'neutral'), (129, 'Argentina'), (139, 'with'), (144, 'her'), (148, 'Jewish'), (155, 'husband'), (162, ','), (164, 'film'), (169, 'director'), (178, 'Pierre'), (185, 'Chenal'), (191, ','), (193, 'where'), (199, 'she'), (203, 'appeared'), (212, 'in'), (215, 'several'), (223, 'films'), (228, '.'), (230, 'She'), (234, 'also'), (239, 'acted'), (245, 'in'), (248, 'two'), (252, 'of'), (255, 'her'), (259, 'husband'), (266, '\'s'), (269, 'films'), (275, 'while'), (281, 'they'), (286, 'were'), (291, 'in'), (294, 'Chile'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('Florence Marly',0, 14), ('2 June 1919',16, 27), ('9 November 1978',30, 45), ('a Czech-born French film actress',51, 83), ('World War II',92, 104), ('neutral Argentina',121, 138), ('her Jewish husband',144, 162), ('film director Pierre Chenal',164, 191), ('several films',215, 228), ('her husband',255, 266), ('\'s films',266, 274)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'TO', 'JJ', 'NNP', 'IN', 'PRP$', 'JJ', 'NN', ',', 'NN', 'NN', 'NNP', 'NNP', ',', 'WRB', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'POS', 'NNS', 'IN', 'PRP', 'VBD', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Florence'), (9, 'Marly'), (15, '('), (16, '2'), (18, 'June'), (23, '1919'), (28, '–'), (30, '9'), (32, 'November'), (41, '1978'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'Czech'), (58, '-'), (59, 'born'), (64, 'French'), (71, 'film'), (76, 'actress'), (83, '.'), (85, 'During'), (92, 'World'), (98, 'War'), (102, 'II'), (104, ','), (106, 'Marly'), (112, 'moved'), (118, 'to'), (121, 'neutral'), (129, 'Argentina'), (139, 'with'), (144, 'her'), (148, 'Jewish'), (155, 'husband'), (162, ','), (164, 'film'), (169, 'director'), (178, 'Pierre'), (185, 'Chenal'), (191, ','), (193, 'where'), (199, 'she'), (203, 'appeared'), (212, 'in'), (215, 'several'), (223, 'films'), (228, '.'), (230, 'She'), (234, 'also'), (239, 'acted'), (245, 'in'), (248, 'two'), (252, 'of'), (255, 'her'), (259, 'husband'), (266, "'s"), (269, 'films'), (275, 'while'), (281, 'they'), (286, 'were'), (291, 'in'), (294, 'Chile'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('Florence Marly', 0, 14), ('(2 June', 15, 22), ('2 June 1919', 16, 27), ('9 November 1978', 30, 45), ('a Czech-born French film actress', 51, 83), ('World War II', 92, 104), ('neutral Argentina', 121, 138), ('her Jewish husband', 144, 162), ('film director Pierre Chenal', 164, 191), ('several films', 215, 228), ("her husband's films", 255, 274)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', '.', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'TO', 'VB', 'NNP', 'IN', 'PRP$', 'JJ', 'NN', ',', 'NN', 'NN', 'NNP', 'NNP', ',', 'WRB', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', '.', 'PRP', 'RB', 'VBD', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'POS', 'NNS', 'IN', 'PRP', 'VBD', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

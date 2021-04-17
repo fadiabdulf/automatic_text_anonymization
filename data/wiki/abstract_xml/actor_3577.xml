@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Steven Keats</title>
+<link/>https://en.wikipedia.org/wiki/Steven_Keats
+<annotated>0</annotated>
+<originalabstract>Steven Keats (February 6, 1945 – May 8, 1994) was an American actor who appeared in such films as Death Wish (as Charles Bronson's character's son-in-law), Black Sunday and the Chuck Norris thriller Silent Rage.</originalabstract>
+<abstract>Steven_Keats ( February_6_,_1945 – May_8_,_1994 ) was an_American_actor who appeared in such_films as Death_Wish ( as Charles_Bronson 's_character 's_son-in-law ) , Black_Sunday and the_Chuck_Norris_thriller_Silent_Rage .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Steven'), (7, 'Keats'), (13, '('), (14, 'February'), (23, '6'), (24, ','), (26, '1945'), (31, '–'), (33, 'May'), (37, '8'), (38, ','), (40, '1994'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (68, 'who'), (72, 'appeared'), (81, 'in'), (84, 'such'), (89, 'films'), (95, 'as'), (98, 'Death'), (104, 'Wish'), (109, '('), (110, 'as'), (113, 'Charles'), (121, 'Bronson'), (128, '\'s'), (131, 'character'), (140, '\'s'), (143, 'son-in-law'), (153, ')'), (154, ','), (156, 'Black'), (162, 'Sunday'), (169, 'and'), (173, 'the'), (177, 'Chuck'), (183, 'Norris'), (190, 'thriller'), (199, 'Silent'), (206, 'Rage'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Steven Keats',0, 12), ('February 6, 1945',14, 30), ('May 8, 1994',33, 44), ('an American actor',50, 67), ('such films',84, 94), ('Death Wish',98, 108), ('Charles Bronson',113, 128), ('\'s character',128, 140), ('\'s son-in-law',140, 153), ('Black Sunday',156, 168), ('the Chuck Norris thriller Silent Rage',173, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', '-LRB-', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'POS', 'NN', '-RRB-', ',', 'JJ', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'NN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Steven'), (7, 'Keats'), (13, '('), (14, 'February'), (23, '6'), (24, ','), (26, '1945'), (31, '–'), (33, 'May'), (37, '8'), (38, ','), (40, '1994'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (68, 'who'), (72, 'appeared'), (81, 'in'), (84, 'such'), (89, 'films'), (95, 'as'), (98, 'Death'), (104, 'Wish'), (109, '('), (110, 'as'), (113, 'Charles'), (121, 'Bronson'), (128, "'s"), (131, 'character'), (140, "'s"), (143, 'son'), (146, '-'), (147, 'in'), (149, '-'), (150, 'law'), (153, ')'), (154, ','), (156, 'Black'), (162, 'Sunday'), (169, 'and'), (173, 'the'), (177, 'Chuck'), (183, 'Norris'), (190, 'thriller'), (199, 'Silent'), (206, 'Rage'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Steven Keats', 0, 12), ('February 6, 1945', 14, 30), ('May 8, 1994', 33, 44), ('an American actor', 50, 67), ('such films', 84, 94), ('Death Wish', 98, 108), ("Charles Bronson's character's son", 113, 146), ('Black Sunday', 156, 168), ('Chuck Norris', 177, 189), ('Silent Rage', 199, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'NN', 'VBP', '-LRB-', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'POS', 'NN', 'HYPH', 'IN', 'HYPH', 'NN', '-RRB-', ',', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

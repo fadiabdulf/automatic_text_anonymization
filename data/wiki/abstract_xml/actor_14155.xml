@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cookie Mueller</title>
+<link/>https://en.wikipedia.org/wiki/Cookie_Mueller
+<annotated>0</annotated>
+<originalabstract>Dorothy Karen "Cookie" Mueller (March 2, 1949 – November 10, 1989) was an American actress, writer, and Dreamlander who starred in many of filmmaker John Waters' early films, including Multiple Maniacs, Pink Flamingos, Female Trouble, and Desperate Living.</originalabstract>
+<abstract>Dorothy_Karen_"_Cookie_"_Mueller ( March_2_,_1949 – November_10_,_1989 ) was an_American_actress , writer , and Dreamlander who starred in many of filmmaker_John_Waters '_early_films , including Multiple_Maniacs , Pink_Flamingos , Female_Trouble , and Desperate_Living .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dorothy'), (8, 'Karen'), (14, '"'), (15, 'Cookie'), (21, '"'), (23, 'Mueller'), (31, '('), (32, 'March'), (38, '2'), (39, ','), (41, '1949'), (46, '–'), (48, 'November'), (57, '10'), (59, ','), (61, '1989'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'actress'), (90, ','), (92, 'writer'), (98, ','), (100, 'and'), (104, 'Dreamlander'), (116, 'who'), (120, 'starred'), (128, 'in'), (131, 'many'), (136, 'of'), (139, 'filmmaker'), (149, 'John'), (154, 'Waters'), (160, '\''), (162, 'early'), (168, 'films'), (173, ','), (175, 'including'), (185, 'Multiple'), (194, 'Maniacs'), (201, ','), (203, 'Pink'), (208, 'Flamingos'), (217, ','), (219, 'Female'), (226, 'Trouble'), (233, ','), (235, 'and'), (239, 'Desperate'), (249, 'Living'), (255, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dorothy Karen "Cookie" Mueller',0, 30), ('March 2, 1949',32, 45), ('November 10, 1989',48, 65), ('an American actress',71, 90), ('filmmaker John Waters',139, 160), ('\' early films',160, 173), ('Multiple Maniacs',185, 201), ('Pink Flamingos',203, 217), ('Female Trouble',219, 233), ('Desperate Living',239, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NNP', 'WP', 'VBD', 'IN', 'JJ', 'IN', 'NN', 'NNP', 'NNP', 'POS', 'JJ', 'NNS', ',', 'VBG', 'JJ', 'NNS', ',', 'NNP', 'NNP', ',', 'JJ', 'NN', ',', 'CC', 'JJ', 'VBG', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dorothy'), (8, 'Karen'), (14, '"'), (15, 'Cookie'), (21, '"'), (23, 'Mueller'), (31, '('), (32, 'March'), (38, '2'), (39, ','), (41, '1949'), (46, '–'), (48, 'November'), (57, '10'), (59, ','), (61, '1989'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'actress'), (90, ','), (92, 'writer'), (98, ','), (100, 'and'), (104, 'Dreamlander'), (116, 'who'), (120, 'starred'), (128, 'in'), (131, 'many'), (136, 'of'), (139, 'filmmaker'), (149, 'John'), (154, 'Waters'), (160, "'"), (162, 'early'), (168, 'films'), (173, ','), (175, 'including'), (185, 'Multiple'), (194, 'Maniacs'), (201, ','), (203, 'Pink'), (208, 'Flamingos'), (217, ','), (219, 'Female'), (226, 'Trouble'), (233, ','), (235, 'and'), (239, 'Desperate'), (249, 'Living'), (255, '.')])</spacy_tokens>
+<spacy_chunks>[('Dorothy Karen "Cookie" Mueller', 0, 30), ('March 2, 1949', 32, 45), ('November 10, 1989', 48, 65), ('an American actress', 71, 90), ('writer', 92, 98), ('Dreamlander', 104, 115), ("filmmaker John Waters' early films", 139, 173), ('Multiple Maniacs', 185, 201), ('Pink Flamingos', 203, 217), ('Female Trouble', 219, 233), ('Desperate Living', 239, 255)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NNP', 'WP', 'VBD', 'IN', 'JJ', 'IN', 'NN', 'NNP', 'NNP', 'POS', 'JJ', 'NNS', ',', 'VBG', 'JJ', 'NNPS', ',', 'NNP', 'NNP', ',', 'JJ', 'NN', ',', 'CC', 'NNP', 'VBG', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

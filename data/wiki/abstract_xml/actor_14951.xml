@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marin Sais</title>
+<link/>https://en.wikipedia.org/wiki/Marin_Sais
+<annotated>0</annotated>
+<originalabstract>Marin Sais (August 2, 1890 – December 31, 1971) was an American motion picture actress whose career was most prolific during the silent film era of the 1910s and 1920s. Sais' acting career spanned over four decades and she is possibly best recalled for appearing in Western themed films.</originalabstract>
+<abstract>Marin_Sais ( August_2_,_1890 – December_31 , 1971 ) was an_American_motion_picture_actress whose_career was most_prolific during the_silent_film_era of the_1910s_and_1920s . Sais ' acting career spanned over four_decades and she is_possibly_best_recalled for appearing in Western_themed_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marin'), (6, 'Sais'), (11, '('), (12, 'August'), (19, '2'), (20, ','), (22, '1890'), (27, '–'), (29, 'December'), (38, '31'), (40, ','), (42, '1971'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'motion'), (71, 'picture'), (79, 'actress'), (87, 'whose'), (93, 'career'), (100, 'was'), (104, 'most'), (109, 'prolific'), (118, 'during'), (125, 'the'), (129, 'silent'), (136, 'film'), (141, 'era'), (145, 'of'), (148, 'the'), (152, '1910s'), (158, 'and'), (162, '1920s'), (167, '.'), (169, 'Sais'), (173, '\''), (175, 'acting'), (182, 'career'), (189, 'spanned'), (197, 'over'), (202, 'four'), (207, 'decades'), (215, 'and'), (219, 'she'), (223, 'is'), (226, 'possibly'), (235, 'best'), (240, 'recalled'), (249, 'for'), (253, 'appearing'), (263, 'in'), (266, 'Western'), (274, 'themed'), (281, 'films'), (286, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marin Sais',0, 10), ('August 2, 1890',12, 26), ('December 31',29, 40), ('an American motion picture actress',52, 86), ('whose career',87, 99), ('most prolific',104, 117), ('the silent film era',125, 144), ('the 1910s and 1920s',148, 167), ('four decades',202, 214), ('is possibly best recalled',223, 248), ('Western themed films',266, 286)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'RBS', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'NN', '\'\'', 'VBG', 'NN', 'VBD', 'IN', 'CD', 'NNS', 'CC', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'JJ', 'VBN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marin'), (6, 'Sais'), (11, '('), (12, 'August'), (19, '2'), (20, ','), (22, '1890'), (27, '–'), (29, 'December'), (38, '31'), (40, ','), (42, '1971'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'motion'), (71, 'picture'), (79, 'actress'), (87, 'whose'), (93, 'career'), (100, 'was'), (104, 'most'), (109, 'prolific'), (118, 'during'), (125, 'the'), (129, 'silent'), (136, 'film'), (141, 'era'), (145, 'of'), (148, 'the'), (152, '1910s'), (158, 'and'), (162, '1920s'), (167, '.'), (169, 'Sais'), (173, "'"), (175, 'acting'), (182, 'career'), (189, 'spanned'), (197, 'over'), (202, 'four'), (207, 'decades'), (215, 'and'), (219, 'she'), (223, 'is'), (226, 'possibly'), (235, 'best'), (240, 'recalled'), (249, 'for'), (253, 'appearing'), (263, 'in'), (266, 'Western'), (274, 'themed'), (281, 'films'), (286, '.')])</spacy_tokens>
+<spacy_chunks>[('Marin Sais', 0, 10), ('August 2, 1890', 12, 26), ('December 31, 1971', 29, 46), ('an American motion picture actress', 52, 86), ('whose career', 87, 99), ('the silent film era', 125, 144), ('the 1910s', 148, 157), ("Sais' acting career", 169, 188), ('four decades', 202, 214), ('Western themed films', 266, 286)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'RBS', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'NNP', 'POS', 'VBG', 'NN', 'VBN', 'IN', 'CD', 'NNS', 'CC', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'VBG', 'IN', 'JJ', 'VBN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

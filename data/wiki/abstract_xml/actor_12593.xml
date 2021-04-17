@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alma Hanlon</title>
+<link/>https://en.wikipedia.org/wiki/Alma_Hanlon
+<annotated>0</annotated>
+<originalabstract>Alma Hanlon  (April 30, 1890 – October 26, 1977) was an American silent film actress. Hanlon's film career was short, lasting only four years. She appeared in twenty-three films. Her first film role was as Dorothy Dare in The Fixer (1915) and her last was in The Profiteer (1919).</originalabstract>
+<abstract>Alma_Hanlon ( April_30_,_1890 – October_26_,_1977 ) was an_American_silent_film_actress . Hanlon 's_film_career was short , lasting only_four_years . She appeared in twenty-three_films . Her_first_film_role was as Dorothy_Dare in The_Fixer ( 1915_) and her_last was in The_Profiteer_(_1919_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alma'), (5, 'Hanlon'), (13, '('), (14, 'April'), (20, '30'), (22, ','), (24, '1890'), (29, '–'), (31, 'October'), (39, '26'), (41, ','), (43, '1977'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'silent'), (72, 'film'), (77, 'actress'), (84, '.'), (86, 'Hanlon'), (92, '\'s'), (95, 'film'), (100, 'career'), (107, 'was'), (111, 'short'), (116, ','), (118, 'lasting'), (126, 'only'), (131, 'four'), (136, 'years'), (141, '.'), (143, 'She'), (147, 'appeared'), (156, 'in'), (159, 'twenty-three'), (172, 'films'), (177, '.'), (179, 'Her'), (183, 'first'), (189, 'film'), (194, 'role'), (199, 'was'), (203, 'as'), (206, 'Dorothy'), (214, 'Dare'), (219, 'in'), (222, 'The'), (226, 'Fixer'), (232, '('), (233, '1915'), (237, ')'), (239, 'and'), (243, 'her'), (247, 'last'), (252, 'was'), (256, 'in'), (259, 'The'), (263, 'Profiteer'), (273, '('), (274, '1919'), (278, ')'), (279, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alma Hanlon',0, 11), ('April 30, 1890',14, 28), ('October 26, 1977',31, 47), ('an American silent film actress',53, 84), ('\'s film career',92, 106), ('only four years',126, 141), ('twenty-three films',159, 177), ('Her first film role',179, 198), ('Dorothy Dare',206, 218), ('The Fixer',222, 231), ('1915)',233, 238), ('her last',243, 251), ('The Profiteer (1919)',259, 279)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'NNP', 'POS', 'NN', 'NN', 'VBD', 'RB', ',', 'VBG', 'RB', 'CD', 'NNS', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', '.', 'PRP$', 'JJ', 'NN', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'PRP$', 'JJ', 'VBD', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alma'), (5, 'Hanlon'), (13, '('), (14, 'April'), (20, '30'), (22, ','), (24, '1890'), (29, '–'), (31, 'October'), (39, '26'), (41, ','), (43, '1977'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'silent'), (72, 'film'), (77, 'actress'), (84, '.'), (86, 'Hanlon'), (92, "'s"), (95, 'film'), (100, 'career'), (107, 'was'), (111, 'short'), (116, ','), (118, 'lasting'), (126, 'only'), (131, 'four'), (136, 'years'), (141, '.'), (143, 'She'), (147, 'appeared'), (156, 'in'), (159, 'twenty'), (165, '-'), (166, 'three'), (172, 'films'), (177, '.'), (179, 'Her'), (183, 'first'), (189, 'film'), (194, 'role'), (199, 'was'), (203, 'as'), (206, 'Dorothy'), (214, 'Dare'), (219, 'in'), (222, 'The'), (226, 'Fixer'), (232, '('), (233, '1915'), (237, ')'), (239, 'and'), (243, 'her'), (247, 'last'), (252, 'was'), (256, 'in'), (259, 'The'), (263, 'Profiteer'), (273, '('), (274, '1919'), (278, ')'), (279, '.')])</spacy_tokens>
+<spacy_chunks>[('Alma Hanlon', 0, 11), ('April 30, 1890', 14, 28), ('October 26, 1977', 31, 47), ('an American silent film actress', 53, 84), ("Hanlon's film career", 86, 106), ('only four years', 126, 141), ('twenty-three films', 159, 177), ('Her first film role', 179, 198), ('Dorothy', 206, 213), ('The Fixer (1915', 222, 237), ('The Profiteer', 259, 272)]</spacy_chunks>
+<spacy_pos>['NN', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'NNP', 'POS', 'NN', 'NN', 'VBD', 'JJ', ',', 'VBG', 'RB', 'CD', 'NNS', '.', 'PRP', 'VBD', 'IN', 'CD', 'HYPH', 'CD', 'NNS', '.', 'PRP$', 'JJ', 'NN', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'PRP$', 'JJ', 'VBD', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

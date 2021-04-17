@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jérôme Kircher</title>
+<link/>https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Kircher
+<annotated>0</annotated>
+<originalabstract>Jérôme Kircher (born 21 November 1964) is a French actor known for A Very Long Engagement (2004), Louise Wimmer (2011) and Café de Flore (2011).</originalabstract>
+<abstract>Jérôme_Kircher ( born 21_November_1964 ) is a_French_actor known for A_Very_Long_Engagement ( 2004 ) , Louise_Wimmer ( 2011 ) and_Café de Flore ( 2011 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jérôme'), (7, 'Kircher'), (15, '('), (16, 'born'), (21, '21'), (24, 'November'), (33, '1964'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actor'), (57, 'known'), (63, 'for'), (67, 'A'), (69, 'Very'), (74, 'Long'), (79, 'Engagement'), (90, '('), (91, '2004'), (95, ')'), (96, ','), (98, 'Louise'), (105, 'Wimmer'), (112, '('), (113, '2011'), (117, ')'), (119, 'and'), (123, 'Café'), (128, 'de'), (131, 'Flore'), (137, '('), (138, '2011'), (142, ')'), (143, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jérôme Kircher',0, 14), ('21 November 1964',21, 37), ('a French actor',42, 56), ('A Very Long Engagement',67, 89), ('Louise Wimmer',98, 111), ('and Café',119, 127)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'DT', 'RB', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jérôme'), (7, 'Kircher'), (15, '('), (16, 'born'), (21, '21'), (24, 'November'), (33, '1964'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actor'), (57, 'known'), (63, 'for'), (67, 'A'), (69, 'Very'), (74, 'Long'), (79, 'Engagement'), (90, '('), (91, '2004'), (95, ')'), (96, ','), (98, 'Louise'), (105, 'Wimmer'), (112, '('), (113, '2011'), (117, ')'), (119, 'and'), (123, 'Café'), (128, 'de'), (131, 'Flore'), (137, '('), (138, '2011'), (142, ')'), (143, '.')])</spacy_tokens>
+<spacy_chunks>[('Jérôme Kircher', 0, 14), ('21 November 1964', 21, 37), ('a French actor', 42, 56), ('A Very Long Engagement', 67, 89), ('Louise Wimmer', 98, 111), ('Café de Flore', 123, 136)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'DT', 'RB', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

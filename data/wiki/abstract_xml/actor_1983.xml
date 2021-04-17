@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Griffin Dunne</title>
+<link/>https://en.wikipedia.org/wiki/Griffin_Dunne
+<annotated>0</annotated>
+<originalabstract>Thomas Griffin Dunne (born June 8, 1955) is an American actor, film producer, and film director. Dunne studied acting at The Neighborhood Playhouse School of the Theatre in New York City.</originalabstract>
+<abstract>Thomas_Griffin_Dunne ( born June_8_,_1955 ) is an_American_actor , film_producer , and film_director . Dunne studied_acting at The_Neighborhood_Playhouse_School of the_Theatre in New_York_City .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Thomas'), (7, 'Griffin'), (15, 'Dunne'), (21, '('), (22, 'born'), (27, 'June'), (32, '8'), (33, ','), (35, '1955'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (61, ','), (63, 'film'), (68, 'producer'), (76, ','), (78, 'and'), (82, 'film'), (87, 'director'), (95, '.'), (97, 'Dunne'), (103, 'studied'), (111, 'acting'), (118, 'at'), (121, 'The'), (125, 'Neighborhood'), (138, 'Playhouse'), (148, 'School'), (155, 'of'), (158, 'the'), (162, 'Theatre'), (170, 'in'), (173, 'New'), (177, 'York'), (182, 'City'), (186, '.')])</stanford_tokens>
+<opennlp_chunks>[('Thomas Griffin Dunne',0, 20), ('June 8, 1955',27, 39), ('an American actor',44, 61), ('film producer',63, 76), ('film director',82, 95), ('studied acting',103, 117), ('The Neighborhood Playhouse School',121, 154), ('the Theatre',158, 169), ('New York City',173, 186)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBG', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Thomas'), (7, 'Griffin'), (15, 'Dunne'), (21, '('), (22, 'born'), (27, 'June'), (32, '8'), (33, ','), (35, '1955'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (61, ','), (63, 'film'), (68, 'producer'), (76, ','), (78, 'and'), (82, 'film'), (87, 'director'), (95, '.'), (97, 'Dunne'), (103, 'studied'), (111, 'acting'), (118, 'at'), (121, 'The'), (125, 'Neighborhood'), (138, 'Playhouse'), (148, 'School'), (155, 'of'), (158, 'the'), (162, 'Theatre'), (170, 'in'), (173, 'New'), (177, 'York'), (182, 'City'), (186, '.')])</spacy_tokens>
+<spacy_chunks>[('Thomas Griffin Dunne', 0, 20), ('June 8, 1955', 27, 39), ('an American actor', 44, 61), ('film producer', 63, 76), ('film director', 82, 95), ('The Neighborhood Playhouse School', 121, 154), ('Neighborhood Playhouse School of the Theatre', 125, 169), ('New York City', 173, 186)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBG', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ben Cooper</title>
+<link/>https://en.wikipedia.org/wiki/Ben_Cooper
+<annotated>0</annotated>
+<originalabstract>Ben Cooper (born September 30, 1933) is a retired American actor of film and television, who won a Golden Boot Award in 2005 for his work in Westerns.</originalabstract>
+<abstract>Ben_Cooper ( born September_30_,_1933 ) is a_retired_American_actor of film_and_television , who won a_Golden_Boot_Award in 2005 for his_work in Westerns .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ben'), (4, 'Cooper'), (11, '('), (12, 'born'), (17, 'September'), (27, '30'), (29, ','), (31, '1933'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'retired'), (50, 'American'), (59, 'actor'), (65, 'of'), (68, 'film'), (73, 'and'), (77, 'television'), (87, ','), (89, 'who'), (93, 'won'), (97, 'a'), (99, 'Golden'), (106, 'Boot'), (111, 'Award'), (117, 'in'), (120, '2005'), (125, 'for'), (129, 'his'), (133, 'work'), (138, 'in'), (141, 'Westerns'), (149, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ben Cooper',0, 10), ('September 30, 1933',17, 35), ('a retired American actor',40, 64), ('film and television',68, 87), ('a Golden Boot Award',97, 116), ('his work',129, 137)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', ',', 'WP', 'VBD', 'DT', 'NNP', 'NNP', 'NN', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ben'), (4, 'Cooper'), (11, '('), (12, 'born'), (17, 'September'), (27, '30'), (29, ','), (31, '1933'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'retired'), (50, 'American'), (59, 'actor'), (65, 'of'), (68, 'film'), (73, 'and'), (77, 'television'), (87, ','), (89, 'who'), (93, 'won'), (97, 'a'), (99, 'Golden'), (106, 'Boot'), (111, 'Award'), (117, 'in'), (120, '2005'), (125, 'for'), (129, 'his'), (133, 'work'), (138, 'in'), (141, 'Westerns'), (149, '.')])</spacy_tokens>
+<spacy_chunks>[('Ben Cooper', 0, 10), ('September 30, 1933', 17, 35), ('a retired American actor', 40, 64), ('television', 77, 87), ('a Golden Boot Award', 97, 116), ('his work', 129, 137), ('Westerns', 141, 149)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'VBN', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', ',', 'WP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

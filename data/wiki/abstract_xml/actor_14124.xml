@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barboura Morris</title>
+<link/>https://en.wikipedia.org/wiki/Barboura_Morris
+<annotated>0</annotated>
+<originalabstract>Barboura Morris (October 22, 1932 - October 23, 1975) was an American actress known as "the girl with the lovely smile."</originalabstract>
+<abstract>Barboura_Morris ( October_22_,_1932 - October_23_,_1975 ) was an_American_actress known as " the_girl with the_lovely_smile . "</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barboura'), (9, 'Morris'), (16, '('), (17, 'October'), (25, '22'), (27, ','), (29, '1932'), (34, '-'), (36, 'October'), (44, '23'), (46, ','), (48, '1975'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'actress'), (78, 'known'), (84, 'as'), (87, '"'), (88, 'the'), (92, 'girl'), (97, 'with'), (102, 'the'), (106, 'lovely'), (113, 'smile'), (118, '.'), (119, '"')])</stanford_tokens>
+<opennlp_chunks>[('Barboura Morris',0, 15), ('October 22, 1932',17, 33), ('October 23, 1975',36, 52), ('an American actress',58, 77), ('the girl',88, 96), ('the lovely smile',102, 118)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', '``', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', '\'\'']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barboura'), (9, 'Morris'), (16, '('), (17, 'October'), (25, '22'), (27, ','), (29, '1932'), (34, '-'), (36, 'October'), (44, '23'), (46, ','), (48, '1975'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'actress'), (78, 'known'), (84, 'as'), (87, '"'), (88, 'the'), (92, 'girl'), (97, 'with'), (102, 'the'), (106, 'lovely'), (113, 'smile'), (118, '.'), (119, '"')])</spacy_tokens>
+<spacy_chunks>[('Barboura Morris', 0, 15), ('October 22, 1932', 17, 33), ('October 23, 1975', 36, 52), ('an American actress', 58, 77), ('"the girl', 87, 96), ('the lovely smile', 102, 118)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', '``', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', "''"]</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

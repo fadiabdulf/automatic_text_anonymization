@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Walter Brooke</title>
+<link/>https://en.wikipedia.org/wiki/Walter_Brooke
+<annotated>0</annotated>
+<originalabstract>Walter Brooke (born Gustav William Tweer Jr.; October 23, 1914 – August 20, 1986) was an American actor. Brooke is best known for playing Mr. McGuire in the 1967 hit film The Graduate, where his character famously said "Plastics".</originalabstract>
+<abstract>Walter_Brooke ( born Gustav_William_Tweer_Jr. ; October_23_,_1914 – August_20_,_1986 ) was an_American_actor . Brooke is_best_known for playing Mr._McGuire in the_1967_hit_film The_Graduate , where his_character famously said " Plastics " .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Walter'), (7, 'Brooke'), (14, '('), (15, 'born'), (20, 'Gustav'), (27, 'William'), (35, 'Tweer'), (41, 'Jr.'), (44, ';'), (46, 'October'), (54, '23'), (56, ','), (58, '1914'), (63, '–'), (65, 'August'), (72, '20'), (74, ','), (76, '1986'), (80, ')'), (82, 'was'), (86, 'an'), (89, 'American'), (98, 'actor'), (103, '.'), (105, 'Brooke'), (112, 'is'), (115, 'best'), (120, 'known'), (126, 'for'), (130, 'playing'), (138, 'Mr.'), (142, 'McGuire'), (150, 'in'), (153, 'the'), (157, '1967'), (162, 'hit'), (166, 'film'), (171, 'The'), (175, 'Graduate'), (183, ','), (185, 'where'), (191, 'his'), (195, 'character'), (205, 'famously'), (214, 'said'), (219, '"'), (220, 'Plastics'), (228, '"'), (229, '.')])</stanford_tokens>
+<opennlp_chunks>[('Walter Brooke',0, 13), ('Gustav William Tweer Jr.',20, 44), ('October 23, 1914',46, 62), ('August 20, 1986',65, 80), ('an American actor',86, 103), ('is best known',112, 125), ('Mr. McGuire',138, 149), ('the 1967 hit film',153, 170), ('The Graduate',171, 183), ('his character',191, 204)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'NN', ',', 'WRB', 'PRP$', 'NN', 'RB', 'VBD', '``', 'NNS', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Walter'), (7, 'Brooke'), (14, '('), (15, 'born'), (20, 'Gustav'), (27, 'William'), (35, 'Tweer'), (41, 'Jr.'), (44, ';'), (46, 'October'), (54, '23'), (56, ','), (58, '1914'), (63, '–'), (65, 'August'), (72, '20'), (74, ','), (76, '1986'), (80, ')'), (82, 'was'), (86, 'an'), (89, 'American'), (98, 'actor'), (103, '.'), (105, 'Brooke'), (112, 'is'), (115, 'best'), (120, 'known'), (126, 'for'), (130, 'playing'), (138, 'Mr.'), (142, 'McGuire'), (150, 'in'), (153, 'the'), (157, '1967'), (162, 'hit'), (166, 'film'), (171, 'The'), (175, 'Graduate'), (183, ','), (185, 'where'), (191, 'his'), (195, 'character'), (205, 'famously'), (214, 'said'), (219, '"'), (220, 'Plastics'), (228, '"'), (229, '.')])</spacy_tokens>
+<spacy_chunks>[('Walter Brooke', 0, 13), ('Gustav William Tweer Jr.', 20, 44), ('October 23, 1914', 46, 62), ('August 20, 1986', 65, 80), ('an American actor', 86, 103), ('Mr. McGuire', 138, 149), ('the 1967 hit film', 153, 170), ('The Graduate', 171, 183), ('his character', 191, 204), ('"Plastics', 219, 228)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'NNP', ',', 'WRB', 'PRP$', 'NN', 'RB', 'VBD', '``', 'NNS', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

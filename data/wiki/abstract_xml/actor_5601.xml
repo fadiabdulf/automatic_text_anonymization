@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Donald Richards</title>
+<link/>https://en.wikipedia.org/wiki/Donald_Richards
+<annotated>0</annotated>
+<originalabstract>Donald Richards (March 24, 1919 - September 26, 1953) was an American singer and actor. He is best known in his short career for having created the role of Woody Mahoney in Finian's Rainbow.
+Richards was born in New York City and died in a road accident in Ridgewood, New Jersey.</originalabstract>
+<abstract>Donald_Richards ( March_24_,_1919 - September_26_,_1953 ) was an_American_singer_and_actor . He is_best_known in his_short_career for having_created the_role of Woody_Mahoney in Finian 's_Rainbow . Richards was_born in New_York_City and died in a_road_accident in Ridgewood , New_Jersey .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Donald'), (7, 'Richards'), (16, '('), (17, 'March'), (23, '24'), (25, ','), (27, '1919'), (32, '-'), (34, 'September'), (44, '26'), (46, ','), (48, '1953'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'singer'), (77, 'and'), (81, 'actor'), (86, '.'), (88, 'He'), (91, 'is'), (94, 'best'), (99, 'known'), (105, 'in'), (108, 'his'), (112, 'short'), (118, 'career'), (125, 'for'), (129, 'having'), (136, 'created'), (144, 'the'), (148, 'role'), (153, 'of'), (156, 'Woody'), (162, 'Mahoney'), (170, 'in'), (173, 'Finian'), (179, '\'s'), (182, 'Rainbow'), (189, '.'), (191, 'Richards'), (200, 'was'), (204, 'born'), (209, 'in'), (212, 'New'), (216, 'York'), (221, 'City'), (226, 'and'), (230, 'died'), (235, 'in'), (238, 'a'), (240, 'road'), (245, 'accident'), (254, 'in'), (257, 'Ridgewood'), (266, ','), (268, 'New'), (272, 'Jersey'), (278, '.')])</stanford_tokens>
+<opennlp_chunks>[('Donald Richards',0, 15), ('March 24, 1919',17, 31), ('September 26, 1953',34, 52), ('an American singer and actor',58, 86), ('is best known',91, 104), ('his short career',108, 124), ('having created',129, 143), ('the role',144, 152), ('Woody Mahoney',156, 169), ('\'s Rainbow',179, 189), ('was born',200, 208), ('New York City',212, 225), ('a road accident',238, 253), ('New Jersey',268, 278)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'VBG', 'VBN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Donald'), (7, 'Richards'), (16, '('), (17, 'March'), (23, '24'), (25, ','), (27, '1919'), (32, '-'), (34, 'September'), (44, '26'), (46, ','), (48, '1953'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'singer'), (77, 'and'), (81, 'actor'), (86, '.'), (88, 'He'), (91, 'is'), (94, 'best'), (99, 'known'), (105, 'in'), (108, 'his'), (112, 'short'), (118, 'career'), (125, 'for'), (129, 'having'), (136, 'created'), (144, 'the'), (148, 'role'), (153, 'of'), (156, 'Woody'), (162, 'Mahoney'), (170, 'in'), (173, 'Finian'), (179, "'s"), (182, 'Rainbow'), (189, '.'), (191, 'Richards'), (200, 'was'), (204, 'born'), (209, 'in'), (212, 'New'), (216, 'York'), (221, 'City'), (226, 'and'), (230, 'died'), (235, 'in'), (238, 'a'), (240, 'road'), (245, 'accident'), (254, 'in'), (257, 'Ridgewood'), (266, ','), (268, 'New'), (272, 'Jersey'), (278, '.')])</spacy_tokens>
+<spacy_chunks>[('Donald Richards', 0, 15), ('(March', 16, 22), ('March 24, 1919', 17, 31), ('- September', 32, 43), ('September 26, 1953', 34, 52), ('an American singer', 58, 76), ('his short career', 108, 124), ('the role', 144, 152), ('Woody Mahoney', 156, 169), ("Finian's Rainbow", 173, 189), ('New York City', 212, 225), ('a road accident', 238, 253), ('Ridgewood, New Jersey', 257, 278)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'VBG', 'VBN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

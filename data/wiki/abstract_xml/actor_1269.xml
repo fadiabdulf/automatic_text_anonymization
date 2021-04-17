@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Julian Claman</title>
+<link/>https://en.wikipedia.org/wiki/Julian_Claman
+<annotated>0</annotated>
+<originalabstract>Julian Claman (1918 – April 24, 1969) was an American actor, war correspondent, press agent, stage manager, TV writer/producer, playwright, and novelist. He is well known for producing the TV series Have Gun – Will Travel (1957).</originalabstract>
+<abstract>Julian_Claman ( 1918 – April_24 , 1969 ) was an_American_actor , war_correspondent , press_agent , stage_manager , TV_writer/producer , playwright , and novelist . He is_well_known for producing the_TV_series Have Gun – Will_Travel_(_1957_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Julian'), (7, 'Claman'), (14, '('), (15, '1918'), (20, '–'), (22, 'April'), (28, '24'), (30, ','), (32, '1969'), (36, ')'), (38, 'was'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, ','), (61, 'war'), (65, 'correspondent'), (78, ','), (80, 'press'), (86, 'agent'), (91, ','), (93, 'stage'), (99, 'manager'), (106, ','), (108, 'TV'), (111, 'writer/producer'), (126, ','), (128, 'playwright'), (138, ','), (140, 'and'), (144, 'novelist'), (152, '.'), (154, 'He'), (157, 'is'), (160, 'well'), (165, 'known'), (171, 'for'), (175, 'producing'), (185, 'the'), (189, 'TV'), (192, 'series'), (199, 'Have'), (204, 'Gun'), (208, '–'), (210, 'Will'), (215, 'Travel'), (222, '('), (223, '1957'), (227, ')'), (228, '.')])</stanford_tokens>
+<opennlp_chunks>[('Julian Claman',0, 13), ('April 24',22, 30), ('an American actor',42, 59), ('war correspondent',61, 78), ('press agent',80, 91), ('stage manager',93, 106), ('TV writer/producer',108, 126), ('is well known',157, 170), ('the TV series',185, 198), ('Will Travel (1957)',210, 228)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', 'NN', ',', 'NN', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NN', 'VBP', 'NN', ':', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Julian'), (7, 'Claman'), (14, '('), (15, '1918'), (20, '–'), (22, 'April'), (28, '24'), (30, ','), (32, '1969'), (36, ')'), (38, 'was'), (42, 'an'), (45, 'American'), (54, 'actor'), (59, ','), (61, 'war'), (65, 'correspondent'), (78, ','), (80, 'press'), (86, 'agent'), (91, ','), (93, 'stage'), (99, 'manager'), (106, ','), (108, 'TV'), (111, 'writer'), (117, '/'), (118, 'producer'), (126, ','), (128, 'playwright'), (138, ','), (140, 'and'), (144, 'novelist'), (152, '.'), (154, 'He'), (157, 'is'), (160, 'well'), (165, 'known'), (171, 'for'), (175, 'producing'), (185, 'the'), (189, 'TV'), (192, 'series'), (199, 'Have'), (204, 'Gun'), (208, '–'), (210, 'Will'), (215, 'Travel'), (222, '('), (223, '1957'), (227, ')'), (228, '.')])</spacy_tokens>
+<spacy_chunks>[('Julian Claman', 0, 13), ('1918 – April', 15, 27), ('April 24, 1969', 22, 36), ('an American actor', 42, 59), ('war correspondent', 61, 78), ('Press agent', 80, 91), ('Stage manager', 93, 106), ('TV writer/producer', 108, 126), ('playwright', 128, 138), ('novelist', 144, 152), ('the TV series', 185, 198), ('Have Gun – Will Travel', 199, 221)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', 'NN', ',', 'NN', 'NN', ',', 'NN', 'NN', 'SYM', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.', 'MD', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

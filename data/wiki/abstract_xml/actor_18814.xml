@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chloé Mons</title>
+<link/>https://en.wikipedia.org/wiki/Chlo%C3%A9_Mons
+<annotated>0</annotated>
+<originalabstract>Chloé Mons, born in Lille in December 1972, is a  French actress and singer.</originalabstract>
+<abstract>Chloé_Mons , born in Lille in December_1972 , is a_French_actress_and_singer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Chloé'), (6, 'Mons'), (10, ','), (12, 'born'), (17, 'in'), (20, 'Lille'), (26, 'in'), (29, 'December'), (38, '1972'), (42, ','), (44, 'is'), (47, 'a'), (50, 'French'), (57, 'actress'), (65, 'and'), (69, 'singer'), (75, '.')])</stanford_tokens>
+<opennlp_chunks>[('Chloé Mons',0, 10), ('December 1972',29, 42), ('a  French actress and singer',47, 75)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'IN', 'NNP', 'IN', 'NNP', 'CD', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Chloé'), (6, 'Mons'), (10, ','), (12, 'born'), (17, 'in'), (20, 'Lille'), (26, 'in'), (29, 'December'), (38, '1972'), (42, ','), (44, 'is'), (47, 'a'), (50, 'French'), (57, 'actress'), (65, 'and'), (69, 'singer'), (75, '.')])</spacy_tokens>
+<spacy_chunks>[('Chloé Mons', 0, 10), ('December', 29, 37), ('a  French actress', 47, 64), ('singer', 69, 75)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNPS', ',', 'VBN', 'IN', 'NNP', 'IN', 'NNP', 'CD', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

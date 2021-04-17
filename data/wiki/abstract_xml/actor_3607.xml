@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lew Kelly</title>
+<link/>https://en.wikipedia.org/wiki/Lew_Kelly
+<annotated>0</annotated>
+<originalabstract>Lew Kelly (August 24, 1879 – June 10, 1944) was an American film actor. He appeared in more than 200 films between 1928 and 1944. He was born in St. Louis, Missouri, and died in Los Angeles, California.</originalabstract>
+<abstract>Lew_Kelly ( August_24 , 1879 – June_10_,_1944 ) was an_American_film_actor . He appeared in more_than_200_films between 1928_and_1944 . He was_born in St._Louis , Missouri , and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lew'), (4, 'Kelly'), (10, '('), (11, 'August'), (18, '24'), (20, ','), (22, '1879'), (27, '–'), (29, 'June'), (34, '10'), (36, ','), (38, '1944'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'film'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'appeared'), (84, 'in'), (87, 'more'), (92, 'than'), (97, '200'), (101, 'films'), (107, 'between'), (115, '1928'), (120, 'and'), (124, '1944'), (128, '.'), (130, 'He'), (133, 'was'), (137, 'born'), (142, 'in'), (145, 'St.'), (149, 'Louis'), (154, ','), (156, 'Missouri'), (164, ','), (166, 'and'), (170, 'died'), (175, 'in'), (178, 'Los'), (182, 'Angeles'), (189, ','), (191, 'California'), (201, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lew Kelly',0, 9), ('August 24',11, 20), ('June 10, 1944',29, 42), ('an American film actor',48, 70), ('more than 200 films',87, 106), ('1928 and 1944',115, 128), ('was born',133, 141), ('St. Louis',145, 154), ('Los Angeles',178, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNS', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lew'), (4, 'Kelly'), (10, '('), (11, 'August'), (18, '24'), (20, ','), (22, '1879'), (27, '–'), (29, 'June'), (34, '10'), (36, ','), (38, '1944'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'film'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'appeared'), (84, 'in'), (87, 'more'), (92, 'than'), (97, '200'), (101, 'films'), (107, 'between'), (115, '1928'), (120, 'and'), (124, '1944'), (128, '.'), (130, 'He'), (133, 'was'), (137, 'born'), (142, 'in'), (145, 'St.'), (149, 'Louis'), (154, ','), (156, 'Missouri'), (164, ','), (166, 'and'), (170, 'died'), (175, 'in'), (178, 'Los'), (182, 'Angeles'), (189, ','), (191, 'California'), (201, '.')])</spacy_tokens>
+<spacy_chunks>[('Lew Kelly', 0, 9), ('August 24, 1879', 11, 26), ('June 10, 1944', 29, 42), ('an American film actor', 48, 70), ('more than 200 films', 87, 106), ('St. Louis, Missouri', 145, 164), ('Los Angeles', 178, 189), ('California', 191, 201)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

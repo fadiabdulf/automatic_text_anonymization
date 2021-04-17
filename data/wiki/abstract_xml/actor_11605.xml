@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Patti Davis</title>
+<link/>https://en.wikipedia.org/wiki/Patti_Davis
+<annotated>0</annotated>
+<originalabstract>Patti Davis (born Patricia Ann Reagan; October 21, 1952) is an American actress and author. She is the daughter of U.S. President Ronald Wilson Reagan (1911–2004) and his second wife, First Lady Nancy Davis Reagan (1921–2016).</originalabstract>
+<abstract>Patti_Davis ( born Patricia_Ann_Reagan ; October_21_,_1952 ) is an_American_actress_and_author . She is the_daughter of U.S._President_Ronald_Wilson_Reagan_(_1911 – 2004_) and his_second_wife , First_Lady_Nancy_Davis_Reagan_(_1921 – 2016_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Patti'), (6, 'Davis'), (12, '('), (13, 'born'), (18, 'Patricia'), (27, 'Ann'), (31, 'Reagan'), (37, ';'), (39, 'October'), (47, '21'), (49, ','), (51, '1952'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'actress'), (80, 'and'), (84, 'author'), (90, '.'), (92, 'She'), (96, 'is'), (99, 'the'), (103, 'daughter'), (112, 'of'), (115, 'U.S.'), (120, 'President'), (130, 'Ronald'), (137, 'Wilson'), (144, 'Reagan'), (151, '('), (152, '1911'), (156, '–'), (157, '2004'), (161, ')'), (163, 'and'), (167, 'his'), (171, 'second'), (178, 'wife'), (182, ','), (184, 'First'), (190, 'Lady'), (195, 'Nancy'), (201, 'Davis'), (207, 'Reagan'), (214, '('), (215, '1921'), (219, '–'), (220, '2016'), (224, ')'), (225, '.')])</stanford_tokens>
+<opennlp_chunks>[('Patti Davis',0, 11), ('Patricia Ann Reagan',18, 37), ('October 21, 1952',39, 55), ('an American actress and author',60, 90), ('the daughter',99, 111), ('U.S. President Ronald Wilson Reagan (1911',115, 156), ('2004)',157, 162), ('his second wife',167, 182), ('First Lady Nancy Davis Reagan (1921',184, 219), ('2016)',220, 225)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'PRP$', 'JJ', 'NN', ',', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Patti'), (6, 'Davis'), (12, '('), (13, 'born'), (18, 'Patricia'), (27, 'Ann'), (31, 'Reagan'), (37, ';'), (39, 'October'), (47, '21'), (49, ','), (51, '1952'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'actress'), (80, 'and'), (84, 'author'), (90, '.'), (92, 'She'), (96, 'is'), (99, 'the'), (103, 'daughter'), (112, 'of'), (115, 'U.S.'), (120, 'President'), (130, 'Ronald'), (137, 'Wilson'), (144, 'Reagan'), (151, '('), (152, '1911–2004'), (161, ')'), (163, 'and'), (167, 'his'), (171, 'second'), (178, 'wife'), (182, ','), (184, 'First'), (190, 'Lady'), (195, 'Nancy'), (201, 'Davis'), (207, 'Reagan'), (214, '('), (215, '1921–2016'), (224, ')'), (225, '.')])</spacy_tokens>
+<spacy_chunks>[('Patti Davis', 0, 11), ('(born Patricia Ann Reagan', 12, 37), ('October 21, 1952', 39, 55), ('an American actress', 60, 79), ('author', 84, 90), ('the daughter', 99, 111), ('U.S. President Ronald Wilson Reagan', 115, 150), ('his second wife', 167, 182), ('First Lady Nancy Davis Reagan', 184, 213)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'PRP$', 'JJ', 'NN', ',', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

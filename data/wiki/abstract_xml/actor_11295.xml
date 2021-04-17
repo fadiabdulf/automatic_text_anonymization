@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sharon Clark</title>
+<link/>https://en.wikipedia.org/wiki/Sharon_Clark
+<annotated>0</annotated>
+<originalabstract>Sharon Clark (born October 15, 1943, in Seminole, Oklahoma) is an American model and actress. She is Playboys Playmate of the Month for August 1970. Her centerfold was photographed by William Figge and Ed DeLong.</originalabstract>
+<abstract>Sharon_Clark ( born October_15_,_1943 , in Seminole , Oklahoma ) is an_American_model_and_actress . She is Playboys_Playmate of the_Month for August_1970 . Her_centerfold was_photographed by William_Figge and Ed_DeLong .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sharon'), (7, 'Clark'), (13, '('), (14, 'born'), (19, 'October'), (27, '15'), (29, ','), (31, '1943'), (35, ','), (37, 'in'), (40, 'Seminole'), (48, ','), (50, 'Oklahoma'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'American'), (75, 'model'), (81, 'and'), (85, 'actress'), (92, '.'), (94, 'She'), (98, 'is'), (101, 'Playboys'), (110, 'Playmate'), (119, 'of'), (122, 'the'), (126, 'Month'), (132, 'for'), (136, 'August'), (143, '1970'), (147, '.'), (149, 'Her'), (153, 'centerfold'), (164, 'was'), (168, 'photographed'), (181, 'by'), (184, 'William'), (192, 'Figge'), (198, 'and'), (202, 'Ed'), (205, 'DeLong'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sharon Clark',0, 12), ('October 15, 1943',19, 35), ('an American model and actress',63, 92), ('Playboys Playmate',101, 118), ('the Month',122, 131), ('August 1970',136, 147), ('Her centerfold',149, 163), ('was photographed',164, 180), ('William Figge',184, 197), ('Ed DeLong',202, 211)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'NNPS', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'CD', '.', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sharon'), (7, 'Clark'), (13, '('), (14, 'born'), (19, 'October'), (27, '15'), (29, ','), (31, '1943'), (35, ','), (37, 'in'), (40, 'Seminole'), (48, ','), (50, 'Oklahoma'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'American'), (75, 'model'), (81, 'and'), (85, 'actress'), (92, '.'), (94, 'She'), (98, 'is'), (101, 'Playboys'), (110, 'Playmate'), (119, 'of'), (122, 'the'), (126, 'Month'), (132, 'for'), (136, 'August'), (143, '1970'), (147, '.'), (149, 'Her'), (153, 'centerfold'), (164, 'was'), (168, 'photographed'), (181, 'by'), (184, 'William'), (192, 'Figge'), (198, 'and'), (202, 'Ed'), (205, 'DeLong'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[('Sharon Clark', 0, 12), ('October 15, 1943', 19, 35), ('Seminole, Oklahoma', 40, 58), ('an American model', 63, 80), ('actress', 85, 92), ('Playboys Playmate', 101, 118), ('Playmate of the', 110, 125), ('the Month', 122, 131), ('August', 136, 142), ('Her centerfold', 149, 163), ('William Figge', 184, 197), ('Ed DeLong', 202, 211)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'NNPS', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'CD', '.', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frances Drake</title>
+<link/>https://en.wikipedia.org/wiki/Frances_Drake
+<annotated>0</annotated>
+<originalabstract>Frances Drake (born Frances Morgan Dean, October 22, 1912 – January 18, 2000) was an American actress, best known for playing Eponine in Les Misérables (1935).</originalabstract>
+<abstract>Frances_Drake ( born Frances_Morgan_Dean , October_22_,_1912 – January_18_,_2000 ) was an_American_actress , best_known for playing Eponine in Les_Misérables ( 1935 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frances'), (8, 'Drake'), (14, '('), (15, 'born'), (20, 'Frances'), (28, 'Morgan'), (35, 'Dean'), (39, ','), (41, 'October'), (49, '22'), (51, ','), (53, '1912'), (58, '–'), (60, 'January'), (68, '18'), (70, ','), (72, '2000'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'American'), (94, 'actress'), (101, ','), (103, 'best'), (108, 'known'), (114, 'for'), (118, 'playing'), (126, 'Eponine'), (134, 'in'), (137, 'Les'), (141, 'Misérables'), (152, '('), (153, '1935'), (157, ')'), (158, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frances Drake',0, 13), ('Frances Morgan Dean',20, 39), ('October 22, 1912',41, 57), ('January 18, 2000',60, 76), ('an American actress',82, 101), ('best known',103, 113), ('Les Misérables',137, 151)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frances'), (8, 'Drake'), (14, '('), (15, 'born'), (20, 'Frances'), (28, 'Morgan'), (35, 'Dean'), (39, ','), (41, 'October'), (49, '22'), (51, ','), (53, '1912'), (58, '–'), (60, 'January'), (68, '18'), (70, ','), (72, '2000'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'American'), (94, 'actress'), (101, ','), (103, 'best'), (108, 'known'), (114, 'for'), (118, 'playing'), (126, 'Eponine'), (134, 'in'), (137, 'Les'), (141, 'Misérables'), (152, '('), (153, '1935'), (157, ')'), (158, '.')])</spacy_tokens>
+<spacy_chunks>[('Frances Drake', 0, 13), ('born Frances Morgan Dean', 15, 39), ('October 22, 1912', 41, 57), ('January 18, 2000', 60, 76), ('an American actress', 82, 101), ('Eponine', 126, 133), ('Les Misérables (1935', 137, 157)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

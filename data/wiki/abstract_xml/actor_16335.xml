@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phyllis Barry</title>
+<link/>https://en.wikipedia.org/wiki/Phyllis_Barry
+<annotated>0</annotated>
+<originalabstract>Phyllis Barry (born Gertrude Phyllis Hillyard, 7 December 1908 – 1 July 1954) was an English film actress. Born in Leeds, West Riding of Yorkshire, England, to Seth Henry and Bertha (née Giles) Hillyard, Barry appeared in over 40 films between 1925  and 1947.</originalabstract>
+<abstract>Phyllis_Barry ( born Gertrude_Phyllis_Hillyard , 7_December_1908 – 1_July_1954 ) was an_English_film_actress . Born in Leeds , West_Riding of Yorkshire , England , to Seth_Henry and Bertha_(_née_Giles_)_Hillyard , Barry appeared in over_40_films between 1925_and_1947 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phyllis'), (8, 'Barry'), (14, '('), (15, 'born'), (20, 'Gertrude'), (29, 'Phyllis'), (37, 'Hillyard'), (45, ','), (47, '7'), (49, 'December'), (58, '1908'), (63, '–'), (65, '1'), (67, 'July'), (72, '1954'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'English'), (93, 'film'), (98, 'actress'), (105, '.'), (107, 'Born'), (112, 'in'), (115, 'Leeds'), (120, ','), (122, 'West'), (127, 'Riding'), (134, 'of'), (137, 'Yorkshire'), (146, ','), (148, 'England'), (155, ','), (157, 'to'), (160, 'Seth'), (165, 'Henry'), (171, 'and'), (175, 'Bertha'), (182, '('), (183, 'née'), (187, 'Giles'), (192, ')'), (194, 'Hillyard'), (202, ','), (204, 'Barry'), (210, 'appeared'), (219, 'in'), (222, 'over'), (227, '40'), (230, 'films'), (236, 'between'), (244, '1925'), (250, 'and'), (254, '1947'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phyllis Barry',0, 13), ('Gertrude Phyllis Hillyard',20, 45), ('7 December 1908',47, 62), ('1 July 1954',65, 76), ('an English film actress',82, 105), ('West Riding',122, 133), ('Seth Henry',160, 170), ('Bertha (née Giles) Hillyard',175, 202), ('over 40 films',222, 235), ('1925  and 1947',244, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', ',', 'TO', 'NNP', 'NNP', 'CC', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', 'NNP', ',', 'NNP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phyllis'), (8, 'Barry'), (14, '('), (15, 'born'), (20, 'Gertrude'), (29, 'Phyllis'), (37, 'Hillyard'), (45, ','), (47, '7'), (49, 'December'), (58, '1908'), (63, '–'), (65, '1'), (67, 'July'), (72, '1954'), (76, ')'), (78, 'was'), (82, 'an'), (85, 'English'), (93, 'film'), (98, 'actress'), (105, '.'), (107, 'Born'), (112, 'in'), (115, 'Leeds'), (120, ','), (122, 'West'), (127, 'Riding'), (134, 'of'), (137, 'Yorkshire'), (146, ','), (148, 'England'), (155, ','), (157, 'to'), (160, 'Seth'), (165, 'Henry'), (171, 'and'), (175, 'Bertha'), (182, '('), (183, 'née'), (187, 'Giles'), (192, ')'), (194, 'Hillyard'), (202, ','), (204, 'Barry'), (210, 'appeared'), (219, 'in'), (222, 'over'), (227, '40'), (230, 'films'), (236, 'between'), (244, '1925'), (250, 'and'), (254, '1947'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Phyllis Barry', 0, 13), ('born Gertrude Phyllis Hillyard', 15, 45), ('7 December 1908', 47, 62), ('1 July 1954', 65, 76), ('an English film actress', 82, 105), ('West Riding of Yorkshire', 122, 146), ('England', 148, 155), ('Seth Henry', 160, 170), ('Bertha', 175, 181), ('over 40 films', 222, 235)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', ',', 'IN', 'NNP', 'NNP', 'CC', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', 'NNP', ',', 'NNP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

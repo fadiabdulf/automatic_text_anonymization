@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gladys Fairbanks</title>
+<link/>https://en.wikipedia.org/wiki/Gladys_Fairbanks
+<annotated>0</annotated>
+<originalabstract>Gladys Fairbanks (April 15, 1892 in California and died November 2, 1958 in Alameda, California).  She was an American silent film actress of the 1910s. She was best known for roles in films such as The Poor Little Rich Girl (1917), The Road Between (1917) and Shore Acres (1914).</originalabstract>
+<abstract>Gladys_Fairbanks ( April_15_,_1892 in California and died November_2_,_1958 in Alameda , California ) . She was an_American_silent_film_actress of the_1910s . She was_best_known for roles in films such_as The_Poor_Little_Rich_Girl_(_1917_) , The_Road Between (_1917_) and Shore_Acres_(_1914_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gladys'), (7, 'Fairbanks'), (17, '('), (18, 'April'), (24, '15'), (26, ','), (28, '1892'), (33, 'in'), (36, 'California'), (47, 'and'), (51, 'died'), (56, 'November'), (65, '2'), (66, ','), (68, '1958'), (73, 'in'), (76, 'Alameda'), (83, ','), (85, 'California'), (95, ')'), (96, '.'), (99, 'She'), (103, 'was'), (107, 'an'), (110, 'American'), (119, 'silent'), (126, 'film'), (131, 'actress'), (139, 'of'), (142, 'the'), (146, '1910s'), (151, '.'), (153, 'She'), (157, 'was'), (161, 'best'), (166, 'known'), (172, 'for'), (176, 'roles'), (182, 'in'), (185, 'films'), (191, 'such'), (196, 'as'), (199, 'The'), (203, 'Poor'), (208, 'Little'), (215, 'Rich'), (220, 'Girl'), (225, '('), (226, '1917'), (230, ')'), (231, ','), (233, 'The'), (237, 'Road'), (242, 'Between'), (250, '('), (251, '1917'), (255, ')'), (257, 'and'), (261, 'Shore'), (267, 'Acres'), (273, '('), (274, '1914'), (278, ')'), (279, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gladys Fairbanks',0, 16), ('April 15, 1892',18, 32), ('November 2, 1958',56, 72), ('an American silent film actress',107, 138), ('the 1910s',142, 151), ('was best known',157, 171), ('such as',191, 198), ('The Poor Little Rich Girl (1917)',199, 231), ('The Road',233, 241), ('(1917)',250, 256), ('Shore Acres (1914)',261, 279)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'CC', 'VBD', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', '.', 'PRP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNP', 'IN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gladys'), (7, 'Fairbanks'), (17, '('), (18, 'April'), (24, '15'), (26, ','), (28, '1892'), (33, 'in'), (36, 'California'), (47, 'and'), (51, 'died'), (56, 'November'), (65, '2'), (66, ','), (68, '1958'), (73, 'in'), (76, 'Alameda'), (83, ','), (85, 'California'), (95, ')'), (96, '.'), (99, 'She'), (103, 'was'), (107, 'an'), (110, 'American'), (119, 'silent'), (126, 'film'), (131, 'actress'), (139, 'of'), (142, 'the'), (146, '1910s'), (151, '.'), (153, 'She'), (157, 'was'), (161, 'best'), (166, 'known'), (172, 'for'), (176, 'roles'), (182, 'in'), (185, 'films'), (191, 'such'), (196, 'as'), (199, 'The'), (203, 'Poor'), (208, 'Little'), (215, 'Rich'), (220, 'Girl'), (225, '('), (226, '1917'), (230, ')'), (231, ','), (233, 'The'), (237, 'Road'), (242, 'Between'), (250, '('), (251, '1917'), (255, ')'), (257, 'and'), (261, 'Shore'), (267, 'Acres'), (273, '('), (274, '1914'), (278, ')'), (279, '.')])</spacy_tokens>
+<spacy_chunks>[('Gladys Fairbanks', 0, 16), ('April 15, 1892', 18, 32), ('California', 36, 46), ('November 2, 1958', 56, 72), ('Alameda, California', 76, 95), ('an American silent film actress', 107, 138), ('The Poor Little Rich Girl', 199, 224), ('The Road Between', 233, 249), ('Shore Acres (1914', 261, 278)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'CC', 'VBD', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', '.', 'PRP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'CD', '.', 'PRP', 'VBD', 'RBS', 'VBN', 'IN', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNP', 'IN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

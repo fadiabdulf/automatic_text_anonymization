@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Candy Clark</title>
+<link/>https://en.wikipedia.org/wiki/Candy_Clark
+<annotated>0</annotated>
+<originalabstract>Candace June Clark (born June 20, 1947) is an American actress and model. She is well known for her roles as Debbie Dunham in the 1973 film American Graffiti, for which she received a nomination for Academy Award for Best Supporting Actress, and Mary Lou in the 1976 film The Man Who Fell to Earth.</originalabstract>
+<abstract>Candace_June_Clark ( born June_20_,_1947 ) is an_American_actress_and_model . She is_well_known for her_roles as Debbie_Dunham in the_1973_film American_Graffiti , for which she received a_nomination for Academy_Award for Best_Supporting_Actress , and Mary_Lou in the_1976_film The_Man Who Fell to Earth .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Candace'), (8, 'June'), (13, 'Clark'), (19, '('), (20, 'born'), (25, 'June'), (30, '20'), (32, ','), (34, '1947'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'model'), (72, '.'), (74, 'She'), (78, 'is'), (81, 'well'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'roles'), (106, 'as'), (109, 'Debbie'), (116, 'Dunham'), (123, 'in'), (126, 'the'), (130, '1973'), (135, 'film'), (140, 'American'), (149, 'Graffiti'), (157, ','), (159, 'for'), (163, 'which'), (169, 'she'), (173, 'received'), (182, 'a'), (184, 'nomination'), (195, 'for'), (199, 'Academy'), (207, 'Award'), (213, 'for'), (217, 'Best'), (222, 'Supporting'), (233, 'Actress'), (240, ','), (242, 'and'), (246, 'Mary'), (251, 'Lou'), (255, 'in'), (258, 'the'), (262, '1976'), (267, 'film'), (272, 'The'), (276, 'Man'), (280, 'Who'), (284, 'Fell'), (289, 'to'), (292, 'Earth'), (297, '.')])</stanford_tokens>
+<opennlp_chunks>[('Candace June Clark',0, 18), ('June 20, 1947',25, 38), ('an American actress and model',43, 72), ('is well known',78, 91), ('her roles',96, 105), ('Debbie Dunham',109, 122), ('the 1973 film',126, 139), ('American Graffiti',140, 157), ('a nomination',182, 194), ('Academy Award',199, 212), ('Best Supporting Actress',217, 240), ('Mary Lou',246, 254), ('the 1976 film',258, 271), ('The Man',272, 279)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'JJ', 'NNP', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'DT', 'NN', 'WP', 'VBD', 'TO', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Candace'), (8, 'June'), (13, 'Clark'), (19, '('), (20, 'born'), (25, 'June'), (30, '20'), (32, ','), (34, '1947'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'model'), (72, '.'), (74, 'She'), (78, 'is'), (81, 'well'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'roles'), (106, 'as'), (109, 'Debbie'), (116, 'Dunham'), (123, 'in'), (126, 'the'), (130, '1973'), (135, 'film'), (140, 'American'), (149, 'Graffiti'), (157, ','), (159, 'for'), (163, 'which'), (169, 'she'), (173, 'received'), (182, 'a'), (184, 'nomination'), (195, 'for'), (199, 'Academy'), (207, 'Award'), (213, 'for'), (217, 'Best'), (222, 'Supporting'), (233, 'Actress'), (240, ','), (242, 'and'), (246, 'Mary'), (251, 'Lou'), (255, 'in'), (258, 'the'), (262, '1976'), (267, 'film'), (272, 'The'), (276, 'Man'), (280, 'Who'), (284, 'Fell'), (289, 'to'), (292, 'Earth'), (297, '.')])</spacy_tokens>
+<spacy_chunks>[('Candace June Clark', 0, 18), ('June 20, 1947', 25, 38), ('an American actress', 43, 62), ('her roles', 96, 105), ('Debbie Dunham', 109, 122), ('the 1973 film', 126, 139), ('American Graffiti', 140, 157), ('a nomination', 182, 194), ('Academy Award for Best Supporting Actress', 199, 240), ('Mary Lou', 246, 254), ('the 1976 film', 258, 271), ('The Man Who Fell to Earth', 272, 297)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'DT', 'NN', 'WP', 'VBD', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

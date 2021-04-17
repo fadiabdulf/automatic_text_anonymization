@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Burgess Jenkins</title>
+<link/>https://en.wikipedia.org/wiki/Burgess_Jenkins
+<annotated>0</annotated>
+<originalabstract>Burgess Jenkins (born October 24, 1973) is an American actor. He is known for work in the film Remember the Titans opposite Academy Award winner Denzel Washington; and as Hilary Swank's husband David Winter in The Reaping (2007).</originalabstract>
+<abstract>Burgess_Jenkins ( born October_24_,_1973 ) is an_American_actor . He is_known for work in the_film Remember the_Titans_opposite_Academy_Award_winner_Denzel_Washington ; and as Hilary_Swank 's_husband_David_Winter in The_Reaping_(_2007_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Burgess'), (8, 'Jenkins'), (16, '('), (17, 'born'), (22, 'October'), (30, '24'), (32, ','), (34, '1973'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, '.'), (62, 'He'), (65, 'is'), (68, 'known'), (74, 'for'), (78, 'work'), (83, 'in'), (86, 'the'), (90, 'film'), (95, 'Remember'), (104, 'the'), (108, 'Titans'), (115, 'opposite'), (124, 'Academy'), (132, 'Award'), (138, 'winner'), (145, 'Denzel'), (152, 'Washington'), (162, ';'), (164, 'and'), (168, 'as'), (171, 'Hilary'), (178, 'Swank'), (183, '\'s'), (186, 'husband'), (194, 'David'), (200, 'Winter'), (207, 'in'), (210, 'The'), (214, 'Reaping'), (222, '('), (223, '2007'), (227, ')'), (228, '.')])</stanford_tokens>
+<opennlp_chunks>[('Burgess Jenkins',0, 15), ('October 24, 1973',22, 38), ('an American actor',43, 60), ('is known',65, 73), ('the film',86, 94), ('the Titans opposite Academy Award winner Denzel Washington',104, 162), ('Hilary Swank',171, 183), ('\'s husband David Winter',183, 206), ('The Reaping (2007)',210, 228)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NN', 'IN', 'DT', 'NN', 'VB', 'DT', 'NNPS', 'JJ', 'NN', 'NN', 'NN', 'NNP', 'NNP', ':', 'CC', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'VBG', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Burgess'), (8, 'Jenkins'), (16, '('), (17, 'born'), (22, 'October'), (30, '24'), (32, ','), (34, '1973'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, '.'), (62, 'He'), (65, 'is'), (68, 'known'), (74, 'for'), (78, 'work'), (83, 'in'), (86, 'the'), (90, 'film'), (95, 'Remember'), (104, 'the'), (108, 'Titans'), (115, 'opposite'), (124, 'Academy'), (132, 'Award'), (138, 'winner'), (145, 'Denzel'), (152, 'Washington'), (162, ';'), (164, 'and'), (168, 'as'), (171, 'Hilary'), (178, 'Swank'), (183, "'s"), (186, 'husband'), (194, 'David'), (200, 'Winter'), (207, 'in'), (210, 'The'), (214, 'Reaping'), (222, '('), (223, '2007'), (227, ')'), (228, '.')])</spacy_tokens>
+<spacy_chunks>[('Burgess Jenkins', 0, 15), ('October 24, 1973', 22, 38), ('an American actor', 43, 60), ('the film', 86, 94), ('Remember the Titans', 95, 114), ('the Titans opposite Academy Award winner Denzel Washington', 104, 162), ("Hilary Swank's husband", 171, 193), ('David Winter', 194, 206), ('The Reaping', 210, 221)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NN', 'IN', 'DT', 'NN', 'VB', 'DT', 'NNPS', 'IN', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', ':', 'CC', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'VBG', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

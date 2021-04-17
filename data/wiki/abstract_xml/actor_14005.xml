@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marjie Millar</title>
+<link/>https://en.wikipedia.org/wiki/Marjie_Millar
+<annotated>0</annotated>
+<originalabstract>Marjie Millar (August 10, 1931 – April 16, 1966), was an American television and film actress. She was born Marjorie Joy Miller to George W. and Eunice Miller in Tacoma, Washington. (Millar's father had changed his surname to "Miller", but she later returned to the original version.)</originalabstract>
+<abstract>Marjie_Millar ( August_10_,_1931 – April_16_,_1966 ) , was an_American_television_and_film_actress . She was_born Marjorie_Joy_Miller to George_W. and Eunice_Miller in Tacoma , Washington . (_Millar 's_father had_changed his_surname to " Miller_" , but she later returned to the_original_version . )</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marjie'), (7, 'Millar'), (14, '('), (15, 'August'), (22, '10'), (24, ','), (26, '1931'), (31, '–'), (33, 'April'), (39, '16'), (41, ','), (43, '1966'), (47, ')'), (48, ','), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'television'), (77, 'and'), (81, 'film'), (86, 'actress'), (93, '.'), (95, 'She'), (99, 'was'), (103, 'born'), (108, 'Marjorie'), (117, 'Joy'), (121, 'Miller'), (128, 'to'), (131, 'George'), (138, 'W.'), (141, 'and'), (145, 'Eunice'), (152, 'Miller'), (159, 'in'), (162, 'Tacoma'), (168, ','), (170, 'Washington'), (180, '.'), (182, '('), (183, 'Millar'), (189, '\'s'), (192, 'father'), (199, 'had'), (203, 'changed'), (211, 'his'), (215, 'surname'), (223, 'to'), (226, '"'), (227, 'Miller'), (233, '"'), (234, ','), (236, 'but'), (240, 'she'), (244, 'later'), (250, 'returned'), (259, 'to'), (262, 'the'), (266, 'original'), (275, 'version'), (282, '.'), (283, ')')])</stanford_tokens>
+<opennlp_chunks>[('Marjie Millar',0, 13), ('August 10, 1931',15, 30), ('April 16, 1966',33, 47), ('an American television and film actress',54, 93), ('was born',99, 107), ('Marjorie Joy Miller',108, 127), ('George W.',131, 140), ('Eunice Miller',145, 158), ('(Millar',182, 189), ('\'s father',189, 198), ('had changed',199, 210), ('his surname',211, 222), ('Miller"',227, 234), ('the original version',262, 282)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'TO', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', '.', '-LRB-', 'NN', 'POS', 'NN', 'VBD', 'VBN', 'PRP$', 'NN', 'TO', '``', 'NNP', '\'\'', ',', 'CC', 'PRP', 'RB', 'VBD', 'TO', 'DT', 'JJ', 'NN', '.', '-RRB-']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marjie'), (7, 'Millar'), (14, '('), (15, 'August'), (22, '10'), (24, ','), (26, '1931'), (31, '–'), (33, 'April'), (39, '16'), (41, ','), (43, '1966'), (47, ')'), (48, ','), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'television'), (77, 'and'), (81, 'film'), (86, 'actress'), (93, '.'), (95, 'She'), (99, 'was'), (103, 'born'), (108, 'Marjorie'), (117, 'Joy'), (121, 'Miller'), (128, 'to'), (131, 'George'), (138, 'W.'), (141, 'and'), (145, 'Eunice'), (152, 'Miller'), (159, 'in'), (162, 'Tacoma'), (168, ','), (170, 'Washington'), (180, '.'), (182, '('), (183, 'Millar'), (189, "'s"), (192, 'father'), (199, 'had'), (203, 'changed'), (211, 'his'), (215, 'surname'), (223, 'to'), (226, '"'), (227, 'Miller'), (233, '"'), (234, ','), (236, 'but'), (240, 'she'), (244, 'later'), (250, 'returned'), (259, 'to'), (262, 'the'), (266, 'original'), (275, 'version'), (282, '.'), (283, ')')])</spacy_tokens>
+<spacy_chunks>[('Marjie Millar', 0, 13), ('(August', 14, 21), ('August 10, 1931', 15, 30), ('April 16, 1966', 33, 47), ('an American television and film actress', 54, 93), ('Marjorie Joy Miller', 108, 127), ('George W.', 131, 140), ('Eunice Miller', 145, 158), ('Tacoma, Washington', 162, 180), ("Millar's father", 183, 198), ('his surname', 211, 222), ('"Miller', 226, 233), ('the original version', 262, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', '.', '-LRB-', 'NNP', 'POS', 'NN', 'VBD', 'VBN', 'PRP$', 'NN', 'IN', '``', 'NNP', "''", ',', 'CC', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'JJ', 'NN', '.', '-RRB-']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

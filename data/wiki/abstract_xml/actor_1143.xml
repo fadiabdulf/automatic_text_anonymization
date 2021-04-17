@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Allen Case</title>
+<link/>https://en.wikipedia.org/wiki/Allen_Case
+<annotated>0</annotated>
+<originalabstract>Allen Case (October 8, 1934 –  August 25, 1986) was an American television actor most noted for the lead role of Deputy Clay McCord in NBC-TV's The Deputy (1959–1961) opposite series regular Henry Fonda, who received top billing but appeared far less frequently than Case.</originalabstract>
+<abstract>Allen_Case ( October_8_,_1934 – August_25_,_1986 ) was an_American_television_actor most_noted for the_lead_role of Deputy_Clay_McCord in NBC-TV 's_The_Deputy ( 1959 – 1961 ) opposite_series_regular_Henry_Fonda , who received top_billing but appeared far_less_frequently than Case .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Allen'), (6, 'Case'), (11, '('), (12, 'October'), (20, '8'), (21, ','), (23, '1934'), (28, '–'), (31, 'August'), (38, '25'), (40, ','), (42, '1986'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'television'), (75, 'actor'), (81, 'most'), (86, 'noted'), (92, 'for'), (96, 'the'), (100, 'lead'), (105, 'role'), (110, 'of'), (113, 'Deputy'), (120, 'Clay'), (125, 'McCord'), (132, 'in'), (135, 'NBC-TV'), (141, '\'s'), (144, 'The'), (148, 'Deputy'), (155, '('), (156, '1959'), (160, '–'), (161, '1961'), (165, ')'), (167, 'opposite'), (176, 'series'), (183, 'regular'), (191, 'Henry'), (197, 'Fonda'), (202, ','), (204, 'who'), (208, 'received'), (217, 'top'), (221, 'billing'), (229, 'but'), (233, 'appeared'), (242, 'far'), (246, 'less'), (251, 'frequently'), (262, 'than'), (267, 'Case'), (271, '.')])</stanford_tokens>
+<opennlp_chunks>[('Allen Case',0, 10), ('October 8, 1934',12, 27), ('August 25, 1986',31, 46), ('an American television actor',52, 80), ('most noted',81, 91), ('the lead role',96, 109), ('Deputy Clay McCord',113, 131), ('\'s The Deputy',141, 154), ('opposite series regular Henry Fonda',167, 202), ('top billing',217, 228), ('far less frequently',242, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'DT', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'JJ', 'NN', 'JJ', 'NNP', 'NNP', ',', 'WP', 'VBD', 'JJ', 'NN', 'CC', 'VBD', 'RB', 'RBR', 'RB', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Allen'), (6, 'Case'), (11, '('), (12, 'October'), (20, '8'), (21, ','), (23, '1934'), (28, '–'), (31, 'August'), (38, '25'), (40, ','), (42, '1986'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'television'), (75, 'actor'), (81, 'most'), (86, 'noted'), (92, 'for'), (96, 'the'), (100, 'lead'), (105, 'role'), (110, 'of'), (113, 'Deputy'), (120, 'Clay'), (125, 'McCord'), (132, 'in'), (135, 'NBC'), (138, '-'), (139, 'TV'), (141, "'s"), (144, 'The'), (148, 'Deputy'), (155, '('), (156, '1959–1961'), (165, ')'), (167, 'opposite'), (176, 'series'), (183, 'regular'), (191, 'Henry'), (197, 'Fonda'), (202, ','), (204, 'who'), (208, 'received'), (217, 'top'), (221, 'billing'), (229, 'but'), (233, 'appeared'), (242, 'far'), (246, 'less'), (251, 'frequently'), (262, 'than'), (267, 'Case'), (271, '.')])</spacy_tokens>
+<spacy_chunks>[('Allen Case', 0, 10), ('(October', 11, 19), ('October 8, 1934', 12, 27), ('August 25, 1986', 31, 46), ('an American television actor', 52, 80), ('the lead role', 96, 109), ('Deputy Clay McCord', 113, 131), ('The Deputy', 144, 154), ('opposite series', 167, 182), ('Henry Fonda', 191, 202), ('top billing', 217, 228)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'HYPH', 'NNP', 'POS', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'JJ', 'NN', 'JJ', 'NNP', 'NNP', ',', 'WP', 'VBD', 'JJ', 'NN', 'CC', 'VBD', 'RB', 'RBR', 'RB', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

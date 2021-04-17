@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leon Vitali</title>
+<link/>https://en.wikipedia.org/wiki/Leon_Vitali
+<annotated>0</annotated>
+<originalabstract>Leon Vitali (born Alfred Leon; born 26 July 1948) is an English actor, best known for his collaborations with film director Stanley Kubrick as his personal assistant and as an actor, most notably, as Lord Bullingdon in Barry Lyndon.</originalabstract>
+<abstract>Leon_Vitali ( born Alfred_Leon ; born_26_July_1948 ) is an_English_actor , best_known for his_collaborations with film_director_Stanley_Kubrick as his_personal_assistant and as an_actor , most_notably , as Lord_Bullingdon in Barry_Lyndon .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leon'), (5, 'Vitali'), (12, '('), (13, 'born'), (18, 'Alfred'), (25, 'Leon'), (29, ';'), (31, 'born'), (36, '26'), (39, 'July'), (44, '1948'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'English'), (64, 'actor'), (69, ','), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'his'), (90, 'collaborations'), (105, 'with'), (110, 'film'), (115, 'director'), (124, 'Stanley'), (132, 'Kubrick'), (140, 'as'), (143, 'his'), (147, 'personal'), (156, 'assistant'), (166, 'and'), (170, 'as'), (173, 'an'), (176, 'actor'), (181, ','), (183, 'most'), (188, 'notably'), (195, ','), (197, 'as'), (200, 'Lord'), (205, 'Bullingdon'), (216, 'in'), (219, 'Barry'), (225, 'Lyndon'), (231, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leon Vitali',0, 11), ('Alfred Leon',18, 29), ('born 26 July 1948',31, 48), ('an English actor',53, 69), ('best known',71, 81), ('his collaborations',86, 104), ('film director Stanley Kubrick',110, 139), ('his personal assistant',143, 165), ('an actor',173, 181), ('most notably',183, 195), ('Lord Bullingdon',200, 215), ('Barry Lyndon',219, 231)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'JJ', 'NN', 'CC', 'IN', 'DT', 'NN', ',', 'RBS', 'RB', ',', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leon'), (5, 'Vitali'), (12, '('), (13, 'born'), (18, 'Alfred'), (25, 'Leon'), (29, ';'), (31, 'born'), (36, '26'), (39, 'July'), (44, '1948'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'English'), (64, 'actor'), (69, ','), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'his'), (90, 'collaborations'), (105, 'with'), (110, 'film'), (115, 'director'), (124, 'Stanley'), (132, 'Kubrick'), (140, 'as'), (143, 'his'), (147, 'personal'), (156, 'assistant'), (166, 'and'), (170, 'as'), (173, 'an'), (176, 'actor'), (181, ','), (183, 'most'), (188, 'notably'), (195, ','), (197, 'as'), (200, 'Lord'), (205, 'Bullingdon'), (216, 'in'), (219, 'Barry'), (225, 'Lyndon'), (231, '.')])</spacy_tokens>
+<spacy_chunks>[('Leon Vitali', 0, 11), ('(born Alfred Leon', 12, 29), ('26 July 1948', 36, 48), ('an English actor', 53, 69), ('his collaborations', 86, 104), ('film director Stanley Kubrick', 110, 139), ('his personal assistant', 143, 165), ('an actor', 173, 181), ('Lord Bullingdon', 200, 215), ('Barry Lyndon', 219, 231)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'PRP$', 'JJ', 'NN', 'CC', 'IN', 'DT', 'NN', ',', 'RBS', 'RB', ',', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

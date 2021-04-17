@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Trilby Clark</title>
+<link/>https://en.wikipedia.org/wiki/Trilby_Clark
+<annotated>0</annotated>
+<originalabstract>Trilby Clark (30 August 1896 – 7 July 1983) was an Australian actress who appeared in British films beginning in the silent film era. She was a leading lady in British films during the 1920s and early 1930s.
+Trilby Clark was born in Adelaide, Australia as Gwendolyn Gladys Blakely Clark. She died in London in 1983.</originalabstract>
+<abstract>Trilby_Clark ( 30_August_1896 – 7_July_1983 ) was an_Australian_actress who appeared in British_films beginning in the_silent_film_era . She was a_leading_lady in British_films during the_1920s and early_1930s . Trilby_Clark was_born in Adelaide , Australia as Gwendolyn_Gladys_Blakely_Clark . She died in London in 1983 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Trilby'), (7, 'Clark'), (13, '('), (14, '30'), (17, 'August'), (24, '1896'), (29, '–'), (31, '7'), (33, 'July'), (38, '1983'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'Australian'), (62, 'actress'), (70, 'who'), (74, 'appeared'), (83, 'in'), (86, 'British'), (94, 'films'), (100, 'beginning'), (110, 'in'), (113, 'the'), (117, 'silent'), (124, 'film'), (129, 'era'), (132, '.'), (134, 'She'), (138, 'was'), (142, 'a'), (144, 'leading'), (152, 'lady'), (157, 'in'), (160, 'British'), (168, 'films'), (174, 'during'), (181, 'the'), (185, '1920s'), (191, 'and'), (195, 'early'), (201, '1930s'), (206, '.'), (208, 'Trilby'), (215, 'Clark'), (221, 'was'), (225, 'born'), (230, 'in'), (233, 'Adelaide'), (241, ','), (243, 'Australia'), (253, 'as'), (256, 'Gwendolyn'), (266, 'Gladys'), (273, 'Blakely'), (281, 'Clark'), (286, '.'), (288, 'She'), (292, 'died'), (297, 'in'), (300, 'London'), (307, 'in'), (310, '1983'), (314, '.')])</stanford_tokens>
+<opennlp_chunks>[('Trilby Clark',0, 12), ('30 August 1896',14, 28), ('7 July 1983',31, 42), ('an Australian actress',48, 69), ('British films',86, 99), ('the silent film era',113, 132), ('a leading lady',142, 156), ('British films',160, 173), ('the 1920s',181, 190), ('early 1930s',195, 206), ('Trilby Clark',208, 220), ('was born',221, 229), ('Gwendolyn Gladys Blakely Clark',256, 286)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', 'VBG', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'JJ', 'NNS', '.', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Trilby'), (7, 'Clark'), (13, '('), (14, '30'), (17, 'August'), (24, '1896'), (29, '–'), (31, '7'), (33, 'July'), (38, '1983'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'Australian'), (62, 'actress'), (70, 'who'), (74, 'appeared'), (83, 'in'), (86, 'British'), (94, 'films'), (100, 'beginning'), (110, 'in'), (113, 'the'), (117, 'silent'), (124, 'film'), (129, 'era'), (132, '.'), (134, 'She'), (138, 'was'), (142, 'a'), (144, 'leading'), (152, 'lady'), (157, 'in'), (160, 'British'), (168, 'films'), (174, 'during'), (181, 'the'), (185, '1920s'), (191, 'and'), (195, 'early'), (201, '1930s'), (206, '.'), (208, 'Trilby'), (215, 'Clark'), (221, 'was'), (225, 'born'), (230, 'in'), (233, 'Adelaide'), (241, ','), (243, 'Australia'), (253, 'as'), (256, 'Gwendolyn'), (266, 'Gladys'), (273, 'Blakely'), (281, 'Clark'), (286, '.'), (288, 'She'), (292, 'died'), (297, 'in'), (300, 'London'), (307, 'in'), (310, '1983'), (314, '.')])</spacy_tokens>
+<spacy_chunks>[('Trilby Clark', 0, 12), ('30 August 1896', 14, 28), ('7 July 1983', 31, 42), ('an Australian actress', 48, 69), ('British films', 86, 99), ('In the', 110, 116), ('the silent film era', 113, 132), ('a leading lady', 142, 156), ('early 1930s', 195, 206), ('Adelaide', 233, 241), ('Gwendolyn Gladys Blakely Clark', 256, 286), ('London', 300, 306)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', 'VBG', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'CD', 'CC', 'JJ', 'NNS', '.', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

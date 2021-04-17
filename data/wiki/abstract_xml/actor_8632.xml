@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dorian Lough</title>
+<link/>https://en.wikipedia.org/wiki/Dorian_Lough
+<annotated>0</annotated>
+<originalabstract>Dorian Tristan Lough (born 27 April 1966 in Kensington, London) is an English actor who appeared as DS Dave Satchell in Trial  Retribution. He has also played Ray Taylor in EastEnders. Lough is also known for starring in the music video for the Radiohead song "Just".</originalabstract>
+<abstract>Dorian_Tristan_Lough ( born 27_April_1966 in Kensington , London ) is an_English_actor who appeared as DS_Dave_Satchell in Trial_ . He has_also_played Ray_Taylor in EastEnders . Lough is_also_known for starring in the_music_video for the_Radiohead_song " Just_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dorian'), (7, 'Tristan'), (15, 'Lough'), (21, '('), (22, 'born'), (27, '27'), (30, 'April'), (36, '1966'), (41, 'in'), (44, 'Kensington'), (54, ','), (56, 'London'), (62, ')'), (64, 'is'), (67, 'an'), (70, 'English'), (78, 'actor'), (84, 'who'), (88, 'appeared'), (97, 'as'), (100, 'DS'), (103, 'Dave'), (108, 'Satchell'), (117, 'in'), (120, 'Trial'), (126, ''), (128, 'Retribution'), (139, '.'), (141, 'He'), (144, 'has'), (148, 'also'), (153, 'played'), (160, 'Ray'), (164, 'Taylor'), (171, 'in'), (174, 'EastEnders'), (184, '.'), (186, 'Lough'), (192, 'is'), (195, 'also'), (200, 'known'), (206, 'for'), (210, 'starring'), (219, 'in'), (222, 'the'), (226, 'music'), (232, 'video'), (238, 'for'), (242, 'the'), (246, 'Radiohead'), (256, 'song'), (261, '"'), (262, 'Just'), (266, '"'), (267, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dorian Tristan Lough',0, 20), ('27 April 1966',27, 40), ('an English actor',67, 83), ('DS Dave Satchell',100, 116), ('Trial  Retribution',120, 139), ('has also played',144, 159), ('Ray Taylor',160, 170), ('is also known',192, 205), ('the music video',222, 237), ('the Radiohead song',242, 260), ('Just"',262, 267)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NN', '``', 'RB', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dorian'), (7, 'Tristan'), (15, 'Lough'), (21, '('), (22, 'born'), (27, '27'), (30, 'April'), (36, '1966'), (41, 'in'), (44, 'Kensington'), (54, ','), (56, 'London'), (62, ')'), (64, 'is'), (67, 'an'), (70, 'English'), (78, 'actor'), (84, 'who'), (88, 'appeared'), (97, 'as'), (100, 'DS'), (103, 'Dave'), (108, 'Satchell'), (117, 'in'), (120, 'Trial'), (127, 'Retribution'), (138, '.'), (140, 'He'), (143, 'has'), (147, 'also'), (152, 'played'), (159, 'Ray'), (163, 'Taylor'), (170, 'in'), (173, 'EastEnders'), (183, '.'), (185, 'Lough'), (191, 'is'), (194, 'also'), (199, 'known'), (205, 'for'), (209, 'starring'), (218, 'in'), (221, 'the'), (225, 'music'), (231, 'video'), (237, 'for'), (241, 'the'), (245, 'Radiohead'), (255, 'song'), (260, '"'), (261, 'Just'), (265, '"'), (266, '.')])</spacy_tokens>
+<spacy_chunks>[('Dorian Tristan Lough', 0, 20), ('27 April 1966', 27, 40), ('Kensington', 44, 54), ('London', 56, 62), ('an English actor', 67, 83), ('DS Dave Satchell', 100, 116), ('Trial  Retribution', 120, 138), ('Ray Taylor', 159, 169), ('EastEnders', 173, 183), ('the music video', 221, 236), ('the Radiohead song', 241, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'NNP', 'NNP', 'IN', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NN', '``', 'RB', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

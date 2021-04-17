@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Matt McCoy (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Matt_McCoy_(actor)
+<annotated>0</annotated>
+<originalabstract>Matt McCoy (born May 20, 1956) is an American actor known for The Hand that Rocks the Cradle, Police Academy 5: Assignment Miami Beach and Police Academy 6: City Under Siege as Sgt. Nick Lassard.</originalabstract>
+<abstract>Matt_McCoy ( born May_20_,_1956 ) is an_American_actor known for The_Hand that Rocks the_Cradle , Police_Academy_5 : Assignment_Miami_Beach and Police_Academy_6 : City Under Siege as Sgt._Nick_Lassard .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Matt'), (5, 'McCoy'), (11, '('), (12, 'born'), (17, 'May'), (21, '20'), (23, ','), (25, '1956'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'American'), (46, 'actor'), (52, 'known'), (58, 'for'), (62, 'The'), (66, 'Hand'), (71, 'that'), (76, 'Rocks'), (82, 'the'), (86, 'Cradle'), (92, ','), (94, 'Police'), (101, 'Academy'), (109, '5'), (110, ':'), (112, 'Assignment'), (123, 'Miami'), (129, 'Beach'), (135, 'and'), (139, 'Police'), (146, 'Academy'), (154, '6'), (155, ':'), (157, 'City'), (162, 'Under'), (168, 'Siege'), (174, 'as'), (177, 'Sgt.'), (182, 'Nick'), (187, 'Lassard'), (194, '.')])</stanford_tokens>
+<opennlp_chunks>[('Matt McCoy',0, 10), ('May 20, 1956',17, 29), ('an American actor',34, 51), ('The Hand',62, 70), ('the Cradle',82, 92), ('Police Academy 5',94, 110), ('Assignment Miami Beach',112, 134), ('Police Academy 6',139, 155), ('Sgt. Nick Lassard',177, 194)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'DT', 'VBP', 'IN', 'NNPS', 'DT', 'NNP', ',', 'NNP', 'NNP', 'CD', ':', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'CD', ':', 'NNP', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Matt'), (5, 'McCoy'), (11, '('), (12, 'born'), (17, 'May'), (21, '20'), (23, ','), (25, '1956'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'American'), (46, 'actor'), (52, 'known'), (58, 'for'), (62, 'The'), (66, 'Hand'), (71, 'that'), (76, 'Rocks'), (82, 'the'), (86, 'Cradle'), (92, ','), (94, 'Police'), (101, 'Academy'), (109, '5'), (110, ':'), (112, 'Assignment'), (123, 'Miami'), (129, 'Beach'), (135, 'and'), (139, 'Police'), (146, 'Academy'), (154, '6'), (155, ':'), (157, 'City'), (162, 'Under'), (168, 'Siege'), (174, 'as'), (177, 'Sgt'), (180, '.'), (182, 'Nick'), (187, 'Lassard'), (194, '.')])</spacy_tokens>
+<spacy_chunks>[('Matt McCoy', 0, 10), ('May 20, 1956', 17, 29), ('an American actor', 34, 51), ('The Hand That Rocks the Cradle', 62, 92), ('Police Academy 5: Assignment Miami Beach', 94, 134), ('Assignment Miami Beach and Police Academy 6: City', 112, 161), ('Police Academy 6: City Under Siege', 139, 173), ('Nick Lassard', 182, 194)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'DT', 'NNP', 'WDT', 'NNP', 'DT', 'NNP', ',', 'NNP', 'NNP', 'CD', ':', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'CD', ':', 'NN', 'IN', 'NNP', 'IN', 'NNP', '.', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Henry B. Walthall</title>
+<link/>https://en.wikipedia.org/wiki/Henry_B._Walthall
+<annotated>0</annotated>
+<originalabstract>Henry Brazeale Walthall (March 16, 1878 – June 17, 1936) was an American stage and film actor. He appeared as the Little Colonel in D. W. Griffith's The Birth of a Nation (1915).</originalabstract>
+<abstract>Henry_Brazeale_Walthall ( March_16_,_1878 – June_17_,_1936 ) was an_American_stage_and_film_actor . He appeared as the_Little_Colonel in D._W._Griffith 's_The_Birth of a_Nation_(_1915_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Henry'), (6, 'Brazeale'), (15, 'Walthall'), (24, '('), (25, 'March'), (31, '16'), (33, ','), (35, '1878'), (40, '–'), (42, 'June'), (47, '17'), (49, ','), (51, '1936'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'stage'), (79, 'and'), (83, 'film'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'appeared'), (107, 'as'), (110, 'the'), (114, 'Little'), (121, 'Colonel'), (129, 'in'), (132, 'D.'), (135, 'W.'), (138, 'Griffith'), (146, '\'s'), (149, 'The'), (153, 'Birth'), (159, 'of'), (162, 'a'), (164, 'Nation'), (171, '('), (172, '1915'), (176, ')'), (177, '.')])</stanford_tokens>
+<opennlp_chunks>[('Henry Brazeale Walthall',0, 23), ('March 16, 1878',25, 39), ('June 17, 1936',42, 55), ('an American stage and film actor',61, 93), ('the Little Colonel',110, 128), ('D. W. Griffith',132, 146), ('\'s The Birth',146, 158), ('a Nation (1915)',162, 177)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'DT', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Henry'), (6, 'Brazeale'), (15, 'Walthall'), (24, '('), (25, 'March'), (31, '16'), (33, ','), (35, '1878'), (40, '–'), (42, 'June'), (47, '17'), (49, ','), (51, '1936'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'stage'), (79, 'and'), (83, 'film'), (88, 'actor'), (93, '.'), (95, 'He'), (98, 'appeared'), (107, 'as'), (110, 'the'), (114, 'Little'), (121, 'Colonel'), (129, 'in'), (132, 'D.'), (135, 'W.'), (138, 'Griffith'), (146, "'s"), (149, 'The'), (153, 'Birth'), (159, 'of'), (162, 'a'), (164, 'Nation'), (171, '('), (172, '1915'), (176, ')'), (177, '.')])</spacy_tokens>
+<spacy_chunks>[('Henry Brazeale Walthall', 0, 23), ('March 16, 1878', 25, 39), ('June 17, 1936', 42, 55), ('an American stage', 61, 78), ('film actor', 83, 93), ('the Little Colonel', 110, 128), ("D. W. Griffith's The Birth", 132, 158), ('The Birth of a Nation', 149, 170)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'DT', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

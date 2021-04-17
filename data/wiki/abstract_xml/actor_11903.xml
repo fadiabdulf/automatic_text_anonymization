@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lisa Eichhorn</title>
+<link/>https://en.wikipedia.org/wiki/Lisa_Eichhorn
+<annotated>0</annotated>
+<originalabstract>Lisa Eichhorn (born February 4, 1952) is an American actress, writer and producer.  She made her film debut in 1979 in the John Schlesinger film Yanks for which she received two Golden Globe nominations. Her international career has included film, theatre and television.</originalabstract>
+<abstract>Lisa_Eichhorn ( born February_4_,_1952 ) is an_American_actress_,_writer_and_producer . She made her_film_debut in 1979 in the_John_Schlesinger_film_Yanks for which she received two_Golden_Globe_nominations . Her_international_career has_included film_,_theatre_and_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lisa'), (5, 'Eichhorn'), (14, '('), (15, 'born'), (20, 'February'), (29, '4'), (30, ','), (32, '1952'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (60, ','), (62, 'writer'), (69, 'and'), (73, 'producer'), (81, '.'), (84, 'She'), (88, 'made'), (93, 'her'), (97, 'film'), (102, 'debut'), (108, 'in'), (111, '1979'), (116, 'in'), (119, 'the'), (123, 'John'), (128, 'Schlesinger'), (140, 'film'), (145, 'Yanks'), (151, 'for'), (155, 'which'), (161, 'she'), (165, 'received'), (174, 'two'), (178, 'Golden'), (185, 'Globe'), (191, 'nominations'), (202, '.'), (204, 'Her'), (208, 'international'), (222, 'career'), (229, 'has'), (233, 'included'), (242, 'film'), (246, ','), (248, 'theatre'), (256, 'and'), (260, 'television'), (270, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lisa Eichhorn',0, 13), ('February 4, 1952',20, 36), ('an American actress, writer and producer',41, 81), ('her film debut',93, 107), ('the John Schlesinger film Yanks',119, 150), ('two Golden Globe nominations',174, 202), ('Her international career',204, 228), ('has included',229, 241), ('film, theatre and television',242, 270)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'CD', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNPS', 'IN', 'WDT', 'PRP', 'VBD', 'CD', 'NNP', 'NNP', 'NNS', '.', 'PRP$', 'JJ', 'NN', 'VBZ', 'VBN', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lisa'), (5, 'Eichhorn'), (14, '('), (15, 'born'), (20, 'February'), (29, '4'), (30, ','), (32, '1952'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (60, ','), (62, 'writer'), (69, 'and'), (73, 'producer'), (81, '.'), (84, 'She'), (88, 'made'), (93, 'her'), (97, 'film'), (102, 'debut'), (108, 'in'), (111, '1979'), (116, 'in'), (119, 'the'), (123, 'John'), (128, 'Schlesinger'), (140, 'film'), (145, 'Yanks'), (151, 'for'), (155, 'which'), (161, 'she'), (165, 'received'), (174, 'two'), (178, 'Golden'), (185, 'Globe'), (191, 'nominations'), (202, '.'), (204, 'Her'), (208, 'international'), (222, 'career'), (229, 'has'), (233, 'included'), (242, 'film'), (246, ','), (248, 'theatre'), (256, 'and'), (260, 'television'), (270, '.')])</spacy_tokens>
+<spacy_chunks>[('Lisa Eichhorn', 0, 13), ('February 4, 1952', 20, 36), ('an American actress', 41, 60), ('writer', 62, 68), ('producer', 73, 81), ('her film debut', 93, 107), ('the John Schlesinger film Yanks', 119, 150), ('two Golden Globe nominations', 174, 202), ('Her international career', 204, 228), ('Theatre', 248, 255), ('television', 260, 270)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'CD', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNPS', 'IN', 'WDT', 'PRP', 'VBD', 'CD', 'NNP', 'NNP', 'NNS', '.', 'PRP$', 'JJ', 'NN', 'VBZ', 'VBN', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

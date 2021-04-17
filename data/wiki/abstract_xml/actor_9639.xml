@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Charvet</title>
+<link/>https://en.wikipedia.org/wiki/David_Charvet
+<annotated>0</annotated>
+<originalabstract>David Franck Charvet (French pronunciation: ​[david ʃaʁve]; born 15 May 1972) is a French singer, actor, model, and television personality.</originalabstract>
+<abstract>David_Franck_Charvet ( French_pronunciation : [_david_ʃaʁve_] ; born_15_May_1972 ) is a_French_singer , actor , model , and television_personality .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Franck'), (13, 'Charvet'), (21, '('), (22, 'French'), (29, 'pronunciation'), (42, ':'), (45, '['), (46, 'david'), (52, 'ʃaʁve'), (57, ']'), (58, ';'), (60, 'born'), (65, '15'), (68, 'May'), (72, '1972'), (76, ')'), (78, 'is'), (81, 'a'), (83, 'French'), (90, 'singer'), (96, ','), (98, 'actor'), (103, ','), (105, 'model'), (110, ','), (112, 'and'), (116, 'television'), (127, 'personality'), (138, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Franck Charvet',0, 20), ('French pronunciation',22, 42), ('[david ʃaʁve]',45, 58), ('born 15 May 1972',60, 76), ('a French singer',81, 96), ('television personality',116, 138)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NN', ':', '-LRB-', 'NN', 'NN', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Franck'), (13, 'Charvet'), (21, '('), (22, 'French'), (29, 'pronunciation'), (42, ':'), (44, '\u200b[david'), (52, 'ʃaʁve'), (57, ']'), (58, ';'), (60, 'born'), (65, '15'), (68, 'May'), (72, '1972'), (76, ')'), (78, 'is'), (81, 'a'), (83, 'French'), (90, 'singer'), (96, ','), (98, 'actor'), (103, ','), (105, 'model'), (110, ','), (112, 'and'), (116, 'television'), (127, 'personality'), (138, '.')])</spacy_tokens>
+<spacy_chunks>[('David Franck Charvet', 0, 20), ('French pronunciation', 22, 42), ('\u200b[david ʃaʁve', 44, 57), ('15 May 1972', 65, 76), ('a French singer', 81, 96), ('television personality', 116, 138)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'JJ', 'NN', ':', 'NNP', 'NNS', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

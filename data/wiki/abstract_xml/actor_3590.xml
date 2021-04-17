@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ian Keith</title>
+<link/>https://en.wikipedia.org/wiki/Ian_Keith
+<annotated>0</annotated>
+<originalabstract>Ian Keith (born Keith Ross, February 27, 1899 – March 26, 1960) was an American actor.</originalabstract>
+<abstract>Ian_Keith ( born Keith_Ross , February_27_,_1899 – March_26_,_1960 ) was an_American_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ian'), (4, 'Keith'), (10, '('), (11, 'born'), (16, 'Keith'), (22, 'Ross'), (26, ','), (28, 'February'), (37, '27'), (39, ','), (41, '1899'), (46, '–'), (48, 'March'), (54, '26'), (56, ','), (58, '1960'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (85, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ian Keith',0, 9), ('Keith Ross',16, 26), ('February 27, 1899',28, 45), ('March 26, 1960',48, 62), ('an American actor',68, 85)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ian'), (4, 'Keith'), (10, '('), (11, 'born'), (16, 'Keith'), (22, 'Ross'), (26, ','), (28, 'February'), (37, '27'), (39, ','), (41, '1899'), (46, '–'), (48, 'March'), (54, '26'), (56, ','), (58, '1960'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (85, '.')])</spacy_tokens>
+<spacy_chunks>[('Ian Keith', 0, 9), ('born Keith Ross', 11, 26), ('February 27, 1899', 28, 45), ('– March', 46, 53), ('March 26, 1960', 48, 62), ('an American actor', 68, 85)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

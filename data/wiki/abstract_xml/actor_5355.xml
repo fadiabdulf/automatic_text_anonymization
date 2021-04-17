@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Albert Popwell</title>
+<link/>https://en.wikipedia.org/wiki/Albert_Popwell
+<annotated>0</annotated>
+<originalabstract>Albert Popwell (July 15, 1926 – April  9, 1999) was an African American stage, television and film actor with a career spanning six decades.Born in New York City, Popwell started as a professional dancer before taking up a career in acting.  Popwell made his professional debut on Broadway at age 16 in The Pirate.</originalabstract>
+<abstract>Albert_Popwell ( July_15_,_1926 – April_9_,_1999 ) was an_African_American_stage_,_television_and_film_actor with a_career spanning six_decades.Born in New_York_City , Popwell started as a_professional_dancer before taking up a_career in acting . Popwell made his_professional_debut on Broadway at age_16 in The_Pirate .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Albert'), (7, 'Popwell'), (15, '('), (16, 'July'), (21, '15'), (23, ','), (25, '1926'), (30, '–'), (32, 'April'), (39, '9'), (40, ','), (42, '1999'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'African'), (63, 'American'), (72, 'stage'), (77, ','), (79, 'television'), (90, 'and'), (94, 'film'), (99, 'actor'), (105, 'with'), (110, 'a'), (112, 'career'), (119, 'spanning'), (128, 'six'), (132, 'decades.Born'), (145, 'in'), (148, 'New'), (152, 'York'), (157, 'City'), (161, ','), (163, 'Popwell'), (171, 'started'), (179, 'as'), (182, 'a'), (184, 'professional'), (197, 'dancer'), (204, 'before'), (211, 'taking'), (218, 'up'), (221, 'a'), (223, 'career'), (230, 'in'), (233, 'acting'), (239, '.'), (242, 'Popwell'), (250, 'made'), (255, 'his'), (259, 'professional'), (272, 'debut'), (278, 'on'), (281, 'Broadway'), (290, 'at'), (293, 'age'), (297, '16'), (300, 'in'), (303, 'The'), (307, 'Pirate'), (313, '.')])</stanford_tokens>
+<opennlp_chunks>[('Albert Popwell',0, 14), ('July 15, 1926',16, 29), ('April  9, 1999',32, 46), ('an African American stage, television and film actor',52, 104), ('a career',110, 118), ('six decades.Born',128, 144), ('New York City',148, 161), ('a professional dancer',182, 203), ('a career',221, 229), ('his professional debut',255, 277), ('age 16',293, 299), ('The Pirate',303, 313)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NN', 'VBG', 'CD', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'VBG', 'RP', 'DT', 'NN', 'IN', 'VBG', '.', 'NNP', 'VBD', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'NN', 'CD', 'IN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Albert'), (7, 'Popwell'), (15, '('), (16, 'July'), (21, '15'), (23, ','), (25, '1926'), (30, '–'), (32, 'April'), (39, '9'), (40, ','), (42, '1999'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'African'), (63, 'American'), (72, 'stage'), (77, ','), (79, 'television'), (90, 'and'), (94, 'film'), (99, 'actor'), (105, 'with'), (110, 'a'), (112, 'career'), (119, 'spanning'), (128, 'six'), (132, 'decades'), (139, '.'), (140, 'Born'), (145, 'in'), (148, 'New'), (152, 'York'), (157, 'City'), (161, ','), (163, 'Popwell'), (171, 'started'), (179, 'as'), (182, 'a'), (184, 'professional'), (197, 'dancer'), (204, 'before'), (211, 'taking'), (218, 'up'), (221, 'a'), (223, 'career'), (230, 'in'), (233, 'acting'), (239, '.'), (242, 'Popwell'), (250, 'made'), (255, 'his'), (259, 'professional'), (272, 'debut'), (278, 'on'), (281, 'Broadway'), (290, 'at'), (293, 'age'), (297, '16'), (300, 'in'), (303, 'The'), (307, 'Pirate'), (313, '.')])</spacy_tokens>
+<spacy_chunks>[('Albert Popwell', 0, 14), ('July 15, 1926', 16, 29), ('1926 – April', 25, 37), ('April  9, 1999', 32, 46), ('an African American stage', 52, 77), ('television and film actor', 79, 104), ('a career', 110, 118), ('Decade', 132, 138), ('New York City', 148, 161), ('a professional dancer', 182, 203), ('acting', 233, 239), ('his professional debut', 255, 277), ('Broadway', 281, 289), ('The Pirate', 303, 313)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NN', 'VBG', 'CD', 'NNS', '.', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'VBG', 'RP', 'DT', 'NN', 'IN', 'NN', '.', 'NNP', 'VBD', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'NN', 'CD', 'IN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

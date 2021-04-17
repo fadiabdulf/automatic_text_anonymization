@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Madeline Zima</title>
+<link/>https://en.wikipedia.org/wiki/Madeline_Zima
+<annotated>0</annotated>
+<originalabstract>Madeline Zima (born September 16, 1985) is an American actress. She is known for portraying Grace Sheffield on the CBS sitcom The Nanny (1993–1999), Mia Lewis on the Showtime comedy drama series Californication (2007–2011), and Gretchen Berg on the NBC series Heroes (2009–2010).</originalabstract>
+<abstract>Madeline_Zima ( born September_16_,_1985 ) is an_American_actress . She is_known for portraying Grace_Sheffield on the_CBS_sitcom The_Nanny_(_1993 – 1999_) , Mia_Lewis on the_Showtime_comedy_drama_series_Californication_(_2007 – 2011_) , and Gretchen_Berg on the_NBC_series_Heroes ( 2009 – 2010_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Madeline'), (9, 'Zima'), (14, '('), (15, 'born'), (20, 'September'), (30, '16'), (32, ','), (34, '1985'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (62, '.'), (64, 'She'), (68, 'is'), (71, 'known'), (77, 'for'), (81, 'portraying'), (92, 'Grace'), (98, 'Sheffield'), (108, 'on'), (111, 'the'), (115, 'CBS'), (119, 'sitcom'), (126, 'The'), (130, 'Nanny'), (136, '('), (137, '1993'), (141, '–'), (142, '1999'), (146, ')'), (147, ','), (149, 'Mia'), (153, 'Lewis'), (159, 'on'), (162, 'the'), (166, 'Showtime'), (175, 'comedy'), (182, 'drama'), (188, 'series'), (195, 'Californication'), (211, '('), (212, '2007'), (216, '–'), (217, '2011'), (221, ')'), (222, ','), (224, 'and'), (228, 'Gretchen'), (237, 'Berg'), (242, 'on'), (245, 'the'), (249, 'NBC'), (253, 'series'), (260, 'Heroes'), (267, '('), (268, '2009'), (272, '–'), (273, '2010'), (277, ')'), (278, '.')])</stanford_tokens>
+<opennlp_chunks>[('Madeline Zima',0, 13), ('September 16, 1985',20, 38), ('an American actress',43, 62), ('is known',68, 76), ('Grace Sheffield',92, 107), ('the CBS sitcom',111, 125), ('The Nanny (1993',126, 141), ('1999)',142, 147), ('Mia Lewis',149, 158), ('the Showtime comedy drama series Californication (2007',162, 216), ('2011)',217, 222), ('Gretchen Berg',228, 241), ('the NBC series Heroes',245, 266), ('2010)',273, 278)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNS', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Madeline'), (9, 'Zima'), (14, '('), (15, 'born'), (20, 'September'), (30, '16'), (32, ','), (34, '1985'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (62, '.'), (64, 'She'), (68, 'is'), (71, 'known'), (77, 'for'), (81, 'portraying'), (92, 'Grace'), (98, 'Sheffield'), (108, 'on'), (111, 'the'), (115, 'CBS'), (119, 'sitcom'), (126, 'The'), (130, 'Nanny'), (136, '('), (137, '1993–1999'), (146, ')'), (147, ','), (149, 'Mia'), (153, 'Lewis'), (159, 'on'), (162, 'the'), (166, 'Showtime'), (175, 'comedy'), (182, 'drama'), (188, 'series'), (195, 'Californication'), (211, '('), (212, '2007–2011'), (221, ')'), (222, ','), (224, 'and'), (228, 'Gretchen'), (237, 'Berg'), (242, 'on'), (245, 'the'), (249, 'NBC'), (253, 'series'), (260, 'Heroes'), (267, '('), (268, '2009–2010'), (277, ')'), (278, '.')])</spacy_tokens>
+<spacy_chunks>[('Madeline Zima', 0, 13), ('September 16, 1985', 20, 38), ('an American actress', 43, 62), ('Grace Sheffield', 92, 107), ('the CBS sitcom', 111, 125), ('The Nanny', 126, 135), ('Mia Lewis', 149, 158), ('the Showtime comedy drama series', 162, 194), ('Californication', 195, 210), ('Gretchen Berg', 228, 241), ('the NBC series', 245, 259), ('Heroes', 260, 266)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

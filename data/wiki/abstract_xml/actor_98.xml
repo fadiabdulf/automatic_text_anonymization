@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lester Allen</title>
+<link/>https://en.wikipedia.org/wiki/Lester_Allen
+<annotated>0</annotated>
+<originalabstract>Lester Allen (November 17, 1891 – November 6, 1949) was a screen, stage, vaudeville, circus actor, and film director. In vaudeville, he appeared in a double act with Nellie Breen and also emceed at the Palace Theatre.</originalabstract>
+<abstract>Lester_Allen ( November_17_,_1891 – November_6_,_1949 ) was a_screen , stage , vaudeville , circus_actor , and film_director . In vaudeville , he appeared in a_double_act with Nellie_Breen and also emceed at the_Palace_Theatre .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lester'), (7, 'Allen'), (13, '('), (14, 'November'), (23, '17'), (25, ','), (27, '1891'), (32, '–'), (34, 'November'), (43, '6'), (44, ','), (46, '1949'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'screen'), (64, ','), (66, 'stage'), (71, ','), (73, 'vaudeville'), (83, ','), (85, 'circus'), (92, 'actor'), (97, ','), (99, 'and'), (103, 'film'), (108, 'director'), (116, '.'), (118, 'In'), (121, 'vaudeville'), (131, ','), (133, 'he'), (136, 'appeared'), (145, 'in'), (148, 'a'), (150, 'double'), (157, 'act'), (161, 'with'), (166, 'Nellie'), (173, 'Breen'), (179, 'and'), (183, 'also'), (188, 'emceed'), (195, 'at'), (198, 'the'), (202, 'Palace'), (209, 'Theatre'), (216, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lester Allen',0, 12), ('November 17, 1891',14, 31), ('November 6, 1949',34, 50), ('a screen',56, 64), ('circus actor',85, 97), ('film director',103, 116), ('a double act',148, 160), ('Nellie Breen',166, 178), ('the Palace Theatre',198, 216)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'NN', '.', 'IN', 'NN', ',', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lester'), (7, 'Allen'), (13, '('), (14, 'November'), (23, '17'), (25, ','), (27, '1891'), (32, '–'), (34, 'November'), (43, '6'), (44, ','), (46, '1949'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'screen'), (64, ','), (66, 'stage'), (71, ','), (73, 'vaudeville'), (83, ','), (85, 'circus'), (92, 'actor'), (97, ','), (99, 'and'), (103, 'film'), (108, 'director'), (116, '.'), (118, 'In'), (121, 'vaudeville'), (131, ','), (133, 'he'), (136, 'appeared'), (145, 'in'), (148, 'a'), (150, 'double'), (157, 'act'), (161, 'with'), (166, 'Nellie'), (173, 'Breen'), (179, 'and'), (183, 'also'), (188, 'emceed'), (195, 'at'), (198, 'the'), (202, 'Palace'), (209, 'Theatre'), (216, '.')])</spacy_tokens>
+<spacy_chunks>[('Lester Allen', 0, 12), ('(November', 13, 22), ('November 17, 1891', 14, 31), ('November 6, 1949', 34, 50), ('a screen', 56, 64), ('vaudeville', 73, 83), ('circus actor', 85, 97), ('film director', 103, 116), ('a double act', 148, 160), ('Nellie Breen', 166, 178), ('the Palace Theatre', 198, 216)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'NN', '.', 'IN', 'NN', ',', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stephanie Pond-Smith</title>
+<link/>https://en.wikipedia.org/wiki/Stephanie_Pond-Smith
+<annotated>0</annotated>
+<originalabstract>Stephanie Pond-Smith (born Stephanie Aranas: May 25, 1951 – March 18, 1998) was an American child actress. She started in the 1955 film Rebel Without a Cause (1955). She died on March 18, 1998, aged 46, in Reno, Nevada.</originalabstract>
+<abstract>Stephanie_Pond-Smith ( born Stephanie_Aranas : May_25_,_1951 – March_18_,_1998 ) was an_American_child_actress . She started in the_1955_film_Rebel Without a_Cause_(_1955_) . She died on March_18_,_1998 , aged 46 , in Reno , Nevada .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stephanie'), (10, 'Pond-Smith'), (21, '('), (22, 'born'), (27, 'Stephanie'), (37, 'Aranas'), (43, ':'), (45, 'May'), (49, '25'), (51, ','), (53, '1951'), (58, '–'), (60, 'March'), (66, '18'), (68, ','), (70, '1998'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'child'), (98, 'actress'), (105, '.'), (107, 'She'), (111, 'started'), (119, 'in'), (122, 'the'), (126, '1955'), (131, 'film'), (136, 'Rebel'), (142, 'Without'), (150, 'a'), (152, 'Cause'), (158, '('), (159, '1955'), (163, ')'), (164, '.'), (166, 'She'), (170, 'died'), (175, 'on'), (178, 'March'), (184, '18'), (186, ','), (188, '1998'), (192, ','), (194, 'aged'), (199, '46'), (201, ','), (203, 'in'), (206, 'Reno'), (210, ','), (212, 'Nevada'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stephanie Pond-Smith',0, 20), ('Stephanie Aranas',27, 43), ('May 25, 1951',45, 57), ('March 18, 1998',60, 74), ('an American child actress',80, 105), ('the 1955 film Rebel',122, 141), ('a Cause (1955)',150, 164), ('March 18, 1998',178, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'JJ', 'CD', ',', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stephanie'), (10, 'Pond'), (14, '-'), (15, 'Smith'), (21, '('), (22, 'born'), (27, 'Stephanie'), (37, 'Aranas'), (43, ':'), (45, 'May'), (49, '25'), (51, ','), (53, '1951'), (58, '–'), (60, 'March'), (66, '18'), (68, ','), (70, '1998'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'child'), (98, 'actress'), (105, '.'), (107, 'She'), (111, 'started'), (119, 'in'), (122, 'the'), (126, '1955'), (131, 'film'), (136, 'Rebel'), (142, 'Without'), (150, 'a'), (152, 'Cause'), (158, '('), (159, '1955'), (163, ')'), (164, '.'), (166, 'She'), (170, 'died'), (175, 'on'), (178, 'March'), (184, '18'), (186, ','), (188, '1998'), (192, ','), (194, 'aged'), (199, '46'), (201, ','), (203, 'in'), (206, 'Reno'), (210, ','), (212, 'Nevada'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Stephanie Pond-Smith', 0, 20), ('Stephanie Aranas', 27, 43), ('an American child actress', 80, 105), ('the 1955 film', 122, 135), ('a Cause', 150, 157), ('Nevada', 212, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'VBN', 'CD', ',', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

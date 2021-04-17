@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lyndsey Marshal</title>
+<link/>https://en.wikipedia.org/wiki/Lyndsey_Marshal
+<annotated>0</annotated>
+<originalabstract>Lyndsey Marshal (born 16 June 1978) is an English actress best known for her performance in The Hours, and as the recurring character Cleopatra on HBO's Rome, and as Lady Sarah Hill in BBC period drama Garrow's Law.</originalabstract>
+<abstract>Lyndsey_Marshal ( born_16_June_1978 ) is an_English_actress best_known for her_performance in The_Hours , and as the_recurring_character_Cleopatra on HBO 's_Rome , and as Lady_Sarah_Hill in BBC_period_drama_Garrow 's_Law .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lyndsey'), (8, 'Marshal'), (16, '('), (17, 'born'), (22, '16'), (25, 'June'), (30, '1978'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actress'), (58, 'best'), (63, 'known'), (69, 'for'), (73, 'her'), (77, 'performance'), (89, 'in'), (92, 'The'), (96, 'Hours'), (101, ','), (103, 'and'), (107, 'as'), (110, 'the'), (114, 'recurring'), (124, 'character'), (134, 'Cleopatra'), (144, 'on'), (147, 'HBO'), (150, '\'s'), (153, 'Rome'), (157, ','), (159, 'and'), (163, 'as'), (166, 'Lady'), (171, 'Sarah'), (177, 'Hill'), (182, 'in'), (185, 'BBC'), (189, 'period'), (196, 'drama'), (202, 'Garrow'), (208, '\'s'), (211, 'Law'), (214, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lyndsey Marshal',0, 15), ('born 16 June 1978',17, 34), ('an English actress',39, 57), ('best known',58, 68), ('her performance',73, 88), ('The Hours',92, 101), ('the recurring character Cleopatra',110, 143), ('\'s Rome',150, 157), ('Lady Sarah Hill',166, 181), ('BBC period drama Garrow',185, 208), ('\'s Law',208, 214)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNS', ',', 'CC', 'IN', 'DT', 'VBG', 'NN', 'NNP', 'IN', 'NNP', 'POS', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NN', 'NN', 'NNP', 'POS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lyndsey'), (8, 'Marshal'), (16, '('), (17, 'born'), (22, '16'), (25, 'June'), (30, '1978'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actress'), (58, 'best'), (63, 'known'), (69, 'for'), (73, 'her'), (77, 'performance'), (89, 'in'), (92, 'The'), (96, 'Hours'), (101, ','), (103, 'and'), (107, 'as'), (110, 'the'), (114, 'recurring'), (124, 'character'), (134, 'Cleopatra'), (144, 'on'), (147, 'HBO'), (150, "'s"), (153, 'Rome'), (157, ','), (159, 'and'), (163, 'as'), (166, 'Lady'), (171, 'Sarah'), (177, 'Hill'), (182, 'in'), (185, 'BBC'), (189, 'period'), (196, 'drama'), (202, 'Garrow'), (208, "'s"), (211, 'Law'), (214, '.')])</spacy_tokens>
+<spacy_chunks>[('Lyndsey Marshal', 0, 15), ('16 June 1978', 22, 34), ('an English actress', 39, 57), ('her performance', 73, 88), ('In the', 89, 95), ('The Hours', 92, 101), ('the recurring character', 110, 133), ('Cleopatra', 134, 143), ("HBO's Rome", 147, 157), ('Lady Sarah Hill', 166, 181), ('BBC period', 185, 195), ("Garrow's Law", 202, 214)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNPS', ',', 'CC', 'IN', 'DT', 'VBG', 'NN', 'NNP', 'IN', 'NNP', 'POS', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NN', 'NN', 'NNP', 'POS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

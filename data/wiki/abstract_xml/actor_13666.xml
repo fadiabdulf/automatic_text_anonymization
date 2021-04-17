@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elizabeth MacRae</title>
+<link/>https://en.wikipedia.org/wiki/Elizabeth_MacRae
+<annotated>0</annotated>
+<originalabstract>Elizabeth Herndon MacRae (born February 22, 1936 in Columbia, South Carolina) is an American actress who appeared in various television shows and movies from the 1960s to the 1980s. She is probably best known for her role as Lou-Ann Poovie on the series Gomer Pyle, USMC.</originalabstract>
+<abstract>Elizabeth_Herndon_MacRae ( born February_22_,_1936 in Columbia , South_Carolina ) is an_American_actress who appeared in various_television_shows_and_movies from the_1960s to the_1980s . She is_probably_best_known for her_role as Lou-Ann_Poovie on the_series_Gomer_Pyle , USMC .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Herndon'), (18, 'MacRae'), (25, '('), (26, 'born'), (31, 'February'), (40, '22'), (42, ','), (44, '1936'), (49, 'in'), (52, 'Columbia'), (60, ','), (62, 'South'), (68, 'Carolina'), (76, ')'), (78, 'is'), (81, 'an'), (84, 'American'), (93, 'actress'), (101, 'who'), (105, 'appeared'), (114, 'in'), (117, 'various'), (125, 'television'), (136, 'shows'), (142, 'and'), (146, 'movies'), (153, 'from'), (158, 'the'), (162, '1960s'), (168, 'to'), (171, 'the'), (175, '1980s'), (180, '.'), (182, 'She'), (186, 'is'), (189, 'probably'), (198, 'best'), (203, 'known'), (209, 'for'), (213, 'her'), (217, 'role'), (222, 'as'), (225, 'Lou-Ann'), (233, 'Poovie'), (240, 'on'), (243, 'the'), (247, 'series'), (254, 'Gomer'), (260, 'Pyle'), (264, ','), (266, 'USMC'), (270, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elizabeth Herndon MacRae',0, 24), ('February 22, 1936',31, 48), ('South Carolina',62, 76), ('an American actress',81, 100), ('various television shows and movies',117, 152), ('the 1960s',158, 167), ('the 1980s',171, 180), ('is probably best known',186, 208), ('her role',213, 221), ('Lou-Ann Poovie',225, 239), ('the series Gomer Pyle',243, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'NNS', 'CC', 'NNS', 'IN', 'DT', 'CD', 'TO', 'DT', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Herndon'), (18, 'MacRae'), (25, '('), (26, 'born'), (31, 'February'), (40, '22'), (42, ','), (44, '1936'), (49, 'in'), (52, 'Columbia'), (60, ','), (62, 'South'), (68, 'Carolina'), (76, ')'), (78, 'is'), (81, 'an'), (84, 'American'), (93, 'actress'), (101, 'who'), (105, 'appeared'), (114, 'in'), (117, 'various'), (125, 'television'), (136, 'shows'), (142, 'and'), (146, 'movies'), (153, 'from'), (158, 'the'), (162, '1960s'), (168, 'to'), (171, 'the'), (175, '1980s'), (180, '.'), (182, 'She'), (186, 'is'), (189, 'probably'), (198, 'best'), (203, 'known'), (209, 'for'), (213, 'her'), (217, 'role'), (222, 'as'), (225, 'Lou'), (228, '-'), (229, 'Ann'), (233, 'Poovie'), (240, 'on'), (243, 'the'), (247, 'series'), (254, 'Gomer'), (260, 'Pyle'), (264, ','), (266, 'USMC'), (270, '.')])</spacy_tokens>
+<spacy_chunks>[('Elizabeth Herndon MacRae', 0, 24), ('February 22, 1936', 31, 48), ('Columbia, South Carolina', 52, 76), ('an American actress', 81, 100), ('various television shows', 117, 141), ('movies', 146, 152), ('the 1960s', 158, 167), ('her role', 213, 221), ('Lou-Ann Poovie', 225, 239), ('the series', 243, 253), ('Gomer Pyle, USMC', 254, 270)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NN', 'NNS', 'CC', 'NNS', 'IN', 'DT', 'NNS', 'IN', 'DT', 'CD', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'HYPH', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

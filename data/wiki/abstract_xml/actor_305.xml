@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>William Bailey (actor)</title>
+<link/>https://en.wikipedia.org/wiki/William_Bailey_(actor)
+<annotated>0</annotated>
+<originalabstract>Jonathan Bailey (born 25 April 1988) is a British actor, best known for the ITV drama Broadchurch, the BBC's Doctor Who, W1A and Leonardo, and Channel 4 comedy Campus.</originalabstract>
+<abstract>Jonathan_Bailey ( born 25_April_1988 ) is a_British_actor , best_known for the_ITV_drama_Broadchurch , the_BBC 's_Doctor_Who_,_W1A_and_Leonardo , and Channel_4_comedy_Campus .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Bailey'), (16, '('), (17, 'born'), (22, '25'), (25, 'April'), (31, '1988'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'British'), (50, 'actor'), (55, ','), (57, 'best'), (62, 'known'), (68, 'for'), (72, 'the'), (76, 'ITV'), (80, 'drama'), (86, 'Broadchurch'), (97, ','), (99, 'the'), (103, 'BBC'), (106, '\'s'), (109, 'Doctor'), (116, 'Who'), (119, ','), (121, 'W1A'), (125, 'and'), (129, 'Leonardo'), (137, ','), (139, 'and'), (143, 'Channel'), (151, '4'), (153, 'comedy'), (160, 'Campus'), (166, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jonathan Bailey',0, 15), ('25 April 1988',22, 35), ('a British actor',40, 55), ('best known',57, 67), ('the ITV drama Broadchurch',72, 97), ('the BBC',99, 106), ('\'s Doctor Who, W1A and Leonardo',106, 137), ('Channel 4 comedy Campus',143, 166)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'DT', 'NNP', 'POS', 'NNP', 'WP', ',', 'NN', 'CC', 'NNP', ',', 'CC', 'NNP', 'CD', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jonathan'), (9, 'Bailey'), (16, '('), (17, 'born'), (22, '25'), (25, 'April'), (31, '1988'), (35, ')'), (37, 'is'), (40, 'a'), (42, 'British'), (50, 'actor'), (55, ','), (57, 'best'), (62, 'known'), (68, 'for'), (72, 'the'), (76, 'ITV'), (80, 'drama'), (86, 'Broadchurch'), (97, ','), (99, 'the'), (103, 'BBC'), (106, "'s"), (109, 'Doctor'), (116, 'Who'), (119, ','), (121, 'W1A'), (125, 'and'), (129, 'Leonardo'), (137, ','), (139, 'and'), (143, 'Channel'), (151, '4'), (153, 'comedy'), (160, 'Campus'), (166, '.')])</spacy_tokens>
+<spacy_chunks>[('Jonathan Bailey', 0, 15), ('25 April 1988', 22, 35), ('a British actor', 40, 55), ('the ITV drama', 72, 85), ('Broadchurch', 86, 97), ("the BBC's Doctor", 99, 115), ('Leonardo', 129, 137), ('Channel 4 comedy Campus', 143, 166)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'DT', 'NNP', 'POS', 'NN', 'WP', ',', 'NNP', 'CC', 'NNP', ',', 'CC', 'NNP', 'CD', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

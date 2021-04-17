@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Renee O'Connor</title>
+<link/>https://en.wikipedia.org/wiki/Renee_O%27Connor
+<annotated>0</annotated>
+<originalabstract>Evelyn Renee O'Connor (born February 15, 1971) is an American actress, producer, and director, known for the role of Gabrielle on the television series Xena: Warrior Princess.</originalabstract>
+<abstract>Evelyn_Renee_O'Connor ( born February_15_,_1971 ) is an_American_actress , producer , and director , known for the_role of Gabrielle on the_television_series_Xena : Warrior_Princess .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Evelyn'), (7, 'Renee'), (13, 'O\'Connor'), (22, '('), (23, 'born'), (28, 'February'), (37, '15'), (39, ','), (41, '1971'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actress'), (69, ','), (71, 'producer'), (79, ','), (81, 'and'), (85, 'director'), (93, ','), (95, 'known'), (101, 'for'), (105, 'the'), (109, 'role'), (114, 'of'), (117, 'Gabrielle'), (127, 'on'), (130, 'the'), (134, 'television'), (145, 'series'), (152, 'Xena'), (156, ':'), (158, 'Warrior'), (166, 'Princess'), (174, '.')])</stanford_tokens>
+<opennlp_chunks>[('Evelyn Renee O\'Connor',0, 21), ('February 15, 1971',28, 45), ('an American actress',50, 69), ('the role',105, 113), ('the television series Xena',130, 156), ('Warrior Princess',158, 174)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', ':', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Evelyn'), (7, 'Renee'), (13, "O'Connor"), (22, '('), (23, 'born'), (28, 'February'), (37, '15'), (39, ','), (41, '1971'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actress'), (69, ','), (71, 'producer'), (79, ','), (81, 'and'), (85, 'director'), (93, ','), (95, 'known'), (101, 'for'), (105, 'the'), (109, 'role'), (114, 'of'), (117, 'Gabrielle'), (127, 'on'), (130, 'the'), (134, 'television'), (145, 'series'), (152, 'Xena'), (156, ':'), (158, 'Warrior'), (166, 'Princess'), (174, '.')])</spacy_tokens>
+<spacy_chunks>[("Evelyn Renee O'Connor", 0, 21), ('February 15, 1971', 28, 45), ('an American actress', 50, 69), ('producer', 71, 79), ('director', 85, 93), ('the role', 105, 113), ('Gabrielle', 117, 126), ('the television series', 130, 151), ('Xena: Warrior Princess', 152, 174)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', ':', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

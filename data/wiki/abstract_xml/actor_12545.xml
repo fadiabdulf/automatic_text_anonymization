@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Meghann Haldeman</title>
+<link/>https://en.wikipedia.org/wiki/Meghann_Haldeman
+<annotated>0</annotated>
+<originalabstract>Meghann Michelle Haldeman is an American actress.
+She was nominated for best juvenile actress for her participation in the series: Camp Wilder (1992), Harts of the West (1994) and The Home Court (1996).</originalabstract>
+<abstract>Meghann_Michelle_Haldeman is an_American_actress . She was_nominated for best_juvenile_actress for her_participation in the_series : Camp_Wilder_(_1992_)_,_Harts of the_West_(_1994 ) and The_Home_Court ( 1996_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Meghann'), (8, 'Michelle'), (17, 'Haldeman'), (26, 'is'), (29, 'an'), (32, 'American'), (41, 'actress'), (48, '.'), (50, 'She'), (54, 'was'), (58, 'nominated'), (68, 'for'), (72, 'best'), (77, 'juvenile'), (86, 'actress'), (94, 'for'), (98, 'her'), (102, 'participation'), (116, 'in'), (119, 'the'), (123, 'series'), (129, ':'), (131, 'Camp'), (136, 'Wilder'), (143, '('), (144, '1992'), (148, ')'), (149, ','), (151, 'Harts'), (157, 'of'), (160, 'the'), (164, 'West'), (169, '('), (170, '1994'), (174, ')'), (176, 'and'), (180, 'The'), (184, 'Home'), (189, 'Court'), (195, '('), (196, '1996'), (200, ')'), (201, '.')])</stanford_tokens>
+<opennlp_chunks>[('Meghann Michelle Haldeman',0, 25), ('an American actress',29, 48), ('was nominated',54, 67), ('best juvenile actress',72, 93), ('her participation',98, 115), ('the series',119, 129), ('Camp Wilder (1992), Harts',131, 156), ('the West (1994',160, 174), ('The Home Court',180, 194), ('1996)',196, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', ':', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNPS', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Meghann'), (8, 'Michelle'), (17, 'Haldeman'), (26, 'is'), (29, 'an'), (32, 'American'), (41, 'actress'), (48, '.'), (50, 'She'), (54, 'was'), (58, 'nominated'), (68, 'for'), (72, 'best'), (77, 'juvenile'), (86, 'actress'), (94, 'for'), (98, 'her'), (102, 'participation'), (116, 'in'), (119, 'the'), (123, 'series'), (129, ':'), (131, 'Camp'), (136, 'Wilder'), (143, '('), (144, '1992'), (148, ')'), (149, ','), (151, 'Harts'), (157, 'of'), (160, 'the'), (164, 'West'), (169, '('), (170, '1994'), (174, ')'), (176, 'and'), (180, 'The'), (184, 'Home'), (189, 'Court'), (195, '('), (196, '1996'), (200, ')'), (201, '.')])</spacy_tokens>
+<spacy_chunks>[('Meghann Michelle Haldeman', 0, 25), ('an American actress', 29, 48), ('best juvenile actress', 72, 93), ('her participation', 98, 115), ('the series', 119, 129), ('Camp Wilder', 131, 142), ('Harts of the West', 151, 168), ('The Home Court', 180, 194)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', ':', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

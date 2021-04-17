@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Morgan Brittany</title>
+<link/>https://en.wikipedia.org/wiki/Morgan_Brittany
+<annotated>0</annotated>
+<originalabstract>Morgan Brittany (born Suzanne Cupito; December 5, 1951) is an American actress, best known for her role as Katherine Wentworth, the scheming younger half-sister of Pamela Ewing and Cliff Barnes, on the prime-time soap opera Dallas.</originalabstract>
+<abstract>Morgan_Brittany ( born Suzanne_Cupito ; December_5_,_1951 ) is an_American_actress , best_known for her_role as Katherine_Wentworth , the_scheming_younger_half-sister of Pamela_Ewing and Cliff_Barnes , on the_prime-time_soap_opera_Dallas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Morgan'), (7, 'Brittany'), (16, '('), (17, 'born'), (22, 'Suzanne'), (30, 'Cupito'), (36, ';'), (38, 'December'), (47, '5'), (48, ','), (50, '1951'), (54, ')'), (56, 'is'), (59, 'an'), (62, 'American'), (71, 'actress'), (78, ','), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'her'), (99, 'role'), (104, 'as'), (107, 'Katherine'), (117, 'Wentworth'), (126, ','), (128, 'the'), (132, 'scheming'), (141, 'younger'), (149, 'half-sister'), (161, 'of'), (164, 'Pamela'), (171, 'Ewing'), (177, 'and'), (181, 'Cliff'), (187, 'Barnes'), (193, ','), (195, 'on'), (198, 'the'), (202, 'prime-time'), (213, 'soap'), (218, 'opera'), (224, 'Dallas'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('Morgan Brittany',0, 15), ('Suzanne Cupito',22, 36), ('December 5, 1951',38, 54), ('an American actress',59, 78), ('best known',80, 90), ('her role',95, 103), ('Katherine Wentworth',107, 126), ('the scheming younger half-sister',128, 160), ('Pamela Ewing',164, 176), ('Cliff Barnes',181, 193), ('the prime-time soap opera Dallas',198, 230)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'JJR', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Morgan'), (7, 'Brittany'), (16, '('), (17, 'born'), (22, 'Suzanne'), (30, 'Cupito'), (36, ';'), (38, 'December'), (47, '5'), (48, ','), (50, '1951'), (54, ')'), (56, 'is'), (59, 'an'), (62, 'American'), (71, 'actress'), (78, ','), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'her'), (99, 'role'), (104, 'as'), (107, 'Katherine'), (117, 'Wentworth'), (126, ','), (128, 'the'), (132, 'scheming'), (141, 'younger'), (149, 'half'), (153, '-'), (154, 'sister'), (161, 'of'), (164, 'Pamela'), (171, 'Ewing'), (177, 'and'), (181, 'Cliff'), (187, 'Barnes'), (193, ','), (195, 'on'), (198, 'the'), (202, 'prime'), (207, '-'), (208, 'time'), (213, 'soap'), (218, 'opera'), (224, 'Dallas'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[('Morgan Brittany', 0, 15), ('(born Suzanne Cupito', 16, 36), ('December 5, 1951', 38, 54), ('an American actress', 59, 78), ('her role', 95, 103), ('Katherine Wentworth', 107, 126), ('the scheming younger half-sister', 128, 160), ('Pamela Ewing', 164, 176), ('Cliff Barnes', 181, 193), ('the prime-time soap opera', 198, 223), ('Dallas', 224, 230)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'JJR', 'JJ', 'HYPH', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'IN', 'DT', 'JJ', 'HYPH', 'NN', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert D. Walker</title>
+<link/>https://en.wikipedia.org/wiki/Robert_D._Walker
+<annotated>0</annotated>
+<originalabstract>Robert Donald Walker (June 18, 1888 – March 4, 1954) was an American film actor. He appeared in 215 films between 1913 and 1953. He was born in Bethlehem, Pennsylvania and died in Los Angeles, California.</originalabstract>
+<abstract>Robert_Donald_Walker ( June_18_,_1888 – March_4_,_1954 ) was an_American_film_actor . He appeared in 215_films between 1913_and_1953 . He was_born in Bethlehem , Pennsylvania and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Donald'), (14, 'Walker'), (21, '('), (22, 'June'), (27, '18'), (29, ','), (31, '1888'), (36, '–'), (38, 'March'), (44, '4'), (45, ','), (47, '1954'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'appeared'), (93, 'in'), (96, '215'), (100, 'films'), (106, 'between'), (114, '1913'), (119, 'and'), (123, '1953'), (127, '.'), (129, 'He'), (132, 'was'), (136, 'born'), (141, 'in'), (144, 'Bethlehem'), (153, ','), (155, 'Pennsylvania'), (168, 'and'), (172, 'died'), (177, 'in'), (180, 'Los'), (184, 'Angeles'), (191, ','), (193, 'California'), (203, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Donald Walker',0, 20), ('June 18, 1888',22, 35), ('March 4, 1954',38, 51), ('an American film actor',57, 79), ('215 films',96, 105), ('1913 and 1953',114, 127), ('was born',132, 140), ('Los Angeles',180, 191)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Donald'), (14, 'Walker'), (21, '('), (22, 'June'), (27, '18'), (29, ','), (31, '1888'), (36, '–'), (38, 'March'), (44, '4'), (45, ','), (47, '1954'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'appeared'), (93, 'in'), (96, '215'), (100, 'films'), (106, 'between'), (114, '1913'), (119, 'and'), (123, '1953'), (127, '.'), (129, 'He'), (132, 'was'), (136, 'born'), (141, 'in'), (144, 'Bethlehem'), (153, ','), (155, 'Pennsylvania'), (168, 'and'), (172, 'died'), (177, 'in'), (180, 'Los'), (184, 'Angeles'), (191, ','), (193, 'California'), (203, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Donald Walker', 0, 20), ('June 18, 1888', 22, 35), ('March 4, 1954', 38, 51), ('an American film actor', 57, 79), ('215 films', 96, 105), ('Bethlehem, Pennsylvania', 144, 167), ('Los Angeles, California', 180, 203)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

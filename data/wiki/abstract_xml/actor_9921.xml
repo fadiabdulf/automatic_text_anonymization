@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Martin Lamotte</title>
+<link/>https://en.wikipedia.org/wiki/Martin_Lamotte
+<annotated>0</annotated>
+<originalabstract>Martin Lamotte (born 2 June 1947) is a French actor, comedian and director. He participated in several films alongside Le Splendid. He is most known for his role on the TV Series "SoeurThérèse.com" and "Nos chers voisins".</originalabstract>
+<abstract>Martin_Lamotte ( born 2_June_1947 ) is a_French_actor , comedian_and_director . He participated in several_films alongside Le_Splendid . He is_most_known for his_role on the_TV_Series_"SoeurThérèse.com_"_and_"_Nos_chers_voisins " .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Martin'), (7, 'Lamotte'), (15, '('), (16, 'born'), (21, '2'), (23, 'June'), (28, '1947'), (32, ')'), (34, 'is'), (37, 'a'), (39, 'French'), (46, 'actor'), (51, ','), (53, 'comedian'), (62, 'and'), (66, 'director'), (74, '.'), (76, 'He'), (79, 'participated'), (92, 'in'), (95, 'several'), (103, 'films'), (109, 'alongside'), (119, 'Le'), (122, 'Splendid'), (130, '.'), (132, 'He'), (135, 'is'), (138, 'most'), (143, 'known'), (149, 'for'), (153, 'his'), (157, 'role'), (162, 'on'), (165, 'the'), (169, 'TV'), (172, 'Series'), (179, '"SoeurThérèse.com'), (196, '"'), (198, 'and'), (202, '"'), (203, 'Nos'), (207, 'chers'), (213, 'voisins'), (220, '"'), (221, '.')])</stanford_tokens>
+<opennlp_chunks>[('Martin Lamotte',0, 14), ('2 June 1947',21, 32), ('a French actor',37, 51), ('comedian and director',53, 74), ('several films',95, 108), ('Le Splendid',119, 130), ('is most known',135, 148), ('his role',153, 161), ('the TV Series "SoeurThérèse.com" and "Nos chers voisins',165, 220)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', '\'\'', 'CC', '``', 'NNS', 'NNS', 'NNS', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Martin'), (7, 'Lamotte'), (15, '('), (16, 'born'), (21, '2'), (23, 'June'), (28, '1947'), (32, ')'), (34, 'is'), (37, 'a'), (39, 'French'), (46, 'actor'), (51, ','), (53, 'comedian'), (62, 'and'), (66, 'director'), (74, '.'), (76, 'He'), (79, 'participated'), (92, 'in'), (95, 'several'), (103, 'films'), (109, 'alongside'), (119, 'Le'), (122, 'Splendid'), (130, '.'), (132, 'He'), (135, 'is'), (138, 'most'), (143, 'known'), (149, 'for'), (153, 'his'), (157, 'role'), (162, 'on'), (165, 'the'), (169, 'TV'), (172, 'Series'), (179, '"'), (180, 'SoeurThérèse.com'), (196, '"'), (198, 'and'), (202, '"'), (203, 'Nos'), (207, 'chers'), (213, 'voisins'), (220, '"'), (221, '.')])</spacy_tokens>
+<spacy_chunks>[('Martin Lamotte', 0, 14), ('2 June 1947', 21, 32), ('a French actor', 37, 51), ('comedian', 53, 61), ('director', 66, 74), ('several films', 95, 108), ('Le Splendid', 119, 130), ('his role', 153, 161), ('the TV Series', 165, 178), ('"SoeurThérèse.com', 179, 196)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NNP', "''", 'NNP', "''", 'CC', '``', 'NNP', 'FW', 'FW', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

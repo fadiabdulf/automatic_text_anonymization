@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jon Finch</title>
+<link/>https://en.wikipedia.org/wiki/Jon_Finch
+<annotated>0</annotated>
+<originalabstract>Jon Finch (2 March 1942 – 28 December 2012) was an English stage and film actor who became well known for his Shakespearean roles. Most notably, he starred in films for directors Roman Polanski (Macbeth, 1971) and Alfred Hitchcock (Frenzy, 1972).</originalabstract>
+<abstract>Jon_Finch ( 2_March_1942 – 28_December_2012 ) was an_English_stage_and_film_actor who became well_known for his_Shakespearean_roles . Most_notably , he starred in films for directors Roman_Polanski_(_Macbeth , 1971 ) and Alfred_Hitchcock_(_Frenzy , 1972_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jon'), (4, 'Finch'), (10, '('), (11, '2'), (13, 'March'), (19, '1942'), (24, '–'), (26, '28'), (29, 'December'), (38, '2012'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'English'), (59, 'stage'), (65, 'and'), (69, 'film'), (74, 'actor'), (80, 'who'), (84, 'became'), (91, 'well'), (96, 'known'), (102, 'for'), (106, 'his'), (110, 'Shakespearean'), (124, 'roles'), (129, '.'), (131, 'Most'), (136, 'notably'), (143, ','), (145, 'he'), (148, 'starred'), (156, 'in'), (159, 'films'), (165, 'for'), (169, 'directors'), (179, 'Roman'), (185, 'Polanski'), (194, '('), (195, 'Macbeth'), (202, ','), (204, '1971'), (208, ')'), (210, 'and'), (214, 'Alfred'), (221, 'Hitchcock'), (231, '('), (232, 'Frenzy'), (238, ','), (240, '1972'), (244, ')'), (245, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jon Finch',0, 9), ('2 March 1942',11, 23), ('28 December 2012',26, 42), ('an English stage and film actor',48, 79), ('well known',91, 101), ('his Shakespearean roles',106, 129), ('Most notably',131, 143), ('Roman Polanski (Macbeth',179, 202), ('Alfred Hitchcock (Frenzy',214, 238), ('1972)',240, 245)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', '.', 'RBS', 'RB', ',', 'PRP', 'VBD', 'IN', 'NNS', 'IN', 'NNS', 'JJ', 'NN', '-LRB-', 'NNP', ',', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'NNP', ',', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jon'), (4, 'Finch'), (10, '('), (11, '2'), (13, 'March'), (19, '1942'), (24, '–'), (26, '28'), (29, 'December'), (38, '2012'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'English'), (59, 'stage'), (65, 'and'), (69, 'film'), (74, 'actor'), (80, 'who'), (84, 'became'), (91, 'well'), (96, 'known'), (102, 'for'), (106, 'his'), (110, 'Shakespearean'), (124, 'roles'), (129, '.'), (131, 'Most'), (136, 'notably'), (143, ','), (145, 'he'), (148, 'starred'), (156, 'in'), (159, 'films'), (165, 'for'), (169, 'directors'), (179, 'Roman'), (185, 'Polanski'), (194, '('), (195, 'Macbeth'), (202, ','), (204, '1971'), (208, ')'), (210, 'and'), (214, 'Alfred'), (221, 'Hitchcock'), (231, '('), (232, 'Frenzy'), (238, ','), (240, '1972'), (244, ')'), (245, '.')])</spacy_tokens>
+<spacy_chunks>[('Jon Finch', 0, 9), ('(2 March', 10, 18), ('2 March 1942', 11, 23), ('28 December 2012', 26, 42), ('an English stage', 48, 64), ('film actor', 69, 79), ('his Shakespearean roles', 106, 129), ('directors Roman Polanski', 169, 193), ('Macbeth', 195, 202), ('Alfred Hitchcock', 214, 230), ('Frenzy', 232, 238)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'RB', 'JJ', 'IN', 'PRP$', 'JJ', 'NNS', '.', 'RBS', 'RB', ',', 'PRP', 'VBD', 'IN', 'NNS', 'IN', 'NNS', 'JJ', 'NNP', '-LRB-', 'NNP', ',', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'NNP', ',', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

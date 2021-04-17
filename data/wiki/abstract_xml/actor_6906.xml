@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gregory Walcott</title>
+<link/>https://en.wikipedia.org/wiki/Gregory_Walcott
+<annotated>0</annotated>
+<originalabstract>Gregory Walcott (born Bernard Mattox, January 13, 1928 – March 20, 2015) was an American television and film actor. Although he had roles in many Hollywood films and television series, he is perhaps best known for having appeared in the 1994 film Ed Wood and Wood's Plan 9 from Outer Space from 1959.</originalabstract>
+<abstract>Gregory_Walcott ( born Bernard_Mattox , January_13_,_1928 – March_20_,_2015 ) was an_American_television_and_film_actor . Although he had roles in many_Hollywood_films_and_television_series , he is_perhaps_best_known for having_appeared in the_1994_film_Ed_Wood and Wood 's_Plan_9 from Outer_Space from 1959 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gregory'), (8, 'Walcott'), (16, '('), (17, 'born'), (22, 'Bernard'), (30, 'Mattox'), (36, ','), (38, 'January'), (46, '13'), (48, ','), (50, '1928'), (55, '–'), (57, 'March'), (63, '20'), (65, ','), (67, '2015'), (71, ')'), (73, 'was'), (77, 'an'), (80, 'American'), (89, 'television'), (100, 'and'), (104, 'film'), (109, 'actor'), (114, '.'), (116, 'Although'), (125, 'he'), (128, 'had'), (132, 'roles'), (138, 'in'), (141, 'many'), (146, 'Hollywood'), (156, 'films'), (162, 'and'), (166, 'television'), (177, 'series'), (183, ','), (185, 'he'), (188, 'is'), (191, 'perhaps'), (199, 'best'), (204, 'known'), (210, 'for'), (214, 'having'), (221, 'appeared'), (230, 'in'), (233, 'the'), (237, '1994'), (242, 'film'), (247, 'Ed'), (250, 'Wood'), (255, 'and'), (259, 'Wood'), (263, '\'s'), (266, 'Plan'), (271, '9'), (273, 'from'), (278, 'Outer'), (284, 'Space'), (290, 'from'), (295, '1959'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gregory Walcott',0, 15), ('Bernard Mattox',22, 36), ('January 13, 1928',38, 54), ('March 20, 2015',57, 71), ('an American television and film actor',77, 114), ('many Hollywood films and television series',141, 183), ('is perhaps best known',188, 209), ('having appeared',214, 229), ('the 1994 film Ed Wood',233, 254), ('\'s Plan 9',263, 272), ('Outer Space',278, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'PRP', 'VBD', 'NNS', 'IN', 'JJ', 'NNP', 'NNS', 'CC', 'NN', 'NN', ',', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'VBG', 'VBN', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'POS', 'NNP', 'CD', 'IN', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gregory'), (8, 'Walcott'), (16, '('), (17, 'born'), (22, 'Bernard'), (30, 'Mattox'), (36, ','), (38, 'January'), (46, '13'), (48, ','), (50, '1928'), (55, '–'), (57, 'March'), (63, '20'), (65, ','), (67, '2015'), (71, ')'), (73, 'was'), (77, 'an'), (80, 'American'), (89, 'television'), (100, 'and'), (104, 'film'), (109, 'actor'), (114, '.'), (116, 'Although'), (125, 'he'), (128, 'had'), (132, 'roles'), (138, 'in'), (141, 'many'), (146, 'Hollywood'), (156, 'films'), (162, 'and'), (166, 'television'), (177, 'series'), (183, ','), (185, 'he'), (188, 'is'), (191, 'perhaps'), (199, 'best'), (204, 'known'), (210, 'for'), (214, 'having'), (221, 'appeared'), (230, 'in'), (233, 'the'), (237, '1994'), (242, 'film'), (247, 'Ed'), (250, 'Wood'), (255, 'and'), (259, 'Wood'), (263, "'s"), (266, 'Plan'), (271, '9'), (273, 'from'), (278, 'Outer'), (284, 'Space'), (290, 'from'), (295, '1959'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('Gregory Walcott', 0, 15), ('born Bernard Mattox', 17, 36), ('January 13, 1928', 38, 54), ('March 20, 2015', 57, 71), ('an American television and film actor', 77, 114), ('many Hollywood films', 141, 161), ('television series', 166, 183), ('the 1994 film', 233, 246), ('Ed Wood', 247, 254), ('Plan 9 from Outer Space', 266, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'PRP', 'VBD', 'NNS', 'IN', 'JJ', 'NNP', 'NNS', 'CC', 'NN', 'NN', ',', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'VBG', 'VBN', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'POS', 'NN', 'CD', 'IN', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

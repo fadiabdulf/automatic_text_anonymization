@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Shep Houghton</title>
+<link/>https://en.wikipedia.org/wiki/Shep_Houghton
+<annotated>0</annotated>
+<originalabstract>George Shephard "Shep" Houghton (June 4, 1914 – December 15, 2016) was an American actor and dancer. He had small roles in Gone with the Wind and The Wizard of Oz and at the time of his death in 2016 he was the oldest surviving cast or crew member from both movies.</originalabstract>
+<abstract>George_Shephard_"_Shep_"_Houghton ( June_4_,_1914 – December_15_,_2016 ) was an_American_actor_and_dancer . He had small_roles in Gone with the_Wind and The_Wizard of Oz and at the_time of his_death in 2016 he was the_oldest_surviving_cast_or_crew_member from both_movies .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Shephard'), (16, '"'), (17, 'Shep'), (21, '"'), (23, 'Houghton'), (32, '('), (33, 'June'), (38, '4'), (39, ','), (41, '1914'), (46, '–'), (48, 'December'), (57, '15'), (59, ','), (61, '2016'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'actor'), (89, 'and'), (93, 'dancer'), (99, '.'), (101, 'He'), (104, 'had'), (108, 'small'), (114, 'roles'), (120, 'in'), (123, 'Gone'), (128, 'with'), (133, 'the'), (137, 'Wind'), (142, 'and'), (146, 'The'), (150, 'Wizard'), (157, 'of'), (160, 'Oz'), (163, 'and'), (167, 'at'), (170, 'the'), (174, 'time'), (179, 'of'), (182, 'his'), (186, 'death'), (192, 'in'), (195, '2016'), (200, 'he'), (203, 'was'), (207, 'the'), (211, 'oldest'), (218, 'surviving'), (228, 'cast'), (233, 'or'), (236, 'crew'), (241, 'member'), (248, 'from'), (253, 'both'), (258, 'movies'), (264, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Shephard "Shep" Houghton',0, 31), ('June 4, 1914',33, 45), ('December 15, 2016',48, 65), ('an American actor and dancer',71, 99), ('small roles',108, 119), ('the Wind',133, 141), ('The Wizard',146, 156), ('the time',170, 178), ('his death',182, 191), ('the oldest surviving cast or crew member',207, 247), ('both movies',253, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'JJ', 'NNS', 'IN', 'VBN', 'IN', 'DT', 'NN', 'CC', 'DT', 'NNP', 'IN', 'NNP', 'CC', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'PRP', 'VBD', 'DT', 'JJS', 'VBG', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Shephard'), (16, '"'), (17, 'Shep'), (21, '"'), (23, 'Houghton'), (32, '('), (33, 'June'), (38, '4'), (39, ','), (41, '1914'), (46, '–'), (48, 'December'), (57, '15'), (59, ','), (61, '2016'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'actor'), (89, 'and'), (93, 'dancer'), (99, '.'), (101, 'He'), (104, 'had'), (108, 'small'), (114, 'roles'), (120, 'in'), (123, 'Gone'), (128, 'with'), (133, 'the'), (137, 'Wind'), (142, 'and'), (146, 'The'), (150, 'Wizard'), (157, 'of'), (160, 'Oz'), (163, 'and'), (167, 'at'), (170, 'the'), (174, 'time'), (179, 'of'), (182, 'his'), (186, 'death'), (192, 'in'), (195, '2016'), (200, 'he'), (203, 'was'), (207, 'the'), (211, 'oldest'), (218, 'surviving'), (228, 'cast'), (233, 'or'), (236, 'crew'), (241, 'member'), (248, 'from'), (253, 'both'), (258, 'movies'), (264, '.')])</spacy_tokens>
+<spacy_chunks>[('George Shephard "Shep" Houghton', 0, 31), ('June 4, 1914', 33, 45), ('December 15, 2016', 48, 65), ('an American actor', 71, 88), ('dancer', 93, 99), ('small roles', 108, 119), ('Gone with the Wind', 123, 141), ('The Wizard of Oz', 146, 162), ('the time', 170, 178), ('his death', 182, 191), ('the oldest surviving cast', 207, 232), ('crew member', 236, 247), ('both movies', 253, 264)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'JJ', 'NNS', 'IN', 'VBN', 'IN', 'DT', 'NNP', 'CC', 'DT', 'NNP', 'IN', 'NNP', 'CC', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'PRP', 'VBD', 'DT', 'JJS', 'VBG', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

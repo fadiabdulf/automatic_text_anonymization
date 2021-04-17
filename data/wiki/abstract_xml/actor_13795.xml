@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robin Mattson</title>
+<link/>https://en.wikipedia.org/wiki/Robin_Mattson
+<annotated>0</annotated>
+<originalabstract>Robin Mattson (born June 1, 1956) is an American actress. She is best known for her roles on the daytime soap operas General Hospital, Santa Barbara, and All My Children.</originalabstract>
+<abstract>Robin_Mattson ( born June_1_,_1956 ) is an_American_actress . She is_best_known for her_roles on the_daytime_soap_operas_General_Hospital , Santa_Barbara , and All_My_Children .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robin'), (6, 'Mattson'), (14, '('), (15, 'born'), (20, 'June'), (25, '1'), (26, ','), (28, '1956'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actress'), (56, '.'), (58, 'She'), (62, 'is'), (65, 'best'), (70, 'known'), (76, 'for'), (80, 'her'), (84, 'roles'), (90, 'on'), (93, 'the'), (97, 'daytime'), (105, 'soap'), (110, 'operas'), (117, 'General'), (125, 'Hospital'), (133, ','), (135, 'Santa'), (141, 'Barbara'), (148, ','), (150, 'and'), (154, 'All'), (158, 'My'), (161, 'Children'), (169, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robin Mattson',0, 13), ('June 1, 1956',20, 32), ('an American actress',37, 56), ('is best known',62, 75), ('her roles',80, 89), ('the daytime soap operas General Hospital',93, 133), ('Santa Barbara',135, 148), ('All My Children',154, 169)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'NNS', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'DT', 'PRP$', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robin'), (6, 'Mattson'), (14, '('), (15, 'born'), (20, 'June'), (25, '1'), (26, ','), (28, '1956'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actress'), (56, '.'), (58, 'She'), (62, 'is'), (65, 'best'), (70, 'known'), (76, 'for'), (80, 'her'), (84, 'roles'), (90, 'on'), (93, 'the'), (97, 'daytime'), (105, 'soap'), (110, 'operas'), (117, 'General'), (125, 'Hospital'), (133, ','), (135, 'Santa'), (141, 'Barbara'), (148, ','), (150, 'and'), (154, 'All'), (158, 'My'), (161, 'Children'), (169, '.')])</spacy_tokens>
+<spacy_chunks>[('Robin Mattson', 0, 13), ('June 1, 1956', 20, 32), ('an American actress', 37, 56), ('her roles', 80, 89), ('the daytime soap operas General Hospital', 93, 133), ('Santa Barbara', 135, 148), ('All My Children', 154, 169)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'NNS', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'PDT', 'PRP$', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

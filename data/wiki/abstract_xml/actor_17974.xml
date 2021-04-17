@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lesley McGuire</title>
+<link/>https://en.wikipedia.org/wiki/Lesley_McGuire
+<annotated>0</annotated>
+<originalabstract>Lesley McGuire (born 1972) is an Irish actress who played Jenny Delaney/Quinnan in The Bill and she has also appeared in Kavanagh QC, Silent Witness, Doctors and Shameless.</originalabstract>
+<abstract>Lesley_McGuire ( born 1972 ) is an_Irish_actress who played Jenny_Delaney/Quinnan in The_Bill and she has_also_appeared in Kavanagh_QC , Silent_Witness , Doctors and Shameless .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lesley'), (7, 'McGuire'), (15, '('), (16, 'born'), (21, '1972'), (25, ')'), (27, 'is'), (30, 'an'), (33, 'Irish'), (39, 'actress'), (47, 'who'), (51, 'played'), (58, 'Jenny'), (64, 'Delaney/Quinnan'), (80, 'in'), (83, 'The'), (87, 'Bill'), (92, 'and'), (96, 'she'), (100, 'has'), (104, 'also'), (109, 'appeared'), (118, 'in'), (121, 'Kavanagh'), (130, 'QC'), (132, ','), (134, 'Silent'), (141, 'Witness'), (148, ','), (150, 'Doctors'), (158, 'and'), (162, 'Shameless'), (171, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lesley McGuire',0, 14), ('an Irish actress',30, 46), ('Jenny Delaney/Quinnan',58, 79), ('The Bill',83, 91), ('has also appeared',100, 117), ('Kavanagh QC',121, 132), ('Silent Witness',134, 148)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'JJ', 'NNP', ',', 'NNS', 'CC', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lesley'), (7, 'McGuire'), (15, '('), (16, 'born'), (21, '1972'), (25, ')'), (27, 'is'), (30, 'an'), (33, 'Irish'), (39, 'actress'), (47, 'who'), (51, 'played'), (58, 'Jenny'), (64, 'Delaney'), (71, '/'), (72, 'Quinnan'), (80, 'in'), (83, 'The'), (87, 'Bill'), (92, 'and'), (96, 'she'), (100, 'has'), (104, 'also'), (109, 'appeared'), (118, 'in'), (121, 'Kavanagh'), (130, 'QC'), (132, ','), (134, 'Silent'), (141, 'Witness'), (148, ','), (150, 'Doctors'), (158, 'and'), (162, 'Shameless'), (171, '.')])</spacy_tokens>
+<spacy_chunks>[('Lesley McGuire', 0, 14), ('an Irish actress', 30, 46), ('Jenny Delaney/Quinnan', 58, 79), ('The Bill', 83, 91), ('Kavanagh QC', 121, 132), ('Silent Witness', 134, 148), ('Doctors', 150, 157), ('Shameless', 162, 171)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'NNP', 'NNP', 'SYM', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNPS', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

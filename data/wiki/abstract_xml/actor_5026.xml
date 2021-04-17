@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Don O'Kelly</title>
+<link/>https://en.wikipedia.org/wiki/Don_O%27Kelly
+<annotated>0</annotated>
+<originalabstract>Don O'Kelly, (March 17, 1924 – October 2, 1966) was an American actor prominent in the 1950s and 1960s mostly on television.  Though credited as "Don Kelly" in earlier performances, his billing was changed to "Don O'Kelly" in 1960.</originalabstract>
+<abstract>Don_O'Kelly , ( March_17_,_1924 – October_2_,_1966 ) was an_American_actor prominent in the_1950s_and_1960s mostly on television . Though credited as " Don_Kelly " in earlier_performances , his_billing was_changed to "_Don_O'Kelly " in 1960 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Don'), (4, 'O\'Kelly'), (11, ','), (13, '('), (14, 'March'), (20, '17'), (22, ','), (24, '1924'), (29, '–'), (31, 'October'), (39, '2'), (40, ','), (42, '1966'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (70, 'prominent'), (80, 'in'), (83, 'the'), (87, '1950s'), (93, 'and'), (97, '1960s'), (103, 'mostly'), (110, 'on'), (113, 'television'), (123, '.'), (126, 'Though'), (133, 'credited'), (142, 'as'), (145, '"'), (146, 'Don'), (150, 'Kelly'), (155, '"'), (157, 'in'), (160, 'earlier'), (168, 'performances'), (180, ','), (182, 'his'), (186, 'billing'), (194, 'was'), (198, 'changed'), (206, 'to'), (209, '"'), (210, 'Don'), (214, 'O\'Kelly'), (221, '"'), (223, 'in'), (226, '1960'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('Don O\'Kelly',0, 11), ('March 17, 1924',14, 28), ('October 2, 1966',31, 46), ('an American actor',52, 69), ('the 1950s and 1960s',83, 102), ('Don Kelly',146, 155), ('earlier performances',160, 180), ('his billing',182, 193), ('was changed',194, 205), ('"Don O\'Kelly',209, 221)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'JJ', 'IN', 'DT', 'CD', 'CC', 'CD', 'RB', 'IN', 'NN', '.', 'IN', 'VBN', 'IN', '``', 'NNP', 'NNP', '\'\'', 'IN', 'JJR', 'NNS', ',', 'PRP$', 'NN', 'VBD', 'VBN', 'TO', '``', 'NNP', 'NNP', '\'\'', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Don'), (4, "O'Kelly"), (11, ','), (13, '('), (14, 'March'), (20, '17'), (22, ','), (24, '1924'), (29, '–'), (31, 'October'), (39, '2'), (40, ','), (42, '1966'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (70, 'prominent'), (80, 'in'), (83, 'the'), (87, '1950s'), (93, 'and'), (97, '1960s'), (103, 'mostly'), (110, 'on'), (113, 'television'), (123, '.'), (126, 'Though'), (133, 'credited'), (142, 'as'), (145, '"'), (146, 'Don'), (150, 'Kelly'), (155, '"'), (157, 'in'), (160, 'earlier'), (168, 'performances'), (180, ','), (182, 'his'), (186, 'billing'), (194, 'was'), (198, 'changed'), (206, 'to'), (209, '"'), (210, 'Don'), (214, "O'Kelly"), (221, '"'), (223, 'in'), (226, '1960'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[("Don O'Kelly", 0, 11), ('March 17, 1924', 14, 28), ('October 2, 1966', 31, 46), ('the 1950s', 83, 92), ('television', 113, 123), ('"Don Kelly', 145, 155), ('earlier performances', 160, 180), ('his billing', 182, 193), ('"Don O\'Kelly', 209, 221)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNPS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'JJ', 'IN', 'DT', 'NNS', 'CC', 'NNS', 'RB', 'IN', 'NN', '.', 'IN', 'VBN', 'IN', '``', 'NNP', 'NNP', "''", 'IN', 'JJR', 'NNS', ',', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', '``', 'NNP', 'NNP', "''", 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

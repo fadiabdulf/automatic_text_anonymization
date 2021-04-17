@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harry Keenan</title>
+<link/>https://en.wikipedia.org/wiki/Harry_Keenan
+<annotated>0</annotated>
+<originalabstract>Harry George Keenan (June 15, 1867, Richmond, Indiana – April 18, 1944, Santa Ana, California) was an early American silent film actor.
+He starred in about 45 silent films mostly shot between 1912 and 1916, including The Highest Bid, with actresses such as Charlotte Burton.</originalabstract>
+<abstract>Harry_George_Keenan ( June_15_,_1867 , Richmond , Indiana – April_18_,_1944 , Santa_Ana , California ) was an_early_American_silent_film_actor . He starred in about_45_silent_films mostly shot between 1912_and_1916 , including The_Highest_Bid , with actresses such_as Charlotte_Burton .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harry'), (6, 'George'), (13, 'Keenan'), (20, '('), (21, 'June'), (26, '15'), (28, ','), (30, '1867'), (34, ','), (36, 'Richmond'), (44, ','), (46, 'Indiana'), (54, '–'), (56, 'April'), (62, '18'), (64, ','), (66, '1944'), (70, ','), (72, 'Santa'), (78, 'Ana'), (81, ','), (83, 'California'), (93, ')'), (95, 'was'), (99, 'an'), (102, 'early'), (108, 'American'), (117, 'silent'), (124, 'film'), (129, 'actor'), (134, '.'), (136, 'He'), (139, 'starred'), (147, 'in'), (150, 'about'), (156, '45'), (159, 'silent'), (166, 'films'), (172, 'mostly'), (179, 'shot'), (184, 'between'), (192, '1912'), (197, 'and'), (201, '1916'), (205, ','), (207, 'including'), (217, 'The'), (221, 'Highest'), (229, 'Bid'), (232, ','), (234, 'with'), (239, 'actresses'), (249, 'such'), (254, 'as'), (257, 'Charlotte'), (267, 'Burton'), (273, '.')])</stanford_tokens>
+<opennlp_chunks>[('Harry George Keenan',0, 19), ('June 15, 1867',21, 34), ('April 18, 1944',56, 70), ('Santa Ana',72, 81), ('an early American silent film actor',99, 134), ('about 45 silent films',150, 171), ('1912 and 1916',192, 205), ('The Highest Bid',217, 232), ('such as',249, 256), ('Charlotte Burton',257, 273)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'JJ', 'NNS', 'RB', 'VBD', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'DT', 'JJS', 'NN', ',', 'IN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harry'), (6, 'George'), (13, 'Keenan'), (20, '('), (21, 'June'), (26, '15'), (28, ','), (30, '1867'), (34, ','), (36, 'Richmond'), (44, ','), (46, 'Indiana'), (54, '–'), (56, 'April'), (62, '18'), (64, ','), (66, '1944'), (70, ','), (72, 'Santa'), (78, 'Ana'), (81, ','), (83, 'California'), (93, ')'), (95, 'was'), (99, 'an'), (102, 'early'), (108, 'American'), (117, 'silent'), (124, 'film'), (129, 'actor'), (134, '.'), (136, 'He'), (139, 'starred'), (147, 'in'), (150, 'about'), (156, '45'), (159, 'silent'), (166, 'films'), (172, 'mostly'), (179, 'shot'), (184, 'between'), (192, '1912'), (197, 'and'), (201, '1916'), (205, ','), (207, 'including'), (217, 'The'), (221, 'Highest'), (229, 'Bid'), (232, ','), (234, 'with'), (239, 'actresses'), (249, 'such'), (254, 'as'), (257, 'Charlotte'), (267, 'Burton'), (273, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry George Keenan', 0, 19), ('June 15, 1867', 21, 34), ('Richmond, Indiana', 36, 53), ('April 18, 1944', 56, 70), ('Santa Ana, California', 72, 93), ('an early American silent film actor', 99, 134), ('about 45 silent films', 150, 171), ('The Highest Bid', 217, 232), ('actresses', 239, 248), ('Charlotte Burton', 257, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'CD', ',', 'CD', ',', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'JJ', 'NNS', 'RB', 'VBN', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'DT', 'NNP', 'NN', ',', 'IN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

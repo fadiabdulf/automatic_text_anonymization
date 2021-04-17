@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phil Campos</title>
+<link/>https://en.wikipedia.org/wiki/Phil_Campos
+<annotated>0</annotated>
+<originalabstract>Phil Campos was a singer who recorded a couple of albums and singles during the 1960. He was a member of folk groups, Les Baxter's Balladeers in the early 1960s and later the group leader of The Forum which had a hit in the late 1960s. He was also an actor who appeared in some well known television shows.</originalabstract>
+<abstract>Phil_Campos was a_singer who recorded a_couple of albums_and_singles during the_1960 . He was a_member of folk_groups , Les_Baxter 's_Balladeers in the_early_1960s and later the_group_leader of The_Forum which had a_hit in the_late_1960s . He was also an_actor who appeared in some_well_known_television_shows .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phil'), (5, 'Campos'), (12, 'was'), (16, 'a'), (18, 'singer'), (25, 'who'), (29, 'recorded'), (38, 'a'), (40, 'couple'), (47, 'of'), (50, 'albums'), (57, 'and'), (61, 'singles'), (69, 'during'), (76, 'the'), (80, '1960'), (84, '.'), (86, 'He'), (89, 'was'), (93, 'a'), (95, 'member'), (102, 'of'), (105, 'folk'), (110, 'groups'), (116, ','), (118, 'Les'), (122, 'Baxter'), (128, '\'s'), (131, 'Balladeers'), (142, 'in'), (145, 'the'), (149, 'early'), (155, '1960s'), (161, 'and'), (165, 'later'), (171, 'the'), (175, 'group'), (181, 'leader'), (188, 'of'), (191, 'The'), (195, 'Forum'), (201, 'which'), (207, 'had'), (211, 'a'), (213, 'hit'), (217, 'in'), (220, 'the'), (224, 'late'), (229, '1960s'), (234, '.'), (236, 'He'), (239, 'was'), (243, 'also'), (248, 'an'), (251, 'actor'), (257, 'who'), (261, 'appeared'), (270, 'in'), (273, 'some'), (278, 'well'), (283, 'known'), (289, 'television'), (300, 'shows'), (305, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phil Campos',0, 11), ('a singer',16, 24), ('a couple',38, 46), ('albums and singles',50, 68), ('the 1960',76, 84), ('a member',93, 101), ('folk groups',105, 116), ('Les Baxter',118, 128), ('\'s Balladeers',128, 141), ('the early 1960s',145, 160), ('the group leader',171, 187), ('The Forum',191, 200), ('a hit',211, 216), ('the late 1960s',220, 234), ('an actor',248, 256), ('some well known television shows',273, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBD', 'DT', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'NNS', 'CC', 'NNS', 'IN', 'DT', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNS', ',', 'NNP', 'NNP', 'POS', 'NNPS', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'RB', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'WDT', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'WP', 'VBD', 'IN', 'DT', 'RB', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phil'), (5, 'Campos'), (12, 'was'), (16, 'a'), (18, 'singer'), (25, 'who'), (29, 'recorded'), (38, 'a'), (40, 'couple'), (47, 'of'), (50, 'albums'), (57, 'and'), (61, 'singles'), (69, 'during'), (76, 'the'), (80, '1960'), (84, '.'), (86, 'He'), (89, 'was'), (93, 'a'), (95, 'member'), (102, 'of'), (105, 'folk'), (110, 'groups'), (116, ','), (118, 'Les'), (122, 'Baxter'), (128, "'s"), (131, 'Balladeers'), (142, 'in'), (145, 'the'), (149, 'early'), (155, '1960s'), (161, 'and'), (165, 'later'), (171, 'the'), (175, 'group'), (181, 'leader'), (188, 'of'), (191, 'The'), (195, 'Forum'), (201, 'which'), (207, 'had'), (211, 'a'), (213, 'hit'), (217, 'in'), (220, 'the'), (224, 'late'), (229, '1960s'), (234, '.'), (236, 'He'), (239, 'was'), (243, 'also'), (248, 'an'), (251, 'actor'), (257, 'who'), (261, 'appeared'), (270, 'in'), (273, 'some'), (278, 'well'), (283, 'known'), (289, 'television'), (300, 'shows'), (305, '.')])</spacy_tokens>
+<spacy_chunks>[('Phil Campos', 0, 11), ('a singer', 16, 24), ('a couple', 38, 46), ('albums', 50, 56), ('singles', 61, 68), ('a member', 93, 101), ('folk groups', 105, 116), ("Les Baxter's Balladeers", 118, 141), ('the early 1960s', 145, 160), ('later the group leader', 165, 187), ('The Forum', 191, 200), ('a hit', 211, 216), ('the late 1960s', 220, 234), ('an actor', 248, 256), ('some well known television shows', 273, 305)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBD', 'DT', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'NNS', 'CC', 'NNS', 'IN', 'DT', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNS', ',', 'NNP', 'NNP', 'POS', 'NNPS', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'RBR', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'WDT', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'RB', 'DT', 'NN', 'WP', 'VBD', 'IN', 'DT', 'RB', 'VBN', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

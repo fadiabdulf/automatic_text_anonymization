@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>María Mercader</title>
+<link/>https://en.wikipedia.org/wiki/Mar%C3%ADa_Mercader
+<annotated>0</annotated>
+<originalabstract>María de la Asunción Mercader Fordada (6 March 1918 – 26 January 2011) was a Spanish film actress. She appeared in 40 films between 1923 and 1992. She was the second wife of film director Vittorio De Sica. Her half-brother was Ramón Mercader, the murderer of Leon Trotsky in 1940, in Mexico.</originalabstract>
+<abstract>María_de_la_Asunción_Mercader_Fordada ( 6_March_1918 – 26_January_2011 ) was a_Spanish_film_actress . She appeared in 40_films between 1923_and_1992 . She was the_second_wife of film_director_Vittorio_De_Sica . Her_half-brother was Ramón_Mercader , the_murderer of Leon_Trotsky in 1940 , in Mexico .</abstract>
+<stanford_tokens>OrderedDict([(0, 'María'), (6, 'de'), (9, 'la'), (12, 'Asunción'), (21, 'Mercader'), (30, 'Fordada'), (38, '('), (39, '6'), (41, 'March'), (47, '1918'), (52, '–'), (54, '26'), (57, 'January'), (65, '2011'), (69, ')'), (71, 'was'), (75, 'a'), (77, 'Spanish'), (85, 'film'), (90, 'actress'), (97, '.'), (99, 'She'), (103, 'appeared'), (112, 'in'), (115, '40'), (118, 'films'), (124, 'between'), (132, '1923'), (137, 'and'), (141, '1992'), (145, '.'), (147, 'She'), (151, 'was'), (155, 'the'), (159, 'second'), (166, 'wife'), (171, 'of'), (174, 'film'), (179, 'director'), (188, 'Vittorio'), (197, 'De'), (200, 'Sica'), (204, '.'), (206, 'Her'), (210, 'half-brother'), (223, 'was'), (227, 'Ramón'), (233, 'Mercader'), (241, ','), (243, 'the'), (247, 'murderer'), (256, 'of'), (259, 'Leon'), (264, 'Trotsky'), (272, 'in'), (275, '1940'), (279, ','), (281, 'in'), (284, 'Mexico'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('María de la Asunción Mercader Fordada',0, 37), ('6 March 1918',39, 51), ('26 January 2011',54, 69), ('a Spanish film actress',75, 97), ('40 films',115, 123), ('1923 and 1992',132, 145), ('the second wife',155, 170), ('film director Vittorio De Sica',174, 204), ('Her half-brother',206, 222), ('Ramón Mercader',227, 241), ('the murderer',243, 255), ('Leon Trotsky',259, 271)]</opennlp_chunks>
+<stanford_pos>['NNP', 'FW', 'FW', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'VBD', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'CD', ',', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'María'), (6, 'de'), (9, 'la'), (12, 'Asunción'), (21, 'Mercader'), (30, 'Fordada'), (38, '('), (39, '6'), (41, 'March'), (47, '1918'), (52, '–'), (54, '26'), (57, 'January'), (65, '2011'), (69, ')'), (71, 'was'), (75, 'a'), (77, 'Spanish'), (85, 'film'), (90, 'actress'), (97, '.'), (99, 'She'), (103, 'appeared'), (112, 'in'), (115, '40'), (118, 'films'), (124, 'between'), (132, '1923'), (137, 'and'), (141, '1992'), (145, '.'), (147, 'She'), (151, 'was'), (155, 'the'), (159, 'second'), (166, 'wife'), (171, 'of'), (174, 'film'), (179, 'director'), (188, 'Vittorio'), (197, 'De'), (200, 'Sica'), (204, '.'), (206, 'Her'), (210, 'half'), (214, '-'), (215, 'brother'), (223, 'was'), (227, 'Ramón'), (233, 'Mercader'), (241, ','), (243, 'the'), (247, 'murderer'), (256, 'of'), (259, 'Leon'), (264, 'Trotsky'), (272, 'in'), (275, '1940'), (279, ','), (281, 'in'), (284, 'Mexico'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('María de la Asunción Mercader Fordada', 0, 37), ('(6 March', 38, 46), ('6 March 1918', 39, 51), ('26 January 2011', 54, 69), ('a Spanish film actress', 75, 97), ('40 films', 115, 123), ('the second wife', 155, 170), ('film director Vittorio De Sica', 174, 204), ('Her half-brother', 206, 222), ('Ramón Mercader', 227, 241), ('the murderer', 243, 255), ('Leon Trotsky', 259, 271), ('Mexico', 284, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '.', 'PRP$', 'JJ', 'HYPH', 'NN', 'VBD', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'CD', ',', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

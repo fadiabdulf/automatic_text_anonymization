@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jorgie Porter</title>
+<link/>https://en.wikipedia.org/wiki/Jorgie_Porter
+<annotated>0</annotated>
+<originalabstract>Jorgina  "Jorgie" Porter (born 25 December 1987) is an English actress and model. She is best known for portraying Theresa  in the Channel 4 soap opera Hollyoaks from 2008 until 2016.</originalabstract>
+<abstract>Jorgina_"_Jorgie_"_Porter ( born 25_December_1987 ) is an_English_actress_and_model . She is_best_known for portraying_Theresa in the_Channel_4_soap_opera_Hollyoaks from 2008 until 2016 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jorgina'), (9, '"'), (10, 'Jorgie'), (16, '"'), (18, 'Porter'), (25, '('), (26, 'born'), (31, '25'), (34, 'December'), (43, '1987'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'English'), (63, 'actress'), (71, 'and'), (75, 'model'), (80, '.'), (82, 'She'), (86, 'is'), (89, 'best'), (94, 'known'), (100, 'for'), (104, 'portraying'), (115, 'Theresa'), (124, 'in'), (127, 'the'), (131, 'Channel'), (139, '4'), (141, 'soap'), (146, 'opera'), (152, 'Hollyoaks'), (162, 'from'), (167, '2008'), (172, 'until'), (178, '2016'), (182, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jorgina  "Jorgie" Porter',0, 24), ('25 December 1987',31, 47), ('an English actress and model',52, 80), ('is best known',86, 99), ('portraying Theresa',104, 122), ('the Channel 4 soap opera Hollyoaks',127, 161)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NNP', 'CD', 'NN', 'NN', 'NNS', 'IN', 'CD', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jorgina'), (9, '"'), (10, 'Jorgie'), (16, '"'), (18, 'Porter'), (25, '('), (26, 'born'), (31, '25'), (34, 'December'), (43, '1987'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'English'), (63, 'actress'), (71, 'and'), (75, 'model'), (80, '.'), (82, 'She'), (86, 'is'), (89, 'best'), (94, 'known'), (100, 'for'), (104, 'portraying'), (115, 'Theresa'), (124, 'in'), (127, 'the'), (131, 'Channel'), (139, '4'), (141, 'soap'), (146, 'opera'), (152, 'Hollyoaks'), (162, 'from'), (167, '2008'), (172, 'until'), (178, '2016'), (182, '.')])</spacy_tokens>
+<spacy_chunks>[('Jorgina', 0, 7), ('"Jorgie" Porter', 9, 24), ('25 December 1987', 31, 47), ('an English actress', 52, 70), ('Theresa', 115, 122), ('the Channel 4 soap opera Hollyoaks', 127, 161)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'NNP', 'CD', 'NN', 'NN', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

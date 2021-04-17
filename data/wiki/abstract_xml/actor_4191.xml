@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hughie Mack</title>
+<link/>https://en.wikipedia.org/wiki/Hughie_Mack
+<annotated>0</annotated>
+<originalabstract>Hughie Mack (November 26, 1884 – October 13, 1927) was an American actor of the silent era. He appeared in 195 films between 1910 and 1928. He was born in Brooklyn, New York and died in Santa Monica, California.</originalabstract>
+<abstract>Hughie_Mack ( November_26_,_1884 – October_13_,_1927 ) was an_American_actor of the_silent_era . He appeared in 195_films between 1910_and_1928 . He was_born in Brooklyn , New_York and died in Santa_Monica , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hughie'), (7, 'Mack'), (12, '('), (13, 'November'), (22, '26'), (24, ','), (26, '1884'), (31, '–'), (33, 'October'), (41, '13'), (43, ','), (45, '1927'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'of'), (76, 'the'), (80, 'silent'), (87, 'era'), (90, '.'), (92, 'He'), (95, 'appeared'), (104, 'in'), (107, '195'), (111, 'films'), (117, 'between'), (125, '1910'), (130, 'and'), (134, '1928'), (138, '.'), (140, 'He'), (143, 'was'), (147, 'born'), (152, 'in'), (155, 'Brooklyn'), (163, ','), (165, 'New'), (169, 'York'), (174, 'and'), (178, 'died'), (183, 'in'), (186, 'Santa'), (192, 'Monica'), (198, ','), (200, 'California'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hughie Mack',0, 11), ('November 26, 1884',13, 30), ('October 13, 1927',33, 49), ('an American actor',55, 72), ('the silent era',76, 90), ('195 films',107, 116), ('1910 and 1928',125, 138), ('was born',143, 151), ('New York',165, 173), ('Santa Monica',186, 198)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hughie'), (7, 'Mack'), (12, '('), (13, 'November'), (22, '26'), (24, ','), (26, '1884'), (31, '–'), (33, 'October'), (41, '13'), (43, ','), (45, '1927'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'of'), (76, 'the'), (80, 'silent'), (87, 'era'), (90, '.'), (92, 'He'), (95, 'appeared'), (104, 'in'), (107, '195'), (111, 'films'), (117, 'between'), (125, '1910'), (130, 'and'), (134, '1928'), (138, '.'), (140, 'He'), (143, 'was'), (147, 'born'), (152, 'in'), (155, 'Brooklyn'), (163, ','), (165, 'New'), (169, 'York'), (174, 'and'), (178, 'died'), (183, 'in'), (186, 'Santa'), (192, 'Monica'), (198, ','), (200, 'California'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Hughie Mack', 0, 11), ('(November', 12, 21), ('November 26, 1884', 13, 30), ('October 13, 1927', 33, 49), ('an American actor', 55, 72), ('the silent era', 76, 90), ('195 films', 107, 116), ('Brooklyn, New York', 155, 173), ('Santa Monica, California', 186, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

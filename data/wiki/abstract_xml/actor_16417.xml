@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maria Britneva</title>
+<link/>https://en.wikipedia.org/wiki/Maria_Britneva
+<annotated>0</annotated>
+<originalabstract>Maria Britneva, later Lady Maria St. Just (2 July 1921 – 15 February 1994) was a Russian-British actress who was a friend of Tennessee Williams and his literary executor.</originalabstract>
+<abstract>Maria_Britneva , later Lady_Maria_St._Just ( 2_July_1921 – 15_February_1994 ) was a_Russian-British_actress who was a_friend of Tennessee_Williams and his_literary_executor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maria'), (6, 'Britneva'), (14, ','), (16, 'later'), (22, 'Lady'), (27, 'Maria'), (33, 'St.'), (37, 'Just'), (42, '('), (43, '2'), (45, 'July'), (50, '1921'), (55, '–'), (57, '15'), (60, 'February'), (69, '1994'), (73, ')'), (75, 'was'), (79, 'a'), (81, 'Russian-British'), (97, 'actress'), (105, 'who'), (109, 'was'), (113, 'a'), (115, 'friend'), (122, 'of'), (125, 'Tennessee'), (135, 'Williams'), (144, 'and'), (148, 'his'), (152, 'literary'), (161, 'executor'), (169, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maria Britneva',0, 14), ('Lady Maria St. Just',22, 41), ('2 July 1921',43, 54), ('15 February 1994',57, 73), ('a Russian-British actress',79, 104), ('a friend',113, 121), ('Tennessee Williams',125, 143), ('his literary executor',148, 169)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'RB', 'NNP', 'NNP', 'NNP', 'RB', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'PRP$', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maria'), (6, 'Britneva'), (14, ','), (16, 'later'), (22, 'Lady'), (27, 'Maria'), (33, 'St.'), (37, 'Just'), (42, '('), (43, '2'), (45, 'July'), (50, '1921'), (55, '–'), (57, '15'), (60, 'February'), (69, '1994'), (73, ')'), (75, 'was'), (79, 'a'), (81, 'Russian'), (88, '-'), (89, 'British'), (97, 'actress'), (105, 'who'), (109, 'was'), (113, 'a'), (115, 'friend'), (122, 'of'), (125, 'Tennessee'), (135, 'Williams'), (144, 'and'), (148, 'his'), (152, 'literary'), (161, 'executor'), (169, '.')])</spacy_tokens>
+<spacy_chunks>[('Maria Britneva', 0, 14), ('later Lady Maria St.', 16, 36), ('2 July 1921', 43, 54), ('15 February 1994', 57, 73), ('a Russian-British actress', 79, 104), ('a friend', 113, 121), ('Tennessee Williams', 125, 143), ('his literary executor', 148, 169)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'RB', 'NNP', 'NNP', 'NNP', 'RB', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'PRP$', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

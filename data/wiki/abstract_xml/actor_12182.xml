@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jane Frazee</title>
+<link/>https://en.wikipedia.org/wiki/Jane_Frazee
+<annotated>0</annotated>
+<originalabstract>Mary Jane Frehse (July 18, 1915 – September 6, 1985), known as Jane Frazee, was an American actress, singer, and dancer. (Her studio biography gave her birthdate as 1918, causing some confusion among her fans; Minnesota historian Dave Kirwan confirms the actual date and birthplace.)</originalabstract>
+<abstract>Mary_Jane_Frehse ( July_18_,_1915 – September_6_,_1985 ) , known as Jane_Frazee , was an_American_actress , singer , and dancer . ( Her_studio_biography gave her_birthdate as 1918 , causing some_confusion among her_fans ; Minnesota_historian_Dave_Kirwan confirms the_actual_date_and_birthplace . )</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Jane'), (10, 'Frehse'), (17, '('), (18, 'July'), (23, '18'), (25, ','), (27, '1915'), (32, '–'), (34, 'September'), (44, '6'), (45, ','), (47, '1985'), (51, ')'), (52, ','), (54, 'known'), (60, 'as'), (63, 'Jane'), (68, 'Frazee'), (74, ','), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'actress'), (99, ','), (101, 'singer'), (107, ','), (109, 'and'), (113, 'dancer'), (119, '.'), (121, '('), (122, 'Her'), (126, 'studio'), (133, 'biography'), (143, 'gave'), (148, 'her'), (152, 'birthdate'), (162, 'as'), (165, '1918'), (169, ','), (171, 'causing'), (179, 'some'), (184, 'confusion'), (194, 'among'), (200, 'her'), (204, 'fans'), (208, ';'), (210, 'Minnesota'), (220, 'historian'), (230, 'Dave'), (235, 'Kirwan'), (242, 'confirms'), (251, 'the'), (255, 'actual'), (262, 'date'), (267, 'and'), (271, 'birthplace'), (281, '.'), (282, ')')])</stanford_tokens>
+<opennlp_chunks>[('Mary Jane Frehse',0, 16), ('July 18, 1915',18, 31), ('September 6, 1985',34, 51), ('Jane Frazee',63, 74), ('an American actress',80, 99), ('Her studio biography',122, 142), ('her birthdate',148, 161), ('some confusion',179, 193), ('her fans',200, 208), ('Minnesota historian Dave Kirwan',210, 241), ('the actual date and birthplace',251, 281)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', '-LRB-', 'PRP$', 'NN', 'NN', 'VBD', 'PRP$', 'NN', 'IN', 'CD', ',', 'VBG', 'DT', 'NN', 'IN', 'PRP$', 'NNS', ':', 'NNP', 'NN', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', '-RRB-']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Jane'), (10, 'Frehse'), (17, '('), (18, 'July'), (23, '18'), (25, ','), (27, '1915'), (32, '–'), (34, 'September'), (44, '6'), (45, ','), (47, '1985'), (51, ')'), (52, ','), (54, 'known'), (60, 'as'), (63, 'Jane'), (68, 'Frazee'), (74, ','), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'actress'), (99, ','), (101, 'singer'), (107, ','), (109, 'and'), (113, 'dancer'), (119, '.'), (121, '('), (122, 'Her'), (126, 'studio'), (133, 'biography'), (143, 'gave'), (148, 'her'), (152, 'birthdate'), (162, 'as'), (165, '1918'), (169, ','), (171, 'causing'), (179, 'some'), (184, 'confusion'), (194, 'among'), (200, 'her'), (204, 'fans'), (208, ';'), (210, 'Minnesota'), (220, 'historian'), (230, 'Dave'), (235, 'Kirwan'), (242, 'confirms'), (251, 'the'), (255, 'actual'), (262, 'date'), (267, 'and'), (271, 'birthplace'), (281, '.'), (282, ')')])</spacy_tokens>
+<spacy_chunks>[('Mary Jane Frehse', 0, 16), ('July 18, 1915', 18, 31), ('September 6, 1985', 34, 51), ('Jane Frazee', 63, 74), ('an American actress', 80, 99), ('singer', 101, 107), ('dancer', 113, 119), ('Her studio biography', 122, 142), ('her birthdate', 148, 161), ('some confusion', 179, 193), ('her fans', 200, 208), ('Minnesota historian Dave Kirwan', 210, 241), ('the actual date', 251, 266), ('birthplace', 271, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', '-LRB-', 'PRP$', 'NN', 'NN', 'VBD', 'PRP$', 'NN', 'IN', 'CD', ',', 'VBG', 'DT', 'NN', 'IN', 'PRP$', 'NNS', ':', 'NNP', 'NN', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', '-RRB-']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

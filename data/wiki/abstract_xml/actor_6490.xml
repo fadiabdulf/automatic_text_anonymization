@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jacques Suzanne</title>
+<link/>https://en.wikipedia.org/wiki/Jacques_Suzanne
+<annotated>0</annotated>
+<originalabstract>Jacques Albert Suzanne (April 17, 1880 - August 1, 1967) was a French painter, artist, pianist, actor and explorer.</originalabstract>
+<abstract>Jacques_Albert_Suzanne ( April_17 , 1880 - August_1_,_1967 ) was a_French_painter , artist , pianist , actor_and_explorer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jacques'), (8, 'Albert'), (15, 'Suzanne'), (23, '('), (24, 'April'), (30, '17'), (32, ','), (34, '1880'), (39, '-'), (41, 'August'), (48, '1'), (49, ','), (51, '1967'), (55, ')'), (57, 'was'), (61, 'a'), (63, 'French'), (70, 'painter'), (77, ','), (79, 'artist'), (85, ','), (87, 'pianist'), (94, ','), (96, 'actor'), (102, 'and'), (106, 'explorer'), (114, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jacques Albert Suzanne',0, 22), ('April 17',24, 32), ('August 1, 1967',41, 55), ('a French painter',61, 77), ('actor and explorer',96, 114)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jacques'), (8, 'Albert'), (15, 'Suzanne'), (23, '('), (24, 'April'), (30, '17'), (32, ','), (34, '1880'), (39, '-'), (41, 'August'), (48, '1'), (49, ','), (51, '1967'), (55, ')'), (57, 'was'), (61, 'a'), (63, 'French'), (70, 'painter'), (77, ','), (79, 'artist'), (85, ','), (87, 'pianist'), (94, ','), (96, 'actor'), (102, 'and'), (106, 'explorer'), (114, '.')])</spacy_tokens>
+<spacy_chunks>[('Jacques Albert Suzanne', 0, 22), ('April 17, 1880', 24, 38), ('August 1, 1967', 41, 55), ('a French painter', 61, 77), ('Artist', 79, 85), ('pianist', 87, 94), ('Explorer', 106, 114)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

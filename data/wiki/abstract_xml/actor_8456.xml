@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Boyd Irwin</title>
+<link/>https://en.wikipedia.org/wiki/Boyd_Irwin
+<annotated>0</annotated>
+<originalabstract>Boyd Irwin (12 March 1880 – 22 January 1957) was an English stage and film actor. He appeared in 135 films between 1915 and 1948, both silent and "talkies", including a starring role in Australian film For Australia in 1915. He was born in Brighton, Sussex and died in Los Angeles, California.</originalabstract>
+<abstract>Boyd_Irwin ( 12_March_1880 – 22_January_1957 ) was an_English_stage_and_film_actor . He appeared in 135_films between 1915_and_1948 , both silent_and_"_talkies_" , including a_starring_role in Australian_film For Australia in 1915 . He was_born in Brighton , Sussex and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Boyd'), (5, 'Irwin'), (11, '('), (12, '12'), (15, 'March'), (21, '1880'), (26, '–'), (28, '22'), (31, 'January'), (39, '1957'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'stage'), (66, 'and'), (70, 'film'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'appeared'), (94, 'in'), (97, '135'), (101, 'films'), (107, 'between'), (115, '1915'), (120, 'and'), (124, '1948'), (128, ','), (130, 'both'), (135, 'silent'), (142, 'and'), (146, '"'), (147, 'talkies'), (154, '"'), (155, ','), (157, 'including'), (167, 'a'), (169, 'starring'), (178, 'role'), (183, 'in'), (186, 'Australian'), (197, 'film'), (202, 'For'), (206, 'Australia'), (216, 'in'), (219, '1915'), (223, '.'), (225, 'He'), (228, 'was'), (232, 'born'), (237, 'in'), (240, 'Brighton'), (248, ','), (250, 'Sussex'), (257, 'and'), (261, 'died'), (266, 'in'), (269, 'Los'), (273, 'Angeles'), (280, ','), (282, 'California'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Boyd Irwin',0, 10), ('12 March 1880',12, 25), ('22 January 1957',28, 43), ('an English stage and film actor',49, 80), ('135 films',97, 106), ('1915 and 1948',115, 128), ('silent and "talkies"',135, 155), ('a starring role',167, 182), ('Australian film',186, 201), ('was born',228, 236), ('Los Angeles',269, 280)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'CC', 'JJ', 'CC', '``', 'NNS', '\'\'', ',', 'VBG', 'DT', 'VBG', 'NN', 'IN', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Boyd'), (5, 'Irwin'), (11, '('), (12, '12'), (15, 'March'), (21, '1880'), (26, '–'), (28, '22'), (31, 'January'), (39, '1957'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'stage'), (66, 'and'), (70, 'film'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'appeared'), (94, 'in'), (97, '135'), (101, 'films'), (107, 'between'), (115, '1915'), (120, 'and'), (124, '1948'), (128, ','), (130, 'both'), (135, 'silent'), (142, 'and'), (146, '"'), (147, 'talkies'), (154, '"'), (155, ','), (157, 'including'), (167, 'a'), (169, 'starring'), (178, 'role'), (183, 'in'), (186, 'Australian'), (197, 'film'), (202, 'For'), (206, 'Australia'), (216, 'in'), (219, '1915'), (223, '.'), (225, 'He'), (228, 'was'), (232, 'born'), (237, 'in'), (240, 'Brighton'), (248, ','), (250, 'Sussex'), (257, 'and'), (261, 'died'), (266, 'in'), (269, 'Los'), (273, 'Angeles'), (280, ','), (282, 'California'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Boyd Irwin', 0, 10), ('(12 March', 11, 20), ('12 March 1880', 12, 25), ('22 January 1957', 28, 43), ('an English stage', 49, 65), ('film actor', 70, 80), ('135 films', 97, 106), ('a starring role', 167, 182), ('Australian film', 186, 201), ('For Australia', 202, 215), ('Brighton', 240, 248), ('Sussex', 250, 256), ('Los Angeles', 269, 280), ('California', 282, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'CC', 'JJ', 'CC', '``', 'NNS', "''", ',', 'VBG', 'DT', 'VBG', 'NN', 'IN', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ward Crane</title>
+<link/>https://en.wikipedia.org/wiki/Ward_Crane
+<annotated>0</annotated>
+<originalabstract>Ward Crane (May 18, 1890 – July 21, 1928) was an American silent film actor popular in comedies and dramas. Out of dozens of films, he is remembered as the handsome heavy to Buster Keaton's hero in Sherlock Jr. (1924).
+Crane died at age 38 in Saranac Lake from pneumonia.</originalabstract>
+<abstract>Ward_Crane ( May_18_,_1890 – July_21_,_1928 ) was an_American_silent_film_actor_popular in comedies_and_dramas . Out of dozens of films , he is_remembered as the_handsome_heavy to Buster_Keaton 's_hero in Sherlock_Jr. ( 1924_) . Crane died at age_38 in Saranac_Lake from pneumonia .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ward'), (5, 'Crane'), (11, '('), (12, 'May'), (16, '18'), (18, ','), (20, '1890'), (25, '–'), (27, 'July'), (32, '21'), (34, ','), (36, '1928'), (40, ')'), (42, 'was'), (46, 'an'), (49, 'American'), (58, 'silent'), (65, 'film'), (70, 'actor'), (76, 'popular'), (84, 'in'), (87, 'comedies'), (96, 'and'), (100, 'dramas'), (106, '.'), (108, 'Out'), (112, 'of'), (115, 'dozens'), (122, 'of'), (125, 'films'), (130, ','), (132, 'he'), (135, 'is'), (138, 'remembered'), (149, 'as'), (152, 'the'), (156, 'handsome'), (165, 'heavy'), (171, 'to'), (174, 'Buster'), (181, 'Keaton'), (187, '\'s'), (190, 'hero'), (195, 'in'), (198, 'Sherlock'), (207, 'Jr.'), (211, '('), (212, '1924'), (216, ')'), (217, '.'), (219, 'Crane'), (225, 'died'), (230, 'at'), (233, 'age'), (237, '38'), (240, 'in'), (243, 'Saranac'), (251, 'Lake'), (256, 'from'), (261, 'pneumonia'), (270, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ward Crane',0, 10), ('May 18, 1890',12, 24), ('July 21, 1928',27, 40), ('an American silent film actor popular',46, 83), ('comedies and dramas',87, 106), ('is remembered',135, 148), ('the handsome heavy',152, 170), ('Buster Keaton',174, 187), ('\'s hero',187, 194), ('Sherlock Jr.',198, 210), ('1924)',212, 217), ('age 38',233, 239), ('Saranac Lake',243, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'JJ', 'IN', 'NNS', 'CC', 'NN', '.', 'IN', 'IN', 'NNS', 'IN', 'NNS', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'TO', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'VBD', 'IN', 'NN', 'CD', 'IN', 'NNP', 'NNP', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ward'), (5, 'Crane'), (11, '('), (12, 'May'), (16, '18'), (18, ','), (20, '1890'), (25, '–'), (27, 'July'), (32, '21'), (34, ','), (36, '1928'), (40, ')'), (42, 'was'), (46, 'an'), (49, 'American'), (58, 'silent'), (65, 'film'), (70, 'actor'), (76, 'popular'), (84, 'in'), (87, 'comedies'), (96, 'and'), (100, 'dramas'), (106, '.'), (108, 'Out'), (112, 'of'), (115, 'dozens'), (122, 'of'), (125, 'films'), (130, ','), (132, 'he'), (135, 'is'), (138, 'remembered'), (149, 'as'), (152, 'the'), (156, 'handsome'), (165, 'heavy'), (171, 'to'), (174, 'Buster'), (181, 'Keaton'), (187, "'s"), (190, 'hero'), (195, 'in'), (198, 'Sherlock'), (207, 'Jr.'), (211, '('), (212, '1924'), (216, ')'), (217, '.'), (219, 'Crane'), (225, 'died'), (230, 'at'), (233, 'age'), (237, '38'), (240, 'in'), (243, 'Saranac'), (251, 'Lake'), (256, 'from'), (261, 'pneumonia'), (270, '.')])</spacy_tokens>
+<spacy_chunks>[('Ward Crane', 0, 10), ('May 18, 1890', 12, 24), ('July 21, 1928', 27, 40), ('an American silent film actor', 46, 75), ('comedies', 87, 95), ('dramas', 100, 106), ('dozens', 115, 121), ('the handsome heavy', 152, 170), ("Buster Keaton's hero", 174, 194), ('Sherlock Jr.', 198, 210), ('Saranac Lake', 243, 255), ('pneumonia', 261, 270)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'JJ', 'IN', 'NNS', 'CC', 'NNS', '.', 'IN', 'IN', 'NNS', 'IN', 'NNS', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'VBD', 'IN', 'NN', 'CD', 'IN', 'NNP', 'NNP', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

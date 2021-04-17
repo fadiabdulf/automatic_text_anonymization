@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kenny Baker (American performer)</title>
+<link/>https://en.wikipedia.org/wiki/Kenny_Baker_(American_performer)
+<annotated>0</annotated>
+<originalabstract>Kenneth Laurence Baker (September 30, 1912 – August 10, 1985) was an American singer and actor who first gained notice as the featured singer on radio's The Jack Benny Program during the 1930s.</originalabstract>
+<abstract>Kenneth_Laurence_Baker ( September_30_,_1912 – August_10_,_1985 ) was an_American_singer and actor who first gained notice as the_featured_singer on radio 's The_Jack_Benny_Program during the_1930s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kenneth'), (8, 'Laurence'), (17, 'Baker'), (23, '('), (24, 'September'), (34, '30'), (36, ','), (38, '1912'), (43, '–'), (45, 'August'), (52, '10'), (54, ','), (56, '1985'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'singer'), (85, 'and'), (89, 'actor'), (95, 'who'), (99, 'first'), (105, 'gained'), (112, 'notice'), (119, 'as'), (122, 'the'), (126, 'featured'), (135, 'singer'), (142, 'on'), (145, 'radio'), (150, '\'s'), (153, 'The'), (157, 'Jack'), (162, 'Benny'), (168, 'Program'), (176, 'during'), (183, 'the'), (187, '1930s'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kenneth Laurence Baker',0, 22), ('September 30, 1912',24, 42), ('August 10, 1985',45, 60), ('an American singer',66, 84), ('the featured singer',122, 141), ('The Jack Benny Program',153, 175), ('the 1930s',183, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'RB', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'POS', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kenneth'), (8, 'Laurence'), (17, 'Baker'), (23, '('), (24, 'September'), (34, '30'), (36, ','), (38, '1912'), (43, '–'), (45, 'August'), (52, '10'), (54, ','), (56, '1985'), (60, ')'), (62, 'was'), (66, 'an'), (69, 'American'), (78, 'singer'), (85, 'and'), (89, 'actor'), (95, 'who'), (99, 'first'), (105, 'gained'), (112, 'notice'), (119, 'as'), (122, 'the'), (126, 'featured'), (135, 'singer'), (142, 'on'), (145, 'radio'), (150, "'s"), (153, 'The'), (157, 'Jack'), (162, 'Benny'), (168, 'Program'), (176, 'during'), (183, 'the'), (187, '1930s'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('Kenneth Laurence Baker', 0, 22), ('(September', 23, 33), ('September 30, 1912', 24, 42), ('August 10, 1985', 45, 60), ('an American singer', 66, 84), ('notice', 112, 118), ('the featured singer', 122, 141), ("radio's The Jack Benny Program", 145, 175), ('the 1930s', 183, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'RB', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'POS', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

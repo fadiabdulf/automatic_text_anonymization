@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lana Marconi</title>
+<link/>https://en.wikipedia.org/wiki/Lana_Marconi
+<annotated>0</annotated>
+<originalabstract>Lana Marconi (8 September 1917 in Bucharest, Kingdom of Romania – 8 December 1990) was a Romanian-French actress, and the fifth and last wife of the famous French actor-director-playwright Sacha Guitry (1885–1957), whom she married in 1949. She appeared exclusively in her husband's films.</originalabstract>
+<abstract>Lana_Marconi ( 8_September_1917 in Bucharest , Kingdom of Romania – 8_December_1990 ) was a_Romanian-French_actress , and the_fifth_and_last_wife of the_famous_French_actor-director-playwright_Sacha_Guitry ( 1885 – 1957 ) , whom she married in 1949 . She appeared exclusively in her_husband 's_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lana'), (5, 'Marconi'), (13, '('), (14, '8'), (16, 'September'), (26, '1917'), (31, 'in'), (34, 'Bucharest'), (43, ','), (45, 'Kingdom'), (53, 'of'), (56, 'Romania'), (64, '–'), (66, '8'), (68, 'December'), (77, '1990'), (81, ')'), (83, 'was'), (87, 'a'), (89, 'Romanian-French'), (105, 'actress'), (112, ','), (114, 'and'), (118, 'the'), (122, 'fifth'), (128, 'and'), (132, 'last'), (137, 'wife'), (142, 'of'), (145, 'the'), (149, 'famous'), (156, 'French'), (163, 'actor-director-playwright'), (189, 'Sacha'), (195, 'Guitry'), (202, '('), (203, '1885'), (207, '–'), (208, '1957'), (212, ')'), (213, ','), (215, 'whom'), (220, 'she'), (224, 'married'), (232, 'in'), (235, '1949'), (239, '.'), (241, 'She'), (245, 'appeared'), (254, 'exclusively'), (266, 'in'), (269, 'her'), (273, 'husband'), (280, '\'s'), (283, 'films'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lana Marconi',0, 12), ('8 September 1917',14, 30), ('8 December 1990',66, 81), ('a Romanian-French actress',87, 112), ('the fifth and last wife',118, 141), ('the famous French actor-director-playwright Sacha Guitry',145, 201), ('her husband',269, 280), ('\'s films',280, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'CC', 'DT', 'JJ', 'CC', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NNP', 'NNP', '-LRB-', 'NNP', ':', 'CD', '-RRB-', ',', 'WP', 'PRP', 'VBD', 'IN', 'CD', '.', 'PRP', 'VBD', 'RB', 'IN', 'PRP$', 'NN', 'POS', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lana'), (5, 'Marconi'), (13, '('), (14, '8'), (16, 'September'), (26, '1917'), (31, 'in'), (34, 'Bucharest'), (43, ','), (45, 'Kingdom'), (53, 'of'), (56, 'Romania'), (64, '–'), (66, '8'), (68, 'December'), (77, '1990'), (81, ')'), (83, 'was'), (87, 'a'), (89, 'Romanian'), (97, '-'), (98, 'French'), (105, 'actress'), (112, ','), (114, 'and'), (118, 'the'), (122, 'fifth'), (128, 'and'), (132, 'last'), (137, 'wife'), (142, 'of'), (145, 'the'), (149, 'famous'), (156, 'French'), (163, 'actor'), (168, '-'), (169, 'director'), (177, '-'), (178, 'playwright'), (189, 'Sacha'), (195, 'Guitry'), (202, '('), (203, '1885–1957'), (212, ')'), (213, ','), (215, 'whom'), (220, 'she'), (224, 'married'), (232, 'in'), (235, '1949'), (239, '.'), (241, 'She'), (245, 'appeared'), (254, 'exclusively'), (266, 'in'), (269, 'her'), (273, 'husband'), (280, "'s"), (283, 'films'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Lana Marconi', 0, 12), ('8 September 1917', 14, 30), ('Bucharest', 34, 43), ('Kingdom of Romania', 45, 63), ('8 December 1990', 66, 81), ('a Romanian-French actress', 87, 112), ('the fifth and last wife', 118, 141), ('the famous French actor-director-playwright', 145, 188), ('Sacha Guitry', 189, 201), ("her husband's films", 269, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'CC', 'DT', 'JJ', 'CC', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'HYPH', 'NN', 'HYPH', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'WP', 'PRP', 'VBD', 'IN', 'CD', '.', 'PRP', 'VBD', 'RB', 'IN', 'PRP$', 'NN', 'POS', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

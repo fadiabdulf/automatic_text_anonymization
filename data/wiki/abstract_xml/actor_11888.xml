@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kara Edwards</title>
+<link/>https://en.wikipedia.org/wiki/Kara_Edwards
+<annotated>0</annotated>
+<originalabstract>Kara Janét Edwards (born February 17, 1977, Lubbock, Texas) is an American radio personality, and voice actress at Funimation. She provided voices for a number of English versions of Japanese anime series. She is also well known in Charlotte, North Carolina area for her past career as a radio host.</originalabstract>
+<abstract>Kara_Janét_Edwards ( born February_17_,_1977 , Lubbock , Texas ) is an_American_radio_personality , and voice_actress at Funimation . She provided voices for a_number of English_versions of Japanese_anime_series . She is_also_well_known in Charlotte , North_Carolina_area for her_past_career as a_radio_host .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kara'), (5, 'Janét'), (11, 'Edwards'), (19, '('), (20, 'born'), (25, 'February'), (34, '17'), (36, ','), (38, '1977'), (42, ','), (44, 'Lubbock'), (51, ','), (53, 'Texas'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'American'), (75, 'radio'), (81, 'personality'), (92, ','), (94, 'and'), (98, 'voice'), (104, 'actress'), (112, 'at'), (115, 'Funimation'), (125, '.'), (127, 'She'), (131, 'provided'), (140, 'voices'), (147, 'for'), (151, 'a'), (153, 'number'), (160, 'of'), (163, 'English'), (171, 'versions'), (180, 'of'), (183, 'Japanese'), (192, 'anime'), (198, 'series'), (204, '.'), (206, 'She'), (210, 'is'), (213, 'also'), (218, 'well'), (223, 'known'), (229, 'in'), (232, 'Charlotte'), (241, ','), (243, 'North'), (249, 'Carolina'), (258, 'area'), (263, 'for'), (267, 'her'), (271, 'past'), (276, 'career'), (283, 'as'), (286, 'a'), (288, 'radio'), (294, 'host'), (298, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kara Janét Edwards',0, 18), ('February 17, 1977',25, 42), ('an American radio personality',63, 92), ('voice actress',98, 111), ('a number',151, 159), ('English versions',163, 179), ('Japanese anime series',183, 204), ('is also well known',210, 228), ('North Carolina area',243, 262), ('her past career',267, 282), ('a radio host',286, 298)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'CC', 'NN', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'NNS', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNS', 'IN', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kara'), (5, 'Janét'), (11, 'Edwards'), (19, '('), (20, 'born'), (25, 'February'), (34, '17'), (36, ','), (38, '1977'), (42, ','), (44, 'Lubbock'), (51, ','), (53, 'Texas'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'American'), (75, 'radio'), (81, 'personality'), (92, ','), (94, 'and'), (98, 'voice'), (104, 'actress'), (112, 'at'), (115, 'Funimation'), (125, '.'), (127, 'She'), (131, 'provided'), (140, 'voices'), (147, 'for'), (151, 'a'), (153, 'number'), (160, 'of'), (163, 'English'), (171, 'versions'), (180, 'of'), (183, 'Japanese'), (192, 'anime'), (198, 'series'), (204, '.'), (206, 'She'), (210, 'is'), (213, 'also'), (218, 'well'), (223, 'known'), (229, 'in'), (232, 'Charlotte'), (241, ','), (243, 'North'), (249, 'Carolina'), (258, 'area'), (263, 'for'), (267, 'her'), (271, 'past'), (276, 'career'), (283, 'as'), (286, 'a'), (288, 'radio'), (294, 'host'), (298, '.')])</spacy_tokens>
+<spacy_chunks>[('Kara Janét Edwards', 0, 18), ('February 17, 1977', 25, 42), ('Lubbock, Texas', 44, 58), ('an American radio personality', 63, 92), ('voice actress', 98, 111), ('Funimation', 115, 125), ('voices', 140, 146), ('a number', 151, 159), ('English versions', 163, 179), ('Japanese anime series', 183, 204), ('Charlotte, North Carolina', 232, 257), ('North Carolina area', 243, 262), ('her past career', 267, 282), ('a radio host', 286, 298)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'CC', 'NN', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'NNS', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'JJ', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

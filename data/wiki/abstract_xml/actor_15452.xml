@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barbara Tarbuck</title>
+<link/>https://en.wikipedia.org/wiki/Barbara_Tarbuck
+<annotated>0</annotated>
+<originalabstract>Barbara Tarbuck (January 15, 1942 – December 26, 2016) was an American film, television, and stage actress from Detroit, Michigan, best known for her role as "Lady Jane Jacks" in General Hospital.</originalabstract>
+<abstract>Barbara_Tarbuck ( January_15_,_1942 – December_26_,_2016 ) was an_American_film , television , and stage_actress from Detroit , Michigan , best_known for her_role as "_Lady_Jane_Jacks " in General_Hospital .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barbara'), (8, 'Tarbuck'), (16, '('), (17, 'January'), (25, '15'), (27, ','), (29, '1942'), (34, '–'), (36, 'December'), (45, '26'), (47, ','), (49, '2016'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'film'), (75, ','), (77, 'television'), (87, ','), (89, 'and'), (93, 'stage'), (99, 'actress'), (107, 'from'), (112, 'Detroit'), (119, ','), (121, 'Michigan'), (129, ','), (131, 'best'), (136, 'known'), (142, 'for'), (146, 'her'), (150, 'role'), (155, 'as'), (158, '"'), (159, 'Lady'), (164, 'Jane'), (169, 'Jacks'), (174, '"'), (176, 'in'), (179, 'General'), (187, 'Hospital'), (195, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barbara Tarbuck',0, 15), ('January 15, 1942',17, 33), ('December 26, 2016',36, 53), ('an American film',59, 75), ('stage actress',93, 106), ('best known',131, 141), ('her role',146, 154), ('"Lady Jane Jacks',158, 174), ('General Hospital',179, 195)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', '``', 'NNP', 'NNP', 'NNP', '\'\'', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barbara'), (8, 'Tarbuck'), (16, '('), (17, 'January'), (25, '15'), (27, ','), (29, '1942'), (34, '–'), (36, 'December'), (45, '26'), (47, ','), (49, '2016'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'film'), (75, ','), (77, 'television'), (87, ','), (89, 'and'), (93, 'stage'), (99, 'actress'), (107, 'from'), (112, 'Detroit'), (119, ','), (121, 'Michigan'), (129, ','), (131, 'best'), (136, 'known'), (142, 'for'), (146, 'her'), (150, 'role'), (155, 'as'), (158, '"'), (159, 'Lady'), (164, 'Jane'), (169, 'Jacks'), (174, '"'), (176, 'in'), (179, 'General'), (187, 'Hospital'), (195, '.')])</spacy_tokens>
+<spacy_chunks>[('Barbara Tarbuck', 0, 15), ('January 15, 1942', 17, 33), ('December 26, 2016', 36, 53), ('an American film', 59, 75), ('television', 77, 87), ('stage actress', 93, 106), ('Detroit', 112, 119), ('Michigan', 121, 129), ('her role', 146, 154), ('"Lady Jane Jacks', 158, 174), ('General Hospital', 179, 195)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'VBP', 'NN', 'IN', 'NNP', ',', 'NNP', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', '``', 'NNP', 'NNP', 'NNP', "''", 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

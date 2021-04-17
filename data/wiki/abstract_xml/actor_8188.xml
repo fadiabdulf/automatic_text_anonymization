@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michael Garner</title>
+<link/>https://en.wikipedia.org/wiki/Michael_Garner
+<annotated>0</annotated>
+<originalabstract>Michael Gordon Garner (born 3 October 1954 in Edmonton, London) is an English theatre and television actor who is best known for playing Leading Firefighter/Sub Officer Geoffrey "Poison" Pearce in London's Burning between 1993 and 2002.</originalabstract>
+<abstract>Michael_Gordon_Garner ( born 3_October_1954 in Edmonton , London ) is an_English_theatre_and_television_actor who is_best_known for playing Leading Firefighter/Sub_Officer_Geoffrey_"_Poison_"_Pearce in London 's_Burning between 1993_and_2002 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michael'), (8, 'Gordon'), (15, 'Garner'), (22, '('), (23, 'born'), (28, '3'), (30, 'October'), (38, '1954'), (43, 'in'), (46, 'Edmonton'), (54, ','), (56, 'London'), (62, ')'), (64, 'is'), (67, 'an'), (70, 'English'), (78, 'theatre'), (86, 'and'), (90, 'television'), (101, 'actor'), (107, 'who'), (111, 'is'), (114, 'best'), (119, 'known'), (125, 'for'), (129, 'playing'), (137, 'Leading'), (145, 'Firefighter/Sub'), (161, 'Officer'), (169, 'Geoffrey'), (178, '"'), (179, 'Poison'), (185, '"'), (187, 'Pearce'), (194, 'in'), (197, 'London'), (203, '\'s'), (206, 'Burning'), (214, 'between'), (222, '1993'), (227, 'and'), (231, '2002'), (235, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michael Gordon Garner',0, 21), ('3 October 1954',28, 42), ('an English theatre and television actor',67, 106), ('is best known',111, 124), ('Firefighter/Sub Officer Geoffrey "Poison" Pearce',145, 193), ('\'s Burning',203, 213), ('1993 and 2002',222, 235)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'VBG', 'NNP', 'NNP', 'NNP', '``', 'NN', '\'\'', 'NNP', 'IN', 'NNP', 'POS', 'NN', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michael'), (8, 'Gordon'), (15, 'Garner'), (22, '('), (23, 'born'), (28, '3'), (30, 'October'), (38, '1954'), (43, 'in'), (46, 'Edmonton'), (54, ','), (56, 'London'), (62, ')'), (64, 'is'), (67, 'an'), (70, 'English'), (78, 'theatre'), (86, 'and'), (90, 'television'), (101, 'actor'), (107, 'who'), (111, 'is'), (114, 'best'), (119, 'known'), (125, 'for'), (129, 'playing'), (137, 'Leading'), (145, 'Firefighter'), (156, '/'), (157, 'Sub'), (161, 'Officer'), (169, 'Geoffrey'), (178, '"'), (179, 'Poison'), (185, '"'), (187, 'Pearce'), (194, 'in'), (197, 'London'), (203, "'s"), (206, 'Burning'), (214, 'between'), (222, '1993'), (227, 'and'), (231, '2002'), (235, '.')])</spacy_tokens>
+<spacy_chunks>[('Michael Gordon Garner', 0, 21), ('3 October 1954', 28, 42), ('Edmonton, London', 46, 62), ('an English theatre and television actor', 67, 106), ('Leading Firefighter/Sub Officer Geoffrey "Poison" Pearce', 137, 193), ("London's Burning", 197, 213)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'SYM', 'NNP', 'NNP', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'NNP', 'POS', 'NN', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

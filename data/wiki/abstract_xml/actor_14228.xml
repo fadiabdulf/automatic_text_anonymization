@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phyllis Newman</title>
+<link/>https://en.wikipedia.org/wiki/Phyllis_Newman
+<annotated>0</annotated>
+<originalabstract>Phyllis Newman (born March 19, 1933) is an American actress and singer. She won the 1962 Tony Award for Best Featured Actress in a Musical for her role as Martha Vail in the Broadway-theatre production of Subways Are for Sleeping and has been nominated twice for the Drama Desk Award.</originalabstract>
+<abstract>Phyllis_Newman ( born March_19_,_1933 ) is an_American_actress_and_singer . She won the_1962_Tony_Award for Best_Featured_Actress in a_Musical for her_role as Martha_Vail in the_Broadway-theatre_production of Subways Are for Sleeping and has_been_nominated twice for the_Drama_Desk_Award .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phyllis'), (8, 'Newman'), (15, '('), (16, 'born'), (21, 'March'), (27, '19'), (29, ','), (31, '1933'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (60, 'and'), (64, 'singer'), (70, '.'), (72, 'She'), (76, 'won'), (80, 'the'), (84, '1962'), (89, 'Tony'), (94, 'Award'), (100, 'for'), (104, 'Best'), (109, 'Featured'), (118, 'Actress'), (126, 'in'), (129, 'a'), (131, 'Musical'), (139, 'for'), (143, 'her'), (147, 'role'), (152, 'as'), (155, 'Martha'), (162, 'Vail'), (167, 'in'), (170, 'the'), (174, 'Broadway-theatre'), (191, 'production'), (202, 'of'), (205, 'Subways'), (213, 'Are'), (217, 'for'), (221, 'Sleeping'), (230, 'and'), (234, 'has'), (238, 'been'), (243, 'nominated'), (253, 'twice'), (259, 'for'), (263, 'the'), (267, 'Drama'), (273, 'Desk'), (278, 'Award'), (283, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phyllis Newman',0, 14), ('March 19, 1933',21, 35), ('an American actress and singer',40, 70), ('the 1962 Tony Award',80, 99), ('Best Featured Actress',104, 125), ('a Musical',129, 138), ('her role',143, 151), ('Martha Vail',155, 166), ('the Broadway-theatre production',170, 201), ('has been nominated',234, 252), ('the Drama Desk Award',263, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'CD', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'VBP', 'IN', 'VBG', 'CC', 'VBZ', 'VBN', 'VBN', 'RB', 'IN', 'DT', 'NN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phyllis'), (8, 'Newman'), (15, '('), (16, 'born'), (21, 'March'), (27, '19'), (29, ','), (31, '1933'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (60, 'and'), (64, 'singer'), (70, '.'), (72, 'She'), (76, 'won'), (80, 'the'), (84, '1962'), (89, 'Tony'), (94, 'Award'), (100, 'for'), (104, 'Best'), (109, 'Featured'), (118, 'Actress'), (126, 'in'), (129, 'a'), (131, 'Musical'), (139, 'for'), (143, 'her'), (147, 'role'), (152, 'as'), (155, 'Martha'), (162, 'Vail'), (167, 'in'), (170, 'the'), (174, 'Broadway'), (182, '-'), (183, 'theatre'), (191, 'production'), (202, 'of'), (205, 'Subways'), (213, 'Are'), (217, 'for'), (221, 'Sleeping'), (230, 'and'), (234, 'has'), (238, 'been'), (243, 'nominated'), (253, 'twice'), (259, 'for'), (263, 'the'), (267, 'Drama'), (273, 'Desk'), (278, 'Award'), (283, '.')])</spacy_tokens>
+<spacy_chunks>[('Phyllis Newman', 0, 14), ('March 19, 1933', 21, 35), ('an American actress', 40, 59), ('singer', 64, 70), ('On the', 77, 83), ('the 1962 Tony Award', 80, 99), ('Tony Award for Best Featured Actress in a Musical', 89, 138), ('her role', 143, 151), ('Martha Vail', 155, 166), ('the Broadway-theatre production', 170, 201), ('Subways Are for Sleeping', 205, 229), ('the Drama Desk Award', 263, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'CD', 'NNP', 'NNP', 'IN', 'NNP', 'JJ', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'HYPH', 'NN', 'NN', 'IN', 'NNPS', 'VBP', 'IN', 'VBG', 'CC', 'VBZ', 'VBN', 'VBN', 'RB', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

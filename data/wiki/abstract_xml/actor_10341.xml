@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elizabeth Alda</title>
+<link/>https://en.wikipedia.org/wiki/Elizabeth_Alda
+<annotated>0</annotated>
+<originalabstract>Elizabeth Alda (born August 20, 1960) is an American actress who appeared in two films, including The Four Seasons with her sister Beatrice, and the short-lived television version. She is the daughter of Alan and Arlene Alda.</originalabstract>
+<abstract>Elizabeth_Alda ( born August_20_,_1960 ) is an_American_actress who appeared in two_films , including The_Four_Seasons with her_sister_Beatrice , and the_short-lived_television_version . She is the_daughter of Alan and Arlene_Alda .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Alda'), (15, '('), (16, 'born'), (21, 'August'), (28, '20'), (30, ','), (32, '1960'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (61, 'who'), (65, 'appeared'), (74, 'in'), (77, 'two'), (81, 'films'), (86, ','), (88, 'including'), (98, 'The'), (102, 'Four'), (107, 'Seasons'), (115, 'with'), (120, 'her'), (124, 'sister'), (131, 'Beatrice'), (139, ','), (141, 'and'), (145, 'the'), (149, 'short-lived'), (161, 'television'), (172, 'version'), (179, '.'), (181, 'She'), (185, 'is'), (188, 'the'), (192, 'daughter'), (201, 'of'), (204, 'Alan'), (209, 'and'), (213, 'Arlene'), (220, 'Alda'), (224, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elizabeth Alda',0, 14), ('August 20, 1960',21, 36), ('an American actress',41, 60), ('two films',77, 86), ('The Four Seasons',98, 114), ('her sister Beatrice',120, 139), ('the short-lived television version',145, 179), ('the daughter',188, 200), ('Arlene Alda',213, 224)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'CD', 'NNS', ',', 'VBG', 'DT', 'CD', 'NNPS', 'IN', 'PRP$', 'NN', 'NNP', ',', 'CC', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Alda'), (15, '('), (16, 'born'), (21, 'August'), (28, '20'), (30, ','), (32, '1960'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (61, 'who'), (65, 'appeared'), (74, 'in'), (77, 'two'), (81, 'films'), (86, ','), (88, 'including'), (98, 'The'), (102, 'Four'), (107, 'Seasons'), (115, 'with'), (120, 'her'), (124, 'sister'), (131, 'Beatrice'), (139, ','), (141, 'and'), (145, 'the'), (149, 'short'), (154, '-'), (155, 'lived'), (161, 'television'), (172, 'version'), (179, '.'), (181, 'She'), (185, 'is'), (188, 'the'), (192, 'daughter'), (201, 'of'), (204, 'Alan'), (209, 'and'), (213, 'Arlene'), (220, 'Alda'), (224, '.')])</spacy_tokens>
+<spacy_chunks>[('Elizabeth Alda', 0, 14), ('August 20, 1960', 21, 36), ('an American actress', 41, 60), ('two films', 77, 86), ('The Four Seasons', 98, 114), ('her sister', 120, 130), ('Beatrice', 131, 139), ('the short-lived television version', 145, 179), ('the daughter', 188, 200), ('Arlene Alda', 213, 224)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'CD', 'NNS', ',', 'VBG', 'DT', 'NNP', 'NNPS', 'IN', 'PRP$', 'NN', 'NNP', ',', 'CC', 'DT', 'RB', 'HYPH', 'VBN', 'NN', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

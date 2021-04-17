@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Albert Dekker</title>
+<link/>https://en.wikipedia.org/wiki/Albert_Dekker
+<annotated>0</annotated>
+<originalabstract>Albert Dekker (born Thomas Albert Ecke Van Dekker, December 20, 1905 – May 5, 1968) was an American character actor and politician best known for his roles in Dr. Cyclops, The Killers, Kiss Me Deadly, and The Wild Bunch. He is sometimes credited as Albert Van Dekker or Albert van Dekker.</originalabstract>
+<abstract>Albert_Dekker ( born Thomas_Albert_Ecke_Van_Dekker , December_20_,_1905 – May_5_,_1968 ) was an_American_character_actor_and_politician best_known for his_roles in Dr._Cyclops , The_Killers , Kiss Me Deadly , and The_Wild_Bunch . He is_sometimes_credited as Albert_Van_Dekker or Albert_van_Dekker .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Albert'), (7, 'Dekker'), (14, '('), (15, 'born'), (20, 'Thomas'), (27, 'Albert'), (34, 'Ecke'), (39, 'Van'), (43, 'Dekker'), (49, ','), (51, 'December'), (60, '20'), (62, ','), (64, '1905'), (69, '–'), (71, 'May'), (75, '5'), (76, ','), (78, '1968'), (82, ')'), (84, 'was'), (88, 'an'), (91, 'American'), (100, 'character'), (110, 'actor'), (116, 'and'), (120, 'politician'), (131, 'best'), (136, 'known'), (142, 'for'), (146, 'his'), (150, 'roles'), (156, 'in'), (159, 'Dr.'), (163, 'Cyclops'), (170, ','), (172, 'The'), (176, 'Killers'), (183, ','), (185, 'Kiss'), (190, 'Me'), (193, 'Deadly'), (199, ','), (201, 'and'), (205, 'The'), (209, 'Wild'), (214, 'Bunch'), (219, '.'), (221, 'He'), (224, 'is'), (227, 'sometimes'), (237, 'credited'), (246, 'as'), (249, 'Albert'), (256, 'Van'), (260, 'Dekker'), (267, 'or'), (270, 'Albert'), (277, 'van'), (281, 'Dekker'), (287, '.')])</stanford_tokens>
+<opennlp_chunks>[('Albert Dekker',0, 13), ('Thomas Albert Ecke Van Dekker',20, 49), ('December 20, 1905',51, 68), ('May 5, 1968',71, 82), ('an American character actor and politician',88, 130), ('best known',131, 141), ('his roles',146, 155), ('Dr. Cyclops',159, 170), ('The Killers',172, 183), ('The Wild Bunch',205, 219), ('is sometimes credited',224, 245), ('Albert Van Dekker',249, 266), ('Albert van Dekker',270, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNPS', ',', 'VB', 'PRP', 'RB', ',', 'CC', 'DT', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Albert'), (7, 'Dekker'), (14, '('), (15, 'born'), (20, 'Thomas'), (27, 'Albert'), (34, 'Ecke'), (39, 'Van'), (43, 'Dekker'), (49, ','), (51, 'December'), (60, '20'), (62, ','), (64, '1905'), (69, '–'), (71, 'May'), (75, '5'), (76, ','), (78, '1968'), (82, ')'), (84, 'was'), (88, 'an'), (91, 'American'), (100, 'character'), (110, 'actor'), (116, 'and'), (120, 'politician'), (131, 'best'), (136, 'known'), (142, 'for'), (146, 'his'), (150, 'roles'), (156, 'in'), (159, 'Dr.'), (163, 'Cyclops'), (170, ','), (172, 'The'), (176, 'Killers'), (183, ','), (185, 'Kiss'), (190, 'Me'), (193, 'Deadly'), (199, ','), (201, 'and'), (205, 'The'), (209, 'Wild'), (214, 'Bunch'), (219, '.'), (221, 'He'), (224, 'is'), (227, 'sometimes'), (237, 'credited'), (246, 'as'), (249, 'Albert'), (256, 'Van'), (260, 'Dekker'), (267, 'or'), (270, 'Albert'), (277, 'van'), (281, 'Dekker'), (287, '.')])</spacy_tokens>
+<spacy_chunks>[('Albert Dekker', 0, 13), ('Thomas Albert Ecke Van Dekker', 20, 49), ('December 20, 1905', 51, 68), ('May 5, 1968', 71, 82), ('an American character actor', 88, 115), ('Politician', 120, 130), ('his roles', 146, 155), ('Dr. Cyclops', 159, 170), ('The Killers', 172, 183), ('Kiss Me Deadly', 185, 199), ('The Wild Bunch', 205, 219), ('Albert Van Dekker', 249, 266)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNPS', ',', 'VB', 'PRP', 'NNP', ',', 'CC', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

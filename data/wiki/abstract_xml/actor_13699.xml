@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alice Mann</title>
+<link/>https://en.wikipedia.org/wiki/Alice_Mann
+<annotated>0</annotated>
+<originalabstract>Alice Mann (October 16, 1899 – March 1986) was an American silent film actress.</originalabstract>
+<abstract>Alice_Mann ( October_16_,_1899 – March_1986 ) was an_American_silent_film_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alice'), (6, 'Mann'), (11, '('), (12, 'October'), (20, '16'), (22, ','), (24, '1899'), (29, '–'), (31, 'March'), (37, '1986'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'American'), (59, 'silent'), (66, 'film'), (71, 'actress'), (78, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alice Mann',0, 10), ('October 16, 1899',12, 28), ('March 1986',31, 41), ('an American silent film actress',47, 78)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alice'), (6, 'Mann'), (11, '('), (12, 'October'), (20, '16'), (22, ','), (24, '1899'), (29, '–'), (31, 'March'), (37, '1986'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'American'), (59, 'silent'), (66, 'film'), (71, 'actress'), (78, '.')])</spacy_tokens>
+<spacy_chunks>[('Alice Mann', 0, 10), ('(October', 11, 19), ('October 16, 1899', 12, 28), ('an American silent film actress', 47, 78)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

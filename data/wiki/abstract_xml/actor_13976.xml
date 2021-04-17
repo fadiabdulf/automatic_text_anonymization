@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nicki Micheaux</title>
+<link/>https://en.wikipedia.org/wiki/Nicki_Micheaux
+<annotated>0</annotated>
+<originalabstract>Nicole "Nicki" Micheaux (born c. 1971) is an American actress, known for her role as  Jennifer 'Jenn' Sutton in  the  ABC Family drama series Lincoln Heights (2007–2009), for which she received two NAACP Image Award for Outstanding Actress in a Drama Series nominations.</originalabstract>
+<abstract>Nicole_"_Nicki_"_Micheaux ( born c. 1971 ) is an_American_actress , known for her_role as Jennifer_'_Jenn_'_Sutton in the_ABC_Family_drama_series_Lincoln_Heights ( 2007 – 2009 ) , for which she received two_NAACP_Image_Award for Outstanding_Actress in a_Drama_Series_nominations .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nicole'), (7, '"'), (8, 'Nicki'), (13, '"'), (15, 'Micheaux'), (24, '('), (25, 'born'), (30, 'c.'), (33, '1971'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, ','), (63, 'known'), (69, 'for'), (73, 'her'), (77, 'role'), (82, 'as'), (86, 'Jennifer'), (95, '\''), (96, 'Jenn'), (100, '\''), (102, 'Sutton'), (109, 'in'), (113, 'the'), (118, 'ABC'), (122, 'Family'), (129, 'drama'), (135, 'series'), (142, 'Lincoln'), (150, 'Heights'), (158, '('), (159, '2007'), (163, '–'), (164, '2009'), (168, ')'), (169, ','), (171, 'for'), (175, 'which'), (181, 'she'), (185, 'received'), (194, 'two'), (198, 'NAACP'), (204, 'Image'), (210, 'Award'), (216, 'for'), (220, 'Outstanding'), (232, 'Actress'), (240, 'in'), (243, 'a'), (245, 'Drama'), (251, 'Series'), (258, 'nominations'), (269, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nicole "Nicki" Micheaux',0, 23), ('an American actress',42, 61), ('her role',73, 81), ('Jennifer \'Jenn\' Sutton',86, 108), ('the  ABC Family drama series Lincoln Heights',113, 157), ('two NAACP Image Award',194, 215), ('Outstanding Actress',220, 239), ('a Drama Series nominations',243, 269)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'IN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'CD', 'NNP', 'NN', 'NN', 'IN', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nicole'), (7, '"'), (8, 'Nicki'), (13, '"'), (15, 'Micheaux'), (24, '('), (25, 'born'), (30, 'c.'), (33, '1971'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, ','), (63, 'known'), (69, 'for'), (73, 'her'), (77, 'role'), (82, 'as'), (86, 'Jennifer'), (95, "'"), (96, 'Jenn'), (100, "'"), (102, 'Sutton'), (109, 'in'), (113, 'the'), (118, 'ABC'), (122, 'Family'), (129, 'drama'), (135, 'series'), (142, 'Lincoln'), (150, 'Heights'), (158, '('), (159, '2007–2009'), (168, ')'), (169, ','), (171, 'for'), (175, 'which'), (181, 'she'), (185, 'received'), (194, 'two'), (198, 'NAACP'), (204, 'Image'), (210, 'Award'), (216, 'for'), (220, 'Outstanding'), (232, 'Actress'), (240, 'in'), (243, 'a'), (245, 'Drama'), (251, 'Series'), (258, 'nominations'), (269, '.')])</spacy_tokens>
+<spacy_chunks>[('Nicole "Nicki" Micheaux', 0, 23), ('born c.', 25, 32), ('an American actress', 42, 61), ('her role', 73, 81), ("Jennifer 'Jenn' Sutton", 86, 108), ('the  ABC Family drama series', 113, 141), ('Lincoln Heights', 142, 157), ('two NAACP Image Award', 194, 215), ('NAACP Image Award for Outstanding Actress in a Drama Series', 198, 257), ('a Drama Series nominations', 243, 269)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'VBN', 'NN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'CD', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rick Vallin</title>
+<link/>https://en.wikipedia.org/wiki/Rick_Vallin
+<annotated>0</annotated>
+<originalabstract>Rick Vallin (born Eric Efron, September 24, 1919 – August 31, 1977) was an actor who appeared in more than 150 films between 1938 and 1966.</originalabstract>
+<abstract>Rick_Vallin ( born Eric_Efron , September_24_,_1919 – August_31_,_1977 ) was an_actor who appeared in more_than_150_films between 1938_and_1966 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rick'), (5, 'Vallin'), (12, '('), (13, 'born'), (18, 'Eric'), (23, 'Efron'), (28, ','), (30, 'September'), (40, '24'), (42, ','), (44, '1919'), (49, '–'), (51, 'August'), (58, '31'), (60, ','), (62, '1977'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'actor'), (81, 'who'), (85, 'appeared'), (94, 'in'), (97, 'more'), (102, 'than'), (107, '150'), (111, 'films'), (117, 'between'), (125, '1938'), (130, 'and'), (134, '1966'), (138, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rick Vallin',0, 11), ('Eric Efron',18, 28), ('September 24, 1919',30, 48), ('August 31, 1977',51, 66), ('an actor',72, 80), ('more than 150 films',97, 116), ('1938 and 1966',125, 138)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rick'), (5, 'Vallin'), (12, '('), (13, 'born'), (18, 'Eric'), (23, 'Efron'), (28, ','), (30, 'September'), (40, '24'), (42, ','), (44, '1919'), (49, '–'), (51, 'August'), (58, '31'), (60, ','), (62, '1977'), (66, ')'), (68, 'was'), (72, 'an'), (75, 'actor'), (81, 'who'), (85, 'appeared'), (94, 'in'), (97, 'more'), (102, 'than'), (107, '150'), (111, 'films'), (117, 'between'), (125, '1938'), (130, 'and'), (134, '1966'), (138, '.')])</spacy_tokens>
+<spacy_chunks>[('Rick Vallin', 0, 11), ('(born Eric Efron', 12, 28), ('September 24, 1919', 30, 48), ('– August', 49, 57), ('August 31, 1977', 51, 66), ('an actor', 72, 80), ('more than 150 films', 97, 116)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'WP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

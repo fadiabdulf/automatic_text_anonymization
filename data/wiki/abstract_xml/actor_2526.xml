@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alan Gifford</title>
+<link/>https://en.wikipedia.org/wiki/Alan_Gifford
+<annotated>0</annotated>
+<originalabstract>Alan Gifford, born John Lennox, (March 11, 1911 – March 20, 1989) was an American-born actor from Taunton, Massachusetts, who worked mainly in Britain, where he died in Blairgowrie, Perthshire, Scotland aged 78.</originalabstract>
+<abstract>Alan_Gifford , born John_Lennox , ( March_11_,_1911 – March_20_,_1989 ) was an_American-born_actor from Taunton , Massachusetts , who worked mainly in Britain , where he died in Blairgowrie , Perthshire , Scotland_aged_78 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alan'), (5, 'Gifford'), (12, ','), (14, 'born'), (19, 'John'), (24, 'Lennox'), (30, ','), (32, '('), (33, 'March'), (39, '11'), (41, ','), (43, '1911'), (48, '–'), (50, 'March'), (56, '20'), (58, ','), (60, '1989'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American-born'), (87, 'actor'), (93, 'from'), (98, 'Taunton'), (105, ','), (107, 'Massachusetts'), (120, ','), (122, 'who'), (126, 'worked'), (133, 'mainly'), (140, 'in'), (143, 'Britain'), (150, ','), (152, 'where'), (158, 'he'), (161, 'died'), (166, 'in'), (169, 'Blairgowrie'), (180, ','), (182, 'Perthshire'), (192, ','), (194, 'Scotland'), (203, 'aged'), (208, '78'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alan Gifford',0, 12), ('John Lennox',19, 30), ('March 11, 1911',33, 47), ('March 20, 1989',50, 64), ('an American-born actor',70, 92), ('Scotland aged 78',194, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', ',', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', ',', 'NNP', ',', 'WP', 'VBD', 'RB', 'IN', 'NNP', ',', 'WRB', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'JJ', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alan'), (5, 'Gifford'), (12, ','), (14, 'born'), (19, 'John'), (24, 'Lennox'), (30, ','), (32, '('), (33, 'March'), (39, '11'), (41, ','), (43, '1911'), (48, '–'), (50, 'March'), (56, '20'), (58, ','), (60, '1989'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (81, '-'), (82, 'born'), (87, 'actor'), (93, 'from'), (98, 'Taunton'), (105, ','), (107, 'Massachusetts'), (120, ','), (122, 'who'), (126, 'worked'), (133, 'mainly'), (140, 'in'), (143, 'Britain'), (150, ','), (152, 'where'), (158, 'he'), (161, 'died'), (166, 'in'), (169, 'Blairgowrie'), (180, ','), (182, 'Perthshire'), (192, ','), (194, 'Scotland'), (203, 'aged'), (208, '78'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Alan Gifford', 0, 12), ('born John Lennox', 14, 30), ('(March', 32, 38), ('March 11, 1911', 33, 47), ('March 20, 1989', 50, 64), ('an American-born actor', 70, 92), ('Taunton, Massachusetts', 98, 120), ('Britain', 143, 150), ('Blairgowrie', 169, 180), ('Perthshire', 182, 192), ('Scotland', 194, 202)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBD', 'NNP', 'NNP', ',', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'IN', 'NNP', ',', 'NNP', ',', 'WP', 'VBD', 'RB', 'IN', 'NNP', ',', 'WRB', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'VBD', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

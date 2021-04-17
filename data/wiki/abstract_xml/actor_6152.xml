@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mickey Simpson</title>
+<link/>https://en.wikipedia.org/wiki/Mickey_Simpson
+<annotated>0</annotated>
+<originalabstract>Mickey Simpson (December 3, 1913 – September 23, 1985) was an American supporting actor of burly roles, probably most familiar as "Sarge," the bigoted diner owner in the 1956 film, Giant. He appeared in over 175 films and television episodes.</originalabstract>
+<abstract>Mickey_Simpson ( December_3_,_1913 – September_23_,_1985 ) was an_American_supporting_actor of burly_roles , probably_most_familiar as " Sarge , " the_bigoted_diner_owner in the_1956_film , Giant . He appeared in over_175_films_and_television_episodes .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mickey'), (7, 'Simpson'), (15, '('), (16, 'December'), (25, '3'), (26, ','), (28, '1913'), (33, '–'), (35, 'September'), (45, '23'), (47, ','), (49, '1985'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'supporting'), (82, 'actor'), (88, 'of'), (91, 'burly'), (97, 'roles'), (102, ','), (104, 'probably'), (113, 'most'), (118, 'familiar'), (127, 'as'), (130, '"'), (131, 'Sarge'), (136, ','), (137, '"'), (139, 'the'), (143, 'bigoted'), (151, 'diner'), (157, 'owner'), (163, 'in'), (166, 'the'), (170, '1956'), (175, 'film'), (179, ','), (181, 'Giant'), (186, '.'), (188, 'He'), (191, 'appeared'), (200, 'in'), (203, 'over'), (208, '175'), (212, 'films'), (218, 'and'), (222, 'television'), (233, 'episodes'), (241, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mickey Simpson',0, 14), ('December 3, 1913',16, 32), ('September 23, 1985',35, 53), ('an American supporting actor',59, 87), ('burly roles',91, 102), ('probably most familiar',104, 126), ('the bigoted diner owner',139, 162), ('the 1956 film',166, 179), ('over 175 films and television episodes',203, 241)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'VBG', 'NN', 'IN', 'JJ', 'NNS', ',', 'RB', 'RBS', 'JJ', 'IN', '``', 'NNP', ',', '\'\'', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'CD', 'NN', ',', 'NNP', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mickey'), (7, 'Simpson'), (15, '('), (16, 'December'), (25, '3'), (26, ','), (28, '1913'), (33, '–'), (35, 'September'), (45, '23'), (47, ','), (49, '1985'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'supporting'), (82, 'actor'), (88, 'of'), (91, 'burly'), (97, 'roles'), (102, ','), (104, 'probably'), (113, 'most'), (118, 'familiar'), (127, 'as'), (130, '"'), (131, 'Sarge'), (136, ','), (137, '"'), (139, 'the'), (143, 'bigoted'), (151, 'diner'), (157, 'owner'), (163, 'in'), (166, 'the'), (170, '1956'), (175, 'film'), (179, ','), (181, 'Giant'), (186, '.'), (188, 'He'), (191, 'appeared'), (200, 'in'), (203, 'over'), (208, '175'), (212, 'films'), (218, 'and'), (222, 'television'), (233, 'episodes'), (241, '.')])</spacy_tokens>
+<spacy_chunks>[('Mickey Simpson', 0, 14), ('(December', 15, 24), ('December 3, 1913', 16, 32), ('September 23, 1985', 35, 53), ('an American supporting actor', 59, 87), ('burly roles', 91, 102), ('" the bigoted diner owner', 137, 162), ('In the', 163, 169), ('the 1956 film', 166, 179), ('over 175 films', 203, 217), ('television episodes', 222, 241)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'VBG', 'NN', 'IN', 'JJ', 'NNS', ',', 'RB', 'RBS', 'JJ', 'IN', '``', 'NNP', ',', "''", 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'CD', 'NN', ',', 'NNP', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

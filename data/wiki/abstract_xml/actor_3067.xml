@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Martin Hewitt (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Martin_Hewitt_(actor)
+<annotated>0</annotated>
+<originalabstract>Martin Hewitt (born February 19, 1958 in San Jose, California) is an American actor. He is best known for his film debut as David Axelrod in Franco Zeffirelli's Endless Love (1981).</originalabstract>
+<abstract>Martin_Hewitt ( born February_19_,_1958 in San_Jose , California ) is an_American_actor . He is_best_known for his_film_debut as David_Axelrod in Franco_Zeffirelli 's_Endless_Love ( 1981_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Martin'), (7, 'Hewitt'), (14, '('), (15, 'born'), (20, 'February'), (29, '19'), (31, ','), (33, '1958'), (38, 'in'), (41, 'San'), (45, 'Jose'), (49, ','), (51, 'California'), (61, ')'), (63, 'is'), (66, 'an'), (69, 'American'), (78, 'actor'), (83, '.'), (85, 'He'), (88, 'is'), (91, 'best'), (96, 'known'), (102, 'for'), (106, 'his'), (110, 'film'), (115, 'debut'), (121, 'as'), (124, 'David'), (130, 'Axelrod'), (138, 'in'), (141, 'Franco'), (148, 'Zeffirelli'), (158, '\'s'), (161, 'Endless'), (169, 'Love'), (174, '('), (175, '1981'), (179, ')'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('Martin Hewitt',0, 13), ('February 19, 1958',20, 37), ('San Jose',41, 49), ('an American actor',66, 83), ('is best known',88, 101), ('his film debut',106, 120), ('David Axelrod',124, 137), ('Franco Zeffirelli',141, 158), ('\'s Endless Love',158, 173), ('1981)',175, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Martin'), (7, 'Hewitt'), (14, '('), (15, 'born'), (20, 'February'), (29, '19'), (31, ','), (33, '1958'), (38, 'in'), (41, 'San'), (45, 'Jose'), (49, ','), (51, 'California'), (61, ')'), (63, 'is'), (66, 'an'), (69, 'American'), (78, 'actor'), (83, '.'), (85, 'He'), (88, 'is'), (91, 'best'), (96, 'known'), (102, 'for'), (106, 'his'), (110, 'film'), (115, 'debut'), (121, 'as'), (124, 'David'), (130, 'Axelrod'), (138, 'in'), (141, 'Franco'), (148, 'Zeffirelli'), (158, "'s"), (161, 'Endless'), (169, 'Love'), (174, '('), (175, '1981'), (179, ')'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('Martin Hewitt', 0, 13), ('February 19, 1958', 20, 37), ('San Jose, California', 41, 61), ('an American actor', 66, 83), ('his film debut', 106, 120), ('David Axelrod', 124, 137), ("Franco Zeffirelli's Endless Love", 141, 173), ('Endless Love (1981', 161, 179)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

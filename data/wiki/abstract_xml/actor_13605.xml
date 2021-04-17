@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lorna Luft</title>
+<link/>https://en.wikipedia.org/wiki/Lorna_Luft
+<annotated>0</annotated>
+<originalabstract>Lorna Luft (born November 21, 1952) is an American television, stage, and film actress and singer. She is the daughter of singer and actress Judy Garland and producer Sidney Luft, and half-sister to singer and actress Liza Minnelli.</originalabstract>
+<abstract>Lorna_Luft ( born November_21_,_1952 ) is an_American_television , stage , and film_actress_and_singer . She is the_daughter of singer_and_actress_Judy_Garland and producer_Sidney_Luft , and half-sister to singer_and_actress_Liza_Minnelli .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lorna'), (6, 'Luft'), (11, '('), (12, 'born'), (17, 'November'), (26, '21'), (28, ','), (30, '1952'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'television'), (61, ','), (63, 'stage'), (68, ','), (70, 'and'), (74, 'film'), (79, 'actress'), (87, 'and'), (91, 'singer'), (97, '.'), (99, 'She'), (103, 'is'), (106, 'the'), (110, 'daughter'), (119, 'of'), (122, 'singer'), (129, 'and'), (133, 'actress'), (141, 'Judy'), (146, 'Garland'), (154, 'and'), (158, 'producer'), (167, 'Sidney'), (174, 'Luft'), (178, ','), (180, 'and'), (184, 'half-sister'), (196, 'to'), (199, 'singer'), (206, 'and'), (210, 'actress'), (218, 'Liza'), (223, 'Minnelli'), (231, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lorna Luft',0, 10), ('November 21, 1952',17, 34), ('an American television',39, 61), ('film actress and singer',74, 97), ('the daughter',106, 118), ('singer and actress Judy Garland',122, 153), ('producer Sidney Luft',158, 178), ('singer and actress Liza Minnelli',199, 231)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'CC', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NNP', 'NNP', ',', 'CC', 'NN', 'TO', 'NN', 'CC', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lorna'), (6, 'Luft'), (11, '('), (12, 'born'), (17, 'November'), (26, '21'), (28, ','), (30, '1952'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'television'), (61, ','), (63, 'stage'), (68, ','), (70, 'and'), (74, 'film'), (79, 'actress'), (87, 'and'), (91, 'singer'), (97, '.'), (99, 'She'), (103, 'is'), (106, 'the'), (110, 'daughter'), (119, 'of'), (122, 'singer'), (129, 'and'), (133, 'actress'), (141, 'Judy'), (146, 'Garland'), (154, 'and'), (158, 'producer'), (167, 'Sidney'), (174, 'Luft'), (178, ','), (180, 'and'), (184, 'half'), (188, '-'), (189, 'sister'), (196, 'to'), (199, 'singer'), (206, 'and'), (210, 'actress'), (218, 'Liza'), (223, 'Minnelli'), (231, '.')])</spacy_tokens>
+<spacy_chunks>[('Lorna Luft', 0, 10), ('November 21, 1952', 17, 34), ('an American television', 39, 61), ('film actress', 74, 86), ('singer', 91, 97), ('the daughter', 106, 118), ('Judy Garland', 141, 153), ('producer Sidney Luft', 158, 178), ('half-sister', 184, 195), ('singer and actress Liza Minnelli', 199, 231)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'CC', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NNP', 'NNP', ',', 'CC', 'JJ', 'HYPH', 'NN', 'IN', 'NN', 'CC', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

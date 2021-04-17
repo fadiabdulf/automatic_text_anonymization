@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Shea Whigham</title>
+<link/>https://en.wikipedia.org/wiki/Shea_Whigham
+<annotated>0</annotated>
+<originalabstract>Franklin Shea Whigham Jr. (born January 5, 1969) is an American actor. He portrayed Elias "Eli" Thompson in the HBO drama series Boardwalk Empire, and also had supporting roles in Kong: Skull Island and True Detective. He appeared as Agent Michael Stasiak in Fast  Furious and Fast  Furious 6.</originalabstract>
+<abstract>Franklin_Shea_Whigham_Jr. ( born January_5_,_1969 ) is an_American_actor . He portrayed Elias_"_Eli_"_Thompson in the_HBO_drama_series_Boardwalk_Empire , and also had_supporting roles in Kong : Skull_Island and True_Detective . He appeared as Agent_Michael_Stasiak in Fast_ .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Franklin'), (9, 'Shea'), (14, 'Whigham'), (22, 'Jr.'), (26, '('), (27, 'born'), (32, 'January'), (40, '5'), (41, ','), (43, '1969'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'portrayed'), (84, 'Elias'), (90, '"'), (91, 'Eli'), (94, '"'), (96, 'Thompson'), (105, 'in'), (108, 'the'), (112, 'HBO'), (116, 'drama'), (122, 'series'), (129, 'Boardwalk'), (139, 'Empire'), (145, ','), (147, 'and'), (151, 'also'), (156, 'had'), (160, 'supporting'), (171, 'roles'), (177, 'in'), (180, 'Kong'), (184, ':'), (186, 'Skull'), (192, 'Island'), (199, 'and'), (203, 'True'), (208, 'Detective'), (217, '.'), (219, 'He'), (222, 'appeared'), (231, 'as'), (234, 'Agent'), (240, 'Michael'), (248, 'Stasiak'), (256, 'in'), (259, 'Fast'), (264, ''), (266, 'Furious'), (274, 'and'), (278, 'Fast'), (283, ''), (285, 'Furious'), (293, '6'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Franklin Shea Whigham Jr.',0, 25), ('January 5, 1969',32, 47), ('an American actor',52, 69), ('Elias "Eli" Thompson',84, 104), ('the HBO drama series Boardwalk Empire',108, 145), ('had supporting',156, 170), ('Skull Island',186, 198), ('True Detective',203, 217), ('Agent Michael Stasiak',234, 255), ('Fast  Furious and Fast  Furious 6',259, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'RB', 'VBD', 'VBG', 'NNS', 'IN', 'NNP', ':', 'NNP', 'NNP', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'JJ', 'CC', 'JJ', 'CC', 'JJ', 'CC', 'JJ', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Franklin'), (9, 'Shea'), (14, 'Whigham'), (22, 'Jr.'), (26, '('), (27, 'born'), (32, 'January'), (40, '5'), (41, ','), (43, '1969'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'portrayed'), (84, 'Elias'), (90, '"'), (91, 'Eli'), (94, '"'), (96, 'Thompson'), (105, 'in'), (108, 'the'), (112, 'HBO'), (116, 'drama'), (122, 'series'), (129, 'Boardwalk'), (139, 'Empire'), (145, ','), (147, 'and'), (151, 'also'), (156, 'had'), (160, 'supporting'), (171, 'roles'), (177, 'in'), (180, 'Kong'), (184, ':'), (186, 'Skull'), (192, 'Island'), (199, 'and'), (203, 'True'), (208, 'Detective'), (217, '.'), (219, 'He'), (222, 'appeared'), (231, 'as'), (234, 'Agent'), (240, 'Michael'), (248, 'Stasiak'), (256, 'in'), (259, 'Fast'), (265, 'Furious'), (273, 'and'), (277, 'Fast'), (283, 'Furious'), (291, '6'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Franklin Shea Whigham Jr.', 0, 25), ('January 5, 1969', 32, 47), ('an American actor', 52, 69), ('Elias "Eli" Thompson', 84, 104), ('the HBO drama series', 108, 128), ('Boardwalk Empire', 129, 145), ('Kong: Skull Island', 180, 198), ('True Detective', 203, 217), ('Agent Michael Stasiak', 234, 255)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'RB', 'VBD', 'VBG', 'NNS', 'IN', 'NNP', ':', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'JJ', 'JJ', 'CC', 'JJ', 'JJ', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dick Winslow</title>
+<link/>https://en.wikipedia.org/wiki/Dick_Winslow
+<annotated>0</annotated>
+<originalabstract>Dick Winslow (March 25, 1915 – February 7, 1991) was an American film actor, mostly in supporting roles.
+He died of complications of diabetes on February 7, 1991, in North Hollywood, Los Angeles, California at age 75.</originalabstract>
+<abstract>Dick_Winslow ( March_25_,_1915 – February_7_,_1991 ) was an_American_film_actor , mostly_in supporting roles . He died of complications of diabetes on February_7_,_1991 , in North_Hollywood , Los_Angeles , California at age_75 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dick'), (5, 'Winslow'), (13, '('), (14, 'March'), (20, '25'), (22, ','), (24, '1915'), (29, '–'), (31, 'February'), (40, '7'), (41, ','), (43, '1991'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actor'), (75, ','), (77, 'mostly'), (84, 'in'), (87, 'supporting'), (98, 'roles'), (103, '.'), (105, 'He'), (108, 'died'), (113, 'of'), (116, 'complications'), (130, 'of'), (133, 'diabetes'), (142, 'on'), (145, 'February'), (154, '7'), (155, ','), (157, '1991'), (161, ','), (163, 'in'), (166, 'North'), (172, 'Hollywood'), (181, ','), (183, 'Los'), (187, 'Angeles'), (194, ','), (196, 'California'), (207, 'at'), (210, 'age'), (214, '75'), (216, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dick Winslow',0, 12), ('March 25, 1915',14, 28), ('February 7, 1991',31, 47), ('an American film actor',53, 75), ('mostly in',77, 86), ('February 7, 1991',145, 161), ('North Hollywood',166, 181), ('Los Angeles',183, 194), ('age 75',210, 216)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'RB', 'IN', 'VBG', 'NNS', '.', 'PRP', 'VBD', 'IN', 'NNS', 'IN', 'NN', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dick'), (5, 'Winslow'), (13, '('), (14, 'March'), (20, '25'), (22, ','), (24, '1915'), (29, '–'), (31, 'February'), (40, '7'), (41, ','), (43, '1991'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actor'), (75, ','), (77, 'mostly'), (84, 'in'), (87, 'supporting'), (98, 'roles'), (103, '.'), (105, 'He'), (108, 'died'), (113, 'of'), (116, 'complications'), (130, 'of'), (133, 'diabetes'), (142, 'on'), (145, 'February'), (154, '7'), (155, ','), (157, '1991'), (161, ','), (163, 'in'), (166, 'North'), (172, 'Hollywood'), (181, ','), (183, 'Los'), (187, 'Angeles'), (194, ','), (196, 'California'), (207, 'at'), (210, 'age'), (214, '75'), (216, '.')])</spacy_tokens>
+<spacy_chunks>[('Dick Winslow', 0, 12), ('(March', 13, 19), ('March 25, 1915', 14, 28), ('February 7, 1991', 31, 47), ('an American film actor', 53, 75), ('complications', 116, 129), ('diabetes', 133, 141), ('February 7, 1991', 145, 161), ('North Hollywood, Los Angeles', 166, 194), ('California', 196, 206)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'RB', 'IN', 'VBG', 'NNS', '.', 'PRP', 'VBD', 'IN', 'NNS', 'IN', 'NN', 'IN', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

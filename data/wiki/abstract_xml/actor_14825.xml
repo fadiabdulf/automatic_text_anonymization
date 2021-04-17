@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ann Robinson</title>
+<link/>https://en.wikipedia.org/wiki/Ann_Robinson
+<annotated>0</annotated>
+<originalabstract>Ann Robinson (born May 25, 1929) is an American actress and stunt horse rider, perhaps best known for her work in the science-fiction classic The War of the Worlds (1953) and in the 1954 film Dragnet, in which she starred as a Los Angeles police officer opposite Jack Webb and Ben Alexander.</originalabstract>
+<abstract>Ann_Robinson ( born May_25_,_1929 ) is an_American_actress_and_stunt_horse_rider , perhaps_best_known for her_work in the_science-fiction classic_The_War of the_Worlds ( 1953 ) and in the_1954_film_Dragnet , in which she starred as a_Los_Angeles_police_officer_opposite_Jack_Webb and Ben_Alexander .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ann'), (4, 'Robinson'), (13, '('), (14, 'born'), (19, 'May'), (23, '25'), (25, ','), (27, '1929'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actress'), (56, 'and'), (60, 'stunt'), (66, 'horse'), (72, 'rider'), (77, ','), (79, 'perhaps'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'her'), (106, 'work'), (111, 'in'), (114, 'the'), (118, 'science-fiction'), (134, 'classic'), (142, 'The'), (146, 'War'), (150, 'of'), (153, 'the'), (157, 'Worlds'), (164, '('), (165, '1953'), (169, ')'), (171, 'and'), (175, 'in'), (178, 'the'), (182, '1954'), (187, 'film'), (192, 'Dragnet'), (199, ','), (201, 'in'), (204, 'which'), (210, 'she'), (214, 'starred'), (222, 'as'), (225, 'a'), (227, 'Los'), (231, 'Angeles'), (239, 'police'), (246, 'officer'), (254, 'opposite'), (263, 'Jack'), (268, 'Webb'), (273, 'and'), (277, 'Ben'), (281, 'Alexander'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ann Robinson',0, 12), ('May 25, 1929',19, 31), ('an American actress and stunt horse rider',36, 77), ('perhaps best known',79, 97), ('her work',102, 110), ('the science-fiction',114, 133), ('classic The War',134, 149), ('the Worlds',153, 163), ('the 1954 film Dragnet',178, 199), ('a Los Angeles police officer opposite Jack Webb',225, 272), ('Ben Alexander',277, 290)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', ',', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'JJ', 'DT', 'NN', 'IN', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', 'CC', 'IN', 'DT', 'CD', 'NN', 'NNP', ',', 'IN', 'WDT', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'JJ', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ann'), (4, 'Robinson'), (13, '('), (14, 'born'), (19, 'May'), (23, '25'), (25, ','), (27, '1929'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actress'), (56, 'and'), (60, 'stunt'), (66, 'horse'), (72, 'rider'), (77, ','), (79, 'perhaps'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'her'), (106, 'work'), (111, 'in'), (114, 'the'), (118, 'science'), (125, '-'), (126, 'fiction'), (134, 'classic'), (142, 'The'), (146, 'War'), (150, 'of'), (153, 'the'), (157, 'Worlds'), (164, '('), (165, '1953'), (169, ')'), (171, 'and'), (175, 'in'), (178, 'the'), (182, '1954'), (187, 'film'), (192, 'Dragnet'), (199, ','), (201, 'in'), (204, 'which'), (210, 'she'), (214, 'starred'), (222, 'as'), (225, 'a'), (227, 'Los'), (231, 'Angeles'), (239, 'police'), (246, 'officer'), (254, 'opposite'), (263, 'Jack'), (268, 'Webb'), (273, 'and'), (277, 'Ben'), (281, 'Alexander'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('Ann Robinson', 0, 12), ('May 25, 1929', 19, 31), ('an American actress', 36, 55), ('stunt horse rider', 60, 77), ('her work', 102, 110), ('the science-fiction classic', 114, 141), ('The War of the Worlds (1953', 142, 169), ('the 1954 film Dragnet', 178, 199), ('a Los Angeles police officer', 225, 253), ('Jack Webb', 263, 272), ('Ben Alexander', 277, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'NN', ',', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'HYPH', 'NN', 'NN', 'DT', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'IN', 'DT', 'CD', 'NN', 'NN', ',', 'IN', 'WDT', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

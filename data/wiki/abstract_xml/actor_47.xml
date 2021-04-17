@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Luther Adler</title>
+<link/>https://en.wikipedia.org/wiki/Luther_Adler
+<annotated>0</annotated>
+<originalabstract>Luther Adler (May 4, 1903 – December 8, 1984) was an American actor best known for his work in theatre, but who also worked in film and television. He also directed plays on Broadway.</originalabstract>
+<abstract>Luther_Adler ( May_4_,_1903 – December_8_,_1984 ) was an_American_actor best_known for his_work in theatre , but who also worked in film_and_television . He also directed plays on Broadway .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Luther'), (7, 'Adler'), (13, '('), (14, 'May'), (18, '4'), (19, ','), (21, '1903'), (26, '–'), (28, 'December'), (37, '8'), (38, ','), (40, '1984'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (68, 'best'), (73, 'known'), (79, 'for'), (83, 'his'), (87, 'work'), (92, 'in'), (95, 'theatre'), (102, ','), (104, 'but'), (108, 'who'), (112, 'also'), (117, 'worked'), (124, 'in'), (127, 'film'), (132, 'and'), (136, 'television'), (146, '.'), (148, 'He'), (151, 'also'), (156, 'directed'), (165, 'plays'), (171, 'on'), (174, 'Broadway'), (182, '.')])</stanford_tokens>
+<opennlp_chunks>[('Luther Adler',0, 12), ('May 4, 1903',14, 25), ('December 8, 1984',28, 44), ('an American actor',50, 67), ('best known',68, 78), ('his work',83, 91), ('film and television',127, 146)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', ',', 'CC', 'WP', 'RB', 'VBD', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'RB', 'VBD', 'NNS', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Luther'), (7, 'Adler'), (13, '('), (14, 'May'), (18, '4'), (19, ','), (21, '1903'), (26, '–'), (28, 'December'), (37, '8'), (38, ','), (40, '1984'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (68, 'best'), (73, 'known'), (79, 'for'), (83, 'his'), (87, 'work'), (92, 'in'), (95, 'theatre'), (102, ','), (104, 'but'), (108, 'who'), (112, 'also'), (117, 'worked'), (124, 'in'), (127, 'film'), (132, 'and'), (136, 'television'), (146, '.'), (148, 'He'), (151, 'also'), (156, 'directed'), (165, 'plays'), (171, 'on'), (174, 'Broadway'), (182, '.')])</spacy_tokens>
+<spacy_chunks>[('Luther Adler', 0, 12), ('May 4, 1903', 14, 25), ('December 8, 1984', 28, 44), ('an American actor', 50, 67), ('his work', 83, 91), ('theatre', 95, 102), ('television', 136, 146), ('Broadway', 174, 182)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', ',', 'CC', 'WP', 'RB', 'VBD', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'RB', 'VBD', 'NNS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

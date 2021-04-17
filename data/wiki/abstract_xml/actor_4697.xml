@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harry Monty</title>
+<link/>https://en.wikipedia.org/wiki/Harry_Monty
+<annotated>0</annotated>
+<originalabstract>Harry Monty (born Hymie Liechtenstein; April 15, 1904 in Dallas, Texas, USA – December 28, 1999) was an American actor of Polish descent, dwarf actor and stuntperson, whose most notable role was as a Munchkin and a winged monkey in the Wizard of Oz.</originalabstract>
+<abstract>Harry Monty ( born_Hymie_Liechtenstein ; April_15_,_1904 in Dallas , Texas , USA – December_28_,_1999 ) was an_American_actor of Polish_descent , dwarf_actor_and_stuntperson , whose_most_notable_role was as a_Munchkin and a_winged_monkey in the_Wizard of Oz .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harry'), (6, 'Monty'), (12, '('), (13, 'born'), (18, 'Hymie'), (24, 'Liechtenstein'), (37, ';'), (39, 'April'), (45, '15'), (47, ','), (49, '1904'), (54, 'in'), (57, 'Dallas'), (63, ','), (65, 'Texas'), (70, ','), (72, 'USA'), (76, '–'), (78, 'December'), (87, '28'), (89, ','), (91, '1999'), (95, ')'), (97, 'was'), (101, 'an'), (104, 'American'), (113, 'actor'), (119, 'of'), (122, 'Polish'), (129, 'descent'), (136, ','), (138, 'dwarf'), (144, 'actor'), (150, 'and'), (154, 'stuntperson'), (165, ','), (167, 'whose'), (173, 'most'), (178, 'notable'), (186, 'role'), (191, 'was'), (195, 'as'), (198, 'a'), (200, 'Munchkin'), (209, 'and'), (213, 'a'), (215, 'winged'), (222, 'monkey'), (229, 'in'), (232, 'the'), (236, 'Wizard'), (243, 'of'), (246, 'Oz'), (248, '.')])</stanford_tokens>
+<opennlp_chunks>[('born Hymie Liechtenstein',13, 37), ('April 15, 1904',39, 53), ('December 28, 1999',78, 95), ('an American actor',101, 118), ('Polish descent',122, 136), ('dwarf actor and stuntperson',138, 165), ('whose most notable role',167, 190), ('a Munchkin',198, 208), ('a winged monkey',213, 228), ('the Wizard',232, 242)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', ',', 'WP$', 'RBS', 'JJ', 'NN', 'VBD', 'IN', 'DT', 'NNP', 'CC', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harry'), (6, 'Monty'), (12, '('), (13, 'born'), (18, 'Hymie'), (24, 'Liechtenstein'), (37, ';'), (39, 'April'), (45, '15'), (47, ','), (49, '1904'), (54, 'in'), (57, 'Dallas'), (63, ','), (65, 'Texas'), (70, ','), (72, 'USA'), (76, '–'), (78, 'December'), (87, '28'), (89, ','), (91, '1999'), (95, ')'), (97, 'was'), (101, 'an'), (104, 'American'), (113, 'actor'), (119, 'of'), (122, 'Polish'), (129, 'descent'), (136, ','), (138, 'dwarf'), (144, 'actor'), (150, 'and'), (154, 'stuntperson'), (165, ','), (167, 'whose'), (173, 'most'), (178, 'notable'), (186, 'role'), (191, 'was'), (195, 'as'), (198, 'a'), (200, 'Munchkin'), (209, 'and'), (213, 'a'), (215, 'winged'), (222, 'monkey'), (229, 'in'), (232, 'the'), (236, 'Wizard'), (243, 'of'), (246, 'Oz'), (248, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry Monty', 0, 11), ('(born Hymie Liechtenstein', 12, 37), ('April 15, 1904', 39, 53), ('Dallas', 57, 63), ('December 28, 1999', 78, 95), ('an American actor', 101, 118), ('Polish descent', 122, 136), ('dwarf actor', 138, 149), ('stuntperson', 154, 165), ('whose most notable role', 167, 190), ('a Munchkin', 198, 208), ('a winged monkey', 213, 228), ('The Wizard of Oz', 232, 248)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', ',', 'WP$', 'RBS', 'JJ', 'NN', 'VBD', 'IN', 'DT', 'NNP', 'CC', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

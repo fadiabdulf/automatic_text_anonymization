@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Manny Pérez</title>
+<link/>https://en.wikipedia.org/wiki/Manny_P%C3%A9rez
+<annotated>0</annotated>
+<originalabstract>Manuel "Manny" Pérez Batista (born May 5, 1969) is a Dominican American actor who has appeared in the television series Third Watch and in the film Washington Heights. He is the cousin of Pulitzer Prize-winning author Junot Diaz.</originalabstract>
+<abstract>Manuel_"_Manny_"_Pérez_Batista ( born May_5_,_1969 ) is a_Dominican_American_actor who has_appeared in the_television_series_Third_Watch and in the_film_Washington_Heights . He is the_cousin of Pulitzer_Prize-winning_author_Junot_Diaz .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Manuel'), (7, '"'), (8, 'Manny'), (13, '"'), (15, 'Pérez'), (21, 'Batista'), (29, '('), (30, 'born'), (35, 'May'), (39, '5'), (40, ','), (42, '1969'), (46, ')'), (48, 'is'), (51, 'a'), (53, 'Dominican'), (63, 'American'), (72, 'actor'), (78, 'who'), (82, 'has'), (86, 'appeared'), (95, 'in'), (98, 'the'), (102, 'television'), (113, 'series'), (120, 'Third'), (126, 'Watch'), (132, 'and'), (136, 'in'), (139, 'the'), (143, 'film'), (148, 'Washington'), (159, 'Heights'), (166, '.'), (168, 'He'), (171, 'is'), (174, 'the'), (178, 'cousin'), (185, 'of'), (188, 'Pulitzer'), (197, 'Prize-winning'), (211, 'author'), (218, 'Junot'), (224, 'Diaz'), (228, '.')])</stanford_tokens>
+<opennlp_chunks>[('Manuel "Manny" Pérez Batista',0, 28), ('May 5, 1969',35, 46), ('a Dominican American actor',51, 77), ('has appeared',82, 94), ('the television series Third Watch',98, 131), ('the film Washington Heights',139, 166), ('the cousin',174, 184), ('Pulitzer Prize-winning author Junot Diaz',188, 228)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'NNP', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'JJ', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Manuel'), (7, '"'), (8, 'Manny'), (13, '"'), (15, 'Pérez'), (21, 'Batista'), (29, '('), (30, 'born'), (35, 'May'), (39, '5'), (40, ','), (42, '1969'), (46, ')'), (48, 'is'), (51, 'a'), (53, 'Dominican'), (63, 'American'), (72, 'actor'), (78, 'who'), (82, 'has'), (86, 'appeared'), (95, 'in'), (98, 'the'), (102, 'television'), (113, 'series'), (120, 'Third'), (126, 'Watch'), (132, 'and'), (136, 'in'), (139, 'the'), (143, 'film'), (148, 'Washington'), (159, 'Heights'), (166, '.'), (168, 'He'), (171, 'is'), (174, 'the'), (178, 'cousin'), (185, 'of'), (188, 'Pulitzer'), (197, 'Prize'), (202, '-'), (203, 'winning'), (211, 'author'), (218, 'Junot'), (224, 'Diaz'), (228, '.')])</spacy_tokens>
+<spacy_chunks>[('Manuel "Manny" Pérez Batista', 0, 28), ('May 5, 1969', 35, 46), ('a Dominican American actor', 51, 77), ('the television series', 98, 119), ('Third Watch', 120, 131), ('the film', 139, 147), ('Washington Heights', 148, 166), ('the cousin', 174, 184), ('Pulitzer Prize-winning author Junot Diaz', 188, 228)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'HYPH', 'VBG', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

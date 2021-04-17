@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joe King (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Joe_King_(actor)
+<annotated>0</annotated>
+<originalabstract>Joe King ((1883-02-09)February 9, 1883 – (1951-04-11)April 11, 1951) was an American actor of silent films and talkies as well as a director and writer.</originalabstract>
+<abstract>Joe_King ( ( 1883-02-09 ) February_9_,_1883 – ( 1951-04-11 ) April_11_,_1951 ) was an_American_actor of silent_films_and_talkies as_well_as a_director_and_writer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joe'), (4, 'King'), (9, '('), (10, '('), (11, '1883-02-09'), (21, ')'), (22, 'February'), (31, '9'), (32, ','), (34, '1883'), (39, '–'), (41, '('), (42, '1951-04-11'), (52, ')'), (53, 'April'), (59, '11'), (61, ','), (63, '1951'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'American'), (85, 'actor'), (91, 'of'), (94, 'silent'), (101, 'films'), (107, 'and'), (111, 'talkies'), (119, 'as'), (122, 'well'), (127, 'as'), (130, 'a'), (132, 'director'), (141, 'and'), (145, 'writer'), (151, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joe King',0, 8), ('February 9, 1883',22, 38), ('April 11, 1951',53, 67), ('an American actor',73, 90), ('silent films and talkies',94, 118), ('as well as',119, 129), ('a director and writer',130, 151)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', '-LRB-', 'CD', '-RRB-', 'NNP', 'CD', ',', 'CD', ':', '-LRB-', 'CD', '-RRB-', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'NNS', 'RB', 'RB', 'IN', 'DT', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joe'), (4, 'King'), (9, '('), (10, '('), (11, '1883'), (15, '-'), (16, '02'), (18, '-'), (19, '09)February'), (31, '9'), (32, ','), (34, '1883'), (39, '–'), (41, '('), (42, '1951'), (46, '-'), (47, '04'), (49, '-'), (50, '11)April'), (59, '11'), (61, ','), (63, '1951'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'American'), (85, 'actor'), (91, 'of'), (94, 'silent'), (101, 'films'), (107, 'and'), (111, 'talkies'), (119, 'as'), (122, 'well'), (127, 'as'), (130, 'a'), (132, 'director'), (141, 'and'), (145, 'writer'), (151, '.')])</spacy_tokens>
+<spacy_chunks>[('Joe King', 0, 8), ('February 9, 1883', 22, 38), ('1951-04-1', 42, 51), ('April 11, 1951', 53, 67), ('an American actor', 73, 90), ('silent films', 94, 106), ('talkies', 111, 118), ('a director', 130, 140), ('writer', 145, 151)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', '-LRB-', 'CD', 'HYPH', 'CD', 'HYPH', 'CD', 'CD', ',', 'CD', '.', '-LRB-', 'CD', 'HYPH', 'CD', 'SYM', 'CD', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'NNS', 'RB', 'RB', 'IN', 'DT', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

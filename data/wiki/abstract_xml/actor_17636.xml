@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kirsten Cooke</title>
+<link/>https://en.wikipedia.org/wiki/Kirsten_Cooke
+<annotated>0</annotated>
+<originalabstract>Kirsten Cooke (born 4 October 1952, in Cuckfield, West Sussex, England) is an English stage actress who trained at the Webber Douglas Academy of Dramatic Art, London. Almost all of her acting work has been in comedy.</originalabstract>
+<abstract>Kirsten_Cooke ( born 4_October_1952 , in Cuckfield , West_Sussex , England ) is an_English_stage_actress who trained at the_Webber_Douglas_Academy of Dramatic_Art , London . Almost_all of her_acting_work has_been in comedy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kirsten'), (8, 'Cooke'), (14, '('), (15, 'born'), (20, '4'), (22, 'October'), (30, '1952'), (34, ','), (36, 'in'), (39, 'Cuckfield'), (48, ','), (50, 'West'), (55, 'Sussex'), (61, ','), (63, 'England'), (70, ')'), (72, 'is'), (75, 'an'), (78, 'English'), (86, 'stage'), (92, 'actress'), (100, 'who'), (104, 'trained'), (112, 'at'), (115, 'the'), (119, 'Webber'), (126, 'Douglas'), (134, 'Academy'), (142, 'of'), (145, 'Dramatic'), (154, 'Art'), (157, ','), (159, 'London'), (165, '.'), (167, 'Almost'), (174, 'all'), (178, 'of'), (181, 'her'), (185, 'acting'), (192, 'work'), (197, 'has'), (201, 'been'), (206, 'in'), (209, 'comedy'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kirsten Cooke',0, 13), ('4 October 1952',20, 34), ('West Sussex',50, 61), ('an English stage actress',75, 99), ('the Webber Douglas Academy',115, 141), ('Dramatic Art',145, 157), ('Almost all',167, 177), ('her acting work',181, 196), ('has been',197, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'JJ', 'NNP', ',', 'NNP', '.', 'RB', 'DT', 'IN', 'PRP$', 'NN', 'NN', 'VBZ', 'VBN', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kirsten'), (8, 'Cooke'), (14, '('), (15, 'born'), (20, '4'), (22, 'October'), (30, '1952'), (34, ','), (36, 'in'), (39, 'Cuckfield'), (48, ','), (50, 'West'), (55, 'Sussex'), (61, ','), (63, 'England'), (70, ')'), (72, 'is'), (75, 'an'), (78, 'English'), (86, 'stage'), (92, 'actress'), (100, 'who'), (104, 'trained'), (112, 'at'), (115, 'the'), (119, 'Webber'), (126, 'Douglas'), (134, 'Academy'), (142, 'of'), (145, 'Dramatic'), (154, 'Art'), (157, ','), (159, 'London'), (165, '.'), (167, 'Almost'), (174, 'all'), (178, 'of'), (181, 'her'), (185, 'acting'), (192, 'work'), (197, 'has'), (201, 'been'), (206, 'in'), (209, 'comedy'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Kirsten Cooke', 0, 13), ('4 October 1952', 20, 34), ('Cuckfield', 39, 48), ('Sussex', 55, 61), ('England', 63, 70), ('an English stage actress', 75, 99), ('the Webber Douglas Academy', 115, 141), ('Webber Douglas Academy of Dramatic Art', 119, 157), ('London', 159, 165), ('her acting work', 181, 196), ('comedy', 209, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'RB', 'DT', 'IN', 'PRP$', 'VBG', 'NN', 'VBZ', 'VBN', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

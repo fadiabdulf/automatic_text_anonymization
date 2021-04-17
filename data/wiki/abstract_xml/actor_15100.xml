@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kathryn Sheldon</title>
+<link/>https://en.wikipedia.org/wiki/Kathryn_Sheldon
+<annotated>0</annotated>
+<originalabstract>Kathryn Sheldon (September 22, 1879 – December 25, 1975) was an American film actress who appeared in over 100 films between 1916 and 1956.
+Modern viewers will recognize Sheldon as the domineering Nell in the Three Stooges short film Rockin' thru the Rockies.Shledon died in Los Angeles, California on Christmas Day, 1975.</originalabstract>
+<abstract>Kathryn_Sheldon ( September_22 , 1879 – December_25_,_1975 ) was an_American_film_actress who appeared in over_100_films between 1916_and_1956 . Modern_viewers will_recognize Sheldon as the_domineering_Nell in the_Three_Stooges short_film_Rockin ' thru the_Rockies.Shledon died in Los_Angeles , California on Christmas_Day , 1975 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kathryn'), (8, 'Sheldon'), (16, '('), (17, 'September'), (27, '22'), (29, ','), (31, '1879'), (36, '–'), (38, 'December'), (47, '25'), (49, ','), (51, '1975'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'film'), (78, 'actress'), (86, 'who'), (90, 'appeared'), (99, 'in'), (102, 'over'), (107, '100'), (111, 'films'), (117, 'between'), (125, '1916'), (130, 'and'), (134, '1956'), (138, '.'), (140, 'Modern'), (147, 'viewers'), (155, 'will'), (160, 'recognize'), (170, 'Sheldon'), (178, 'as'), (181, 'the'), (185, 'domineering'), (197, 'Nell'), (202, 'in'), (205, 'the'), (209, 'Three'), (215, 'Stooges'), (223, 'short'), (229, 'film'), (234, 'Rockin'), (240, '\''), (242, 'thru'), (247, 'the'), (251, 'Rockies.Shledon'), (267, 'died'), (272, 'in'), (275, 'Los'), (279, 'Angeles'), (286, ','), (288, 'California'), (299, 'on'), (302, 'Christmas'), (312, 'Day'), (315, ','), (317, '1975'), (321, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kathryn Sheldon',0, 15), ('September 22',17, 29), ('December 25, 1975',38, 55), ('an American film actress',61, 85), ('over 100 films',102, 116), ('1916 and 1956',125, 138), ('Modern viewers',140, 154), ('will recognize',155, 169), ('the domineering Nell',181, 201), ('the Three Stooges',205, 222), ('short film Rockin',223, 240), ('the Rockies.Shledon',247, 266), ('Los Angeles',275, 286), ('Christmas Day',302, 315)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNS', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'NNS', 'MD', 'VB', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'IN', 'DT', 'CD', 'NNS', 'JJ', 'NN', 'VBG', '\'\'', 'IN', 'DT', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kathryn'), (8, 'Sheldon'), (16, '('), (17, 'September'), (27, '22'), (29, ','), (31, '1879'), (36, '–'), (38, 'December'), (47, '25'), (49, ','), (51, '1975'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'film'), (78, 'actress'), (86, 'who'), (90, 'appeared'), (99, 'in'), (102, 'over'), (107, '100'), (111, 'films'), (117, 'between'), (125, '1916'), (130, 'and'), (134, '1956'), (138, '.'), (140, 'Modern'), (147, 'viewers'), (155, 'will'), (160, 'recognize'), (170, 'Sheldon'), (178, 'as'), (181, 'the'), (185, 'domineering'), (197, 'Nell'), (202, 'in'), (205, 'the'), (209, 'Three'), (215, 'Stooges'), (223, 'short'), (229, 'film'), (234, 'Rockin'), (240, "'"), (242, 'thru'), (247, 'the'), (251, 'Rockies'), (258, '.'), (259, 'Shledon'), (267, 'died'), (272, 'in'), (275, 'Los'), (279, 'Angeles'), (286, ','), (288, 'California'), (299, 'on'), (302, 'Christmas'), (312, 'Day'), (315, ','), (317, '1975'), (321, '.')])</spacy_tokens>
+<spacy_chunks>[('Kathryn Sheldon', 0, 15), ('(September', 16, 26), ('September 22, 1879', 17, 35), ('December 25, 1975', 38, 55), ('an American film actress', 61, 85), ('over 100 films', 102, 116), ('Modern viewers', 140, 154), ('the domineering Nell', 181, 201), ('the Three Stooges short film Rockin', 205, 240), ("Rockin' thru the Rockies", 234, 258), ('Shledon', 259, 266), ('Los Angeles, California', 275, 298), ('Christmas Day', 302, 315)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'JJ', 'NNS', 'MD', 'VB', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'IN', 'DT', 'NNP', 'NNPS', 'JJ', 'NN', 'NNP', "''", 'IN', 'DT', 'NNPS', '.', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rossy de Palma</title>
+<link/>https://en.wikipedia.org/wiki/Rossy_de_Palma
+<annotated>0</annotated>
+<originalabstract>Rosa Elena García Echave (born 16 September 1964), better known as Rossy de Palma, is a Spanish actress.</originalabstract>
+<abstract>Rosa_Elena_García_Echave ( born_16_September_1964 ) , better_known as Rossy de Palma , is a_Spanish_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rosa'), (5, 'Elena'), (11, 'García'), (18, 'Echave'), (25, '('), (26, 'born'), (31, '16'), (34, 'September'), (44, '1964'), (48, ')'), (49, ','), (51, 'better'), (58, 'known'), (64, 'as'), (67, 'Rossy'), (73, 'de'), (76, 'Palma'), (81, ','), (83, 'is'), (86, 'a'), (88, 'Spanish'), (96, 'actress'), (103, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rosa Elena García Echave',0, 24), ('born 16 September 1964',26, 48), ('better known',51, 63), ('a Spanish actress',86, 103)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'IN', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rosa'), (5, 'Elena'), (11, 'García'), (18, 'Echave'), (25, '('), (26, 'born'), (31, '16'), (34, 'September'), (44, '1964'), (48, ')'), (49, ','), (51, 'better'), (58, 'known'), (64, 'as'), (67, 'Rossy'), (73, 'de'), (76, 'Palma'), (81, ','), (83, 'is'), (86, 'a'), (88, 'Spanish'), (96, 'actress'), (103, '.')])</spacy_tokens>
+<spacy_chunks>[('Rosa Elena García Echave', 0, 24), ('16 September 1964', 31, 48), ('Rossy de Palma', 67, 81), ('Palma,', 76, 82), ('a Spanish actress', 86, 103)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

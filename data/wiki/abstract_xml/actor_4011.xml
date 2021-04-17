@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>E.K. Lincoln</title>
+<link/>https://en.wikipedia.org/wiki/E.K._Lincoln
+<annotated>0</annotated>
+<originalabstract>Edward Kline Lincoln (August 8, 1884 - January 9, 1958) was an American silent film actor and director. Lincoln appeared in over 65 silent films and was best known for movies like For the Freedom of the World (1917), The Light in the Dark (1922), and Man of Courage (1922).</originalabstract>
+<abstract>Edward_Kline_Lincoln ( August_8_,_1884 - January_9_,_1958 ) was an_American_silent_film_actor_and_director . Lincoln appeared in over_65_silent_films and was_best_known for movies like For the_Freedom of the_World_(_1917_) , The_Light in the_Dark_(_1922_) , and Man of Courage_(_1922_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edward'), (7, 'Kline'), (13, 'Lincoln'), (21, '('), (22, 'August'), (29, '8'), (30, ','), (32, '1884'), (37, '-'), (39, 'January'), (47, '9'), (48, ','), (50, '1958'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'silent'), (79, 'film'), (84, 'actor'), (90, 'and'), (94, 'director'), (102, '.'), (104, 'Lincoln'), (112, 'appeared'), (121, 'in'), (124, 'over'), (129, '65'), (132, 'silent'), (139, 'films'), (145, 'and'), (149, 'was'), (153, 'best'), (158, 'known'), (164, 'for'), (168, 'movies'), (175, 'like'), (180, 'For'), (184, 'the'), (188, 'Freedom'), (196, 'of'), (199, 'the'), (203, 'World'), (209, '('), (210, '1917'), (214, ')'), (215, ','), (217, 'The'), (221, 'Light'), (227, 'in'), (230, 'the'), (234, 'Dark'), (239, '('), (240, '1922'), (244, ')'), (245, ','), (247, 'and'), (251, 'Man'), (255, 'of'), (258, 'Courage'), (266, '('), (267, '1922'), (271, ')'), (272, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edward Kline Lincoln',0, 20), ('August 8, 1884',22, 36), ('January 9, 1958',39, 54), ('an American silent film actor and director',60, 102), ('over 65 silent films',124, 144), ('was best known',149, 163), ('the Freedom',184, 195), ('the World (1917)',199, 215), ('The Light',217, 226), ('the Dark (1922)',230, 245), ('Courage (1922)',258, 272)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'IN', 'IN', 'CD', 'JJ', 'NNS', 'CC', 'VBD', 'RB', 'VBN', 'IN', 'NNS', 'IN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NN', 'IN', 'DT', 'JJ', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NN', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edward'), (7, 'Kline'), (13, 'Lincoln'), (21, '('), (22, 'August'), (29, '8'), (30, ','), (32, '1884'), (37, '-'), (39, 'January'), (47, '9'), (48, ','), (50, '1958'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'silent'), (79, 'film'), (84, 'actor'), (90, 'and'), (94, 'director'), (102, '.'), (104, 'Lincoln'), (112, 'appeared'), (121, 'in'), (124, 'over'), (129, '65'), (132, 'silent'), (139, 'films'), (145, 'and'), (149, 'was'), (153, 'best'), (158, 'known'), (164, 'for'), (168, 'movies'), (175, 'like'), (180, 'For'), (184, 'the'), (188, 'Freedom'), (196, 'of'), (199, 'the'), (203, 'World'), (209, '('), (210, '1917'), (214, ')'), (215, ','), (217, 'The'), (221, 'Light'), (227, 'in'), (230, 'the'), (234, 'Dark'), (239, '('), (240, '1922'), (244, ')'), (245, ','), (247, 'and'), (251, 'Man'), (255, 'of'), (258, 'Courage'), (266, '('), (267, '1922'), (271, ')'), (272, '.')])</spacy_tokens>
+<spacy_chunks>[('Edward Kline Lincoln', 0, 20), ('(August', 21, 28), ('August 8, 1884', 22, 36), ('January 9, 1958', 39, 54), ('an American silent film actor', 60, 89), ('director', 94, 102), ('over 65 silent films', 124, 144), ('movies', 168, 174), ('For the Freedom of the World', 180, 208), ('The Light in the Dark', 217, 238), ('Man of Courage', 251, 265)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'RP', 'IN', 'CD', 'JJ', 'NNS', 'CC', 'VBD', 'RBS', 'VBN', 'IN', 'NNS', 'IN', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

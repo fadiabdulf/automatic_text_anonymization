@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marcia Warren</title>
+<link/>https://en.wikipedia.org/wiki/Marcia_Warren
+<annotated>0</annotated>
+<originalabstract>Marcia Warren (born 26 November 1943) is an English stage, film and television actress. On stage, she appeared in Blithe Spirit as Madame Arcati, and The Sea (2008) at the Theatre Royal, Haymarket.
+She is a two time Olivier Award winner.</originalabstract>
+<abstract>Marcia_Warren ( born_26_November_1943 ) is an_English_stage , film_and_television_actress . On stage , she appeared in Blithe_Spirit as Madame_Arcati , and The_Sea_(_2008_) at the_Theatre_Royal , Haymarket . She is a_two_time Olivier_Award_winner .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marcia'), (7, 'Warren'), (14, '('), (15, 'born'), (20, '26'), (23, 'November'), (32, '1943'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'English'), (52, 'stage'), (57, ','), (59, 'film'), (64, 'and'), (68, 'television'), (79, 'actress'), (86, '.'), (88, 'On'), (91, 'stage'), (96, ','), (98, 'she'), (102, 'appeared'), (111, 'in'), (114, 'Blithe'), (121, 'Spirit'), (128, 'as'), (131, 'Madame'), (138, 'Arcati'), (144, ','), (146, 'and'), (150, 'The'), (154, 'Sea'), (158, '('), (159, '2008'), (163, ')'), (165, 'at'), (168, 'the'), (172, 'Theatre'), (180, 'Royal'), (185, ','), (187, 'Haymarket'), (196, '.'), (198, 'She'), (202, 'is'), (205, 'a'), (207, 'two'), (211, 'time'), (216, 'Olivier'), (224, 'Award'), (230, 'winner'), (236, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marcia Warren',0, 13), ('born 26 November 1943',15, 36), ('an English stage',41, 57), ('film and television actress',59, 86), ('Blithe Spirit',114, 127), ('Madame Arcati',131, 144), ('The Sea (2008)',150, 164), ('the Theatre Royal',168, 185), ('a two time',205, 215), ('Olivier Award winner',216, 236)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'NN', ',', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'CD', 'NN', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marcia'), (7, 'Warren'), (14, '('), (15, 'born'), (20, '26'), (23, 'November'), (32, '1943'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'English'), (52, 'stage'), (57, ','), (59, 'film'), (64, 'and'), (68, 'television'), (79, 'actress'), (86, '.'), (88, 'On'), (91, 'stage'), (96, ','), (98, 'she'), (102, 'appeared'), (111, 'in'), (114, 'Blithe'), (121, 'Spirit'), (128, 'as'), (131, 'Madame'), (138, 'Arcati'), (144, ','), (146, 'and'), (150, 'The'), (154, 'Sea'), (158, '('), (159, '2008'), (163, ')'), (165, 'at'), (168, 'the'), (172, 'Theatre'), (180, 'Royal'), (185, ','), (187, 'Haymarket'), (196, '.'), (198, 'She'), (202, 'is'), (205, 'a'), (207, 'two'), (211, 'time'), (216, 'Olivier'), (224, 'Award'), (230, 'winner'), (236, '.')])</spacy_tokens>
+<spacy_chunks>[('Marcia Warren', 0, 13), ('26 November 1943', 20, 36), ('an English stage', 41, 57), ('television', 68, 78), ('actress', 79, 86), ('Blithe Spirit', 114, 127), ('Madame Arcati', 131, 144), ('The Sea', 150, 157), ('the Theatre Royal', 168, 185), ('Theatre Royal, Haymarket', 172, 196), ('a two time', 205, 215), ('Olivier Award winner', 216, 236)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'NN', ',', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

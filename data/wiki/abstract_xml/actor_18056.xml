@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kate O'Toole (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Kate_O%27Toole_(actress)
+<annotated>0</annotated>
+<originalabstract>Kate Eurwen O'Toole (born 26 February 1960 in Stratford-upon-Avon, Warwickshire) is an English actress. She is the daughter of actors Peter O'Toole and Siân Phillips.</originalabstract>
+<abstract>Kate_Eurwen_O'Toole ( born 26_February_1960 in Stratford-upon-Avon , Warwickshire ) is an_English_actress . She is the_daughter of actors_Peter_O'Toole and Siân_Phillips .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kate'), (5, 'Eurwen'), (12, 'O\'Toole'), (20, '('), (21, 'born'), (26, '26'), (29, 'February'), (38, '1960'), (43, 'in'), (46, 'Stratford-upon-Avon'), (65, ','), (67, 'Warwickshire'), (79, ')'), (81, 'is'), (84, 'an'), (87, 'English'), (95, 'actress'), (102, '.'), (104, 'She'), (108, 'is'), (111, 'the'), (115, 'daughter'), (124, 'of'), (127, 'actors'), (134, 'Peter'), (140, 'O\'Toole'), (148, 'and'), (152, 'Siân'), (157, 'Phillips'), (165, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kate Eurwen O\'Toole',0, 19), ('26 February 1960',26, 42), ('an English actress',84, 102), ('the daughter',111, 123), ('actors Peter O\'Toole',127, 147), ('Siân Phillips',152, 165)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kate'), (5, 'Eurwen'), (12, "O'Toole"), (20, '('), (21, 'born'), (26, '26'), (29, 'February'), (38, '1960'), (43, 'in'), (46, 'Stratford'), (55, '-'), (56, 'upon'), (60, '-'), (61, 'Avon'), (65, ','), (67, 'Warwickshire'), (79, ')'), (81, 'is'), (84, 'an'), (87, 'English'), (95, 'actress'), (102, '.'), (104, 'She'), (108, 'is'), (111, 'the'), (115, 'daughter'), (124, 'of'), (127, 'actors'), (134, 'Peter'), (140, "O'Toole"), (148, 'and'), (152, 'Siân'), (157, 'Phillips'), (165, '.')])</spacy_tokens>
+<spacy_chunks>[("Kate Eurwen O'Toole", 0, 19), ('26 February 1960', 26, 42), ('Stratford-upon-Avon', 46, 65), ('Warwickshire', 67, 79), ('an English actress', 84, 102), ('the daughter', 111, 123), ('actors', 127, 133), ("Peter O'Toole", 134, 147), ('Siân Phillips', 152, 165)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', 'HYPH', 'IN', 'HYPH', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

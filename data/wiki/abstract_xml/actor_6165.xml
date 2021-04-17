@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tony Sirico</title>
+<link/>https://en.wikipedia.org/wiki/Tony_Sirico
+<annotated>0</annotated>
+<originalabstract>Genaro Anthony Sirico Jr. (born July 29, 1942) is an American actor, best known for his role as Paul "Paulie Walnuts" Gualtieri in The Sopranos and various roles in the films of Woody Allen.</originalabstract>
+<abstract>Genaro_Anthony_Sirico_Jr. ( born July_29_,_1942 ) is an_American_actor , best_known for his_role as Paul_"_Paulie_Walnuts_"_Gualtieri in The_Sopranos and various_roles in the_films of Woody_Allen .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Genaro'), (7, 'Anthony'), (15, 'Sirico'), (22, 'Jr.'), (26, '('), (27, 'born'), (32, 'July'), (37, '29'), (39, ','), (41, '1942'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, ','), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'his'), (88, 'role'), (93, 'as'), (96, 'Paul'), (101, '"'), (102, 'Paulie'), (109, 'Walnuts'), (116, '"'), (118, 'Gualtieri'), (128, 'in'), (131, 'The'), (135, 'Sopranos'), (144, 'and'), (148, 'various'), (156, 'roles'), (162, 'in'), (165, 'the'), (169, 'films'), (175, 'of'), (178, 'Woody'), (184, 'Allen'), (189, '.')])</stanford_tokens>
+<opennlp_chunks>[('Genaro Anthony Sirico Jr.',0, 25), ('July 29, 1942',32, 45), ('an American actor',50, 67), ('best known',69, 79), ('his role',84, 92), ('Paul "Paulie Walnuts" Gualtieri',96, 127), ('The Sopranos',131, 143), ('various roles',148, 161), ('the films',165, 174), ('Woody Allen',178, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '``', 'NNP', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NNPS', 'CC', 'JJ', 'NNS', 'IN', 'DT', 'NNS', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Genaro'), (7, 'Anthony'), (15, 'Sirico'), (22, 'Jr.'), (26, '('), (27, 'born'), (32, 'July'), (37, '29'), (39, ','), (41, '1942'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, ','), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'his'), (88, 'role'), (93, 'as'), (96, 'Paul'), (101, '"'), (102, 'Paulie'), (109, 'Walnuts'), (116, '"'), (118, 'Gualtieri'), (128, 'in'), (131, 'The'), (135, 'Sopranos'), (144, 'and'), (148, 'various'), (156, 'roles'), (162, 'in'), (165, 'the'), (169, 'films'), (175, 'of'), (178, 'Woody'), (184, 'Allen'), (189, '.')])</spacy_tokens>
+<spacy_chunks>[('Genaro Anthony Sirico Jr.', 0, 25), ('July 29, 1942', 32, 45), ('an American actor', 50, 67), ('his role', 84, 92), ('Paul "Paulie Walnuts" Gualtieri', 96, 127), ('The Sopranos', 131, 143), ('various roles', 148, 161), ('the films', 165, 174), ('Woody Allen', 178, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '``', 'NNP', 'NNP', "''", 'NNP', 'IN', 'DT', 'NNP', 'CC', 'JJ', 'NNS', 'IN', 'DT', 'NNS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

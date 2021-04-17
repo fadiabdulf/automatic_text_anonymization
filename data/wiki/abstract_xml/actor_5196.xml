@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Payne (actor)</title>
+<link/>https://en.wikipedia.org/wiki/John_Payne_(actor)
+<annotated>0</annotated>
+<originalabstract>John Howard Payne (May 23, 1912 – December 6, 1989) was an American film actor who is mainly remembered from film noir crime stories and 20th Century Fox musical films, and for his leading roles in Miracle on 34th Street and the NBC Western television series The Restless Gun.</originalabstract>
+<abstract>John_Howard_Payne ( May_23_,_1912 – December_6_,_1989 ) was an_American_film_actor who is_mainly_remembered from film_noir_crime_stories and 20th_Century_Fox_musical_films , and for his_leading_roles in Miracle on 34th_Street and the_NBC_Western_television_series The_Restless_Gun .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Howard'), (12, 'Payne'), (18, '('), (19, 'May'), (23, '23'), (25, ','), (27, '1912'), (32, '–'), (34, 'December'), (43, '6'), (44, ','), (46, '1989'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'film'), (73, 'actor'), (79, 'who'), (83, 'is'), (86, 'mainly'), (93, 'remembered'), (104, 'from'), (109, 'film'), (114, 'noir'), (119, 'crime'), (125, 'stories'), (133, 'and'), (137, '20th'), (142, 'Century'), (150, 'Fox'), (154, 'musical'), (162, 'films'), (167, ','), (169, 'and'), (173, 'for'), (177, 'his'), (181, 'leading'), (189, 'roles'), (195, 'in'), (198, 'Miracle'), (206, 'on'), (209, '34th'), (214, 'Street'), (221, 'and'), (225, 'the'), (229, 'NBC'), (233, 'Western'), (241, 'television'), (252, 'series'), (259, 'The'), (263, 'Restless'), (272, 'Gun'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Howard Payne',0, 17), ('May 23, 1912',19, 31), ('December 6, 1989',34, 50), ('an American film actor',56, 78), ('is mainly remembered',83, 103), ('film noir crime stories',109, 132), ('20th Century Fox musical films',137, 167), ('his leading roles',177, 194), ('34th Street',209, 220), ('the NBC Western television series',225, 258), ('The Restless Gun',259, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'JJ', 'NN', 'NNS', 'CC', 'JJ', 'NNP', 'NNP', 'JJ', 'NNS', ',', 'CC', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Howard'), (12, 'Payne'), (18, '('), (19, 'May'), (23, '23'), (25, ','), (27, '1912'), (32, '–'), (34, 'December'), (43, '6'), (44, ','), (46, '1989'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'film'), (73, 'actor'), (79, 'who'), (83, 'is'), (86, 'mainly'), (93, 'remembered'), (104, 'from'), (109, 'film'), (114, 'noir'), (119, 'crime'), (125, 'stories'), (133, 'and'), (137, '20th'), (142, 'Century'), (150, 'Fox'), (154, 'musical'), (162, 'films'), (167, ','), (169, 'and'), (173, 'for'), (177, 'his'), (181, 'leading'), (189, 'roles'), (195, 'in'), (198, 'Miracle'), (206, 'on'), (209, '34th'), (214, 'Street'), (221, 'and'), (225, 'the'), (229, 'NBC'), (233, 'Western'), (241, 'television'), (252, 'series'), (259, 'The'), (263, 'Restless'), (272, 'Gun'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('John Howard Payne', 0, 17), ('May 23, 1912', 19, 31), ('– December', 32, 42), ('December 6, 1989', 34, 50), ('an American film actor', 56, 78), ('Remember', 93, 101), ('film noir crime stories', 109, 132), ('20th Century Fox musical films', 137, 167), ('his leading roles', 177, 194), ('Miracle on 34th Street', 198, 220), ('the NBC Western television series', 225, 258), ('The Restless Gun', 259, 275)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'NN', 'NN', 'NNS', 'CC', 'JJ', 'NNP', 'NNP', 'JJ', 'NNS', ',', 'CC', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NN', 'IN', 'JJ', 'NNP', 'CC', 'DT', 'NNP', 'JJ', 'NN', 'NN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

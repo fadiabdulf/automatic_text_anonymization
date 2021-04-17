@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Christopher Rhodes</title>
+<link/>https://en.wikipedia.org/wiki/Christopher_Rhodes
+<annotated>0</annotated>
+<originalabstract>Sir Christopher George Rhodes, 3rd Baronet (30 April 1914 – 22 June 1964) was an English film and television actor. He was awarded the Croix de Guerre and the United States Legion of Merit for his Second World War service.</originalabstract>
+<abstract>Sir_Christopher_George_Rhodes , 3rd_Baronet ( 30_April_1914 – 22_June_1964 ) was an_English_film_and_television_actor . He was_awarded the_Croix de Guerre and the_United_States_Legion of Merit for his_Second_World_War_service .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sir'), (4, 'Christopher'), (16, 'George'), (23, 'Rhodes'), (29, ','), (31, '3rd'), (35, 'Baronet'), (43, '('), (44, '30'), (47, 'April'), (53, '1914'), (58, '–'), (60, '22'), (63, 'June'), (68, '1964'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'English'), (89, 'film'), (94, 'and'), (98, 'television'), (109, 'actor'), (114, '.'), (116, 'He'), (119, 'was'), (123, 'awarded'), (131, 'the'), (135, 'Croix'), (141, 'de'), (144, 'Guerre'), (151, 'and'), (155, 'the'), (159, 'United'), (166, 'States'), (173, 'Legion'), (180, 'of'), (183, 'Merit'), (189, 'for'), (193, 'his'), (197, 'Second'), (204, 'World'), (210, 'War'), (214, 'service'), (221, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sir Christopher George Rhodes',0, 29), ('3rd Baronet',31, 42), ('30 April 1914',44, 57), ('22 June 1964',60, 72), ('an English film and television actor',78, 114), ('was awarded',119, 130), ('the Croix',131, 140), ('the United States Legion',155, 179), ('his Second World War service',193, 221)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', ',', 'JJ', 'NN', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'DT', 'NNP', 'IN', 'NNP', 'CC', 'DT', 'NNP', 'NNPS', 'NNP', 'IN', 'NNP', 'IN', 'PRP$', 'JJ', 'NNP', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sir'), (4, 'Christopher'), (16, 'George'), (23, 'Rhodes'), (29, ','), (31, '3rd'), (35, 'Baronet'), (43, '('), (44, '30'), (47, 'April'), (53, '1914'), (58, '–'), (60, '22'), (63, 'June'), (68, '1964'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'English'), (89, 'film'), (94, 'and'), (98, 'television'), (109, 'actor'), (114, '.'), (116, 'He'), (119, 'was'), (123, 'awarded'), (131, 'the'), (135, 'Croix'), (141, 'de'), (144, 'Guerre'), (151, 'and'), (155, 'the'), (159, 'United'), (166, 'States'), (173, 'Legion'), (180, 'of'), (183, 'Merit'), (189, 'for'), (193, 'his'), (197, 'Second'), (204, 'World'), (210, 'War'), (214, 'service'), (221, '.')])</spacy_tokens>
+<spacy_chunks>[('Sir Christopher George Rhodes', 0, 29), ('3rd Baronet', 31, 42), ('30 April 1914', 44, 57), ('22 June 1964', 60, 72), ('an English film and television actor', 78, 114), ('the Croix de Guerre', 131, 150), ('the United States Legion', 155, 179), ('Legion of Merit', 173, 188), ('his Second World War service', 193, 221)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', ',', 'JJ', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'DT', 'NNP', 'FW', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'PRP$', 'NNP', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

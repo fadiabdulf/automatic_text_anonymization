@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Esther Dale</title>
+<link/>https://en.wikipedia.org/wiki/Esther_Dale
+<annotated>0</annotated>
+<originalabstract>Esther Dale (November 10, 1885 – July 23, 1961) was an American actress, best known perhaps for her role as Aunt Genevieve in the 1935 Shirley Temple vehicle, Curly Top.</originalabstract>
+<abstract>Esther_Dale ( November_10 , 1885 – July_23_,_1961 ) was an_American_actress , best_known perhaps for her_role as Aunt_Genevieve in the_1935_Shirley_Temple_vehicle , Curly_Top .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Esther'), (7, 'Dale'), (12, '('), (13, 'November'), (22, '10'), (24, ','), (26, '1885'), (31, '–'), (33, 'July'), (38, '23'), (40, ','), (42, '1961'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (71, ','), (73, 'best'), (78, 'known'), (84, 'perhaps'), (92, 'for'), (96, 'her'), (100, 'role'), (105, 'as'), (108, 'Aunt'), (113, 'Genevieve'), (123, 'in'), (126, 'the'), (130, '1935'), (135, 'Shirley'), (143, 'Temple'), (150, 'vehicle'), (157, ','), (159, 'Curly'), (165, 'Top'), (168, '.')])</stanford_tokens>
+<opennlp_chunks>[('Esther Dale',0, 11), ('November 10',13, 24), ('July 23, 1961',33, 46), ('an American actress',52, 71), ('best known',73, 83), ('her role',96, 104), ('Aunt Genevieve',108, 122), ('the 1935 Shirley Temple vehicle',126, 157), ('Curly Top',159, 168)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', ',', 'JJ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Esther'), (7, 'Dale'), (12, '('), (13, 'November'), (22, '10'), (24, ','), (26, '1885'), (31, '–'), (33, 'July'), (38, '23'), (40, ','), (42, '1961'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (71, ','), (73, 'best'), (78, 'known'), (84, 'perhaps'), (92, 'for'), (96, 'her'), (100, 'role'), (105, 'as'), (108, 'Aunt'), (113, 'Genevieve'), (123, 'in'), (126, 'the'), (130, '1935'), (135, 'Shirley'), (143, 'Temple'), (150, 'vehicle'), (157, ','), (159, 'Curly'), (165, 'Top'), (168, '.')])</spacy_tokens>
+<spacy_chunks>[('Esther Dale', 0, 11), ('(November', 12, 21), ('November 10, 1885', 13, 30), ('July 23, 1961', 33, 46), ('an American actress', 52, 71), ('her role', 96, 104), ('Aunt Genevieve', 108, 122), ('the 1935 Shirley Temple vehicle', 126, 157), ('Curly Top', 159, 168)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NN', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sarah Wright</title>
+<link/>https://en.wikipedia.org/wiki/Sarah_Wright
+<annotated>0</annotated>
+<originalabstract>Sarah Fay Wright Olsen (born September 28, 1983) is an American actress and former fashion model who has appeared in several films and TV series. She is perhaps best known for her recurring role as Millicent Gergich in Parks and Recreation.</originalabstract>
+<abstract>Sarah_Fay_Wright_Olsen ( born September_28_,_1983 ) is an_American_actress and former_fashion_model who has_appeared in several_films_and_TV_series . She is_perhaps_best_known for her_recurring_role as Millicent_Gergich in Parks_and_Recreation .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sarah'), (6, 'Fay'), (10, 'Wright'), (17, 'Olsen'), (23, '('), (24, 'born'), (29, 'September'), (39, '28'), (41, ','), (43, '1983'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'and'), (76, 'former'), (83, 'fashion'), (91, 'model'), (97, 'who'), (101, 'has'), (105, 'appeared'), (114, 'in'), (117, 'several'), (125, 'films'), (131, 'and'), (135, 'TV'), (138, 'series'), (144, '.'), (146, 'She'), (150, 'is'), (153, 'perhaps'), (161, 'best'), (166, 'known'), (172, 'for'), (176, 'her'), (180, 'recurring'), (190, 'role'), (195, 'as'), (198, 'Millicent'), (208, 'Gergich'), (216, 'in'), (219, 'Parks'), (225, 'and'), (229, 'Recreation'), (239, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sarah Fay Wright Olsen',0, 22), ('September 28, 1983',29, 47), ('an American actress',52, 71), ('former fashion model',76, 96), ('has appeared',101, 113), ('several films and TV series',117, 144), ('is perhaps best known',150, 171), ('her recurring role',176, 194), ('Millicent Gergich',198, 215), ('Parks and Recreation',219, 239)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sarah'), (6, 'Fay'), (10, 'Wright'), (17, 'Olsen'), (23, '('), (24, 'born'), (29, 'September'), (39, '28'), (41, ','), (43, '1983'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'and'), (76, 'former'), (83, 'fashion'), (91, 'model'), (97, 'who'), (101, 'has'), (105, 'appeared'), (114, 'in'), (117, 'several'), (125, 'films'), (131, 'and'), (135, 'TV'), (138, 'series'), (144, '.'), (146, 'She'), (150, 'is'), (153, 'perhaps'), (161, 'best'), (166, 'known'), (172, 'for'), (176, 'her'), (180, 'recurring'), (190, 'role'), (195, 'as'), (198, 'Millicent'), (208, 'Gergich'), (216, 'in'), (219, 'Parks'), (225, 'and'), (229, 'Recreation'), (239, '.')])</spacy_tokens>
+<spacy_chunks>[('Sarah Fay Wright Olsen', 0, 22), ('September 28, 1983', 29, 47), ('an American actress', 52, 71), ('former fashion model', 76, 96), ('several films', 117, 130), ('TV series', 135, 144), ('her recurring role', 176, 194), ('Millicent Gergich', 198, 215), ('Parks and Recreation', 219, 239)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

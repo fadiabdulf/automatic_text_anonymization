@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Melanie Chartoff</title>
+<link/>https://en.wikipedia.org/wiki/Melanie_Chartoff
+<annotated>0</annotated>
+<originalabstract>Melanie Chartoff (born December 15, 1948) is an American actress. She first became famous for her comedy work on the ABC series Fridays (1980–82), and in the 1990s Fox sitcom Parker Lewis Can't Lose. She voiced both Didi Pickles and Grandma Minka on the two animated shows Rugrats and All Grown Up!.</originalabstract>
+<abstract>Melanie_Chartoff ( born December_15_,_1948 ) is an_American_actress . She first became famous for her_comedy_work on the_ABC_series_Fridays_(_1980 – 82_) , and in the_1990s_Fox_sitcom_Parker_Lewis Ca_n't_Lose . She voiced both Didi_Pickles and Grandma_Minka on the_two_animated_shows_Rugrats and All Grown Up ! .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Melanie'), (8, 'Chartoff'), (17, '('), (18, 'born'), (23, 'December'), (32, '15'), (34, ','), (36, '1948'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'first'), (76, 'became'), (83, 'famous'), (90, 'for'), (94, 'her'), (98, 'comedy'), (105, 'work'), (110, 'on'), (113, 'the'), (117, 'ABC'), (121, 'series'), (128, 'Fridays'), (136, '('), (137, '1980'), (141, '–'), (142, '82'), (144, ')'), (145, ','), (147, 'and'), (151, 'in'), (154, 'the'), (158, '1990s'), (164, 'Fox'), (168, 'sitcom'), (175, 'Parker'), (182, 'Lewis'), (188, 'Ca'), (190, 'n\'t'), (194, 'Lose'), (198, '.'), (200, 'She'), (204, 'voiced'), (211, 'both'), (216, 'Didi'), (221, 'Pickles'), (229, 'and'), (233, 'Grandma'), (241, 'Minka'), (247, 'on'), (250, 'the'), (254, 'two'), (258, 'animated'), (267, 'shows'), (273, 'Rugrats'), (281, 'and'), (285, 'All'), (289, 'Grown'), (295, 'Up'), (297, '!'), (298, '.')])</stanford_tokens>
+<opennlp_chunks>[('Melanie Chartoff',0, 16), ('December 15, 1948',23, 40), ('an American actress',45, 64), ('her comedy work',94, 109), ('the ABC series Fridays (1980',113, 141), ('82)',142, 145), ('the 1990s Fox sitcom Parker Lewis',154, 187), ('Can\'t Lose',188, 198), ('Didi Pickles',216, 228), ('Grandma Minka',233, 246), ('the two animated shows Rugrats',250, 280)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'RB', 'VBD', 'JJ', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'CC', 'IN', 'DT', 'CD', 'NNP', 'NN', 'NNP', 'NNP', 'MD', 'RB', 'VB', '.', 'PRP', 'VBD', 'CC', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'NNS', 'NNS', 'CC', 'DT', 'VBN', 'IN', '.', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Melanie'), (8, 'Chartoff'), (17, '('), (18, 'born'), (23, 'December'), (32, '15'), (34, ','), (36, '1948'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'first'), (76, 'became'), (83, 'famous'), (90, 'for'), (94, 'her'), (98, 'comedy'), (105, 'work'), (110, 'on'), (113, 'the'), (117, 'ABC'), (121, 'series'), (128, 'Fridays'), (136, '('), (137, '1980–82'), (144, ')'), (145, ','), (147, 'and'), (151, 'in'), (154, 'the'), (158, '1990s'), (164, 'Fox'), (168, 'sitcom'), (175, 'Parker'), (182, 'Lewis'), (188, 'Ca'), (190, "n't"), (194, 'Lose'), (198, '.'), (200, 'She'), (204, 'voiced'), (211, 'both'), (216, 'Didi'), (221, 'Pickles'), (229, 'and'), (233, 'Grandma'), (241, 'Minka'), (247, 'on'), (250, 'the'), (254, 'two'), (258, 'animated'), (267, 'shows'), (273, 'Rugrats'), (281, 'and'), (285, 'All'), (289, 'Grown'), (295, 'Up!.')])</spacy_tokens>
+<spacy_chunks>[('Melanie Chartoff', 0, 16), ('December 15, 1948', 23, 40), ('an American actress', 45, 64), ('her comedy work', 94, 109), ('the ABC series', 113, 127), ('Fridays', 128, 135), ('1980–82', 137, 144), ('the 1990s Fox sitcom', 154, 174), ("Parker Lewis Can't Lose", 175, 198), ('both Didi Pickles', 211, 228), ('Grandma Minka', 233, 246), ('the two animated shows', 250, 272), ('Rugrats', 273, 280), ('All Grown Up!', 285, 298)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'RB', 'VBD', 'JJ', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NNP', '-LRB-', 'NNP', '-RRB-', ',', 'CC', 'IN', 'DT', 'CD', 'NNP', 'NN', 'NNP', 'NNP', 'MD', 'RB', 'VB', '.', 'PRP', 'VBD', 'CC', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'VBN', 'NNS', 'NNP', 'CC', 'DT', 'VBN', 'JJ']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

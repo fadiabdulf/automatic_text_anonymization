@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charlotte d'Amboise</title>
+<link/>https://en.wikipedia.org/wiki/Charlotte_d%27Amboise
+<annotated>0</annotated>
+<originalabstract>Charlotte d'Amboise (born May 11, 1964) is an American actress and dancer. She has played starring roles in musical theatre, and has been nominated for two Tony Awards and won the Los Angeles Ovation Awards for Best Leading Actress in a Musical for Chicago. She has also appeared in films.</originalabstract>
+<abstract>Charlotte_d'Amboise ( born May_11_,_1964 ) is an_American_actress_and_dancer . She has_played_starring roles in musical_theatre , and has_been_nominated for two_Tony_Awards and won the_Los_Angeles_Ovation_Awards for Best Leading Actress in a_Musical for Chicago . She has_also_appeared in films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charlotte'), (10, 'd\'Amboise'), (20, '('), (21, 'born'), (26, 'May'), (30, '11'), (32, ','), (34, '1964'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'dancer'), (73, '.'), (75, 'She'), (79, 'has'), (83, 'played'), (90, 'starring'), (99, 'roles'), (105, 'in'), (108, 'musical'), (116, 'theatre'), (123, ','), (125, 'and'), (129, 'has'), (133, 'been'), (138, 'nominated'), (148, 'for'), (152, 'two'), (156, 'Tony'), (161, 'Awards'), (168, 'and'), (172, 'won'), (176, 'the'), (180, 'Los'), (184, 'Angeles'), (192, 'Ovation'), (200, 'Awards'), (207, 'for'), (211, 'Best'), (216, 'Leading'), (224, 'Actress'), (232, 'in'), (235, 'a'), (237, 'Musical'), (245, 'for'), (249, 'Chicago'), (256, '.'), (258, 'She'), (262, 'has'), (266, 'also'), (271, 'appeared'), (280, 'in'), (283, 'films'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charlotte d\'Amboise',0, 19), ('May 11, 1964',26, 38), ('an American actress and dancer',43, 73), ('has played starring',79, 98), ('musical theatre',108, 123), ('has been nominated',129, 147), ('two Tony Awards',152, 167), ('the Los Angeles Ovation Awards',176, 206), ('a Musical',235, 244), ('has also appeared',262, 279)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'VBG', 'NNS', 'IN', 'JJ', 'NN', ',', 'CC', 'VBZ', 'VBN', 'VBN', 'IN', 'CD', 'NNP', 'NNS', 'CC', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'NNS', 'IN', 'NN', 'VBG', 'NN', 'IN', 'DT', 'JJ', 'IN', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charlotte'), (10, "d'Amboise"), (20, '('), (21, 'born'), (26, 'May'), (30, '11'), (32, ','), (34, '1964'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'dancer'), (73, '.'), (75, 'She'), (79, 'has'), (83, 'played'), (90, 'starring'), (99, 'roles'), (105, 'in'), (108, 'musical'), (116, 'theatre'), (123, ','), (125, 'and'), (129, 'has'), (133, 'been'), (138, 'nominated'), (148, 'for'), (152, 'two'), (156, 'Tony'), (161, 'Awards'), (168, 'and'), (172, 'won'), (176, 'the'), (180, 'Los'), (184, 'Angeles'), (192, 'Ovation'), (200, 'Awards'), (207, 'for'), (211, 'Best'), (216, 'Leading'), (224, 'Actress'), (232, 'in'), (235, 'a'), (237, 'Musical'), (245, 'for'), (249, 'Chicago'), (256, '.'), (258, 'She'), (262, 'has'), (266, 'also'), (271, 'appeared'), (280, 'in'), (283, 'films'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[("Charlotte d'Amboise", 0, 19), ('May 11, 1964', 26, 38), ('an American actress', 43, 62), ('Dancer', 67, 73), ('starring roles', 90, 104), ('musical theatre', 108, 123), ('two Tony Awards', 152, 167), ('the Los Angeles Ovation Awards', 176, 206), ('Best Leading Actress', 211, 231), ('a Musical', 235, 244), ('Chicago', 249, 256)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'VBG', 'NNS', 'IN', 'JJ', 'NN', ',', 'CC', 'VBZ', 'VBN', 'VBN', 'IN', 'CD', 'NNP', 'NNPS', 'CC', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'NNPS', 'IN', 'NNP', 'VBG', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

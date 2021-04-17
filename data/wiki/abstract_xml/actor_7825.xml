@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Cazabon</title>
+<link/>https://en.wikipedia.org/wiki/John_Cazabon
+<annotated>0</annotated>
+<originalabstract>John F Cazabon (3 August 1914 – 1983) was an actor born in Hertford, England.</originalabstract>
+<abstract>John_F_Cazabon ( 3_August_1914 – 1983 ) was an_actor born in Hertford , England .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'F'), (7, 'Cazabon'), (15, '('), (16, '3'), (18, 'August'), (25, '1914'), (30, '–'), (32, '1983'), (36, ')'), (38, 'was'), (42, 'an'), (45, 'actor'), (51, 'born'), (56, 'in'), (59, 'Hertford'), (67, ','), (69, 'England'), (76, '.')])</stanford_tokens>
+<opennlp_chunks>[('John F Cazabon',0, 14), ('3 August 1914',16, 29), ('an actor',42, 50)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NN', 'NN', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'F'), (7, 'Cazabon'), (15, '('), (16, '3'), (18, 'August'), (25, '1914'), (30, '–'), (32, '1983'), (36, ')'), (38, 'was'), (42, 'an'), (45, 'actor'), (51, 'born'), (56, 'in'), (59, 'Hertford'), (67, ','), (69, 'England'), (76, '.')])</spacy_tokens>
+<spacy_chunks>[('John F Cazabon', 0, 14), ('(3 August', 15, 24), ('3 August 1914', 16, 29), ('an actor', 42, 50), ('Hertford', 59, 67), ('England', 69, 76)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Betty Miles</title>
+<link/>https://en.wikipedia.org/wiki/Betty_Miles
+<annotated>0</annotated>
+<originalabstract>Betty Miles (January 11, 1910 – June 9, 1992) was an American B-movie film actress and stuntwoman of the late 1930s and well into the 1940s, who later became an educator. Her father, George Henry T. Henninger, was a Texas cattleman, and had taught her to ride horses from an early age.</originalabstract>
+<abstract>Betty_Miles ( January_11_,_1910 – June_9_,_1992 ) was an_American_B-movie_film_actress_and_stuntwoman of the_late_1930s and well into the_1940s , who later became an_educator . Her_father , George_Henry_T._Henninger , was a_Texas_cattleman , and had_taught her to_ride horses from an_early_age .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Betty'), (6, 'Miles'), (12, '('), (13, 'January'), (21, '11'), (23, ','), (25, '1910'), (30, '–'), (32, 'June'), (37, '9'), (38, ','), (40, '1992'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'B-movie'), (70, 'film'), (75, 'actress'), (83, 'and'), (87, 'stuntwoman'), (98, 'of'), (101, 'the'), (105, 'late'), (110, '1930s'), (116, 'and'), (120, 'well'), (125, 'into'), (130, 'the'), (134, '1940s'), (139, ','), (141, 'who'), (145, 'later'), (151, 'became'), (158, 'an'), (161, 'educator'), (169, '.'), (171, 'Her'), (175, 'father'), (181, ','), (183, 'George'), (190, 'Henry'), (196, 'T.'), (199, 'Henninger'), (208, ','), (210, 'was'), (214, 'a'), (216, 'Texas'), (222, 'cattleman'), (231, ','), (233, 'and'), (237, 'had'), (241, 'taught'), (248, 'her'), (252, 'to'), (255, 'ride'), (260, 'horses'), (267, 'from'), (272, 'an'), (275, 'early'), (281, 'age'), (284, '.')])</stanford_tokens>
+<opennlp_chunks>[('Betty Miles',0, 11), ('January 11, 1910',13, 29), ('June 9, 1992',32, 44), ('an American B-movie film actress and stuntwoman',50, 97), ('the late 1930s',101, 115), ('the 1940s',130, 139), ('an educator',158, 169), ('Her father',171, 181), ('George Henry T. Henninger',183, 208), ('a Texas cattleman',214, 231), ('had taught',237, 247), ('to ride',252, 259), ('an early age',272, 284)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'RB', 'IN', 'DT', 'CD', ',', 'WP', 'RB', 'VBD', 'DT', 'NN', '.', 'PRP$', 'NN', ',', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NNP', 'NN', ',', 'CC', 'VBD', 'VBN', 'PRP$', 'TO', 'VB', 'NNS', 'IN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Betty'), (6, 'Miles'), (12, '('), (13, 'January'), (21, '11'), (23, ','), (25, '1910'), (30, '–'), (32, 'June'), (37, '9'), (38, ','), (40, '1992'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'B'), (63, '-'), (64, 'movie'), (70, 'film'), (75, 'actress'), (83, 'and'), (87, 'stuntwoman'), (98, 'of'), (101, 'the'), (105, 'late'), (110, '1930s'), (116, 'and'), (120, 'well'), (125, 'into'), (130, 'the'), (134, '1940s'), (139, ','), (141, 'who'), (145, 'later'), (151, 'became'), (158, 'an'), (161, 'educator'), (169, '.'), (171, 'Her'), (175, 'father'), (181, ','), (183, 'George'), (190, 'Henry'), (196, 'T.'), (199, 'Henninger'), (208, ','), (210, 'was'), (214, 'a'), (216, 'Texas'), (222, 'cattleman'), (231, ','), (233, 'and'), (237, 'had'), (241, 'taught'), (248, 'her'), (252, 'to'), (255, 'ride'), (260, 'horses'), (267, 'from'), (272, 'an'), (275, 'early'), (281, 'age'), (284, '.')])</spacy_tokens>
+<spacy_chunks>[('Betty Miles', 0, 11), ('(January', 12, 20), ('January 11, 1910', 13, 29), ('June 9, 1992', 32, 44), ('an American B-movie film actress', 50, 82), ('stuntwoman', 87, 97), ('the late 1930s', 101, 115), ('the 1940s', 130, 139), ('an educator', 158, 169), ('Her father', 171, 181), ('George Henry T. Henninger', 183, 208), ('a Texas cattleman', 214, 231), ('horses', 260, 266), ('an early age', 272, 284)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'HYPH', 'NN', 'NN', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'RB', 'IN', 'DT', 'NNS', ',', 'WP', 'RB', 'VBD', 'DT', 'NN', '.', 'PRP$', 'NN', ',', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NNP', 'NN', ',', 'CC', 'VBD', 'VBN', 'PRP', 'TO', 'VB', 'NNS', 'IN', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

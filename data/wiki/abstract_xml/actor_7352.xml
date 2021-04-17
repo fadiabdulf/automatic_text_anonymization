@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Yost</title>
+<link/>https://en.wikipedia.org/wiki/David_Yost
+<annotated>0</annotated>
+<originalabstract>David Harold Yost (born January 7, 1969) is an American actor and producer. He is best known for portraying Billy Cranston in Mighty Morphin Power Rangers, Mighty Morphin Power Rangers: The Movie, Mighty Morphin Alien Rangers and Power Rangers Zeo.</originalabstract>
+<abstract>David_Harold_Yost ( born January_7_,_1969 ) is an_American_actor_and_producer . He is_best_known for portraying Billy_Cranston in Mighty_Morphin_Power_Rangers , Mighty_Morphin_Power_Rangers : The_Movie , Mighty_Morphin_Alien_Rangers_and_Power_Rangers_Zeo .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Harold'), (13, 'Yost'), (18, '('), (19, 'born'), (24, 'January'), (32, '7'), (33, ','), (35, '1969'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (62, 'and'), (66, 'producer'), (74, '.'), (76, 'He'), (79, 'is'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'portraying'), (108, 'Billy'), (114, 'Cranston'), (123, 'in'), (126, 'Mighty'), (133, 'Morphin'), (141, 'Power'), (147, 'Rangers'), (154, ','), (156, 'Mighty'), (163, 'Morphin'), (171, 'Power'), (177, 'Rangers'), (184, ':'), (186, 'The'), (190, 'Movie'), (195, ','), (197, 'Mighty'), (204, 'Morphin'), (212, 'Alien'), (218, 'Rangers'), (226, 'and'), (230, 'Power'), (236, 'Rangers'), (244, 'Zeo'), (247, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Harold Yost',0, 17), ('January 7, 1969',24, 39), ('an American actor and producer',44, 74), ('is best known',79, 92), ('Billy Cranston',108, 122), ('Mighty Morphin Power Rangers',126, 154), ('Mighty Morphin Power Rangers',156, 184), ('The Movie',186, 195), ('Mighty Morphin Alien Rangers and Power Rangers Zeo',197, 247)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNPS', ',', 'NNP', 'NNP', 'NNP', 'NNPS', ':', 'DT', 'NN', ',', 'NNP', 'NNP', 'NNP', 'NNPS', 'CC', 'NNP', 'NNPS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Harold'), (13, 'Yost'), (18, '('), (19, 'born'), (24, 'January'), (32, '7'), (33, ','), (35, '1969'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actor'), (62, 'and'), (66, 'producer'), (74, '.'), (76, 'He'), (79, 'is'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'portraying'), (108, 'Billy'), (114, 'Cranston'), (123, 'in'), (126, 'Mighty'), (133, 'Morphin'), (141, 'Power'), (147, 'Rangers'), (154, ','), (156, 'Mighty'), (163, 'Morphin'), (171, 'Power'), (177, 'Rangers'), (184, ':'), (186, 'The'), (190, 'Movie'), (195, ','), (197, 'Mighty'), (204, 'Morphin'), (212, 'Alien'), (218, 'Rangers'), (226, 'and'), (230, 'Power'), (236, 'Rangers'), (244, 'Zeo'), (247, '.')])</spacy_tokens>
+<spacy_chunks>[('David Harold Yost', 0, 17), ('January 7, 1969', 24, 39), ('an American actor', 44, 61), ('producer', 66, 74), ('Billy Cranston', 108, 122), ('Mighty Morphin Power Rangers', 126, 154), ('Mighty Morphin Power Rangers: The Movie', 156, 195), ('Mighty Morphin Alien Rangers', 197, 225), ('Power Rangers Zeo', 230, 247)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'NNPS', ',', 'NNP', 'NNP', 'NNP', 'NNPS', ':', 'DT', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'NNPS', 'CC', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

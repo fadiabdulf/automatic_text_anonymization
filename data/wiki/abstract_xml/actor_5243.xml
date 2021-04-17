@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Walter E. Perkins</title>
+<link/>https://en.wikipedia.org/wiki/Walter_E._Perkins
+<annotated>0</annotated>
+<originalabstract>Walter Eugene Perkins (1859-1925) was an American stage and film actor, known for his performances in films such as My Friend from India (1914), Who Goes There? (1914) and Paying His Debt (1918).</originalabstract>
+<abstract>Walter_Eugene_Perkins ( 1859-1925 ) was an_American_stage_and_film_actor , known for his_performances in films such_as My_Friend from India ( 1914 ) , Who Goes There ? (_1914_) and Paying His_Debt_(_1918_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Walter'), (7, 'Eugene'), (14, 'Perkins'), (22, '('), (23, '1859-1925'), (32, ')'), (34, 'was'), (38, 'an'), (41, 'American'), (50, 'stage'), (56, 'and'), (60, 'film'), (65, 'actor'), (70, ','), (72, 'known'), (78, 'for'), (82, 'his'), (86, 'performances'), (99, 'in'), (102, 'films'), (108, 'such'), (113, 'as'), (116, 'My'), (119, 'Friend'), (126, 'from'), (131, 'India'), (137, '('), (138, '1914'), (142, ')'), (143, ','), (145, 'Who'), (149, 'Goes'), (154, 'There'), (159, '?'), (161, '('), (162, '1914'), (166, ')'), (168, 'and'), (172, 'Paying'), (179, 'His'), (183, 'Debt'), (188, '('), (189, '1918'), (193, ')'), (194, '.')])</stanford_tokens>
+<opennlp_chunks>[('Walter Eugene Perkins',0, 21), ('an American stage and film actor',38, 70), ('his performances',82, 98), ('such as',108, 115), ('My Friend',116, 125), ('(1914)',161, 167), ('His Debt (1918)',179, 194)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'WP', 'VBZ', 'EX', '.', '-LRB-', 'CD', '-RRB-', 'CC', 'VBG', 'PRP$', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Walter'), (7, 'Eugene'), (14, 'Perkins'), (22, '('), (23, '1859'), (27, '-'), (28, '1925'), (32, ')'), (34, 'was'), (38, 'an'), (41, 'American'), (50, 'stage'), (56, 'and'), (60, 'film'), (65, 'actor'), (70, ','), (72, 'known'), (78, 'for'), (82, 'his'), (86, 'performances'), (99, 'in'), (102, 'films'), (108, 'such'), (113, 'as'), (116, 'My'), (119, 'Friend'), (126, 'from'), (131, 'India'), (137, '('), (138, '1914'), (142, ')'), (143, ','), (145, 'Who'), (149, 'Goes'), (154, 'There'), (159, '?'), (161, '('), (162, '1914'), (166, ')'), (168, 'and'), (172, 'Paying'), (179, 'His'), (183, 'Debt'), (188, '('), (189, '1918'), (193, ')'), (194, '.')])</spacy_tokens>
+<spacy_chunks>[('Walter Eugene Perkins', 0, 21), ('an American stage', 38, 55), ('film actor', 60, 70), ('his performances', 82, 98), ('My Friend', 116, 125), ('His Debt', 179, 187)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'WP', 'VBZ', 'RB', '.', '-LRB-', 'CD', '-RRB-', 'CC', 'VBG', 'PRP$', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

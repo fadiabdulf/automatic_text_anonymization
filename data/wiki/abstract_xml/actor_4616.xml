@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Allan Miller</title>
+<link/>https://en.wikipedia.org/wiki/Allan_Miller
+<annotated>0</annotated>
+<originalabstract>Allan Miller (born February 14, 1929) is an American actor, director, acting teacher, author and playwright.</originalabstract>
+<abstract>Allan_Miller ( born February_14_,_1929 ) is an_American_actor , director , acting teacher_,_author_and_playwright .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Allan'), (6, 'Miller'), (13, '('), (14, 'born'), (19, 'February'), (28, '14'), (30, ','), (32, '1929'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (58, ','), (60, 'director'), (68, ','), (70, 'acting'), (77, 'teacher'), (84, ','), (86, 'author'), (93, 'and'), (97, 'playwright'), (107, '.')])</stanford_tokens>
+<opennlp_chunks>[('Allan Miller',0, 12), ('February 14, 1929',19, 36), ('an American actor',41, 58), ('teacher, author and playwright',77, 107)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'VBG', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Allan'), (6, 'Miller'), (13, '('), (14, 'born'), (19, 'February'), (28, '14'), (30, ','), (32, '1929'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actor'), (58, ','), (60, 'director'), (68, ','), (70, 'acting'), (77, 'teacher'), (84, ','), (86, 'author'), (93, 'and'), (97, 'playwright'), (107, '.')])</spacy_tokens>
+<spacy_chunks>[('Allan Miller', 0, 12), ('February 14, 1929', 19, 36), ('an American actor', 41, 58), ('director', 60, 68), ('acting teacher', 70, 84), ('author', 86, 92), ('playwright', 97, 107)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'VBG', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

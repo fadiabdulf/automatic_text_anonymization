@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Matt King (comedian)</title>
+<link/>https://en.wikipedia.org/wiki/Matt_King_(comedian)
+<annotated>0</annotated>
+<originalabstract>Matt King (born 31 January 1968) is an English actor, DJ and comedian. He is most known for his role as Super Hans in the British sitcom Peep Show.</originalabstract>
+<abstract>Matt_King ( born_31_January_1968 ) is an_English_actor , DJ_and_comedian . He is_most_known for his_role as Super_Hans in the_British_sitcom_Peep_Show .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Matt'), (5, 'King'), (10, '('), (11, 'born'), (16, '31'), (19, 'January'), (27, '1968'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'English'), (47, 'actor'), (52, ','), (54, 'DJ'), (57, 'and'), (61, 'comedian'), (69, '.'), (71, 'He'), (74, 'is'), (77, 'most'), (82, 'known'), (88, 'for'), (92, 'his'), (96, 'role'), (101, 'as'), (104, 'Super'), (110, 'Hans'), (115, 'in'), (118, 'the'), (122, 'British'), (130, 'sitcom'), (137, 'Peep'), (142, 'Show'), (146, '.')])</stanford_tokens>
+<opennlp_chunks>[('Matt King',0, 9), ('born 31 January 1968',11, 31), ('an English actor',36, 52), ('DJ and comedian',54, 69), ('is most known',74, 87), ('his role',92, 100), ('Super Hans',104, 114), ('the British sitcom Peep Show',118, 146)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NNP', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Matt'), (5, 'King'), (10, '('), (11, 'born'), (16, '31'), (19, 'January'), (27, '1968'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'English'), (47, 'actor'), (52, ','), (54, 'DJ'), (57, 'and'), (61, 'comedian'), (69, '.'), (71, 'He'), (74, 'is'), (77, 'most'), (82, 'known'), (88, 'for'), (92, 'his'), (96, 'role'), (101, 'as'), (104, 'Super'), (110, 'Hans'), (115, 'in'), (118, 'the'), (122, 'British'), (130, 'sitcom'), (137, 'Peep'), (142, 'Show'), (146, '.')])</spacy_tokens>
+<spacy_chunks>[('Matt King', 0, 9), ('31 January 1968', 16, 31), ('an English actor', 36, 52), ('Comedian', 61, 69), ('his role', 92, 100), ('Super Hans', 104, 114), ('In the', 115, 121), ('the British sitcom', 118, 136), ('Peep Show', 137, 146)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

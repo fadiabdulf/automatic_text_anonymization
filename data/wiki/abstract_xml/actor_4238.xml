@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joshua Malina</title>
+<link/>https://en.wikipedia.org/wiki/Joshua_Malina
+<annotated>0</annotated>
+<originalabstract>Joshua Charles Malina (born January 17, 1966) is an American film and stage actor. He has played Will Bailey on the NBC drama The West Wing, Jeremy Goodwin on Sports Night, and David Rosen on Scandal.</originalabstract>
+<abstract>Joshua_Charles_Malina ( born January_17_,_1966 ) is an_American_film_and_stage_actor . He has_played Will_Bailey on the_NBC_drama The_West_Wing , Jeremy_Goodwin on Sports_Night , and David_Rosen on Scandal .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joshua'), (7, 'Charles'), (15, 'Malina'), (22, '('), (23, 'born'), (28, 'January'), (36, '17'), (38, ','), (40, '1966'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'film'), (66, 'and'), (70, 'stage'), (76, 'actor'), (81, '.'), (83, 'He'), (86, 'has'), (90, 'played'), (97, 'Will'), (102, 'Bailey'), (109, 'on'), (112, 'the'), (116, 'NBC'), (120, 'drama'), (126, 'The'), (130, 'West'), (135, 'Wing'), (139, ','), (141, 'Jeremy'), (148, 'Goodwin'), (156, 'on'), (159, 'Sports'), (166, 'Night'), (171, ','), (173, 'and'), (177, 'David'), (183, 'Rosen'), (189, 'on'), (192, 'Scandal'), (199, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joshua Charles Malina',0, 21), ('January 17, 1966',28, 44), ('an American film and stage actor',49, 81), ('has played',86, 96), ('Will Bailey',97, 108), ('the NBC drama',112, 125), ('The West Wing',126, 139), ('Jeremy Goodwin',141, 155), ('Sports Night',159, 171), ('David Rosen',177, 188)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'MD', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'NN', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joshua'), (7, 'Charles'), (15, 'Malina'), (22, '('), (23, 'born'), (28, 'January'), (36, '17'), (38, ','), (40, '1966'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'film'), (66, 'and'), (70, 'stage'), (76, 'actor'), (81, '.'), (83, 'He'), (86, 'has'), (90, 'played'), (97, 'Will'), (102, 'Bailey'), (109, 'on'), (112, 'the'), (116, 'NBC'), (120, 'drama'), (126, 'The'), (130, 'West'), (135, 'Wing'), (139, ','), (141, 'Jeremy'), (148, 'Goodwin'), (156, 'on'), (159, 'Sports'), (166, 'Night'), (171, ','), (173, 'and'), (177, 'David'), (183, 'Rosen'), (189, 'on'), (192, 'Scandal'), (199, '.')])</spacy_tokens>
+<spacy_chunks>[('Joshua Charles Malina', 0, 21), ('January 17, 1966', 28, 44), ('an American film', 49, 65), ('stage actor', 70, 81), ('Will Bailey', 97, 108), ('the NBC drama', 112, 125), ('The West Wing', 126, 139), ('Jeremy Goodwin', 141, 155), ('Sports Night', 159, 171), ('David Rosen', 177, 188), ('Scandal', 192, 199)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNPS', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

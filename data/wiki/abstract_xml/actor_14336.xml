@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jennifer O'Neill</title>
+<link/>https://en.wikipedia.org/wiki/Jennifer_O%27Neill
+<annotated>0</annotated>
+<originalabstract>Jennifer O'Neill (born February 20, 1948) is a Brazilian American actress, model, author and speaker, known for her role in the 1971 film Summer of '42 and modelling for CoverGirl cosmetics starting in the 1970s.</originalabstract>
+<abstract>Jennifer_O'Neill ( born February_20_,_1948 ) is a_Brazilian_American_actress , model , author_and_speaker , known for her_role in the_1971_film_Summer of '42 and modelling for CoverGirl_cosmetics starting in the_1970s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jennifer'), (9, 'O\'Neill'), (17, '('), (18, 'born'), (23, 'February'), (32, '20'), (34, ','), (36, '1948'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'Brazilian'), (57, 'American'), (66, 'actress'), (73, ','), (75, 'model'), (80, ','), (82, 'author'), (89, 'and'), (93, 'speaker'), (100, ','), (102, 'known'), (108, 'for'), (112, 'her'), (116, 'role'), (121, 'in'), (124, 'the'), (128, '1971'), (133, 'film'), (138, 'Summer'), (145, 'of'), (148, '\'42'), (152, 'and'), (156, 'modelling'), (166, 'for'), (170, 'CoverGirl'), (180, 'cosmetics'), (190, 'starting'), (199, 'in'), (202, 'the'), (206, '1970s'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jennifer O\'Neill',0, 16), ('February 20, 1948',23, 40), ('a Brazilian American actress',45, 73), ('author and speaker',82, 100), ('her role',112, 120), ('the 1971 film Summer',124, 144), ('CoverGirl cosmetics',170, 189), ('the 1970s',202, 211)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'IN', 'CD', 'CC', 'VBG', 'IN', 'NNP', 'NNS', 'VBG', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jennifer'), (9, "O'Neill"), (17, '('), (18, 'born'), (23, 'February'), (32, '20'), (34, ','), (36, '1948'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'Brazilian'), (57, 'American'), (66, 'actress'), (73, ','), (75, 'model'), (80, ','), (82, 'author'), (89, 'and'), (93, 'speaker'), (100, ','), (102, 'known'), (108, 'for'), (112, 'her'), (116, 'role'), (121, 'in'), (124, 'the'), (128, '1971'), (133, 'film'), (138, 'Summer'), (145, 'of'), (148, "'"), (149, '42'), (152, 'and'), (156, 'modelling'), (166, 'for'), (170, 'CoverGirl'), (180, 'cosmetics'), (190, 'starting'), (199, 'in'), (202, 'the'), (206, '1970s'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[("Jennifer O'Neill", 0, 16), ('February 20, 1948', 23, 40), ('a Brazilian American actress', 45, 73), ('author', 82, 88), ('speaker', 93, 100), ('her role', 112, 120), ('the 1971 film', 124, 137), ("Summer of '42", 138, 151), ('CoverGirl cosmetics', 170, 189), ('the 1970s', 202, 211)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'IN', 'CD', 'CD', 'CC', 'VBG', 'IN', 'NNP', 'NNS', 'VBG', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

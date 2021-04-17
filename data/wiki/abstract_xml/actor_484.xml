@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charlie Becker</title>
+<link/>https://en.wikipedia.org/wiki/Charlie_Becker
+<annotated>0</annotated>
+<originalabstract>Karl Becker (November 24, 1887 – December 28, 1968) billed as Charlie Becker,  was a German American actor. He was 3'9" in height, and is probably best known for appearing as the Munchkinland Mayor in The Wizard of Oz (1939). Ken Darby dubbed the Mayor's vocals in the film.</originalabstract>
+<abstract>Karl_Becker ( November_24_,_1887 – December_28_,_1968 ) billed as Charlie_Becker , was a_German_American_actor . He was 3_'_9 " in height , and is_probably_best_known for appearing as the_Munchkinland_Mayor in The_Wizard of Oz_(_1939_) . Ken_Darby dubbed the_Mayor 's_vocals in the_film .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Karl'), (5, 'Becker'), (12, '('), (13, 'November'), (22, '24'), (24, ','), (26, '1887'), (31, '–'), (33, 'December'), (42, '28'), (44, ','), (46, '1968'), (50, ')'), (52, 'billed'), (59, 'as'), (62, 'Charlie'), (70, 'Becker'), (76, ','), (79, 'was'), (83, 'a'), (85, 'German'), (92, 'American'), (101, 'actor'), (106, '.'), (108, 'He'), (111, 'was'), (115, '3'), (116, '\''), (117, '9'), (118, '"'), (120, 'in'), (123, 'height'), (129, ','), (131, 'and'), (135, 'is'), (138, 'probably'), (147, 'best'), (152, 'known'), (158, 'for'), (162, 'appearing'), (172, 'as'), (175, 'the'), (179, 'Munchkinland'), (192, 'Mayor'), (198, 'in'), (201, 'The'), (205, 'Wizard'), (212, 'of'), (215, 'Oz'), (218, '('), (219, '1939'), (223, ')'), (224, '.'), (226, 'Ken'), (230, 'Darby'), (236, 'dubbed'), (243, 'the'), (247, 'Mayor'), (252, '\'s'), (255, 'vocals'), (262, 'in'), (265, 'the'), (269, 'film'), (273, '.')])</stanford_tokens>
+<opennlp_chunks>[('Karl Becker',0, 11), ('November 24, 1887',13, 30), ('December 28, 1968',33, 50), ('Charlie Becker',62, 76), ('a German American actor',83, 106), ('3\'9',115, 118), ('is probably best known',135, 157), ('the Munchkinland Mayor',175, 197), ('The Wizard',201, 211), ('Oz (1939)',215, 224), ('Ken Darby',226, 235), ('the Mayor',243, 252), ('\'s vocals',252, 261), ('the film',265, 273)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', '\'\'', 'CD', '\'\'', 'IN', 'NN', ',', 'CC', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'NNP', 'VBD', 'DT', 'NNP', 'POS', 'NNS', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Karl'), (5, 'Becker'), (12, '('), (13, 'November'), (22, '24'), (24, ','), (26, '1887'), (31, '–'), (33, 'December'), (42, '28'), (44, ','), (46, '1968'), (50, ')'), (52, 'billed'), (59, 'as'), (62, 'Charlie'), (70, 'Becker'), (76, ','), (79, 'was'), (83, 'a'), (85, 'German'), (92, 'American'), (101, 'actor'), (106, '.'), (108, 'He'), (111, 'was'), (115, "3'9"), (118, '"'), (120, 'in'), (123, 'height'), (129, ','), (131, 'and'), (135, 'is'), (138, 'probably'), (147, 'best'), (152, 'known'), (158, 'for'), (162, 'appearing'), (172, 'as'), (175, 'the'), (179, 'Munchkinland'), (192, 'Mayor'), (198, 'in'), (201, 'The'), (205, 'Wizard'), (212, 'of'), (215, 'Oz'), (218, '('), (219, '1939'), (223, ')'), (224, '.'), (226, 'Ken'), (230, 'Darby'), (236, 'dubbed'), (243, 'the'), (247, 'Mayor'), (252, "'s"), (255, 'vocals'), (262, 'in'), (265, 'the'), (269, 'film'), (273, '.')])</spacy_tokens>
+<spacy_chunks>[('Karl Becker', 0, 11), ('(November', 12, 21), ('November 24, 1887', 13, 30), ('December 28, 1968', 33, 50), ('Charlie Becker', 62, 76), ('a German American actor', 83, 106), ('height', 123, 129), ('the Munchkinland Mayor', 175, 197), ('The Wizard of Oz (1939', 201, 223), ('Ken Darby', 226, 235), ("the Mayor's vocals", 243, 261), ('the film', 265, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'CD', "''", 'IN', 'NN', ',', 'CC', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'VBG', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'NNP', 'VBD', 'DT', 'NNP', 'POS', 'NNS', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

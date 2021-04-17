@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Blaze Berdahl</title>
+<link/>https://en.wikipedia.org/wiki/Blaze_Berdahl
+<annotated>0</annotated>
+<originalabstract>Blaze Autumn Berdahl (born September 6, 1980) is an American actress, singer, rapper, voice-over actor, announcer, and narrator. She is perhaps best known for her roles as Lenni Frazier in the children's television series Ghostwriter and Ellie Creed in the film Pet Sematary (1989).</originalabstract>
+<abstract>Blaze_Autumn_Berdahl ( born September_6_,_1980 ) is an_American_actress , singer , rapper , voice-over_actor , announcer , and narrator . She is_perhaps_best_known for her_roles as Lenni_Frazier in the_children 's_television_series_Ghostwriter_and_Ellie_Creed in the_film_Pet_Sematary_(_1989_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Blaze'), (6, 'Autumn'), (13, 'Berdahl'), (21, '('), (22, 'born'), (27, 'September'), (37, '6'), (38, ','), (40, '1980'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (68, ','), (70, 'singer'), (76, ','), (78, 'rapper'), (84, ','), (86, 'voice-over'), (97, 'actor'), (102, ','), (104, 'announcer'), (113, ','), (115, 'and'), (119, 'narrator'), (127, '.'), (129, 'She'), (133, 'is'), (136, 'perhaps'), (144, 'best'), (149, 'known'), (155, 'for'), (159, 'her'), (163, 'roles'), (169, 'as'), (172, 'Lenni'), (178, 'Frazier'), (186, 'in'), (189, 'the'), (193, 'children'), (201, '\'s'), (204, 'television'), (215, 'series'), (222, 'Ghostwriter'), (234, 'and'), (238, 'Ellie'), (244, 'Creed'), (250, 'in'), (253, 'the'), (257, 'film'), (262, 'Pet'), (266, 'Sematary'), (275, '('), (276, '1989'), (280, ')'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('Blaze Autumn Berdahl',0, 20), ('September 6, 1980',27, 44), ('an American actress',49, 68), ('voice-over actor',86, 102), ('is perhaps best known',133, 154), ('her roles',159, 168), ('Lenni Frazier',172, 185), ('the children',189, 201), ('\'s television series Ghostwriter and Ellie Creed',201, 249), ('the film Pet Sematary (1989)',253, 281)]</opennlp_chunks>
+<stanford_pos>['NN', 'NN', 'NN', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Blaze'), (6, 'Autumn'), (13, 'Berdahl'), (21, '('), (22, 'born'), (27, 'September'), (37, '6'), (38, ','), (40, '1980'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (68, ','), (70, 'singer'), (76, ','), (78, 'rapper'), (84, ','), (86, 'voice'), (91, '-'), (92, 'over'), (97, 'actor'), (102, ','), (104, 'announcer'), (113, ','), (115, 'and'), (119, 'narrator'), (127, '.'), (129, 'She'), (133, 'is'), (136, 'perhaps'), (144, 'best'), (149, 'known'), (155, 'for'), (159, 'her'), (163, 'roles'), (169, 'as'), (172, 'Lenni'), (178, 'Frazier'), (186, 'in'), (189, 'the'), (193, 'children'), (201, "'s"), (204, 'television'), (215, 'series'), (222, 'Ghostwriter'), (234, 'and'), (238, 'Ellie'), (244, 'Creed'), (250, 'in'), (253, 'the'), (257, 'film'), (262, 'Pet'), (266, 'Sematary'), (275, '('), (276, '1989'), (280, ')'), (281, '.')])</spacy_tokens>
+<spacy_chunks>[('Blaze Autumn Berdahl', 0, 20), ('September 6, 1980', 27, 44), ('an American actress', 49, 68), ('singer', 70, 76), ('Rapper', 78, 84), ('voice-over actor', 86, 102), ('announcer', 104, 113), ('narrator', 119, 127), ('her roles', 159, 168), ('Lenni Frazier', 172, 185), ("the children's television series", 189, 221), ('Ghostwriter', 222, 233), ('Ellie Creed', 238, 249), ('the film', 253, 261), ('Pet Sematary (1989', 262, 280)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'HYPH', 'RP', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

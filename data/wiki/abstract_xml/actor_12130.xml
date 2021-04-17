@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nicole Forester</title>
+<link/>https://en.wikipedia.org/wiki/Nicole_Forester
+<annotated>0</annotated>
+<originalabstract>Nicole Forester (born November 19, 1972) is an American actress. She is best known for her role as "Maggie Zajac" on the Starz original series Boss and as "Cassie Layne Winslow" on Guiding Light. She currently appears as "Christie" on NBC's Chicago Fire.</originalabstract>
+<abstract>Nicole_Forester ( born November_19_,_1972 ) is an_American_actress . She is_best_known for her_role as "_Maggie_Zajac " on the_Starz_original_series Boss and as "_Cassie_Layne_Winslow " on Guiding_Light . She currently appears as " Christie " on NBC 's_Chicago_Fire .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nicole'), (7, 'Forester'), (16, '('), (17, 'born'), (22, 'November'), (31, '19'), (33, ','), (35, '1972'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (63, '.'), (65, 'She'), (69, 'is'), (72, 'best'), (77, 'known'), (83, 'for'), (87, 'her'), (91, 'role'), (96, 'as'), (99, '"'), (100, 'Maggie'), (107, 'Zajac'), (112, '"'), (114, 'on'), (117, 'the'), (121, 'Starz'), (127, 'original'), (136, 'series'), (143, 'Boss'), (148, 'and'), (152, 'as'), (155, '"'), (156, 'Cassie'), (163, 'Layne'), (169, 'Winslow'), (176, '"'), (178, 'on'), (181, 'Guiding'), (189, 'Light'), (194, '.'), (196, 'She'), (200, 'currently'), (210, 'appears'), (218, 'as'), (221, '"'), (222, 'Christie'), (230, '"'), (232, 'on'), (235, 'NBC'), (238, '\'s'), (241, 'Chicago'), (249, 'Fire'), (253, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nicole Forester',0, 15), ('November 19, 1972',22, 39), ('an American actress',44, 63), ('is best known',69, 82), ('her role',87, 95), ('"Maggie Zajac',99, 112), ('the Starz original series',117, 142), ('"Cassie Layne Winslow',155, 176), ('Guiding Light',181, 194), ('\'s Chicago Fire',238, 253)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', '``', 'NNP', 'NNP', '\'\'', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NNP', 'CC', 'IN', '``', 'NNP', 'NNP', 'NNP', '\'\'', 'IN', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBZ', 'IN', '``', 'NNP', '\'\'', 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nicole'), (7, 'Forester'), (16, '('), (17, 'born'), (22, 'November'), (31, '19'), (33, ','), (35, '1972'), (39, ')'), (41, 'is'), (44, 'an'), (47, 'American'), (56, 'actress'), (63, '.'), (65, 'She'), (69, 'is'), (72, 'best'), (77, 'known'), (83, 'for'), (87, 'her'), (91, 'role'), (96, 'as'), (99, '"'), (100, 'Maggie'), (107, 'Zajac'), (112, '"'), (114, 'on'), (117, 'the'), (121, 'Starz'), (127, 'original'), (136, 'series'), (143, 'Boss'), (148, 'and'), (152, 'as'), (155, '"'), (156, 'Cassie'), (163, 'Layne'), (169, 'Winslow'), (176, '"'), (178, 'on'), (181, 'Guiding'), (189, 'Light'), (194, '.'), (196, 'She'), (200, 'currently'), (210, 'appears'), (218, 'as'), (221, '"'), (222, 'Christie'), (230, '"'), (232, 'on'), (235, 'NBC'), (238, "'s"), (241, 'Chicago'), (249, 'Fire'), (253, '.')])</spacy_tokens>
+<spacy_chunks>[('Nicole Forester', 0, 15), ('November 19, 1972', 22, 39), ('an American actress', 44, 63), ('her role', 87, 95), ('"Maggie Zajac', 99, 112), ('the Starz original series Boss', 117, 147), ('"Cassie Layne Winslow', 155, 176), ('Guiding Light', 181, 194), ('"Christie', 221, 230), ("NBC's Chicago Fire", 235, 253)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', '``', 'NNP', 'NNP', "''", 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NNP', 'CC', 'IN', '``', 'NNP', 'NNP', 'NNP', "''", 'IN', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBZ', 'IN', '``', 'NNP', "''", 'IN', 'NNP', 'POS', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

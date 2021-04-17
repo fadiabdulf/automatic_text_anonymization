@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frank Merrill (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Frank_Merrill_(actor)
+<annotated>0</annotated>
+<originalabstract>Frank Merrill (born Otto Adolph Poll; March 21, 1893 in Newark, New Jersey – February 12, 1966) was a Southern California and national title-winning gymnast (with over 58 titles to his credit), police officer, stuntman, and actor, most famous for being the fifth actor to portray Tarzan on film.</originalabstract>
+<abstract>Frank_Merrill ( born Otto_Adolph_Poll ; March_21_,_1893 in Newark , New_Jersey – February_12_,_1966 ) was a_Southern_California and national_title-winning_gymnast ( with over_58_titles to his_credit ) , police_officer , stuntman , and actor , most_famous for being the_fifth_actor to_portray Tarzan on film .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frank'), (6, 'Merrill'), (14, '('), (15, 'born'), (20, 'Otto'), (25, 'Adolph'), (32, 'Poll'), (36, ';'), (38, 'March'), (44, '21'), (46, ','), (48, '1893'), (53, 'in'), (56, 'Newark'), (62, ','), (64, 'New'), (68, 'Jersey'), (75, '–'), (77, 'February'), (86, '12'), (88, ','), (90, '1966'), (94, ')'), (96, 'was'), (100, 'a'), (102, 'Southern'), (111, 'California'), (122, 'and'), (126, 'national'), (135, 'title-winning'), (149, 'gymnast'), (157, '('), (158, 'with'), (163, 'over'), (168, '58'), (171, 'titles'), (178, 'to'), (181, 'his'), (185, 'credit'), (191, ')'), (192, ','), (194, 'police'), (201, 'officer'), (208, ','), (210, 'stuntman'), (218, ','), (220, 'and'), (224, 'actor'), (229, ','), (231, 'most'), (236, 'famous'), (243, 'for'), (247, 'being'), (253, 'the'), (257, 'fifth'), (263, 'actor'), (269, 'to'), (272, 'portray'), (280, 'Tarzan'), (287, 'on'), (290, 'film'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frank Merrill',0, 13), ('Otto Adolph Poll',20, 36), ('March 21, 1893',38, 52), ('New Jersey',64, 74), ('February 12, 1966',77, 94), ('a Southern California',100, 121), ('national title-winning gymnast',126, 156), ('over 58 titles',163, 177), ('his credit',181, 191), ('police officer',194, 208), ('most famous',231, 242), ('the fifth actor',253, 268), ('to portray',269, 279)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NNP', 'CC', 'JJ', 'JJ', 'NN', '-LRB-', 'IN', 'IN', 'CD', 'NNS', 'TO', 'PRP$', 'NN', '-RRB-', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'TO', 'VB', 'NNP', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frank'), (6, 'Merrill'), (14, '('), (15, 'born'), (20, 'Otto'), (25, 'Adolph'), (32, 'Poll'), (36, ';'), (38, 'March'), (44, '21'), (46, ','), (48, '1893'), (53, 'in'), (56, 'Newark'), (62, ','), (64, 'New'), (68, 'Jersey'), (75, '–'), (77, 'February'), (86, '12'), (88, ','), (90, '1966'), (94, ')'), (96, 'was'), (100, 'a'), (102, 'Southern'), (111, 'California'), (122, 'and'), (126, 'national'), (135, 'title'), (140, '-'), (141, 'winning'), (149, 'gymnast'), (157, '('), (158, 'with'), (163, 'over'), (168, '58'), (171, 'titles'), (178, 'to'), (181, 'his'), (185, 'credit'), (191, ')'), (192, ','), (194, 'police'), (201, 'officer'), (208, ','), (210, 'stuntman'), (218, ','), (220, 'and'), (224, 'actor'), (229, ','), (231, 'most'), (236, 'famous'), (243, 'for'), (247, 'being'), (253, 'the'), (257, 'fifth'), (263, 'actor'), (269, 'to'), (272, 'portray'), (280, 'Tarzan'), (287, 'on'), (290, 'film'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Frank Merrill', 0, 13), ('born Otto Adolph Poll', 15, 36), ('March 21, 1893', 38, 52), ('Newark, New Jersey', 56, 74), ('February 12, 1966', 77, 94), ('a Southern California', 100, 121), ('national title-winning gymnast', 126, 156), ('over 58 titles', 163, 177), ('his credit', 181, 191), ('police officer', 194, 208), ('stuntman', 210, 218), ('the fifth actor', 253, 268), ('Tarzan', 280, 286)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NNP', 'CC', 'JJ', 'NN', 'HYPH', 'VBG', 'NN', '-LRB-', 'IN', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', '-RRB-', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'TO', 'VB', 'NNP', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

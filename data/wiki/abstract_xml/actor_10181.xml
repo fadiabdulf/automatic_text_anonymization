@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gabriel Signoret</title>
+<link/>https://en.wikipedia.org/wiki/Gabriel_Signoret
+<annotated>0</annotated>
+<originalabstract>Gabriel Signoret (November 15, 1878 – March 16, 1937, in Paris, France) was a French silent film actor.
+He starred in some 70 films between 1910 and 1938.
+In 1920 he appeared in Guy du Fresnay's Flipotte.
+His brother Jean Signoret (born 1886) was also an actor.</originalabstract>
+<abstract>Gabriel_Signoret ( November_15_,_1878 – March_16_,_1937 , in Paris , France ) was a_French_silent_film_actor . He starred in some_70_films between 1910_and_1938 . In 1920 he appeared in Guy_du_Fresnay 's_Flipotte . His_brother_Jean_Signoret_( born 1886_) was also an_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gabriel'), (8, 'Signoret'), (17, '('), (18, 'November'), (27, '15'), (29, ','), (31, '1878'), (36, '–'), (38, 'March'), (44, '16'), (46, ','), (48, '1937'), (52, ','), (54, 'in'), (57, 'Paris'), (62, ','), (64, 'France'), (70, ')'), (72, 'was'), (76, 'a'), (78, 'French'), (85, 'silent'), (92, 'film'), (97, 'actor'), (102, '.'), (104, 'He'), (107, 'starred'), (115, 'in'), (118, 'some'), (123, '70'), (126, 'films'), (132, 'between'), (140, '1910'), (145, 'and'), (149, '1938'), (153, '.'), (155, 'In'), (158, '1920'), (163, 'he'), (166, 'appeared'), (175, 'in'), (178, 'Guy'), (182, 'du'), (185, 'Fresnay'), (192, '\'s'), (195, 'Flipotte'), (203, '.'), (205, 'His'), (209, 'brother'), (217, 'Jean'), (222, 'Signoret'), (231, '('), (232, 'born'), (237, '1886'), (241, ')'), (243, 'was'), (247, 'also'), (252, 'an'), (255, 'actor'), (260, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gabriel Signoret',0, 16), ('November 15, 1878',18, 35), ('March 16, 1937',38, 52), ('a French silent film actor',76, 102), ('some 70 films',118, 131), ('1910 and 1938',140, 153), ('Guy du Fresnay',178, 192), ('\'s Flipotte',192, 203), ('His brother Jean Signoret (',205, 232), ('1886)',237, 242), ('an actor',252, 260)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'IN', 'CD', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'NNP', '.', 'PRP$', 'NN', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBD', 'RB', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gabriel'), (8, 'Signoret'), (17, '('), (18, 'November'), (27, '15'), (29, ','), (31, '1878'), (36, '–'), (38, 'March'), (44, '16'), (46, ','), (48, '1937'), (52, ','), (54, 'in'), (57, 'Paris'), (62, ','), (64, 'France'), (70, ')'), (72, 'was'), (76, 'a'), (78, 'French'), (85, 'silent'), (92, 'film'), (97, 'actor'), (102, '.'), (104, 'He'), (107, 'starred'), (115, 'in'), (118, 'some'), (123, '70'), (126, 'films'), (132, 'between'), (140, '1910'), (145, 'and'), (149, '1938'), (153, '.'), (155, 'In'), (158, '1920'), (163, 'he'), (166, 'appeared'), (175, 'in'), (178, 'Guy'), (182, 'du'), (185, 'Fresnay'), (192, "'s"), (195, 'Flipotte'), (203, '.'), (205, 'His'), (209, 'brother'), (217, 'Jean'), (222, 'Signoret'), (231, '('), (232, 'born'), (237, '1886'), (241, ')'), (243, 'was'), (247, 'also'), (252, 'an'), (255, 'actor'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('Gabriel Signoret', 0, 16), ('(November', 17, 26), ('November 15, 1878', 18, 35), ('March 16, 1937', 38, 52), ('France', 64, 70), ('a French silent film actor', 76, 102), ('some 70 films', 118, 131), ("Guy du Fresnay's Flipotte", 178, 203), ('His brother', 205, 216), ('Jean Signoret', 217, 230), ('an actor', 252, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'IN', 'CD', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'NNP', '.', 'PRP$', 'NN', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBD', 'RB', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

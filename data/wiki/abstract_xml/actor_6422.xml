@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Larry Storch</title>
+<link/>https://en.wikipedia.org/wiki/Larry_Storch
+<annotated>0</annotated>
+<originalabstract>Lawrence Samuel Storch (born January 8, 1923) is an American comedian, actor and voice artist best known for his comic television roles, including voice-over work for cartoon shows, such as Mr. Whoopee on Tennessee Tuxedo and His Tales, and his live-action role of the bumbling Corporal Randolph Agarn on F Troop.</originalabstract>
+<abstract>Lawrence_Samuel_Storch ( born January_8_,_1923 ) is an_American_comedian_,_actor_and_voice_artist best known for his_comic_television_roles , including voice-over_work for cartoon_shows , such_as Mr._Whoopee on Tennessee_Tuxedo and His_Tales , and his_live-action_role of the_bumbling_Corporal_Randolph_Agarn on F_Troop .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lawrence'), (9, 'Samuel'), (16, 'Storch'), (23, '('), (24, 'born'), (29, 'January'), (37, '8'), (38, ','), (40, '1923'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'comedian'), (69, ','), (71, 'actor'), (77, 'and'), (81, 'voice'), (87, 'artist'), (94, 'best'), (99, 'known'), (105, 'for'), (109, 'his'), (113, 'comic'), (119, 'television'), (130, 'roles'), (135, ','), (137, 'including'), (147, 'voice-over'), (158, 'work'), (163, 'for'), (167, 'cartoon'), (175, 'shows'), (180, ','), (182, 'such'), (187, 'as'), (190, 'Mr.'), (194, 'Whoopee'), (202, 'on'), (205, 'Tennessee'), (215, 'Tuxedo'), (222, 'and'), (226, 'His'), (230, 'Tales'), (235, ','), (237, 'and'), (241, 'his'), (245, 'live-action'), (257, 'role'), (262, 'of'), (265, 'the'), (269, 'bumbling'), (278, 'Corporal'), (287, 'Randolph'), (296, 'Agarn'), (302, 'on'), (305, 'F'), (307, 'Troop'), (312, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lawrence Samuel Storch',0, 22), ('January 8, 1923',29, 44), ('an American comedian, actor and voice artist',49, 93), ('his comic television roles',109, 135), ('voice-over work',147, 162), ('cartoon shows',167, 180), ('such as',182, 189), ('Mr. Whoopee',190, 201), ('Tennessee Tuxedo',205, 221), ('His Tales',226, 235), ('his live-action role',241, 261), ('the bumbling Corporal Randolph Agarn',265, 301), ('F Troop',305, 312)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'NNS', ',', 'VBG', 'NN', 'NN', 'IN', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNP', 'UH', 'IN', 'NNP', 'NNP', 'CC', 'PRP$', 'NNS', ',', 'CC', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'VBG', 'NN', 'NNP', 'NNP', 'IN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lawrence'), (9, 'Samuel'), (16, 'Storch'), (23, '('), (24, 'born'), (29, 'January'), (37, '8'), (38, ','), (40, '1923'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'comedian'), (69, ','), (71, 'actor'), (77, 'and'), (81, 'voice'), (87, 'artist'), (94, 'best'), (99, 'known'), (105, 'for'), (109, 'his'), (113, 'comic'), (119, 'television'), (130, 'roles'), (135, ','), (137, 'including'), (147, 'voice'), (152, '-'), (153, 'over'), (158, 'work'), (163, 'for'), (167, 'cartoon'), (175, 'shows'), (180, ','), (182, 'such'), (187, 'as'), (190, 'Mr.'), (194, 'Whoopee'), (202, 'on'), (205, 'Tennessee'), (215, 'Tuxedo'), (222, 'and'), (226, 'His'), (230, 'Tales'), (235, ','), (237, 'and'), (241, 'his'), (245, 'live'), (249, '-'), (250, 'action'), (257, 'role'), (262, 'of'), (265, 'the'), (269, 'bumbling'), (278, 'Corporal'), (287, 'Randolph'), (296, 'Agarn'), (302, 'on'), (305, 'F'), (307, 'Troop'), (312, '.')])</spacy_tokens>
+<spacy_chunks>[('Lawrence Samuel Storch', 0, 22), ('January 8, 1923', 29, 44), ('an American comedian', 49, 69), ('voice artist', 81, 93), ('his comic television roles', 109, 135), ('voice-over work', 147, 162), ('cartoon shows', 167, 180), ('Mr. Whoopee', 190, 201), ('Tennessee Tuxedo and His Tales', 205, 235), ('his live-action role', 241, 261), ('the bumbling Corporal Randolph Agarn', 265, 301), ('F Troop', 305, 312)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'NNS', ',', 'VBG', 'NN', 'HYPH', 'RP', 'NN', 'IN', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'PRP$', 'NNS', ',', 'CC', 'PRP$', 'JJ', 'HYPH', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

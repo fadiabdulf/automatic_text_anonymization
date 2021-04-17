@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Felicia Montealegre</title>
+<link/>https://en.wikipedia.org/wiki/Felicia_Montealegre
+<annotated>0</annotated>
+<originalabstract>Felicia Cohn Montealegre (3 March 1922 – 16 June 1978) was a Chilean stage and television actress born in San Jose, Costa Rica. From 1951 until her death, she was married to the American composer and conductor Leonard Bernstein.</originalabstract>
+<abstract>Felicia_Cohn_Montealegre ( 3_March_1922 – 16_June_1978 ) was a_Chilean_stage_and_television_actress born in San_Jose , Costa_Rica . From 1951 until her_death , she was_married to the_American_composer_and_conductor_Leonard_Bernstein .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Felicia'), (8, 'Cohn'), (13, 'Montealegre'), (25, '('), (26, '3'), (28, 'March'), (34, '1922'), (39, '–'), (41, '16'), (44, 'June'), (49, '1978'), (53, ')'), (55, 'was'), (59, 'a'), (61, 'Chilean'), (69, 'stage'), (75, 'and'), (79, 'television'), (90, 'actress'), (98, 'born'), (103, 'in'), (106, 'San'), (110, 'Jose'), (114, ','), (116, 'Costa'), (122, 'Rica'), (126, '.'), (128, 'From'), (133, '1951'), (138, 'until'), (144, 'her'), (148, 'death'), (153, ','), (155, 'she'), (159, 'was'), (163, 'married'), (171, 'to'), (174, 'the'), (178, 'American'), (187, 'composer'), (196, 'and'), (200, 'conductor'), (210, 'Leonard'), (218, 'Bernstein'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Felicia Cohn Montealegre',0, 24), ('3 March 1922',26, 38), ('16 June 1978',41, 53), ('a Chilean stage and television actress',59, 97), ('San Jose',106, 114), ('Costa Rica',116, 126), ('her death',144, 153), ('was married',159, 170), ('the American composer and conductor Leonard Bernstein',174, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.', 'IN', 'CD', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'VBN', 'TO', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Felicia'), (8, 'Cohn'), (13, 'Montealegre'), (25, '('), (26, '3'), (28, 'March'), (34, '1922'), (39, '–'), (41, '16'), (44, 'June'), (49, '1978'), (53, ')'), (55, 'was'), (59, 'a'), (61, 'Chilean'), (69, 'stage'), (75, 'and'), (79, 'television'), (90, 'actress'), (98, 'born'), (103, 'in'), (106, 'San'), (110, 'Jose'), (114, ','), (116, 'Costa'), (122, 'Rica'), (126, '.'), (128, 'From'), (133, '1951'), (138, 'until'), (144, 'her'), (148, 'death'), (153, ','), (155, 'she'), (159, 'was'), (163, 'married'), (171, 'to'), (174, 'the'), (178, 'American'), (187, 'composer'), (196, 'and'), (200, 'conductor'), (210, 'Leonard'), (218, 'Bernstein'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Felicia Cohn Montealegre', 0, 24), ('3 March 1922', 26, 38), ('16 June 1978', 41, 53), ('a Chilean stage and television actress', 59, 97), ('San Jose', 106, 114), ('Costa Rica', 116, 126), ('her death', 144, 153), ('the American composer', 174, 195), ('conductor', 200, 209), ('Leonard Bernstein', 210, 227)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.', 'IN', 'CD', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

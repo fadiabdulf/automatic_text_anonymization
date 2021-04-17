@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Linda Loredo</title>
+<link/>https://en.wikipedia.org/wiki/Linda_Loredo
+<annotated>0</annotated>
+<originalabstract>Linda Loredo (June 20, 1907 – August 11, 1931) was an American-born actress and dancer of Mexican descent. She is most commonly associated with Spanish language versions of Laurel and Hardy short subjects. Her sister, Maria Loredo (1905-1998), was also an actress.</originalabstract>
+<abstract>Linda_Loredo ( June_20_,_1907 – August_11_,_1931 ) was an_American-born_actress_and_dancer of Mexican_descent . She is most_commonly associated with Spanish_language_versions of Laurel_and_Hardy_short_subjects . Her_sister , Maria_Loredo_(_1905-1998_) , was also an_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Linda'), (6, 'Loredo'), (13, '('), (14, 'June'), (19, '20'), (21, ','), (23, '1907'), (28, '–'), (30, 'August'), (37, '11'), (39, ','), (41, '1931'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American-born'), (68, 'actress'), (76, 'and'), (80, 'dancer'), (87, 'of'), (90, 'Mexican'), (98, 'descent'), (105, '.'), (107, 'She'), (111, 'is'), (114, 'most'), (119, 'commonly'), (128, 'associated'), (139, 'with'), (144, 'Spanish'), (152, 'language'), (161, 'versions'), (170, 'of'), (173, 'Laurel'), (180, 'and'), (184, 'Hardy'), (190, 'short'), (196, 'subjects'), (204, '.'), (206, 'Her'), (210, 'sister'), (216, ','), (218, 'Maria'), (224, 'Loredo'), (231, '('), (232, '1905-1998'), (241, ')'), (242, ','), (244, 'was'), (248, 'also'), (253, 'an'), (256, 'actress'), (263, '.')])</stanford_tokens>
+<opennlp_chunks>[('Linda Loredo',0, 12), ('June 20, 1907',14, 27), ('August 11, 1931',30, 45), ('an American-born actress and dancer',51, 86), ('Mexican descent',90, 105), ('most commonly',114, 127), ('Spanish language versions',144, 169), ('Laurel and Hardy short subjects',173, 204), ('Her sister',206, 216), ('Maria Loredo (1905-1998)',218, 242), ('an actress',253, 263)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'RB', 'VBN', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'NNP', 'CC', 'NNP', 'JJ', 'NNS', '.', 'PRP$', 'NN', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'VBD', 'RB', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Linda'), (6, 'Loredo'), (13, '('), (14, 'June'), (19, '20'), (21, ','), (23, '1907'), (28, '–'), (30, 'August'), (37, '11'), (39, ','), (41, '1931'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (62, '-'), (63, 'born'), (68, 'actress'), (76, 'and'), (80, 'dancer'), (87, 'of'), (90, 'Mexican'), (98, 'descent'), (105, '.'), (107, 'She'), (111, 'is'), (114, 'most'), (119, 'commonly'), (128, 'associated'), (139, 'with'), (144, 'Spanish'), (152, 'language'), (161, 'versions'), (170, 'of'), (173, 'Laurel'), (180, 'and'), (184, 'Hardy'), (190, 'short'), (196, 'subjects'), (204, '.'), (206, 'Her'), (210, 'sister'), (216, ','), (218, 'Maria'), (224, 'Loredo'), (231, '('), (232, '1905'), (236, '-'), (237, '1998'), (241, ')'), (242, ','), (244, 'was'), (248, 'also'), (253, 'an'), (256, 'actress'), (263, '.')])</spacy_tokens>
+<spacy_chunks>[('Linda Loredo', 0, 12), ('June 20, 1907', 14, 27), ('August 11, 1931', 30, 45), ('an American-born actress', 51, 75), ('dancer', 80, 86), ('Mexican descent', 90, 105), ('Spanish language versions', 144, 169), ('Laurel and Hardy', 173, 189), ('Hardy short subjects', 184, 204), ('Her sister', 206, 216), ('Maria Loredo', 218, 230), ('an actress', 253, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'CC', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'RB', 'VBN', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'NNP', 'CC', 'JJ', 'JJ', 'NNS', '.', 'PRP$', 'NN', ',', 'NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', ',', 'VBD', 'RB', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

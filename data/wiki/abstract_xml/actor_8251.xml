@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Andrew Grainger</title>
+<link/>https://en.wikipedia.org/wiki/Andrew_Grainger
+<annotated>0</annotated>
+<originalabstract>Andrew Grainger (born 1965), is an English theatre and film actor. A native of the United Kingdom, Grainger moved to Torbay, Auckland, New Zealand in 2007, where he is active in both theatre and television productions, but continues to appear regularly on British television, as he has since launching his career.</originalabstract>
+<abstract>Andrew_Grainger ( born 1965 ) , is an_English_theatre_and_film_actor . A_native of the_United_Kingdom , Grainger moved to Torbay , Auckland , New_Zealand in 2007 , where he is active in both theatre_and_television_productions , but continues_to_appear regularly on British_television , as he has since launching his_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Andrew'), (7, 'Grainger'), (16, '('), (17, 'born'), (22, '1965'), (26, ')'), (27, ','), (29, 'is'), (32, 'an'), (35, 'English'), (43, 'theatre'), (51, 'and'), (55, 'film'), (60, 'actor'), (65, '.'), (67, 'A'), (69, 'native'), (76, 'of'), (79, 'the'), (83, 'United'), (90, 'Kingdom'), (97, ','), (99, 'Grainger'), (108, 'moved'), (114, 'to'), (117, 'Torbay'), (123, ','), (125, 'Auckland'), (133, ','), (135, 'New'), (139, 'Zealand'), (147, 'in'), (150, '2007'), (154, ','), (156, 'where'), (162, 'he'), (165, 'is'), (168, 'active'), (175, 'in'), (178, 'both'), (183, 'theatre'), (191, 'and'), (195, 'television'), (206, 'productions'), (217, ','), (219, 'but'), (223, 'continues'), (233, 'to'), (236, 'appear'), (243, 'regularly'), (253, 'on'), (256, 'British'), (264, 'television'), (274, ','), (276, 'as'), (279, 'he'), (282, 'has'), (286, 'since'), (292, 'launching'), (302, 'his'), (306, 'career'), (312, '.')])</stanford_tokens>
+<opennlp_chunks>[('Andrew Grainger',0, 15), ('an English theatre and film actor',32, 65), ('A native',67, 75), ('the United Kingdom',79, 97), ('New Zealand',135, 146), ('theatre and television productions',183, 217), ('continues to appear',223, 242), ('British television',256, 274), ('his career',302, 312)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'TO', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', ',', 'WRB', 'PRP', 'VBZ', 'JJ', 'IN', 'CC', 'NN', 'CC', 'NN', 'NNS', ',', 'CC', 'VBZ', 'TO', 'VB', 'RB', 'IN', 'JJ', 'NN', ',', 'IN', 'PRP', 'VBZ', 'IN', 'VBG', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Andrew'), (7, 'Grainger'), (16, '('), (17, 'born'), (22, '1965'), (26, ')'), (27, ','), (29, 'is'), (32, 'an'), (35, 'English'), (43, 'theatre'), (51, 'and'), (55, 'film'), (60, 'actor'), (65, '.'), (67, 'A'), (69, 'native'), (76, 'of'), (79, 'the'), (83, 'United'), (90, 'Kingdom'), (97, ','), (99, 'Grainger'), (108, 'moved'), (114, 'to'), (117, 'Torbay'), (123, ','), (125, 'Auckland'), (133, ','), (135, 'New'), (139, 'Zealand'), (147, 'in'), (150, '2007'), (154, ','), (156, 'where'), (162, 'he'), (165, 'is'), (168, 'active'), (175, 'in'), (178, 'both'), (183, 'theatre'), (191, 'and'), (195, 'television'), (206, 'productions'), (217, ','), (219, 'but'), (223, 'continues'), (233, 'to'), (236, 'appear'), (243, 'regularly'), (253, 'on'), (256, 'British'), (264, 'television'), (274, ','), (276, 'as'), (279, 'he'), (282, 'has'), (286, 'since'), (292, 'launching'), (302, 'his'), (306, 'career'), (312, '.')])</spacy_tokens>
+<spacy_chunks>[('Andrew Grainger', 0, 15), ('an English theatre and film actor', 32, 65), ('the United Kingdom', 79, 97), ('Torbay,', 117, 124), ('Auckland', 125, 133), ('New Zealand', 135, 146), ('both theatre and television productions', 178, 217), ('British television', 256, 274), ('his career', 302, 312)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', ',', 'WRB', 'PRP', 'VBZ', 'JJ', 'IN', 'DT', 'NN', 'CC', 'NN', 'NNS', ',', 'CC', 'VBZ', 'TO', 'VB', 'RB', 'IN', 'JJ', 'NN', ',', 'IN', 'PRP', 'VBZ', 'IN', 'VBG', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

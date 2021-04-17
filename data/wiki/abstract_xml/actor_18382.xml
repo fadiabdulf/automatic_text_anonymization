@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mijanou Bardot</title>
+<link/>https://en.wikipedia.org/wiki/Mijanou_Bardot
+<annotated>0</annotated>
+<originalabstract>Marie-Jeanne Bardot (born on 5 May 1938 in Paris) is a French actress and writer. She starred in the 1960 film Sex Kittens Go to College with Mamie van Doren.She is married to Patrick Bauchau, and lives in Los Angeles. Mijanou is the younger sister of Brigitte Bardot.</originalabstract>
+<abstract>Marie-Jeanne_Bardot ( born on 5_May_1938 in Paris ) is a_French_actress_and_writer . She starred in the_1960_film_Sex_Kittens Go to College with Mamie_van_Doren.She is_married to Patrick_Bauchau , and lives in Los_Angeles . Mijanou is the_younger_sister of Brigitte_Bardot .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie-Jeanne'), (13, 'Bardot'), (20, '('), (21, 'born'), (26, 'on'), (29, '5'), (31, 'May'), (35, '1938'), (40, 'in'), (43, 'Paris'), (48, ')'), (50, 'is'), (53, 'a'), (55, 'French'), (62, 'actress'), (70, 'and'), (74, 'writer'), (80, '.'), (82, 'She'), (86, 'starred'), (94, 'in'), (97, 'the'), (101, '1960'), (106, 'film'), (111, 'Sex'), (115, 'Kittens'), (123, 'Go'), (126, 'to'), (129, 'College'), (137, 'with'), (142, 'Mamie'), (148, 'van'), (152, 'Doren.She'), (162, 'is'), (165, 'married'), (173, 'to'), (176, 'Patrick'), (184, 'Bauchau'), (191, ','), (193, 'and'), (197, 'lives'), (203, 'in'), (206, 'Los'), (210, 'Angeles'), (217, '.'), (219, 'Mijanou'), (227, 'is'), (230, 'the'), (234, 'younger'), (242, 'sister'), (249, 'of'), (252, 'Brigitte'), (261, 'Bardot'), (267, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie-Jeanne Bardot',0, 19), ('5 May 1938',29, 39), ('a French actress and writer',53, 80), ('the 1960 film Sex Kittens',97, 122), ('Mamie van Doren.She',142, 161), ('is married',162, 172), ('Patrick Bauchau',176, 191), ('Los Angeles',206, 217), ('the younger sister',230, 248), ('Brigitte Bardot',252, 267)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'IN', 'CD', 'NNP', 'CD', 'IN', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNS', 'VB', 'TO', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'VBZ', 'VBN', 'TO', 'NNP', 'NNP', ',', 'CC', 'VBZ', 'IN', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'DT', 'JJR', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (5, '-'), (6, 'Jeanne'), (13, 'Bardot'), (20, '('), (21, 'born'), (26, 'on'), (29, '5'), (31, 'May'), (35, '1938'), (40, 'in'), (43, 'Paris'), (48, ')'), (50, 'is'), (53, 'a'), (55, 'French'), (62, 'actress'), (70, 'and'), (74, 'writer'), (80, '.'), (82, 'She'), (86, 'starred'), (94, 'in'), (97, 'the'), (101, '1960'), (106, 'film'), (111, 'Sex'), (115, 'Kittens'), (123, 'Go'), (126, 'to'), (129, 'College'), (137, 'with'), (142, 'Mamie'), (148, 'van'), (152, 'Doren'), (157, '.'), (158, 'She'), (162, 'is'), (165, 'married'), (173, 'to'), (176, 'Patrick'), (184, 'Bauchau'), (191, ','), (193, 'and'), (197, 'lives'), (203, 'in'), (206, 'Los'), (210, 'Angeles'), (217, '.'), (219, 'Mijanou'), (227, 'is'), (230, 'the'), (234, 'younger'), (242, 'sister'), (249, 'of'), (252, 'Brigitte'), (261, 'Bardot'), (267, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie-Jeanne Bardot', 0, 19), ('5 May 1938', 29, 39), ('a French actress', 53, 69), ('writer', 74, 80), ('the 1960 film', 97, 110), ('Sex Kittens Go to College', 111, 136), ('Mamie van Doren', 142, 157), ('Patrick Bauchau', 176, 191), ('Los Angeles', 206, 217), ('Mijanou', 219, 226), ('the younger sister', 230, 248), ('Brigitte Bardot', 252, 267)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBN', 'IN', 'CD', 'NNP', 'CD', 'IN', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNS', 'VB', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'JJ', 'IN', 'NNP', 'NNP', ',', 'CC', 'VBZ', 'IN', 'NNP', 'NNP', '.', 'NNP', 'VBZ', 'DT', 'JJR', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

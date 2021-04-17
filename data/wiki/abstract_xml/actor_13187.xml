@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kathleen Key</title>
+<link/>https://en.wikipedia.org/wiki/Kathleen_Key
+<annotated>0</annotated>
+<originalabstract>Kathleen Key (born Kitty Lanahan, April 1, 1903 – December 22, 1954) was an American actress who achieved a brief period of fame during the silent era. She is best remembered for playing Tirzah in the 1925 film Ben-Hur. Key was a great-great granddaughter of Francis Scott Key.</originalabstract>
+<abstract>Kathleen_Key ( born Kitty_Lanahan , April_1_,_1903 – December_22_,_1954 ) was an_American_actress who achieved a_brief_period of fame during the_silent_era . She is_best_remembered for playing Tirzah in the_1925_film_Ben-Hur . Key was a_great-great_granddaughter of Francis_Scott_Key .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kathleen'), (9, 'Key'), (13, '('), (14, 'born'), (19, 'Kitty'), (25, 'Lanahan'), (32, ','), (34, 'April'), (40, '1'), (41, ','), (43, '1903'), (48, '–'), (50, 'December'), (59, '22'), (61, ','), (63, '1954'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'American'), (85, 'actress'), (93, 'who'), (97, 'achieved'), (106, 'a'), (108, 'brief'), (114, 'period'), (121, 'of'), (124, 'fame'), (129, 'during'), (136, 'the'), (140, 'silent'), (147, 'era'), (150, '.'), (152, 'She'), (156, 'is'), (159, 'best'), (164, 'remembered'), (175, 'for'), (179, 'playing'), (187, 'Tirzah'), (194, 'in'), (197, 'the'), (201, '1925'), (206, 'film'), (211, 'Ben-Hur'), (218, '.'), (220, 'Key'), (224, 'was'), (228, 'a'), (230, 'great-great'), (242, 'granddaughter'), (256, 'of'), (259, 'Francis'), (267, 'Scott'), (273, 'Key'), (276, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kathleen Key',0, 12), ('Kitty Lanahan',19, 32), ('April 1, 1903',34, 47), ('December 22, 1954',50, 67), ('an American actress',73, 92), ('a brief period',106, 120), ('the silent era',136, 150), ('is best remembered',156, 174), ('the 1925 film Ben-Hur',197, 218), ('a great-great granddaughter',228, 255), ('Francis Scott Key',259, 276)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'JJS', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', '.', 'NN', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kathleen'), (9, 'Key'), (13, '('), (14, 'born'), (19, 'Kitty'), (25, 'Lanahan'), (32, ','), (34, 'April'), (40, '1'), (41, ','), (43, '1903'), (48, '–'), (50, 'December'), (59, '22'), (61, ','), (63, '1954'), (67, ')'), (69, 'was'), (73, 'an'), (76, 'American'), (85, 'actress'), (93, 'who'), (97, 'achieved'), (106, 'a'), (108, 'brief'), (114, 'period'), (121, 'of'), (124, 'fame'), (129, 'during'), (136, 'the'), (140, 'silent'), (147, 'era'), (150, '.'), (152, 'She'), (156, 'is'), (159, 'best'), (164, 'remembered'), (175, 'for'), (179, 'playing'), (187, 'Tirzah'), (194, 'in'), (197, 'the'), (201, '1925'), (206, 'film'), (211, 'Ben'), (214, '-'), (215, 'Hur'), (218, '.'), (220, 'Key'), (224, 'was'), (228, 'a'), (230, 'great'), (235, '-'), (236, 'great'), (242, 'granddaughter'), (256, 'of'), (259, 'Francis'), (267, 'Scott'), (273, 'Key'), (276, '.')])</spacy_tokens>
+<spacy_chunks>[('Kathleen Key', 0, 12), ('(born Kitty Lanahan', 13, 32), ('April 1, 1903', 34, 47), ('December 22, 1954', 50, 67), ('an American actress', 73, 92), ('a brief period', 106, 120), ('the silent era', 136, 150), ('Tirzah', 187, 193), ('the 1925 film', 197, 210), ('Ben-Hur', 211, 218), ('a great-great granddaughter', 228, 255), ('Francis Scott Key', 259, 276)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'HYPH', 'NNP', '.', 'NNP', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kayla Ewell</title>
+<link/>https://en.wikipedia.org/wiki/Kayla_Ewell
+<annotated>0</annotated>
+<originalabstract>Kayla Noelle Ewell (born August 27, 1985) is an American actress known for her roles on television as Caitlin Ramirez on CBS's long-running soap opera The Bold and the Beautiful, as Maureen Sampson on NBC's Freaks and Geeks, and as Vicki Donovan on The CW's The Vampire Diaries.</originalabstract>
+<abstract>Kayla_Noelle_Ewell ( born August_27_,_1985 ) is an_American_actress known for her_roles on television as Caitlin_Ramirez on CBS 's_long-running_soap_opera The_Bold and the_Beautiful , as Maureen_Sampson on NBC 's_Freaks_and_Geeks , and as Vicki_Donovan on The_CW 's_The_Vampire_Diaries .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kayla'), (6, 'Noelle'), (13, 'Ewell'), (19, '('), (20, 'born'), (25, 'August'), (32, '27'), (34, ','), (36, '1985'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'known'), (71, 'for'), (75, 'her'), (79, 'roles'), (85, 'on'), (88, 'television'), (99, 'as'), (102, 'Caitlin'), (110, 'Ramirez'), (118, 'on'), (121, 'CBS'), (124, '\'s'), (127, 'long-running'), (140, 'soap'), (145, 'opera'), (151, 'The'), (155, 'Bold'), (160, 'and'), (164, 'the'), (168, 'Beautiful'), (177, ','), (179, 'as'), (182, 'Maureen'), (190, 'Sampson'), (198, 'on'), (201, 'NBC'), (204, '\'s'), (207, 'Freaks'), (214, 'and'), (218, 'Geeks'), (223, ','), (225, 'and'), (229, 'as'), (232, 'Vicki'), (238, 'Donovan'), (246, 'on'), (249, 'The'), (253, 'CW'), (255, '\'s'), (258, 'The'), (262, 'Vampire'), (270, 'Diaries'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kayla Noelle Ewell',0, 18), ('August 27, 1985',25, 40), ('an American actress',45, 64), ('her roles',75, 84), ('Caitlin Ramirez',102, 117), ('\'s long-running soap opera',124, 150), ('The Bold',151, 159), ('the Beautiful',164, 177), ('Maureen Sampson',182, 197), ('\'s Freaks and Geeks',204, 223), ('Vicki Donovan',232, 245), ('The CW',249, 255), ('\'s The Vampire Diaries',255, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'JJ', 'NN', 'NN', 'DT', 'JJ', 'CC', 'DT', 'NNP', ',', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNPS', 'CC', 'NNPS', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'POS', 'DT', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kayla'), (6, 'Noelle'), (13, 'Ewell'), (19, '('), (20, 'born'), (25, 'August'), (32, '27'), (34, ','), (36, '1985'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'known'), (71, 'for'), (75, 'her'), (79, 'roles'), (85, 'on'), (88, 'television'), (99, 'as'), (102, 'Caitlin'), (110, 'Ramirez'), (118, 'on'), (121, 'CBS'), (124, "'s"), (127, 'long'), (131, '-'), (132, 'running'), (140, 'soap'), (145, 'opera'), (151, 'The'), (155, 'Bold'), (160, 'and'), (164, 'the'), (168, 'Beautiful'), (177, ','), (179, 'as'), (182, 'Maureen'), (190, 'Sampson'), (198, 'on'), (201, 'NBC'), (204, "'s"), (207, 'Freaks'), (214, 'and'), (218, 'Geeks'), (223, ','), (225, 'and'), (229, 'as'), (232, 'Vicki'), (238, 'Donovan'), (246, 'on'), (249, 'The'), (253, 'CW'), (255, "'s"), (258, 'The'), (262, 'Vampire'), (270, 'Diaries'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Kayla Noelle Ewell', 0, 18), ('August 27, 1985', 25, 40), ('an American actress', 45, 64), ('her roles', 75, 84), ('television', 88, 98), ('Caitlin Ramirez', 102, 117), ("CBS's long-running soap opera", 121, 150), ('The Bold and the Beautiful', 151, 177), ('Maureen Sampson', 182, 197), ("NBC's Freaks", 201, 213), ('Freaks and Geeks', 207, 223), ('Vicki Donovan', 232, 245), ("The CW's The Vampire Diaries", 249, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'RB', 'HYPH', 'VBG', 'NN', 'NN', 'DT', 'NNP', 'CC', 'DT', 'JJ', ',', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'CC', 'NNPS', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'POS', 'DT', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

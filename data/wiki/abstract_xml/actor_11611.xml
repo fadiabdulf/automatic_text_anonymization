@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Yola d'Avril</title>
+<link/>https://en.wikipedia.org/wiki/Yola_d%27Avril
+<annotated>0</annotated>
+<originalabstract>Yola d'Avril (April 8, 1906-March 2, 1984) was a French-born actress, who appeared in numerous American productions between 1925 and 1953.</originalabstract>
+<abstract>Yola_d'Avril ( April_8 , 1906-March_2_,_1984 ) was a_French-born_actress , who appeared in numerous_American_productions between 1925_and_1953 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Yola'), (5, 'd\'Avril'), (13, '('), (14, 'April'), (20, '8'), (21, ','), (23, '1906-March'), (34, '2'), (35, ','), (37, '1984'), (41, ')'), (43, 'was'), (47, 'a'), (49, 'French-born'), (61, 'actress'), (68, ','), (70, 'who'), (74, 'appeared'), (83, 'in'), (86, 'numerous'), (95, 'American'), (104, 'productions'), (116, 'between'), (124, '1925'), (129, 'and'), (133, '1953'), (137, '.')])</stanford_tokens>
+<opennlp_chunks>[('Yola d\'Avril',0, 12), ('April 8',14, 21), ('1906-March 2, 1984',23, 41), ('a French-born actress',47, 68), ('numerous American productions',86, 115), ('1925 and 1953',124, 137)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NN', '-LRB-', 'NNP', 'CD', ',', 'NN', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Yola'), (5, "d'Avril"), (13, '('), (14, 'April'), (20, '8'), (21, ','), (23, '1906-March'), (34, '2'), (35, ','), (37, '1984'), (41, ')'), (43, 'was'), (47, 'a'), (49, 'French'), (55, '-'), (56, 'born'), (61, 'actress'), (68, ','), (70, 'who'), (74, 'appeared'), (83, 'in'), (86, 'numerous'), (95, 'American'), (104, 'productions'), (116, 'between'), (124, '1925'), (129, 'and'), (133, '1953'), (137, '.')])</spacy_tokens>
+<spacy_chunks>[("Yola d'Avril", 0, 12), ('April 8, 1906', 14, 27), ('March 2, 1984', 28, 41), ('a French-born actress', 47, 68), ('numerous American productions', 86, 115)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', ',', 'WP', 'VBD', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

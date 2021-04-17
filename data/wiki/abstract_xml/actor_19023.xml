@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elsa Zylberstein</title>
+<link/>https://en.wikipedia.org/wiki/Elsa_Zylberstein
+<annotated>0</annotated>
+<originalabstract>Elsa Zylberstein (born 16 October 1968) is a French film, TV, and stage actress. After studying drama, Zylberstein began her film career in 1989, and has appeared in more than 60 films. She won the César Award for Best Supporting Actress for I've Loved You So Long (2008).</originalabstract>
+<abstract>Elsa_Zylberstein ( born_16_October_1968 ) is a_French_film , TV , and stage_actress . After studying drama , Zylberstein began her_film_career in 1989 , and has_appeared in more_than_60_films . She won the_César_Award for Best Supporting_Actress for I 've_Loved You So_Long ( 2008_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elsa'), (5, 'Zylberstein'), (17, '('), (18, 'born'), (23, '16'), (26, 'October'), (34, '1968'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'film'), (56, ','), (58, 'TV'), (60, ','), (62, 'and'), (66, 'stage'), (72, 'actress'), (79, '.'), (81, 'After'), (87, 'studying'), (96, 'drama'), (101, ','), (103, 'Zylberstein'), (115, 'began'), (121, 'her'), (125, 'film'), (130, 'career'), (137, 'in'), (140, '1989'), (144, ','), (146, 'and'), (150, 'has'), (154, 'appeared'), (163, 'in'), (166, 'more'), (171, 'than'), (176, '60'), (179, 'films'), (184, '.'), (186, 'She'), (190, 'won'), (194, 'the'), (198, 'César'), (204, 'Award'), (210, 'for'), (214, 'Best'), (219, 'Supporting'), (230, 'Actress'), (238, 'for'), (242, 'I'), (243, '\'ve'), (247, 'Loved'), (253, 'You'), (257, 'So'), (260, 'Long'), (265, '('), (266, '2008'), (270, ')'), (271, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elsa Zylberstein',0, 16), ('born 16 October 1968',18, 38), ('a French film',43, 56), ('stage actress',66, 79), ('her film career',121, 136), ('has appeared',150, 162), ('more than 60 films',166, 184), ('the César Award',194, 209), ('Supporting Actress',219, 237), ('\'ve Loved',243, 252), ('So Long',257, 264), ('2008)',266, 271)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'IN', 'VBG', 'NN', ',', 'NN', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'CD', ',', 'CC', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'PRP', 'VBP', 'VBN', 'PRP', 'RB', 'JJ', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elsa'), (5, 'Zylberstein'), (17, '('), (18, 'born'), (23, '16'), (26, 'October'), (34, '1968'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'film'), (56, ','), (58, 'TV'), (60, ','), (62, 'and'), (66, 'stage'), (72, 'actress'), (79, '.'), (81, 'After'), (87, 'studying'), (96, 'drama'), (101, ','), (103, 'Zylberstein'), (115, 'began'), (121, 'her'), (125, 'film'), (130, 'career'), (137, 'in'), (140, '1989'), (144, ','), (146, 'and'), (150, 'has'), (154, 'appeared'), (163, 'in'), (166, 'more'), (171, 'than'), (176, '60'), (179, 'films'), (184, '.'), (186, 'She'), (190, 'won'), (194, 'the'), (198, 'César'), (204, 'Award'), (210, 'for'), (214, 'Best'), (219, 'Supporting'), (230, 'Actress'), (238, 'for'), (242, 'I'), (243, "'ve"), (247, 'Loved'), (253, 'You'), (257, 'So'), (260, 'Long'), (265, '('), (266, '2008'), (270, ')'), (271, '.')])</spacy_tokens>
+<spacy_chunks>[('Elsa Zylberstein', 0, 16), ('16 October 1968', 23, 38), ('a French film', 43, 56), ('stage actress', 66, 79), ('her film career', 121, 136), ('more than 60 films', 166, 184), ('the César Award', 194, 209), ('César Award for Best Supporting Actress', 198, 237), ("I've Loved You So Long", 242, 264)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'IN', 'VBG', 'NN', ',', 'NNP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'CD', ',', 'CC', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NN', 'IN', 'PRP', 'VB', 'VBN', 'PRP', 'RB', 'RB', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

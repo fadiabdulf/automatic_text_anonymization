@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Polly Emery</title>
+<link/>https://en.wikipedia.org/wiki/Polly_Emery
+<annotated>0</annotated>
+<originalabstract>Polly Emery (10 May 1875 – 31 October 1958) was an English actress of both silent and talking pictures.She was born in Bolton, Lancashire, England and died at age 93 at 
+Denville Hall, Northwood, London, England.</originalabstract>
+<abstract>Polly_Emery ( 10_May_1875 – 31_October_1958 ) was an_English_actress of both_silent_and_talking_pictures.She was_born in Bolton , Lancashire , England and died at age_93 at Denville_Hall , Northwood , London , England .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Polly'), (6, 'Emery'), (12, '('), (13, '10'), (16, 'May'), (20, '1875'), (25, '–'), (27, '31'), (30, 'October'), (38, '1958'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'English'), (59, 'actress'), (67, 'of'), (70, 'both'), (75, 'silent'), (82, 'and'), (86, 'talking'), (94, 'pictures.She'), (107, 'was'), (111, 'born'), (116, 'in'), (119, 'Bolton'), (125, ','), (127, 'Lancashire'), (137, ','), (139, 'England'), (147, 'and'), (151, 'died'), (156, 'at'), (159, 'age'), (163, '93'), (166, 'at'), (170, 'Denville'), (179, 'Hall'), (183, ','), (185, 'Northwood'), (194, ','), (196, 'London'), (202, ','), (204, 'England'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Polly Emery',0, 11), ('10 May 1875',13, 24), ('31 October 1958',27, 42), ('an English actress',48, 66), ('both silent and talking pictures.She',70, 106), ('was born',107, 115), ('age 93',159, 165), ('Denville Hall',170, 183)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'CC', 'VBG', 'NN', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NN', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Polly'), (6, 'Emery'), (12, '('), (13, '10'), (16, 'May'), (20, '1875'), (25, '–'), (27, '31'), (30, 'October'), (38, '1958'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'English'), (59, 'actress'), (67, 'of'), (70, 'both'), (75, 'silent'), (82, 'and'), (86, 'talking'), (94, 'pictures'), (102, '.'), (103, 'She'), (107, 'was'), (111, 'born'), (116, 'in'), (119, 'Bolton'), (125, ','), (127, 'Lancashire'), (137, ','), (139, 'England'), (147, 'and'), (151, 'died'), (156, 'at'), (159, 'age'), (163, '93'), (166, 'at'), (170, 'Denville'), (179, 'Hall'), (183, ','), (185, 'Northwood'), (194, ','), (196, 'London'), (202, ','), (204, 'England'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[('Polly Emery', 0, 11), ('(10 May', 12, 19), ('10 May 1875', 13, 24), ('31 October 1958', 27, 42), ('an English actress', 48, 66), ('pictures', 94, 102), ('Bolton', 119, 125), ('Lancashire', 127, 137), ('England', 139, 146), ('Denville Hall', 170, 183), ('Northwood', 185, 194), ('London', 196, 202)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'CC', 'JJ', 'CC', 'VBG', 'NNS', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NN', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

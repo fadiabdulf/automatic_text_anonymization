@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jesse E. James</title>
+<link/>https://en.wikipedia.org/wiki/Jesse_E._James
+<annotated>0</annotated>
+<originalabstract>Jesse Edwards "Tim" James (August 31, 1875 – March 26, 1951) was the only surviving son of American outlaw Jesse Woodson James. He was born in Nashville, Tennessee during the height of Jesse James' career as an outlaw. His mother was Zerelda, Jesse James' wife and first cousin.</originalabstract>
+<abstract>Jesse_Edwards_"_Tim_"_James ( August_31_,_1875 – March_26_,_1951 ) was the_only_surviving_son of American_outlaw_Jesse_Woodson_James . He was_born in Nashville , Tennessee during the_height of Jesse_James '_career as an_outlaw . His_mother was Zerelda , Jesse_James '_wife and first_cousin .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jesse'), (6, 'Edwards'), (14, '"'), (15, 'Tim'), (18, '"'), (20, 'James'), (26, '('), (27, 'August'), (34, '31'), (36, ','), (38, '1875'), (43, '–'), (45, 'March'), (51, '26'), (53, ','), (55, '1951'), (59, ')'), (61, 'was'), (65, 'the'), (69, 'only'), (74, 'surviving'), (84, 'son'), (88, 'of'), (91, 'American'), (100, 'outlaw'), (107, 'Jesse'), (113, 'Woodson'), (121, 'James'), (126, '.'), (128, 'He'), (131, 'was'), (135, 'born'), (140, 'in'), (143, 'Nashville'), (152, ','), (154, 'Tennessee'), (164, 'during'), (171, 'the'), (175, 'height'), (182, 'of'), (185, 'Jesse'), (191, 'James'), (196, '\''), (198, 'career'), (205, 'as'), (208, 'an'), (211, 'outlaw'), (217, '.'), (219, 'His'), (223, 'mother'), (230, 'was'), (234, 'Zerelda'), (241, ','), (243, 'Jesse'), (249, 'James'), (254, '\''), (256, 'wife'), (261, 'and'), (265, 'first'), (271, 'cousin'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jesse Edwards "Tim" James',0, 25), ('August 31, 1875',27, 42), ('March 26, 1951',45, 59), ('the only surviving son',65, 87), ('American outlaw Jesse Woodson James',91, 126), ('was born',131, 139), ('the height',171, 181), ('Jesse James',185, 196), ('\' career',196, 204), ('an outlaw',208, 217), ('His mother',219, 229), ('Jesse James',243, 254), ('\' wife',254, 260), ('first cousin',265, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'VBG', 'NN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'DT', 'NN', '.', 'PRP$', 'NN', 'VBD', 'NNP', ',', 'NNP', 'NNP', 'POS', 'NN', 'CC', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jesse'), (6, 'Edwards'), (14, '"'), (15, 'Tim'), (18, '"'), (20, 'James'), (26, '('), (27, 'August'), (34, '31'), (36, ','), (38, '1875'), (43, '–'), (45, 'March'), (51, '26'), (53, ','), (55, '1951'), (59, ')'), (61, 'was'), (65, 'the'), (69, 'only'), (74, 'surviving'), (84, 'son'), (88, 'of'), (91, 'American'), (100, 'outlaw'), (107, 'Jesse'), (113, 'Woodson'), (121, 'James'), (126, '.'), (128, 'He'), (131, 'was'), (135, 'born'), (140, 'in'), (143, 'Nashville'), (152, ','), (154, 'Tennessee'), (164, 'during'), (171, 'the'), (175, 'height'), (182, 'of'), (185, 'Jesse'), (191, 'James'), (196, "'"), (198, 'career'), (205, 'as'), (208, 'an'), (211, 'outlaw'), (217, '.'), (219, 'His'), (223, 'mother'), (230, 'was'), (234, 'Zerelda'), (241, ','), (243, 'Jesse'), (249, 'James'), (254, "'"), (256, 'wife'), (261, 'and'), (265, 'first'), (271, 'cousin'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Jesse Edwards "Tim" James', 0, 25), ('August 31, 1875', 27, 42), ('March 26, 1951', 45, 59), ('the only surviving son', 65, 87), ('American outlaw Jesse Woodson James', 91, 126), ('Nashville, Tennessee', 143, 163), ('the height', 171, 181), ("Jesse James' career", 185, 204), ('His mother', 219, 229), ('Zerelda', 234, 241), ("Jesse James' wife", 243, 260), ('first cousin', 265, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'RB', 'VBG', 'NN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'IN', 'DT', 'NN', '.', 'PRP$', 'NN', 'VBD', 'NNP', ',', 'NNP', 'NNP', 'POS', 'NN', 'CC', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

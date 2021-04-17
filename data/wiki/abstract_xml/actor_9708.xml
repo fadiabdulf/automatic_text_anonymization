@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles Dechamps</title>
+<link/>https://en.wikipedia.org/wiki/Charles_Dechamps
+<annotated>0</annotated>
+<originalabstract>Charles Dechamps (13 September 1882 - 25 September 1959) was a French stage and film actor. He married the comedian Fernande Albany on 19 November 1925. After he died in 1959, he was buried at cimetière du Père-Lachaise.</originalabstract>
+<abstract>Charles_Dechamps ( 13_September 1882 - 25_September_1959 ) was a_French_stage_and_film_actor . He married the_comedian_Fernande_Albany on 19_November_1925 . After he died in 1959 , he was_buried at cimetière_du_Père-Lachaise .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Dechamps'), (17, '('), (18, '13'), (21, 'September'), (31, '1882'), (36, '-'), (38, '25'), (41, 'September'), (51, '1959'), (55, ')'), (57, 'was'), (61, 'a'), (63, 'French'), (70, 'stage'), (76, 'and'), (80, 'film'), (85, 'actor'), (90, '.'), (92, 'He'), (95, 'married'), (103, 'the'), (107, 'comedian'), (116, 'Fernande'), (125, 'Albany'), (132, 'on'), (135, '19'), (138, 'November'), (147, '1925'), (151, '.'), (153, 'After'), (159, 'he'), (162, 'died'), (167, 'in'), (170, '1959'), (174, ','), (176, 'he'), (179, 'was'), (183, 'buried'), (190, 'at'), (193, 'cimetière'), (203, 'du'), (206, 'Père-Lachaise'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Dechamps',0, 16), ('13 September',18, 30), ('25 September 1959',38, 55), ('a French stage and film actor',61, 90), ('the comedian Fernande Albany',103, 131), ('19 November 1925',135, 151), ('was buried',179, 189), ('cimetière du Père-Lachaise',193, 219)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'SYM', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', '.', 'IN', 'PRP', 'VBD', 'IN', 'CD', ',', 'PRP', 'VBD', 'VBN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Dechamps'), (17, '('), (18, '13'), (21, 'September'), (31, '1882'), (36, '-'), (38, '25'), (41, 'September'), (51, '1959'), (55, ')'), (57, 'was'), (61, 'a'), (63, 'French'), (70, 'stage'), (76, 'and'), (80, 'film'), (85, 'actor'), (90, '.'), (92, 'He'), (95, 'married'), (103, 'the'), (107, 'comedian'), (116, 'Fernande'), (125, 'Albany'), (132, 'on'), (135, '19'), (138, 'November'), (147, '1925'), (151, '.'), (153, 'After'), (159, 'he'), (162, 'died'), (167, 'in'), (170, '1959'), (174, ','), (176, 'he'), (179, 'was'), (183, 'buried'), (190, 'at'), (193, 'cimetière'), (203, 'du'), (206, 'Père'), (210, '-'), (211, 'Lachaise'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Dechamps', 0, 16), ('13 September 1882', 18, 35), ('25 September 1959', 38, 55), ('a French stage', 61, 75), ('film actor', 80, 90), ('the comedian', 103, 115), ('Fernande Albany', 116, 131), ('19 November 1925', 135, 151), ('cimetière du Père-Lachaise', 193, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', '.', 'IN', 'PRP', 'VBD', 'IN', 'CD', ',', 'PRP', 'VBD', 'VBN', 'IN', 'FW', 'NNP', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

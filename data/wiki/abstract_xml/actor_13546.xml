@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Karina Lombard</title>
+<link/>https://en.wikipedia.org/wiki/Karina_Lombard
+<annotated>0</annotated>
+<originalabstract>Karina Lombard (born January 21, 1969) is a French-American actress and singer. She has  appeared in projects such as the Showtime series The L Word, The 4400, Rescue Me, and Legends of the Fall.</originalabstract>
+<abstract>Karina_Lombard ( born January_21_,_1969 ) is a_French-American_actress_and_singer . She has_appeared in projects such_as the_Showtime_series The_L_Word , The_4400 , Rescue Me , and Legends of the_Fall .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Karina'), (7, 'Lombard'), (15, '('), (16, 'born'), (21, 'January'), (29, '21'), (31, ','), (33, '1969'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French-American'), (60, 'actress'), (68, 'and'), (72, 'singer'), (78, '.'), (80, 'She'), (84, 'has'), (89, 'appeared'), (98, 'in'), (101, 'projects'), (110, 'such'), (115, 'as'), (118, 'the'), (122, 'Showtime'), (131, 'series'), (138, 'The'), (142, 'L'), (144, 'Word'), (148, ','), (150, 'The'), (154, '4400'), (158, ','), (160, 'Rescue'), (167, 'Me'), (169, ','), (171, 'and'), (175, 'Legends'), (183, 'of'), (186, 'the'), (190, 'Fall'), (194, '.')])</stanford_tokens>
+<opennlp_chunks>[('Karina Lombard',0, 14), ('January 21, 1969',21, 37), ('a French-American actress and singer',42, 78), ('has  appeared',84, 97), ('such as',110, 117), ('the Showtime series',118, 137), ('The L Word',138, 148), ('The 4400',150, 158), ('the Fall',186, 194)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NN', 'NN', ',', 'DT', 'CD', ',', 'NN', 'PRP', ',', 'CC', 'NNS', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Karina'), (7, 'Lombard'), (15, '('), (16, 'born'), (21, 'January'), (29, '21'), (31, ','), (33, '1969'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (50, '-'), (51, 'American'), (60, 'actress'), (68, 'and'), (72, 'singer'), (78, '.'), (80, 'She'), (84, 'has'), (89, 'appeared'), (98, 'in'), (101, 'projects'), (110, 'such'), (115, 'as'), (118, 'the'), (122, 'Showtime'), (131, 'series'), (138, 'The'), (142, 'L'), (144, 'Word'), (148, ','), (150, 'The'), (154, '4400'), (158, ','), (160, 'Rescue'), (167, 'Me'), (169, ','), (171, 'and'), (175, 'Legends'), (183, 'of'), (186, 'the'), (190, 'Fall'), (194, '.')])</spacy_tokens>
+<spacy_chunks>[('Karina Lombard', 0, 14), ('January 21, 1969', 21, 37), ('a French-American actress', 42, 67), ('singer', 72, 78), ('projects', 101, 109), ('the Showtime series', 118, 137), ('The L Word', 138, 148), ('The 4400', 150, 158), ('Rescue Me', 160, 169), ('Legends of the Fall', 175, 194)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'NNP', ',', 'DT', 'CD', ',', 'NNP', 'PRP', ',', 'CC', 'NNS', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

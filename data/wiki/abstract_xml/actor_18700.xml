@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Edith Ker</title>
+<link/>https://en.wikipedia.org/wiki/Edith_Ker
+<annotated>0</annotated>
+<originalabstract>Édith Ker, born Édith Denise Keraudren (1910–1997) was a French actress born in Brest (Finistère). She is best known to English-speaking audiences as the grandmother in Jean-Pierre Jeunet's Delicatessen.</originalabstract>
+<abstract>Édith_Ker , born Édith_Denise_Keraudren ( 1910 – 1997 ) was a_French_actress born in Brest ( Finistère ) . She is_best_known to English-speaking_audiences as the_grandmother in Jean-Pierre_Jeunet 's_Delicatessen .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Édith'), (6, 'Ker'), (9, ','), (11, 'born'), (16, 'Édith'), (22, 'Denise'), (29, 'Keraudren'), (39, '('), (40, '1910'), (44, '–'), (45, '1997'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'French'), (64, 'actress'), (72, 'born'), (77, 'in'), (80, 'Brest'), (86, '('), (87, 'Finistère'), (96, ')'), (97, '.'), (99, 'She'), (103, 'is'), (106, 'best'), (111, 'known'), (117, 'to'), (120, 'English-speaking'), (137, 'audiences'), (147, 'as'), (150, 'the'), (154, 'grandmother'), (166, 'in'), (169, 'Jean-Pierre'), (181, 'Jeunet'), (187, '\'s'), (190, 'Delicatessen'), (202, '.')])</stanford_tokens>
+<opennlp_chunks>[('Édith Ker',0, 9), ('Édith Denise Keraudren',16, 38), ('a French actress',55, 71), ('is best known',103, 116), ('English-speaking audiences',120, 146), ('the grandmother',150, 165), ('Jean-Pierre Jeunet',169, 187), ('\'s Delicatessen',187, 202)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'TO', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Édith'), (6, 'Ker'), (9, ','), (11, 'born'), (16, 'Édith'), (22, 'Denise'), (29, 'Keraudren'), (39, '('), (40, '1910–1997'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'French'), (64, 'actress'), (72, 'born'), (77, 'in'), (80, 'Brest'), (86, '('), (87, 'Finistère'), (96, ')'), (97, '.'), (99, 'She'), (103, 'is'), (106, 'best'), (111, 'known'), (117, 'to'), (120, 'English'), (127, '-'), (128, 'speaking'), (137, 'audiences'), (147, 'as'), (150, 'the'), (154, 'grandmother'), (166, 'in'), (169, 'Jean'), (173, '-'), (174, 'Pierre'), (181, 'Jeunet'), (187, "'s"), (190, 'Delicatessen'), (202, '.')])</spacy_tokens>
+<spacy_chunks>[('Édith Ker', 0, 9), ('Édith Denise Keraudren', 16, 38), ('a French actress', 55, 71), ('Finistère', 87, 96), ('English-speaking audiences', 120, 146), ('the grandmother', 150, 165), ("Jean-Pierre Jeunet's Delicatessen", 169, 202)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'NNP', 'HYPH', 'VBG', 'NNS', 'IN', 'DT', 'NN', 'IN', 'NNP', 'HYPH', 'NNP', 'NNP', 'POS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

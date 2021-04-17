@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alicia Minshew</title>
+<link/>https://en.wikipedia.org/wiki/Alicia_Minshew
+<annotated>0</annotated>
+<originalabstract>Alicia Minshew (born May 28, 1974) is an American actress. She is best known for portraying Kendall Hart on the daytime drama All My Children.</originalabstract>
+<abstract>Alicia_Minshew ( born May_28_,_1974 ) is an_American_actress . She is_best_known for portraying Kendall_Hart on the_daytime_drama All_My_Children .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alicia'), (7, 'Minshew'), (15, '('), (16, 'born'), (21, 'May'), (25, '28'), (27, ','), (29, '1974'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (57, '.'), (59, 'She'), (63, 'is'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'portraying'), (92, 'Kendall'), (100, 'Hart'), (105, 'on'), (108, 'the'), (112, 'daytime'), (120, 'drama'), (126, 'All'), (130, 'My'), (133, 'Children'), (141, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alicia Minshew',0, 14), ('May 28, 1974',21, 33), ('an American actress',38, 57), ('is best known',63, 76), ('Kendall Hart',92, 104), ('the daytime drama',108, 125), ('All My Children',126, 141)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'DT', 'PRP$', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alicia'), (7, 'Minshew'), (15, '('), (16, 'born'), (21, 'May'), (25, '28'), (27, ','), (29, '1974'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (57, '.'), (59, 'She'), (63, 'is'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'portraying'), (92, 'Kendall'), (100, 'Hart'), (105, 'on'), (108, 'the'), (112, 'daytime'), (120, 'drama'), (126, 'All'), (130, 'My'), (133, 'Children'), (141, '.')])</spacy_tokens>
+<spacy_chunks>[('Alicia Minshew', 0, 14), ('May 28, 1974', 21, 33), ('an American actress', 38, 57), ('Kendall Hart', 92, 104), ('the daytime drama', 108, 125), ('All My Children', 126, 141)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'PRP$', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

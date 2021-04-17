@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anthony Bushell</title>
+<link/>https://en.wikipedia.org/wiki/Anthony_Bushell
+<annotated>0</annotated>
+<originalabstract>Anthony Arnatt Bushell (19 May 1904 – 2 April 1997) was an English film actor and director, who appeared in 56 films between 1929 and 1961. He played Colonel Breen in the BBC serial Quatermass and the Pit (1958–59), and also appeared in and directed various British TV series such as Danger Man.</originalabstract>
+<abstract>Anthony_Arnatt_Bushell ( 19_May_1904 – 2_April_1997 ) was an_English_film_actor_and_director , who appeared in 56_films between 1929_and_1961 . He played Colonel_Breen in the_BBC_serial_Quatermass and the_Pit_(_1958 – 59_) , and also appeared in and directed various_British_TV_series such_as Danger_Man .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anthony'), (8, 'Arnatt'), (15, 'Bushell'), (23, '('), (24, '19'), (27, 'May'), (31, '1904'), (36, '–'), (38, '2'), (40, 'April'), (46, '1997'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'English'), (67, 'film'), (72, 'actor'), (78, 'and'), (82, 'director'), (90, ','), (92, 'who'), (96, 'appeared'), (105, 'in'), (108, '56'), (111, 'films'), (117, 'between'), (125, '1929'), (130, 'and'), (134, '1961'), (138, '.'), (140, 'He'), (143, 'played'), (150, 'Colonel'), (158, 'Breen'), (164, 'in'), (167, 'the'), (171, 'BBC'), (175, 'serial'), (182, 'Quatermass'), (193, 'and'), (197, 'the'), (201, 'Pit'), (205, '('), (206, '1958'), (210, '–'), (211, '59'), (213, ')'), (214, ','), (216, 'and'), (220, 'also'), (225, 'appeared'), (234, 'in'), (237, 'and'), (241, 'directed'), (250, 'various'), (258, 'British'), (266, 'TV'), (269, 'series'), (276, 'such'), (281, 'as'), (284, 'Danger'), (291, 'Man'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Anthony Arnatt Bushell',0, 22), ('19 May 1904',24, 35), ('2 April 1997',38, 50), ('an English film actor and director',56, 90), ('56 films',108, 116), ('1929 and 1961',125, 138), ('Colonel Breen',150, 163), ('the BBC serial Quatermass',167, 192), ('the Pit (1958',197, 210), ('59)',211, 214), ('various British TV series',250, 275), ('such as',276, 283), ('Danger Man',284, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', ',', 'WP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'CC', 'DT', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'CC', 'RB', 'VBD', 'IN', 'CC', 'VBN', 'JJ', 'JJ', 'NN', 'NN', 'JJ', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anthony'), (8, 'Arnatt'), (15, 'Bushell'), (23, '('), (24, '19'), (27, 'May'), (31, '1904'), (36, '–'), (38, '2'), (40, 'April'), (46, '1997'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'English'), (67, 'film'), (72, 'actor'), (78, 'and'), (82, 'director'), (90, ','), (92, 'who'), (96, 'appeared'), (105, 'in'), (108, '56'), (111, 'films'), (117, 'between'), (125, '1929'), (130, 'and'), (134, '1961'), (138, '.'), (140, 'He'), (143, 'played'), (150, 'Colonel'), (158, 'Breen'), (164, 'in'), (167, 'the'), (171, 'BBC'), (175, 'serial'), (182, 'Quatermass'), (193, 'and'), (197, 'the'), (201, 'Pit'), (205, '('), (206, '1958–59'), (213, ')'), (214, ','), (216, 'and'), (220, 'also'), (225, 'appeared'), (234, 'in'), (237, 'and'), (241, 'directed'), (250, 'various'), (258, 'British'), (266, 'TV'), (269, 'series'), (276, 'such'), (281, 'as'), (284, 'Danger'), (291, 'Man'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Anthony Arnatt Bushell', 0, 22), ('(19 May', 23, 30), ('19 May 1904', 24, 35), ('2 April 1997', 38, 50), ('an English film actor', 56, 77), ('director', 82, 90), ('56 films', 108, 116), ('Colonel Breen', 150, 163), ('the BBC serial', 167, 181), ('Quatermass and the Pit', 182, 204), ('(1958–59', 205, 213), ('various British TV series', 250, 275), ('Danger Man', 284, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', ',', 'WP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'CC', 'DT', 'NN', '-LRB-', 'NNP', '-RRB-', ',', 'CC', 'RB', 'VBD', 'RP', 'CC', 'VBD', 'JJ', 'JJ', 'NN', 'NN', 'JJ', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

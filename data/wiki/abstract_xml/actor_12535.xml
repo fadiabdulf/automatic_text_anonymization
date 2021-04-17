@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sara Haden</title>
+<link/>https://en.wikipedia.org/wiki/Sara_Haden
+<annotated>0</annotated>
+<originalabstract>Sara Haden (born Catherine Haden, November 17, 1898 – September 15, 1981) was a character actress in Hollywood films of the 1930s through the 1950s and in television into the mid-1960s. She may be best remembered for appearing as Aunt Milly Forrest in thirteen entries in MGM's Andy Hardy film series.</originalabstract>
+<abstract>Sara_Haden ( born Catherine_Haden , November_17_,_1898 – September_15_,_1981 ) was a_character_actress in Hollywood_films of the_1930s through the_1950s and in television into the_mid-1960s . She may_be_best_remembered for appearing as Aunt_Milly_Forrest in thirteen_entries in MGM 's_Andy_Hardy_film_series .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sara'), (5, 'Haden'), (11, '('), (12, 'born'), (17, 'Catherine'), (27, 'Haden'), (32, ','), (34, 'November'), (43, '17'), (45, ','), (47, '1898'), (52, '–'), (54, 'September'), (64, '15'), (66, ','), (68, '1981'), (72, ')'), (74, 'was'), (78, 'a'), (80, 'character'), (90, 'actress'), (98, 'in'), (101, 'Hollywood'), (111, 'films'), (117, 'of'), (120, 'the'), (124, '1930s'), (130, 'through'), (138, 'the'), (142, '1950s'), (148, 'and'), (152, 'in'), (155, 'television'), (166, 'into'), (171, 'the'), (175, 'mid-1960s'), (184, '.'), (186, 'She'), (190, 'may'), (194, 'be'), (197, 'best'), (202, 'remembered'), (213, 'for'), (217, 'appearing'), (227, 'as'), (230, 'Aunt'), (235, 'Milly'), (241, 'Forrest'), (249, 'in'), (252, 'thirteen'), (261, 'entries'), (269, 'in'), (272, 'MGM'), (275, '\'s'), (278, 'Andy'), (283, 'Hardy'), (289, 'film'), (294, 'series'), (300, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sara Haden',0, 10), ('Catherine Haden',17, 32), ('November 17, 1898',34, 51), ('September 15, 1981',54, 72), ('a character actress',78, 97), ('Hollywood films',101, 116), ('the 1930s',120, 129), ('the 1950s',138, 147), ('the mid-1960s',171, 184), ('may be best remembered',190, 212), ('Aunt Milly Forrest',230, 248), ('thirteen entries',252, 268), ('\'s Andy Hardy film series',275, 300)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNS', 'IN', 'DT', 'NNS', 'IN', 'DT', 'CD', 'CC', 'IN', 'NN', 'IN', 'DT', 'NNS', '.', 'PRP', 'MD', 'VB', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'NNS', 'IN', 'NNP', 'POS', 'NNP', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sara'), (5, 'Haden'), (11, '('), (12, 'born'), (17, 'Catherine'), (27, 'Haden'), (32, ','), (34, 'November'), (43, '17'), (45, ','), (47, '1898'), (52, '–'), (54, 'September'), (64, '15'), (66, ','), (68, '1981'), (72, ')'), (74, 'was'), (78, 'a'), (80, 'character'), (90, 'actress'), (98, 'in'), (101, 'Hollywood'), (111, 'films'), (117, 'of'), (120, 'the'), (124, '1930s'), (130, 'through'), (138, 'the'), (142, '1950s'), (148, 'and'), (152, 'in'), (155, 'television'), (166, 'into'), (171, 'the'), (175, 'mid-1960s'), (184, '.'), (186, 'She'), (190, 'may'), (194, 'be'), (197, 'best'), (202, 'remembered'), (213, 'for'), (217, 'appearing'), (227, 'as'), (230, 'Aunt'), (235, 'Milly'), (241, 'Forrest'), (249, 'in'), (252, 'thirteen'), (261, 'entries'), (269, 'in'), (272, 'MGM'), (275, "'s"), (278, 'Andy'), (283, 'Hardy'), (289, 'film'), (294, 'series'), (300, '.')])</spacy_tokens>
+<spacy_chunks>[('Sara Haden', 0, 10), ('Catherine Haden', 17, 32), ('November 17, 1898', 34, 51), ('September 15, 1981', 54, 72), ('a character actress', 78, 97), ('Hollywood films', 101, 116), ('the 1930s', 120, 129), ('the 1950s', 138, 147), ('television', 155, 165), ('the mid-1960s', 171, 184), ('Aunt Milly Forrest', 230, 248), ('thirteen entries', 252, 268), ("MGM's Andy Hardy film series", 272, 300)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNS', 'IN', 'DT', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'IN', 'NN', 'IN', 'DT', 'NNS', '.', 'PRP', 'MD', 'VB', 'RBS', 'VBN', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'NNS', 'IN', 'NNP', 'POS', 'NNP', 'NNP', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

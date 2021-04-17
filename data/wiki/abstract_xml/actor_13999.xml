@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sylvia Miles</title>
+<link/>https://en.wikipedia.org/wiki/Sylvia_Miles
+<annotated>0</annotated>
+<originalabstract>Sylvia Miles (born September 9, 1924) is an American film, stage, and television actress. She was twice nominated for the Academy Award for Best Supporting Actress for her performances in Midnight Cowboy (1969) and Farewell, My Lovely (1975).</originalabstract>
+<abstract>Sylvia_Miles ( born September_9_,_1924 ) is an_American_film , stage , and television_actress . She was_twice_nominated for the_Academy_Award for Best Supporting_Actress for her_performances in Midnight_Cowboy_(_1969_)_and_Farewell , My_Lovely_(_1975_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sylvia'), (7, 'Miles'), (13, '('), (14, 'born'), (19, 'September'), (29, '9'), (30, ','), (32, '1924'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'film'), (57, ','), (59, 'stage'), (64, ','), (66, 'and'), (70, 'television'), (81, 'actress'), (88, '.'), (90, 'She'), (94, 'was'), (98, 'twice'), (104, 'nominated'), (114, 'for'), (118, 'the'), (122, 'Academy'), (130, 'Award'), (136, 'for'), (140, 'Best'), (145, 'Supporting'), (156, 'Actress'), (164, 'for'), (168, 'her'), (172, 'performances'), (185, 'in'), (188, 'Midnight'), (197, 'Cowboy'), (204, '('), (205, '1969'), (209, ')'), (211, 'and'), (215, 'Farewell'), (223, ','), (225, 'My'), (228, 'Lovely'), (235, '('), (236, '1975'), (240, ')'), (241, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sylvia Miles',0, 12), ('September 9, 1924',19, 36), ('an American film',41, 57), ('television actress',70, 88), ('was twice nominated',94, 113), ('the Academy Award',118, 135), ('Supporting Actress',145, 163), ('her performances',168, 184), ('Midnight Cowboy (1969) and Farewell',188, 223), ('My Lovely (1975)',225, 241)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', ',', 'PRP$', 'JJ', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sylvia'), (7, 'Miles'), (13, '('), (14, 'born'), (19, 'September'), (29, '9'), (30, ','), (32, '1924'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'film'), (57, ','), (59, 'stage'), (64, ','), (66, 'and'), (70, 'television'), (81, 'actress'), (88, '.'), (90, 'She'), (94, 'was'), (98, 'twice'), (104, 'nominated'), (114, 'for'), (118, 'the'), (122, 'Academy'), (130, 'Award'), (136, 'for'), (140, 'Best'), (145, 'Supporting'), (156, 'Actress'), (164, 'for'), (168, 'her'), (172, 'performances'), (185, 'in'), (188, 'Midnight'), (197, 'Cowboy'), (204, '('), (205, '1969'), (209, ')'), (211, 'and'), (215, 'Farewell'), (223, ','), (225, 'My'), (228, 'Lovely'), (235, '('), (236, '1975'), (240, ')'), (241, '.')])</spacy_tokens>
+<spacy_chunks>[('Sylvia Miles', 0, 12), ('September 9, 1924', 19, 36), ('an American film', 41, 57), ('television actress', 70, 88), ('the Academy Award', 118, 135), ('Academy Award for Best Supporting Actress', 122, 163), ('her performances', 168, 184), ('Midnight Cowboy', 188, 203), ('Farewell, My Lovely (1975', 215, 240)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NNP', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', ',', 'PRP$', 'JJ', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

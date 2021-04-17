@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Allyn King</title>
+<link/>https://en.wikipedia.org/wiki/Allyn_King
+<annotated>0</annotated>
+<originalabstract>Allyn S. King (February 1, 1899 – March 31, 1930) was an American stage and film actress and singer who began her career in vaudeville, and later as a Ziegfeld Follies performer.
+King's 1930 suicide was the end result of her long struggle to satisfy the demands put on her by directors and producers to remain abnormally slim.</originalabstract>
+<abstract>Allyn_S._King ( February_1_,_1899 – March_31_,_1930 ) was an_American_stage_and_film_actress and singer who began her_career in vaudeville , and later as a_Ziegfeld_Follies_performer . King 's_1930_suicide was the_end_result of her_long_struggle to_satisfy the_demands put on her by directors_and_producers to_remain abnormally_slim .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Allyn'), (6, 'S.'), (9, 'King'), (14, '('), (15, 'February'), (24, '1'), (25, ','), (27, '1899'), (32, '–'), (34, 'March'), (40, '31'), (42, ','), (44, '1930'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'stage'), (72, 'and'), (76, 'film'), (81, 'actress'), (89, 'and'), (93, 'singer'), (100, 'who'), (104, 'began'), (110, 'her'), (114, 'career'), (121, 'in'), (124, 'vaudeville'), (134, ','), (136, 'and'), (140, 'later'), (146, 'as'), (149, 'a'), (151, 'Ziegfeld'), (160, 'Follies'), (168, 'performer'), (177, '.'), (179, 'King'), (183, '\'s'), (186, '1930'), (191, 'suicide'), (199, 'was'), (203, 'the'), (207, 'end'), (211, 'result'), (218, 'of'), (221, 'her'), (225, 'long'), (230, 'struggle'), (239, 'to'), (242, 'satisfy'), (250, 'the'), (254, 'demands'), (262, 'put'), (266, 'on'), (269, 'her'), (273, 'by'), (276, 'directors'), (286, 'and'), (290, 'producers'), (300, 'to'), (303, 'remain'), (310, 'abnormally'), (321, 'slim'), (325, '.')])</stanford_tokens>
+<opennlp_chunks>[('Allyn S. King',0, 13), ('February 1, 1899',15, 31), ('March 31, 1930',34, 48), ('an American stage and film actress',54, 88), ('her career',110, 120), ('a Ziegfeld Follies performer',149, 177), ('\'s 1930 suicide',183, 198), ('the end result',203, 217), ('her long struggle',221, 238), ('to satisfy',239, 249), ('the demands',250, 261), ('directors and producers',276, 299), ('to remain',300, 309), ('abnormally slim',310, 325)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'NN', ',', 'CC', 'RB', 'IN', 'DT', 'NNP', 'NNPS', 'NN', '.', 'NNP', 'POS', 'CD', 'NN', 'VBD', 'DT', 'NN', 'NN', 'IN', 'PRP$', 'JJ', 'NN', 'TO', 'VB', 'DT', 'NNS', 'VBP', 'IN', 'PRP$', 'IN', 'NNS', 'CC', 'NNS', 'TO', 'VB', 'RB', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Allyn'), (6, 'S.'), (9, 'King'), (14, '('), (15, 'February'), (24, '1'), (25, ','), (27, '1899'), (32, '–'), (34, 'March'), (40, '31'), (42, ','), (44, '1930'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'stage'), (72, 'and'), (76, 'film'), (81, 'actress'), (89, 'and'), (93, 'singer'), (100, 'who'), (104, 'began'), (110, 'her'), (114, 'career'), (121, 'in'), (124, 'vaudeville'), (134, ','), (136, 'and'), (140, 'later'), (146, 'as'), (149, 'a'), (151, 'Ziegfeld'), (160, 'Follies'), (168, 'performer'), (177, '.'), (179, 'King'), (183, "'s"), (186, '1930'), (191, 'suicide'), (199, 'was'), (203, 'the'), (207, 'end'), (211, 'result'), (218, 'of'), (221, 'her'), (225, 'long'), (230, 'struggle'), (239, 'to'), (242, 'satisfy'), (250, 'the'), (254, 'demands'), (262, 'put'), (266, 'on'), (269, 'her'), (273, 'by'), (276, 'directors'), (286, 'and'), (290, 'producers'), (300, 'to'), (303, 'remain'), (310, 'abnormally'), (321, 'slim'), (325, '.')])</spacy_tokens>
+<spacy_chunks>[('Allyn S. King', 0, 13), ('February 1, 1899', 15, 31), ('March 31, 1930', 34, 48), ('an American stage and film actress', 54, 88), ('singer', 93, 99), ('her career', 110, 120), ('Vaudeville', 124, 134), ('a Ziegfeld Follies performer', 149, 177), ("King's 1930 suicide", 179, 198), ('the end result', 203, 217), ('her long struggle', 221, 238), ('the demands', 250, 261), ('directors', 276, 285), ('producers', 290, 299)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'NN', ',', 'CC', 'RB', 'IN', 'DT', 'NNP', 'NNP', 'NN', '.', 'NNP', 'POS', 'CD', 'NN', 'VBD', 'DT', 'NN', 'NN', 'IN', 'PRP$', 'JJ', 'NN', 'TO', 'VB', 'DT', 'NNS', 'VBN', 'IN', 'PRP', 'IN', 'NNS', 'CC', 'NNS', 'TO', 'VB', 'RB', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

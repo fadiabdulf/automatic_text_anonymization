@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dan Kemp</title>
+<link/>https://en.wikipedia.org/wiki/Dan_Kemp
+<annotated>0</annotated>
+<originalabstract>Daniel Richard "Dan" Kemp (November 29, 1927 – January 11, 2000) was an American actor best known for his guest-starring roles in several television westerns between 1969 and 1971.</originalabstract>
+<abstract>Daniel_Richard_"_Dan_"_Kemp ( November_29_,_1927 – January_11_,_2000 ) was an_American_actor best_known for his_guest-starring_roles in several_television_westerns between 1969_and_1971 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Daniel'), (7, 'Richard'), (15, '"'), (16, 'Dan'), (19, '"'), (21, 'Kemp'), (26, '('), (27, 'November'), (36, '29'), (38, ','), (40, '1927'), (45, '–'), (47, 'January'), (55, '11'), (57, ','), (59, '2000'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'actor'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'his'), (106, 'guest-starring'), (121, 'roles'), (127, 'in'), (130, 'several'), (138, 'television'), (149, 'westerns'), (158, 'between'), (166, '1969'), (171, 'and'), (175, '1971'), (179, '.')])</stanford_tokens>
+<opennlp_chunks>[('Daniel Richard "Dan" Kemp',0, 25), ('November 29, 1927',27, 44), ('January 11, 2000',47, 63), ('an American actor',69, 86), ('best known',87, 97), ('his guest-starring roles',102, 126), ('several television westerns',130, 157), ('1969 and 1971',166, 179)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Daniel'), (7, 'Richard'), (15, '"'), (16, 'Dan'), (19, '"'), (21, 'Kemp'), (26, '('), (27, 'November'), (36, '29'), (38, ','), (40, '1927'), (45, '–'), (47, 'January'), (55, '11'), (57, ','), (59, '2000'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'actor'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'his'), (106, 'guest'), (111, '-'), (112, 'starring'), (121, 'roles'), (127, 'in'), (130, 'several'), (138, 'television'), (149, 'westerns'), (158, 'between'), (166, '1969'), (171, 'and'), (175, '1971'), (179, '.')])</spacy_tokens>
+<spacy_chunks>[('Daniel Richard', 0, 14), ('"Dan" Kemp', 15, 25), ('November 29, 1927', 27, 44), ('January 11, 2000', 47, 63), ('an American actor', 69, 86), ('his guest-starring roles', 102, 126), ('several television westerns', 130, 157)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'HYPH', 'VBG', 'NNS', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

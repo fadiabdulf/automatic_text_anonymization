@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dwight Frye</title>
+<link/>https://en.wikipedia.org/wiki/Dwight_Frye
+<annotated>0</annotated>
+<originalabstract>Dwight Iliff Frye (born Fry; February 22, 1899 – November 7, 1943) was an American character actor of stage and screen. He is best known for his portrayals of neurotic, murderous villains in several classic Universal horror films, such as Renfield in Dracula (1931) and Fritz in Frankenstein (1931).</originalabstract>
+<abstract>Dwight_Iliff_Frye ( born_Fry ; February_22_,_1899 – November_7_,_1943 ) was an_American_character_actor of stage_and_screen . He is_best_known for his_portrayals of neurotic_,_murderous_villains in several_classic_Universal_horror_films , such_as Renfield in Dracula_(_1931_)_and_Fritz in Frankenstein_(_1931_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dwight'), (7, 'Iliff'), (13, 'Frye'), (18, '('), (19, 'born'), (24, 'Fry'), (27, ';'), (29, 'February'), (38, '22'), (40, ','), (42, '1899'), (47, '–'), (49, 'November'), (58, '7'), (59, ','), (61, '1943'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'character'), (93, 'actor'), (99, 'of'), (102, 'stage'), (108, 'and'), (112, 'screen'), (118, '.'), (120, 'He'), (123, 'is'), (126, 'best'), (131, 'known'), (137, 'for'), (141, 'his'), (145, 'portrayals'), (156, 'of'), (159, 'neurotic'), (167, ','), (169, 'murderous'), (179, 'villains'), (188, 'in'), (191, 'several'), (199, 'classic'), (207, 'Universal'), (217, 'horror'), (224, 'films'), (229, ','), (231, 'such'), (236, 'as'), (239, 'Renfield'), (248, 'in'), (251, 'Dracula'), (259, '('), (260, '1931'), (264, ')'), (266, 'and'), (270, 'Fritz'), (276, 'in'), (279, 'Frankenstein'), (292, '('), (293, '1931'), (297, ')'), (298, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dwight Iliff Frye',0, 17), ('born Fry',19, 27), ('February 22, 1899',29, 46), ('November 7, 1943',49, 65), ('an American character actor',71, 98), ('stage and screen',102, 118), ('is best known',123, 136), ('his portrayals',141, 155), ('neurotic, murderous villains',159, 187), ('several classic Universal horror films',191, 229), ('such as',231, 238), ('Dracula (1931) and Fritz',251, 275), ('Frankenstein (1931)',279, 298)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NN', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', ',', 'JJ', 'NNS', 'IN', 'JJ', 'JJ', 'NNP', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dwight'), (7, 'Iliff'), (13, 'Frye'), (18, '('), (19, 'born'), (24, 'Fry'), (27, ';'), (29, 'February'), (38, '22'), (40, ','), (42, '1899'), (47, '–'), (49, 'November'), (58, '7'), (59, ','), (61, '1943'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'character'), (93, 'actor'), (99, 'of'), (102, 'stage'), (108, 'and'), (112, 'screen'), (118, '.'), (120, 'He'), (123, 'is'), (126, 'best'), (131, 'known'), (137, 'for'), (141, 'his'), (145, 'portrayals'), (156, 'of'), (159, 'neurotic'), (167, ','), (169, 'murderous'), (179, 'villains'), (188, 'in'), (191, 'several'), (199, 'classic'), (207, 'Universal'), (217, 'horror'), (224, 'films'), (229, ','), (231, 'such'), (236, 'as'), (239, 'Renfield'), (248, 'in'), (251, 'Dracula'), (259, '('), (260, '1931'), (264, ')'), (266, 'and'), (270, 'Fritz'), (276, 'in'), (279, 'Frankenstein'), (292, '('), (293, '1931'), (297, ')'), (298, '.')])</spacy_tokens>
+<spacy_chunks>[('Dwight Iliff Frye', 0, 17), ('(born Fry', 18, 27), ('February 22, 1899', 29, 46), ('November 7, 1943', 49, 65), ('an American character actor', 71, 98), ('screen', 112, 118), ('his portrayals', 141, 155), ('neurotic, murderous villains', 159, 187), ('several classic Universal horror films', 191, 229), ('Renfield', 239, 247), ('Dracula (1931', 251, 264), ('Frankenstein (1931', 279, 297)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', ',', 'JJ', 'NNS', 'IN', 'JJ', 'JJ', 'JJ', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

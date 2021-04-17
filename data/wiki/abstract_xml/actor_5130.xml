@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Pankow</title>
+<link/>https://en.wikipedia.org/wiki/John_Pankow
+<annotated>0</annotated>
+<originalabstract>John Pankow (born April 28, 1954) is an American actor. He may be best known for his role as Ira Buchman for all seven seasons of Mad About You, and later for his role as series regular Merc Lapidus on Episodes.</originalabstract>
+<abstract>John_Pankow ( born April_28_,_1954 ) is an_American_actor . He may_be_best_known for his_role as Ira_Buchman for all_seven_seasons of Mad About You , and later for his_role as series_regular_Merc_Lapidus on Episodes .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Pankow'), (12, '('), (13, 'born'), (18, 'April'), (24, '28'), (26, ','), (28, '1954'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, '.'), (56, 'He'), (59, 'may'), (63, 'be'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'his'), (85, 'role'), (90, 'as'), (93, 'Ira'), (97, 'Buchman'), (105, 'for'), (109, 'all'), (113, 'seven'), (119, 'seasons'), (127, 'of'), (130, 'Mad'), (134, 'About'), (140, 'You'), (143, ','), (145, 'and'), (149, 'later'), (155, 'for'), (159, 'his'), (163, 'role'), (168, 'as'), (171, 'series'), (178, 'regular'), (186, 'Merc'), (191, 'Lapidus'), (199, 'on'), (202, 'Episodes'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Pankow',0, 11), ('April 28, 1954',18, 32), ('an American actor',37, 54), ('may be best known',59, 76), ('his role',81, 89), ('Ira Buchman',93, 104), ('all seven seasons',109, 126), ('his role',159, 167), ('series regular Merc Lapidus',171, 198)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'MD', 'VB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNS', 'IN', 'NNP', 'IN', 'PRP', ',', 'CC', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'JJ', 'NNP', 'NNP', 'IN', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Pankow'), (12, '('), (13, 'born'), (18, 'April'), (24, '28'), (26, ','), (28, '1954'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, '.'), (56, 'He'), (59, 'may'), (63, 'be'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'his'), (85, 'role'), (90, 'as'), (93, 'Ira'), (97, 'Buchman'), (105, 'for'), (109, 'all'), (113, 'seven'), (119, 'seasons'), (127, 'of'), (130, 'Mad'), (134, 'About'), (140, 'You'), (143, ','), (145, 'and'), (149, 'later'), (155, 'for'), (159, 'his'), (163, 'role'), (168, 'as'), (171, 'series'), (178, 'regular'), (186, 'Merc'), (191, 'Lapidus'), (199, 'on'), (202, 'Episodes'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('John Pankow', 0, 11), ('April 28, 1954', 18, 32), ('an American actor', 37, 54), ('his role', 81, 89), ('Ira Buchman', 93, 104), ('all seven seasons', 109, 126), ('Mad About You', 130, 143), ('series', 171, 177), ('regular Merc Lapidus', 178, 198), ('Episodes', 202, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'MD', 'VB', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNS', 'IN', 'NN', 'IN', 'PRP', ',', 'CC', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'JJ', 'NNP', 'NNP', 'IN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

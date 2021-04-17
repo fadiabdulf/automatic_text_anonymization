@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marian Skinner</title>
+<link/>https://en.wikipedia.org/wiki/Marian_Skinner
+<annotated>0</annotated>
+<originalabstract>Marian Skinner (January 8, 1880 – June 7, 1963), was an American film actress of the silent era.  She appeared in 51 films between 1915 and 1924. She was born in New York, New York, and died in San Francisco, California.</originalabstract>
+<abstract>Marian_Skinner ( January_8 , 1880 – June_7_,_1963 ) , was an_American_film_actress of the_silent_era . She appeared in 51_films between 1915_and_1924 . She was_born in New_York , New_York , and died in San_Francisco , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marian'), (7, 'Skinner'), (15, '('), (16, 'January'), (24, '8'), (25, ','), (27, '1880'), (32, '–'), (34, 'June'), (39, '7'), (40, ','), (42, '1963'), (46, ')'), (47, ','), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actress'), (78, 'of'), (81, 'the'), (85, 'silent'), (92, 'era'), (95, '.'), (98, 'She'), (102, 'appeared'), (111, 'in'), (114, '51'), (117, 'films'), (123, 'between'), (131, '1915'), (136, 'and'), (140, '1924'), (144, '.'), (146, 'She'), (150, 'was'), (154, 'born'), (159, 'in'), (162, 'New'), (166, 'York'), (170, ','), (172, 'New'), (176, 'York'), (180, ','), (182, 'and'), (186, 'died'), (191, 'in'), (194, 'San'), (198, 'Francisco'), (207, ','), (209, 'California'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marian Skinner',0, 14), ('January 8',16, 25), ('June 7, 1963',34, 46), ('an American film actress',53, 77), ('the silent era',81, 95), ('51 films',114, 122), ('1915 and 1924',131, 144), ('was born',150, 158), ('New York',162, 170), ('New York',172, 180), ('San Francisco',194, 207)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marian'), (7, 'Skinner'), (15, '('), (16, 'January'), (24, '8'), (25, ','), (27, '1880'), (32, '–'), (34, 'June'), (39, '7'), (40, ','), (42, '1963'), (46, ')'), (47, ','), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actress'), (78, 'of'), (81, 'the'), (85, 'silent'), (92, 'era'), (95, '.'), (98, 'She'), (102, 'appeared'), (111, 'in'), (114, '51'), (117, 'films'), (123, 'between'), (131, '1915'), (136, 'and'), (140, '1924'), (144, '.'), (146, 'She'), (150, 'was'), (154, 'born'), (159, 'in'), (162, 'New'), (166, 'York'), (170, ','), (172, 'New'), (176, 'York'), (180, ','), (182, 'and'), (186, 'died'), (191, 'in'), (194, 'San'), (198, 'Francisco'), (207, ','), (209, 'California'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Marian Skinner', 0, 14), ('(January', 15, 23), ('January 8, 1880', 16, 31), ('June 7, 1963', 34, 46), ('an American film actress', 53, 77), ('the silent era', 81, 95), ('51 films', 114, 122), ('New York, New York', 162, 180), ('San Francisco, California', 194, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

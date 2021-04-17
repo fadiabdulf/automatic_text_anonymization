@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Adamae Vaughn</title>
+<link/>https://en.wikipedia.org/wiki/Adamae_Vaughn
+<annotated>0</annotated>
+<originalabstract>Adamae Vaughn (November 8, 1905 – September 11, 1943), also billed as Ada Mae Vaughn, was a movie actress, born in Ashland, Kentucky. Her sister was film actress Alberta Vaughn. Adamae was at first Alberta's manager and chaperone. The studio needed a brunette and Adamae, a blonde, sent her sister.</originalabstract>
+<abstract>Adamae_Vaughn ( November_8_,_1905 – September_11_,_1943 ) , also billed as Ada_Mae_Vaughn , was a_movie_actress , born in Ashland , Kentucky . Her_sister was film_actress_Alberta_Vaughn . Adamae was at first_Alberta 's_manager_and_chaperone . The_studio needed a_brunette and Adamae , a_blonde , sent her_sister .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Adamae'), (7, 'Vaughn'), (14, '('), (15, 'November'), (24, '8'), (25, ','), (27, '1905'), (32, '–'), (34, 'September'), (44, '11'), (46, ','), (48, '1943'), (52, ')'), (53, ','), (55, 'also'), (60, 'billed'), (67, 'as'), (70, 'Ada'), (74, 'Mae'), (78, 'Vaughn'), (84, ','), (86, 'was'), (90, 'a'), (92, 'movie'), (98, 'actress'), (105, ','), (107, 'born'), (112, 'in'), (115, 'Ashland'), (122, ','), (124, 'Kentucky'), (132, '.'), (134, 'Her'), (138, 'sister'), (145, 'was'), (149, 'film'), (154, 'actress'), (162, 'Alberta'), (170, 'Vaughn'), (176, '.'), (178, 'Adamae'), (185, 'was'), (189, 'at'), (192, 'first'), (198, 'Alberta'), (205, '\'s'), (208, 'manager'), (216, 'and'), (220, 'chaperone'), (229, '.'), (231, 'The'), (235, 'studio'), (242, 'needed'), (249, 'a'), (251, 'brunette'), (260, 'and'), (264, 'Adamae'), (270, ','), (272, 'a'), (274, 'blonde'), (280, ','), (282, 'sent'), (287, 'her'), (291, 'sister'), (297, '.')])</stanford_tokens>
+<opennlp_chunks>[('Adamae Vaughn',0, 13), ('November 8, 1905',15, 31), ('September 11, 1943',34, 52), ('Ada Mae Vaughn',70, 84), ('a movie actress',90, 105), ('Her sister',134, 144), ('film actress Alberta Vaughn',149, 176), ('first Alberta',192, 205), ('\'s manager and chaperone',205, 229), ('The studio',231, 241), ('a brunette',249, 259), ('a blonde',272, 280), ('her sister',287, 297)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NN', 'NN', ',', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP$', 'NN', 'VBD', 'NN', 'NN', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'IN', 'JJ', 'NNP', 'POS', 'NN', 'CC', 'NN', '.', 'DT', 'NN', 'VBD', 'DT', 'NN', 'CC', 'NNP', ',', 'DT', 'JJ', ',', 'VBD', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Adamae'), (7, 'Vaughn'), (14, '('), (15, 'November'), (24, '8'), (25, ','), (27, '1905'), (32, '–'), (34, 'September'), (44, '11'), (46, ','), (48, '1943'), (52, ')'), (53, ','), (55, 'also'), (60, 'billed'), (67, 'as'), (70, 'Ada'), (74, 'Mae'), (78, 'Vaughn'), (84, ','), (86, 'was'), (90, 'a'), (92, 'movie'), (98, 'actress'), (105, ','), (107, 'born'), (112, 'in'), (115, 'Ashland'), (122, ','), (124, 'Kentucky'), (132, '.'), (134, 'Her'), (138, 'sister'), (145, 'was'), (149, 'film'), (154, 'actress'), (162, 'Alberta'), (170, 'Vaughn'), (176, '.'), (178, 'Adamae'), (185, 'was'), (189, 'at'), (192, 'first'), (198, 'Alberta'), (205, "'s"), (208, 'manager'), (216, 'and'), (220, 'chaperone'), (229, '.'), (231, 'The'), (235, 'studio'), (242, 'needed'), (249, 'a'), (251, 'brunette'), (260, 'and'), (264, 'Adamae'), (270, ','), (272, 'a'), (274, 'blonde'), (280, ','), (282, 'sent'), (287, 'her'), (291, 'sister'), (297, '.')])</spacy_tokens>
+<spacy_chunks>[('Adamae Vaughn', 0, 13), ('(November', 14, 23), ('November 8, 1905', 15, 31), ('September 11, 1943', 34, 52), ('Ada Mae Vaughn', 70, 84), ('a movie actress', 90, 105), ('Ashland, Kentucky', 115, 132), ('her sister', 134, 144), ('film actress', 149, 161), ('Alberta Vaughn', 162, 176), ("first Alberta's manager", 192, 215), ('chaperone', 220, 229), ('The studio', 231, 241)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NN', 'NN', ',', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP$', 'NN', 'VBD', 'NN', 'NN', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'IN', 'JJ', 'NNP', 'POS', 'NN', 'CC', 'NN', '.', 'DT', 'NN', 'VBD', 'DT', 'JJ', 'CC', 'NNP', ',', 'DT', 'JJ', ',', 'VBD', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

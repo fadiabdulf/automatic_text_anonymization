@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maggie McOmie</title>
+<link/>https://en.wikipedia.org/wiki/Maggie_McOmie
+<annotated>0</annotated>
+<originalabstract>Maggie McOmie is an American stage and film actress, best known for co-starring with Robert Duvall in George Lucas' 1971 film THX 1138. Though the film received mixed reviews at the time, it has since developed a cult following.</originalabstract>
+<abstract>Maggie_McOmie is an_American_stage_and_film_actress , best_known for co-starring with Robert_Duvall in George_Lucas '_1971_film THX_1138 . Though the_film received mixed_reviews at the_time , it has_since_developed a_cult_following .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maggie'), (7, 'McOmie'), (14, 'is'), (17, 'an'), (20, 'American'), (29, 'stage'), (35, 'and'), (39, 'film'), (44, 'actress'), (51, ','), (53, 'best'), (58, 'known'), (64, 'for'), (68, 'co-starring'), (80, 'with'), (85, 'Robert'), (92, 'Duvall'), (99, 'in'), (102, 'George'), (109, 'Lucas'), (114, '\''), (116, '1971'), (121, 'film'), (126, 'THX'), (130, '1138'), (134, '.'), (136, 'Though'), (143, 'the'), (147, 'film'), (152, 'received'), (161, 'mixed'), (167, 'reviews'), (175, 'at'), (178, 'the'), (182, 'time'), (186, ','), (188, 'it'), (191, 'has'), (195, 'since'), (201, 'developed'), (211, 'a'), (213, 'cult'), (218, 'following'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maggie McOmie',0, 13), ('an American stage and film actress',17, 51), ('best known',53, 63), ('Robert Duvall',85, 98), ('George Lucas',102, 114), ('\' 1971 film',114, 125), ('THX 1138',126, 134), ('the film',143, 151), ('mixed reviews',161, 174), ('the time',178, 186), ('has since developed',191, 210), ('a cult following',211, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'CD', 'NN', 'NNP', 'CD', '.', 'IN', 'DT', 'NN', 'VBD', 'JJ', 'NNS', 'IN', 'DT', 'NN', ',', 'PRP', 'VBZ', 'IN', 'VBN', 'DT', 'NN', 'VBG', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maggie'), (7, 'McOmie'), (14, 'is'), (17, 'an'), (20, 'American'), (29, 'stage'), (35, 'and'), (39, 'film'), (44, 'actress'), (51, ','), (53, 'best'), (58, 'known'), (64, 'for'), (68, 'co'), (70, '-'), (71, 'starring'), (80, 'with'), (85, 'Robert'), (92, 'Duvall'), (99, 'in'), (102, 'George'), (109, 'Lucas'), (114, "'"), (116, '1971'), (121, 'film'), (126, 'THX'), (130, '1138'), (134, '.'), (136, 'Though'), (143, 'the'), (147, 'film'), (152, 'received'), (161, 'mixed'), (167, 'reviews'), (175, 'at'), (178, 'the'), (182, 'time'), (186, ','), (188, 'it'), (191, 'has'), (195, 'since'), (201, 'developed'), (211, 'a'), (213, 'cult'), (218, 'following'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Maggie McOmie', 0, 13), ('an American stage and film actress', 17, 51), ('co-starring', 68, 79), ('Robert Duvall', 85, 98), ("George Lucas' 1971 film", 102, 125), ('THX 1138', 126, 134), ('the film', 143, 151), ('mixed reviews', 161, 174), ('the time', 178, 186), ('a cult', 211, 217)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'CD', 'NN', 'NNP', 'CD', '.', 'IN', 'DT', 'NN', 'VBD', 'JJ', 'NNS', 'IN', 'DT', 'NN', ',', 'PRP', 'VBZ', 'IN', 'VBN', 'DT', 'NN', 'VBG', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

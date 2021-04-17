@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alfred Burke</title>
+<link/>https://en.wikipedia.org/wiki/Alfred_Burke
+<annotated>0</annotated>
+<originalabstract>Alfred Burke (28 February 1918 – 16 February 2011) was an English actor, best known for his portrayal of Frank Marker in the drama series Public Eye, which ran on television for ten years.</originalabstract>
+<abstract>Alfred_Burke ( 28_February_1918 – 16_February_2011 ) was an_English_actor , best_known for his_portrayal of Frank_Marker in the_drama_series_Public_Eye , which ran on television for ten_years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alfred'), (7, 'Burke'), (13, '('), (14, '28'), (17, 'February'), (26, '1918'), (31, '–'), (33, '16'), (36, 'February'), (45, '2011'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'English'), (66, 'actor'), (71, ','), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'his'), (92, 'portrayal'), (102, 'of'), (105, 'Frank'), (111, 'Marker'), (118, 'in'), (121, 'the'), (125, 'drama'), (131, 'series'), (138, 'Public'), (145, 'Eye'), (148, ','), (150, 'which'), (156, 'ran'), (160, 'on'), (163, 'television'), (174, 'for'), (178, 'ten'), (182, 'years'), (187, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alfred Burke',0, 12), ('28 February 1918',14, 30), ('16 February 2011',33, 49), ('an English actor',55, 71), ('best known',73, 83), ('his portrayal',88, 101), ('Frank Marker',105, 117), ('the drama series Public Eye',121, 148), ('ten years',178, 187)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'IN', 'NN', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alfred'), (7, 'Burke'), (13, '('), (14, '28'), (17, 'February'), (26, '1918'), (31, '–'), (33, '16'), (36, 'February'), (45, '2011'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'English'), (66, 'actor'), (71, ','), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'his'), (92, 'portrayal'), (102, 'of'), (105, 'Frank'), (111, 'Marker'), (118, 'in'), (121, 'the'), (125, 'drama'), (131, 'series'), (138, 'Public'), (145, 'Eye'), (148, ','), (150, 'which'), (156, 'ran'), (160, 'on'), (163, 'television'), (174, 'for'), (178, 'ten'), (182, 'years'), (187, '.')])</spacy_tokens>
+<spacy_chunks>[('Alfred Burke', 0, 12), ('(28 February', 13, 25), ('28 February 1918', 14, 30), ('16 February 2011', 33, 49), ('an English actor', 55, 71), ('his portrayal', 88, 101), ('Frank Marker', 105, 117), ('the drama series', 121, 137), ('Public Eye', 138, 148), ('television', 163, 173), ('ten years', 178, 187)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'IN', 'NN', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

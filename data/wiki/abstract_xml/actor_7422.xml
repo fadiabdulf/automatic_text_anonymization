@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rafael Bardem</title>
+<link/>https://en.wikipedia.org/wiki/Rafael_Bardem
+<annotated>0</annotated>
+<originalabstract>Rafael Bardem Solé (10 January 1889 – 6 November 1972) was a Spanish film actor whose career stretched from the 1940s through the 1960s.  
+Born in Barcelona, he was the grandfather of Javier Bardem and father of Juan Antonio Bardem and actress Pilar Bardem. His wife was actress Matilde Muñoz Sampedro.
+Rafael Bardem died in Madrid in 1972, aged 83.</originalabstract>
+<abstract>Rafael_Bardem_Solé ( 10_January_1889 – 6_November_1972 ) was a_Spanish_film_actor whose_career stretched from the_1940s through the_1960s . Born in Barcelona , he was the_grandfather of Javier_Bardem and father of Juan_Antonio_Bardem and actress_Pilar_Bardem . His_wife was actress_Matilde_Muñoz_Sampedro . Rafael_Bardem died in Madrid in 1972 , aged 83 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rafael'), (7, 'Bardem'), (14, 'Solé'), (19, '('), (20, '10'), (23, 'January'), (31, '1889'), (36, '–'), (38, '6'), (40, 'November'), (49, '1972'), (53, ')'), (55, 'was'), (59, 'a'), (61, 'Spanish'), (69, 'film'), (74, 'actor'), (80, 'whose'), (86, 'career'), (93, 'stretched'), (103, 'from'), (108, 'the'), (112, '1940s'), (118, 'through'), (126, 'the'), (130, '1960s'), (135, '.'), (139, 'Born'), (144, 'in'), (147, 'Barcelona'), (156, ','), (158, 'he'), (161, 'was'), (165, 'the'), (169, 'grandfather'), (181, 'of'), (184, 'Javier'), (191, 'Bardem'), (198, 'and'), (202, 'father'), (209, 'of'), (212, 'Juan'), (217, 'Antonio'), (225, 'Bardem'), (232, 'and'), (236, 'actress'), (244, 'Pilar'), (250, 'Bardem'), (256, '.'), (258, 'His'), (262, 'wife'), (267, 'was'), (271, 'actress'), (279, 'Matilde'), (287, 'Muñoz'), (293, 'Sampedro'), (301, '.'), (303, 'Rafael'), (310, 'Bardem'), (317, 'died'), (322, 'in'), (325, 'Madrid'), (332, 'in'), (335, '1972'), (339, ','), (341, 'aged'), (346, '83'), (348, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rafael Bardem Solé',0, 18), ('10 January 1889',20, 35), ('6 November 1972',38, 53), ('a Spanish film actor',59, 79), ('whose career',80, 92), ('the 1940s',108, 117), ('the 1960s',126, 135), ('the grandfather',165, 180), ('Javier Bardem',184, 197), ('Juan Antonio Bardem',212, 231), ('actress Pilar Bardem',236, 256), ('His wife',258, 266), ('actress Matilde Muñoz Sampedro',271, 301), ('Rafael Bardem',303, 316)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP$', 'NN', 'VBN', 'IN', 'DT', 'CD', 'IN', 'DT', 'NNS', '.', 'VBN', 'IN', 'NNP', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NN', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'VBD', 'NN', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'VBD', 'IN', 'NNP', 'IN', 'CD', ',', 'JJ', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rafael'), (7, 'Bardem'), (14, 'Solé'), (19, '('), (20, '10'), (23, 'January'), (31, '1889'), (36, '–'), (38, '6'), (40, 'November'), (49, '1972'), (53, ')'), (55, 'was'), (59, 'a'), (61, 'Spanish'), (69, 'film'), (74, 'actor'), (80, 'whose'), (86, 'career'), (93, 'stretched'), (103, 'from'), (108, 'the'), (112, '1940s'), (118, 'through'), (126, 'the'), (130, '1960s'), (135, '.'), (139, 'Born'), (144, 'in'), (147, 'Barcelona'), (156, ','), (158, 'he'), (161, 'was'), (165, 'the'), (169, 'grandfather'), (181, 'of'), (184, 'Javier'), (191, 'Bardem'), (198, 'and'), (202, 'father'), (209, 'of'), (212, 'Juan'), (217, 'Antonio'), (225, 'Bardem'), (232, 'and'), (236, 'actress'), (244, 'Pilar'), (250, 'Bardem'), (256, '.'), (258, 'His'), (262, 'wife'), (267, 'was'), (271, 'actress'), (279, 'Matilde'), (287, 'Muñoz'), (293, 'Sampedro'), (301, '.'), (303, 'Rafael'), (310, 'Bardem'), (317, 'died'), (322, 'in'), (325, 'Madrid'), (332, 'in'), (335, '1972'), (339, ','), (341, 'aged'), (346, '83'), (348, '.')])</spacy_tokens>
+<spacy_chunks>[('Rafael Bardem Solé', 0, 18), ('10 January 1889', 20, 35), ('6 November 1972', 38, 53), ('a Spanish film actor', 59, 79), ('whose career', 80, 92), ('the 1940s', 108, 117), ('the 1960s', 126, 135), ('Barcelona', 147, 156), ('the grandfather', 165, 180), ('Javier Bardem', 184, 197), ('Juan Antonio Bardem', 212, 231), ('actress Pilar Bardem', 236, 256), ('His wife', 258, 266), ('actress Matilde Muñoz Sampedro', 271, 301), ('Madrid', 325, 331)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'IN', 'DT', 'NNS', 'IN', 'DT', 'NNS', '.', 'VBN', 'IN', 'NNP', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NN', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'VBD', 'NN', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'NNP', 'VBD', 'IN', 'NNP', 'IN', 'CD', ',', 'JJ', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

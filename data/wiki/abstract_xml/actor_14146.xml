@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Senta Moses</title>
+<link/>https://en.wikipedia.org/wiki/Senta_Moses
+<annotated>0</annotated>
+<originalabstract>Senta Michelle Moses (born August 8, 1973) is an American actress. She is perhaps best known for her co-starring role as Phoebe,  the lab assistant in the children's series Beakman's World.</originalabstract>
+<abstract>Senta_Michelle_Moses ( born August_8_,_1973 ) is an_American_actress . She is_perhaps_best_known for her_co-starring_role as Phoebe , the_lab_assistant in the_children 's_series_Beakman 's_World .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Senta'), (6, 'Michelle'), (15, 'Moses'), (21, '('), (22, 'born'), (27, 'August'), (34, '8'), (35, ','), (37, '1973'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'is'), (74, 'perhaps'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'her'), (101, 'co-starring'), (113, 'role'), (118, 'as'), (121, 'Phoebe'), (127, ','), (130, 'the'), (134, 'lab'), (138, 'assistant'), (148, 'in'), (151, 'the'), (155, 'children'), (163, '\'s'), (166, 'series'), (173, 'Beakman'), (180, '\'s'), (183, 'World'), (188, '.')])</stanford_tokens>
+<opennlp_chunks>[('Senta Michelle Moses',0, 20), ('August 8, 1973',27, 41), ('an American actress',46, 65), ('is perhaps best known',71, 92), ('her co-starring role',97, 117), ('the lab assistant',130, 147), ('the children',151, 163), ('\'s series Beakman',163, 180), ('\'s World',180, 188)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'NNP', ',', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NNP', 'POS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Senta'), (6, 'Michelle'), (15, 'Moses'), (21, '('), (22, 'born'), (27, 'August'), (34, '8'), (35, ','), (37, '1973'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actress'), (65, '.'), (67, 'She'), (71, 'is'), (74, 'perhaps'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'her'), (101, 'co'), (103, '-'), (104, 'starring'), (113, 'role'), (118, 'as'), (121, 'Phoebe'), (127, ','), (130, 'the'), (134, 'lab'), (138, 'assistant'), (148, 'in'), (151, 'the'), (155, 'children'), (163, "'s"), (166, 'series'), (173, 'Beakman'), (180, "'s"), (183, 'World'), (188, '.')])</spacy_tokens>
+<spacy_chunks>[('Senta Michelle Moses', 0, 20), ('August 8, 1973', 27, 41), ('an American actress', 46, 65), ('her co-starring role', 97, 117), ('Phoebe', 121, 127), ('the lab assistant', 130, 147), ("the children's series", 151, 172), ("Beakman's World", 173, 188)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'JJ', 'JJ', 'NN', 'IN', 'NNP', ',', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NNP', 'POS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

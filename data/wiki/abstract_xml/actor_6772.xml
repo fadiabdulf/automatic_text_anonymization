@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lester Vail</title>
+<link/>https://en.wikipedia.org/wiki/Lester_Vail
+<annotated>0</annotated>
+<originalabstract>Lester Vail (June 29, 1899 – November 28, 1959) was an American actor of the stage, screen, and radio from the 1920s through the 1940s.  In addition to acting in all three mediums, Vail also saw success as director on the Broadway stage, as well also being a producer of radio programs.</originalabstract>
+<abstract>Lester_Vail ( June_29_,_1899 – November_28_,_1959 ) was an_American_actor of the_stage , screen , and radio from the_1920s through the_1940s . In addition to acting in all_three_mediums , Vail also saw success as director on the_Broadway_stage , as_well_also being a_producer of radio_programs .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lester'), (7, 'Vail'), (12, '('), (13, 'June'), (18, '29'), (20, ','), (22, '1899'), (27, '–'), (29, 'November'), (38, '28'), (40, ','), (42, '1959'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (70, 'of'), (73, 'the'), (77, 'stage'), (82, ','), (84, 'screen'), (90, ','), (92, 'and'), (96, 'radio'), (102, 'from'), (107, 'the'), (111, '1920s'), (117, 'through'), (125, 'the'), (129, '1940s'), (134, '.'), (137, 'In'), (140, 'addition'), (149, 'to'), (152, 'acting'), (159, 'in'), (162, 'all'), (166, 'three'), (172, 'mediums'), (179, ','), (181, 'Vail'), (186, 'also'), (191, 'saw'), (195, 'success'), (203, 'as'), (206, 'director'), (215, 'on'), (218, 'the'), (222, 'Broadway'), (231, 'stage'), (236, ','), (238, 'as'), (241, 'well'), (246, 'also'), (251, 'being'), (257, 'a'), (259, 'producer'), (268, 'of'), (271, 'radio'), (277, 'programs'), (285, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lester Vail',0, 11), ('June 29, 1899',13, 26), ('November 28, 1959',29, 46), ('an American actor',52, 69), ('the stage',73, 82), ('the 1920s',107, 116), ('the 1940s',125, 134), ('all three mediums',162, 179), ('the Broadway stage',218, 236), ('as well also',238, 250), ('a producer',257, 267), ('radio programs',271, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', ',', 'NN', ',', 'CC', 'NN', 'IN', 'DT', 'CD', 'IN', 'DT', 'NNS', '.', 'IN', 'NN', 'TO', 'VBG', 'IN', 'DT', 'CD', 'NNS', ',', 'NNP', 'RB', 'VBD', 'NN', 'IN', 'NN', 'IN', 'DT', 'NNP', 'NN', ',', 'RB', 'RB', 'RB', 'VBG', 'DT', 'NN', 'IN', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lester'), (7, 'Vail'), (12, '('), (13, 'June'), (18, '29'), (20, ','), (22, '1899'), (27, '–'), (29, 'November'), (38, '28'), (40, ','), (42, '1959'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (70, 'of'), (73, 'the'), (77, 'stage'), (82, ','), (84, 'screen'), (90, ','), (92, 'and'), (96, 'radio'), (102, 'from'), (107, 'the'), (111, '1920s'), (117, 'through'), (125, 'the'), (129, '1940s'), (134, '.'), (137, 'In'), (140, 'addition'), (149, 'to'), (152, 'acting'), (159, 'in'), (162, 'all'), (166, 'three'), (172, 'mediums'), (179, ','), (181, 'Vail'), (186, 'also'), (191, 'saw'), (195, 'success'), (203, 'as'), (206, 'director'), (215, 'on'), (218, 'the'), (222, 'Broadway'), (231, 'stage'), (236, ','), (238, 'as'), (241, 'well'), (246, 'also'), (251, 'being'), (257, 'a'), (259, 'producer'), (268, 'of'), (271, 'radio'), (277, 'programs'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('Lester Vail', 0, 11), ('June 29, 1899', 13, 26), ('November 28, 1959', 29, 46), ('an American actor', 52, 69), ('the stage', 73, 82), ('screen', 84, 90), ('the 1920s', 107, 116), ('the 1940s', 125, 134), ('addition', 140, 148), ('all three mediums', 162, 179), ('success', 195, 202), ('director', 206, 214), ('the Broadway stage', 218, 236), ('a producer', 257, 267), ('radio programs', 271, 285)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', ',', 'NN', ',', 'CC', 'NN', 'IN', 'DT', 'NNS', 'IN', 'DT', 'NNS', '.', 'IN', 'NN', 'IN', 'VBG', 'IN', 'DT', 'CD', 'NNS', ',', 'NNP', 'RB', 'VBD', 'NN', 'IN', 'NN', 'IN', 'DT', 'NNP', 'NN', ',', 'RB', 'RB', 'RB', 'VBG', 'DT', 'NN', 'IN', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

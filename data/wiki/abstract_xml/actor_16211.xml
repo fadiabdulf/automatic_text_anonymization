@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>María Martín</title>
+<link/>https://en.wikipedia.org/wiki/Mar%C3%ADa_Mart%C3%ADn
+<annotated>0</annotated>
+<originalabstract>María Martín (born 14 July 1923) is a retired Spanish actress. After making her screen debut in 1943 Martín appeared in around eighty films during her career including Dawn of America (1951) and Bilbao (1978)</originalabstract>
+<abstract>María_Martín ( born 14_July_1923 ) is a_retired_Spanish_actress . After making her_screen_debut in 1943_Martín appeared in around_eighty_films during her_career_including_Dawn of America ( 1951_) and Bilbao_(_1978 )</abstract>
+<stanford_tokens>OrderedDict([(0, 'María'), (6, 'Martín'), (13, '('), (14, 'born'), (19, '14'), (22, 'July'), (27, '1923'), (31, ')'), (33, 'is'), (36, 'a'), (38, 'retired'), (46, 'Spanish'), (54, 'actress'), (61, '.'), (63, 'After'), (69, 'making'), (76, 'her'), (80, 'screen'), (87, 'debut'), (93, 'in'), (96, '1943'), (101, 'Martín'), (108, 'appeared'), (117, 'in'), (120, 'around'), (127, 'eighty'), (134, 'films'), (140, 'during'), (147, 'her'), (151, 'career'), (158, 'including'), (168, 'Dawn'), (173, 'of'), (176, 'America'), (184, '('), (185, '1951'), (189, ')'), (191, 'and'), (195, 'Bilbao'), (202, '('), (203, '1978'), (207, ')')])</stanford_tokens>
+<opennlp_chunks>[('María Martín',0, 12), ('14 July 1923',19, 31), ('a retired Spanish actress',36, 61), ('her screen debut',76, 92), ('1943 Martín',96, 107), ('around eighty films',120, 139), ('her career including Dawn',147, 172), ('1951)',185, 190), ('Bilbao (1978',195, 207)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'IN', 'VBG', 'PRP$', 'NN', 'NN', 'IN', 'CD', 'NNP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', 'VBG', 'NN', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'María'), (6, 'Martín'), (13, '('), (14, 'born'), (19, '14'), (22, 'July'), (27, '1923'), (31, ')'), (33, 'is'), (36, 'a'), (38, 'retired'), (46, 'Spanish'), (54, 'actress'), (61, '.'), (63, 'After'), (69, 'making'), (76, 'her'), (80, 'screen'), (87, 'debut'), (93, 'in'), (96, '1943'), (101, 'Martín'), (108, 'appeared'), (117, 'in'), (120, 'around'), (127, 'eighty'), (134, 'films'), (140, 'during'), (147, 'her'), (151, 'career'), (158, 'including'), (168, 'Dawn'), (173, 'of'), (176, 'America'), (184, '('), (185, '1951'), (189, ')'), (191, 'and'), (195, 'Bilbao'), (202, '('), (203, '1978'), (207, ')')])</spacy_tokens>
+<spacy_chunks>[('María Martín', 0, 12), ('14 July 1923', 19, 31), ('a retired Spanish actress', 36, 61), ('her screen debut', 76, 92), ('around eighty films', 120, 139), ('her career', 147, 157), ('America', 176, 183), ('Bilbao', 195, 201)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'IN', 'VBG', 'PRP$', 'NN', 'NN', 'IN', 'CD', 'NNP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', 'VBG', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Colin Chase</title>
+<link/>https://en.wikipedia.org/wiki/Colin_Chase
+<annotated>0</annotated>
+<originalabstract>Colin Chase (April 13, 1886, Lewiston, Idaho – April 24, 1937, Sawtelle, California) was an American silent film actor.</originalabstract>
+<abstract>Colin_Chase ( April_13_,_1886 , Lewiston , Idaho – April_24_,_1937_,_Sawtelle_,_California ) was an_American_silent_film_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Colin'), (6, 'Chase'), (12, '('), (13, 'April'), (19, '13'), (21, ','), (23, '1886'), (27, ','), (29, 'Lewiston'), (37, ','), (39, 'Idaho'), (45, '–'), (47, 'April'), (53, '24'), (55, ','), (57, '1937'), (61, ','), (63, 'Sawtelle'), (71, ','), (73, 'California'), (83, ')'), (85, 'was'), (89, 'an'), (92, 'American'), (101, 'silent'), (108, 'film'), (113, 'actor'), (118, '.')])</stanford_tokens>
+<opennlp_chunks>[('Colin Chase',0, 11), ('April 13, 1886',13, 27), ('April 24, 1937, Sawtelle, California',47, 83), ('an American silent film actor',89, 118)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Colin'), (6, 'Chase'), (12, '('), (13, 'April'), (19, '13'), (21, ','), (23, '1886'), (27, ','), (29, 'Lewiston'), (37, ','), (39, 'Idaho'), (45, '–'), (47, 'April'), (53, '24'), (55, ','), (57, '1937'), (61, ','), (63, 'Sawtelle'), (71, ','), (73, 'California'), (83, ')'), (85, 'was'), (89, 'an'), (92, 'American'), (101, 'silent'), (108, 'film'), (113, 'actor'), (118, '.')])</spacy_tokens>
+<spacy_chunks>[('Colin Chase', 0, 11), ('April 13, 1886', 13, 27), ('Lewiston, Idaho', 29, 44), ('April 24, 1937', 47, 61), ('Sawtelle', 63, 71), ('California', 73, 83), ('an American silent film actor', 89, 118)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

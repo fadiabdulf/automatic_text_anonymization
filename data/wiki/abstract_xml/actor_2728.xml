@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Raymond Griffith</title>
+<link/>https://en.wikipedia.org/wiki/Raymond_Griffith
+<annotated>0</annotated>
+<originalabstract>Raymond Griffith (January 23, 1895 – November 25, 1957) was a silent movie comedian. Later in his career, he worked behind the camera as writer and producer.</originalabstract>
+<abstract>Raymond_Griffith ( January_23_,_1895 – November_25_,_1957 ) was a_silent_movie_comedian . Later in his_career , he worked behind the_camera as writer_and_producer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Raymond'), (8, 'Griffith'), (17, '('), (18, 'January'), (26, '23'), (28, ','), (30, '1895'), (35, '–'), (37, 'November'), (46, '25'), (48, ','), (50, '1957'), (54, ')'), (56, 'was'), (60, 'a'), (62, 'silent'), (69, 'movie'), (75, 'comedian'), (83, '.'), (85, 'Later'), (91, 'in'), (94, 'his'), (98, 'career'), (104, ','), (106, 'he'), (109, 'worked'), (116, 'behind'), (123, 'the'), (127, 'camera'), (134, 'as'), (137, 'writer'), (144, 'and'), (148, 'producer'), (156, '.')])</stanford_tokens>
+<opennlp_chunks>[('Raymond Griffith',0, 16), ('January 23, 1895',18, 34), ('November 25, 1957',37, 54), ('a silent movie comedian',60, 83), ('his career',94, 104), ('the camera',123, 133), ('writer and producer',137, 156)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'RB', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Raymond'), (8, 'Griffith'), (17, '('), (18, 'January'), (26, '23'), (28, ','), (30, '1895'), (35, '–'), (37, 'November'), (46, '25'), (48, ','), (50, '1957'), (54, ')'), (56, 'was'), (60, 'a'), (62, 'silent'), (69, 'movie'), (75, 'comedian'), (83, '.'), (85, 'Later'), (91, 'in'), (94, 'his'), (98, 'career'), (104, ','), (106, 'he'), (109, 'worked'), (116, 'behind'), (123, 'the'), (127, 'camera'), (134, 'as'), (137, 'writer'), (144, 'and'), (148, 'producer'), (156, '.')])</spacy_tokens>
+<spacy_chunks>[('Raymond Griffith', 0, 16), ('(January', 17, 25), ('January 23, 1895', 18, 34), ('November 25, 1957', 37, 54), ('a silent movie comedian', 60, 83), ('his career', 94, 104), ('the camera', 123, 133), ('writer', 137, 143), ('producer', 148, 156)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'RB', 'IN', 'PRP$', 'NN', ',', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Glenn Strange</title>
+<link/>https://en.wikipedia.org/wiki/Glenn_Strange
+<annotated>0</annotated>
+<originalabstract>George Glenn Strange (August 16, 1899 – September 20, 1973) was an American actor who mostly appeared in Western films. He is best remembered for playing Frankenstein's monster in three Universal films during the 1940s and for his role as Sam Noonan, the popular bartender on CBS's Gunsmoke television series.</originalabstract>
+<abstract>George_Glenn_Strange ( August_16_,_1899 – September_20_,_1973 ) was an_American_actor who mostly appeared in Western_films . He is_best_remembered for playing Frankenstein 's_monster in three_Universal_films during the_1940s and for his_role as Sam_Noonan , the_popular_bartender on CBS 's_Gunsmoke_television_series .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Glenn'), (13, 'Strange'), (21, '('), (22, 'August'), (29, '16'), (31, ','), (33, '1899'), (38, '–'), (40, 'September'), (50, '20'), (52, ','), (54, '1973'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actor'), (82, 'who'), (86, 'mostly'), (93, 'appeared'), (102, 'in'), (105, 'Western'), (113, 'films'), (118, '.'), (120, 'He'), (123, 'is'), (126, 'best'), (131, 'remembered'), (142, 'for'), (146, 'playing'), (154, 'Frankenstein'), (166, '\'s'), (169, 'monster'), (177, 'in'), (180, 'three'), (186, 'Universal'), (196, 'films'), (202, 'during'), (209, 'the'), (213, '1940s'), (219, 'and'), (223, 'for'), (227, 'his'), (231, 'role'), (236, 'as'), (239, 'Sam'), (243, 'Noonan'), (249, ','), (251, 'the'), (255, 'popular'), (263, 'bartender'), (273, 'on'), (276, 'CBS'), (279, '\'s'), (282, 'Gunsmoke'), (291, 'television'), (302, 'series'), (308, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Glenn Strange',0, 20), ('August 16, 1899',22, 37), ('September 20, 1973',40, 58), ('an American actor',64, 81), ('Western films',105, 118), ('is best remembered',123, 141), ('\'s monster',166, 176), ('three Universal films',180, 201), ('the 1940s',209, 218), ('his role',227, 235), ('Sam Noonan',239, 249), ('the popular bartender',251, 272), ('\'s Gunsmoke television series',279, 308)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'RB', 'VBD', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBZ', 'JJS', 'VBN', 'IN', 'VBG', 'NNP', 'POS', 'NN', 'IN', 'CD', 'NNP', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'POS', 'NNP', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Glenn'), (13, 'Strange'), (21, '('), (22, 'August'), (29, '16'), (31, ','), (33, '1899'), (38, '–'), (40, 'September'), (50, '20'), (52, ','), (54, '1973'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'actor'), (82, 'who'), (86, 'mostly'), (93, 'appeared'), (102, 'in'), (105, 'Western'), (113, 'films'), (118, '.'), (120, 'He'), (123, 'is'), (126, 'best'), (131, 'remembered'), (142, 'for'), (146, 'playing'), (154, 'Frankenstein'), (166, "'s"), (169, 'monster'), (177, 'in'), (180, 'three'), (186, 'Universal'), (196, 'films'), (202, 'during'), (209, 'the'), (213, '1940s'), (219, 'and'), (223, 'for'), (227, 'his'), (231, 'role'), (236, 'as'), (239, 'Sam'), (243, 'Noonan'), (249, ','), (251, 'the'), (255, 'popular'), (263, 'bartender'), (273, 'on'), (276, 'CBS'), (279, "'s"), (282, 'Gunsmoke'), (291, 'television'), (302, 'series'), (308, '.')])</spacy_tokens>
+<spacy_chunks>[('George Glenn Strange', 0, 20), ('August 16, 1899', 22, 37), ('September 20, 1973', 40, 58), ('an American actor', 64, 81), ('Western films', 105, 118), ("Frankenstein's monster", 154, 176), ('three Universal films', 180, 201), ('the 1940s', 209, 218), ('his role', 227, 235), ('Sam Noonan', 239, 249), ('the popular bartender', 251, 272), ("CBS's Gunsmoke television series", 276, 308)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'RB', 'VBD', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'POS', 'NN', 'IN', 'CD', 'JJ', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'POS', 'NNP', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

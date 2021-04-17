@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Yvan Attal</title>
+<link/>https://en.wikipedia.org/wiki/Yvan_Attal
+<annotated>0</annotated>
+<originalabstract>Yvan Attal (Hebrew: איוואן אטל‎, born 4 January 1965) is an Israeli-born French actor and director.</originalabstract>
+<abstract>Yvan_Attal ( Hebrew : איוואן_אטל , born 4_January_1965 ) is an_Israeli-born_French_actor_and_director .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Yvan'), (5, 'Attal'), (11, '('), (12, 'Hebrew'), (18, ':'), (20, 'איוואן'), (27, 'אטל'), (31, ','), (33, 'born'), (38, '4'), (40, 'January'), (48, '1965'), (52, ')'), (54, 'is'), (57, 'an'), (60, 'Israeli-born'), (73, 'French'), (80, 'actor'), (86, 'and'), (90, 'director'), (98, '.')])</stanford_tokens>
+<opennlp_chunks>[('Yvan Attal',0, 10), ('איוואן אטל',20, 30), ('4 January 1965',38, 52), ('an Israeli-born French actor and director',57, 98)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', 'CD', 'CD', ',', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Yvan'), (5, 'Attal'), (11, '('), (12, 'Hebrew'), (18, ':'), (20, 'איוואן'), (27, 'אטל\u200e'), (31, ','), (33, 'born'), (38, '4'), (40, 'January'), (48, '1965'), (52, ')'), (54, 'is'), (57, 'an'), (60, 'Israeli'), (67, '-'), (68, 'born'), (73, 'French'), (80, 'actor'), (86, 'and'), (90, 'director'), (98, '.')])</spacy_tokens>
+<spacy_chunks>[('Yvan Attal', 0, 10), ('(Hebrew', 11, 18), ('איוואן', 20, 26), ('4 January 1965', 38, 52), ('an Israeli-born French actor', 57, 85), ('director', 90, 98)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', 'NNP', 'NNP', ',', 'VBD', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

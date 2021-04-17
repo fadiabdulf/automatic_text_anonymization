@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kate Jason</title>
+<link/>https://en.wikipedia.org/wiki/Kate_Jason
+<annotated>0</annotated>
+<originalabstract>Katie Jason (sometimes credited as Kate Jason-Omodei) is an Australian actress.
+She is probably best known for her role as Martha Eaves in the television series Prisoner.
+She has also appeared in Special Squad, Neighbours, Blue Heelers and Marshall Law.</originalabstract>
+<abstract>Katie_Jason ( sometimes_credited as Kate_Jason-Omodei ) is an_Australian_actress . She is_probably_best_known for her_role as Martha_Eaves in the_television_series_Prisoner . She has_also_appeared in Special_Squad , Neighbours , Blue_Heelers_and_Marshall_Law .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Katie'), (6, 'Jason'), (12, '('), (13, 'sometimes'), (23, 'credited'), (32, 'as'), (35, 'Kate'), (40, 'Jason-Omodei'), (52, ')'), (54, 'is'), (57, 'an'), (60, 'Australian'), (71, 'actress'), (78, '.'), (80, 'She'), (84, 'is'), (87, 'probably'), (96, 'best'), (101, 'known'), (107, 'for'), (111, 'her'), (115, 'role'), (120, 'as'), (123, 'Martha'), (130, 'Eaves'), (136, 'in'), (139, 'the'), (143, 'television'), (154, 'series'), (161, 'Prisoner'), (169, '.'), (171, 'She'), (175, 'has'), (179, 'also'), (184, 'appeared'), (193, 'in'), (196, 'Special'), (204, 'Squad'), (209, ','), (211, 'Neighbours'), (221, ','), (223, 'Blue'), (228, 'Heelers'), (236, 'and'), (240, 'Marshall'), (249, 'Law'), (252, '.')])</stanford_tokens>
+<opennlp_chunks>[('Katie Jason',0, 11), ('sometimes credited',13, 31), ('Kate Jason-Omodei',35, 52), ('an Australian actress',57, 78), ('is probably best known',84, 106), ('her role',111, 119), ('Martha Eaves',123, 135), ('the television series Prisoner',139, 169), ('has also appeared',175, 192), ('Special Squad',196, 209), ('Blue Heelers and Marshall Law',223, 252)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'NN', ',', 'NNP', ',', 'NNP', 'NNPS', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Katie'), (6, 'Jason'), (12, '('), (13, 'sometimes'), (23, 'credited'), (32, 'as'), (35, 'Kate'), (40, 'Jason'), (45, '-'), (46, 'Omodei'), (52, ')'), (54, 'is'), (57, 'an'), (60, 'Australian'), (71, 'actress'), (78, '.'), (80, 'She'), (84, 'is'), (87, 'probably'), (96, 'best'), (101, 'known'), (107, 'for'), (111, 'her'), (115, 'role'), (120, 'as'), (123, 'Martha'), (130, 'Eaves'), (136, 'in'), (139, 'the'), (143, 'television'), (154, 'series'), (161, 'Prisoner'), (169, '.'), (171, 'She'), (175, 'has'), (179, 'also'), (184, 'appeared'), (193, 'in'), (196, 'Special'), (204, 'Squad'), (209, ','), (211, 'Neighbours'), (221, ','), (223, 'Blue'), (228, 'Heelers'), (236, 'and'), (240, 'Marshall'), (249, 'Law'), (252, '.')])</spacy_tokens>
+<spacy_chunks>[('Katie Jason', 0, 11), ('Kate Jason-Omodei', 35, 52), ('an Australian actress', 57, 78), ('her role', 111, 119), ('Martha Eaves', 123, 135), ('the television series', 139, 160), ('Prisoner', 161, 169), ('Special Squad', 196, 209), ('Neighbours', 211, 221), ('Blue Heelers', 223, 235), ('Marshall Law', 240, 252)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'HYPH', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNPS', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

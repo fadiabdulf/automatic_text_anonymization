@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lola Dueñas</title>
+<link/>https://en.wikipedia.org/wiki/Lola_Due%C3%B1as
+<annotated>0</annotated>
+<originalabstract>María Dolores Dueñas Navarro (Madrid, 6 October 1971) better known as Lola Dueñas is a Spanish actress. Since 2002, she has worked regularly with the director Pedro Almodóvar.
+She is the daughter of Nicolás Dueñas and studied in the Teatro de La Abadía of Madrid.</originalabstract>
+<abstract>María_Dolores_Dueñas_Navarro ( Madrid , 6_October_1971 ) better_known as Lola_Dueñas is a_Spanish_actress . Since 2002 , she has_worked regularly with the_director_Pedro_Almodóvar . She is the_daughter of Nicolás_Dueñas and studied in the_Teatro_de La_Abadía of Madrid .</abstract>
+<stanford_tokens>OrderedDict([(0, 'María'), (6, 'Dolores'), (14, 'Dueñas'), (21, 'Navarro'), (29, '('), (30, 'Madrid'), (36, ','), (38, '6'), (40, 'October'), (48, '1971'), (52, ')'), (54, 'better'), (61, 'known'), (67, 'as'), (70, 'Lola'), (75, 'Dueñas'), (82, 'is'), (85, 'a'), (87, 'Spanish'), (95, 'actress'), (102, '.'), (104, 'Since'), (110, '2002'), (114, ','), (116, 'she'), (120, 'has'), (124, 'worked'), (131, 'regularly'), (141, 'with'), (146, 'the'), (150, 'director'), (159, 'Pedro'), (165, 'Almodóvar'), (174, '.'), (176, 'She'), (180, 'is'), (183, 'the'), (187, 'daughter'), (196, 'of'), (199, 'Nicolás'), (207, 'Dueñas'), (214, 'and'), (218, 'studied'), (226, 'in'), (229, 'the'), (233, 'Teatro'), (240, 'de'), (243, 'La'), (246, 'Abadía'), (253, 'of'), (256, 'Madrid'), (262, '.')])</stanford_tokens>
+<opennlp_chunks>[('María Dolores Dueñas Navarro',0, 28), ('6 October 1971',38, 52), ('better known',54, 66), ('Lola Dueñas',70, 81), ('a Spanish actress',85, 102), ('has worked',120, 130), ('the director Pedro Almodóvar',146, 174), ('the daughter',183, 195), ('Nicolás Dueñas',199, 213), ('the Teatro de',229, 242), ('La Abadía',243, 252)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBZ', 'VBN', 'RB', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNPS', 'NNPS', 'CC', 'VBN', 'IN', 'DT', 'FW', 'FW', 'FW', 'FW', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'María'), (6, 'Dolores'), (14, 'Dueñas'), (21, 'Navarro'), (29, '('), (30, 'Madrid'), (36, ','), (38, '6'), (40, 'October'), (48, '1971'), (52, ')'), (54, 'better'), (61, 'known'), (67, 'as'), (70, 'Lola'), (75, 'Dueñas'), (82, 'is'), (85, 'a'), (87, 'Spanish'), (95, 'actress'), (102, '.'), (104, 'Since'), (110, '2002'), (114, ','), (116, 'she'), (120, 'has'), (124, 'worked'), (131, 'regularly'), (141, 'with'), (146, 'the'), (150, 'director'), (159, 'Pedro'), (165, 'Almodóvar'), (174, '.'), (176, 'She'), (180, 'is'), (183, 'the'), (187, 'daughter'), (196, 'of'), (199, 'Nicolás'), (207, 'Dueñas'), (214, 'and'), (218, 'studied'), (226, 'in'), (229, 'the'), (233, 'Teatro'), (240, 'de'), (243, 'La'), (246, 'Abadía'), (253, 'of'), (256, 'Madrid'), (262, '.')])</spacy_tokens>
+<spacy_chunks>[('María Dolores Dueñas Navarro', 0, 28), ('(Madrid', 29, 36), ('6 October 1971', 38, 52), ('Lola Dueñas', 70, 81), ('a Spanish actress', 85, 102), ('the director', 146, 158), ('Pedro Almodóvar', 159, 174), ('the daughter', 183, 195), ('Nicolás Dueñas', 199, 213), ('the Teatro de La Abadía', 229, 252)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'RBR', 'VBN', 'IN', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBZ', 'VBN', 'RB', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'DT', 'NNP', 'FW', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

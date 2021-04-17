@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rosanne Hull-Brown</title>
+<link/>https://en.wikipedia.org/wiki/Rosanne_Hull-Brown
+<annotated>0</annotated>
+<originalabstract>Rosanne Hull-Brown is an Australian actress, who remains best known for her performance as Merle Jones during the final year (1986) of the television drama series Prisoner.
+She subsequently left acting and became a music teacher.</originalabstract>
+<abstract>Rosanne_Hull-Brown is an_Australian_actress , who remains_best_known for her_performance as Merle_Jones during the_final_year ( 1986 ) of the_television_drama_series_Prisoner . She subsequently left_acting_and_became a_music_teacher .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rosanne'), (8, 'Hull-Brown'), (19, 'is'), (22, 'an'), (25, 'Australian'), (36, 'actress'), (43, ','), (45, 'who'), (49, 'remains'), (57, 'best'), (62, 'known'), (68, 'for'), (72, 'her'), (76, 'performance'), (88, 'as'), (91, 'Merle'), (97, 'Jones'), (103, 'during'), (110, 'the'), (114, 'final'), (120, 'year'), (125, '('), (126, '1986'), (130, ')'), (132, 'of'), (135, 'the'), (139, 'television'), (150, 'drama'), (156, 'series'), (163, 'Prisoner'), (171, '.'), (173, 'She'), (177, 'subsequently'), (190, 'left'), (195, 'acting'), (202, 'and'), (206, 'became'), (213, 'a'), (215, 'music'), (221, 'teacher'), (228, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rosanne Hull-Brown',0, 18), ('an Australian actress',22, 43), ('remains best known',49, 67), ('her performance',72, 87), ('Merle Jones',91, 102), ('the final year',110, 124), ('the television drama series Prisoner',135, 171), ('left acting and became',190, 212), ('a music teacher',213, 228)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', 'IN', 'DT', 'NN', 'NN', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'VBG', 'CC', 'VBD', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rosanne'), (8, 'Hull'), (12, '-'), (13, 'Brown'), (19, 'is'), (22, 'an'), (25, 'Australian'), (36, 'actress'), (43, ','), (45, 'who'), (49, 'remains'), (57, 'best'), (62, 'known'), (68, 'for'), (72, 'her'), (76, 'performance'), (88, 'as'), (91, 'Merle'), (97, 'Jones'), (103, 'during'), (110, 'the'), (114, 'final'), (120, 'year'), (125, '('), (126, '1986'), (130, ')'), (132, 'of'), (135, 'the'), (139, 'television'), (150, 'drama'), (156, 'series'), (163, 'Prisoner'), (171, '.'), (173, 'She'), (177, 'subsequently'), (190, 'left'), (195, 'acting'), (202, 'and'), (206, 'became'), (213, 'a'), (215, 'music'), (221, 'teacher'), (228, '.')])</spacy_tokens>
+<spacy_chunks>[('Rosanne Hull-Brown', 0, 18), ('an Australian actress', 22, 43), ('her performance', 72, 87), ('Merle Jones', 91, 102), ('the final year', 110, 124), ('the television drama series', 135, 162), ('Prisoner', 163, 171), ('a music teacher', 213, 228)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', '.', 'PRP', 'RB', 'VBD', 'VBG', 'CC', 'VBD', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

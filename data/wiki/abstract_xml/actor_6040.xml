@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Matthew Settle</title>
+<link/>https://en.wikipedia.org/wiki/Matthew_Settle
+<annotated>0</annotated>
+<originalabstract>Jeffrey Matthew Settle (born September 17, 1969) is an American actor. He is known for playing Captain Ronald Speirs on the HBO miniseries Band of Brothers and Rufus Humphrey on the CW teen drama series Gossip Girl.</originalabstract>
+<abstract>Jeffrey_Matthew Settle ( born September_17_,_1969 ) is an_American_actor . He is_known for playing Captain_Ronald_Speirs on the_HBO_miniseries_Band of Brothers and Rufus_Humphrey on the_CW_teen_drama_series_Gossip_Girl .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jeffrey'), (8, 'Matthew'), (16, 'Settle'), (23, '('), (24, 'born'), (29, 'September'), (39, '17'), (41, ','), (43, '1969'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'is'), (77, 'known'), (83, 'for'), (87, 'playing'), (95, 'Captain'), (103, 'Ronald'), (110, 'Speirs'), (117, 'on'), (120, 'the'), (124, 'HBO'), (128, 'miniseries'), (139, 'Band'), (144, 'of'), (147, 'Brothers'), (156, 'and'), (160, 'Rufus'), (166, 'Humphrey'), (175, 'on'), (178, 'the'), (182, 'CW'), (185, 'teen'), (190, 'drama'), (196, 'series'), (203, 'Gossip'), (210, 'Girl'), (214, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jeffrey Matthew',0, 15), ('September 17, 1969',29, 47), ('an American actor',52, 69), ('is known',74, 82), ('Captain Ronald Speirs',95, 116), ('the HBO miniseries Band',120, 143), ('Rufus Humphrey',160, 174), ('the CW teen drama series Gossip Girl',178, 214)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VB', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNS', 'NN', 'IN', 'NN', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jeffrey'), (8, 'Matthew'), (16, 'Settle'), (23, '('), (24, 'born'), (29, 'September'), (39, '17'), (41, ','), (43, '1969'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'is'), (77, 'known'), (83, 'for'), (87, 'playing'), (95, 'Captain'), (103, 'Ronald'), (110, 'Speirs'), (117, 'on'), (120, 'the'), (124, 'HBO'), (128, 'miniseries'), (139, 'Band'), (144, 'of'), (147, 'Brothers'), (156, 'and'), (160, 'Rufus'), (166, 'Humphrey'), (175, 'on'), (178, 'the'), (182, 'CW'), (185, 'teen'), (190, 'drama'), (196, 'series'), (203, 'Gossip'), (210, 'Girl'), (214, '.')])</spacy_tokens>
+<spacy_chunks>[('Jeffrey Matthew Settle', 0, 22), ('September 17, 1969', 29, 47), ('an American actor', 52, 69), ('Captain Ronald Speirs', 95, 116), ('Band of Brothers', 139, 155), ('Rufus Humphrey', 160, 174), ('the CW teen drama series', 178, 202), ('Gossip Girl', 203, 214)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'VBZ', 'NNP', 'IN', 'NNPS', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

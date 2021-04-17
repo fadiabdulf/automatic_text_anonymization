@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harry Beresford</title>
+<link/>https://en.wikipedia.org/wiki/Harry_Beresford
+<annotated>0</annotated>
+<originalabstract>Harry J. Beresford (November 4, 1863 – October 4, 1944) was an English-born actor on the American stage and in motion pictures. He used the professional name Harry J. Morgan early in his career.</originalabstract>
+<abstract>Harry_J._Beresford ( November_4_,_1863 – October_4_,_1944 ) was an_English-born_actor on the_American_stage and in motion_pictures . He used the_professional_name_Harry_J._Morgan early in his_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harry'), (6, 'J.'), (9, 'Beresford'), (19, '('), (20, 'November'), (29, '4'), (30, ','), (32, '1863'), (37, '–'), (39, 'October'), (47, '4'), (48, ','), (50, '1944'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'English-born'), (76, 'actor'), (82, 'on'), (85, 'the'), (89, 'American'), (98, 'stage'), (104, 'and'), (108, 'in'), (111, 'motion'), (118, 'pictures'), (126, '.'), (128, 'He'), (131, 'used'), (136, 'the'), (140, 'professional'), (153, 'name'), (158, 'Harry'), (164, 'J.'), (167, 'Morgan'), (174, 'early'), (180, 'in'), (183, 'his'), (187, 'career'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('Harry J. Beresford',0, 18), ('November 4, 1863',20, 36), ('October 4, 1944',39, 54), ('an English-born actor',60, 81), ('the American stage',85, 103), ('motion pictures',111, 126), ('the professional name Harry J. Morgan',136, 173), ('his career',183, 193)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'CC', 'IN', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', 'RB', 'IN', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harry'), (6, 'J.'), (9, 'Beresford'), (19, '('), (20, 'November'), (29, '4'), (30, ','), (32, '1863'), (37, '–'), (39, 'October'), (47, '4'), (48, ','), (50, '1944'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'English'), (70, '-'), (71, 'born'), (76, 'actor'), (82, 'on'), (85, 'the'), (89, 'American'), (98, 'stage'), (104, 'and'), (108, 'in'), (111, 'motion'), (118, 'pictures'), (126, '.'), (128, 'He'), (131, 'used'), (136, 'the'), (140, 'professional'), (153, 'name'), (158, 'Harry'), (164, 'J.'), (167, 'Morgan'), (174, 'early'), (180, 'in'), (183, 'his'), (187, 'career'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry J. Beresford', 0, 18), ('November 4, 1863', 20, 36), ('October 4, 1944', 39, 54), ('an English-born actor', 60, 81), ('the American stage', 85, 103), ('motion pictures', 111, 126), ('the professional name', 136, 157), ('Harry J. Morgan', 158, 173), ('his career', 183, 193)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'CC', 'IN', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'NNP', 'RB', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

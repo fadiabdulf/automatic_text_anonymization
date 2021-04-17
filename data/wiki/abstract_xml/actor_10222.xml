@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean-Louis Trintignant</title>
+<link/>https://en.wikipedia.org/wiki/Jean-Louis_Trintignant
+<annotated>0</annotated>
+<originalabstract>Jean-Louis Xavier Trintignant (French pronunciation: ​[tʁɛ̃tiɲɑ̃]; born 11 December 1930) is a retired French actor. He won the Best Actor Award at the 1969 Cannes Film Festival as well as the Best Actor Award at the César Awards 2013.</originalabstract>
+<abstract>Jean-Louis_Xavier_Trintignant ( French_pronunciation : [_tʁɛ̃tiɲɑ̃_] ; born_11_December_1930 ) is a_retired_French_actor . He won the_Best_Actor_Award at the_1969_Cannes_Film_Festival as_well as the_Best_Actor_Award at the_César Awards 2013 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean-Louis'), (11, 'Xavier'), (18, 'Trintignant'), (30, '('), (31, 'French'), (38, 'pronunciation'), (51, ':'), (54, '['), (55, 'tʁɛ̃tiɲɑ̃'), (64, ']'), (65, ';'), (67, 'born'), (72, '11'), (75, 'December'), (84, '1930'), (88, ')'), (90, 'is'), (93, 'a'), (95, 'retired'), (103, 'French'), (110, 'actor'), (115, '.'), (117, 'He'), (120, 'won'), (124, 'the'), (128, 'Best'), (133, 'Actor'), (139, 'Award'), (145, 'at'), (148, 'the'), (152, '1969'), (157, 'Cannes'), (164, 'Film'), (169, 'Festival'), (178, 'as'), (181, 'well'), (186, 'as'), (189, 'the'), (193, 'Best'), (198, 'Actor'), (204, 'Award'), (210, 'at'), (213, 'the'), (217, 'César'), (223, 'Awards'), (230, '2013'), (234, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean-Louis Xavier Trintignant',0, 29), ('French pronunciation',31, 51), ('[tʁɛ̃tiɲɑ̃]',54, 65), ('born 11 December 1930',67, 88), ('a retired French actor',93, 115), ('the Best Actor Award',124, 144), ('the 1969 Cannes Film Festival',148, 177), ('as well',178, 185), ('the Best Actor Award',189, 209), ('the César',213, 222)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NN', ':', '-LRB-', 'NN', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJS', 'NN', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNP', 'RB', 'RB', 'IN', 'DT', 'JJS', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNS', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (4, '-'), (5, 'Louis'), (11, 'Xavier'), (18, 'Trintignant'), (30, '('), (31, 'French'), (38, 'pronunciation'), (51, ':'), (53, '\u200b[tʁɛ̃tiɲɑ̃'), (64, ']'), (65, ';'), (67, 'born'), (72, '11'), (75, 'December'), (84, '1930'), (88, ')'), (90, 'is'), (93, 'a'), (95, 'retired'), (103, 'French'), (110, 'actor'), (115, '.'), (117, 'He'), (120, 'won'), (124, 'the'), (128, 'Best'), (133, 'Actor'), (139, 'Award'), (145, 'at'), (148, 'the'), (152, '1969'), (157, 'Cannes'), (164, 'Film'), (169, 'Festival'), (178, 'as'), (181, 'well'), (186, 'as'), (189, 'the'), (193, 'Best'), (198, 'Actor'), (204, 'Award'), (210, 'at'), (213, 'the'), (217, 'César'), (223, 'Awards'), (230, '2013'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean-Louis Xavier Trintignant', 0, 29), ('French pronunciation', 31, 51), ('\u200b[tʁɛ̃tiɲɑ̃', 53, 64), ('11 December 1930', 72, 88), ('a retired French actor', 93, 115), ('the Best Actor Award', 124, 144), ('the 1969 Cannes Film Festival', 148, 177), ('the César Awards', 213, 229), ('César Awards 2013', 217, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', 'NNP', '-LRB-', 'JJ', 'NN', ':', 'NNP', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'VBN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNP', 'RB', 'RB', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

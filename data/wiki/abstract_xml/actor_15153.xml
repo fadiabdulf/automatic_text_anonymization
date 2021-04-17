@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hilda Simms</title>
+<link/>https://en.wikipedia.org/wiki/Hilda_Simms
+<annotated>0</annotated>
+<originalabstract>Hilda Simms (born Hilda Moses, April 15, 1918 – February 6, 1994) was an African-American stage actress, best known for her starring role on Broadway in Anna Lucasta.</originalabstract>
+<abstract>Hilda_Simms ( born Hilda_Moses , April_15_,_1918 – February_6_,_1994 ) was an_African-American_stage_actress , best_known for her_starring_role on Broadway in Anna_Lucasta .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hilda'), (6, 'Simms'), (12, '('), (13, 'born'), (18, 'Hilda'), (24, 'Moses'), (29, ','), (31, 'April'), (37, '15'), (39, ','), (41, '1918'), (46, '–'), (48, 'February'), (57, '6'), (58, ','), (60, '1994'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'African-American'), (90, 'stage'), (96, 'actress'), (103, ','), (105, 'best'), (110, 'known'), (116, 'for'), (120, 'her'), (124, 'starring'), (133, 'role'), (138, 'on'), (141, 'Broadway'), (150, 'in'), (153, 'Anna'), (158, 'Lucasta'), (165, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hilda Simms',0, 11), ('Hilda Moses',18, 29), ('April 15, 1918',31, 45), ('February 6, 1994',48, 64), ('an African-American stage actress',70, 103), ('best known',105, 115), ('her starring role',120, 137), ('Anna Lucasta',153, 165)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hilda'), (6, 'Simms'), (12, '('), (13, 'born'), (18, 'Hilda'), (24, 'Moses'), (29, ','), (31, 'April'), (37, '15'), (39, ','), (41, '1918'), (46, '–'), (48, 'February'), (57, '6'), (58, ','), (60, '1994'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'African'), (80, '-'), (81, 'American'), (90, 'stage'), (96, 'actress'), (103, ','), (105, 'best'), (110, 'known'), (116, 'for'), (120, 'her'), (124, 'starring'), (133, 'role'), (138, 'on'), (141, 'Broadway'), (150, 'in'), (153, 'Anna'), (158, 'Lucasta'), (165, '.')])</spacy_tokens>
+<spacy_chunks>[('Hilda Simms', 0, 11), ('born Hilda Moses', 13, 29), ('April 15, 1918', 31, 45), ('February 6, 1994', 48, 64), ('an African-American stage actress', 70, 103), ('her starring role', 120, 137), ('Broadway', 141, 149), ('Anna Lucasta', 153, 165)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

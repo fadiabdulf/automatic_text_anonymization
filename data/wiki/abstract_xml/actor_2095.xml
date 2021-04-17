@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Don Epperson</title>
+<link/>https://en.wikipedia.org/wiki/Don_Epperson
+<annotated>0</annotated>
+<originalabstract>Don Epperson (born.January 1938 - died.1973 in Arizona) was an American singer and actor. His daughter, Brenda Epperson is most well known for portraying Ashley Abbott on The Young and the Restless.</originalabstract>
+<abstract>Don_Epperson ( born.January_1938 - died .1973 in Arizona ) was an_American_singer_and_actor . His_daughter , Brenda_Epperson is most_well known for portraying Ashley_Abbott on The_Young and the_Restless .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Don'), (4, 'Epperson'), (13, '('), (14, 'born.January'), (27, '1938'), (32, '-'), (34, 'died'), (38, '.1973'), (44, 'in'), (47, 'Arizona'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'singer'), (79, 'and'), (83, 'actor'), (88, '.'), (90, 'His'), (94, 'daughter'), (102, ','), (104, 'Brenda'), (111, 'Epperson'), (120, 'is'), (123, 'most'), (128, 'well'), (133, 'known'), (139, 'for'), (143, 'portraying'), (154, 'Ashley'), (161, 'Abbott'), (168, 'on'), (171, 'The'), (175, 'Young'), (181, 'and'), (185, 'the'), (189, 'Restless'), (197, '.')])</stanford_tokens>
+<opennlp_chunks>[('Don Epperson',0, 12), ('born.January 1938',14, 31), ('an American singer and actor',60, 88), ('His daughter',90, 102), ('Brenda Epperson',104, 119), ('most well',123, 132), ('Ashley Abbott',154, 167), ('The Young',171, 180), ('the Restless',185, 197)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'JJ', 'CD', ':', 'VBD', 'CD', 'IN', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', ',', 'NNP', 'NNP', 'VBZ', 'RBS', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'CC', 'DT', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Don'), (4, 'Epperson'), (13, '('), (14, 'born'), (18, '.'), (19, 'January'), (27, '1938'), (32, '-'), (34, 'died.1973'), (44, 'in'), (47, 'Arizona'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'singer'), (79, 'and'), (83, 'actor'), (88, '.'), (90, 'His'), (94, 'daughter'), (102, ','), (104, 'Brenda'), (111, 'Epperson'), (120, 'is'), (123, 'most'), (128, 'well'), (133, 'known'), (139, 'for'), (143, 'portraying'), (154, 'Ashley'), (161, 'Abbott'), (168, 'on'), (171, 'The'), (175, 'Young'), (181, 'and'), (185, 'the'), (189, 'Restless'), (197, '.')])</spacy_tokens>
+<spacy_chunks>[('Don Epperson', 0, 12), ('January', 19, 26), ('died.1973', 34, 43), ('Arizona', 47, 54), ('an American singer', 60, 78), ('His daughter', 90, 102), ('Brenda Epperson', 104, 119), ('Ashley Abbott', 154, 167), ('The Young and the Restless', 171, 197)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', '.', 'NNP', 'CD', ',', 'NNP', 'IN', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', ',', 'NNP', 'NNP', 'VBZ', 'RBS', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'DT', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

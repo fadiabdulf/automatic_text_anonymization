@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jane Clifton</title>
+<link/>https://en.wikipedia.org/wiki/Jane_Clifton
+<annotated>0</annotated>
+<originalabstract>Jane Clifton (born 10 April 1949) is an Australian actress, singer, writer and voice artist. Clifton was born in Gibraltar to British Army parents. In 1961 she emigrated to Perth, Australia, before later settling in Melbourne. She became a naturalised citizen of Australia in 1992.</originalabstract>
+<abstract>Jane_Clifton ( born 10_April_1949 ) is an_Australian_actress , singer_,_writer_and_voice_artist . Clifton was_born in Gibraltar to British_Army_parents . In 1961 she emigrated to Perth , Australia , before_later_settling in Melbourne . She became a_naturalised_citizen of Australia in 1992 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jane'), (5, 'Clifton'), (13, '('), (14, 'born'), (19, '10'), (22, 'April'), (28, '1949'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'Australian'), (51, 'actress'), (58, ','), (60, 'singer'), (66, ','), (68, 'writer'), (75, 'and'), (79, 'voice'), (85, 'artist'), (91, '.'), (93, 'Clifton'), (101, 'was'), (105, 'born'), (110, 'in'), (113, 'Gibraltar'), (123, 'to'), (126, 'British'), (134, 'Army'), (139, 'parents'), (146, '.'), (148, 'In'), (151, '1961'), (156, 'she'), (160, 'emigrated'), (170, 'to'), (173, 'Perth'), (178, ','), (180, 'Australia'), (189, ','), (191, 'before'), (198, 'later'), (204, 'settling'), (213, 'in'), (216, 'Melbourne'), (225, '.'), (227, 'She'), (231, 'became'), (238, 'a'), (240, 'naturalised'), (252, 'citizen'), (260, 'of'), (263, 'Australia'), (273, 'in'), (276, '1992'), (280, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jane Clifton',0, 12), ('10 April 1949',19, 32), ('an Australian actress',37, 58), ('singer, writer and voice artist',60, 91), ('was born',101, 109), ('British Army parents',126, 146), ('before later settling',191, 212), ('a naturalised citizen',238, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'TO', 'JJ', 'NNP', 'NNS', '.', 'IN', 'CD', 'PRP', 'VBD', 'TO', 'NNP', ',', 'NNP', ',', 'RB', 'RB', 'VBG', 'IN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jane'), (5, 'Clifton'), (13, '('), (14, 'born'), (19, '10'), (22, 'April'), (28, '1949'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'Australian'), (51, 'actress'), (58, ','), (60, 'singer'), (66, ','), (68, 'writer'), (75, 'and'), (79, 'voice'), (85, 'artist'), (91, '.'), (93, 'Clifton'), (101, 'was'), (105, 'born'), (110, 'in'), (113, 'Gibraltar'), (123, 'to'), (126, 'British'), (134, 'Army'), (139, 'parents'), (146, '.'), (148, 'In'), (151, '1961'), (156, 'she'), (160, 'emigrated'), (170, 'to'), (173, 'Perth'), (178, ','), (180, 'Australia'), (189, ','), (191, 'before'), (198, 'later'), (204, 'settling'), (213, 'in'), (216, 'Melbourne'), (225, '.'), (227, 'She'), (231, 'became'), (238, 'a'), (240, 'naturalised'), (252, 'citizen'), (260, 'of'), (263, 'Australia'), (273, 'in'), (276, '1992'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('Jane Clifton', 0, 12), ('10 April 1949', 19, 32), ('an Australian actress', 37, 58), ('singer', 60, 66), ('writer', 68, 74), ('voice artist', 79, 91), ('Gibraltar', 113, 122), ('British Army parents', 126, 146), ('Perth,', 173, 179), ('Melbourne', 216, 225), ('a naturalised citizen', 238, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'IN', 'JJ', 'NNP', 'NNS', '.', 'IN', 'CD', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'IN', 'RB', 'VBG', 'IN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'VBN', 'NN', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>A. Michael Baldwin</title>
+<link/>https://en.wikipedia.org/wiki/A._Michael_Baldwin
+<annotated>0</annotated>
+<originalabstract>A. Michael Baldwin (born Michael M. Baldwin; April 4, 1963) is an American actor, producer, and screenwriter. He came to public notice as a child actor, appearing as Mike Pearson in Phantasm (1979) and its sequels.</originalabstract>
+<abstract>A._Michael_Baldwin ( born Michael_M._Baldwin ; April_4_,_1963 ) is an_American_actor , producer , and screenwriter . He came to public_notice as a_child_actor , appearing as Mike_Pearson in Phantasm_(_1979_) and its_sequels .</abstract>
+<stanford_tokens>OrderedDict([(0, 'A.'), (3, 'Michael'), (11, 'Baldwin'), (19, '('), (20, 'born'), (25, 'Michael'), (33, 'M.'), (36, 'Baldwin'), (43, ';'), (45, 'April'), (51, '4'), (52, ','), (54, '1963'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'American'), (75, 'actor'), (80, ','), (82, 'producer'), (90, ','), (92, 'and'), (96, 'screenwriter'), (108, '.'), (110, 'He'), (113, 'came'), (118, 'to'), (121, 'public'), (128, 'notice'), (135, 'as'), (138, 'a'), (140, 'child'), (146, 'actor'), (151, ','), (153, 'appearing'), (163, 'as'), (166, 'Mike'), (171, 'Pearson'), (179, 'in'), (182, 'Phantasm'), (191, '('), (192, '1979'), (196, ')'), (198, 'and'), (202, 'its'), (206, 'sequels'), (213, '.')])</stanford_tokens>
+<opennlp_chunks>[('A. Michael Baldwin',0, 18), ('Michael M. Baldwin',25, 43), ('April 4, 1963',45, 58), ('an American actor',63, 80), ('public notice',121, 134), ('a child actor',138, 151), ('Mike Pearson',166, 178), ('Phantasm (1979)',182, 197), ('its sequels',202, 213)]</opennlp_chunks>
+<stanford_pos>['NN', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'TO', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', ',', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'PRP$', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'A.'), (3, 'Michael'), (11, 'Baldwin'), (19, '('), (20, 'born'), (25, 'Michael'), (33, 'M.'), (36, 'Baldwin'), (43, ';'), (45, 'April'), (51, '4'), (52, ','), (54, '1963'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'American'), (75, 'actor'), (80, ','), (82, 'producer'), (90, ','), (92, 'and'), (96, 'screenwriter'), (108, '.'), (110, 'He'), (113, 'came'), (118, 'to'), (121, 'public'), (128, 'notice'), (135, 'as'), (138, 'a'), (140, 'child'), (146, 'actor'), (151, ','), (153, 'appearing'), (163, 'as'), (166, 'Mike'), (171, 'Pearson'), (179, 'in'), (182, 'Phantasm'), (191, '('), (192, '1979'), (196, ')'), (198, 'and'), (202, 'its'), (206, 'sequels'), (213, '.')])</spacy_tokens>
+<spacy_chunks>[('A. Michael Baldwin', 0, 18), ('Michael M. Baldwin', 25, 43), ('April 4, 1963', 45, 58), ('an American actor', 63, 80), ('producer', 82, 90), ('screenwriter', 96, 108), ('public notice', 121, 134), ('a child actor', 138, 151), ('Mike Pearson', 166, 178), ('Phantasm', 182, 190), ('its sequels', 202, 213)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', ',', 'VBG', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'PRP$', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

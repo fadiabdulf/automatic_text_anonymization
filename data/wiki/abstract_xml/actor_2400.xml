@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Patrick Fugit</title>
+<link/>https://en.wikipedia.org/wiki/Patrick_Fugit
+<annotated>0</annotated>
+<originalabstract>Patrick Raymond Fugit (; born October 27, 1982) is an American actor, known for his roles in the films Almost Famous (2000), White Oleander (2002), Saved! (2004) and Wristcutters: A Love Story (2007). Since  2016, he has starred in the Cinemax series Outcast.</originalabstract>
+<abstract>Patrick_Raymond_Fugit ( ; born October_27_,_1982 ) is an_American_actor , known for his_roles in the_films Almost Famous ( 2000 ) , White_Oleander ( 2002 ) , Saved ! (_2004_)_and_Wristcutters : A_Love_Story_(_2007_) . Since 2016 , he has_starred in the_Cinemax_series_Outcast .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Patrick'), (8, 'Raymond'), (16, 'Fugit'), (22, '('), (23, ';'), (25, 'born'), (30, 'October'), (38, '27'), (40, ','), (42, '1982'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, ','), (70, 'known'), (76, 'for'), (80, 'his'), (84, 'roles'), (90, 'in'), (93, 'the'), (97, 'films'), (103, 'Almost'), (110, 'Famous'), (117, '('), (118, '2000'), (122, ')'), (123, ','), (125, 'White'), (131, 'Oleander'), (140, '('), (141, '2002'), (145, ')'), (146, ','), (148, 'Saved'), (153, '!'), (155, '('), (156, '2004'), (160, ')'), (162, 'and'), (166, 'Wristcutters'), (178, ':'), (180, 'A'), (182, 'Love'), (187, 'Story'), (193, '('), (194, '2007'), (198, ')'), (199, '.'), (201, 'Since'), (208, '2016'), (212, ','), (214, 'he'), (217, 'has'), (221, 'starred'), (229, 'in'), (232, 'the'), (236, 'Cinemax'), (244, 'series'), (251, 'Outcast'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Patrick Raymond Fugit',0, 21), ('October 27, 1982',30, 46), ('an American actor',51, 68), ('his roles',80, 89), ('the films',93, 102), ('White Oleander',125, 139), ('(2004) and Wristcutters',155, 178), ('A Love Story (2007)',180, 199), ('has starred',217, 228), ('the Cinemax series Outcast',232, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'RB', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'VBN', '.', '-LRB-', 'CD', '-RRB-', 'CC', 'NNS', ':', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'CD', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Patrick'), (8, 'Raymond'), (16, 'Fugit'), (22, '(;'), (25, 'born'), (30, 'October'), (38, '27'), (40, ','), (42, '1982'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, ','), (70, 'known'), (76, 'for'), (80, 'his'), (84, 'roles'), (90, 'in'), (93, 'the'), (97, 'films'), (103, 'Almost'), (110, 'Famous'), (117, '('), (118, '2000'), (122, ')'), (123, ','), (125, 'White'), (131, 'Oleander'), (140, '('), (141, '2002'), (145, ')'), (146, ','), (148, 'Saved'), (153, '!'), (155, '('), (156, '2004'), (160, ')'), (162, 'and'), (166, 'Wristcutters'), (178, ':'), (180, 'A'), (182, 'Love'), (187, 'Story'), (193, '('), (194, '2007'), (198, ')'), (199, '.'), (201, 'Since'), (208, '2016'), (212, ','), (214, 'he'), (217, 'has'), (221, 'starred'), (229, 'in'), (232, 'the'), (236, 'Cinemax'), (244, 'series'), (251, 'Outcast'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Patrick Raymond Fugit (;', 0, 24), ('October 27, 1982', 30, 46), ('an American actor', 51, 68), ('his roles', 80, 89), ('the films', 93, 102), ('Almost Famous', 103, 116), ('White Oleander', 125, 139), (', Saved', 146, 153), ('Saved!', 148, 154), ('Wristcutters: A Love Story', 166, 192), ('the Cinemax series', 232, 250), ('Outcast', 251, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NN', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'RB', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '.', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', ':', 'DT', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'CD', ',', 'PRP', 'VBZ', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

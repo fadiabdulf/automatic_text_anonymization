@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Terence Knox</title>
+<link/>https://en.wikipedia.org/wiki/Terence_Knox
+<annotated>0</annotated>
+<originalabstract>Terence Knox (born December 16, 1946)  is an American film, stage, and television actor. He made his debut in Robert Zemeckis's Used Cars (1980), and appeared in numerous television series, including lead roles in St. Elsewhere (1984–6) and Tour of Duty (1987–90).</originalabstract>
+<abstract>Terence_Knox ( born December_16_,_1946 ) is an_American_film , stage , and television_actor . He made his_debut in Robert_Zemeckis 's_Used_Cars ( 1980_) , and appeared in numerous_television_series , including lead_roles in St._Elsewhere_(_1984 – 6_)_and_Tour of Duty_(_1987 – 90_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Terence'), (8, 'Knox'), (13, '('), (14, 'born'), (19, 'December'), (28, '16'), (30, ','), (32, '1946'), (36, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'film'), (58, ','), (60, 'stage'), (65, ','), (67, 'and'), (71, 'television'), (82, 'actor'), (87, '.'), (89, 'He'), (92, 'made'), (97, 'his'), (101, 'debut'), (107, 'in'), (110, 'Robert'), (117, 'Zemeckis'), (125, '\'s'), (128, 'Used'), (133, 'Cars'), (138, '('), (139, '1980'), (143, ')'), (144, ','), (146, 'and'), (150, 'appeared'), (159, 'in'), (162, 'numerous'), (171, 'television'), (182, 'series'), (188, ','), (190, 'including'), (200, 'lead'), (205, 'roles'), (211, 'in'), (214, 'St.'), (218, 'Elsewhere'), (228, '('), (229, '1984'), (233, '–'), (234, '6'), (235, ')'), (237, 'and'), (241, 'Tour'), (246, 'of'), (249, 'Duty'), (254, '('), (255, '1987'), (259, '–'), (260, '90'), (262, ')'), (263, '.')])</stanford_tokens>
+<opennlp_chunks>[('Terence Knox',0, 12), ('December 16, 1946',19, 36), ('an American film',42, 58), ('television actor',71, 87), ('his debut',97, 106), ('Robert Zemeckis',110, 125), ('\'s Used Cars',125, 137), ('1980)',139, 144), ('numerous television series',162, 188), ('lead roles',200, 210), ('St. Elsewhere (1984',214, 233), ('6) and Tour',234, 245), ('Duty (1987',249, 259), ('90)',260, 263)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'VBN', 'NNS', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'VBD', 'IN', 'JJ', 'NN', 'NN', ',', 'VBG', 'NN', 'NNS', 'IN', 'NNP', 'RB', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'NN', 'IN', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Terence'), (8, 'Knox'), (13, '('), (14, 'born'), (19, 'December'), (28, '16'), (30, ','), (32, '1946'), (36, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'film'), (58, ','), (60, 'stage'), (65, ','), (67, 'and'), (71, 'television'), (82, 'actor'), (87, '.'), (89, 'He'), (92, 'made'), (97, 'his'), (101, 'debut'), (107, 'in'), (110, 'Robert'), (117, 'Zemeckis'), (125, "'s"), (128, 'Used'), (133, 'Cars'), (138, '('), (139, '1980'), (143, ')'), (144, ','), (146, 'and'), (150, 'appeared'), (159, 'in'), (162, 'numerous'), (171, 'television'), (182, 'series'), (188, ','), (190, 'including'), (200, 'lead'), (205, 'roles'), (211, 'in'), (214, 'St.'), (218, 'Elsewhere'), (228, '('), (229, '1984–6'), (235, ')'), (237, 'and'), (241, 'Tour'), (246, 'of'), (249, 'Duty'), (254, '('), (255, '1987–90'), (262, ')'), (263, '.')])</spacy_tokens>
+<spacy_chunks>[('Terence Knox', 0, 12), ('December 16, 1946', 19, 36), ('an American film', 42, 58), ('television actor', 71, 87), ('his debut', 97, 106), ("Robert Zemeckis's Used Cars", 110, 137), ('numerous television series', 162, 188), ('lead roles', 200, 210), ('St. Elsewhere', 214, 227), ('Tour of Duty', 241, 253), ('(1987–90', 254, 262)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NNS', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'VBD', 'IN', 'JJ', 'NN', 'NN', ',', 'VBG', 'JJ', 'NNS', 'IN', 'NNP', 'RB', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

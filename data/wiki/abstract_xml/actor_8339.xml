@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Hawthorne (actor)</title>
+<link/>https://en.wikipedia.org/wiki/David_Hawthorne_(actor)
+<annotated>0</annotated>
+<originalabstract>David Hawthorne (22 May 1888 – 18 June 1942) was a British stage and film actor. He played the leading man in a number of films during the silent era, but later switched to character roles. One of his more notable roles was that of Rob Roy MacGregor in the 1922 film Rob Roy.</originalabstract>
+<abstract>David_Hawthorne ( 22_May_1888 – 18_June_1942 ) was a_British_stage_and_film_actor . He played the_leading_man in a_number of films during the_silent_era , but later_switched to character_roles . One of his_more_notable_roles was that of Rob_Roy_MacGregor in the_1922_film_Rob_Roy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Hawthorne'), (16, '('), (17, '22'), (20, 'May'), (24, '1888'), (29, '–'), (31, '18'), (34, 'June'), (39, '1942'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'British'), (59, 'stage'), (65, 'and'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'played'), (91, 'the'), (95, 'leading'), (103, 'man'), (107, 'in'), (110, 'a'), (112, 'number'), (119, 'of'), (122, 'films'), (128, 'during'), (135, 'the'), (139, 'silent'), (146, 'era'), (149, ','), (151, 'but'), (155, 'later'), (161, 'switched'), (170, 'to'), (173, 'character'), (183, 'roles'), (188, '.'), (190, 'One'), (194, 'of'), (197, 'his'), (201, 'more'), (206, 'notable'), (214, 'roles'), (220, 'was'), (224, 'that'), (229, 'of'), (232, 'Rob'), (236, 'Roy'), (240, 'MacGregor'), (250, 'in'), (253, 'the'), (257, '1922'), (262, 'film'), (267, 'Rob'), (271, 'Roy'), (274, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Hawthorne',0, 15), ('22 May 1888',17, 28), ('18 June 1942',31, 43), ('a British stage and film actor',49, 79), ('the leading man',91, 106), ('a number',110, 118), ('the silent era',135, 149), ('later switched',155, 169), ('character roles',173, 188), ('his more notable roles',197, 219), ('Rob Roy MacGregor',232, 249), ('the 1922 film Rob Roy',253, 274)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNS', 'IN', 'DT', 'JJ', 'NN', ',', 'CC', 'RB', 'VBD', 'TO', 'NN', 'NNS', '.', 'CD', 'IN', 'PRP$', 'JJR', 'JJ', 'NNS', 'VBD', 'DT', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Hawthorne'), (16, '('), (17, '22'), (20, 'May'), (24, '1888'), (29, '–'), (31, '18'), (34, 'June'), (39, '1942'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'British'), (59, 'stage'), (65, 'and'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'played'), (91, 'the'), (95, 'leading'), (103, 'man'), (107, 'in'), (110, 'a'), (112, 'number'), (119, 'of'), (122, 'films'), (128, 'during'), (135, 'the'), (139, 'silent'), (146, 'era'), (149, ','), (151, 'but'), (155, 'later'), (161, 'switched'), (170, 'to'), (173, 'character'), (183, 'roles'), (188, '.'), (190, 'One'), (194, 'of'), (197, 'his'), (201, 'more'), (206, 'notable'), (214, 'roles'), (220, 'was'), (224, 'that'), (229, 'of'), (232, 'Rob'), (236, 'Roy'), (240, 'MacGregor'), (250, 'in'), (253, 'the'), (257, '1922'), (262, 'film'), (267, 'Rob'), (271, 'Roy'), (274, '.')])</spacy_tokens>
+<spacy_chunks>[('David Hawthorne', 0, 15), ('22 May 1888', 17, 28), ('18 June 1942', 31, 43), ('a British stage and film actor', 49, 79), ('the leading man', 91, 106), ('a number', 110, 118), ('the silent era', 135, 149), ('character roles', 173, 188), ('his more notable roles', 197, 219), ('Rob Roy MacGregor', 232, 249), ('the 1922 film', 253, 266)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNS', 'IN', 'DT', 'JJ', 'NN', ',', 'CC', 'RB', 'VBD', 'IN', 'NN', 'NNS', '.', 'CD', 'IN', 'PRP$', 'RBR', 'JJ', 'NNS', 'VBD', 'DT', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

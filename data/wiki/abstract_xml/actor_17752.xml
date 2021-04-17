@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Romola Garai</title>
+<link/>https://en.wikipedia.org/wiki/Romola_Garai
+<annotated>0</annotated>
+<originalabstract>Romola Sadie Garai (; born 6 August 1982) is a British film and television actress. She appeared in Amazing Grace, Atonement, and Glorious 39, and in the BBC series Emma, The Hour and The Crimson Petal and the White. She has been nominated for a Golden Globe Award twice and for a BAFTA award.</originalabstract>
+<abstract>Romola_Sadie_Garai ( ; born 6_August_1982 ) is a_British_film_and_television_actress . She appeared in Amazing_Grace_,_Atonement_,_and_Glorious_39 , and in the_BBC_series_Emma , The_Hour and The_Crimson_Petal and the_White . She has_been_nominated for a_Golden_Globe_Award twice and for a_BAFTA_award .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Romola'), (7, 'Sadie'), (13, 'Garai'), (19, '('), (20, ';'), (22, 'born'), (27, '6'), (29, 'August'), (36, '1982'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'British'), (55, 'film'), (60, 'and'), (64, 'television'), (75, 'actress'), (82, '.'), (84, 'She'), (88, 'appeared'), (97, 'in'), (100, 'Amazing'), (108, 'Grace'), (113, ','), (115, 'Atonement'), (124, ','), (126, 'and'), (130, 'Glorious'), (139, '39'), (141, ','), (143, 'and'), (147, 'in'), (150, 'the'), (154, 'BBC'), (158, 'series'), (165, 'Emma'), (169, ','), (171, 'The'), (175, 'Hour'), (180, 'and'), (184, 'The'), (188, 'Crimson'), (196, 'Petal'), (202, 'and'), (206, 'the'), (210, 'White'), (215, '.'), (217, 'She'), (221, 'has'), (225, 'been'), (230, 'nominated'), (240, 'for'), (244, 'a'), (246, 'Golden'), (253, 'Globe'), (259, 'Award'), (265, 'twice'), (271, 'and'), (275, 'for'), (279, 'a'), (281, 'BAFTA'), (287, 'award'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Romola Sadie Garai',0, 18), ('6 August 1982',27, 40), ('a British film and television actress',45, 82), ('Amazing Grace, Atonement, and Glorious 39',100, 141), ('the BBC series Emma',150, 169), ('The Hour',171, 179), ('The Crimson Petal',184, 201), ('the White',206, 215), ('has been nominated',221, 239), ('a Golden Globe Award',244, 264), ('a BAFTA award',279, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNP', ',', 'NNP', ',', 'CC', 'JJ', 'CD', ',', 'CC', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'DT', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'RB', 'CC', 'IN', 'DT', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Romola'), (7, 'Sadie'), (13, 'Garai'), (19, '(;'), (22, 'born'), (27, '6'), (29, 'August'), (36, '1982'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'British'), (55, 'film'), (60, 'and'), (64, 'television'), (75, 'actress'), (82, '.'), (84, 'She'), (88, 'appeared'), (97, 'in'), (100, 'Amazing'), (108, 'Grace'), (113, ','), (115, 'Atonement'), (124, ','), (126, 'and'), (130, 'Glorious'), (139, '39'), (141, ','), (143, 'and'), (147, 'in'), (150, 'the'), (154, 'BBC'), (158, 'series'), (165, 'Emma'), (169, ','), (171, 'The'), (175, 'Hour'), (180, 'and'), (184, 'The'), (188, 'Crimson'), (196, 'Petal'), (202, 'and'), (206, 'the'), (210, 'White'), (215, '.'), (217, 'She'), (221, 'has'), (225, 'been'), (230, 'nominated'), (240, 'for'), (244, 'a'), (246, 'Golden'), (253, 'Globe'), (259, 'Award'), (265, 'twice'), (271, 'and'), (275, 'for'), (279, 'a'), (281, 'BAFTA'), (287, 'award'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Romola Sadie Garai', 0, 18), ('6 August 1982', 27, 40), ('a British film and television actress', 45, 82), ('Amazing Grace', 100, 113), ('Atonement', 115, 124), ('Glorious 39', 130, 141), ('the BBC series', 150, 164), ('The Hour', 171, 179), ('The Crimson Petal and the White', 184, 215), ('a Golden Globe Award', 244, 264), ('a BAFTA award', 279, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'XX', 'VBD', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NN', ',', 'CC', 'JJ', 'CD', ',', 'CC', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'DT', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'RB', 'CC', 'IN', 'DT', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

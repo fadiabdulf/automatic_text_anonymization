@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kenneth Utt</title>
+<link/>https://en.wikipedia.org/wiki/Kenneth_Utt
+<annotated>0</annotated>
+<originalabstract>Kenneth Utt (July 13, 1921 – January 19, 1994), was an American film producer and unit production manager, notable for producing The Silence of the Lambs (1991), for which he won an Oscar for Best Picture.</originalabstract>
+<abstract>Kenneth_Utt ( July_13_,_1921 – January_19_,_1994 ) , was an_American_film_producer_and_unit_production_manager , notable for producing The_Silence of the_Lambs ( 1991 ) , for which he won an_Oscar for Best_Picture .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kenneth'), (8, 'Utt'), (12, '('), (13, 'July'), (18, '13'), (20, ','), (22, '1921'), (27, '–'), (29, 'January'), (37, '19'), (39, ','), (41, '1994'), (45, ')'), (46, ','), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'producer'), (78, 'and'), (82, 'unit'), (87, 'production'), (98, 'manager'), (105, ','), (107, 'notable'), (115, 'for'), (119, 'producing'), (129, 'The'), (133, 'Silence'), (141, 'of'), (144, 'the'), (148, 'Lambs'), (154, '('), (155, '1991'), (159, ')'), (160, ','), (162, 'for'), (166, 'which'), (172, 'he'), (175, 'won'), (179, 'an'), (182, 'Oscar'), (188, 'for'), (192, 'Best'), (197, 'Picture'), (204, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kenneth Utt',0, 11), ('July 13, 1921',13, 26), ('January 19, 1994',29, 45), ('an American film producer and unit production manager',52, 105), ('The Silence',129, 140), ('the Lambs',144, 153), ('an Oscar',179, 187), ('Best Picture',192, 204)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', 'NN', ',', 'JJ', 'IN', 'VBG', 'DT', 'NN', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NNP', 'IN', 'JJS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kenneth'), (8, 'Utt'), (12, '('), (13, 'July'), (18, '13'), (20, ','), (22, '1921'), (27, '–'), (29, 'January'), (37, '19'), (39, ','), (41, '1994'), (45, ')'), (46, ','), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'producer'), (78, 'and'), (82, 'unit'), (87, 'production'), (98, 'manager'), (105, ','), (107, 'notable'), (115, 'for'), (119, 'producing'), (129, 'The'), (133, 'Silence'), (141, 'of'), (144, 'the'), (148, 'Lambs'), (154, '('), (155, '1991'), (159, ')'), (160, ','), (162, 'for'), (166, 'which'), (172, 'he'), (175, 'won'), (179, 'an'), (182, 'Oscar'), (188, 'for'), (192, 'Best'), (197, 'Picture'), (204, '.')])</spacy_tokens>
+<spacy_chunks>[('Kenneth Utt', 0, 11), ('July 13, 1921', 13, 26), ('January 19, 1994', 29, 45), ('an American film producer and unit production manager', 52, 105), ('The Silence of the Lambs', 129, 153), ('an Oscar', 179, 187), ('Best Picture', 192, 204)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', 'NN', ',', 'JJ', 'IN', 'VBG', 'DT', 'NNP', 'IN', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NNP', 'IN', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

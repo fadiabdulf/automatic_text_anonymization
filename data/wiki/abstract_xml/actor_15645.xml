@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ann Tyrrell</title>
+<link/>https://en.wikipedia.org/wiki/Ann_Tyrrell
+<annotated>0</annotated>
+<originalabstract>Ann Tyrrell (February 6, 1909 – July 20, 1983) was an American stage, film and television actress. Tyrrell is best known for her roles in both of the Ann Sothern CBS sitcoms Private Secretary (1953–1957) and The Ann Sothern Show (1958–1961).</originalabstract>
+<abstract>Ann_Tyrrell ( February_6_,_1909 – July_20_,_1983 ) was an_American_stage , film_and_television_actress . Tyrrell is_best_known for her_roles in both of the_Ann_Sothern_CBS sitcoms Private_Secretary_(_1953 – 1957_) and The_Ann_Sothern_Show_(_1958 – 1961_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ann'), (4, 'Tyrrell'), (12, '('), (13, 'February'), (22, '6'), (23, ','), (25, '1909'), (30, '–'), (32, 'July'), (37, '20'), (39, ','), (41, '1983'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'stage'), (68, ','), (70, 'film'), (75, 'and'), (79, 'television'), (90, 'actress'), (97, '.'), (99, 'Tyrrell'), (107, 'is'), (110, 'best'), (115, 'known'), (121, 'for'), (125, 'her'), (129, 'roles'), (135, 'in'), (138, 'both'), (143, 'of'), (146, 'the'), (150, 'Ann'), (154, 'Sothern'), (162, 'CBS'), (166, 'sitcoms'), (174, 'Private'), (182, 'Secretary'), (192, '('), (193, '1953'), (197, '–'), (198, '1957'), (202, ')'), (204, 'and'), (208, 'The'), (212, 'Ann'), (216, 'Sothern'), (224, 'Show'), (229, '('), (230, '1958'), (234, '–'), (235, '1961'), (239, ')'), (240, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ann Tyrrell',0, 11), ('February 6, 1909',13, 29), ('July 20, 1983',32, 45), ('an American stage',51, 68), ('film and television actress',70, 97), ('is best known',107, 120), ('her roles',125, 134), ('the Ann Sothern CBS',146, 165), ('Private Secretary (1953',174, 197), ('1957)',198, 203), ('The Ann Sothern Show (1958',208, 234), ('1961)',235, 240)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'VBZ', 'JJ', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ann'), (4, 'Tyrrell'), (12, '('), (13, 'February'), (22, '6'), (23, ','), (25, '1909'), (30, '–'), (32, 'July'), (37, '20'), (39, ','), (41, '1983'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'stage'), (68, ','), (70, 'film'), (75, 'and'), (79, 'television'), (90, 'actress'), (97, '.'), (99, 'Tyrrell'), (107, 'is'), (110, 'best'), (115, 'known'), (121, 'for'), (125, 'her'), (129, 'roles'), (135, 'in'), (138, 'both'), (143, 'of'), (146, 'the'), (150, 'Ann'), (154, 'Sothern'), (162, 'CBS'), (166, 'sitcoms'), (174, 'Private'), (182, 'Secretary'), (192, '('), (193, '1953–1957'), (202, ')'), (204, 'and'), (208, 'The'), (212, 'Ann'), (216, 'Sothern'), (224, 'Show'), (229, '('), (230, '1958–1961'), (239, ')'), (240, '.')])</spacy_tokens>
+<spacy_chunks>[('Ann Tyrrell', 0, 11), ('February 6, 1909', 13, 29), ('July 20, 1983', 32, 45), ('an American stage', 51, 68), ('television', 79, 89), ('Actress', 90, 97), ('her roles', 125, 134), ('the Ann Sothern CBS sitcoms Private Secretary', 146, 191), ('The Ann Sothern Show', 208, 228)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

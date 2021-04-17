@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stephen McNally</title>
+<link/>https://en.wikipedia.org/wiki/Stephen_McNally
+<annotated>0</annotated>
+<originalabstract>Stephen McNally (July 29, 1911 – June 4, 1994) was an American actor remembered mostly for his appearances in many Westerns and action films. He often played hard-hearted characters or villains.</originalabstract>
+<abstract>Stephen_McNally ( July_29_,_1911 – June_4_,_1994 ) was an_American_actor remembered mostly for his_appearances in many_Westerns_and_action_films . He often played hard-hearted_characters_or_villains .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stephen'), (8, 'McNally'), (16, '('), (17, 'July'), (22, '29'), (24, ','), (26, '1911'), (31, '–'), (33, 'June'), (38, '4'), (39, ','), (41, '1994'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'remembered'), (80, 'mostly'), (87, 'for'), (91, 'his'), (95, 'appearances'), (107, 'in'), (110, 'many'), (115, 'Westerns'), (124, 'and'), (128, 'action'), (135, 'films'), (140, '.'), (142, 'He'), (145, 'often'), (151, 'played'), (158, 'hard-hearted'), (171, 'characters'), (182, 'or'), (185, 'villains'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stephen McNally',0, 15), ('July 29, 1911',17, 30), ('June 4, 1994',33, 45), ('an American actor',51, 68), ('his appearances',91, 106), ('many Westerns and action films',110, 140), ('hard-hearted characters or villains',158, 193)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBD', 'RB', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNPS', 'CC', 'NN', 'NNS', '.', 'PRP', 'RB', 'VBD', 'JJ', 'NNS', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stephen'), (8, 'McNally'), (16, '('), (17, 'July'), (22, '29'), (24, ','), (26, '1911'), (31, '–'), (33, 'June'), (38, '4'), (39, ','), (41, '1994'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'remembered'), (80, 'mostly'), (87, 'for'), (91, 'his'), (95, 'appearances'), (107, 'in'), (110, 'many'), (115, 'Westerns'), (124, 'and'), (128, 'action'), (135, 'films'), (140, '.'), (142, 'He'), (145, 'often'), (151, 'played'), (158, 'hard'), (162, '-'), (163, 'hearted'), (171, 'characters'), (182, 'or'), (185, 'villains'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[('Stephen McNally', 0, 15), ('July 29, 1911', 17, 30), ('June 4, 1994', 33, 45), ('an American actor', 51, 68), ('his appearances', 91, 106), ('many Westerns', 110, 123), ('action films', 128, 140), ('hard-hearted characters', 158, 181), ('villains', 185, 193)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBD', 'RB', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NNPS', 'CC', 'NN', 'NNS', '.', 'PRP', 'RB', 'VBD', 'RB', 'HYPH', 'JJ', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

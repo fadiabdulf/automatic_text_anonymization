@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>André Wilms</title>
+<link/>https://en.wikipedia.org/wiki/Andr%C3%A9_Wilms
+<annotated>0</annotated>
+<originalabstract>André Wilms (born 29 April 1947) is a French film and television actor who has also appeared in German and Finnish films. Wilms was the winner of the Best Supporting European Actor award at the 1992 European Film Awards for his work in Aki Kaurismäki's La Vie de Bohème.</originalabstract>
+<abstract>André_Wilms ( born 29_April_1947 ) is a_French_film_and_television_actor who has_also_appeared in German_and_Finnish_films . Wilms was the_winner of the_Best_Supporting_European_Actor_award at the_1992_European_Film_Awards for his_work in Aki_Kaurismäki 's_La_Vie de Bohème .</abstract>
+<stanford_tokens>OrderedDict([(0, 'André'), (6, 'Wilms'), (12, '('), (13, 'born'), (18, '29'), (21, 'April'), (27, '1947'), (31, ')'), (33, 'is'), (36, 'a'), (38, 'French'), (45, 'film'), (50, 'and'), (54, 'television'), (65, 'actor'), (71, 'who'), (75, 'has'), (79, 'also'), (84, 'appeared'), (93, 'in'), (96, 'German'), (103, 'and'), (107, 'Finnish'), (115, 'films'), (120, '.'), (122, 'Wilms'), (128, 'was'), (132, 'the'), (136, 'winner'), (143, 'of'), (146, 'the'), (150, 'Best'), (155, 'Supporting'), (166, 'European'), (175, 'Actor'), (181, 'award'), (187, 'at'), (190, 'the'), (194, '1992'), (199, 'European'), (208, 'Film'), (213, 'Awards'), (220, 'for'), (224, 'his'), (228, 'work'), (233, 'in'), (236, 'Aki'), (240, 'Kaurismäki'), (250, '\'s'), (253, 'La'), (256, 'Vie'), (260, 'de'), (263, 'Bohème'), (269, '.')])</stanford_tokens>
+<opennlp_chunks>[('André Wilms',0, 11), ('29 April 1947',18, 31), ('a French film and television actor',36, 70), ('has also appeared',75, 92), ('German and Finnish films',96, 120), ('the winner',132, 142), ('the Best Supporting European Actor award',146, 186), ('the 1992 European Film Awards',190, 219), ('his work',224, 232), ('Aki Kaurismäki',236, 250), ('\'s La Vie',250, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NN', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'CC', 'JJ', 'NNS', '.', 'NN', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJS', 'VBG', 'JJ', 'NN', 'NN', 'IN', 'DT', 'CD', 'JJ', 'NNP', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'André'), (6, 'Wilms'), (12, '('), (13, 'born'), (18, '29'), (21, 'April'), (27, '1947'), (31, ')'), (33, 'is'), (36, 'a'), (38, 'French'), (45, 'film'), (50, 'and'), (54, 'television'), (65, 'actor'), (71, 'who'), (75, 'has'), (79, 'also'), (84, 'appeared'), (93, 'in'), (96, 'German'), (103, 'and'), (107, 'Finnish'), (115, 'films'), (120, '.'), (122, 'Wilms'), (128, 'was'), (132, 'the'), (136, 'winner'), (143, 'of'), (146, 'the'), (150, 'Best'), (155, 'Supporting'), (166, 'European'), (175, 'Actor'), (181, 'award'), (187, 'at'), (190, 'the'), (194, '1992'), (199, 'European'), (208, 'Film'), (213, 'Awards'), (220, 'for'), (224, 'his'), (228, 'work'), (233, 'in'), (236, 'Aki'), (240, 'Kaurismäki'), (250, "'s"), (253, 'La'), (256, 'Vie'), (260, 'de'), (263, 'Bohème'), (269, '.')])</spacy_tokens>
+<spacy_chunks>[('André Wilms', 0, 11), ('29 April 1947', 18, 31), ('a French film and television actor', 36, 70), ('German and Finnish films', 96, 120), ('the winner', 132, 142), ('the Best Supporting European Actor award', 146, 186), ('the 1992 European Film Awards', 190, 219), ('his work', 224, 232), ("Aki Kaurismäki's La Vie de Bohème", 236, 269)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'CC', 'JJ', 'NNS', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'RBS', 'VBG', 'NNP', 'NNP', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNPS', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

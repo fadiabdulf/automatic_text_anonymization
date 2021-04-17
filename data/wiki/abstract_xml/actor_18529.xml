@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Christine Delaroche</title>
+<link/>https://en.wikipedia.org/wiki/Christine_Delaroche
+<annotated>0</annotated>
+<originalabstract>Christine Delaroche (born 24 May 1944) is a French actress and singer. She has appeared in 21 films and television shows since 1965. She starred in the 1966 film Un monde nouveau, which was directed by Vittorio De Sica.</originalabstract>
+<abstract>Christine_Delaroche ( born 24_May_1944 ) is a_French_actress_and_singer . She has_appeared in 21_films_and_television_shows since 1965 . She starred in the_1966_film_Un_monde_nouveau , which was_directed by Vittorio_De_Sica .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Christine'), (10, 'Delaroche'), (20, '('), (21, 'born'), (26, '24'), (29, 'May'), (33, '1944'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (59, 'and'), (63, 'singer'), (69, '.'), (71, 'She'), (75, 'has'), (79, 'appeared'), (88, 'in'), (91, '21'), (94, 'films'), (100, 'and'), (104, 'television'), (115, 'shows'), (121, 'since'), (127, '1965'), (131, '.'), (133, 'She'), (137, 'starred'), (145, 'in'), (148, 'the'), (152, '1966'), (157, 'film'), (162, 'Un'), (165, 'monde'), (171, 'nouveau'), (178, ','), (180, 'which'), (186, 'was'), (190, 'directed'), (199, 'by'), (202, 'Vittorio'), (211, 'De'), (214, 'Sica'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Christine Delaroche',0, 19), ('24 May 1944',26, 37), ('a French actress and singer',42, 69), ('has appeared',75, 87), ('21 films and television shows',91, 120), ('the 1966 film Un monde nouveau',148, 178), ('was directed',186, 198), ('Vittorio De Sica',202, 218)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NN', 'NN', 'NN', ',', 'WDT', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Christine'), (10, 'Delaroche'), (20, '('), (21, 'born'), (26, '24'), (29, 'May'), (33, '1944'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (59, 'and'), (63, 'singer'), (69, '.'), (71, 'She'), (75, 'has'), (79, 'appeared'), (88, 'in'), (91, '21'), (94, 'films'), (100, 'and'), (104, 'television'), (115, 'shows'), (121, 'since'), (127, '1965'), (131, '.'), (133, 'She'), (137, 'starred'), (145, 'in'), (148, 'the'), (152, '1966'), (157, 'film'), (162, 'Un'), (165, 'monde'), (171, 'nouveau'), (178, ','), (180, 'which'), (186, 'was'), (190, 'directed'), (199, 'by'), (202, 'Vittorio'), (211, 'De'), (214, 'Sica'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Christine Delaroche', 0, 19), ('24 May 1944', 26, 37), ('a French actress', 42, 58), ('singer', 63, 69), ('21 films', 91, 99), ('television shows', 104, 120), ('the 1966 film', 148, 161), ('Un monde nouveau', 162, 178), ('Vittorio De Sica', 202, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NNP', 'FW', 'NN', ',', 'WDT', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

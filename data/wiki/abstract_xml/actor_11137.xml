@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barbara Carrera</title>
+<link/>https://en.wikipedia.org/wiki/Barbara_Carrera
+<annotated>0</annotated>
+<originalabstract>Barbara Carrera (born Barbara Kingsbury; December 31, 1945) is a Nicaraguan American film and television actress and former model. She is known for her roles as SPECTRE assassin Fatima Blush in Never Say Never Again, as Natalia Rambova in Condorman, and as Angelica Nero on the soap opera Dallas.</originalabstract>
+<abstract>Barbara_Carrera ( born Barbara_Kingsbury ; December_31_,_1945 ) is a_Nicaraguan_American_film_and_television_actress and former_model . She is_known for her_roles as SPECTRE_assassin_Fatima_Blush in Never Say Never_Again , as Natalia_Rambova in Condorman , and as Angelica_Nero on the_soap_opera_Dallas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barbara'), (8, 'Carrera'), (16, '('), (17, 'born'), (22, 'Barbara'), (30, 'Kingsbury'), (39, ';'), (41, 'December'), (50, '31'), (52, ','), (54, '1945'), (58, ')'), (60, 'is'), (63, 'a'), (65, 'Nicaraguan'), (76, 'American'), (85, 'film'), (90, 'and'), (94, 'television'), (105, 'actress'), (113, 'and'), (117, 'former'), (124, 'model'), (129, '.'), (131, 'She'), (135, 'is'), (138, 'known'), (144, 'for'), (148, 'her'), (152, 'roles'), (158, 'as'), (161, 'SPECTRE'), (169, 'assassin'), (178, 'Fatima'), (185, 'Blush'), (191, 'in'), (194, 'Never'), (200, 'Say'), (204, 'Never'), (210, 'Again'), (215, ','), (217, 'as'), (220, 'Natalia'), (228, 'Rambova'), (236, 'in'), (239, 'Condorman'), (248, ','), (250, 'and'), (254, 'as'), (257, 'Angelica'), (266, 'Nero'), (271, 'on'), (274, 'the'), (278, 'soap'), (283, 'opera'), (289, 'Dallas'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barbara Carrera',0, 15), ('Barbara Kingsbury',22, 39), ('December 31, 1945',41, 58), ('a Nicaraguan American film and television actress',63, 112), ('former model',117, 129), ('is known',135, 143), ('her roles',148, 157), ('SPECTRE assassin Fatima Blush',161, 190), ('Never Again',204, 215), ('Natalia Rambova',220, 235), ('Angelica Nero',257, 270), ('the soap opera Dallas',274, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'VB', 'RB', 'RB', ',', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barbara'), (8, 'Carrera'), (16, '('), (17, 'born'), (22, 'Barbara'), (30, 'Kingsbury'), (39, ';'), (41, 'December'), (50, '31'), (52, ','), (54, '1945'), (58, ')'), (60, 'is'), (63, 'a'), (65, 'Nicaraguan'), (76, 'American'), (85, 'film'), (90, 'and'), (94, 'television'), (105, 'actress'), (113, 'and'), (117, 'former'), (124, 'model'), (129, '.'), (131, 'She'), (135, 'is'), (138, 'known'), (144, 'for'), (148, 'her'), (152, 'roles'), (158, 'as'), (161, 'SPECTRE'), (169, 'assassin'), (178, 'Fatima'), (185, 'Blush'), (191, 'in'), (194, 'Never'), (200, 'Say'), (204, 'Never'), (210, 'Again'), (215, ','), (217, 'as'), (220, 'Natalia'), (228, 'Rambova'), (236, 'in'), (239, 'Condorman'), (248, ','), (250, 'and'), (254, 'as'), (257, 'Angelica'), (266, 'Nero'), (271, 'on'), (274, 'the'), (278, 'soap'), (283, 'opera'), (289, 'Dallas'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Barbara Carrera', 0, 15), ('born Barbara Kingsbury', 17, 39), ('December 31, 1945', 41, 58), ('a Nicaraguan American film and television actress', 63, 112), ('former model', 117, 129), ('her roles', 148, 157), ('SPECTRE assassin Fatima Blush', 161, 190), ('Never Say Never Again', 194, 215), ('Natalia Rambova', 220, 235), ('Condorman', 239, 248), ('Angelica Nero', 257, 270), ('the soap opera', 274, 288), ('Dallas', 289, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'RB', 'VB', 'RB', 'RB', ',', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arnold Lucy</title>
+<link/>https://en.wikipedia.org/wiki/Arnold_Lucy
+<annotated>0</annotated>
+<originalabstract>Arnold Lucy (born Walter George Campbell, 8 August 1865 – 15 December 1945) was a British theatre and film actor, best known as Professor Kantorek in All Quiet on the Western Front (1930).</originalabstract>
+<abstract>Arnold_Lucy ( born_Walter_George_Campbell , 8_August_1865 – 15_December_1945 ) was a_British_theatre_and_film_actor , best_known as Professor_Kantorek in All_Quiet on the_Western_Front ( 1930 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arnold'), (7, 'Lucy'), (12, '('), (13, 'born'), (18, 'Walter'), (25, 'George'), (32, 'Campbell'), (40, ','), (42, '8'), (44, 'August'), (51, '1865'), (56, '–'), (58, '15'), (61, 'December'), (70, '1945'), (74, ')'), (76, 'was'), (80, 'a'), (82, 'British'), (90, 'theatre'), (98, 'and'), (102, 'film'), (107, 'actor'), (112, ','), (114, 'best'), (119, 'known'), (125, 'as'), (128, 'Professor'), (138, 'Kantorek'), (147, 'in'), (150, 'All'), (154, 'Quiet'), (160, 'on'), (163, 'the'), (167, 'Western'), (175, 'Front'), (181, '('), (182, '1930'), (186, ')'), (187, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arnold Lucy',0, 11), ('born Walter George Campbell',13, 40), ('8 August 1865',42, 55), ('15 December 1945',58, 74), ('a British theatre and film actor',80, 112), ('best known',114, 124), ('Professor Kantorek',128, 146), ('All Quiet',150, 159), ('the Western Front',163, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'IN', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arnold'), (7, 'Lucy'), (12, '('), (13, 'born'), (18, 'Walter'), (25, 'George'), (32, 'Campbell'), (40, ','), (42, '8'), (44, 'August'), (51, '1865'), (56, '–'), (58, '15'), (61, 'December'), (70, '1945'), (74, ')'), (76, 'was'), (80, 'a'), (82, 'British'), (90, 'theatre'), (98, 'and'), (102, 'film'), (107, 'actor'), (112, ','), (114, 'best'), (119, 'known'), (125, 'as'), (128, 'Professor'), (138, 'Kantorek'), (147, 'in'), (150, 'All'), (154, 'Quiet'), (160, 'on'), (163, 'the'), (167, 'Western'), (175, 'Front'), (181, '('), (182, '1930'), (186, ')'), (187, '.')])</spacy_tokens>
+<spacy_chunks>[('Arnold Lucy', 0, 11), ('(born Walter George Campbell', 12, 40), ('8 August 1865', 42, 55), ('15 December 1945', 58, 74), ('a British theatre and film actor', 80, 112), ('Professor Kantorek', 128, 146), ('All Quiet on the Western Front (1930', 150, 186)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'JJ', 'IN', 'DT', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

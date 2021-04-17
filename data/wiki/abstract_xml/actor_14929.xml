@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Blanchard Ryan</title>
+<link/>https://en.wikipedia.org/wiki/Blanchard_Ryan
+<annotated>0</annotated>
+<originalabstract>Susan Blanchard Ryan (born January 12, 1967) is an American actress. 
+After working in MTV and other minor parts on television and independent film, she went on to star in the 2003 film Open Water, for which she won the 2004 Saturn Award for Best Actress. She has since starred in the films The Brooklyn Heist and It's Complicated.</originalabstract>
+<abstract>Susan_Blanchard_Ryan ( born January_12_,_1967 ) is an_American_actress . After working in MTV and other_minor_parts on television and independent_film , she went on to_star in the_2003_film_Open_Water , for which she won the_2004_Saturn_Award for_Best_Actress . She has since starred in the_films The_Brooklyn_Heist and It 's_Complicated .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Susan'), (6, 'Blanchard'), (16, 'Ryan'), (21, '('), (22, 'born'), (27, 'January'), (35, '12'), (37, ','), (39, '1967'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (70, 'After'), (76, 'working'), (84, 'in'), (87, 'MTV'), (91, 'and'), (95, 'other'), (101, 'minor'), (107, 'parts'), (113, 'on'), (116, 'television'), (127, 'and'), (131, 'independent'), (143, 'film'), (147, ','), (149, 'she'), (153, 'went'), (158, 'on'), (161, 'to'), (164, 'star'), (169, 'in'), (172, 'the'), (176, '2003'), (181, 'film'), (186, 'Open'), (191, 'Water'), (196, ','), (198, 'for'), (202, 'which'), (208, 'she'), (212, 'won'), (216, 'the'), (220, '2004'), (225, 'Saturn'), (232, 'Award'), (238, 'for'), (242, 'Best'), (247, 'Actress'), (254, '.'), (256, 'She'), (260, 'has'), (264, 'since'), (270, 'starred'), (278, 'in'), (281, 'the'), (285, 'films'), (291, 'The'), (295, 'Brooklyn'), (304, 'Heist'), (310, 'and'), (314, 'It'), (316, '\'s'), (319, 'Complicated'), (330, '.')])</stanford_tokens>
+<opennlp_chunks>[('Susan Blanchard Ryan',0, 20), ('January 12, 1967',27, 43), ('an American actress',48, 67), ('other minor parts',95, 112), ('independent film',131, 147), ('to star',161, 168), ('the 2003 film Open Water',172, 196), ('the 2004 Saturn Award',216, 237), ('for Best Actress',238, 254), ('the films',281, 290), ('The Brooklyn Heist',291, 309), ('\'s Complicated',316, 330)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'VBG', 'IN', 'NNP', 'CC', 'JJ', 'JJ', 'NNS', 'IN', 'NN', 'CC', 'JJ', 'NN', ',', 'PRP', 'VBD', 'IN', 'TO', 'VB', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'CD', 'NNP', 'NN', 'IN', 'JJS', 'NN', '.', 'PRP', 'VBZ', 'IN', 'VBN', 'IN', 'DT', 'NNS', 'DT', 'NNP', 'NNP', 'CC', 'PRP', 'VBZ', 'VBN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Susan'), (6, 'Blanchard'), (16, 'Ryan'), (21, '('), (22, 'born'), (27, 'January'), (35, '12'), (37, ','), (39, '1967'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (70, 'After'), (76, 'working'), (84, 'in'), (87, 'MTV'), (91, 'and'), (95, 'other'), (101, 'minor'), (107, 'parts'), (113, 'on'), (116, 'television'), (127, 'and'), (131, 'independent'), (143, 'film'), (147, ','), (149, 'she'), (153, 'went'), (158, 'on'), (161, 'to'), (164, 'star'), (169, 'in'), (172, 'the'), (176, '2003'), (181, 'film'), (186, 'Open'), (191, 'Water'), (196, ','), (198, 'for'), (202, 'which'), (208, 'she'), (212, 'won'), (216, 'the'), (220, '2004'), (225, 'Saturn'), (232, 'Award'), (238, 'for'), (242, 'Best'), (247, 'Actress'), (254, '.'), (256, 'She'), (260, 'has'), (264, 'since'), (270, 'starred'), (278, 'in'), (281, 'the'), (285, 'films'), (291, 'The'), (295, 'Brooklyn'), (304, 'Heist'), (310, 'and'), (314, 'It'), (316, "'s"), (319, 'Complicated'), (330, '.')])</spacy_tokens>
+<spacy_chunks>[('Susan Blanchard Ryan', 0, 20), ('January 12, 1967', 27, 43), ('an American actress', 48, 67), ('other minor parts', 95, 112), ('television and independent film', 116, 147), ('the 2003 film', 172, 185), ('Open Water', 186, 196), ('the 2004 Saturn Award', 216, 237), ('Saturn Award for Best Actress', 225, 254), ('the films', 281, 290), ('The Brooklyn Heist', 291, 309), ("It's Complicated", 314, 330)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'VBG', 'IN', 'NNP', 'CC', 'JJ', 'JJ', 'NNS', 'IN', 'NN', 'CC', 'JJ', 'NN', ',', 'PRP', 'VBD', 'RP', 'TO', 'VB', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'CD', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'IN', 'VBN', 'IN', 'DT', 'NNS', 'DT', 'NNP', 'NNP', 'CC', 'PRP', 'VBZ', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

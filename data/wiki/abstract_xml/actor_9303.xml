@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Patrick Waddington</title>
+<link/>https://en.wikipedia.org/wiki/Patrick_Waddington
+<annotated>0</annotated>
+<originalabstract>Patrick Waddington (19 August 1901 – 4 February 1987) was an English actor, educated at Gresham's School at Holt in Norfolk. He was born and died in York, England.</originalabstract>
+<abstract>Patrick_Waddington ( 19_August_1901 – 4_February_1987 ) was an_English_actor , educated at Gresham 's_School at Holt in Norfolk . He was_born and died in York , England .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Patrick'), (8, 'Waddington'), (19, '('), (20, '19'), (23, 'August'), (30, '1901'), (35, '–'), (37, '4'), (39, 'February'), (48, '1987'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'English'), (69, 'actor'), (74, ','), (76, 'educated'), (85, 'at'), (88, 'Gresham'), (95, '\'s'), (98, 'School'), (105, 'at'), (108, 'Holt'), (113, 'in'), (116, 'Norfolk'), (123, '.'), (125, 'He'), (128, 'was'), (132, 'born'), (137, 'and'), (141, 'died'), (146, 'in'), (149, 'York'), (153, ','), (155, 'England'), (162, '.')])</stanford_tokens>
+<opennlp_chunks>[('Patrick Waddington',0, 18), ('19 August 1901',20, 34), ('4 February 1987',37, 52), ('an English actor',58, 74), ('\'s School',95, 104), ('was born',128, 136)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NNP', 'POS', 'NNP', 'IN', 'NNP', 'IN', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Patrick'), (8, 'Waddington'), (19, '('), (20, '19'), (23, 'August'), (30, '1901'), (35, '–'), (37, '4'), (39, 'February'), (48, '1987'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'English'), (69, 'actor'), (74, ','), (76, 'educated'), (85, 'at'), (88, 'Gresham'), (95, "'s"), (98, 'School'), (105, 'at'), (108, 'Holt'), (113, 'in'), (116, 'Norfolk'), (123, '.'), (125, 'He'), (128, 'was'), (132, 'born'), (137, 'and'), (141, 'died'), (146, 'in'), (149, 'York'), (153, ','), (155, 'England'), (162, '.')])</spacy_tokens>
+<spacy_chunks>[('Patrick Waddington', 0, 18), ('19 August 1901', 20, 34), ('4 February 1987', 37, 52), ('an English actor', 58, 74), ("Gresham's School", 88, 104), ('Norfolk', 116, 123), ('England', 155, 162)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NNP', 'POS', 'NNP', 'IN', 'NNP', 'IN', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'CC', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

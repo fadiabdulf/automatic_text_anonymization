@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ethan Peck</title>
+<link/>https://en.wikipedia.org/wiki/Ethan_Peck
+<annotated>0</annotated>
+<originalabstract>Ethan Gregory Peck (born March 2, 1986) is an American actor. Peck is the grandson of actor Gregory Peck, and his first wife, Finnish-born Greta Kukkonen.</originalabstract>
+<abstract>Ethan_Gregory_Peck ( born March_2_,_1986 ) is an_American_actor . Peck is the_grandson of actor_Gregory_Peck , and his_first_wife , Finnish-born_Greta_Kukkonen .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ethan'), (6, 'Gregory'), (14, 'Peck'), (19, '('), (20, 'born'), (25, 'March'), (31, '2'), (32, ','), (34, '1986'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, '.'), (62, 'Peck'), (67, 'is'), (70, 'the'), (74, 'grandson'), (83, 'of'), (86, 'actor'), (92, 'Gregory'), (100, 'Peck'), (104, ','), (106, 'and'), (110, 'his'), (114, 'first'), (120, 'wife'), (124, ','), (126, 'Finnish-born'), (139, 'Greta'), (145, 'Kukkonen'), (153, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ethan Gregory Peck',0, 18), ('March 2, 1986',25, 38), ('an American actor',43, 60), ('the grandson',70, 82), ('actor Gregory Peck',86, 104), ('his first wife',110, 124), ('Finnish-born Greta Kukkonen',126, 153)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', ',', 'CC', 'PRP$', 'JJ', 'NN', ',', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ethan'), (6, 'Gregory'), (14, 'Peck'), (19, '('), (20, 'born'), (25, 'March'), (31, '2'), (32, ','), (34, '1986'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (60, '.'), (62, 'Peck'), (67, 'is'), (70, 'the'), (74, 'grandson'), (83, 'of'), (86, 'actor'), (92, 'Gregory'), (100, 'Peck'), (104, ','), (106, 'and'), (110, 'his'), (114, 'first'), (120, 'wife'), (124, ','), (126, 'Finnish'), (133, '-'), (134, 'born'), (139, 'Greta'), (145, 'Kukkonen'), (153, '.')])</spacy_tokens>
+<spacy_chunks>[('Ethan Gregory Peck', 0, 18), ('March 2, 1986', 25, 38), ('an American actor', 43, 60), ('the grandson', 70, 82), ('actor Gregory Peck', 86, 104), ('his first wife', 110, 124), ('Finnish-born Greta Kukkonen', 126, 153)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', ',', 'CC', 'PRP$', 'JJ', 'NN', ',', 'NNP', 'HYPH', 'VBN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charlotte Salt</title>
+<link/>https://en.wikipedia.org/wiki/Charlotte_Salt
+<annotated>0</annotated>
+<originalabstract>Charlotte Salt (born 1985) is an English actress best known for her many characters in British and US television series like Casualty, Bedlam and The Musketeers, also in many movies, including Beneath Still Waters in 2005, Beowulf in 2007, and Blood and Glory in 2016.</originalabstract>
+<abstract>Charlotte_Salt ( born 1985 ) is an_English_actress best_known for her_many_characters in British_and_US_television_series like Casualty , Bedlam and The_Musketeers , also in many_movies , including Beneath Still_Waters in 2005 , Beowulf in 2007 , and Blood_and_Glory in 2016 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charlotte'), (10, 'Salt'), (15, '('), (16, 'born'), (21, '1985'), (25, ')'), (27, 'is'), (30, 'an'), (33, 'English'), (41, 'actress'), (49, 'best'), (54, 'known'), (60, 'for'), (64, 'her'), (68, 'many'), (73, 'characters'), (84, 'in'), (87, 'British'), (95, 'and'), (99, 'US'), (102, 'television'), (113, 'series'), (120, 'like'), (125, 'Casualty'), (133, ','), (135, 'Bedlam'), (142, 'and'), (146, 'The'), (150, 'Musketeers'), (160, ','), (162, 'also'), (167, 'in'), (170, 'many'), (175, 'movies'), (181, ','), (183, 'including'), (193, 'Beneath'), (201, 'Still'), (207, 'Waters'), (214, 'in'), (217, '2005'), (221, ','), (223, 'Beowulf'), (231, 'in'), (234, '2007'), (238, ','), (240, 'and'), (244, 'Blood'), (250, 'and'), (254, 'Glory'), (260, 'in'), (263, '2016'), (267, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charlotte Salt',0, 14), ('an English actress',30, 48), ('best known',49, 59), ('her many characters',64, 83), ('British and US television series',87, 119), ('The Musketeers',146, 160), ('many movies',170, 181), ('Still Waters',201, 213), ('Blood and Glory',244, 259)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'JJ', 'CC', 'NNP', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', 'CC', 'DT', 'NNPS', ',', 'RB', 'IN', 'JJ', 'NNS', ',', 'VBG', 'IN', 'RB', 'NNP', 'IN', 'CD', ',', 'NNP', 'IN', 'CD', ',', 'CC', 'NN', 'CC', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charlotte'), (10, 'Salt'), (15, '('), (16, 'born'), (21, '1985'), (25, ')'), (27, 'is'), (30, 'an'), (33, 'English'), (41, 'actress'), (49, 'best'), (54, 'known'), (60, 'for'), (64, 'her'), (68, 'many'), (73, 'characters'), (84, 'in'), (87, 'British'), (95, 'and'), (99, 'US'), (102, 'television'), (113, 'series'), (120, 'like'), (125, 'Casualty'), (133, ','), (135, 'Bedlam'), (142, 'and'), (146, 'The'), (150, 'Musketeers'), (160, ','), (162, 'also'), (167, 'in'), (170, 'many'), (175, 'movies'), (181, ','), (183, 'including'), (193, 'Beneath'), (201, 'Still'), (207, 'Waters'), (214, 'in'), (217, '2005'), (221, ','), (223, 'Beowulf'), (231, 'in'), (234, '2007'), (238, ','), (240, 'and'), (244, 'Blood'), (250, 'and'), (254, 'Glory'), (260, 'in'), (263, '2016'), (267, '.')])</spacy_tokens>
+<spacy_chunks>[('Charlotte Salt', 0, 14), ('an English actress', 30, 48), ('her many characters', 64, 83), ('British and US television series', 87, 119), ('Casualty', 125, 133), ('Bedlam', 135, 141), ('The Musketeers', 146, 160), ('many movies', 170, 181), ('Beneath Still Waters', 193, 213), ('Beowulf', 223, 230)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'JJ', 'CC', 'NNP', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', 'CC', 'DT', 'NNPS', ',', 'RB', 'IN', 'JJ', 'NNS', ',', 'VBG', 'IN', 'RB', 'NNPS', 'IN', 'CD', ',', 'NNP', 'IN', 'CD', ',', 'CC', 'NN', 'CC', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

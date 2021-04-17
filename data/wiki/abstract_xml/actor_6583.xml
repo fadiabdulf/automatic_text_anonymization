@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lou Tellegen</title>
+<link/>https://en.wikipedia.org/wiki/Lou_Tellegen
+<annotated>0</annotated>
+<originalabstract>Lou Tellegen (born Isidor Louis Bernard Edmon van Dommelen, November 26, 1881 – October 29, 1934) was a Dutch-born silent film and stage actor, director and screenwriter.</originalabstract>
+<abstract>Lou_Tellegen ( born Isidor_Louis_Bernard_Edmon_van_Dommelen , November_26_,_1881 – October_29_,_1934 ) was a_Dutch-born_silent_film_and_stage_actor , director_and_screenwriter .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lou'), (4, 'Tellegen'), (13, '('), (14, 'born'), (19, 'Isidor'), (26, 'Louis'), (32, 'Bernard'), (40, 'Edmon'), (46, 'van'), (50, 'Dommelen'), (58, ','), (60, 'November'), (69, '26'), (71, ','), (73, '1881'), (78, '–'), (80, 'October'), (88, '29'), (90, ','), (92, '1934'), (96, ')'), (98, 'was'), (102, 'a'), (104, 'Dutch-born'), (115, 'silent'), (122, 'film'), (127, 'and'), (131, 'stage'), (137, 'actor'), (142, ','), (144, 'director'), (153, 'and'), (157, 'screenwriter'), (169, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lou Tellegen',0, 12), ('Isidor Louis Bernard Edmon van Dommelen',19, 58), ('November 26, 1881',60, 77), ('October 29, 1934',80, 96), ('a Dutch-born silent film and stage actor',102, 142), ('director and screenwriter',144, 169)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lou'), (4, 'Tellegen'), (13, '('), (14, 'born'), (19, 'Isidor'), (26, 'Louis'), (32, 'Bernard'), (40, 'Edmon'), (46, 'van'), (50, 'Dommelen'), (58, ','), (60, 'November'), (69, '26'), (71, ','), (73, '1881'), (78, '–'), (80, 'October'), (88, '29'), (90, ','), (92, '1934'), (96, ')'), (98, 'was'), (102, 'a'), (104, 'Dutch'), (109, '-'), (110, 'born'), (115, 'silent'), (122, 'film'), (127, 'and'), (131, 'stage'), (137, 'actor'), (142, ','), (144, 'director'), (153, 'and'), (157, 'screenwriter'), (169, '.')])</spacy_tokens>
+<spacy_chunks>[('Lou Tellegen', 0, 12), ('Isidor Louis Bernard', 19, 39), ('Edmon van Dommelen', 40, 58), ('November 26, 1881', 60, 77), ('October 29, 1934', 80, 96), ('a Dutch-born silent film', 102, 126), ('stage actor', 131, 142), ('director', 144, 152), ('screenwriter', 157, 169)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

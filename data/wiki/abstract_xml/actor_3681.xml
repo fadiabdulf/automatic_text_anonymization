@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Perry King</title>
+<link/>https://en.wikipedia.org/wiki/Perry_King
+<annotated>0</annotated>
+<originalabstract>Perry Firestone King (born April 30, 1948) is an American actor. He is best known for his role in the television series Riptide (1984–1986).
+King received a Golden Globe nomination for his role in the television film The Hasty Heart (1983), which is a remake of the 1949 film of the same name.</originalabstract>
+<abstract>Perry_Firestone_King ( born April_30_,_1948 ) is an_American_actor . He is_best_known for his_role in the_television_series_Riptide_(_1984 – 1986_) . King received a_Golden_Globe_nomination for his_role in the_television_film The_Hasty_Heart_(_1983_) , which is a_remake of the_1949_film of the_same_name .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Perry'), (6, 'Firestone'), (16, 'King'), (21, '('), (22, 'born'), (27, 'April'), (33, '30'), (35, ','), (37, '1948'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (63, '.'), (65, 'He'), (68, 'is'), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'his'), (90, 'role'), (95, 'in'), (98, 'the'), (102, 'television'), (113, 'series'), (120, 'Riptide'), (128, '('), (129, '1984'), (133, '–'), (134, '1986'), (138, ')'), (139, '.'), (141, 'King'), (146, 'received'), (155, 'a'), (157, 'Golden'), (164, 'Globe'), (170, 'nomination'), (181, 'for'), (185, 'his'), (189, 'role'), (194, 'in'), (197, 'the'), (201, 'television'), (212, 'film'), (217, 'The'), (221, 'Hasty'), (227, 'Heart'), (233, '('), (234, '1983'), (238, ')'), (239, ','), (241, 'which'), (247, 'is'), (250, 'a'), (252, 'remake'), (259, 'of'), (262, 'the'), (266, '1949'), (271, 'film'), (276, 'of'), (279, 'the'), (283, 'same'), (288, 'name'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Perry Firestone King',0, 20), ('April 30, 1948',27, 41), ('an American actor',46, 63), ('is best known',68, 81), ('his role',86, 94), ('the television series Riptide (1984',98, 133), ('1986)',134, 139), ('a Golden Globe nomination',155, 180), ('his role',185, 193), ('the television film',197, 216), ('The Hasty Heart (1983)',217, 239), ('a remake',250, 258), ('the 1949 film',262, 275), ('the same name',279, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'DT', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'WDT', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'CD', 'NN', 'IN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Perry'), (6, 'Firestone'), (16, 'King'), (21, '('), (22, 'born'), (27, 'April'), (33, '30'), (35, ','), (37, '1948'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'American'), (58, 'actor'), (63, '.'), (65, 'He'), (68, 'is'), (71, 'best'), (76, 'known'), (82, 'for'), (86, 'his'), (90, 'role'), (95, 'in'), (98, 'the'), (102, 'television'), (113, 'series'), (120, 'Riptide'), (128, '('), (129, '1984–1986'), (138, ')'), (139, '.'), (141, 'King'), (146, 'received'), (155, 'a'), (157, 'Golden'), (164, 'Globe'), (170, 'nomination'), (181, 'for'), (185, 'his'), (189, 'role'), (194, 'in'), (197, 'the'), (201, 'television'), (212, 'film'), (217, 'The'), (221, 'Hasty'), (227, 'Heart'), (233, '('), (234, '1983'), (238, ')'), (239, ','), (241, 'which'), (247, 'is'), (250, 'a'), (252, 'remake'), (259, 'of'), (262, 'the'), (266, '1949'), (271, 'film'), (276, 'of'), (279, 'the'), (283, 'same'), (288, 'name'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Perry Firestone King', 0, 20), ('April 30, 1948', 27, 41), ('an American actor', 46, 63), ('his role', 86, 94), ('the television series', 98, 119), ('Riptide', 120, 127), ('a Golden Globe nomination', 155, 180), ('the television film', 197, 216), ('The Hasty Heart', 217, 232), ('a remake', 250, 258), ('the 1949 film', 262, 275), ('the same name', 279, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'WDT', 'VBZ', 'DT', 'NN', 'IN', 'DT', 'CD', 'NN', 'IN', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

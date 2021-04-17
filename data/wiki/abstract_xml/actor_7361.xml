@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gig Young</title>
+<link/>https://en.wikipedia.org/wiki/Gig_Young
+<annotated>0</annotated>
+<originalabstract>Gig Young (born Byron Elsworth Barr; November 4, 1913 – October 19, 1978) was an American film, stage and television actor. He won an Academy Award for Best Supporting Actor for his performance in They Shoot Horses, Don't They? (1969). In 1978, he committed suicide, after murdering his wife.</originalabstract>
+<abstract>Gig_Young ( born Byron_Elsworth_Barr ; November_4_,_1913 – October_19_,_1978 ) was an_American_film_,_stage_and_television_actor . He won an_Academy_Award for Best_Supporting_Actor for his_performance in They Shoot Horses , Do n't They ? (_1969_) . In 1978 , he committed suicide , after murdering his_wife .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gig'), (4, 'Young'), (10, '('), (11, 'born'), (16, 'Byron'), (22, 'Elsworth'), (31, 'Barr'), (35, ';'), (37, 'November'), (46, '4'), (47, ','), (49, '1913'), (54, '–'), (56, 'October'), (64, '19'), (66, ','), (68, '1978'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'film'), (94, ','), (96, 'stage'), (102, 'and'), (106, 'television'), (117, 'actor'), (122, '.'), (124, 'He'), (127, 'won'), (131, 'an'), (134, 'Academy'), (142, 'Award'), (148, 'for'), (152, 'Best'), (157, 'Supporting'), (168, 'Actor'), (174, 'for'), (178, 'his'), (182, 'performance'), (194, 'in'), (197, 'They'), (202, 'Shoot'), (208, 'Horses'), (214, ','), (216, 'Do'), (218, 'n\'t'), (222, 'They'), (226, '?'), (228, '('), (229, '1969'), (233, ')'), (234, '.'), (236, 'In'), (239, '1978'), (243, ','), (245, 'he'), (248, 'committed'), (258, 'suicide'), (265, ','), (267, 'after'), (273, 'murdering'), (283, 'his'), (287, 'wife'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gig Young',0, 9), ('Byron Elsworth Barr',16, 35), ('November 4, 1913',37, 53), ('October 19, 1978',56, 72), ('an American film, stage and television actor',78, 122), ('an Academy Award',131, 147), ('Best Supporting Actor',152, 173), ('his performance',178, 193), ('(1969)',228, 234), ('his wife',283, 291)]</opennlp_chunks>
+<stanford_pos>['NN', 'NN', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', 'JJS', 'VBG', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'PRP', 'VB', 'NNS', ',', 'VBP', 'RB', 'PRP', '.', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'NN', ',', 'IN', 'VBG', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gig'), (4, 'Young'), (10, '('), (11, 'born'), (16, 'Byron'), (22, 'Elsworth'), (31, 'Barr'), (35, ';'), (37, 'November'), (46, '4'), (47, ','), (49, '1913'), (54, '–'), (56, 'October'), (64, '19'), (66, ','), (68, '1978'), (72, ')'), (74, 'was'), (78, 'an'), (81, 'American'), (90, 'film'), (94, ','), (96, 'stage'), (102, 'and'), (106, 'television'), (117, 'actor'), (122, '.'), (124, 'He'), (127, 'won'), (131, 'an'), (134, 'Academy'), (142, 'Award'), (148, 'for'), (152, 'Best'), (157, 'Supporting'), (168, 'Actor'), (174, 'for'), (178, 'his'), (182, 'performance'), (194, 'in'), (197, 'They'), (202, 'Shoot'), (208, 'Horses'), (214, ','), (216, 'Do'), (218, "n't"), (222, 'They'), (226, '?'), (228, '('), (229, '1969'), (233, ')'), (234, '.'), (236, 'In'), (239, '1978'), (243, ','), (245, 'he'), (248, 'committed'), (258, 'suicide'), (265, ','), (267, 'after'), (273, 'murdering'), (283, 'his'), (287, 'wife'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Gig Young', 0, 9), ('(born Byron Elsworth Barr', 10, 35), ('November 4, 1913', 37, 53), ('October 19, 1978', 56, 72), ('an American film', 78, 94), ('television actor', 106, 122), ('an Academy Award', 131, 147), ('Academy Award for Best Supporting Actor', 134, 173), ('his performance', 178, 193), ("They Shoot Horses, Don't They?", 197, 227), ('suicide', 258, 265), ('his wife', 283, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'PRP', 'VBP', 'NNPS', ',', 'VBP', 'RB', 'PRP', '.', '-LRB-', 'CD', '-RRB-', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'NN', ',', 'IN', 'VBG', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

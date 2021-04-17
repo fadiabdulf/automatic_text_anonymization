@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hana Hatae</title>
+<link/>https://en.wikipedia.org/wiki/Hana_Hatae
+<annotated>0</annotated>
+<originalabstract>Hana Rebecca Hatae (born July 15, 1988) is an American actress.  As a child actress, her first role was as Molly O'Brien in Star Trek: The Next Generation and Star Trek: Deep Space Nine, a role which she reprised in the fan-made series Star Trek: Renegades.</originalabstract>
+<abstract>Hana_Rebecca_Hatae ( born July_15_,_1988 ) is an_American_actress . As a_child_actress , her_first_role was as Molly_O'Brien in Star_Trek : The_Next_Generation and Star_Trek : Deep_Space_Nine , a_role which she reprised in the_fan-made_series_Star_Trek : Renegades .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hana'), (5, 'Rebecca'), (13, 'Hatae'), (19, '('), (20, 'born'), (25, 'July'), (30, '15'), (32, ','), (34, '1988'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (62, '.'), (65, 'As'), (68, 'a'), (70, 'child'), (76, 'actress'), (83, ','), (85, 'her'), (89, 'first'), (95, 'role'), (100, 'was'), (104, 'as'), (107, 'Molly'), (113, 'O\'Brien'), (121, 'in'), (124, 'Star'), (129, 'Trek'), (133, ':'), (135, 'The'), (139, 'Next'), (144, 'Generation'), (155, 'and'), (159, 'Star'), (164, 'Trek'), (168, ':'), (170, 'Deep'), (175, 'Space'), (181, 'Nine'), (185, ','), (187, 'a'), (189, 'role'), (194, 'which'), (200, 'she'), (204, 'reprised'), (213, 'in'), (216, 'the'), (220, 'fan-made'), (229, 'series'), (236, 'Star'), (241, 'Trek'), (245, ':'), (247, 'Renegades'), (256, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hana Rebecca Hatae',0, 18), ('July 15, 1988',25, 38), ('an American actress',43, 62), ('a child actress',68, 83), ('her first role',85, 99), ('Molly O\'Brien',107, 120), ('Star Trek',124, 133), ('The Next Generation',135, 154), ('Star Trek',159, 168), ('Deep Space Nine',170, 185), ('a role',187, 193), ('the fan-made series Star Trek',216, 245)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'DT', 'NN', 'NN', ',', 'PRP$', 'JJ', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ':', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ':', 'NNP', 'NNP', 'NNP', ',', 'DT', 'NN', 'WDT', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', ':', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hana'), (5, 'Rebecca'), (13, 'Hatae'), (19, '('), (20, 'born'), (25, 'July'), (30, '15'), (32, ','), (34, '1988'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (62, '.'), (65, 'As'), (68, 'a'), (70, 'child'), (76, 'actress'), (83, ','), (85, 'her'), (89, 'first'), (95, 'role'), (100, 'was'), (104, 'as'), (107, 'Molly'), (113, "O'Brien"), (121, 'in'), (124, 'Star'), (129, 'Trek'), (133, ':'), (135, 'The'), (139, 'Next'), (144, 'Generation'), (155, 'and'), (159, 'Star'), (164, 'Trek'), (168, ':'), (170, 'Deep'), (175, 'Space'), (181, 'Nine'), (185, ','), (187, 'a'), (189, 'role'), (194, 'which'), (200, 'she'), (204, 'reprised'), (213, 'in'), (216, 'the'), (220, 'fan'), (223, '-'), (224, 'made'), (229, 'series'), (236, 'Star'), (241, 'Trek'), (245, ':'), (247, 'Renegades'), (256, '.')])</spacy_tokens>
+<spacy_chunks>[('Hana Rebecca Hatae', 0, 18), ('an American actress', 43, 62), ('a child actress', 68, 83), ('her first role', 85, 99), ("Molly O'Brien", 107, 120), ('Star Trek', 124, 133), ('The Next Generation', 135, 154), (': Deep Space Nine', 168, 185), ('a role', 187, 193), ('the fan-made series', 216, 235), ('Renegades', 247, 256)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'DT', 'NN', 'NN', ',', 'PRP$', 'JJ', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ':', 'DT', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ':', 'JJ', 'NNP', 'NNP', ',', 'DT', 'NN', 'WDT', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'HYPH', 'VBN', 'NN', 'NNP', 'NNP', ':', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

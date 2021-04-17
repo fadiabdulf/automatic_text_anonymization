@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harold Switzer</title>
+<link/>https://en.wikipedia.org/wiki/Harold_Switzer
+<annotated>0</annotated>
+<originalabstract>Harold Frederick Switzer (January 16, 1925 – April 14, 1967) was an American child actor, most notable for appearing in the Our Gang short subjects series as an extra. He was the older brother of gang member Carl "Alfalfa" Switzer, one of the series' most popular and best-remembered characters.</originalabstract>
+<abstract>Harold_Frederick_Switzer ( January_16_,_1925 – April_14_,_1967 ) was an_American_child_actor , most_notable for appearing in the_Our_Gang_short_subjects_series as an_extra . He was the_older_brother of gang_member_Carl_"_Alfalfa_"_Switzer , one of the_series_'_most_popular_and_best-remembered_characters .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harold'), (7, 'Frederick'), (17, 'Switzer'), (25, '('), (26, 'January'), (34, '16'), (36, ','), (38, '1925'), (43, '–'), (45, 'April'), (51, '14'), (53, ','), (55, '1967'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'child'), (83, 'actor'), (88, ','), (90, 'most'), (95, 'notable'), (103, 'for'), (107, 'appearing'), (117, 'in'), (120, 'the'), (124, 'Our'), (128, 'Gang'), (133, 'short'), (139, 'subjects'), (148, 'series'), (155, 'as'), (158, 'an'), (161, 'extra'), (166, '.'), (168, 'He'), (171, 'was'), (175, 'the'), (179, 'older'), (185, 'brother'), (193, 'of'), (196, 'gang'), (201, 'member'), (208, 'Carl'), (213, '"'), (214, 'Alfalfa'), (221, '"'), (223, 'Switzer'), (230, ','), (232, 'one'), (236, 'of'), (239, 'the'), (243, 'series'), (249, '\''), (251, 'most'), (256, 'popular'), (264, 'and'), (268, 'best-remembered'), (284, 'characters'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Harold Frederick Switzer',0, 24), ('January 16, 1925',26, 42), ('April 14, 1967',45, 59), ('an American child actor',65, 88), ('most notable',90, 102), ('the Our Gang short subjects series',120, 154), ('an extra',158, 166), ('the older brother',175, 192), ('gang member Carl "Alfalfa" Switzer',196, 230), ('the series\' most popular and best-remembered characters',239, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'JJS', 'JJ', 'IN', 'VBG', 'IN', 'DT', 'PRP$', 'NN', 'JJ', 'NNS', 'NN', 'IN', 'DT', 'JJ', '.', 'PRP', 'VBD', 'DT', 'JJR', 'NN', 'IN', 'NN', 'NN', 'NNP', '``', 'NNP', '\'\'', 'NNP', ',', 'CD', 'IN', 'DT', 'NN', '\'\'', 'RBS', 'JJ', 'CC', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harold'), (7, 'Frederick'), (17, 'Switzer'), (25, '('), (26, 'January'), (34, '16'), (36, ','), (38, '1925'), (43, '–'), (45, 'April'), (51, '14'), (53, ','), (55, '1967'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'child'), (83, 'actor'), (88, ','), (90, 'most'), (95, 'notable'), (103, 'for'), (107, 'appearing'), (117, 'in'), (120, 'the'), (124, 'Our'), (128, 'Gang'), (133, 'short'), (139, 'subjects'), (148, 'series'), (155, 'as'), (158, 'an'), (161, 'extra'), (166, '.'), (168, 'He'), (171, 'was'), (175, 'the'), (179, 'older'), (185, 'brother'), (193, 'of'), (196, 'gang'), (201, 'member'), (208, 'Carl'), (213, '"'), (214, 'Alfalfa'), (221, '"'), (223, 'Switzer'), (230, ','), (232, 'one'), (236, 'of'), (239, 'the'), (243, 'series'), (249, "'"), (251, 'most'), (256, 'popular'), (264, 'and'), (268, 'best'), (272, '-'), (273, 'remembered'), (284, 'characters'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Harold Frederick Switzer', 0, 24), ('January 16, 1925', 26, 42), ('April 14, 1967', 45, 59), ('an American child actor', 65, 88), ('the Our Gang short subjects series', 120, 154), ('an extra', 158, 166), ('the older brother', 175, 192), ('gang member Carl "Alfalfa" Switzer', 196, 230), ("the series' most popular and best-remembered characters", 239, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', ',', 'RBS', 'JJ', 'IN', 'VBG', 'IN', 'DT', 'PRP$', 'NNP', 'JJ', 'NNS', 'NN', 'IN', 'DT', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJR', 'NN', 'IN', 'NN', 'NN', 'NNP', '``', 'NNP', "''", 'NNP', ',', 'CD', 'IN', 'DT', 'NN', 'POS', 'RBS', 'JJ', 'CC', 'RBS', 'HYPH', 'VBN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

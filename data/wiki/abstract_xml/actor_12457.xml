@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marianne Gravatte</title>
+<link/>https://en.wikipedia.org/wiki/Marianne_Gravatte
+<annotated>0</annotated>
+<originalabstract>Marianne Gravatte (born December 13, 1959 in Hollywood, California) is an American model and actress. She was chosen as Playboy magazine's Playmate of the Month for the October 1982 issue, then as the 1983 Playmate of the Year. Her original pictorial was photographed by Richard Fegley.</originalabstract>
+<abstract>Marianne_Gravatte ( born December_13_,_1959 in Hollywood , California ) is an_American_model_and_actress . She was_chosen as Playboy_magazine 's_Playmate of the_Month for the_October_1982_issue , then as the_1983_Playmate of the_Year . Her_original_pictorial was_photographed by Richard_Fegley .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marianne'), (9, 'Gravatte'), (18, '('), (19, 'born'), (24, 'December'), (33, '13'), (35, ','), (37, '1959'), (42, 'in'), (45, 'Hollywood'), (54, ','), (56, 'California'), (66, ')'), (68, 'is'), (71, 'an'), (74, 'American'), (83, 'model'), (89, 'and'), (93, 'actress'), (100, '.'), (102, 'She'), (106, 'was'), (110, 'chosen'), (117, 'as'), (120, 'Playboy'), (128, 'magazine'), (136, '\'s'), (139, 'Playmate'), (148, 'of'), (151, 'the'), (155, 'Month'), (161, 'for'), (165, 'the'), (169, 'October'), (177, '1982'), (182, 'issue'), (187, ','), (189, 'then'), (194, 'as'), (197, 'the'), (201, '1983'), (206, 'Playmate'), (215, 'of'), (218, 'the'), (222, 'Year'), (226, '.'), (228, 'Her'), (232, 'original'), (241, 'pictorial'), (251, 'was'), (255, 'photographed'), (268, 'by'), (271, 'Richard'), (279, 'Fegley'), (285, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marianne Gravatte',0, 17), ('December 13, 1959',24, 41), ('an American model and actress',71, 100), ('was chosen',106, 116), ('Playboy magazine',120, 136), ('\'s Playmate',136, 147), ('the Month',151, 160), ('the October 1982 issue',165, 187), ('the 1983 Playmate',197, 214), ('the Year',218, 226), ('Her original pictorial',228, 250), ('was photographed',251, 267), ('Richard Fegley',271, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NN', 'POS', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'CD', 'NN', ',', 'RB', 'IN', 'DT', 'CD', 'NNP', 'IN', 'DT', 'NN', '.', 'PRP$', 'JJ', 'JJ', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marianne'), (9, 'Gravatte'), (18, '('), (19, 'born'), (24, 'December'), (33, '13'), (35, ','), (37, '1959'), (42, 'in'), (45, 'Hollywood'), (54, ','), (56, 'California'), (66, ')'), (68, 'is'), (71, 'an'), (74, 'American'), (83, 'model'), (89, 'and'), (93, 'actress'), (100, '.'), (102, 'She'), (106, 'was'), (110, 'chosen'), (117, 'as'), (120, 'Playboy'), (128, 'magazine'), (136, "'s"), (139, 'Playmate'), (148, 'of'), (151, 'the'), (155, 'Month'), (161, 'for'), (165, 'the'), (169, 'October'), (177, '1982'), (182, 'issue'), (187, ','), (189, 'then'), (194, 'as'), (197, 'the'), (201, '1983'), (206, 'Playmate'), (215, 'of'), (218, 'the'), (222, 'Year'), (226, '.'), (228, 'Her'), (232, 'original'), (241, 'pictorial'), (251, 'was'), (255, 'photographed'), (268, 'by'), (271, 'Richard'), (279, 'Fegley'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('Marianne Gravatte', 0, 17), ('December 13, 1959', 24, 41), ('Hollywood, California', 45, 66), ('an American model', 71, 88), ('actress', 93, 100), ("Playboy magazine's Playmate", 120, 147), ('the Month', 151, 160), ('the October 1982 issue', 165, 187), ('the 1983 Playmate', 197, 214), ('the Year', 218, 226), ('Her original pictorial', 228, 250), ('Richard Fegley', 271, 285)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NN', 'POS', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'CD', 'NN', ',', 'RB', 'IN', 'DT', 'CD', 'NNP', 'IN', 'DT', 'NNP', '.', 'PRP$', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

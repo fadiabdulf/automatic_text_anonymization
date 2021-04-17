@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gordon Harris (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Gordon_Harris_(actor)
+<annotated>0</annotated>
+<originalabstract>Jamie Harris (born 15 May 1963) is a British actor. He is best known for his role as The Hook-Handed Man in Lemony Snicket's A Series of Unfortunate Events, Rodney in Rise of the Planet of the Apes and Gordon in Marvel's Agents of S.H.I.E.L.D..</originalabstract>
+<abstract>Jamie_Harris ( born 15_May_1963 ) is a_British_actor . He is_best_known for his_role as The_Hook-Handed_Man in Lemony_Snicket 's_A_Series of Unfortunate_Events , Rodney in Rise of the_Planet of the_Apes and Gordon in Marvel 's_Agents of S.H.I.E.L.D. .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jamie'), (6, 'Harris'), (13, '('), (14, 'born'), (19, '15'), (22, 'May'), (26, '1963'), (30, ')'), (32, 'is'), (35, 'a'), (37, 'British'), (45, 'actor'), (50, '.'), (52, 'He'), (55, 'is'), (58, 'best'), (63, 'known'), (69, 'for'), (73, 'his'), (77, 'role'), (82, 'as'), (85, 'The'), (89, 'Hook-Handed'), (101, 'Man'), (105, 'in'), (108, 'Lemony'), (115, 'Snicket'), (122, '\'s'), (125, 'A'), (127, 'Series'), (134, 'of'), (137, 'Unfortunate'), (149, 'Events'), (155, ','), (157, 'Rodney'), (164, 'in'), (167, 'Rise'), (172, 'of'), (175, 'the'), (179, 'Planet'), (186, 'of'), (189, 'the'), (193, 'Apes'), (198, 'and'), (202, 'Gordon'), (209, 'in'), (212, 'Marvel'), (218, '\'s'), (221, 'Agents'), (228, 'of'), (231, 'S.H.I.E.L.D.'), (243, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jamie Harris',0, 12), ('15 May 1963',19, 30), ('a British actor',35, 50), ('is best known',55, 68), ('his role',73, 81), ('The Hook-Handed Man',85, 104), ('Lemony Snicket',108, 122), ('\'s A Series',122, 133), ('Unfortunate Events',137, 155), ('the Planet',175, 185), ('the Apes',189, 197), ('\'s Agents',218, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'IN', 'NNP', 'NNS', ',', 'NNP', 'IN', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNPS', 'CC', 'NNP', 'IN', 'NNP', 'POS', 'NNS', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jamie'), (6, 'Harris'), (13, '('), (14, 'born'), (19, '15'), (22, 'May'), (26, '1963'), (30, ')'), (32, 'is'), (35, 'a'), (37, 'British'), (45, 'actor'), (50, '.'), (52, 'He'), (55, 'is'), (58, 'best'), (63, 'known'), (69, 'for'), (73, 'his'), (77, 'role'), (82, 'as'), (85, 'The'), (89, 'Hook'), (93, '-'), (94, 'Handed'), (101, 'Man'), (105, 'in'), (108, 'Lemony'), (115, 'Snicket'), (122, "'s"), (125, 'A'), (127, 'Series'), (134, 'of'), (137, 'Unfortunate'), (149, 'Events'), (155, ','), (157, 'Rodney'), (164, 'in'), (167, 'Rise'), (172, 'of'), (175, 'the'), (179, 'Planet'), (186, 'of'), (189, 'the'), (193, 'Apes'), (198, 'and'), (202, 'Gordon'), (209, 'in'), (212, 'Marvel'), (218, "'s"), (221, 'Agents'), (228, 'of'), (231, 'S.H.I.E.L.D'), (242, '..')])</spacy_tokens>
+<spacy_chunks>[('Jamie Harris', 0, 12), ('15 May 1963', 19, 30), ('a British actor', 35, 50), ('his role', 73, 81), ('The Hook-Handed Man', 85, 104), ("Lemony Snicket's A Series", 108, 133), ('Unfortunate Events', 137, 155), ('Rodney', 157, 163), ('the Planet', 175, 185), ('the Apes', 189, 197), ('Gordon', 202, 208), ("Marvel's Agents", 212, 227)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'HYPH', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'DT', 'NNPS', 'CC', 'NNP', 'IN', 'NNP', 'POS', 'NNPS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

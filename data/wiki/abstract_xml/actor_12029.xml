@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Shamari Fears</title>
+<link/>https://en.wikipedia.org/wiki/Shamari_Fears
+<annotated>0</annotated>
+<originalabstract>Shamari DeVoe (born February 22, 1980) is the lead singer from the multi-platinum R group Blaque.  She currently stars on the reality television series The Real Housewives of Atlanta</originalabstract>
+<abstract>Shamari_DeVoe ( born February_22_,_1980 ) is the_lead_singer from the_multi-platinum_R . She currently stars on the_reality_television_series The_Real_Housewives of Atlanta</abstract>
+<stanford_tokens>OrderedDict([(0, 'Shamari'), (8, 'DeVoe'), (14, '('), (15, 'born'), (20, 'February'), (29, '22'), (31, ','), (33, '1980'), (37, ')'), (39, 'is'), (42, 'the'), (46, 'lead'), (51, 'singer'), (58, 'from'), (63, 'the'), (67, 'multi-platinum'), (82, 'R'), (86, 'group'), (92, 'Blaque'), (98, '.'), (101, 'She'), (105, 'currently'), (115, 'stars'), (121, 'on'), (124, 'the'), (128, 'reality'), (136, 'television'), (147, 'series'), (154, 'The'), (158, 'Real'), (163, 'Housewives'), (174, 'of'), (177, 'Atlanta')])</stanford_tokens>
+<opennlp_chunks>[('Shamari DeVoe',0, 13), ('February 22, 1980',20, 37), ('the lead singer',42, 57), ('the multi-platinum R group Blaque',63, 98), ('the reality television series',124, 153), ('The Real Housewives',154, 173)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', '.', 'PRP', 'RB', 'VBZ', 'IN', 'DT', 'NN', 'NN', 'NN', 'DT', 'JJ', 'NNS', 'IN', 'NNP']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Shamari'), (8, 'DeVoe'), (14, '('), (15, 'born'), (20, 'February'), (29, '22'), (31, ','), (33, '1980'), (37, ')'), (39, 'is'), (42, 'the'), (46, 'lead'), (51, 'singer'), (58, 'from'), (63, 'the'), (67, 'multi'), (72, '-'), (73, 'platinum'), (82, 'R'), (84, 'group'), (90, 'Blaque'), (96, '.'), (99, 'She'), (103, 'currently'), (113, 'stars'), (119, 'on'), (122, 'the'), (126, 'reality'), (134, 'television'), (145, 'series'), (152, 'The'), (156, 'Real'), (161, 'Housewives'), (172, 'of'), (175, 'Atlanta')])</spacy_tokens>
+<spacy_chunks>[('Shamari DeVoe', 0, 13), ('February 22, 1980', 20, 37), ('the lead singer', 42, 57), ('the multi-platinum R group', 63, 89), ('Blaque', 90, 96), ('the reality television series', 122, 151), ('The Real Housewives of Atlanta', 152, 182)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NN', 'NNP', '.', 'PRP', 'RB', 'VBZ', 'IN', 'DT', 'NN', 'NN', 'NN', 'DT', 'JJ', 'NNPS', 'IN', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

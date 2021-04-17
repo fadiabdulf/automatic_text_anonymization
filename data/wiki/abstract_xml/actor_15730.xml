@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lisa Vidal</title>
+<link/>https://en.wikipedia.org/wiki/Lisa_Vidal
+<annotated>0</annotated>
+<originalabstract>Lisa Vidal (born June 13, 1965) is an American actress, best known for her roles in television series Third Watch, The Division, ER, and The Event. In 2013, Vidal began starring in the BET drama series Being Mary Jane.</originalabstract>
+<abstract>Lisa_Vidal ( born June_13_,_1965 ) is an_American_actress , best_known for her_roles in television_series_Third_Watch , The_Division_,_ER , and The_Event . In 2013 , Vidal began_starring in the_BET_drama_series Being Mary_Jane .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lisa'), (5, 'Vidal'), (11, '('), (12, 'born'), (17, 'June'), (22, '13'), (24, ','), (26, '1965'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'American'), (47, 'actress'), (54, ','), (56, 'best'), (61, 'known'), (67, 'for'), (71, 'her'), (75, 'roles'), (81, 'in'), (84, 'television'), (95, 'series'), (102, 'Third'), (108, 'Watch'), (113, ','), (115, 'The'), (119, 'Division'), (127, ','), (129, 'ER'), (131, ','), (133, 'and'), (137, 'The'), (141, 'Event'), (146, '.'), (148, 'In'), (151, '2013'), (155, ','), (157, 'Vidal'), (163, 'began'), (169, 'starring'), (178, 'in'), (181, 'the'), (185, 'BET'), (189, 'drama'), (195, 'series'), (202, 'Being'), (208, 'Mary'), (213, 'Jane'), (217, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lisa Vidal',0, 10), ('June 13, 1965',17, 30), ('an American actress',35, 54), ('best known',56, 66), ('her roles',71, 80), ('television series Third Watch',84, 113), ('The Division, ER',115, 131), ('The Event',137, 146), ('began starring',163, 177), ('the BET drama series',181, 201), ('Mary Jane',208, 217)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NN', 'NNP', 'NNP', ',', 'DT', 'NNP', ',', 'NN', ',', 'CC', 'DT', 'NN', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'VBG', 'IN', 'DT', 'NNP', 'NN', 'NN', 'VBG', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lisa'), (5, 'Vidal'), (11, '('), (12, 'born'), (17, 'June'), (22, '13'), (24, ','), (26, '1965'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'American'), (47, 'actress'), (54, ','), (56, 'best'), (61, 'known'), (67, 'for'), (71, 'her'), (75, 'roles'), (81, 'in'), (84, 'television'), (95, 'series'), (102, 'Third'), (108, 'Watch'), (113, ','), (115, 'The'), (119, 'Division'), (127, ','), (129, 'ER'), (131, ','), (133, 'and'), (137, 'The'), (141, 'Event'), (146, '.'), (148, 'In'), (151, '2013'), (155, ','), (157, 'Vidal'), (163, 'began'), (169, 'starring'), (178, 'in'), (181, 'the'), (185, 'BET'), (189, 'drama'), (195, 'series'), (202, 'Being'), (208, 'Mary'), (213, 'Jane'), (217, '.')])</spacy_tokens>
+<spacy_chunks>[('Lisa Vidal', 0, 10), ('June 13, 1965', 17, 30), ('an American actress', 35, 54), ('her roles', 71, 80), ('television series Third Watch', 84, 113), ('The Division', 115, 127), ('The Event', 137, 146), ('the BET drama series', 181, 201), ('Being Mary Jane', 202, 217)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NN', 'NNP', 'NNP', ',', 'DT', 'NNP', ',', 'NNP', ',', 'CC', 'DT', 'NN', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'VBG', 'IN', 'DT', 'NNP', 'NN', 'NN', 'VBG', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ray Gunkel</title>
+<link/>https://en.wikipedia.org/wiki/Ray_Gunkel
+<annotated>0</annotated>
+<originalabstract>Raymond Fred "Ray" Gunkel (February 16, 1924 - August 1, 1972) was an American professional wrestler and promoter in the state of Georgia. He died of heart trauma after a match in Savannah, Georgia in which he defeated Ox Baker.</originalabstract>
+<abstract>Raymond_Fred_"_Ray_"_Gunkel ( February_16_,_1924 - August_1_,_1972 ) was an_American_professional_wrestler_and_promoter in the_state of Georgia . He died of heart_trauma after a_match in Savannah , Georgia in which he defeated Ox_Baker .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Raymond'), (8, 'Fred'), (13, '"'), (14, 'Ray'), (17, '"'), (19, 'Gunkel'), (26, '('), (27, 'February'), (36, '16'), (38, ','), (40, '1924'), (45, '-'), (47, 'August'), (54, '1'), (55, ','), (57, '1972'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'American'), (79, 'professional'), (92, 'wrestler'), (101, 'and'), (105, 'promoter'), (114, 'in'), (117, 'the'), (121, 'state'), (127, 'of'), (130, 'Georgia'), (137, '.'), (139, 'He'), (142, 'died'), (147, 'of'), (150, 'heart'), (156, 'trauma'), (163, 'after'), (169, 'a'), (171, 'match'), (177, 'in'), (180, 'Savannah'), (188, ','), (190, 'Georgia'), (198, 'in'), (201, 'which'), (207, 'he'), (210, 'defeated'), (219, 'Ox'), (222, 'Baker'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Raymond Fred "Ray" Gunkel',0, 25), ('February 16, 1924',27, 44), ('August 1, 1972',47, 61), ('an American professional wrestler and promoter',67, 113), ('the state',117, 126), ('heart trauma',150, 162), ('a match',169, 176), ('Ox Baker',219, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', 'IN', 'WDT', 'PRP', 'VBD', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Raymond'), (8, 'Fred'), (13, '"'), (14, 'Ray'), (17, '"'), (19, 'Gunkel'), (26, '('), (27, 'February'), (36, '16'), (38, ','), (40, '1924'), (45, '-'), (47, 'August'), (54, '1'), (55, ','), (57, '1972'), (61, ')'), (63, 'was'), (67, 'an'), (70, 'American'), (79, 'professional'), (92, 'wrestler'), (101, 'and'), (105, 'promoter'), (114, 'in'), (117, 'the'), (121, 'state'), (127, 'of'), (130, 'Georgia'), (137, '.'), (139, 'He'), (142, 'died'), (147, 'of'), (150, 'heart'), (156, 'trauma'), (163, 'after'), (169, 'a'), (171, 'match'), (177, 'in'), (180, 'Savannah'), (188, ','), (190, 'Georgia'), (198, 'in'), (201, 'which'), (207, 'he'), (210, 'defeated'), (219, 'Ox'), (222, 'Baker'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Raymond Fred', 0, 12), ('"Ray" Gunkel', 13, 25), ('February 16, 1924', 27, 44), ('August 1, 1972', 47, 61), ('an American professional wrestler', 67, 100), ('promoter', 105, 113), ('the state', 117, 126), ('Georgia', 130, 137), ('heart trauma', 150, 162), ('a match', 169, 176), ('Savannah, Georgia', 180, 197), ('Ox Baker', 219, 227)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', 'IN', 'WDT', 'PRP', 'VBD', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

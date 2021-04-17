@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rufus (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Rufus_(actor)
+<annotated>0</annotated>
+<originalabstract>Rufus (born 19 December 1942) or Zio Vittorio is the stage name of Italian-French actor Jacques Narcy. He is  best known to international film audiences for his performance as Raphaël, the father of Amélie Poulain in Amélie (2001).</originalabstract>
+<abstract>Rufus ( born 19_December_1942 ) or Zio_Vittorio is the_stage_name of Italian-French_actor_Jacques_Narcy . He is_best_known to international_film_audiences for his_performance as Raphaël , the_father of Amélie_Poulain in Amélie_(_2001_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rufus'), (6, '('), (7, 'born'), (12, '19'), (15, 'December'), (24, '1942'), (28, ')'), (30, 'or'), (33, 'Zio'), (37, 'Vittorio'), (46, 'is'), (49, 'the'), (53, 'stage'), (59, 'name'), (64, 'of'), (67, 'Italian-French'), (82, 'actor'), (88, 'Jacques'), (96, 'Narcy'), (101, '.'), (103, 'He'), (106, 'is'), (110, 'best'), (115, 'known'), (121, 'to'), (124, 'international'), (138, 'film'), (143, 'audiences'), (153, 'for'), (157, 'his'), (161, 'performance'), (173, 'as'), (176, 'Raphaël'), (183, ','), (185, 'the'), (189, 'father'), (196, 'of'), (199, 'Amélie'), (206, 'Poulain'), (214, 'in'), (217, 'Amélie'), (224, '('), (225, '2001'), (229, ')'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('19 December 1942',12, 28), ('Zio Vittorio',33, 45), ('the stage name',49, 63), ('Italian-French actor Jacques Narcy',67, 101), ('is  best known',106, 120), ('international film audiences',124, 152), ('his performance',157, 172), ('the father',185, 195), ('Amélie Poulain',199, 213), ('Amélie (2001)',217, 230)]</opennlp_chunks>
+<stanford_pos>['NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'VBZ', 'DT', 'NN', 'NN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'TO', 'JJ', 'NN', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'NN', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rufus'), (6, '('), (7, 'born'), (12, '19'), (15, 'December'), (24, '1942'), (28, ')'), (30, 'or'), (33, 'Zio'), (37, 'Vittorio'), (46, 'is'), (49, 'the'), (53, 'stage'), (59, 'name'), (64, 'of'), (67, 'Italian'), (74, '-'), (75, 'French'), (82, 'actor'), (88, 'Jacques'), (96, 'Narcy'), (101, '.'), (103, 'He'), (106, 'is'), (110, 'best'), (115, 'known'), (121, 'to'), (124, 'international'), (138, 'film'), (143, 'audiences'), (153, 'for'), (157, 'his'), (161, 'performance'), (173, 'as'), (176, 'Raphaël'), (183, ','), (185, 'the'), (189, 'father'), (196, 'of'), (199, 'Amélie'), (206, 'Poulain'), (214, 'in'), (217, 'Amélie'), (224, '('), (225, '2001'), (229, ')'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[('19 December 1942', 12, 28), ('Zio Vittorio', 33, 45), ('the stage name', 49, 63), ('Italian-French actor Jacques Narcy', 67, 101), ('international film audiences', 124, 152), ('his performance', 157, 172), ('Raphaël', 176, 183), ('the father', 185, 195), ('Amélie Poulain', 199, 213)]</spacy_chunks>
+<spacy_pos>['NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'VBZ', 'DT', 'NN', 'NN', 'IN', 'JJ', 'HYPH', 'JJ', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'PRP$', 'NN', 'IN', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

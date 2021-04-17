@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Steve Bannos</title>
+<link/>https://en.wikipedia.org/wiki/Steve_Bannos
+<annotated>0</annotated>
+<originalabstract>Steve Bannos (born August 5, 1960) is an American television and film actor, writer and photo dealer. As an actor, he had cameos in Judd Apatow and Paul Feig films, and is also known for his portrayal of Frank Kowchevski on the short-lived NBC dramedy Freaks and Geeks.</originalabstract>
+<abstract>Steve_Bannos ( born August_5_,_1960 ) is an_American_television_and_film_actor , writer_and_photo_dealer . As an_actor , he had cameos in Judd_Apatow and Paul_Feig_films , and is_also_known for his_portrayal of Frank_Kowchevski on the_short-lived_NBC_dramedy_Freaks_and_Geeks .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Steve'), (6, 'Bannos'), (13, '('), (14, 'born'), (19, 'August'), (26, '5'), (27, ','), (29, '1960'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'television'), (61, 'and'), (65, 'film'), (70, 'actor'), (75, ','), (77, 'writer'), (84, 'and'), (88, 'photo'), (94, 'dealer'), (100, '.'), (102, 'As'), (105, 'an'), (108, 'actor'), (113, ','), (115, 'he'), (118, 'had'), (122, 'cameos'), (129, 'in'), (132, 'Judd'), (137, 'Apatow'), (144, 'and'), (148, 'Paul'), (153, 'Feig'), (158, 'films'), (163, ','), (165, 'and'), (169, 'is'), (172, 'also'), (177, 'known'), (183, 'for'), (187, 'his'), (191, 'portrayal'), (201, 'of'), (204, 'Frank'), (210, 'Kowchevski'), (221, 'on'), (224, 'the'), (228, 'short-lived'), (240, 'NBC'), (244, 'dramedy'), (252, 'Freaks'), (259, 'and'), (263, 'Geeks'), (268, '.')])</stanford_tokens>
+<opennlp_chunks>[('Steve Bannos',0, 12), ('August 5, 1960',19, 33), ('an American television and film actor',38, 75), ('writer and photo dealer',77, 100), ('an actor',105, 113), ('Judd Apatow',132, 143), ('Paul Feig films',148, 163), ('is also known',169, 182), ('his portrayal',187, 200), ('Frank Kowchevski',204, 220), ('the short-lived NBC dramedy Freaks and Geeks',224, 268)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'DT', 'NN', ',', 'PRP', 'VBD', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNS', ',', 'CC', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'NNP', 'CC', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Steve'), (6, 'Bannos'), (13, '('), (14, 'born'), (19, 'August'), (26, '5'), (27, ','), (29, '1960'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'television'), (61, 'and'), (65, 'film'), (70, 'actor'), (75, ','), (77, 'writer'), (84, 'and'), (88, 'photo'), (94, 'dealer'), (100, '.'), (102, 'As'), (105, 'an'), (108, 'actor'), (113, ','), (115, 'he'), (118, 'had'), (122, 'cameos'), (129, 'in'), (132, 'Judd'), (137, 'Apatow'), (144, 'and'), (148, 'Paul'), (153, 'Feig'), (158, 'films'), (163, ','), (165, 'and'), (169, 'is'), (172, 'also'), (177, 'known'), (183, 'for'), (187, 'his'), (191, 'portrayal'), (201, 'of'), (204, 'Frank'), (210, 'Kowchevski'), (221, 'on'), (224, 'the'), (228, 'short'), (233, '-'), (234, 'lived'), (240, 'NBC'), (244, 'dramedy'), (252, 'Freaks'), (259, 'and'), (263, 'Geeks'), (268, '.')])</spacy_tokens>
+<spacy_chunks>[('Steve Bannos', 0, 12), ('August 5, 1960', 19, 33), ('an American television and film actor', 38, 75), ('writer', 77, 83), ('photo dealer', 88, 100), ('an actor', 105, 113), ('Judd Apatow', 132, 143), ('Paul Feig', 148, 157), ('his portrayal', 187, 200), ('Frank Kowchevski', 204, 220), ('the short-lived NBC dramedy Freaks', 224, 258), ('Freaks and Geeks', 252, 268)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'DT', 'NN', ',', 'PRP', 'VBD', 'JJ', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNS', ',', 'CC', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'RB', 'HYPH', 'VBN', 'NNP', 'NN', 'NNP', 'CC', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

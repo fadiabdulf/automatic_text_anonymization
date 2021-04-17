@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Otto Hulett</title>
+<link/>https://en.wikipedia.org/wiki/Otto_Hulett
+<annotated>0</annotated>
+<originalabstract>Otto Hulett (February 27, 1898 – September 1, 1983) was an American film, television and stage actor.
+Hulett was born in Salina, Kansas. As an actor, he was best known for his roles in The Mob (1951), Idols in the Dust (1951), and Carbine Williams (1952).He died in Katonah, New York.</originalabstract>
+<abstract>Otto_Hulett ( February_27_,_1898 – September_1_,_1983 ) was an_American_film_,_television_and_stage_actor . Hulett was_born in Salina , Kansas . As an_actor , he was_best_known for his_roles in The_Mob_(_1951_) , Idols in the_Dust_(_1951_) , and Carbine_Williams_(_1952_) . He died in Katonah , New_York .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Otto'), (5, 'Hulett'), (12, '('), (13, 'February'), (22, '27'), (24, ','), (26, '1898'), (31, '–'), (33, 'September'), (43, '1'), (44, ','), (46, '1983'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'film'), (72, ','), (74, 'television'), (85, 'and'), (89, 'stage'), (95, 'actor'), (100, '.'), (102, 'Hulett'), (109, 'was'), (113, 'born'), (118, 'in'), (121, 'Salina'), (127, ','), (129, 'Kansas'), (135, '.'), (137, 'As'), (140, 'an'), (143, 'actor'), (148, ','), (150, 'he'), (153, 'was'), (157, 'best'), (162, 'known'), (168, 'for'), (172, 'his'), (176, 'roles'), (182, 'in'), (185, 'The'), (189, 'Mob'), (193, '('), (194, '1951'), (198, ')'), (199, ','), (201, 'Idols'), (207, 'in'), (210, 'the'), (214, 'Dust'), (219, '('), (220, '1951'), (224, ')'), (225, ','), (227, 'and'), (231, 'Carbine'), (239, 'Williams'), (248, '('), (249, '1952'), (253, ')'), (254, '.'), (255, 'He'), (258, 'died'), (263, 'in'), (266, 'Katonah'), (273, ','), (275, 'New'), (279, 'York'), (283, '.')])</stanford_tokens>
+<opennlp_chunks>[('Otto Hulett',0, 11), ('February 27, 1898',13, 30), ('September 1, 1983',33, 50), ('an American film, television and stage actor',56, 100), ('was born',109, 117), ('an actor',140, 148), ('was best known',153, 167), ('his roles',172, 181), ('The Mob (1951)',185, 199), ('the Dust (1951)',210, 225), ('Carbine Williams (1952)',231, 254), ('New York',275, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'IN', 'DT', 'NN', ',', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNS', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Otto'), (5, 'Hulett'), (12, '('), (13, 'February'), (22, '27'), (24, ','), (26, '1898'), (31, '–'), (33, 'September'), (43, '1'), (44, ','), (46, '1983'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'film'), (72, ','), (74, 'television'), (85, 'and'), (89, 'stage'), (95, 'actor'), (100, '.'), (102, 'Hulett'), (109, 'was'), (113, 'born'), (118, 'in'), (121, 'Salina'), (127, ','), (129, 'Kansas'), (135, '.'), (137, 'As'), (140, 'an'), (143, 'actor'), (148, ','), (150, 'he'), (153, 'was'), (157, 'best'), (162, 'known'), (168, 'for'), (172, 'his'), (176, 'roles'), (182, 'in'), (185, 'The'), (189, 'Mob'), (193, '('), (194, '1951'), (198, ')'), (199, ','), (201, 'Idols'), (207, 'in'), (210, 'the'), (214, 'Dust'), (219, '('), (220, '1951'), (224, ')'), (225, ','), (227, 'and'), (231, 'Carbine'), (239, 'Williams'), (248, '('), (249, '1952).He'), (258, 'died'), (263, 'in'), (266, 'Katonah'), (273, ','), (275, 'New'), (279, 'York'), (283, '.')])</spacy_tokens>
+<spacy_chunks>[('Otto Hulett', 0, 11), ('February 27, 1898', 13, 30), ('September 1, 1983', 33, 50), ('an American film', 56, 72), ('television', 74, 84), ('stage actor', 89, 100), ('Salina, Kansas', 121, 135), ('an actor', 140, 148), ('his roles', 172, 181), ('The Mob', 185, 192), ('Idols in the Dust', 201, 218), ('Carbine Williams', 231, 247), ('Katonah, New York', 266, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'IN', 'DT', 'NN', ',', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNPS', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

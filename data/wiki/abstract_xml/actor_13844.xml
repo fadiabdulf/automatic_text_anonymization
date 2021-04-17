@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Edie McClurg</title>
+<link/>https://en.wikipedia.org/wiki/Edie_McClurg
+<annotated>0</annotated>
+<originalabstract>Edie McClurg (born July 23, 1951) is an American stand-up comedian, actress, singer and voice actress. She has performed in nearly 90 films and 55 television episodes, often portraying characters with a cheery Midwestern accent.</originalabstract>
+<abstract>Edie_McClurg ( born July_23_,_1951 ) is an_American_stand-up_comedian , actress_,_singer_and_voice_actress . She has_performed in nearly_90_films and 55_television_episodes , often portraying characters with a_cheery_Midwestern_accent .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edie'), (5, 'McClurg'), (13, '('), (14, 'born'), (19, 'July'), (24, '23'), (26, ','), (28, '1951'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'stand-up'), (58, 'comedian'), (66, ','), (68, 'actress'), (75, ','), (77, 'singer'), (84, 'and'), (88, 'voice'), (94, 'actress'), (101, '.'), (103, 'She'), (107, 'has'), (111, 'performed'), (121, 'in'), (124, 'nearly'), (131, '90'), (134, 'films'), (140, 'and'), (144, '55'), (147, 'television'), (158, 'episodes'), (166, ','), (168, 'often'), (174, 'portraying'), (185, 'characters'), (196, 'with'), (201, 'a'), (203, 'cheery'), (210, 'Midwestern'), (221, 'accent'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edie McClurg',0, 12), ('July 23, 1951',19, 32), ('an American stand-up comedian',37, 66), ('actress, singer and voice actress',68, 101), ('has performed',107, 120), ('nearly 90 films',124, 139), ('55 television episodes',144, 166), ('a cheery Midwestern accent',201, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'RB', 'CD', 'NNS', 'CC', 'CD', 'NN', 'NNS', ',', 'RB', 'VBG', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edie'), (5, 'McClurg'), (13, '('), (14, 'born'), (19, 'July'), (24, '23'), (26, ','), (28, '1951'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'stand'), (54, '-'), (55, 'up'), (58, 'comedian'), (66, ','), (68, 'actress'), (75, ','), (77, 'singer'), (84, 'and'), (88, 'voice'), (94, 'actress'), (101, '.'), (103, 'She'), (107, 'has'), (111, 'performed'), (121, 'in'), (124, 'nearly'), (131, '90'), (134, 'films'), (140, 'and'), (144, '55'), (147, 'television'), (158, 'episodes'), (166, ','), (168, 'often'), (174, 'portraying'), (185, 'characters'), (196, 'with'), (201, 'a'), (203, 'cheery'), (210, 'Midwestern'), (221, 'accent'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Edie McClurg', 0, 12), ('July 23, 1951', 19, 32), ('an American stand-up comedian', 37, 66), ('actress', 68, 75), ('singer', 77, 83), ('nearly 90 films', 124, 139), ('55 television episodes', 144, 166), ('characters', 185, 195), ('a cheery Midwestern accent', 201, 227)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'VB', 'HYPH', 'RP', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'RB', 'CD', 'NNS', 'CC', 'CD', 'NN', 'NNS', ',', 'RB', 'VBG', 'NNS', 'IN', 'DT', 'JJ', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

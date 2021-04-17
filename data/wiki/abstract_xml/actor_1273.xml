@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bobby Clark (comedian)</title>
+<link/>https://en.wikipedia.org/wiki/Bobby_Clark_(comedian)
+<annotated>0</annotated>
+<originalabstract>Robert Edwin Clark (June 16, 1888 – February 12, 1960), known as Bobby Clark, was a minstrel, vaudevillian, performer on stage, film, television and the circus. Known for his painted-on eyeglasses, he was part of a comedy team with Paul McCullough for 36 years.</originalabstract>
+<abstract>Robert_Edwin_Clark ( June_16_,_1888 – February_12_,_1960 ) , known as Bobby_Clark , was a_minstrel , vaudevillian , performer on stage_,_film_,_television and the_circus . Known for his_painted-on_eyeglasses , he was part of a_comedy_team with Paul_McCullough for 36_years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Edwin'), (13, 'Clark'), (19, '('), (20, 'June'), (25, '16'), (27, ','), (29, '1888'), (34, '–'), (36, 'February'), (45, '12'), (47, ','), (49, '1960'), (53, ')'), (54, ','), (56, 'known'), (62, 'as'), (65, 'Bobby'), (71, 'Clark'), (76, ','), (78, 'was'), (82, 'a'), (84, 'minstrel'), (92, ','), (94, 'vaudevillian'), (106, ','), (108, 'performer'), (118, 'on'), (121, 'stage'), (126, ','), (128, 'film'), (132, ','), (134, 'television'), (145, 'and'), (149, 'the'), (153, 'circus'), (159, '.'), (161, 'Known'), (167, 'for'), (171, 'his'), (175, 'painted-on'), (186, 'eyeglasses'), (196, ','), (198, 'he'), (201, 'was'), (205, 'part'), (210, 'of'), (213, 'a'), (215, 'comedy'), (222, 'team'), (227, 'with'), (232, 'Paul'), (237, 'McCullough'), (248, 'for'), (252, '36'), (255, 'years'), (260, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Edwin Clark',0, 18), ('June 16, 1888',20, 33), ('February 12, 1960',36, 53), ('Bobby Clark',65, 76), ('a minstrel',82, 92), ('stage, film, television',121, 144), ('the circus',149, 159), ('his painted-on eyeglasses',171, 196), ('a comedy team',213, 226), ('Paul McCullough',232, 247), ('36 years',252, 260)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NN', ',', 'NN', ',', 'NN', 'IN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'DT', 'NN', '.', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', ',', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Edwin'), (13, 'Clark'), (19, '('), (20, 'June'), (25, '16'), (27, ','), (29, '1888'), (34, '–'), (36, 'February'), (45, '12'), (47, ','), (49, '1960'), (53, ')'), (54, ','), (56, 'known'), (62, 'as'), (65, 'Bobby'), (71, 'Clark'), (76, ','), (78, 'was'), (82, 'a'), (84, 'minstrel'), (92, ','), (94, 'vaudevillian'), (106, ','), (108, 'performer'), (118, 'on'), (121, 'stage'), (126, ','), (128, 'film'), (132, ','), (134, 'television'), (145, 'and'), (149, 'the'), (153, 'circus'), (159, '.'), (161, 'Known'), (167, 'for'), (171, 'his'), (175, 'painted'), (182, '-'), (183, 'on'), (186, 'eyeglasses'), (196, ','), (198, 'he'), (201, 'was'), (205, 'part'), (210, 'of'), (213, 'a'), (215, 'comedy'), (222, 'team'), (227, 'with'), (232, 'Paul'), (237, 'McCullough'), (248, 'for'), (252, '36'), (255, 'years'), (260, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Edwin Clark', 0, 18), ('June 16, 1888', 20, 33), ('February 12, 1960', 36, 53), ('Bobby Clark', 65, 76), ('a minstrel', 82, 92), ('Vaudevillian', 94, 106), ('performer', 108, 117), ('television', 134, 144), ('the circus', 149, 159), ('his painted-on eyeglasses', 171, 196), ('a comedy team', 213, 226), ('Paul McCullough', 232, 247), ('36 years', 252, 260)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NN', ',', 'NN', ',', 'NN', 'IN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'DT', 'NN', '.', 'VBN', 'IN', 'PRP$', 'VBN', 'HYPH', 'RP', 'NNS', ',', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

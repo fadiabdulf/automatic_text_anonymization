@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tab Hunter</title>
+<link/>https://en.wikipedia.org/wiki/Tab_Hunter
+<annotated>0</annotated>
+<originalabstract>Tab Hunter (born Arthur Andrew Kelm; July 11, 1931 – July 8, 2018) was an American actor, singer, film producer and author. He appeared in over forty films and was a well-known Hollywood star and heartthrob of the 1950s and 1960s, known for his blond, clean-cut good looks.</originalabstract>
+<abstract>Tab_Hunter ( born Arthur_Andrew_Kelm ; July_11_,_1931 – July_8_,_2018 ) was an_American_actor , singer , film_producer_and_author . He appeared in over_forty_films and was a_well-known_Hollywood_star_and_heartthrob of the_1950s_and_1960s , known for his_blond_,_clean-cut_good_looks .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tab'), (4, 'Hunter'), (11, '('), (12, 'born'), (17, 'Arthur'), (24, 'Andrew'), (31, 'Kelm'), (35, ';'), (37, 'July'), (42, '11'), (44, ','), (46, '1931'), (51, '–'), (53, 'July'), (58, '8'), (59, ','), (61, '2018'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'actor'), (88, ','), (90, 'singer'), (96, ','), (98, 'film'), (103, 'producer'), (112, 'and'), (116, 'author'), (122, '.'), (124, 'He'), (127, 'appeared'), (136, 'in'), (139, 'over'), (144, 'forty'), (150, 'films'), (156, 'and'), (160, 'was'), (164, 'a'), (166, 'well-known'), (177, 'Hollywood'), (187, 'star'), (192, 'and'), (196, 'heartthrob'), (207, 'of'), (210, 'the'), (214, '1950s'), (220, 'and'), (224, '1960s'), (229, ','), (231, 'known'), (237, 'for'), (241, 'his'), (245, 'blond'), (250, ','), (252, 'clean-cut'), (262, 'good'), (267, 'looks'), (272, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tab Hunter',0, 10), ('Arthur Andrew Kelm',17, 35), ('July 11, 1931',37, 50), ('July 8, 2018',53, 65), ('an American actor',71, 88), ('film producer and author',98, 122), ('over forty films',139, 155), ('a well-known Hollywood star and heartthrob',164, 206), ('the 1950s and 1960s',210, 229), ('his blond, clean-cut good looks',241, 272)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'CC', 'VBD', 'DT', 'JJ', 'NNP', 'NN', 'CC', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', ',', 'VBN', 'IN', 'PRP$', 'JJ', ',', 'JJ', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tab'), (4, 'Hunter'), (11, '('), (12, 'born'), (17, 'Arthur'), (24, 'Andrew'), (31, 'Kelm'), (35, ';'), (37, 'July'), (42, '11'), (44, ','), (46, '1931'), (51, '–'), (53, 'July'), (58, '8'), (59, ','), (61, '2018'), (65, ')'), (67, 'was'), (71, 'an'), (74, 'American'), (83, 'actor'), (88, ','), (90, 'singer'), (96, ','), (98, 'film'), (103, 'producer'), (112, 'and'), (116, 'author'), (122, '.'), (124, 'He'), (127, 'appeared'), (136, 'in'), (139, 'over'), (144, 'forty'), (150, 'films'), (156, 'and'), (160, 'was'), (164, 'a'), (166, 'well'), (170, '-'), (171, 'known'), (177, 'Hollywood'), (187, 'star'), (192, 'and'), (196, 'heartthrob'), (207, 'of'), (210, 'the'), (214, '1950s'), (220, 'and'), (224, '1960s'), (229, ','), (231, 'known'), (237, 'for'), (241, 'his'), (245, 'blond'), (250, ','), (252, 'clean'), (257, '-'), (258, 'cut'), (262, 'good'), (267, 'looks'), (272, '.')])</spacy_tokens>
+<spacy_chunks>[('Tab Hunter', 0, 10), ('(born Arthur Andrew Kelm', 11, 35), ('July 11, 1931', 37, 50), ('July 8, 2018', 53, 65), ('an American actor', 71, 88), ('singer', 90, 96), ('film producer', 98, 111), ('author', 116, 122), ('over forty films', 139, 155), ('a well-known Hollywood star', 164, 191), ('heartthrob', 196, 206), ('the 1950s', 210, 219), ('his blond, clean-cut good looks', 241, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'CC', 'VBD', 'DT', 'RB', 'HYPH', 'VBN', 'NNP', 'NN', 'CC', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', ',', 'VBN', 'IN', 'PRP$', 'JJ', ',', 'JJ', 'HYPH', 'VBN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

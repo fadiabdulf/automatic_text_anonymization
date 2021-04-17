@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Edward Van Sloan</title>
+<link/>https://en.wikipedia.org/wiki/Edward_Van_Sloan
+<annotated>0</annotated>
+<originalabstract>Edward Van Sloan (November 1, 1882 – March 6, 1964) was an American film character actor best remembered for his roles in the Universal Studios horror films such as Dracula (1931), Frankenstein (1931), and The Mummy (1932). He died in 1964 in California, at age 81.</originalabstract>
+<abstract>Edward_Van_Sloan ( November_1_,_1882 – March_6_,_1964 ) was an_American_film_character_actor_best remembered for his_roles in the_Universal_Studios_horror_films such_as Dracula ( 1931 ) , Frankenstein ( 1931 ) , and The_Mummy ( 1932 ) . He died in 1964 in California , at age_81 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edward'), (7, 'Van'), (11, 'Sloan'), (17, '('), (18, 'November'), (27, '1'), (28, ','), (30, '1882'), (35, '–'), (37, 'March'), (43, '6'), (44, ','), (46, '1964'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'film'), (73, 'character'), (83, 'actor'), (89, 'best'), (94, 'remembered'), (105, 'for'), (109, 'his'), (113, 'roles'), (119, 'in'), (122, 'the'), (126, 'Universal'), (136, 'Studios'), (144, 'horror'), (151, 'films'), (157, 'such'), (162, 'as'), (165, 'Dracula'), (173, '('), (174, '1931'), (178, ')'), (179, ','), (181, 'Frankenstein'), (194, '('), (195, '1931'), (199, ')'), (200, ','), (202, 'and'), (206, 'The'), (210, 'Mummy'), (216, '('), (217, '1932'), (221, ')'), (222, '.'), (224, 'He'), (227, 'died'), (232, 'in'), (235, '1964'), (240, 'in'), (243, 'California'), (253, ','), (255, 'at'), (258, 'age'), (262, '81'), (264, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edward Van Sloan',0, 16), ('November 1, 1882',18, 34), ('March 6, 1964',37, 50), ('an American film character actor best',56, 93), ('his roles',109, 118), ('the Universal Studios horror films',122, 156), ('such as',157, 164), ('The Mummy',206, 215), ('age 81',258, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'JJS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNS', 'JJ', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'IN', 'CD', 'IN', 'NNP', ',', 'IN', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edward'), (7, 'Van'), (11, 'Sloan'), (17, '('), (18, 'November'), (27, '1'), (28, ','), (30, '1882'), (35, '–'), (37, 'March'), (43, '6'), (44, ','), (46, '1964'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'film'), (73, 'character'), (83, 'actor'), (89, 'best'), (94, 'remembered'), (105, 'for'), (109, 'his'), (113, 'roles'), (119, 'in'), (122, 'the'), (126, 'Universal'), (136, 'Studios'), (144, 'horror'), (151, 'films'), (157, 'such'), (162, 'as'), (165, 'Dracula'), (173, '('), (174, '1931'), (178, ')'), (179, ','), (181, 'Frankenstein'), (194, '('), (195, '1931'), (199, ')'), (200, ','), (202, 'and'), (206, 'The'), (210, 'Mummy'), (216, '('), (217, '1932'), (221, ')'), (222, '.'), (224, 'He'), (227, 'died'), (232, 'in'), (235, '1964'), (240, 'in'), (243, 'California'), (253, ','), (255, 'at'), (258, 'age'), (262, '81'), (264, '.')])</spacy_tokens>
+<spacy_chunks>[('Edward Van Sloan', 0, 16), ('(November', 17, 26), ('November 1, 1882', 18, 34), ('March 6, 1964', 37, 50), ('an American film character actor', 56, 88), ('his roles', 109, 118), ('the Universal Studios horror films', 122, 156), ('Dracula (1931', 165, 178), ('Frankenstein (1931', 181, 199), ('The Mummy (1932', 206, 221), ('California', 243, 253)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'RB', 'VBD', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNS', 'JJ', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'IN', 'CD', 'IN', 'NNP', ',', 'IN', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alex Skuby</title>
+<link/>https://en.wikipedia.org/wiki/Alex_Skuby
+<annotated>0</annotated>
+<originalabstract>Alex Skuby (born December 27, 1972) is an American actor who has appeared in film and television. He is most known for playing Doug Pruzan, Carrie's boss and a lawyer at her Manhattan law firm on The King of Queens.</originalabstract>
+<abstract>Alex_Skuby ( born December_27_,_1972 ) is an_American_actor who has_appeared in film_and_television . He is_most_known for playing Doug_Pruzan , Carrie 's_boss and a_lawyer at her_Manhattan_law_firm on The_King of Queens .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alex'), (5, 'Skuby'), (11, '('), (12, 'born'), (17, 'December'), (26, '27'), (28, ','), (30, '1972'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actor'), (57, 'who'), (61, 'has'), (65, 'appeared'), (74, 'in'), (77, 'film'), (82, 'and'), (86, 'television'), (96, '.'), (98, 'He'), (101, 'is'), (104, 'most'), (109, 'known'), (115, 'for'), (119, 'playing'), (127, 'Doug'), (132, 'Pruzan'), (138, ','), (140, 'Carrie'), (146, '\'s'), (149, 'boss'), (154, 'and'), (158, 'a'), (160, 'lawyer'), (167, 'at'), (170, 'her'), (174, 'Manhattan'), (184, 'law'), (188, 'firm'), (193, 'on'), (196, 'The'), (200, 'King'), (205, 'of'), (208, 'Queens'), (214, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alex Skuby',0, 10), ('December 27, 1972',17, 34), ('an American actor',39, 56), ('has appeared',61, 73), ('film and television',77, 96), ('is most known',101, 114), ('Doug Pruzan',127, 138), ('\'s boss',146, 153), ('a lawyer',158, 166), ('her Manhattan law firm',170, 192), ('The King',196, 204)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', ',', 'NNP', 'POS', 'NN', 'CC', 'DT', 'NN', 'IN', 'PRP$', 'NNP', 'NN', 'NN', 'IN', 'DT', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alex'), (5, 'Skuby'), (11, '('), (12, 'born'), (17, 'December'), (26, '27'), (28, ','), (30, '1972'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actor'), (57, 'who'), (61, 'has'), (65, 'appeared'), (74, 'in'), (77, 'film'), (82, 'and'), (86, 'television'), (96, '.'), (98, 'He'), (101, 'is'), (104, 'most'), (109, 'known'), (115, 'for'), (119, 'playing'), (127, 'Doug'), (132, 'Pruzan'), (138, ','), (140, 'Carrie'), (146, "'s"), (149, 'boss'), (154, 'and'), (158, 'a'), (160, 'lawyer'), (167, 'at'), (170, 'her'), (174, 'Manhattan'), (184, 'law'), (188, 'firm'), (193, 'on'), (196, 'The'), (200, 'King'), (205, 'of'), (208, 'Queens'), (214, '.')])</spacy_tokens>
+<spacy_chunks>[('Alex Skuby', 0, 10), ('December 27, 1972', 17, 34), ('an American actor', 39, 56), ('television', 86, 96), ('Doug Pruzan', 127, 138), ("Carrie's boss", 140, 153), ('a lawyer', 158, 166), ('her Manhattan law firm', 170, 192), ('The King of Queens', 196, 214)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'NNP', 'NNP', ',', 'NNP', 'POS', 'NN', 'CC', 'DT', 'NN', 'IN', 'PRP$', 'NNP', 'NN', 'NN', 'IN', 'DT', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

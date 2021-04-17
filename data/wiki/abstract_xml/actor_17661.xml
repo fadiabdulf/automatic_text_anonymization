@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Pixie Davies</title>
+<link/>https://en.wikipedia.org/wiki/Pixie_Davies
+<annotated>0</annotated>
+<originalabstract>Pixie Davies is an English child actress who has starred in many notable films and TV series, including Roald Dahl's Esio Trot, The Secret of Crickley Hall, Humans, Miss Peregrine's Home for Peculiar Children, and Mary Poppins Returns.</originalabstract>
+<abstract>Pixie_Davies is an_English_child_actress who has_starred in many_notable_films and TV_series , including Roald_Dahl 's_Esio_Trot , The_Secret of Crickley_Hall , Humans , Miss_Peregrine 's_Home for Peculiar_Children , and Mary_Poppins_Returns .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Pixie'), (6, 'Davies'), (13, 'is'), (16, 'an'), (19, 'English'), (27, 'child'), (33, 'actress'), (41, 'who'), (45, 'has'), (49, 'starred'), (57, 'in'), (60, 'many'), (65, 'notable'), (73, 'films'), (79, 'and'), (83, 'TV'), (86, 'series'), (92, ','), (94, 'including'), (104, 'Roald'), (110, 'Dahl'), (114, '\'s'), (117, 'Esio'), (122, 'Trot'), (126, ','), (128, 'The'), (132, 'Secret'), (139, 'of'), (142, 'Crickley'), (151, 'Hall'), (155, ','), (157, 'Humans'), (163, ','), (165, 'Miss'), (170, 'Peregrine'), (179, '\'s'), (182, 'Home'), (187, 'for'), (191, 'Peculiar'), (200, 'Children'), (208, ','), (210, 'and'), (214, 'Mary'), (219, 'Poppins'), (227, 'Returns'), (234, '.')])</stanford_tokens>
+<opennlp_chunks>[('Pixie Davies',0, 12), ('an English child actress',16, 40), ('has starred',45, 56), ('many notable films',60, 78), ('TV series',83, 92), ('Roald Dahl',104, 114), ('\'s Esio Trot',114, 126), ('The Secret',128, 138), ('Crickley Hall',142, 155), ('Miss Peregrine',165, 179), ('\'s Home',179, 186), ('Peculiar Children',191, 208), ('Mary Poppins Returns',214, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'JJ', 'NNS', 'CC', 'NN', 'NN', ',', 'VBG', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', ',', 'DT', 'JJ', 'IN', 'NNP', 'NNP', ',', 'NNS', ',', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Pixie'), (6, 'Davies'), (13, 'is'), (16, 'an'), (19, 'English'), (27, 'child'), (33, 'actress'), (41, 'who'), (45, 'has'), (49, 'starred'), (57, 'in'), (60, 'many'), (65, 'notable'), (73, 'films'), (79, 'and'), (83, 'TV'), (86, 'series'), (92, ','), (94, 'including'), (104, 'Roald'), (110, 'Dahl'), (114, "'s"), (117, 'Esio'), (122, 'Trot'), (126, ','), (128, 'The'), (132, 'Secret'), (139, 'of'), (142, 'Crickley'), (151, 'Hall'), (155, ','), (157, 'Humans'), (163, ','), (165, 'Miss'), (170, 'Peregrine'), (179, "'s"), (182, 'Home'), (187, 'for'), (191, 'Peculiar'), (200, 'Children'), (208, ','), (210, 'and'), (214, 'Mary'), (219, 'Poppins'), (227, 'Returns'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('Pixie Davies', 0, 12), ('an English child actress', 16, 40), ('many notable films', 60, 78), ('TV series', 83, 92), ("Roald Dahl's Esio Trot", 104, 126), ('The Secret of Crickley Hall', 128, 155), ('Humans', 157, 163), ("Miss Peregrine's Home for Peculiar Children", 165, 208), ('Mary Poppins Returns', 214, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'JJ', 'NNS', 'CC', 'NN', 'NN', ',', 'VBG', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', ',', 'DT', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNPS', ',', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'NNP', 'NNPS', ',', 'CC', 'NNP', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

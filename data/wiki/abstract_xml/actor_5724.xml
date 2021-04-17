@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>"Charles ""Buddy"" Rogers"</title>
+<link/>https://en.wikipedia.org/wiki/Charles_%22Buddy%22_Rogers
+<annotated>0</annotated>
+<originalabstract>Charles Edward "Buddy" Rogers (August 13, 1904 – April 21, 1999) was an American film actor and musician. During the peak of his popularity in the late 1920s and early 1930s he was publicized as "America's Boy Friend".</originalabstract>
+<abstract>Charles_Edward_"_Buddy_"_Rogers ( August_13_,_1904 – April_21_,_1999 ) was an_American_film_actor_and_musician . During the_peak of his_popularity in the_late_1920s and early_1930s he was_publicized as " America 's_Boy_Friend_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Edward'), (15, '"'), (16, 'Buddy'), (21, '"'), (23, 'Rogers'), (30, '('), (31, 'August'), (38, '13'), (40, ','), (42, '1904'), (47, '–'), (49, 'April'), (55, '21'), (57, ','), (59, '1999'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'film'), (86, 'actor'), (92, 'and'), (96, 'musician'), (104, '.'), (106, 'During'), (113, 'the'), (117, 'peak'), (122, 'of'), (125, 'his'), (129, 'popularity'), (140, 'in'), (143, 'the'), (147, 'late'), (152, '1920s'), (158, 'and'), (162, 'early'), (168, '1930s'), (174, 'he'), (177, 'was'), (181, 'publicized'), (192, 'as'), (195, '"'), (196, 'America'), (203, '\'s'), (206, 'Boy'), (210, 'Friend'), (216, '"'), (217, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Edward "Buddy" Rogers',0, 29), ('August 13, 1904',31, 46), ('April 21, 1999',49, 63), ('an American film actor and musician',69, 104), ('the peak',113, 121), ('his popularity',125, 139), ('the late 1920s',143, 157), ('early 1930s',162, 173), ('was publicized',177, 191), ('\'s Boy Friend"',203, 217)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', 'PRP', 'VBD', 'VBN', 'IN', '``', 'NNP', 'POS', 'NN', 'NN', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Edward'), (15, '"'), (16, 'Buddy'), (21, '"'), (23, 'Rogers'), (30, '('), (31, 'August'), (38, '13'), (40, ','), (42, '1904'), (47, '–'), (49, 'April'), (55, '21'), (57, ','), (59, '1999'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'film'), (86, 'actor'), (92, 'and'), (96, 'musician'), (104, '.'), (106, 'During'), (113, 'the'), (117, 'peak'), (122, 'of'), (125, 'his'), (129, 'popularity'), (140, 'in'), (143, 'the'), (147, 'late'), (152, '1920s'), (158, 'and'), (162, 'early'), (168, '1930s'), (174, 'he'), (177, 'was'), (181, 'publicized'), (192, 'as'), (195, '"'), (196, 'America'), (203, "'s"), (206, 'Boy'), (210, 'Friend'), (216, '"'), (217, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Edward "Buddy" Rogers', 0, 29), ('an American film actor', 69, 91), ('musician', 96, 104), ('the peak', 113, 121), ('his popularity', 125, 139), ('the late 1920s', 143, 157), ('early 1930s', 162, 173), ('"America\'s Boy Friend', 195, 216)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', 'PRP', 'VBD', 'VBN', 'IN', '``', 'NNP', 'POS', 'NNP', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

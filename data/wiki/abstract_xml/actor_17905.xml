@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Valerie Leon</title>
+<link/>https://en.wikipedia.org/wiki/Valerie_Leon
+<annotated>0</annotated>
+<originalabstract>Valerie Leon (born 12 November 1943) is an English actress who had roles in a number of high-profile British film productions, including the Carry On series.</originalabstract>
+<abstract>Valerie_Leon ( born 12_November_1943 ) is an_English_actress who had roles in a_number of high-profile_British_film_productions , including the_Carry On series .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Valerie'), (8, 'Leon'), (13, '('), (14, 'born'), (19, '12'), (22, 'November'), (31, '1943'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actress'), (59, 'who'), (63, 'had'), (67, 'roles'), (73, 'in'), (76, 'a'), (78, 'number'), (85, 'of'), (88, 'high-profile'), (101, 'British'), (109, 'film'), (114, 'productions'), (125, ','), (127, 'including'), (137, 'the'), (141, 'Carry'), (147, 'On'), (150, 'series'), (156, '.')])</stanford_tokens>
+<opennlp_chunks>[('Valerie Leon',0, 12), ('12 November 1943',19, 35), ('an English actress',40, 58), ('a number',76, 84), ('high-profile British film productions',88, 125), ('the Carry',137, 146)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'NNS', 'IN', 'DT', 'NN', 'IN', 'JJ', 'JJ', 'NN', 'NNS', ',', 'VBG', 'DT', 'NNP', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Valerie'), (8, 'Leon'), (13, '('), (14, 'born'), (19, '12'), (22, 'November'), (31, '1943'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actress'), (59, 'who'), (63, 'had'), (67, 'roles'), (73, 'in'), (76, 'a'), (78, 'number'), (85, 'of'), (88, 'high'), (92, '-'), (93, 'profile'), (101, 'British'), (109, 'film'), (114, 'productions'), (125, ','), (127, 'including'), (137, 'the'), (141, 'Carry'), (147, 'On'), (150, 'series'), (156, '.')])</spacy_tokens>
+<spacy_chunks>[('Valerie Leon', 0, 12), ('12 November 1943', 19, 35), ('an English actress', 40, 58), ('a number', 76, 84), ('high-profile British film productions', 88, 125), ('the Carry', 137, 146), ('Carry On', 141, 149), ('series', 150, 156)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'NNS', 'IN', 'DT', 'NN', 'IN', 'JJ', 'HYPH', 'NN', 'JJ', 'NN', 'NNS', ',', 'VBG', 'DT', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

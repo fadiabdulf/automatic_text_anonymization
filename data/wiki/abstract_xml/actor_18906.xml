@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Firmine Richard</title>
+<link/>https://en.wikipedia.org/wiki/Firmine_Richard
+<annotated>0</annotated>
+<originalabstract>Firmine Richard (born 25 September 1947 Pointe-à-Pitre, Guadeloupe, France) is a French actress. Her film credits include 8 Women and Hunting and Gathering.</originalabstract>
+<abstract>Firmine_Richard ( born 25_September_1947_Pointe-à-Pitre_,_Guadeloupe_,_France ) is a_French_actress . Her_film_credits include 8_Women and Hunting_and_Gathering .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Firmine'), (8, 'Richard'), (16, '('), (17, 'born'), (22, '25'), (25, 'September'), (35, '1947'), (40, 'Pointe-à-Pitre'), (54, ','), (56, 'Guadeloupe'), (66, ','), (68, 'France'), (74, ')'), (76, 'is'), (79, 'a'), (81, 'French'), (88, 'actress'), (95, '.'), (97, 'Her'), (101, 'film'), (106, 'credits'), (114, 'include'), (122, '8'), (124, 'Women'), (130, 'and'), (134, 'Hunting'), (142, 'and'), (146, 'Gathering'), (155, '.')])</stanford_tokens>
+<opennlp_chunks>[('Firmine Richard',0, 15), ('25 September 1947 Pointe-à-Pitre, Guadeloupe, France',22, 74), ('a French actress',79, 95), ('Her film credits',97, 113), ('8 Women',122, 129), ('Hunting and Gathering',134, 155)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'NNP', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'CD', 'NNS', 'CC', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Firmine'), (8, 'Richard'), (16, '('), (17, 'born'), (22, '25'), (25, 'September'), (35, '1947'), (40, 'Pointe'), (46, '-'), (47, 'à'), (48, '-'), (49, 'Pitre'), (54, ','), (56, 'Guadeloupe'), (66, ','), (68, 'France'), (74, ')'), (76, 'is'), (79, 'a'), (81, 'French'), (88, 'actress'), (95, '.'), (97, 'Her'), (101, 'film'), (106, 'credits'), (114, 'include'), (122, '8'), (124, 'Women'), (130, 'and'), (134, 'Hunting'), (142, 'and'), (146, 'Gathering'), (155, '.')])</spacy_tokens>
+<spacy_chunks>[('Firmine Richard', 0, 15), ('25 September 1947', 22, 39), ('Pointe-à-Pitre', 40, 54), ('Guadeloupe', 56, 66), ('France', 68, 74), ('a French actress', 79, 95), ('Her film credits', 97, 113), ('8 Women', 122, 129), ('Hunting and Gathering', 134, 155)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'CD', 'NNPS', 'CC', 'NNP', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

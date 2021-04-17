@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ethel Remey</title>
+<link/>https://en.wikipedia.org/wiki/Ethel_Remey
+<annotated>0</annotated>
+<originalabstract>Ethel Remey (February 22, 1895 - February 28, 1979 ) was an American actress. She was sometimes credited as Ethel Everett.Her most famous role was her portrayal of Alma Miller, mother of Lisa Miller (Eileen Fulton) on the soap opera As the World Turns. She played the role from 1963 to 1977.</originalabstract>
+<abstract>Ethel_Remey ( February_22_,_1895 - February_28_,_1979 ) was an_American_actress . She was_sometimes_credited as Ethel_Everett.Her_most_famous_role was her_portrayal of Alma_Miller , mother of Lisa_Miller_(_Eileen_Fulton_) on the_soap_opera As the_World Turns . She played the_role from 1963 to 1977 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ethel'), (6, 'Remey'), (12, '('), (13, 'February'), (22, '22'), (24, ','), (26, '1895'), (31, '-'), (33, 'February'), (42, '28'), (44, ','), (46, '1979'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actress'), (76, '.'), (78, 'She'), (82, 'was'), (86, 'sometimes'), (96, 'credited'), (105, 'as'), (108, 'Ethel'), (114, 'Everett.Her'), (126, 'most'), (131, 'famous'), (138, 'role'), (143, 'was'), (147, 'her'), (151, 'portrayal'), (161, 'of'), (164, 'Alma'), (169, 'Miller'), (175, ','), (177, 'mother'), (184, 'of'), (187, 'Lisa'), (192, 'Miller'), (199, '('), (200, 'Eileen'), (207, 'Fulton'), (213, ')'), (215, 'on'), (218, 'the'), (222, 'soap'), (227, 'opera'), (233, 'As'), (236, 'the'), (240, 'World'), (246, 'Turns'), (251, '.'), (253, 'She'), (257, 'played'), (264, 'the'), (268, 'role'), (273, 'from'), (278, '1963'), (283, 'to'), (286, '1977'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ethel Remey',0, 11), ('February 22, 1895',13, 30), ('February 28, 1979',33, 50), ('an American actress',57, 76), ('was sometimes credited',82, 104), ('Ethel Everett.Her most famous role',108, 142), ('her portrayal',147, 160), ('Alma Miller',164, 175), ('Lisa Miller (Eileen Fulton)',187, 214), ('the soap opera',218, 232), ('the World',236, 245), ('the role',264, 272)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'RBS', 'JJ', 'NN', 'VBD', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'VBZ', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ethel'), (6, 'Remey'), (12, '('), (13, 'February'), (22, '22'), (24, ','), (26, '1895'), (31, '-'), (33, 'February'), (42, '28'), (44, ','), (46, '1979'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actress'), (76, '.'), (78, 'She'), (82, 'was'), (86, 'sometimes'), (96, 'credited'), (105, 'as'), (108, 'Ethel'), (114, 'Everett'), (121, '.'), (122, 'Her'), (126, 'most'), (131, 'famous'), (138, 'role'), (143, 'was'), (147, 'her'), (151, 'portrayal'), (161, 'of'), (164, 'Alma'), (169, 'Miller'), (175, ','), (177, 'mother'), (184, 'of'), (187, 'Lisa'), (192, 'Miller'), (199, '('), (200, 'Eileen'), (207, 'Fulton'), (213, ')'), (215, 'on'), (218, 'the'), (222, 'soap'), (227, 'opera'), (233, 'As'), (236, 'the'), (240, 'World'), (246, 'Turns'), (251, '.'), (253, 'She'), (257, 'played'), (264, 'the'), (268, 'role'), (273, 'from'), (278, '1963'), (283, 'to'), (286, '1977'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('Ethel Remey', 0, 11), ('(February', 12, 21), ('February 22, 1895', 13, 30), ('February 28, 1979', 33, 50), ('an American actress', 57, 76), ('Ethel Everett', 108, 121), ('Her most famous role', 122, 142), ('her portrayal', 147, 160), ('Alma Miller', 164, 175), ('mother', 177, 183), ('Lisa Miller', 187, 198), ('Eileen Fulton', 200, 213), ('the soap opera', 218, 232), ('As the World Turns', 233, 251), ('the role', 264, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'VBD', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'VBZ', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

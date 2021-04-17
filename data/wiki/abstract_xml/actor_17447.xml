@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Laura Aikman</title>
+<link/>https://en.wikipedia.org/wiki/Laura_Aikman
+<annotated>0</annotated>
+<originalabstract>Laura Holly Aikman (born 24 December 1985) is an English actress and daughter of stunt coordinator and film director Stuart (known professionally as Stuart St. Paul) and Jean. She has been appearing in TV and films since childhood.</originalabstract>
+<abstract>Laura_Holly_Aikman ( born 24_December_1985 ) is an_English_actress_and_daughter of stunt_coordinator_and_film_director_Stuart ( known professionally as Stuart_St._Paul ) and_Jean . She has_been_appearing in TV_and_films since childhood .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Laura'), (6, 'Holly'), (12, 'Aikman'), (19, '('), (20, 'born'), (25, '24'), (28, 'December'), (37, '1985'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'English'), (57, 'actress'), (65, 'and'), (69, 'daughter'), (78, 'of'), (81, 'stunt'), (87, 'coordinator'), (99, 'and'), (103, 'film'), (108, 'director'), (117, 'Stuart'), (124, '('), (125, 'known'), (131, 'professionally'), (146, 'as'), (149, 'Stuart'), (156, 'St.'), (160, 'Paul'), (164, ')'), (166, 'and'), (170, 'Jean'), (174, '.'), (176, 'She'), (180, 'has'), (184, 'been'), (189, 'appearing'), (199, 'in'), (202, 'TV'), (205, 'and'), (209, 'films'), (215, 'since'), (221, 'childhood'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('Laura Holly Aikman',0, 18), ('24 December 1985',25, 41), ('an English actress and daughter',46, 77), ('stunt coordinator and film director Stuart',81, 123), ('Stuart St. Paul',149, 164), ('and Jean',166, 174), ('has been appearing',180, 198), ('TV and films',202, 214)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NN', 'NN', 'CC', 'NN', 'NN', 'NNP', '-LRB-', 'VBN', 'RB', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'VBG', 'IN', 'NN', 'CC', 'NNS', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Laura'), (6, 'Holly'), (12, 'Aikman'), (19, '('), (20, 'born'), (25, '24'), (28, 'December'), (37, '1985'), (41, ')'), (43, 'is'), (46, 'an'), (49, 'English'), (57, 'actress'), (65, 'and'), (69, 'daughter'), (78, 'of'), (81, 'stunt'), (87, 'coordinator'), (99, 'and'), (103, 'film'), (108, 'director'), (117, 'Stuart'), (124, '('), (125, 'known'), (131, 'professionally'), (146, 'as'), (149, 'Stuart'), (156, 'St.'), (160, 'Paul'), (164, ')'), (166, 'and'), (170, 'Jean'), (174, '.'), (176, 'She'), (180, 'has'), (184, 'been'), (189, 'appearing'), (199, 'in'), (202, 'TV'), (205, 'and'), (209, 'films'), (215, 'since'), (221, 'childhood'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[('Laura Holly Aikman', 0, 18), ('24 December 1985', 25, 41), ('an English actress', 46, 64), ('daughter', 69, 77), ('stunt coordinator', 81, 98), ('film director', 103, 116), ('Stuart', 117, 123), ('Stuart St. Paul', 149, 164), ('childhood', 221, 230)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NN', 'NN', 'CC', 'NN', 'NN', 'NNP', '-LRB-', 'VBN', 'RB', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'CC', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'VBG', 'IN', 'NN', 'CC', 'NNS', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

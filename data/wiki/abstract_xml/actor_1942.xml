@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Drury</title>
+<link/>https://en.wikipedia.org/wiki/James_Drury
+<annotated>0</annotated>
+<originalabstract>James Child Drury Jr. (born April 18, 1934) is an American actor best known for his success in playing the title role in the 90-minute weekly Western television series The Virginian, broadcast on NBC from 1962–71.</originalabstract>
+<abstract>James_Child_Drury_Jr. ( born April_18_,_1934 ) is an_American_actor best_known for his_success in playing the_title_role in the_90-minute_weekly_Western_television_series The_Virginian , broadcast on NBC from 1962 – 71 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'Child'), (12, 'Drury'), (18, 'Jr.'), (22, '('), (23, 'born'), (28, 'April'), (34, '18'), (36, ','), (38, '1934'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (65, 'best'), (70, 'known'), (76, 'for'), (80, 'his'), (84, 'success'), (92, 'in'), (95, 'playing'), (103, 'the'), (107, 'title'), (113, 'role'), (118, 'in'), (121, 'the'), (125, '90-minute'), (135, 'weekly'), (142, 'Western'), (150, 'television'), (161, 'series'), (168, 'The'), (172, 'Virginian'), (181, ','), (183, 'broadcast'), (193, 'on'), (196, 'NBC'), (200, 'from'), (205, '1962'), (209, '–'), (210, '71'), (212, '.')])</stanford_tokens>
+<opennlp_chunks>[('James Child Drury Jr.',0, 21), ('April 18, 1934',28, 42), ('an American actor',47, 64), ('best known',65, 75), ('his success',80, 91), ('the title role',103, 117), ('the 90-minute weekly Western television series',121, 167), ('The Virginian',168, 181)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'VBG', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NN', 'DT', 'NNP', ',', 'NN', 'IN', 'NNP', 'IN', 'CD', ':', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'Child'), (12, 'Drury'), (18, 'Jr.'), (22, '('), (23, 'born'), (28, 'April'), (34, '18'), (36, ','), (38, '1934'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (65, 'best'), (70, 'known'), (76, 'for'), (80, 'his'), (84, 'success'), (92, 'in'), (95, 'playing'), (103, 'the'), (107, 'title'), (113, 'role'), (118, 'in'), (121, 'the'), (125, '90-minute'), (135, 'weekly'), (142, 'Western'), (150, 'television'), (161, 'series'), (168, 'The'), (172, 'Virginian'), (181, ','), (183, 'broadcast'), (193, 'on'), (196, 'NBC'), (200, 'from'), (205, '1962–71'), (212, '.')])</spacy_tokens>
+<spacy_chunks>[('James Child Drury Jr.', 0, 21), ('April 18, 1934', 28, 42), ('an American actor', 47, 64), ('his success', 80, 91), ('the title role', 103, 117), ('the 90-minute weekly Western television series', 121, 167), ('The Virginian', 168, 181)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'VBG', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NN', 'DT', 'NNP', ',', 'VBN', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

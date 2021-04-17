@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Walker Whiteside</title>
+<link/>https://en.wikipedia.org/wiki/Walker_Whiteside
+<annotated>0</annotated>
+<originalabstract>Walker Whiteside (1869 – 1942) was an American actor who had played Hamlet, Othello, King Lear, and Shylock while still in his teens.</originalabstract>
+<abstract>Walker_Whiteside ( 1869 – 1942 ) was an_American_actor who had_played Hamlet , Othello , King_Lear , and Shylock while still in his_teens .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Walker'), (7, 'Whiteside'), (17, '('), (18, '1869'), (23, '–'), (25, '1942'), (29, ')'), (31, 'was'), (35, 'an'), (38, 'American'), (47, 'actor'), (53, 'who'), (57, 'had'), (61, 'played'), (68, 'Hamlet'), (74, ','), (76, 'Othello'), (83, ','), (85, 'King'), (90, 'Lear'), (94, ','), (96, 'and'), (100, 'Shylock'), (108, 'while'), (114, 'still'), (120, 'in'), (123, 'his'), (127, 'teens'), (132, '.')])</stanford_tokens>
+<opennlp_chunks>[('Walker Whiteside',0, 16), ('an American actor',35, 52), ('had played',57, 67), ('King Lear',85, 94), ('his teens',123, 132)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'VBN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'IN', 'RB', 'IN', 'PRP$', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Walker'), (7, 'Whiteside'), (17, '('), (18, '1869'), (23, '–'), (25, '1942'), (29, ')'), (31, 'was'), (35, 'an'), (38, 'American'), (47, 'actor'), (53, 'who'), (57, 'had'), (61, 'played'), (68, 'Hamlet'), (74, ','), (76, 'Othello'), (83, ','), (85, 'King'), (90, 'Lear'), (94, ','), (96, 'and'), (100, 'Shylock'), (108, 'while'), (114, 'still'), (120, 'in'), (123, 'his'), (127, 'teens'), (132, '.')])</spacy_tokens>
+<spacy_chunks>[('Walker Whiteside', 0, 16), ('an American actor', 35, 52), ('Hamlet', 68, 74), ('Othello', 76, 83), ('King Lear', 85, 94), ('Shylock', 100, 107), ('his teens', 123, 132)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'VBN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'IN', 'RB', 'IN', 'PRP$', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

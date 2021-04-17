@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Viola Dana</title>
+<link/>https://en.wikipedia.org/wiki/Viola_Dana
+<annotated>0</annotated>
+<originalabstract>Viola Dana (born Virginia Flugrath, June 26, 1897 – July 3, 1987) was an American film actress who was successful during the era of silent films. She appeared in over 100 films, but was unable to make the transition to sound films.</originalabstract>
+<abstract>Viola_Dana ( born Virginia_Flugrath , June_26_,_1897 – July_3_,_1987 ) was an_American_film_actress who was successful during the_era of silent_films . She appeared in over_100_films , but was unable to_make the_transition to_sound films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Viola'), (6, 'Dana'), (11, '('), (12, 'born'), (17, 'Virginia'), (26, 'Flugrath'), (34, ','), (36, 'June'), (41, '26'), (43, ','), (45, '1897'), (50, '–'), (52, 'July'), (57, '3'), (58, ','), (60, '1987'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'film'), (87, 'actress'), (95, 'who'), (99, 'was'), (103, 'successful'), (114, 'during'), (121, 'the'), (125, 'era'), (129, 'of'), (132, 'silent'), (139, 'films'), (144, '.'), (146, 'She'), (150, 'appeared'), (159, 'in'), (162, 'over'), (167, '100'), (171, 'films'), (176, ','), (178, 'but'), (182, 'was'), (186, 'unable'), (193, 'to'), (196, 'make'), (201, 'the'), (205, 'transition'), (216, 'to'), (219, 'sound'), (225, 'films'), (230, '.')])</stanford_tokens>
+<opennlp_chunks>[('Viola Dana',0, 10), ('Virginia Flugrath',17, 34), ('June 26, 1897',36, 49), ('July 3, 1987',52, 64), ('an American film actress',70, 94), ('the era',121, 128), ('silent films',132, 144), ('over 100 films',162, 176), ('to make',193, 200), ('the transition',201, 215), ('to sound',216, 224)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'JJ', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', ',', 'CC', 'VBD', 'JJ', 'TO', 'VB', 'DT', 'NN', 'TO', 'VB', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Viola'), (6, 'Dana'), (11, '('), (12, 'born'), (17, 'Virginia'), (26, 'Flugrath'), (34, ','), (36, 'June'), (41, '26'), (43, ','), (45, '1897'), (50, '–'), (52, 'July'), (57, '3'), (58, ','), (60, '1987'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'film'), (87, 'actress'), (95, 'who'), (99, 'was'), (103, 'successful'), (114, 'during'), (121, 'the'), (125, 'era'), (129, 'of'), (132, 'silent'), (139, 'films'), (144, '.'), (146, 'She'), (150, 'appeared'), (159, 'in'), (162, 'over'), (167, '100'), (171, 'films'), (176, ','), (178, 'but'), (182, 'was'), (186, 'unable'), (193, 'to'), (196, 'make'), (201, 'the'), (205, 'transition'), (216, 'to'), (219, 'sound'), (225, 'films'), (230, '.')])</spacy_tokens>
+<spacy_chunks>[('Viola Dana', 0, 10), ('Virginia Flugrath', 17, 34), ('June 26, 1897', 36, 49), ('July 3, 1987', 52, 64), ('an American film actress', 70, 94), ('the era', 121, 128), ('silent films', 132, 144), ('over 100 films', 162, 176), ('the transition', 201, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'JJ', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', ',', 'CC', 'VBD', 'JJ', 'TO', 'VB', 'DT', 'NN', 'TO', 'VB', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

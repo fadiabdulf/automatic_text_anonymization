@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lani O'Grady</title>
+<link/>https://en.wikipedia.org/wiki/Lani_O%27Grady
+<annotated>0</annotated>
+<originalabstract>Lani O'Grady (October 2, 1954 – September 25, 2001) was an American actress and talent agent. She is best-remembered for her role as Mary Bradford, the eldest sister from Eight Is Enough.</originalabstract>
+<abstract>Lani_O'Grady ( October_2_,_1954 – September_25_,_2001 ) was an_American_actress_and_talent_agent . She is best-remembered for her_role as Mary_Bradford , the_eldest_sister from Eight_Is_Enough .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lani'), (5, 'O\'Grady'), (13, '('), (14, 'October'), (22, '2'), (23, ','), (25, '1954'), (30, '–'), (32, 'September'), (42, '25'), (44, ','), (46, '2001'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actress'), (76, 'and'), (80, 'talent'), (87, 'agent'), (92, '.'), (94, 'She'), (98, 'is'), (101, 'best-remembered'), (117, 'for'), (121, 'her'), (125, 'role'), (130, 'as'), (133, 'Mary'), (138, 'Bradford'), (146, ','), (148, 'the'), (152, 'eldest'), (159, 'sister'), (166, 'from'), (171, 'Eight'), (177, 'Is'), (180, 'Enough'), (186, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lani O\'Grady',0, 12), ('October 2, 1954',14, 29), ('September 25, 2001',32, 50), ('an American actress and talent agent',56, 92), ('her role',121, 129), ('Mary Bradford',133, 146), ('the eldest sister',148, 165), ('Eight Is Enough',171, 186)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJS', 'NN', 'IN', 'CD', 'VBZ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lani'), (5, "O'Grady"), (13, '('), (14, 'October'), (22, '2'), (23, ','), (25, '1954'), (30, '–'), (32, 'September'), (42, '25'), (44, ','), (46, '2001'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actress'), (76, 'and'), (80, 'talent'), (87, 'agent'), (92, '.'), (94, 'She'), (98, 'is'), (101, 'best'), (105, '-'), (106, 'remembered'), (117, 'for'), (121, 'her'), (125, 'role'), (130, 'as'), (133, 'Mary'), (138, 'Bradford'), (146, ','), (148, 'the'), (152, 'eldest'), (159, 'sister'), (166, 'from'), (171, 'Eight'), (177, 'Is'), (180, 'Enough'), (186, '.')])</spacy_tokens>
+<spacy_chunks>[("Lani O'Grady", 0, 12), ('(October', 13, 21), ('October 2, 1954', 14, 29), ('September 25, 2001', 32, 50), ('an American actress', 56, 75), ('talent agent', 80, 92), ('her role', 121, 129), ('Mary Bradford', 133, 146), ('the eldest sister', 148, 165), ('Eight Is Enough', 171, 186)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'HYPH', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJS', 'NN', 'IN', 'CD', 'VBZ', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

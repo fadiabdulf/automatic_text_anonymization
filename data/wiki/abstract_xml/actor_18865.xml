@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Caroline Paulus</title>
+<link/>https://en.wikipedia.org/wiki/Caroline_Paulus
+<annotated>0</annotated>
+<originalabstract>Caroline Von Paulus (born March 1, 1959) is a French actress, fashion model and singer, better known by her stage name - Bambou. She was married to the French singer Serge Gainsbourg from 1981 until his death in 1991. Their son Lucien 'Lulu' Gainsbourg was born in 1986.</originalabstract>
+<abstract>Caroline_Von_Paulus ( born March_1_,_1959 ) is a_French_actress , fashion_model_and_singer , better_known by her_stage_name - Bambou . She was_married to the_French_singer_Serge_Gainsbourg from 1981 until his_death in 1991 . Their_son_Lucien_'_Lulu_'_Gainsbourg was_born in 1986 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Caroline'), (9, 'Von'), (13, 'Paulus'), (20, '('), (21, 'born'), (26, 'March'), (32, '1'), (33, ','), (35, '1959'), (39, ')'), (41, 'is'), (44, 'a'), (46, 'French'), (53, 'actress'), (60, ','), (62, 'fashion'), (70, 'model'), (76, 'and'), (80, 'singer'), (86, ','), (88, 'better'), (95, 'known'), (101, 'by'), (104, 'her'), (108, 'stage'), (114, 'name'), (119, '-'), (121, 'Bambou'), (127, '.'), (129, 'She'), (133, 'was'), (137, 'married'), (145, 'to'), (148, 'the'), (152, 'French'), (159, 'singer'), (166, 'Serge'), (172, 'Gainsbourg'), (183, 'from'), (188, '1981'), (193, 'until'), (199, 'his'), (203, 'death'), (209, 'in'), (212, '1991'), (216, '.'), (218, 'Their'), (224, 'son'), (228, 'Lucien'), (235, '\''), (236, 'Lulu'), (240, '\''), (242, 'Gainsbourg'), (253, 'was'), (257, 'born'), (262, 'in'), (265, '1986'), (269, '.')])</stanford_tokens>
+<opennlp_chunks>[('Caroline Von Paulus',0, 19), ('March 1, 1959',26, 39), ('a French actress',44, 60), ('fashion model and singer',62, 86), ('better known',88, 100), ('her stage name',104, 118), ('was married',133, 144), ('the French singer Serge Gainsbourg',148, 182), ('his death',199, 208), ('Their son Lucien \'Lulu\' Gainsbourg',218, 252), ('was born',253, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', ':', 'NNP', '.', 'PRP', 'VBD', 'VBN', 'TO', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.', 'PRP$', 'NN', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'VBD', 'VBN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Caroline'), (9, 'Von'), (13, 'Paulus'), (20, '('), (21, 'born'), (26, 'March'), (32, '1'), (33, ','), (35, '1959'), (39, ')'), (41, 'is'), (44, 'a'), (46, 'French'), (53, 'actress'), (60, ','), (62, 'fashion'), (70, 'model'), (76, 'and'), (80, 'singer'), (86, ','), (88, 'better'), (95, 'known'), (101, 'by'), (104, 'her'), (108, 'stage'), (114, 'name'), (119, '-'), (121, 'Bambou'), (127, '.'), (129, 'She'), (133, 'was'), (137, 'married'), (145, 'to'), (148, 'the'), (152, 'French'), (159, 'singer'), (166, 'Serge'), (172, 'Gainsbourg'), (183, 'from'), (188, '1981'), (193, 'until'), (199, 'his'), (203, 'death'), (209, 'in'), (212, '1991'), (216, '.'), (218, 'Their'), (224, 'son'), (228, 'Lucien'), (235, "'"), (236, 'Lulu'), (240, "'"), (242, 'Gainsbourg'), (253, 'was'), (257, 'born'), (262, 'in'), (265, '1986'), (269, '.')])</spacy_tokens>
+<spacy_chunks>[('Caroline Von Paulus', 0, 19), ('March 1, 1959', 26, 39), ('a French actress', 44, 60), ('Fashion model', 62, 75), ('Singer', 80, 86), ('her stage name - Bambou', 104, 127), ('the French singer', 148, 165), ('Serge Gainsbourg', 166, 182), ('his death', 199, 208), ('Their son', 218, 227), ("Lucien 'Lulu' Gainsbourg", 228, 252)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', ':', 'NNP', '.', 'PRP', 'VBD', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.', 'PRP$', 'NN', 'NNP', 'POS', 'NNP', "''", 'NNP', 'VBD', 'VBN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

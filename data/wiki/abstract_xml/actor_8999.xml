@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ralph Reader</title>
+<link/>https://en.wikipedia.org/wiki/Ralph_Reader
+<annotated>0</annotated>
+<originalabstract>William Henry Ralph Reader  (25 May 1903 – 18 May 1982), known as Ralph Reader, was a British actor, theatrical producer and songwriter, known for staging the original Gang Show, a variety entertainment presented by members of the Scouting movement, and for leading community singing at FA Cup Finals.</originalabstract>
+<abstract>William_Henry_Ralph_Reader ( 25_May_1903 – 18_May_1982 ) , known as Ralph_Reader , was a_British_actor , theatrical_producer_and_songwriter , known for staging the_original_Gang_Show , a_variety_entertainment presented by members of the_Scouting_movement , and for leading community_singing at FA_Cup_Finals .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Henry'), (14, 'Ralph'), (20, 'Reader'), (28, '('), (29, '25'), (32, 'May'), (36, '1903'), (41, '–'), (43, '18'), (46, 'May'), (50, '1982'), (54, ')'), (55, ','), (57, 'known'), (63, 'as'), (66, 'Ralph'), (72, 'Reader'), (78, ','), (80, 'was'), (84, 'a'), (86, 'British'), (94, 'actor'), (99, ','), (101, 'theatrical'), (112, 'producer'), (121, 'and'), (125, 'songwriter'), (135, ','), (137, 'known'), (143, 'for'), (147, 'staging'), (155, 'the'), (159, 'original'), (168, 'Gang'), (173, 'Show'), (177, ','), (179, 'a'), (181, 'variety'), (189, 'entertainment'), (203, 'presented'), (213, 'by'), (216, 'members'), (224, 'of'), (227, 'the'), (231, 'Scouting'), (240, 'movement'), (248, ','), (250, 'and'), (254, 'for'), (258, 'leading'), (266, 'community'), (276, 'singing'), (284, 'at'), (287, 'FA'), (290, 'Cup'), (294, 'Finals'), (300, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Henry Ralph Reader',0, 26), ('25 May 1903',29, 40), ('18 May 1982',43, 54), ('Ralph Reader',66, 78), ('a British actor',84, 99), ('theatrical producer and songwriter',101, 135), ('the original Gang Show',155, 177), ('a variety entertainment',179, 202), ('the Scouting movement',227, 248), ('community singing',266, 283), ('FA Cup Finals',287, 300)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NN', 'NN', ',', 'DT', 'NN', 'NN', 'VBN', 'IN', 'NNS', 'IN', 'DT', 'VBG', 'NN', ',', 'CC', 'IN', 'VBG', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Henry'), (14, 'Ralph'), (20, 'Reader'), (28, '('), (29, '25'), (32, 'May'), (36, '1903'), (41, '–'), (43, '18'), (46, 'May'), (50, '1982'), (54, ')'), (55, ','), (57, 'known'), (63, 'as'), (66, 'Ralph'), (72, 'Reader'), (78, ','), (80, 'was'), (84, 'a'), (86, 'British'), (94, 'actor'), (99, ','), (101, 'theatrical'), (112, 'producer'), (121, 'and'), (125, 'songwriter'), (135, ','), (137, 'known'), (143, 'for'), (147, 'staging'), (155, 'the'), (159, 'original'), (168, 'Gang'), (173, 'Show'), (177, ','), (179, 'a'), (181, 'variety'), (189, 'entertainment'), (203, 'presented'), (213, 'by'), (216, 'members'), (224, 'of'), (227, 'the'), (231, 'Scouting'), (240, 'movement'), (248, ','), (250, 'and'), (254, 'for'), (258, 'leading'), (266, 'community'), (276, 'singing'), (284, 'at'), (287, 'FA'), (290, 'Cup'), (294, 'Finals'), (300, '.')])</spacy_tokens>
+<spacy_chunks>[('William Henry Ralph Reader', 0, 26), ('(25 May', 28, 35), ('25 May 1903', 29, 40), ('18 May 1982', 43, 54), ('a British actor', 84, 99), ('Theatrical producer', 101, 120), ('Songwriter', 125, 135), ('the original Gang Show', 155, 177), ('a variety entertainment', 179, 202), ('members', 216, 223), ('the Scouting movement', 227, 248), ('Leading', 258, 265), ('community singing', 266, 283), ('FA Cup Finals', 287, 300)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NNP', 'NNP', ',', 'DT', 'NN', 'NN', 'VBN', 'IN', 'NNS', 'IN', 'DT', 'NNP', 'NN', ',', 'CC', 'IN', 'VBG', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

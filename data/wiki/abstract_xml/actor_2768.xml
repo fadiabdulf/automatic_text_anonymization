@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>William Haade</title>
+<link/>https://en.wikipedia.org/wiki/William_Haade
+<annotated>0</annotated>
+<originalabstract>William Haade (March 2, 1903 – November 15, 1966) was an American film actor. He appeared in more than 250 films between 1937 and 1957. He was born in New York City, and died in Los Angeles, California.</originalabstract>
+<abstract>William_Haade ( March_2_,_1903 – November_15_,_1966 ) was an_American_film_actor . He appeared in more_than_250_films between 1937_and_1957 . He was_born in New_York_City , and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Haade'), (14, '('), (15, 'March'), (21, '2'), (22, ','), (24, '1903'), (29, '–'), (31, 'November'), (40, '15'), (42, ','), (44, '1966'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (71, 'actor'), (76, '.'), (78, 'He'), (81, 'appeared'), (90, 'in'), (93, 'more'), (98, 'than'), (103, '250'), (107, 'films'), (113, 'between'), (121, '1937'), (126, 'and'), (130, '1957'), (134, '.'), (136, 'He'), (139, 'was'), (143, 'born'), (148, 'in'), (151, 'New'), (155, 'York'), (160, 'City'), (164, ','), (166, 'and'), (170, 'died'), (175, 'in'), (178, 'Los'), (182, 'Angeles'), (189, ','), (191, 'California'), (201, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Haade',0, 13), ('March 2, 1903',15, 28), ('November 15, 1966',31, 48), ('an American film actor',54, 76), ('more than 250 films',93, 112), ('1937 and 1957',121, 134), ('was born',139, 147), ('New York City',151, 164), ('Los Angeles',178, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Haade'), (14, '('), (15, 'March'), (21, '2'), (22, ','), (24, '1903'), (29, '–'), (31, 'November'), (40, '15'), (42, ','), (44, '1966'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (71, 'actor'), (76, '.'), (78, 'He'), (81, 'appeared'), (90, 'in'), (93, 'more'), (98, 'than'), (103, '250'), (107, 'films'), (113, 'between'), (121, '1937'), (126, 'and'), (130, '1957'), (134, '.'), (136, 'He'), (139, 'was'), (143, 'born'), (148, 'in'), (151, 'New'), (155, 'York'), (160, 'City'), (164, ','), (166, 'and'), (170, 'died'), (175, 'in'), (178, 'Los'), (182, 'Angeles'), (189, ','), (191, 'California'), (201, '.')])</spacy_tokens>
+<spacy_chunks>[('William Haade', 0, 13), ('(March', 14, 20), ('March 2, 1903', 15, 28), ('November 15, 1966', 31, 48), ('an American film actor', 54, 76), ('more than 250 films', 93, 112), ('New York City,', 151, 165), ('Los Angeles, California', 178, 201)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

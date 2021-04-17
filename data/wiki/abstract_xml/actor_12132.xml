@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sally Forrest</title>
+<link/>https://en.wikipedia.org/wiki/Sally_Forrest
+<annotated>0</annotated>
+<originalabstract>Sally Forrest (born Katherine Feeney; May 28, 1928 – March 15, 2015), was an American film, stage and TV actress of the 1940s and 1950s. She studied dance from a young age and shortly out of high school was signed to a contract by Metro-Goldwyn-Mayer.</originalabstract>
+<abstract>Sally_Forrest ( born Katherine_Feeney ; May_28_,_1928 – March_15_,_2015 ) , was an_American_film_,_stage_and_TV_actress of the_1940s_and_1950s . She studied dance from a_young_age and shortly out of high_school was_signed to a_contract by Metro-Goldwyn-Mayer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sally'), (6, 'Forrest'), (14, '('), (15, 'born'), (20, 'Katherine'), (30, 'Feeney'), (36, ';'), (38, 'May'), (42, '28'), (44, ','), (46, '1928'), (51, '–'), (53, 'March'), (59, '15'), (61, ','), (63, '2015'), (67, ')'), (68, ','), (70, 'was'), (74, 'an'), (77, 'American'), (86, 'film'), (90, ','), (92, 'stage'), (98, 'and'), (102, 'TV'), (105, 'actress'), (113, 'of'), (116, 'the'), (120, '1940s'), (126, 'and'), (130, '1950s'), (135, '.'), (137, 'She'), (141, 'studied'), (149, 'dance'), (155, 'from'), (160, 'a'), (162, 'young'), (168, 'age'), (172, 'and'), (176, 'shortly'), (184, 'out'), (188, 'of'), (191, 'high'), (196, 'school'), (203, 'was'), (207, 'signed'), (214, 'to'), (217, 'a'), (219, 'contract'), (228, 'by'), (231, 'Metro-Goldwyn-Mayer'), (250, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sally Forrest',0, 13), ('Katherine Feeney',20, 36), ('May 28, 1928',38, 50), ('March 15, 2015',53, 67), ('an American film, stage and TV actress',74, 112), ('the 1940s and 1950s',116, 135), ('a young age',160, 171), ('high school',191, 202), ('was signed',203, 213), ('a contract',217, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NN', 'CC', 'RB', 'IN', 'IN', 'JJ', 'NN', 'VBD', 'VBN', 'TO', 'DT', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sally'), (6, 'Forrest'), (14, '('), (15, 'born'), (20, 'Katherine'), (30, 'Feeney'), (36, ';'), (38, 'May'), (42, '28'), (44, ','), (46, '1928'), (51, '–'), (53, 'March'), (59, '15'), (61, ','), (63, '2015'), (67, ')'), (68, ','), (70, 'was'), (74, 'an'), (77, 'American'), (86, 'film'), (90, ','), (92, 'stage'), (98, 'and'), (102, 'TV'), (105, 'actress'), (113, 'of'), (116, 'the'), (120, '1940s'), (126, 'and'), (130, '1950s'), (135, '.'), (137, 'She'), (141, 'studied'), (149, 'dance'), (155, 'from'), (160, 'a'), (162, 'young'), (168, 'age'), (172, 'and'), (176, 'shortly'), (184, 'out'), (188, 'of'), (191, 'high'), (196, 'school'), (203, 'was'), (207, 'signed'), (214, 'to'), (217, 'a'), (219, 'contract'), (228, 'by'), (231, 'Metro'), (236, '-'), (237, 'Goldwyn'), (244, '-'), (245, 'Mayer'), (250, '.')])</spacy_tokens>
+<spacy_chunks>[('Sally Forrest', 0, 13), ('born Katherine Feeney', 15, 36), ('May 28, 1928 – March', 38, 58), ('March 15, 2015', 53, 67), ('an American film', 74, 90), ('TV actress', 102, 112), ('the 1940s', 116, 125), ('a young age', 160, 171), ('high school', 191, 202), ('a contract', 217, 227), ('Metro-Goldwyn-Mayer', 231, 250)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'JJ', 'NN', 'CC', 'RB', 'IN', 'IN', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

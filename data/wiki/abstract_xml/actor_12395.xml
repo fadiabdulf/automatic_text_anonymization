@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arlene Golonka</title>
+<link/>https://en.wikipedia.org/wiki/Arlene_Golonka
+<annotated>0</annotated>
+<originalabstract>Arlene Leanore Golonka (born January 23, 1936) is an American actress. She is perhaps best known for playing Millie Hutchins on the television comedy The Andy Griffith Show and Millie Swanson on Mayberry R.F.D., and often portrayed bubbly, eccentric blondes in supporting character roles on stage, film, and television.</originalabstract>
+<abstract>Arlene_Leanore_Golonka ( born January_23_,_1936 ) is an_American_actress . She is_perhaps_best_known for playing Millie_Hutchins on the_television_comedy The_Andy_Griffith_Show and Millie_Swanson on Mayberry_R.F.D. , and often_portrayed bubbly , eccentric_blondes in supporting character_roles on stage , film , and television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arlene'), (7, 'Leanore'), (15, 'Golonka'), (23, '('), (24, 'born'), (29, 'January'), (37, '23'), (39, ','), (41, '1936'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actress'), (69, '.'), (71, 'She'), (75, 'is'), (78, 'perhaps'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'playing'), (109, 'Millie'), (116, 'Hutchins'), (125, 'on'), (128, 'the'), (132, 'television'), (143, 'comedy'), (150, 'The'), (154, 'Andy'), (159, 'Griffith'), (168, 'Show'), (173, 'and'), (177, 'Millie'), (184, 'Swanson'), (192, 'on'), (195, 'Mayberry'), (204, 'R.F.D.'), (210, ','), (212, 'and'), (216, 'often'), (222, 'portrayed'), (232, 'bubbly'), (238, ','), (240, 'eccentric'), (250, 'blondes'), (258, 'in'), (261, 'supporting'), (272, 'character'), (282, 'roles'), (288, 'on'), (291, 'stage'), (296, ','), (298, 'film'), (302, ','), (304, 'and'), (308, 'television'), (318, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arlene Leanore Golonka',0, 22), ('January 23, 1936',29, 45), ('an American actress',50, 69), ('is perhaps best known',75, 96), ('Millie Hutchins',109, 124), ('the television comedy',128, 149), ('The Andy Griffith Show',150, 172), ('Millie Swanson',177, 191), ('Mayberry R.F.D.',195, 210), ('often portrayed',216, 231), ('eccentric blondes',240, 257), ('character roles',272, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'RB', 'VBD', 'RB', ',', 'JJ', 'NNS', 'IN', 'VBG', 'NN', 'NNS', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arlene'), (7, 'Leanore'), (15, 'Golonka'), (23, '('), (24, 'born'), (29, 'January'), (37, '23'), (39, ','), (41, '1936'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actress'), (69, '.'), (71, 'She'), (75, 'is'), (78, 'perhaps'), (86, 'best'), (91, 'known'), (97, 'for'), (101, 'playing'), (109, 'Millie'), (116, 'Hutchins'), (125, 'on'), (128, 'the'), (132, 'television'), (143, 'comedy'), (150, 'The'), (154, 'Andy'), (159, 'Griffith'), (168, 'Show'), (173, 'and'), (177, 'Millie'), (184, 'Swanson'), (192, 'on'), (195, 'Mayberry'), (204, 'R.F.D.'), (210, ','), (212, 'and'), (216, 'often'), (222, 'portrayed'), (232, 'bubbly'), (238, ','), (240, 'eccentric'), (250, 'blondes'), (258, 'in'), (261, 'supporting'), (272, 'character'), (282, 'roles'), (288, 'on'), (291, 'stage'), (296, ','), (298, 'film'), (302, ','), (304, 'and'), (308, 'television'), (318, '.')])</spacy_tokens>
+<spacy_chunks>[('Arlene Leanore Golonka', 0, 22), ('January 23, 1936', 29, 45), ('an American actress', 50, 69), ('Millie Hutchins', 109, 124), ('the television comedy', 128, 149), ('The Andy Griffith Show', 150, 172), ('Millie Swanson', 177, 191), ('Mayberry R.F.D.', 195, 210), ('eccentric blondes', 240, 257), ('character roles', 272, 287)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'RB', 'VBN', 'RB', ',', 'JJ', 'NNS', 'IN', 'VBG', 'NN', 'NNS', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

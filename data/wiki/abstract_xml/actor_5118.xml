@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ron Palillo</title>
+<link/>https://en.wikipedia.org/wiki/Ron_Palillo
+<annotated>0</annotated>
+<originalabstract>Ronald Gabriel "Ron" Paolillo (April 2, 1949 – August 14, 2012) was an American actor and teacher. He was best known as Arnold Horshack on the sitcom Welcome Back, Kotter (1975–79).</originalabstract>
+<abstract>Ronald_Gabriel_"_Ron_"_Paolillo ( April_2_,_1949 – August_14 , 2012 ) was an_American_actor_and_teacher . He was_best_known as Arnold_Horshack on the_sitcom Welcome Back , Kotter_(_1975 – 79_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ronald'), (7, 'Gabriel'), (15, '"'), (16, 'Ron'), (19, '"'), (21, 'Paolillo'), (30, '('), (31, 'April'), (37, '2'), (38, ','), (40, '1949'), (45, '–'), (47, 'August'), (54, '14'), (56, ','), (58, '2012'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (86, 'and'), (90, 'teacher'), (97, '.'), (99, 'He'), (102, 'was'), (106, 'best'), (111, 'known'), (117, 'as'), (120, 'Arnold'), (127, 'Horshack'), (136, 'on'), (139, 'the'), (143, 'sitcom'), (150, 'Welcome'), (158, 'Back'), (162, ','), (164, 'Kotter'), (171, '('), (172, '1975'), (176, '–'), (177, '79'), (179, ')'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ronald Gabriel "Ron" Paolillo',0, 29), ('April 2, 1949',31, 44), ('August 14',47, 56), ('an American actor and teacher',68, 97), ('was best known',102, 116), ('Arnold Horshack',120, 135), ('the sitcom',139, 149), ('Kotter (1975',164, 176), ('79)',177, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'VB', 'RB', ',', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ronald'), (7, 'Gabriel'), (15, '"'), (16, 'Ron'), (19, '"'), (21, 'Paolillo'), (30, '('), (31, 'April'), (37, '2'), (38, ','), (40, '1949'), (45, '–'), (47, 'August'), (54, '14'), (56, ','), (58, '2012'), (62, ')'), (64, 'was'), (68, 'an'), (71, 'American'), (80, 'actor'), (86, 'and'), (90, 'teacher'), (97, '.'), (99, 'He'), (102, 'was'), (106, 'best'), (111, 'known'), (117, 'as'), (120, 'Arnold'), (127, 'Horshack'), (136, 'on'), (139, 'the'), (143, 'sitcom'), (150, 'Welcome'), (158, 'Back'), (162, ','), (164, 'Kotter'), (171, '('), (172, '1975–79'), (179, ')'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('Ronald Gabriel', 0, 14), ('"Ron" Paolillo', 15, 29), ('April 2, 1949', 31, 44), ('August 14, 2012', 47, 62), ('an American actor', 68, 85), ('teacher', 90, 97), ('Arnold Horshack', 120, 135), ('the sitcom', 139, 149), ('Welcome Back, Kotter', 150, 170), ('(1975–79', 171, 179)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'RBS', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'VBP', 'RP', ',', 'NNP', '-LRB-', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

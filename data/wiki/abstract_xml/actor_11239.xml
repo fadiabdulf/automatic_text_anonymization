@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charmion</title>
+<link/>https://en.wikipedia.org/wiki/Charmion
+<annotated>0</annotated>
+<originalabstract>Laverie Vallee née Cooper (July 18, 1875 – February 6, 1949), best known by her stage name Charmion, was an American vaudeville trapeze artist and strongwoman whose well-publicized suggestive performance was captured on film in 1901.</originalabstract>
+<abstract>Laverie_Vallee_née_Cooper ( July_18_,_1875 – February_6_,_1949 ) , best_known by her_stage_name_Charmion , was an_American_vaudeville_trapeze_artist_and_strongwoman whose_well-publicized_suggestive_performance was_captured on film in 1901 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Laverie'), (8, 'Vallee'), (15, 'née'), (19, 'Cooper'), (26, '('), (27, 'July'), (32, '18'), (34, ','), (36, '1875'), (41, '–'), (43, 'February'), (52, '6'), (53, ','), (55, '1949'), (59, ')'), (60, ','), (62, 'best'), (67, 'known'), (73, 'by'), (76, 'her'), (80, 'stage'), (86, 'name'), (91, 'Charmion'), (99, ','), (101, 'was'), (105, 'an'), (108, 'American'), (117, 'vaudeville'), (128, 'trapeze'), (136, 'artist'), (143, 'and'), (147, 'strongwoman'), (159, 'whose'), (165, 'well-publicized'), (181, 'suggestive'), (192, 'performance'), (204, 'was'), (208, 'captured'), (217, 'on'), (220, 'film'), (225, 'in'), (228, '1901'), (232, '.')])</stanford_tokens>
+<opennlp_chunks>[('Laverie Vallee née Cooper',0, 25), ('July 18, 1875',27, 40), ('February 6, 1949',43, 59), ('best known',62, 72), ('her stage name Charmion',76, 99), ('an American vaudeville trapeze artist and strongwoman',105, 158), ('whose well-publicized suggestive performance',159, 203), ('was captured',204, 216)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NN', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', 'WP$', 'JJ', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Laverie'), (8, 'Vallee'), (15, 'née'), (19, 'Cooper'), (26, '('), (27, 'July'), (32, '18'), (34, ','), (36, '1875'), (41, '–'), (43, 'February'), (52, '6'), (53, ','), (55, '1949'), (59, ')'), (60, ','), (62, 'best'), (67, 'known'), (73, 'by'), (76, 'her'), (80, 'stage'), (86, 'name'), (91, 'Charmion'), (99, ','), (101, 'was'), (105, 'an'), (108, 'American'), (117, 'vaudeville'), (128, 'trapeze'), (136, 'artist'), (143, 'and'), (147, 'strongwoman'), (159, 'whose'), (165, 'well'), (169, '-'), (170, 'publicized'), (181, 'suggestive'), (192, 'performance'), (204, 'was'), (208, 'captured'), (217, 'on'), (220, 'film'), (225, 'in'), (228, '1901'), (232, '.')])</spacy_tokens>
+<spacy_chunks>[('Laverie Vallee', 0, 14), ('Cooper', 19, 25), ('July 18, 1875', 27, 40), ('February 6, 1949', 43, 59), ('her stage name', 76, 90), ('Charmion', 91, 99), ('an American vaudeville trapeze artist', 105, 142), ('Strongwoman', 147, 158), ('whose well-publicized suggestive performance', 159, 203)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NN', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'CC', 'NN', 'WP$', 'RB', 'HYPH', 'VBN', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Josh Server</title>
+<link/>https://en.wikipedia.org/wiki/Josh_Server
+<annotated>0</annotated>
+<originalabstract>Joshua Aaron Server (born April 11, 1979) is an American actor best known for being the only All That cast member to remain through all six original seasons.</originalabstract>
+<abstract>Joshua_Aaron_Server ( born April_11_,_1979 ) is an_American_actor best_known for being the_only_All That cast member to_remain through all_six_original_seasons .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joshua'), (7, 'Aaron'), (13, 'Server'), (20, '('), (21, 'born'), (26, 'April'), (32, '11'), (34, ','), (36, '1979'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'being'), (84, 'the'), (88, 'only'), (93, 'All'), (97, 'That'), (102, 'cast'), (107, 'member'), (114, 'to'), (117, 'remain'), (124, 'through'), (132, 'all'), (136, 'six'), (140, 'original'), (149, 'seasons'), (156, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joshua Aaron Server',0, 19), ('April 11, 1979',26, 40), ('an American actor',45, 62), ('best known',63, 73), ('the only All',84, 96), ('to remain',114, 123), ('all six original seasons',132, 156)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NN', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'DT', 'DT', 'VBD', 'NN', 'TO', 'VB', 'IN', 'DT', 'CD', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joshua'), (7, 'Aaron'), (13, 'Server'), (20, '('), (21, 'born'), (26, 'April'), (32, '11'), (34, ','), (36, '1979'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'being'), (84, 'the'), (88, 'only'), (93, 'All'), (97, 'That'), (102, 'cast'), (107, 'member'), (114, 'to'), (117, 'remain'), (124, 'through'), (132, 'all'), (136, 'six'), (140, 'original'), (149, 'seasons'), (156, '.')])</spacy_tokens>
+<spacy_chunks>[('Joshua Aaron Server', 0, 19), ('April 11, 1979', 26, 40), ('an American actor', 45, 62), ('All That', 93, 101), ('all six original seasons', 132, 156)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'PDT', 'DT', 'NN', 'NN', 'TO', 'VB', 'IN', 'DT', 'CD', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

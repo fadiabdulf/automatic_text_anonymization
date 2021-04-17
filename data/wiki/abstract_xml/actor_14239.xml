@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Denise Nickerson</title>
+<link/>https://en.wikipedia.org/wiki/Denise_Nickerson
+<annotated>0</annotated>
+<originalabstract>Denise Nickerson (born April 1, 1957) is an American former child actress, best known for her roles as the gum-chewing Violet Beauregarde in the 1971 movie Willy Wonka  the Chocolate Factory, Allison on The Electric Company and Amy Jennings and Nora Collins in the soap opera Dark Shadows.</originalabstract>
+<abstract>Denise_Nickerson ( born April_1_,_1957 ) is an_American_former_child_actress , best_known for her_roles as the_gum-chewing_Violet_Beauregarde in the_1971_movie_Willy_Wonka  the_Chocolate_Factory , Allison on The_Electric_Company and Amy_Jennings and Nora_Collins in the_soap_opera_Dark_Shadows .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Denise'), (7, 'Nickerson'), (17, '('), (18, 'born'), (23, 'April'), (29, '1'), (30, ','), (32, '1957'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'former'), (60, 'child'), (66, 'actress'), (73, ','), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'her'), (94, 'roles'), (100, 'as'), (103, 'the'), (107, 'gum-chewing'), (119, 'Violet'), (126, 'Beauregarde'), (138, 'in'), (141, 'the'), (145, '1971'), (150, 'movie'), (156, 'Willy'), (162, 'Wonka'), (168, ''), (170, 'the'), (174, 'Chocolate'), (184, 'Factory'), (191, ','), (193, 'Allison'), (201, 'on'), (204, 'The'), (208, 'Electric'), (217, 'Company'), (225, 'and'), (229, 'Amy'), (233, 'Jennings'), (242, 'and'), (246, 'Nora'), (251, 'Collins'), (259, 'in'), (262, 'the'), (266, 'soap'), (271, 'opera'), (277, 'Dark'), (282, 'Shadows'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('Denise Nickerson',0, 16), ('April 1, 1957',23, 36), ('an American former child actress',41, 73), ('best known',75, 85), ('her roles',90, 99), ('the gum-chewing Violet Beauregarde',103, 137), ('the 1971 movie Willy Wonka',141, 167), ('the Chocolate Factory',170, 191), ('The Electric Company',204, 224), ('Amy Jennings',229, 241), ('Nora Collins',246, 258), ('the soap opera Dark Shadows',262, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NN', ',', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Denise'), (7, 'Nickerson'), (17, '('), (18, 'born'), (23, 'April'), (29, '1'), (30, ','), (32, '1957'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'former'), (60, 'child'), (66, 'actress'), (73, ','), (75, 'best'), (80, 'known'), (86, 'for'), (90, 'her'), (94, 'roles'), (100, 'as'), (103, 'the'), (107, 'gum'), (110, '-'), (111, 'chewing'), (119, 'Violet'), (126, 'Beauregarde'), (138, 'in'), (141, 'the'), (145, '1971'), (150, 'movie'), (156, 'Willy'), (162, 'Wonka'), (169, 'the'), (173, 'Chocolate'), (183, 'Factory'), (190, ','), (192, 'Allison'), (200, 'on'), (203, 'The'), (207, 'Electric'), (216, 'Company'), (224, 'and'), (228, 'Amy'), (232, 'Jennings'), (241, 'and'), (245, 'Nora'), (250, 'Collins'), (258, 'in'), (261, 'the'), (265, 'soap'), (270, 'opera'), (276, 'Dark'), (281, 'Shadows'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Denise Nickerson', 0, 16), ('April 1, 1957', 23, 36), ('an American former child actress', 41, 73), ('her roles', 90, 99), ('the gum-chewing Violet Beauregarde', 103, 137), ('the 1971 movie', 141, 155), ('Willy Wonka', 156, 167), ('the Chocolate Factory', 169, 190), ('Allison', 192, 199), ('The Electric Company', 203, 223), ('Amy Jennings', 228, 240), ('Nora Collins', 245, 257), ('the soap opera', 261, 275), ('Dark Shadows', 276, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NN', 'HYPH', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'DT', 'NNP', 'NNP', ',', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

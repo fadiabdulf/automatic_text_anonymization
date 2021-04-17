@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Don Shanks (stuntman)</title>
+<link/>https://en.wikipedia.org/wiki/Don_Shanks_(stuntman)
+<annotated>0</annotated>
+<originalabstract>Donald L. "Don" Shanks (born February 26, 1950) is an American actor and stuntman, known for his role as Michael Myers in Halloween 5: The Revenge of Michael Myers, and Nakoma, the Native American friend of the title character in the 1977 television series The Life and Times of Grizzly Adams.</originalabstract>
+<abstract>Donald_L._"_Don_"_Shanks ( born February_26_,_1950 ) is an_American_actor_and_stuntman , known for his_role as Michael_Myers in Halloween_5 : The_Revenge of Michael_Myers , and Nakoma , the_Native_American_friend of the_title_character in the_1977_television_series_The_Life_and_Times of Grizzly_Adams .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Donald'), (7, 'L.'), (10, '"'), (11, 'Don'), (14, '"'), (16, 'Shanks'), (23, '('), (24, 'born'), (29, 'February'), (38, '26'), (40, ','), (42, '1950'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'and'), (73, 'stuntman'), (81, ','), (83, 'known'), (89, 'for'), (93, 'his'), (97, 'role'), (102, 'as'), (105, 'Michael'), (113, 'Myers'), (119, 'in'), (122, 'Halloween'), (132, '5'), (133, ':'), (135, 'The'), (139, 'Revenge'), (147, 'of'), (150, 'Michael'), (158, 'Myers'), (163, ','), (165, 'and'), (169, 'Nakoma'), (175, ','), (177, 'the'), (181, 'Native'), (188, 'American'), (197, 'friend'), (204, 'of'), (207, 'the'), (211, 'title'), (217, 'character'), (227, 'in'), (230, 'the'), (234, '1977'), (239, 'television'), (250, 'series'), (257, 'The'), (261, 'Life'), (266, 'and'), (270, 'Times'), (276, 'of'), (279, 'Grizzly'), (287, 'Adams'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Donald L. "Don" Shanks',0, 22), ('February 26, 1950',29, 46), ('an American actor and stuntman',51, 81), ('his role',93, 101), ('Michael Myers',105, 118), ('Halloween 5',122, 133), ('The Revenge',135, 146), ('Michael Myers',150, 163), ('the Native American friend',177, 203), ('the title character',207, 226), ('the 1977 television series The Life and Times',230, 275), ('Grizzly Adams',279, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ':', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'CC', 'NNP', ',', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Donald'), (7, 'L.'), (10, '"'), (11, 'Don'), (14, '"'), (16, 'Shanks'), (23, '('), (24, 'born'), (29, 'February'), (38, '26'), (40, ','), (42, '1950'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'and'), (73, 'stuntman'), (81, ','), (83, 'known'), (89, 'for'), (93, 'his'), (97, 'role'), (102, 'as'), (105, 'Michael'), (113, 'Myers'), (119, 'in'), (122, 'Halloween'), (132, '5'), (133, ':'), (135, 'The'), (139, 'Revenge'), (147, 'of'), (150, 'Michael'), (158, 'Myers'), (163, ','), (165, 'and'), (169, 'Nakoma'), (175, ','), (177, 'the'), (181, 'Native'), (188, 'American'), (197, 'friend'), (204, 'of'), (207, 'the'), (211, 'title'), (217, 'character'), (227, 'in'), (230, 'the'), (234, '1977'), (239, 'television'), (250, 'series'), (257, 'The'), (261, 'Life'), (266, 'and'), (270, 'Times'), (276, 'of'), (279, 'Grizzly'), (287, 'Adams'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Donald L. "Don" Shanks', 0, 22), ('February 26, 1950', 29, 46), ('an American actor', 51, 68), ('Stuntman', 73, 81), ('his role', 93, 101), ('Michael Myers', 105, 118), ('Halloween 5: The Revenge of Michael Myers', 122, 163), ('Nakoma', 169, 175), ('the Native American friend', 177, 203), ('the title character', 207, 226), ('the 1977 television series', 230, 256), ('The Life and Times of Grizzly Adams', 257, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ':', 'DT', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'NNP', ',', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'DT', 'NNP', 'CC', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

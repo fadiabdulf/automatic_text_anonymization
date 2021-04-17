@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>William Hauber</title>
+<link/>https://en.wikipedia.org/wiki/William_Hauber
+<annotated>0</annotated>
+<originalabstract>William Hauber (May 20, 1891 – July 17, 1929) was an American film actor.  He appeared in 66 films between 1913 and 1928. He was born in Brownsville, Minnesota, and died in California in a plane crash during aerial scouting for film locations during the production of the film The Aviator in 1929.</originalabstract>
+<abstract>William_Hauber ( May_20_,_1891 – July_17_,_1929 ) was an_American_film_actor . He appeared in 66_films between 1913_and_1928 . He was_born in Brownsville , Minnesota , and died in California in a_plane_crash during aerial_scouting for film_locations during the_production of the_film The_Aviator in 1929 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Hauber'), (15, '('), (16, 'May'), (20, '20'), (22, ','), (24, '1891'), (29, '–'), (31, 'July'), (36, '17'), (38, ','), (40, '1929'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'film'), (67, 'actor'), (72, '.'), (75, 'He'), (78, 'appeared'), (87, 'in'), (90, '66'), (93, 'films'), (99, 'between'), (107, '1913'), (112, 'and'), (116, '1928'), (120, '.'), (122, 'He'), (125, 'was'), (129, 'born'), (134, 'in'), (137, 'Brownsville'), (148, ','), (150, 'Minnesota'), (159, ','), (161, 'and'), (165, 'died'), (170, 'in'), (173, 'California'), (184, 'in'), (187, 'a'), (189, 'plane'), (195, 'crash'), (201, 'during'), (208, 'aerial'), (215, 'scouting'), (224, 'for'), (228, 'film'), (233, 'locations'), (243, 'during'), (250, 'the'), (254, 'production'), (265, 'of'), (268, 'the'), (272, 'film'), (277, 'The'), (281, 'Aviator'), (289, 'in'), (292, '1929'), (296, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Hauber',0, 14), ('May 20, 1891',16, 28), ('July 17, 1929',31, 44), ('an American film actor',50, 72), ('66 films',90, 98), ('1913 and 1928',107, 120), ('was born',125, 133), ('a plane crash',187, 200), ('aerial scouting',208, 223), ('film locations',228, 242), ('the production',250, 264), ('the film',268, 276), ('The Aviator',277, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'IN', 'JJ', 'VBG', 'IN', 'NN', 'NNS', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'DT', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Hauber'), (15, '('), (16, 'May'), (20, '20'), (22, ','), (24, '1891'), (29, '–'), (31, 'July'), (36, '17'), (38, ','), (40, '1929'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'film'), (67, 'actor'), (72, '.'), (75, 'He'), (78, 'appeared'), (87, 'in'), (90, '66'), (93, 'films'), (99, 'between'), (107, '1913'), (112, 'and'), (116, '1928'), (120, '.'), (122, 'He'), (125, 'was'), (129, 'born'), (134, 'in'), (137, 'Brownsville'), (148, ','), (150, 'Minnesota'), (159, ','), (161, 'and'), (165, 'died'), (170, 'in'), (173, 'California'), (184, 'in'), (187, 'a'), (189, 'plane'), (195, 'crash'), (201, 'during'), (208, 'aerial'), (215, 'scouting'), (224, 'for'), (228, 'film'), (233, 'locations'), (243, 'during'), (250, 'the'), (254, 'production'), (265, 'of'), (268, 'the'), (272, 'film'), (277, 'The'), (281, 'Aviator'), (289, 'in'), (292, '1929'), (296, '.')])</spacy_tokens>
+<spacy_chunks>[('William Hauber', 0, 14), ('May 20, 1891', 16, 28), ('July 17, 1929', 31, 44), ('an American film actor', 50, 72), ('66 films', 90, 98), ('Brownsville, Minnesota', 137, 159), ('California', 173, 183), ('a plane crash', 187, 200), ('aerial scouting', 208, 223), ('film locations', 228, 242), ('the production', 250, 264), ('the film', 268, 276), ('The Aviator', 277, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'IN', 'JJ', 'NN', 'IN', 'NN', 'NNS', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'DT', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>René Cresté</title>
+<link/>https://en.wikipedia.org/wiki/Ren%C3%A9_Crest%C3%A9
+<annotated>0</annotated>
+<originalabstract>René Cresté (5 December 1881 – 30 November 1922) was a French stage and film actor and director of the silent film era. Cresté is possibly best recalled as Judex, the title character in the Louis Feuillade-directed crime-adventure serial Judex, which ran in twelve installments in theaters from 1917 until 1918.</originalabstract>
+<abstract>René_Cresté ( 5_December_1881 – 30_November_1922 ) was a_French_stage_and_film_actor_and_director of the_silent_film_era . Cresté is_possibly_best_recalled as Judex , the_title_character in the_Louis_Feuillade-directed_crime-adventure_serial_Judex , which ran in twelve_installments in theaters from 1917 until 1918 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'René'), (5, 'Cresté'), (12, '('), (13, '5'), (15, 'December'), (24, '1881'), (29, '–'), (31, '30'), (34, 'November'), (43, '1922'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'stage'), (68, 'and'), (72, 'film'), (77, 'actor'), (83, 'and'), (87, 'director'), (96, 'of'), (99, 'the'), (103, 'silent'), (110, 'film'), (115, 'era'), (118, '.'), (120, 'Cresté'), (127, 'is'), (130, 'possibly'), (139, 'best'), (144, 'recalled'), (153, 'as'), (156, 'Judex'), (161, ','), (163, 'the'), (167, 'title'), (173, 'character'), (183, 'in'), (186, 'the'), (190, 'Louis'), (196, 'Feuillade-directed'), (215, 'crime-adventure'), (231, 'serial'), (238, 'Judex'), (243, ','), (245, 'which'), (251, 'ran'), (255, 'in'), (258, 'twelve'), (265, 'installments'), (278, 'in'), (281, 'theaters'), (290, 'from'), (295, '1917'), (300, 'until'), (306, '1918'), (310, '.')])</stanford_tokens>
+<opennlp_chunks>[('René Cresté',0, 11), ('5 December 1881',13, 28), ('30 November 1922',31, 47), ('a French stage and film actor and director',53, 95), ('the silent film era',99, 118), ('is possibly best recalled',127, 152), ('the title character',163, 182), ('the Louis Feuillade-directed crime-adventure serial Judex',186, 243), ('twelve installments',258, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'NN', ',', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'JJ', 'JJ', 'NN', 'NN', ',', 'WDT', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'NNS', 'IN', 'CD', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'René'), (5, 'Cresté'), (12, '('), (13, '5'), (15, 'December'), (24, '1881'), (29, '–'), (31, '30'), (34, 'November'), (43, '1922'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'stage'), (68, 'and'), (72, 'film'), (77, 'actor'), (83, 'and'), (87, 'director'), (96, 'of'), (99, 'the'), (103, 'silent'), (110, 'film'), (115, 'era'), (118, '.'), (120, 'Cresté'), (127, 'is'), (130, 'possibly'), (139, 'best'), (144, 'recalled'), (153, 'as'), (156, 'Judex'), (161, ','), (163, 'the'), (167, 'title'), (173, 'character'), (183, 'in'), (186, 'the'), (190, 'Louis'), (196, 'Feuillade'), (205, '-'), (206, 'directed'), (215, 'crime'), (220, '-'), (221, 'adventure'), (231, 'serial'), (238, 'Judex'), (243, ','), (245, 'which'), (251, 'ran'), (255, 'in'), (258, 'twelve'), (265, 'installments'), (278, 'in'), (281, 'theaters'), (290, 'from'), (295, '1917'), (300, 'until'), (306, '1918'), (310, '.')])</spacy_tokens>
+<spacy_chunks>[('René Cresté', 0, 11), ('5 December 1881', 13, 28), ('30 November 1922', 31, 47), ('a French stage and film actor', 53, 82), ('director', 87, 95), ('the silent film era', 99, 118), ('the title character', 163, 182), ('the Louis Feuillade-directed crime-adventure serial Judex', 186, 243), ('twelve installments', 258, 277), ('theaters', 281, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'NNP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'NNP', ',', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'HYPH', 'VBN', 'NN', 'HYPH', 'NN', 'JJ', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'NNS', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

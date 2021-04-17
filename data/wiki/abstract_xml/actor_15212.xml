@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jan Smithers</title>
+<link/>https://en.wikipedia.org/wiki/Jan_Smithers
+<annotated>0</annotated>
+<originalabstract>Karin Jan Smithers (born July 3, 1949) is an American actress. She is best known for playing Bailey Quarters on the CBS sitcom WKRP in Cincinnati (1978–1982).</originalabstract>
+<abstract>Karin_Jan_Smithers ( born July_3_,_1949 ) is an_American_actress . She is_best_known for playing_Bailey_Quarters on the_CBS_sitcom_WKRP in Cincinnati_(_1978 – 1982_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Karin'), (6, 'Jan'), (10, 'Smithers'), (19, '('), (20, 'born'), (25, 'July'), (30, '3'), (31, ','), (33, '1949'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'is'), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'playing'), (93, 'Bailey'), (100, 'Quarters'), (109, 'on'), (112, 'the'), (116, 'CBS'), (120, 'sitcom'), (127, 'WKRP'), (132, 'in'), (135, 'Cincinnati'), (146, '('), (147, '1978'), (151, '–'), (152, '1982'), (156, ')'), (157, '.')])</stanford_tokens>
+<opennlp_chunks>[('Karin Jan Smithers',0, 18), ('July 3, 1949',25, 37), ('an American actress',42, 61), ('is best known',67, 80), ('playing Bailey Quarters',85, 108), ('the CBS sitcom WKRP',112, 131), ('Cincinnati (1978',135, 151), ('1982)',152, 157)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'NN', 'IN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Karin'), (6, 'Jan'), (10, 'Smithers'), (19, '('), (20, 'born'), (25, 'July'), (30, '3'), (31, ','), (33, '1949'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'is'), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'playing'), (93, 'Bailey'), (100, 'Quarters'), (109, 'on'), (112, 'the'), (116, 'CBS'), (120, 'sitcom'), (127, 'WKRP'), (132, 'in'), (135, 'Cincinnati'), (146, '('), (147, '1978–1982'), (156, ')'), (157, '.')])</spacy_tokens>
+<spacy_chunks>[('Karin Jan Smithers', 0, 18), ('July 3, 1949', 25, 37), ('an American actress', 42, 61), ('Bailey Quarters', 93, 108), ('the CBS sitcom WKRP', 112, 131), ('WKRP in Cincinnati', 127, 145)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNPS', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

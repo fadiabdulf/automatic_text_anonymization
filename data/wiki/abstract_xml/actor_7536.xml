@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harvey Adams</title>
+<link/>https://en.wikipedia.org/wiki/Harvey_Adams
+<annotated>0</annotated>
+<originalabstract>Harvey Adams (1889, Warrington, England - 1960, Australia) was an English actor and director who worked extensively in film, stage and radio.He moved to Australia in 1924 for work after a long career, and wound up staying in the country for most of the rest of his life.</originalabstract>
+<abstract>Harvey_Adams ( 1889 , Warrington , England - 1960 , Australia ) was an_English_actor and director who worked extensively in film_,_stage_and_radio.He moved to Australia in 1924 for work after a_long_career , and wound_up_staying in the_country for most of the_rest of his_life .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harvey'), (7, 'Adams'), (13, '('), (14, '1889'), (18, ','), (20, 'Warrington'), (30, ','), (32, 'England'), (40, '-'), (42, '1960'), (46, ','), (48, 'Australia'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'English'), (74, 'actor'), (80, 'and'), (84, 'director'), (93, 'who'), (97, 'worked'), (104, 'extensively'), (116, 'in'), (119, 'film'), (123, ','), (125, 'stage'), (131, 'and'), (135, 'radio.He'), (144, 'moved'), (150, 'to'), (153, 'Australia'), (163, 'in'), (166, '1924'), (171, 'for'), (175, 'work'), (180, 'after'), (186, 'a'), (188, 'long'), (193, 'career'), (199, ','), (201, 'and'), (205, 'wound'), (211, 'up'), (214, 'staying'), (222, 'in'), (225, 'the'), (229, 'country'), (237, 'for'), (241, 'most'), (246, 'of'), (249, 'the'), (253, 'rest'), (258, 'of'), (261, 'his'), (265, 'life'), (269, '.')])</stanford_tokens>
+<opennlp_chunks>[('Harvey Adams',0, 12), ('an English actor',63, 79), ('film, stage and radio.He',119, 143), ('a long career',186, 199), ('wound up staying',205, 221), ('the country',225, 236), ('the rest',249, 257), ('his life',261, 269)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ',', 'NNP', ',', 'NNP', ':', 'CD', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'RB', 'IN', 'NN', ',', 'NN', 'CC', 'NN', 'VBD', 'TO', 'NNP', 'IN', 'CD', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NN', ',', 'CC', 'VB', 'RP', 'VBG', 'IN', 'DT', 'NN', 'IN', 'JJS', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harvey'), (7, 'Adams'), (13, '('), (14, '1889'), (18, ','), (20, 'Warrington'), (30, ','), (32, 'England'), (40, '-'), (42, '1960'), (46, ','), (48, 'Australia'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'English'), (74, 'actor'), (80, 'and'), (84, 'director'), (93, 'who'), (97, 'worked'), (104, 'extensively'), (116, 'in'), (119, 'film'), (123, ','), (125, 'stage'), (131, 'and'), (135, 'radio'), (140, '.'), (141, 'He'), (144, 'moved'), (150, 'to'), (153, 'Australia'), (163, 'in'), (166, '1924'), (171, 'for'), (175, 'work'), (180, 'after'), (186, 'a'), (188, 'long'), (193, 'career'), (199, ','), (201, 'and'), (205, 'wound'), (211, 'up'), (214, 'staying'), (222, 'in'), (225, 'the'), (229, 'country'), (237, 'for'), (241, 'most'), (246, 'of'), (249, 'the'), (253, 'rest'), (258, 'of'), (261, 'his'), (265, 'life'), (269, '.')])</spacy_tokens>
+<spacy_chunks>[('Harvey Adams', 0, 12), ('Warrington', 20, 30), ('England', 32, 39), ('Australia', 48, 57), ('an English actor', 63, 79), ('director', 84, 92), ('a long career', 186, 199), ('the country', 225, 236), ('the rest', 249, 257), ('his life', 261, 269)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', ',', 'NNP', ',', 'NNP', 'HYPH', 'CD', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBD', 'RB', 'IN', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'IN', 'CD', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NN', ',', 'CC', 'VB', 'RP', 'VBG', 'IN', 'DT', 'NN', 'IN', 'JJS', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

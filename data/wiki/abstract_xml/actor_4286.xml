@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul Marco</title>
+<link/>https://en.wikipedia.org/wiki/Paul_Marco
+<annotated>0</annotated>
+<originalabstract>Paul Marco (June 10, 1927 – May 14, 2006) was an American actor who often appeared in movies made by Ed Wood, including the "Kelton Trilogy" of Bride of the Monster, Night of the Ghouls and Plan 9 from Outer Space, in which he played a bumbling, fearful policeman named Kelton.</originalabstract>
+<abstract>Paul_Marco ( June_10_,_1927 – May_14_,_2006 ) was an_American_actor who often appeared in movies made by Ed_Wood , including the_"_Kelton_Trilogy " of Bride of the_Monster , Night of the_Ghouls_and_Plan_9 from Outer_Space , in which he played a_bumbling_,_fearful_policeman named Kelton .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Marco'), (11, '('), (12, 'June'), (17, '10'), (19, ','), (21, '1927'), (26, '–'), (28, 'May'), (32, '14'), (34, ','), (36, '2006'), (40, ')'), (42, 'was'), (46, 'an'), (49, 'American'), (58, 'actor'), (64, 'who'), (68, 'often'), (74, 'appeared'), (83, 'in'), (86, 'movies'), (93, 'made'), (98, 'by'), (101, 'Ed'), (104, 'Wood'), (108, ','), (110, 'including'), (120, 'the'), (124, '"'), (125, 'Kelton'), (132, 'Trilogy'), (139, '"'), (141, 'of'), (144, 'Bride'), (150, 'of'), (153, 'the'), (157, 'Monster'), (164, ','), (166, 'Night'), (172, 'of'), (175, 'the'), (179, 'Ghouls'), (186, 'and'), (190, 'Plan'), (195, '9'), (197, 'from'), (202, 'Outer'), (208, 'Space'), (213, ','), (215, 'in'), (218, 'which'), (224, 'he'), (227, 'played'), (234, 'a'), (236, 'bumbling'), (244, ','), (246, 'fearful'), (254, 'policeman'), (264, 'named'), (270, 'Kelton'), (276, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Marco',0, 10), ('June 10, 1927',12, 25), ('May 14, 2006',28, 40), ('an American actor',46, 63), ('Ed Wood',101, 108), ('the "Kelton Trilogy',120, 139), ('the Monster',153, 164), ('the Ghouls and Plan 9',175, 196), ('Outer Space',202, 213), ('a bumbling, fearful policeman',234, 263)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'RB', 'VBD', 'IN', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBG', 'DT', '``', 'NNP', 'NNP', '\'\'', 'IN', 'NN', 'IN', 'DT', 'NN', ',', 'NN', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'CD', 'IN', 'NNP', 'NNP', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'VBG', ',', 'JJ', 'NN', 'VBN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Marco'), (11, '('), (12, 'June'), (17, '10'), (19, ','), (21, '1927'), (26, '–'), (28, 'May'), (32, '14'), (34, ','), (36, '2006'), (40, ')'), (42, 'was'), (46, 'an'), (49, 'American'), (58, 'actor'), (64, 'who'), (68, 'often'), (74, 'appeared'), (83, 'in'), (86, 'movies'), (93, 'made'), (98, 'by'), (101, 'Ed'), (104, 'Wood'), (108, ','), (110, 'including'), (120, 'the'), (124, '"'), (125, 'Kelton'), (132, 'Trilogy'), (139, '"'), (141, 'of'), (144, 'Bride'), (150, 'of'), (153, 'the'), (157, 'Monster'), (164, ','), (166, 'Night'), (172, 'of'), (175, 'the'), (179, 'Ghouls'), (186, 'and'), (190, 'Plan'), (195, '9'), (197, 'from'), (202, 'Outer'), (208, 'Space'), (213, ','), (215, 'in'), (218, 'which'), (224, 'he'), (227, 'played'), (234, 'a'), (236, 'bumbling'), (244, ','), (246, 'fearful'), (254, 'policeman'), (264, 'named'), (270, 'Kelton'), (276, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Marco', 0, 10), ('June 10, 1927', 12, 25), ('May 14, 2006', 28, 40), ('an American actor', 46, 63), ('movies', 86, 92), ('Ed Wood', 101, 108), ('the "Kelton Trilogy', 120, 139), ('Bride of the Monster', 144, 164), ('Night of the Ghouls', 166, 185), ('Plan 9 from Outer Space', 190, 213), ('a bumbling, fearful policeman', 234, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'RB', 'VBD', 'IN', 'NNS', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBG', 'DT', '``', 'NNP', 'NNP', "''", 'IN', 'NNP', 'IN', 'DT', 'NNP', ',', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'CD', 'IN', 'NNP', 'NNP', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'JJ', ',', 'JJ', 'NN', 'VBN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Julie Bishop (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Julie_Bishop_(actress)
+<annotated>0</annotated>
+<originalabstract>Julie Bishop (born Jacqueline Brown, August 30, 1914 – August 30, 2001) was an American film and television actress. She appeared in more than 80 films between 1923 and 1957, billed in some as Jacqueline Wells.</originalabstract>
+<abstract>Julie_Bishop ( born Jacqueline_Brown , August_30_,_1914 – August_30 , 2001 ) was an_American_film_and_television_actress . She appeared in more_than_80_films between 1923_and_1957 , billed in some as Jacqueline_Wells .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Julie'), (6, 'Bishop'), (13, '('), (14, 'born'), (19, 'Jacqueline'), (30, 'Brown'), (35, ','), (37, 'August'), (44, '30'), (46, ','), (48, '1914'), (53, '–'), (55, 'August'), (62, '30'), (64, ','), (66, '2001'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'film'), (93, 'and'), (97, 'television'), (108, 'actress'), (115, '.'), (117, 'She'), (121, 'appeared'), (130, 'in'), (133, 'more'), (138, 'than'), (143, '80'), (146, 'films'), (152, 'between'), (160, '1923'), (165, 'and'), (169, '1957'), (173, ','), (175, 'billed'), (182, 'in'), (185, 'some'), (190, 'as'), (193, 'Jacqueline'), (204, 'Wells'), (209, '.')])</stanford_tokens>
+<opennlp_chunks>[('Julie Bishop',0, 12), ('Jacqueline Brown',19, 35), ('August 30, 1914',37, 52), ('August 30',55, 64), ('an American film and television actress',76, 115), ('more than 80 films',133, 151), ('1923 and 1957',160, 173), ('Jacqueline Wells',193, 209)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBD', 'IN', 'DT', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Julie'), (6, 'Bishop'), (13, '('), (14, 'born'), (19, 'Jacqueline'), (30, 'Brown'), (35, ','), (37, 'August'), (44, '30'), (46, ','), (48, '1914'), (53, '–'), (55, 'August'), (62, '30'), (64, ','), (66, '2001'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'American'), (88, 'film'), (93, 'and'), (97, 'television'), (108, 'actress'), (115, '.'), (117, 'She'), (121, 'appeared'), (130, 'in'), (133, 'more'), (138, 'than'), (143, '80'), (146, 'films'), (152, 'between'), (160, '1923'), (165, 'and'), (169, '1957'), (173, ','), (175, 'billed'), (182, 'in'), (185, 'some'), (190, 'as'), (193, 'Jacqueline'), (204, 'Wells'), (209, '.')])</spacy_tokens>
+<spacy_chunks>[('Julie Bishop', 0, 12), ('born Jacqueline Brown', 14, 35), ('August 30, 1914', 37, 52), ('August 30, 2001', 55, 70), ('an American film and television actress', 76, 115), ('more than 80 films', 133, 151), ('Jacqueline Wells', 193, 209)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBN', 'IN', 'DT', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

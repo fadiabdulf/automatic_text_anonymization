@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cyrielle Clair</title>
+<link/>https://en.wikipedia.org/wiki/Cyrielle_Clair
+<annotated>0</annotated>
+<originalabstract>Cyrielle Clair (born 1 December 1955) is a French actress. She has appeared in 55 films and television shows since 1978. She starred in the 1983 film La Belle captive, which was entered into the 33rd Berlin International Film Festival.</originalabstract>
+<abstract>Cyrielle_Clair ( born_1_December_1955 ) is a_French_actress . She has_appeared in 55_films_and_television_shows since 1978 . She starred in the_1983_film_La_Belle_captive , which was_entered into the_33rd_Berlin_International_Film_Festival .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cyrielle'), (9, 'Clair'), (15, '('), (16, 'born'), (21, '1'), (23, 'December'), (32, '1955'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'French'), (50, 'actress'), (57, '.'), (59, 'She'), (63, 'has'), (67, 'appeared'), (76, 'in'), (79, '55'), (82, 'films'), (88, 'and'), (92, 'television'), (103, 'shows'), (109, 'since'), (115, '1978'), (119, '.'), (121, 'She'), (125, 'starred'), (133, 'in'), (136, 'the'), (140, '1983'), (145, 'film'), (150, 'La'), (153, 'Belle'), (159, 'captive'), (166, ','), (168, 'which'), (174, 'was'), (178, 'entered'), (186, 'into'), (191, 'the'), (195, '33rd'), (200, 'Berlin'), (207, 'International'), (221, 'Film'), (226, 'Festival'), (234, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cyrielle Clair',0, 14), ('born 1 December 1955',16, 36), ('a French actress',41, 57), ('has appeared',63, 75), ('55 films and television shows',79, 108), ('the 1983 film La Belle captive',136, 166), ('was entered',174, 185), ('the 33rd Berlin International Film Festival',191, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'NN', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cyrielle'), (9, 'Clair'), (15, '('), (16, 'born'), (21, '1'), (23, 'December'), (32, '1955'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'French'), (50, 'actress'), (57, '.'), (59, 'She'), (63, 'has'), (67, 'appeared'), (76, 'in'), (79, '55'), (82, 'films'), (88, 'and'), (92, 'television'), (103, 'shows'), (109, 'since'), (115, '1978'), (119, '.'), (121, 'She'), (125, 'starred'), (133, 'in'), (136, 'the'), (140, '1983'), (145, 'film'), (150, 'La'), (153, 'Belle'), (159, 'captive'), (166, ','), (168, 'which'), (174, 'was'), (178, 'entered'), (186, 'into'), (191, 'the'), (195, '33rd'), (200, 'Berlin'), (207, 'International'), (221, 'Film'), (226, 'Festival'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('Cyrielle Clair', 0, 14), ('1 December 1955', 21, 36), ('a French actress', 41, 57), ('55 films', 79, 87), ('television shows', 92, 108), ('the 1983 film', 136, 149), ('La Belle captive', 150, 166), ('the 33rd Berlin International Film Festival', 191, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'NN', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

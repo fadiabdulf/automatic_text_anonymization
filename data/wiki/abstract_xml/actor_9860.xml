@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Georges Guétary</title>
+<link/>https://en.wikipedia.org/wiki/Georges_Gu%C3%A9tary
+<annotated>0</annotated>
+<originalabstract>Georges Guétary, born Lambros Vorloou  (Greek: Λάμπρος Βορλόου Lambros Vorloou [ˈlambros vorˈlou]; February 8, 1915 – September 13, 1997) was a French singer, dancer, cabaret performer and film actor, best known for his role in the 1951 musical An American in Paris.</originalabstract>
+<abstract>Georges_Guétary , born Lambros_Vorloou ( Greek : Λάμπρος_Βορλόου_Lambros_Vorloou_[_ˈlambros vorˈlou ] ; February_8_,_1915 – September_13_,_1997 ) was a_French_singer , dancer , cabaret_performer_and_film_actor , best_known for his_role in the_1951_musical_An_American in Paris .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Georges'), (8, 'Guétary'), (15, ','), (17, 'born'), (22, 'Lambros'), (30, 'Vorloou'), (39, '('), (40, 'Greek'), (45, ':'), (47, 'Λάμπρος'), (55, 'Βορλόου'), (63, 'Lambros'), (71, 'Vorloou'), (79, '['), (80, 'ˈlambros'), (89, 'vorˈlou'), (96, ']'), (97, ';'), (99, 'February'), (108, '8'), (109, ','), (111, '1915'), (116, '–'), (118, 'September'), (128, '13'), (130, ','), (132, '1997'), (136, ')'), (138, 'was'), (142, 'a'), (144, 'French'), (151, 'singer'), (157, ','), (159, 'dancer'), (165, ','), (167, 'cabaret'), (175, 'performer'), (185, 'and'), (189, 'film'), (194, 'actor'), (199, ','), (201, 'best'), (206, 'known'), (212, 'for'), (216, 'his'), (220, 'role'), (225, 'in'), (228, 'the'), (232, '1951'), (237, 'musical'), (245, 'An'), (248, 'American'), (257, 'in'), (260, 'Paris'), (265, '.')])</stanford_tokens>
+<opennlp_chunks>[('Georges Guétary',0, 15), ('Lambros Vorloou',22, 37), ('Λάμπρος Βορλόου Lambros Vorloou [ˈlambros',47, 88), ('February 8, 1915',99, 115), ('September 13, 1997',118, 136), ('a French singer',142, 157), ('cabaret performer and film actor',167, 199), ('best known',201, 211), ('his role',216, 224), ('the 1951 musical An American',228, 256)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', '-LRB-', 'JJ', ':', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNS', 'VBP', '-RRB-', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'JJ', 'DT', 'JJ', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Georges'), (8, 'Guétary'), (15, ','), (17, 'born'), (22, 'Lambros'), (30, 'Vorloou'), (39, '('), (40, 'Greek'), (45, ':'), (47, 'Λάμπρος'), (55, 'Βορλόου'), (63, 'Lambros'), (71, 'Vorloou'), (79, '['), (80, 'ˈlambros'), (89, 'vorˈlou'), (96, ']'), (97, ';'), (99, 'February'), (108, '8'), (109, ','), (111, '1915'), (116, '–'), (118, 'September'), (128, '13'), (130, ','), (132, '1997'), (136, ')'), (138, 'was'), (142, 'a'), (144, 'French'), (151, 'singer'), (157, ','), (159, 'dancer'), (165, ','), (167, 'cabaret'), (175, 'performer'), (185, 'and'), (189, 'film'), (194, 'actor'), (199, ','), (201, 'best'), (206, 'known'), (212, 'for'), (216, 'his'), (220, 'role'), (225, 'in'), (228, 'the'), (232, '1951'), (237, 'musical'), (245, 'An'), (248, 'American'), (257, 'in'), (260, 'Paris'), (265, '.')])</spacy_tokens>
+<spacy_chunks>[('Georges Guétary', 0, 15), ('Lambros Vorloou', 22, 37), ('Λάμπρος Βορλόου Lambros Vorloou', 47, 78), ('[ˈlambros vorˈlou', 79, 96), ('February 8, 1915', 99, 115), ('– September', 116, 127), ('September 13, 1997', 118, 136), ('a French singer', 142, 157), ('dancer', 159, 165), ('cabaret performer', 167, 184), ('film actor', 189, 199), ('his role', 216, 224), ('the 1951 musical An American', 228, 256), ('An American in Paris', 245, 265)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBN', 'NNP', 'NNP', '-LRB-', 'NNP', ':', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'DT', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

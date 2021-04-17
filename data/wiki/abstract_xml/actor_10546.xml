@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elsie Baker</title>
+<link/>https://en.wikipedia.org/wiki/Elsie_Baker
+<annotated>0</annotated>
+<originalabstract>Elsie Baker (July 13, 1883 – August 16, 1971) was an American singer and actress. Her career spanned the gamut from vaudeville through silent movies to Victrola to radio to Hollywood and television.</originalabstract>
+<abstract>Elsie_Baker ( July_13_,_1883 – August_16 , 1971 ) was an_American_singer_and_actress . Her_career spanned the_gamut from vaudeville through silent_movies to Victrola to radio to Hollywood_and_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elsie'), (6, 'Baker'), (12, '('), (13, 'July'), (18, '13'), (20, ','), (22, '1883'), (27, '–'), (29, 'August'), (36, '16'), (38, ','), (40, '1971'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'singer'), (69, 'and'), (73, 'actress'), (80, '.'), (82, 'Her'), (86, 'career'), (93, 'spanned'), (101, 'the'), (105, 'gamut'), (111, 'from'), (116, 'vaudeville'), (127, 'through'), (135, 'silent'), (142, 'movies'), (149, 'to'), (152, 'Victrola'), (161, 'to'), (164, 'radio'), (170, 'to'), (173, 'Hollywood'), (183, 'and'), (187, 'television'), (197, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elsie Baker',0, 11), ('July 13, 1883',13, 26), ('August 16',29, 38), ('an American singer and actress',50, 80), ('Her career',82, 92), ('the gamut',101, 110), ('silent movies',135, 148), ('Hollywood and television',173, 197)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', 'VBD', 'DT', 'NN', 'IN', 'NN', 'IN', 'JJ', 'NNS', 'TO', 'NNP', 'TO', 'NN', 'TO', 'NNP', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elsie'), (6, 'Baker'), (12, '('), (13, 'July'), (18, '13'), (20, ','), (22, '1883'), (27, '–'), (29, 'August'), (36, '16'), (38, ','), (40, '1971'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'singer'), (69, 'and'), (73, 'actress'), (80, '.'), (82, 'Her'), (86, 'career'), (93, 'spanned'), (101, 'the'), (105, 'gamut'), (111, 'from'), (116, 'vaudeville'), (127, 'through'), (135, 'silent'), (142, 'movies'), (149, 'to'), (152, 'Victrola'), (161, 'to'), (164, 'radio'), (170, 'to'), (173, 'Hollywood'), (183, 'and'), (187, 'television'), (197, '.')])</spacy_tokens>
+<spacy_chunks>[('Elsie Baker', 0, 11), ('July 13, 1883', 13, 26), ('August 16, 1971', 29, 44), ('an American singer', 50, 68), ('actress', 73, 80), ('Her career', 82, 92), ('the gamut', 101, 110), ('vaudeville', 116, 126), ('Silent movies', 135, 148), ('Victrola', 152, 160), ('Hollywood', 173, 182), ('television', 187, 197)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'NN', 'VBD', 'DT', 'NN', 'IN', 'NN', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'IN', 'NN', 'IN', 'NNP', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

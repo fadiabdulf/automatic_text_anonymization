@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Barney Martin</title>
+<link/>https://en.wikipedia.org/wiki/Barney_Martin
+<annotated>0</annotated>
+<originalabstract>Barney Martin (March 3, 1923 – March 21, 2005) was an American actor, comedy writer and New York City Police Department detective. He is best known for playing Morty Seinfeld, father of Jerry, on the sitcom Seinfeld.</originalabstract>
+<abstract>Barney_Martin ( March_3_,_1923 – March_21_,_2005 ) was an_American_actor , comedy_writer and New_York_City_Police_Department_detective . He is_best_known for playing Morty_Seinfeld , father of Jerry , on the_sitcom Seinfeld .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Barney'), (7, 'Martin'), (14, '('), (15, 'March'), (21, '3'), (22, ','), (24, '1923'), (29, '–'), (31, 'March'), (37, '21'), (39, ','), (41, '2005'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, ','), (70, 'comedy'), (77, 'writer'), (84, 'and'), (88, 'New'), (92, 'York'), (97, 'City'), (102, 'Police'), (109, 'Department'), (120, 'detective'), (129, '.'), (131, 'He'), (134, 'is'), (137, 'best'), (142, 'known'), (148, 'for'), (152, 'playing'), (160, 'Morty'), (166, 'Seinfeld'), (174, ','), (176, 'father'), (183, 'of'), (186, 'Jerry'), (191, ','), (193, 'on'), (196, 'the'), (200, 'sitcom'), (207, 'Seinfeld'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Barney Martin',0, 13), ('March 3, 1923',15, 28), ('March 21, 2005',31, 45), ('an American actor',51, 68), ('comedy writer',70, 83), ('New York City Police Department detective',88, 129), ('is best known',134, 147), ('Morty Seinfeld',160, 174), ('the sitcom',196, 206)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', ',', 'NN', 'IN', 'NNP', ',', 'IN', 'DT', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Barney'), (7, 'Martin'), (14, '('), (15, 'March'), (21, '3'), (22, ','), (24, '1923'), (29, '–'), (31, 'March'), (37, '21'), (39, ','), (41, '2005'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, ','), (70, 'comedy'), (77, 'writer'), (84, 'and'), (88, 'New'), (92, 'York'), (97, 'City'), (102, 'Police'), (109, 'Department'), (120, 'detective'), (129, '.'), (131, 'He'), (134, 'is'), (137, 'best'), (142, 'known'), (148, 'for'), (152, 'playing'), (160, 'Morty'), (166, 'Seinfeld'), (174, ','), (176, 'father'), (183, 'of'), (186, 'Jerry'), (191, ','), (193, 'on'), (196, 'the'), (200, 'sitcom'), (207, 'Seinfeld'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Barney Martin', 0, 13), ('(March', 14, 20), ('March 3, 1923', 15, 28), ('March 21, 2005', 31, 45), ('an American actor', 51, 68), ('comedy writer', 70, 83), ('New York City Police Department detective', 88, 129), ('Morty Seinfeld', 160, 174), ('father', 176, 182), ('the sitcom', 196, 206)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'NNP', 'NNP', ',', 'NN', 'IN', 'NNP', ',', 'IN', 'DT', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Miriam Kressyn</title>
+<link/>https://en.wikipedia.org/wiki/Miriam_Kressyn
+<annotated>0</annotated>
+<originalabstract>Miriam Kressyn (March 4, 1910 – October 28, 1996), one of the "First Ladies of the Yiddish Theater", acted and sang on stage, film and radio; she wrote plays as well.</originalabstract>
+<abstract>Miriam_Kressyn ( March_4_,_1910 – October_28_,_1996 ) , one of the_"_First_Ladies of the_Yiddish_Theater_" , acted and sang on stage_,_film_and_radio ; she wrote plays as_well .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Miriam'), (7, 'Kressyn'), (15, '('), (16, 'March'), (22, '4'), (23, ','), (25, '1910'), (30, '–'), (32, 'October'), (40, '28'), (42, ','), (44, '1996'), (48, ')'), (49, ','), (51, 'one'), (55, 'of'), (58, 'the'), (62, '"'), (63, 'First'), (69, 'Ladies'), (76, 'of'), (79, 'the'), (83, 'Yiddish'), (91, 'Theater'), (98, '"'), (99, ','), (101, 'acted'), (107, 'and'), (111, 'sang'), (116, 'on'), (119, 'stage'), (124, ','), (126, 'film'), (131, 'and'), (135, 'radio'), (140, ';'), (142, 'she'), (146, 'wrote'), (152, 'plays'), (158, 'as'), (161, 'well'), (165, '.')])</stanford_tokens>
+<opennlp_chunks>[('Miriam Kressyn',0, 14), ('March 4, 1910',16, 29), ('October 28, 1996',32, 48), ('the "First Ladies',58, 75), ('the Yiddish Theater"',79, 99), ('stage, film and radio',119, 140), ('as well',158, 165)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'CD', 'IN', 'DT', '``', 'JJ', 'NNP', 'IN', 'DT', 'JJ', 'NNP', '\'\'', ',', 'VBD', 'CC', 'VBD', 'IN', 'NN', ',', 'NN', 'CC', 'NN', ':', 'PRP', 'VBD', 'NNS', 'RB', 'RB', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Miriam'), (7, 'Kressyn'), (15, '('), (16, 'March'), (22, '4'), (23, ','), (25, '1910'), (30, '–'), (32, 'October'), (40, '28'), (42, ','), (44, '1996'), (48, ')'), (49, ','), (51, 'one'), (55, 'of'), (58, 'the'), (62, '"'), (63, 'First'), (69, 'Ladies'), (76, 'of'), (79, 'the'), (83, 'Yiddish'), (91, 'Theater'), (98, '"'), (99, ','), (101, 'acted'), (107, 'and'), (111, 'sang'), (116, 'on'), (119, 'stage'), (124, ','), (126, 'film'), (131, 'and'), (135, 'radio'), (140, ';'), (142, 'she'), (146, 'wrote'), (152, 'plays'), (158, 'as'), (161, 'well'), (165, '.')])</spacy_tokens>
+<spacy_chunks>[('Miriam Kressyn', 0, 14), ('(March', 15, 21), ('March 4, 1910', 16, 29), ('October 28, 1996', 32, 48), ('the "First Ladies', 58, 75), ('the Yiddish Theater', 79, 98)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'CD', 'IN', 'DT', '``', 'NNP', 'NNPS', 'IN', 'DT', 'NNP', 'NNP', "''", ',', 'VBD', 'CC', 'VBD', 'IN', 'NN', ',', 'NN', 'CC', 'NN', ':', 'PRP', 'VBD', 'VBZ', 'RB', 'RB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

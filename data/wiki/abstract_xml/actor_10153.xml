@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Noël Roquevert</title>
+<link/>https://en.wikipedia.org/wiki/No%C3%ABl_Roquevert
+<annotated>0</annotated>
+<originalabstract>Noël Roquevert (born Noël Louis Raymond Bénévent; 18 December 1892 – 6 November 1973) was a French stage and film actor. He appeared in more than 180 films between 1932 and 1972. Roquevert was born in Doué-la-Fontaine and was married to stage and film actress Paulette Noizeux. He died in Douarnenez, France, aged 80.</originalabstract>
+<abstract>Noël_Roquevert ( born Noël_Louis_Raymond_Bénévent ; 18_December_1892 – 6_November_1973 ) was a_French_stage_and_film_actor . He appeared in more_than_180_films between 1932_and_1972 . Roquevert was_born in Doué-la-Fontaine and was_married to stage_and_film_actress_Paulette_Noizeux . He died in Douarnenez , France , aged 80 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Noël'), (5, 'Roquevert'), (15, '('), (16, 'born'), (21, 'Noël'), (26, 'Louis'), (32, 'Raymond'), (40, 'Bénévent'), (48, ';'), (50, '18'), (53, 'December'), (62, '1892'), (67, '–'), (69, '6'), (71, 'November'), (80, '1973'), (84, ')'), (86, 'was'), (90, 'a'), (92, 'French'), (99, 'stage'), (105, 'and'), (109, 'film'), (114, 'actor'), (119, '.'), (121, 'He'), (124, 'appeared'), (133, 'in'), (136, 'more'), (141, 'than'), (146, '180'), (150, 'films'), (156, 'between'), (164, '1932'), (169, 'and'), (173, '1972'), (177, '.'), (179, 'Roquevert'), (189, 'was'), (193, 'born'), (198, 'in'), (201, 'Doué-la-Fontaine'), (218, 'and'), (222, 'was'), (226, 'married'), (234, 'to'), (237, 'stage'), (243, 'and'), (247, 'film'), (252, 'actress'), (260, 'Paulette'), (269, 'Noizeux'), (276, '.'), (278, 'He'), (281, 'died'), (286, 'in'), (289, 'Douarnenez'), (299, ','), (301, 'France'), (307, ','), (309, 'aged'), (314, '80'), (316, '.')])</stanford_tokens>
+<opennlp_chunks>[('Noël Roquevert',0, 14), ('Noël Louis Raymond Bénévent',21, 48), ('18 December 1892',50, 66), ('6 November 1973',69, 84), ('a French stage and film actor',90, 119), ('more than 180 films',136, 155), ('1932 and 1972',164, 177), ('was born',189, 197), ('was married',222, 233), ('stage and film actress Paulette Noizeux',237, 276)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'VBN', 'TO', 'NN', 'CC', 'NN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'JJ', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Noël'), (5, 'Roquevert'), (15, '('), (16, 'born'), (21, 'Noël'), (26, 'Louis'), (32, 'Raymond'), (40, 'Bénévent'), (48, ';'), (50, '18'), (53, 'December'), (62, '1892'), (67, '–'), (69, '6'), (71, 'November'), (80, '1973'), (84, ')'), (86, 'was'), (90, 'a'), (92, 'French'), (99, 'stage'), (105, 'and'), (109, 'film'), (114, 'actor'), (119, '.'), (121, 'He'), (124, 'appeared'), (133, 'in'), (136, 'more'), (141, 'than'), (146, '180'), (150, 'films'), (156, 'between'), (164, '1932'), (169, 'and'), (173, '1972'), (177, '.'), (179, 'Roquevert'), (189, 'was'), (193, 'born'), (198, 'in'), (201, 'Doué'), (205, '-'), (206, 'la'), (208, '-'), (209, 'Fontaine'), (218, 'and'), (222, 'was'), (226, 'married'), (234, 'to'), (237, 'stage'), (243, 'and'), (247, 'film'), (252, 'actress'), (260, 'Paulette'), (269, 'Noizeux'), (276, '.'), (278, 'He'), (281, 'died'), (286, 'in'), (289, 'Douarnenez'), (299, ','), (301, 'France'), (307, ','), (309, 'aged'), (314, '80'), (316, '.')])</spacy_tokens>
+<spacy_chunks>[('Noël Roquevert', 0, 14), ('Noël Louis Raymond Bénévent', 21, 48), ('18 December 1892', 50, 66), ('6 November 1973', 69, 84), ('a French stage', 90, 104), ('film actor', 109, 119), ('more than 180 films', 136, 155), ('Doué-la-Fontaine', 201, 217), ('stage and film actress Paulette Noizeux', 237, 276), ('Douarnenez', 289, 299), ('France', 301, 307)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', 'CC', 'VBD', 'JJ', 'TO', 'VB', 'CC', 'VB', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', ',', 'VBN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

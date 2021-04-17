@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bruce French (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Bruce_French_(actor)
+<annotated>0</annotated>
+<originalabstract>Bruce French (born July 4, 1945) is an American actor who has more than 30 years of acting credits to his name.
+French was born in Reinbeck, Iowa. He attended the University of Iowa and majored in speech and theatre. He is married to actress/singer Eileen Barnett.</originalabstract>
+<abstract>Bruce_French ( born July_4_,_1945 ) is an_American_actor who has more_than_30_years of acting credits to his_name . French was_born in Reinbeck , Iowa . He attended the_University of Iowa and majored in speech_and_theatre . He is_married_to_actress/singer Eileen_Barnett .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bruce'), (6, 'French'), (13, '('), (14, 'born'), (19, 'July'), (24, '4'), (25, ','), (27, '1945'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actor'), (54, 'who'), (58, 'has'), (62, 'more'), (67, 'than'), (72, '30'), (75, 'years'), (81, 'of'), (84, 'acting'), (91, 'credits'), (99, 'to'), (102, 'his'), (106, 'name'), (110, '.'), (112, 'French'), (119, 'was'), (123, 'born'), (128, 'in'), (131, 'Reinbeck'), (139, ','), (141, 'Iowa'), (145, '.'), (147, 'He'), (150, 'attended'), (159, 'the'), (163, 'University'), (174, 'of'), (177, 'Iowa'), (182, 'and'), (186, 'majored'), (194, 'in'), (197, 'speech'), (204, 'and'), (208, 'theatre'), (215, '.'), (217, 'He'), (220, 'is'), (223, 'married'), (231, 'to'), (234, 'actress/singer'), (249, 'Eileen'), (256, 'Barnett'), (263, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bruce French',0, 12), ('July 4, 1945',19, 31), ('an American actor',36, 53), ('more than 30 years',62, 80), ('his name',102, 110), ('was born',119, 127), ('the University',159, 173), ('speech and theatre',197, 215), ('is married to actress/singer',220, 248), ('Eileen Barnett',249, 263)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'VBG', 'NNS', 'TO', 'PRP$', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NNP', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'TO', 'VB', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bruce'), (6, 'French'), (13, '('), (14, 'born'), (19, 'July'), (24, '4'), (25, ','), (27, '1945'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actor'), (54, 'who'), (58, 'has'), (62, 'more'), (67, 'than'), (72, '30'), (75, 'years'), (81, 'of'), (84, 'acting'), (91, 'credits'), (99, 'to'), (102, 'his'), (106, 'name'), (110, '.'), (112, 'French'), (119, 'was'), (123, 'born'), (128, 'in'), (131, 'Reinbeck'), (139, ','), (141, 'Iowa'), (145, '.'), (147, 'He'), (150, 'attended'), (159, 'the'), (163, 'University'), (174, 'of'), (177, 'Iowa'), (182, 'and'), (186, 'majored'), (194, 'in'), (197, 'speech'), (204, 'and'), (208, 'theatre'), (215, '.'), (217, 'He'), (220, 'is'), (223, 'married'), (231, 'to'), (234, 'actress'), (241, '/'), (242, 'singer'), (249, 'Eileen'), (256, 'Barnett'), (263, '.')])</spacy_tokens>
+<spacy_chunks>[('Bruce French', 0, 12), ('July 4, 1945', 19, 31), ('an American actor', 36, 53), ('more than 30 years', 62, 80), ('acting credits', 84, 98), ('his name', 102, 110), ('Reinbeck, Iowa', 131, 145), ('the University', 159, 173), ('University of Iowa', 163, 181), ('speech', 197, 203), ('theatre', 208, 215), ('actress/singer Eileen Barnett', 234, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'VBG', 'NNS', 'IN', 'PRP$', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NNP', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'JJ', 'IN', 'NN', 'SYM', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

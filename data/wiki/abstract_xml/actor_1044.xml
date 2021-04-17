@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Campagna</title>
+<link/>https://en.wikipedia.org/wiki/David_Campagna
+<annotated>0</annotated>
+<originalabstract>David Campagna (October 23, 1946 – March 6, 2017 ) was an American visual artist and actor, best known for acting as Christopher Walken's stand-in and stunt double. He was a native of Fremont, California.</originalabstract>
+<abstract>David_Campagna ( October_23_,_1946 – March_6_,_2017 ) was an_American_visual_artist_and_actor , best_known for acting as Christopher_Walken 's_stand-in_and_stunt double . He was a_native of Fremont , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Campagna'), (15, '('), (16, 'October'), (24, '23'), (26, ','), (28, '1946'), (33, '–'), (35, 'March'), (41, '6'), (42, ','), (44, '2017'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'visual'), (74, 'artist'), (81, 'and'), (85, 'actor'), (90, ','), (92, 'best'), (97, 'known'), (103, 'for'), (107, 'acting'), (114, 'as'), (117, 'Christopher'), (129, 'Walken'), (135, '\'s'), (138, 'stand-in'), (147, 'and'), (151, 'stunt'), (157, 'double'), (163, '.'), (165, 'He'), (168, 'was'), (172, 'a'), (174, 'native'), (181, 'of'), (184, 'Fremont'), (191, ','), (193, 'California'), (203, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Campagna',0, 14), ('October 23, 1946',16, 32), ('March 6, 2017',35, 48), ('an American visual artist and actor',55, 90), ('best known',92, 102), ('Christopher Walken',117, 135), ('\'s stand-in and stunt',135, 156), ('a native',172, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'CC', 'NN', 'RB', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Campagna'), (15, '('), (16, 'October'), (24, '23'), (26, ','), (28, '1946'), (33, '–'), (35, 'March'), (41, '6'), (42, ','), (44, '2017'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'visual'), (74, 'artist'), (81, 'and'), (85, 'actor'), (90, ','), (92, 'best'), (97, 'known'), (103, 'for'), (107, 'acting'), (114, 'as'), (117, 'Christopher'), (129, 'Walken'), (135, "'s"), (138, 'stand'), (143, '-'), (144, 'in'), (147, 'and'), (151, 'stunt'), (157, 'double'), (163, '.'), (165, 'He'), (168, 'was'), (172, 'a'), (174, 'native'), (181, 'of'), (184, 'Fremont'), (191, ','), (193, 'California'), (203, '.')])</spacy_tokens>
+<spacy_chunks>[('David Campagna', 0, 14), ('(October', 15, 23), ('October 23, 1946', 16, 32), ('March 6, 2017', 35, 48), ('an American visual artist', 55, 80), ('acting', 107, 113), ('Christopher Walken', 117, 135), ('a native', 172, 180), ('Fremont', 184, 191), ('California', 193, 203)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'HYPH', 'RP', 'CC', 'VB', 'RB', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

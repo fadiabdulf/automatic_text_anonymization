@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ariana Richards</title>
+<link/>https://en.wikipedia.org/wiki/Ariana_Richards
+<annotated>0</annotated>
+<originalabstract>Ariana Clarice Richards (born September 11, 1979) is an American actress and painter. She is best known for her role as Lex Murphy in the blockbuster film Jurassic Park. Richards won several Young Artist Awards for her acting, but since adulthood has focused on her art career.</originalabstract>
+<abstract>Ariana_Clarice_Richards ( born September_11_,_1979 ) is an_American_actress_and_painter . She is_best_known for her_role as Lex_Murphy in the_blockbuster_film_Jurassic_Park . Richards won several_Young_Artist_Awards for her_acting , but since adulthood has_focused on her_art_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ariana'), (7, 'Clarice'), (15, 'Richards'), (24, '('), (25, 'born'), (30, 'September'), (40, '11'), (42, ','), (44, '1979'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actress'), (73, 'and'), (77, 'painter'), (84, '.'), (86, 'She'), (90, 'is'), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'her'), (112, 'role'), (117, 'as'), (120, 'Lex'), (124, 'Murphy'), (131, 'in'), (134, 'the'), (138, 'blockbuster'), (150, 'film'), (155, 'Jurassic'), (164, 'Park'), (168, '.'), (170, 'Richards'), (179, 'won'), (183, 'several'), (191, 'Young'), (197, 'Artist'), (204, 'Awards'), (211, 'for'), (215, 'her'), (219, 'acting'), (225, ','), (227, 'but'), (231, 'since'), (237, 'adulthood'), (247, 'has'), (251, 'focused'), (259, 'on'), (262, 'her'), (266, 'art'), (270, 'career'), (276, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ariana Clarice Richards',0, 23), ('September 11, 1979',30, 48), ('an American actress and painter',53, 84), ('is best known',90, 103), ('her role',108, 116), ('Lex Murphy',120, 130), ('the blockbuster film Jurassic Park',134, 168), ('several Young Artist Awards',183, 210), ('her acting',215, 225), ('has focused',247, 258), ('her art career',262, 276)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'JJ', 'NN', '.', 'NNP', 'VBD', 'JJ', 'JJ', 'NNP', 'NNS', 'IN', 'PRP$', 'NN', ',', 'CC', 'IN', 'NN', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ariana'), (7, 'Clarice'), (15, 'Richards'), (24, '('), (25, 'born'), (30, 'September'), (40, '11'), (42, ','), (44, '1979'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actress'), (73, 'and'), (77, 'painter'), (84, '.'), (86, 'She'), (90, 'is'), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'her'), (112, 'role'), (117, 'as'), (120, 'Lex'), (124, 'Murphy'), (131, 'in'), (134, 'the'), (138, 'blockbuster'), (150, 'film'), (155, 'Jurassic'), (164, 'Park'), (168, '.'), (170, 'Richards'), (179, 'won'), (183, 'several'), (191, 'Young'), (197, 'Artist'), (204, 'Awards'), (211, 'for'), (215, 'her'), (219, 'acting'), (225, ','), (227, 'but'), (231, 'since'), (237, 'adulthood'), (247, 'has'), (251, 'focused'), (259, 'on'), (262, 'her'), (266, 'art'), (270, 'career'), (276, '.')])</spacy_tokens>
+<spacy_chunks>[('Ariana Clarice Richards', 0, 23), ('September 11, 1979', 30, 48), ('an American actress', 53, 72), ('painter', 77, 84), ('her role', 108, 116), ('Lex Murphy', 120, 130), ('the blockbuster film', 134, 154), ('Jurassic Park', 155, 168), ('several Young Artist Awards', 183, 210), ('her acting', 215, 225), ('adulthood', 237, 246), ('her art career', 262, 276)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'JJ', 'NNP', 'NNP', 'NNPS', 'IN', 'PRP$', 'NN', ',', 'CC', 'IN', 'NN', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

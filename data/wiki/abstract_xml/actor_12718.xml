@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jessica Hecht</title>
+<link/>https://en.wikipedia.org/wiki/Jessica_Hecht
+<annotated>0</annotated>
+<originalabstract>Jessica Hecht (born June 28, 1965) is an American actress and singer, known for her role as Gretchen Schwartz on Breaking Bad and for her numerous Broadway appearances and other TV roles.</originalabstract>
+<abstract>Jessica_Hecht ( born June_28_,_1965 ) is an_American_actress_and_singer , known for her_role as Gretchen_Schwartz on Breaking Bad_and for her_numerous_Broadway_appearances and other_TV_roles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jessica'), (8, 'Hecht'), (14, '('), (15, 'born'), (20, 'June'), (25, '28'), (27, ','), (29, '1965'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (58, 'and'), (62, 'singer'), (68, ','), (70, 'known'), (76, 'for'), (80, 'her'), (84, 'role'), (89, 'as'), (92, 'Gretchen'), (101, 'Schwartz'), (110, 'on'), (113, 'Breaking'), (122, 'Bad'), (126, 'and'), (130, 'for'), (134, 'her'), (138, 'numerous'), (147, 'Broadway'), (156, 'appearances'), (168, 'and'), (172, 'other'), (178, 'TV'), (181, 'roles'), (186, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jessica Hecht',0, 13), ('June 28, 1965',20, 33), ('an American actress and singer',38, 68), ('her role',80, 88), ('Gretchen Schwartz',92, 109), ('Bad and',122, 129), ('her numerous Broadway appearances',134, 167), ('other TV roles',172, 186)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'VBG', 'JJ', 'CC', 'IN', 'PRP$', 'JJ', 'NNP', 'NNS', 'CC', 'JJ', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jessica'), (8, 'Hecht'), (14, '('), (15, 'born'), (20, 'June'), (25, '28'), (27, ','), (29, '1965'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (58, 'and'), (62, 'singer'), (68, ','), (70, 'known'), (76, 'for'), (80, 'her'), (84, 'role'), (89, 'as'), (92, 'Gretchen'), (101, 'Schwartz'), (110, 'on'), (113, 'Breaking'), (122, 'Bad'), (126, 'and'), (130, 'for'), (134, 'her'), (138, 'numerous'), (147, 'Broadway'), (156, 'appearances'), (168, 'and'), (172, 'other'), (178, 'TV'), (181, 'roles'), (186, '.')])</spacy_tokens>
+<spacy_chunks>[('Jessica Hecht', 0, 13), ('June 28, 1965', 20, 33), ('an American actress', 38, 57), ('singer', 62, 68), ('her role', 80, 88), ('Gretchen Schwartz', 92, 109), ('Breaking Bad', 113, 125), ('her numerous Broadway appearances', 134, 167), ('other TV roles', 172, 186)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'IN', 'PRP$', 'JJ', 'NNP', 'NNS', 'CC', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

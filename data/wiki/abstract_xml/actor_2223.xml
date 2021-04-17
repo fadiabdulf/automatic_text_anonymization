@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sidney Fields</title>
+<link/>https://en.wikipedia.org/wiki/Sidney_Fields
+<annotated>0</annotated>
+<originalabstract>Sidney Fields (February 5, 1898 — September 28, 1975), born Sidney H. Feldman, was a comedy actor and writer best known for his featured role on The Abbott and Costello Show in the 1940s (radio) and early 1950s (television). He was sometimes credited as "Sid Fields" or "Sidney Field".</originalabstract>
+<abstract>Sidney_Fields ( February_5_,_1898 — September_28_,_1975 ) , born Sidney_H._Feldman , was a_comedy_actor_and_writer best_known for his_featured_role on The_Abbott and Costello_Show in the_1940s ( radio ) and early_1950s ( television ) . He was_sometimes_credited as " Sid_Fields_"_or_"_Sidney_Field " .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sidney'), (7, 'Fields'), (14, '('), (15, 'February'), (24, '5'), (25, ','), (27, '1898'), (32, '—'), (34, 'September'), (44, '28'), (46, ','), (48, '1975'), (52, ')'), (53, ','), (55, 'born'), (60, 'Sidney'), (67, 'H.'), (70, 'Feldman'), (77, ','), (79, 'was'), (83, 'a'), (85, 'comedy'), (92, 'actor'), (98, 'and'), (102, 'writer'), (109, 'best'), (114, 'known'), (120, 'for'), (124, 'his'), (128, 'featured'), (137, 'role'), (142, 'on'), (145, 'The'), (149, 'Abbott'), (156, 'and'), (160, 'Costello'), (169, 'Show'), (174, 'in'), (177, 'the'), (181, '1940s'), (187, '('), (188, 'radio'), (193, ')'), (195, 'and'), (199, 'early'), (205, '1950s'), (211, '('), (212, 'television'), (222, ')'), (223, '.'), (225, 'He'), (228, 'was'), (232, 'sometimes'), (242, 'credited'), (251, 'as'), (254, '"'), (255, 'Sid'), (259, 'Fields'), (265, '"'), (267, 'or'), (270, '"'), (271, 'Sidney'), (278, 'Field'), (283, '"'), (284, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sidney Fields',0, 13), ('February 5, 1898',15, 31), ('September 28, 1975',34, 52), ('Sidney H. Feldman',60, 77), ('a comedy actor and writer',83, 108), ('best known',109, 119), ('his featured role',124, 141), ('The Abbott',145, 155), ('Costello Show',160, 173), ('the 1940s',177, 186), ('early 1950s',199, 210), ('was sometimes credited',228, 250), ('Sid Fields" or "Sidney Field',255, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NN', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'NN', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNS', '-LRB-', 'NN', '-RRB-', 'CC', 'JJ', 'NNS', '-LRB-', 'NN', '-RRB-', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', '``', 'NNP', 'NNP', '\'\'', 'CC', '``', 'NNP', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sidney'), (7, 'Fields'), (14, '('), (15, 'February'), (24, '5'), (25, ','), (27, '1898'), (32, '—'), (34, 'September'), (44, '28'), (46, ','), (48, '1975'), (52, ')'), (53, ','), (55, 'born'), (60, 'Sidney'), (67, 'H.'), (70, 'Feldman'), (77, ','), (79, 'was'), (83, 'a'), (85, 'comedy'), (92, 'actor'), (98, 'and'), (102, 'writer'), (109, 'best'), (114, 'known'), (120, 'for'), (124, 'his'), (128, 'featured'), (137, 'role'), (142, 'on'), (145, 'The'), (149, 'Abbott'), (156, 'and'), (160, 'Costello'), (169, 'Show'), (174, 'in'), (177, 'the'), (181, '1940s'), (187, '('), (188, 'radio'), (193, ')'), (195, 'and'), (199, 'early'), (205, '1950s'), (211, '('), (212, 'television'), (222, ')'), (223, '.'), (225, 'He'), (228, 'was'), (232, 'sometimes'), (242, 'credited'), (251, 'as'), (254, '"'), (255, 'Sid'), (259, 'Fields'), (265, '"'), (267, 'or'), (270, '"'), (271, 'Sidney'), (278, 'Field'), (283, '"'), (284, '.')])</spacy_tokens>
+<spacy_chunks>[('Sidney Fields', 0, 13), ('February 5, 1898', 15, 31), ('September 28, 1975', 34, 52), ('born Sidney H. Feldman', 55, 77), ('a comedy actor', 83, 97), ('writer', 102, 108), ('his featured role', 124, 141), ('The Abbott and Costello Show', 145, 173), ('the 1940s', 177, 186), ('(radio', 187, 193), ('early 1950s', 199, 210), ('(television', 211, 222), ('"Sid Fields', 254, 265), ('"Sidney Field', 270, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NN', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNS', '-LRB-', 'NN', '-RRB-', 'CC', 'JJ', 'NNS', '-LRB-', 'NN', '-RRB-', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', '``', 'NNP', 'NNP', "''", 'CC', '``', 'NNP', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

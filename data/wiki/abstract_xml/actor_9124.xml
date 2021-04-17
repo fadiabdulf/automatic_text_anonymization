@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Shaughnessy</title>
+<link/>https://en.wikipedia.org/wiki/David_Shaughnessy
+<annotated>0</annotated>
+<originalabstract>David James Shaughnessy (born 1957 in London, England) is a British voice-over actor, theatre and television director and producer.</originalabstract>
+<abstract>David_James_Shaughnessy ( born 1957 in London , England ) is a_British_voice-over_actor , theatre_and_television_director_and_producer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'James'), (12, 'Shaughnessy'), (24, '('), (25, 'born'), (30, '1957'), (35, 'in'), (38, 'London'), (44, ','), (46, 'England'), (53, ')'), (55, 'is'), (58, 'a'), (60, 'British'), (68, 'voice-over'), (79, 'actor'), (84, ','), (86, 'theatre'), (94, 'and'), (98, 'television'), (109, 'director'), (118, 'and'), (122, 'producer'), (130, '.')])</stanford_tokens>
+<opennlp_chunks>[('David James Shaughnessy',0, 23), ('a British voice-over actor',58, 84), ('theatre and television director and producer',86, 130)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'James'), (12, 'Shaughnessy'), (24, '('), (25, 'born'), (30, '1957'), (35, 'in'), (38, 'London'), (44, ','), (46, 'England'), (53, ')'), (55, 'is'), (58, 'a'), (60, 'British'), (68, 'voice'), (73, '-'), (74, 'over'), (79, 'actor'), (84, ','), (86, 'theatre'), (94, 'and'), (98, 'television'), (109, 'director'), (118, 'and'), (122, 'producer'), (130, '.')])</spacy_tokens>
+<spacy_chunks>[('David James Shaughnessy', 0, 23), ('London, England', 38, 53), ('a British voice-over actor', 58, 84), ('theatre', 86, 93), ('television director', 98, 117), ('producer', 122, 130)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'HYPH', 'RP', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

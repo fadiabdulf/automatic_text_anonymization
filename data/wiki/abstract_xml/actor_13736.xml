@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Julia Marlowe</title>
+<link/>https://en.wikipedia.org/wiki/Julia_Marlowe
+<annotated>0</annotated>
+<originalabstract>Julia Marlowe (August 17, 1865 – November 12, 1950) was an English-born American actress and suffragist, known for her interpretations of William Shakespeare.</originalabstract>
+<abstract>Julia_Marlowe ( August_17_,_1865 – November_12_,_1950 ) was an_English-born_American_actress_and_suffragist , known for her_interpretations of William_Shakespeare .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Julia'), (6, 'Marlowe'), (14, '('), (15, 'August'), (22, '17'), (24, ','), (26, '1865'), (31, '–'), (33, 'November'), (42, '12'), (44, ','), (46, '1950'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'English-born'), (72, 'American'), (81, 'actress'), (89, 'and'), (93, 'suffragist'), (103, ','), (105, 'known'), (111, 'for'), (115, 'her'), (119, 'interpretations'), (135, 'of'), (138, 'William'), (146, 'Shakespeare'), (157, '.')])</stanford_tokens>
+<opennlp_chunks>[('Julia Marlowe',0, 13), ('August 17, 1865',15, 30), ('November 12, 1950',33, 50), ('an English-born American actress and suffragist',56, 103), ('her interpretations',115, 134), ('William Shakespeare',138, 157)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Julia'), (6, 'Marlowe'), (14, '('), (15, 'August'), (22, '17'), (24, ','), (26, '1865'), (31, '–'), (33, 'November'), (42, '12'), (44, ','), (46, '1950'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'English'), (66, '-'), (67, 'born'), (72, 'American'), (81, 'actress'), (89, 'and'), (93, 'suffragist'), (103, ','), (105, 'known'), (111, 'for'), (115, 'her'), (119, 'interpretations'), (135, 'of'), (138, 'William'), (146, 'Shakespeare'), (157, '.')])</spacy_tokens>
+<spacy_chunks>[('Julia Marlowe', 0, 13), ('August 17, 1865', 15, 30), ('November 12, 1950', 33, 50), ('an English-born American actress', 56, 88), ('suffragist', 93, 103), ('her interpretations', 115, 134), ('William Shakespeare', 138, 157)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

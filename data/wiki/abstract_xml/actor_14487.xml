@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marisa Petroro</title>
+<link/>https://en.wikipedia.org/wiki/Marisa_Petroro
+<annotated>0</annotated>
+<originalabstract>Marisa Petroro (born February 11, 1972; sometimes credited as Marisa Parker) is an American actress and model.</originalabstract>
+<abstract>Marisa_Petroro ( born February_11_,_1972 ; sometimes_credited as Marisa_Parker ) is an_American_actress_and_model .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marisa'), (7, 'Petroro'), (15, '('), (16, 'born'), (21, 'February'), (30, '11'), (32, ','), (34, '1972'), (38, ';'), (40, 'sometimes'), (50, 'credited'), (59, 'as'), (62, 'Marisa'), (69, 'Parker'), (75, ')'), (77, 'is'), (80, 'an'), (83, 'American'), (92, 'actress'), (100, 'and'), (104, 'model'), (109, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marisa Petroro',0, 14), ('February 11, 1972',21, 38), ('sometimes credited',40, 58), ('Marisa Parker',62, 75), ('an American actress and model',80, 109)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', ':', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marisa'), (7, 'Petroro'), (15, '('), (16, 'born'), (21, 'February'), (30, '11'), (32, ','), (34, '1972'), (38, ';'), (40, 'sometimes'), (50, 'credited'), (59, 'as'), (62, 'Marisa'), (69, 'Parker'), (75, ')'), (77, 'is'), (80, 'an'), (83, 'American'), (92, 'actress'), (100, 'and'), (104, 'model'), (109, '.')])</spacy_tokens>
+<spacy_chunks>[('Marisa Petroro', 0, 14), ('Marisa Parker', 62, 75), ('an American actress', 80, 99)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

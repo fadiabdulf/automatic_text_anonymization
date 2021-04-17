@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ricardo Cortez</title>
+<link/>https://en.wikipedia.org/wiki/Ricardo_Cortez
+<annotated>0</annotated>
+<originalabstract>Ricardo Cortez (born Jacob Kranze or Jacob Krantz; September 19, 1900 – April 28, 1977) was an American actor. He was also known as Jack Crane early in his acting career.</originalabstract>
+<abstract>Ricardo_Cortez ( born Jacob_Kranze or Jacob_Krantz ; September_19_,_1900 – April_28_,_1977 ) was an_American_actor . He was_also_known as Jack_Crane early in his_acting_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ricardo'), (8, 'Cortez'), (15, '('), (16, 'born'), (21, 'Jacob'), (27, 'Kranze'), (34, 'or'), (37, 'Jacob'), (43, 'Krantz'), (49, ';'), (51, 'September'), (61, '19'), (63, ','), (65, '1900'), (70, '–'), (72, 'April'), (78, '28'), (80, ','), (82, '1977'), (86, ')'), (88, 'was'), (92, 'an'), (95, 'American'), (104, 'actor'), (109, '.'), (111, 'He'), (114, 'was'), (118, 'also'), (123, 'known'), (129, 'as'), (132, 'Jack'), (137, 'Crane'), (143, 'early'), (149, 'in'), (152, 'his'), (156, 'acting'), (163, 'career'), (169, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ricardo Cortez',0, 14), ('Jacob Kranze',21, 33), ('Jacob Krantz',37, 49), ('September 19, 1900',51, 69), ('April 28, 1977',72, 86), ('an American actor',92, 109), ('was also known',114, 128), ('Jack Crane',132, 142), ('his acting career',152, 169)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'RB', 'IN', 'PRP$', 'VBG', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ricardo'), (8, 'Cortez'), (15, '('), (16, 'born'), (21, 'Jacob'), (27, 'Kranze'), (34, 'or'), (37, 'Jacob'), (43, 'Krantz'), (49, ';'), (51, 'September'), (61, '19'), (63, ','), (65, '1900'), (70, '–'), (72, 'April'), (78, '28'), (80, ','), (82, '1977'), (86, ')'), (88, 'was'), (92, 'an'), (95, 'American'), (104, 'actor'), (109, '.'), (111, 'He'), (114, 'was'), (118, 'also'), (123, 'known'), (129, 'as'), (132, 'Jack'), (137, 'Crane'), (143, 'early'), (149, 'in'), (152, 'his'), (156, 'acting'), (163, 'career'), (169, '.')])</spacy_tokens>
+<spacy_chunks>[('Ricardo Cortez', 0, 14), ('Jacob Kranze', 21, 33), ('Jacob Krantz', 37, 49), ('September 19, 1900', 51, 69), ('April 28, 1977', 72, 86), ('an American actor', 92, 109), ('Jack Crane', 132, 142), ('his acting career', 152, 169)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'RB', 'IN', 'PRP$', 'VBG', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

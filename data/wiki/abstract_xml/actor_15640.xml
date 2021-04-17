@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Judy Tyler</title>
+<link/>https://en.wikipedia.org/wiki/Judy_Tyler
+<annotated>0</annotated>
+<originalabstract>Judy Tyler (born Judith Mae Hess; October 9, 1932 – July 3, 1957) was an American actress.</originalabstract>
+<abstract>Judy_Tyler ( born Judith_Mae_Hess ; October_9_,_1932 – July_3_,_1957 ) was an_American_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Judy'), (5, 'Tyler'), (11, '('), (12, 'born'), (17, 'Judith'), (24, 'Mae'), (28, 'Hess'), (32, ';'), (34, 'October'), (42, '9'), (43, ','), (45, '1932'), (50, '–'), (52, 'July'), (57, '3'), (58, ','), (60, '1957'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'actress'), (89, '.')])</stanford_tokens>
+<opennlp_chunks>[('Judy Tyler',0, 10), ('Judith Mae Hess',17, 32), ('October 9, 1932',34, 49), ('July 3, 1957',52, 64), ('an American actress',70, 89)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Judy'), (5, 'Tyler'), (11, '('), (12, 'born'), (17, 'Judith'), (24, 'Mae'), (28, 'Hess'), (32, ';'), (34, 'October'), (42, '9'), (43, ','), (45, '1932'), (50, '–'), (52, 'July'), (57, '3'), (58, ','), (60, '1957'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'actress'), (89, '.')])</spacy_tokens>
+<spacy_chunks>[('Judy Tyler', 0, 10), ('born Judith Mae Hess', 12, 32), ('October 9, 1932', 34, 49), ('July 3, 1957', 52, 64), ('an American actress', 70, 89)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

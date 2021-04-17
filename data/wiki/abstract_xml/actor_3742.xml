@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arnold Korff</title>
+<link/>https://en.wikipedia.org/wiki/Arnold_Korff
+<annotated>0</annotated>
+<originalabstract>Arnold Korff (2 August 1870, Vienna – 2 June 1944, New York City) was an Austrian-born Hollywood actor and director. He appeared in a number of German and Austrian films before moving to the United States and resuming his career in America. He made his first appearance on the American stage in Denver in 1892.</originalabstract>
+<abstract>Arnold_Korff ( 2_August_1870 , Vienna – 2_June_1944 , New_York_City ) was an_Austrian-born_Hollywood_actor_and_director . He appeared in a_number of German_and_Austrian_films before moving to the_United_States and resuming his_career in America . He made his_first_appearance on the_American_stage in Denver in 1892 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arnold'), (7, 'Korff'), (13, '('), (14, '2'), (16, 'August'), (23, '1870'), (27, ','), (29, 'Vienna'), (36, '–'), (38, '2'), (40, 'June'), (45, '1944'), (49, ','), (51, 'New'), (55, 'York'), (60, 'City'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'Austrian-born'), (87, 'Hollywood'), (97, 'actor'), (103, 'and'), (107, 'director'), (115, '.'), (117, 'He'), (120, 'appeared'), (129, 'in'), (132, 'a'), (134, 'number'), (141, 'of'), (144, 'German'), (151, 'and'), (155, 'Austrian'), (164, 'films'), (170, 'before'), (177, 'moving'), (184, 'to'), (187, 'the'), (191, 'United'), (198, 'States'), (205, 'and'), (209, 'resuming'), (218, 'his'), (222, 'career'), (229, 'in'), (232, 'America'), (239, '.'), (241, 'He'), (244, 'made'), (249, 'his'), (253, 'first'), (259, 'appearance'), (270, 'on'), (273, 'the'), (277, 'American'), (286, 'stage'), (292, 'in'), (295, 'Denver'), (302, 'in'), (305, '1892'), (309, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arnold Korff',0, 12), ('2 August 1870',14, 27), ('2 June 1944',38, 49), ('New York City',51, 64), ('an Austrian-born Hollywood actor and director',70, 115), ('a number',132, 140), ('German and Austrian films',144, 169), ('the United States',187, 204), ('his career',218, 228), ('his first appearance',249, 269), ('the American stage',273, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', ':', 'CD', 'NNP', 'CD', ',', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NNP', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'JJ', 'CC', 'JJ', 'NNS', 'IN', 'VBG', 'TO', 'DT', 'NNP', 'NNPS', 'CC', 'VBG', 'PRP$', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arnold'), (7, 'Korff'), (13, '('), (14, '2'), (16, 'August'), (23, '1870'), (27, ','), (29, 'Vienna'), (36, '–'), (38, '2'), (40, 'June'), (45, '1944'), (49, ','), (51, 'New'), (55, 'York'), (60, 'City'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'Austrian'), (81, '-'), (82, 'born'), (87, 'Hollywood'), (97, 'actor'), (103, 'and'), (107, 'director'), (115, '.'), (117, 'He'), (120, 'appeared'), (129, 'in'), (132, 'a'), (134, 'number'), (141, 'of'), (144, 'German'), (151, 'and'), (155, 'Austrian'), (164, 'films'), (170, 'before'), (177, 'moving'), (184, 'to'), (187, 'the'), (191, 'United'), (198, 'States'), (205, 'and'), (209, 'resuming'), (218, 'his'), (222, 'career'), (229, 'in'), (232, 'America'), (239, '.'), (241, 'He'), (244, 'made'), (249, 'his'), (253, 'first'), (259, 'appearance'), (270, 'on'), (273, 'the'), (277, 'American'), (286, 'stage'), (292, 'in'), (295, 'Denver'), (302, 'in'), (305, '1892'), (309, '.')])</spacy_tokens>
+<spacy_chunks>[('Arnold Korff', 0, 12), ('2 August 1870', 14, 27), ('Vienna', 29, 35), ('2 June 1944', 38, 49), ('New York City', 51, 64), ('an Austrian-born Hollywood actor', 70, 102), ('director', 107, 115), ('a number', 132, 140), ('German and Austrian films', 144, 169), ('the United States', 187, 204), ('his career', 218, 228), ('America', 232, 239), ('his first appearance', 249, 269), ('the American stage', 273, 291), ('Denver', 295, 301)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', 'HYPH', 'CD', 'NNP', 'CD', ',', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NNP', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'JJ', 'CC', 'JJ', 'NNS', 'IN', 'VBG', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'VBG', 'PRP$', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marin Hinkle</title>
+<link/>https://en.wikipedia.org/wiki/Marin_Hinkle
+<annotated>0</annotated>
+<originalabstract>Marin Elizabeth Hinkle (born March 23, 1966) is an American actress. Among several television and movie roles, she is best known for playing Judith Harper-Melnick on the CBS sitcom Two and a Half Men as well as Judy Brooks on the ABC television drama Once and Again and Rose Weissman in The Marvelous Mrs. Maisel.</originalabstract>
+<abstract>Marin_Elizabeth_Hinkle ( born March_23_,_1966 ) is an_American_actress . Among several_television_and_movie_roles , she is_best_known for playing Judith_Harper-Melnick on the_CBS_sitcom Two and a_Half_Men as_well as Judy_Brooks on the_ABC_television_drama Once_and_Again and Rose_Weissman in The_Marvelous_Mrs._Maisel .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marin'), (6, 'Elizabeth'), (16, 'Hinkle'), (23, '('), (24, 'born'), (29, 'March'), (35, '23'), (37, ','), (39, '1966'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (69, 'Among'), (75, 'several'), (83, 'television'), (94, 'and'), (98, 'movie'), (104, 'roles'), (109, ','), (111, 'she'), (115, 'is'), (118, 'best'), (123, 'known'), (129, 'for'), (133, 'playing'), (141, 'Judith'), (148, 'Harper-Melnick'), (163, 'on'), (166, 'the'), (170, 'CBS'), (174, 'sitcom'), (181, 'Two'), (185, 'and'), (189, 'a'), (191, 'Half'), (196, 'Men'), (200, 'as'), (203, 'well'), (208, 'as'), (211, 'Judy'), (216, 'Brooks'), (223, 'on'), (226, 'the'), (230, 'ABC'), (234, 'television'), (245, 'drama'), (251, 'Once'), (256, 'and'), (260, 'Again'), (266, 'and'), (270, 'Rose'), (275, 'Weissman'), (284, 'in'), (287, 'The'), (291, 'Marvelous'), (301, 'Mrs.'), (306, 'Maisel'), (312, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marin Elizabeth Hinkle',0, 22), ('March 23, 1966',29, 43), ('an American actress',48, 67), ('several television and movie roles',75, 109), ('is best known',115, 128), ('Judith Harper-Melnick',141, 162), ('the CBS sitcom',166, 180), ('a Half Men',189, 199), ('as well',200, 207), ('Judy Brooks',211, 222), ('the ABC television drama',226, 250), ('Once and Again',251, 265), ('Rose Weissman',270, 283), ('The Marvelous Mrs. Maisel',287, 312)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'JJ', 'NN', 'CC', 'NN', 'NNS', ',', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'CD', 'CC', 'DT', 'NN', 'NN', 'RB', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'RB', 'CC', 'RB', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marin'), (6, 'Elizabeth'), (16, 'Hinkle'), (23, '('), (24, 'born'), (29, 'March'), (35, '23'), (37, ','), (39, '1966'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (69, 'Among'), (75, 'several'), (83, 'television'), (94, 'and'), (98, 'movie'), (104, 'roles'), (109, ','), (111, 'she'), (115, 'is'), (118, 'best'), (123, 'known'), (129, 'for'), (133, 'playing'), (141, 'Judith'), (148, 'Harper'), (154, '-'), (155, 'Melnick'), (163, 'on'), (166, 'the'), (170, 'CBS'), (174, 'sitcom'), (181, 'Two'), (185, 'and'), (189, 'a'), (191, 'Half'), (196, 'Men'), (200, 'as'), (203, 'well'), (208, 'as'), (211, 'Judy'), (216, 'Brooks'), (223, 'on'), (226, 'the'), (230, 'ABC'), (234, 'television'), (245, 'drama'), (251, 'Once'), (256, 'and'), (260, 'Again'), (266, 'and'), (270, 'Rose'), (275, 'Weissman'), (284, 'in'), (287, 'The'), (291, 'Marvelous'), (301, 'Mrs.'), (306, 'Maisel'), (312, '.')])</spacy_tokens>
+<spacy_chunks>[('Marin Elizabeth Hinkle', 0, 22), ('March 23, 1966', 29, 43), ('an American actress', 48, 67), ('several television and movie roles', 75, 109), ('Judith Harper-Melnick', 141, 162), ('the CBS sitcom', 166, 180), ('Two and a Half Men as well as Judy Brooks', 181, 222), ('the ABC television drama', 226, 250), ('Once and Again', 251, 265), ('and Rose Weissman', 266, 283), ('The Marvelous Mrs. Maisel', 287, 312)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'JJ', 'NN', 'CC', 'NN', 'NNS', ',', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'HYPH', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'CD', 'CC', 'DT', 'NNP', 'NNP', 'RB', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'RB', 'CC', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>René Havard</title>
+<link/>https://en.wikipedia.org/wiki/Ren%C3%A9_Havard
+<annotated>0</annotated>
+<originalabstract>René Havard (20 December 1923 – 7 December 1987) was a French film actor. He appeared in 80 films between 1946 and 1985. He was born and died in Paris, France.</originalabstract>
+<abstract>René_Havard ( 20_December_1923 – 7_December_1987 ) was a_French_film_actor . He appeared in 80_films between 1946_and_1985 . He was_born and died in Paris , France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'René'), (5, 'Havard'), (12, '('), (13, '20'), (16, 'December'), (25, '1923'), (30, '–'), (32, '7'), (34, 'December'), (43, '1987'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'film'), (67, 'actor'), (72, '.'), (74, 'He'), (77, 'appeared'), (86, 'in'), (89, '80'), (92, 'films'), (98, 'between'), (106, '1946'), (111, 'and'), (115, '1985'), (119, '.'), (121, 'He'), (124, 'was'), (128, 'born'), (133, 'and'), (137, 'died'), (142, 'in'), (145, 'Paris'), (150, ','), (152, 'France'), (158, '.')])</stanford_tokens>
+<opennlp_chunks>[('René Havard',0, 11), ('20 December 1923',13, 29), ('7 December 1987',32, 47), ('a French film actor',53, 72), ('80 films',89, 97), ('1946 and 1985',106, 119), ('was born',124, 132)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'René'), (5, 'Havard'), (12, '('), (13, '20'), (16, 'December'), (25, '1923'), (30, '–'), (32, '7'), (34, 'December'), (43, '1987'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'film'), (67, 'actor'), (72, '.'), (74, 'He'), (77, 'appeared'), (86, 'in'), (89, '80'), (92, 'films'), (98, 'between'), (106, '1946'), (111, 'and'), (115, '1985'), (119, '.'), (121, 'He'), (124, 'was'), (128, 'born'), (133, 'and'), (137, 'died'), (142, 'in'), (145, 'Paris'), (150, ','), (152, 'France'), (158, '.')])</spacy_tokens>
+<spacy_chunks>[('René Havard', 0, 11), ('(20 December', 12, 24), ('20 December 1923', 13, 29), ('7 December 1987', 32, 47), ('a French film actor', 53, 72), ('80 films', 89, 97), ('France', 152, 158)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

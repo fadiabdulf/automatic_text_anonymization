@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anissa Jones</title>
+<link/>https://en.wikipedia.org/wiki/Anissa_Jones
+<annotated>0</annotated>
+<originalabstract>Mary Anissa Jones (; March 11, 1958 – August 28, 1976) was an American child actress known for her role as Buffy on the CBS sitcom Family Affair, which ran from 1966 to 1971. She died from combined drug intoxication at the age of 18.</originalabstract>
+<abstract>Mary_Anissa_Jones ( ; March_11_,_1958 – August_28_,_1976 ) was an_American_child_actress known for her_role as Buffy on the_CBS_sitcom_Family_Affair , which ran from 1966 to 1971 . She died from combined_drug_intoxication at the_age of 18 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Anissa'), (12, 'Jones'), (18, '('), (19, ';'), (21, 'March'), (27, '11'), (29, ','), (31, '1958'), (36, '–'), (38, 'August'), (45, '28'), (47, ','), (49, '1976'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'child'), (77, 'actress'), (85, 'known'), (91, 'for'), (95, 'her'), (99, 'role'), (104, 'as'), (107, 'Buffy'), (113, 'on'), (116, 'the'), (120, 'CBS'), (124, 'sitcom'), (131, 'Family'), (138, 'Affair'), (144, ','), (146, 'which'), (152, 'ran'), (156, 'from'), (161, '1966'), (166, 'to'), (169, '1971'), (173, '.'), (175, 'She'), (179, 'died'), (184, 'from'), (189, 'combined'), (198, 'drug'), (203, 'intoxication'), (216, 'at'), (219, 'the'), (223, 'age'), (227, 'of'), (230, '18'), (232, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Anissa Jones',0, 17), ('March 11, 1958',21, 35), ('August 28, 1976',38, 53), ('an American child actress',59, 84), ('her role',95, 103), ('the CBS sitcom Family Affair',116, 144), ('combined drug intoxication',189, 215), ('the age',219, 226)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', 'TO', 'CD', '.', 'PRP', 'VBD', 'IN', 'VBN', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Anissa'), (12, 'Jones'), (18, '(;'), (21, 'March'), (27, '11'), (29, ','), (31, '1958'), (36, '–'), (38, 'August'), (45, '28'), (47, ','), (49, '1976'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'child'), (77, 'actress'), (85, 'known'), (91, 'for'), (95, 'her'), (99, 'role'), (104, 'as'), (107, 'Buffy'), (113, 'on'), (116, 'the'), (120, 'CBS'), (124, 'sitcom'), (131, 'Family'), (138, 'Affair'), (144, ','), (146, 'which'), (152, 'ran'), (156, 'from'), (161, '1966'), (166, 'to'), (169, '1971'), (173, '.'), (175, 'She'), (179, 'died'), (184, 'from'), (189, 'combined'), (198, 'drug'), (203, 'intoxication'), (216, 'at'), (219, 'the'), (223, 'age'), (227, 'of'), (230, '18'), (232, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Anissa Jones', 0, 17), ('March 11, 1958', 21, 35), ('August 28, 1976', 38, 53), ('an American child actress', 59, 84), ('her role', 95, 103), ('the CBS sitcom Family Affair', 116, 144), ('combined drug intoxication', 189, 215), ('the age', 219, 226)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NN', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'VBN', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

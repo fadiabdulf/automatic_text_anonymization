@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tyra Ferrell</title>
+<link/>https://en.wikipedia.org/wiki/Tyra_Ferrell
+<annotated>0</annotated>
+<originalabstract>Tyra Ferrell (born January 28, 1962) is an American actress. She is known for her roles in films Boyz n the Hood (1991), Jungle Fever (1991), White Men Can't Jump (1992), and Poetic Justice (1993).</originalabstract>
+<abstract>Tyra_Ferrell ( born January_28_,_1962 ) is an_American_actress . She is_known for her_roles in films_Boyz n the_Hood_(_1991_)_,_Jungle_Fever_(_1991_) , White_Men Ca_n't_Jump (_1992_) , and Poetic_Justice_(_1993_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tyra'), (5, 'Ferrell'), (13, '('), (14, 'born'), (19, 'January'), (27, '28'), (29, ','), (31, '1962'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (59, '.'), (61, 'She'), (65, 'is'), (68, 'known'), (74, 'for'), (78, 'her'), (82, 'roles'), (88, 'in'), (91, 'films'), (97, 'Boyz'), (102, 'n'), (104, 'the'), (108, 'Hood'), (113, '('), (114, '1991'), (118, ')'), (119, ','), (121, 'Jungle'), (128, 'Fever'), (134, '('), (135, '1991'), (139, ')'), (140, ','), (142, 'White'), (148, 'Men'), (152, 'Ca'), (154, 'n\'t'), (158, 'Jump'), (163, '('), (164, '1992'), (168, ')'), (169, ','), (171, 'and'), (175, 'Poetic'), (182, 'Justice'), (190, '('), (191, '1993'), (195, ')'), (196, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tyra Ferrell',0, 12), ('January 28, 1962',19, 35), ('an American actress',40, 59), ('is known',65, 73), ('her roles',78, 87), ('films Boyz',91, 101), ('the Hood (1991), Jungle Fever (1991)',104, 140), ('White Men',142, 151), ('Can\'t Jump',152, 162), ('(1992)',163, 169), ('Poetic Justice (1993)',175, 196)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'NNP', 'NN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', 'MD', 'RB', 'VB', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tyra'), (5, 'Ferrell'), (13, '('), (14, 'born'), (19, 'January'), (27, '28'), (29, ','), (31, '1962'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (59, '.'), (61, 'She'), (65, 'is'), (68, 'known'), (74, 'for'), (78, 'her'), (82, 'roles'), (88, 'in'), (91, 'films'), (97, 'Boyz'), (102, 'n'), (104, 'the'), (108, 'Hood'), (113, '('), (114, '1991'), (118, ')'), (119, ','), (121, 'Jungle'), (128, 'Fever'), (134, '('), (135, '1991'), (139, ')'), (140, ','), (142, 'White'), (148, 'Men'), (152, 'Ca'), (154, "n't"), (158, 'Jump'), (163, '('), (164, '1992'), (168, ')'), (169, ','), (171, 'and'), (175, 'Poetic'), (182, 'Justice'), (190, '('), (191, '1993'), (195, ')'), (196, '.')])</spacy_tokens>
+<spacy_chunks>[('Tyra Ferrell', 0, 12), ('January 28, 1962', 19, 35), ('an American actress', 40, 59), ('her roles', 78, 87), ('Boyz n the Hood', 97, 112), ('Jungle Fever', 121, 133), ("White Men Can't Jump", 142, 162), ('Poetic Justice', 175, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'NNP', 'CC', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNPS', 'MD', 'RB', 'VB', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

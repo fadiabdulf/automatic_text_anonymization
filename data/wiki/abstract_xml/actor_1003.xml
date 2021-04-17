@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arthur Byron</title>
+<link/>https://en.wikipedia.org/wiki/Arthur_Byron
+<annotated>0</annotated>
+<originalabstract>Arthur William Byron (April 3, 1872 – July 16, 1943) was an American actor, the son of actors Kate Crehan and Oliver Doud Byron. He played a mixture of British and American roles in films. He was a nephew of the stage actress Ada Rehan, his maternal aunt.</originalabstract>
+<abstract>Arthur_William_Byron ( April_3_,_1872 – July_16_,_1943 ) was an_American_actor , the_son of actors_Kate_Crehan and Oliver_Doud_Byron . He played a_mixture of British_and_American_roles in films . He was a_nephew of the_stage_actress_Ada_Rehan , his_maternal_aunt .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthur'), (7, 'William'), (15, 'Byron'), (21, '('), (22, 'April'), (28, '3'), (29, ','), (31, '1872'), (36, '–'), (38, 'July'), (43, '16'), (45, ','), (47, '1943'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (74, ','), (76, 'the'), (80, 'son'), (84, 'of'), (87, 'actors'), (94, 'Kate'), (99, 'Crehan'), (106, 'and'), (110, 'Oliver'), (117, 'Doud'), (122, 'Byron'), (127, '.'), (129, 'He'), (132, 'played'), (139, 'a'), (141, 'mixture'), (149, 'of'), (152, 'British'), (160, 'and'), (164, 'American'), (173, 'roles'), (179, 'in'), (182, 'films'), (187, '.'), (189, 'He'), (192, 'was'), (196, 'a'), (198, 'nephew'), (205, 'of'), (208, 'the'), (212, 'stage'), (218, 'actress'), (226, 'Ada'), (230, 'Rehan'), (235, ','), (237, 'his'), (241, 'maternal'), (250, 'aunt'), (254, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthur William Byron',0, 20), ('April 3, 1872',22, 35), ('July 16, 1943',38, 51), ('an American actor',57, 74), ('the son',76, 83), ('actors Kate Crehan',87, 105), ('Oliver Doud Byron',110, 127), ('a mixture',139, 148), ('British and American roles',152, 178), ('a nephew',196, 204), ('the stage actress Ada Rehan',208, 235), ('his maternal aunt',237, 254)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'DT', 'NN', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'CC', 'JJ', 'NNS', 'IN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', ',', 'PRP$', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthur'), (7, 'William'), (15, 'Byron'), (21, '('), (22, 'April'), (28, '3'), (29, ','), (31, '1872'), (36, '–'), (38, 'July'), (43, '16'), (45, ','), (47, '1943'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'actor'), (74, ','), (76, 'the'), (80, 'son'), (84, 'of'), (87, 'actors'), (94, 'Kate'), (99, 'Crehan'), (106, 'and'), (110, 'Oliver'), (117, 'Doud'), (122, 'Byron'), (127, '.'), (129, 'He'), (132, 'played'), (139, 'a'), (141, 'mixture'), (149, 'of'), (152, 'British'), (160, 'and'), (164, 'American'), (173, 'roles'), (179, 'in'), (182, 'films'), (187, '.'), (189, 'He'), (192, 'was'), (196, 'a'), (198, 'nephew'), (205, 'of'), (208, 'the'), (212, 'stage'), (218, 'actress'), (226, 'Ada'), (230, 'Rehan'), (235, ','), (237, 'his'), (241, 'maternal'), (250, 'aunt'), (254, '.')])</spacy_tokens>
+<spacy_chunks>[('Arthur William Byron', 0, 20), ('April 3, 1872', 22, 35), ('July 16, 1943', 38, 51), ('an American actor', 57, 74), ('the son', 76, 83), ('actors', 87, 93), ('Kate Crehan', 94, 105), ('Oliver Doud Byron', 110, 127), ('a mixture', 139, 148), ('British and American roles', 152, 178), ('a nephew', 196, 204), ('the stage actress', 208, 225), ('Ada Rehan', 226, 235), ('his maternal aunt', 237, 254)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'DT', 'NN', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'JJ', 'CC', 'JJ', 'NNS', 'IN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', ',', 'PRP$', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

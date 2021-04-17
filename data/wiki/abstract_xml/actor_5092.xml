@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert Osterloh</title>
+<link/>https://en.wikipedia.org/wiki/Robert_Osterloh
+<annotated>0</annotated>
+<originalabstract>Robert Osterloh (May 31, 1918 – April 16, 2001) was an American actor. His career spanned 20 years, appearing in films such as The Dark Past (1948), The Wild One (1953), I Bury the Living (1958) or Young Dillinger (1965).</originalabstract>
+<abstract>Robert_Osterloh ( May_31_,_1918 – April_16_,_2001 ) was an_American_actor . His_career spanned 20_years , appearing in films such_as The_Dark_Past_(_1948_) , The_Wild_One_(_1953_) , I Bury the_Living_(_1958_)_or_Young_Dillinger_(_1965_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Osterloh'), (16, '('), (17, 'May'), (21, '31'), (23, ','), (25, '1918'), (30, '–'), (32, 'April'), (38, '16'), (40, ','), (42, '2001'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'His'), (75, 'career'), (82, 'spanned'), (90, '20'), (93, 'years'), (98, ','), (100, 'appearing'), (110, 'in'), (113, 'films'), (119, 'such'), (124, 'as'), (127, 'The'), (131, 'Dark'), (136, 'Past'), (141, '('), (142, '1948'), (146, ')'), (147, ','), (149, 'The'), (153, 'Wild'), (158, 'One'), (162, '('), (163, '1953'), (167, ')'), (168, ','), (170, 'I'), (172, 'Bury'), (177, 'the'), (181, 'Living'), (188, '('), (189, '1958'), (193, ')'), (195, 'or'), (198, 'Young'), (204, 'Dillinger'), (214, '('), (215, '1965'), (219, ')'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Osterloh',0, 15), ('May 31, 1918',17, 29), ('April 16, 2001',32, 46), ('an American actor',52, 69), ('His career',71, 81), ('20 years',90, 98), ('such as',119, 126), ('The Dark Past (1948)',127, 147), ('The Wild One (1953)',149, 168), ('the Living (1958) or Young Dillinger (1965)',177, 220)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'VBD', 'CD', 'NNS', ',', 'VBG', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'JJ', 'JJ', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNP', 'CD', '-LRB-', 'CD', '-RRB-', ',', 'PRP', 'VBP', 'DT', 'VBG', '-LRB-', 'CD', '-RRB-', 'CC', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Osterloh'), (16, '('), (17, 'May'), (21, '31'), (23, ','), (25, '1918'), (30, '–'), (32, 'April'), (38, '16'), (40, ','), (42, '2001'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'His'), (75, 'career'), (82, 'spanned'), (90, '20'), (93, 'years'), (98, ','), (100, 'appearing'), (110, 'in'), (113, 'films'), (119, 'such'), (124, 'as'), (127, 'The'), (131, 'Dark'), (136, 'Past'), (141, '('), (142, '1948'), (146, ')'), (147, ','), (149, 'The'), (153, 'Wild'), (158, 'One'), (162, '('), (163, '1953'), (167, ')'), (168, ','), (170, 'I'), (172, 'Bury'), (177, 'the'), (181, 'Living'), (188, '('), (189, '1958'), (193, ')'), (195, 'or'), (198, 'Young'), (204, 'Dillinger'), (214, '('), (215, '1965'), (219, ')'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Osterloh', 0, 15), ('May 31, 1918', 17, 29), ('April 16, 2001', 32, 46), ('an American actor', 52, 69), ('His career', 71, 81), ('The Dark Past', 127, 140), ('The Wild One', 149, 161), ('I Bury the Living', 170, 187), ('Young Dillinger', 198, 213)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'VBD', 'CD', 'NNS', ',', 'VBG', 'IN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'PRP', 'VBP', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

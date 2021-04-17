@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Regan Burns</title>
+<link/>https://en.wikipedia.org/wiki/Regan_Burns
+<annotated>0</annotated>
+<originalabstract>Regan Burns (born June 13, 1968) is an American actor and comedian. He is known best as being the host of the hidden camera game show Oblivious, also known for various small roles in TV commercials and programs.</originalabstract>
+<abstract>Regan_Burns ( born June_13_,_1968 ) is an_American_actor_and_comedian . He is_known best as being the_host of the_hidden_camera_game show Oblivious , also_known for various_small_roles in TV_commercials_and_programs .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Regan'), (6, 'Burns'), (12, '('), (13, 'born'), (18, 'June'), (23, '13'), (25, ','), (27, '1968'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actor'), (54, 'and'), (58, 'comedian'), (66, '.'), (68, 'He'), (71, 'is'), (74, 'known'), (80, 'best'), (85, 'as'), (88, 'being'), (94, 'the'), (98, 'host'), (103, 'of'), (106, 'the'), (110, 'hidden'), (117, 'camera'), (124, 'game'), (129, 'show'), (134, 'Oblivious'), (143, ','), (145, 'also'), (150, 'known'), (156, 'for'), (160, 'various'), (168, 'small'), (174, 'roles'), (180, 'in'), (183, 'TV'), (186, 'commercials'), (198, 'and'), (202, 'programs'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Regan Burns',0, 11), ('June 13, 1968',18, 31), ('an American actor and comedian',36, 66), ('is known',71, 79), ('the host',94, 102), ('the hidden camera game',106, 128), ('also known',145, 155), ('various small roles',160, 179), ('TV commercials and programs',183, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'RB', 'IN', 'VBG', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'VBP', 'JJ', ',', 'RB', 'VBN', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'NN', 'NNS', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Regan'), (6, 'Burns'), (12, '('), (13, 'born'), (18, 'June'), (23, '13'), (25, ','), (27, '1968'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'actor'), (54, 'and'), (58, 'comedian'), (66, '.'), (68, 'He'), (71, 'is'), (74, 'known'), (80, 'best'), (85, 'as'), (88, 'being'), (94, 'the'), (98, 'host'), (103, 'of'), (106, 'the'), (110, 'hidden'), (117, 'camera'), (124, 'game'), (129, 'show'), (134, 'Oblivious'), (143, ','), (145, 'also'), (150, 'known'), (156, 'for'), (160, 'various'), (168, 'small'), (174, 'roles'), (180, 'in'), (183, 'TV'), (186, 'commercials'), (198, 'and'), (202, 'programs'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Regan Burns', 0, 11), ('June 13, 1968', 18, 31), ('an American actor', 36, 53), ('comedian', 58, 66), ('the host', 94, 102), ('the hidden camera game', 106, 128), ('Game show', 124, 133), ('various small roles', 160, 179), ('TV commercials', 183, 197), ('programs', 202, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'JJS', 'IN', 'VBG', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'NNP', ',', 'RB', 'VBN', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'NN', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

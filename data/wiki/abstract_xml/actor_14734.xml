@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Deborah Rennard</title>
+<link/>https://en.wikipedia.org/wiki/Deborah_Rennard
+<annotated>0</annotated>
+<originalabstract>Deborah Rennard (born November 4, 1959) is an American actress, writer and producer, best known for her role as Sly Lovegren in Dallas (1981–1991).</originalabstract>
+<abstract>Deborah_Rennard ( born November_4_,_1959 ) is an_American_actress_,_writer_and_producer , best_known for her_role as Sly_Lovegren in Dallas ( 1981 – 1991 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Deborah'), (8, 'Rennard'), (16, '('), (17, 'born'), (22, 'November'), (31, '4'), (32, ','), (34, '1959'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (62, ','), (64, 'writer'), (71, 'and'), (75, 'producer'), (83, ','), (85, 'best'), (90, 'known'), (96, 'for'), (100, 'her'), (104, 'role'), (109, 'as'), (112, 'Sly'), (116, 'Lovegren'), (125, 'in'), (128, 'Dallas'), (135, '('), (136, '1981'), (140, '–'), (141, '1991'), (145, ')'), (146, '.')])</stanford_tokens>
+<opennlp_chunks>[('Deborah Rennard',0, 15), ('November 4, 1959',22, 38), ('an American actress, writer and producer',43, 83), ('best known',85, 95), ('her role',100, 108), ('Sly Lovegren',112, 124)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Deborah'), (8, 'Rennard'), (16, '('), (17, 'born'), (22, 'November'), (31, '4'), (32, ','), (34, '1959'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (62, ','), (64, 'writer'), (71, 'and'), (75, 'producer'), (83, ','), (85, 'best'), (90, 'known'), (96, 'for'), (100, 'her'), (104, 'role'), (109, 'as'), (112, 'Sly'), (116, 'Lovegren'), (125, 'in'), (128, 'Dallas'), (135, '('), (136, '1981–1991'), (145, ')'), (146, '.')])</spacy_tokens>
+<spacy_chunks>[('Deborah Rennard', 0, 15), ('November 4, 1959', 22, 38), ('an American actress', 43, 62), ('writer', 64, 70), ('producer', 75, 83), ('her role', 100, 108), ('Sly Lovegren', 112, 124), ('Dallas', 128, 134)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

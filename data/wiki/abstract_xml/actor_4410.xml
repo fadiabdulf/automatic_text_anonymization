@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul McAllister</title>
+<link/>https://en.wikipedia.org/wiki/Paul_McAllister
+<annotated>0</annotated>
+<originalabstract>Paul McAllister (June 30, 1875 – July 8, 1955), was an American film actor. He appeared in 37 films between 1913 and 1940.
+He was born in Brooklyn, New York and died in Santa Monica, California.</originalabstract>
+<abstract>Paul_McAllister ( June_30_,_1875 – July_8_,_1955 ) , was an_American_film_actor . He appeared in 37_films between 1913_and_1940 . He was_born in Brooklyn , New_York and died in Santa_Monica , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'McAllister'), (16, '('), (17, 'June'), (22, '30'), (24, ','), (26, '1875'), (31, '–'), (33, 'July'), (38, '8'), (39, ','), (41, '1955'), (45, ')'), (46, ','), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'actor'), (74, '.'), (76, 'He'), (79, 'appeared'), (88, 'in'), (91, '37'), (94, 'films'), (100, 'between'), (108, '1913'), (113, 'and'), (117, '1940'), (121, '.'), (123, 'He'), (126, 'was'), (130, 'born'), (135, 'in'), (138, 'Brooklyn'), (146, ','), (148, 'New'), (152, 'York'), (157, 'and'), (161, 'died'), (166, 'in'), (169, 'Santa'), (175, 'Monica'), (181, ','), (183, 'California'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul McAllister',0, 15), ('June 30, 1875',17, 30), ('July 8, 1955',33, 45), ('an American film actor',52, 74), ('37 films',91, 99), ('1913 and 1940',108, 121), ('was born',126, 134), ('New York',148, 156), ('Santa Monica',169, 181)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'McAllister'), (16, '('), (17, 'June'), (22, '30'), (24, ','), (26, '1875'), (31, '–'), (33, 'July'), (38, '8'), (39, ','), (41, '1955'), (45, ')'), (46, ','), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'film'), (69, 'actor'), (74, '.'), (76, 'He'), (79, 'appeared'), (88, 'in'), (91, '37'), (94, 'films'), (100, 'between'), (108, '1913'), (113, 'and'), (117, '1940'), (121, '.'), (123, 'He'), (126, 'was'), (130, 'born'), (135, 'in'), (138, 'Brooklyn'), (146, ','), (148, 'New'), (152, 'York'), (157, 'and'), (161, 'died'), (166, 'in'), (169, 'Santa'), (175, 'Monica'), (181, ','), (183, 'California'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul McAllister', 0, 15), ('June 30, 1875', 17, 30), ('July 8, 1955', 33, 45), ('an American film actor', 52, 74), ('37 films', 91, 99), ('Brooklyn, New York', 138, 156), ('Santa Monica, California', 169, 193)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

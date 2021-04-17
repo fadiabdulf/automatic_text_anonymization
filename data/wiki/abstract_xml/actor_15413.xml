@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Heidi Swedberg</title>
+<link/>https://en.wikipedia.org/wiki/Heidi_Swedberg
+<annotated>0</annotated>
+<originalabstract>Heidi Swedberg (born March 3, 1966) is an American actress and musician, best known for her role as Susan Ross, the fiancée of George Costanza, on the television sitcom Seinfeld.</originalabstract>
+<abstract>Heidi_Swedberg ( born March_3_,_1966 ) is an_American_actress_and_musician , best_known for her_role as Susan_Ross , the_fiancée of George_Costanza , on the_television_sitcom_Seinfeld .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Heidi'), (6, 'Swedberg'), (15, '('), (16, 'born'), (21, 'March'), (27, '3'), (28, ','), (30, '1966'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (59, 'and'), (63, 'musician'), (71, ','), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'her'), (92, 'role'), (97, 'as'), (100, 'Susan'), (106, 'Ross'), (110, ','), (112, 'the'), (116, 'fiancée'), (124, 'of'), (127, 'George'), (134, 'Costanza'), (142, ','), (144, 'on'), (147, 'the'), (151, 'television'), (162, 'sitcom'), (169, 'Seinfeld'), (177, '.')])</stanford_tokens>
+<opennlp_chunks>[('Heidi Swedberg',0, 14), ('March 3, 1966',21, 34), ('an American actress and musician',39, 71), ('best known',73, 83), ('her role',88, 96), ('Susan Ross',100, 110), ('the fiancée',112, 123), ('George Costanza',127, 142), ('the television sitcom Seinfeld',147, 177)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Heidi'), (6, 'Swedberg'), (15, '('), (16, 'born'), (21, 'March'), (27, '3'), (28, ','), (30, '1966'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (59, 'and'), (63, 'musician'), (71, ','), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'her'), (92, 'role'), (97, 'as'), (100, 'Susan'), (106, 'Ross'), (110, ','), (112, 'the'), (116, 'fiancée'), (124, 'of'), (127, 'George'), (134, 'Costanza'), (142, ','), (144, 'on'), (147, 'the'), (151, 'television'), (162, 'sitcom'), (169, 'Seinfeld'), (177, '.')])</spacy_tokens>
+<spacy_chunks>[('Heidi Swedberg', 0, 14), ('March 3, 1966', 21, 34), ('an American actress', 39, 58), ('musician', 63, 71), ('her role', 88, 96), ('Susan Ross', 100, 110), ('the fiancée', 112, 123), ('George Costanza', 127, 142), ('the television sitcom', 147, 168), ('Seinfeld', 169, 177)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNS', 'IN', 'NNP', 'NNP', ',', 'IN', 'DT', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

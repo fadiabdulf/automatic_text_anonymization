@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Melissa Howard</title>
+<link/>https://en.wikipedia.org/wiki/Melissa_Howard
+<annotated>0</annotated>
+<originalabstract>Melissa Beck (born Melissa Howard) is a reality show personality, and comedian, known for her time as a cast member on the 2000 reality television series The Real World: New Orleans, and the 2002–2005 prank show Girls Behaving Badly.</originalabstract>
+<abstract>Melissa_Beck ( born Melissa_Howard ) is a_reality show personality , and comedian , known for her_time as a_cast_member on the_2000_reality_television_series The_Real_World : New_Orleans , and the_2002 – 2005_prank_show_Girls Behaving Badly .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Melissa'), (8, 'Beck'), (13, '('), (14, 'born'), (19, 'Melissa'), (27, 'Howard'), (33, ')'), (35, 'is'), (38, 'a'), (40, 'reality'), (48, 'show'), (53, 'personality'), (64, ','), (66, 'and'), (70, 'comedian'), (78, ','), (80, 'known'), (86, 'for'), (90, 'her'), (94, 'time'), (99, 'as'), (102, 'a'), (104, 'cast'), (109, 'member'), (116, 'on'), (119, 'the'), (123, '2000'), (128, 'reality'), (136, 'television'), (147, 'series'), (154, 'The'), (158, 'Real'), (163, 'World'), (168, ':'), (170, 'New'), (174, 'Orleans'), (181, ','), (183, 'and'), (187, 'the'), (191, '2002'), (195, '–'), (196, '2005'), (201, 'prank'), (207, 'show'), (212, 'Girls'), (218, 'Behaving'), (227, 'Badly'), (232, '.')])</stanford_tokens>
+<opennlp_chunks>[('Melissa Beck',0, 12), ('Melissa Howard',19, 33), ('a reality',38, 47), ('her time',90, 98), ('a cast member',102, 115), ('the 2000 reality television series',119, 153), ('The Real World',154, 168), ('New Orleans',170, 181), ('the 2002',187, 195), ('2005 prank show Girls',196, 217)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'NN', 'VBP', 'NN', ',', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'NN', 'DT', 'JJ', 'NN', ':', 'NNP', 'NNP', ',', 'CC', 'DT', 'CD', ':', 'CD', 'NN', 'NN', 'NNS', 'VBG', 'RB', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Melissa'), (8, 'Beck'), (13, '('), (14, 'born'), (19, 'Melissa'), (27, 'Howard'), (33, ')'), (35, 'is'), (38, 'a'), (40, 'reality'), (48, 'show'), (53, 'personality'), (64, ','), (66, 'and'), (70, 'comedian'), (78, ','), (80, 'known'), (86, 'for'), (90, 'her'), (94, 'time'), (99, 'as'), (102, 'a'), (104, 'cast'), (109, 'member'), (116, 'on'), (119, 'the'), (123, '2000'), (128, 'reality'), (136, 'television'), (147, 'series'), (154, 'The'), (158, 'Real'), (163, 'World'), (168, ':'), (170, 'New'), (174, 'Orleans'), (181, ','), (183, 'and'), (187, 'the'), (191, '2002–2005'), (201, 'prank'), (207, 'show'), (212, 'Girls'), (218, 'Behaving'), (227, 'Badly'), (232, '.')])</spacy_tokens>
+<spacy_chunks>[('Melissa Beck', 0, 12), ('Melissa Howard', 19, 33), ('a reality show personality', 38, 64), ('Comedian', 70, 78), ('her time', 90, 98), ('a cast member', 102, 115), ('the 2000 reality television series', 119, 153), ('The Real World: New Orleans', 154, 181), ('the 2002–2005 prank show', 187, 211), ('Girls Behaving Badly', 212, 232)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'NN', 'NN', 'NN', ',', 'CC', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'CD', 'NN', 'NN', 'NN', 'DT', 'JJ', 'NNP', ':', 'NNP', 'NNP', ',', 'CC', 'DT', 'CD', 'NN', 'NN', 'NNS', 'VBG', 'RB', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

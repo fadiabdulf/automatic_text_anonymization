@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Roger Dumas</title>
+<link/>https://en.wikipedia.org/wiki/Roger_Dumas
+<annotated>0</annotated>
+<originalabstract>Roger Dumas (9 May 1932 – 2 July 2016) was a French film actor. He appeared in more than 100 films between 1954 and 2016. He was born in Annonay, Ardèche.</originalabstract>
+<abstract>Roger_Dumas ( 9_May_1932 – 2_July_2016 ) was a_French_film_actor . He appeared in more_than_100_films between 1954_and_2016 . He was_born in Annonay , Ardèche .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Roger'), (6, 'Dumas'), (12, '('), (13, '9'), (15, 'May'), (19, '1932'), (24, '–'), (26, '2'), (28, 'July'), (33, '2016'), (37, ')'), (39, 'was'), (43, 'a'), (45, 'French'), (52, 'film'), (57, 'actor'), (62, '.'), (64, 'He'), (67, 'appeared'), (76, 'in'), (79, 'more'), (84, 'than'), (89, '100'), (93, 'films'), (99, 'between'), (107, '1954'), (112, 'and'), (116, '2016'), (120, '.'), (122, 'He'), (125, 'was'), (129, 'born'), (134, 'in'), (137, 'Annonay'), (144, ','), (146, 'Ardèche'), (153, '.')])</stanford_tokens>
+<opennlp_chunks>[('Roger Dumas',0, 11), ('9 May 1932',13, 23), ('2 July 2016',26, 37), ('a French film actor',43, 62), ('more than 100 films',79, 98), ('1954 and 2016',107, 120), ('was born',125, 133)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Roger'), (6, 'Dumas'), (12, '('), (13, '9'), (15, 'May'), (19, '1932'), (24, '–'), (26, '2'), (28, 'July'), (33, '2016'), (37, ')'), (39, 'was'), (43, 'a'), (45, 'French'), (52, 'film'), (57, 'actor'), (62, '.'), (64, 'He'), (67, 'appeared'), (76, 'in'), (79, 'more'), (84, 'than'), (89, '100'), (93, 'films'), (99, 'between'), (107, '1954'), (112, 'and'), (116, '2016'), (120, '.'), (122, 'He'), (125, 'was'), (129, 'born'), (134, 'in'), (137, 'Annonay'), (144, ','), (146, 'Ardèche'), (153, '.')])</spacy_tokens>
+<spacy_chunks>[('Roger Dumas', 0, 11), ('(9 May', 12, 18), ('9 May 1932', 13, 23), ('2 July 2016', 26, 37), ('a French film actor', 43, 62), ('more than 100 films', 79, 98), ('Annonay', 137, 144), ('Ardèche', 146, 153)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

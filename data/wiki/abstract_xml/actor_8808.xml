@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alan Mowbray</title>
+<link/>https://en.wikipedia.org/wiki/Alan_Mowbray
+<annotated>0</annotated>
+<originalabstract>Alan Mowbray MM (born Alfred Ernest Allen; 18 August 1896 – 25 March 1969) was an English stage and film actor who found success in Hollywood.</originalabstract>
+<abstract>Alan_Mowbray_MM ( born Alfred_Ernest_Allen ; 18_August_1896 – 25_March_1969 ) was an_English_stage_and_film_actor who found success in Hollywood .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alan'), (5, 'Mowbray'), (13, 'MM'), (16, '('), (17, 'born'), (22, 'Alfred'), (29, 'Ernest'), (36, 'Allen'), (41, ';'), (43, '18'), (46, 'August'), (53, '1896'), (58, '–'), (60, '25'), (63, 'March'), (69, '1969'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'English'), (90, 'stage'), (96, 'and'), (100, 'film'), (105, 'actor'), (111, 'who'), (115, 'found'), (121, 'success'), (129, 'in'), (132, 'Hollywood'), (141, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alan Mowbray MM',0, 15), ('Alfred Ernest Allen',22, 41), ('18 August 1896',43, 57), ('25 March 1969',60, 73), ('an English stage and film actor',79, 110)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NN', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alan'), (5, 'Mowbray'), (13, 'MM'), (16, '('), (17, 'born'), (22, 'Alfred'), (29, 'Ernest'), (36, 'Allen'), (41, ';'), (43, '18'), (46, 'August'), (53, '1896'), (58, '–'), (60, '25'), (63, 'March'), (69, '1969'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'English'), (90, 'stage'), (96, 'and'), (100, 'film'), (105, 'actor'), (111, 'who'), (115, 'found'), (121, 'success'), (129, 'in'), (132, 'Hollywood'), (141, '.')])</spacy_tokens>
+<spacy_chunks>[('Alan Mowbray MM', 0, 15), ('(born Alfred Ernest Allen', 16, 41), ('18 August 1896', 43, 57), ('25 March 1969', 60, 73), ('an English stage', 79, 95), ('film actor', 100, 110), ('success', 121, 128), ('Hollywood', 132, 141)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

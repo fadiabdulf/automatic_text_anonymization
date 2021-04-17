@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Roger Duchesne</title>
+<link/>https://en.wikipedia.org/wiki/Roger_Duchesne
+<annotated>0</annotated>
+<originalabstract>Roger Duchesne (27 July 1906, Luxeuil-les-Bains, Haute-Saône – 25 December 1996) was a French film actor. He appeared in 30 films between 1934 and 1957, but is best remembered for playing the lead in Bob le flambeur (1956).</originalabstract>
+<abstract>Roger_Duchesne ( 27_July_1906 , Luxeuil-les-Bains , Haute-Saône – 25_December_1996 ) was a_French_film_actor . He appeared in 30_films between 1934_and_1957 , but is_best_remembered for playing the_lead in Bob le flambeur (_1956_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Roger'), (6, 'Duchesne'), (15, '('), (16, '27'), (19, 'July'), (24, '1906'), (28, ','), (30, 'Luxeuil-les-Bains'), (47, ','), (49, 'Haute-Saône'), (61, '–'), (63, '25'), (66, 'December'), (75, '1996'), (79, ')'), (81, 'was'), (85, 'a'), (87, 'French'), (94, 'film'), (99, 'actor'), (104, '.'), (106, 'He'), (109, 'appeared'), (118, 'in'), (121, '30'), (124, 'films'), (130, 'between'), (138, '1934'), (143, 'and'), (147, '1957'), (151, ','), (153, 'but'), (157, 'is'), (160, 'best'), (165, 'remembered'), (176, 'for'), (180, 'playing'), (188, 'the'), (192, 'lead'), (197, 'in'), (200, 'Bob'), (204, 'le'), (207, 'flambeur'), (216, '('), (217, '1956'), (221, ')'), (222, '.')])</stanford_tokens>
+<opennlp_chunks>[('Roger Duchesne',0, 14), ('27 July 1906',16, 28), ('25 December 1996',63, 79), ('a French film actor',85, 104), ('30 films',121, 129), ('1934 and 1957',138, 151), ('is best remembered',157, 175), ('the lead',188, 196), ('(1956)',216, 222)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', ',', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'CC', 'VBZ', 'JJS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Roger'), (6, 'Duchesne'), (15, '('), (16, '27'), (19, 'July'), (24, '1906'), (28, ','), (30, 'Luxeuil'), (37, '-'), (38, 'les'), (41, '-'), (42, 'Bains'), (47, ','), (49, 'Haute'), (54, '-'), (55, 'Saône'), (61, '–'), (63, '25'), (66, 'December'), (75, '1996'), (79, ')'), (81, 'was'), (85, 'a'), (87, 'French'), (94, 'film'), (99, 'actor'), (104, '.'), (106, 'He'), (109, 'appeared'), (118, 'in'), (121, '30'), (124, 'films'), (130, 'between'), (138, '1934'), (143, 'and'), (147, '1957'), (151, ','), (153, 'but'), (157, 'is'), (160, 'best'), (165, 'remembered'), (176, 'for'), (180, 'playing'), (188, 'the'), (192, 'lead'), (197, 'in'), (200, 'Bob'), (204, 'le'), (207, 'flambeur'), (216, '('), (217, '1956'), (221, ')'), (222, '.')])</spacy_tokens>
+<spacy_chunks>[('Roger Duchesne', 0, 14), ('27 July 1906', 16, 28), ('Luxeuil-les-Bains', 30, 47), ('Haute-Saône', 49, 60), ('25 December 1996', 63, 79), ('a French film actor', 85, 104), ('30 films', 121, 129), ('the lead', 188, 196), ('Bob le flambeur', 200, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ',', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNS', ',', 'NNP', 'HYPH', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'CC', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'FW', 'FW', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

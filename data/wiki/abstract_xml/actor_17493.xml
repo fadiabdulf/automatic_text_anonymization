@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Angela Barnes</title>
+<link/>https://en.wikipedia.org/wiki/Angela_Barnes
+<annotated>0</annotated>
+<originalabstract>Angela Barnes (born 9 November 1976 in Sidcup, London) is a BBC New Comedy Awards winning English comedian.</originalabstract>
+<abstract>Angela_Barnes ( born_9_November_1976 in Sidcup , London ) is a_BBC_New_Comedy_Awards winning English_comedian .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Angela'), (7, 'Barnes'), (14, '('), (15, 'born'), (20, '9'), (22, 'November'), (31, '1976'), (36, 'in'), (39, 'Sidcup'), (45, ','), (47, 'London'), (53, ')'), (55, 'is'), (58, 'a'), (60, 'BBC'), (64, 'New'), (68, 'Comedy'), (75, 'Awards'), (82, 'winning'), (90, 'English'), (98, 'comedian'), (106, '.')])</stanford_tokens>
+<opennlp_chunks>[('Angela Barnes',0, 13), ('born 9 November 1976',15, 35), ('a BBC New Comedy Awards',58, 81), ('English comedian',90, 106)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'NNP', 'NNP', 'NNP', 'NNS', 'VBG', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Angela'), (7, 'Barnes'), (14, '('), (15, 'born'), (20, '9'), (22, 'November'), (31, '1976'), (36, 'in'), (39, 'Sidcup'), (45, ','), (47, 'London'), (53, ')'), (55, 'is'), (58, 'a'), (60, 'BBC'), (64, 'New'), (68, 'Comedy'), (75, 'Awards'), (82, 'winning'), (90, 'English'), (98, 'comedian'), (106, '.')])</spacy_tokens>
+<spacy_chunks>[('Angela Barnes', 0, 13), ('9 November 1976', 20, 35), ('Sidcup', 39, 45), ('London', 47, 53), ('a BBC New Comedy Awards', 58, 81), ('English comedian', 90, 106)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'NNP', 'NNP', 'NNP', 'NNPS', 'VBG', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

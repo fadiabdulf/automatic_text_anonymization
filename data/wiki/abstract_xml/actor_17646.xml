@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Julie Cox</title>
+<link/>https://en.wikipedia.org/wiki/Julie_Cox
+<annotated>0</annotated>
+<originalabstract>Julie Cox (born 24 April 1973) is an English actress, perhaps best known for her role as Princess Irulan in the Sci Fi Channel's 2000 miniseries Frank Herbert's Dune and its 2003 sequel, Frank Herbert's Children of Dune.</originalabstract>
+<abstract>Julie_Cox ( born 24_April_1973 ) is an_English_actress , perhaps_best_known for her_role as Princess_Irulan in the_Sci_Fi_Channel 's_2000_miniseries Frank_Herbert 's_Dune and its_2003_sequel , Frank_Herbert 's_Children of Dune .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Julie'), (6, 'Cox'), (10, '('), (11, 'born'), (16, '24'), (19, 'April'), (25, '1973'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'English'), (45, 'actress'), (52, ','), (54, 'perhaps'), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'her'), (81, 'role'), (86, 'as'), (89, 'Princess'), (98, 'Irulan'), (105, 'in'), (108, 'the'), (112, 'Sci'), (116, 'Fi'), (119, 'Channel'), (126, '\'s'), (129, '2000'), (134, 'miniseries'), (145, 'Frank'), (151, 'Herbert'), (158, '\'s'), (161, 'Dune'), (166, 'and'), (170, 'its'), (174, '2003'), (179, 'sequel'), (185, ','), (187, 'Frank'), (193, 'Herbert'), (200, '\'s'), (203, 'Children'), (212, 'of'), (215, 'Dune'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Julie Cox',0, 9), ('24 April 1973',16, 29), ('an English actress',34, 52), ('perhaps best known',54, 72), ('her role',77, 85), ('Princess Irulan',89, 104), ('the Sci Fi Channel',108, 126), ('\'s 2000 miniseries',126, 144), ('Frank Herbert',145, 158), ('\'s Dune',158, 165), ('its 2003 sequel',170, 185), ('Frank Herbert',187, 200), ('\'s Children',200, 211)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'POS', 'CD', 'NNS', 'NNP', 'NNP', 'POS', 'NNP', 'CC', 'PRP$', 'CD', 'NN', ',', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Julie'), (6, 'Cox'), (10, '('), (11, 'born'), (16, '24'), (19, 'April'), (25, '1973'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'English'), (45, 'actress'), (52, ','), (54, 'perhaps'), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'her'), (81, 'role'), (86, 'as'), (89, 'Princess'), (98, 'Irulan'), (105, 'in'), (108, 'the'), (112, 'Sci'), (116, 'Fi'), (119, 'Channel'), (126, "'s"), (129, '2000'), (134, 'miniseries'), (145, 'Frank'), (151, 'Herbert'), (158, "'s"), (161, 'Dune'), (166, 'and'), (170, 'its'), (174, '2003'), (179, 'sequel'), (185, ','), (187, 'Frank'), (193, 'Herbert'), (200, "'s"), (203, 'Children'), (212, 'of'), (215, 'Dune'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Julie Cox', 0, 9), ('24 April 1973', 16, 29), ('an English actress', 34, 52), ('her role', 77, 85), ('Princess Irulan', 89, 104), ("the Sci Fi Channel's 2000 miniseries", 108, 144), ("Frank Herbert's Dune", 145, 165), ('its 2003 sequel', 170, 185), ("Frank Herbert's Children of Dune", 187, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'POS', 'CD', 'NNS', 'NNP', 'NNP', 'POS', 'NNP', 'CC', 'PRP$', 'CD', 'NN', ',', 'NNP', 'NNP', 'POS', 'NNPS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

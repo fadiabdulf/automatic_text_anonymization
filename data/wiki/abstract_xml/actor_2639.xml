@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mark-Paul Gosselaar</title>
+<link/>https://en.wikipedia.org/wiki/Mark-Paul_Gosselaar
+<annotated>0</annotated>
+<originalabstract>Mark-Paul Harry Gosselaar (; born March 1, 1974) is an American actor. He is known for his television roles as Zack Morris in Saved by the Bell, Detective John Clark in NYPD Blue, and Peter Bash in Franklin  Bash.
+He was the lead in the 1998 film Dead Man on Campus, and starred in the 2016 TV series Pitch.</originalabstract>
+<abstract>Mark-Paul_Harry_Gosselaar ( ; born March_1_,_1974 ) is an_American_actor . He is_known for his_television_roles as Zack_Morris in Saved by the_Bell , Detective_John_Clark in NYPD_Blue , and Peter_Bash in Franklin_ . He was the_lead in the_1998_film_Dead_Man on Campus , and starred in the_2016_TV_series_Pitch .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mark-Paul'), (10, 'Harry'), (16, 'Gosselaar'), (26, '('), (27, ';'), (29, 'born'), (34, 'March'), (40, '1'), (41, ','), (43, '1974'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'is'), (77, 'known'), (83, 'for'), (87, 'his'), (91, 'television'), (102, 'roles'), (108, 'as'), (111, 'Zack'), (116, 'Morris'), (123, 'in'), (126, 'Saved'), (132, 'by'), (135, 'the'), (139, 'Bell'), (143, ','), (145, 'Detective'), (155, 'John'), (160, 'Clark'), (166, 'in'), (169, 'NYPD'), (174, 'Blue'), (178, ','), (180, 'and'), (184, 'Peter'), (190, 'Bash'), (195, 'in'), (198, 'Franklin'), (207, ''), (209, 'Bash'), (213, '.'), (215, 'He'), (218, 'was'), (222, 'the'), (226, 'lead'), (231, 'in'), (234, 'the'), (238, '1998'), (243, 'film'), (248, 'Dead'), (253, 'Man'), (257, 'on'), (260, 'Campus'), (266, ','), (268, 'and'), (272, 'starred'), (280, 'in'), (283, 'the'), (287, '2016'), (292, 'TV'), (295, 'series'), (302, 'Pitch'), (307, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mark-Paul Harry Gosselaar',0, 25), ('March 1, 1974',34, 47), ('an American actor',52, 69), ('is known',74, 82), ('his television roles',87, 107), ('Zack Morris',111, 122), ('the Bell',135, 143), ('Detective John Clark',145, 165), ('NYPD Blue',169, 178), ('Peter Bash',184, 194), ('Franklin  Bash',198, 213), ('the lead',222, 230), ('the 1998 film Dead Man',234, 256), ('the 2016 TV series Pitch',283, 307)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'VBN', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'CC', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'CD', 'NN', 'JJ', 'NN', 'IN', 'NNP', ',', 'CC', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mark'), (4, '-'), (5, 'Paul'), (10, 'Harry'), (16, 'Gosselaar'), (26, '(;'), (29, 'born'), (34, 'March'), (40, '1'), (41, ','), (43, '1974'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actor'), (69, '.'), (71, 'He'), (74, 'is'), (77, 'known'), (83, 'for'), (87, 'his'), (91, 'television'), (102, 'roles'), (108, 'as'), (111, 'Zack'), (116, 'Morris'), (123, 'in'), (126, 'Saved'), (132, 'by'), (135, 'the'), (139, 'Bell'), (143, ','), (145, 'Detective'), (155, 'John'), (160, 'Clark'), (166, 'in'), (169, 'NYPD'), (174, 'Blue'), (178, ','), (180, 'and'), (184, 'Peter'), (190, 'Bash'), (195, 'in'), (198, 'Franklin'), (208, 'Bash'), (212, '.'), (214, 'He'), (217, 'was'), (221, 'the'), (225, 'lead'), (230, 'in'), (233, 'the'), (237, '1998'), (242, 'film'), (247, 'Dead'), (252, 'Man'), (256, 'on'), (259, 'Campus'), (265, ','), (267, 'and'), (271, 'starred'), (279, 'in'), (282, 'the'), (286, '2016'), (291, 'TV'), (294, 'series'), (301, 'Pitch'), (306, '.')])</spacy_tokens>
+<spacy_chunks>[('Mark-Paul Harry Gosselaar', 0, 25), ('March 1, 1974', 34, 47), ('an American actor', 52, 69), ('his television roles', 87, 107), ('Zack Morris', 111, 122), ('Saved by the Bell', 126, 143), ('Detective John Clark', 145, 165), ('NYPD Blue', 169, 178), ('Peter Bash', 184, 194), ('Franklin', 198, 206), ('the lead', 221, 229), ('the 1998 film', 233, 246), ('Dead Man on Campus', 247, 265), ('the 2016 TV series', 282, 300)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', 'NNP', 'NN', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NN', 'IN', 'NNP', ',', 'CC', 'VBN', 'IN', 'DT', 'CD', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

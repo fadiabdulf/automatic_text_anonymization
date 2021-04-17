@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lily Laight</title>
+<link/>https://en.wikipedia.org/wiki/Lily_Laight
+<annotated>0</annotated>
+<originalabstract>Lily May Laight (born 2001) is an English child actress from Devon. Laight is known for acting in Love, Rosie, In Secret and Frequencies.</originalabstract>
+<abstract>Lily_May_Laight ( born 2001 ) is an_English_child_actress from Devon . Laight is_known for acting in Love , Rosie , In Secret_and_Frequencies .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lily'), (5, 'May'), (9, 'Laight'), (16, '('), (17, 'born'), (22, '2001'), (26, ')'), (28, 'is'), (31, 'an'), (34, 'English'), (42, 'child'), (48, 'actress'), (56, 'from'), (61, 'Devon'), (66, '.'), (68, 'Laight'), (75, 'is'), (78, 'known'), (84, 'for'), (88, 'acting'), (95, 'in'), (98, 'Love'), (102, ','), (104, 'Rosie'), (109, ','), (111, 'In'), (114, 'Secret'), (121, 'and'), (125, 'Frequencies'), (136, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lily May Laight',0, 15), ('an English child actress',31, 55), ('is known',75, 83), ('Secret and Frequencies',114, 136)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'VBG', 'IN', 'NNP', ',', 'NNP', ',', 'IN', 'JJ', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lily'), (5, 'May'), (9, 'Laight'), (16, '('), (17, 'born'), (22, '2001'), (26, ')'), (28, 'is'), (31, 'an'), (34, 'English'), (42, 'child'), (48, 'actress'), (56, 'from'), (61, 'Devon'), (66, '.'), (68, 'Laight'), (75, 'is'), (78, 'known'), (84, 'for'), (88, 'acting'), (95, 'in'), (98, 'Love'), (102, ','), (104, 'Rosie'), (109, ','), (111, 'In'), (114, 'Secret'), (121, 'and'), (125, 'Frequencies'), (136, '.')])</spacy_tokens>
+<spacy_chunks>[('May Laight', 5, 15), ('an English child actress', 31, 55), ('Love, Rosie', 98, 109), ('In Secret', 111, 120), ('Frequencies', 125, 136)]</spacy_chunks>
+<spacy_pos>['NNP', 'MD', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'VBG', 'IN', 'NNP', ',', 'NNP', ',', 'IN', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

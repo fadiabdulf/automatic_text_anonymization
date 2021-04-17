@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Georges Ulmer</title>
+<link/>https://en.wikipedia.org/wiki/Georges_Ulmer
+<annotated>0</annotated>
+<originalabstract>Georges Ulmer was a Danish-born composer, librettist, and actor who became a naturalized French citizen. He was born Jørgen Frederik Ulmer on 16 February 1919 in Copenhagen, Denmark, and died on 29 September 1989 at Marseille, Bouches-du-Rhône, France. He was the father of singer Laura Ulmer.</originalabstract>
+<abstract>Georges_Ulmer was a_Danish-born_composer , librettist , and actor who became a_naturalized_French_citizen . He was_born Jørgen_Frederik_Ulmer on 16_February_1919 in Copenhagen , Denmark , and died on 29_September_1989 at Marseille , Bouches-du-Rhône , France . He was the_father of singer_Laura_Ulmer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Georges'), (8, 'Ulmer'), (14, 'was'), (18, 'a'), (20, 'Danish-born'), (32, 'composer'), (40, ','), (42, 'librettist'), (52, ','), (54, 'and'), (58, 'actor'), (64, 'who'), (68, 'became'), (75, 'a'), (77, 'naturalized'), (89, 'French'), (96, 'citizen'), (103, '.'), (105, 'He'), (108, 'was'), (112, 'born'), (117, 'Jørgen'), (124, 'Frederik'), (133, 'Ulmer'), (139, 'on'), (142, '16'), (145, 'February'), (154, '1919'), (159, 'in'), (162, 'Copenhagen'), (172, ','), (174, 'Denmark'), (181, ','), (183, 'and'), (187, 'died'), (192, 'on'), (195, '29'), (198, 'September'), (208, '1989'), (213, 'at'), (216, 'Marseille'), (225, ','), (227, 'Bouches-du-Rhône'), (243, ','), (245, 'France'), (251, '.'), (253, 'He'), (256, 'was'), (260, 'the'), (264, 'father'), (271, 'of'), (274, 'singer'), (281, 'Laura'), (287, 'Ulmer'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('Georges Ulmer',0, 13), ('a Danish-born composer',18, 40), ('a naturalized French citizen',75, 103), ('was born',108, 116), ('Jørgen Frederik Ulmer',117, 138), ('16 February 1919',142, 158), ('29 September 1989',195, 212), ('the father',260, 270), ('singer Laura Ulmer',274, 292)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Georges'), (8, 'Ulmer'), (14, 'was'), (18, 'a'), (20, 'Danish'), (26, '-'), (27, 'born'), (32, 'composer'), (40, ','), (42, 'librettist'), (52, ','), (54, 'and'), (58, 'actor'), (64, 'who'), (68, 'became'), (75, 'a'), (77, 'naturalized'), (89, 'French'), (96, 'citizen'), (103, '.'), (105, 'He'), (108, 'was'), (112, 'born'), (117, 'Jørgen'), (124, 'Frederik'), (133, 'Ulmer'), (139, 'on'), (142, '16'), (145, 'February'), (154, '1919'), (159, 'in'), (162, 'Copenhagen'), (172, ','), (174, 'Denmark'), (181, ','), (183, 'and'), (187, 'died'), (192, 'on'), (195, '29'), (198, 'September'), (208, '1989'), (213, 'at'), (216, 'Marseille'), (225, ','), (227, 'Bouches'), (234, '-'), (235, 'du'), (237, '-'), (238, 'Rhône'), (243, ','), (245, 'France'), (251, '.'), (253, 'He'), (256, 'was'), (260, 'the'), (264, 'father'), (271, 'of'), (274, 'singer'), (281, 'Laura'), (287, 'Ulmer'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Georges Ulmer', 0, 13), ('a Danish-born composer', 18, 40), ('librettist', 42, 52), ('a naturalized French citizen', 75, 103), ('Jørgen Frederik Ulmer', 117, 138), ('16 February 1919', 142, 158), ('Copenhagen', 162, 172), ('Denmark', 174, 181), ('29 September 1989', 195, 212), ('Marseille', 216, 225), ('Bouches-du-Rhône', 227, 243), ('France', 245, 251), ('the father', 260, 270), ('singer Laura Ulmer', 274, 292)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', ',', 'NN', ',', 'CC', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

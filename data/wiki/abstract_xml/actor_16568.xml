@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alice De Winton</title>
+<link/>https://en.wikipedia.org/wiki/Alice_De_Winton
+<annotated>0</annotated>
+<originalabstract>Alice De Winton (born Alice Catherine Wilson 1870 – 1941) was an English actress.
+She was born and died in London.  She was the daughter of Henry Wilson a retired army surgeon major, and Louisa Ducrow (daughter of equestrian and circus manager Andrew Ducrow).</originalabstract>
+<abstract>Alice_De_Winton ( born Alice_Catherine_Wilson_1870 – 1941 ) was an_English_actress . She was_born and died in London . She was the_daughter of Henry_Wilson a_retired_army_surgeon_major , and Louisa_Ducrow_(_daughter of equestrian_and_circus_manager_Andrew_Ducrow_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alice'), (6, 'De'), (9, 'Winton'), (16, '('), (17, 'born'), (22, 'Alice'), (28, 'Catherine'), (38, 'Wilson'), (45, '1870'), (50, '–'), (52, '1941'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'English'), (73, 'actress'), (80, '.'), (82, 'She'), (86, 'was'), (90, 'born'), (95, 'and'), (99, 'died'), (104, 'in'), (107, 'London'), (113, '.'), (116, 'She'), (120, 'was'), (124, 'the'), (128, 'daughter'), (137, 'of'), (140, 'Henry'), (146, 'Wilson'), (153, 'a'), (155, 'retired'), (163, 'army'), (168, 'surgeon'), (176, 'major'), (181, ','), (183, 'and'), (187, 'Louisa'), (194, 'Ducrow'), (201, '('), (202, 'daughter'), (211, 'of'), (214, 'equestrian'), (225, 'and'), (229, 'circus'), (236, 'manager'), (244, 'Andrew'), (251, 'Ducrow'), (257, ')'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alice De Winton',0, 15), ('Alice Catherine Wilson 1870',22, 49), ('an English actress',62, 80), ('was born',86, 94), ('the daughter',124, 136), ('Henry Wilson',140, 152), ('a retired army surgeon major',153, 181), ('Louisa Ducrow (daughter',187, 210), ('equestrian and circus manager Andrew Ducrow)',214, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'CC', 'VBD', 'IN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'DT', 'VBN', 'NN', 'NN', 'JJ', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'NNP', 'NNP', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alice'), (6, 'De'), (9, 'Winton'), (16, '('), (17, 'born'), (22, 'Alice'), (28, 'Catherine'), (38, 'Wilson'), (45, '1870'), (50, '–'), (52, '1941'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'English'), (73, 'actress'), (80, '.'), (82, 'She'), (86, 'was'), (90, 'born'), (95, 'and'), (99, 'died'), (104, 'in'), (107, 'London'), (113, '.'), (116, 'She'), (120, 'was'), (124, 'the'), (128, 'daughter'), (137, 'of'), (140, 'Henry'), (146, 'Wilson'), (153, 'a'), (155, 'retired'), (163, 'army'), (168, 'surgeon'), (176, 'major'), (181, ','), (183, 'and'), (187, 'Louisa'), (194, 'Ducrow'), (201, '('), (202, 'daughter'), (211, 'of'), (214, 'equestrian'), (225, 'and'), (229, 'circus'), (236, 'manager'), (244, 'Andrew'), (251, 'Ducrow'), (257, ')'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Alice De Winton', 0, 15), ('Alice Catherine Wilson', 22, 44), ('an English actress', 62, 80), ('London', 107, 113), ('the daughter', 124, 136), ('Henry Wilson', 140, 152), ('a retired army surgeon major', 153, 181), ('Louisa Ducrow', 187, 200), ('equestrian and circus manager Andrew Ducrow', 214, 257)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'CD', 'SYM', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'CC', 'VBN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'DT', 'JJ', 'NN', 'NN', 'NN', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'NN', 'IN', 'NN', 'CC', 'NN', 'NN', 'NNP', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

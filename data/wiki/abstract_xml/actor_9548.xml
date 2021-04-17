@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bernard Blancan</title>
+<link/>https://en.wikipedia.org/wiki/Bernard_Blancan
+<annotated>0</annotated>
+<originalabstract>Bernard Blancan (born 9 September 1958) is a French actor. He has appeared in more than 85 films and television shows since 1989. He shared the award for Best Actor for his role in Days of Glory at the 2006 Cannes Film Festival.</originalabstract>
+<abstract>Bernard_Blancan ( born_9_September_1958 ) is a_French_actor . He has_appeared in more_than_85_films_and_television_shows since 1989 . He shared the_award for Best_Actor for his_role in Days of Glory at the_2006_Cannes_Film_Festival .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bernard'), (8, 'Blancan'), (16, '('), (17, 'born'), (22, '9'), (24, 'September'), (34, '1958'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'actor'), (57, '.'), (59, 'He'), (62, 'has'), (66, 'appeared'), (75, 'in'), (78, 'more'), (83, 'than'), (88, '85'), (91, 'films'), (97, 'and'), (101, 'television'), (112, 'shows'), (118, 'since'), (124, '1989'), (128, '.'), (130, 'He'), (133, 'shared'), (140, 'the'), (144, 'award'), (150, 'for'), (154, 'Best'), (159, 'Actor'), (165, 'for'), (169, 'his'), (173, 'role'), (178, 'in'), (181, 'Days'), (186, 'of'), (189, 'Glory'), (195, 'at'), (198, 'the'), (202, '2006'), (207, 'Cannes'), (214, 'Film'), (219, 'Festival'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bernard Blancan',0, 15), ('born 9 September 1958',17, 38), ('a French actor',43, 57), ('has appeared',62, 74), ('more than 85 films and television shows',78, 117), ('the award',140, 149), ('Best Actor',154, 164), ('his role',169, 177), ('the 2006 Cannes Film Festival',198, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'JJS', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', 'IN', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bernard'), (8, 'Blancan'), (16, '('), (17, 'born'), (22, '9'), (24, 'September'), (34, '1958'), (38, ')'), (40, 'is'), (43, 'a'), (45, 'French'), (52, 'actor'), (57, '.'), (59, 'He'), (62, 'has'), (66, 'appeared'), (75, 'in'), (78, 'more'), (83, 'than'), (88, '85'), (91, 'films'), (97, 'and'), (101, 'television'), (112, 'shows'), (118, 'since'), (124, '1989'), (128, '.'), (130, 'He'), (133, 'shared'), (140, 'the'), (144, 'award'), (150, 'for'), (154, 'Best'), (159, 'Actor'), (165, 'for'), (169, 'his'), (173, 'role'), (178, 'in'), (181, 'Days'), (186, 'of'), (189, 'Glory'), (195, 'at'), (198, 'the'), (202, '2006'), (207, 'Cannes'), (214, 'Film'), (219, 'Festival'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Bernard Blancan', 0, 15), ('9 September 1958', 22, 38), ('a French actor', 43, 57), ('more than 85 films', 78, 96), ('television shows', 101, 117), ('the award', 140, 149), ('Best Actor', 154, 164), ('his role', 169, 177), ('Days of Glory', 181, 194), ('the 2006 Cannes Film Festival', 198, 227)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'CC', 'NN', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNS', 'IN', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

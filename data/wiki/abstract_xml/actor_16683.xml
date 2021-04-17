@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eunice Gayson</title>
+<link/>https://en.wikipedia.org/wiki/Eunice_Gayson
+<annotated>0</annotated>
+<originalabstract>Eunice Gayson (born Eunice Elizabeth Sargaison; 17 March 1928 – 8 June 2018) was an English actress best known for playing Sylvia Trench, James Bond's love interest in the first two Bond films (Dr. No and From Russia with Love) and is therefore considered to have been the first-ever "Bond girl".</originalabstract>
+<abstract>Eunice_Gayson ( born Eunice_Elizabeth_Sargaison ; 17_March_1928 – 8_June_2018 ) was an_English_actress best_known for playing Sylvia_Trench , James_Bond 's_love_interest in the_first_two_Bond_films ( Dr._No and From Russia with Love ) and is_therefore_considered_to_have_been the_first-ever_"_Bond_girl_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eunice'), (7, 'Gayson'), (14, '('), (15, 'born'), (20, 'Eunice'), (27, 'Elizabeth'), (37, 'Sargaison'), (46, ';'), (48, '17'), (51, 'March'), (57, '1928'), (62, '–'), (64, '8'), (66, 'June'), (71, '2018'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'English'), (92, 'actress'), (100, 'best'), (105, 'known'), (111, 'for'), (115, 'playing'), (123, 'Sylvia'), (130, 'Trench'), (136, ','), (138, 'James'), (144, 'Bond'), (148, '\'s'), (151, 'love'), (156, 'interest'), (165, 'in'), (168, 'the'), (172, 'first'), (178, 'two'), (182, 'Bond'), (187, 'films'), (193, '('), (194, 'Dr.'), (198, 'No'), (201, 'and'), (205, 'From'), (210, 'Russia'), (217, 'with'), (222, 'Love'), (226, ')'), (228, 'and'), (232, 'is'), (235, 'therefore'), (245, 'considered'), (256, 'to'), (259, 'have'), (264, 'been'), (269, 'the'), (273, 'first-ever'), (284, '"'), (285, 'Bond'), (290, 'girl'), (294, '"'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eunice Gayson',0, 13), ('Eunice Elizabeth Sargaison',20, 46), ('17 March 1928',48, 61), ('8 June 2018',64, 75), ('an English actress',81, 99), ('best known',100, 110), ('Sylvia Trench',123, 136), ('James Bond',138, 148), ('\'s love interest',148, 164), ('the first two Bond films',168, 192), ('Dr. No',194, 200), ('is therefore considered to have been',232, 268), ('the first-ever "Bond girl"',269, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'IN', 'DT', 'JJ', 'CD', 'NN', 'NNS', '-LRB-', 'NNP', 'NNP', 'CC', 'IN', 'NNP', 'IN', 'NNP', '-RRB-', 'CC', 'VBZ', 'RB', 'VBN', 'TO', 'VB', 'VBN', 'DT', 'JJ', '``', 'NNP', 'NN', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eunice'), (7, 'Gayson'), (14, '('), (15, 'born'), (20, 'Eunice'), (27, 'Elizabeth'), (37, 'Sargaison'), (46, ';'), (48, '17'), (51, 'March'), (57, '1928'), (62, '–'), (64, '8'), (66, 'June'), (71, '2018'), (75, ')'), (77, 'was'), (81, 'an'), (84, 'English'), (92, 'actress'), (100, 'best'), (105, 'known'), (111, 'for'), (115, 'playing'), (123, 'Sylvia'), (130, 'Trench'), (136, ','), (138, 'James'), (144, 'Bond'), (148, "'s"), (151, 'love'), (156, 'interest'), (165, 'in'), (168, 'the'), (172, 'first'), (178, 'two'), (182, 'Bond'), (187, 'films'), (193, '('), (194, 'Dr.'), (198, 'No'), (201, 'and'), (205, 'From'), (210, 'Russia'), (217, 'with'), (222, 'Love'), (226, ')'), (228, 'and'), (232, 'is'), (235, 'therefore'), (245, 'considered'), (256, 'to'), (259, 'have'), (264, 'been'), (269, 'the'), (273, 'first'), (278, '-'), (279, 'ever'), (284, '"'), (285, 'Bond'), (290, 'girl'), (294, '"'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Eunice Gayson', 0, 13), ('born Eunice Elizabeth Sargaison', 15, 46), ('17 March 1928', 48, 61), ('8 June 2018', 64, 75), ('an English actress', 81, 99), ('Sylvia Trench', 123, 136), ("James Bond's love interest", 138, 164), ('the first two Bond films', 168, 192), ('Dr. No', 194, 200), ('From Russia with Love', 205, 226), ('the first-ever "Bond girl', 269, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'POS', 'NN', 'NN', 'IN', 'DT', 'JJ', 'CD', 'NN', 'NNS', '-LRB-', 'NNP', 'UH', 'CC', 'IN', 'NNP', 'IN', 'NNP', '-RRB-', 'CC', 'VBZ', 'RB', 'VBN', 'TO', 'VB', 'VBN', 'DT', 'JJ', 'HYPH', 'RB', '``', 'NN', 'NN', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

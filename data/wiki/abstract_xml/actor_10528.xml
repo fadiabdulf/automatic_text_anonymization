@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Candace Bailey</title>
+<link/>https://en.wikipedia.org/wiki/Candace_Bailey
+<annotated>0</annotated>
+<originalabstract>Candace Kaye Bailey (born May 20, 1982) is an American actress and television personality best known as a co-host of the former television program Attack of the Show! on G4.</originalabstract>
+<abstract>Candace_Kaye_Bailey ( born May_20_,_1982 ) is an_American_actress_and_television_personality best_known as a co-host of the_former_television_program_Attack of the_Show ! on G4 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Candace'), (8, 'Kaye'), (13, 'Bailey'), (20, '('), (21, 'born'), (26, 'May'), (30, '20'), (32, ','), (34, '1982'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'television'), (78, 'personality'), (90, 'best'), (95, 'known'), (101, 'as'), (104, 'a'), (106, 'co-host'), (114, 'of'), (117, 'the'), (121, 'former'), (128, 'television'), (139, 'program'), (147, 'Attack'), (154, 'of'), (157, 'the'), (161, 'Show'), (165, '!'), (167, 'on'), (170, 'G4'), (172, '.')])</stanford_tokens>
+<opennlp_chunks>[('Candace Kaye Bailey',0, 19), ('May 20, 1982',26, 38), ('an American actress and television personality',43, 89), ('best known',90, 100), ('the former television program Attack',117, 153), ('the Show',157, 165)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'RB', 'VBN', 'IN', 'DT', 'VB', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'IN', 'DT', 'NN', '.', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Candace'), (8, 'Kaye'), (13, 'Bailey'), (20, '('), (21, 'born'), (26, 'May'), (30, '20'), (32, ','), (34, '1982'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'and'), (67, 'television'), (78, 'personality'), (90, 'best'), (95, 'known'), (101, 'as'), (104, 'a'), (106, 'co'), (108, '-'), (109, 'host'), (114, 'of'), (117, 'the'), (121, 'former'), (128, 'television'), (139, 'program'), (147, 'Attack'), (154, 'of'), (157, 'the'), (161, 'Show'), (165, '!'), (167, 'on'), (170, 'G4'), (172, '.')])</spacy_tokens>
+<spacy_chunks>[('Candace Kaye Bailey', 0, 19), ('May 20, 1982', 26, 38), ('an American actress', 43, 62), ('television personality', 67, 89), ('a co-host', 104, 113), ('the former television program Attack', 117, 153), ('Attack of the Show!', 147, 166)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'IN', 'DT', 'NNP', '.', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

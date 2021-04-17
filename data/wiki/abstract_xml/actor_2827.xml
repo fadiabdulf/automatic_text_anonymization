@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles Halton</title>
+<link/>https://en.wikipedia.org/wiki/Charles_Halton
+<annotated>0</annotated>
+<originalabstract>Charles Halton (March 16, 1876 – April 16, 1959) was a stern-faced American character actor who appeared in over 180 films.</originalabstract>
+<abstract>Charles_Halton ( March_16_,_1876 – April_16_,_1959 ) was a_stern-faced_American_character_actor who appeared in over_180_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Halton'), (15, '('), (16, 'March'), (22, '16'), (24, ','), (26, '1876'), (31, '–'), (33, 'April'), (39, '16'), (41, ','), (43, '1959'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'stern-faced'), (67, 'American'), (76, 'character'), (86, 'actor'), (92, 'who'), (96, 'appeared'), (105, 'in'), (108, 'over'), (113, '180'), (117, 'films'), (122, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Halton',0, 14), ('March 16, 1876',16, 30), ('April 16, 1959',33, 47), ('a stern-faced American character actor',53, 91), ('over 180 films',108, 122)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Halton'), (15, '('), (16, 'March'), (22, '16'), (24, ','), (26, '1876'), (31, '–'), (33, 'April'), (39, '16'), (41, ','), (43, '1959'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'stern'), (60, '-'), (61, 'faced'), (67, 'American'), (76, 'character'), (86, 'actor'), (92, 'who'), (96, 'appeared'), (105, 'in'), (108, 'over'), (113, '180'), (117, 'films'), (122, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Halton', 0, 14), ('(March', 15, 21), ('March 16, 1876', 16, 30), ('April 16, 1959', 33, 47), ('a stern-faced American character actor', 53, 91), ('over 180 films', 108, 122)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'RB', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

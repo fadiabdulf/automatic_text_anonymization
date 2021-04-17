@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean Durrell</title>
+<link/>https://en.wikipedia.org/wiki/Jean_Durrell
+<annotated>0</annotated>
+<originalabstract>Jean Durrell was an American silent film actress. 
+She starred in shorter films in the early silent era between 1913 and 1915.
+She starred with Charlotte Burton in short films such as While There's Life and Through the Neighbor's Window.</originalabstract>
+<abstract>Jean_Durrell was an_American_silent_film_actress . She starred in shorter_films in the_early_silent_era between 1913_and_1915 . She starred with Charlotte_Burton in short_films such_as While There 's Life and Through the_Neighbor 's_Window .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean'), (5, 'Durrell'), (13, 'was'), (17, 'an'), (20, 'American'), (29, 'silent'), (36, 'film'), (41, 'actress'), (48, '.'), (51, 'She'), (55, 'starred'), (63, 'in'), (66, 'shorter'), (74, 'films'), (80, 'in'), (83, 'the'), (87, 'early'), (93, 'silent'), (100, 'era'), (104, 'between'), (112, '1913'), (117, 'and'), (121, '1915'), (125, '.'), (127, 'She'), (131, 'starred'), (139, 'with'), (144, 'Charlotte'), (154, 'Burton'), (161, 'in'), (164, 'short'), (170, 'films'), (176, 'such'), (181, 'as'), (184, 'While'), (190, 'There'), (195, '\'s'), (198, 'Life'), (203, 'and'), (207, 'Through'), (215, 'the'), (219, 'Neighbor'), (227, '\'s'), (230, 'Window'), (236, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean Durrell',0, 12), ('an American silent film actress',17, 48), ('shorter films',66, 79), ('the early silent era',83, 103), ('1913 and 1915',112, 125), ('Charlotte Burton',144, 160), ('short films',164, 175), ('such as',176, 183), ('the Neighbor',215, 227), ('\'s Window',227, 236)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'NNS', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'JJ', 'NNS', 'JJ', 'IN', 'IN', 'EX', 'VBZ', 'NN', 'CC', 'IN', 'DT', 'NNP', 'POS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (5, 'Durrell'), (13, 'was'), (17, 'an'), (20, 'American'), (29, 'silent'), (36, 'film'), (41, 'actress'), (48, '.'), (51, 'She'), (55, 'starred'), (63, 'in'), (66, 'shorter'), (74, 'films'), (80, 'in'), (83, 'the'), (87, 'early'), (93, 'silent'), (100, 'era'), (104, 'between'), (112, '1913'), (117, 'and'), (121, '1915'), (125, '.'), (127, 'She'), (131, 'starred'), (139, 'with'), (144, 'Charlotte'), (154, 'Burton'), (161, 'in'), (164, 'short'), (170, 'films'), (176, 'such'), (181, 'as'), (184, 'While'), (190, 'There'), (195, "'s"), (198, 'Life'), (203, 'and'), (207, 'Through'), (215, 'the'), (219, 'Neighbor'), (227, "'s"), (230, 'Window'), (236, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean Durrell', 0, 12), ('an American silent film actress', 17, 48), ('shorter films', 66, 79), ('In the', 80, 86), ('the early silent era', 83, 103), ('Charlotte Burton', 144, 160), ('short films', 164, 175), ("While There's Life", 184, 202), ("Through the Neighbor's Window", 207, 236)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'NNS', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'JJ', 'NNS', 'JJ', 'IN', 'IN', 'EX', 'VBZ', 'NNP', 'CC', 'IN', 'DT', 'NNP', 'POS', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

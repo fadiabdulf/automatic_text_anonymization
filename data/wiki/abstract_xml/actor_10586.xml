@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Andrea Barber</title>
+<link/>https://en.wikipedia.org/wiki/Andrea_Barber
+<annotated>0</annotated>
+<originalabstract>Andrea Laura Barber (born 1976) is an American actress. She is known for playing Kimmy Gibbler in the ABC sitcom Full House and the Netflix spin-off series Fuller House.</originalabstract>
+<abstract>Andrea_Laura_Barber ( born 1976 ) is an_American_actress . She is_known for playing Kimmy_Gibbler in the_ABC_sitcom Full_House and the_Netflix_spin-off_series_Fuller_House .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Andrea'), (7, 'Laura'), (13, 'Barber'), (20, '('), (21, 'born'), (26, '1976'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'American'), (47, 'actress'), (54, '.'), (56, 'She'), (60, 'is'), (63, 'known'), (69, 'for'), (73, 'playing'), (81, 'Kimmy'), (87, 'Gibbler'), (95, 'in'), (98, 'the'), (102, 'ABC'), (106, 'sitcom'), (113, 'Full'), (118, 'House'), (124, 'and'), (128, 'the'), (132, 'Netflix'), (140, 'spin-off'), (149, 'series'), (156, 'Fuller'), (163, 'House'), (168, '.')])</stanford_tokens>
+<opennlp_chunks>[('Andrea Laura Barber',0, 19), ('an American actress',35, 54), ('is known',60, 68), ('Kimmy Gibbler',81, 94), ('the ABC sitcom',98, 112), ('Full House',113, 123), ('the Netflix spin-off series Fuller House',128, 168)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'JJ', 'NNP', 'CC', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Andrea'), (7, 'Laura'), (13, 'Barber'), (20, '('), (21, 'born'), (26, '1976'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'American'), (47, 'actress'), (54, '.'), (56, 'She'), (60, 'is'), (63, 'known'), (69, 'for'), (73, 'playing'), (81, 'Kimmy'), (87, 'Gibbler'), (95, 'in'), (98, 'the'), (102, 'ABC'), (106, 'sitcom'), (113, 'Full'), (118, 'House'), (124, 'and'), (128, 'the'), (132, 'Netflix'), (140, 'spin'), (144, '-'), (145, 'off'), (149, 'series'), (156, 'Fuller'), (163, 'House'), (168, '.')])</spacy_tokens>
+<spacy_chunks>[('Andrea Laura Barber', 0, 19), ('an American actress', 35, 54), ('Kimmy Gibbler', 81, 94), ('the ABC sitcom', 98, 112), ('Full House', 113, 123), ('the Netflix spin-off series', 128, 155), ('Fuller House', 156, 168)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NN', 'HYPH', 'RP', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mike Damus</title>
+<link/>https://en.wikipedia.org/wiki/Mike_Damus
+<annotated>0</annotated>
+<originalabstract>Michael Paul "Mike" Damus (born September 30, 1979) is an American actor. He is best known for his starring role as Marty DePolo on the ABC sitcom Teen Angel and co-starring in the film Lost in Yonkers. In addition, Damus also co-starred in Men, Women  Dogs and the TNT series Trust Me.</originalabstract>
+<abstract>Michael_Paul_"_Mike_"_Damus ( born September_30_,_1979 ) is an_American_actor . He is_best_known for his_starring_role as Marty_DePolo on the_ABC_sitcom_Teen_Angel and co-starring in the_film Lost in Yonkers . In addition , Damus also co-starred in Men_,_Women_ and the_TNT_series_Trust_Me .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michael'), (8, 'Paul'), (13, '"'), (14, 'Mike'), (18, '"'), (20, 'Damus'), (26, '('), (27, 'born'), (32, 'September'), (42, '30'), (44, ','), (46, '1979'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, '.'), (74, 'He'), (77, 'is'), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'his'), (99, 'starring'), (108, 'role'), (113, 'as'), (116, 'Marty'), (122, 'DePolo'), (129, 'on'), (132, 'the'), (136, 'ABC'), (140, 'sitcom'), (147, 'Teen'), (152, 'Angel'), (158, 'and'), (162, 'co-starring'), (174, 'in'), (177, 'the'), (181, 'film'), (186, 'Lost'), (191, 'in'), (194, 'Yonkers'), (201, '.'), (203, 'In'), (206, 'addition'), (214, ','), (216, 'Damus'), (222, 'also'), (227, 'co-starred'), (238, 'in'), (241, 'Men'), (244, ','), (246, 'Women'), (252, ''), (254, 'Dogs'), (259, 'and'), (263, 'the'), (267, 'TNT'), (271, 'series'), (278, 'Trust'), (284, 'Me'), (286, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michael Paul "Mike" Damus',0, 25), ('September 30, 1979',32, 50), ('an American actor',55, 72), ('is best known',77, 90), ('his starring role',95, 112), ('Marty DePolo',116, 128), ('the ABC sitcom Teen Angel',132, 157), ('the film',177, 185), ('Men, Women  Dogs',241, 258), ('the TNT series Trust Me',263, 286)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'CC', 'VBG', 'IN', 'DT', 'NN', 'VBD', 'IN', 'NNP', '.', 'IN', 'NN', ',', 'NNP', 'RB', 'VBD', 'IN', 'NN', ',', 'NNP', 'CC', 'NNP', 'CC', 'DT', 'NNP', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michael'), (8, 'Paul'), (13, '"'), (14, 'Mike'), (18, '"'), (20, 'Damus'), (26, '('), (27, 'born'), (32, 'September'), (42, '30'), (44, ','), (46, '1979'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'American'), (67, 'actor'), (72, '.'), (74, 'He'), (77, 'is'), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'his'), (99, 'starring'), (108, 'role'), (113, 'as'), (116, 'Marty'), (122, 'DePolo'), (129, 'on'), (132, 'the'), (136, 'ABC'), (140, 'sitcom'), (147, 'Teen'), (152, 'Angel'), (158, 'and'), (162, 'co'), (164, '-'), (165, 'starring'), (174, 'in'), (177, 'the'), (181, 'film'), (186, 'Lost'), (191, 'in'), (194, 'Yonkers'), (201, '.'), (203, 'In'), (206, 'addition'), (214, ','), (216, 'Damus'), (222, 'also'), (227, 'co'), (229, '-'), (230, 'starred'), (238, 'in'), (241, 'Men'), (244, ','), (246, 'Women'), (253, 'Dogs'), (258, 'and'), (262, 'the'), (266, 'TNT'), (270, 'series'), (277, 'Trust'), (283, 'Me'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('Michael Paul', 0, 12), ('"Mike" Damus', 13, 25), ('September 30, 1979', 32, 50), ('an American actor', 55, 72), ('his starring role', 95, 112), ('Marty DePolo', 116, 128), ('the ABC sitcom', 132, 146), ('Teen Angel', 147, 157), ('co-starring', 162, 173), ('the film', 177, 185), ('Lost in Yonkers', 186, 201), ('addition', 206, 214), ('Men, Women', 241, 251), ('the TNT series', 262, 276), ('Trust Me', 277, 285)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'NN', 'NN', 'IN', 'DT', 'NN', 'VBN', 'IN', 'NNP', '.', 'IN', 'NN', ',', 'NNP', 'RB', 'VBD', 'VBN', 'VBN', 'IN', 'NNP', ',', 'NNPS', 'NNP', 'CC', 'DT', 'NNP', 'NN', 'NNP', 'PRP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Donna Michelle</title>
+<link/>https://en.wikipedia.org/wiki/Donna_Michelle
+<annotated>0</annotated>
+<originalabstract>Donna Michelle Ronne (née Fick; December 8, 1945 – April 9, 2004) was an American model, actress, and photographer.  Known professionally as Donna Michelle, she was Playboy magazine's December 1963 Playmate of the Month and 1964 Playmate of the Year.  Pompeo Posar and Edmund Leja photographed her centerfold images.</originalabstract>
+<abstract>Donna_Michelle_Ronne ( née_Fick ; December_8_,_1945 – April_9_,_2004 ) was an_American_model , actress , and photographer . Known professionally as Donna_Michelle , she was Playboy_magazine 's_December_1963_Playmate of the_Month and 1964_Playmate of the_Year . Pompeo_Posar and Edmund_Leja photographed her_centerfold_images .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Donna'), (6, 'Michelle'), (15, 'Ronne'), (21, '('), (22, 'née'), (26, 'Fick'), (30, ';'), (32, 'December'), (41, '8'), (42, ','), (44, '1945'), (49, '–'), (51, 'April'), (57, '9'), (58, ','), (60, '2004'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'model'), (87, ','), (89, 'actress'), (96, ','), (98, 'and'), (102, 'photographer'), (114, '.'), (117, 'Known'), (123, 'professionally'), (138, 'as'), (141, 'Donna'), (147, 'Michelle'), (155, ','), (157, 'she'), (161, 'was'), (165, 'Playboy'), (173, 'magazine'), (181, '\'s'), (184, 'December'), (193, '1963'), (198, 'Playmate'), (207, 'of'), (210, 'the'), (214, 'Month'), (220, 'and'), (224, '1964'), (229, 'Playmate'), (238, 'of'), (241, 'the'), (245, 'Year'), (249, '.'), (252, 'Pompeo'), (259, 'Posar'), (265, 'and'), (269, 'Edmund'), (276, 'Leja'), (281, 'photographed'), (294, 'her'), (298, 'centerfold'), (309, 'images'), (315, '.')])</stanford_tokens>
+<opennlp_chunks>[('Donna Michelle Ronne',0, 20), ('née Fick',22, 30), ('December 8, 1945',32, 48), ('April 9, 2004',51, 64), ('an American model',70, 87), ('Donna Michelle',141, 155), ('Playboy magazine',165, 181), ('\'s December 1963 Playmate',181, 206), ('the Month',210, 219), ('1964 Playmate',224, 237), ('the Year',241, 249), ('Pompeo Posar',252, 264), ('Edmund Leja',269, 280), ('her centerfold images',294, 315)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'JJ', 'NN', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NNP', '.', 'VBN', 'RB', 'IN', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'NNP', 'NN', 'POS', 'NNP', 'CD', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'CD', 'NNP', 'IN', 'DT', 'NN', '.', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'VBD', 'PRP$', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Donna'), (6, 'Michelle'), (15, 'Ronne'), (21, '('), (22, 'née'), (26, 'Fick'), (30, ';'), (32, 'December'), (41, '8'), (42, ','), (44, '1945'), (49, '–'), (51, 'April'), (57, '9'), (58, ','), (60, '2004'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'American'), (82, 'model'), (87, ','), (89, 'actress'), (96, ','), (98, 'and'), (102, 'photographer'), (114, '.'), (117, 'Known'), (123, 'professionally'), (138, 'as'), (141, 'Donna'), (147, 'Michelle'), (155, ','), (157, 'she'), (161, 'was'), (165, 'Playboy'), (173, 'magazine'), (181, "'s"), (184, 'December'), (193, '1963'), (198, 'Playmate'), (207, 'of'), (210, 'the'), (214, 'Month'), (220, 'and'), (224, '1964'), (229, 'Playmate'), (238, 'of'), (241, 'the'), (245, 'Year'), (249, '.'), (252, 'Pompeo'), (259, 'Posar'), (265, 'and'), (269, 'Edmund'), (276, 'Leja'), (281, 'photographed'), (294, 'her'), (298, 'centerfold'), (309, 'images'), (315, '.')])</spacy_tokens>
+<spacy_chunks>[('Donna Michelle Ronne', 0, 20), ('née Fick', 22, 30), ('December 8, 1945', 32, 48), ('April 9, 2004', 51, 64), ('an American model', 70, 87), ('Actress', 89, 96), ('Photographer', 102, 114), ("Playboy magazine's December 1963 Playmate", 165, 206), ('the Month', 210, 219), ('1964 Playmate', 224, 237), ('the Year', 241, 249), ('Pompeo Posar', 252, 264), ('Edmund Leja', 269, 280), ('her centerfold images', 294, 315)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'VBN', 'RB', 'IN', 'NNP', 'NNP', ',', 'PRP', 'VBD', 'NNP', 'NN', 'POS', 'NNP', 'CD', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'CD', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'VBD', 'PRP$', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maud Durbin</title>
+<link/>https://en.wikipedia.org/wiki/Maud_Durbin
+<annotated>0</annotated>
+<originalabstract>Maud Durbin (November 9, 1871 – December 25, 1936) was an American actress. She was the wife of actor Otis Skinner and the mother of actress and author Cornelia Otis Skinner.</originalabstract>
+<abstract>Maud_Durbin ( November_9_,_1871 – December_25_,_1936 ) was an_American_actress . She was the_wife of actor_Otis_Skinner and the_mother of actress_and_author_Cornelia_Otis_Skinner .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maud'), (5, 'Durbin'), (12, '('), (13, 'November'), (22, '9'), (23, ','), (25, '1871'), (30, '–'), (32, 'December'), (41, '25'), (43, ','), (45, '1936'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actress'), (74, '.'), (76, 'She'), (80, 'was'), (84, 'the'), (88, 'wife'), (93, 'of'), (96, 'actor'), (102, 'Otis'), (107, 'Skinner'), (115, 'and'), (119, 'the'), (123, 'mother'), (130, 'of'), (133, 'actress'), (141, 'and'), (145, 'author'), (152, 'Cornelia'), (161, 'Otis'), (166, 'Skinner'), (173, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maud Durbin',0, 11), ('November 9, 1871',13, 29), ('December 25, 1936',32, 49), ('an American actress',55, 74), ('the wife',84, 92), ('actor Otis Skinner',96, 114), ('the mother',119, 129), ('actress and author Cornelia Otis Skinner',133, 173)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'DT', 'NN', 'IN', 'NN', 'CC', 'NN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maud'), (5, 'Durbin'), (12, '('), (13, 'November'), (22, '9'), (23, ','), (25, '1871'), (30, '–'), (32, 'December'), (41, '25'), (43, ','), (45, '1936'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actress'), (74, '.'), (76, 'She'), (80, 'was'), (84, 'the'), (88, 'wife'), (93, 'of'), (96, 'actor'), (102, 'Otis'), (107, 'Skinner'), (115, 'and'), (119, 'the'), (123, 'mother'), (130, 'of'), (133, 'actress'), (141, 'and'), (145, 'author'), (152, 'Cornelia'), (161, 'Otis'), (166, 'Skinner'), (173, '.')])</spacy_tokens>
+<spacy_chunks>[('Maud Durbin', 0, 11), ('(November', 12, 21), ('November 9, 1871', 13, 29), ('December 25, 1936', 32, 49), ('an American actress', 55, 74), ('the wife', 84, 92), ('actor Otis Skinner', 96, 114), ('the mother', 119, 129), ('author Cornelia Otis Skinner', 145, 173)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'DT', 'NN', 'IN', 'NN', 'CC', 'NN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

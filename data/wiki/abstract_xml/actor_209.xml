@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Todd Armstrong</title>
+<link/>https://en.wikipedia.org/wiki/Todd_Armstrong
+<annotated>0</annotated>
+<originalabstract>Todd Armstrong (July 25, 1937 – November 17, 1992) was an American actor in ten films and several television series.
+He is probably best known for playing the titular role of Jason in the film Jason and the Argonauts (1963). He had also starred, during 1961, in the later segments of the syndicated crime drama Manhunt.</originalabstract>
+<abstract>Todd_Armstrong ( July_25_,_1937 – November_17_,_1992 ) was an_American_actor in ten_films and several_television_series . He is_probably_best_known for playing the_titular_role of Jason in the_film Jason and the_Argonauts ( 1963_) . He had_also_starred , during 1961 , in the_later_segments of the_syndicated_crime_drama_Manhunt .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Todd'), (5, 'Armstrong'), (15, '('), (16, 'July'), (21, '25'), (23, ','), (25, '1937'), (30, '–'), (32, 'November'), (41, '17'), (43, ','), (45, '1992'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'in'), (76, 'ten'), (80, 'films'), (86, 'and'), (90, 'several'), (98, 'television'), (109, 'series'), (115, '.'), (117, 'He'), (120, 'is'), (123, 'probably'), (132, 'best'), (137, 'known'), (143, 'for'), (147, 'playing'), (155, 'the'), (159, 'titular'), (167, 'role'), (172, 'of'), (175, 'Jason'), (181, 'in'), (184, 'the'), (188, 'film'), (193, 'Jason'), (199, 'and'), (203, 'the'), (207, 'Argonauts'), (217, '('), (218, '1963'), (222, ')'), (223, '.'), (225, 'He'), (228, 'had'), (232, 'also'), (237, 'starred'), (244, ','), (246, 'during'), (253, '1961'), (257, ','), (259, 'in'), (262, 'the'), (266, 'later'), (272, 'segments'), (281, 'of'), (284, 'the'), (288, 'syndicated'), (299, 'crime'), (305, 'drama'), (311, 'Manhunt'), (318, '.')])</stanford_tokens>
+<opennlp_chunks>[('Todd Armstrong',0, 14), ('July 25, 1937',16, 29), ('November 17, 1992',32, 49), ('an American actor',55, 72), ('ten films',76, 85), ('several television series',90, 115), ('is probably best known',120, 142), ('the titular role',155, 171), ('the film',184, 192), ('the Argonauts',203, 216), ('1963)',218, 223), ('had also starred',228, 244), ('the later segments',262, 280), ('the syndicated crime drama Manhunt',284, 318)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'CD', 'NNS', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'CC', 'DT', 'NNS', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'RB', 'VBN', ',', 'IN', 'CD', ',', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'VBN', 'NN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Todd'), (5, 'Armstrong'), (15, '('), (16, 'July'), (21, '25'), (23, ','), (25, '1937'), (30, '–'), (32, 'November'), (41, '17'), (43, ','), (45, '1992'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'in'), (76, 'ten'), (80, 'films'), (86, 'and'), (90, 'several'), (98, 'television'), (109, 'series'), (115, '.'), (117, 'He'), (120, 'is'), (123, 'probably'), (132, 'best'), (137, 'known'), (143, 'for'), (147, 'playing'), (155, 'the'), (159, 'titular'), (167, 'role'), (172, 'of'), (175, 'Jason'), (181, 'in'), (184, 'the'), (188, 'film'), (193, 'Jason'), (199, 'and'), (203, 'the'), (207, 'Argonauts'), (217, '('), (218, '1963'), (222, ')'), (223, '.'), (225, 'He'), (228, 'had'), (232, 'also'), (237, 'starred'), (244, ','), (246, 'during'), (253, '1961'), (257, ','), (259, 'in'), (262, 'the'), (266, 'later'), (272, 'segments'), (281, 'of'), (284, 'the'), (288, 'syndicated'), (299, 'crime'), (305, 'drama'), (311, 'Manhunt'), (318, '.')])</spacy_tokens>
+<spacy_chunks>[('Todd Armstrong', 0, 14), ('July 25, 1937', 16, 29), ('November 17, 1992', 32, 49), ('an American actor', 55, 72), ('ten films', 76, 85), ('several television series', 90, 115), ('the titular role', 155, 171), ('the film', 184, 192), ('Jason and the Argonauts (1963', 193, 222), ('the later segments', 262, 280), ('the syndicated crime drama Manhunt', 284, 318)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'CD', 'NNS', 'CC', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'CC', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'VBD', 'RB', 'VBN', ',', 'IN', 'CD', ',', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'VBN', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frank Clark (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Frank_Clark_(actor)
+<annotated>0</annotated>
+<originalabstract>Frank Clark (December 22, 1857 – April 10, 1945) was an American actor of the silent era. He appeared in 197 films between 1910 and 1938. He was born in Cincinnati, Ohio and died in Woodland Hills, Los Angeles.</originalabstract>
+<abstract>Frank_Clark ( December_22_,_1857 – April_10_,_1945 ) was an_American_actor of the_silent_era . He appeared in 197_films between 1910_and_1938 . He was_born in Cincinnati_,_Ohio_and died in Woodland_Hills , Los_Angeles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frank'), (6, 'Clark'), (12, '('), (13, 'December'), (22, '22'), (24, ','), (26, '1857'), (31, '–'), (33, 'April'), (39, '10'), (41, ','), (43, '1945'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (71, 'of'), (74, 'the'), (78, 'silent'), (85, 'era'), (88, '.'), (90, 'He'), (93, 'appeared'), (102, 'in'), (105, '197'), (109, 'films'), (115, 'between'), (123, '1910'), (128, 'and'), (132, '1938'), (136, '.'), (138, 'He'), (141, 'was'), (145, 'born'), (150, 'in'), (153, 'Cincinnati'), (163, ','), (165, 'Ohio'), (170, 'and'), (174, 'died'), (179, 'in'), (182, 'Woodland'), (191, 'Hills'), (196, ','), (198, 'Los'), (202, 'Angeles'), (209, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frank Clark',0, 11), ('December 22, 1857',13, 30), ('April 10, 1945',33, 47), ('an American actor',53, 70), ('the silent era',74, 88), ('197 films',105, 114), ('1910 and 1938',123, 136), ('was born',141, 149), ('Cincinnati, Ohio and',153, 173), ('Woodland Hills',182, 196), ('Los Angeles',198, 209)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frank'), (6, 'Clark'), (12, '('), (13, 'December'), (22, '22'), (24, ','), (26, '1857'), (31, '–'), (33, 'April'), (39, '10'), (41, ','), (43, '1945'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (71, 'of'), (74, 'the'), (78, 'silent'), (85, 'era'), (88, '.'), (90, 'He'), (93, 'appeared'), (102, 'in'), (105, '197'), (109, 'films'), (115, 'between'), (123, '1910'), (128, 'and'), (132, '1938'), (136, '.'), (138, 'He'), (141, 'was'), (145, 'born'), (150, 'in'), (153, 'Cincinnati'), (163, ','), (165, 'Ohio'), (170, 'and'), (174, 'died'), (179, 'in'), (182, 'Woodland'), (191, 'Hills'), (196, ','), (198, 'Los'), (202, 'Angeles'), (209, '.')])</spacy_tokens>
+<spacy_chunks>[('Frank Clark', 0, 11), ('(December', 12, 21), ('December 22, 1857', 13, 30), ('– April', 31, 38), ('April 10, 1945', 33, 47), ('an American actor', 53, 70), ('the silent era', 74, 88), ('197 films', 105, 114), ('Cincinnati, Ohio', 153, 169), ('Woodland Hills, Los Angeles', 182, 209)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

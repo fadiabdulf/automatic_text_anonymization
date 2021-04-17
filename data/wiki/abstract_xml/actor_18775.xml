@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jeanne Marie-Laurent</title>
+<link/>https://en.wikipedia.org/wiki/Jeanne_Marie-Laurent
+<annotated>0</annotated>
+<originalabstract>Jeanne Marie-Laurent (September 1, 1877 – April 7, 1964) was a French film actress. She appeared in more than ninety films during her career, including the 1932 thriller Narcotics.</originalabstract>
+<abstract>Jeanne_Marie-Laurent ( September_1_,_1877 – April_7_,_1964 ) was a_French_film_actress . She appeared in more_than_ninety_films during her_career , including the_1932_thriller_Narcotics .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jeanne'), (7, 'Marie-Laurent'), (21, '('), (22, 'September'), (32, '1'), (33, ','), (35, '1877'), (40, '–'), (42, 'April'), (48, '7'), (49, ','), (51, '1964'), (55, ')'), (57, 'was'), (61, 'a'), (63, 'French'), (70, 'film'), (75, 'actress'), (82, '.'), (84, 'She'), (88, 'appeared'), (97, 'in'), (100, 'more'), (105, 'than'), (110, 'ninety'), (117, 'films'), (123, 'during'), (130, 'her'), (134, 'career'), (140, ','), (142, 'including'), (152, 'the'), (156, '1932'), (161, 'thriller'), (170, 'Narcotics'), (179, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jeanne Marie-Laurent',0, 20), ('September 1, 1877',22, 39), ('April 7, 1964',42, 55), ('a French film actress',61, 82), ('more than ninety films',100, 122), ('her career',130, 140), ('the 1932 thriller Narcotics',152, 179)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', ',', 'VBG', 'DT', 'CD', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jeanne'), (7, 'Marie'), (12, '-'), (13, 'Laurent'), (21, '('), (22, 'September'), (32, '1'), (33, ','), (35, '1877'), (40, '–'), (42, 'April'), (48, '7'), (49, ','), (51, '1964'), (55, ')'), (57, 'was'), (61, 'a'), (63, 'French'), (70, 'film'), (75, 'actress'), (82, '.'), (84, 'She'), (88, 'appeared'), (97, 'in'), (100, 'more'), (105, 'than'), (110, 'ninety'), (117, 'films'), (123, 'during'), (130, 'her'), (134, 'career'), (140, ','), (142, 'including'), (152, 'the'), (156, '1932'), (161, 'thriller'), (170, 'Narcotics'), (179, '.')])</spacy_tokens>
+<spacy_chunks>[('Jeanne Marie-Laurent', 0, 20), ('(September', 21, 31), ('September 1, 1877', 22, 39), ('April 7, 1964', 42, 55), ('a French film actress', 61, 82), ('more than ninety films', 100, 122), ('her career', 130, 140), ('the 1932 thriller', 152, 169), ('Narcotics', 170, 179)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'PRP$', 'NN', ',', 'VBG', 'DT', 'CD', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

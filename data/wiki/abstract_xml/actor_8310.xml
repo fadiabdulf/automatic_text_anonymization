@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alexander Hanson (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Alexander_Hanson_(actor)
+<annotated>0</annotated>
+<originalabstract>Alexander Harald St John Hanson-Akins (born 28 April 1961) is a Norwegian-born British stage actor who has appeared in numerous plays and musicals in the West End, and also on Broadway.</originalabstract>
+<abstract>Alexander_Harald_St_John_Hanson-Akins ( born 28_April_1961 ) is a_Norwegian-born_British_stage_actor who has_appeared in numerous_plays_and_musicals in the_West_End , and also on Broadway .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alexander'), (10, 'Harald'), (17, 'St'), (20, 'John'), (25, 'Hanson-Akins'), (38, '('), (39, 'born'), (44, '28'), (47, 'April'), (53, '1961'), (57, ')'), (59, 'is'), (62, 'a'), (64, 'Norwegian-born'), (79, 'British'), (87, 'stage'), (93, 'actor'), (99, 'who'), (103, 'has'), (107, 'appeared'), (116, 'in'), (119, 'numerous'), (128, 'plays'), (134, 'and'), (138, 'musicals'), (147, 'in'), (150, 'the'), (154, 'West'), (159, 'End'), (162, ','), (164, 'and'), (168, 'also'), (173, 'on'), (176, 'Broadway'), (184, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alexander Harald St John Hanson-Akins',0, 37), ('28 April 1961',44, 57), ('a Norwegian-born British stage actor',62, 98), ('has appeared',103, 115), ('numerous plays and musicals',119, 146), ('the West End',150, 162)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'CC', 'NNS', 'IN', 'DT', 'NNP', 'NNP', ',', 'CC', 'RB', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alexander'), (10, 'Harald'), (17, 'St'), (20, 'John'), (25, 'Hanson'), (31, '-'), (32, 'Akins'), (38, '('), (39, 'born'), (44, '28'), (47, 'April'), (53, '1961'), (57, ')'), (59, 'is'), (62, 'a'), (64, 'Norwegian'), (73, '-'), (74, 'born'), (79, 'British'), (87, 'stage'), (93, 'actor'), (99, 'who'), (103, 'has'), (107, 'appeared'), (116, 'in'), (119, 'numerous'), (128, 'plays'), (134, 'and'), (138, 'musicals'), (147, 'in'), (150, 'the'), (154, 'West'), (159, 'End'), (162, ','), (164, 'and'), (168, 'also'), (173, 'on'), (176, 'Broadway'), (184, '.')])</spacy_tokens>
+<spacy_chunks>[('Alexander Harald St John Hanson-Akins', 0, 37), ('28 April 1961', 44, 57), ('a Norwegian-born British stage actor', 62, 98), ('numerous plays', 119, 133), ('musicals', 138, 146), ('the West End', 150, 162), ('Broadway', 176, 184)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', 'CC', 'NNS', 'IN', 'DT', 'NNP', 'NNP', ',', 'CC', 'RB', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

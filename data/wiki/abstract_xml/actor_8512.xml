@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ross Kemp</title>
+<link/>https://en.wikipedia.org/wiki/Ross_Kemp
+<annotated>0</annotated>
+<originalabstract>Ross James Kemp  (born 21 July 1964) is an English actor, author and investigative journalist. He rose to prominence in the role of Grant Mitchell in the BBC soap opera EastEnders. Since 2004, Kemp has received international recognition as a journalist for the BAFTA Award-winning documentary series Ross Kemp on Gangs.</originalabstract>
+<abstract>Ross_James_Kemp ( born 21_July_1964 ) is an_English_actor_,_author_and_investigative_journalist . He rose to prominence in the_role of Grant_Mitchell in the_BBC_soap_opera_EastEnders . Since 2004 , Kemp has_received international_recognition as a_journalist for the_BAFTA_Award-winning_documentary_series_Ross_Kemp on Gangs .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ross'), (5, 'James'), (11, 'Kemp'), (17, '('), (18, 'born'), (23, '21'), (26, 'July'), (31, '1964'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actor'), (56, ','), (58, 'author'), (65, 'and'), (69, 'investigative'), (83, 'journalist'), (93, '.'), (95, 'He'), (98, 'rose'), (103, 'to'), (106, 'prominence'), (117, 'in'), (120, 'the'), (124, 'role'), (129, 'of'), (132, 'Grant'), (138, 'Mitchell'), (147, 'in'), (150, 'the'), (154, 'BBC'), (158, 'soap'), (163, 'opera'), (169, 'EastEnders'), (179, '.'), (181, 'Since'), (187, '2004'), (191, ','), (193, 'Kemp'), (198, 'has'), (202, 'received'), (211, 'international'), (225, 'recognition'), (237, 'as'), (240, 'a'), (242, 'journalist'), (253, 'for'), (257, 'the'), (261, 'BAFTA'), (267, 'Award-winning'), (281, 'documentary'), (293, 'series'), (300, 'Ross'), (305, 'Kemp'), (310, 'on'), (313, 'Gangs'), (318, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ross James Kemp',0, 15), ('21 July 1964',23, 35), ('an English actor, author and investigative journalist',40, 93), ('the role',120, 128), ('Grant Mitchell',132, 146), ('the BBC soap opera EastEnders',150, 179), ('has received',198, 210), ('international recognition',211, 236), ('a journalist',240, 252), ('the BAFTA Award-winning documentary series Ross Kemp',257, 309)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBD', 'TO', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.', 'IN', 'CD', ',', 'NNP', 'VBZ', 'VBN', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ross'), (5, 'James'), (11, 'Kemp'), (17, '('), (18, 'born'), (23, '21'), (26, 'July'), (31, '1964'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actor'), (56, ','), (58, 'author'), (65, 'and'), (69, 'investigative'), (83, 'journalist'), (93, '.'), (95, 'He'), (98, 'rose'), (103, 'to'), (106, 'prominence'), (117, 'in'), (120, 'the'), (124, 'role'), (129, 'of'), (132, 'Grant'), (138, 'Mitchell'), (147, 'in'), (150, 'the'), (154, 'BBC'), (158, 'soap'), (163, 'opera'), (169, 'EastEnders'), (179, '.'), (181, 'Since'), (187, '2004'), (191, ','), (193, 'Kemp'), (198, 'has'), (202, 'received'), (211, 'international'), (225, 'recognition'), (237, 'as'), (240, 'a'), (242, 'journalist'), (253, 'for'), (257, 'the'), (261, 'BAFTA'), (267, 'Award'), (272, '-'), (273, 'winning'), (281, 'documentary'), (293, 'series'), (300, 'Ross'), (305, 'Kemp'), (310, 'on'), (313, 'Gangs'), (318, '.')])</spacy_tokens>
+<spacy_chunks>[('Ross James Kemp', 0, 15), ('21 July 1964', 23, 35), ('an English actor', 40, 56), ('author', 58, 64), ('investigative journalist', 69, 93), ('prominence', 106, 116), ('the role', 120, 128), ('Grant Mitchell', 132, 146), ('the BBC soap opera', 150, 168), ('EastEnders', 169, 179), ('international recognition', 211, 236), ('a journalist', 240, 252), ('the BAFTA Award-winning documentary series', 257, 299), ('Ross Kemp on Gangs', 300, 318)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'NN', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.', 'IN', 'CD', ',', 'NNP', 'VBZ', 'VBN', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'HYPH', 'VBG', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Herman Timberg</title>
+<link/>https://en.wikipedia.org/wiki/Herman_Timberg
+<annotated>0</annotated>
+<originalabstract>Herman Timberg (April 18, 1891 – April 16, 1952) was a vaudevillian, actor and songwriter, a writer of sketches and dialogue for vaudeville and musicals, "active in nearly every field of show business." He was the brother of composer Sammy Timberg and uncle of the journalist Robert Timberg.</originalabstract>
+<abstract>Herman_Timberg ( April_18_,_1891 – April_16_,_1952 ) was a_vaudevillian_,_actor_and_songwriter , a_writer of sketches and dialogue for vaudeville_and_musicals , " active in nearly_every_field of show_business . " He was the_brother of composer_Sammy_Timberg and uncle of the_journalist_Robert_Timberg .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Herman'), (7, 'Timberg'), (15, '('), (16, 'April'), (22, '18'), (24, ','), (26, '1891'), (31, '–'), (33, 'April'), (39, '16'), (41, ','), (43, '1952'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'vaudevillian'), (67, ','), (69, 'actor'), (75, 'and'), (79, 'songwriter'), (89, ','), (91, 'a'), (93, 'writer'), (100, 'of'), (103, 'sketches'), (112, 'and'), (116, 'dialogue'), (125, 'for'), (129, 'vaudeville'), (140, 'and'), (144, 'musicals'), (152, ','), (154, '"'), (155, 'active'), (162, 'in'), (165, 'nearly'), (172, 'every'), (178, 'field'), (184, 'of'), (187, 'show'), (192, 'business'), (200, '.'), (201, '"'), (203, 'He'), (206, 'was'), (210, 'the'), (214, 'brother'), (222, 'of'), (225, 'composer'), (234, 'Sammy'), (240, 'Timberg'), (248, 'and'), (252, 'uncle'), (258, 'of'), (261, 'the'), (265, 'journalist'), (276, 'Robert'), (283, 'Timberg'), (290, '.')])</stanford_tokens>
+<opennlp_chunks>[('Herman Timberg',0, 14), ('April 18, 1891',16, 30), ('April 16, 1952',33, 47), ('a vaudevillian, actor and songwriter',53, 89), ('a writer',91, 99), ('vaudeville and musicals',129, 152), ('nearly every field',165, 183), ('show business',187, 200), ('the brother',210, 221), ('composer Sammy Timberg',225, 247), ('the journalist Robert Timberg',261, 290)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'NN', 'CC', 'NN', ',', 'DT', 'NN', 'IN', 'NNS', 'CC', 'NN', 'IN', 'NN', 'CC', 'NNS', ',', '``', 'JJ', 'IN', 'RB', 'DT', 'NN', 'IN', 'NN', 'NN', '.', '\'\'', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Herman'), (7, 'Timberg'), (15, '('), (16, 'April'), (22, '18'), (24, ','), (26, '1891'), (31, '–'), (33, 'April'), (39, '16'), (41, ','), (43, '1952'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'vaudevillian'), (67, ','), (69, 'actor'), (75, 'and'), (79, 'songwriter'), (89, ','), (91, 'a'), (93, 'writer'), (100, 'of'), (103, 'sketches'), (112, 'and'), (116, 'dialogue'), (125, 'for'), (129, 'vaudeville'), (140, 'and'), (144, 'musicals'), (152, ','), (154, '"'), (155, 'active'), (162, 'in'), (165, 'nearly'), (172, 'every'), (178, 'field'), (184, 'of'), (187, 'show'), (192, 'business'), (200, '.'), (201, '"'), (203, 'He'), (206, 'was'), (210, 'the'), (214, 'brother'), (222, 'of'), (225, 'composer'), (234, 'Sammy'), (240, 'Timberg'), (248, 'and'), (252, 'uncle'), (258, 'of'), (261, 'the'), (265, 'journalist'), (276, 'Robert'), (283, 'Timberg'), (290, '.')])</spacy_tokens>
+<spacy_chunks>[('Herman Timberg', 0, 14), ('April 18, 1891', 16, 30), ('April 16, 1952', 33, 47), ('songwriter', 79, 89), ('a writer', 91, 99), ('sketches', 103, 111), ('dialogue', 116, 124), ('vaudeville', 129, 139), ('musicals', 144, 152), ('nearly every field', 165, 183), ('show business', 187, 200), ('the brother', 210, 221), ('composer Sammy Timberg', 225, 247), ('the journalist', 261, 275), ('Robert Timberg', 276, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', ',', 'NN', 'CC', 'NN', ',', 'DT', 'NN', 'IN', 'NNS', 'CC', 'NN', 'IN', 'NN', 'CC', 'NNS', ',', "''", 'JJ', 'IN', 'RB', 'DT', 'NN', 'IN', 'NN', 'NN', '.', "''", 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'CC', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

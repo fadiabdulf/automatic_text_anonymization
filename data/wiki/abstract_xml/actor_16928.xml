@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jennie Linden</title>
+<link/>https://en.wikipedia.org/wiki/Jennie_Linden
+<annotated>0</annotated>
+<originalabstract>Jennie Linden (born 8 December 1939) is an English film and television actress. She is best known for her role in the film Women in Love (1969).</originalabstract>
+<abstract>Jennie_Linden ( born_8_December_1939 ) is an_English_film_and_television_actress . She is_best_known for her_role in the_film_Women in Love_(_1969_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jennie'), (7, 'Linden'), (14, '('), (15, 'born'), (20, '8'), (22, 'December'), (31, '1939'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'film'), (56, 'and'), (60, 'television'), (71, 'actress'), (78, '.'), (80, 'She'), (84, 'is'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'her'), (106, 'role'), (111, 'in'), (114, 'the'), (118, 'film'), (123, 'Women'), (129, 'in'), (132, 'Love'), (137, '('), (138, '1969'), (142, ')'), (143, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jennie Linden',0, 13), ('born 8 December 1939',15, 35), ('an English film and television actress',40, 78), ('is best known',84, 97), ('her role',102, 110), ('the film Women',114, 128), ('Love (1969)',132, 143)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNS', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jennie'), (7, 'Linden'), (14, '('), (15, 'born'), (20, '8'), (22, 'December'), (31, '1939'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'film'), (56, 'and'), (60, 'television'), (71, 'actress'), (78, '.'), (80, 'She'), (84, 'is'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'her'), (106, 'role'), (111, 'in'), (114, 'the'), (118, 'film'), (123, 'Women'), (129, 'in'), (132, 'Love'), (137, '('), (138, '1969'), (142, ')'), (143, '.')])</spacy_tokens>
+<spacy_chunks>[('Jennie Linden', 0, 13), ('8 December 1939', 20, 35), ('an English film and television actress', 40, 78), ('her role', 102, 110), ('the film', 114, 122), ('Women in Love', 123, 136)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

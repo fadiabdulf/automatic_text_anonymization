@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles Kent (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Charles_Kent_(actor)
+<annotated>0</annotated>
+<originalabstract>Charles Kent (18 June 1852 – 21 May 1923) was a British-born American silent film actor and director.  He appeared in 141 films between 1908 and 1923.  He also directed 36 films between 1908 and 1913. He was born in London, United  Kingdom, and died in Brooklyn, New York, United States.</originalabstract>
+<abstract>Charles_Kent ( 18_June_1852 – 21_May_1923 ) was a_British-born_American_silent_film_actor_and_director . He appeared in 141_films between 1908_and_1923 . He also directed 36_films between 1908_and_1913 . He was_born in London , United_Kingdom , and died in Brooklyn , New_York , United_States .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Kent'), (13, '('), (14, '18'), (17, 'June'), (22, '1852'), (27, '–'), (29, '21'), (32, 'May'), (36, '1923'), (40, ')'), (42, 'was'), (46, 'a'), (48, 'British-born'), (61, 'American'), (70, 'silent'), (77, 'film'), (82, 'actor'), (88, 'and'), (92, 'director'), (100, '.'), (103, 'He'), (106, 'appeared'), (115, 'in'), (118, '141'), (122, 'films'), (128, 'between'), (136, '1908'), (141, 'and'), (145, '1923'), (149, '.'), (152, 'He'), (155, 'also'), (160, 'directed'), (169, '36'), (172, 'films'), (178, 'between'), (186, '1908'), (191, 'and'), (195, '1913'), (199, '.'), (201, 'He'), (204, 'was'), (208, 'born'), (213, 'in'), (216, 'London'), (222, ','), (224, 'United'), (232, 'Kingdom'), (239, ','), (241, 'and'), (245, 'died'), (250, 'in'), (253, 'Brooklyn'), (261, ','), (263, 'New'), (267, 'York'), (271, ','), (273, 'United'), (280, 'States'), (286, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Kent',0, 12), ('18 June 1852',14, 26), ('21 May 1923',29, 40), ('a British-born American silent film actor and director',46, 100), ('141 films',118, 127), ('1908 and 1923',136, 149), ('36 films',169, 177), ('1908 and 1913',186, 199), ('was born',204, 212), ('United  Kingdom',224, 239), ('New York',263, 271), ('United States',273, 286)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Kent'), (13, '('), (14, '18'), (17, 'June'), (22, '1852'), (27, '–'), (29, '21'), (32, 'May'), (36, '1923'), (40, ')'), (42, 'was'), (46, 'a'), (48, 'British'), (55, '-'), (56, 'born'), (61, 'American'), (70, 'silent'), (77, 'film'), (82, 'actor'), (88, 'and'), (92, 'director'), (100, '.'), (103, 'He'), (106, 'appeared'), (115, 'in'), (118, '141'), (122, 'films'), (128, 'between'), (136, '1908'), (141, 'and'), (145, '1923'), (149, '.'), (152, 'He'), (155, 'also'), (160, 'directed'), (169, '36'), (172, 'films'), (178, 'between'), (186, '1908'), (191, 'and'), (195, '1913'), (199, '.'), (201, 'He'), (204, 'was'), (208, 'born'), (213, 'in'), (216, 'London'), (222, ','), (224, 'United'), (232, 'Kingdom'), (239, ','), (241, 'and'), (245, 'died'), (250, 'in'), (253, 'Brooklyn'), (261, ','), (263, 'New'), (267, 'York'), (271, ','), (273, 'United'), (280, 'States'), (286, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Kent', 0, 12), ('18 June 1852', 14, 26), ('21 May 1923', 29, 40), ('a British-born American silent film actor', 46, 87), ('director', 92, 100), ('141 films', 118, 127), ('36 films', 169, 177), ('London', 216, 222), ('United', 224, 230), ('Kingdom', 232, 239), ('Brooklyn, New York', 253, 271), ('United States', 273, 286)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'RB', 'VBD', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

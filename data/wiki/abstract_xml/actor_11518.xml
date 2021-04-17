@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sheila Dabney</title>
+<link/>https://en.wikipedia.org/wiki/Sheila_Dabney
+<annotated>0</annotated>
+<originalabstract>Sheila Dabney is an African-American actor, best known for her co-starring role in the 1987 lesbian feminist film She Must Be Seeing Things alongside Lois Weaver and directed by Sheila McLaughlin.In 1984, Dabney won an Obie Award for her performance as Sarita in Maria Irene Fornés' play Sarita.</originalabstract>
+<abstract>Sheila_Dabney is an_African-American_actor , best_known for her_co-starring_role in the_1987_lesbian_feminist_film She Must_Be_Seeing Things alongside Lois_Weaver and directed by Sheila_McLaughlin.In_1984 , Dabney won an_Obie_Award for her_performance as Sarita in Maria_Irene_Fornés '_play_Sarita .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sheila'), (7, 'Dabney'), (14, 'is'), (17, 'an'), (20, 'African-American'), (37, 'actor'), (42, ','), (44, 'best'), (49, 'known'), (55, 'for'), (59, 'her'), (63, 'co-starring'), (75, 'role'), (80, 'in'), (83, 'the'), (87, '1987'), (92, 'lesbian'), (100, 'feminist'), (109, 'film'), (114, 'She'), (118, 'Must'), (123, 'Be'), (126, 'Seeing'), (133, 'Things'), (140, 'alongside'), (150, 'Lois'), (155, 'Weaver'), (162, 'and'), (166, 'directed'), (175, 'by'), (178, 'Sheila'), (185, 'McLaughlin.In'), (199, '1984'), (203, ','), (205, 'Dabney'), (212, 'won'), (216, 'an'), (219, 'Obie'), (224, 'Award'), (230, 'for'), (234, 'her'), (238, 'performance'), (250, 'as'), (253, 'Sarita'), (260, 'in'), (263, 'Maria'), (269, 'Irene'), (275, 'Fornés'), (281, '\''), (283, 'play'), (288, 'Sarita'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sheila Dabney',0, 13), ('an African-American actor',17, 42), ('best known',44, 54), ('her co-starring role',59, 79), ('the 1987 lesbian feminist film',83, 113), ('Must Be Seeing',118, 132), ('Lois Weaver',150, 161), ('Sheila McLaughlin.In 1984',178, 203), ('an Obie Award',216, 229), ('her performance',234, 249), ('Maria Irene Fornés',263, 281), ('\' play Sarita',281, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'CD', 'JJ', 'JJ', 'NN', 'PRP', 'MD', 'VB', 'VBG', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'VBN', 'IN', 'NNP', 'NNP', 'CD', ',', 'NNP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sheila'), (7, 'Dabney'), (14, 'is'), (17, 'an'), (20, 'African'), (27, '-'), (28, 'American'), (37, 'actor'), (42, ','), (44, 'best'), (49, 'known'), (55, 'for'), (59, 'her'), (63, 'co'), (65, '-'), (66, 'starring'), (75, 'role'), (80, 'in'), (83, 'the'), (87, '1987'), (92, 'lesbian'), (100, 'feminist'), (109, 'film'), (114, 'She'), (118, 'Must'), (123, 'Be'), (126, 'Seeing'), (133, 'Things'), (140, 'alongside'), (150, 'Lois'), (155, 'Weaver'), (162, 'and'), (166, 'directed'), (175, 'by'), (178, 'Sheila'), (185, 'McLaughlin'), (195, '.'), (196, 'In'), (199, '1984'), (203, ','), (205, 'Dabney'), (212, 'won'), (216, 'an'), (219, 'Obie'), (224, 'Award'), (230, 'for'), (234, 'her'), (238, 'performance'), (250, 'as'), (253, 'Sarita'), (260, 'in'), (263, 'Maria'), (269, 'Irene'), (275, 'Fornés'), (281, "'"), (283, 'play'), (288, 'Sarita'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Sheila Dabney', 0, 13), ('an African-American actor', 17, 42), ('her co-starring role', 59, 79), ('the 1987 lesbian feminist film', 83, 113), ('She Must Be Seeing Things', 114, 139), ('Lois Weaver', 150, 161), ('Sheila McLaughlin', 178, 195), ('an Obie Award', 216, 229), ('her performance', 234, 249), ('Sarita', 253, 259), ('Maria Irene Fornés', 263, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'CD', 'JJ', 'JJ', 'NN', 'PRP', 'MD', 'VB', 'VBG', 'NNS', 'IN', 'NNP', 'NNP', 'CC', 'VBN', 'IN', 'NNP', 'NNP', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

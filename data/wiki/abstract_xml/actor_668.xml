@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Monte Blue</title>
+<link/>https://en.wikipedia.org/wiki/Monte_Blue
+<annotated>0</annotated>
+<originalabstract>Monte Blue (born Gerard Montgomery Bluefeather, January 11, 1887 – February 18, 1963) was a movie actor who began his career as a romantic leading man in the silent film era, and later progressed to character roles.</originalabstract>
+<abstract>Monte_Blue ( born Gerard_Montgomery_Bluefeather , January_11_,_1887 – February_18_,_1963 ) was a_movie_actor who began his_career as a_romantic_leading_man in the_silent_film_era , and later_progressed to character_roles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Monte'), (6, 'Blue'), (11, '('), (12, 'born'), (17, 'Gerard'), (24, 'Montgomery'), (35, 'Bluefeather'), (46, ','), (48, 'January'), (56, '11'), (58, ','), (60, '1887'), (65, '–'), (67, 'February'), (76, '18'), (78, ','), (80, '1963'), (84, ')'), (86, 'was'), (90, 'a'), (92, 'movie'), (98, 'actor'), (104, 'who'), (108, 'began'), (114, 'his'), (118, 'career'), (125, 'as'), (128, 'a'), (130, 'romantic'), (139, 'leading'), (147, 'man'), (151, 'in'), (154, 'the'), (158, 'silent'), (165, 'film'), (170, 'era'), (173, ','), (175, 'and'), (179, 'later'), (185, 'progressed'), (196, 'to'), (199, 'character'), (209, 'roles'), (214, '.')])</stanford_tokens>
+<opennlp_chunks>[('Monte Blue',0, 10), ('Gerard Montgomery Bluefeather',17, 46), ('January 11, 1887',48, 64), ('February 18, 1963',67, 84), ('a movie actor',90, 103), ('his career',114, 124), ('a romantic leading man',128, 150), ('the silent film era',154, 173), ('later progressed',179, 195), ('character roles',199, 214)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'VBG', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', ',', 'CC', 'RB', 'VBD', 'TO', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Monte'), (6, 'Blue'), (11, '('), (12, 'born'), (17, 'Gerard'), (24, 'Montgomery'), (35, 'Bluefeather'), (46, ','), (48, 'January'), (56, '11'), (58, ','), (60, '1887'), (65, '–'), (67, 'February'), (76, '18'), (78, ','), (80, '1963'), (84, ')'), (86, 'was'), (90, 'a'), (92, 'movie'), (98, 'actor'), (104, 'who'), (108, 'began'), (114, 'his'), (118, 'career'), (125, 'as'), (128, 'a'), (130, 'romantic'), (139, 'leading'), (147, 'man'), (151, 'in'), (154, 'the'), (158, 'silent'), (165, 'film'), (170, 'era'), (173, ','), (175, 'and'), (179, 'later'), (185, 'progressed'), (196, 'to'), (199, 'character'), (209, 'roles'), (214, '.')])</spacy_tokens>
+<spacy_chunks>[('Monte Blue', 0, 10), ('born Gerard Montgomery Bluefeather', 12, 46), ('January 11, 1887', 48, 64), ('– February', 65, 75), ('February 18, 1963', 67, 84), ('a movie actor', 90, 103), ('his career', 114, 124), ('a romantic leading man', 128, 150), ('the silent film era', 154, 173), ('character roles', 199, 214)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'WP', 'VBD', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', ',', 'CC', 'RB', 'VBD', 'TO', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

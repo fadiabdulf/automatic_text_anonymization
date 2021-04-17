@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ben Bledsoe</title>
+<link/>https://en.wikipedia.org/wiki/Ben_Bledsoe
+<annotated>0</annotated>
+<originalabstract>Benjamin Frederick Bledsoe (born May 11, 1982) is an American pop singer, formerly of the band Natural. He is currently an actor, voice actor, and solo singer living in Los Angeles, California.</originalabstract>
+<abstract>Benjamin_Frederick_Bledsoe ( born May_11_,_1982 ) is an_American_pop_singer , formerly of the_band Natural . He is currently an_actor , voice_actor , and solo_singer_living in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Benjamin'), (9, 'Frederick'), (19, 'Bledsoe'), (27, '('), (28, 'born'), (33, 'May'), (37, '11'), (39, ','), (41, '1982'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'pop'), (66, 'singer'), (72, ','), (74, 'formerly'), (83, 'of'), (86, 'the'), (90, 'band'), (95, 'Natural'), (102, '.'), (104, 'He'), (107, 'is'), (110, 'currently'), (120, 'an'), (123, 'actor'), (128, ','), (130, 'voice'), (136, 'actor'), (141, ','), (143, 'and'), (147, 'solo'), (152, 'singer'), (159, 'living'), (166, 'in'), (169, 'Los'), (173, 'Angeles'), (180, ','), (182, 'California'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('Benjamin Frederick Bledsoe',0, 26), ('May 11, 1982',33, 45), ('an American pop singer',50, 72), ('the band',86, 94), ('an actor',120, 128), ('voice actor',130, 141), ('solo singer living',147, 165), ('Los Angeles',169, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'RB', 'IN', 'DT', 'NN', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'DT', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Benjamin'), (9, 'Frederick'), (19, 'Bledsoe'), (27, '('), (28, 'born'), (33, 'May'), (37, '11'), (39, ','), (41, '1982'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'pop'), (66, 'singer'), (72, ','), (74, 'formerly'), (83, 'of'), (86, 'the'), (90, 'band'), (95, 'Natural'), (102, '.'), (104, 'He'), (107, 'is'), (110, 'currently'), (120, 'an'), (123, 'actor'), (128, ','), (130, 'voice'), (136, 'actor'), (141, ','), (143, 'and'), (147, 'solo'), (152, 'singer'), (159, 'living'), (166, 'in'), (169, 'Los'), (173, 'Angeles'), (180, ','), (182, 'California'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('Benjamin Frederick Bledsoe', 0, 26), ('May 11, 1982', 33, 45), ('an American pop singer', 50, 72), ('the band Natural', 86, 102), ('an actor', 120, 128), ('voice actor', 130, 141), ('solo singer', 147, 158), ('Los Angeles', 169, 180), ('California', 182, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'RB', 'IN', 'DT', 'NN', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'DT', 'NN', ',', 'NN', 'NN', ',', 'CC', 'NN', 'NN', 'VBG', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vladimir Kostenko</title>
+<link/>https://en.wikipedia.org/wiki/Vladimir_Kostenko
+<annotated>0</annotated>
+<originalabstract>Vladimir Kostenko (Ukrainian, Володимир Костенко, Russian, Владимир Костенко) (June 11, 1903 – November 7, 1967) was a Ukrainian-born American ballet dancer primarily remembered for his long association with the Rodgers and Hammerstein musical Oklahoma!.</originalabstract>
+<abstract>Vladimir_Kostenko ( Ukrainian , Володимир_Костенко , Russian , Владимир_Костенко ) ( June_11_,_1903 – November_7_,_1967 ) was a_Ukrainian-born_American_ballet_dancer primarily remembered for his_long_association with the_Rodgers_and_Hammerstein_musical_Oklahoma ! .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vladimir'), (9, 'Kostenko'), (18, '('), (19, 'Ukrainian'), (28, ','), (30, 'Володимир'), (40, 'Костенко'), (48, ','), (50, 'Russian'), (57, ','), (59, 'Владимир'), (68, 'Костенко'), (76, ')'), (78, '('), (79, 'June'), (84, '11'), (86, ','), (88, '1903'), (93, '–'), (95, 'November'), (104, '7'), (105, ','), (107, '1967'), (111, ')'), (113, 'was'), (117, 'a'), (119, 'Ukrainian-born'), (134, 'American'), (143, 'ballet'), (150, 'dancer'), (157, 'primarily'), (167, 'remembered'), (178, 'for'), (182, 'his'), (186, 'long'), (191, 'association'), (203, 'with'), (208, 'the'), (212, 'Rodgers'), (220, 'and'), (224, 'Hammerstein'), (236, 'musical'), (244, 'Oklahoma'), (252, '!'), (253, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vladimir Kostenko',0, 17), ('Володимир Костенко',30, 48), ('Владимир Костенко',59, 76), ('June 11, 1903',79, 92), ('November 7, 1967',95, 111), ('a Ukrainian-born American ballet dancer',117, 156), ('his long association',182, 202), ('the Rodgers and Hammerstein musical Oklahoma',208, 252)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'JJ', ',', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', '-RRB-', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'RB', 'VBD', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'JJ', 'NNP', '.', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vladimir'), (9, 'Kostenko'), (18, '('), (19, 'Ukrainian'), (28, ','), (30, 'Володимир'), (40, 'Костенко'), (48, ','), (50, 'Russian'), (57, ','), (59, 'Владимир'), (68, 'Костенко'), (76, ')'), (78, '('), (79, 'June'), (84, '11'), (86, ','), (88, '1903'), (93, '–'), (95, 'November'), (104, '7'), (105, ','), (107, '1967'), (111, ')'), (113, 'was'), (117, 'a'), (119, 'Ukrainian'), (128, '-'), (129, 'born'), (134, 'American'), (143, 'ballet'), (150, 'dancer'), (157, 'primarily'), (167, 'remembered'), (178, 'for'), (182, 'his'), (186, 'long'), (191, 'association'), (203, 'with'), (208, 'the'), (212, 'Rodgers'), (220, 'and'), (224, 'Hammerstein'), (236, 'musical'), (244, 'Oklahoma!.')])</spacy_tokens>
+<spacy_chunks>[('Vladimir Kostenko', 0, 17), ('Ukrainian', 19, 28), ('Володимир Костенко', 30, 48), ('Russian', 50, 57), ('Владимир Костенко', 59, 76), ('June 11, 1903', 79, 92), ('November 7, 1967', 95, 111), ('a Ukrainian-born American ballet dancer', 117, 156), ('his long association', 182, 202), ('the Rodgers and Hammerstein musical Oklahoma!.', 208, 254)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', '-RRB-', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'JJ', 'NN', 'RB', 'VBD', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'JJ', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

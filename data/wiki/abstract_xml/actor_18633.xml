@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marcelle Géniat</title>
+<link/>https://en.wikipedia.org/wiki/Marcelle_G%C3%A9niat
+<annotated>0</annotated>
+<originalabstract>Marcelle Géniat (1881-1959) was a French film actress.She was born Eugénie Pauline Martin in St. Petersburg, Russia, to French parents.</originalabstract>
+<abstract>Marcelle_Géniat ( 1881-1959 ) was a_French_film_actress.She was_born Eugénie_Pauline_Martin in St._Petersburg , Russia , to French_parents .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marcelle'), (9, 'Géniat'), (16, '('), (17, '1881-1959'), (26, ')'), (28, 'was'), (32, 'a'), (34, 'French'), (41, 'film'), (46, 'actress.She'), (58, 'was'), (62, 'born'), (67, 'Eugénie'), (75, 'Pauline'), (83, 'Martin'), (90, 'in'), (93, 'St.'), (97, 'Petersburg'), (107, ','), (109, 'Russia'), (115, ','), (117, 'to'), (120, 'French'), (127, 'parents'), (134, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marcelle Géniat',0, 15), ('a French film actress.She',32, 57), ('was born',58, 66), ('Eugénie Pauline Martin',67, 89), ('St. Petersburg',93, 107), ('French parents',120, 134)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'TO', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marcelle'), (9, 'Géniat'), (16, '('), (17, '1881'), (21, '-'), (22, '1959'), (26, ')'), (28, 'was'), (32, 'a'), (34, 'French'), (41, 'film'), (46, 'actress'), (53, '.'), (54, 'She'), (58, 'was'), (62, 'born'), (67, 'Eugénie'), (75, 'Pauline'), (83, 'Martin'), (90, 'in'), (93, 'St.'), (97, 'Petersburg'), (107, ','), (109, 'Russia'), (115, ','), (117, 'to'), (120, 'French'), (127, 'parents'), (134, '.')])</spacy_tokens>
+<spacy_chunks>[('Marcelle Géniat', 0, 15), ('a French film actress', 32, 53), ('St. Petersburg', 93, 107), ('Russia', 109, 115), ('French parents', 120, 134)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'IN', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

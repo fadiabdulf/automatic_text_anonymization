@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kim Raver</title>
+<link/>https://en.wikipedia.org/wiki/Kim_Raver
+<annotated>0</annotated>
+<originalabstract>Kimberly Jayne "Kim" Raver (born March 15, 1969) is an American actress. She is best known for television roles as Kim Zambrano on Third Watch, Audrey Raines on 24 and Teddy Altman on ABC's medical drama Grey's Anatomy.</originalabstract>
+<abstract>Kimberly_Jayne_"_Kim_"_Raver ( born March_15_,_1969 ) is an_American_actress . She is_best_known for television_roles as Kim_Zambrano on Third_Watch , Audrey_Raines on 24 and Teddy_Altman on ABC 's_medical_drama_Grey 's_Anatomy .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kimberly'), (9, 'Jayne'), (15, '"'), (16, 'Kim'), (19, '"'), (21, 'Raver'), (27, '('), (28, 'born'), (33, 'March'), (39, '15'), (41, ','), (43, '1969'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actress'), (71, '.'), (73, 'She'), (77, 'is'), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'television'), (106, 'roles'), (112, 'as'), (115, 'Kim'), (119, 'Zambrano'), (128, 'on'), (131, 'Third'), (137, 'Watch'), (142, ','), (144, 'Audrey'), (151, 'Raines'), (158, 'on'), (161, '24'), (164, 'and'), (168, 'Teddy'), (174, 'Altman'), (181, 'on'), (184, 'ABC'), (187, '\'s'), (190, 'medical'), (198, 'drama'), (204, 'Grey'), (208, '\'s'), (211, 'Anatomy'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kimberly Jayne "Kim" Raver',0, 26), ('March 15, 1969',33, 47), ('an American actress',52, 71), ('is best known',77, 90), ('television roles',95, 111), ('Kim Zambrano',115, 127), ('Third Watch',131, 142), ('Audrey Raines',144, 157), ('Teddy Altman',168, 180), ('\'s medical drama Grey',187, 208), ('\'s Anatomy',208, 218)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'JJ', 'NN', 'NNP', 'POS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kimberly'), (9, 'Jayne'), (15, '"'), (16, 'Kim'), (19, '"'), (21, 'Raver'), (27, '('), (28, 'born'), (33, 'March'), (39, '15'), (41, ','), (43, '1969'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actress'), (71, '.'), (73, 'She'), (77, 'is'), (80, 'best'), (85, 'known'), (91, 'for'), (95, 'television'), (106, 'roles'), (112, 'as'), (115, 'Kim'), (119, 'Zambrano'), (128, 'on'), (131, 'Third'), (137, 'Watch'), (142, ','), (144, 'Audrey'), (151, 'Raines'), (158, 'on'), (161, '24'), (164, 'and'), (168, 'Teddy'), (174, 'Altman'), (181, 'on'), (184, 'ABC'), (187, "'s"), (190, 'medical'), (198, 'drama'), (204, 'Grey'), (208, "'s"), (211, 'Anatomy'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Kimberly Jayne', 0, 14), ('"Kim" Raver', 15, 26), ('March 15, 1969', 33, 47), ('an American actress', 52, 71), ('television roles', 95, 111), ('Kim Zambrano', 115, 127), ('Third Watch', 131, 142), ('Audrey Raines', 144, 157), ('Teddy Altman', 168, 180), ("ABC's medical drama", 184, 203), ("Grey's Anatomy", 204, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'JJ', 'NN', 'NNP', 'POS', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

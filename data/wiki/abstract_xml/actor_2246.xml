@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Robert Fiske (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Robert_Fiske_(actor)
+<annotated>0</annotated>
+<originalabstract>Robert Fiske (20 October 1889 – 12 September 1944) was an American film actor during the 1930s and 1940s.
+Born in Griggsville, Missouri he appeared in 66 films, primarily B-movies and westerns. He died in Sunland, California of congestive heart failure at the age of 54 and was buried at Forest Lawn Glendale, Glendale, California.</originalabstract>
+<abstract>Robert_Fiske ( 20_October_1889 – 12_September_1944 ) was an_American_film_actor during the_1930s_and_1940s . Born in Griggsville , Missouri he appeared in 66_films , primarily B-movies_and_westerns . He died in Sunland , California of congestive_heart_failure at the_age of 54 and was_buried at Forest_Lawn_Glendale_,_Glendale_,_California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Robert'), (7, 'Fiske'), (13, '('), (14, '20'), (17, 'October'), (25, '1889'), (30, '–'), (32, '12'), (35, 'September'), (45, '1944'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'actor'), (78, 'during'), (85, 'the'), (89, '1930s'), (95, 'and'), (99, '1940s'), (104, '.'), (106, 'Born'), (111, 'in'), (114, 'Griggsville'), (125, ','), (127, 'Missouri'), (136, 'he'), (139, 'appeared'), (148, 'in'), (151, '66'), (154, 'films'), (159, ','), (161, 'primarily'), (171, 'B-movies'), (180, 'and'), (184, 'westerns'), (192, '.'), (194, 'He'), (197, 'died'), (202, 'in'), (205, 'Sunland'), (212, ','), (214, 'California'), (225, 'of'), (228, 'congestive'), (239, 'heart'), (245, 'failure'), (253, 'at'), (256, 'the'), (260, 'age'), (264, 'of'), (267, '54'), (270, 'and'), (274, 'was'), (278, 'buried'), (285, 'at'), (288, 'Forest'), (295, 'Lawn'), (300, 'Glendale'), (308, ','), (310, 'Glendale'), (318, ','), (320, 'California'), (330, '.')])</stanford_tokens>
+<opennlp_chunks>[('Robert Fiske',0, 12), ('20 October 1889',14, 29), ('12 September 1944',32, 49), ('an American film actor',55, 77), ('the 1930s and 1940s',85, 104), ('66 films',151, 159), ('B-movies and westerns',171, 192), ('congestive heart failure',228, 252), ('the age',256, 263), ('was buried',274, 284), ('Forest Lawn Glendale, Glendale, California',288, 330)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'PRP', 'VBD', 'IN', 'CD', 'NNS', ',', 'RB', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', 'CC', 'VBD', 'VBN', 'IN', 'NNP', 'NN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Robert'), (7, 'Fiske'), (13, '('), (14, '20'), (17, 'October'), (25, '1889'), (30, '–'), (32, '12'), (35, 'September'), (45, '1944'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'film'), (72, 'actor'), (78, 'during'), (85, 'the'), (89, '1930s'), (95, 'and'), (99, '1940s'), (104, '.'), (106, 'Born'), (111, 'in'), (114, 'Griggsville'), (125, ','), (127, 'Missouri'), (136, 'he'), (139, 'appeared'), (148, 'in'), (151, '66'), (154, 'films'), (159, ','), (161, 'primarily'), (171, 'B'), (172, '-'), (173, 'movies'), (180, 'and'), (184, 'westerns'), (192, '.'), (194, 'He'), (197, 'died'), (202, 'in'), (205, 'Sunland'), (212, ','), (214, 'California'), (225, 'of'), (228, 'congestive'), (239, 'heart'), (245, 'failure'), (253, 'at'), (256, 'the'), (260, 'age'), (264, 'of'), (267, '54'), (270, 'and'), (274, 'was'), (278, 'buried'), (285, 'at'), (288, 'Forest'), (295, 'Lawn'), (300, 'Glendale'), (308, ','), (310, 'Glendale'), (318, ','), (320, 'California'), (330, '.')])</spacy_tokens>
+<spacy_chunks>[('Robert Fiske', 0, 12), ('(20 October', 13, 24), ('20 October 1889', 14, 29), ('12 September 1944', 32, 49), ('an American film actor', 55, 77), ('the 1930s', 85, 94), ('Griggsville, Missouri', 114, 135), ('66 films', 151, 159), ('primarily B-movies', 161, 179), ('westerns', 184, 192), ('Sunland', 205, 212), ('California', 214, 224), ('Congestive heart failure', 228, 252), ('the age', 256, 263), ('Forest Lawn Glendale', 288, 308)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'PRP', 'VBD', 'IN', 'CD', 'NNS', ',', 'RB', 'NN', 'HYPH', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', 'CC', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

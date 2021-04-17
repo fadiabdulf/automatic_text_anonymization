@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jennie Kwan</title>
+<link/>https://en.wikipedia.org/wiki/Jennie_Kwan
+<annotated>0</annotated>
+<originalabstract>Jennie Kwan (born Jennifer Trinidad Fernando; September 9, 1973) is an American actress and singer. She is known for her roles as Samantha "Sam" Woo on California Dreams and as the voice of Suki on Avatar: The Last Airbender.</originalabstract>
+<abstract>Jennie_Kwan ( born Jennifer_Trinidad_Fernando ; September_9_,_1973 ) is an_American_actress_and_singer . She is_known for her_roles as Samantha_"_Sam_"_Woo on California_Dreams and as the_voice of Suki on Avatar : The_Last_Airbender .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jennie'), (7, 'Kwan'), (12, '('), (13, 'born'), (18, 'Jennifer'), (27, 'Trinidad'), (36, 'Fernando'), (44, ';'), (46, 'September'), (56, '9'), (57, ','), (59, '1973'), (63, ')'), (65, 'is'), (68, 'an'), (71, 'American'), (80, 'actress'), (88, 'and'), (92, 'singer'), (98, '.'), (100, 'She'), (104, 'is'), (107, 'known'), (113, 'for'), (117, 'her'), (121, 'roles'), (127, 'as'), (130, 'Samantha'), (139, '"'), (140, 'Sam'), (143, '"'), (145, 'Woo'), (149, 'on'), (152, 'California'), (163, 'Dreams'), (170, 'and'), (174, 'as'), (177, 'the'), (181, 'voice'), (187, 'of'), (190, 'Suki'), (195, 'on'), (198, 'Avatar'), (204, ':'), (206, 'The'), (210, 'Last'), (215, 'Airbender'), (224, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jennie Kwan',0, 11), ('Jennifer Trinidad Fernando',18, 44), ('September 9, 1973',46, 63), ('an American actress and singer',68, 98), ('is known',104, 112), ('her roles',117, 126), ('Samantha "Sam" Woo',130, 148), ('California Dreams',152, 169), ('the voice',177, 186), ('The Last Airbender',206, 224)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'NNP', 'NNS', 'CC', 'IN', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', ':', 'DT', 'JJ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jennie'), (7, 'Kwan'), (12, '('), (13, 'born'), (18, 'Jennifer'), (27, 'Trinidad'), (36, 'Fernando'), (44, ';'), (46, 'September'), (56, '9'), (57, ','), (59, '1973'), (63, ')'), (65, 'is'), (68, 'an'), (71, 'American'), (80, 'actress'), (88, 'and'), (92, 'singer'), (98, '.'), (100, 'She'), (104, 'is'), (107, 'known'), (113, 'for'), (117, 'her'), (121, 'roles'), (127, 'as'), (130, 'Samantha'), (139, '"'), (140, 'Sam'), (143, '"'), (145, 'Woo'), (149, 'on'), (152, 'California'), (163, 'Dreams'), (170, 'and'), (174, 'as'), (177, 'the'), (181, 'voice'), (187, 'of'), (190, 'Suki'), (195, 'on'), (198, 'Avatar'), (204, ':'), (206, 'The'), (210, 'Last'), (215, 'Airbender'), (224, '.')])</spacy_tokens>
+<spacy_chunks>[('Jennie Kwan', 0, 11), ('September 9, 1973', 46, 63), ('an American actress', 68, 87), ('singer', 92, 98), ('her roles', 117, 126), ('Samantha "Sam" Woo', 130, 148), ('California Dreams', 152, 169), ('the voice', 177, 186), ('Avatar: The Last Airbender', 198, 224)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', '``', 'NNP', '``', 'NNP', 'IN', 'NNP', 'NNPS', 'CC', 'IN', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', ':', 'DT', 'JJ', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

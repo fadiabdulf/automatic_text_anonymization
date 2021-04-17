@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Freddie Prinze</title>
+<link/>https://en.wikipedia.org/wiki/Freddie_Prinze
+<annotated>0</annotated>
+<originalabstract>Freddie James Prinze (born Frederick Karl Pruetzel; June 22, 1954 – January 29, 1977) was an American stand-up comedian and actor. Prinze was the star of NBC-TV sitcom Chico and the Man from 1974 until his death in 1977. Prinze is the father of actor Freddie Prinze Jr.</originalabstract>
+<abstract>Freddie_James_Prinze ( born Frederick_Karl_Pruetzel ; June_22_,_1954 – January_29_,_1977 ) was an_American_stand-up_comedian_and_actor . Prinze was the_star of NBC-TV_sitcom_Chico and the_Man from 1974 until his_death in 1977 . Prinze is the_father of actor_Freddie_Prinze_Jr .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Freddie'), (8, 'James'), (14, 'Prinze'), (21, '('), (22, 'born'), (27, 'Frederick'), (37, 'Karl'), (42, 'Pruetzel'), (50, ';'), (52, 'June'), (57, '22'), (59, ','), (61, '1954'), (66, '–'), (68, 'January'), (76, '29'), (78, ','), (80, '1977'), (84, ')'), (86, 'was'), (90, 'an'), (93, 'American'), (102, 'stand-up'), (111, 'comedian'), (120, 'and'), (124, 'actor'), (129, '.'), (131, 'Prinze'), (138, 'was'), (142, 'the'), (146, 'star'), (151, 'of'), (154, 'NBC-TV'), (161, 'sitcom'), (168, 'Chico'), (174, 'and'), (178, 'the'), (182, 'Man'), (186, 'from'), (191, '1974'), (196, 'until'), (202, 'his'), (206, 'death'), (212, 'in'), (215, '1977'), (219, '.'), (221, 'Prinze'), (228, 'is'), (231, 'the'), (235, 'father'), (242, 'of'), (245, 'actor'), (251, 'Freddie'), (259, 'Prinze'), (266, 'Jr'), (268, '.')])</stanford_tokens>
+<opennlp_chunks>[('Freddie James Prinze',0, 20), ('Frederick Karl Pruetzel',27, 50), ('June 22, 1954',52, 65), ('January 29, 1977',68, 84), ('an American stand-up comedian and actor',90, 129), ('the star',142, 150), ('NBC-TV sitcom Chico',154, 173), ('the Man',178, 185), ('his death',202, 211), ('the father',231, 241), ('actor Freddie Prinze Jr',245, 268)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NN', 'NNP', 'CC', 'DT', 'NN', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Freddie'), (8, 'James'), (14, 'Prinze'), (21, '('), (22, 'born'), (27, 'Frederick'), (37, 'Karl'), (42, 'Pruetzel'), (50, ';'), (52, 'June'), (57, '22'), (59, ','), (61, '1954'), (66, '–'), (68, 'January'), (76, '29'), (78, ','), (80, '1977'), (84, ')'), (86, 'was'), (90, 'an'), (93, 'American'), (102, 'stand'), (107, '-'), (108, 'up'), (111, 'comedian'), (120, 'and'), (124, 'actor'), (129, '.'), (131, 'Prinze'), (138, 'was'), (142, 'the'), (146, 'star'), (151, 'of'), (154, 'NBC'), (157, '-'), (158, 'TV'), (161, 'sitcom'), (168, 'Chico'), (174, 'and'), (178, 'the'), (182, 'Man'), (186, 'from'), (191, '1974'), (196, 'until'), (202, 'his'), (206, 'death'), (212, 'in'), (215, '1977'), (219, '.'), (221, 'Prinze'), (228, 'is'), (231, 'the'), (235, 'father'), (242, 'of'), (245, 'actor'), (251, 'Freddie'), (259, 'Prinze'), (266, 'Jr.')])</spacy_tokens>
+<spacy_chunks>[('Freddie James Prinze', 0, 20), ('born Frederick Karl Pruetzel', 22, 50), ('June 22, 1954', 52, 65), ('– January', 66, 75), ('January 29, 1977', 68, 84), ('an American stand-up comedian', 90, 119), ('the star', 142, 150), ('NBC-TV sitcom Chico', 154, 173), ('Chico and the Man', 168, 185), ('his death', 202, 211), ('the father', 231, 241), ('actor Freddie Prinze Jr.', 245, 269)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'VB', 'HYPH', 'RP', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'HYPH', 'NNP', 'NN', 'NNP', 'CC', 'DT', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'CD', '.', 'NNP', 'VBZ', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

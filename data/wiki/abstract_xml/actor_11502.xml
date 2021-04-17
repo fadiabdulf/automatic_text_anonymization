@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chandra Currelley-Young</title>
+<link/>https://en.wikipedia.org/wiki/Chandra_Currelley-Young
+<annotated>0</annotated>
+<originalabstract>Chandra Currelley-Young (born September 4, 1961) is an American actress and singer. Currelley has done extensive work with director and writer Tyler Perry, and has played many roles in his various productions and several stage plays.</originalabstract>
+<abstract>Chandra_Currelley-Young ( born September_4_,_1961 ) is an_American_actress_and_singer . Currelley has_done extensive_work with director_and_writer_Tyler_Perry , and has_played many_roles in his_various_productions and several_stage plays .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Chandra'), (8, 'Currelley-Young'), (24, '('), (25, 'born'), (30, 'September'), (40, '4'), (41, ','), (43, '1961'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'and'), (76, 'singer'), (82, '.'), (84, 'Currelley'), (94, 'has'), (98, 'done'), (103, 'extensive'), (113, 'work'), (118, 'with'), (123, 'director'), (132, 'and'), (136, 'writer'), (143, 'Tyler'), (149, 'Perry'), (154, ','), (156, 'and'), (160, 'has'), (164, 'played'), (171, 'many'), (176, 'roles'), (182, 'in'), (185, 'his'), (189, 'various'), (197, 'productions'), (209, 'and'), (213, 'several'), (221, 'stage'), (227, 'plays'), (232, '.')])</stanford_tokens>
+<opennlp_chunks>[('Chandra Currelley-Young',0, 23), ('September 4, 1961',30, 47), ('an American actress and singer',52, 82), ('has done',94, 102), ('extensive work',103, 117), ('director and writer Tyler Perry',123, 154), ('has played',160, 170), ('many roles',171, 181), ('his various productions',185, 208), ('several stage',213, 226)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', 'NNP', 'NNP', ',', 'CC', 'VBZ', 'VBN', 'JJ', 'NNS', 'IN', 'PRP$', 'JJ', 'NNS', 'CC', 'JJ', 'NN', 'VBZ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Chandra'), (8, 'Currelley'), (17, '-'), (18, 'Young'), (24, '('), (25, 'born'), (30, 'September'), (40, '4'), (41, ','), (43, '1961'), (47, ')'), (49, 'is'), (52, 'an'), (55, 'American'), (64, 'actress'), (72, 'and'), (76, 'singer'), (82, '.'), (84, 'Currelley'), (94, 'has'), (98, 'done'), (103, 'extensive'), (113, 'work'), (118, 'with'), (123, 'director'), (132, 'and'), (136, 'writer'), (143, 'Tyler'), (149, 'Perry'), (154, ','), (156, 'and'), (160, 'has'), (164, 'played'), (171, 'many'), (176, 'roles'), (182, 'in'), (185, 'his'), (189, 'various'), (197, 'productions'), (209, 'and'), (213, 'several'), (221, 'stage'), (227, 'plays'), (232, '.')])</spacy_tokens>
+<spacy_chunks>[('Chandra Currelley-Young', 0, 23), ('September 4, 1961', 30, 47), ('an American actress', 52, 71), ('Singer', 76, 82), ('extensive work', 103, 117), ('director', 123, 131), ('writer Tyler Perry', 136, 154), ('many roles', 171, 181), ('his various productions', 185, 208), ('several stage plays', 213, 232)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', 'NNP', 'NNP', ',', 'CC', 'VBZ', 'VBN', 'JJ', 'NNS', 'IN', 'PRP$', 'JJ', 'NNS', 'CC', 'JJ', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

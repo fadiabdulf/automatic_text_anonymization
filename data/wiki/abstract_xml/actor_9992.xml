@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Guy Marchand</title>
+<link/>https://en.wikipedia.org/wiki/Guy_Marchand
+<annotated>0</annotated>
+<originalabstract>Guy Marchand (born 22 May 1937) is a French actor, musician and singer.  He is best known for his role as the main character in the French police procedural series Nestor Burma.</originalabstract>
+<abstract>Guy_Marchand ( born 22_May_1937 ) is a_French_actor , musician_and_singer . He is_best_known for his_role as the_main_character in the_French_police_procedural_series_Nestor_Burma .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Guy'), (4, 'Marchand'), (13, '('), (14, 'born'), (19, '22'), (22, 'May'), (26, '1937'), (30, ')'), (32, 'is'), (35, 'a'), (37, 'French'), (44, 'actor'), (49, ','), (51, 'musician'), (60, 'and'), (64, 'singer'), (70, '.'), (73, 'He'), (76, 'is'), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'his'), (98, 'role'), (103, 'as'), (106, 'the'), (110, 'main'), (115, 'character'), (125, 'in'), (128, 'the'), (132, 'French'), (139, 'police'), (146, 'procedural'), (157, 'series'), (164, 'Nestor'), (171, 'Burma'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Guy Marchand',0, 12), ('22 May 1937',19, 30), ('a French actor',35, 49), ('musician and singer',51, 70), ('is best known',76, 89), ('his role',94, 102), ('the main character',106, 124), ('the French police procedural series Nestor Burma',128, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'JJ', 'NN', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Guy'), (4, 'Marchand'), (13, '('), (14, 'born'), (19, '22'), (22, 'May'), (26, '1937'), (30, ')'), (32, 'is'), (35, 'a'), (37, 'French'), (44, 'actor'), (49, ','), (51, 'musician'), (60, 'and'), (64, 'singer'), (70, '.'), (73, 'He'), (76, 'is'), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'his'), (98, 'role'), (103, 'as'), (106, 'the'), (110, 'main'), (115, 'character'), (125, 'in'), (128, 'the'), (132, 'French'), (139, 'police'), (146, 'procedural'), (157, 'series'), (164, 'Nestor'), (171, 'Burma'), (176, '.')])</spacy_tokens>
+<spacy_chunks>[('Guy Marchand', 0, 12), ('22 May 1937', 19, 30), ('a French actor', 35, 49), ('musician', 51, 59), ('singer', 64, 70), ('his role', 94, 102), ('the main character', 106, 124), ('the French police procedural series', 128, 163), ('Nestor Burma', 164, 176)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'JJ', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

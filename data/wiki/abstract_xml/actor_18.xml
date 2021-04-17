@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Ackroyd</title>
+<link/>https://en.wikipedia.org/wiki/David_Ackroyd
+<annotated>0</annotated>
+<originalabstract>David Ackroyd (born May 30, 1940) is an American actor, who first came to prominence in soap operas such as The Secret Storm and Another World.</originalabstract>
+<abstract>David_Ackroyd ( born May_30_,_1940 ) is an_American_actor , who first came to prominence in soap_operas such_as The_Secret_Storm and Another_World .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Ackroyd'), (14, '('), (15, 'born'), (20, 'May'), (24, '30'), (26, ','), (28, '1940'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, ','), (56, 'who'), (60, 'first'), (66, 'came'), (71, 'to'), (74, 'prominence'), (85, 'in'), (88, 'soap'), (93, 'operas'), (100, 'such'), (105, 'as'), (108, 'The'), (112, 'Secret'), (119, 'Storm'), (125, 'and'), (129, 'Another'), (137, 'World'), (142, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Ackroyd',0, 13), ('May 30, 1940',20, 32), ('an American actor',37, 54), ('soap operas',88, 99), ('such as',100, 107), ('The Secret Storm',108, 124), ('Another World',129, 142)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'WP', 'RB', 'VBD', 'TO', 'NN', 'IN', 'NN', 'NNS', 'JJ', 'IN', 'DT', 'JJ', 'NN', 'CC', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Ackroyd'), (14, '('), (15, 'born'), (20, 'May'), (24, '30'), (26, ','), (28, '1940'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actor'), (54, ','), (56, 'who'), (60, 'first'), (66, 'came'), (71, 'to'), (74, 'prominence'), (85, 'in'), (88, 'soap'), (93, 'operas'), (100, 'such'), (105, 'as'), (108, 'The'), (112, 'Secret'), (119, 'Storm'), (125, 'and'), (129, 'Another'), (137, 'World'), (142, '.')])</spacy_tokens>
+<spacy_chunks>[('David Ackroyd', 0, 13), ('May 30, 1940', 20, 32), ('an American actor', 37, 54), ('prominence', 74, 84), ('soap operas', 88, 99), ('The Secret Storm', 108, 124), ('Another World', 129, 142)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'WP', 'RB', 'VBD', 'IN', 'NN', 'IN', 'NN', 'NNS', 'JJ', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jennifer Lauret</title>
+<link/>https://en.wikipedia.org/wiki/Jennifer_Lauret
+<annotated>0</annotated>
+<originalabstract>Jennifer Lauret (born 1 January 1980 in Toulouse, France) is an actress in French language cinema. She has starred in several television series and movies.</originalabstract>
+<abstract>Jennifer_Lauret ( born 1_January_1980 in Toulouse , France ) is an_actress in French_language_cinema . She has_starred in several_television_series_and_movies .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jennifer'), (9, 'Lauret'), (16, '('), (17, 'born'), (22, '1'), (24, 'January'), (32, '1980'), (37, 'in'), (40, 'Toulouse'), (48, ','), (50, 'France'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'actress'), (72, 'in'), (75, 'French'), (82, 'language'), (91, 'cinema'), (97, '.'), (99, 'She'), (103, 'has'), (107, 'starred'), (115, 'in'), (118, 'several'), (126, 'television'), (137, 'series'), (144, 'and'), (148, 'movies'), (154, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jennifer Lauret',0, 15), ('1 January 1980',22, 36), ('an actress',61, 71), ('French language cinema',75, 97), ('has starred',103, 114), ('several television series and movies',118, 154)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'NN', 'IN', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'NN', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jennifer'), (9, 'Lauret'), (16, '('), (17, 'born'), (22, '1'), (24, 'January'), (32, '1980'), (37, 'in'), (40, 'Toulouse'), (48, ','), (50, 'France'), (56, ')'), (58, 'is'), (61, 'an'), (64, 'actress'), (72, 'in'), (75, 'French'), (82, 'language'), (91, 'cinema'), (97, '.'), (99, 'She'), (103, 'has'), (107, 'starred'), (115, 'in'), (118, 'several'), (126, 'television'), (137, 'series'), (144, 'and'), (148, 'movies'), (154, '.')])</spacy_tokens>
+<spacy_chunks>[('Jennifer Lauret', 0, 15), ('1 January 1980', 22, 36), ('Toulouse', 40, 48), ('France', 50, 56), ('an actress', 61, 71), ('French language cinema', 75, 97), ('several television series', 118, 143), ('movies', 148, 154)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'NN', 'IN', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'NN', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

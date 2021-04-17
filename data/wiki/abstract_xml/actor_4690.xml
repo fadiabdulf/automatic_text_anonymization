@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bryan Montgomery</title>
+<link/>https://en.wikipedia.org/wiki/Bryan_Montgomery
+<annotated>0</annotated>
+<originalabstract>Beecher Bryan Montgomery (July 20, 1946 – December 12, 2008) was an American actor, known for Badlands (1973), Cat Ballou (1971), and Standing Tall (1978). Bryan Montgomery was born in 1946 in San Angelo, Texas; he died in 2008 in Malibu, California.</originalabstract>
+<abstract>Beecher_Bryan_Montgomery ( July_20_,_1946 – December_12_,_2008 ) was an_American_actor , known for Badlands ( 1973 ) , Cat_Ballou ( 1971 ) , and Standing Tall ( 1978 ) . Bryan_Montgomery was_born in 1946 in San_Angelo , Texas ; he died in 2008 in Malibu , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Beecher'), (8, 'Bryan'), (14, 'Montgomery'), (25, '('), (26, 'July'), (31, '20'), (33, ','), (35, '1946'), (40, '–'), (42, 'December'), (51, '12'), (53, ','), (55, '2008'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'actor'), (82, ','), (84, 'known'), (90, 'for'), (94, 'Badlands'), (103, '('), (104, '1973'), (108, ')'), (109, ','), (111, 'Cat'), (115, 'Ballou'), (122, '('), (123, '1971'), (127, ')'), (128, ','), (130, 'and'), (134, 'Standing'), (143, 'Tall'), (148, '('), (149, '1978'), (153, ')'), (154, '.'), (156, 'Bryan'), (162, 'Montgomery'), (173, 'was'), (177, 'born'), (182, 'in'), (185, '1946'), (190, 'in'), (193, 'San'), (197, 'Angelo'), (203, ','), (205, 'Texas'), (210, ';'), (212, 'he'), (215, 'died'), (220, 'in'), (223, '2008'), (228, 'in'), (231, 'Malibu'), (237, ','), (239, 'California'), (249, '.')])</stanford_tokens>
+<opennlp_chunks>[('Beecher Bryan Montgomery',0, 24), ('July 20, 1946',26, 39), ('December 12, 2008',42, 59), ('an American actor',65, 82), ('Cat Ballou',111, 121), ('Bryan Montgomery',156, 172), ('was born',173, 181), ('San Angelo',193, 203)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NNS', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'VBG', 'JJ', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', ':', 'PRP', 'VBD', 'IN', 'CD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Beecher'), (8, 'Bryan'), (14, 'Montgomery'), (25, '('), (26, 'July'), (31, '20'), (33, ','), (35, '1946'), (40, '–'), (42, 'December'), (51, '12'), (53, ','), (55, '2008'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'actor'), (82, ','), (84, 'known'), (90, 'for'), (94, 'Badlands'), (103, '('), (104, '1973'), (108, ')'), (109, ','), (111, 'Cat'), (115, 'Ballou'), (122, '('), (123, '1971'), (127, ')'), (128, ','), (130, 'and'), (134, 'Standing'), (143, 'Tall'), (148, '('), (149, '1978'), (153, ')'), (154, '.'), (156, 'Bryan'), (162, 'Montgomery'), (173, 'was'), (177, 'born'), (182, 'in'), (185, '1946'), (190, 'in'), (193, 'San'), (197, 'Angelo'), (203, ','), (205, 'Texas'), (210, ';'), (212, 'he'), (215, 'died'), (220, 'in'), (223, '2008'), (228, 'in'), (231, 'Malibu'), (237, ','), (239, 'California'), (249, '.')])</spacy_tokens>
+<spacy_chunks>[('Beecher Bryan Montgomery', 0, 24), ('July 20, 1946', 26, 39), ('December 12, 2008', 42, 59), ('an American actor', 65, 82), ('Badlands', 94, 102), ('Cat Ballou', 111, 121), ('Standing Tall (1978)', 134, 154), ('San Angelo, Texas', 193, 210), ('Malibu, California', 231, 249)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'VBG', 'JJ', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'NNP', 'VBD', 'VBN', 'IN', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', ':', 'PRP', 'VBD', 'IN', 'CD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

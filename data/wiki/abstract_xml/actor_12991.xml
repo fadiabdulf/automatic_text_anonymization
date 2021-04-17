@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Elsie Janis</title>
+<link/>https://en.wikipedia.org/wiki/Elsie_Janis
+<annotated>0</annotated>
+<originalabstract>Elsie Janis (March 16, 1889 – February 26, 1956) was an American singer, songwriter, actress, and screenwriter. Entertaining the troops during World War I immortalized her as "the sweetheart of the AEF" (American Expeditionary Force).</originalabstract>
+<abstract>Elsie_Janis ( March_16_,_1889 – February_26_,_1956 ) was an_American_singer , songwriter , actress , and screenwriter . Entertaining_the_troops during World_War_I immortalized her as " the_sweetheart of the_AEF " ( American_Expeditionary_Force_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elsie'), (6, 'Janis'), (12, '('), (13, 'March'), (19, '16'), (21, ','), (23, '1889'), (28, '–'), (30, 'February'), (39, '26'), (41, ','), (43, '1956'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'singer'), (71, ','), (73, 'songwriter'), (83, ','), (85, 'actress'), (92, ','), (94, 'and'), (98, 'screenwriter'), (110, '.'), (112, 'Entertaining'), (125, 'the'), (129, 'troops'), (136, 'during'), (143, 'World'), (149, 'War'), (153, 'I'), (155, 'immortalized'), (168, 'her'), (172, 'as'), (175, '"'), (176, 'the'), (180, 'sweetheart'), (191, 'of'), (194, 'the'), (198, 'AEF'), (201, '"'), (203, '('), (204, 'American'), (213, 'Expeditionary'), (227, 'Force'), (232, ')'), (233, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elsie Janis',0, 11), ('March 16, 1889',13, 27), ('February 26, 1956',30, 47), ('an American singer',53, 71), ('Entertaining the troops',112, 135), ('World War I',143, 154), ('the sweetheart',176, 190), ('the AEF',194, 201), ('American Expeditionary Force)',204, 233)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'JJ', 'DT', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'VBD', 'PRP', 'IN', '``', 'DT', 'NN', 'IN', 'DT', 'NNP', '\'\'', '-LRB-', 'NNP', 'NNP', 'NNP', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elsie'), (6, 'Janis'), (12, '('), (13, 'March'), (19, '16'), (21, ','), (23, '1889'), (28, '–'), (30, 'February'), (39, '26'), (41, ','), (43, '1956'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'singer'), (71, ','), (73, 'songwriter'), (83, ','), (85, 'actress'), (92, ','), (94, 'and'), (98, 'screenwriter'), (110, '.'), (112, 'Entertaining'), (125, 'the'), (129, 'troops'), (136, 'during'), (143, 'World'), (149, 'War'), (153, 'I'), (155, 'immortalized'), (168, 'her'), (172, 'as'), (175, '"'), (176, 'the'), (180, 'sweetheart'), (191, 'of'), (194, 'the'), (198, 'AEF'), (201, '"'), (203, '('), (204, 'American'), (213, 'Expeditionary'), (227, 'Force'), (232, ')'), (233, '.')])</spacy_tokens>
+<spacy_chunks>[('Elsie Janis', 0, 11), ('(March', 12, 18), ('March 16, 1889', 13, 27), ('February 26, 1956', 30, 47), ('an American singer', 53, 71), ('songwriter', 73, 83), ('actress', 85, 92), ('screenwriter', 98, 110), ('the troops', 125, 135), ('World War', 143, 152), ('"the sweetheart', 175, 190), ('the AEF', 194, 201), ('" (American Expeditionary Force', 201, 232)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'VBG', 'DT', 'NNS', 'IN', 'NNP', 'NNP', 'PRP', 'VBD', 'PRP', 'IN', '``', 'DT', 'NN', 'IN', 'DT', 'NNP', "''", '-LRB-', 'NNP', 'NNP', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

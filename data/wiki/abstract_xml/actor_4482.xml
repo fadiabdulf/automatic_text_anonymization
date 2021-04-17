@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rick McGraw</title>
+<link/>https://en.wikipedia.org/wiki/Rick_McGraw
+<annotated>0</annotated>
+<originalabstract>Richard McGraw (March 19, 1955 – November 1, 1985) was an American professional wrestler, best known for his appearances with the World Wrestling Federation (WWF) under the ring name "Quickdraw" Rick McGraw in the late 1970s and early 1980s.</originalabstract>
+<abstract>Richard_McGraw ( March_19_,_1955 – November_1_,_1985 ) was an_American_professional_wrestler , best_known for his_appearances with the_World_Wrestling_Federation ( WWF ) under the_ring_name_"_Quickdraw_"_Rick_McGraw in the_late_1970s and early_1980s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'McGraw'), (15, '('), (16, 'March'), (22, '19'), (24, ','), (26, '1955'), (31, '–'), (33, 'November'), (42, '1'), (43, ','), (45, '1985'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'professional'), (80, 'wrestler'), (88, ','), (90, 'best'), (95, 'known'), (101, 'for'), (105, 'his'), (109, 'appearances'), (121, 'with'), (126, 'the'), (130, 'World'), (136, 'Wrestling'), (146, 'Federation'), (157, '('), (158, 'WWF'), (161, ')'), (163, 'under'), (169, 'the'), (173, 'ring'), (178, 'name'), (183, '"'), (184, 'Quickdraw'), (193, '"'), (195, 'Rick'), (200, 'McGraw'), (207, 'in'), (210, 'the'), (214, 'late'), (219, '1970s'), (225, 'and'), (229, 'early'), (235, '1980s'), (240, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard McGraw',0, 14), ('March 19, 1955',16, 30), ('November 1, 1985',33, 49), ('an American professional wrestler',55, 88), ('best known',90, 100), ('his appearances',105, 120), ('the World Wrestling Federation',126, 156), ('the ring name "Quickdraw" Rick McGraw',169, 206), ('the late 1970s',210, 224), ('early 1980s',229, 240)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', 'IN', 'DT', 'NN', 'NN', '``', 'NNP', '\'\'', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'McGraw'), (15, '('), (16, 'March'), (22, '19'), (24, ','), (26, '1955'), (31, '–'), (33, 'November'), (42, '1'), (43, ','), (45, '1985'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'professional'), (80, 'wrestler'), (88, ','), (90, 'best'), (95, 'known'), (101, 'for'), (105, 'his'), (109, 'appearances'), (121, 'with'), (126, 'the'), (130, 'World'), (136, 'Wrestling'), (146, 'Federation'), (157, '('), (158, 'WWF'), (161, ')'), (163, 'under'), (169, 'the'), (173, 'ring'), (178, 'name'), (183, '"'), (184, 'Quickdraw'), (193, '"'), (195, 'Rick'), (200, 'McGraw'), (207, 'in'), (210, 'the'), (214, 'late'), (219, '1970s'), (225, 'and'), (229, 'early'), (235, '1980s'), (240, '.')])</spacy_tokens>
+<spacy_chunks>[('Richard McGraw', 0, 14), ('March 19, 1955', 16, 30), ('November 1, 1985', 33, 49), ('an American professional wrestler', 55, 88), ('his appearances', 105, 120), ('the World Wrestling Federation', 126, 156), ('the ring name', 169, 182), ('"Quickdraw" Rick McGraw', 183, 206), ('the late 1970s', 210, 224), ('early 1980s', 229, 240)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', '-RRB-', 'IN', 'DT', 'NN', 'NN', '``', 'NNP', "''", 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

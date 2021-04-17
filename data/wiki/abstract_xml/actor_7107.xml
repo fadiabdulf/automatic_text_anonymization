@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jules White</title>
+<link/>https://en.wikipedia.org/wiki/Jules_White
+<annotated>0</annotated>
+<originalabstract>Jules White (born Julius Weiss; 17 September 1900 – 30 April 1985) was a Hungarian-born American film director and producer best known for his short-subject comedies starring The Three Stooges.</originalabstract>
+<abstract>Jules_White ( born Julius_Weiss ; 17_September_1900 – 30_April_1985 ) was a_Hungarian-born_American_film_director_and_producer best_known for his_short-subject_comedies starring The_Three_Stooges .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jules'), (6, 'White'), (12, '('), (13, 'born'), (18, 'Julius'), (25, 'Weiss'), (30, ';'), (32, '17'), (35, 'September'), (45, '1900'), (50, '–'), (52, '30'), (55, 'April'), (61, '1985'), (65, ')'), (67, 'was'), (71, 'a'), (73, 'Hungarian-born'), (88, 'American'), (97, 'film'), (102, 'director'), (111, 'and'), (115, 'producer'), (124, 'best'), (129, 'known'), (135, 'for'), (139, 'his'), (143, 'short-subject'), (157, 'comedies'), (166, 'starring'), (175, 'The'), (179, 'Three'), (185, 'Stooges'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jules White',0, 11), ('Julius Weiss',18, 30), ('17 September 1900',32, 49), ('30 April 1985',52, 65), ('a Hungarian-born American film director and producer',71, 123), ('best known',124, 134), ('his short-subject comedies',139, 165), ('The Three Stooges',175, 192)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'VBG', 'DT', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jules'), (6, 'White'), (12, '('), (13, 'born'), (18, 'Julius'), (25, 'Weiss'), (30, ';'), (32, '17'), (35, 'September'), (45, '1900'), (50, '–'), (52, '30'), (55, 'April'), (61, '1985'), (65, ')'), (67, 'was'), (71, 'a'), (73, 'Hungarian'), (82, '-'), (83, 'born'), (88, 'American'), (97, 'film'), (102, 'director'), (111, 'and'), (115, 'producer'), (124, 'best'), (129, 'known'), (135, 'for'), (139, 'his'), (143, 'short'), (148, '-'), (149, 'subject'), (157, 'comedies'), (166, 'starring'), (175, 'The'), (179, 'Three'), (185, 'Stooges'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('Jules White', 0, 11), ('born Julius Weiss', 13, 30), ('17 September 1900', 32, 49), ('30 April 1985', 52, 65), ('a Hungarian-born American film director', 71, 110), ('producer', 115, 123), ('his short-subject comedies', 139, 165), ('The Three Stooges', 175, 192)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'HYPH', 'NN', 'NNS', 'VBG', 'DT', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

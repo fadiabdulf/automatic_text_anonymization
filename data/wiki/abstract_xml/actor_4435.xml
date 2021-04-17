@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eddie McClintock</title>
+<link/>https://en.wikipedia.org/wiki/Eddie_McClintock
+<annotated>0</annotated>
+<originalabstract>Edward Theodore McClintock, known as Eddie McClintock, is an American actor who has starred and guest-starred in numerous television shows. He played the role of Secret Service agent Pete Lattimer on the Syfy series Warehouse 13.</originalabstract>
+<abstract>Edward_Theodore_McClintock , known as Eddie_McClintock , is an_American_actor who has_starred_and_guest-starred in numerous_television_shows . He played the_role of Secret_Service_agent_Pete_Lattimer on the_Syfy_series_Warehouse_13 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Edward'), (7, 'Theodore'), (16, 'McClintock'), (26, ','), (28, 'known'), (34, 'as'), (37, 'Eddie'), (43, 'McClintock'), (53, ','), (55, 'is'), (58, 'an'), (61, 'American'), (70, 'actor'), (76, 'who'), (80, 'has'), (84, 'starred'), (92, 'and'), (96, 'guest-starred'), (110, 'in'), (113, 'numerous'), (122, 'television'), (133, 'shows'), (138, '.'), (140, 'He'), (143, 'played'), (150, 'the'), (154, 'role'), (159, 'of'), (162, 'Secret'), (169, 'Service'), (177, 'agent'), (183, 'Pete'), (188, 'Lattimer'), (197, 'on'), (200, 'the'), (204, 'Syfy'), (209, 'series'), (216, 'Warehouse'), (226, '13'), (228, '.')])</stanford_tokens>
+<opennlp_chunks>[('Edward Theodore McClintock',0, 26), ('Eddie McClintock',37, 53), ('an American actor',58, 75), ('has starred and guest-starred',80, 109), ('numerous television shows',113, 138), ('the role',150, 158), ('Secret Service agent Pete Lattimer',162, 196), ('the Syfy series Warehouse 13',200, 228)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'CC', 'VBN', 'IN', 'JJ', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Edward'), (7, 'Theodore'), (16, 'McClintock'), (26, ','), (28, 'known'), (34, 'as'), (37, 'Eddie'), (43, 'McClintock'), (53, ','), (55, 'is'), (58, 'an'), (61, 'American'), (70, 'actor'), (76, 'who'), (80, 'has'), (84, 'starred'), (92, 'and'), (96, 'guest'), (101, '-'), (102, 'starred'), (110, 'in'), (113, 'numerous'), (122, 'television'), (133, 'shows'), (138, '.'), (140, 'He'), (143, 'played'), (150, 'the'), (154, 'role'), (159, 'of'), (162, 'Secret'), (169, 'Service'), (177, 'agent'), (183, 'Pete'), (188, 'Lattimer'), (197, 'on'), (200, 'the'), (204, 'Syfy'), (209, 'series'), (216, 'Warehouse'), (226, '13'), (228, '.')])</spacy_tokens>
+<spacy_chunks>[('Edward Theodore McClintock', 0, 26), ('Eddie McClintock', 37, 53), ('an American actor', 58, 75), ('numerous television shows', 113, 138), ('the role', 150, 158), ('Secret Service agent Pete Lattimer', 162, 196), ('the Syfy series', 200, 215), ('Warehouse 13', 216, 228)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'CC', 'NN', 'HYPH', 'VBN', 'IN', 'JJ', 'NN', 'NNS', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

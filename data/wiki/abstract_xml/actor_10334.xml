@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lori Alan</title>
+<link/>https://en.wikipedia.org/wiki/Lori_Alan
+<annotated>0</annotated>
+<originalabstract>Lori Alan is an American actress and voice actress. She has played a long-running role as Pearl Krabs on the animated television series SpongeBob SquarePants. She also voiced Diane Simmons on Family Guy, the Invisible Woman on The Fantastic Four, and The Boss in the Metal Gear video game series.</originalabstract>
+<abstract>Lori_Alan is an_American_actress_and_voice_actress . She has_played a_long-running_role as Pearl_Krabs on the_animated_television_series_SpongeBob_SquarePants . She also voiced Diane_Simmons on Family_Guy , the_Invisible_Woman on The_Fantastic_Four , and The_Boss in the_Metal_Gear_video_game_series .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lori'), (5, 'Alan'), (10, 'is'), (13, 'an'), (16, 'American'), (25, 'actress'), (33, 'and'), (37, 'voice'), (43, 'actress'), (50, '.'), (52, 'She'), (56, 'has'), (60, 'played'), (67, 'a'), (69, 'long-running'), (82, 'role'), (87, 'as'), (90, 'Pearl'), (96, 'Krabs'), (102, 'on'), (105, 'the'), (109, 'animated'), (118, 'television'), (129, 'series'), (136, 'SpongeBob'), (146, 'SquarePants'), (157, '.'), (159, 'She'), (163, 'also'), (168, 'voiced'), (175, 'Diane'), (181, 'Simmons'), (189, 'on'), (192, 'Family'), (199, 'Guy'), (202, ','), (204, 'the'), (208, 'Invisible'), (218, 'Woman'), (224, 'on'), (227, 'The'), (231, 'Fantastic'), (241, 'Four'), (245, ','), (247, 'and'), (251, 'The'), (255, 'Boss'), (260, 'in'), (263, 'the'), (267, 'Metal'), (273, 'Gear'), (278, 'video'), (284, 'game'), (289, 'series'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lori Alan',0, 9), ('an American actress and voice actress',13, 50), ('has played',56, 66), ('a long-running role',67, 86), ('Pearl Krabs',90, 101), ('the animated television series SpongeBob SquarePants',105, 157), ('Diane Simmons',175, 188), ('Family Guy',192, 202), ('the Invisible Woman',204, 223), ('The Fantastic Four',227, 245), ('The Boss',251, 259), ('the Metal Gear video game series',263, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJ', 'NNP', 'IN', 'DT', 'JJ', 'CD', ',', 'CC', 'DT', 'NNP', 'IN', 'DT', 'NN', 'NNP', 'NN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lori'), (5, 'Alan'), (10, 'is'), (13, 'an'), (16, 'American'), (25, 'actress'), (33, 'and'), (37, 'voice'), (43, 'actress'), (50, '.'), (52, 'She'), (56, 'has'), (60, 'played'), (67, 'a'), (69, 'long'), (73, '-'), (74, 'running'), (82, 'role'), (87, 'as'), (90, 'Pearl'), (96, 'Krabs'), (102, 'on'), (105, 'the'), (109, 'animated'), (118, 'television'), (129, 'series'), (136, 'SpongeBob'), (146, 'SquarePants'), (157, '.'), (159, 'She'), (163, 'also'), (168, 'voiced'), (175, 'Diane'), (181, 'Simmons'), (189, 'on'), (192, 'Family'), (199, 'Guy'), (202, ','), (204, 'the'), (208, 'Invisible'), (218, 'Woman'), (224, 'on'), (227, 'The'), (231, 'Fantastic'), (241, 'Four'), (245, ','), (247, 'and'), (251, 'The'), (255, 'Boss'), (260, 'in'), (263, 'the'), (267, 'Metal'), (273, 'Gear'), (278, 'video'), (284, 'game'), (289, 'series'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Lori Alan', 0, 9), ('an American actress', 13, 32), ('voice actress', 37, 50), ('a long-running role', 67, 86), ('Pearl Krabs', 90, 101), ('the animated television series', 105, 135), ('SpongeBob SquarePants', 136, 157), ('Diane Simmons', 175, 188), ('Family Guy', 192, 202), ('the Invisible Woman', 204, 223), ('The Fantastic Four', 227, 245), ('The Boss', 251, 259), ('the Metal Gear video game series', 263, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'DT', 'RB', 'HYPH', 'VBG', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'VBN', 'NN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ',', 'CC', 'DT', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

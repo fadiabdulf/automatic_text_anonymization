@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Henry Wilcoxon</title>
+<link/>https://en.wikipedia.org/wiki/Henry_Wilcoxon
+<annotated>0</annotated>
+<originalabstract>Harry Frederick Wilcoxon (8 September 1905 – 6 March 1984), known as Henry Wilcoxon, was an actor born in Roseau, Dominica, British West Indies, and best known as a leading man in many of Cecil B. DeMille's films, also serving as DeMille's associate producer on his later films.</originalabstract>
+<abstract>Harry_Frederick_Wilcoxon ( 8_September_1905 – 6_March_1984 ) , known as Henry_Wilcoxon , was an_actor born in Roseau , Dominica , British_West_Indies , and best_known as a_leading_man in many of Cecil_B._DeMille 's_films , also serving as DeMille 's_associate_producer on his_later_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harry'), (6, 'Frederick'), (16, 'Wilcoxon'), (25, '('), (26, '8'), (28, 'September'), (38, '1905'), (43, '–'), (45, '6'), (47, 'March'), (53, '1984'), (57, ')'), (58, ','), (60, 'known'), (66, 'as'), (69, 'Henry'), (75, 'Wilcoxon'), (83, ','), (85, 'was'), (89, 'an'), (92, 'actor'), (98, 'born'), (103, 'in'), (106, 'Roseau'), (112, ','), (114, 'Dominica'), (122, ','), (124, 'British'), (132, 'West'), (137, 'Indies'), (143, ','), (145, 'and'), (149, 'best'), (154, 'known'), (160, 'as'), (163, 'a'), (165, 'leading'), (173, 'man'), (177, 'in'), (180, 'many'), (185, 'of'), (188, 'Cecil'), (194, 'B.'), (197, 'DeMille'), (204, '\'s'), (207, 'films'), (212, ','), (214, 'also'), (219, 'serving'), (227, 'as'), (230, 'DeMille'), (237, '\'s'), (240, 'associate'), (250, 'producer'), (259, 'on'), (262, 'his'), (266, 'later'), (272, 'films'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Harry Frederick Wilcoxon',0, 24), ('8 September 1905',26, 42), ('6 March 1984',45, 57), ('Henry Wilcoxon',69, 83), ('an actor',89, 97), ('British West Indies',124, 143), ('best known',149, 159), ('a leading man',163, 176), ('Cecil B. DeMille',188, 204), ('\'s films',204, 212), ('\'s associate producer',237, 258), ('his later films',262, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NN', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', 'NNP', ',', 'CC', 'RB', 'VBN', 'IN', 'DT', 'VBG', 'NN', 'IN', 'JJ', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'NNS', ',', 'RB', 'VBG', 'IN', 'NNP', 'POS', 'JJ', 'NN', 'IN', 'PRP$', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harry'), (6, 'Frederick'), (16, 'Wilcoxon'), (25, '('), (26, '8'), (28, 'September'), (38, '1905'), (43, '–'), (45, '6'), (47, 'March'), (53, '1984'), (57, ')'), (58, ','), (60, 'known'), (66, 'as'), (69, 'Henry'), (75, 'Wilcoxon'), (83, ','), (85, 'was'), (89, 'an'), (92, 'actor'), (98, 'born'), (103, 'in'), (106, 'Roseau'), (112, ','), (114, 'Dominica'), (122, ','), (124, 'British'), (132, 'West'), (137, 'Indies'), (143, ','), (145, 'and'), (149, 'best'), (154, 'known'), (160, 'as'), (163, 'a'), (165, 'leading'), (173, 'man'), (177, 'in'), (180, 'many'), (185, 'of'), (188, 'Cecil'), (194, 'B.'), (197, 'DeMille'), (204, "'s"), (207, 'films'), (212, ','), (214, 'also'), (219, 'serving'), (227, 'as'), (230, 'DeMille'), (237, "'s"), (240, 'associate'), (250, 'producer'), (259, 'on'), (262, 'his'), (266, 'later'), (272, 'films'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry Frederick Wilcoxon', 0, 24), ('8 September 1905', 26, 42), ('6 March 1984', 45, 57), ('Henry Wilcoxon', 69, 83), ('an actor', 89, 97), ('Roseau', 106, 112), ('Dominica', 114, 122), ('British West Indies', 124, 143), ('a leading man', 163, 176), ('Man in', 173, 179), ("Cecil B. DeMille's films", 188, 212), ("DeMille's associate producer", 230, 258), ('his later films', 262, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NN', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', 'NNPS', ',', 'CC', 'RBS', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'JJ', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'NNS', ',', 'RB', 'VBG', 'IN', 'NNP', 'POS', 'JJ', 'NN', 'IN', 'PRP$', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

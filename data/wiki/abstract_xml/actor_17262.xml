@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lucy Speed</title>
+<link/>https://en.wikipedia.org/wiki/Lucy_Speed
+<annotated>0</annotated>
+<originalabstract>Lucy Renee Speed (born 31 August 1976) is an English actress best known for her television roles as Natalie Evans (née Price) in the BBC One soap opera EastEnders, and as DS Stevie Moss in the ITV1 police drama series The Bill.</originalabstract>
+<abstract>Lucy_Renee_Speed ( born 31_August_1976 ) is an_English_actress best_known for her_television_roles as Natalie_Evans ( née_Price ) in the_BBC_One_soap_opera_EastEnders , and as DS_Stevie_Moss in the_ITV1_police_drama series The_Bill .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lucy'), (5, 'Renee'), (11, 'Speed'), (17, '('), (18, 'born'), (23, '31'), (26, 'August'), (33, '1976'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'actress'), (61, 'best'), (66, 'known'), (72, 'for'), (76, 'her'), (80, 'television'), (91, 'roles'), (97, 'as'), (100, 'Natalie'), (108, 'Evans'), (114, '('), (115, 'née'), (119, 'Price'), (124, ')'), (126, 'in'), (129, 'the'), (133, 'BBC'), (137, 'One'), (141, 'soap'), (146, 'opera'), (152, 'EastEnders'), (162, ','), (164, 'and'), (168, 'as'), (171, 'DS'), (174, 'Stevie'), (181, 'Moss'), (186, 'in'), (189, 'the'), (193, 'ITV1'), (198, 'police'), (205, 'drama'), (211, 'series'), (218, 'The'), (222, 'Bill'), (226, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lucy Renee Speed',0, 16), ('31 August 1976',23, 37), ('an English actress',42, 60), ('best known',61, 71), ('her television roles',76, 96), ('Natalie Evans',100, 113), ('née Price',115, 124), ('the BBC One soap opera EastEnders',129, 162), ('DS Stevie Moss',171, 185), ('the ITV1 police drama',189, 210), ('The Bill',218, 226)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NN', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', 'IN', 'DT', 'NNP', 'CD', 'NN', 'NN', 'NNP', ',', 'CC', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'NN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lucy'), (5, 'Renee'), (11, 'Speed'), (17, '('), (18, 'born'), (23, '31'), (26, 'August'), (33, '1976'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'actress'), (61, 'best'), (66, 'known'), (72, 'for'), (76, 'her'), (80, 'television'), (91, 'roles'), (97, 'as'), (100, 'Natalie'), (108, 'Evans'), (114, '('), (115, 'née'), (119, 'Price'), (124, ')'), (126, 'in'), (129, 'the'), (133, 'BBC'), (137, 'One'), (141, 'soap'), (146, 'opera'), (152, 'EastEnders'), (162, ','), (164, 'and'), (168, 'as'), (171, 'DS'), (174, 'Stevie'), (181, 'Moss'), (186, 'in'), (189, 'the'), (193, 'ITV1'), (198, 'police'), (205, 'drama'), (211, 'series'), (218, 'The'), (222, 'Bill'), (226, '.')])</spacy_tokens>
+<spacy_chunks>[('Lucy Renee Speed', 0, 16), ('31 August 1976', 23, 37), ('an English actress', 42, 60), ('her television roles', 76, 96), ('Natalie Evans', 100, 113), ('née Price', 115, 124), ('the BBC One soap opera EastEnders', 129, 162), ('DS Stevie Moss', 171, 185), ('the ITV1 police drama series', 189, 217), ('The Bill', 218, 226)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', 'IN', 'DT', 'NNP', 'CD', 'NN', 'NN', 'NNP', ',', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

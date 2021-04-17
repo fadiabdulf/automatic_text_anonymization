@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Crystal Bernard</title>
+<link/>https://en.wikipedia.org/wiki/Crystal_Bernard
+<annotated>0</annotated>
+<originalabstract>Crystal Lynn Bernard (born September 30, 1961) is an American singer-songwriter and actress, best known for her role on the sitcom Wings. She has appeared in film and has pursued a music career.</originalabstract>
+<abstract>Crystal_Lynn_Bernard ( born September_30_,_1961 ) is an_American_singer-songwriter_and_actress , best_known for her_role on the_sitcom_Wings . She has_appeared in film and has_pursued a_music_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Crystal'), (8, 'Lynn'), (13, 'Bernard'), (21, '('), (22, 'born'), (27, 'September'), (37, '30'), (39, ','), (41, '1961'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'singer-songwriter'), (80, 'and'), (84, 'actress'), (91, ','), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'her'), (112, 'role'), (117, 'on'), (120, 'the'), (124, 'sitcom'), (131, 'Wings'), (136, '.'), (138, 'She'), (142, 'has'), (146, 'appeared'), (155, 'in'), (158, 'film'), (163, 'and'), (167, 'has'), (171, 'pursued'), (179, 'a'), (181, 'music'), (187, 'career'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('Crystal Lynn Bernard',0, 20), ('September 30, 1961',27, 45), ('an American singer-songwriter and actress',50, 91), ('best known',93, 103), ('her role',108, 116), ('the sitcom Wings',120, 136), ('has appeared',142, 154), ('has pursued',167, 178), ('a music career',179, 193)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNS', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NN', 'CC', 'VBZ', 'VBN', 'DT', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Crystal'), (8, 'Lynn'), (13, 'Bernard'), (21, '('), (22, 'born'), (27, 'September'), (37, '30'), (39, ','), (41, '1961'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'singer'), (68, '-'), (69, 'songwriter'), (80, 'and'), (84, 'actress'), (91, ','), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'her'), (112, 'role'), (117, 'on'), (120, 'the'), (124, 'sitcom'), (131, 'Wings'), (136, '.'), (138, 'She'), (142, 'has'), (146, 'appeared'), (155, 'in'), (158, 'film'), (163, 'and'), (167, 'has'), (171, 'pursued'), (179, 'a'), (181, 'music'), (187, 'career'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[('Crystal Lynn Bernard', 0, 20), ('September 30, 1961', 27, 45), ('an American singer-songwriter', 50, 79), ('actress', 84, 91), ('her role', 108, 116), ('the sitcom Wings', 120, 136), ('a music career', 179, 193)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'HYPH', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNPS', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NN', 'CC', 'VBZ', 'VBN', 'DT', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

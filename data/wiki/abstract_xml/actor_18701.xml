@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kerima (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Kerima_(actress)
+<annotated>0</annotated>
+<originalabstract>Kerima (born February 10, 1925) was an actress best known for her role in Outcast of the Islands.  Although commonly believed to be Algerian as she was portrayed when she gained fame as an actress, she is actually French.</originalabstract>
+<abstract>Kerima ( born February_10_,_1925 ) was an_actress best_known for her_role in Outcast of the_Islands . Although commonly_believed to_be Algerian as she was_portrayed when she gained fame as an_actress , she is actually_French .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kerima'), (7, '('), (8, 'born'), (13, 'February'), (22, '10'), (24, ','), (26, '1925'), (30, ')'), (32, 'was'), (36, 'an'), (39, 'actress'), (47, 'best'), (52, 'known'), (58, 'for'), (62, 'her'), (66, 'role'), (71, 'in'), (74, 'Outcast'), (82, 'of'), (85, 'the'), (89, 'Islands'), (96, '.'), (99, 'Although'), (108, 'commonly'), (117, 'believed'), (126, 'to'), (129, 'be'), (132, 'Algerian'), (141, 'as'), (144, 'she'), (148, 'was'), (152, 'portrayed'), (162, 'when'), (167, 'she'), (171, 'gained'), (178, 'fame'), (183, 'as'), (186, 'an'), (189, 'actress'), (196, ','), (198, 'she'), (202, 'is'), (205, 'actually'), (214, 'French'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('February 10, 1925',13, 30), ('an actress',36, 46), ('best known',47, 57), ('her role',62, 70), ('the Islands',85, 96), ('commonly believed',108, 125), ('to be',126, 131), ('was portrayed',148, 161), ('an actress',186, 196), ('actually French',205, 220)]</opennlp_chunks>
+<stanford_pos>['NN', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNPS', '.', 'IN', 'RB', 'VBN', 'TO', 'VB', 'NNP', 'IN', 'PRP', 'VBD', 'VBN', 'WRB', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'NN', ',', 'PRP', 'VBZ', 'RB', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kerima'), (7, '('), (8, 'born'), (13, 'February'), (22, '10'), (24, ','), (26, '1925'), (30, ')'), (32, 'was'), (36, 'an'), (39, 'actress'), (47, 'best'), (52, 'known'), (58, 'for'), (62, 'her'), (66, 'role'), (71, 'in'), (74, 'Outcast'), (82, 'of'), (85, 'the'), (89, 'Islands'), (96, '.'), (99, 'Although'), (108, 'commonly'), (117, 'believed'), (126, 'to'), (129, 'be'), (132, 'Algerian'), (141, 'as'), (144, 'she'), (148, 'was'), (152, 'portrayed'), (162, 'when'), (167, 'she'), (171, 'gained'), (178, 'fame'), (183, 'as'), (186, 'an'), (189, 'actress'), (196, ','), (198, 'she'), (202, 'is'), (205, 'actually'), (214, 'French'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Kerima', 0, 6), ('February 10, 1925', 13, 30), ('an actress', 36, 46), ('her role', 62, 70), ('Outcast of the Islands', 74, 96), ('Algerian', 132, 140), ('French', 214, 220)]</spacy_chunks>
+<spacy_pos>['NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNPS', '.', 'IN', 'RB', 'VBN', 'TO', 'VB', 'JJ', 'IN', 'PRP', 'VBD', 'VBN', 'WRB', 'PRP', 'VBD', 'NN', 'IN', 'DT', 'NN', ',', 'PRP', 'VBZ', 'RB', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

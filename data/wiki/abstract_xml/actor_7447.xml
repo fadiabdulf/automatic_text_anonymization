@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Germán Cobos</title>
+<link/>https://en.wikipedia.org/wiki/Germ%C3%A1n_Cobos
+<annotated>0</annotated>
+<originalabstract>Germán Sánchez Hernández-Cobos (7 July 1927 - 12 January 2015) was a prolific Spanish actor in a variety of European films. He was married to Visitación Peralta.</originalabstract>
+<abstract>Germán_Sánchez_Hernández-Cobos ( 7_July_1927 - 12 January_2015 ) was a_prolific_Spanish_actor in a_variety of European_films . He was_married to Visitación_Peralta .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Germán'), (7, 'Sánchez'), (15, 'Hernández-Cobos'), (31, '('), (32, '7'), (34, 'July'), (39, '1927'), (44, '-'), (46, '12'), (49, 'January'), (57, '2015'), (61, ')'), (63, 'was'), (67, 'a'), (69, 'prolific'), (78, 'Spanish'), (86, 'actor'), (92, 'in'), (95, 'a'), (97, 'variety'), (105, 'of'), (108, 'European'), (117, 'films'), (122, '.'), (124, 'He'), (127, 'was'), (131, 'married'), (139, 'to'), (142, 'Visitación'), (153, 'Peralta'), (160, '.')])</stanford_tokens>
+<opennlp_chunks>[('Germán Sánchez Hernández-Cobos',0, 30), ('7 July 1927',32, 43), ('January 2015',49, 61), ('a prolific Spanish actor',67, 91), ('a variety',95, 104), ('European films',108, 122), ('was married',127, 138), ('Visitación Peralta',142, 160)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'VBN', 'TO', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Germán'), (7, 'Sánchez'), (15, 'Hernández'), (24, '-'), (25, 'Cobos'), (31, '('), (32, '7'), (34, 'July'), (39, '1927'), (44, '-'), (46, '12'), (49, 'January'), (57, '2015'), (61, ')'), (63, 'was'), (67, 'a'), (69, 'prolific'), (78, 'Spanish'), (86, 'actor'), (92, 'in'), (95, 'a'), (97, 'variety'), (105, 'of'), (108, 'European'), (117, 'films'), (122, '.'), (124, 'He'), (127, 'was'), (131, 'married'), (139, 'to'), (142, 'Visitación'), (153, 'Peralta'), (160, '.')])</spacy_tokens>
+<spacy_chunks>[('Germán Sánchez Hernández-Cobos', 0, 30), ('(7 July', 31, 38), ('7 July 1927', 32, 43), ('12 January 2015', 46, 61), ('a prolific Spanish actor', 67, 91), ('a variety', 95, 104), ('European films', 108, 122), ('Visitación Peralta', 142, 160)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'JJ', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

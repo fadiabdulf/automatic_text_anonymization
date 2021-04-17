@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Danny McNulty</title>
+<link/>https://en.wikipedia.org/wiki/Danny_McNulty
+<annotated>0</annotated>
+<originalabstract>Danny Brian McNulty (born May 28, 1972) is an American actor and producer who is best known for playing Harvey "Harley" Keiner  on Boy Meets World and later on its spinoff Girl Meets World.</originalabstract>
+<abstract>Danny_Brian_McNulty ( born May_28_,_1972 ) is an_American_actor and producer who is_best_known for playing Harvey_"_Harley_"_Keiner on Boy Meets World and later on its_spinoff Girl Meets World .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Danny'), (6, 'Brian'), (12, 'McNulty'), (20, '('), (21, 'born'), (26, 'May'), (30, '28'), (32, ','), (34, '1972'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (61, 'and'), (65, 'producer'), (74, 'who'), (78, 'is'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'Harvey'), (111, '"'), (112, 'Harley'), (118, '"'), (120, 'Keiner'), (128, 'on'), (131, 'Boy'), (135, 'Meets'), (141, 'World'), (147, 'and'), (151, 'later'), (157, 'on'), (160, 'its'), (164, 'spinoff'), (172, 'Girl'), (177, 'Meets'), (183, 'World'), (188, '.')])</stanford_tokens>
+<opennlp_chunks>[('Danny Brian McNulty',0, 19), ('May 28, 1972',26, 38), ('an American actor',43, 60), ('is best known',78, 91), ('Harvey "Harley" Keiner',104, 126), ('its spinoff',160, 171)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'NN', 'VBZ', 'NNP', 'CC', 'RB', 'IN', 'PRP$', 'NN', 'NNP', 'VBZ', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Danny'), (6, 'Brian'), (12, 'McNulty'), (20, '('), (21, 'born'), (26, 'May'), (30, '28'), (32, ','), (34, '1972'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actor'), (61, 'and'), (65, 'producer'), (74, 'who'), (78, 'is'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'Harvey'), (111, '"'), (112, 'Harley'), (118, '"'), (120, 'Keiner'), (128, 'on'), (131, 'Boy'), (135, 'Meets'), (141, 'World'), (147, 'and'), (151, 'later'), (157, 'on'), (160, 'its'), (164, 'spinoff'), (172, 'Girl'), (177, 'Meets'), (183, 'World'), (188, '.')])</spacy_tokens>
+<spacy_chunks>[('Danny Brian McNulty', 0, 19), ('May 28, 1972', 26, 38), ('an American actor', 43, 60), ('producer', 65, 73), ('Harvey "Harley" Keiner', 104, 126), ('Boy Meets World', 131, 146), ('its spinoff Girl', 160, 176), ('Girl Meets World', 172, 188)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'NNP', 'VBZ', 'NN', 'CC', 'RB', 'IN', 'PRP$', 'NN', 'NN', 'VBZ', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Walter McGrail</title>
+<link/>https://en.wikipedia.org/wiki/Walter_McGrail
+<annotated>0</annotated>
+<originalabstract>Walter B. McGrail (October 19, 1888 – March 19, 1970) was an American film actor. He appeared in more than 150 films between 1916 and 1951. He was born in Brooklyn, New York and died in San Francisco, California, at the age of 81.</originalabstract>
+<abstract>Walter_B._McGrail ( October_19_,_1888 – March_19_,_1970 ) was an_American_film_actor . He appeared in more_than_150_films between 1916_and_1951 . He was_born in Brooklyn , New_York and died in San_Francisco , California , at the_age of 81 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Walter'), (7, 'B.'), (10, 'McGrail'), (18, '('), (19, 'October'), (27, '19'), (29, ','), (31, '1888'), (36, '–'), (38, 'March'), (44, '19'), (46, ','), (48, '1970'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'film'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'appeared'), (94, 'in'), (97, 'more'), (102, 'than'), (107, '150'), (111, 'films'), (117, 'between'), (125, '1916'), (130, 'and'), (134, '1951'), (138, '.'), (140, 'He'), (143, 'was'), (147, 'born'), (152, 'in'), (155, 'Brooklyn'), (163, ','), (165, 'New'), (169, 'York'), (174, 'and'), (178, 'died'), (183, 'in'), (186, 'San'), (190, 'Francisco'), (199, ','), (201, 'California'), (211, ','), (213, 'at'), (216, 'the'), (220, 'age'), (224, 'of'), (227, '81'), (229, '.')])</stanford_tokens>
+<opennlp_chunks>[('Walter B. McGrail',0, 17), ('October 19, 1888',19, 35), ('March 19, 1970',38, 52), ('an American film actor',58, 80), ('more than 150 films',97, 116), ('1916 and 1951',125, 138), ('was born',143, 151), ('New York',165, 173), ('San Francisco',186, 199), ('the age',216, 223)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Walter'), (7, 'B.'), (10, 'McGrail'), (18, '('), (19, 'October'), (27, '19'), (29, ','), (31, '1888'), (36, '–'), (38, 'March'), (44, '19'), (46, ','), (48, '1970'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'film'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'appeared'), (94, 'in'), (97, 'more'), (102, 'than'), (107, '150'), (111, 'films'), (117, 'between'), (125, '1916'), (130, 'and'), (134, '1951'), (138, '.'), (140, 'He'), (143, 'was'), (147, 'born'), (152, 'in'), (155, 'Brooklyn'), (163, ','), (165, 'New'), (169, 'York'), (174, 'and'), (178, 'died'), (183, 'in'), (186, 'San'), (190, 'Francisco'), (199, ','), (201, 'California'), (211, ','), (213, 'at'), (216, 'the'), (220, 'age'), (224, 'of'), (227, '81'), (229, '.')])</spacy_tokens>
+<spacy_chunks>[('Walter B. McGrail', 0, 17), ('October 19, 1888', 19, 35), ('March 19, 1970', 38, 52), ('an American film actor', 58, 80), ('more than 150 films', 97, 116), ('Brooklyn, New York', 155, 173), ('San Francisco, California', 186, 211), ('the age', 216, 223)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'IN', 'DT', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

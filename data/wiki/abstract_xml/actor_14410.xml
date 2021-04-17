@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Karyn Parsons</title>
+<link/>https://en.wikipedia.org/wiki/Karyn_Parsons
+<annotated>0</annotated>
+<originalabstract>Karyn Parsons (born October 8, 1966) is an American actress and comedian. She is best known for her role as Hilary Banks on the NBC sitcom The Fresh Prince of Bel-Air from 1990 to 1996. Parsons also starred in the 1995 film Major Payne opposite Damon Wayans.</originalabstract>
+<abstract>Karyn_Parsons ( born October_8_,_1966 ) is an_American_actress_and_comedian . She is_best_known for her_role as Hilary_Banks on the_NBC_sitcom The_Fresh_Prince of Bel-Air from 1990 to 1996 . Parsons also starred in the_1995_film Major_Payne_opposite_Damon_Wayans .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Karyn'), (6, 'Parsons'), (14, '('), (15, 'born'), (20, 'October'), (28, '8'), (29, ','), (31, '1966'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (60, 'and'), (64, 'comedian'), (72, '.'), (74, 'She'), (78, 'is'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'role'), (105, 'as'), (108, 'Hilary'), (115, 'Banks'), (121, 'on'), (124, 'the'), (128, 'NBC'), (132, 'sitcom'), (139, 'The'), (143, 'Fresh'), (149, 'Prince'), (156, 'of'), (159, 'Bel-Air'), (167, 'from'), (172, '1990'), (177, 'to'), (180, '1996'), (184, '.'), (186, 'Parsons'), (194, 'also'), (199, 'starred'), (207, 'in'), (210, 'the'), (214, '1995'), (219, 'film'), (224, 'Major'), (230, 'Payne'), (236, 'opposite'), (245, 'Damon'), (251, 'Wayans'), (257, '.')])</stanford_tokens>
+<opennlp_chunks>[('Karyn Parsons',0, 13), ('October 8, 1966',20, 35), ('an American actress and comedian',40, 72), ('is best known',78, 91), ('her role',96, 104), ('Hilary Banks',108, 120), ('the NBC sitcom',124, 138), ('The Fresh Prince',139, 155), ('the 1995 film',210, 223), ('Major Payne opposite Damon Wayans',224, 257)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'IN', 'CD', 'TO', 'CD', '.', 'NNP', 'RB', 'VBD', 'IN', 'DT', 'CD', 'NN', 'JJ', 'NNP', 'JJ', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Karyn'), (6, 'Parsons'), (14, '('), (15, 'born'), (20, 'October'), (28, '8'), (29, ','), (31, '1966'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (60, 'and'), (64, 'comedian'), (72, '.'), (74, 'She'), (78, 'is'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'role'), (105, 'as'), (108, 'Hilary'), (115, 'Banks'), (121, 'on'), (124, 'the'), (128, 'NBC'), (132, 'sitcom'), (139, 'The'), (143, 'Fresh'), (149, 'Prince'), (156, 'of'), (159, 'Bel'), (162, '-'), (163, 'Air'), (167, 'from'), (172, '1990'), (177, 'to'), (180, '1996'), (184, '.'), (186, 'Parsons'), (194, 'also'), (199, 'starred'), (207, 'in'), (210, 'the'), (214, '1995'), (219, 'film'), (224, 'Major'), (230, 'Payne'), (236, 'opposite'), (245, 'Damon'), (251, 'Wayans'), (257, '.')])</spacy_tokens>
+<spacy_chunks>[('Karyn Parsons', 0, 13), ('October 8, 1966', 20, 35), ('an American actress', 40, 59), ('comedian', 64, 72), ('her role', 96, 104), ('Hilary Banks', 108, 120), ('the NBC sitcom', 124, 138), ('The Fresh Prince of Bel-Air', 139, 166), ('the 1995 film', 210, 223), ('Major Payne', 224, 235), ('Damon Wayans', 245, 257)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'HYPH', 'NNP', 'IN', 'CD', 'IN', 'CD', '.', 'NNP', 'RB', 'VBD', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

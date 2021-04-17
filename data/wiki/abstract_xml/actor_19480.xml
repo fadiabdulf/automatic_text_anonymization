@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Val Lehman</title>
+<link/>https://en.wikipedia.org/wiki/Val_Lehman
+<annotated>0</annotated>
+<originalabstract>Valerie Kathleen Lehman  (née Willis) (born 15 March 1943), known as Val Lehman, is an Australian actress and director, best known for her role as the protagonist "Top Dog" and self-styled Queen Bea Smith in the Australian TV series Prisoner (known internationally as Prisoner: Cell Block H).</originalabstract>
+<abstract>Valerie_Kathleen_Lehman ( née_Willis ) ( born 15_March_1943 ) , known as Val_Lehman , is an_Australian_actress_and_director , best_known for her_role as the_protagonist " Top_Dog " and self-styled_Queen_Bea_Smith in the_Australian_TV_series_Prisoner ( known internationally as Prisoner : Cell_Block_H ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Valerie'), (8, 'Kathleen'), (17, 'Lehman'), (25, '('), (26, 'née'), (30, 'Willis'), (36, ')'), (38, '('), (39, 'born'), (44, '15'), (47, 'March'), (53, '1943'), (57, ')'), (58, ','), (60, 'known'), (66, 'as'), (69, 'Val'), (73, 'Lehman'), (79, ','), (81, 'is'), (84, 'an'), (87, 'Australian'), (98, 'actress'), (106, 'and'), (110, 'director'), (118, ','), (120, 'best'), (125, 'known'), (131, 'for'), (135, 'her'), (139, 'role'), (144, 'as'), (147, 'the'), (151, 'protagonist'), (163, '"'), (164, 'Top'), (168, 'Dog'), (171, '"'), (173, 'and'), (177, 'self-styled'), (189, 'Queen'), (195, 'Bea'), (199, 'Smith'), (205, 'in'), (208, 'the'), (212, 'Australian'), (223, 'TV'), (226, 'series'), (233, 'Prisoner'), (242, '('), (243, 'known'), (249, 'internationally'), (265, 'as'), (268, 'Prisoner'), (276, ':'), (278, 'Cell'), (283, 'Block'), (289, 'H'), (290, ')'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('Valerie Kathleen Lehman',0, 23), ('née Willis',26, 36), ('15 March 1943',44, 57), ('Val Lehman',69, 79), ('an Australian actress and director',84, 118), ('best known',120, 130), ('her role',135, 143), ('the protagonist',147, 162), ('Top Dog',164, 171), ('self-styled Queen Bea Smith',177, 204), ('the Australian TV series Prisoner',208, 241), ('Cell Block H',278, 290)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NN', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', '``', 'JJ', 'NN', '\'\'', 'CC', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', '-LRB-', 'JJ', 'RB', 'IN', 'NN', ':', 'NN', 'NN', 'NN', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Valerie'), (8, 'Kathleen'), (17, 'Lehman'), (25, '('), (26, 'née'), (30, 'Willis'), (36, ')'), (38, '('), (39, 'born'), (44, '15'), (47, 'March'), (53, '1943'), (57, ')'), (58, ','), (60, 'known'), (66, 'as'), (69, 'Val'), (73, 'Lehman'), (79, ','), (81, 'is'), (84, 'an'), (87, 'Australian'), (98, 'actress'), (106, 'and'), (110, 'director'), (118, ','), (120, 'best'), (125, 'known'), (131, 'for'), (135, 'her'), (139, 'role'), (144, 'as'), (147, 'the'), (151, 'protagonist'), (163, '"'), (164, 'Top'), (168, 'Dog'), (171, '"'), (173, 'and'), (177, 'self'), (181, '-'), (182, 'styled'), (189, 'Queen'), (195, 'Bea'), (199, 'Smith'), (205, 'in'), (208, 'the'), (212, 'Australian'), (223, 'TV'), (226, 'series'), (233, 'Prisoner'), (242, '('), (243, 'known'), (249, 'internationally'), (265, 'as'), (268, 'Prisoner'), (276, ':'), (278, 'Cell'), (283, 'Block'), (289, 'H'), (290, ')'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('Valerie Kathleen Lehman', 0, 23), ('née Willis', 26, 36), ('15 March 1943', 44, 57), ('Val Lehman', 69, 79), ('an Australian actress', 84, 105), ('director', 110, 118), ('her role', 135, 143), ('the protagonist', 147, 162), ('"Top Dog', 163, 171), ('self-styled Queen Bea Smith', 177, 204), ('the Australian TV series Prisoner', 208, 241), ('Cell Block H', 278, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBD', 'NNP', '-RRB-', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', '``', 'NNP', 'NNP', "''", 'CC', 'NN', 'HYPH', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NNP', '-LRB-', 'VBN', 'RB', 'IN', 'NNP', ':', 'NNP', 'NNP', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

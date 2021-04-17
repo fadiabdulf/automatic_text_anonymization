@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sue Hamilton (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Sue_Hamilton_(actress)
+<annotated>0</annotated>
+<originalabstract>Sue Williams (May 13, 1945 - September 2, 1969), also known as Sue Hamilton, is an American actress and Playboy magazine's Playmate of the Month for April 1965.  Her centerfold was photographed by Ed DeLong and William V. Figge.</originalabstract>
+<abstract>Sue_Williams ( May_13_,_1945 - September_2_,_1969 ) , also_known as Sue_Hamilton , is an_American_actress and Playboy_magazine 's_Playmate of the_Month for April_1965 . Her_centerfold was_photographed by Ed_DeLong and William_V._Figge .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sue'), (4, 'Williams'), (13, '('), (14, 'May'), (18, '13'), (20, ','), (22, '1945'), (27, '-'), (29, 'September'), (39, '2'), (40, ','), (42, '1969'), (46, ')'), (47, ','), (49, 'also'), (54, 'known'), (60, 'as'), (63, 'Sue'), (67, 'Hamilton'), (75, ','), (77, 'is'), (80, 'an'), (83, 'American'), (92, 'actress'), (100, 'and'), (104, 'Playboy'), (112, 'magazine'), (120, '\'s'), (123, 'Playmate'), (132, 'of'), (135, 'the'), (139, 'Month'), (145, 'for'), (149, 'April'), (155, '1965'), (159, '.'), (162, 'Her'), (166, 'centerfold'), (177, 'was'), (181, 'photographed'), (194, 'by'), (197, 'Ed'), (200, 'DeLong'), (207, 'and'), (211, 'William'), (219, 'V.'), (222, 'Figge'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sue Williams',0, 12), ('May 13, 1945',14, 26), ('September 2, 1969',29, 46), ('also known',49, 59), ('Sue Hamilton',63, 75), ('an American actress',80, 99), ('Playboy magazine',104, 120), ('\'s Playmate',120, 131), ('the Month',135, 144), ('April 1965',149, 159), ('Her centerfold',162, 176), ('was photographed',177, 193), ('Ed DeLong',197, 206), ('William V. Figge',211, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NNP', 'NN', 'POS', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'CD', '.', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sue'), (4, 'Williams'), (13, '('), (14, 'May'), (18, '13'), (20, ','), (22, '1945'), (27, '-'), (29, 'September'), (39, '2'), (40, ','), (42, '1969'), (46, ')'), (47, ','), (49, 'also'), (54, 'known'), (60, 'as'), (63, 'Sue'), (67, 'Hamilton'), (75, ','), (77, 'is'), (80, 'an'), (83, 'American'), (92, 'actress'), (100, 'and'), (104, 'Playboy'), (112, 'magazine'), (120, "'s"), (123, 'Playmate'), (132, 'of'), (135, 'the'), (139, 'Month'), (145, 'for'), (149, 'April'), (155, '1965'), (159, '.'), (162, 'Her'), (166, 'centerfold'), (177, 'was'), (181, 'photographed'), (194, 'by'), (197, 'Ed'), (200, 'DeLong'), (207, 'and'), (211, 'William'), (219, 'V.'), (222, 'Figge'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Sue Williams', 0, 12), ('May 13, 1945', 14, 26), ('September 2, 1969', 29, 46), ('Sue Hamilton', 63, 75), ('an American actress', 80, 99), ("Playboy magazine's Playmate", 104, 131), ('the Month', 135, 144), ('Her centerfold', 162, 176), ('Ed DeLong', 197, 206), ('William V. Figge', 211, 227)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NNP', 'NN', 'POS', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'CD', '.', 'PRP$', 'NN', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

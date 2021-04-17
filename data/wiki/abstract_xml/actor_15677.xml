@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Amy Van Nostrand</title>
+<link/>https://en.wikipedia.org/wiki/Amy_Van_Nostrand
+<annotated>0</annotated>
+<originalabstract>Amy Van Nostrand (born April 11, 1953) is an American actress. She has appeared on Broadway in The Hothouse by Harold Pinter; off-Broadway, she appeared in Pearl Theatre's Dance With Me.</originalabstract>
+<abstract>Amy_Van_Nostrand ( born April_11_,_1953 ) is an_American_actress . She has_appeared on Broadway in The_Hothouse by Harold_Pinter ; off-Broadway , she appeared in Pearl_Theatre 's_Dance With Me .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Amy'), (4, 'Van'), (8, 'Nostrand'), (17, '('), (18, 'born'), (23, 'April'), (29, '11'), (31, ','), (33, '1953'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'has'), (71, 'appeared'), (80, 'on'), (83, 'Broadway'), (92, 'in'), (95, 'The'), (99, 'Hothouse'), (108, 'by'), (111, 'Harold'), (118, 'Pinter'), (124, ';'), (126, 'off-Broadway'), (138, ','), (140, 'she'), (144, 'appeared'), (153, 'in'), (156, 'Pearl'), (162, 'Theatre'), (169, '\'s'), (172, 'Dance'), (178, 'With'), (183, 'Me'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('Amy Van Nostrand',0, 16), ('April 11, 1953',23, 37), ('an American actress',42, 61), ('has appeared',67, 79), ('The Hothouse',95, 107), ('Harold Pinter',111, 124), ('Pearl Theatre',156, 169), ('\'s Dance',169, 177)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', ':', 'JJ', ',', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'PRP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Amy'), (4, 'Van'), (8, 'Nostrand'), (17, '('), (18, 'born'), (23, 'April'), (29, '11'), (31, ','), (33, '1953'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'has'), (71, 'appeared'), (80, 'on'), (83, 'Broadway'), (92, 'in'), (95, 'The'), (99, 'Hothouse'), (108, 'by'), (111, 'Harold'), (118, 'Pinter'), (124, ';'), (126, 'off'), (129, '-'), (130, 'Broadway'), (138, ','), (140, 'she'), (144, 'appeared'), (153, 'in'), (156, 'Pearl'), (162, 'Theatre'), (169, "'s"), (172, 'Dance'), (178, 'With'), (183, 'Me'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('Amy Van Nostrand', 0, 16), ('April 11, 1953', 23, 37), ('an American actress', 42, 61), ('Broadway', 83, 91), ('The Hothouse', 95, 107), ('Harold Pinter', 111, 124), ('Off-Broadway', 126, 138), ("Pearl Theatre's Dance", 156, 177)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', ':', 'IN', 'HYPH', 'NNP', ',', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'PRP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

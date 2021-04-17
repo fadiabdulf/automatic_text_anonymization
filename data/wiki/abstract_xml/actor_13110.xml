@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sonia Karlov</title>
+<link/>https://en.wikipedia.org/wiki/Sonia_Karlov
+<annotated>0</annotated>
+<originalabstract>Sonia Karlov (born 1908, date of death unknown) was an American dancer, stage, and motion picture actress from Syracuse, New York. Her birth name was Alma Jeanne Williams.</originalabstract>
+<abstract>Sonia_Karlov ( born_1908 , date of death_unknown ) was an_American_dancer , stage , and motion_picture_actress from Syracuse , New_York . Her_birth_name was Alma_Jeanne_Williams .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sonia'), (6, 'Karlov'), (13, '('), (14, 'born'), (19, '1908'), (23, ','), (25, 'date'), (30, 'of'), (33, 'death'), (39, 'unknown'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'dancer'), (70, ','), (72, 'stage'), (77, ','), (79, 'and'), (83, 'motion'), (90, 'picture'), (98, 'actress'), (106, 'from'), (111, 'Syracuse'), (119, ','), (121, 'New'), (125, 'York'), (129, '.'), (131, 'Her'), (135, 'birth'), (141, 'name'), (146, 'was'), (150, 'Alma'), (155, 'Jeanne'), (162, 'Williams'), (170, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sonia Karlov',0, 12), ('born 1908',14, 23), ('death unknown',33, 46), ('an American dancer',52, 70), ('motion picture actress',83, 105), ('New York',121, 129), ('Her birth name',131, 145), ('Alma Jeanne Williams',150, 170)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', ',', 'NN', 'IN', 'NN', 'NN', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'NN', 'VBD', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sonia'), (6, 'Karlov'), (13, '('), (14, 'born'), (19, '1908'), (23, ','), (25, 'date'), (30, 'of'), (33, 'death'), (39, 'unknown'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'dancer'), (70, ','), (72, 'stage'), (77, ','), (79, 'and'), (83, 'motion'), (90, 'picture'), (98, 'actress'), (106, 'from'), (111, 'Syracuse'), (119, ','), (121, 'New'), (125, 'York'), (129, '.'), (131, 'Her'), (135, 'birth'), (141, 'name'), (146, 'was'), (150, 'Alma'), (155, 'Jeanne'), (162, 'Williams'), (170, '.')])</spacy_tokens>
+<spacy_chunks>[('Sonia Karlov', 0, 12), ('an American dancer', 52, 70), ('motion picture actress', 83, 105), ('Syracuse, New York', 111, 129), ('Her birth name', 131, 145), ('Alma Jeanne Williams', 150, 170)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', ',', 'NN', 'IN', 'NN', 'JJ', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', '.', 'PRP$', 'NN', 'NN', 'VBD', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Romane Bohringer</title>
+<link/>https://en.wikipedia.org/wiki/Romane_Bohringer
+<annotated>0</annotated>
+<originalabstract>Romane Bohringer (born 14 August 1973) is a French actress, film director, screenwriter, and costume designer. She is the daughter of Richard Bohringer and sister of Lou Bohringer. Her parents named her after Roman Polanski.
+She won the César Award for Most Promising Actress for her role in Savage Nights.</originalabstract>
+<abstract>Romane_Bohringer ( born 14_August_1973 ) is a_French_actress , film_director , screenwriter , and costume_designer . She is the_daughter of Richard_Bohringer and sister of Lou_Bohringer . Her_parents named her after Roman_Polanski . She won the_César_Award for Most_Promising_Actress for her_role in Savage_Nights .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Romane'), (7, 'Bohringer'), (17, '('), (18, 'born'), (23, '14'), (26, 'August'), (33, '1973'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (58, ','), (60, 'film'), (65, 'director'), (73, ','), (75, 'screenwriter'), (87, ','), (89, 'and'), (93, 'costume'), (101, 'designer'), (109, '.'), (111, 'She'), (115, 'is'), (118, 'the'), (122, 'daughter'), (131, 'of'), (134, 'Richard'), (142, 'Bohringer'), (152, 'and'), (156, 'sister'), (163, 'of'), (166, 'Lou'), (170, 'Bohringer'), (179, '.'), (181, 'Her'), (185, 'parents'), (193, 'named'), (199, 'her'), (203, 'after'), (209, 'Roman'), (215, 'Polanski'), (223, '.'), (225, 'She'), (229, 'won'), (233, 'the'), (237, 'César'), (243, 'Award'), (249, 'for'), (253, 'Most'), (258, 'Promising'), (268, 'Actress'), (276, 'for'), (280, 'her'), (284, 'role'), (289, 'in'), (292, 'Savage'), (299, 'Nights'), (305, '.')])</stanford_tokens>
+<opennlp_chunks>[('Romane Bohringer',0, 16), ('14 August 1973',23, 37), ('a French actress',42, 58), ('film director',60, 73), ('costume designer',93, 109), ('the daughter',118, 130), ('Richard Bohringer',134, 151), ('Lou Bohringer',166, 179), ('Her parents',181, 192), ('Roman Polanski',209, 223), ('the César Award',233, 248), ('Most Promising Actress',253, 275), ('her role',280, 288), ('Savage Nights',292, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NN', 'IN', 'NNP', 'NNP', '.', 'PRP$', 'NNS', 'VBN', 'PRP$', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Romane'), (7, 'Bohringer'), (17, '('), (18, 'born'), (23, '14'), (26, 'August'), (33, '1973'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (58, ','), (60, 'film'), (65, 'director'), (73, ','), (75, 'screenwriter'), (87, ','), (89, 'and'), (93, 'costume'), (101, 'designer'), (109, '.'), (111, 'She'), (115, 'is'), (118, 'the'), (122, 'daughter'), (131, 'of'), (134, 'Richard'), (142, 'Bohringer'), (152, 'and'), (156, 'sister'), (163, 'of'), (166, 'Lou'), (170, 'Bohringer'), (179, '.'), (181, 'Her'), (185, 'parents'), (193, 'named'), (199, 'her'), (203, 'after'), (209, 'Roman'), (215, 'Polanski'), (223, '.'), (225, 'She'), (229, 'won'), (233, 'the'), (237, 'César'), (243, 'Award'), (249, 'for'), (253, 'Most'), (258, 'Promising'), (268, 'Actress'), (276, 'for'), (280, 'her'), (284, 'role'), (289, 'in'), (292, 'Savage'), (299, 'Nights'), (305, '.')])</spacy_tokens>
+<spacy_chunks>[('Romane Bohringer', 0, 16), ('14 August 1973', 23, 37), ('a French actress', 42, 58), ('film director', 60, 73), ('screenwriter', 75, 87), ('Costume designer', 93, 109), ('the daughter', 118, 130), ('Richard Bohringer', 134, 151), ('sister', 156, 162), ('Lou Bohringer', 166, 179), ('Her parents', 181, 192), ('Roman Polanski', 209, 223), ('the César Award', 233, 248), ('César Award for Most Promising Actress', 237, 275), ('her role', 280, 288), ('Savage Nights', 292, 305)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NN', 'IN', 'NNP', 'NNP', '.', 'PRP$', 'NNS', 'VBD', 'PRP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'JJS', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

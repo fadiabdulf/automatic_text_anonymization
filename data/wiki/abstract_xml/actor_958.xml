@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bill Burrud</title>
+<link/>https://en.wikipedia.org/wiki/Bill_Burrud
+<annotated>0</annotated>
+<originalabstract>William James Burrud (January 12, 1925 – June 12, 1990) was a former child star and a television host and producer best known for his travel programs.</originalabstract>
+<abstract>William_James_Burrud ( January_12_,_1925 – June_12_,_1990 ) was a_former_child_star and a_television_host_and_producer best_known for his_travel_programs .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'James'), (14, 'Burrud'), (21, '('), (22, 'January'), (30, '12'), (32, ','), (34, '1925'), (39, '–'), (41, 'June'), (46, '12'), (48, ','), (50, '1990'), (54, ')'), (56, 'was'), (60, 'a'), (62, 'former'), (69, 'child'), (75, 'star'), (80, 'and'), (84, 'a'), (86, 'television'), (97, 'host'), (102, 'and'), (106, 'producer'), (115, 'best'), (120, 'known'), (126, 'for'), (130, 'his'), (134, 'travel'), (141, 'programs'), (149, '.')])</stanford_tokens>
+<opennlp_chunks>[('William James Burrud',0, 20), ('January 12, 1925',22, 38), ('June 12, 1990',41, 54), ('a former child star',60, 79), ('a television host and producer',84, 114), ('best known',115, 125), ('his travel programs',130, 149)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'DT', 'NN', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'James'), (14, 'Burrud'), (21, '('), (22, 'January'), (30, '12'), (32, ','), (34, '1925'), (39, '–'), (41, 'June'), (46, '12'), (48, ','), (50, '1990'), (54, ')'), (56, 'was'), (60, 'a'), (62, 'former'), (69, 'child'), (75, 'star'), (80, 'and'), (84, 'a'), (86, 'television'), (97, 'host'), (102, 'and'), (106, 'producer'), (115, 'best'), (120, 'known'), (126, 'for'), (130, 'his'), (134, 'travel'), (141, 'programs'), (149, '.')])</spacy_tokens>
+<spacy_chunks>[('William James Burrud', 0, 20), ('(January', 21, 29), ('January 12, 1925', 22, 38), ('June 12, 1990', 41, 54), ('a former child star', 60, 79), ('a television host', 84, 101), ('producer', 106, 114), ('his travel programs', 130, 149)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'DT', 'NN', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vincent Irizarry</title>
+<link/>https://en.wikipedia.org/wiki/Vincent_Irizarry
+<annotated>0</annotated>
+<originalabstract>Vincent Michael Irizarry (born November 12, 1959) is an American actor. He was nominated for a Daytime Emmy Award in 1985 and 2002, and won in 2009.</originalabstract>
+<abstract>Vincent_Michael_Irizarry ( born November_12_,_1959 ) is an_American_actor . He was_nominated for a_Daytime_Emmy_Award in 1985_and_2002 , and won in 2009 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vincent'), (8, 'Michael'), (16, 'Irizarry'), (25, '('), (26, 'born'), (31, 'November'), (40, '12'), (42, ','), (44, '1959'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'was'), (79, 'nominated'), (89, 'for'), (93, 'a'), (95, 'Daytime'), (103, 'Emmy'), (108, 'Award'), (114, 'in'), (117, '1985'), (122, 'and'), (126, '2002'), (130, ','), (132, 'and'), (136, 'won'), (140, 'in'), (143, '2009'), (147, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vincent Michael Irizarry',0, 24), ('November 12, 1959',31, 48), ('an American actor',53, 70), ('was nominated',75, 88), ('a Daytime Emmy Award',93, 113), ('1985 and 2002',117, 130)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'CD', 'CC', 'CD', ',', 'CC', 'VBD', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vincent'), (8, 'Michael'), (16, 'Irizarry'), (25, '('), (26, 'born'), (31, 'November'), (40, '12'), (42, ','), (44, '1959'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'was'), (79, 'nominated'), (89, 'for'), (93, 'a'), (95, 'Daytime'), (103, 'Emmy'), (108, 'Award'), (114, 'in'), (117, '1985'), (122, 'and'), (126, '2002'), (130, ','), (132, 'and'), (136, 'won'), (140, 'in'), (143, '2009'), (147, '.')])</spacy_tokens>
+<spacy_chunks>[('Vincent Michael Irizarry', 0, 24), ('November 12, 1959', 31, 48), ('an American actor', 53, 70), ('a Daytime Emmy Award', 93, 113)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'CD', 'CC', 'CD', ',', 'CC', 'VBD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

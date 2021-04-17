@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mimie Mathy</title>
+<link/>https://en.wikipedia.org/wiki/Mimie_Mathy
+<annotated>0</annotated>
+<originalabstract>Mimie Mathy (born 8 July 1957) is a French actress, comedian and singer who is best known for her starring role in the long-running Josephine, Guardian Angel television series. Mathy has achondroplasia, a form of dwarfism, and is 4 ft 4 in (1.32 m) tall.</originalabstract>
+<abstract>Mimie_Mathy ( born 8_July_1957 ) is a_French_actress_,_comedian_and_singer who is_best_known for her_starring_role in the_long-running_Josephine , Guardian_Angel_television_series . Mathy has achondroplasia , a_form of dwarfism , and is 4_ft_4 in (_1.32_m_)_tall .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mimie'), (6, 'Mathy'), (12, '('), (13, 'born'), (18, '8'), (20, 'July'), (25, '1957'), (29, ')'), (31, 'is'), (34, 'a'), (36, 'French'), (43, 'actress'), (50, ','), (52, 'comedian'), (61, 'and'), (65, 'singer'), (72, 'who'), (76, 'is'), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'her'), (98, 'starring'), (107, 'role'), (112, 'in'), (115, 'the'), (119, 'long-running'), (132, 'Josephine'), (141, ','), (143, 'Guardian'), (152, 'Angel'), (158, 'television'), (169, 'series'), (175, '.'), (177, 'Mathy'), (183, 'has'), (187, 'achondroplasia'), (201, ','), (203, 'a'), (205, 'form'), (210, 'of'), (213, 'dwarfism'), (221, ','), (223, 'and'), (227, 'is'), (230, '4'), (232, 'ft'), (235, '4'), (237, 'in'), (240, '('), (241, '1.32'), (246, 'm'), (247, ')'), (249, 'tall'), (253, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mimie Mathy',0, 11), ('8 July 1957',18, 29), ('a French actress, comedian and singer',34, 71), ('is best known',76, 89), ('her starring role',94, 111), ('the long-running Josephine',115, 141), ('Guardian Angel television series',143, 175), ('a form',203, 209), ('4 ft 4',230, 236), ('(1.32 m) tall',240, 253)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'JJ', 'NNP', ',', 'NNP', 'NNP', 'NN', 'NN', '.', 'NNP', 'VBZ', 'NN', ',', 'DT', 'NN', 'IN', 'NN', ',', 'CC', 'VBZ', 'CD', 'NN', 'CD', 'IN', '-LRB-', 'CD', 'NN', '-RRB-', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mimie'), (6, 'Mathy'), (12, '('), (13, 'born'), (18, '8'), (20, 'July'), (25, '1957'), (29, ')'), (31, 'is'), (34, 'a'), (36, 'French'), (43, 'actress'), (50, ','), (52, 'comedian'), (61, 'and'), (65, 'singer'), (72, 'who'), (76, 'is'), (79, 'best'), (84, 'known'), (90, 'for'), (94, 'her'), (98, 'starring'), (107, 'role'), (112, 'in'), (115, 'the'), (119, 'long'), (123, '-'), (124, 'running'), (132, 'Josephine'), (141, ','), (143, 'Guardian'), (152, 'Angel'), (158, 'television'), (169, 'series'), (175, '.'), (177, 'Mathy'), (183, 'has'), (187, 'achondroplasia'), (201, ','), (203, 'a'), (205, 'form'), (210, 'of'), (213, 'dwarfism'), (221, ','), (223, 'and'), (227, 'is'), (230, '4'), (232, 'ft'), (235, '4'), (237, 'in'), (240, '('), (241, '1.32'), (246, 'm'), (247, ')'), (249, 'tall'), (253, '.')])</spacy_tokens>
+<spacy_chunks>[('Mimie Mathy', 0, 11), ('8 July 1957', 18, 29), ('a French actress', 34, 50), ('comedian', 52, 60), ('singer', 65, 71), ('her starring role', 94, 111), ('the long-running Josephine', 115, 141), ('Josephine, Guardian Angel', 132, 157), ('Guardian Angel television series', 143, 175), ('Achondroplasia', 187, 201), ('a form', 203, 209), ('dwarfism', 213, 221), ('1.32 m', 241, 247)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'RB', 'HYPH', 'VBG', 'NNP', ',', 'NNP', 'NNP', 'NN', 'NN', '.', 'NNP', 'VBZ', 'NN', ',', 'DT', 'NN', 'IN', 'NN', ',', 'CC', 'VBZ', 'CD', 'SYM', 'CD', 'IN', '-LRB-', 'CD', 'NN', '-RRB-', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

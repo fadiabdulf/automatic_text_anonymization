@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Billie West</title>
+<link/>https://en.wikipedia.org/wiki/Billie_West
+<annotated>0</annotated>
+<originalabstract>Billie West (August 5, 1891 – June 7, 1967) was an American actress of the silent era. She appeared in 65 films between 1912 and 1917. She was born in Kentucky and died in Plainfield, New Jersey.</originalabstract>
+<abstract>Billie_West ( August_5_,_1891 – June_7_,_1967 ) was an_American_actress of the_silent_era . She appeared in 65_films between 1912_and_1917 . She was_born in Kentucky and died in Plainfield , New_Jersey .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Billie'), (7, 'West'), (12, '('), (13, 'August'), (20, '5'), (21, ','), (23, '1891'), (28, '–'), (30, 'June'), (35, '7'), (36, ','), (38, '1967'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'actress'), (68, 'of'), (71, 'the'), (75, 'silent'), (82, 'era'), (85, '.'), (87, 'She'), (91, 'appeared'), (100, 'in'), (103, '65'), (106, 'films'), (112, 'between'), (120, '1912'), (125, 'and'), (129, '1917'), (133, '.'), (135, 'She'), (139, 'was'), (143, 'born'), (148, 'in'), (151, 'Kentucky'), (160, 'and'), (164, 'died'), (169, 'in'), (172, 'Plainfield'), (182, ','), (184, 'New'), (188, 'Jersey'), (194, '.')])</stanford_tokens>
+<opennlp_chunks>[('Billie West',0, 11), ('August 5, 1891',13, 27), ('June 7, 1967',30, 42), ('an American actress',48, 67), ('the silent era',71, 85), ('65 films',103, 111), ('1912 and 1917',120, 133), ('was born',139, 147), ('New Jersey',184, 194)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Billie'), (7, 'West'), (12, '('), (13, 'August'), (20, '5'), (21, ','), (23, '1891'), (28, '–'), (30, 'June'), (35, '7'), (36, ','), (38, '1967'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'actress'), (68, 'of'), (71, 'the'), (75, 'silent'), (82, 'era'), (85, '.'), (87, 'She'), (91, 'appeared'), (100, 'in'), (103, '65'), (106, 'films'), (112, 'between'), (120, '1912'), (125, 'and'), (129, '1917'), (133, '.'), (135, 'She'), (139, 'was'), (143, 'born'), (148, 'in'), (151, 'Kentucky'), (160, 'and'), (164, 'died'), (169, 'in'), (172, 'Plainfield'), (182, ','), (184, 'New'), (188, 'Jersey'), (194, '.')])</spacy_tokens>
+<spacy_chunks>[('Billie West', 0, 11), ('August 5, 1891', 13, 27), ('June 7, 1967', 30, 42), ('an American actress', 48, 67), ('the silent era', 71, 85), ('65 films', 103, 111), ('Kentucky', 151, 159), ('Plainfield, New Jersey', 172, 194)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

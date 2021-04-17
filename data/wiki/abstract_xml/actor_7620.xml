@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Squire Bancroft</title>
+<link/>https://en.wikipedia.org/wiki/Squire_Bancroft
+<annotated>0</annotated>
+<originalabstract>Sir Squire Bancroft (14 May 1841 – 19 April 1926), born Squire White Butterfield, was an English actor-manager. He and his wife Effie Bancroft are considered to have instigated a new form of drama known as 'drawing-room comedy' or 'cup and saucer drama', owing to the realism of their stage sets.</originalabstract>
+<abstract>Sir_Squire_Bancroft ( 14_May_1841 – 19_April_1926 ) , born Squire_White_Butterfield , was an_English_actor-manager . He and his_wife_Effie_Bancroft are_considered_to_have_instigated a_new_form of drama known as ' drawing-room_comedy_'_or_'_cup_and_saucer_drama_' , owing to the_realism of their_stage_sets .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sir'), (4, 'Squire'), (11, 'Bancroft'), (20, '('), (21, '14'), (24, 'May'), (28, '1841'), (33, '–'), (35, '19'), (38, 'April'), (44, '1926'), (48, ')'), (49, ','), (51, 'born'), (56, 'Squire'), (63, 'White'), (69, 'Butterfield'), (80, ','), (82, 'was'), (86, 'an'), (89, 'English'), (97, 'actor-manager'), (110, '.'), (112, 'He'), (115, 'and'), (119, 'his'), (123, 'wife'), (128, 'Effie'), (134, 'Bancroft'), (143, 'are'), (147, 'considered'), (158, 'to'), (161, 'have'), (166, 'instigated'), (177, 'a'), (179, 'new'), (183, 'form'), (188, 'of'), (191, 'drama'), (197, 'known'), (203, 'as'), (206, '\''), (207, 'drawing-room'), (220, 'comedy'), (226, '\''), (228, 'or'), (231, '\''), (232, 'cup'), (236, 'and'), (240, 'saucer'), (247, 'drama'), (252, '\''), (253, ','), (255, 'owing'), (261, 'to'), (264, 'the'), (268, 'realism'), (276, 'of'), (279, 'their'), (285, 'stage'), (291, 'sets'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sir Squire Bancroft',0, 19), ('14 May 1841',21, 32), ('19 April 1926',35, 48), ('Squire White Butterfield',56, 80), ('an English actor-manager',86, 110), ('his wife Effie Bancroft',119, 142), ('are considered to have instigated',143, 176), ('a new form',177, 187), ('drawing-room comedy\' or \'cup and saucer drama\'',207, 253), ('the realism',264, 275), ('their stage sets',279, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'CC', 'PRP$', 'NN', 'NNP', 'NNP', 'VBP', 'VBN', 'TO', 'VB', 'VBN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'VBN', 'IN', '``', 'JJ', 'NN', '\'\'', 'CC', '``', 'NN', 'CC', 'NN', 'NN', '\'\'', ',', 'VBG', 'TO', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sir'), (4, 'Squire'), (11, 'Bancroft'), (20, '('), (21, '14'), (24, 'May'), (28, '1841'), (33, '–'), (35, '19'), (38, 'April'), (44, '1926'), (48, ')'), (49, ','), (51, 'born'), (56, 'Squire'), (63, 'White'), (69, 'Butterfield'), (80, ','), (82, 'was'), (86, 'an'), (89, 'English'), (97, 'actor'), (102, '-'), (103, 'manager'), (110, '.'), (112, 'He'), (115, 'and'), (119, 'his'), (123, 'wife'), (128, 'Effie'), (134, 'Bancroft'), (143, 'are'), (147, 'considered'), (158, 'to'), (161, 'have'), (166, 'instigated'), (177, 'a'), (179, 'new'), (183, 'form'), (188, 'of'), (191, 'drama'), (197, 'known'), (203, 'as'), (206, "'"), (207, 'drawing'), (214, '-'), (215, 'room'), (220, 'comedy'), (226, "'"), (228, 'or'), (231, "'"), (232, 'cup'), (236, 'and'), (240, 'saucer'), (247, 'drama'), (252, "'"), (253, ','), (255, 'owing'), (261, 'to'), (264, 'the'), (268, 'realism'), (276, 'of'), (279, 'their'), (285, 'stage'), (291, 'sets'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Sir Squire Bancroft', 0, 19), ('(14 May', 20, 27), ('14 May 1841', 21, 32), ('19 April 1926', 35, 48), ('born Squire White Butterfield', 51, 80), ('an English actor-manager', 86, 110), ('his wife', 119, 127), ('Effie Bancroft', 128, 142), ('a new form', 177, 187), ('drawing-room comedy', 207, 226), ("'cup and saucer drama", 231, 252), ('the realism', 264, 275), ('their stage sets', 279, 295)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'HYPH', 'NN', '.', 'PRP', 'CC', 'PRP$', 'NN', 'NNP', 'NNP', 'VBP', 'VBN', 'TO', 'VB', 'VBN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'VBN', 'IN', '``', 'NN', 'HYPH', 'NN', 'NN', "''", 'CC', 'POS', 'NN', 'CC', 'NN', 'NN', "''", ',', 'VBG', 'IN', 'DT', 'NN', 'IN', 'PRP$', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

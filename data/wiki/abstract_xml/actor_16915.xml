@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Meg Lemonnier</title>
+<link/>https://en.wikipedia.org/wiki/Meg_Lemonnier
+<annotated>0</annotated>
+<originalabstract>Marguerite Gabrielle Lemonnier (née Clark; 15 May 1905 – 12 June 1988) was a British-born French singer and film actress. Lemonnier played the female lead in the comedy George and Georgette (1933).</originalabstract>
+<abstract>Marguerite_Gabrielle_Lemonnier ( née_Clark ; 15_May_1905 – 12_June_1988 ) was a_British-born_French_singer_and_film_actress . Lemonnier played the_female_lead in the_comedy George_and_Georgette_(_1933_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marguerite'), (11, 'Gabrielle'), (21, 'Lemonnier'), (31, '('), (32, 'née'), (36, 'Clark'), (41, ';'), (43, '15'), (46, 'May'), (50, '1905'), (55, '–'), (57, '12'), (60, 'June'), (65, '1988'), (69, ')'), (71, 'was'), (75, 'a'), (77, 'British-born'), (90, 'French'), (97, 'singer'), (104, 'and'), (108, 'film'), (113, 'actress'), (120, '.'), (122, 'Lemonnier'), (132, 'played'), (139, 'the'), (143, 'female'), (150, 'lead'), (155, 'in'), (158, 'the'), (162, 'comedy'), (169, 'George'), (176, 'and'), (180, 'Georgette'), (190, '('), (191, '1933'), (195, ')'), (196, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marguerite Gabrielle Lemonnier',0, 30), ('née Clark',32, 41), ('15 May 1905',43, 54), ('12 June 1988',57, 69), ('a British-born French singer and film actress',75, 120), ('the female lead',139, 154), ('the comedy',158, 168), ('George and Georgette (1933)',169, 196)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NNP', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marguerite'), (11, 'Gabrielle'), (21, 'Lemonnier'), (31, '('), (32, 'née'), (36, 'Clark'), (41, ';'), (43, '15'), (46, 'May'), (50, '1905'), (55, '–'), (57, '12'), (60, 'June'), (65, '1988'), (69, ')'), (71, 'was'), (75, 'a'), (77, 'British'), (84, '-'), (85, 'born'), (90, 'French'), (97, 'singer'), (104, 'and'), (108, 'film'), (113, 'actress'), (120, '.'), (122, 'Lemonnier'), (132, 'played'), (139, 'the'), (143, 'female'), (150, 'lead'), (155, 'in'), (158, 'the'), (162, 'comedy'), (169, 'George'), (176, 'and'), (180, 'Georgette'), (190, '('), (191, '1933'), (195, ')'), (196, '.')])</spacy_tokens>
+<spacy_chunks>[('Marguerite Gabrielle Lemonnier', 0, 30), ('(née Clark', 31, 41), ('15 May 1905', 43, 54), ('12 June 1988', 57, 69), ('a British-born French singer and film actress', 75, 120), ('the female lead', 139, 154), ('the comedy', 158, 168), ('George and Georgette', 169, 189)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NNP', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

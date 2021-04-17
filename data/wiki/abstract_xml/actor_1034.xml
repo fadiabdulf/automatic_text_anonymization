@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Henry Calvin</title>
+<link/>https://en.wikipedia.org/wiki/Henry_Calvin
+<annotated>0</annotated>
+<originalabstract>Henry Calvin (May 25, 1918 – October 6, 1975) was an American actor known for his role as the Spanish soldier, Sergeant Garcia, on Walt Disney's live-action television series Zorro (1957–1959).</originalabstract>
+<abstract>Henry_Calvin ( May_25_,_1918 – October_6_,_1975 ) was an_American_actor known for his_role as the_Spanish_soldier , Sergeant_Garcia , on Walt_Disney 's_live-action_television_series_Zorro ( 1957 – 1959 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Henry'), (6, 'Calvin'), (13, '('), (14, 'May'), (18, '25'), (20, ','), (22, '1918'), (27, '–'), (29, 'October'), (37, '6'), (38, ','), (40, '1975'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'role'), (87, 'as'), (90, 'the'), (94, 'Spanish'), (102, 'soldier'), (109, ','), (111, 'Sergeant'), (120, 'Garcia'), (126, ','), (128, 'on'), (131, 'Walt'), (136, 'Disney'), (142, '\'s'), (145, 'live-action'), (157, 'television'), (168, 'series'), (175, 'Zorro'), (181, '('), (182, '1957'), (186, '–'), (187, '1959'), (191, ')'), (192, '.')])</stanford_tokens>
+<opennlp_chunks>[('Henry Calvin',0, 12), ('May 25, 1918',14, 26), ('October 6, 1975',29, 44), ('an American actor',50, 67), ('his role',78, 86), ('the Spanish soldier',90, 109), ('Sergeant Garcia',111, 126), ('Walt Disney',131, 142), ('\'s live-action television series Zorro',142, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', ',', 'NNP', 'NNP', ',', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Henry'), (6, 'Calvin'), (13, '('), (14, 'May'), (18, '25'), (20, ','), (22, '1918'), (27, '–'), (29, 'October'), (37, '6'), (38, ','), (40, '1975'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'actor'), (68, 'known'), (74, 'for'), (78, 'his'), (82, 'role'), (87, 'as'), (90, 'the'), (94, 'Spanish'), (102, 'soldier'), (109, ','), (111, 'Sergeant'), (120, 'Garcia'), (126, ','), (128, 'on'), (131, 'Walt'), (136, 'Disney'), (142, "'s"), (145, 'live'), (149, '-'), (150, 'action'), (157, 'television'), (168, 'series'), (175, 'Zorro'), (181, '('), (182, '1957–1959'), (191, ')'), (192, '.')])</spacy_tokens>
+<spacy_chunks>[('Henry Calvin', 0, 12), ('May 25, 1918', 14, 26), ('October 6, 1975', 29, 44), ('an American actor', 50, 67), ('his role', 78, 86), ('the Spanish soldier', 90, 109), ('Sergeant Garcia', 111, 126), ("Walt Disney's live-action television series", 131, 174), ('Zorro (1957', 175, 186)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNPS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'JJ', 'NN', ',', 'NNP', 'NNP', ',', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'HYPH', 'NN', 'NN', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Claire Stansfield</title>
+<link/>https://en.wikipedia.org/wiki/Claire_Stansfield
+<annotated>0</annotated>
+<originalabstract>Claire Stansfield (born 27 August 1964) is an English-Canadian actress, director, fashion designer and former model. She is best known for her recurring role as "Alti" in several episodes of the TV series Xena: Warrior Princess.</originalabstract>
+<abstract>Claire_Stansfield ( born 27_August_1964 ) is an_English-Canadian_actress , director , fashion_designer and former_model . She is_best_known for her_recurring_role as " Alti " in several_episodes of the_TV_series_Xena : Warrior_Princess .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Claire'), (7, 'Stansfield'), (18, '('), (19, 'born'), (24, '27'), (27, 'August'), (34, '1964'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'English-Canadian'), (63, 'actress'), (70, ','), (72, 'director'), (80, ','), (82, 'fashion'), (90, 'designer'), (99, 'and'), (103, 'former'), (110, 'model'), (115, '.'), (117, 'She'), (121, 'is'), (124, 'best'), (129, 'known'), (135, 'for'), (139, 'her'), (143, 'recurring'), (153, 'role'), (158, 'as'), (161, '"'), (162, 'Alti'), (166, '"'), (168, 'in'), (171, 'several'), (179, 'episodes'), (188, 'of'), (191, 'the'), (195, 'TV'), (198, 'series'), (205, 'Xena'), (209, ':'), (211, 'Warrior'), (219, 'Princess'), (227, '.')])</stanford_tokens>
+<opennlp_chunks>[('Claire Stansfield',0, 17), ('27 August 1964',24, 38), ('an English-Canadian actress',43, 70), ('fashion designer',82, 98), ('former model',103, 115), ('is best known',121, 134), ('her recurring role',139, 157), ('several episodes',171, 187), ('the TV series Xena',191, 209), ('Warrior Princess',211, 227)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'VBG', 'NN', 'IN', '``', 'NNP', '\'\'', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'NN', 'NNP', ':', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Claire'), (7, 'Stansfield'), (18, '('), (19, 'born'), (24, '27'), (27, 'August'), (34, '1964'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'English'), (53, '-'), (54, 'Canadian'), (63, 'actress'), (70, ','), (72, 'director'), (80, ','), (82, 'fashion'), (90, 'designer'), (99, 'and'), (103, 'former'), (110, 'model'), (115, '.'), (117, 'She'), (121, 'is'), (124, 'best'), (129, 'known'), (135, 'for'), (139, 'her'), (143, 'recurring'), (153, 'role'), (158, 'as'), (161, '"'), (162, 'Alti'), (166, '"'), (168, 'in'), (171, 'several'), (179, 'episodes'), (188, 'of'), (191, 'the'), (195, 'TV'), (198, 'series'), (205, 'Xena'), (209, ':'), (211, 'Warrior'), (219, 'Princess'), (227, '.')])</spacy_tokens>
+<spacy_chunks>[('Claire Stansfield', 0, 17), ('27 August 1964', 24, 38), ('an English-Canadian actress', 43, 70), ('director', 72, 80), ('fashion designer', 82, 98), ('former model', 103, 115), ('her recurring role', 139, 157), ('several episodes', 171, 187), ('the TV series', 191, 204), ('Xena: Warrior Princess', 205, 227)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'VBG', 'NN', 'IN', '``', 'NNP', "''", 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'NN', 'NNP', ':', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

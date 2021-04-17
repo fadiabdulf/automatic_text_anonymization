@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gene Reynolds</title>
+<link/>https://en.wikipedia.org/wiki/Gene_Reynolds
+<annotated>0</annotated>
+<originalabstract>Gene Reynolds (born Eugene Reynolds Blumenthal, April 4, 1923) is an American actor, television writer, director, and producer. He was one of the producers of the TV series M*A*S*H.</originalabstract>
+<abstract>Gene_Reynolds ( born Eugene_Reynolds_Blumenthal , April_4_,_1923 ) is an_American_actor , television_writer , director , and producer . He was one of the_producers of the_TV_series_M * A_*_S * H.</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gene'), (5, 'Reynolds'), (14, '('), (15, 'born'), (20, 'Eugene'), (27, 'Reynolds'), (36, 'Blumenthal'), (46, ','), (48, 'April'), (54, '4'), (55, ','), (57, '1923'), (61, ')'), (63, 'is'), (66, 'an'), (69, 'American'), (78, 'actor'), (83, ','), (85, 'television'), (96, 'writer'), (102, ','), (104, 'director'), (112, ','), (114, 'and'), (118, 'producer'), (126, '.'), (128, 'He'), (131, 'was'), (135, 'one'), (139, 'of'), (142, 'the'), (146, 'producers'), (156, 'of'), (159, 'the'), (163, 'TV'), (166, 'series'), (173, 'M'), (174, '*'), (175, 'A'), (176, '*'), (177, 'S'), (178, '*'), (179, 'H.')])</stanford_tokens>
+<opennlp_chunks>[('Gene Reynolds',0, 13), ('Eugene Reynolds Blumenthal',20, 46), ('April 4, 1923',48, 61), ('an American actor',66, 83), ('television writer',85, 102), ('the producers',142, 155), ('the TV series M',159, 174), ('A*S',175, 178)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'CD', 'IN', 'DT', 'NNS', 'IN', 'DT', 'NN', 'NN', 'NN', 'SYM', 'DT', 'SYM', 'NN', 'SYM', 'NN']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gene'), (5, 'Reynolds'), (14, '('), (15, 'born'), (20, 'Eugene'), (27, 'Reynolds'), (36, 'Blumenthal'), (46, ','), (48, 'April'), (54, '4'), (55, ','), (57, '1923'), (61, ')'), (63, 'is'), (66, 'an'), (69, 'American'), (78, 'actor'), (83, ','), (85, 'television'), (96, 'writer'), (102, ','), (104, 'director'), (112, ','), (114, 'and'), (118, 'producer'), (126, '.'), (128, 'He'), (131, 'was'), (135, 'one'), (139, 'of'), (142, 'the'), (146, 'producers'), (156, 'of'), (159, 'the'), (163, 'TV'), (166, 'series'), (173, 'M*A*S*H.')])</spacy_tokens>
+<spacy_chunks>[('Gene Reynolds', 0, 13), ('(born Eugene Reynolds Blumenthal', 14, 46), ('April 4, 1923', 48, 61), ('an American actor', 66, 83), ('television writer', 85, 102), ('director', 104, 112), ('producer', 118, 126), ('the producers', 142, 155), ('the TV series', 159, 172), ('M*A*S*H.', 173, 181)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'CD', 'IN', 'DT', 'NNS', 'IN', 'DT', 'NN', 'NN', 'NNP']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

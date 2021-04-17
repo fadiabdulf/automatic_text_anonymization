@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bill Camfield</title>
+<link/>https://en.wikipedia.org/wiki/Bill_Camfield
+<annotated>0</annotated>
+<originalabstract>William Joseph Camfield (June 27, 1929 – September 30, 1991) was a popular television personality in Fort Worth, Texas, in the 1950s and 1960s. He is best known as Icky Twerp, host of the kids’ show Slam Bang Theatre, and Gorgon, host of the horror film series Nightmare.</originalabstract>
+<abstract>William_Joseph_Camfield ( June_27_,_1929 – September_30_,_1991 ) was a_popular_television_personality in Fort_Worth_,_Texas_, in the_1950s_and_1960s . He is_best_known as Icky_Twerp , host of the_kids ’_show_Slam_Bang_Theatre , and Gorgon , host of the_horror_film_series_Nightmare .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Joseph'), (15, 'Camfield'), (24, '('), (25, 'June'), (30, '27'), (32, ','), (34, '1929'), (39, '–'), (41, 'September'), (51, '30'), (53, ','), (55, '1991'), (59, ')'), (61, 'was'), (65, 'a'), (67, 'popular'), (75, 'television'), (86, 'personality'), (98, 'in'), (101, 'Fort'), (106, 'Worth'), (111, ','), (113, 'Texas'), (118, ','), (120, 'in'), (123, 'the'), (127, '1950s'), (133, 'and'), (137, '1960s'), (142, '.'), (144, 'He'), (147, 'is'), (150, 'best'), (155, 'known'), (161, 'as'), (164, 'Icky'), (169, 'Twerp'), (174, ','), (176, 'host'), (181, 'of'), (184, 'the'), (188, 'kids'), (192, '’'), (194, 'show'), (199, 'Slam'), (204, 'Bang'), (209, 'Theatre'), (216, ','), (218, 'and'), (222, 'Gorgon'), (228, ','), (230, 'host'), (235, 'of'), (238, 'the'), (242, 'horror'), (249, 'film'), (254, 'series'), (261, 'Nightmare'), (270, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Joseph Camfield',0, 23), ('June 27, 1929',25, 38), ('September 30, 1991',41, 59), ('a popular television personality',65, 97), ('Fort Worth, Texas,',101, 119), ('the 1950s and 1960s',123, 142), ('is best known',147, 160), ('Icky Twerp',164, 174), ('the kids',184, 192), ('’ show Slam Bang Theatre',192, 216), ('the horror film series Nightmare',238, 270)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NN', 'IN', 'DT', 'NNS', 'POS', 'NN', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', ',', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Joseph'), (15, 'Camfield'), (24, '('), (25, 'June'), (30, '27'), (32, ','), (34, '1929'), (39, '–'), (41, 'September'), (51, '30'), (53, ','), (55, '1991'), (59, ')'), (61, 'was'), (65, 'a'), (67, 'popular'), (75, 'television'), (86, 'personality'), (98, 'in'), (101, 'Fort'), (106, 'Worth'), (111, ','), (113, 'Texas'), (118, ','), (120, 'in'), (123, 'the'), (127, '1950s'), (133, 'and'), (137, '1960s'), (142, '.'), (144, 'He'), (147, 'is'), (150, 'best'), (155, 'known'), (161, 'as'), (164, 'Icky'), (169, 'Twerp'), (174, ','), (176, 'host'), (181, 'of'), (184, 'the'), (188, 'kids'), (192, '’'), (194, 'show'), (199, 'Slam'), (204, 'Bang'), (209, 'Theatre'), (216, ','), (218, 'and'), (222, 'Gorgon'), (228, ','), (230, 'host'), (235, 'of'), (238, 'the'), (242, 'horror'), (249, 'film'), (254, 'series'), (261, 'Nightmare'), (270, '.')])</spacy_tokens>
+<spacy_chunks>[('William Joseph Camfield', 0, 23), ('June 27, 1929', 25, 38), ('September 30, 1991', 41, 59), ('a popular television personality', 65, 97), ('Fort Worth, Texas', 101, 118), ('the 1950s', 123, 132), ('Icky Twerp', 164, 174), ('the kids', 184, 192), ('’ show', 192, 198), ('Slam Bang Theatre', 199, 216), ('Gorgon', 222, 228), ('the horror film series', 238, 260), ('Nightmare', 261, 270)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', ',', 'NNP', ',', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NN', 'IN', 'DT', 'NNS', 'NN', 'NN', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', ',', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

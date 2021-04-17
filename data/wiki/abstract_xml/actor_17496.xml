@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sabrina Bartlett</title>
+<link/>https://en.wikipedia.org/wiki/Sabrina_Bartlett
+<annotated>0</annotated>
+<originalabstract>Sabrina Bartlett is an English actress. She is known for playing the part of Sophia in Da Vinci's Demons.
+In 2016, Bartlett appeared in the sixth-season finale of the HBO series Game of Thrones as a disguise of Arya Stark.
+She also appeared as Princess Isabella in the first season of the History series Knightfall.</originalabstract>
+<abstract>Sabrina_Bartlett is an_English_actress . She is_known for playing the_part of Sophia in Da_Vinci 's_Demons . In 2016 , Bartlett appeared in the_sixth-season_finale of the_HBO_series_Game of Thrones as a_disguise of Arya_Stark . She also appeared as Princess_Isabella in the_first_season of the_History_series_Knightfall .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sabrina'), (8, 'Bartlett'), (17, 'is'), (20, 'an'), (23, 'English'), (31, 'actress'), (38, '.'), (40, 'She'), (44, 'is'), (47, 'known'), (53, 'for'), (57, 'playing'), (65, 'the'), (69, 'part'), (74, 'of'), (77, 'Sophia'), (84, 'in'), (87, 'Da'), (90, 'Vinci'), (95, '\'s'), (98, 'Demons'), (104, '.'), (106, 'In'), (109, '2016'), (113, ','), (115, 'Bartlett'), (124, 'appeared'), (133, 'in'), (136, 'the'), (140, 'sixth-season'), (153, 'finale'), (160, 'of'), (163, 'the'), (167, 'HBO'), (171, 'series'), (178, 'Game'), (183, 'of'), (186, 'Thrones'), (194, 'as'), (197, 'a'), (199, 'disguise'), (208, 'of'), (211, 'Arya'), (216, 'Stark'), (221, '.'), (223, 'She'), (227, 'also'), (232, 'appeared'), (241, 'as'), (244, 'Princess'), (253, 'Isabella'), (262, 'in'), (265, 'the'), (269, 'first'), (275, 'season'), (282, 'of'), (285, 'the'), (289, 'History'), (297, 'series'), (304, 'Knightfall'), (314, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sabrina Bartlett',0, 16), ('an English actress',20, 38), ('is known',44, 52), ('the part',65, 73), ('Da Vinci',87, 95), ('\'s Demons',95, 104), ('the sixth-season finale',136, 159), ('the HBO series Game',163, 182), ('a disguise',197, 207), ('Arya Stark',211, 221), ('Princess Isabella',244, 261), ('the first season',265, 281), ('the History series Knightfall',285, 314)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NN', 'NNP', 'POS', 'NNS', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNPS', 'IN', 'DT', 'VB', 'IN', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sabrina'), (8, 'Bartlett'), (17, 'is'), (20, 'an'), (23, 'English'), (31, 'actress'), (38, '.'), (40, 'She'), (44, 'is'), (47, 'known'), (53, 'for'), (57, 'playing'), (65, 'the'), (69, 'part'), (74, 'of'), (77, 'Sophia'), (84, 'in'), (87, 'Da'), (90, 'Vinci'), (95, "'s"), (98, 'Demons'), (104, '.'), (106, 'In'), (109, '2016'), (113, ','), (115, 'Bartlett'), (124, 'appeared'), (133, 'in'), (136, 'the'), (140, 'sixth'), (145, '-'), (146, 'season'), (153, 'finale'), (160, 'of'), (163, 'the'), (167, 'HBO'), (171, 'series'), (178, 'Game'), (183, 'of'), (186, 'Thrones'), (194, 'as'), (197, 'a'), (199, 'disguise'), (208, 'of'), (211, 'Arya'), (216, 'Stark'), (221, '.'), (223, 'She'), (227, 'also'), (232, 'appeared'), (241, 'as'), (244, 'Princess'), (253, 'Isabella'), (262, 'in'), (265, 'the'), (269, 'first'), (275, 'season'), (282, 'of'), (285, 'the'), (289, 'History'), (297, 'series'), (304, 'Knightfall'), (314, '.')])</spacy_tokens>
+<spacy_chunks>[('Sabrina Bartlett', 0, 16), ('an English actress', 20, 38), ('the part', 65, 73), ('Sophia', 77, 83), ("Da Vinci's Demons", 87, 104), ('the sixth-season finale', 136, 159), ('the HBO series Game', 163, 182), ('Game of Thrones', 178, 193), ('a disguise', 197, 207), ('Arya Stark', 211, 221), ('Princess Isabella', 244, 261), ('the first season', 265, 281), ('the History series', 285, 303), ('Knightfall', 304, 314)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNPS', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'IN', 'DT', 'JJ', 'HYPH', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNPS', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

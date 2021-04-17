@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Norma Varden</title>
+<link/>https://en.wikipedia.org/wiki/Norma_Varden
+<annotated>0</annotated>
+<originalabstract>Norma Varden (born Norma Varden Shackleton, 20 January 1898 – 19 January 1989) was a British-born American actress with a long film career.</originalabstract>
+<abstract>Norma_Varden ( born Norma_Varden_Shackleton , 20_January_1898 – 19_January_1989 ) was a_British-born_American_actress with a_long_film_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Norma'), (6, 'Varden'), (13, '('), (14, 'born'), (19, 'Norma'), (25, 'Varden'), (32, 'Shackleton'), (42, ','), (44, '20'), (47, 'January'), (55, '1898'), (60, '–'), (62, '19'), (65, 'January'), (73, '1989'), (77, ')'), (79, 'was'), (83, 'a'), (85, 'British-born'), (98, 'American'), (107, 'actress'), (115, 'with'), (120, 'a'), (122, 'long'), (127, 'film'), (132, 'career'), (138, '.')])</stanford_tokens>
+<opennlp_chunks>[('Norma Varden',0, 12), ('Norma Varden Shackleton',19, 42), ('20 January 1898',44, 59), ('19 January 1989',62, 77), ('a British-born American actress',83, 114), ('a long film career',120, 138)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Norma'), (6, 'Varden'), (13, '('), (14, 'born'), (19, 'Norma'), (25, 'Varden'), (32, 'Shackleton'), (42, ','), (44, '20'), (47, 'January'), (55, '1898'), (60, '–'), (62, '19'), (65, 'January'), (73, '1989'), (77, ')'), (79, 'was'), (83, 'a'), (85, 'British'), (92, '-'), (93, 'born'), (98, 'American'), (107, 'actress'), (115, 'with'), (120, 'a'), (122, 'long'), (127, 'film'), (132, 'career'), (138, '.')])</spacy_tokens>
+<spacy_chunks>[('Norma Varden', 0, 12), ('born Norma Varden Shackleton', 14, 42), ('20 January 1898', 44, 59), ('19 January 1989', 62, 77), ('a British-born American actress', 83, 114), ('a long film career', 120, 138)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

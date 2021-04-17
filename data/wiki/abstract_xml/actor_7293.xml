@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bert Woodruff</title>
+<link/>https://en.wikipedia.org/wiki/Bert_Woodruff
+<annotated>0</annotated>
+<originalabstract>William Herbert "Bert" Woodruff (April 29, 1856 – June 14, 1934) was an American actor of the silent era. He appeared in 64 films between 1916 and 1931. He was born in Peoria, Illinois, and died in Los Angeles, California.</originalabstract>
+<abstract>William_Herbert_"_Bert_"_Woodruff ( April_29_,_1856 – June_14_,_1934 ) was an_American_actor of the_silent_era . He appeared in 64_films between 1916_and_1931 . He was_born in Peoria , Illinois , and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'William'), (8, 'Herbert'), (16, '"'), (17, 'Bert'), (21, '"'), (23, 'Woodruff'), (32, '('), (33, 'April'), (39, '29'), (41, ','), (43, '1856'), (48, '–'), (50, 'June'), (55, '14'), (57, ','), (59, '1934'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'actor'), (87, 'of'), (90, 'the'), (94, 'silent'), (101, 'era'), (104, '.'), (106, 'He'), (109, 'appeared'), (118, 'in'), (121, '64'), (124, 'films'), (130, 'between'), (138, '1916'), (143, 'and'), (147, '1931'), (151, '.'), (153, 'He'), (156, 'was'), (160, 'born'), (165, 'in'), (168, 'Peoria'), (174, ','), (176, 'Illinois'), (184, ','), (186, 'and'), (190, 'died'), (195, 'in'), (198, 'Los'), (202, 'Angeles'), (209, ','), (211, 'California'), (221, '.')])</stanford_tokens>
+<opennlp_chunks>[('William Herbert "Bert" Woodruff',0, 31), ('April 29, 1856',33, 47), ('June 14, 1934',50, 63), ('an American actor',69, 86), ('the silent era',90, 104), ('64 films',121, 129), ('1916 and 1931',138, 151), ('was born',156, 164), ('Los Angeles',198, 209)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'William'), (8, 'Herbert'), (16, '"'), (17, 'Bert'), (21, '"'), (23, 'Woodruff'), (32, '('), (33, 'April'), (39, '29'), (41, ','), (43, '1856'), (48, '–'), (50, 'June'), (55, '14'), (57, ','), (59, '1934'), (63, ')'), (65, 'was'), (69, 'an'), (72, 'American'), (81, 'actor'), (87, 'of'), (90, 'the'), (94, 'silent'), (101, 'era'), (104, '.'), (106, 'He'), (109, 'appeared'), (118, 'in'), (121, '64'), (124, 'films'), (130, 'between'), (138, '1916'), (143, 'and'), (147, '1931'), (151, '.'), (153, 'He'), (156, 'was'), (160, 'born'), (165, 'in'), (168, 'Peoria'), (174, ','), (176, 'Illinois'), (184, ','), (186, 'and'), (190, 'died'), (195, 'in'), (198, 'Los'), (202, 'Angeles'), (209, ','), (211, 'California'), (221, '.')])</spacy_tokens>
+<spacy_chunks>[('William Herbert', 0, 15), ('"Bert" Woodruff', 16, 31), ('April 29, 1856', 33, 47), ('June 14, 1934', 50, 63), ('an American actor', 69, 86), ('the silent era', 90, 104), ('64 films', 121, 129), ('Peoria, Illinois', 168, 184), ('Los Angeles, California', 198, 221)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

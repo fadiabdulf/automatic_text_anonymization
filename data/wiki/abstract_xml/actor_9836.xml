@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Georges Géret</title>
+<link/>https://en.wikipedia.org/wiki/Georges_G%C3%A9ret
+<annotated>0</annotated>
+<originalabstract>Georges Géret (18 October 1924 – 7 April 1996) was a French film actor. He appeared in over 80 films between 1954 and 1992. He was born in Lyon, France.</originalabstract>
+<abstract>Georges_Géret ( 18_October_1924 – 7_April_1996 ) was a_French_film_actor . He appeared in over_80_films between 1954_and_1992 . He was_born in Lyon , France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Georges'), (8, 'Géret'), (14, '('), (15, '18'), (18, 'October'), (26, '1924'), (31, '–'), (33, '7'), (35, 'April'), (41, '1996'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'French'), (60, 'film'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'appeared'), (84, 'in'), (87, 'over'), (92, '80'), (95, 'films'), (101, 'between'), (109, '1954'), (114, 'and'), (118, '1992'), (122, '.'), (124, 'He'), (127, 'was'), (131, 'born'), (136, 'in'), (139, 'Lyon'), (143, ','), (145, 'France'), (151, '.')])</stanford_tokens>
+<opennlp_chunks>[('Georges Géret',0, 13), ('18 October 1924',15, 30), ('7 April 1996',33, 45), ('a French film actor',51, 70), ('over 80 films',87, 100), ('1954 and 1992',109, 122), ('was born',127, 135)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Georges'), (8, 'Géret'), (14, '('), (15, '18'), (18, 'October'), (26, '1924'), (31, '–'), (33, '7'), (35, 'April'), (41, '1996'), (45, ')'), (47, 'was'), (51, 'a'), (53, 'French'), (60, 'film'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'appeared'), (84, 'in'), (87, 'over'), (92, '80'), (95, 'films'), (101, 'between'), (109, '1954'), (114, 'and'), (118, '1992'), (122, '.'), (124, 'He'), (127, 'was'), (131, 'born'), (136, 'in'), (139, 'Lyon'), (143, ','), (145, 'France'), (151, '.')])</spacy_tokens>
+<spacy_chunks>[('Georges Géret', 0, 13), ('(18 October', 14, 25), ('18 October 1924', 15, 30), ('7 April 1996', 33, 45), ('a French film actor', 51, 70), ('over 80 films', 87, 100), ('France', 145, 151)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

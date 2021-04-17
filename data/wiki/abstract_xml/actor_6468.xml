@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Erik Per Sullivan</title>
+<link/>https://en.wikipedia.org/wiki/Erik_Per_Sullivan
+<annotated>0</annotated>
+<originalabstract>Erik Per Sullivan (born July 12, 1991) is a former American actor. He is best known for his role as Dewey, the younger brother to middle child Malcolm, on the Fox series Malcolm in the Middle, which was on air for seven years.</originalabstract>
+<abstract>Erik Per Sullivan ( born July_12_,_1991 ) is a_former_American_actor . He is_best_known for his_role as Dewey , the_younger_brother to middle_child Malcolm , on the_Fox_series_Malcolm in the_Middle , which was on air for seven_years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Erik'), (5, 'Per'), (9, 'Sullivan'), (18, '('), (19, 'born'), (24, 'July'), (29, '12'), (31, ','), (33, '1991'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'former'), (51, 'American'), (60, 'actor'), (65, '.'), (67, 'He'), (70, 'is'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'his'), (92, 'role'), (97, 'as'), (100, 'Dewey'), (105, ','), (107, 'the'), (111, 'younger'), (119, 'brother'), (127, 'to'), (130, 'middle'), (137, 'child'), (143, 'Malcolm'), (150, ','), (152, 'on'), (155, 'the'), (159, 'Fox'), (163, 'series'), (170, 'Malcolm'), (178, 'in'), (181, 'the'), (185, 'Middle'), (191, ','), (193, 'which'), (199, 'was'), (203, 'on'), (206, 'air'), (210, 'for'), (214, 'seven'), (220, 'years'), (225, '.')])</stanford_tokens>
+<opennlp_chunks>[('July 12, 1991',24, 37), ('a former American actor',42, 65), ('is best known',70, 83), ('his role',88, 96), ('the younger brother',107, 126), ('middle child',130, 142), ('the Fox series Malcolm',155, 177), ('the Middle',181, 191), ('seven years',214, 225)]</opennlp_chunks>
+<stanford_pos>['NNP', 'IN', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', ',', 'DT', 'JJR', 'NN', 'TO', 'JJ', 'NN', 'NNP', ',', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'DT', 'NNP', ',', 'WDT', 'VBD', 'IN', 'NN', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Erik'), (5, 'Per'), (9, 'Sullivan'), (18, '('), (19, 'born'), (24, 'July'), (29, '12'), (31, ','), (33, '1991'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'former'), (51, 'American'), (60, 'actor'), (65, '.'), (67, 'He'), (70, 'is'), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'his'), (92, 'role'), (97, 'as'), (100, 'Dewey'), (105, ','), (107, 'the'), (111, 'younger'), (119, 'brother'), (127, 'to'), (130, 'middle'), (137, 'child'), (143, 'Malcolm'), (150, ','), (152, 'on'), (155, 'the'), (159, 'Fox'), (163, 'series'), (170, 'Malcolm'), (178, 'in'), (181, 'the'), (185, 'Middle'), (191, ','), (193, 'which'), (199, 'was'), (203, 'on'), (206, 'air'), (210, 'for'), (214, 'seven'), (220, 'years'), (225, '.')])</spacy_tokens>
+<spacy_chunks>[('Sullivan', 9, 17), ('July 12, 1991', 24, 37), ('a former American actor', 42, 65), ('his role', 88, 96), ('the younger brother', 107, 126), ('middle child', 130, 142), ('Malcolm', 143, 150), ('the Fox series', 155, 169), ('Malcolm in the Middle', 170, 191), ('seven years', 214, 225)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', ',', 'DT', 'JJR', 'NN', 'IN', 'JJ', 'NN', 'NNP', ',', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'DT', 'NNP', ',', 'WDT', 'VBD', 'IN', 'NN', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Alvin (actor)</title>
+<link/>https://en.wikipedia.org/wiki/John_Alvin_(actor)
+<annotated>0</annotated>
+<originalabstract>John Alvin (October 24, 1917 – February 27, 2009) was an American film, stage and television actor. He appeared in over 25 films for Warner Brothers and numerous television and theater roles throughout his career, which spanned from the 1940s to the 1990s.</originalabstract>
+<abstract>John_Alvin ( October_24_,_1917 – February_27_,_2009 ) was an_American_film_,_stage_and_television_actor . He appeared in over_25_films for Warner_Brothers_and_numerous_television_and_theater_roles throughout his_career , which spanned from the_1940s to the_1990s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Alvin'), (11, '('), (12, 'October'), (20, '24'), (22, ','), (24, '1917'), (29, '–'), (31, 'February'), (40, '27'), (42, ','), (44, '2009'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (70, ','), (72, 'stage'), (78, 'and'), (82, 'television'), (93, 'actor'), (98, '.'), (100, 'He'), (103, 'appeared'), (112, 'in'), (115, 'over'), (120, '25'), (123, 'films'), (129, 'for'), (133, 'Warner'), (140, 'Brothers'), (149, 'and'), (153, 'numerous'), (162, 'television'), (173, 'and'), (177, 'theater'), (185, 'roles'), (191, 'throughout'), (202, 'his'), (206, 'career'), (212, ','), (214, 'which'), (220, 'spanned'), (228, 'from'), (233, 'the'), (237, '1940s'), (243, 'to'), (246, 'the'), (250, '1990s'), (255, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Alvin',0, 10), ('October 24, 1917',12, 28), ('February 27, 2009',31, 48), ('an American film, stage and television actor',54, 98), ('over 25 films',115, 128), ('Warner Brothers and numerous television and theater roles',133, 190), ('his career',202, 212), ('the 1940s',233, 242), ('the 1990s',246, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'NNP', 'NNPS', 'CC', 'JJ', 'NN', 'CC', 'NN', 'NNS', 'IN', 'PRP$', 'NN', ',', 'WDT', 'VBD', 'IN', 'DT', 'CD', 'TO', 'DT', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Alvin'), (11, '('), (12, 'October'), (20, '24'), (22, ','), (24, '1917'), (29, '–'), (31, 'February'), (40, '27'), (42, ','), (44, '2009'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (70, ','), (72, 'stage'), (78, 'and'), (82, 'television'), (93, 'actor'), (98, '.'), (100, 'He'), (103, 'appeared'), (112, 'in'), (115, 'over'), (120, '25'), (123, 'films'), (129, 'for'), (133, 'Warner'), (140, 'Brothers'), (149, 'and'), (153, 'numerous'), (162, 'television'), (173, 'and'), (177, 'theater'), (185, 'roles'), (191, 'throughout'), (202, 'his'), (206, 'career'), (212, ','), (214, 'which'), (220, 'spanned'), (228, 'from'), (233, 'the'), (237, '1940s'), (243, 'to'), (246, 'the'), (250, '1990s'), (255, '.')])</spacy_tokens>
+<spacy_chunks>[('John Alvin', 0, 10), ('(October', 11, 19), ('October 24, 1917', 12, 28), ('February 27, 2009', 31, 48), ('an American film', 54, 70), ('television actor', 82, 98), ('over 25 films', 115, 128), ('Warner Brothers', 133, 148), ('numerous television and theater roles', 153, 190), ('his career', 202, 212), ('the 1940s', 233, 242)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'NNP', 'NNPS', 'CC', 'JJ', 'NN', 'CC', 'NN', 'NNS', 'IN', 'PRP$', 'NN', ',', 'WDT', 'VBD', 'IN', 'DT', 'NNS', 'IN', 'DT', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

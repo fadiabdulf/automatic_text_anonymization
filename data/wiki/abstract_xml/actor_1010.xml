@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Adolph Caesar</title>
+<link/>https://en.wikipedia.org/wiki/Adolph_Caesar
+<annotated>0</annotated>
+<originalabstract>Adolph Caesar (December 5, 1933 – March 6, 1986) was an American actor, voice-over artist, theatre director, dancer, and choreographer. He was nominated for an Oscar and a Golden Globe for his supporting role in the film A Soldier's Story (1984).</originalabstract>
+<abstract>Adolph_Caesar ( December_5_,_1933 – March_6_,_1986 ) was an_American_actor , voice-over_artist , theatre_director , dancer , and choreographer . He was_nominated for an_Oscar and a_Golden_Globe for his_supporting_role in the_film A_Soldier 's_Story_(_1984_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Adolph'), (7, 'Caesar'), (14, '('), (15, 'December'), (24, '5'), (25, ','), (27, '1933'), (32, '–'), (34, 'March'), (40, '6'), (41, ','), (43, '1986'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, ','), (72, 'voice-over'), (83, 'artist'), (89, ','), (91, 'theatre'), (99, 'director'), (107, ','), (109, 'dancer'), (115, ','), (117, 'and'), (121, 'choreographer'), (134, '.'), (136, 'He'), (139, 'was'), (143, 'nominated'), (153, 'for'), (157, 'an'), (160, 'Oscar'), (166, 'and'), (170, 'a'), (172, 'Golden'), (179, 'Globe'), (185, 'for'), (189, 'his'), (193, 'supporting'), (204, 'role'), (209, 'in'), (212, 'the'), (216, 'film'), (221, 'A'), (223, 'Soldier'), (230, '\'s'), (233, 'Story'), (239, '('), (240, '1984'), (244, ')'), (245, '.')])</stanford_tokens>
+<opennlp_chunks>[('Adolph Caesar',0, 13), ('December 5, 1933',15, 31), ('March 6, 1986',34, 47), ('an American actor',53, 70), ('voice-over artist',72, 89), ('theatre director',91, 107), ('was nominated',139, 152), ('an Oscar',157, 165), ('a Golden Globe',170, 184), ('his supporting role',189, 208), ('the film',212, 220), ('A Soldier',221, 230), ('\'s Story (1984)',230, 245)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'NN', 'DT', 'NN', 'POS', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Adolph'), (7, 'Caesar'), (14, '('), (15, 'December'), (24, '5'), (25, ','), (27, '1933'), (32, '–'), (34, 'March'), (40, '6'), (41, ','), (43, '1986'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, ','), (72, 'voice'), (77, '-'), (78, 'over'), (83, 'artist'), (89, ','), (91, 'theatre'), (99, 'director'), (107, ','), (109, 'dancer'), (115, ','), (117, 'and'), (121, 'choreographer'), (134, '.'), (136, 'He'), (139, 'was'), (143, 'nominated'), (153, 'for'), (157, 'an'), (160, 'Oscar'), (166, 'and'), (170, 'a'), (172, 'Golden'), (179, 'Globe'), (185, 'for'), (189, 'his'), (193, 'supporting'), (204, 'role'), (209, 'in'), (212, 'the'), (216, 'film'), (221, 'A'), (223, 'Soldier'), (230, "'s"), (233, 'Story'), (239, '('), (240, '1984'), (244, ')'), (245, '.')])</spacy_tokens>
+<spacy_chunks>[('Adolph Caesar', 0, 13), ('December 5, 1933', 15, 31), ('March 6, 1986', 34, 47), ('an American actor', 53, 70), ('Voice-over', 72, 82), ('artist', 83, 89), ('theatre director', 91, 107), ('dancer', 109, 115), ('choreographer', 121, 134), ('an Oscar', 157, 165), ('a Golden Globe', 170, 184), ('his supporting role', 189, 208), ('the film', 212, 220), ("A Soldier's Story", 221, 238)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'HYPH', 'RP', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'DT', 'NN', 'DT', 'NNP', 'POS', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

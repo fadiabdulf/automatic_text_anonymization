@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Henry Victor</title>
+<link/>https://en.wikipedia.org/wiki/Henry_Victor
+<annotated>0</annotated>
+<originalabstract>Henry Victor (2 October 1892 – 15 March 1945) was an English-born character actor who had his highest profile in the film silent era, he appeared in numerous film roles in his native Britain, before emigrating to the US in 1939 where he continued his career.</originalabstract>
+<abstract>Henry_Victor ( 2_October_1892 – 15_March_1945 ) was an_English-born_character_actor who had his_highest_profile in the_film_silent_era , he appeared in numerous_film_roles in his_native_Britain , before emigrating to the_US in 1939 where he continued his_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Henry'), (6, 'Victor'), (13, '('), (14, '2'), (16, 'October'), (24, '1892'), (29, '–'), (31, '15'), (34, 'March'), (40, '1945'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English-born'), (66, 'character'), (76, 'actor'), (82, 'who'), (86, 'had'), (90, 'his'), (94, 'highest'), (102, 'profile'), (110, 'in'), (113, 'the'), (117, 'film'), (122, 'silent'), (129, 'era'), (132, ','), (134, 'he'), (137, 'appeared'), (146, 'in'), (149, 'numerous'), (158, 'film'), (163, 'roles'), (169, 'in'), (172, 'his'), (176, 'native'), (183, 'Britain'), (190, ','), (192, 'before'), (199, 'emigrating'), (210, 'to'), (213, 'the'), (217, 'US'), (220, 'in'), (223, '1939'), (228, 'where'), (234, 'he'), (237, 'continued'), (247, 'his'), (251, 'career'), (257, '.')])</stanford_tokens>
+<opennlp_chunks>[('Henry Victor',0, 12), ('2 October 1892',14, 28), ('15 March 1945',31, 44), ('an English-born character actor',50, 81), ('his highest profile',90, 109), ('the film silent era',113, 132), ('numerous film roles',149, 168), ('his native Britain',172, 190), ('the US',213, 219), ('his career',247, 257)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'PRP$', 'JJS', 'NN', 'IN', 'DT', 'NN', 'JJ', 'NN', ',', 'PRP', 'VBD', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'PRP$', 'JJ', 'NNP', ',', 'IN', 'VBG', 'TO', 'DT', 'NNP', 'IN', 'CD', 'WRB', 'PRP', 'VBD', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Henry'), (6, 'Victor'), (13, '('), (14, '2'), (16, 'October'), (24, '1892'), (29, '–'), (31, '15'), (34, 'March'), (40, '1945'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'English'), (60, '-'), (61, 'born'), (66, 'character'), (76, 'actor'), (82, 'who'), (86, 'had'), (90, 'his'), (94, 'highest'), (102, 'profile'), (110, 'in'), (113, 'the'), (117, 'film'), (122, 'silent'), (129, 'era'), (132, ','), (134, 'he'), (137, 'appeared'), (146, 'in'), (149, 'numerous'), (158, 'film'), (163, 'roles'), (169, 'in'), (172, 'his'), (176, 'native'), (183, 'Britain'), (190, ','), (192, 'before'), (199, 'emigrating'), (210, 'to'), (213, 'the'), (217, 'US'), (220, 'in'), (223, '1939'), (228, 'where'), (234, 'he'), (237, 'continued'), (247, 'his'), (251, 'career'), (257, '.')])</spacy_tokens>
+<spacy_chunks>[('Henry Victor', 0, 12), ('(2 October', 13, 23), ('2 October 1892', 14, 28), ('15 March 1945', 31, 44), ('an English-born character actor', 50, 81), ('his highest profile', 90, 109), ('the film', 113, 121), ('silent era', 122, 132), ('numerous film roles', 149, 168), ('his native Britain', 172, 190), ('the US', 213, 219), ('his career', 247, 257)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'NN', 'WP', 'VBD', 'PRP$', 'JJS', 'NN', 'IN', 'DT', 'NN', 'JJ', 'NN', ',', 'PRP', 'VBD', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'PRP$', 'JJ', 'NNP', ',', 'IN', 'VBG', 'IN', 'DT', 'NNP', 'IN', 'CD', 'WRB', 'PRP', 'VBD', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

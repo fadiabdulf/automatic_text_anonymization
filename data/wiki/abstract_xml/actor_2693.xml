@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brian Austin Green</title>
+<link/>https://en.wikipedia.org/wiki/Brian_Austin_Green
+<annotated>0</annotated>
+<originalabstract>Brian Austin Green (born Brian Green; July 15, 1973) is an American actor best known for his portrayal of David Silver on the television series Beverly Hills, 90210 (1990–2000). Green was also a series regular on Terminator: The Sarah Connor Chronicles,  Freddie, Wedding Band, and Anger Management.</originalabstract>
+<abstract>Brian_Austin_Green ( born Brian_Green ; July_15_,_1973 ) is an_American_actor best_known for his_portrayal of David_Silver on the_television_series_Beverly_Hills , 90210 ( 1990 – 2000 ) . Green was also a_series_regular on Terminator : The_Sarah_Connor_Chronicles , Freddie , Wedding_Band , and Anger_Management .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brian'), (6, 'Austin'), (13, 'Green'), (19, '('), (20, 'born'), (25, 'Brian'), (31, 'Green'), (36, ';'), (38, 'July'), (43, '15'), (45, ','), (47, '1973'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'actor'), (74, 'best'), (79, 'known'), (85, 'for'), (89, 'his'), (93, 'portrayal'), (103, 'of'), (106, 'David'), (112, 'Silver'), (119, 'on'), (122, 'the'), (126, 'television'), (137, 'series'), (144, 'Beverly'), (152, 'Hills'), (157, ','), (159, '90210'), (165, '('), (166, '1990'), (170, '–'), (171, '2000'), (175, ')'), (176, '.'), (178, 'Green'), (184, 'was'), (188, 'also'), (193, 'a'), (195, 'series'), (202, 'regular'), (210, 'on'), (213, 'Terminator'), (223, ':'), (225, 'The'), (229, 'Sarah'), (235, 'Connor'), (242, 'Chronicles'), (252, ','), (255, 'Freddie'), (262, ','), (264, 'Wedding'), (272, 'Band'), (276, ','), (278, 'and'), (282, 'Anger'), (288, 'Management'), (298, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brian Austin Green',0, 18), ('Brian Green',25, 36), ('July 15, 1973',38, 51), ('an American actor',56, 73), ('best known',74, 84), ('his portrayal',89, 102), ('David Silver',106, 118), ('the television series Beverly Hills',122, 157), ('a series regular',193, 209), ('The Sarah Connor Chronicles',225, 252), ('Wedding Band',264, 276), ('Anger Management',282, 298)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', ',', 'CD', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.', 'NN', 'VBD', 'RB', 'DT', 'NN', 'JJ', 'IN', 'NNP', ':', 'DT', 'NNP', 'NNP', 'NNS', ',', 'NNP', ',', 'NN', 'NN', ',', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brian'), (6, 'Austin'), (13, 'Green'), (19, '('), (20, 'born'), (25, 'Brian'), (31, 'Green'), (36, ';'), (38, 'July'), (43, '15'), (45, ','), (47, '1973'), (51, ')'), (53, 'is'), (56, 'an'), (59, 'American'), (68, 'actor'), (74, 'best'), (79, 'known'), (85, 'for'), (89, 'his'), (93, 'portrayal'), (103, 'of'), (106, 'David'), (112, 'Silver'), (119, 'on'), (122, 'the'), (126, 'television'), (137, 'series'), (144, 'Beverly'), (152, 'Hills'), (157, ','), (159, '90210'), (165, '('), (166, '1990–2000'), (175, ')'), (176, '.'), (178, 'Green'), (184, 'was'), (188, 'also'), (193, 'a'), (195, 'series'), (202, 'regular'), (210, 'on'), (213, 'Terminator'), (223, ':'), (225, 'The'), (229, 'Sarah'), (235, 'Connor'), (242, 'Chronicles'), (252, ','), (255, 'Freddie'), (262, ','), (264, 'Wedding'), (272, 'Band'), (276, ','), (278, 'and'), (282, 'Anger'), (288, 'Management'), (298, '.')])</spacy_tokens>
+<spacy_chunks>[('Brian Austin Green', 0, 18), ('Brian Green', 25, 36), ('July 15, 1973', 38, 51), ('an American actor', 56, 73), ('his portrayal', 89, 102), ('David Silver', 106, 118), ('the television series', 122, 143), ('Beverly Hills, 90210', 144, 164), ('a series', 193, 201), ('Terminator: The Sarah Connor Chronicles', 213, 252), ('Freddie', 255, 262), ('Wedding Band', 264, 276), ('Anger Management', 282, 298)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', ',', 'CD', '-LRB-', 'CD', '-RRB-', '.', 'NNP', 'VBD', 'RB', 'DT', 'NN', 'JJ', 'IN', 'NNP', ':', 'DT', 'NNP', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

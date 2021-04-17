@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mary Mackenzie</title>
+<link/>https://en.wikipedia.org/wiki/Mary_Mackenzie
+<annotated>0</annotated>
+<originalabstract>Mary Mackenzie (3 May 1922 – 20 September 1966) was an English actress. One of her earliest credited TV roles was in 1950 on BBC's Sunday Night Theatre, as Miriam in an adaptation of H. G. Wells' The History of Mr Polly, a role she returned to in the 1959 BBC serialization.</originalabstract>
+<abstract>Mary_Mackenzie ( 3_May_1922 – 20_September_1966 ) was an_English_actress . One of her_earliest_credited_TV_roles was in 1950 on BBC 's_Sunday_Night_Theatre , as Miriam in an_adaptation of H._G._Wells '_The_History of Mr_Polly , a_role she returned_to in the_1959_BBC_serialization .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mary'), (5, 'Mackenzie'), (15, '('), (16, '3'), (18, 'May'), (22, '1922'), (27, '–'), (29, '20'), (32, 'September'), (42, '1966'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'English'), (63, 'actress'), (70, '.'), (72, 'One'), (76, 'of'), (79, 'her'), (83, 'earliest'), (92, 'credited'), (101, 'TV'), (104, 'roles'), (110, 'was'), (114, 'in'), (117, '1950'), (122, 'on'), (125, 'BBC'), (128, '\'s'), (131, 'Sunday'), (138, 'Night'), (144, 'Theatre'), (151, ','), (153, 'as'), (156, 'Miriam'), (163, 'in'), (166, 'an'), (169, 'adaptation'), (180, 'of'), (183, 'H.'), (186, 'G.'), (189, 'Wells'), (194, '\''), (196, 'The'), (200, 'History'), (208, 'of'), (211, 'Mr'), (214, 'Polly'), (219, ','), (221, 'a'), (223, 'role'), (228, 'she'), (232, 'returned'), (241, 'to'), (244, 'in'), (247, 'the'), (251, '1959'), (256, 'BBC'), (260, 'serialization'), (273, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mary Mackenzie',0, 14), ('3 May 1922',16, 26), ('20 September 1966',29, 46), ('an English actress',52, 70), ('her earliest credited TV roles',79, 109), ('\'s Sunday Night Theatre',128, 151), ('an adaptation',166, 179), ('H. G. Wells',183, 194), ('\' The History',194, 207), ('Mr Polly',211, 219), ('a role',221, 227), ('returned to',232, 243), ('the 1959 BBC serialization',247, 273)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'CD', 'IN', 'PRP$', 'JJS', 'VBN', 'NN', 'NNS', 'VBD', 'IN', 'CD', 'IN', 'NNP', 'POS', 'NNP', 'NNP', 'NNP', ',', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'PRP', 'VBD', 'TO', 'IN', 'DT', 'CD', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mary'), (5, 'Mackenzie'), (15, '('), (16, '3'), (18, 'May'), (22, '1922'), (27, '–'), (29, '20'), (32, 'September'), (42, '1966'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'English'), (63, 'actress'), (70, '.'), (72, 'One'), (76, 'of'), (79, 'her'), (83, 'earliest'), (92, 'credited'), (101, 'TV'), (104, 'roles'), (110, 'was'), (114, 'in'), (117, '1950'), (122, 'on'), (125, 'BBC'), (128, "'s"), (131, 'Sunday'), (138, 'Night'), (144, 'Theatre'), (151, ','), (153, 'as'), (156, 'Miriam'), (163, 'in'), (166, 'an'), (169, 'adaptation'), (180, 'of'), (183, 'H.'), (186, 'G.'), (189, 'Wells'), (194, "'"), (196, 'The'), (200, 'History'), (208, 'of'), (211, 'Mr'), (214, 'Polly'), (219, ','), (221, 'a'), (223, 'role'), (228, 'she'), (232, 'returned'), (241, 'to'), (244, 'in'), (247, 'the'), (251, '1959'), (256, 'BBC'), (260, 'serialization'), (273, '.')])</spacy_tokens>
+<spacy_chunks>[('Mary Mackenzie', 0, 14), ('3 May 1922', 16, 26), ('20 September 1966', 29, 46), ('an English actress', 52, 70), ('her earliest credited TV roles', 79, 109), ("BBC's Sunday Night Theatre", 125, 151), ('Miriam', 156, 162), ('an adaptation', 166, 179), ("H. G. Wells' The History", 183, 207), ('The History of Mr Polly', 196, 219), ('a role', 221, 227), ('the 1959 BBC serialization', 247, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'CD', 'IN', 'PRP$', 'JJS', 'VBN', 'NN', 'NNS', 'VBD', 'IN', 'CD', 'IN', 'NNP', 'POS', 'NNP', 'NNP', 'NNP', ',', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'POS', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'PRP', 'VBD', 'IN', 'IN', 'DT', 'CD', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul Kent (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Paul_Kent_(actor)
+<annotated>0</annotated>
+<originalabstract>Paul Kent (October 13, 1930 – October 7, 2011) was an American actor and the founder/artistic director of the Melrose Theatre in West Hollywood.</originalabstract>
+<abstract>Paul_Kent ( October_13_,_1930 – October_7_,_2011 ) was an_American_actor and the_founder/artistic_director of the_Melrose_Theatre in West_Hollywood .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Kent'), (10, '('), (11, 'October'), (19, '13'), (21, ','), (23, '1930'), (28, '–'), (30, 'October'), (38, '7'), (39, ','), (41, '2011'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'and'), (73, 'the'), (77, 'founder/artistic'), (94, 'director'), (103, 'of'), (106, 'the'), (110, 'Melrose'), (118, 'Theatre'), (126, 'in'), (129, 'West'), (134, 'Hollywood'), (143, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Kent',0, 9), ('October 13, 1930',11, 27), ('October 7, 2011',30, 45), ('an American actor',51, 68), ('the founder/artistic director',73, 102), ('the Melrose Theatre',106, 125), ('West Hollywood',129, 143)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Kent'), (10, '('), (11, 'October'), (19, '13'), (21, ','), (23, '1930'), (28, '–'), (30, 'October'), (38, '7'), (39, ','), (41, '2011'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'and'), (73, 'the'), (77, 'founder'), (84, '/'), (85, 'artistic'), (94, 'director'), (103, 'of'), (106, 'the'), (110, 'Melrose'), (118, 'Theatre'), (126, 'in'), (129, 'West'), (134, 'Hollywood'), (143, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Kent', 0, 9), ('(October', 10, 18), ('October 13, 1930', 11, 27), ('October 7, 2011', 30, 45), ('an American actor', 51, 68), ('the founder', 73, 84), ('artistic director', 85, 102), ('the Melrose Theatre', 106, 125), ('West Hollywood', 129, 143)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNPS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'DT', 'NN', 'SYM', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

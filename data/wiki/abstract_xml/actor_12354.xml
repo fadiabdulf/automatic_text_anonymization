@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Margalo Gillmore</title>
+<link/>https://en.wikipedia.org/wiki/Margalo_Gillmore
+<annotated>0</annotated>
+<originalabstract>Margaret Lorraine "Margalo" Gillmore (31 May 1897 – 30 June 1986) was an English-born American actress who had a long career as a stage actress on Broadway. She also appeared in films and TV series, mostly in the 1950s and early 1960s.</originalabstract>
+<abstract>Margaret_Lorraine_"_Margalo_"_Gillmore ( 31_May_1897 – 30_June_1986 ) was an_English-born_American_actress who had a_long_career as a_stage_actress on Broadway . She also appeared in films and TV_series , mostly_in the_1950s and early_1960s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Margaret'), (9, 'Lorraine'), (18, '"'), (19, 'Margalo'), (26, '"'), (28, 'Gillmore'), (37, '('), (38, '31'), (41, 'May'), (45, '1897'), (50, '–'), (52, '30'), (55, 'June'), (60, '1986'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'English-born'), (86, 'American'), (95, 'actress'), (103, 'who'), (107, 'had'), (111, 'a'), (113, 'long'), (118, 'career'), (125, 'as'), (128, 'a'), (130, 'stage'), (136, 'actress'), (144, 'on'), (147, 'Broadway'), (155, '.'), (157, 'She'), (161, 'also'), (166, 'appeared'), (175, 'in'), (178, 'films'), (184, 'and'), (188, 'TV'), (191, 'series'), (197, ','), (199, 'mostly'), (206, 'in'), (209, 'the'), (213, '1950s'), (219, 'and'), (223, 'early'), (229, '1960s'), (234, '.')])</stanford_tokens>
+<opennlp_chunks>[('Margaret Lorraine "Margalo" Gillmore',0, 36), ('31 May 1897',38, 49), ('30 June 1986',52, 64), ('an English-born American actress',70, 102), ('a long career',111, 124), ('a stage actress',128, 143), ('TV series',188, 197), ('mostly in',199, 208), ('the 1950s',209, 218), ('early 1960s',223, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNS', 'CC', 'NN', 'NN', ',', 'RB', 'IN', 'DT', 'CD', 'CC', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Margaret'), (9, 'Lorraine'), (18, '"'), (19, 'Margalo'), (26, '"'), (28, 'Gillmore'), (37, '('), (38, '31'), (41, 'May'), (45, '1897'), (50, '–'), (52, '30'), (55, 'June'), (60, '1986'), (64, ')'), (66, 'was'), (70, 'an'), (73, 'English'), (80, '-'), (81, 'born'), (86, 'American'), (95, 'actress'), (103, 'who'), (107, 'had'), (111, 'a'), (113, 'long'), (118, 'career'), (125, 'as'), (128, 'a'), (130, 'stage'), (136, 'actress'), (144, 'on'), (147, 'Broadway'), (155, '.'), (157, 'She'), (161, 'also'), (166, 'appeared'), (175, 'in'), (178, 'films'), (184, 'and'), (188, 'TV'), (191, 'series'), (197, ','), (199, 'mostly'), (206, 'in'), (209, 'the'), (213, '1950s'), (219, 'and'), (223, 'early'), (229, '1960s'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('Margaret Lorraine "Margalo" Gillmore', 0, 36), ('(31 May', 37, 44), ('31 May 1897', 38, 49), ('30 June 1986', 52, 64), ('an English-born American actress', 70, 102), ('a long career', 111, 124), ('a stage actress', 128, 143), ('Broadway', 147, 155), ('TV series', 188, 197), ('the 1950s', 209, 218), ('early 1960s', 223, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'WP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'NNS', 'CC', 'NN', 'NN', ',', 'RB', 'IN', 'DT', 'NNS', 'CC', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Spencer Treat Clark</title>
+<link/>https://en.wikipedia.org/wiki/Spencer_Treat_Clark
+<annotated>0</annotated>
+<originalabstract>Spencer Treat Clark (born September 24, 1987) is an American actor who has appeared in several films, including Gladiator, Mystic River, and Unbreakable.</originalabstract>
+<abstract>Spencer_Treat_Clark ( born September_24_,_1987 ) is an_American_actor who has_appeared in several_films , including Gladiator , Mystic_River , and Unbreakable .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Spencer'), (8, 'Treat'), (14, 'Clark'), (20, '('), (21, 'born'), (26, 'September'), (36, '24'), (38, ','), (40, '1987'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (67, 'who'), (71, 'has'), (75, 'appeared'), (84, 'in'), (87, 'several'), (95, 'films'), (100, ','), (102, 'including'), (112, 'Gladiator'), (121, ','), (123, 'Mystic'), (130, 'River'), (135, ','), (137, 'and'), (141, 'Unbreakable'), (152, '.')])</stanford_tokens>
+<opennlp_chunks>[('Spencer Treat Clark',0, 19), ('September 24, 1987',26, 44), ('an American actor',49, 66), ('has appeared',71, 83), ('several films',87, 100), ('Mystic River',123, 135)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', ',', 'VBG', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Spencer'), (8, 'Treat'), (14, 'Clark'), (20, '('), (21, 'born'), (26, 'September'), (36, '24'), (38, ','), (40, '1987'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (67, 'who'), (71, 'has'), (75, 'appeared'), (84, 'in'), (87, 'several'), (95, 'films'), (100, ','), (102, 'including'), (112, 'Gladiator'), (121, ','), (123, 'Mystic'), (130, 'River'), (135, ','), (137, 'and'), (141, 'Unbreakable'), (152, '.')])</spacy_tokens>
+<spacy_chunks>[('Spencer Treat Clark', 0, 19), ('September 24, 1987', 26, 44), ('an American actor', 49, 66), ('several films', 87, 100), ('Gladiator', 112, 121), ('Mystic River', 123, 135), ('Unbreakable', 141, 152)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNS', ',', 'VBG', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

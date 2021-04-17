@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arthur Loft</title>
+<link/>https://en.wikipedia.org/wiki/Arthur_Loft
+<annotated>0</annotated>
+<originalabstract>Arthur Loft (May 25, 1897 – January 1, 1947) was an American film actor. He appeared in 224 films between 1932 and 1947. He was born in Denver, Colorado and died in Los Angeles, California. He is interred at Glendale's Forest Lawn Memorial Park Cemetery.</originalabstract>
+<abstract>Arthur_Loft ( May_25_,_1897 – January_1_,_1947 ) was an_American_film_actor . He appeared in 224_films between 1932_and_1947 . He was_born in Denver , Colorado and died in Los_Angeles , California . He is_interred at Glendale 's_Forest_Lawn_Memorial_Park_Cemetery .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthur'), (7, 'Loft'), (12, '('), (13, 'May'), (17, '25'), (19, ','), (21, '1897'), (26, '–'), (28, 'January'), (36, '1'), (37, ','), (39, '1947'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'film'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'appeared'), (85, 'in'), (88, '224'), (92, 'films'), (98, 'between'), (106, '1932'), (111, 'and'), (115, '1947'), (119, '.'), (121, 'He'), (124, 'was'), (128, 'born'), (133, 'in'), (136, 'Denver'), (142, ','), (144, 'Colorado'), (153, 'and'), (157, 'died'), (162, 'in'), (165, 'Los'), (169, 'Angeles'), (176, ','), (178, 'California'), (188, '.'), (190, 'He'), (193, 'is'), (196, 'interred'), (205, 'at'), (208, 'Glendale'), (216, '\'s'), (219, 'Forest'), (226, 'Lawn'), (231, 'Memorial'), (240, 'Park'), (245, 'Cemetery'), (253, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthur Loft',0, 11), ('May 25, 1897',13, 25), ('January 1, 1947',28, 43), ('an American film actor',49, 71), ('224 films',88, 97), ('1932 and 1947',106, 119), ('was born',124, 132), ('Los Angeles',165, 176), ('is interred',193, 204), ('\'s Forest Lawn Memorial Park Cemetery',216, 253)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'POS', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthur'), (7, 'Loft'), (12, '('), (13, 'May'), (17, '25'), (19, ','), (21, '1897'), (26, '–'), (28, 'January'), (36, '1'), (37, ','), (39, '1947'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'film'), (66, 'actor'), (71, '.'), (73, 'He'), (76, 'appeared'), (85, 'in'), (88, '224'), (92, 'films'), (98, 'between'), (106, '1932'), (111, 'and'), (115, '1947'), (119, '.'), (121, 'He'), (124, 'was'), (128, 'born'), (133, 'in'), (136, 'Denver'), (142, ','), (144, 'Colorado'), (153, 'and'), (157, 'died'), (162, 'in'), (165, 'Los'), (169, 'Angeles'), (176, ','), (178, 'California'), (188, '.'), (190, 'He'), (193, 'is'), (196, 'interred'), (205, 'at'), (208, 'Glendale'), (216, "'s"), (219, 'Forest'), (226, 'Lawn'), (231, 'Memorial'), (240, 'Park'), (245, 'Cemetery'), (253, '.')])</spacy_tokens>
+<spacy_chunks>[('Arthur Loft', 0, 11), ('May 25, 1897', 13, 25), ('January 1, 1947', 28, 43), ('an American film actor', 49, 71), ('224 films', 88, 97), ('Denver, Colorado', 136, 152), ('Los Angeles, California', 165, 188), ("Glendale's Forest Lawn Memorial Park Cemetery", 208, 253)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'POS', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

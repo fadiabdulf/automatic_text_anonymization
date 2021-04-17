@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nathalie Boutefeu</title>
+<link/>https://en.wikipedia.org/wiki/Nathalie_Boutefeu
+<annotated>0</annotated>
+<originalabstract>Nathalie Boutefeu (born 1968) is a French actress, film director and screenwriter. She has appeared in 40 films since 1990. She starred in the film The Butterfly's Dream, which was screened in the Un Certain Regard section at the 1994 Cannes Film Festival.</originalabstract>
+<abstract>Nathalie_Boutefeu ( born 1968 ) is a_French_actress , film_director_and_screenwriter . She has_appeared in 40_films since 1990 . She starred in the_film The_Butterfly 's_Dream , which was_screened in the_Un_Certain_Regard_section at the_1994_Cannes_Film_Festival .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nathalie'), (9, 'Boutefeu'), (18, '('), (19, 'born'), (24, '1968'), (28, ')'), (30, 'is'), (33, 'a'), (35, 'French'), (42, 'actress'), (49, ','), (51, 'film'), (56, 'director'), (65, 'and'), (69, 'screenwriter'), (81, '.'), (83, 'She'), (87, 'has'), (91, 'appeared'), (100, 'in'), (103, '40'), (106, 'films'), (112, 'since'), (118, '1990'), (122, '.'), (124, 'She'), (128, 'starred'), (136, 'in'), (139, 'the'), (143, 'film'), (148, 'The'), (152, 'Butterfly'), (161, '\'s'), (164, 'Dream'), (169, ','), (171, 'which'), (177, 'was'), (181, 'screened'), (190, 'in'), (193, 'the'), (197, 'Un'), (200, 'Certain'), (208, 'Regard'), (215, 'section'), (223, 'at'), (226, 'the'), (230, '1994'), (235, 'Cannes'), (242, 'Film'), (247, 'Festival'), (255, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nathalie Boutefeu',0, 17), ('a French actress',33, 49), ('film director and screenwriter',51, 81), ('has appeared',87, 99), ('40 films',103, 111), ('the film',139, 147), ('The Butterfly',148, 161), ('\'s Dream',161, 169), ('was screened',177, 189), ('the Un Certain Regard section',193, 222), ('the 1994 Cannes Film Festival',226, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'DT', 'NNP', 'POS', 'NN', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'JJ', 'NN', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nathalie'), (9, 'Boutefeu'), (18, '('), (19, 'born'), (24, '1968'), (28, ')'), (30, 'is'), (33, 'a'), (35, 'French'), (42, 'actress'), (49, ','), (51, 'film'), (56, 'director'), (65, 'and'), (69, 'screenwriter'), (81, '.'), (83, 'She'), (87, 'has'), (91, 'appeared'), (100, 'in'), (103, '40'), (106, 'films'), (112, 'since'), (118, '1990'), (122, '.'), (124, 'She'), (128, 'starred'), (136, 'in'), (139, 'the'), (143, 'film'), (148, 'The'), (152, 'Butterfly'), (161, "'s"), (164, 'Dream'), (169, ','), (171, 'which'), (177, 'was'), (181, 'screened'), (190, 'in'), (193, 'the'), (197, 'Un'), (200, 'Certain'), (208, 'Regard'), (215, 'section'), (223, 'at'), (226, 'the'), (230, '1994'), (235, 'Cannes'), (242, 'Film'), (247, 'Festival'), (255, '.')])</spacy_tokens>
+<spacy_chunks>[('Nathalie Boutefeu', 0, 17), ('a French actress', 33, 49), ('Film director', 51, 64), ('screenwriter', 69, 81), ('40 films', 103, 111), ('the film', 139, 147), ("The Butterfly's Dream", 148, 169), ('the Un Certain Regard section', 193, 222), ('the 1994 Cannes Film Festival', 226, 255)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'CD', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'DT', 'NNP', 'POS', 'NNP', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Raymond Souplex</title>
+<link/>https://en.wikipedia.org/wiki/Raymond_Souplex
+<annotated>0</annotated>
+<originalabstract>Raymond Souplex (1 June 1901 – 22 November 1972) was a French actor and singer. He was in a long-term relationship with Jane Sourza, although they never married.</originalabstract>
+<abstract>Raymond_Souplex ( 1_June_1901 – 22_November_1972 ) was a_French_actor_and_singer . He was in a_long-term_relationship with Jane_Sourza , although they never married .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Raymond'), (8, 'Souplex'), (16, '('), (17, '1'), (19, 'June'), (24, '1901'), (29, '–'), (31, '22'), (34, 'November'), (43, '1972'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'actor'), (68, 'and'), (72, 'singer'), (78, '.'), (80, 'He'), (83, 'was'), (87, 'in'), (90, 'a'), (92, 'long-term'), (102, 'relationship'), (115, 'with'), (120, 'Jane'), (125, 'Sourza'), (131, ','), (133, 'although'), (142, 'they'), (147, 'never'), (153, 'married'), (160, '.')])</stanford_tokens>
+<opennlp_chunks>[('Raymond Souplex',0, 15), ('1 June 1901',17, 28), ('22 November 1972',31, 47), ('a French actor and singer',53, 78), ('a long-term relationship',90, 114), ('Jane Sourza',120, 131)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'PRP', 'RB', 'VBD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Raymond'), (8, 'Souplex'), (16, '('), (17, '1'), (19, 'June'), (24, '1901'), (29, '–'), (31, '22'), (34, 'November'), (43, '1972'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'actor'), (68, 'and'), (72, 'singer'), (78, '.'), (80, 'He'), (83, 'was'), (87, 'in'), (90, 'a'), (92, 'long'), (96, '-'), (97, 'term'), (102, 'relationship'), (115, 'with'), (120, 'Jane'), (125, 'Sourza'), (131, ','), (133, 'although'), (142, 'they'), (147, 'never'), (153, 'married'), (160, '.')])</spacy_tokens>
+<spacy_chunks>[('Raymond Souplex', 0, 15), ('(1 June', 16, 23), ('1 June 1901', 17, 28), ('22 November 1972', 31, 47), ('a French actor', 53, 67), ('singer', 72, 78), ('a long-term relationship', 90, 114), ('Jane Sourza', 120, 131)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'JJ', 'HYPH', 'NN', 'NN', 'IN', 'NNP', 'NNP', ',', 'IN', 'PRP', 'RB', 'VBD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Amanda Abbington</title>
+<link/>https://en.wikipedia.org/wiki/Amanda_Abbington
+<annotated>0</annotated>
+<originalabstract>Amanda Abbington (born Amanda Jane Smith; 28 February 1974) is an English actress. She is best known for playing Miss Mardle in Mr Selfridge and Mary Morstan in the BBC adaptation of Sherlock.</originalabstract>
+<abstract>Amanda_Abbington ( born Amanda_Jane_Smith ; 28_February_1974 ) is an_English_actress . She is_best_known for playing Miss_Mardle in Mr_Selfridge and Mary_Morstan in the_BBC_adaptation of Sherlock .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Amanda'), (7, 'Abbington'), (17, '('), (18, 'born'), (23, 'Amanda'), (30, 'Jane'), (35, 'Smith'), (40, ';'), (42, '28'), (45, 'February'), (54, '1974'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'English'), (74, 'actress'), (81, '.'), (83, 'She'), (87, 'is'), (90, 'best'), (95, 'known'), (101, 'for'), (105, 'playing'), (113, 'Miss'), (118, 'Mardle'), (125, 'in'), (128, 'Mr'), (131, 'Selfridge'), (141, 'and'), (145, 'Mary'), (150, 'Morstan'), (158, 'in'), (161, 'the'), (165, 'BBC'), (169, 'adaptation'), (180, 'of'), (183, 'Sherlock'), (191, '.')])</stanford_tokens>
+<opennlp_chunks>[('Amanda Abbington',0, 16), ('Amanda Jane Smith',23, 40), ('28 February 1974',42, 58), ('an English actress',63, 81), ('is best known',87, 100), ('Miss Mardle',113, 124), ('Mr Selfridge',128, 140), ('Mary Morstan',145, 157), ('the BBC adaptation',161, 179)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Amanda'), (7, 'Abbington'), (17, '('), (18, 'born'), (23, 'Amanda'), (30, 'Jane'), (35, 'Smith'), (40, ';'), (42, '28'), (45, 'February'), (54, '1974'), (58, ')'), (60, 'is'), (63, 'an'), (66, 'English'), (74, 'actress'), (81, '.'), (83, 'She'), (87, 'is'), (90, 'best'), (95, 'known'), (101, 'for'), (105, 'playing'), (113, 'Miss'), (118, 'Mardle'), (125, 'in'), (128, 'Mr'), (131, 'Selfridge'), (141, 'and'), (145, 'Mary'), (150, 'Morstan'), (158, 'in'), (161, 'the'), (165, 'BBC'), (169, 'adaptation'), (180, 'of'), (183, 'Sherlock'), (191, '.')])</spacy_tokens>
+<spacy_chunks>[('Amanda Abbington', 0, 16), ('born Amanda Jane Smith', 18, 40), ('28 February 1974', 42, 58), ('an English actress', 63, 81), ('Miss Mardle', 113, 124), ('Mr Selfridge', 128, 140), ('Mary Morstan', 145, 157), ('the BBC adaptation', 161, 179), ('Sherlock', 183, 191)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

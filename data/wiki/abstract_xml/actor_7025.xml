@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Webb</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Webb
+<annotated>0</annotated>
+<originalabstract>John Randolph Webb (April 2, 1920 – December 23, 1982) was an American actor, television producer, director, and screenwriter, who is most famous for his role as Sgt. Joe Friday in the Dragnet franchise (which he created). He was the founder of his own production company, Mark VII Limited.</originalabstract>
+<abstract>John_Randolph_Webb ( April_2_,_1920 – December_23_,_1982 ) was an_American_actor , television_producer , director , and screenwriter , who is most_famous for his_role as Sgt._Joe_Friday in the_Dragnet_franchise ( which he created ) . He was the_founder of his_own_production_company , Mark_VII_Limited .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Randolph'), (14, 'Webb'), (19, '('), (20, 'April'), (26, '2'), (27, ','), (29, '1920'), (34, '–'), (36, 'December'), (45, '23'), (47, ','), (49, '1982'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'actor'), (76, ','), (78, 'television'), (89, 'producer'), (97, ','), (99, 'director'), (107, ','), (109, 'and'), (113, 'screenwriter'), (125, ','), (127, 'who'), (131, 'is'), (134, 'most'), (139, 'famous'), (146, 'for'), (150, 'his'), (154, 'role'), (159, 'as'), (162, 'Sgt.'), (167, 'Joe'), (171, 'Friday'), (178, 'in'), (181, 'the'), (185, 'Dragnet'), (193, 'franchise'), (203, '('), (204, 'which'), (210, 'he'), (213, 'created'), (220, ')'), (221, '.'), (223, 'He'), (226, 'was'), (230, 'the'), (234, 'founder'), (242, 'of'), (245, 'his'), (249, 'own'), (253, 'production'), (264, 'company'), (271, ','), (273, 'Mark'), (278, 'VII'), (282, 'Limited'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Randolph Webb',0, 18), ('April 2, 1920',20, 33), ('December 23, 1982',36, 53), ('an American actor',59, 76), ('television producer',78, 97), ('most famous',134, 145), ('his role',150, 158), ('Sgt. Joe Friday',162, 177), ('the Dragnet franchise',181, 202), ('the founder',230, 241), ('his own production company',245, 271), ('Mark VII Limited',273, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', '-LRB-', 'WDT', 'PRP', 'VBD', '-RRB-', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'PRP$', 'JJ', 'NN', 'NN', ',', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Randolph'), (14, 'Webb'), (19, '('), (20, 'April'), (26, '2'), (27, ','), (29, '1920'), (34, '–'), (36, 'December'), (45, '23'), (47, ','), (49, '1982'), (53, ')'), (55, 'was'), (59, 'an'), (62, 'American'), (71, 'actor'), (76, ','), (78, 'television'), (89, 'producer'), (97, ','), (99, 'director'), (107, ','), (109, 'and'), (113, 'screenwriter'), (125, ','), (127, 'who'), (131, 'is'), (134, 'most'), (139, 'famous'), (146, 'for'), (150, 'his'), (154, 'role'), (159, 'as'), (162, 'Sgt'), (165, '.'), (167, 'Joe'), (171, 'Friday'), (178, 'in'), (181, 'the'), (185, 'Dragnet'), (193, 'franchise'), (203, '('), (204, 'which'), (210, 'he'), (213, 'created'), (220, ')'), (221, '.'), (223, 'He'), (226, 'was'), (230, 'the'), (234, 'founder'), (242, 'of'), (245, 'his'), (249, 'own'), (253, 'production'), (264, 'company'), (271, ','), (273, 'Mark'), (278, 'VII'), (282, 'Limited'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('John Randolph Webb', 0, 18), ('April 2, 1920', 20, 33), ('December 23, 1982', 36, 53), ('an American actor', 59, 76), ('television producer', 78, 97), ('director', 99, 107), ('Screenwriter', 113, 125), ('his role', 150, 158), ('Joe Friday', 167, 177), ('the Dragnet franchise', 181, 202), ('the founder', 230, 241), ('his own production company', 245, 271), ('Mark VII Limited', 273, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', '.', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', '-LRB-', 'WDT', 'PRP', 'VBD', '-RRB-', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'PRP$', 'JJ', 'NN', 'NN', ',', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

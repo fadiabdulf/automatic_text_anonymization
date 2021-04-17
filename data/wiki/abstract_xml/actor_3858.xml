@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bobby Lauher</title>
+<link/>https://en.wikipedia.org/wiki/Bobby_Lauher
+<annotated>0</annotated>
+<originalabstract>Bobby Lauher (1930–1973) was an American actor best known for his television skit work with Ernie Kovacs.  He was a co-author of a 1971 play in L.A. that brought back Patty Andrews (of the 1940s Andrews Sisters singing act), who, because of the play, began starring in Broadway musicals in NYC in the 1970s.</originalabstract>
+<abstract>Bobby_Lauher ( 1930 – 1973 ) was an_American_actor best_known for his_television_skit_work with Ernie_Kovacs . He was a_co-author of a_1971_play in L.A. that brought back Patty_Andrews_( of the_1940s_Andrews_Sisters_singing_act_) , who , because_of the_play , began_starring in Broadway_musicals in NYC in the_1970s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bobby'), (6, 'Lauher'), (13, '('), (14, '1930'), (18, '–'), (19, '1973'), (23, ')'), (25, 'was'), (29, 'an'), (32, 'American'), (41, 'actor'), (47, 'best'), (52, 'known'), (58, 'for'), (62, 'his'), (66, 'television'), (77, 'skit'), (82, 'work'), (87, 'with'), (92, 'Ernie'), (98, 'Kovacs'), (104, '.'), (107, 'He'), (110, 'was'), (114, 'a'), (116, 'co-author'), (126, 'of'), (129, 'a'), (131, '1971'), (136, 'play'), (141, 'in'), (144, 'L.A.'), (149, 'that'), (154, 'brought'), (162, 'back'), (167, 'Patty'), (173, 'Andrews'), (181, '('), (182, 'of'), (185, 'the'), (189, '1940s'), (195, 'Andrews'), (203, 'Sisters'), (211, 'singing'), (219, 'act'), (222, ')'), (223, ','), (225, 'who'), (228, ','), (230, 'because'), (238, 'of'), (241, 'the'), (245, 'play'), (249, ','), (251, 'began'), (257, 'starring'), (266, 'in'), (269, 'Broadway'), (278, 'musicals'), (287, 'in'), (290, 'NYC'), (294, 'in'), (297, 'the'), (301, '1970s'), (306, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bobby Lauher',0, 12), ('an American actor',29, 46), ('best known',47, 57), ('his television skit work',62, 86), ('Ernie Kovacs',92, 104), ('a co-author',114, 125), ('a 1971 play',129, 140), ('Patty Andrews (',167, 182), ('the 1940s Andrews Sisters singing act)',185, 223), ('because of',230, 240), ('the play',241, 249), ('began starring',251, 265), ('Broadway musicals',269, 286), ('the 1970s',297, 306)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'CD', 'NN', 'IN', 'NNP', 'WDT', 'VBD', 'RB', 'NNP', 'NNP', '-LRB-', 'IN', 'DT', 'CD', 'NNP', 'NNS', 'NN', 'NN', '-RRB-', ',', 'WP', ',', 'IN', 'IN', 'DT', 'NN', ',', 'VBD', 'VBG', 'IN', 'NNP', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bobby'), (6, 'Lauher'), (13, '('), (14, '1930–1973'), (23, ')'), (25, 'was'), (29, 'an'), (32, 'American'), (41, 'actor'), (47, 'best'), (52, 'known'), (58, 'for'), (62, 'his'), (66, 'television'), (77, 'skit'), (82, 'work'), (87, 'with'), (92, 'Ernie'), (98, 'Kovacs'), (104, '.'), (107, 'He'), (110, 'was'), (114, 'a'), (116, 'co'), (118, '-'), (119, 'author'), (126, 'of'), (129, 'a'), (131, '1971'), (136, 'play'), (141, 'in'), (144, 'L.A.'), (149, 'that'), (154, 'brought'), (162, 'back'), (167, 'Patty'), (173, 'Andrews'), (181, '('), (182, 'of'), (185, 'the'), (189, '1940s'), (195, 'Andrews'), (203, 'Sisters'), (211, 'singing'), (219, 'act'), (222, ')'), (223, ','), (225, 'who'), (228, ','), (230, 'because'), (238, 'of'), (241, 'the'), (245, 'play'), (249, ','), (251, 'began'), (257, 'starring'), (266, 'in'), (269, 'Broadway'), (278, 'musicals'), (287, 'in'), (290, 'NYC'), (294, 'in'), (297, 'the'), (301, '1970s'), (306, '.')])</spacy_tokens>
+<spacy_chunks>[('Bobby Lauher', 0, 12), ('an American actor', 29, 46), ('his television skit', 62, 81), ('Ernie Kovacs', 92, 104), ('a co-author', 114, 125), ('a 1971 play', 129, 140), ('Patty Andrews', 167, 180), ('the 1940s', 185, 194), ('Andrews Sisters singing act', 195, 222), ('the play', 241, 249), ('Broadway musicals', 269, 286), ('the 1970s', 297, 306)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'VBP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'DT', 'CD', 'NN', 'IN', 'NNP', 'WDT', 'VBD', 'RP', 'NNP', 'NNP', '-LRB-', 'IN', 'DT', 'NNS', 'NNP', 'NNP', 'NN', 'NN', '-RRB-', ',', 'WP', ',', 'IN', 'IN', 'DT', 'NN', ',', 'VBD', 'VBG', 'IN', 'NNP', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

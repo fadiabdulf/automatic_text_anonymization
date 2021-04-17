@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anna Brecon</title>
+<link/>https://en.wikipedia.org/wiki/Anna_Brecon
+<annotated>0</annotated>
+<originalabstract>Anna Brecon (born Anna Davies in 1971) is an English actress, known for portraying Tara Reynolds ('Lady Tara') in the ITV soap opera Emmerdale.</originalabstract>
+<abstract>Anna_Brecon ( born Anna_Davies in 1971 ) is an_English_actress , known for portraying Tara_Reynolds ( '_Lady_Tara ' ) in the_ITV_soap_opera_Emmerdale .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anna'), (5, 'Brecon'), (12, '('), (13, 'born'), (18, 'Anna'), (23, 'Davies'), (30, 'in'), (33, '1971'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'actress'), (60, ','), (62, 'known'), (68, 'for'), (72, 'portraying'), (83, 'Tara'), (88, 'Reynolds'), (97, '('), (98, '\''), (99, 'Lady'), (104, 'Tara'), (108, '\''), (109, ')'), (111, 'in'), (114, 'the'), (118, 'ITV'), (122, 'soap'), (127, 'opera'), (133, 'Emmerdale'), (142, '.')])</stanford_tokens>
+<opennlp_chunks>[('Anna Brecon',0, 11), ('Anna Davies',18, 29), ('an English actress',42, 60), ('Tara Reynolds',83, 96), ('\'Lady Tara',98, 108), ('the ITV soap opera Emmerdale',114, 142)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'IN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', '-LRB-', '``', 'NNP', 'NNP', 'POS', '-RRB-', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anna'), (5, 'Brecon'), (12, '('), (13, 'born'), (18, 'Anna'), (23, 'Davies'), (30, 'in'), (33, '1971'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'actress'), (60, ','), (62, 'known'), (68, 'for'), (72, 'portraying'), (83, 'Tara'), (88, 'Reynolds'), (97, '('), (98, "'"), (99, 'Lady'), (104, 'Tara'), (108, "'"), (109, ')'), (111, 'in'), (114, 'the'), (118, 'ITV'), (122, 'soap'), (127, 'opera'), (133, 'Emmerdale'), (142, '.')])</spacy_tokens>
+<spacy_chunks>[('Anna Brecon', 0, 11), ('(born Anna Davies', 12, 29), ('an English actress', 42, 60), ('Tara Reynolds', 83, 96), ("'Lady Tara", 98, 108), ('the ITV soap opera', 114, 132), ('Emmerdale', 133, 142)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'IN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', '-LRB-', '``', 'NNP', 'NNP', "''", '-RRB-', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

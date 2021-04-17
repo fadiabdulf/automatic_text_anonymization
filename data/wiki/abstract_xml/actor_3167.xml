@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phillips Holmes</title>
+<link/>https://en.wikipedia.org/wiki/Phillips_Holmes
+<annotated>0</annotated>
+<originalabstract>Phillips Holmes (July 22, 1907 – August 12, 1942) was an American film actor who appeared in 44 films between 1928 and 1938.</originalabstract>
+<abstract>Phillips_Holmes ( July_22_,_1907 – August_12_,_1942 ) was an_American_film_actor who appeared in 44_films between 1928_and_1938 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phillips'), (9, 'Holmes'), (16, '('), (17, 'July'), (22, '22'), (24, ','), (26, '1907'), (31, '–'), (33, 'August'), (40, '12'), (42, ','), (44, '1942'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (71, 'actor'), (77, 'who'), (81, 'appeared'), (90, 'in'), (93, '44'), (96, 'films'), (102, 'between'), (110, '1928'), (115, 'and'), (119, '1938'), (123, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phillips Holmes',0, 15), ('July 22, 1907',17, 30), ('August 12, 1942',33, 48), ('an American film actor',54, 76), ('44 films',93, 101), ('1928 and 1938',110, 123)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phillips'), (9, 'Holmes'), (16, '('), (17, 'July'), (22, '22'), (24, ','), (26, '1907'), (31, '–'), (33, 'August'), (40, '12'), (42, ','), (44, '1942'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (71, 'actor'), (77, 'who'), (81, 'appeared'), (90, 'in'), (93, '44'), (96, 'films'), (102, 'between'), (110, '1928'), (115, 'and'), (119, '1938'), (123, '.')])</spacy_tokens>
+<spacy_chunks>[('Phillips Holmes', 0, 15), ('July 22, 1907', 17, 30), ('August 12, 1942', 33, 48), ('an American film actor', 54, 76), ('44 films', 93, 101)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

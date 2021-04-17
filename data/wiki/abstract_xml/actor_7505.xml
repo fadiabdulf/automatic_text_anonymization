@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Francisco Reiguera</title>
+<link/>https://en.wikipedia.org/wiki/Francisco_Reiguera
+<annotated>0</annotated>
+<originalabstract>Francisco Reiguera (November 9, 1899 – March 15, 1969) was a Spanish actor who is best known for playing the title role in Orson Welles’ unfinished film version of Don Quixote. He also appeared in the films Simon of the Desert (1965), Major Dundee (1965) and Guns for San Sebastian (1968).</originalabstract>
+<abstract>Francisco_Reiguera ( November_9_,_1899 – March_15_,_1969 ) was a_Spanish_actor who is_best_known for playing the_title_role in Orson_Welles ’_unfinished_film_version of Don_Quixote . He also appeared in the_films_Simon of the_Desert_(_1965_) , Major_Dundee_(_1965_)_and_Guns for San_Sebastian_(_1968_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Francisco'), (10, 'Reiguera'), (19, '('), (20, 'November'), (29, '9'), (30, ','), (32, '1899'), (37, '–'), (39, 'March'), (45, '15'), (47, ','), (49, '1969'), (53, ')'), (55, 'was'), (59, 'a'), (61, 'Spanish'), (69, 'actor'), (75, 'who'), (79, 'is'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'playing'), (105, 'the'), (109, 'title'), (115, 'role'), (120, 'in'), (123, 'Orson'), (129, 'Welles'), (135, '’'), (137, 'unfinished'), (148, 'film'), (153, 'version'), (161, 'of'), (164, 'Don'), (168, 'Quixote'), (175, '.'), (177, 'He'), (180, 'also'), (185, 'appeared'), (194, 'in'), (197, 'the'), (201, 'films'), (207, 'Simon'), (213, 'of'), (216, 'the'), (220, 'Desert'), (227, '('), (228, '1965'), (232, ')'), (233, ','), (235, 'Major'), (241, 'Dundee'), (248, '('), (249, '1965'), (253, ')'), (255, 'and'), (259, 'Guns'), (264, 'for'), (268, 'San'), (272, 'Sebastian'), (282, '('), (283, '1968'), (287, ')'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Francisco Reiguera',0, 18), ('November 9, 1899',20, 36), ('March 15, 1969',39, 53), ('a Spanish actor',59, 74), ('is best known',79, 92), ('the title role',105, 119), ('Orson Welles',123, 135), ('’ unfinished film version',135, 160), ('Don Quixote',164, 175), ('the films Simon',197, 212), ('the Desert (1965)',216, 233), ('Major Dundee (1965) and Guns',235, 263), ('San Sebastian (1968)',268, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NNS', 'NNP', 'IN', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNS', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Francisco'), (10, 'Reiguera'), (19, '('), (20, 'November'), (29, '9'), (30, ','), (32, '1899'), (37, '–'), (39, 'March'), (45, '15'), (47, ','), (49, '1969'), (53, ')'), (55, 'was'), (59, 'a'), (61, 'Spanish'), (69, 'actor'), (75, 'who'), (79, 'is'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'playing'), (105, 'the'), (109, 'title'), (115, 'role'), (120, 'in'), (123, 'Orson'), (129, 'Welles'), (135, '’'), (137, 'unfinished'), (148, 'film'), (153, 'version'), (161, 'of'), (164, 'Don'), (168, 'Quixote'), (175, '.'), (177, 'He'), (180, 'also'), (185, 'appeared'), (194, 'in'), (197, 'the'), (201, 'films'), (207, 'Simon'), (213, 'of'), (216, 'the'), (220, 'Desert'), (227, '('), (228, '1965'), (232, ')'), (233, ','), (235, 'Major'), (241, 'Dundee'), (248, '('), (249, '1965'), (253, ')'), (255, 'and'), (259, 'Guns'), (264, 'for'), (268, 'San'), (272, 'Sebastian'), (282, '('), (283, '1968'), (287, ')'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Francisco Reiguera', 0, 18), ('(November', 19, 28), ('November 9, 1899', 20, 36), ('March 15, 1969', 39, 53), ('a Spanish actor', 59, 74), ('the title role', 105, 119), ('Orson Welles', 123, 135), ('’ unfinished film version', 135, 160), ('Don Quixote', 164, 175), ('the films', 197, 206), ('Simon of the Desert', 207, 226), ('Major Dundee', 235, 247), ('Guns for San Sebastian', 259, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NNS', 'NNP', 'IN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNPS', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

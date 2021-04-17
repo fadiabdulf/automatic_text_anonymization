@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Adam Robitel</title>
+<link/>https://en.wikipedia.org/wiki/Adam_Robitel
+<annotated>0</annotated>
+<originalabstract>Adam Robitel (born May 28, 1978) is an American film director, producer, screenwriter, and actor. He directed and co-wrote the 2014 film The Taking of Deborah Logan, was the co-writer for the 2015 film Paranormal Activity: The Ghost Dimension, and directed the 2018 film Insidious: The Last Key.</originalabstract>
+<abstract>Adam_Robitel ( born May_28_,_1978 ) is an_American_film_director , producer , screenwriter , and actor . He directed_and_co-wrote the_2014_film The_Taking of Deborah_Logan , was the_co-writer for the_2015_film_Paranormal_Activity : The_Ghost_Dimension , and directed the_2018_film_Insidious : The_Last_Key .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Adam'), (5, 'Robitel'), (13, '('), (14, 'born'), (19, 'May'), (23, '28'), (25, ','), (27, '1978'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'film'), (53, 'director'), (61, ','), (63, 'producer'), (71, ','), (73, 'screenwriter'), (85, ','), (87, 'and'), (91, 'actor'), (96, '.'), (98, 'He'), (101, 'directed'), (110, 'and'), (114, 'co-wrote'), (123, 'the'), (127, '2014'), (132, 'film'), (137, 'The'), (141, 'Taking'), (148, 'of'), (151, 'Deborah'), (159, 'Logan'), (164, ','), (166, 'was'), (170, 'the'), (174, 'co-writer'), (184, 'for'), (188, 'the'), (192, '2015'), (197, 'film'), (202, 'Paranormal'), (213, 'Activity'), (221, ':'), (223, 'The'), (227, 'Ghost'), (233, 'Dimension'), (242, ','), (244, 'and'), (248, 'directed'), (257, 'the'), (261, '2018'), (266, 'film'), (271, 'Insidious'), (280, ':'), (282, 'The'), (286, 'Last'), (291, 'Key'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Adam Robitel',0, 12), ('May 28, 1978',19, 31), ('an American film director',36, 61), ('directed and co-wrote',101, 122), ('the 2014 film',123, 136), ('The Taking',137, 147), ('Deborah Logan',151, 164), ('the co-writer',170, 183), ('the 2015 film Paranormal Activity',188, 221), ('The Ghost Dimension',223, 242), ('the 2018 film Insidious',257, 280), ('The Last Key',282, 294)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'CC', 'VBD', 'DT', 'CD', 'NN', 'DT', 'VBG', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NN', ':', 'DT', 'NN', 'NN', ',', 'CC', 'VBD', 'DT', 'CD', 'NN', 'NNP', ':', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Adam'), (5, 'Robitel'), (13, '('), (14, 'born'), (19, 'May'), (23, '28'), (25, ','), (27, '1978'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'American'), (48, 'film'), (53, 'director'), (61, ','), (63, 'producer'), (71, ','), (73, 'screenwriter'), (85, ','), (87, 'and'), (91, 'actor'), (96, '.'), (98, 'He'), (101, 'directed'), (110, 'and'), (114, 'co'), (116, '-'), (117, 'wrote'), (123, 'the'), (127, '2014'), (132, 'film'), (137, 'The'), (141, 'Taking'), (148, 'of'), (151, 'Deborah'), (159, 'Logan'), (164, ','), (166, 'was'), (170, 'the'), (174, 'co'), (176, '-'), (177, 'writer'), (184, 'for'), (188, 'the'), (192, '2015'), (197, 'film'), (202, 'Paranormal'), (213, 'Activity'), (221, ':'), (223, 'The'), (227, 'Ghost'), (233, 'Dimension'), (242, ','), (244, 'and'), (248, 'directed'), (257, 'the'), (261, '2018'), (266, 'film'), (271, 'Insidious'), (280, ':'), (282, 'The'), (286, 'Last'), (291, 'Key'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Adam Robitel', 0, 12), ('May 28, 1978', 19, 31), ('an American film director', 36, 61), ('producer', 63, 71), ('screenwriter', 73, 85), ('the 2014 film', 123, 136), ('The Taking of Deborah Logan', 137, 164), ('the co-writer', 170, 183), ('the 2015 film', 188, 201), ('Paranormal Activity: The Ghost Dimension', 202, 242), ('the 2018 film', 257, 270), ('Insidious: The Last Key', 271, 294)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'CC', 'VBN', 'VBD', 'VBD', 'DT', 'CD', 'NN', 'DT', 'NN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNP', 'NNP', ':', 'DT', 'NNP', 'NNP', ',', 'CC', 'VBD', 'DT', 'CD', 'NN', 'JJ', ':', 'DT', 'JJ', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

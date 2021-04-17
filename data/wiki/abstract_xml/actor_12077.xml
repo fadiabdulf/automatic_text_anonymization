@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sallie Fisher</title>
+<link/>https://en.wikipedia.org/wiki/Sallie_Fisher
+<annotated>0</annotated>
+<originalabstract>Sallie Fisher (August 10, 1880 - June 8, 1950) was an American stage and vaudeville actress who appeared in the 1916 silent The Little Shepherd of Bargain Row.</originalabstract>
+<abstract>Sallie_Fisher ( August_10 , 1880 - June_8_,_1950 ) was an_American_stage_and_vaudeville_actress who appeared in the_1916_silent The_Little_Shepherd of Bargain_Row .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sallie'), (7, 'Fisher'), (14, '('), (15, 'August'), (22, '10'), (24, ','), (26, '1880'), (31, '-'), (33, 'June'), (38, '8'), (39, ','), (41, '1950'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'stage'), (69, 'and'), (73, 'vaudeville'), (84, 'actress'), (92, 'who'), (96, 'appeared'), (105, 'in'), (108, 'the'), (112, '1916'), (117, 'silent'), (124, 'The'), (128, 'Little'), (135, 'Shepherd'), (144, 'of'), (147, 'Bargain'), (155, 'Row'), (158, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sallie Fisher',0, 13), ('August 10',15, 24), ('June 8, 1950',33, 45), ('an American stage and vaudeville actress',51, 91), ('the 1916 silent',108, 123), ('The Little Shepherd',124, 143), ('Bargain Row',147, 158)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'CD', 'JJ', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sallie'), (7, 'Fisher'), (14, '('), (15, 'August'), (22, '10'), (24, ','), (26, '1880'), (31, '-'), (33, 'June'), (38, '8'), (39, ','), (41, '1950'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'stage'), (69, 'and'), (73, 'vaudeville'), (84, 'actress'), (92, 'who'), (96, 'appeared'), (105, 'in'), (108, 'the'), (112, '1916'), (117, 'silent'), (124, 'The'), (128, 'Little'), (135, 'Shepherd'), (144, 'of'), (147, 'Bargain'), (155, 'Row'), (158, '.')])</spacy_tokens>
+<spacy_chunks>[('Sallie Fisher', 0, 13), ('August 10, 1880', 15, 30), ('June 8, 1950', 33, 45), ('an American stage', 51, 68), ('vaudeville actress', 73, 91), ('silent', 117, 123), ('The Little Shepherd', 124, 143), ('Bargain Row', 147, 158)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'CD', 'NN', 'DT', 'JJ', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

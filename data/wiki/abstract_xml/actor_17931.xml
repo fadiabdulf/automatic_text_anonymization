@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rosie Mac</title>
+<link/>https://en.wikipedia.org/wiki/Rosie_Mac
+<annotated>0</annotated>
+<originalabstract>Rosie Mac (born 12 February 1997) is an actress, model and singer from England. She was the body double for Emilia Clarke in her portrayal of Daenerys Targaryen in season five of the HBO series Game of Thrones.</originalabstract>
+<abstract>Rosie_Mac ( born 12_February_1997 ) is an_actress_,_model_and_singer from England . She was the_body double for Emilia_Clarke in her_portrayal of Daenerys_Targaryen in season_five of the_HBO_series_Game of Thrones .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rosie'), (6, 'Mac'), (10, '('), (11, 'born'), (16, '12'), (19, 'February'), (28, '1997'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'actress'), (47, ','), (49, 'model'), (55, 'and'), (59, 'singer'), (66, 'from'), (71, 'England'), (78, '.'), (80, 'She'), (84, 'was'), (88, 'the'), (92, 'body'), (97, 'double'), (104, 'for'), (108, 'Emilia'), (115, 'Clarke'), (122, 'in'), (125, 'her'), (129, 'portrayal'), (139, 'of'), (142, 'Daenerys'), (151, 'Targaryen'), (161, 'in'), (164, 'season'), (171, 'five'), (176, 'of'), (179, 'the'), (183, 'HBO'), (187, 'series'), (194, 'Game'), (199, 'of'), (202, 'Thrones'), (209, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rosie Mac',0, 9), ('12 February 1997',16, 32), ('an actress, model and singer',37, 65), ('the body',88, 96), ('Emilia Clarke',108, 121), ('her portrayal',125, 138), ('Daenerys Targaryen',142, 160), ('season five',164, 175), ('the HBO series Game',179, 198)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NN', 'CD', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rosie'), (6, 'Mac'), (10, '('), (11, 'born'), (16, '12'), (19, 'February'), (28, '1997'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'actress'), (47, ','), (49, 'model'), (55, 'and'), (59, 'singer'), (66, 'from'), (71, 'England'), (78, '.'), (80, 'She'), (84, 'was'), (88, 'the'), (92, 'body'), (97, 'double'), (104, 'for'), (108, 'Emilia'), (115, 'Clarke'), (122, 'in'), (125, 'her'), (129, 'portrayal'), (139, 'of'), (142, 'Daenerys'), (151, 'Targaryen'), (161, 'in'), (164, 'season'), (171, 'five'), (176, 'of'), (179, 'the'), (183, 'HBO'), (187, 'series'), (194, 'Game'), (199, 'of'), (202, 'Thrones'), (209, '.')])</spacy_tokens>
+<spacy_chunks>[('Rosie Mac', 0, 9), ('12 February 1997', 16, 32), ('an actress', 37, 47), ('singer', 59, 65), ('England', 71, 78), ('the body', 88, 96), ('Body double', 92, 103), ('Emilia Clarke', 108, 121), ('her portrayal', 125, 138), ('Daenerys Targaryen', 142, 160), ('season', 164, 170), ('the HBO series Game', 179, 198), ('Game of Thrones', 194, 209)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', 'JJ', 'IN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NN', 'CD', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'IN', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

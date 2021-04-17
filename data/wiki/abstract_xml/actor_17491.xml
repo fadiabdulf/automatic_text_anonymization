@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Helena Barlow</title>
+<link/>https://en.wikipedia.org/wiki/Helena_Barlow
+<annotated>0</annotated>
+<originalabstract>Helena Barlow (born 5 September 1998) is a former English child film and stage actress best known for her role as Rose Weasley in Harry Potter and the Deathly Hallows – Part 2. In 2012, she starred as young Estella in Mike Newell's Great Expectations alongside Helena Bonham Carter and Ralph Fiennes.</originalabstract>
+<abstract>Helena_Barlow ( born_5_September_1998 ) is a_former_English_child_film_and_stage_actress best_known for her_role as Rose_Weasley in Harry_Potter and the_Deathly_Hallows – Part_2 . In 2012 , she starred as young_Estella in Mike_Newell 's_Great_Expectations alongside Helena_Bonham_Carter and Ralph_Fiennes .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Helena'), (7, 'Barlow'), (14, '('), (15, 'born'), (20, '5'), (22, 'September'), (32, '1998'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'former'), (50, 'English'), (58, 'child'), (64, 'film'), (69, 'and'), (73, 'stage'), (79, 'actress'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'her'), (106, 'role'), (111, 'as'), (114, 'Rose'), (119, 'Weasley'), (127, 'in'), (130, 'Harry'), (136, 'Potter'), (143, 'and'), (147, 'the'), (151, 'Deathly'), (159, 'Hallows'), (167, '–'), (169, 'Part'), (174, '2'), (175, '.'), (177, 'In'), (180, '2012'), (184, ','), (186, 'she'), (190, 'starred'), (198, 'as'), (201, 'young'), (207, 'Estella'), (215, 'in'), (218, 'Mike'), (223, 'Newell'), (229, '\'s'), (232, 'Great'), (238, 'Expectations'), (251, 'alongside'), (261, 'Helena'), (268, 'Bonham'), (275, 'Carter'), (282, 'and'), (286, 'Ralph'), (292, 'Fiennes'), (299, '.')])</stanford_tokens>
+<opennlp_chunks>[('Helena Barlow',0, 13), ('born 5 September 1998',15, 36), ('a former English child film and stage actress',41, 86), ('best known',87, 97), ('her role',102, 110), ('Rose Weasley',114, 126), ('Harry Potter',130, 142), ('the Deathly Hallows',147, 166), ('Part 2',169, 175), ('young Estella',201, 214), ('Mike Newell',218, 229), ('\'s Great Expectations',229, 250), ('Helena Bonham Carter',261, 281), ('Ralph Fiennes',286, 299)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'NN', 'NN', 'CC', 'NN', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', ':', 'NNP', 'CD', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'JJ', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Helena'), (7, 'Barlow'), (14, '('), (15, 'born'), (20, '5'), (22, 'September'), (32, '1998'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'former'), (50, 'English'), (58, 'child'), (64, 'film'), (69, 'and'), (73, 'stage'), (79, 'actress'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'her'), (106, 'role'), (111, 'as'), (114, 'Rose'), (119, 'Weasley'), (127, 'in'), (130, 'Harry'), (136, 'Potter'), (143, 'and'), (147, 'the'), (151, 'Deathly'), (159, 'Hallows'), (167, '–'), (169, 'Part'), (174, '2'), (175, '.'), (177, 'In'), (180, '2012'), (184, ','), (186, 'she'), (190, 'starred'), (198, 'as'), (201, 'young'), (207, 'Estella'), (215, 'in'), (218, 'Mike'), (223, 'Newell'), (229, "'s"), (232, 'Great'), (238, 'Expectations'), (251, 'alongside'), (261, 'Helena'), (268, 'Bonham'), (275, 'Carter'), (282, 'and'), (286, 'Ralph'), (292, 'Fiennes'), (299, '.')])</spacy_tokens>
+<spacy_chunks>[('Helena Barlow', 0, 13), ('5 September 1998', 20, 36), ('a former English child film', 41, 68), ('stage actress', 73, 86), ('her role', 102, 110), ('Rose Weasley', 114, 126), ('Harry Potter and the Deathly Hallows – Part 2', 130, 175), ('young Estella', 201, 214), ("Mike Newell's Great Expectations", 218, 250), ('Helena Bonham Carter', 261, 281), ('Ralph Fiennes', 286, 299)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', ':', 'NNP', 'CD', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'JJ', 'NNP', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNPS', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

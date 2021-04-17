@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jessica Revell</title>
+<link/>https://en.wikipedia.org/wiki/Jessica_Revell
+<annotated>0</annotated>
+<originalabstract>Jessica Revell (born 13 December 1994) is an English actress and singer, best known for her TV role as Mandy "Elektra" Perkins in Tracy Beaker Returns and in the BBC spin-off series The Dumping Ground.</originalabstract>
+<abstract>Jessica_Revell ( born_13_December_1994 ) is an_English_actress_and_singer , best_known for her_TV_role as Mandy_"_Elektra_"_Perkins in Tracy_Beaker_Returns and in the_BBC_spin-off_series The_Dumping_Ground .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jessica'), (8, 'Revell'), (15, '('), (16, 'born'), (21, '13'), (24, 'December'), (33, '1994'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'actress'), (61, 'and'), (65, 'singer'), (71, ','), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'her'), (92, 'TV'), (95, 'role'), (100, 'as'), (103, 'Mandy'), (109, '"'), (110, 'Elektra'), (117, '"'), (119, 'Perkins'), (127, 'in'), (130, 'Tracy'), (136, 'Beaker'), (143, 'Returns'), (151, 'and'), (155, 'in'), (158, 'the'), (162, 'BBC'), (166, 'spin-off'), (175, 'series'), (182, 'The'), (186, 'Dumping'), (194, 'Ground'), (200, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jessica Revell',0, 14), ('born 13 December 1994',16, 37), ('an English actress and singer',42, 71), ('best known',73, 83), ('her TV role',88, 99), ('Mandy "Elektra" Perkins',103, 126), ('Tracy Beaker Returns',130, 150), ('the BBC spin-off series',158, 181), ('The Dumping Ground',182, 200)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'IN', 'DT', 'NNP', 'NN', 'NN', 'DT', 'VBG', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jessica'), (8, 'Revell'), (15, '('), (16, 'born'), (21, '13'), (24, 'December'), (33, '1994'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'English'), (53, 'actress'), (61, 'and'), (65, 'singer'), (71, ','), (73, 'best'), (78, 'known'), (84, 'for'), (88, 'her'), (92, 'TV'), (95, 'role'), (100, 'as'), (103, 'Mandy'), (109, '"'), (110, 'Elektra'), (117, '"'), (119, 'Perkins'), (127, 'in'), (130, 'Tracy'), (136, 'Beaker'), (143, 'Returns'), (151, 'and'), (155, 'in'), (158, 'the'), (162, 'BBC'), (166, 'spin'), (170, '-'), (171, 'off'), (175, 'series'), (182, 'The'), (186, 'Dumping'), (194, 'Ground'), (200, '.')])</spacy_tokens>
+<spacy_chunks>[('Jessica Revell', 0, 14), ('13 December 1994', 21, 37), ('an English actress', 42, 60), ('singer', 65, 71), ('her TV role', 88, 99), ('Mandy "Elektra" Perkins', 103, 126), ('Tracy Beaker Returns', 130, 150), ('the BBC spin-off series', 158, 181), ('The Dumping Ground', 182, 200)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'IN', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'NNP', 'NN', 'NNS', 'CC', 'IN', 'DT', 'NNP', 'NN', 'HYPH', 'RP', 'NN', 'DT', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

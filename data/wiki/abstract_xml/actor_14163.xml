@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Allison Munn</title>
+<link/>https://en.wikipedia.org/wiki/Allison_Munn
+<annotated>0</annotated>
+<originalabstract>Allison Munn (born October 7, 1974) is an American actress. She played Caroline Dupree in the Fox sitcom That '70s Show, Tina Haven in The WB sitcom What I Like About You, Lauren in The WB/CW drama One Tree Hill, and Anne Harper on the Nickelodeon series Nicky, Ricky, Dicky  Dawn.</originalabstract>
+<abstract>Allison_Munn ( born October_7_,_1974 ) is an_American_actress . She played Caroline_Dupree in the_Fox_sitcom That_'70s_Show , Tina_Haven in The_WB_sitcom What I Like About You , Lauren in The_WB/CW_drama One_Tree_Hill , and Anne_Harper on the_Nickelodeon_series_Nicky_,_Ricky_,_Dicky_ .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Allison'), (8, 'Munn'), (13, '('), (14, 'born'), (19, 'October'), (27, '7'), (28, ','), (30, '1974'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'played'), (71, 'Caroline'), (80, 'Dupree'), (87, 'in'), (90, 'the'), (94, 'Fox'), (98, 'sitcom'), (105, 'That'), (110, '\'70s'), (115, 'Show'), (119, ','), (121, 'Tina'), (126, 'Haven'), (132, 'in'), (135, 'The'), (139, 'WB'), (142, 'sitcom'), (149, 'What'), (154, 'I'), (156, 'Like'), (161, 'About'), (167, 'You'), (170, ','), (172, 'Lauren'), (179, 'in'), (182, 'The'), (186, 'WB/CW'), (192, 'drama'), (198, 'One'), (202, 'Tree'), (207, 'Hill'), (211, ','), (213, 'and'), (217, 'Anne'), (222, 'Harper'), (229, 'on'), (232, 'the'), (236, 'Nickelodeon'), (248, 'series'), (255, 'Nicky'), (260, ','), (262, 'Ricky'), (267, ','), (269, 'Dicky'), (275, ''), (277, 'Dawn'), (281, '.')])</stanford_tokens>
+<opennlp_chunks>[('Allison Munn',0, 12), ('October 7, 1974',19, 34), ('an American actress',39, 58), ('Caroline Dupree',71, 86), ('the Fox sitcom',90, 104), ('That \'70s Show',105, 119), ('Tina Haven',121, 131), ('The WB sitcom',135, 148), ('The WB/CW drama',182, 197), ('One Tree Hill',198, 211), ('Anne Harper',217, 228), ('the Nickelodeon series Nicky, Ricky, Dicky  Dawn',232, 281)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'WDT', 'CD', 'NN', ',', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'WDT', 'PRP', 'IN', 'IN', 'PRP', ',', 'NNP', 'IN', 'DT', 'NN', 'NN', 'CD', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'NNP', ',', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Allison'), (8, 'Munn'), (13, '('), (14, 'born'), (19, 'October'), (27, '7'), (28, ','), (30, '1974'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'played'), (71, 'Caroline'), (80, 'Dupree'), (87, 'in'), (90, 'the'), (94, 'Fox'), (98, 'sitcom'), (105, 'That'), (110, "'"), (111, '70s'), (115, 'Show'), (119, ','), (121, 'Tina'), (126, 'Haven'), (132, 'in'), (135, 'The'), (139, 'WB'), (142, 'sitcom'), (149, 'What'), (154, 'I'), (156, 'Like'), (161, 'About'), (167, 'You'), (170, ','), (172, 'Lauren'), (179, 'in'), (182, 'The'), (186, 'WB'), (188, '/'), (189, 'CW'), (192, 'drama'), (198, 'One'), (202, 'Tree'), (207, 'Hill'), (211, ','), (213, 'and'), (217, 'Anne'), (222, 'Harper'), (229, 'on'), (232, 'the'), (236, 'Nickelodeon'), (248, 'series'), (255, 'Nicky'), (260, ','), (262, 'Ricky'), (267, ','), (269, 'Dicky'), (276, 'Dawn'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('Allison Munn', 0, 12), ('October 7, 1974', 19, 34), ('an American actress', 39, 58), ('Caroline Dupree', 71, 86), ('the Fox sitcom', 90, 104), ("That '70s Show", 105, 119), ('The WB sitcom', 135, 148), ('What I Like About You', 149, 170), ('The WB/CW drama', 182, 197), ('One Tree Hill', 198, 211), ('the Nickelodeon series', 232, 254), ('Nicky, Ricky, Dicky', 255, 274)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'CD', 'NNS', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'WP', 'PRP', 'VBP', 'IN', 'PRP', ',', 'NNP', 'IN', 'DT', 'NNP', 'SYM', 'NNP', 'NN', 'CD', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'NNP', ',', 'JJ', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

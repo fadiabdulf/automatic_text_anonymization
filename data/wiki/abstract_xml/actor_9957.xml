@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Philippe Leroy (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Philippe_Leroy_(actor)
+<annotated>0</annotated>
+<originalabstract>Philippe Leroy, full name Philippe Leroy-Beaulieu (born 15 October 1930) is a French film actor. He has appeared in over 150 films since 1960. Leroy has been living mostly in Italy since the 1960s and has worked extensively in Italian cinema, as well as in his native country. He is sometimes credited under his full name.</originalabstract>
+<abstract>Philippe_Leroy , full_name_Philippe_Leroy-Beaulieu ( born 15_October_1930 ) is a_French_film_actor . He has_appeared in over_150_films since 1960 . Leroy has_been_living mostly in Italy since the_1960s and has_worked extensively in Italian_cinema , as_well_as in his_native_country . He is_sometimes_credited under his_full_name .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Philippe'), (9, 'Leroy'), (14, ','), (16, 'full'), (21, 'name'), (26, 'Philippe'), (35, 'Leroy-Beaulieu'), (50, '('), (51, 'born'), (56, '15'), (59, 'October'), (67, '1930'), (71, ')'), (73, 'is'), (76, 'a'), (78, 'French'), (85, 'film'), (90, 'actor'), (95, '.'), (97, 'He'), (100, 'has'), (104, 'appeared'), (113, 'in'), (116, 'over'), (121, '150'), (125, 'films'), (131, 'since'), (137, '1960'), (141, '.'), (143, 'Leroy'), (149, 'has'), (153, 'been'), (158, 'living'), (165, 'mostly'), (172, 'in'), (175, 'Italy'), (181, 'since'), (187, 'the'), (191, '1960s'), (197, 'and'), (201, 'has'), (205, 'worked'), (212, 'extensively'), (224, 'in'), (227, 'Italian'), (235, 'cinema'), (241, ','), (243, 'as'), (246, 'well'), (251, 'as'), (254, 'in'), (257, 'his'), (261, 'native'), (268, 'country'), (275, '.'), (277, 'He'), (280, 'is'), (283, 'sometimes'), (293, 'credited'), (302, 'under'), (308, 'his'), (312, 'full'), (317, 'name'), (321, '.')])</stanford_tokens>
+<opennlp_chunks>[('Philippe Leroy',0, 14), ('full name Philippe Leroy-Beaulieu',16, 49), ('15 October 1930',56, 71), ('a French film actor',76, 95), ('has appeared',100, 112), ('over 150 films',116, 130), ('has been living',149, 164), ('the 1960s',187, 196), ('has worked',201, 211), ('Italian cinema',227, 241), ('as well as',243, 253), ('his native country',257, 275), ('is sometimes credited',280, 301), ('his full name',308, 321)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'JJ', 'NN', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', '.', 'NNP', 'VBZ', 'VBN', 'VBG', 'RB', 'IN', 'NNP', 'IN', 'DT', 'NNS', 'CC', 'VBZ', 'VBN', 'RB', 'IN', 'JJ', 'NN', ',', 'RB', 'RB', 'IN', 'IN', 'PRP$', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Philippe'), (9, 'Leroy'), (14, ','), (16, 'full'), (21, 'name'), (26, 'Philippe'), (35, 'Leroy'), (40, '-'), (41, 'Beaulieu'), (50, '('), (51, 'born'), (56, '15'), (59, 'October'), (67, '1930'), (71, ')'), (73, 'is'), (76, 'a'), (78, 'French'), (85, 'film'), (90, 'actor'), (95, '.'), (97, 'He'), (100, 'has'), (104, 'appeared'), (113, 'in'), (116, 'over'), (121, '150'), (125, 'films'), (131, 'since'), (137, '1960'), (141, '.'), (143, 'Leroy'), (149, 'has'), (153, 'been'), (158, 'living'), (165, 'mostly'), (172, 'in'), (175, 'Italy'), (181, 'since'), (187, 'the'), (191, '1960s'), (197, 'and'), (201, 'has'), (205, 'worked'), (212, 'extensively'), (224, 'in'), (227, 'Italian'), (235, 'cinema'), (241, ','), (243, 'as'), (246, 'well'), (251, 'as'), (254, 'in'), (257, 'his'), (261, 'native'), (268, 'country'), (275, '.'), (277, 'He'), (280, 'is'), (283, 'sometimes'), (293, 'credited'), (302, 'under'), (308, 'his'), (312, 'full'), (317, 'name'), (321, '.')])</spacy_tokens>
+<spacy_chunks>[('Philippe Leroy', 0, 14), ('full name', 16, 25), ('Philippe Leroy-Beaulieu', 26, 49), ('15 October 1930', 56, 71), ('a French film actor', 76, 95), ('over 150 films', 116, 130), ('the 1960s', 187, 196), ('Italian cinema', 227, 241), ('his native country', 257, 275), ('his full name', 308, 321)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'JJ', 'NN', 'NNP', 'NNP', 'HYPH', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', '.', 'NNP', 'VBZ', 'VBN', 'VBG', 'RB', 'IN', 'NNP', 'IN', 'DT', 'NNS', 'CC', 'VBZ', 'VBN', 'RB', 'IN', 'JJ', 'NN', ',', 'RB', 'RB', 'IN', 'IN', 'PRP$', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marie-Françoise Audollent</title>
+<link/>https://en.wikipedia.org/wiki/Marie-Fran%C3%A7oise_Audollent
+<annotated>0</annotated>
+<originalabstract>Marie-Françoise Audollent (22 May 1943 – 30 March 2008) was a French actress. She was known for her role in The Da Vinci Code. Her other roles have included Éloge de l'amour and Le Comte de Monte Cristo.</originalabstract>
+<abstract>Marie-Françoise_Audollent ( 22_May_1943 – 30_March_2008 ) was a_French_actress . She was_known for her_role in The_Da_Vinci_Code . Her_other_roles have_included Éloge de l'amour and Le_Comte de Monte_Cristo .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie-Françoise'), (16, 'Audollent'), (26, '('), (27, '22'), (30, 'May'), (34, '1943'), (39, '–'), (41, '30'), (44, 'March'), (50, '2008'), (54, ')'), (56, 'was'), (60, 'a'), (62, 'French'), (69, 'actress'), (76, '.'), (78, 'She'), (82, 'was'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'role'), (105, 'in'), (108, 'The'), (112, 'Da'), (115, 'Vinci'), (121, 'Code'), (125, '.'), (127, 'Her'), (131, 'other'), (137, 'roles'), (143, 'have'), (148, 'included'), (157, 'Éloge'), (163, 'de'), (166, 'l\'amour'), (174, 'and'), (178, 'Le'), (181, 'Comte'), (187, 'de'), (190, 'Monte'), (196, 'Cristo'), (202, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie-Françoise Audollent',0, 25), ('22 May 1943',27, 38), ('30 March 2008',41, 54), ('a French actress',60, 76), ('was known',82, 91), ('her role',96, 104), ('The Da Vinci Code',108, 125), ('Her other roles',127, 142), ('have included',143, 156), ('Le Comte',178, 186), ('Monte Cristo',190, 202)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'PRP$', 'JJ', 'NNS', 'VBP', 'VBN', 'NNP', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (5, '-'), (6, 'Françoise'), (16, 'Audollent'), (26, '('), (27, '22'), (30, 'May'), (34, '1943'), (39, '–'), (41, '30'), (44, 'March'), (50, '2008'), (54, ')'), (56, 'was'), (60, 'a'), (62, 'French'), (69, 'actress'), (76, '.'), (78, 'She'), (82, 'was'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'role'), (105, 'in'), (108, 'The'), (112, 'Da'), (115, 'Vinci'), (121, 'Code'), (125, '.'), (127, 'Her'), (131, 'other'), (137, 'roles'), (143, 'have'), (148, 'included'), (157, 'Éloge'), (163, 'de'), (166, "l'amour"), (174, 'and'), (178, 'Le'), (181, 'Comte'), (187, 'de'), (190, 'Monte'), (196, 'Cristo'), (202, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie-Françoise Audollent', 0, 25), ('(22 May', 26, 33), ('22 May 1943', 27, 38), ('30 March 2008', 41, 54), ('a French actress', 60, 76), ('her role', 96, 104), ('The Da Vinci Code', 108, 125), ('Her other roles', 127, 142), ('Le Comte de Monte Cristo', 178, 202)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.', 'PRP$', 'JJ', 'NNS', 'VBP', 'VBN', 'NNP', 'FW', 'FW', 'CC', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

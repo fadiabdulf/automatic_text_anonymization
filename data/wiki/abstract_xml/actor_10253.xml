@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Antoine Vitez</title>
+<link/>https://en.wikipedia.org/wiki/Antoine_Vitez
+<annotated>0</annotated>
+<originalabstract>Antoine Vitez (20 December 1930 – 30 April 1990) was a French actor, director, and poet. He became a central character and influence on the French theater in the post-war period, especially in the technique of teaching drama. He was also translator of Chekhov, Vladimir Mayakovsky and Mikhail Sholokhov.</originalabstract>
+<abstract>Antoine_Vitez ( 20_December_1930 – 30_April_1990 ) was a_French_actor , director , and poet . He became a_central_character_and_influence on the_French_theater in the_post-war_period , especially in the_technique of teaching_drama . He was also translator of Chekhov , Vladimir_Mayakovsky and Mikhail_Sholokhov .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Antoine'), (8, 'Vitez'), (14, '('), (15, '20'), (18, 'December'), (27, '1930'), (32, '–'), (34, '30'), (37, 'April'), (43, '1990'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'actor'), (67, ','), (69, 'director'), (77, ','), (79, 'and'), (83, 'poet'), (87, '.'), (89, 'He'), (92, 'became'), (99, 'a'), (101, 'central'), (109, 'character'), (119, 'and'), (123, 'influence'), (133, 'on'), (136, 'the'), (140, 'French'), (147, 'theater'), (155, 'in'), (158, 'the'), (162, 'post-war'), (171, 'period'), (177, ','), (179, 'especially'), (190, 'in'), (193, 'the'), (197, 'technique'), (207, 'of'), (210, 'teaching'), (219, 'drama'), (224, '.'), (226, 'He'), (229, 'was'), (233, 'also'), (238, 'translator'), (249, 'of'), (252, 'Chekhov'), (259, ','), (261, 'Vladimir'), (270, 'Mayakovsky'), (281, 'and'), (285, 'Mikhail'), (293, 'Sholokhov'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Antoine Vitez',0, 13), ('20 December 1930',15, 31), ('30 April 1990',34, 47), ('a French actor',53, 67), ('a central character and influence',99, 132), ('the French theater',136, 154), ('the post-war period',158, 177), ('the technique',193, 206), ('teaching drama',210, 224), ('Vladimir Mayakovsky',261, 280), ('Mikhail Sholokhov',285, 302)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', ',', 'RB', 'IN', 'DT', 'NN', 'IN', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Antoine'), (8, 'Vitez'), (14, '('), (15, '20'), (18, 'December'), (27, '1930'), (32, '–'), (34, '30'), (37, 'April'), (43, '1990'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'French'), (62, 'actor'), (67, ','), (69, 'director'), (77, ','), (79, 'and'), (83, 'poet'), (87, '.'), (89, 'He'), (92, 'became'), (99, 'a'), (101, 'central'), (109, 'character'), (119, 'and'), (123, 'influence'), (133, 'on'), (136, 'the'), (140, 'French'), (147, 'theater'), (155, 'in'), (158, 'the'), (162, 'post'), (166, '-'), (167, 'war'), (171, 'period'), (177, ','), (179, 'especially'), (190, 'in'), (193, 'the'), (197, 'technique'), (207, 'of'), (210, 'teaching'), (219, 'drama'), (224, '.'), (226, 'He'), (229, 'was'), (233, 'also'), (238, 'translator'), (249, 'of'), (252, 'Chekhov'), (259, ','), (261, 'Vladimir'), (270, 'Mayakovsky'), (281, 'and'), (285, 'Mikhail'), (293, 'Sholokhov'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Antoine Vitez', 0, 13), ('20 December 1930', 15, 31), ('30 April 1990', 34, 47), ('a French actor', 53, 67), ('director', 69, 77), ('a central character', 99, 118), ('influence', 123, 132), ('the French theater', 136, 154), ('the post-war period', 158, 177), ('the technique', 193, 206), ('translator', 238, 248), ('Chekhov', 252, 259), ('Vladimir Mayakovsky', 261, 280), ('Mikhail Sholokhov', 285, 302)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'JJ', 'NN', ',', 'RB', 'IN', 'DT', 'NN', 'IN', 'VBG', 'NN', '.', 'PRP', 'VBD', 'RB', 'NN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sabine Haudepin</title>
+<link/>https://en.wikipedia.org/wiki/Sabine_Haudepin
+<annotated>0</annotated>
+<originalabstract>Sabine Haudepin (born 19 October 1955) is a French actress. She has appeared in more than 50 films since 1962. She was born in Montreuil, Seine-Saint-Denis, France.</originalabstract>
+<abstract>Sabine_Haudepin ( born 19_October_1955 ) is a_French_actress . She has_appeared in more_than_50_films since 1962 . She was_born in Montreuil , Seine-Saint-Denis , France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sabine'), (7, 'Haudepin'), (16, '('), (17, 'born'), (22, '19'), (25, 'October'), (33, '1955'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'has'), (68, 'appeared'), (77, 'in'), (80, 'more'), (85, 'than'), (90, '50'), (93, 'films'), (99, 'since'), (105, '1962'), (109, '.'), (111, 'She'), (115, 'was'), (119, 'born'), (124, 'in'), (127, 'Montreuil'), (136, ','), (138, 'Seine-Saint-Denis'), (155, ','), (157, 'France'), (163, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sabine Haudepin',0, 15), ('19 October 1955',22, 37), ('a French actress',42, 58), ('has appeared',64, 76), ('more than 50 films',80, 98), ('was born',115, 123)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sabine'), (7, 'Haudepin'), (16, '('), (17, 'born'), (22, '19'), (25, 'October'), (33, '1955'), (37, ')'), (39, 'is'), (42, 'a'), (44, 'French'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'has'), (68, 'appeared'), (77, 'in'), (80, 'more'), (85, 'than'), (90, '50'), (93, 'films'), (99, 'since'), (105, '1962'), (109, '.'), (111, 'She'), (115, 'was'), (119, 'born'), (124, 'in'), (127, 'Montreuil'), (136, ','), (138, 'Seine'), (143, '-'), (144, 'Saint'), (149, '-'), (150, 'Denis'), (155, ','), (157, 'France'), (163, '.')])</spacy_tokens>
+<spacy_chunks>[('Sabine Haudepin', 0, 15), ('19 October 1955', 22, 37), ('a French actress', 42, 58), ('more than 50 films', 80, 98), ('Montreuil, Seine-Saint-Denis', 127, 155), ('France', 157, 163)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJR', 'IN', 'CD', 'NNS', 'IN', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'HYPH', 'NNP', 'HYPH', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

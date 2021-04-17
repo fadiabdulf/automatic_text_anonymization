@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ray Mala</title>
+<link/>https://en.wikipedia.org/wiki/Ray_Mala
+<annotated>0</annotated>
+<originalabstract>Ray Mala (December 27, 1906 – September 23, 1952) was one of the first Native American movie stars. Mala was recently named a "Top Ten Alaskan" by TIME Magazine. He starred in MGM's Academy Award-winning Eskimo, directed by Woody Van Dyke.</originalabstract>
+<abstract>Ray_Mala ( December_27_,_1906 – September_23_,_1952 ) was one of the_first_Native_American_movie_stars . Mala was_recently_named a_"_Top_Ten_Alaskan_" by TIME_Magazine . He starred in MGM 's_Academy_Award-winning_Eskimo , directed by Woody_Van_Dyke .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ray'), (4, 'Mala'), (9, '('), (10, 'December'), (19, '27'), (21, ','), (23, '1906'), (28, '–'), (30, 'September'), (40, '23'), (42, ','), (44, '1952'), (48, ')'), (50, 'was'), (54, 'one'), (58, 'of'), (61, 'the'), (65, 'first'), (71, 'Native'), (78, 'American'), (87, 'movie'), (93, 'stars'), (98, '.'), (100, 'Mala'), (105, 'was'), (109, 'recently'), (118, 'named'), (124, 'a'), (126, '"'), (127, 'Top'), (131, 'Ten'), (135, 'Alaskan'), (142, '"'), (144, 'by'), (147, 'TIME'), (152, 'Magazine'), (160, '.'), (162, 'He'), (165, 'starred'), (173, 'in'), (176, 'MGM'), (179, '\'s'), (182, 'Academy'), (190, 'Award-winning'), (204, 'Eskimo'), (210, ','), (212, 'directed'), (221, 'by'), (224, 'Woody'), (230, 'Van'), (234, 'Dyke'), (238, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ray Mala',0, 8), ('December 27, 1906',10, 27), ('September 23, 1952',30, 48), ('the first Native American movie stars',61, 98), ('was recently named',105, 123), ('a "Top Ten Alaskan"',124, 143), ('TIME Magazine',147, 160), ('\'s Academy Award-winning Eskimo',179, 210), ('Woody Van Dyke',224, 238)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NNS', '.', 'NNP', 'VBD', 'RB', 'VBN', 'DT', '``', 'JJ', 'CD', 'JJ', '\'\'', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'POS', 'NNP', 'JJ', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ray'), (4, 'Mala'), (9, '('), (10, 'December'), (19, '27'), (21, ','), (23, '1906'), (28, '–'), (30, 'September'), (40, '23'), (42, ','), (44, '1952'), (48, ')'), (50, 'was'), (54, 'one'), (58, 'of'), (61, 'the'), (65, 'first'), (71, 'Native'), (78, 'American'), (87, 'movie'), (93, 'stars'), (98, '.'), (100, 'Mala'), (105, 'was'), (109, 'recently'), (118, 'named'), (124, 'a'), (126, '"'), (127, 'Top'), (131, 'Ten'), (135, 'Alaskan'), (142, '"'), (144, 'by'), (147, 'TIME'), (152, 'Magazine'), (160, '.'), (162, 'He'), (165, 'starred'), (173, 'in'), (176, 'MGM'), (179, "'s"), (182, 'Academy'), (190, 'Award'), (195, '-'), (196, 'winning'), (204, 'Eskimo'), (210, ','), (212, 'directed'), (221, 'by'), (224, 'Woody'), (230, 'Van'), (234, 'Dyke'), (238, '.')])</spacy_tokens>
+<spacy_chunks>[('Ray Mala', 0, 8), ('(December', 9, 18), ('December 27, 1906', 10, 27), ('September 23, 1952', 30, 48), ('the first Native American movie stars', 61, 98), ('TIME Magazine', 147, 160), ("MGM's Academy Award-winning Eskimo", 176, 210), ('Woody Van Dyke', 224, 238)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'CD', 'IN', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NNS', '.', 'NNP', 'VBD', 'RB', 'VBN', 'DT', '``', 'NNP', 'NNP', 'NNP', "''", 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'NNP', 'POS', 'NNP', 'NNP', 'HYPH', 'VBG', 'NNP', ',', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

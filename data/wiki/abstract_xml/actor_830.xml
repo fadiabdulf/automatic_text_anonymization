@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peter Brocco</title>
+<link/>https://en.wikipedia.org/wiki/Peter_Brocco
+<annotated>0</annotated>
+<originalabstract>Carl Peter Brocco (January 16, 1903 – December 20, 1992) was an American screen and stage actor. He appeared in about 300 credits, notably Spartacus (1960) and One Flew Over the Cuckoo's Nest (1975), during his career spanning over 60 years.</originalabstract>
+<abstract>Carl_Peter_Brocco ( January_16_,_1903 – December_20_,_1992 ) was an_American_screen_and_stage_actor . He appeared in about_300_credits , notably Spartacus_(_1960_) and One Flew Over the_Cuckoo 's_Nest_(_1975_) , during his_career spanning over_60_years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Carl'), (5, 'Peter'), (11, 'Brocco'), (18, '('), (19, 'January'), (27, '16'), (29, ','), (31, '1903'), (36, '–'), (38, 'December'), (47, '20'), (49, ','), (51, '1992'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'screen'), (80, 'and'), (84, 'stage'), (90, 'actor'), (95, '.'), (97, 'He'), (100, 'appeared'), (109, 'in'), (112, 'about'), (118, '300'), (122, 'credits'), (129, ','), (131, 'notably'), (139, 'Spartacus'), (149, '('), (150, '1960'), (154, ')'), (156, 'and'), (160, 'One'), (164, 'Flew'), (169, 'Over'), (174, 'the'), (178, 'Cuckoo'), (184, '\'s'), (187, 'Nest'), (192, '('), (193, '1975'), (197, ')'), (198, ','), (200, 'during'), (207, 'his'), (211, 'career'), (218, 'spanning'), (227, 'over'), (232, '60'), (235, 'years'), (240, '.')])</stanford_tokens>
+<opennlp_chunks>[('Carl Peter Brocco',0, 17), ('January 16, 1903',19, 35), ('December 20, 1992',38, 55), ('an American screen and stage actor',61, 95), ('about 300 credits',112, 129), ('Spartacus (1960)',139, 155), ('the Cuckoo',174, 184), ('\'s Nest (1975)',184, 198), ('his career',207, 217), ('over 60 years',227, 240)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', ',', 'RB', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'CD', 'VBD', 'IN', 'DT', 'NN', 'POS', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'PRP$', 'NN', 'VBG', 'RP', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Carl'), (5, 'Peter'), (11, 'Brocco'), (18, '('), (19, 'January'), (27, '16'), (29, ','), (31, '1903'), (36, '–'), (38, 'December'), (47, '20'), (49, ','), (51, '1992'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'screen'), (80, 'and'), (84, 'stage'), (90, 'actor'), (95, '.'), (97, 'He'), (100, 'appeared'), (109, 'in'), (112, 'about'), (118, '300'), (122, 'credits'), (129, ','), (131, 'notably'), (139, 'Spartacus'), (149, '('), (150, '1960'), (154, ')'), (156, 'and'), (160, 'One'), (164, 'Flew'), (169, 'Over'), (174, 'the'), (178, 'Cuckoo'), (184, "'s"), (187, 'Nest'), (192, '('), (193, '1975'), (197, ')'), (198, ','), (200, 'during'), (207, 'his'), (211, 'career'), (218, 'spanning'), (227, 'over'), (232, '60'), (235, 'years'), (240, '.')])</spacy_tokens>
+<spacy_chunks>[('Carl Peter Brocco', 0, 17), ('January 16, 1903', 19, 35), ('December 20, 1992', 38, 55), ('an American screen', 61, 79), ('stage actor', 84, 95), ('about 300 credits', 112, 129), ('notably Spartacus', 131, 148), ("One Flew over the Cuckoo's Nest", 160, 191), ('his career', 207, 217), ('60 years', 232, 240)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', ',', 'RB', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'CD', 'NN', 'NNP', 'DT', 'NNP', 'POS', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'IN', 'PRP$', 'NN', 'VBG', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

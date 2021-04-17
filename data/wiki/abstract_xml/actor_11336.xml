@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mindy Cohn</title>
+<link/>https://en.wikipedia.org/wiki/Mindy_Cohn
+<annotated>0</annotated>
+<originalabstract>Mindy Cohn (born May 20, 1966) is an American actress, voice actress and singer. She is known for her role as Natalie Green in the sitcom The Facts of Life, and for being the voice of Velma Dinkley in the Scooby-Doo franchise from 2002 to 2015.
+She resides in Beverly Hills.</originalabstract>
+<abstract>Mindy_Cohn ( born May_20_,_1966 ) is an_American_actress , voice_actress_and_singer . She is_known for her_role as Natalie_Green in the_sitcom The_Facts of Life , and for being the_voice of Velma_Dinkley in the_Scooby-Doo_franchise from 2002 to 2015 . She resides in Beverly_Hills .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mindy'), (6, 'Cohn'), (11, '('), (12, 'born'), (17, 'May'), (21, '20'), (23, ','), (25, '1966'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'American'), (46, 'actress'), (53, ','), (55, 'voice'), (61, 'actress'), (69, 'and'), (73, 'singer'), (79, '.'), (81, 'She'), (85, 'is'), (88, 'known'), (94, 'for'), (98, 'her'), (102, 'role'), (107, 'as'), (110, 'Natalie'), (118, 'Green'), (124, 'in'), (127, 'the'), (131, 'sitcom'), (138, 'The'), (142, 'Facts'), (148, 'of'), (151, 'Life'), (155, ','), (157, 'and'), (161, 'for'), (165, 'being'), (171, 'the'), (175, 'voice'), (181, 'of'), (184, 'Velma'), (190, 'Dinkley'), (198, 'in'), (201, 'the'), (205, 'Scooby-Doo'), (216, 'franchise'), (226, 'from'), (231, '2002'), (236, 'to'), (239, '2015'), (243, '.'), (245, 'She'), (249, 'resides'), (257, 'in'), (260, 'Beverly'), (268, 'Hills'), (273, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mindy Cohn',0, 10), ('May 20, 1966',17, 29), ('an American actress',34, 53), ('voice actress and singer',55, 79), ('is known',85, 93), ('her role',98, 106), ('Natalie Green',110, 123), ('the sitcom',127, 137), ('The Facts',138, 147), ('the voice',171, 180), ('Velma Dinkley',184, 197), ('the Scooby-Doo franchise',201, 225), ('Beverly Hills',260, 273)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'DT', 'NNS', 'IN', 'NNP', ',', 'CC', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'IN', 'CD', 'TO', 'CD', '.', 'PRP', 'VBZ', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mindy'), (6, 'Cohn'), (11, '('), (12, 'born'), (17, 'May'), (21, '20'), (23, ','), (25, '1966'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'American'), (46, 'actress'), (53, ','), (55, 'voice'), (61, 'actress'), (69, 'and'), (73, 'singer'), (79, '.'), (81, 'She'), (85, 'is'), (88, 'known'), (94, 'for'), (98, 'her'), (102, 'role'), (107, 'as'), (110, 'Natalie'), (118, 'Green'), (124, 'in'), (127, 'the'), (131, 'sitcom'), (138, 'The'), (142, 'Facts'), (148, 'of'), (151, 'Life'), (155, ','), (157, 'and'), (161, 'for'), (165, 'being'), (171, 'the'), (175, 'voice'), (181, 'of'), (184, 'Velma'), (190, 'Dinkley'), (198, 'in'), (201, 'the'), (205, 'Scooby'), (211, '-'), (212, 'Doo'), (216, 'franchise'), (226, 'from'), (231, '2002'), (236, 'to'), (239, '2015'), (243, '.'), (245, 'She'), (249, 'resides'), (257, 'in'), (260, 'Beverly'), (268, 'Hills'), (273, '.')])</spacy_tokens>
+<spacy_chunks>[('Mindy Cohn', 0, 10), ('May 20, 1966', 17, 29), ('an American actress', 34, 53), ('voice actress', 55, 68), ('singer', 73, 79), ('her role', 98, 106), ('Natalie Green', 110, 123), ('the sitcom', 127, 137), ('The Facts of Life', 138, 155), ('the voice', 171, 180), ('Velma Dinkley', 184, 197), ('the Scooby-Doo franchise', 201, 225), ('Beverly Hills', 260, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'DT', 'NNPS', 'IN', 'NNP', ',', 'CC', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'HYPH', 'NNP', 'NN', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'VBZ', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul Burke (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Paul_Burke_(actor)
+<annotated>0</annotated>
+<originalabstract>Paul Raymond Burke (July 21, 1926 – September 13, 2009) was an American actor best known for his lead roles in two 1960s ABC television series, Naked City and Twelve O'Clock High.  He was twice nominated for an Emmy Award for his portrayal of New York Police Department detective Adam Flint in Naked City.</originalabstract>
+<abstract>Paul_Raymond_Burke ( July_21_,_1926 – September_13_,_2009 ) was an_American_actor best_known for his_lead_roles in two_1960s_ABC_television_series , Naked_City and Twelve_O'Clock_High . He was_twice_nominated for an_Emmy_Award for his_portrayal of New_York_Police_Department_detective_Adam_Flint in Naked_City .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Raymond'), (13, 'Burke'), (19, '('), (20, 'July'), (25, '21'), (27, ','), (29, '1926'), (34, '–'), (36, 'September'), (46, '13'), (48, ','), (50, '2009'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'actor'), (78, 'best'), (83, 'known'), (89, 'for'), (93, 'his'), (97, 'lead'), (102, 'roles'), (108, 'in'), (111, 'two'), (115, '1960s'), (121, 'ABC'), (125, 'television'), (136, 'series'), (142, ','), (144, 'Naked'), (150, 'City'), (155, 'and'), (159, 'Twelve'), (166, 'O\'Clock'), (174, 'High'), (178, '.'), (181, 'He'), (184, 'was'), (188, 'twice'), (194, 'nominated'), (204, 'for'), (208, 'an'), (211, 'Emmy'), (216, 'Award'), (222, 'for'), (226, 'his'), (230, 'portrayal'), (240, 'of'), (243, 'New'), (247, 'York'), (252, 'Police'), (259, 'Department'), (270, 'detective'), (280, 'Adam'), (285, 'Flint'), (291, 'in'), (294, 'Naked'), (300, 'City'), (304, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Raymond Burke',0, 18), ('July 21, 1926',20, 33), ('September 13, 2009',36, 54), ('an American actor',60, 77), ('best known',78, 88), ('his lead roles',93, 107), ('two 1960s ABC television series',111, 142), ('Naked City',144, 154), ('Twelve O\'Clock High',159, 178), ('was twice nominated',184, 203), ('an Emmy Award',208, 221), ('his portrayal',226, 239), ('New York Police Department detective Adam Flint',243, 290), ('Naked City',294, 304)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'CD', 'NNS', 'NNP', 'NN', 'NN', ',', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Raymond'), (13, 'Burke'), (19, '('), (20, 'July'), (25, '21'), (27, ','), (29, '1926'), (34, '–'), (36, 'September'), (46, '13'), (48, ','), (50, '2009'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'actor'), (78, 'best'), (83, 'known'), (89, 'for'), (93, 'his'), (97, 'lead'), (102, 'roles'), (108, 'in'), (111, 'two'), (115, '1960s'), (121, 'ABC'), (125, 'television'), (136, 'series'), (142, ','), (144, 'Naked'), (150, 'City'), (155, 'and'), (159, 'Twelve'), (166, "O'Clock"), (174, 'High'), (178, '.'), (181, 'He'), (184, 'was'), (188, 'twice'), (194, 'nominated'), (204, 'for'), (208, 'an'), (211, 'Emmy'), (216, 'Award'), (222, 'for'), (226, 'his'), (230, 'portrayal'), (240, 'of'), (243, 'New'), (247, 'York'), (252, 'Police'), (259, 'Department'), (270, 'detective'), (280, 'Adam'), (285, 'Flint'), (291, 'in'), (294, 'Naked'), (300, 'City'), (304, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Raymond Burke', 0, 18), ('July 21, 1926', 20, 33), ('September 13, 2009', 36, 54), ('an American actor', 60, 77), ('his lead roles', 93, 107), ('two 1960s ABC television series', 111, 142), ('Naked City', 144, 154), ("Twelve O'Clock High", 159, 178), ('an Emmy Award', 208, 221), ('his portrayal', 226, 239), ('New York Police Department detective Adam Flint', 243, 290)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'CD', 'NNS', 'NNP', 'NN', 'NN', ',', 'NNP', 'NNP', 'CC', 'CD', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Prince Denis</title>
+<link/>https://en.wikipedia.org/wiki/Prince_Denis
+<annotated>0</annotated>
+<originalabstract>Prince Denis (January 26, 1900 – June 20, 1984) was a French-born American actor of sideshows and film with dwarfism, best known for his role as the  Munchkin Sergeant-at-Arms in the 1939 film "The Wizard of Oz".</originalabstract>
+<abstract>Prince_Denis ( January_26_,_1900 – June_20_,_1984 ) was a_French-born_American_actor of sideshows and film with dwarfism , best_known for his_role as the_Munchkin_Sergeant-at-Arms in the_1939_film " The_Wizard of Oz_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Prince'), (7, 'Denis'), (13, '('), (14, 'January'), (22, '26'), (24, ','), (26, '1900'), (31, '–'), (33, 'June'), (38, '20'), (40, ','), (42, '1984'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French-born'), (66, 'American'), (75, 'actor'), (81, 'of'), (84, 'sideshows'), (94, 'and'), (98, 'film'), (103, 'with'), (108, 'dwarfism'), (116, ','), (118, 'best'), (123, 'known'), (129, 'for'), (133, 'his'), (137, 'role'), (142, 'as'), (145, 'the'), (150, 'Munchkin'), (159, 'Sergeant-at-Arms'), (176, 'in'), (179, 'the'), (183, '1939'), (188, 'film'), (193, '"'), (194, 'The'), (198, 'Wizard'), (205, 'of'), (208, 'Oz'), (210, '"'), (211, '.')])</stanford_tokens>
+<opennlp_chunks>[('Prince Denis',0, 12), ('January 26, 1900',14, 30), ('June 20, 1984',33, 46), ('a French-born American actor',52, 80), ('best known',118, 128), ('his role',133, 141), ('the  Munchkin Sergeant-at-Arms',145, 175), ('the 1939 film',179, 192), ('The Wizard',194, 204), ('Oz"',208, 211)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'IN', 'NNS', 'CC', 'NN', 'IN', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', '``', 'DT', 'NNP', 'IN', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Prince'), (7, 'Denis'), (13, '('), (14, 'January'), (22, '26'), (24, ','), (26, '1900'), (31, '–'), (33, 'June'), (38, '20'), (40, ','), (42, '1984'), (46, ')'), (48, 'was'), (52, 'a'), (54, 'French'), (60, '-'), (61, 'born'), (66, 'American'), (75, 'actor'), (81, 'of'), (84, 'sideshows'), (94, 'and'), (98, 'film'), (103, 'with'), (108, 'dwarfism'), (116, ','), (118, 'best'), (123, 'known'), (129, 'for'), (133, 'his'), (137, 'role'), (142, 'as'), (145, 'the'), (150, 'Munchkin'), (159, 'Sergeant'), (167, '-'), (168, 'at'), (170, '-'), (171, 'Arms'), (176, 'in'), (179, 'the'), (183, '1939'), (188, 'film'), (193, '"'), (194, 'The'), (198, 'Wizard'), (205, 'of'), (208, 'Oz'), (210, '"'), (211, '.')])</spacy_tokens>
+<spacy_chunks>[('Prince Denis', 0, 12), ('(January', 13, 21), ('January 26, 1900', 14, 30), ('June 20, 1984', 33, 46), ('a French-born American actor', 52, 80), ('sideshows', 84, 93), ('dwarfism', 108, 116), ('his role', 133, 141), ('the  Munchkin Sergeant', 145, 167), ('the 1939 film', 179, 192), ('"The Wizard', 193, 204), ('The Wizard of Oz', 194, 210)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'IN', 'NNS', 'CC', 'NN', 'IN', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NN', 'HYPH', 'IN', 'HYPH', 'NNS', 'IN', 'DT', 'CD', 'NN', '``', 'DT', 'NNP', 'IN', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

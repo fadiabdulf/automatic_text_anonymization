@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Wendy Hoopes</title>
+<link/>https://en.wikipedia.org/wiki/Wendy_Hoopes
+<annotated>0</annotated>
+<originalabstract>Wendy Hoopes (born 4 November 1972) is a Malaysian-born actress most widely celebrated for her roles on MTV's animated series Daria, where she provided the voices for three different main characters (Jane Lane, Helen Morgendorffer, and Quinn Morgendorffer).</originalabstract>
+<abstract>Wendy_Hoopes ( born 4_November_1972 ) is a_Malaysian-born_actress most_widely_celebrated for her_roles on MTV 's_animated_series_Daria , where she provided the_voices for three_different_main_characters ( Jane_Lane , Helen_Morgendorffer , and Quinn_Morgendorffer ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Wendy'), (6, 'Hoopes'), (13, '('), (14, 'born'), (19, '4'), (21, 'November'), (30, '1972'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'Malaysian-born'), (56, 'actress'), (64, 'most'), (69, 'widely'), (76, 'celebrated'), (87, 'for'), (91, 'her'), (95, 'roles'), (101, 'on'), (104, 'MTV'), (107, '\'s'), (110, 'animated'), (119, 'series'), (126, 'Daria'), (131, ','), (133, 'where'), (139, 'she'), (143, 'provided'), (152, 'the'), (156, 'voices'), (163, 'for'), (167, 'three'), (173, 'different'), (183, 'main'), (188, 'characters'), (199, '('), (200, 'Jane'), (205, 'Lane'), (209, ','), (211, 'Helen'), (217, 'Morgendorffer'), (230, ','), (232, 'and'), (236, 'Quinn'), (242, 'Morgendorffer'), (255, ')'), (256, '.')])</stanford_tokens>
+<opennlp_chunks>[('Wendy Hoopes',0, 12), ('4 November 1972',19, 34), ('a Malaysian-born actress',39, 63), ('most widely celebrated',64, 86), ('her roles',91, 100), ('\'s animated series Daria',107, 131), ('the voices',152, 162), ('three different main characters',167, 198), ('Jane Lane',200, 209), ('Helen Morgendorffer',211, 230), ('Quinn Morgendorffer',236, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'POS', 'JJ', 'NN', 'NNP', ',', 'WRB', 'PRP', 'VBD', 'DT', 'NNS', 'IN', 'CD', 'JJ', 'JJ', 'NNS', '-LRB-', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Wendy'), (6, 'Hoopes'), (13, '('), (14, 'born'), (19, '4'), (21, 'November'), (30, '1972'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'Malaysian'), (50, '-'), (51, 'born'), (56, 'actress'), (64, 'most'), (69, 'widely'), (76, 'celebrated'), (87, 'for'), (91, 'her'), (95, 'roles'), (101, 'on'), (104, 'MTV'), (107, "'s"), (110, 'animated'), (119, 'series'), (126, 'Daria'), (131, ','), (133, 'where'), (139, 'she'), (143, 'provided'), (152, 'the'), (156, 'voices'), (163, 'for'), (167, 'three'), (173, 'different'), (183, 'main'), (188, 'characters'), (199, '('), (200, 'Jane'), (205, 'Lane'), (209, ','), (211, 'Helen'), (217, 'Morgendorffer'), (230, ','), (232, 'and'), (236, 'Quinn'), (242, 'Morgendorffer'), (255, ')'), (256, '.')])</spacy_tokens>
+<spacy_chunks>[('Wendy Hoopes', 0, 12), ('4 November 1972', 19, 34), ('a Malaysian-born actress', 39, 63), ('her roles', 91, 100), ("MTV's animated series", 104, 125), ('the voices', 152, 162), ('three different main characters', 167, 198), ('Jane Lane', 200, 209), ('Helen Morgendorffer', 211, 230), ('Quinn Morgendorffer', 236, 255)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'RBS', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'POS', 'VBN', 'NN', 'NNP', ',', 'WRB', 'PRP', 'VBD', 'DT', 'NNS', 'IN', 'CD', 'JJ', 'JJ', 'NNS', '-LRB-', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

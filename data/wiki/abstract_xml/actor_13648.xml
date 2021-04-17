@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Katherine MacGregor</title>
+<link/>https://en.wikipedia.org/wiki/Katherine_MacGregor
+<annotated>0</annotated>
+<originalabstract>Katherine "Scottie" MacGregor (born Dorlee Deane McGregor; January 12, 1925 – November 13, 2018) was an American actress, best known for her role as Harriet Oleson in Little House on the Prairie.</originalabstract>
+<abstract>Katherine_"_Scottie_"_MacGregor ( born Dorlee_Deane_McGregor ; January_12_,_1925 – November_13_,_2018 ) was an_American_actress , best_known for her_role as Harriet_Oleson in Little_House on the_Prairie .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Katherine'), (10, '"'), (11, 'Scottie'), (18, '"'), (20, 'MacGregor'), (30, '('), (31, 'born'), (36, 'Dorlee'), (43, 'Deane'), (49, 'McGregor'), (57, ';'), (59, 'January'), (67, '12'), (69, ','), (71, '1925'), (76, '–'), (78, 'November'), (87, '13'), (89, ','), (91, '2018'), (95, ')'), (97, 'was'), (101, 'an'), (104, 'American'), (113, 'actress'), (120, ','), (122, 'best'), (127, 'known'), (133, 'for'), (137, 'her'), (141, 'role'), (146, 'as'), (149, 'Harriet'), (157, 'Oleson'), (164, 'in'), (167, 'Little'), (174, 'House'), (180, 'on'), (183, 'the'), (187, 'Prairie'), (194, '.')])</stanford_tokens>
+<opennlp_chunks>[('Katherine "Scottie" MacGregor',0, 29), ('Dorlee Deane McGregor',36, 57), ('January 12, 1925',59, 75), ('November 13, 2018',78, 95), ('an American actress',101, 120), ('best known',122, 132), ('her role',137, 145), ('Harriet Oleson',149, 163), ('Little House',167, 179), ('the Prairie',183, 194)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Katherine'), (10, '"'), (11, 'Scottie'), (18, '"'), (20, 'MacGregor'), (30, '('), (31, 'born'), (36, 'Dorlee'), (43, 'Deane'), (49, 'McGregor'), (57, ';'), (59, 'January'), (67, '12'), (69, ','), (71, '1925'), (76, '–'), (78, 'November'), (87, '13'), (89, ','), (91, '2018'), (95, ')'), (97, 'was'), (101, 'an'), (104, 'American'), (113, 'actress'), (120, ','), (122, 'best'), (127, 'known'), (133, 'for'), (137, 'her'), (141, 'role'), (146, 'as'), (149, 'Harriet'), (157, 'Oleson'), (164, 'in'), (167, 'Little'), (174, 'House'), (180, 'on'), (183, 'the'), (187, 'Prairie'), (194, '.')])</spacy_tokens>
+<spacy_chunks>[('Katherine "Scottie" MacGregor', 0, 29), ('(born Dorlee Deane McGregor', 30, 57), ('January 12, 1925', 59, 75), ('November 13, 2018', 78, 95), ('an American actress', 101, 120), ('her role', 137, 145), ('Harriet Oleson', 149, 163), ('Little House on the Prairie', 167, 194)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'NNS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bertie Wright</title>
+<link/>https://en.wikipedia.org/wiki/Bertie_Wright
+<annotated>0</annotated>
+<originalabstract>Albert James Matthew Wright (6 February 1871 – 7 March 1960), known as Bertie Wright, was a British actor of the silent era. Wright was born in Blackburn, Lancashire, England, and died on 7 March 1960, in Sydney, New South Wales, Australia.</originalabstract>
+<abstract>Albert_James_Matthew_Wright ( 6_February_1871 – 7_March_1960 ) , known as Bertie_Wright , was a_British_actor of the_silent_era . Wright was_born in Blackburn , Lancashire , England , and died on 7_March_1960 , in Sydney , New_South_Wales , Australia .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Albert'), (7, 'James'), (13, 'Matthew'), (21, 'Wright'), (28, '('), (29, '6'), (31, 'February'), (40, '1871'), (45, '–'), (47, '7'), (49, 'March'), (55, '1960'), (59, ')'), (60, ','), (62, 'known'), (68, 'as'), (71, 'Bertie'), (78, 'Wright'), (84, ','), (86, 'was'), (90, 'a'), (92, 'British'), (100, 'actor'), (106, 'of'), (109, 'the'), (113, 'silent'), (120, 'era'), (123, '.'), (125, 'Wright'), (132, 'was'), (136, 'born'), (141, 'in'), (144, 'Blackburn'), (153, ','), (155, 'Lancashire'), (165, ','), (167, 'England'), (174, ','), (176, 'and'), (180, 'died'), (185, 'on'), (188, '7'), (190, 'March'), (196, '1960'), (200, ','), (202, 'in'), (205, 'Sydney'), (211, ','), (213, 'New'), (217, 'South'), (223, 'Wales'), (228, ','), (230, 'Australia'), (239, '.')])</stanford_tokens>
+<opennlp_chunks>[('Albert James Matthew Wright',0, 27), ('6 February 1871',29, 44), ('7 March 1960',47, 59), ('Bertie Wright',71, 84), ('a British actor',90, 105), ('the silent era',109, 123), ('was born',132, 140), ('7 March 1960',188, 200), ('New South Wales',213, 228)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Albert'), (7, 'James'), (13, 'Matthew'), (21, 'Wright'), (28, '('), (29, '6'), (31, 'February'), (40, '1871'), (45, '–'), (47, '7'), (49, 'March'), (55, '1960'), (59, ')'), (60, ','), (62, 'known'), (68, 'as'), (71, 'Bertie'), (78, 'Wright'), (84, ','), (86, 'was'), (90, 'a'), (92, 'British'), (100, 'actor'), (106, 'of'), (109, 'the'), (113, 'silent'), (120, 'era'), (123, '.'), (125, 'Wright'), (132, 'was'), (136, 'born'), (141, 'in'), (144, 'Blackburn'), (153, ','), (155, 'Lancashire'), (165, ','), (167, 'England'), (174, ','), (176, 'and'), (180, 'died'), (185, 'on'), (188, '7'), (190, 'March'), (196, '1960'), (200, ','), (202, 'in'), (205, 'Sydney'), (211, ','), (213, 'New'), (217, 'South'), (223, 'Wales'), (228, ','), (230, 'Australia'), (239, '.')])</spacy_tokens>
+<spacy_chunks>[('Albert James Matthew Wright', 0, 27), ('6 February 1871', 29, 44), ('7 March 1960', 47, 59), ('Bertie Wright', 71, 84), ('a British actor', 90, 105), ('the silent era', 109, 123), ('Blackburn', 144, 153), ('Lancashire', 155, 165), ('England', 167, 174), ('7 March 1960', 188, 200), ('Sydney', 205, 211), ('New South Wales', 213, 228), ('Australia', 230, 239)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'CD', 'NNP', 'CD', ',', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

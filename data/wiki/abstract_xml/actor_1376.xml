@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jeffrey Combs</title>
+<link/>https://en.wikipedia.org/wiki/Jeffrey_Combs
+<annotated>0</annotated>
+<originalabstract>Jeffrey Alan Combs (born September 9, 1954) is an American actor known for starring in horror films, such as Re-Animator, and appearances playing a number of characters in the Star Trek and the DC Animated Universe television franchises.</originalabstract>
+<abstract>Jeffrey_Alan_Combs ( born September_9_,_1954 ) is an_American_actor known for starring in horror_films , such_as Re-Animator , and appearances playing a_number of characters in the_Star_Trek and the_DC_Animated_Universe_television_franchises .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jeffrey'), (8, 'Alan'), (13, 'Combs'), (19, '('), (20, 'born'), (25, 'September'), (35, '9'), (36, ','), (38, '1954'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (65, 'known'), (71, 'for'), (75, 'starring'), (84, 'in'), (87, 'horror'), (94, 'films'), (99, ','), (101, 'such'), (106, 'as'), (109, 'Re-Animator'), (120, ','), (122, 'and'), (126, 'appearances'), (138, 'playing'), (146, 'a'), (148, 'number'), (155, 'of'), (158, 'characters'), (169, 'in'), (172, 'the'), (176, 'Star'), (181, 'Trek'), (186, 'and'), (190, 'the'), (194, 'DC'), (197, 'Animated'), (206, 'Universe'), (215, 'television'), (226, 'franchises'), (236, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jeffrey Alan Combs',0, 18), ('September 9, 1954',25, 42), ('an American actor',47, 64), ('horror films',87, 99), ('such as',101, 108), ('a number',146, 154), ('the Star Trek',172, 185), ('the DC Animated Universe television franchises',190, 236)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'VBG', 'IN', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNP', ',', 'CC', 'NNS', 'VBG', 'DT', 'NN', 'IN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NN', 'JJ', 'NN', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jeffrey'), (8, 'Alan'), (13, 'Combs'), (19, '('), (20, 'born'), (25, 'September'), (35, '9'), (36, ','), (38, '1954'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actor'), (65, 'known'), (71, 'for'), (75, 'starring'), (84, 'in'), (87, 'horror'), (94, 'films'), (99, ','), (101, 'such'), (106, 'as'), (109, 'Re'), (111, '-'), (112, 'Animator'), (120, ','), (122, 'and'), (126, 'appearances'), (138, 'playing'), (146, 'a'), (148, 'number'), (155, 'of'), (158, 'characters'), (169, 'in'), (172, 'the'), (176, 'Star'), (181, 'Trek'), (186, 'and'), (190, 'the'), (194, 'DC'), (197, 'Animated'), (206, 'Universe'), (215, 'television'), (226, 'franchises'), (236, '.')])</spacy_tokens>
+<spacy_chunks>[('Jeffrey Alan Combs', 0, 18), ('September 9, 1954', 25, 42), ('an American actor', 47, 64), ('horror films', 87, 99), ('Re-Animator', 109, 120), ('appearances', 126, 137), ('a number', 146, 154), ('characters', 158, 168), ('the Star Trek', 172, 185), ('the DC Animated Universe television franchises', 190, 236)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'VBG', 'IN', 'NN', 'NNS', ',', 'JJ', 'IN', 'NNP', 'NNP', 'NN', ',', 'CC', 'NNS', 'VBG', 'DT', 'NN', 'IN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

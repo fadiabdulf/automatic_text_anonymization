@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Finn Carter</title>
+<link/>https://en.wikipedia.org/wiki/Finn_Carter
+<annotated>0</annotated>
+<originalabstract>Elizabeth Fearn "Finn" Carter (born 9 March 1960) is an American actress. She is best known for her role in the 1990 film Tremors.</originalabstract>
+<abstract>Elizabeth_Fearn_"_Finn_"_Carter ( born_9_March_1960 ) is an_American_actress . She is_best_known for her_role in the_1990_film_Tremors .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Fearn'), (16, '"'), (17, 'Finn'), (21, '"'), (23, 'Carter'), (30, '('), (31, 'born'), (36, '9'), (38, 'March'), (44, '1960'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actress'), (72, '.'), (74, 'She'), (78, 'is'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'role'), (105, 'in'), (108, 'the'), (112, '1990'), (117, 'film'), (122, 'Tremors'), (129, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elizabeth Fearn "Finn" Carter',0, 29), ('born 9 March 1960',31, 48), ('an American actress',53, 72), ('is best known',78, 91), ('her role',96, 104), ('the 1990 film Tremors',108, 129)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Fearn'), (16, '"'), (17, 'Finn'), (21, '"'), (23, 'Carter'), (30, '('), (31, 'born'), (36, '9'), (38, 'March'), (44, '1960'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actress'), (72, '.'), (74, 'She'), (78, 'is'), (81, 'best'), (86, 'known'), (92, 'for'), (96, 'her'), (100, 'role'), (105, 'in'), (108, 'the'), (112, '1990'), (117, 'film'), (122, 'Tremors'), (129, '.')])</spacy_tokens>
+<spacy_chunks>[('Elizabeth Fearn "Finn" Carter', 0, 29), ('9 March 1960', 36, 48), ('an American actress', 53, 72), ('her role', 96, 104), ('the 1990 film Tremors', 108, 129)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

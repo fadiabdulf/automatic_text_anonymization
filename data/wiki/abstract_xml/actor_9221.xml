@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harry Tate</title>
+<link/>https://en.wikipedia.org/wiki/Harry_Tate
+<annotated>0</annotated>
+<originalabstract>Ronald Macdonald Hutchison (4 July 1872 - 14 February 1940), professionally known as Harry Tate, was an English comedian who performed both in the music halls and in films. Tate worked for Henry Tate  Sons, Sugar Refiners before going on the stage, and took his stage name from them.</originalabstract>
+<abstract>Ronald_Macdonald_Hutchison ( 4_July_1872 - 14 February_1940 ) , professionally_known as Harry_Tate , was an_English_comedian who performed both in the_music_halls and in films . Tate worked for Henry_Tate_ , Sugar_Refiners before going on the_stage , and took his_stage_name from them .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ronald'), (7, 'Macdonald'), (17, 'Hutchison'), (27, '('), (28, '4'), (30, 'July'), (35, '1872'), (40, '-'), (42, '14'), (45, 'February'), (54, '1940'), (58, ')'), (59, ','), (61, 'professionally'), (76, 'known'), (82, 'as'), (85, 'Harry'), (91, 'Tate'), (95, ','), (97, 'was'), (101, 'an'), (104, 'English'), (112, 'comedian'), (121, 'who'), (125, 'performed'), (135, 'both'), (140, 'in'), (143, 'the'), (147, 'music'), (153, 'halls'), (159, 'and'), (163, 'in'), (166, 'films'), (171, '.'), (173, 'Tate'), (178, 'worked'), (185, 'for'), (189, 'Henry'), (195, 'Tate'), (200, ''), (202, 'Sons'), (206, ','), (208, 'Sugar'), (214, 'Refiners'), (223, 'before'), (230, 'going'), (236, 'on'), (239, 'the'), (243, 'stage'), (248, ','), (250, 'and'), (254, 'took'), (259, 'his'), (263, 'stage'), (269, 'name'), (274, 'from'), (279, 'them'), (283, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ronald Macdonald Hutchison',0, 26), ('4 July 1872',28, 39), ('February 1940',45, 58), ('professionally known',61, 81), ('Harry Tate',85, 95), ('an English comedian',101, 120), ('the music halls',143, 158), ('Henry Tate  Sons',189, 206), ('Sugar Refiners',208, 222), ('the stage',239, 248), ('his stage name',259, 273)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'CC', 'IN', 'DT', 'NN', 'NNS', 'CC', 'IN', 'NNS', '.', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', 'CC', 'NNP', ',', 'NNP', 'NNPS', 'IN', 'VBG', 'IN', 'DT', 'NN', ',', 'CC', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'PRP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ronald'), (7, 'Macdonald'), (17, 'Hutchison'), (27, '('), (28, '4'), (30, 'July'), (35, '1872'), (40, '-'), (42, '14'), (45, 'February'), (54, '1940'), (58, ')'), (59, ','), (61, 'professionally'), (76, 'known'), (82, 'as'), (85, 'Harry'), (91, 'Tate'), (95, ','), (97, 'was'), (101, 'an'), (104, 'English'), (112, 'comedian'), (121, 'who'), (125, 'performed'), (135, 'both'), (140, 'in'), (143, 'the'), (147, 'music'), (153, 'halls'), (159, 'and'), (163, 'in'), (166, 'films'), (171, '.'), (173, 'Tate'), (178, 'worked'), (185, 'for'), (189, 'Henry'), (195, 'Tate'), (201, 'Sons'), (205, ','), (207, 'Sugar'), (213, 'Refiners'), (222, 'before'), (229, 'going'), (235, 'on'), (238, 'the'), (242, 'stage'), (247, ','), (249, 'and'), (253, 'took'), (258, 'his'), (262, 'stage'), (268, 'name'), (273, 'from'), (278, 'them'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('Ronald Macdonald Hutchison', 0, 26), ('(4 July', 27, 34), ('4 July 1872', 28, 39), ('14 February 1940', 42, 58), ('Harry Tate', 85, 95), ('an English comedian', 101, 120), ('the music halls', 143, 158), ('Henry Tate', 189, 199), ('Sugar Refiners', 207, 221), ('the stage', 238, 247), ('his stage name', 258, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'CC', 'IN', 'DT', 'NN', 'NNS', 'CC', 'IN', 'NNS', '.', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', 'NNS', ',', 'NNP', 'NNPS', 'IN', 'VBG', 'IN', 'DT', 'NN', ',', 'CC', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'PRP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

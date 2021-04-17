@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lela Bliss</title>
+<link/>https://en.wikipedia.org/wiki/Lela_Bliss
+<annotated>0</annotated>
+<originalabstract>Lela Bliss (May 11, 1896 – May 15, 1980) was an American actress. She made her first silent film, Pretty Mrs. Smith, in 1915 and appeared in at least over 40 movies until the 1960s.</originalabstract>
+<abstract>Lela_Bliss ( May_11_,_1896 – May_15_,_1980 ) was an_American_actress . She made her_first_silent_film , Pretty_Mrs._Smith , in 1915 and appeared in at_least over 40_movies until the_1960s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lela'), (5, 'Bliss'), (11, '('), (12, 'May'), (16, '11'), (18, ','), (20, '1896'), (25, '–'), (27, 'May'), (31, '15'), (33, ','), (35, '1980'), (39, ')'), (41, 'was'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'made'), (75, 'her'), (79, 'first'), (85, 'silent'), (92, 'film'), (96, ','), (98, 'Pretty'), (105, 'Mrs.'), (110, 'Smith'), (115, ','), (117, 'in'), (120, '1915'), (125, 'and'), (129, 'appeared'), (138, 'in'), (141, 'at'), (144, 'least'), (150, 'over'), (155, '40'), (158, 'movies'), (165, 'until'), (171, 'the'), (175, '1960s'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lela Bliss',0, 10), ('May 11, 1896',12, 24), ('May 15, 1980',27, 39), ('an American actress',45, 64), ('her first silent film',75, 96), ('Pretty Mrs. Smith',98, 115), ('at least',141, 149), ('40 movies',155, 164), ('the 1960s',171, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'JJ', 'JJ', 'NN', ',', 'NNP', 'NNP', 'NNP', ',', 'IN', 'CD', 'CC', 'VBD', 'IN', 'IN', 'JJS', 'IN', 'CD', 'NNS', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lela'), (5, 'Bliss'), (11, '('), (12, 'May'), (16, '11'), (18, ','), (20, '1896'), (25, '–'), (27, 'May'), (31, '15'), (33, ','), (35, '1980'), (39, ')'), (41, 'was'), (45, 'an'), (48, 'American'), (57, 'actress'), (64, '.'), (66, 'She'), (70, 'made'), (75, 'her'), (79, 'first'), (85, 'silent'), (92, 'film'), (96, ','), (98, 'Pretty'), (105, 'Mrs.'), (110, 'Smith'), (115, ','), (117, 'in'), (120, '1915'), (125, 'and'), (129, 'appeared'), (138, 'in'), (141, 'at'), (144, 'least'), (150, 'over'), (155, '40'), (158, 'movies'), (165, 'until'), (171, 'the'), (175, '1960s'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('Lela Bliss', 0, 10), ('May 11, 1896', 12, 24), ('May 15, 1980', 27, 39), ('an American actress', 45, 64), ('her first silent film', 75, 96), ('Pretty Mrs. Smith', 98, 115), ('at least over 40 movies', 141, 164), ('the 1960s', 171, 180)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'JJ', 'JJ', 'NN', ',', 'NNP', 'NNP', 'NNP', ',', 'IN', 'CD', 'CC', 'VBD', 'IN', 'RB', 'JJS', 'IN', 'CD', 'NNS', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

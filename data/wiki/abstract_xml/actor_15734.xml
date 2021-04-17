@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tracy Vilar</title>
+<link/>https://en.wikipedia.org/wiki/Tracy_Vilar
+<annotated>0</annotated>
+<originalabstract>Tracy Vilar (born Tracy Leigh Vilar April 12, 1968;  and sometimes credited Tracy Villars) is an American actress. She is best known for her roles as Ro-Ro on the CBS sitcom Partners,  Sophia Ortiz on The WB sitcom The Steve Harvey Show,  and Angela de la Cruz on the TNT television show, Saved.</originalabstract>
+<abstract>Tracy_Vilar ( born Tracy_Leigh_Vilar_April_12_,_1968 ; and sometimes_credited Tracy_Villars ) is an_American_actress . She is_best_known for her_roles as Ro-Ro on the_CBS_sitcom_Partners , Sophia_Ortiz on The_WB_sitcom The_Steve_Harvey_Show , and Angela_de_la_Cruz on the_TNT_television_show , Saved .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tracy'), (6, 'Vilar'), (12, '('), (13, 'born'), (18, 'Tracy'), (24, 'Leigh'), (30, 'Vilar'), (36, 'April'), (42, '12'), (44, ','), (46, '1968'), (50, ';'), (53, 'and'), (57, 'sometimes'), (67, 'credited'), (76, 'Tracy'), (82, 'Villars'), (89, ')'), (91, 'is'), (94, 'an'), (97, 'American'), (106, 'actress'), (113, '.'), (115, 'She'), (119, 'is'), (122, 'best'), (127, 'known'), (133, 'for'), (137, 'her'), (141, 'roles'), (147, 'as'), (150, 'Ro-Ro'), (156, 'on'), (159, 'the'), (163, 'CBS'), (167, 'sitcom'), (174, 'Partners'), (182, ','), (185, 'Sophia'), (192, 'Ortiz'), (198, 'on'), (201, 'The'), (205, 'WB'), (208, 'sitcom'), (215, 'The'), (219, 'Steve'), (225, 'Harvey'), (232, 'Show'), (236, ','), (239, 'and'), (243, 'Angela'), (250, 'de'), (253, 'la'), (256, 'Cruz'), (261, 'on'), (264, 'the'), (268, 'TNT'), (272, 'television'), (283, 'show'), (287, ','), (289, 'Saved'), (294, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tracy Vilar',0, 11), ('Tracy Leigh Vilar April 12, 1968',18, 50), ('sometimes credited',57, 75), ('Tracy Villars',76, 89), ('an American actress',94, 113), ('is best known',119, 132), ('her roles',137, 146), ('the CBS sitcom Partners',159, 182), ('Sophia Ortiz',185, 197), ('The WB sitcom',201, 214), ('The Steve Harvey Show',215, 236), ('Angela de la Cruz',243, 260), ('the TNT television show',264, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'CD', ',', 'CD', ':', 'CC', 'RB', 'VBN', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NNS', ',', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', 'FW', 'FW', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', ',', 'VBN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tracy'), (6, 'Vilar'), (12, '('), (13, 'born'), (18, 'Tracy'), (24, 'Leigh'), (30, 'Vilar'), (36, 'April'), (42, '12'), (44, ','), (46, '1968'), (50, ';'), (53, 'and'), (57, 'sometimes'), (67, 'credited'), (76, 'Tracy'), (82, 'Villars'), (89, ')'), (91, 'is'), (94, 'an'), (97, 'American'), (106, 'actress'), (113, '.'), (115, 'She'), (119, 'is'), (122, 'best'), (127, 'known'), (133, 'for'), (137, 'her'), (141, 'roles'), (147, 'as'), (150, 'Ro'), (152, '-'), (153, 'Ro'), (156, 'on'), (159, 'the'), (163, 'CBS'), (167, 'sitcom'), (174, 'Partners'), (182, ','), (185, 'Sophia'), (192, 'Ortiz'), (198, 'on'), (201, 'The'), (205, 'WB'), (208, 'sitcom'), (215, 'The'), (219, 'Steve'), (225, 'Harvey'), (232, 'Show'), (236, ','), (239, 'and'), (243, 'Angela'), (250, 'de'), (253, 'la'), (256, 'Cruz'), (261, 'on'), (264, 'the'), (268, 'TNT'), (272, 'television'), (283, 'show'), (287, ','), (289, 'Saved'), (294, '.')])</spacy_tokens>
+<spacy_chunks>[('Tracy Vilar', 0, 11), ('Tracy Leigh', 18, 29), ('April 12, 1968', 36, 50), ('Tracy Villars', 76, 89), ('an American actress', 94, 113), ('her roles', 137, 146), ('the CBS sitcom Partners', 159, 182), ('Sophia Ortiz', 185, 197), ('The WB sitcom', 201, 214), ('The Steve Harvey Show', 215, 236), ('Angela de la Cruz', 243, 260), ('the TNT television show', 264, 287)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'CD', ',', 'CD', ':', 'CC', 'RB', 'VBD', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'HYPH', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'DT', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marvel Rea</title>
+<link/>https://en.wikipedia.org/wiki/Marvel_Rea
+<annotated>0</annotated>
+<originalabstract>Marvel Rea (November 9, 1901 – June 17, 1937) was an American silent film actress best known for her work aside Ford Sterling.  She was one of Mack Sennett's "Bathing Beauties".</originalabstract>
+<abstract>Marvel_Rea ( November_9_,_1901 – June_17_,_1937 ) was an_American_silent_film_actress best known for her_work aside Ford_Sterling . She was one of Mack_Sennett 's_"_Bathing_Beauties_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marvel'), (7, 'Rea'), (11, '('), (12, 'November'), (21, '9'), (22, ','), (24, '1901'), (29, '–'), (31, 'June'), (36, '17'), (38, ','), (40, '1937'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'silent'), (69, 'film'), (74, 'actress'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'her'), (101, 'work'), (106, 'aside'), (112, 'Ford'), (117, 'Sterling'), (125, '.'), (128, 'She'), (132, 'was'), (136, 'one'), (140, 'of'), (143, 'Mack'), (148, 'Sennett'), (155, '\'s'), (158, '"'), (159, 'Bathing'), (167, 'Beauties'), (175, '"'), (176, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marvel Rea',0, 10), ('November 9, 1901',12, 28), ('June 17, 1937',31, 44), ('an American silent film actress',50, 81), ('her work',97, 105), ('Ford Sterling',112, 125), ('Mack Sennett',143, 155), ('\'s "Bathing Beauties"',155, 176)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'RB', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'CD', 'IN', 'NNP', 'NNP', 'POS', '``', 'NNP', 'NNPS', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marvel'), (7, 'Rea'), (11, '('), (12, 'November'), (21, '9'), (22, ','), (24, '1901'), (29, '–'), (31, 'June'), (36, '17'), (38, ','), (40, '1937'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'silent'), (69, 'film'), (74, 'actress'), (82, 'best'), (87, 'known'), (93, 'for'), (97, 'her'), (101, 'work'), (106, 'aside'), (112, 'Ford'), (117, 'Sterling'), (125, '.'), (128, 'She'), (132, 'was'), (136, 'one'), (140, 'of'), (143, 'Mack'), (148, 'Sennett'), (155, "'s"), (158, '"'), (159, 'Bathing'), (167, 'Beauties'), (175, '"'), (176, '.')])</spacy_tokens>
+<spacy_chunks>[('Marvel Rea', 0, 10), ('(November', 11, 20), ('November 9, 1901', 12, 28), ('June 17, 1937', 31, 44), ('an American silent film actress', 50, 81), ('her work', 97, 105), ('Ford Sterling', 112, 125), ('Mack Sennett\'s "Bathing Beauties', 143, 175)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'RB', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'CD', 'IN', 'NNP', 'NNP', 'POS', '``', 'NNP', 'NNPS', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

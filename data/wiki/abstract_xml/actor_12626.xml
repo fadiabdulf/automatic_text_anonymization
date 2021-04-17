@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arlene Harris</title>
+<link/>https://en.wikipedia.org/wiki/Arlene_Harris
+<annotated>0</annotated>
+<originalabstract>Arlene Harris (July 7, 1896 - June 12, 1976) was a Canadian-born American radio, film, and television actress. (Another source gives her date of birth as July 7, 1898.) She was best known for her role as "the human chatterbox" on Al Pearce's radio program.</originalabstract>
+<abstract>Arlene_Harris ( July_7_,_1896 - June_12_,_1976 ) was a_Canadian-born_American_radio , film , and television_actress . ( Another_source gives her_date of birth as July_7_,_1898 . ) She was_best_known for her_role as " the_human_chatterbox " on Al_Pearce 's_radio_program .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arlene'), (7, 'Harris'), (14, '('), (15, 'July'), (20, '7'), (21, ','), (23, '1896'), (28, '-'), (30, 'June'), (35, '12'), (37, ','), (39, '1976'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'Canadian-born'), (65, 'American'), (74, 'radio'), (79, ','), (81, 'film'), (85, ','), (87, 'and'), (91, 'television'), (102, 'actress'), (109, '.'), (111, '('), (112, 'Another'), (120, 'source'), (127, 'gives'), (133, 'her'), (137, 'date'), (142, 'of'), (145, 'birth'), (151, 'as'), (154, 'July'), (159, '7'), (160, ','), (162, '1898'), (166, '.'), (167, ')'), (169, 'She'), (173, 'was'), (177, 'best'), (182, 'known'), (188, 'for'), (192, 'her'), (196, 'role'), (201, 'as'), (204, '"'), (205, 'the'), (209, 'human'), (215, 'chatterbox'), (225, '"'), (227, 'on'), (230, 'Al'), (233, 'Pearce'), (239, '\'s'), (242, 'radio'), (248, 'program'), (255, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arlene Harris',0, 13), ('July 7, 1896',15, 27), ('June 12, 1976',30, 43), ('a Canadian-born American radio',49, 79), ('television actress',91, 109), ('Another source',112, 126), ('her date',133, 141), ('July 7, 1898',154, 166), ('was best known',173, 187), ('her role',192, 200), ('the human chatterbox',205, 225), ('Al Pearce',230, 239), ('\'s radio program',239, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', '-LRB-', 'DT', 'NN', 'VBZ', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'NNP', 'CD', ',', 'CD', '.', '-RRB-', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', '``', 'DT', 'JJ', 'NN', '\'\'', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arlene'), (7, 'Harris'), (14, '('), (15, 'July'), (20, '7'), (21, ','), (23, '1896'), (28, '-'), (30, 'June'), (35, '12'), (37, ','), (39, '1976'), (43, ')'), (45, 'was'), (49, 'a'), (51, 'Canadian'), (59, '-'), (60, 'born'), (65, 'American'), (74, 'radio'), (79, ','), (81, 'film'), (85, ','), (87, 'and'), (91, 'television'), (102, 'actress'), (109, '.'), (111, '('), (112, 'Another'), (120, 'source'), (127, 'gives'), (133, 'her'), (137, 'date'), (142, 'of'), (145, 'birth'), (151, 'as'), (154, 'July'), (159, '7'), (160, ','), (162, '1898'), (166, '.'), (167, ')'), (169, 'She'), (173, 'was'), (177, 'best'), (182, 'known'), (188, 'for'), (192, 'her'), (196, 'role'), (201, 'as'), (204, '"'), (205, 'the'), (209, 'human'), (215, 'chatterbox'), (225, '"'), (227, 'on'), (230, 'Al'), (233, 'Pearce'), (239, "'s"), (242, 'radio'), (248, 'program'), (255, '.')])</spacy_tokens>
+<spacy_chunks>[('Arlene Harris', 0, 13), ('July 7, 1896', 15, 27), ('June 12, 1976', 30, 43), ('a Canadian-born American radio', 49, 79), ('television actress', 91, 109), ('Another source', 112, 126), ('her date', 133, 141), ('July 7, 1898', 154, 166), ('her role', 192, 200), ('"the human chatterbox', 204, 225), ("Al Pearce's radio program", 230, 255)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', '.', '-LRB-', 'DT', 'NN', 'VBZ', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'NNP', 'CD', ',', 'CD', '.', '-RRB-', 'PRP', 'VBD', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', '``', 'DT', 'JJ', 'NN', "''", 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

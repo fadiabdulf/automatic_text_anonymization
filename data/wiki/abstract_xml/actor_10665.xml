@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Louise Beaudet</title>
+<link/>https://en.wikipedia.org/wiki/Louise_Beaudet
+<annotated>0</annotated>
+<originalabstract>Louise Beaudet (December 5, 1859 – December 31, 1947) an actress, singer and dancer for more than 50 years, starred in stage productions ranging from comic opera to Shakespeare, as well as music-hall and vaudeville, and appeared in 66 silent films.</originalabstract>
+<abstract>Louise_Beaudet ( December_5_,_1859 – December_31_,_1947 ) an_actress_,_singer_and_dancer for more_than_50_years , starred in stage_productions ranging from comic_opera to Shakespeare , as_well_as music-hall_and_vaudeville , and appeared in 66_silent_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Louise'), (7, 'Beaudet'), (15, '('), (16, 'December'), (25, '5'), (26, ','), (28, '1859'), (33, '–'), (35, 'December'), (44, '31'), (46, ','), (48, '1947'), (52, ')'), (54, 'an'), (57, 'actress'), (64, ','), (66, 'singer'), (73, 'and'), (77, 'dancer'), (84, 'for'), (88, 'more'), (93, 'than'), (98, '50'), (101, 'years'), (106, ','), (108, 'starred'), (116, 'in'), (119, 'stage'), (125, 'productions'), (137, 'ranging'), (145, 'from'), (150, 'comic'), (156, 'opera'), (162, 'to'), (165, 'Shakespeare'), (176, ','), (178, 'as'), (181, 'well'), (186, 'as'), (189, 'music-hall'), (200, 'and'), (204, 'vaudeville'), (214, ','), (216, 'and'), (220, 'appeared'), (229, 'in'), (232, '66'), (235, 'silent'), (242, 'films'), (247, '.')])</stanford_tokens>
+<opennlp_chunks>[('Louise Beaudet',0, 14), ('December 5, 1859',16, 32), ('December 31, 1947',35, 52), ('an actress, singer and dancer',54, 83), ('more than 50 years',88, 106), ('stage productions',119, 136), ('comic opera',150, 161), ('as well as',178, 188), ('music-hall and vaudeville',189, 214), ('66 silent films',232, 247)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'DT', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'JJR', 'IN', 'CD', 'NNS', ',', 'VBD', 'IN', 'NN', 'NNS', 'VBG', 'IN', 'JJ', 'NN', 'TO', 'NNP', ',', 'RB', 'RB', 'IN', 'NN', 'CC', 'NN', ',', 'CC', 'VBD', 'IN', 'CD', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Louise'), (7, 'Beaudet'), (15, '('), (16, 'December'), (25, '5'), (26, ','), (28, '1859'), (33, '–'), (35, 'December'), (44, '31'), (46, ','), (48, '1947'), (52, ')'), (54, 'an'), (57, 'actress'), (64, ','), (66, 'singer'), (73, 'and'), (77, 'dancer'), (84, 'for'), (88, 'more'), (93, 'than'), (98, '50'), (101, 'years'), (106, ','), (108, 'starred'), (116, 'in'), (119, 'stage'), (125, 'productions'), (137, 'ranging'), (145, 'from'), (150, 'comic'), (156, 'opera'), (162, 'to'), (165, 'Shakespeare'), (176, ','), (178, 'as'), (181, 'well'), (186, 'as'), (189, 'music'), (194, '-'), (195, 'hall'), (200, 'and'), (204, 'vaudeville'), (214, ','), (216, 'and'), (220, 'appeared'), (229, 'in'), (232, '66'), (235, 'silent'), (242, 'films'), (247, '.')])</spacy_tokens>
+<spacy_chunks>[('Louise Beaudet', 0, 14), ('December 5, 1859', 16, 32), ('December 31, 1947', 35, 52), ('an actress', 54, 64), ('singer', 66, 72), ('dancer', 77, 83), ('more than 50 years', 88, 106), ('stage productions', 119, 136), ('comic opera', 150, 161), ('Shakespeare', 165, 176), ('music-hall', 189, 199), ('vaudeville', 204, 214), ('66 silent films', 232, 247)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'DT', 'NN', ',', 'NN', 'CC', 'NN', 'IN', 'JJR', 'IN', 'CD', 'NNS', ',', 'VBN', 'IN', 'NN', 'NNS', 'VBG', 'IN', 'JJ', 'NN', 'IN', 'NNP', ',', 'RB', 'RB', 'IN', 'NN', 'HYPH', 'NN', 'CC', 'NN', ',', 'CC', 'VBD', 'IN', 'CD', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

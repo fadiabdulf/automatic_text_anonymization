@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dion Titheradge</title>
+<link/>https://en.wikipedia.org/wiki/Dion_Titheradge
+<annotated>0</annotated>
+<originalabstract>Dion Titheradge (30 March 1889 – 16 November 1934) was an Australian-born actor and writer of revues, plays and screenplays.</originalabstract>
+<abstract>Dion_Titheradge ( 30_March_1889 – 16_November_1934 ) was an_Australian-born_actor_and_writer of revues , plays_and_screenplays .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dion'), (5, 'Titheradge'), (16, '('), (17, '30'), (20, 'March'), (26, '1889'), (31, '–'), (33, '16'), (36, 'November'), (45, '1934'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'Australian-born'), (74, 'actor'), (80, 'and'), (84, 'writer'), (91, 'of'), (94, 'revues'), (100, ','), (102, 'plays'), (108, 'and'), (112, 'screenplays'), (123, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dion Titheradge',0, 15), ('30 March 1889',17, 30), ('16 November 1934',33, 49), ('an Australian-born actor and writer',55, 90), ('plays and screenplays',102, 123)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NNS', ',', 'NNS', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dion'), (5, 'Titheradge'), (16, '('), (17, '30'), (20, 'March'), (26, '1889'), (31, '–'), (33, '16'), (36, 'November'), (45, '1934'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'Australian'), (68, '-'), (69, 'born'), (74, 'actor'), (80, 'and'), (84, 'writer'), (91, 'of'), (94, 'revues'), (100, ','), (102, 'plays'), (108, 'and'), (112, 'screenplays'), (123, '.')])</spacy_tokens>
+<spacy_chunks>[('Dion Titheradge', 0, 15), ('30 March 1889', 17, 30), ('16 November 1934', 33, 49), ('an Australian-born actor', 55, 79), ('writer', 84, 90), ('revues', 94, 100), ('screenplays', 112, 123)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'NN', 'CC', 'NN', 'IN', 'NNS', ',', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

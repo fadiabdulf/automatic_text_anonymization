@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ray Walker (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Ray_Walker_(actor)
+<annotated>0</annotated>
+<originalabstract>Ray Walker (August 10, 1904 – October 6, 1984) was an American actor, who starred in Baby Take a Bow (1934), Hideaway Girl (1936), The Dark Hour (1936), The Unknown Guest (1943) and It's A Wonderful Life (1946).</originalabstract>
+<abstract>Ray_Walker ( August_10_,_1904 – October_6_,_1984 ) was an_American_actor , who starred in Baby Take a_Bow ( 1934 ) , Hideaway_Girl ( 1936 ) , The_Dark_Hour ( 1936 ) , The_Unknown_Guest ( 1943 ) and It 's A_Wonderful_Life ( 1946 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ray'), (4, 'Walker'), (11, '('), (12, 'August'), (19, '10'), (21, ','), (23, '1904'), (28, '–'), (30, 'October'), (38, '6'), (39, ','), (41, '1984'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, ','), (70, 'who'), (74, 'starred'), (82, 'in'), (85, 'Baby'), (90, 'Take'), (95, 'a'), (97, 'Bow'), (101, '('), (102, '1934'), (106, ')'), (107, ','), (109, 'Hideaway'), (118, 'Girl'), (123, '('), (124, '1936'), (128, ')'), (129, ','), (131, 'The'), (135, 'Dark'), (140, 'Hour'), (145, '('), (146, '1936'), (150, ')'), (151, ','), (153, 'The'), (157, 'Unknown'), (165, 'Guest'), (171, '('), (172, '1943'), (176, ')'), (178, 'and'), (182, 'It'), (184, '\'s'), (187, 'A'), (189, 'Wonderful'), (199, 'Life'), (204, '('), (205, '1946'), (209, ')'), (210, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ray Walker',0, 10), ('August 10, 1904',12, 27), ('October 6, 1984',30, 45), ('an American actor',51, 68), ('a Bow',95, 100), ('Hideaway Girl',109, 122), ('The Dark Hour',131, 144), ('The Unknown Guest',153, 170), ('A Wonderful Life',187, 203)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'IN', 'NNP', 'VB', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ray'), (4, 'Walker'), (11, '('), (12, 'August'), (19, '10'), (21, ','), (23, '1904'), (28, '–'), (30, 'October'), (38, '6'), (39, ','), (41, '1984'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (68, ','), (70, 'who'), (74, 'starred'), (82, 'in'), (85, 'Baby'), (90, 'Take'), (95, 'a'), (97, 'Bow'), (101, '('), (102, '1934'), (106, ')'), (107, ','), (109, 'Hideaway'), (118, 'Girl'), (123, '('), (124, '1936'), (128, ')'), (129, ','), (131, 'The'), (135, 'Dark'), (140, 'Hour'), (145, '('), (146, '1936'), (150, ')'), (151, ','), (153, 'The'), (157, 'Unknown'), (165, 'Guest'), (171, '('), (172, '1943'), (176, ')'), (178, 'and'), (182, 'It'), (184, "'s"), (187, 'A'), (189, 'Wonderful'), (199, 'Life'), (204, '('), (205, '1946'), (209, ')'), (210, '.')])</spacy_tokens>
+<spacy_chunks>[('Ray Walker', 0, 10), ('(August', 11, 18), ('August 10, 1904', 12, 27), ('October 6, 1984', 30, 45), ('an American actor', 51, 68), ('Baby Take a Bow', 85, 100), ('Hideaway Girl', 109, 122), ('The Dark Hour (1936', 131, 150), ('The Unknown Guest', 153, 170), ("It's A Wonderful Life", 182, 203)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP', 'VBD', 'IN', 'NNP', 'VB', 'DT', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'PRP', 'VBZ', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Betsy Drake</title>
+<link/>https://en.wikipedia.org/wiki/Betsy_Drake
+<annotated>0</annotated>
+<originalabstract>Betsy Drake (September 11, 1923 – October 27, 2015) was a French-born American actress and writer. She was the third wife of actor Cary Grant.</originalabstract>
+<abstract>Betsy_Drake ( September_11_,_1923 – October_27_,_2015 ) was a_French-born_American_actress_and_writer . She was the_third_wife of actor_Cary_Grant .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Betsy'), (6, 'Drake'), (12, '('), (13, 'September'), (23, '11'), (25, ','), (27, '1923'), (32, '–'), (34, 'October'), (42, '27'), (44, ','), (46, '2015'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'French-born'), (70, 'American'), (79, 'actress'), (87, 'and'), (91, 'writer'), (97, '.'), (99, 'She'), (103, 'was'), (107, 'the'), (111, 'third'), (117, 'wife'), (122, 'of'), (125, 'actor'), (131, 'Cary'), (136, 'Grant'), (141, '.')])</stanford_tokens>
+<opennlp_chunks>[('Betsy Drake',0, 11), ('September 11, 1923',13, 31), ('October 27, 2015',34, 50), ('a French-born American actress and writer',56, 97), ('the third wife',107, 121), ('actor Cary Grant',125, 141)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Betsy'), (6, 'Drake'), (12, '('), (13, 'September'), (23, '11'), (25, ','), (27, '1923'), (32, '–'), (34, 'October'), (42, '27'), (44, ','), (46, '2015'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'French'), (64, '-'), (65, 'born'), (70, 'American'), (79, 'actress'), (87, 'and'), (91, 'writer'), (97, '.'), (99, 'She'), (103, 'was'), (107, 'the'), (111, 'third'), (117, 'wife'), (122, 'of'), (125, 'actor'), (131, 'Cary'), (136, 'Grant'), (141, '.')])</spacy_tokens>
+<spacy_chunks>[('Betsy Drake', 0, 11), ('(September', 12, 22), ('September 11, 1923', 13, 31), ('October 27, 2015', 34, 50), ('a French-born American actress', 56, 86), ('writer', 91, 97), ('the third wife', 107, 121), ('actor Cary Grant', 125, 141)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gemma Merna</title>
+<link/>https://en.wikipedia.org/wiki/Gemma_Merna
+<annotated>0</annotated>
+<originalabstract>Gemma Merna (born 6 February 1984) is an English actress, model and yoga teacher. She is best known for portraying the role of Carmel McQueen in the Channel 4 soap opera Hollyoaks from 2006 to 2014.</originalabstract>
+<abstract>Gemma_Merna ( born 6_February_1984 ) is an_English_actress_,_model_and_yoga_teacher . She is_best_known for portraying the_role of Carmel_McQueen in the_Channel_4_soap_opera_Hollyoaks from 2006 to 2014 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gemma'), (6, 'Merna'), (12, '('), (13, 'born'), (18, '6'), (20, 'February'), (29, '1984'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'English'), (49, 'actress'), (56, ','), (58, 'model'), (64, 'and'), (68, 'yoga'), (73, 'teacher'), (80, '.'), (82, 'She'), (86, 'is'), (89, 'best'), (94, 'known'), (100, 'for'), (104, 'portraying'), (115, 'the'), (119, 'role'), (124, 'of'), (127, 'Carmel'), (134, 'McQueen'), (142, 'in'), (145, 'the'), (149, 'Channel'), (157, '4'), (159, 'soap'), (164, 'opera'), (170, 'Hollyoaks'), (180, 'from'), (185, '2006'), (190, 'to'), (193, '2014'), (197, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gemma Merna',0, 11), ('6 February 1984',18, 33), ('an English actress, model and yoga teacher',38, 80), ('is best known',86, 99), ('the role',115, 123), ('Carmel McQueen',127, 141), ('the Channel 4 soap opera Hollyoaks',145, 179)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CD', 'NN', 'NN', 'NNS', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gemma'), (6, 'Merna'), (12, '('), (13, 'born'), (18, '6'), (20, 'February'), (29, '1984'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'English'), (49, 'actress'), (56, ','), (58, 'model'), (64, 'and'), (68, 'yoga'), (73, 'teacher'), (80, '.'), (82, 'She'), (86, 'is'), (89, 'best'), (94, 'known'), (100, 'for'), (104, 'portraying'), (115, 'the'), (119, 'role'), (124, 'of'), (127, 'Carmel'), (134, 'McQueen'), (142, 'in'), (145, 'the'), (149, 'Channel'), (157, '4'), (159, 'soap'), (164, 'opera'), (170, 'Hollyoaks'), (180, 'from'), (185, '2006'), (190, 'to'), (193, '2014'), (197, '.')])</spacy_tokens>
+<spacy_chunks>[('Gemma Merna', 0, 11), ('6 February 1984', 18, 33), ('an English actress', 38, 56), ('teacher', 73, 80), ('the role', 115, 123), ('Carmel McQueen', 127, 141), ('the Channel 4 soap opera Hollyoaks', 145, 179)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CD', 'NN', 'NN', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

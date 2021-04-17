@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Christopher Bernau</title>
+<link/>https://en.wikipedia.org/wiki/Christopher_Bernau
+<annotated>0</annotated>
+<originalabstract>Christopher Bernau (born Herbert Augustine Bernau, June 2, 1940 – June 14, 1989) was an American actor.</originalabstract>
+<abstract>Christopher_Bernau ( born Herbert_Augustine_Bernau , June_2_,_1940 – June_14_,_1989 ) was an_American_actor .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Christopher'), (12, 'Bernau'), (19, '('), (20, 'born'), (25, 'Herbert'), (33, 'Augustine'), (43, 'Bernau'), (49, ','), (51, 'June'), (56, '2'), (57, ','), (59, '1940'), (64, '–'), (66, 'June'), (71, '14'), (73, ','), (75, '1989'), (79, ')'), (81, 'was'), (85, 'an'), (88, 'American'), (97, 'actor'), (102, '.')])</stanford_tokens>
+<opennlp_chunks>[('Christopher Bernau',0, 18), ('Herbert Augustine Bernau',25, 49), ('June 2, 1940',51, 63), ('June 14, 1989',66, 79), ('an American actor',85, 102)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Christopher'), (12, 'Bernau'), (19, '('), (20, 'born'), (25, 'Herbert'), (33, 'Augustine'), (43, 'Bernau'), (49, ','), (51, 'June'), (56, '2'), (57, ','), (59, '1940'), (64, '–'), (66, 'June'), (71, '14'), (73, ','), (75, '1989'), (79, ')'), (81, 'was'), (85, 'an'), (88, 'American'), (97, 'actor'), (102, '.')])</spacy_tokens>
+<spacy_chunks>[('Christopher Bernau', 0, 18), ('born Herbert Augustine Bernau', 20, 49), ('June 2, 1940', 51, 63), ('June 14, 1989', 66, 79), ('an American actor', 85, 102)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

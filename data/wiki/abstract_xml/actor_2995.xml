@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Guy Hedlund</title>
+<link/>https://en.wikipedia.org/wiki/Guy_Hedlund
+<annotated>0</annotated>
+<originalabstract>Guy Elmer Hedlund  (August 21, 1884 – December 29, 1964) was an American actor of the silent era. He appeared in 120 films between 1906 and 1947. Born in Connecticut, Hedlund died in Culver City in a road accident.  Hedlund directed the 1920 industrial film The Making of an American.</originalabstract>
+<abstract>Guy_Elmer_Hedlund ( August_21_,_1884 – December_29_,_1964 ) was an_American_actor of the_silent_era . He appeared in 120_films between 1906_and_1947 . Born in Connecticut , Hedlund died in Culver_City in a_road_accident . Hedlund directed the_1920_industrial_film The_Making of an_American .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Guy'), (4, 'Elmer'), (10, 'Hedlund'), (19, '('), (20, 'August'), (27, '21'), (29, ','), (31, '1884'), (36, '–'), (38, 'December'), (47, '29'), (49, ','), (51, '1964'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actor'), (79, 'of'), (82, 'the'), (86, 'silent'), (93, 'era'), (96, '.'), (98, 'He'), (101, 'appeared'), (110, 'in'), (113, '120'), (117, 'films'), (123, 'between'), (131, '1906'), (136, 'and'), (140, '1947'), (144, '.'), (146, 'Born'), (151, 'in'), (154, 'Connecticut'), (165, ','), (167, 'Hedlund'), (175, 'died'), (180, 'in'), (183, 'Culver'), (190, 'City'), (195, 'in'), (198, 'a'), (200, 'road'), (205, 'accident'), (213, '.'), (216, 'Hedlund'), (224, 'directed'), (233, 'the'), (237, '1920'), (242, 'industrial'), (253, 'film'), (258, 'The'), (262, 'Making'), (269, 'of'), (272, 'an'), (275, 'American'), (283, '.')])</stanford_tokens>
+<opennlp_chunks>[('Guy Elmer Hedlund',0, 17), ('August 21, 1884',20, 35), ('December 29, 1964',38, 55), ('an American actor',61, 78), ('the silent era',82, 96), ('120 films',113, 122), ('1906 and 1947',131, 144), ('Culver City',183, 194), ('a road accident',198, 213), ('the 1920 industrial film',233, 257), ('The Making',258, 268), ('an American',272, 283)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'CD', 'JJ', 'NN', 'DT', 'VBG', 'IN', 'DT', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Guy'), (4, 'Elmer'), (10, 'Hedlund'), (19, '('), (20, 'August'), (27, '21'), (29, ','), (31, '1884'), (36, '–'), (38, 'December'), (47, '29'), (49, ','), (51, '1964'), (55, ')'), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'actor'), (79, 'of'), (82, 'the'), (86, 'silent'), (93, 'era'), (96, '.'), (98, 'He'), (101, 'appeared'), (110, 'in'), (113, '120'), (117, 'films'), (123, 'between'), (131, '1906'), (136, 'and'), (140, '1947'), (144, '.'), (146, 'Born'), (151, 'in'), (154, 'Connecticut'), (165, ','), (167, 'Hedlund'), (175, 'died'), (180, 'in'), (183, 'Culver'), (190, 'City'), (195, 'in'), (198, 'a'), (200, 'road'), (205, 'accident'), (213, '.'), (216, 'Hedlund'), (224, 'directed'), (233, 'the'), (237, '1920'), (242, 'industrial'), (253, 'film'), (258, 'The'), (262, 'Making'), (269, 'of'), (272, 'an'), (275, 'American'), (283, '.')])</spacy_tokens>
+<spacy_chunks>[('Guy Elmer Hedlund', 0, 17), ('August 21, 1884', 20, 35), ('December 29, 1964', 38, 55), ('an American actor', 61, 78), ('the silent era', 82, 96), ('120 films', 113, 122), ('Connecticut', 154, 165), ('Culver City', 183, 194), ('a road accident', 198, 213), ('the 1920 industrial film', 233, 257), ('The Making of an American', 258, 283)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'VBN', 'IN', 'NNP', ',', 'NNP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'CD', 'JJ', 'NN', 'DT', 'NN', 'IN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Harry Dunkinson</title>
+<link/>https://en.wikipedia.org/wiki/Harry_Dunkinson
+<annotated>0</annotated>
+<originalabstract>Harry Dunkinson (December 16, 1876 – March 14, 1936) was an American film actor. He appeared in 141 films between 1912 and 1935. He was born in New York, New York and died in California.</originalabstract>
+<abstract>Harry Dunkinson ( December_16_,_1876 – March_14_,_1936 ) was an_American_film_actor . He appeared in 141_films between 1912_and_1935 . He was_born in New_York , New_York and died in California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Harry'), (6, 'Dunkinson'), (16, '('), (17, 'December'), (26, '16'), (28, ','), (30, '1876'), (35, '–'), (37, 'March'), (43, '14'), (45, ','), (47, '1936'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'appeared'), (93, 'in'), (96, '141'), (100, 'films'), (106, 'between'), (114, '1912'), (119, 'and'), (123, '1935'), (127, '.'), (129, 'He'), (132, 'was'), (136, 'born'), (141, 'in'), (144, 'New'), (148, 'York'), (152, ','), (154, 'New'), (158, 'York'), (163, 'and'), (167, 'died'), (172, 'in'), (175, 'California'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('December 16, 1876',17, 34), ('March 14, 1936',37, 51), ('an American film actor',57, 79), ('141 films',96, 105), ('1912 and 1935',114, 127), ('was born',132, 140), ('New York',144, 152), ('New York',154, 162)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Harry'), (6, 'Dunkinson'), (16, '('), (17, 'December'), (26, '16'), (28, ','), (30, '1876'), (35, '–'), (37, 'March'), (43, '14'), (45, ','), (47, '1936'), (51, ')'), (53, 'was'), (57, 'an'), (60, 'American'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'appeared'), (93, 'in'), (96, '141'), (100, 'films'), (106, 'between'), (114, '1912'), (119, 'and'), (123, '1935'), (127, '.'), (129, 'He'), (132, 'was'), (136, 'born'), (141, 'in'), (144, 'New'), (148, 'York'), (152, ','), (154, 'New'), (158, 'York'), (163, 'and'), (167, 'died'), (172, 'in'), (175, 'California'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry Dunkinson', 0, 15), ('December 16, 1876', 17, 34), ('March 14, 1936', 37, 51), ('an American film actor', 57, 79), ('141 films', 96, 105), ('New York, New York', 144, 162), ('California', 175, 185)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

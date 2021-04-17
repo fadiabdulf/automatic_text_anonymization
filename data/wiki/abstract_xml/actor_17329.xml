@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marsha Thomason</title>
+<link/>https://en.wikipedia.org/wiki/Marsha_Thomason
+<annotated>0</annotated>
+<originalabstract>Marsha Lisa Thomason (born 19 January 1976) is an English television and film actress who is best known for playing Nessa Holt in the first two seasons of the NBC series Las Vegas, Naomi Dorrit on the ABC series Lost, and FBI agent Diana Berrigan on the USA Network series White Collar.</originalabstract>
+<abstract>Marsha_Lisa_Thomason ( born 19_January_1976 ) is an_English_television_and_film_actress who is_best_known for playing Nessa_Holt in the_first_two_seasons of the_NBC_series_Las_Vegas , Naomi_Dorrit on the_ABC_series_Lost , and FBI_agent_Diana_Berrigan on the_USA_Network_series_White_Collar .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marsha'), (7, 'Lisa'), (12, 'Thomason'), (21, '('), (22, 'born'), (27, '19'), (30, 'January'), (38, '1976'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'English'), (58, 'television'), (69, 'and'), (73, 'film'), (78, 'actress'), (86, 'who'), (90, 'is'), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'playing'), (116, 'Nessa'), (122, 'Holt'), (127, 'in'), (130, 'the'), (134, 'first'), (140, 'two'), (144, 'seasons'), (152, 'of'), (155, 'the'), (159, 'NBC'), (163, 'series'), (170, 'Las'), (174, 'Vegas'), (179, ','), (181, 'Naomi'), (187, 'Dorrit'), (194, 'on'), (197, 'the'), (201, 'ABC'), (205, 'series'), (212, 'Lost'), (216, ','), (218, 'and'), (222, 'FBI'), (226, 'agent'), (232, 'Diana'), (238, 'Berrigan'), (247, 'on'), (250, 'the'), (254, 'USA'), (258, 'Network'), (266, 'series'), (273, 'White'), (279, 'Collar'), (285, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marsha Lisa Thomason',0, 20), ('19 January 1976',27, 42), ('an English television and film actress',47, 85), ('is best known',90, 103), ('Nessa Holt',116, 126), ('the first two seasons',130, 151), ('the NBC series Las Vegas',155, 179), ('Naomi Dorrit',181, 193), ('the ABC series Lost',197, 216), ('FBI agent Diana Berrigan',222, 246), ('the USA Network series White Collar',250, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'CC', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marsha'), (7, 'Lisa'), (12, 'Thomason'), (21, '('), (22, 'born'), (27, '19'), (30, 'January'), (38, '1976'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'English'), (58, 'television'), (69, 'and'), (73, 'film'), (78, 'actress'), (86, 'who'), (90, 'is'), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'playing'), (116, 'Nessa'), (122, 'Holt'), (127, 'in'), (130, 'the'), (134, 'first'), (140, 'two'), (144, 'seasons'), (152, 'of'), (155, 'the'), (159, 'NBC'), (163, 'series'), (170, 'Las'), (174, 'Vegas'), (179, ','), (181, 'Naomi'), (187, 'Dorrit'), (194, 'on'), (197, 'the'), (201, 'ABC'), (205, 'series'), (212, 'Lost'), (216, ','), (218, 'and'), (222, 'FBI'), (226, 'agent'), (232, 'Diana'), (238, 'Berrigan'), (247, 'on'), (250, 'the'), (254, 'USA'), (258, 'Network'), (266, 'series'), (273, 'White'), (279, 'Collar'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('Marsha Lisa Thomason', 0, 20), ('19 January 1976', 27, 42), ('an English television and film actress', 47, 85), ('Playing', 108, 115), ('Nessa Holt', 116, 126), ('the first two seasons', 130, 151), ('the NBC series', 155, 169), ('Las Vegas', 170, 179), ('Naomi Dorrit', 181, 193), ('the ABC series', 197, 211), ('FBI agent Diana Berrigan', 222, 246), ('the USA Network series', 250, 272), ('White Collar', 273, 285)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', ',', 'CC', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Mark Pellegrino</title>
+<link/>https://en.wikipedia.org/wiki/Mark_Pellegrino
+<annotated>0</annotated>
+<originalabstract>Mark Ross Pellegrino (born April 9, 1965) is an American actor of film and television. He is best known for his work as Lucifer in Supernatural, Paul Bennett in Dexter, Jacob in Lost and as Bishop in Being Human. 
+He also recurred in the role of Clayton Haas in the ABC thriller Quantico.</originalabstract>
+<abstract>Mark_Ross_Pellegrino ( born April_9_,_1965 ) is an_American_actor of film_and_television . He is_best_known for his_work as Lucifer in Supernatural , Paul_Bennett in Dexter , Jacob in Lost and as Bishop in Being Human . He also recurred in the_role of Clayton_Haas in the_ABC_thriller_Quantico .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Mark'), (5, 'Ross'), (10, 'Pellegrino'), (21, '('), (22, 'born'), (27, 'April'), (33, '9'), (34, ','), (36, '1965'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (63, 'of'), (66, 'film'), (71, 'and'), (75, 'television'), (85, '.'), (87, 'He'), (90, 'is'), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'his'), (112, 'work'), (117, 'as'), (120, 'Lucifer'), (128, 'in'), (131, 'Supernatural'), (143, ','), (145, 'Paul'), (150, 'Bennett'), (158, 'in'), (161, 'Dexter'), (167, ','), (169, 'Jacob'), (175, 'in'), (178, 'Lost'), (183, 'and'), (187, 'as'), (190, 'Bishop'), (197, 'in'), (200, 'Being'), (206, 'Human'), (211, '.'), (214, 'He'), (217, 'also'), (222, 'recurred'), (231, 'in'), (234, 'the'), (238, 'role'), (243, 'of'), (246, 'Clayton'), (254, 'Haas'), (259, 'in'), (262, 'the'), (266, 'ABC'), (270, 'thriller'), (279, 'Quantico'), (287, '.')])</stanford_tokens>
+<opennlp_chunks>[('Mark Ross Pellegrino',0, 20), ('April 9, 1965',27, 40), ('an American actor',45, 62), ('film and television',66, 85), ('is best known',90, 103), ('his work',108, 116), ('Paul Bennett',145, 157), ('the role',234, 242), ('Clayton Haas',246, 258), ('the ABC thriller Quantico',262, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', 'CC', 'IN', 'NNP', 'IN', 'VBG', 'JJ', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Mark'), (5, 'Ross'), (10, 'Pellegrino'), (21, '('), (22, 'born'), (27, 'April'), (33, '9'), (34, ','), (36, '1965'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actor'), (63, 'of'), (66, 'film'), (71, 'and'), (75, 'television'), (85, '.'), (87, 'He'), (90, 'is'), (93, 'best'), (98, 'known'), (104, 'for'), (108, 'his'), (112, 'work'), (117, 'as'), (120, 'Lucifer'), (128, 'in'), (131, 'Supernatural'), (143, ','), (145, 'Paul'), (150, 'Bennett'), (158, 'in'), (161, 'Dexter'), (167, ','), (169, 'Jacob'), (175, 'in'), (178, 'Lost'), (183, 'and'), (187, 'as'), (190, 'Bishop'), (197, 'in'), (200, 'Being'), (206, 'Human'), (211, '.'), (214, 'He'), (217, 'also'), (222, 'recurred'), (231, 'in'), (234, 'the'), (238, 'role'), (243, 'of'), (246, 'Clayton'), (254, 'Haas'), (259, 'in'), (262, 'the'), (266, 'ABC'), (270, 'thriller'), (279, 'Quantico'), (287, '.')])</spacy_tokens>
+<spacy_chunks>[('Mark Ross Pellegrino', 0, 20), ('April 9, 1965', 27, 40), ('an American actor', 45, 62), ('television', 75, 85), ('his work', 108, 116), ('Lucifer', 120, 127), ('Supernatural', 131, 143), ('Paul Bennett', 145, 157), ('Dexter', 161, 167), ('Bishop', 190, 196), ('the role', 234, 242), ('Clayton Haas', 246, 258), ('the ABC thriller', 262, 278), ('Quantico', 279, 287)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'IN', 'NNP', 'CC', 'IN', 'NNP', 'IN', 'VBG', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

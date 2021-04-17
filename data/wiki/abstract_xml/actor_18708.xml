@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Agathe de La Fontaine</title>
+<link/>https://en.wikipedia.org/wiki/Agathe_de_La_Fontaine
+<annotated>0</annotated>
+<originalabstract>Agathe de La Fontaine (born 27 March 1972) is a French actress. Her film roles include Train de vie (1998), which shared the 1999 Sundance World Cinema Audience Award with Run Lola Run, and Love in Paris, the sequel to 9½ Weeks. La Fontaine was married to former football player Emmanuel Petit.</originalabstract>
+<abstract>Agathe_de_La_Fontaine ( born 27_March_1972 ) is a_French_actress . Her_film_roles include Train de vie_(_1998_) , which shared the_1999_Sundance_World_Cinema_Audience_Award with Run_Lola_Run , and Love in Paris , the_sequel to 9_½_Weeks . La_Fontaine was_married to former_football_player_Emmanuel_Petit .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Agathe'), (7, 'de'), (10, 'La'), (13, 'Fontaine'), (22, '('), (23, 'born'), (28, '27'), (31, 'March'), (37, '1972'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'French'), (55, 'actress'), (62, '.'), (64, 'Her'), (68, 'film'), (73, 'roles'), (79, 'include'), (87, 'Train'), (93, 'de'), (96, 'vie'), (100, '('), (101, '1998'), (105, ')'), (106, ','), (108, 'which'), (114, 'shared'), (121, 'the'), (125, '1999'), (130, 'Sundance'), (139, 'World'), (145, 'Cinema'), (152, 'Audience'), (161, 'Award'), (167, 'with'), (172, 'Run'), (176, 'Lola'), (181, 'Run'), (184, ','), (186, 'and'), (190, 'Love'), (195, 'in'), (198, 'Paris'), (203, ','), (205, 'the'), (209, 'sequel'), (216, 'to'), (219, '9'), (220, '½'), (222, 'Weeks'), (227, '.'), (229, 'La'), (232, 'Fontaine'), (241, 'was'), (245, 'married'), (253, 'to'), (256, 'former'), (263, 'football'), (272, 'player'), (279, 'Emmanuel'), (288, 'Petit'), (293, '.')])</stanford_tokens>
+<opennlp_chunks>[('Agathe de La Fontaine',0, 21), ('27 March 1972',28, 41), ('a French actress',46, 62), ('Her film roles',64, 78), ('vie (1998)',96, 106), ('the 1999 Sundance World Cinema Audience Award',121, 166), ('Run Lola Run',172, 184), ('the sequel',205, 215), ('9½ Weeks',219, 227), ('La Fontaine',229, 240), ('was married',241, 252), ('former football player Emmanuel Petit',256, 293)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NNP', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'WDT', 'VBD', 'DT', 'CD', 'NNP', 'NNP', 'NNP', 'NNP', 'NN', 'IN', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', 'IN', 'NNP', ',', 'DT', 'NN', 'TO', 'CD', 'CD', 'NNS', '.', 'NNP', 'NNP', 'VBD', 'VBN', 'TO', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Agathe'), (7, 'de'), (10, 'La'), (13, 'Fontaine'), (22, '('), (23, 'born'), (28, '27'), (31, 'March'), (37, '1972'), (41, ')'), (43, 'is'), (46, 'a'), (48, 'French'), (55, 'actress'), (62, '.'), (64, 'Her'), (68, 'film'), (73, 'roles'), (79, 'include'), (87, 'Train'), (93, 'de'), (96, 'vie'), (100, '('), (101, '1998'), (105, ')'), (106, ','), (108, 'which'), (114, 'shared'), (121, 'the'), (125, '1999'), (130, 'Sundance'), (139, 'World'), (145, 'Cinema'), (152, 'Audience'), (161, 'Award'), (167, 'with'), (172, 'Run'), (176, 'Lola'), (181, 'Run'), (184, ','), (186, 'and'), (190, 'Love'), (195, 'in'), (198, 'Paris'), (203, ','), (205, 'the'), (209, 'sequel'), (216, 'to'), (219, '9½'), (222, 'Weeks'), (227, '.'), (229, 'La'), (232, 'Fontaine'), (241, 'was'), (245, 'married'), (253, 'to'), (256, 'former'), (263, 'football'), (272, 'player'), (279, 'Emmanuel'), (288, 'Petit'), (293, '.')])</spacy_tokens>
+<spacy_chunks>[('Agathe de La Fontaine', 0, 21), ('27 March 1972', 28, 41), ('a French actress', 46, 62), ('Her film roles', 64, 78), ('Train de vie', 87, 99), ('the 1999 Sundance World Cinema Audience Award', 121, 166), ('Run Lola Run', 172, 184), ('Love in Paris', 190, 203), ('Paris,', 198, 204), ('the sequel', 205, 215), ('9½ Weeks', 219, 227), ('former football player Emmanuel Petit', 256, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'NN', 'FW', 'FW', '-LRB-', 'CD', '-RRB-', ',', 'WDT', 'VBD', 'DT', 'CD', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', 'IN', 'NNP', ',', 'DT', 'NN', 'IN', 'CD', 'NNPS', '.', 'NNP', 'NNP', 'VBD', 'JJ', 'IN', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

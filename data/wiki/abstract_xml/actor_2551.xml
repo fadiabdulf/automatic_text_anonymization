@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dan Gilvezan</title>
+<link/>https://en.wikipedia.org/wiki/Dan_Gilvezan
+<annotated>0</annotated>
+<originalabstract>Daniel John Gilvezan (born October 26, 1950) is an American actor, known for playing Peter Parker/Spider-Man in the 1981 animated series, Spider-Man and His Amazing Friends and Autobot Bumblebee, among others, in the original 1984-1987 Transformers series.</originalabstract>
+<abstract>Daniel_John_Gilvezan ( born October_26_,_1950 ) is an_American_actor , known for playing Peter_Parker/Spider-Man in the_1981_animated_series , Spider-Man and His_Amazing_Friends and Autobot_Bumblebee , among others , in the_original_1984-1987_Transformers_series .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Daniel'), (7, 'John'), (12, 'Gilvezan'), (21, '('), (22, 'born'), (27, 'October'), (35, '26'), (37, ','), (39, '1950'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actor'), (65, ','), (67, 'known'), (73, 'for'), (77, 'playing'), (85, 'Peter'), (91, 'Parker/Spider-Man'), (109, 'in'), (112, 'the'), (116, '1981'), (121, 'animated'), (130, 'series'), (136, ','), (138, 'Spider-Man'), (149, 'and'), (153, 'His'), (157, 'Amazing'), (165, 'Friends'), (173, 'and'), (177, 'Autobot'), (185, 'Bumblebee'), (194, ','), (196, 'among'), (202, 'others'), (208, ','), (210, 'in'), (213, 'the'), (217, 'original'), (226, '1984-1987'), (236, 'Transformers'), (249, 'series'), (255, '.')])</stanford_tokens>
+<opennlp_chunks>[('Daniel John Gilvezan',0, 20), ('October 26, 1950',27, 43), ('an American actor',48, 65), ('Peter Parker/Spider-Man',85, 108), ('the 1981 animated series',112, 136), ('His Amazing Friends',153, 172), ('Autobot Bumblebee',177, 194), ('the original 1984-1987 Transformers series',213, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'NN', ',', 'NNP', 'CC', 'PRP$', 'JJ', 'NNPS', 'CC', 'NNP', 'NNP', ',', 'IN', 'NNS', ',', 'IN', 'DT', 'JJ', 'CD', 'NNPS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Daniel'), (7, 'John'), (12, 'Gilvezan'), (21, '('), (22, 'born'), (27, 'October'), (35, '26'), (37, ','), (39, '1950'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actor'), (65, ','), (67, 'known'), (73, 'for'), (77, 'playing'), (85, 'Peter'), (91, 'Parker'), (97, '/'), (98, 'Spider'), (104, '-'), (105, 'Man'), (109, 'in'), (112, 'the'), (116, '1981'), (121, 'animated'), (130, 'series'), (136, ','), (138, 'Spider'), (144, '-'), (145, 'Man'), (149, 'and'), (153, 'His'), (157, 'Amazing'), (165, 'Friends'), (173, 'and'), (177, 'Autobot'), (185, 'Bumblebee'), (194, ','), (196, 'among'), (202, 'others'), (208, ','), (210, 'in'), (213, 'the'), (217, 'original'), (226, '1984'), (230, '-'), (231, '1987'), (236, 'Transformers'), (249, 'series'), (255, '.')])</spacy_tokens>
+<spacy_chunks>[('Daniel John Gilvezan', 0, 20), ('October 26, 1950', 27, 43), ('an American actor', 48, 65), ('Peter Parker/Spider-Man', 85, 108), ('the 1981 animated series', 112, 136), ('Spider-Man and His Amazing Friends', 138, 172), ('Autobot Bumblebee', 177, 194), ('others', 202, 208), ('the original 1984-1987 Transformers series', 213, 255)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'SYM', 'NNP', 'HYPH', 'NN', 'IN', 'DT', 'CD', 'VBN', 'NN', ',', 'NNP', 'HYPH', 'NNP', 'CC', 'PRP$', 'JJ', 'NNPS', 'CC', 'NNP', 'NNP', ',', 'IN', 'NNS', ',', 'IN', 'DT', 'JJ', 'CD', 'SYM', 'CD', 'NNPS', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kate Levering</title>
+<link/>https://en.wikipedia.org/wiki/Kate_Levering
+<annotated>0</annotated>
+<originalabstract>Kate Levering (born January 3, 1979) is an American actress and dancer. She was nominated for Tony Award for her role in 2001 musical 42nd Street. She is best known for her role as Kim Kaswell in Lifetime comedy-drama series Drop Dead Diva.</originalabstract>
+<abstract>Kate_Levering ( born January_3_,_1979 ) is an_American_actress_and_dancer . She was_nominated for Tony_Award for her_role in 2001_musical_42nd_Street . She is_best_known for her_role as Kim_Kaswell in Lifetime_comedy-drama_series_Drop_Dead_Diva .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kate'), (5, 'Levering'), (14, '('), (15, 'born'), (20, 'January'), (28, '3'), (29, ','), (31, '1979'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (60, 'and'), (64, 'dancer'), (70, '.'), (72, 'She'), (76, 'was'), (80, 'nominated'), (90, 'for'), (94, 'Tony'), (99, 'Award'), (105, 'for'), (109, 'her'), (113, 'role'), (118, 'in'), (121, '2001'), (126, 'musical'), (134, '42nd'), (139, 'Street'), (145, '.'), (147, 'She'), (151, 'is'), (154, 'best'), (159, 'known'), (165, 'for'), (169, 'her'), (173, 'role'), (178, 'as'), (181, 'Kim'), (185, 'Kaswell'), (193, 'in'), (196, 'Lifetime'), (205, 'comedy-drama'), (218, 'series'), (225, 'Drop'), (230, 'Dead'), (235, 'Diva'), (239, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kate Levering',0, 13), ('January 3, 1979',20, 35), ('an American actress and dancer',40, 70), ('was nominated',76, 89), ('Tony Award',94, 104), ('her role',109, 117), ('2001 musical 42nd Street',121, 145), ('is best known',151, 164), ('her role',169, 177), ('Kim Kaswell',181, 192), ('Lifetime comedy-drama series Drop Dead Diva',196, 239)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NN', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'JJ', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kate'), (5, 'Levering'), (14, '('), (15, 'born'), (20, 'January'), (28, '3'), (29, ','), (31, '1979'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (60, 'and'), (64, 'dancer'), (70, '.'), (72, 'She'), (76, 'was'), (80, 'nominated'), (90, 'for'), (94, 'Tony'), (99, 'Award'), (105, 'for'), (109, 'her'), (113, 'role'), (118, 'in'), (121, '2001'), (126, 'musical'), (134, '42nd'), (139, 'Street'), (145, '.'), (147, 'She'), (151, 'is'), (154, 'best'), (159, 'known'), (165, 'for'), (169, 'her'), (173, 'role'), (178, 'as'), (181, 'Kim'), (185, 'Kaswell'), (193, 'in'), (196, 'Lifetime'), (205, 'comedy'), (211, '-'), (212, 'drama'), (218, 'series'), (225, 'Drop'), (230, 'Dead'), (235, 'Diva'), (239, '.')])</spacy_tokens>
+<spacy_chunks>[('Kate Levering', 0, 13), ('January 3, 1979', 20, 35), ('an American actress', 40, 59), ('dancer', 64, 70), ('Tony Award', 94, 104), ('her role', 109, 117), ('2001 musical 42nd Street', 121, 145), ('Kim Kaswell', 181, 192), ('Lifetime comedy-drama series', 196, 224), ('Drop Dead Diva', 225, 239)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'JJ', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'NN', 'HYPH', 'NN', 'NN', 'VB', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

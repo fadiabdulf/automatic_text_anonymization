@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Vivien Oakland</title>
+<link/>https://en.wikipedia.org/wiki/Vivien_Oakland
+<annotated>0</annotated>
+<originalabstract>Vivien Oakland (born Vivian Ruth Andersen; May 20, 1895 – August 1, 1958), was an American actress best known for her work in comedies in Hollywood in the 1920s and 1930s, most notably with the Hal Roach Studios. Oakland appeared in 157 films between 1915 and 1951.</originalabstract>
+<abstract>Vivien_Oakland ( born Vivian_Ruth_Andersen ; May_20_,_1895 – August_1_,_1958 ) , was an_American_actress best_known for her_work in comedies in Hollywood in the_1920s_and_1930s , most_notably with the_Hal_Roach_Studios . Oakland appeared in 157_films between 1915_and_1951 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Vivien'), (7, 'Oakland'), (15, '('), (16, 'born'), (21, 'Vivian'), (28, 'Ruth'), (33, 'Andersen'), (41, ';'), (43, 'May'), (47, '20'), (49, ','), (51, '1895'), (56, '–'), (58, 'August'), (65, '1'), (66, ','), (68, '1958'), (72, ')'), (73, ','), (75, 'was'), (79, 'an'), (82, 'American'), (91, 'actress'), (99, 'best'), (104, 'known'), (110, 'for'), (114, 'her'), (118, 'work'), (123, 'in'), (126, 'comedies'), (135, 'in'), (138, 'Hollywood'), (148, 'in'), (151, 'the'), (155, '1920s'), (161, 'and'), (165, '1930s'), (170, ','), (172, 'most'), (177, 'notably'), (185, 'with'), (190, 'the'), (194, 'Hal'), (198, 'Roach'), (204, 'Studios'), (211, '.'), (213, 'Oakland'), (221, 'appeared'), (230, 'in'), (233, '157'), (237, 'films'), (243, 'between'), (251, '1915'), (256, 'and'), (260, '1951'), (264, '.')])</stanford_tokens>
+<opennlp_chunks>[('Vivien Oakland',0, 14), ('Vivian Ruth Andersen',21, 41), ('May 20, 1895',43, 55), ('August 1, 1958',58, 72), ('an American actress',79, 98), ('best known',99, 109), ('her work',114, 122), ('the 1920s and 1930s',151, 170), ('most notably',172, 184), ('the Hal Roach Studios',190, 211), ('157 films',233, 242), ('1915 and 1951',251, 264)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'CD', 'CC', 'CD', ',', 'RBS', 'RB', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Vivien'), (7, 'Oakland'), (15, '('), (16, 'born'), (21, 'Vivian'), (28, 'Ruth'), (33, 'Andersen'), (41, ';'), (43, 'May'), (47, '20'), (49, ','), (51, '1895'), (56, '–'), (58, 'August'), (65, '1'), (66, ','), (68, '1958'), (72, ')'), (73, ','), (75, 'was'), (79, 'an'), (82, 'American'), (91, 'actress'), (99, 'best'), (104, 'known'), (110, 'for'), (114, 'her'), (118, 'work'), (123, 'in'), (126, 'comedies'), (135, 'in'), (138, 'Hollywood'), (148, 'in'), (151, 'the'), (155, '1920s'), (161, 'and'), (165, '1930s'), (170, ','), (172, 'most'), (177, 'notably'), (185, 'with'), (190, 'the'), (194, 'Hal'), (198, 'Roach'), (204, 'Studios'), (211, '.'), (213, 'Oakland'), (221, 'appeared'), (230, 'in'), (233, '157'), (237, 'films'), (243, 'between'), (251, '1915'), (256, 'and'), (260, '1951'), (264, '.')])</spacy_tokens>
+<spacy_chunks>[('Vivien Oakland', 0, 14), ('born Vivian Ruth Andersen', 16, 41), ('May 20, 1895', 43, 55), ('August 1, 1958', 58, 72), ('an American actress', 79, 98), ('her work', 114, 122), ('comedies', 126, 134), ('Hollywood', 138, 147), ('In the', 148, 154), ('the 1920s', 151, 160), ('the Hal Roach Studios', 190, 211), ('157 films', 233, 242)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNS', 'CC', 'NNS', ',', 'RBS', 'RB', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

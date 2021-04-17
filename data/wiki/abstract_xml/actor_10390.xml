@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Betty Amann</title>
+<link/>https://en.wikipedia.org/wiki/Betty_Amann
+<annotated>0</annotated>
+<originalabstract>Philippine "Betty" Amann (March 10, 1907 – August 3, 1990) was a German-American film actress of Jewish descent. She began her film career in the United States with the film The Kick-Off (1926).</originalabstract>
+<abstract>Philippine_"_Betty_"_Amann ( March_10_,_1907 – August_3_,_1990 ) was a_German-American_film_actress of Jewish_descent . She began her_film_career in the_United_States with the_film The_Kick-Off_(_1926_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Philippine'), (11, '"'), (12, 'Betty'), (17, '"'), (19, 'Amann'), (25, '('), (26, 'March'), (32, '10'), (34, ','), (36, '1907'), (41, '–'), (43, 'August'), (50, '3'), (51, ','), (53, '1990'), (57, ')'), (59, 'was'), (63, 'a'), (65, 'German-American'), (81, 'film'), (86, 'actress'), (94, 'of'), (97, 'Jewish'), (104, 'descent'), (111, '.'), (113, 'She'), (117, 'began'), (123, 'her'), (127, 'film'), (132, 'career'), (139, 'in'), (142, 'the'), (146, 'United'), (153, 'States'), (160, 'with'), (165, 'the'), (169, 'film'), (174, 'The'), (178, 'Kick-Off'), (187, '('), (188, '1926'), (192, ')'), (193, '.')])</stanford_tokens>
+<opennlp_chunks>[('Philippine "Betty" Amann',0, 24), ('March 10, 1907',26, 40), ('August 3, 1990',43, 57), ('a German-American film actress',63, 93), ('Jewish descent',97, 111), ('her film career',123, 138), ('the United States',142, 159), ('the film',165, 173), ('The Kick-Off (1926)',174, 193)]</opennlp_chunks>
+<stanford_pos>['JJ', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNPS', 'IN', 'DT', 'NN', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Philippine'), (11, '"'), (12, 'Betty'), (17, '"'), (19, 'Amann'), (25, '('), (26, 'March'), (32, '10'), (34, ','), (36, '1907'), (41, '–'), (43, 'August'), (50, '3'), (51, ','), (53, '1990'), (57, ')'), (59, 'was'), (63, 'a'), (65, 'German'), (71, '-'), (72, 'American'), (81, 'film'), (86, 'actress'), (94, 'of'), (97, 'Jewish'), (104, 'descent'), (111, '.'), (113, 'She'), (117, 'began'), (123, 'her'), (127, 'film'), (132, 'career'), (139, 'in'), (142, 'the'), (146, 'United'), (153, 'States'), (160, 'with'), (165, 'the'), (169, 'film'), (174, 'The'), (178, 'Kick'), (182, '-'), (183, 'Off'), (187, '('), (188, '1926'), (192, ')'), (193, '.')])</spacy_tokens>
+<spacy_chunks>[('Philippine "Betty" Amann', 0, 24), ('March 10, 1907', 26, 40), ('August 3, 1990', 43, 57), ('a German-American film actress', 63, 93), ('Jewish descent', 97, 111), ('her film career', 123, 138), ('the United States', 142, 159), ('the film', 165, 173), ('The Kick-Off', 174, 186)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'DT', 'NNP', 'HYPH', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cindy Carol</title>
+<link/>https://en.wikipedia.org/wiki/Cindy_Carol
+<annotated>0</annotated>
+<originalabstract>Cindy Carol (born Annette Carol Sydes, October 11, 1944, in Los Angeles, California) is an American actress. She was credited as Carol Sydes before her starring role as Gidget in Gidget Goes to Rome (1963).</originalabstract>
+<abstract>Cindy_Carol ( born Annette_Carol_Sydes , October_11_,_1944 , in Los_Angeles , California ) is an_American_actress . She was_credited as Carol_Sydes before her_starring_role as Gidget in Gidget Goes to Rome_(_1963_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cindy'), (6, 'Carol'), (12, '('), (13, 'born'), (18, 'Annette'), (26, 'Carol'), (32, 'Sydes'), (37, ','), (39, 'October'), (47, '11'), (49, ','), (51, '1944'), (55, ','), (57, 'in'), (60, 'Los'), (64, 'Angeles'), (71, ','), (73, 'California'), (83, ')'), (85, 'is'), (88, 'an'), (91, 'American'), (100, 'actress'), (107, '.'), (109, 'She'), (113, 'was'), (117, 'credited'), (126, 'as'), (129, 'Carol'), (135, 'Sydes'), (141, 'before'), (148, 'her'), (152, 'starring'), (161, 'role'), (166, 'as'), (169, 'Gidget'), (176, 'in'), (179, 'Gidget'), (186, 'Goes'), (191, 'to'), (194, 'Rome'), (199, '('), (200, '1963'), (204, ')'), (205, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cindy Carol',0, 11), ('Annette Carol Sydes',18, 37), ('October 11, 1944',39, 55), ('Los Angeles',60, 71), ('an American actress',88, 107), ('was credited',113, 125), ('Carol Sydes',129, 140), ('her starring role',148, 165), ('Rome (1963)',194, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'VBZ', 'TO', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cindy'), (6, 'Carol'), (12, '('), (13, 'born'), (18, 'Annette'), (26, 'Carol'), (32, 'Sydes'), (37, ','), (39, 'October'), (47, '11'), (49, ','), (51, '1944'), (55, ','), (57, 'in'), (60, 'Los'), (64, 'Angeles'), (71, ','), (73, 'California'), (83, ')'), (85, 'is'), (88, 'an'), (91, 'American'), (100, 'actress'), (107, '.'), (109, 'She'), (113, 'was'), (117, 'credited'), (126, 'as'), (129, 'Carol'), (135, 'Sydes'), (141, 'before'), (148, 'her'), (152, 'starring'), (161, 'role'), (166, 'as'), (169, 'Gidget'), (176, 'in'), (179, 'Gidget'), (186, 'Goes'), (191, 'to'), (194, 'Rome'), (199, '('), (200, '1963'), (204, ')'), (205, '.')])</spacy_tokens>
+<spacy_chunks>[('Cindy Carol', 0, 11), ('Annette Carol Sydes', 18, 37), ('October 11, 1944', 39, 55), ('Los Angeles, California', 60, 83), ('an American actress', 88, 107), ('her starring role', 148, 165), ('Gidget', 169, 175), ('Gidget Goes to Rome', 179, 198)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ',', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'PRP$', 'VBG', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

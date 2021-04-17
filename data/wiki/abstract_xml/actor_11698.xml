@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gina DeVettori</title>
+<link/>https://en.wikipedia.org/wiki/Gina_DeVettori
+<annotated>0</annotated>
+<originalabstract>Gina DeVettori (born May 5 in California) is an American actress and writer. DeVettori was born on Cinco de Mayo and is a native Californian. She graduated from the University of Mobile with a Bachelor of Arts in theatre.</originalabstract>
+<abstract>Gina_DeVettori ( born May 5 in California ) is an_American_actress_and_writer . DeVettori was_born on Cinco de Mayo and is a_native_Californian . She graduated from the_University of Mobile with a_Bachelor of Arts in theatre .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gina'), (5, 'DeVettori'), (15, '('), (16, 'born'), (21, 'May'), (25, '5'), (27, 'in'), (30, 'California'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'writer'), (75, '.'), (77, 'DeVettori'), (87, 'was'), (91, 'born'), (96, 'on'), (99, 'Cinco'), (105, 'de'), (108, 'Mayo'), (113, 'and'), (117, 'is'), (120, 'a'), (122, 'native'), (129, 'Californian'), (140, '.'), (142, 'She'), (146, 'graduated'), (156, 'from'), (161, 'the'), (165, 'University'), (176, 'of'), (179, 'Mobile'), (186, 'with'), (191, 'a'), (193, 'Bachelor'), (202, 'of'), (205, 'Arts'), (210, 'in'), (213, 'theatre'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gina DeVettori',0, 14), ('an American actress and writer',45, 75), ('was born',87, 95), ('a native Californian',120, 140), ('the University',161, 175), ('a Bachelor',191, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', 'IN', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'IN', 'NNP', 'CC', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'NNS', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gina'), (5, 'DeVettori'), (15, '('), (16, 'born'), (21, 'May'), (25, '5'), (27, 'in'), (30, 'California'), (40, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'writer'), (75, '.'), (77, 'DeVettori'), (87, 'was'), (91, 'born'), (96, 'on'), (99, 'Cinco'), (105, 'de'), (108, 'Mayo'), (113, 'and'), (117, 'is'), (120, 'a'), (122, 'native'), (129, 'Californian'), (140, '.'), (142, 'She'), (146, 'graduated'), (156, 'from'), (161, 'the'), (165, 'University'), (176, 'of'), (179, 'Mobile'), (186, 'with'), (191, 'a'), (193, 'Bachelor'), (202, 'of'), (205, 'Arts'), (210, 'in'), (213, 'theatre'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Gina DeVettori', 0, 14), ('California', 30, 40), ('an American actress', 45, 64), ('writer', 69, 75), ('Cinco de Mayo', 99, 112), ('a native Californian', 120, 140), ('the University', 161, 175), ('University of Mobile', 165, 185), ('a Bachelor', 191, 201), ('theatre', 213, 220)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', 'IN', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBZ', 'DT', 'JJ', 'NNP', '.', 'PRP', 'VBD', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNPS', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

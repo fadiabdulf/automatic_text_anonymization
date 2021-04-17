@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Divergent_series</title>
+<link/>http://en.wikipedia.org/wiki/Divergent_series
+<annotated>0</annotated>
+<originalabstract>For an elementary calculus-based introduction, see Divergent series on Wikiversity.
+In mathematics, a divergent series is an infinite series that is not convergent, meaning that the infinite sequence of the partial sums of the series does not have a finite limit.
+If a series converges, the individual terms of the series must approach zero. Thus any series in which the individual terms do not approach zero diverges. However, convergence is a stronger condition: not all series whose terms approach zero converge. A counterexample is the harmonic series
+
+  
+    
+      
+        1
+        +
+        
+          
+            1
+            2
+          
+        
+        +
+        
+          
+            1
+            3
+          
+        
+        +
+        
+          
+            1
+            4
+          
+        
+        +
+        
+          
+            1
+            5
+          
+        
+        +
+        ⋯
+        =
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle 1+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{4}}+{\frac {1}{5}}+\cdots =\sum _{n=1}^{\infty }{\frac {1}{n}}.}
+  The divergence of the harmonic series was proven by the medieval mathematician Nicole Oresme.
+In specialized mathematical contexts, values can be objectively assigned to certain series whose sequences of partial sums diverge, in order to make meaning of the divergence of the series. A summability method or summation method is a partial function from the set of series to values. For example, Cesàro summation assigns Grandi's divergent series
+
+  
+    
+      
+        1
+        −
+        1
+        +
+        1
+        −
+        1
+        +
+        ⋯
+      
+    
+    {\displaystyle 1-1+1-1+\cdots }
+  the value 1/2. Cesàro summation is an averaging method, in that it relies on the arithmetic mean of the sequence of partial sums. Other methods involve analytic continuations of related series. In physics, there are a wide variety of summability methods; these are discussed in greater detail in the article on regularization.</originalabstract>
+<abstract>For an elementary calculus-based introduction, see Divergent series on Wikiversity.
+In mathematics, a divergent series is an infinite series that is not convergent, meaning that the infinite sequence of the partial sums of the series does not have a finite limit.
+If a series converges, the individual terms of the series must approach zero. Thus any series in which the individual terms do not approach zero diverges. However, convergence is a stronger condition: not all series whose terms approach zero converge. A counterexample is the harmonic series
+
+  
+    
+      
+        1
+        +
+        
+          
+            1
+            2
+          
+        
+        +
+        
+          
+            1
+            3
+          
+        
+        +
+        
+          
+            1
+            4
+          
+        
+        +
+        
+          
+            1
+            5
+          
+        
+        +
+        ⋯
+        =
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle 1+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{4}}+{\frac {1}{5}}+\cdots =\sum _{n=1}^{\infty }{\frac {1}{n}}.}
+  The divergence of the harmonic series was proven by the medieval mathematician Nicole Oresme.
+In specialized mathematical contexts, values can be objectively assigned to certain series whose sequences of partial sums diverge, in order to make meaning of the divergence of the series. A summability method or summation method is a partial function from the set of series to values. For example, Cesàro summation assigns Grandi's divergent series
+
+  
+    
+      
+        1
+        −
+        1
+        +
+        1
+        −
+        1
+        +
+        ⋯
+      
+    
+    {\displaystyle 1-1+1-1+\cdots }
+  the value 1/2. Cesàro summation is an averaging method, in that it relies on the arithmetic mean of the sequence of partial sums. Other methods involve analytic continuations of related series. In physics, there are a wide variety of summability methods; these are discussed in greater detail in the article on regularization.</abstract>
+<stanford_tokens>OrderedDict([(0, 'For'), (4, 'an'), (7, 'elementary'), (18, 'calculus'), (26, '-'), (27, 'based'), (33, 'introduction'), (45, ','), (47, 'see'), (51, 'Divergent'), (61, 'series'), (68, 'on'), (71, 'Wikiversity'), (82, '.'), (84, 'In'), (87, 'mathematics'), (98, ','), (100, 'a'), (102, 'divergent'), (112, 'series'), (119, 'is'), (122, 'an'), (125, 'infinite'), (134, 'series'), (141, 'that'), (146, 'is'), (149, 'not'), (153, 'convergent'), (163, ','), (165, 'meaning'), (173, 'that'), (178, 'the'), (182, 'infinite'), (191, 'sequence'), (200, 'of'), (203, 'the'), (207, 'partial'), (215, 'sums'), (220, 'of'), (223, 'the'), (227, 'series'), (234, 'does'), (239, 'not'), (243, 'have'), (248, 'a'), (250, 'finite'), (257, 'limit'), (262, '.'), (264, 'If'), (267, 'a'), (269, 'series'), (276, 'converges'), (285, ','), (287, 'the'), (291, 'individual'), (302, 'terms'), (308, 'of'), (311, 'the'), (315, 'series'), (322, 'must'), (327, 'approach'), (336, 'zero'), (340, '.'), (342, 'Thus'), (347, 'any'), (351, 'series'), (358, 'in'), (361, 'which'), (367, 'the'), (371, 'individual'), (382, 'terms'), (388, 'do'), (391, 'not'), (395, 'approach'), (404, 'zero'), (409, 'diverges'), (417, '.'), (419, 'However'), (426, ','), (428, 'convergence'), (440, 'is'), (443, 'a'), (445, 'stronger'), (454, 'condition'), (463, ':'), (465, 'not'), (469, 'all'), (473, 'series'), (480, 'whose'), (486, 'terms'), (492, 'approach'), (501, 'zero'), (506, 'converge'), (514, '.'), (516, 'A'), (518, 'counterexample'), (533, 'is'), (536, 'the'), (540, 'harmonic'), (549, 'series'), (580, '1'), (590, '+'), (624, '1'), (638, '2'), (668, '+'), (702, '1'), (716, '3'), (746, '+'), (780, '1'), (794, '4'), (824, '+'), (858, '1'), (872, '5'), (902, '+'), (912, '⋯'), (922, '='), (943, '∑'), (968, 'n'), (982, '='), (996, '1'), (1032, '∞'), (1086, '1'), (1100, 'n'), (1130, '.'), (1148, '{'), (1149, '\\displaystyle'), (1163, '1+{\\frac'), (1172, '{'), (1173, '1}{2}}+{\\frac'), (1187, '{'), (1188, '1}{3}}+{\\frac'), (1202, '{'), (1203, '1}{4}}+{\\frac'), (1217, '{'), (1218, '1}{5}}+\\cdots'), (1232, '='), (1233, '\\sum'), (1238, '_'), (1239, '{'), (1240, 'n=1}^{\\infty'), (1253, '}'), (1254, '{'), (1255, '\\frac'), (1261, '{'), (1262, '1}{n}}.'), (1269, '}'), (1273, 'The'), (1277, 'divergence'), (1288, 'of'), (1291, 'the'), (1295, 'harmonic'), (1304, 'series'), (1311, 'was'), (1315, 'proven'), (1322, 'by'), (1325, 'the'), (1329, 'medieval'), (1338, 'mathematician'), (1352, 'Nicole'), (1359, 'Oresme'), (1365, '.'), (1367, 'In'), (1370, 'specialized'), (1382, 'mathematical'), (1395, 'contexts'), (1403, ','), (1405, 'values'), (1412, 'can'), (1416, 'be'), (1419, 'objectively'), (1431, 'assigned'), (1440, 'to'), (1443, 'certain'), (1451, 'series'), (1458, 'whose'), (1464, 'sequences'), (1474, 'of'), (1477, 'partial'), (1485, 'sums'), (1490, 'diverge'), (1497, ','), (1499, 'in'), (1502, 'order'), (1508, 'to'), (1511, 'make'), (1516, 'meaning'), (1524, 'of'), (1527, 'the'), (1531, 'divergence'), (1542, 'of'), (1545, 'the'), (1549, 'series'), (1555, '.'), (1557, 'A'), (1559, 'summability'), (1571, 'method'), (1578, 'or'), (1581, 'summation'), (1591, 'method'), (1598, 'is'), (1601, 'a'), (1603, 'partial'), (1611, 'function'), (1620, 'from'), (1625, 'the'), (1629, 'set'), (1633, 'of'), (1636, 'series'), (1643, 'to'), (1646, 'values'), (1652, '.'), (1654, 'For'), (1658, 'example'), (1665, ','), (1667, 'Cesàro'), (1674, 'summation'), (1684, 'assigns'), (1692, 'Grandi'), (1698, "'s"), (1701, 'divergent'), (1711, 'series'), (1742, '1'), (1752, '−'), (1762, '1'), (1772, '+'), (1782, '1'), (1792, '−'), (1802, '1'), (1812, '+'), (1822, '⋯'), (1840, '{'), (1841, '\\displaystyle'), (1855, '1'), (1856, '-'), (1857, '1'), (1858, '+'), (1859, '1'), (1860, '-'), (1861, '1+\\cdots'), (1870, '}'), (1874, 'the'), (1878, 'value'), (1884, '1/2'), (1887, '.'), (1889, 'Cesàro'), (1896, 'summation'), (1906, 'is'), (1909, 'an'), (1912, 'averaging'), (1922, 'method'), (1928, ','), (1930, 'in'), (1933, 'that'), (1938, 'it'), (1941, 'relies'), (1948, 'on'), (1951, 'the'), (1955, 'arithmetic'), (1966, 'mean'), (1971, 'of'), (1974, 'the'), (1978, 'sequence'), (1987, 'of'), (1990, 'partial'), (1998, 'sums'), (2002, '.'), (2004, 'Other'), (2010, 'methods'), (2018, 'involve'), (2026, 'analytic'), (2035, 'continuations'), (2049, 'of'), (2052, 'related'), (2060, 'series'), (2066, '.'), (2068, 'In'), (2071, 'physics'), (2078, ','), (2080, 'there'), (2086, 'are'), (2090, 'a'), (2092, 'wide'), (2097, 'variety'), (2105, 'of'), (2108, 'summability'), (2120, 'methods'), (2127, ';'), (2129, 'these'), (2135, 'are'), (2139, 'discussed'), (2149, 'in'), (2152, 'greater'), (2160, 'detail'), (2167, 'in'), (2170, 'the'), (2174, 'article'), (2182, 'on'), (2185, 'regularization'), (2199, '.')])</stanford_tokens>
+<opennlp_chunks>[('an elementary calculus-based introduction', 4, 45), ('Divergent series', 51, 67), ('Wikiversity', 71, 82), ('Mathematics', 87, 98), ('a divergent series', 100, 118), ('an infinite series', 122, 140), ('Convergent', 153, 163), ('meaning', 165, 172), ('the infinite sequence', 178, 199), ('the partial sums', 203, 219), ('the series', 223, 233), ('a finite limit', 248, 262), ('the individual terms', 287, 307), ('any series', 347, 357), ('convergence', 428, 439), ('a stronger condition', 443, 463), ('not all series', 465, 479), ('whose terms', 480, 491), ('A counterexample', 516, 532), ('the harmonic series', 536, 555), ('=\n        \n          ∑\n          \n            n\n            =\n            1\n          \n          \n            ∞', 922, 1033), ('n\n          \n        \n        .\n      \n    \n    {\\displaystyle', 1100, 1162), ('1+{\\frac', 1163, 1171), ('{1}{5}}+\\cdots =\\sum _', 1217, 1239), ('{1}{n}}.', 1261, 1269), ('The divergence', 1273, 1287), ('the medieval mathematician', 1325, 1351), ('Nicole Oresme', 1352, 1365), ('specialized mathematical contexts', 1370, 1403), ('values', 1405, 1411), ('certain series', 1443, 1457), ('whose sequences', 1458, 1473), ('A summability method', 1557, 1577), ('summation method', 1581, 1597), ('a partial function', 1601, 1619), ('the set', 1625, 1632), ('Cesàro summation', 1667, 1683), ("Grandi's divergent series", 1692, 1717), ('the value', 1874, 1883), ('an averaging method', 1909, 1928), ('the arithmetic mean', 1951, 1970), ('the sequence', 1974, 1986), ('Other methods', 2004, 2017), ('analytic continuations', 2026, 2048), ('related series', 2052, 2066), ('Physics', 2071, 2078), ('a wide variety', 2090, 2104), ('summability methods', 2108, 2127), ('greater detail', 2152, 2166), ('the article', 2170, 2181), ('Regularization', 2185, 2199)]</opennlp_chunks>
+<stanford_pos>['IN', 'DT', 'JJ', 'NN', 'HYPH', 'VBN', 'NN', ',', 'VB', 'JJ', 'NN', 'IN', 'NNP', '.', 'IN', 'NNS', ',', 'DT', 'JJ', 'NN', 'VBZ', 'DT', 'JJ', 'NN', 'WDT', 'VBZ', 'RB', 'JJ', ',', 'VBG', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'VBZ', 'RB', 'VB', 'DT', 'JJ', 'NN', '.', 'IN', 'DT', 'NN', 'NNS', ',', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'MD', 'VB', 'CD', '.', 'RB', 'DT', 'NN', 'IN', 'WDT', 'DT', 'JJ', 'NNS', 'VBP', 'RB', 'VB', 'CD', 'VBZ', '.', 'RB', ',', 'NN', 'VBZ', 'DT', 'JJR', 'NN', ':', 'RB', 'DT', 'NN', 'WP$', 'NNS', 'VBP', 'CD', 'NN', '.', 'DT', 'NN', 'VBZ', 'DT', 'JJ', 'NN', 'CD', 'CC', 'CD', 'CD', 'SYM', 'CD', 'CD', 'SYM', 'CD', 'CD', 'SYM', 'CD', 'CD', 'SYM', 'NNP', 'SYM', 'NNP', 'RB', 'SYM', 'CD', 'NNP', 'CD', 'CC', '.', '-LRB-', 'NNP', 'NNP', '-LRB-', 'CD', '-LRB-', 'CD', '-LRB-', 'CD', '-LRB-', 'CD', 'SYM', 'NN', 'NN', '-LRB-', 'UH', '-RRB-', '-LRB-', 'NNP', '-LRB-', 'NNP', '-RRB-', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', '.', 'IN', 'JJ', 'JJ', 'NNS', ',', 'NNS', 'MD', 'VB', 'RB', 'VBN', 'IN', 'JJ', 'NN', 'WP$', 'NNS', 'IN', 'JJ', 'NNS', 'VBP', ',', 'IN', 'NN', 'TO', 'VB', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', '.', 'DT', 'NN', 'NN', 'CC', 'NN', 'NN', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'NN', 'IN', 'NNS', '.', 'IN', 'NN', ',', 'NNP', 'NN', 'VBZ', 'NNP', 'POS', 'JJ', 'NN', 'CD', 'JJ', 'CD', 'CC', 'CD', 'JJ', 'CD', 'CC', 'NNP', '-LRB-', 'NNP', 'CD', 'SYM', 'CD', 'SYM', 'CD', 'SYM', 'CD', '-RRB-', 'DT', 'NN', 'CD', '.', 'NNP', 'NN', 'VBZ', 'DT', 'NN', 'NN', ',', 'IN', 'IN', 'PRP', 'VBZ', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', '.', 'JJ', 'NNS', 'VBP', 'JJ', 'NNS', 'IN', 'JJ', 'NN', '.', 'IN', 'NN', ',', 'EX', 'VBP', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NNS', ':', 'DT', 'VBP', 'VBN', 'IN', 'JJR', 'NN', 'IN', 'DT', 'NN', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'For'), (4, 'an'), (7, 'elementary'), (18, 'calculus'), (26, '-'), (27, 'based'), (33, 'introduction'), (45, ','), (47, 'see'), (51, 'Divergent'), (61, 'series'), (68, 'on'), (71, 'Wikiversity'), (82, '.'), (84, 'In'), (87, 'mathematics'), (98, ','), (100, 'a'), (102, 'divergent'), (112, 'series'), (119, 'is'), (122, 'an'), (125, 'infinite'), (134, 'series'), (141, 'that'), (146, 'is'), (149, 'not'), (153, 'convergent'), (163, ','), (165, 'meaning'), (173, 'that'), (178, 'the'), (182, 'infinite'), (191, 'sequence'), (200, 'of'), (203, 'the'), (207, 'partial'), (215, 'sums'), (220, 'of'), (223, 'the'), (227, 'series'), (234, 'does'), (239, 'not'), (243, 'have'), (248, 'a'), (250, 'finite'), (257, 'limit'), (262, '.'), (264, 'If'), (267, 'a'), (269, 'series'), (276, 'converges'), (285, ','), (287, 'the'), (291, 'individual'), (302, 'terms'), (308, 'of'), (311, 'the'), (315, 'series'), (322, 'must'), (327, 'approach'), (336, 'zero'), (340, '.'), (342, 'Thus'), (347, 'any'), (351, 'series'), (358, 'in'), (361, 'which'), (367, 'the'), (371, 'individual'), (382, 'terms'), (388, 'do'), (391, 'not'), (395, 'approach'), (404, 'zero'), (409, 'diverges'), (417, '.'), (419, 'However'), (426, ','), (428, 'convergence'), (440, 'is'), (443, 'a'), (445, 'stronger'), (454, 'condition'), (463, ':'), (465, 'not'), (469, 'all'), (473, 'series'), (480, 'whose'), (486, 'terms'), (492, 'approach'), (501, 'zero'), (506, 'converge'), (514, '.'), (516, 'A'), (518, 'counterexample'), (533, 'is'), (536, 'the'), (540, 'harmonic'), (549, 'series'), (580, '1'), (590, '+'), (624, '1'), (638, '2'), (668, '+'), (702, '1'), (716, '3'), (746, '+'), (780, '1'), (794, '4'), (824, '+'), (858, '1'), (872, '5'), (902, '+'), (912, '⋯'), (922, '='), (943, '∑'), (968, 'n'), (982, '='), (996, '1'), (1032, '∞'), (1086, '1'), (1100, 'n'), (1130, '.'), (1148, '{'), (1149, '\\displaystyle'), (1163, '1+{\\frac'), (1172, '{'), (1173, '1}{2}}+{\\frac'), (1187, '{'), (1188, '1}{3}}+{\\frac'), (1202, '{'), (1203, '1}{4}}+{\\frac'), (1217, '{'), (1218, '1}{5}}+\\cdots'), (1232, '='), (1233, '\\sum'), (1238, '_'), (1239, '{'), (1240, 'n=1}^{\\infty'), (1253, '}'), (1254, '{'), (1255, '\\frac'), (1261, '{'), (1262, '1}{n}}.'), (1269, '}'), (1273, 'The'), (1277, 'divergence'), (1288, 'of'), (1291, 'the'), (1295, 'harmonic'), (1304, 'series'), (1311, 'was'), (1315, 'proven'), (1322, 'by'), (1325, 'the'), (1329, 'medieval'), (1338, 'mathematician'), (1352, 'Nicole'), (1359, 'Oresme'), (1365, '.'), (1367, 'In'), (1370, 'specialized'), (1382, 'mathematical'), (1395, 'contexts'), (1403, ','), (1405, 'values'), (1412, 'can'), (1416, 'be'), (1419, 'objectively'), (1431, 'assigned'), (1440, 'to'), (1443, 'certain'), (1451, 'series'), (1458, 'whose'), (1464, 'sequences'), (1474, 'of'), (1477, 'partial'), (1485, 'sums'), (1490, 'diverge'), (1497, ','), (1499, 'in'), (1502, 'order'), (1508, 'to'), (1511, 'make'), (1516, 'meaning'), (1524, 'of'), (1527, 'the'), (1531, 'divergence'), (1542, 'of'), (1545, 'the'), (1549, 'series'), (1555, '.'), (1557, 'A'), (1559, 'summability'), (1571, 'method'), (1578, 'or'), (1581, 'summation'), (1591, 'method'), (1598, 'is'), (1601, 'a'), (1603, 'partial'), (1611, 'function'), (1620, 'from'), (1625, 'the'), (1629, 'set'), (1633, 'of'), (1636, 'series'), (1643, 'to'), (1646, 'values'), (1652, '.'), (1654, 'For'), (1658, 'example'), (1665, ','), (1667, 'Cesàro'), (1674, 'summation'), (1684, 'assigns'), (1692, 'Grandi'), (1698, "'s"), (1701, 'divergent'), (1711, 'series'), (1742, '1'), (1752, '−'), (1762, '1'), (1772, '+'), (1782, '1'), (1792, '−'), (1802, '1'), (1812, '+'), (1822, '⋯'), (1840, '{'), (1841, '\\displaystyle'), (1855, '1'), (1856, '-'), (1857, '1'), (1858, '+'), (1859, '1'), (1860, '-'), (1861, '1+\\cdots'), (1870, '}'), (1874, 'the'), (1878, 'value'), (1884, '1/2'), (1887, '.'), (1889, 'Cesàro'), (1896, 'summation'), (1906, 'is'), (1909, 'an'), (1912, 'averaging'), (1922, 'method'), (1928, ','), (1930, 'in'), (1933, 'that'), (1938, 'it'), (1941, 'relies'), (1948, 'on'), (1951, 'the'), (1955, 'arithmetic'), (1966, 'mean'), (1971, 'of'), (1974, 'the'), (1978, 'sequence'), (1987, 'of'), (1990, 'partial'), (1998, 'sums'), (2002, '.'), (2004, 'Other'), (2010, 'methods'), (2018, 'involve'), (2026, 'analytic'), (2035, 'continuations'), (2049, 'of'), (2052, 'related'), (2060, 'series'), (2066, '.'), (2068, 'In'), (2071, 'physics'), (2078, ','), (2080, 'there'), (2086, 'are'), (2090, 'a'), (2092, 'wide'), (2097, 'variety'), (2105, 'of'), (2108, 'summability'), (2120, 'methods'), (2127, ';'), (2129, 'these'), (2135, 'are'), (2139, 'discussed'), (2149, 'in'), (2152, 'greater'), (2160, 'detail'), (2167, 'in'), (2170, 'the'), (2174, 'article'), (2182, 'on'), (2185, 'regularization'), (2199, '.')])</spacy_tokens>
+<spacy_chunks>[('an elementary calculus-based introduction', 4, 45), ('Divergent series', 51, 67), ('Wikiversity', 71, 82), ('Mathematics', 87, 98), ('a divergent series', 100, 118), ('an infinite series', 122, 140), ('Convergent', 153, 163), ('meaning', 165, 172), ('the infinite sequence', 178, 199), ('the partial sums', 203, 219), ('the series', 223, 233), ('a finite limit', 248, 262), ('the individual terms', 287, 307), ('any series', 347, 357), ('convergence', 428, 439), ('a stronger condition', 443, 463), ('not all series', 465, 479), ('whose terms', 480, 491), ('A counterexample', 516, 532), ('the harmonic series', 536, 555), ('=\n        \n          ∑\n          \n            n\n            =\n            1\n          \n          \n            ∞', 922, 1033), ('n\n          \n        \n        .\n      \n    \n    {\\displaystyle', 1100, 1162), ('1+{\\frac', 1163, 1171), ('{1}{5}}+\\cdots =\\sum _', 1217, 1239), ('{1}{n}}.', 1261, 1269), ('The divergence', 1273, 1287), ('the medieval mathematician', 1325, 1351), ('Nicole Oresme', 1352, 1365), ('specialized mathematical contexts', 1370, 1403), ('values', 1405, 1411), ('certain series', 1443, 1457), ('whose sequences', 1458, 1473), ('A summability method', 1557, 1577), ('summation method', 1581, 1597), ('a partial function', 1601, 1619), ('the set', 1625, 1632), ('Cesàro summation', 1667, 1683), ("Grandi's divergent series", 1692, 1717), ('the value', 1874, 1883), ('an averaging method', 1909, 1928), ('the arithmetic mean', 1951, 1970), ('the sequence', 1974, 1986), ('Other methods', 2004, 2017), ('analytic continuations', 2026, 2048), ('related series', 2052, 2066), ('Physics', 2071, 2078), ('a wide variety', 2090, 2104), ('summability methods', 2108, 2127), ('greater detail', 2152, 2166), ('the article', 2170, 2181), ('Regularization', 2185, 2199)]</spacy_chunks>
+<spacy_pos>['IN', 'DT', 'JJ', 'NN', 'HYPH', 'VBN', 'NN', ',', 'VB', 'JJ', 'NN', 'IN', 'NNP', '.', 'IN', 'NNS', ',', 'DT', 'JJ', 'NN', 'VBZ', 'DT', 'JJ', 'NN', 'WDT', 'VBZ', 'RB', 'JJ', ',', 'VBG', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'VBZ', 'RB', 'VB', 'DT', 'JJ', 'NN', '.', 'IN', 'DT', 'NN', 'NNS', ',', 'DT', 'JJ', 'NNS', 'IN', 'DT', 'NN', 'MD', 'VB', 'CD', '.', 'RB', 'DT', 'NN', 'IN', 'WDT', 'DT', 'JJ', 'NNS', 'VBP', 'RB', 'VB', 'CD', 'VBZ', '.', 'RB', ',', 'NN', 'VBZ', 'DT', 'JJR', 'NN', ':', 'RB', 'DT', 'NN', 'WP$', 'NNS', 'VBP', 'CD', 'NN', '.', 'DT', 'NN', 'VBZ', 'DT', 'JJ', 'NN', 'CD', 'CC', 'CD', 'CD', 'SYM', 'CD', 'CD', 'SYM', 'CD', 'CD', 'SYM', 'CD', 'CD', 'SYM', 'NNP', 'SYM', 'NNP', 'RB', 'SYM', 'CD', 'NNP', 'CD', 'CC', '.', '-LRB-', 'NNP', 'NNP', '-LRB-', 'CD', '-LRB-', 'CD', '-LRB-', 'CD', '-LRB-', 'CD', 'SYM', 'NN', 'NN', '-LRB-', 'UH', '-RRB-', '-LRB-', 'NNP', '-LRB-', 'NNP', '-RRB-', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'NNP', 'NNP', '.', 'IN', 'JJ', 'JJ', 'NNS', ',', 'NNS', 'MD', 'VB', 'RB', 'VBN', 'IN', 'JJ', 'NN', 'WP$', 'NNS', 'IN', 'JJ', 'NNS', 'VBP', ',', 'IN', 'NN', 'TO', 'VB', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', '.', 'DT', 'NN', 'NN', 'CC', 'NN', 'NN', 'VBZ', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'NN', 'IN', 'NNS', '.', 'IN', 'NN', ',', 'NNP', 'NN', 'VBZ', 'NNP', 'POS', 'JJ', 'NN', 'CD', 'JJ', 'CD', 'CC', 'CD', 'JJ', 'CD', 'CC', 'NNP', '-LRB-', 'NNP', 'CD', 'SYM', 'CD', 'SYM', 'CD', 'SYM', 'CD', '-RRB-', 'DT', 'NN', 'CD', '.', 'NNP', 'NN', 'VBZ', 'DT', 'NN', 'NN', ',', 'IN', 'IN', 'PRP', 'VBZ', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', '.', 'JJ', 'NNS', 'VBP', 'JJ', 'NNS', 'IN', 'JJ', 'NN', '.', 'IN', 'NN', ',', 'EX', 'VBP', 'DT', 'JJ', 'NN', 'IN', 'NN', 'NNS', ':', 'DT', 'VBP', 'VBN', 'IN', 'JJR', 'NN', 'IN', 'DT', 'NN', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+</doc>

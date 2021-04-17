@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kadeem Hardison</title>
+<link/>https://en.wikipedia.org/wiki/Kadeem_Hardison
+<annotated>0</annotated>
+<originalabstract>Kadeem Hardison (born July 24, 1965) is an American actor and director. He is best known for his role Dwayne Wayne on A Different World, a spin-off of the long-running NBC sitcom The Cosby Show. He also starred in the Disney Channel series K.C. Undercover as Craig Cooper, the title character's father.</originalabstract>
+<abstract>Kadeem_Hardison ( born July_24_,_1965 ) is an_American_actor_and_director . He is_best_known for his_role_Dwayne_Wayne on A_Different_World , a_spin-off of the_long-running_NBC_sitcom The_Cosby_Show . He also starred in the_Disney_Channel_series_K.C._Undercover as Craig_Cooper , the_title_character 's_father .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kadeem'), (7, 'Hardison'), (16, '('), (17, 'born'), (22, 'July'), (27, '24'), (29, ','), (31, '1965'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actor'), (58, 'and'), (62, 'director'), (70, '.'), (72, 'He'), (75, 'is'), (78, 'best'), (83, 'known'), (89, 'for'), (93, 'his'), (97, 'role'), (102, 'Dwayne'), (109, 'Wayne'), (115, 'on'), (118, 'A'), (120, 'Different'), (130, 'World'), (135, ','), (137, 'a'), (139, 'spin-off'), (148, 'of'), (151, 'the'), (155, 'long-running'), (168, 'NBC'), (172, 'sitcom'), (179, 'The'), (183, 'Cosby'), (189, 'Show'), (193, '.'), (195, 'He'), (198, 'also'), (203, 'starred'), (211, 'in'), (214, 'the'), (218, 'Disney'), (225, 'Channel'), (233, 'series'), (240, 'K.C.'), (245, 'Undercover'), (256, 'as'), (259, 'Craig'), (265, 'Cooper'), (271, ','), (273, 'the'), (277, 'title'), (283, 'character'), (292, '\'s'), (295, 'father'), (301, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kadeem Hardison',0, 15), ('July 24, 1965',22, 35), ('an American actor and director',40, 70), ('is best known',75, 88), ('his role Dwayne Wayne',93, 114), ('A Different World',118, 135), ('a spin-off',137, 147), ('the long-running NBC sitcom',151, 178), ('The Cosby Show',179, 193), ('the Disney Channel series K.C. Undercover',214, 255), ('Craig Cooper',259, 271), ('the title character',273, 292), ('\'s father',292, 301)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NN', ',', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NNP', 'NN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'NN', 'POS', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kadeem'), (7, 'Hardison'), (16, '('), (17, 'born'), (22, 'July'), (27, '24'), (29, ','), (31, '1965'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actor'), (58, 'and'), (62, 'director'), (70, '.'), (72, 'He'), (75, 'is'), (78, 'best'), (83, 'known'), (89, 'for'), (93, 'his'), (97, 'role'), (102, 'Dwayne'), (109, 'Wayne'), (115, 'on'), (118, 'A'), (120, 'Different'), (130, 'World'), (135, ','), (137, 'a'), (139, 'spin'), (143, '-'), (144, 'off'), (148, 'of'), (151, 'the'), (155, 'long'), (159, '-'), (160, 'running'), (168, 'NBC'), (172, 'sitcom'), (179, 'The'), (183, 'Cosby'), (189, 'Show'), (193, '.'), (195, 'He'), (198, 'also'), (203, 'starred'), (211, 'in'), (214, 'the'), (218, 'Disney'), (225, 'Channel'), (233, 'series'), (240, 'K.C.'), (245, 'Undercover'), (256, 'as'), (259, 'Craig'), (265, 'Cooper'), (271, ','), (273, 'the'), (277, 'title'), (283, 'character'), (292, "'s"), (295, 'father'), (301, '.')])</spacy_tokens>
+<spacy_chunks>[('Kadeem Hardison', 0, 15), ('July 24, 1965', 22, 35), ('an American actor', 40, 57), ('director', 62, 70), ('his role', 93, 101), ('Dwayne Wayne', 102, 114), ('A Different World', 118, 135), ('a spin-off', 137, 147), ('the long-running NBC sitcom', 151, 178), ('The Cosby Show', 179, 193), ('the Disney Channel series K.C. Undercover', 214, 255), ('Craig Cooper', 259, 271), ("the title character's father", 273, 301)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'JJ', 'NNP', ',', 'DT', 'NN', 'HYPH', 'NN', 'IN', 'DT', 'RB', 'HYPH', 'VBG', 'NNP', 'NN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'RB', 'VBD', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'DT', 'NN', 'NN', 'POS', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

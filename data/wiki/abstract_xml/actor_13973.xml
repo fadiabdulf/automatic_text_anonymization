@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marilyn Michaels</title>
+<link/>https://en.wikipedia.org/wiki/Marilyn_Michaels
+<annotated>0</annotated>
+<originalabstract>Marilyn Michaels (born Marilyn Sternberg, February 26, 1943) is a comedian, singer, actress, impressionist, author, and composer.</originalabstract>
+<abstract>Marilyn_Michaels ( born Marilyn_Sternberg , February_26_,_1943 ) is a_comedian_,_singer_,_actress_,_impressionist_,_author , and composer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marilyn'), (8, 'Michaels'), (17, '('), (18, 'born'), (23, 'Marilyn'), (31, 'Sternberg'), (40, ','), (42, 'February'), (51, '26'), (53, ','), (55, '1943'), (59, ')'), (61, 'is'), (64, 'a'), (66, 'comedian'), (74, ','), (76, 'singer'), (82, ','), (84, 'actress'), (91, ','), (93, 'impressionist'), (106, ','), (108, 'author'), (114, ','), (116, 'and'), (120, 'composer'), (128, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marilyn Michaels',0, 16), ('Marilyn Sternberg',23, 40), ('February 26, 1943',42, 59), ('a comedian, singer, actress, impressionist, author',64, 114)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', ',', 'NN', ',', 'NN', ',', 'JJ', ',', 'NN', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marilyn'), (8, 'Michaels'), (17, '('), (18, 'born'), (23, 'Marilyn'), (31, 'Sternberg'), (40, ','), (42, 'February'), (51, '26'), (53, ','), (55, '1943'), (59, ')'), (61, 'is'), (64, 'a'), (66, 'comedian'), (74, ','), (76, 'singer'), (82, ','), (84, 'actress'), (91, ','), (93, 'impressionist'), (106, ','), (108, 'author'), (114, ','), (116, 'and'), (120, 'composer'), (128, '.')])</spacy_tokens>
+<spacy_chunks>[('Marilyn Michaels', 0, 16), ('Marilyn Sternberg', 23, 40), ('February 26, 1943', 42, 59), ('a comedian', 64, 74), ('singer', 76, 82), ('actress', 84, 91), ('impressionist', 93, 106), ('author', 108, 114), ('composer', 120, 128)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

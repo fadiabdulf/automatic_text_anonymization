@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joe Frisco</title>
+<link/>https://en.wikipedia.org/wiki/Joe_Frisco
+<annotated>0</annotated>
+<originalabstract>Joe Frisco (born Louis Wilson Joseph; November 4, 1889 – February 12, 1958) was an American vaudeville performer who first made his name on stage as a jazz dancer, but later incorporated his stuttering voice to his act and became a popular comedian.</originalabstract>
+<abstract>Joe_Frisco ( born Louis_Wilson_Joseph ; November_4_,_1889 – February_12_,_1958 ) was an_American_vaudeville_performer who first made his_name on stage as a_jazz_dancer , but later_incorporated his_stuttering_voice to his_act and became a_popular_comedian .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joe'), (4, 'Frisco'), (11, '('), (12, 'born'), (17, 'Louis'), (23, 'Wilson'), (30, 'Joseph'), (36, ';'), (38, 'November'), (47, '4'), (48, ','), (50, '1889'), (55, '–'), (57, 'February'), (66, '12'), (68, ','), (70, '1958'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'vaudeville'), (103, 'performer'), (113, 'who'), (117, 'first'), (123, 'made'), (128, 'his'), (132, 'name'), (137, 'on'), (140, 'stage'), (146, 'as'), (149, 'a'), (151, 'jazz'), (156, 'dancer'), (162, ','), (164, 'but'), (168, 'later'), (174, 'incorporated'), (187, 'his'), (191, 'stuttering'), (202, 'voice'), (208, 'to'), (211, 'his'), (215, 'act'), (219, 'and'), (223, 'became'), (230, 'a'), (232, 'popular'), (240, 'comedian'), (248, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joe Frisco',0, 10), ('Louis Wilson Joseph',17, 36), ('November 4, 1889',38, 54), ('February 12, 1958',57, 74), ('an American vaudeville performer',80, 112), ('his name',128, 136), ('a jazz dancer',149, 162), ('later incorporated',168, 186), ('his stuttering voice',187, 207), ('his act',211, 218), ('a popular comedian',230, 248)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'RB', 'VBD', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'DT', 'NN', 'NN', ',', 'CC', 'RB', 'VBD', 'PRP$', 'NN', 'NN', 'TO', 'PRP$', 'NN', 'CC', 'VBD', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joe'), (4, 'Frisco'), (11, '('), (12, 'born'), (17, 'Louis'), (23, 'Wilson'), (30, 'Joseph'), (36, ';'), (38, 'November'), (47, '4'), (48, ','), (50, '1889'), (55, '–'), (57, 'February'), (66, '12'), (68, ','), (70, '1958'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'vaudeville'), (103, 'performer'), (113, 'who'), (117, 'first'), (123, 'made'), (128, 'his'), (132, 'name'), (137, 'on'), (140, 'stage'), (146, 'as'), (149, 'a'), (151, 'jazz'), (156, 'dancer'), (162, ','), (164, 'but'), (168, 'later'), (174, 'incorporated'), (187, 'his'), (191, 'stuttering'), (202, 'voice'), (208, 'to'), (211, 'his'), (215, 'act'), (219, 'and'), (223, 'became'), (230, 'a'), (232, 'popular'), (240, 'comedian'), (248, '.')])</spacy_tokens>
+<spacy_chunks>[('Joe Frisco', 0, 10), ('(born Louis Wilson Joseph', 11, 36), ('November 4, 1889', 38, 54), ('– February', 55, 65), ('February 12, 1958', 57, 74), ('an American vaudeville performer', 80, 112), ('his name', 128, 136), ('a jazz dancer', 149, 162), ('his stuttering voice', 187, 207), ('his act', 211, 218), ('a popular comedian', 230, 248)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'RB', 'VBD', 'PRP$', 'NN', 'IN', 'NN', 'IN', 'DT', 'NN', 'NN', ',', 'CC', 'RB', 'VBD', 'PRP$', 'VBG', 'NN', 'IN', 'PRP$', 'NN', 'CC', 'VBD', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

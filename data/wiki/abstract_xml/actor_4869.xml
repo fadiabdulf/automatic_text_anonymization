@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Richard Neill</title>
+<link/>https://en.wikipedia.org/wiki/Richard_Neill
+<annotated>0</annotated>
+<originalabstract>Richard Neill (November 12, 1875 – April 8, 1970) was an American actor of the silent era. He appeared in 130 films between 1911 and 1951. He was born in Philadelphia, Pennsylvania and died in Woodland Hills, Los Angeles.</originalabstract>
+<abstract>Richard_Neill ( November_12_,_1875 – April_8_,_1970 ) was an_American_actor of the_silent_era . He appeared in 130_films between 1911_and_1951 . He was_born in Philadelphia , Pennsylvania and died in Woodland_Hills , Los_Angeles .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Richard'), (8, 'Neill'), (14, '('), (15, 'November'), (24, '12'), (26, ','), (28, '1875'), (33, '–'), (35, 'April'), (41, '8'), (42, ','), (44, '1970'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'actor'), (72, 'of'), (75, 'the'), (79, 'silent'), (86, 'era'), (89, '.'), (91, 'He'), (94, 'appeared'), (103, 'in'), (106, '130'), (110, 'films'), (116, 'between'), (124, '1911'), (129, 'and'), (133, '1951'), (137, '.'), (139, 'He'), (142, 'was'), (146, 'born'), (151, 'in'), (154, 'Philadelphia'), (166, ','), (168, 'Pennsylvania'), (181, 'and'), (185, 'died'), (190, 'in'), (193, 'Woodland'), (202, 'Hills'), (207, ','), (209, 'Los'), (213, 'Angeles'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('Richard Neill',0, 13), ('November 12, 1875',15, 32), ('April 8, 1970',35, 48), ('an American actor',54, 71), ('the silent era',75, 89), ('130 films',106, 115), ('1911 and 1951',124, 137), ('was born',142, 150), ('Woodland Hills',193, 207), ('Los Angeles',209, 220)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Richard'), (8, 'Neill'), (14, '('), (15, 'November'), (24, '12'), (26, ','), (28, '1875'), (33, '–'), (35, 'April'), (41, '8'), (42, ','), (44, '1970'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'actor'), (72, 'of'), (75, 'the'), (79, 'silent'), (86, 'era'), (89, '.'), (91, 'He'), (94, 'appeared'), (103, 'in'), (106, '130'), (110, 'films'), (116, 'between'), (124, '1911'), (129, 'and'), (133, '1951'), (137, '.'), (139, 'He'), (142, 'was'), (146, 'born'), (151, 'in'), (154, 'Philadelphia'), (166, ','), (168, 'Pennsylvania'), (181, 'and'), (185, 'died'), (190, 'in'), (193, 'Woodland'), (202, 'Hills'), (207, ','), (209, 'Los'), (213, 'Angeles'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Richard Neill', 0, 13), ('(November', 14, 23), ('November 12, 1875', 15, 32), ('April 8, 1970', 35, 48), ('an American actor', 54, 71), ('the silent era', 75, 89), ('130 films', 106, 115), ('Philadelphia', 154, 166), ('Pennsylvania', 168, 180), ('Woodland Hills, Los Angeles', 193, 220)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

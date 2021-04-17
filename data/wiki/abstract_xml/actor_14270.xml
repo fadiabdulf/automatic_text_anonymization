@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sheree North</title>
+<link/>https://en.wikipedia.org/wiki/Sheree_North
+<annotated>0</annotated>
+<originalabstract>Sheree North (born Dawn Shirley Crang; January 17, 1932 – November 4, 2005) was an American actress, dancer and singer, known for being one of 20th Century-Fox's intended successors to Marilyn Monroe.</originalabstract>
+<abstract>Sheree_North ( born Dawn_Shirley_Crang ; January_17_,_1932 – November_4_,_2005 ) was an_American_actress , dancer_and_singer , known for being one of 20th_Century-Fox 's_intended_successors to Marilyn_Monroe .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sheree'), (7, 'North'), (13, '('), (14, 'born'), (19, 'Dawn'), (24, 'Shirley'), (32, 'Crang'), (37, ';'), (39, 'January'), (47, '17'), (49, ','), (51, '1932'), (56, '–'), (58, 'November'), (67, '4'), (68, ','), (70, '2005'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'actress'), (99, ','), (101, 'dancer'), (108, 'and'), (112, 'singer'), (118, ','), (120, 'known'), (126, 'for'), (130, 'being'), (136, 'one'), (140, 'of'), (143, '20th'), (148, 'Century-Fox'), (159, '\'s'), (162, 'intended'), (171, 'successors'), (182, 'to'), (185, 'Marilyn'), (193, 'Monroe'), (199, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sheree North',0, 12), ('Dawn Shirley Crang',19, 37), ('January 17, 1932',39, 55), ('November 4, 2005',58, 74), ('an American actress',80, 99), ('dancer and singer',101, 118), ('20th Century-Fox',143, 159), ('\'s intended successors',159, 181), ('Marilyn Monroe',185, 199)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'VBG', 'CD', 'IN', 'JJ', 'NNP', 'POS', 'JJ', 'NNS', 'TO', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sheree'), (7, 'North'), (13, '('), (14, 'born'), (19, 'Dawn'), (24, 'Shirley'), (32, 'Crang'), (37, ';'), (39, 'January'), (47, '17'), (49, ','), (51, '1932'), (56, '–'), (58, 'November'), (67, '4'), (68, ','), (70, '2005'), (74, ')'), (76, 'was'), (80, 'an'), (83, 'American'), (92, 'actress'), (99, ','), (101, 'dancer'), (108, 'and'), (112, 'singer'), (118, ','), (120, 'known'), (126, 'for'), (130, 'being'), (136, 'one'), (140, 'of'), (143, '20th'), (148, 'Century'), (155, '-'), (156, 'Fox'), (159, "'s"), (162, 'intended'), (171, 'successors'), (182, 'to'), (185, 'Marilyn'), (193, 'Monroe'), (199, '.')])</spacy_tokens>
+<spacy_chunks>[('Sheree North', 0, 12), ('born Dawn Shirley Crang', 14, 37), ('January 17, 1932', 39, 55), ('November 4, 2005', 58, 74), ('an American actress', 80, 99), ('dancer', 101, 107), ('singer', 112, 118), ("20th Century-Fox's intended successors", 143, 181), ('Marilyn Monroe', 185, 199)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'NNS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', ',', 'VBN', 'IN', 'VBG', 'CD', 'IN', 'JJ', 'NNP', 'HYPH', 'NNP', 'POS', 'JJ', 'NNS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

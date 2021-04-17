@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Nance</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Nance
+<annotated>0</annotated>
+<originalabstract>Marvin John Nance (December 21, 1943 – December 30, 1996) was an American actor of stage and screen.He was known for his work with director David Lynch, particularly for his starring roles in Eraserhead (1977) and Twin Peaks (1990–1991).</originalabstract>
+<abstract>Marvin_John_Nance ( December_21_,_1943 – December_30 , 1996 ) was an_American_actor of stage_and_screen.He was_known for his_work with director_David_Lynch , particularly for his_starring_roles in Eraserhead ( 1977 ) and Twin_Peaks ( 1990 – 1991 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marvin'), (7, 'John'), (12, 'Nance'), (18, '('), (19, 'December'), (28, '21'), (30, ','), (32, '1943'), (37, '–'), (39, 'December'), (48, '30'), (50, ','), (52, '1996'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'actor'), (80, 'of'), (83, 'stage'), (89, 'and'), (93, 'screen.He'), (103, 'was'), (107, 'known'), (113, 'for'), (117, 'his'), (121, 'work'), (126, 'with'), (131, 'director'), (140, 'David'), (146, 'Lynch'), (151, ','), (153, 'particularly'), (166, 'for'), (170, 'his'), (174, 'starring'), (183, 'roles'), (189, 'in'), (192, 'Eraserhead'), (203, '('), (204, '1977'), (208, ')'), (210, 'and'), (214, 'Twin'), (219, 'Peaks'), (225, '('), (226, '1990'), (230, '–'), (231, '1991'), (235, ')'), (236, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marvin John Nance',0, 17), ('December 21, 1943',19, 36), ('December 30',39, 50), ('an American actor',62, 79), ('stage and screen.He',83, 102), ('was known',103, 112), ('his work',117, 125), ('director David Lynch',131, 151), ('his starring roles',170, 188), ('Twin Peaks',214, 224)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', 'VBD', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', ',', 'RB', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marvin'), (7, 'John'), (12, 'Nance'), (18, '('), (19, 'December'), (28, '21'), (30, ','), (32, '1943'), (37, '–'), (39, 'December'), (48, '30'), (50, ','), (52, '1996'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'actor'), (80, 'of'), (83, 'stage'), (89, 'and'), (93, 'screen'), (99, '.'), (100, 'He'), (103, 'was'), (107, 'known'), (113, 'for'), (117, 'his'), (121, 'work'), (126, 'with'), (131, 'director'), (140, 'David'), (146, 'Lynch'), (151, ','), (153, 'particularly'), (166, 'for'), (170, 'his'), (174, 'starring'), (183, 'roles'), (189, 'in'), (192, 'Eraserhead'), (203, '('), (204, '1977'), (208, ')'), (210, 'and'), (214, 'Twin'), (219, 'Peaks'), (225, '('), (226, '1990–1991'), (235, ')'), (236, '.')])</spacy_tokens>
+<spacy_chunks>[('Marvin John Nance', 0, 17), ('December 21, 1943', 19, 36), ('December 30, 1996', 39, 56), ('an American actor', 62, 79), ('screen', 93, 99), ('his work', 117, 125), ('director David Lynch', 131, 151), ('his starring roles', 170, 188), ('Eraserhead', 192, 202), ('Twin Peaks', 214, 224)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', 'NNP', 'NNP', ',', 'RB', 'IN', 'PRP$', 'VBG', 'NNS', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNPS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

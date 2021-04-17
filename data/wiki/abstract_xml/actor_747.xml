@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rudy Bowman</title>
+<link/>https://en.wikipedia.org/wiki/Rudy_Bowman
+<annotated>0</annotated>
+<originalabstract>Rudy Bowman (15 December 1890 – 29 October 1972) was an American actor. He played mostly small and uncredited roles in various westerns. His film appearances include She Wore a Yellow Ribbon (1949). He also guest starred as Robert E. Lee in The Twilight Zone episode "The Bard".</originalabstract>
+<abstract>Rudy_Bowman ( 15_December_1890 – 29_October_1972 ) was an_American_actor . He played mostly small_and_uncredited_roles in various_westerns . His_film_appearances include She Wore a_Yellow_Ribbon_(_1949_) . He also guest starred as Robert_E._Lee in The_Twilight_Zone_episode " The_Bard_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rudy'), (5, 'Bowman'), (12, '('), (13, '15'), (16, 'December'), (25, '1890'), (30, '–'), (32, '29'), (35, 'October'), (43, '1972'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'played'), (82, 'mostly'), (89, 'small'), (95, 'and'), (99, 'uncredited'), (110, 'roles'), (116, 'in'), (119, 'various'), (127, 'westerns'), (135, '.'), (137, 'His'), (141, 'film'), (146, 'appearances'), (158, 'include'), (166, 'She'), (170, 'Wore'), (175, 'a'), (177, 'Yellow'), (184, 'Ribbon'), (191, '('), (192, '1949'), (196, ')'), (197, '.'), (199, 'He'), (202, 'also'), (207, 'guest'), (213, 'starred'), (221, 'as'), (224, 'Robert'), (231, 'E.'), (234, 'Lee'), (238, 'in'), (241, 'The'), (245, 'Twilight'), (254, 'Zone'), (259, 'episode'), (267, '"'), (268, 'The'), (272, 'Bard'), (276, '"'), (277, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rudy Bowman',0, 11), ('15 December 1890',13, 29), ('29 October 1972',32, 47), ('an American actor',53, 70), ('small and uncredited roles',89, 115), ('various westerns',119, 135), ('His film appearances',137, 157), ('a Yellow Ribbon (1949)',175, 197), ('Robert E. Lee',224, 237), ('The Twilight Zone episode',241, 266), ('The Bard"',268, 277)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RB', 'JJ', 'CC', 'JJ', 'NNS', 'IN', 'JJ', 'NNS', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'PRP', 'VBD', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'RB', 'NN', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', '``', 'DT', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rudy'), (5, 'Bowman'), (12, '('), (13, '15'), (16, 'December'), (25, '1890'), (30, '–'), (32, '29'), (35, 'October'), (43, '1972'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'actor'), (70, '.'), (72, 'He'), (75, 'played'), (82, 'mostly'), (89, 'small'), (95, 'and'), (99, 'uncredited'), (110, 'roles'), (116, 'in'), (119, 'various'), (127, 'westerns'), (135, '.'), (137, 'His'), (141, 'film'), (146, 'appearances'), (158, 'include'), (166, 'She'), (170, 'Wore'), (175, 'a'), (177, 'Yellow'), (184, 'Ribbon'), (191, '('), (192, '1949'), (196, ')'), (197, '.'), (199, 'He'), (202, 'also'), (207, 'guest'), (213, 'starred'), (221, 'as'), (224, 'Robert'), (231, 'E.'), (234, 'Lee'), (238, 'in'), (241, 'The'), (245, 'Twilight'), (254, 'Zone'), (259, 'episode'), (267, '"'), (268, 'The'), (272, 'Bard'), (276, '"'), (277, '.')])</spacy_tokens>
+<spacy_chunks>[('Rudy Bowman', 0, 11), ('15 December 1890', 13, 29), ('29 October 1972', 32, 47), ('an American actor', 53, 70), ('mostly small and uncredited roles', 82, 115), ('various westerns', 119, 135), ('His film appearances', 137, 157), ('She Wore a Yellow Ribbon', 166, 190), ('Robert E. Lee', 224, 237), ('The Twilight Zone', 241, 258), ('"The Bard', 267, 276)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'RB', 'JJ', 'CC', 'JJ', 'NNS', 'IN', 'JJ', 'NNS', '.', 'PRP$', 'NN', 'NNS', 'VBP', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'PRP', 'RB', 'VBD', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', '``', 'DT', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Miko Mayama</title>
+<link/>https://en.wikipedia.org/wiki/Miko_Mayama
+<annotated>0</annotated>
+<originalabstract>Miko Mayama (born August 15, 1939) in the United States) is a Japanese-American actress who was active in the 1960s and 1970s.</originalabstract>
+<abstract>Miko_Mayama ( born August_15_,_1939 ) in the_United_States ) is a_Japanese-American_actress who was active in the_1960s_and_1970s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Miko'), (5, 'Mayama'), (12, '('), (13, 'born'), (18, 'August'), (25, '15'), (27, ','), (29, '1939'), (33, ')'), (35, 'in'), (38, 'the'), (42, 'United'), (49, 'States'), (55, ')'), (57, 'is'), (60, 'a'), (62, 'Japanese-American'), (80, 'actress'), (88, 'who'), (92, 'was'), (96, 'active'), (103, 'in'), (106, 'the'), (110, '1960s'), (116, 'and'), (120, '1970s'), (125, '.')])</stanford_tokens>
+<opennlp_chunks>[('Miko Mayama',0, 11), ('August 15, 1939',18, 33), ('the United States',38, 55), ('a Japanese-American actress',60, 87), ('the 1960s and 1970s',106, 125)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'IN', 'DT', 'NNP', 'NNPS', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'JJ', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Miko'), (5, 'Mayama'), (12, '('), (13, 'born'), (18, 'August'), (25, '15'), (27, ','), (29, '1939'), (33, ')'), (35, 'in'), (38, 'the'), (42, 'United'), (49, 'States'), (55, ')'), (57, 'is'), (60, 'a'), (62, 'Japanese'), (70, '-'), (71, 'American'), (80, 'actress'), (88, 'who'), (92, 'was'), (96, 'active'), (103, 'in'), (106, 'the'), (110, '1960s'), (116, 'and'), (120, '1970s'), (125, '.')])</spacy_tokens>
+<spacy_chunks>[('Miko Mayama', 0, 11), ('August 15, 1939', 18, 33), ('the United States', 38, 55), ('a Japanese-American actress', 60, 87), ('the 1960s', 106, 115)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'IN', 'DT', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', 'WP', 'VBD', 'JJ', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

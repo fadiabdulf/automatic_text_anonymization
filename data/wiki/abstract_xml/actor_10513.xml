@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Catherine Bach</title>
+<link/>https://en.wikipedia.org/wiki/Catherine_Bach
+<annotated>0</annotated>
+<originalabstract>Catherine Bach (born Catherine Bachman; March 1, 1954) is an American actress. She is known for playing Daisy Duke in the television series The Dukes of Hazzard and Margo Dutton in African Skies. In 2012, she joined the cast of the CBS soap opera The Young and the Restless as Anita Lawson.</originalabstract>
+<abstract>Catherine_Bach ( born Catherine_Bachman ; March_1_,_1954 ) is an_American_actress . She is_known for playing Daisy_Duke in the_television_series The_Dukes of Hazzard and Margo_Dutton in African_Skies . In 2012 , she joined the_cast of the_CBS_soap_opera The_Young and the_Restless as Anita_Lawson .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Catherine'), (10, 'Bach'), (15, '('), (16, 'born'), (21, 'Catherine'), (31, 'Bachman'), (38, ';'), (40, 'March'), (46, '1'), (47, ','), (49, '1954'), (53, ')'), (55, 'is'), (58, 'an'), (61, 'American'), (70, 'actress'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'Daisy'), (110, 'Duke'), (115, 'in'), (118, 'the'), (122, 'television'), (133, 'series'), (140, 'The'), (144, 'Dukes'), (150, 'of'), (153, 'Hazzard'), (161, 'and'), (165, 'Margo'), (171, 'Dutton'), (178, 'in'), (181, 'African'), (189, 'Skies'), (194, '.'), (196, 'In'), (199, '2012'), (203, ','), (205, 'she'), (209, 'joined'), (216, 'the'), (220, 'cast'), (225, 'of'), (228, 'the'), (232, 'CBS'), (236, 'soap'), (241, 'opera'), (247, 'The'), (251, 'Young'), (257, 'and'), (261, 'the'), (265, 'Restless'), (274, 'as'), (277, 'Anita'), (283, 'Lawson'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('Catherine Bach',0, 14), ('Catherine Bachman',21, 38), ('March 1, 1954',40, 53), ('an American actress',58, 77), ('is known',83, 91), ('Daisy Duke',104, 114), ('the television series',118, 139), ('The Dukes',140, 149), ('Margo Dutton',165, 177), ('African Skies',181, 194), ('the cast',216, 224), ('the CBS soap opera',228, 246), ('The Young',247, 256), ('the Restless',261, 273), ('Anita Lawson',277, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNPS', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'DT', 'NN', 'CC', 'DT', 'JJ', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Catherine'), (10, 'Bach'), (15, '('), (16, 'born'), (21, 'Catherine'), (31, 'Bachman'), (38, ';'), (40, 'March'), (46, '1'), (47, ','), (49, '1954'), (53, ')'), (55, 'is'), (58, 'an'), (61, 'American'), (70, 'actress'), (77, '.'), (79, 'She'), (83, 'is'), (86, 'known'), (92, 'for'), (96, 'playing'), (104, 'Daisy'), (110, 'Duke'), (115, 'in'), (118, 'the'), (122, 'television'), (133, 'series'), (140, 'The'), (144, 'Dukes'), (150, 'of'), (153, 'Hazzard'), (161, 'and'), (165, 'Margo'), (171, 'Dutton'), (178, 'in'), (181, 'African'), (189, 'Skies'), (194, '.'), (196, 'In'), (199, '2012'), (203, ','), (205, 'she'), (209, 'joined'), (216, 'the'), (220, 'cast'), (225, 'of'), (228, 'the'), (232, 'CBS'), (236, 'soap'), (241, 'opera'), (247, 'The'), (251, 'Young'), (257, 'and'), (261, 'the'), (265, 'Restless'), (274, 'as'), (277, 'Anita'), (283, 'Lawson'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('Catherine Bach', 0, 14), ('born Catherine Bachman', 16, 38), ('March 1, 1954', 40, 53), ('an American actress', 58, 77), ('Daisy Duke', 104, 114), ('the television series', 118, 139), ('The Dukes of Hazzard', 140, 160), ('Margo Dutton', 165, 177), ('African Skies', 181, 194), ('the cast', 216, 224), ('the CBS soap opera', 228, 246), ('The Young and the Restless', 247, 273), ('Anita Lawson', 277, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'DT', 'NNPS', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', 'NNPS', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'DT', 'NNP', 'CC', 'DT', 'NNP', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

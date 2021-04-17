@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jim Londos</title>
+<link/>https://en.wikipedia.org/wiki/Jim_Londos
+<annotated>0</annotated>
+<originalabstract>Christos Theofilou (Greek: Χρήστος Θεοφίλου; January 2, 1897 – August 19, 1975), better known as "The Golden Greek" Jim Londos (Greek: Τζίμ Λόντος), was a Greek American professional wrestler.
+Londos  was one of the most popular stars on the professional wrestling circuit in the 1930s and 1940s.</originalabstract>
+<abstract>Christos_Theofilou ( Greek : Χρήστος_Θεοφίλου ; January_2_,_1897 – August_19_,_1975 ) , better_known as " The_Golden_Greek_"_Jim_Londos ( Greek : Τζίμ_Λόντος ) , was a_Greek_American_professional_wrestler . Londos was one of the_most_popular_stars on the_professional_wrestling_circuit in the_1930s_and_1940s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Christos'), (9, 'Theofilou'), (19, '('), (20, 'Greek'), (25, ':'), (27, 'Χρήστος'), (35, 'Θεοφίλου'), (43, ';'), (45, 'January'), (53, '2'), (54, ','), (56, '1897'), (61, '–'), (63, 'August'), (70, '19'), (72, ','), (74, '1975'), (78, ')'), (79, ','), (81, 'better'), (88, 'known'), (94, 'as'), (97, '"'), (98, 'The'), (102, 'Golden'), (109, 'Greek'), (114, '"'), (116, 'Jim'), (120, 'Londos'), (127, '('), (128, 'Greek'), (133, ':'), (135, 'Τζίμ'), (140, 'Λόντος'), (146, ')'), (147, ','), (149, 'was'), (153, 'a'), (155, 'Greek'), (161, 'American'), (170, 'professional'), (183, 'wrestler'), (191, '.'), (193, 'Londos'), (201, 'was'), (205, 'one'), (209, 'of'), (212, 'the'), (216, 'most'), (221, 'popular'), (229, 'stars'), (235, 'on'), (238, 'the'), (242, 'professional'), (255, 'wrestling'), (265, 'circuit'), (273, 'in'), (276, 'the'), (280, '1930s'), (286, 'and'), (290, '1940s'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Christos Theofilou',0, 18), ('Χρήστος Θεοφίλου',27, 43), ('January 2, 1897',45, 60), ('August 19, 1975',63, 78), ('better known',81, 93), ('The Golden Greek" Jim Londos',98, 126), ('Τζίμ Λόντος',135, 146), ('a Greek American professional wrestler',153, 191), ('the most popular stars',212, 234), ('the professional wrestling circuit',238, 272), ('the 1930s and 1940s',276, 295)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'JJ', ':', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', '``', 'DT', 'NNP', 'JJ', '\'\'', 'NNP', 'NNP', '-LRB-', 'JJ', ':', 'NN', 'NN', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', '.', 'NNP', 'VBD', 'CD', 'IN', 'DT', 'RBS', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Christos'), (9, 'Theofilou'), (19, '('), (20, 'Greek'), (25, ':'), (27, 'Χρήστος'), (35, 'Θεοφίλου'), (43, ';'), (45, 'January'), (53, '2'), (54, ','), (56, '1897'), (61, '–'), (63, 'August'), (70, '19'), (72, ','), (74, '1975'), (78, ')'), (79, ','), (81, 'better'), (88, 'known'), (94, 'as'), (97, '"'), (98, 'The'), (102, 'Golden'), (109, 'Greek'), (114, '"'), (116, 'Jim'), (120, 'Londos'), (127, '('), (128, 'Greek'), (133, ':'), (135, 'Τζίμ'), (140, 'Λόντος'), (146, ')'), (147, ','), (149, 'was'), (153, 'a'), (155, 'Greek'), (161, 'American'), (170, 'professional'), (183, 'wrestler'), (191, '.'), (193, 'Londos'), (201, 'was'), (205, 'one'), (209, 'of'), (212, 'the'), (216, 'most'), (221, 'popular'), (229, 'stars'), (235, 'on'), (238, 'the'), (242, 'professional'), (255, 'wrestling'), (265, 'circuit'), (273, 'in'), (276, 'the'), (280, '1930s'), (286, 'and'), (290, '1940s'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Christos Theofilou', 0, 18), ('Χρήστος Θεοφίλου', 27, 43), ('January 2, 1897', 45, 60), ('– August', 61, 69), ('August 19, 1975', 63, 78), ('"The Golden Greek', 97, 114), ('Jim Londos', 116, 126), ('Τζίμ Λόντος', 135, 146), ('a Greek American professional wrestler', 153, 191), ('the most popular stars', 212, 234), ('the professional wrestling circuit', 238, 272), ('the 1930s', 276, 285)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', '``', 'DT', 'NNP', 'NNP', "''", 'NNP', 'NNP', '-LRB-', 'NNP', ':', 'NNP', 'NNP', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', '.', 'NNP', 'VBD', 'CD', 'IN', 'DT', 'RBS', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

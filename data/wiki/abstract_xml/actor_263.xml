@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>James Avery (actor)</title>
+<link/>https://en.wikipedia.org/wiki/James_Avery_(actor)
+<annotated>0</annotated>
+<originalabstract>James LaRue Avery (November 27, 1945 – December 31, 2013) was an American actor and poet. A prolific television actor, he is best remembered for his portrayal of patriarch "Uncle Phil" Banks in the sitcom The Fresh Prince of Bel-Air. His voice acting work was mostly in animated series.</originalabstract>
+<abstract>James_LaRue_Avery ( November_27_,_1945 – December_31_,_2013 ) was an_American_actor_and_poet . A_prolific_television_actor , he is_best_remembered for his_portrayal of patriarch_"_Uncle_Phil_"_Banks in the_sitcom The_Fresh_Prince of Bel-Air . His_voice_acting_work was mostly in animated_series .</abstract>
+<stanford_tokens>OrderedDict([(0, 'James'), (6, 'LaRue'), (12, 'Avery'), (18, '('), (19, 'November'), (28, '27'), (30, ','), (32, '1945'), (37, '–'), (39, 'December'), (48, '31'), (50, ','), (52, '2013'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'actor'), (80, 'and'), (84, 'poet'), (88, '.'), (90, 'A'), (92, 'prolific'), (101, 'television'), (112, 'actor'), (117, ','), (119, 'he'), (122, 'is'), (125, 'best'), (130, 'remembered'), (141, 'for'), (145, 'his'), (149, 'portrayal'), (159, 'of'), (162, 'patriarch'), (172, '"'), (173, 'Uncle'), (179, 'Phil'), (183, '"'), (185, 'Banks'), (191, 'in'), (194, 'the'), (198, 'sitcom'), (205, 'The'), (209, 'Fresh'), (215, 'Prince'), (222, 'of'), (225, 'Bel-Air'), (232, '.'), (234, 'His'), (238, 'voice'), (244, 'acting'), (251, 'work'), (256, 'was'), (260, 'mostly'), (267, 'in'), (270, 'animated'), (279, 'series'), (285, '.')])</stanford_tokens>
+<opennlp_chunks>[('James LaRue Avery',0, 17), ('November 27, 1945',19, 36), ('December 31, 2013',39, 56), ('an American actor and poet',62, 88), ('A prolific television actor',90, 117), ('is best remembered',122, 140), ('his portrayal',145, 158), ('patriarch "Uncle Phil" Banks',162, 190), ('the sitcom',194, 204), ('The Fresh Prince',205, 221), ('His voice acting work',234, 255), ('animated series',270, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'DT', 'JJ', 'NN', 'NN', ',', 'PRP', 'VBZ', 'JJS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', '``', 'NNP', 'NNP', '\'\'', 'NNS', 'IN', 'DT', 'NN', 'DT', 'JJ', 'NN', 'IN', 'NNP', '.', 'PRP$', 'NN', 'VBG', 'NN', 'VBD', 'RB', 'IN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'James'), (6, 'LaRue'), (12, 'Avery'), (18, '('), (19, 'November'), (28, '27'), (30, ','), (32, '1945'), (37, '–'), (39, 'December'), (48, '31'), (50, ','), (52, '2013'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'actor'), (80, 'and'), (84, 'poet'), (88, '.'), (90, 'A'), (92, 'prolific'), (101, 'television'), (112, 'actor'), (117, ','), (119, 'he'), (122, 'is'), (125, 'best'), (130, 'remembered'), (141, 'for'), (145, 'his'), (149, 'portrayal'), (159, 'of'), (162, 'patriarch'), (172, '"'), (173, 'Uncle'), (179, 'Phil'), (183, '"'), (185, 'Banks'), (191, 'in'), (194, 'the'), (198, 'sitcom'), (205, 'The'), (209, 'Fresh'), (215, 'Prince'), (222, 'of'), (225, 'Bel'), (228, '-'), (229, 'Air'), (232, '.'), (234, 'His'), (238, 'voice'), (244, 'acting'), (251, 'work'), (256, 'was'), (260, 'mostly'), (267, 'in'), (270, 'animated'), (279, 'series'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('James LaRue Avery', 0, 17), ('November 27, 1945', 19, 36), ('December 31, 2013', 39, 56), ('an American actor', 62, 79), ('his portrayal', 145, 158), ('patriarch "Uncle Phil" Banks', 162, 190), ('the sitcom', 194, 204), ('The Fresh Prince of Bel-Air', 205, 232), ('His voice acting work', 234, 255), ('animated series', 270, 285)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'DT', 'JJ', 'NN', 'NN', ',', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NN', '``', 'NNP', 'NNP', "''", 'NNS', 'IN', 'DT', 'NN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'HYPH', 'NNP', '.', 'PRP$', 'NN', 'VBG', 'NN', 'VBD', 'RB', 'IN', 'VBN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

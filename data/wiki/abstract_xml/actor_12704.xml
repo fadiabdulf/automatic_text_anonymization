@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Volga Hayworth</title>
+<link/>https://en.wikipedia.org/wiki/Volga_Hayworth
+<annotated>0</annotated>
+<originalabstract>Volga Margaret Hayworth (August 8, 1897 – January 25, 1945) was an American dancer and vaudevillian under the name Volga Hayworth. A popular showgirl on Broadway, she was the mother of actress Rita Hayworth, who used her mother's maiden name as her professional surname.</originalabstract>
+<abstract>Volga_Margaret_Hayworth ( August_8_,_1897 – January_25_,_1945 ) was an_American_dancer_and_vaudevillian under the_name_Volga_Hayworth . A_popular_showgirl on Broadway , she was the_mother of actress_Rita_Hayworth , who used her_mother 's_maiden_name as her_professional_surname .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Volga'), (6, 'Margaret'), (15, 'Hayworth'), (24, '('), (25, 'August'), (32, '8'), (33, ','), (35, '1897'), (40, '–'), (42, 'January'), (50, '25'), (52, ','), (54, '1945'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'dancer'), (83, 'and'), (87, 'vaudevillian'), (100, 'under'), (106, 'the'), (110, 'name'), (115, 'Volga'), (121, 'Hayworth'), (129, '.'), (131, 'A'), (133, 'popular'), (141, 'showgirl'), (150, 'on'), (153, 'Broadway'), (161, ','), (163, 'she'), (167, 'was'), (171, 'the'), (175, 'mother'), (182, 'of'), (185, 'actress'), (193, 'Rita'), (198, 'Hayworth'), (206, ','), (208, 'who'), (212, 'used'), (217, 'her'), (221, 'mother'), (227, '\'s'), (230, 'maiden'), (237, 'name'), (242, 'as'), (245, 'her'), (249, 'professional'), (262, 'surname'), (269, '.')])</stanford_tokens>
+<opennlp_chunks>[('Volga Margaret Hayworth',0, 23), ('August 8, 1897',25, 39), ('January 25, 1945',42, 58), ('an American dancer and vaudevillian',64, 99), ('the name Volga Hayworth',106, 129), ('A popular showgirl',131, 149), ('the mother',171, 181), ('actress Rita Hayworth',185, 206), ('her mother',217, 227), ('\'s maiden name',227, 241), ('her professional surname',245, 269)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'DT', 'JJ', 'NN', 'IN', 'NNP', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', ',', 'WP', 'VBD', 'PRP$', 'NN', 'POS', 'JJ', 'NN', 'IN', 'PRP$', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Volga'), (6, 'Margaret'), (15, 'Hayworth'), (24, '('), (25, 'August'), (32, '8'), (33, ','), (35, '1897'), (40, '–'), (42, 'January'), (50, '25'), (52, ','), (54, '1945'), (58, ')'), (60, 'was'), (64, 'an'), (67, 'American'), (76, 'dancer'), (83, 'and'), (87, 'vaudevillian'), (100, 'under'), (106, 'the'), (110, 'name'), (115, 'Volga'), (121, 'Hayworth'), (129, '.'), (131, 'A'), (133, 'popular'), (141, 'showgirl'), (150, 'on'), (153, 'Broadway'), (161, ','), (163, 'she'), (167, 'was'), (171, 'the'), (175, 'mother'), (182, 'of'), (185, 'actress'), (193, 'Rita'), (198, 'Hayworth'), (206, ','), (208, 'who'), (212, 'used'), (217, 'her'), (221, 'mother'), (227, "'s"), (230, 'maiden'), (237, 'name'), (242, 'as'), (245, 'her'), (249, 'professional'), (262, 'surname'), (269, '.')])</spacy_tokens>
+<spacy_chunks>[('Volga Margaret Hayworth', 0, 23), ('(August', 24, 31), ('August 8, 1897', 25, 39), ('January 25, 1945', 42, 58), ('an American dancer', 64, 82), ('vaudevillian', 87, 99), ('the name', 106, 114), ('Volga Hayworth', 115, 129), ('Broadway', 153, 161), ('the mother', 171, 181), ('actress Rita Hayworth', 185, 206), ("her mother's maiden name", 217, 241), ('her professional surname', 245, 269)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '.', 'DT', 'JJ', 'NN', 'IN', 'NNP', ',', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'NNP', 'NNP', ',', 'WP', 'VBD', 'PRP$', 'NN', 'POS', 'JJ', 'NN', 'IN', 'PRP$', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charles Lampkin</title>
+<link/>https://en.wikipedia.org/wiki/Charles_Lampkin
+<annotated>0</annotated>
+<originalabstract>Charles Lampkin (1913–1989) was an American actor, musician and lecturer.</originalabstract>
+<abstract>Charles_Lampkin ( 1913 – 1989 ) was an_American_actor , musician_and_lecturer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'Lampkin'), (16, '('), (17, '1913'), (21, '–'), (22, '1989'), (26, ')'), (28, 'was'), (32, 'an'), (35, 'American'), (44, 'actor'), (49, ','), (51, 'musician'), (60, 'and'), (64, 'lecturer'), (72, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles Lampkin',0, 15), ('an American actor',32, 49), ('musician and lecturer',51, 72)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'Lampkin'), (16, '('), (17, '1913–1989'), (26, ')'), (28, 'was'), (32, 'an'), (35, 'American'), (44, 'actor'), (49, ','), (51, 'musician'), (60, 'and'), (64, 'lecturer'), (72, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles Lampkin', 0, 15), ('an American actor', 32, 49), ('musician', 51, 59), ('lecturer', 64, 72)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

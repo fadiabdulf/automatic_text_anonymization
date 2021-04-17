@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jenny Funnell</title>
+<link/>https://en.wikipedia.org/wiki/Jenny_Funnell
+<annotated>0</annotated>
+<originalabstract>Jenny Victoria Funnell (born 20 May 1963) is a British actress best known for her role as Sandy in the British sitcom As Time Goes By (1992–2005).</originalabstract>
+<abstract>Jenny_Victoria_Funnell ( born_20_May_1963 ) is a_British_actress best_known for her_role as Sandy in the_British_sitcom As Time Goes By ( 1992 – 2005 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jenny'), (6, 'Victoria'), (15, 'Funnell'), (23, '('), (24, 'born'), (29, '20'), (32, 'May'), (36, '1963'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'British'), (55, 'actress'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'her'), (82, 'role'), (87, 'as'), (90, 'Sandy'), (96, 'in'), (99, 'the'), (103, 'British'), (111, 'sitcom'), (118, 'As'), (121, 'Time'), (126, 'Goes'), (131, 'By'), (134, '('), (135, '1992'), (139, '–'), (140, '2005'), (144, ')'), (145, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jenny Victoria Funnell',0, 22), ('born 20 May 1963',24, 40), ('a British actress',45, 62), ('best known',63, 73), ('her role',78, 86), ('the British sitcom',99, 117)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'VBZ', 'IN', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jenny'), (6, 'Victoria'), (15, 'Funnell'), (23, '('), (24, 'born'), (29, '20'), (32, 'May'), (36, '1963'), (40, ')'), (42, 'is'), (45, 'a'), (47, 'British'), (55, 'actress'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'her'), (82, 'role'), (87, 'as'), (90, 'Sandy'), (96, 'in'), (99, 'the'), (103, 'British'), (111, 'sitcom'), (118, 'As'), (121, 'Time'), (126, 'Goes'), (131, 'By'), (134, '('), (135, '1992–2005'), (144, ')'), (145, '.')])</spacy_tokens>
+<spacy_chunks>[('Jenny Victoria Funnell', 0, 22), ('20 May 1963', 29, 40), ('a British actress', 45, 62), ('her role', 78, 86), ('the British sitcom', 99, 117), ('As Time Goes By', 118, 133)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'VBZ', 'IN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

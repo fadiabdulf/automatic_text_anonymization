@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gloria Fonda</title>
+<link/>https://en.wikipedia.org/wiki/Gloria_Fonda
+<annotated>0</annotated>
+<originalabstract>Gloria Fonda (1896 - January 20, 1978) was a U.S. actress of the silent film era. She was from St. Paul, Minnesota.</originalabstract>
+<abstract>Gloria_Fonda ( 1896 - January_20_,_1978 ) was a_U.S._actress of the_silent_film_era . She was from St._Paul , Minnesota .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gloria'), (7, 'Fonda'), (13, '('), (14, '1896'), (19, '-'), (21, 'January'), (29, '20'), (31, ','), (33, '1978'), (37, ')'), (39, 'was'), (43, 'a'), (45, 'U.S.'), (50, 'actress'), (58, 'of'), (61, 'the'), (65, 'silent'), (72, 'film'), (77, 'era'), (80, '.'), (82, 'She'), (86, 'was'), (90, 'from'), (95, 'St.'), (99, 'Paul'), (103, ','), (105, 'Minnesota'), (114, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gloria Fonda',0, 12), ('January 20, 1978',21, 37), ('a U.S. actress',43, 57), ('the silent film era',61, 80), ('St. Paul',95, 103)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gloria'), (7, 'Fonda'), (13, '('), (14, '1896'), (19, '-'), (21, 'January'), (29, '20'), (31, ','), (33, '1978'), (37, ')'), (39, 'was'), (43, 'a'), (45, 'U.S.'), (50, 'actress'), (58, 'of'), (61, 'the'), (65, 'silent'), (72, 'film'), (77, 'era'), (80, '.'), (82, 'She'), (86, 'was'), (90, 'from'), (95, 'St.'), (99, 'Paul'), (103, ','), (105, 'Minnesota'), (114, '.')])</spacy_tokens>
+<spacy_chunks>[('Gloria Fonda', 0, 12), ('(1896 - January', 13, 28), ('January 20, 1978', 21, 37), ('a U.S. actress', 43, 57), ('the silent film era', 61, 80), ('St. Paul, Minnesota', 95, 114)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

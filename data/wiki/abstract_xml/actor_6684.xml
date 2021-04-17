@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Shaun Toub</title>
+<link/>https://en.wikipedia.org/wiki/Shaun_Toub
+<annotated>0</annotated>
+<originalabstract>Shaun Toub (Persian: شان طوب‎, born April 6, 1963) is an Iranian American actor. He is perhaps best known for his roles as Yinsen in 2008's Iron Man, Farhad in the 2004 movie Crash, Rahim Khan in the movie The Kite Runner, and Majid Javadi in the Showtime TV series Homeland.</originalabstract>
+<abstract>Shaun_Toub ( Persian : شان_طوب , born April_6_,_1963 ) is an_Iranian_American_actor . He is_perhaps_best_known for his_roles as Yinsen in 2008 's_Iron_Man , Farhad in the_2004_movie_Crash , Rahim_Khan in the_movie The_Kite_Runner , and Majid_Javadi in the_Showtime_TV_series_Homeland .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Shaun'), (6, 'Toub'), (11, '('), (12, 'Persian'), (19, ':'), (21, 'شان'), (25, 'طوب'), (29, ','), (31, 'born'), (36, 'April'), (42, '6'), (43, ','), (45, '1963'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'Iranian'), (65, 'American'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'is'), (87, 'perhaps'), (95, 'best'), (100, 'known'), (106, 'for'), (110, 'his'), (114, 'roles'), (120, 'as'), (123, 'Yinsen'), (130, 'in'), (133, '2008'), (137, '\'s'), (140, 'Iron'), (145, 'Man'), (148, ','), (150, 'Farhad'), (157, 'in'), (160, 'the'), (164, '2004'), (169, 'movie'), (175, 'Crash'), (180, ','), (182, 'Rahim'), (188, 'Khan'), (193, 'in'), (196, 'the'), (200, 'movie'), (206, 'The'), (210, 'Kite'), (215, 'Runner'), (221, ','), (223, 'and'), (227, 'Majid'), (233, 'Javadi'), (240, 'in'), (243, 'the'), (247, 'Showtime'), (256, 'TV'), (259, 'series'), (266, 'Homeland'), (274, '.')])</stanford_tokens>
+<opennlp_chunks>[('Shaun Toub',0, 10), ('شان طوب',21, 28), ('April 6, 1963',36, 49), ('an Iranian American actor',54, 79), ('is perhaps best known',84, 105), ('his roles',110, 119), ('\'s Iron Man',137, 148), ('the 2004 movie Crash',160, 180), ('Rahim Khan',182, 192), ('the movie',196, 205), ('The Kite Runner',206, 221), ('Majid Javadi',227, 239), ('the Showtime TV series Homeland',243, 274)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', 'CD', 'CD', ',', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'CD', 'POS', 'NN', 'NN', ',', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'DT', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Shaun'), (6, 'Toub'), (11, '('), (12, 'Persian'), (19, ':'), (21, 'شان'), (25, 'طوب\u200e'), (29, ','), (31, 'born'), (36, 'April'), (42, '6'), (43, ','), (45, '1963'), (49, ')'), (51, 'is'), (54, 'an'), (57, 'Iranian'), (65, 'American'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'is'), (87, 'perhaps'), (95, 'best'), (100, 'known'), (106, 'for'), (110, 'his'), (114, 'roles'), (120, 'as'), (123, 'Yinsen'), (130, 'in'), (133, '2008'), (137, "'s"), (140, 'Iron'), (145, 'Man'), (148, ','), (150, 'Farhad'), (157, 'in'), (160, 'the'), (164, '2004'), (169, 'movie'), (175, 'Crash'), (180, ','), (182, 'Rahim'), (188, 'Khan'), (193, 'in'), (196, 'the'), (200, 'movie'), (206, 'The'), (210, 'Kite'), (215, 'Runner'), (221, ','), (223, 'and'), (227, 'Majid'), (233, 'Javadi'), (240, 'in'), (243, 'the'), (247, 'Showtime'), (256, 'TV'), (259, 'series'), (266, 'Homeland'), (274, '.')])</spacy_tokens>
+<spacy_chunks>[('Shaun Toub', 0, 10), ('Persian', 12, 19), ('April 6, 1963', 36, 49), ('an Iranian American actor', 54, 79), ('his roles', 110, 119), ('Yinsen', 123, 129), ("2008's Iron Man", 133, 148), ('Farhad', 150, 156), ('the 2004 movie Crash', 160, 180), ('the movie', 196, 205), ('The Kite Runner', 206, 221), ('Majid Javadi', 227, 239), ('the Showtime TV series', 243, 265), ('Homeland', 266, 274)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', ':', 'NN', 'NNP', ',', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'CD', 'POS', 'NNP', 'NNP', ',', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'DT', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

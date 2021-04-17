@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Herbert Norville</title>
+<link/>https://en.wikipedia.org/wiki/Herbert_Norville
+<annotated>0</annotated>
+<originalabstract>Herbert Norville (born 1967) is an English actor known for his appearances in many British films in the 70s and 80s such as Scum (1979), Pressure (1976), Meantime (1983), Full Metal Jacket (1987) and Bugsy Malone (1976).</originalabstract>
+<abstract>Herbert_Norville ( born 1967 ) is an_English_actor known for his_appearances in many_British_films in the_70s_and_80s such_as Scum ( 1979 ) , Pressure ( 1976 ) , Meantime ( 1983 ) ,_Full_Metal_Jacket ( 1987 ) and Bugsy_Malone ( 1976 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Herbert'), (8, 'Norville'), (17, '('), (18, 'born'), (23, '1967'), (27, ')'), (29, 'is'), (32, 'an'), (35, 'English'), (43, 'actor'), (49, 'known'), (55, 'for'), (59, 'his'), (63, 'appearances'), (75, 'in'), (78, 'many'), (83, 'British'), (91, 'films'), (97, 'in'), (100, 'the'), (104, '70s'), (108, 'and'), (112, '80s'), (116, 'such'), (121, 'as'), (124, 'Scum'), (129, '('), (130, '1979'), (134, ')'), (135, ','), (137, 'Pressure'), (146, '('), (147, '1976'), (151, ')'), (152, ','), (154, 'Meantime'), (163, '('), (164, '1983'), (168, ')'), (169, ','), (171, 'Full'), (176, 'Metal'), (182, 'Jacket'), (189, '('), (190, '1987'), (194, ')'), (196, 'and'), (200, 'Bugsy'), (206, 'Malone'), (213, '('), (214, '1976'), (218, ')'), (219, '.')])</stanford_tokens>
+<opennlp_chunks>[('Herbert Norville',0, 16), ('an English actor',32, 48), ('his appearances',59, 74), ('many British films',78, 96), ('the 70s and 80s',100, 115), ('such as',116, 123), (', Full Metal Jacket',169, 188), ('Bugsy Malone',200, 212)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'DT', 'CD', 'CC', 'CD', 'JJ', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'RB', '-LRB-', 'CD', '-RRB-', ',', 'JJ', 'NN', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Herbert'), (8, 'Norville'), (17, '('), (18, 'born'), (23, '1967'), (27, ')'), (29, 'is'), (32, 'an'), (35, 'English'), (43, 'actor'), (49, 'known'), (55, 'for'), (59, 'his'), (63, 'appearances'), (75, 'in'), (78, 'many'), (83, 'British'), (91, 'films'), (97, 'in'), (100, 'the'), (104, '70s'), (108, 'and'), (112, '80s'), (116, 'such'), (121, 'as'), (124, 'Scum'), (129, '('), (130, '1979'), (134, ')'), (135, ','), (137, 'Pressure'), (146, '('), (147, '1976'), (151, ')'), (152, ','), (154, 'Meantime'), (163, '('), (164, '1983'), (168, ')'), (169, ','), (171, 'Full'), (176, 'Metal'), (182, 'Jacket'), (189, '('), (190, '1987'), (194, ')'), (196, 'and'), (200, 'Bugsy'), (206, 'Malone'), (213, '('), (214, '1976'), (218, ')'), (219, '.')])</spacy_tokens>
+<spacy_chunks>[('Herbert Norville', 0, 16), ('an English actor', 32, 48), ('his appearances', 59, 74), ('many British films', 78, 96), ('the 70s', 100, 107), ('Pressure (1976', 137, 151), ('Meantime', 154, 162), ('Full Metal Jacket', 171, 188), ('Bugsy Malone', 200, 212)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'JJ', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', 'JJ', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

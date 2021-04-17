@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Bruce Yarnell</title>
+<link/>https://en.wikipedia.org/wiki/Bruce_Yarnell
+<annotated>0</annotated>
+<originalabstract>Bruce Yarnell (December 28, 1935 – November 30, 1973) was an American actor who co-starred in the second, final season (1961–1962) of NBC's two-season Western television series Outlaws, set in the lawless Oklahoma Territory. He was also a noted Broadway and opera baritone.</originalabstract>
+<abstract>Bruce_Yarnell ( December_28_,_1935 – November_30_,_1973 ) was an_American_actor who co-starred in the_second_,_final_season ( 1961 – 1962 ) of NBC 's_two-season_Western_television_series_Outlaws , set in the_lawless_Oklahoma_Territory . He was also a_noted_Broadway_and_opera_baritone .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Bruce'), (6, 'Yarnell'), (14, '('), (15, 'December'), (24, '28'), (26, ','), (28, '1935'), (33, '–'), (35, 'November'), (44, '30'), (46, ','), (48, '1973'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'actor'), (76, 'who'), (80, 'co-starred'), (91, 'in'), (94, 'the'), (98, 'second'), (104, ','), (106, 'final'), (112, 'season'), (119, '('), (120, '1961'), (124, '–'), (125, '1962'), (129, ')'), (131, 'of'), (134, 'NBC'), (137, '\'s'), (140, 'two-season'), (151, 'Western'), (159, 'television'), (170, 'series'), (177, 'Outlaws'), (184, ','), (186, 'set'), (190, 'in'), (193, 'the'), (197, 'lawless'), (205, 'Oklahoma'), (214, 'Territory'), (223, '.'), (225, 'He'), (228, 'was'), (232, 'also'), (237, 'a'), (239, 'noted'), (245, 'Broadway'), (254, 'and'), (258, 'opera'), (264, 'baritone'), (272, '.')])</stanford_tokens>
+<opennlp_chunks>[('Bruce Yarnell',0, 13), ('December 28, 1935',15, 32), ('November 30, 1973',35, 52), ('an American actor',58, 75), ('the second, final season',94, 118), ('\'s two-season Western television series Outlaws',137, 184), ('the lawless Oklahoma Territory',193, 223), ('a noted Broadway and opera baritone',237, 272)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'DT', 'JJ', ',', 'JJ', 'NN', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'IN', 'NNP', 'POS', 'JJ', 'JJ', 'NN', 'NN', 'NNP', ',', 'VBN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'DT', 'VBN', 'NNP', 'CC', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Bruce'), (6, 'Yarnell'), (14, '('), (15, 'December'), (24, '28'), (26, ','), (28, '1935'), (33, '–'), (35, 'November'), (44, '30'), (46, ','), (48, '1973'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'actor'), (76, 'who'), (80, 'co'), (82, '-'), (83, 'starred'), (91, 'in'), (94, 'the'), (98, 'second'), (104, ','), (106, 'final'), (112, 'season'), (119, '('), (120, '1961–1962'), (129, ')'), (131, 'of'), (134, 'NBC'), (137, "'s"), (140, 'two'), (143, '-'), (144, 'season'), (151, 'Western'), (159, 'television'), (170, 'series'), (177, 'Outlaws'), (184, ','), (186, 'set'), (190, 'in'), (193, 'the'), (197, 'lawless'), (205, 'Oklahoma'), (214, 'Territory'), (223, '.'), (225, 'He'), (228, 'was'), (232, 'also'), (237, 'a'), (239, 'noted'), (245, 'Broadway'), (254, 'and'), (258, 'opera'), (264, 'baritone'), (272, '.')])</spacy_tokens>
+<spacy_chunks>[('Bruce Yarnell', 0, 13), ('(December', 14, 23), ('December 28, 1935', 15, 32), ('November 30, 1973', 35, 52), ('an American actor', 58, 75), ("NBC's two-season Western television series", 134, 176), ('Outlaws', 177, 184), ('the lawless Oklahoma Territory', 193, 223), ('a noted Broadway', 237, 253), ('opera baritone', 258, 272)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'VBN', 'IN', 'DT', 'JJ', ',', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', 'IN', 'NNP', 'POS', 'CD', 'HYPH', 'NN', 'JJ', 'NN', 'NN', 'NNP', ',', 'VBN', 'IN', 'DT', 'JJ', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'DT', 'VBN', 'NNP', 'CC', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

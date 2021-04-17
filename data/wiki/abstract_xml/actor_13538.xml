@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cecilia Loftus</title>
+<link/>https://en.wikipedia.org/wiki/Cecilia_Loftus
+<annotated>0</annotated>
+<originalabstract>Cecilia Loftus (born Marie Cecilia Loftus Brown, 22 October 1876 – 12 July 1943) was a Scottish actress, singer, mimic, vaudevillian, and music hall performer in the late 19th and early 20th centuries.</originalabstract>
+<abstract>Cecilia_Loftus ( born Marie_Cecilia_Loftus_Brown , 22_October_1876 – 12_July_1943 ) was a_Scottish_actress , singer , mimic , vaudevillian , and music_hall_performer in the_late_19th_and_early_20th_centuries .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cecilia'), (8, 'Loftus'), (15, '('), (16, 'born'), (21, 'Marie'), (27, 'Cecilia'), (35, 'Loftus'), (42, 'Brown'), (47, ','), (49, '22'), (52, 'October'), (60, '1876'), (65, '–'), (67, '12'), (70, 'July'), (75, '1943'), (79, ')'), (81, 'was'), (85, 'a'), (87, 'Scottish'), (96, 'actress'), (103, ','), (105, 'singer'), (111, ','), (113, 'mimic'), (118, ','), (120, 'vaudevillian'), (132, ','), (134, 'and'), (138, 'music'), (144, 'hall'), (149, 'performer'), (159, 'in'), (162, 'the'), (166, 'late'), (171, '19th'), (176, 'and'), (180, 'early'), (186, '20th'), (191, 'centuries'), (200, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cecilia Loftus',0, 14), ('Marie Cecilia Loftus Brown',21, 47), ('22 October 1876',49, 64), ('12 July 1943',67, 79), ('a Scottish actress',85, 103), ('music hall performer',138, 158), ('the late 19th and early 20th centuries',162, 200)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'VBP', ',', 'JJ', ',', 'CC', 'NN', 'NN', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'CC', 'JJ', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cecilia'), (8, 'Loftus'), (15, '('), (16, 'born'), (21, 'Marie'), (27, 'Cecilia'), (35, 'Loftus'), (42, 'Brown'), (47, ','), (49, '22'), (52, 'October'), (60, '1876'), (65, '–'), (67, '12'), (70, 'July'), (75, '1943'), (79, ')'), (81, 'was'), (85, 'a'), (87, 'Scottish'), (96, 'actress'), (103, ','), (105, 'singer'), (111, ','), (113, 'mimic'), (118, ','), (120, 'vaudevillian'), (132, ','), (134, 'and'), (138, 'music'), (144, 'hall'), (149, 'performer'), (159, 'in'), (162, 'the'), (166, 'late'), (171, '19th'), (176, 'and'), (180, 'early'), (186, '20th'), (191, 'centuries'), (200, '.')])</spacy_tokens>
+<spacy_chunks>[('Cecilia Loftus', 0, 14), ('(born Marie Cecilia Loftus Brown', 15, 47), ('22 October 1876', 49, 64), ('12 July 1943', 67, 79), ('a Scottish actress', 85, 103), ('singer', 105, 111), ('vaudevillian', 120, 132), ('music hall performer', 138, 158), ('early 20th centuries', 180, 200)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'JJ', ',', 'NN', ',', 'CC', 'NN', 'NN', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'CC', 'JJ', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

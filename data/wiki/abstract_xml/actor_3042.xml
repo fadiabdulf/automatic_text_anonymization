@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peter Hermann (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Peter_Hermann_(actor)
+<annotated>0</annotated>
+<originalabstract>Peter Hermann (born August 15, 1967)-is an American actor, producer and writer. He is married to actress Mariska Hargitay, with whom he has three children.</originalabstract>
+<abstract>Peter_Hermann ( born August_15_,_1967 ) - is an_American_actor_,_producer_and_writer . He is_married to actress_Mariska_Hargitay , with whom he has three_children .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peter'), (6, 'Hermann'), (14, '('), (15, 'born'), (20, 'August'), (27, '15'), (29, ','), (31, '1967'), (35, ')'), (36, '-'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actor'), (57, ','), (59, 'producer'), (68, 'and'), (72, 'writer'), (78, '.'), (80, 'He'), (83, 'is'), (86, 'married'), (94, 'to'), (97, 'actress'), (105, 'Mariska'), (113, 'Hargitay'), (121, ','), (123, 'with'), (128, 'whom'), (133, 'he'), (136, 'has'), (140, 'three'), (146, 'children'), (154, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peter Hermann',0, 13), ('August 15, 1967',20, 35), ('an American actor, producer and writer',40, 78), ('is married',83, 93), ('actress Mariska Hargitay',97, 121), ('three children',140, 154)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', ':', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'TO', 'NN', 'NNP', 'NNP', ',', 'IN', 'WP', 'PRP', 'VBZ', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peter'), (6, 'Hermann'), (14, '('), (15, 'born'), (20, 'August'), (27, '15'), (29, ','), (31, '1967)-is'), (40, 'an'), (43, 'American'), (52, 'actor'), (57, ','), (59, 'producer'), (68, 'and'), (72, 'writer'), (78, '.'), (80, 'He'), (83, 'is'), (86, 'married'), (94, 'to'), (97, 'actress'), (105, 'Mariska'), (113, 'Hargitay'), (121, ','), (123, 'with'), (128, 'whom'), (133, 'he'), (136, 'has'), (140, 'three'), (146, 'children'), (154, '.')])</spacy_tokens>
+<spacy_chunks>[('Peter Hermann', 0, 13), ('August 15, 1967', 20, 35), ('an American actor', 40, 57), ('producer', 59, 67), ('writer', 72, 78), ('actress Mariska Hargitay', 97, 121)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'JJ', 'IN', 'NN', 'NNP', 'NNP', ',', 'IN', 'WP', 'PRP', 'VBZ', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

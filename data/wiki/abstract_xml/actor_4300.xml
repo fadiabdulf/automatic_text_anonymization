@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Monte Markham</title>
+<link/>https://en.wikipedia.org/wiki/Monte_Markham
+<annotated>0</annotated>
+<originalabstract>Monte Markham (born June 21, 1935) is an American actor. He has appeared in films, television series and on Broadway.</originalabstract>
+<abstract>Monte_Markham ( born June_21_,_1935 ) is an_American_actor . He has_appeared in films , television_series and on Broadway .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Monte'), (6, 'Markham'), (14, '('), (15, 'born'), (20, 'June'), (25, '21'), (27, ','), (29, '1935'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actor'), (55, '.'), (57, 'He'), (60, 'has'), (64, 'appeared'), (73, 'in'), (76, 'films'), (81, ','), (83, 'television'), (94, 'series'), (101, 'and'), (105, 'on'), (108, 'Broadway'), (116, '.')])</stanford_tokens>
+<opennlp_chunks>[('Monte Markham',0, 13), ('June 21, 1935',20, 33), ('an American actor',38, 55), ('has appeared',60, 72), ('television series',83, 100)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', ',', 'NN', 'NN', 'CC', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Monte'), (6, 'Markham'), (14, '('), (15, 'born'), (20, 'June'), (25, '21'), (27, ','), (29, '1935'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actor'), (55, '.'), (57, 'He'), (60, 'has'), (64, 'appeared'), (73, 'in'), (76, 'films'), (81, ','), (83, 'television'), (94, 'series'), (101, 'and'), (105, 'on'), (108, 'Broadway'), (116, '.')])</spacy_tokens>
+<spacy_chunks>[('Monte Markham', 0, 13), ('June 21, 1935', 20, 33), ('an American actor', 38, 55), ('television series', 83, 100), ('Broadway', 108, 116)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', ',', 'NN', 'NN', 'CC', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

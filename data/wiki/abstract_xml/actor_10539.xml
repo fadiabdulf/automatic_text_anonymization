@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ann Baker</title>
+<link/>https://en.wikipedia.org/wiki/Ann_Baker
+<annotated>0</annotated>
+<originalabstract>Becky Ann Baker (née Gelke; born February 17, 1953) is an American actress who is known for her portrayal of Jean Weir on NBC's Emmy Award-winning Freaks and Geeks and for her role as Loreen Horvath on HBO's Emmy Award-winning Girls, for which she received a Primetime Emmy nomination.</originalabstract>
+<abstract>Becky_Ann_Baker ( née_Gelke ; born February_17_,_1953 ) is an_American_actress who is_known for her_portrayal of Jean_Weir on NBC 's_Emmy_Award-winning_Freaks_and_Geeks and for her_role as Loreen_Horvath on HBO 's_Emmy_Award-winning_Girls , for which she received a_Primetime_Emmy_nomination .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Becky'), (6, 'Ann'), (10, 'Baker'), (16, '('), (17, 'née'), (21, 'Gelke'), (26, ';'), (28, 'born'), (33, 'February'), (42, '17'), (44, ','), (46, '1953'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'American'), (67, 'actress'), (75, 'who'), (79, 'is'), (82, 'known'), (88, 'for'), (92, 'her'), (96, 'portrayal'), (106, 'of'), (109, 'Jean'), (114, 'Weir'), (119, 'on'), (122, 'NBC'), (125, '\'s'), (128, 'Emmy'), (133, 'Award-winning'), (147, 'Freaks'), (154, 'and'), (158, 'Geeks'), (164, 'and'), (168, 'for'), (172, 'her'), (176, 'role'), (181, 'as'), (184, 'Loreen'), (191, 'Horvath'), (199, 'on'), (202, 'HBO'), (205, '\'s'), (208, 'Emmy'), (213, 'Award-winning'), (227, 'Girls'), (232, ','), (234, 'for'), (238, 'which'), (244, 'she'), (248, 'received'), (257, 'a'), (259, 'Primetime'), (269, 'Emmy'), (274, 'nomination'), (284, '.')])</stanford_tokens>
+<opennlp_chunks>[('Becky Ann Baker',0, 15), ('née Gelke',17, 26), ('February 17, 1953',33, 50), ('an American actress',55, 74), ('is known',79, 87), ('her portrayal',92, 105), ('Jean Weir',109, 118), ('\'s Emmy Award-winning Freaks and Geeks',125, 163), ('her role',172, 180), ('Loreen Horvath',184, 198), ('\'s Emmy Award-winning Girls',205, 232), ('a Primetime Emmy nomination',257, 284)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'JJ', 'NN', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'JJ', 'NNPS', 'CC', 'NNPS', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'JJ', 'NNS', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Becky'), (6, 'Ann'), (10, 'Baker'), (16, '('), (17, 'née'), (21, 'Gelke'), (26, ';'), (28, 'born'), (33, 'February'), (42, '17'), (44, ','), (46, '1953'), (50, ')'), (52, 'is'), (55, 'an'), (58, 'American'), (67, 'actress'), (75, 'who'), (79, 'is'), (82, 'known'), (88, 'for'), (92, 'her'), (96, 'portrayal'), (106, 'of'), (109, 'Jean'), (114, 'Weir'), (119, 'on'), (122, 'NBC'), (125, "'s"), (128, 'Emmy'), (133, 'Award'), (138, '-'), (139, 'winning'), (147, 'Freaks'), (154, 'and'), (158, 'Geeks'), (164, 'and'), (168, 'for'), (172, 'her'), (176, 'role'), (181, 'as'), (184, 'Loreen'), (191, 'Horvath'), (199, 'on'), (202, 'HBO'), (205, "'s"), (208, 'Emmy'), (213, 'Award'), (218, '-'), (219, 'winning'), (227, 'Girls'), (232, ','), (234, 'for'), (238, 'which'), (244, 'she'), (248, 'received'), (257, 'a'), (259, 'Primetime'), (269, 'Emmy'), (274, 'nomination'), (284, '.')])</spacy_tokens>
+<spacy_chunks>[('Becky Ann Baker', 0, 15), ('(née Gelke', 16, 26), ('February 17, 1953', 33, 50), ('an American actress', 55, 74), ('her portrayal', 92, 105), ('Jean Weir', 109, 118), ("NBC's Emmy Award-winning Freaks", 122, 153), ('her role', 172, 180), ('Loreen Horvath', 184, 198), ("HBO's Emmy Award-winning Girls", 202, 232), ('a Primetime Emmy nomination', 257, 284)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NNP', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'NNP', 'HYPH', 'VBG', 'NNPS', 'CC', 'NNPS', 'CC', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', 'POS', 'NNP', 'NNP', 'HYPH', 'VBG', 'NNS', ',', 'IN', 'WDT', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

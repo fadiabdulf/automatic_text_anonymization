@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marla Maples</title>
+<link/>https://en.wikipedia.org/wiki/Marla_Maples
+<annotated>0</annotated>
+<originalabstract>Marla Ann Maples (born October 27, 1963)  is an American actress and television personality. Maples was the second wife of Donald Trump, later the 45th president of the United States. They married in 1993 and divorced in 1999.</originalabstract>
+<abstract>Marla_Ann_Maples ( born October_27_,_1963 ) is an_American_actress_and_television_personality . Maples was the_second_wife of Donald_Trump , later the_45th_president of the_United_States . They married in 1993 and divorced in 1999 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marla'), (6, 'Ann'), (10, 'Maples'), (17, '('), (18, 'born'), (23, 'October'), (31, '27'), (33, ','), (35, '1963'), (39, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'television'), (80, 'personality'), (91, '.'), (93, 'Maples'), (100, 'was'), (104, 'the'), (108, 'second'), (115, 'wife'), (120, 'of'), (123, 'Donald'), (130, 'Trump'), (135, ','), (137, 'later'), (143, 'the'), (147, '45th'), (152, 'president'), (162, 'of'), (165, 'the'), (169, 'United'), (176, 'States'), (182, '.'), (184, 'They'), (189, 'married'), (197, 'in'), (200, '1993'), (205, 'and'), (209, 'divorced'), (218, 'in'), (221, '1999'), (225, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marla Ann Maples',0, 16), ('October 27, 1963',23, 39), ('an American actress and television personality',45, 91), ('the second wife',104, 119), ('Donald Trump',123, 135), ('the 45th president',143, 161), ('the United States',165, 182)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'RB', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNPS', '.', 'PRP', 'VBD', 'IN', 'CD', 'CC', 'VBN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marla'), (6, 'Ann'), (10, 'Maples'), (17, '('), (18, 'born'), (23, 'October'), (31, '27'), (33, ','), (35, '1963'), (39, ')'), (42, 'is'), (45, 'an'), (48, 'American'), (57, 'actress'), (65, 'and'), (69, 'television'), (80, 'personality'), (91, '.'), (93, 'Maples'), (100, 'was'), (104, 'the'), (108, 'second'), (115, 'wife'), (120, 'of'), (123, 'Donald'), (130, 'Trump'), (135, ','), (137, 'later'), (143, 'the'), (147, '45th'), (152, 'president'), (162, 'of'), (165, 'the'), (169, 'United'), (176, 'States'), (182, '.'), (184, 'They'), (189, 'married'), (197, 'in'), (200, '1993'), (205, 'and'), (209, 'divorced'), (218, 'in'), (221, '1999'), (225, '.')])</spacy_tokens>
+<spacy_chunks>[('Marla Ann Maples', 0, 16), ('October 27, 1963', 23, 39), ('an American actress', 45, 64), ('television personality', 69, 91), ('the second wife', 104, 119), ('Donald Trump', 123, 135), ('later the 45th president', 137, 161), ('the United States', 165, 182)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'NNS', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', ',', 'RB', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'CC', 'VBN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lily Saxby</title>
+<link/>https://en.wikipedia.org/wiki/Lily_Saxby
+<annotated>0</annotated>
+<originalabstract>Lily Saxby was a British stage and film actress.She was born in Poplar, London and died in Willesden, London at age 59.</originalabstract>
+<abstract>Lily_Saxby was a_British_stage_and_film_actress.She was_born in Poplar , London and died in Willesden , London at age_59 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lily'), (5, 'Saxby'), (11, 'was'), (15, 'a'), (17, 'British'), (25, 'stage'), (31, 'and'), (35, 'film'), (40, 'actress.She'), (52, 'was'), (56, 'born'), (61, 'in'), (64, 'Poplar'), (70, ','), (72, 'London'), (79, 'and'), (83, 'died'), (88, 'in'), (91, 'Willesden'), (100, ','), (102, 'London'), (109, 'at'), (112, 'age'), (116, '59'), (118, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lily Saxby',0, 10), ('a British stage and film actress.She',15, 51), ('was born',52, 60), ('age 59',112, 118)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'NN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lily'), (5, 'Saxby'), (11, 'was'), (15, 'a'), (17, 'British'), (25, 'stage'), (31, 'and'), (35, 'film'), (40, 'actress'), (47, '.'), (48, 'She'), (52, 'was'), (56, 'born'), (61, 'in'), (64, 'Poplar'), (70, ','), (72, 'London'), (79, 'and'), (83, 'died'), (88, 'in'), (91, 'Willesden'), (100, ','), (102, 'London'), (109, 'at'), (112, 'age'), (116, '59'), (118, '.')])</spacy_tokens>
+<spacy_chunks>[('Lily Saxby', 0, 10), ('a British stage and film actress', 15, 47), ('Poplar, London', 64, 78), ('Willesden', 91, 100)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', 'IN', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

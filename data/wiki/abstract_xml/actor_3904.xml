@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Duke R. Lee</title>
+<link/>https://en.wikipedia.org/wiki/Duke_R._Lee
+<annotated>0</annotated>
+<originalabstract>Duke R. Lee (May 13, 1881 – April 1, 1959) was an American actor. He appeared in 99 films between 1913 and 1946. He was born in Virginia and died in Los Angeles, California.</originalabstract>
+<abstract>Duke_R._Lee ( May_13_,_1881 – April_1_,_1959 ) was an_American_actor . He appeared in 99_films between 1913_and_1946 . He was_born in Virginia and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Duke'), (5, 'R.'), (8, 'Lee'), (12, '('), (13, 'May'), (17, '13'), (19, ','), (21, '1881'), (26, '–'), (28, 'April'), (34, '1'), (35, ','), (37, '1959'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'American'), (59, 'actor'), (64, '.'), (66, 'He'), (69, 'appeared'), (78, 'in'), (81, '99'), (84, 'films'), (90, 'between'), (98, '1913'), (103, 'and'), (107, '1946'), (111, '.'), (113, 'He'), (116, 'was'), (120, 'born'), (125, 'in'), (128, 'Virginia'), (137, 'and'), (141, 'died'), (146, 'in'), (149, 'Los'), (153, 'Angeles'), (160, ','), (162, 'California'), (172, '.')])</stanford_tokens>
+<opennlp_chunks>[('Duke R. Lee',0, 11), ('May 13, 1881',13, 25), ('April 1, 1959',28, 41), ('an American actor',47, 64), ('99 films',81, 89), ('1913 and 1946',98, 111), ('was born',116, 124), ('Los Angeles',149, 160)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Duke'), (5, 'R.'), (8, 'Lee'), (12, '('), (13, 'May'), (17, '13'), (19, ','), (21, '1881'), (26, '–'), (28, 'April'), (34, '1'), (35, ','), (37, '1959'), (41, ')'), (43, 'was'), (47, 'an'), (50, 'American'), (59, 'actor'), (64, '.'), (66, 'He'), (69, 'appeared'), (78, 'in'), (81, '99'), (84, 'films'), (90, 'between'), (98, '1913'), (103, 'and'), (107, '1946'), (111, '.'), (113, 'He'), (116, 'was'), (120, 'born'), (125, 'in'), (128, 'Virginia'), (137, 'and'), (141, 'died'), (146, 'in'), (149, 'Los'), (153, 'Angeles'), (160, ','), (162, 'California'), (172, '.')])</spacy_tokens>
+<spacy_chunks>[('Duke R. Lee', 0, 11), ('May 13, 1881', 13, 25), ('April 1, 1959', 28, 41), ('an American actor', 47, 64), ('99 films', 81, 89), ('Virginia', 128, 136), ('Los Angeles, California', 149, 172)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

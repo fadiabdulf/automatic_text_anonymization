@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Chris-Pin Martin</title>
+<link/>https://en.wikipedia.org/wiki/Chris-Pin_Martin
+<annotated>0</annotated>
+<originalabstract>Chris-Pin Martin (born Ysabel Ponciana Chris-Pin Martin Paiz, November 19, 1893 – June 27, 1953) was an American character actor whose specialty lay in portraying comical Mexicans, particularly sidekicks in The Cisco Kid film series. He acted in over 100 films between 1925 and 1953, including over 50 westerns.</originalabstract>
+<abstract>Chris-Pin_Martin ( born Ysabel_Ponciana_Chris-Pin_Martin_Paiz , November_19_,_1893 – June_27_,_1953 ) was an_American_character_actor whose_specialty lay in portraying comical_Mexicans , particularly sidekicks in The_Cisco_Kid_film_series . He acted in over_100_films between 1925_and_1953 , including over_50_westerns .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Chris-Pin'), (10, 'Martin'), (17, '('), (18, 'born'), (23, 'Ysabel'), (30, 'Ponciana'), (39, 'Chris-Pin'), (49, 'Martin'), (56, 'Paiz'), (60, ','), (62, 'November'), (71, '19'), (73, ','), (75, '1893'), (80, '–'), (82, 'June'), (87, '27'), (89, ','), (91, '1953'), (95, ')'), (97, 'was'), (101, 'an'), (104, 'American'), (113, 'character'), (123, 'actor'), (129, 'whose'), (135, 'specialty'), (145, 'lay'), (149, 'in'), (152, 'portraying'), (163, 'comical'), (171, 'Mexicans'), (179, ','), (181, 'particularly'), (194, 'sidekicks'), (204, 'in'), (207, 'The'), (211, 'Cisco'), (217, 'Kid'), (221, 'film'), (226, 'series'), (232, '.'), (234, 'He'), (237, 'acted'), (243, 'in'), (246, 'over'), (251, '100'), (255, 'films'), (261, 'between'), (269, '1925'), (274, 'and'), (278, '1953'), (282, ','), (284, 'including'), (294, 'over'), (299, '50'), (302, 'westerns'), (310, '.')])</stanford_tokens>
+<opennlp_chunks>[('Chris-Pin Martin',0, 16), ('Ysabel Ponciana Chris-Pin Martin Paiz',23, 60), ('November 19, 1893',62, 79), ('June 27, 1953',82, 95), ('an American character actor',101, 128), ('whose specialty',129, 144), ('comical Mexicans',163, 179), ('The Cisco Kid film series',207, 232), ('over 100 films',246, 260), ('1925 and 1953',269, 282), ('over 50 westerns',294, 310)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'IN', 'VBG', 'JJ', 'NNPS', ',', 'RB', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Chris'), (5, '-'), (6, 'Pin'), (10, 'Martin'), (17, '('), (18, 'born'), (23, 'Ysabel'), (30, 'Ponciana'), (39, 'Chris'), (44, '-'), (45, 'Pin'), (49, 'Martin'), (56, 'Paiz'), (60, ','), (62, 'November'), (71, '19'), (73, ','), (75, '1893'), (80, '–'), (82, 'June'), (87, '27'), (89, ','), (91, '1953'), (95, ')'), (97, 'was'), (101, 'an'), (104, 'American'), (113, 'character'), (123, 'actor'), (129, 'whose'), (135, 'specialty'), (145, 'lay'), (149, 'in'), (152, 'portraying'), (163, 'comical'), (171, 'Mexicans'), (179, ','), (181, 'particularly'), (194, 'sidekicks'), (204, 'in'), (207, 'The'), (211, 'Cisco'), (217, 'Kid'), (221, 'film'), (226, 'series'), (232, '.'), (234, 'He'), (237, 'acted'), (243, 'in'), (246, 'over'), (251, '100'), (255, 'films'), (261, 'between'), (269, '1925'), (274, 'and'), (278, '1953'), (282, ','), (284, 'including'), (294, 'over'), (299, '50'), (302, 'westerns'), (310, '.')])</spacy_tokens>
+<spacy_chunks>[('Chris-Pin Martin', 0, 16), ('(born Ysabel Ponciana Chris-Pin Martin Paiz', 17, 60), ('November 19, 1893', 62, 79), ('June 27, 1953', 82, 95), ('an American character actor', 101, 128), ('whose specialty', 129, 144), ('comical Mexicans', 163, 179), ('particularly sidekicks', 181, 203), ('The Cisco Kid film series', 207, 232), ('over 100 films', 246, 260), ('over 50 westerns', 294, 310)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'HYPH', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'IN', 'VBG', 'JJ', 'NNPS', ',', 'RB', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', ',', 'VBG', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nicola Stephenson</title>
+<link/>https://en.wikipedia.org/wiki/Nicola_Stephenson
+<annotated>0</annotated>
+<originalabstract>Nicola Stephenson (born 5 July 1971) is an English actress. She played the roles of Margaret Clemence in Brookside, Julie Fitzjohn in Holby City, Sarah Williams in The Chase and Tess Harris in Emmerdale.</originalabstract>
+<abstract>Nicola_Stephenson ( born_5_July_1971 ) is an_English_actress . She played the_roles of Margaret_Clemence in Brookside , Julie_Fitzjohn in Holby_City , Sarah_Williams in The_Chase_and_Tess_Harris in Emmerdale .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nicola'), (7, 'Stephenson'), (18, '('), (19, 'born'), (24, '5'), (26, 'July'), (31, '1971'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'played'), (71, 'the'), (75, 'roles'), (81, 'of'), (84, 'Margaret'), (93, 'Clemence'), (102, 'in'), (105, 'Brookside'), (114, ','), (116, 'Julie'), (122, 'Fitzjohn'), (131, 'in'), (134, 'Holby'), (140, 'City'), (144, ','), (146, 'Sarah'), (152, 'Williams'), (161, 'in'), (164, 'The'), (168, 'Chase'), (174, 'and'), (178, 'Tess'), (183, 'Harris'), (190, 'in'), (193, 'Emmerdale'), (202, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nicola Stephenson',0, 17), ('born 5 July 1971',19, 35), ('an English actress',40, 58), ('the roles',71, 80), ('Margaret Clemence',84, 101), ('Julie Fitzjohn',116, 130), ('Holby City',134, 144), ('Sarah Williams',146, 160), ('The Chase and Tess Harris',164, 189)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nicola'), (7, 'Stephenson'), (18, '('), (19, 'born'), (24, '5'), (26, 'July'), (31, '1971'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'English'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'played'), (71, 'the'), (75, 'roles'), (81, 'of'), (84, 'Margaret'), (93, 'Clemence'), (102, 'in'), (105, 'Brookside'), (114, ','), (116, 'Julie'), (122, 'Fitzjohn'), (131, 'in'), (134, 'Holby'), (140, 'City'), (144, ','), (146, 'Sarah'), (152, 'Williams'), (161, 'in'), (164, 'The'), (168, 'Chase'), (174, 'and'), (178, 'Tess'), (183, 'Harris'), (190, 'in'), (193, 'Emmerdale'), (202, '.')])</spacy_tokens>
+<spacy_chunks>[('Nicola Stephenson', 0, 17), ('5 July 1971', 24, 35), ('an English actress', 40, 58), ('the roles', 71, 80), ('Margaret Clemence', 84, 101), ('Brookside', 105, 114), ('Julie Fitzjohn', 116, 130), ('Holby City', 134, 144), ('Sarah Williams', 146, 160), ('The Chase', 164, 173), ('Tess Harris', 178, 189), ('Emmerdale', 193, 202)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

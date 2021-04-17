@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kiki Haynes</title>
+<link/>https://en.wikipedia.org/wiki/Kiki_Haynes
+<annotated>0</annotated>
+<originalabstract>Kianya Haynes (born December 17, 1976) is an American actress who is best known for role as Keisha on the OWN/TBS comedy-drama television series Tyler Perry's For Better or Worse. She has also had roles in the films Bamboozled (2000), Nora's Hair Salon (2004) and Restraining Order (2006).</originalabstract>
+<abstract>Kianya_Haynes ( born December_17_,_1976 ) is an_American_actress who is_best_known for role as Keisha on the_OWN/TBS_comedy-drama_television_series_Tyler_Perry 's_For Better_or_Worse . She has_also_had roles in the_films_Bamboozled_(_2000_) , Nora 's_Hair_Salon_(_2004_) and Restraining_Order ( 2006_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kianya'), (7, 'Haynes'), (14, '('), (15, 'born'), (20, 'December'), (29, '17'), (31, ','), (33, '1976'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (62, 'who'), (66, 'is'), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'role'), (89, 'as'), (92, 'Keisha'), (99, 'on'), (102, 'the'), (106, 'OWN/TBS'), (114, 'comedy-drama'), (127, 'television'), (138, 'series'), (145, 'Tyler'), (151, 'Perry'), (156, '\'s'), (159, 'For'), (163, 'Better'), (170, 'or'), (173, 'Worse'), (178, '.'), (180, 'She'), (184, 'has'), (188, 'also'), (193, 'had'), (197, 'roles'), (203, 'in'), (206, 'the'), (210, 'films'), (216, 'Bamboozled'), (227, '('), (228, '2000'), (232, ')'), (233, ','), (235, 'Nora'), (239, '\'s'), (242, 'Hair'), (247, 'Salon'), (253, '('), (254, '2004'), (258, ')'), (260, 'and'), (264, 'Restraining'), (276, 'Order'), (282, '('), (283, '2006'), (287, ')'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kianya Haynes',0, 13), ('December 17, 1976',20, 37), ('an American actress',42, 61), ('is best known',66, 79), ('the OWN/TBS comedy-drama television series Tyler Perry',102, 156), ('\'s For',156, 162), ('Better or Worse',163, 178), ('has also had',184, 196), ('the films Bamboozled (2000)',206, 233), ('\'s Hair Salon (2004)',239, 259), ('Restraining Order',264, 281), ('2006)',283, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'POS', 'IN', 'RBR', 'CC', 'RBR', '.', 'PRP', 'VBZ', 'RB', 'VBD', 'NNS', 'IN', 'DT', 'NNS', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'POS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kianya'), (7, 'Haynes'), (14, '('), (15, 'born'), (20, 'December'), (29, '17'), (31, ','), (33, '1976'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (62, 'who'), (66, 'is'), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'role'), (89, 'as'), (92, 'Keisha'), (99, 'on'), (102, 'the'), (106, 'OWN'), (109, '/'), (110, 'TBS'), (114, 'comedy'), (120, '-'), (121, 'drama'), (127, 'television'), (138, 'series'), (145, 'Tyler'), (151, 'Perry'), (156, "'s"), (159, 'For'), (163, 'Better'), (170, 'or'), (173, 'Worse'), (178, '.'), (180, 'She'), (184, 'has'), (188, 'also'), (193, 'had'), (197, 'roles'), (203, 'in'), (206, 'the'), (210, 'films'), (216, 'Bamboozled'), (227, '('), (228, '2000'), (232, ')'), (233, ','), (235, 'Nora'), (239, "'s"), (242, 'Hair'), (247, 'Salon'), (253, '('), (254, '2004'), (258, ')'), (260, 'and'), (264, 'Restraining'), (276, 'Order'), (282, '('), (283, '2006'), (287, ')'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Kianya Haynes', 0, 13), ('December 17, 1976', 20, 37), ('an American actress', 42, 61), ('Keisha', 92, 98), ('the OWN/TBS comedy-drama television series', 102, 144), ("Tyler Perry's For Better or Worse", 145, 178), ('the films', 206, 215), ('Bamboozled', 216, 226), ("Nora's Hair Salon", 235, 252), ('Restraining Order', 264, 281)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBZ', 'RBS', 'VBN', 'IN', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'SYM', 'NNP', 'NN', 'HYPH', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'POS', 'IN', 'JJR', 'CC', 'JJR', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'NNS', 'IN', 'DT', 'NNS', 'VBN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'POS', 'NN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'VBG', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

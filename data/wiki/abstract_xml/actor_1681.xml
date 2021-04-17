@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kenneth Davenport</title>
+<link/>https://en.wikipedia.org/wiki/Kenneth_Davenport
+<annotated>0</annotated>
+<originalabstract>Kenneth Davenport (February 20, 1879 – November 10, 1941), was an American film actor and screenwriter. He appeared in 9 films in  1915 and wrote two novels.
+He was born in Missouri and died in Los Angeles, California.</originalabstract>
+<abstract>Kenneth_Davenport ( February_20 , 1879 – November_10_,_1941 ) , was an_American_film_actor_and_screenwriter . He appeared in 9_films in 1915 and wrote two_novels . He was_born in Missouri and died in Los_Angeles , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kenneth'), (8, 'Davenport'), (18, '('), (19, 'February'), (28, '20'), (30, ','), (32, '1879'), (37, '–'), (39, 'November'), (48, '10'), (50, ','), (52, '1941'), (56, ')'), (57, ','), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'film'), (80, 'actor'), (86, 'and'), (90, 'screenwriter'), (102, '.'), (104, 'He'), (107, 'appeared'), (116, 'in'), (119, '9'), (121, 'films'), (127, 'in'), (131, '1915'), (136, 'and'), (140, 'wrote'), (146, 'two'), (150, 'novels'), (156, '.'), (158, 'He'), (161, 'was'), (165, 'born'), (170, 'in'), (173, 'Missouri'), (182, 'and'), (186, 'died'), (191, 'in'), (194, 'Los'), (198, 'Angeles'), (205, ','), (207, 'California'), (217, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kenneth Davenport',0, 17), ('February 20',19, 30), ('November 10, 1941',39, 56), ('an American film actor and screenwriter',63, 102), ('9 films',119, 126), ('two novels',146, 156), ('was born',161, 169), ('Los Angeles',194, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNS', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'VBD', 'CD', 'NNS', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kenneth'), (8, 'Davenport'), (18, '('), (19, 'February'), (28, '20'), (30, ','), (32, '1879'), (37, '–'), (39, 'November'), (48, '10'), (50, ','), (52, '1941'), (56, ')'), (57, ','), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'film'), (80, 'actor'), (86, 'and'), (90, 'screenwriter'), (102, '.'), (104, 'He'), (107, 'appeared'), (116, 'in'), (119, '9'), (121, 'films'), (127, 'in'), (131, '1915'), (136, 'and'), (140, 'wrote'), (146, 'two'), (150, 'novels'), (156, '.'), (158, 'He'), (161, 'was'), (165, 'born'), (170, 'in'), (173, 'Missouri'), (182, 'and'), (186, 'died'), (191, 'in'), (194, 'Los'), (198, 'Angeles'), (205, ','), (207, 'California'), (217, '.')])</spacy_tokens>
+<spacy_chunks>[('Kenneth Davenport', 0, 17), ('February 20, 1879', 19, 36), ('November 10, 1941', 39, 56), ('an American film actor', 63, 85), ('screenwriter', 90, 102), ('9 films', 119, 126), ('two novels', 146, 156), ('Missouri', 173, 181), ('Los Angeles, California', 194, 217)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'VBD', 'CD', 'NNS', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

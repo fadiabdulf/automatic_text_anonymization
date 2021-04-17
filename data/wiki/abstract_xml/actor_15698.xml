@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Liz Vassey</title>
+<link/>https://en.wikipedia.org/wiki/Liz_Vassey
+<annotated>0</annotated>
+<originalabstract>Elizabeth Vassey (born August 9, 1972) is an American actress. She is best known for her roles as Emily Ann Sago on All My Children, Captain Liberty in The Tick, Wendy Simms in CSI: Crime Scene Investigation and Nikki Beaumont in the web series Nikki  Nora.</originalabstract>
+<abstract>Elizabeth_Vassey ( born August_9_,_1972 ) is an_American_actress . She is_best_known for her_roles as Emily_Ann_Sago on All_My_Children , Captain_Liberty in The_Tick , Wendy_Simms in CSI : Crime_Scene_Investigation and Nikki_Beaumont in the_web_series_Nikki_ .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Vassey'), (17, '('), (18, 'born'), (23, 'August'), (30, '9'), (31, ','), (33, '1972'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'is'), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'her'), (89, 'roles'), (95, 'as'), (98, 'Emily'), (104, 'Ann'), (108, 'Sago'), (113, 'on'), (116, 'All'), (120, 'My'), (123, 'Children'), (131, ','), (133, 'Captain'), (141, 'Liberty'), (149, 'in'), (152, 'The'), (156, 'Tick'), (160, ','), (162, 'Wendy'), (168, 'Simms'), (174, 'in'), (177, 'CSI'), (180, ':'), (182, 'Crime'), (188, 'Scene'), (194, 'Investigation'), (208, 'and'), (212, 'Nikki'), (218, 'Beaumont'), (227, 'in'), (230, 'the'), (234, 'web'), (238, 'series'), (245, 'Nikki'), (251, ''), (253, 'Nora'), (257, '.')])</stanford_tokens>
+<opennlp_chunks>[('Elizabeth Vassey',0, 16), ('August 9, 1972',23, 37), ('an American actress',42, 61), ('is best known',67, 80), ('her roles',85, 94), ('Emily Ann Sago',98, 112), ('All My Children',116, 131), ('Captain Liberty',133, 148), ('The Tick',152, 160), ('Wendy Simms',162, 173), ('Crime Scene Investigation',182, 207), ('Nikki Beaumont',212, 226), ('the web series Nikki  Nora',230, 257)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'PRP$', 'NNS', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ':', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Elizabeth'), (10, 'Vassey'), (17, '('), (18, 'born'), (23, 'August'), (30, '9'), (31, ','), (33, '1972'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'actress'), (61, '.'), (63, 'She'), (67, 'is'), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'her'), (89, 'roles'), (95, 'as'), (98, 'Emily'), (104, 'Ann'), (108, 'Sago'), (113, 'on'), (116, 'All'), (120, 'My'), (123, 'Children'), (131, ','), (133, 'Captain'), (141, 'Liberty'), (149, 'in'), (152, 'The'), (156, 'Tick'), (160, ','), (162, 'Wendy'), (168, 'Simms'), (174, 'in'), (177, 'CSI'), (180, ':'), (182, 'Crime'), (188, 'Scene'), (194, 'Investigation'), (208, 'and'), (212, 'Nikki'), (218, 'Beaumont'), (227, 'in'), (230, 'the'), (234, 'web'), (238, 'series'), (245, 'Nikki'), (252, 'Nora'), (256, '.')])</spacy_tokens>
+<spacy_chunks>[('Elizabeth Vassey', 0, 16), ('August 9, 1972', 23, 37), ('an American actress', 42, 61), ('her roles', 85, 94), ('Emily Ann Sago', 98, 112), ('All My Children', 116, 131), ('Captain Liberty', 133, 148), ('The Tick', 152, 160), ('Wendy Simms', 162, 173), ('CSI: Crime Scene Investigation', 177, 207), ('Crime Scene Investigation and Nikki Beaumont', 182, 226), ('the web series', 230, 244)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'PDT', 'PRP$', 'NNP', ',', 'NNP', 'NNP', 'IN', 'DT', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', ':', 'NN', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

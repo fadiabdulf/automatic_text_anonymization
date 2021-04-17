@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Antonino Rocca</title>
+<link/>https://en.wikipedia.org/wiki/Antonino_Rocca
+<annotated>0</annotated>
+<originalabstract>Antonino Rocca (born Antonino Biasetton, 13 April 1921 – 15 March 1977) was an Italian Argentinian professional wrestler. He tag teamed with partner Miguel Pérez. He was posthumously inducted into the WWF Hall of Fame as a member of the class of 1995 and the Wrestling Observer Newsletter Hall of Fame in 1996.</originalabstract>
+<abstract>Antonino_Rocca ( born Antonino_Biasetton , 13_April_1921 – 15_March_1977 ) was an_Italian_Argentinian_professional_wrestler . He tag_teamed with partner_Miguel_Pérez . He was_posthumously_inducted into the_WWF_Hall of Fame as a_member of the_class of 1995 and the_Wrestling_Observer_Newsletter_Hall of Fame in 1996 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Antonino'), (9, 'Rocca'), (15, '('), (16, 'born'), (21, 'Antonino'), (30, 'Biasetton'), (39, ','), (41, '13'), (44, 'April'), (50, '1921'), (55, '–'), (57, '15'), (60, 'March'), (66, '1977'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'Italian'), (87, 'Argentinian'), (99, 'professional'), (112, 'wrestler'), (120, '.'), (122, 'He'), (125, 'tag'), (129, 'teamed'), (136, 'with'), (141, 'partner'), (149, 'Miguel'), (156, 'Pérez'), (161, '.'), (163, 'He'), (166, 'was'), (170, 'posthumously'), (183, 'inducted'), (192, 'into'), (197, 'the'), (201, 'WWF'), (205, 'Hall'), (210, 'of'), (213, 'Fame'), (218, 'as'), (221, 'a'), (223, 'member'), (230, 'of'), (233, 'the'), (237, 'class'), (243, 'of'), (246, '1995'), (251, 'and'), (255, 'the'), (259, 'Wrestling'), (269, 'Observer'), (278, 'Newsletter'), (289, 'Hall'), (294, 'of'), (297, 'Fame'), (302, 'in'), (305, '1996'), (309, '.')])</stanford_tokens>
+<opennlp_chunks>[('Antonino Rocca',0, 14), ('Antonino Biasetton',21, 39), ('13 April 1921',41, 54), ('15 March 1977',57, 70), ('an Italian Argentinian professional wrestler',76, 120), ('tag teamed',125, 135), ('partner Miguel Pérez',141, 161), ('was posthumously inducted',166, 191), ('the WWF Hall',197, 209), ('a member',221, 229), ('the class',233, 242), ('the Wrestling Observer Newsletter Hall',255, 293)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBP', 'VBN', 'IN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', 'CC', 'DT', 'JJ', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Antonino'), (9, 'Rocca'), (15, '('), (16, 'born'), (21, 'Antonino'), (30, 'Biasetton'), (39, ','), (41, '13'), (44, 'April'), (50, '1921'), (55, '–'), (57, '15'), (60, 'March'), (66, '1977'), (70, ')'), (72, 'was'), (76, 'an'), (79, 'Italian'), (87, 'Argentinian'), (99, 'professional'), (112, 'wrestler'), (120, '.'), (122, 'He'), (125, 'tag'), (129, 'teamed'), (136, 'with'), (141, 'partner'), (149, 'Miguel'), (156, 'Pérez'), (161, '.'), (163, 'He'), (166, 'was'), (170, 'posthumously'), (183, 'inducted'), (192, 'into'), (197, 'the'), (201, 'WWF'), (205, 'Hall'), (210, 'of'), (213, 'Fame'), (218, 'as'), (221, 'a'), (223, 'member'), (230, 'of'), (233, 'the'), (237, 'class'), (243, 'of'), (246, '1995'), (251, 'and'), (255, 'the'), (259, 'Wrestling'), (269, 'Observer'), (278, 'Newsletter'), (289, 'Hall'), (294, 'of'), (297, 'Fame'), (302, 'in'), (305, '1996'), (309, '.')])</spacy_tokens>
+<spacy_chunks>[('Antonino Rocca', 0, 14), ('Antonino Biasetton', 21, 39), ('13 April 1921', 41, 54), ('15 March 1977', 57, 70), ('an Italian Argentinian professional wrestler', 76, 120), ('Tag team', 125, 133), ('partner Miguel Pérez', 141, 161), ('the WWF Hall', 197, 209), ('a member', 221, 229), ('the class', 233, 242), ('the Wrestling Observer Newsletter Hall', 255, 293), ('Wrestling Observer Newsletter Hall of Fame', 259, 301)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'IN', 'CD', 'CC', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

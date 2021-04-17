@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tommy Cannon</title>
+<link/>https://en.wikipedia.org/wiki/Tommy_Cannon
+<annotated>0</annotated>
+<originalabstract>Thomas Derbyshire, known professionally as Tommy Cannon (born 27 June 1938), is an English comedian and singer. He is best known as the straight man of comedy double act Cannon and Ball, along with Bobby Ball. He is most well known for the show The Cannon and Ball Show.
+Cannon was chairman of Rochdale Football Club until 1988.</originalabstract>
+<abstract>Thomas_Derbyshire , known professionally as Tommy_Cannon ( born 27_June_1938 ) , is an_English_comedian_and_singer . He is_best_known as the_straight_man of comedy_double_act Cannon_and_Ball , along with Bobby_Ball . He is most_well known for the_show The_Cannon_and_Ball_Show . Cannon was chairman of Rochdale_Football_Club until 1988 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Thomas'), (7, 'Derbyshire'), (17, ','), (19, 'known'), (25, 'professionally'), (40, 'as'), (43, 'Tommy'), (49, 'Cannon'), (56, '('), (57, 'born'), (62, '27'), (65, 'June'), (70, '1938'), (74, ')'), (75, ','), (77, 'is'), (80, 'an'), (83, 'English'), (91, 'comedian'), (100, 'and'), (104, 'singer'), (110, '.'), (112, 'He'), (115, 'is'), (118, 'best'), (123, 'known'), (129, 'as'), (132, 'the'), (136, 'straight'), (145, 'man'), (149, 'of'), (152, 'comedy'), (159, 'double'), (166, 'act'), (170, 'Cannon'), (177, 'and'), (181, 'Ball'), (185, ','), (187, 'along'), (193, 'with'), (198, 'Bobby'), (204, 'Ball'), (208, '.'), (210, 'He'), (213, 'is'), (216, 'most'), (221, 'well'), (226, 'known'), (232, 'for'), (236, 'the'), (240, 'show'), (245, 'The'), (249, 'Cannon'), (256, 'and'), (260, 'Ball'), (265, 'Show'), (269, '.'), (271, 'Cannon'), (278, 'was'), (282, 'chairman'), (291, 'of'), (294, 'Rochdale'), (303, 'Football'), (312, 'Club'), (317, 'until'), (323, '1988'), (327, '.')])</stanford_tokens>
+<opennlp_chunks>[('Thomas Derbyshire',0, 17), ('Tommy Cannon',43, 55), ('27 June 1938',62, 74), ('an English comedian and singer',80, 110), ('is best known',115, 128), ('the straight man',132, 148), ('comedy double act',152, 169), ('Cannon and Ball',170, 185), ('Bobby Ball',198, 208), ('most well',216, 225), ('the show',236, 244), ('The Cannon and Ball Show',245, 269), ('Rochdale Football Club',294, 316)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'JJ', 'NN', 'NNP', 'CC', 'NNP', ',', 'IN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RBS', 'RB', 'VBN', 'IN', 'DT', 'NN', 'DT', 'NNP', 'CC', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Thomas'), (7, 'Derbyshire'), (17, ','), (19, 'known'), (25, 'professionally'), (40, 'as'), (43, 'Tommy'), (49, 'Cannon'), (56, '('), (57, 'born'), (62, '27'), (65, 'June'), (70, '1938'), (74, ')'), (75, ','), (77, 'is'), (80, 'an'), (83, 'English'), (91, 'comedian'), (100, 'and'), (104, 'singer'), (110, '.'), (112, 'He'), (115, 'is'), (118, 'best'), (123, 'known'), (129, 'as'), (132, 'the'), (136, 'straight'), (145, 'man'), (149, 'of'), (152, 'comedy'), (159, 'double'), (166, 'act'), (170, 'Cannon'), (177, 'and'), (181, 'Ball'), (185, ','), (187, 'along'), (193, 'with'), (198, 'Bobby'), (204, 'Ball'), (208, '.'), (210, 'He'), (213, 'is'), (216, 'most'), (221, 'well'), (226, 'known'), (232, 'for'), (236, 'the'), (240, 'show'), (245, 'The'), (249, 'Cannon'), (256, 'and'), (260, 'Ball'), (265, 'Show'), (269, '.'), (271, 'Cannon'), (278, 'was'), (282, 'chairman'), (291, 'of'), (294, 'Rochdale'), (303, 'Football'), (312, 'Club'), (317, 'until'), (323, '1988'), (327, '.')])</spacy_tokens>
+<spacy_chunks>[('Thomas Derbyshire', 0, 17), ('Tommy Cannon', 43, 55), ('27 June 1938', 62, 74), ('an English comedian', 80, 99), ('singer', 104, 110), ('the straight man', 132, 148), ('comedy double act', 152, 169), ('Cannon and Ball', 170, 185), ('Bobby Ball', 198, 208), ('the show', 236, 244), ('The Cannon and Ball Show', 245, 269), ('chairman', 282, 290), ('Rochdale Football Club', 294, 316)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'NN', 'JJ', 'NN', 'NNP', 'CC', 'NNP', ',', 'IN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RBS', 'RB', 'VBN', 'IN', 'DT', 'NN', 'DT', 'NNP', 'CC', 'NNP', 'NNP', '.', 'NNP', 'VBD', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

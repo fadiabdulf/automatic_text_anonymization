@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Brigitte Sy</title>
+<link/>https://en.wikipedia.org/wiki/Brigitte_Sy
+<annotated>0</annotated>
+<originalabstract>Brigitte Sy (born 26 January 1956) is a French actress and filmmaker. Her directorial film debut, Les Mains libres, was released in 2010 to critical acclaim in France.</originalabstract>
+<abstract>Brigitte_Sy ( born 26_January_1956 ) is a_French_actress_and_filmmaker . Her_directorial_film_debut , Les_Mains libres , was_released in 2010 to critical_acclaim in France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Brigitte'), (9, 'Sy'), (12, '('), (13, 'born'), (18, '26'), (21, 'January'), (29, '1956'), (33, ')'), (35, 'is'), (38, 'a'), (40, 'French'), (47, 'actress'), (55, 'and'), (59, 'filmmaker'), (68, '.'), (70, 'Her'), (74, 'directorial'), (86, 'film'), (91, 'debut'), (96, ','), (98, 'Les'), (102, 'Mains'), (108, 'libres'), (114, ','), (116, 'was'), (120, 'released'), (129, 'in'), (132, '2010'), (137, 'to'), (140, 'critical'), (149, 'acclaim'), (157, 'in'), (160, 'France'), (166, '.')])</stanford_tokens>
+<opennlp_chunks>[('Brigitte Sy',0, 11), ('26 January 1956',18, 33), ('a French actress and filmmaker',38, 68), ('Her directorial film debut',70, 96), ('Les Mains',98, 107), ('was released',116, 128), ('critical acclaim',140, 156)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'JJ', 'NN', 'NN', ',', 'NNP', 'NNP', 'VBZ', ',', 'VBD', 'VBN', 'IN', 'CD', 'TO', 'JJ', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Brigitte'), (9, 'Sy'), (12, '('), (13, 'born'), (18, '26'), (21, 'January'), (29, '1956'), (33, ')'), (35, 'is'), (38, 'a'), (40, 'French'), (47, 'actress'), (55, 'and'), (59, 'filmmaker'), (68, '.'), (70, 'Her'), (74, 'directorial'), (86, 'film'), (91, 'debut'), (96, ','), (98, 'Les'), (102, 'Mains'), (108, 'libres'), (114, ','), (116, 'was'), (120, 'released'), (129, 'in'), (132, '2010'), (137, 'to'), (140, 'critical'), (149, 'acclaim'), (157, 'in'), (160, 'France'), (166, '.')])</spacy_tokens>
+<spacy_chunks>[('Brigitte Sy', 0, 11), ('26 January 1956', 18, 33), ('a French actress', 38, 54), ('filmmaker', 59, 68), ('Her directorial film debut', 70, 96), ('Les Mains libres', 98, 114), ('critical acclaim', 140, 156), ('France', 160, 166)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'JJ', 'NN', 'NN', ',', 'NNP', 'NNP', 'NNS', ',', 'VBD', 'VBN', 'IN', 'CD', 'IN', 'JJ', 'NN', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

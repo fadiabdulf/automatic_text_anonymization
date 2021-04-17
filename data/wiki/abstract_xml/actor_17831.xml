@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charlotte Hope</title>
+<link/>https://en.wikipedia.org/wiki/Charlotte_Hope
+<annotated>0</annotated>
+<originalabstract>Charlotte Hope (born 15 October 1991) is an English actress, known for her roles as Myranda in the HBO drama series Game of Thrones and Philippa Hawking in the Stephen Hawking biopic The Theory of Everything (2014).</originalabstract>
+<abstract>Charlotte_Hope ( born_15_October_1991 ) is an_English_actress , known for her_roles as Myranda in the_HBO_drama_series_Game of Thrones and Philippa_Hawking in the_Stephen Hawking biopic_The_Theory of Everything ( 2014 ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charlotte'), (10, 'Hope'), (15, '('), (16, 'born'), (21, '15'), (24, 'October'), (32, '1991'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'English'), (52, 'actress'), (59, ','), (61, 'known'), (67, 'for'), (71, 'her'), (75, 'roles'), (81, 'as'), (84, 'Myranda'), (92, 'in'), (95, 'the'), (99, 'HBO'), (103, 'drama'), (109, 'series'), (116, 'Game'), (121, 'of'), (124, 'Thrones'), (132, 'and'), (136, 'Philippa'), (145, 'Hawking'), (153, 'in'), (156, 'the'), (160, 'Stephen'), (168, 'Hawking'), (176, 'biopic'), (183, 'The'), (187, 'Theory'), (194, 'of'), (197, 'Everything'), (208, '('), (209, '2014'), (213, ')'), (214, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charlotte Hope',0, 14), ('born 15 October 1991',16, 36), ('an English actress',41, 59), ('her roles',71, 80), ('the HBO drama series Game',95, 120), ('Philippa Hawking',136, 152), ('the Stephen',156, 167), ('biopic The Theory',176, 193)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'IN', 'NNPS', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'VBG', 'JJ', 'DT', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charlotte'), (10, 'Hope'), (15, '('), (16, 'born'), (21, '15'), (24, 'October'), (32, '1991'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'English'), (52, 'actress'), (59, ','), (61, 'known'), (67, 'for'), (71, 'her'), (75, 'roles'), (81, 'as'), (84, 'Myranda'), (92, 'in'), (95, 'the'), (99, 'HBO'), (103, 'drama'), (109, 'series'), (116, 'Game'), (121, 'of'), (124, 'Thrones'), (132, 'and'), (136, 'Philippa'), (145, 'Hawking'), (153, 'in'), (156, 'the'), (160, 'Stephen'), (168, 'Hawking'), (176, 'biopic'), (183, 'The'), (187, 'Theory'), (194, 'of'), (197, 'Everything'), (208, '('), (209, '2014'), (213, ')'), (214, '.')])</spacy_tokens>
+<spacy_chunks>[('Charlotte Hope', 0, 14), ('15 October 1991', 21, 36), ('an English actress', 41, 59), ('her roles', 71, 80), ('Myranda', 84, 91), ('the HBO drama series Game', 95, 120), ('Game of Thrones', 116, 131), ('Philippa Hawking', 136, 152), ('the Stephen Hawking biopic', 156, 182), ('The Theory of Everything (2014', 183, 213)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'IN', 'NNPS', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'DT', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dylan Walsh</title>
+<link/>https://en.wikipedia.org/wiki/Dylan_Walsh
+<annotated>0</annotated>
+<originalabstract>Dylan Walsh (born Charles Hunter Walsh: November 17, 1963) is an American actor. He is best known for his role as Dr. Sean McNamara in the FX television series Nip/Tuck.</originalabstract>
+<abstract>Dylan_Walsh ( born Charles_Hunter_Walsh : November_17_,_1963 ) is an_American_actor . He is_best_known for his_role as Dr._Sean_McNamara in the_FX_television_series_Nip/Tuck .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dylan'), (6, 'Walsh'), (12, '('), (13, 'born'), (18, 'Charles'), (26, 'Hunter'), (33, 'Walsh'), (38, ':'), (40, 'November'), (49, '17'), (51, ','), (53, '1963'), (57, ')'), (59, 'is'), (62, 'an'), (65, 'American'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'is'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'his'), (106, 'role'), (111, 'as'), (114, 'Dr.'), (118, 'Sean'), (123, 'McNamara'), (132, 'in'), (135, 'the'), (139, 'FX'), (142, 'television'), (153, 'series'), (160, 'Nip/Tuck'), (168, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dylan Walsh',0, 11), ('Charles Hunter Walsh',18, 38), ('November 17, 1963',40, 57), ('an American actor',62, 79), ('is best known',84, 97), ('his role',102, 110), ('Dr. Sean McNamara',114, 131), ('the FX television series Nip/Tuck',135, 168)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dylan'), (6, 'Walsh'), (12, '('), (13, 'born'), (18, 'Charles'), (26, 'Hunter'), (33, 'Walsh'), (38, ':'), (40, 'November'), (49, '17'), (51, ','), (53, '1963'), (57, ')'), (59, 'is'), (62, 'an'), (65, 'American'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'is'), (87, 'best'), (92, 'known'), (98, 'for'), (102, 'his'), (106, 'role'), (111, 'as'), (114, 'Dr.'), (118, 'Sean'), (123, 'McNamara'), (132, 'in'), (135, 'the'), (139, 'FX'), (142, 'television'), (153, 'series'), (160, 'Nip'), (163, '/'), (164, 'Tuck'), (168, '.')])</spacy_tokens>
+<spacy_chunks>[('Dylan Walsh', 0, 11), ('born Charles Hunter Walsh', 13, 38), ('November 17, 1963', 40, 57), ('an American actor', 62, 79), ('his role', 102, 110), ('Dr. Sean McNamara', 114, 131), ('the FX television series', 135, 159), ('Nip/Tuck', 160, 168)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'SYM', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

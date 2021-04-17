@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Magda Foy</title>
+<link/>https://en.wikipedia.org/wiki/Magda_Foy
+<annotated>0</annotated>
+<originalabstract>Magda Foy (1905-2000), also known and often credited as "The Solax Kid", was a child actor in the silent film era who worked for Solax Studio, the largest pre-Hollywood studio in the United States from 1910 to 1913.</originalabstract>
+<abstract>Magda_Foy ( 1905-2000 ) , also known_and_often_credited as " The_Solax_Kid_" , was a_child_actor in the_silent_film_era who worked for Solax_Studio , the_largest_pre-Hollywood_studio in the_United_States from 1910 to 1913 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Magda'), (6, 'Foy'), (10, '('), (11, '1905-2000'), (20, ')'), (21, ','), (23, 'also'), (28, 'known'), (34, 'and'), (38, 'often'), (44, 'credited'), (53, 'as'), (56, '"'), (57, 'The'), (61, 'Solax'), (67, 'Kid'), (70, '"'), (71, ','), (73, 'was'), (77, 'a'), (79, 'child'), (85, 'actor'), (91, 'in'), (94, 'the'), (98, 'silent'), (105, 'film'), (110, 'era'), (114, 'who'), (118, 'worked'), (125, 'for'), (129, 'Solax'), (135, 'Studio'), (141, ','), (143, 'the'), (147, 'largest'), (155, 'pre-Hollywood'), (169, 'studio'), (176, 'in'), (179, 'the'), (183, 'United'), (190, 'States'), (197, 'from'), (202, '1910'), (207, 'to'), (210, '1913'), (214, '.')])</stanford_tokens>
+<opennlp_chunks>[('Magda Foy',0, 9), ('known and often credited',28, 52), ('The Solax Kid"',57, 71), ('a child actor',77, 90), ('the silent film era',94, 113), ('Solax Studio',129, 141), ('the largest pre-Hollywood studio',143, 175), ('the United States',179, 196)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'RB', 'VBN', 'CC', 'RB', 'VBN', 'IN', '``', 'DT', 'NNP', 'NNP', '\'\'', ',', 'VBD', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJS', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'NNPS', 'IN', 'CD', 'TO', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Magda'), (6, 'Foy'), (10, '('), (11, '1905'), (15, '-'), (16, '2000'), (20, ')'), (21, ','), (23, 'also'), (28, 'known'), (34, 'and'), (38, 'often'), (44, 'credited'), (53, 'as'), (56, '"'), (57, 'The'), (61, 'Solax'), (67, 'Kid'), (70, '"'), (71, ','), (73, 'was'), (77, 'a'), (79, 'child'), (85, 'actor'), (91, 'in'), (94, 'the'), (98, 'silent'), (105, 'film'), (110, 'era'), (114, 'who'), (118, 'worked'), (125, 'for'), (129, 'Solax'), (135, 'Studio'), (141, ','), (143, 'the'), (147, 'largest'), (155, 'pre'), (158, '-'), (159, 'Hollywood'), (169, 'studio'), (176, 'in'), (179, 'the'), (183, 'United'), (190, 'States'), (197, 'from'), (202, '1910'), (207, 'to'), (210, '1913'), (214, '.')])</spacy_tokens>
+<spacy_chunks>[('Magda Foy', 0, 9), ('"The Solax Kid', 56, 70), ('a child actor', 77, 90), ('the silent film era', 94, 113), ('Solax Studio', 129, 141), ('the largest pre-Hollywood studio', 143, 175), ('the United States', 179, 196)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', '-RRB-', ',', 'RB', 'VBN', 'CC', 'RB', 'VBN', 'IN', '``', 'NNP', 'NNP', 'NNP', "''", ',', 'VBD', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'DT', 'JJS', 'JJ', 'JJ', 'NNP', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'CD', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

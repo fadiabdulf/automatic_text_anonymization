@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Faith Prince</title>
+<link/>https://en.wikipedia.org/wiki/Faith_Prince
+<annotated>0</annotated>
+<originalabstract>Faith Prince (born August 6, 1957) is an American actress and singer, best known for her work on Broadway in musical theatre. She won the Tony Award as Best Actress in Guys and Dolls in 1992, and received three other Tony nominations.</originalabstract>
+<abstract>Faith_Prince ( born August_6_,_1957 ) is an_American_actress_and_singer , best_known for her_work on Broadway in musical_theatre . She won the_Tony_Award as_Best_Actress in Guys_and_Dolls in 1992 , and received three_other_Tony_nominations .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Faith'), (6, 'Prince'), (13, '('), (14, 'born'), (19, 'August'), (26, '6'), (27, ','), (29, '1957'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (58, 'and'), (62, 'singer'), (68, ','), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'her'), (89, 'work'), (94, 'on'), (97, 'Broadway'), (106, 'in'), (109, 'musical'), (117, 'theatre'), (124, '.'), (126, 'She'), (130, 'won'), (134, 'the'), (138, 'Tony'), (143, 'Award'), (149, 'as'), (152, 'Best'), (157, 'Actress'), (165, 'in'), (168, 'Guys'), (173, 'and'), (177, 'Dolls'), (183, 'in'), (186, '1992'), (190, ','), (192, 'and'), (196, 'received'), (205, 'three'), (211, 'other'), (217, 'Tony'), (222, 'nominations'), (233, '.')])</stanford_tokens>
+<opennlp_chunks>[('Faith Prince',0, 12), ('August 6, 1957',19, 33), ('an American actress and singer',38, 68), ('best known',70, 80), ('her work',85, 93), ('musical theatre',109, 124), ('the Tony Award',134, 148), ('as Best Actress',149, 164), ('Guys and Dolls',168, 182), ('three other Tony nominations',205, 233)]</opennlp_chunks>
+<stanford_pos>['NN', 'NN', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'NN', 'IN', 'NNS', 'CC', 'NNS', 'IN', 'CD', ',', 'CC', 'VBD', 'CD', 'JJ', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Faith'), (6, 'Prince'), (13, '('), (14, 'born'), (19, 'August'), (26, '6'), (27, ','), (29, '1957'), (33, ')'), (35, 'is'), (38, 'an'), (41, 'American'), (50, 'actress'), (58, 'and'), (62, 'singer'), (68, ','), (70, 'best'), (75, 'known'), (81, 'for'), (85, 'her'), (89, 'work'), (94, 'on'), (97, 'Broadway'), (106, 'in'), (109, 'musical'), (117, 'theatre'), (124, '.'), (126, 'She'), (130, 'won'), (134, 'the'), (138, 'Tony'), (143, 'Award'), (149, 'as'), (152, 'Best'), (157, 'Actress'), (165, 'in'), (168, 'Guys'), (173, 'and'), (177, 'Dolls'), (183, 'in'), (186, '1992'), (190, ','), (192, 'and'), (196, 'received'), (205, 'three'), (211, 'other'), (217, 'Tony'), (222, 'nominations'), (233, '.')])</spacy_tokens>
+<spacy_chunks>[('Faith Prince', 0, 12), ('August 6, 1957', 19, 33), ('an American actress', 38, 57), ('singer', 62, 68), ('her work', 85, 93), ('Broadway', 97, 105), ('Musical theatre', 109, 124), ('the Tony Award', 134, 148), ('Best Actress', 152, 164), ('Guys and Dolls', 168, 182), ('three other Tony nominations', 205, 233)]</spacy_chunks>
+<spacy_pos>['NN', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'IN', 'NNPS', 'CC', 'NNPS', 'IN', 'CD', ',', 'CC', 'VBD', 'CD', 'JJ', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

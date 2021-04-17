@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>J. Carrol Naish</title>
+<link/>https://en.wikipedia.org/wiki/J._Carrol_Naish
+<annotated>0</annotated>
+<originalabstract>Joseph Patrick Carroll Naish (January 21, 1896 – January 24, 1973), known professionally as J. Carrol Naish, was an American character actor. He was nominated twice for an Academy Award for film roles, and he later found fame in the title role of CBS Radio's Life with Luigi (1948–1953).</originalabstract>
+<abstract>Joseph_Patrick_Carroll_Naish ( January_21_,_1896 – January_24_,_1973 ) , known professionally as J._Carrol_Naish , was an_American_character_actor . He was_nominated twice for an_Academy_Award for film_roles , and he later found fame in the_title_role of CBS_Radio 's_Life with Luigi_(_1948 – 1953_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joseph'), (7, 'Patrick'), (15, 'Carroll'), (23, 'Naish'), (29, '('), (30, 'January'), (38, '21'), (40, ','), (42, '1896'), (47, '–'), (49, 'January'), (57, '24'), (59, ','), (61, '1973'), (65, ')'), (66, ','), (68, 'known'), (74, 'professionally'), (89, 'as'), (92, 'J.'), (95, 'Carrol'), (102, 'Naish'), (107, ','), (109, 'was'), (113, 'an'), (116, 'American'), (125, 'character'), (135, 'actor'), (140, '.'), (142, 'He'), (145, 'was'), (149, 'nominated'), (159, 'twice'), (165, 'for'), (169, 'an'), (172, 'Academy'), (180, 'Award'), (186, 'for'), (190, 'film'), (195, 'roles'), (200, ','), (202, 'and'), (206, 'he'), (209, 'later'), (215, 'found'), (221, 'fame'), (226, 'in'), (229, 'the'), (233, 'title'), (239, 'role'), (244, 'of'), (247, 'CBS'), (251, 'Radio'), (256, '\'s'), (259, 'Life'), (264, 'with'), (269, 'Luigi'), (275, '('), (276, '1948'), (280, '–'), (281, '1953'), (285, ')'), (286, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joseph Patrick Carroll Naish',0, 28), ('January 21, 1896',30, 46), ('January 24, 1973',49, 65), ('J. Carrol Naish',92, 107), ('an American character actor',113, 140), ('was nominated',145, 158), ('an Academy Award',169, 185), ('film roles',190, 200), ('the title role',229, 243), ('CBS Radio',247, 256), ('\'s Life',256, 263), ('Luigi (1948',269, 280), ('1953)',281, 286)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'JJ', 'RB', 'IN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'RB', 'IN', 'DT', 'NN', 'NN', 'IN', 'NN', 'NNS', ',', 'CC', 'PRP', 'RB', 'VBD', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joseph'), (7, 'Patrick'), (15, 'Carroll'), (23, 'Naish'), (29, '('), (30, 'January'), (38, '21'), (40, ','), (42, '1896'), (47, '–'), (49, 'January'), (57, '24'), (59, ','), (61, '1973'), (65, ')'), (66, ','), (68, 'known'), (74, 'professionally'), (89, 'as'), (92, 'J.'), (95, 'Carrol'), (102, 'Naish'), (107, ','), (109, 'was'), (113, 'an'), (116, 'American'), (125, 'character'), (135, 'actor'), (140, '.'), (142, 'He'), (145, 'was'), (149, 'nominated'), (159, 'twice'), (165, 'for'), (169, 'an'), (172, 'Academy'), (180, 'Award'), (186, 'for'), (190, 'film'), (195, 'roles'), (200, ','), (202, 'and'), (206, 'he'), (209, 'later'), (215, 'found'), (221, 'fame'), (226, 'in'), (229, 'the'), (233, 'title'), (239, 'role'), (244, 'of'), (247, 'CBS'), (251, 'Radio'), (256, "'s"), (259, 'Life'), (264, 'with'), (269, 'Luigi'), (275, '('), (276, '1948–1953'), (285, ')'), (286, '.')])</spacy_tokens>
+<spacy_chunks>[('Joseph Patrick Carroll Naish', 0, 28), ('January 21, 1896', 30, 46), ('January 24, 1973', 49, 65), ('J. Carrol Naish', 92, 107), ('an American character actor', 113, 140), ('an Academy Award', 169, 185), ('film roles', 190, 200), ('the title role', 229, 243), ("CBS Radio's Life", 247, 263), ('Life with Luigi', 259, 274), ('(1948–1953', 275, 285)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'RB', 'IN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'RB', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NN', 'NNS', ',', 'CC', 'PRP', 'RB', 'VBD', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'IN', 'NNP', '-LRB-', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

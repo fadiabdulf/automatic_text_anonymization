@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sue Randall</title>
+<link/>https://en.wikipedia.org/wiki/Sue_Randall
+<annotated>0</annotated>
+<originalabstract>Marion Burnside Randall (October 8, 1935 – October 26, 1984), who acted under the name Sue Randall, was an American actress best known for her role as the kindly Miss Alice Landers, Theodore "Beaver" Cleaver's elementary school teacher in the CBS and ABC sitcom Leave It to Beaver.</originalabstract>
+<abstract>Marion_Burnside_Randall ( October_8_,_1935 – October_26_,_1984 ) , who acted under the_name_Sue_Randall , was an_American_actress best_known for her_role as the_kindly_Miss_Alice_Landers , Theodore_"_Beaver_"_Cleaver 's_elementary_school_teacher in the_CBS_and_ABC_sitcom Leave It to Beaver .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marion'), (7, 'Burnside'), (16, 'Randall'), (24, '('), (25, 'October'), (33, '8'), (34, ','), (36, '1935'), (41, '–'), (43, 'October'), (51, '26'), (53, ','), (55, '1984'), (59, ')'), (60, ','), (62, 'who'), (66, 'acted'), (72, 'under'), (78, 'the'), (82, 'name'), (87, 'Sue'), (91, 'Randall'), (98, ','), (100, 'was'), (104, 'an'), (107, 'American'), (116, 'actress'), (124, 'best'), (129, 'known'), (135, 'for'), (139, 'her'), (143, 'role'), (148, 'as'), (151, 'the'), (155, 'kindly'), (162, 'Miss'), (167, 'Alice'), (173, 'Landers'), (180, ','), (182, 'Theodore'), (191, '"'), (192, 'Beaver'), (198, '"'), (200, 'Cleaver'), (207, '\'s'), (210, 'elementary'), (221, 'school'), (228, 'teacher'), (236, 'in'), (239, 'the'), (243, 'CBS'), (247, 'and'), (251, 'ABC'), (255, 'sitcom'), (262, 'Leave'), (268, 'It'), (271, 'to'), (274, 'Beaver'), (280, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marion Burnside Randall',0, 23), ('October 8, 1935',25, 40), ('October 26, 1984',43, 59), ('the name Sue Randall',78, 98), ('an American actress',104, 123), ('best known',124, 134), ('her role',139, 147), ('the kindly Miss Alice Landers',151, 180), ('Theodore "Beaver" Cleaver',182, 207), ('\'s elementary school teacher',207, 235), ('the CBS and ABC sitcom',239, 261)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'WP', 'VBD', 'IN', 'DT', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'RB', 'NNP', 'NNP', 'NNP', ',', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'POS', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NN', 'VB', 'PRP', 'TO', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marion'), (7, 'Burnside'), (16, 'Randall'), (24, '('), (25, 'October'), (33, '8'), (34, ','), (36, '1935'), (41, '–'), (43, 'October'), (51, '26'), (53, ','), (55, '1984'), (59, ')'), (60, ','), (62, 'who'), (66, 'acted'), (72, 'under'), (78, 'the'), (82, 'name'), (87, 'Sue'), (91, 'Randall'), (98, ','), (100, 'was'), (104, 'an'), (107, 'American'), (116, 'actress'), (124, 'best'), (129, 'known'), (135, 'for'), (139, 'her'), (143, 'role'), (148, 'as'), (151, 'the'), (155, 'kindly'), (162, 'Miss'), (167, 'Alice'), (173, 'Landers'), (180, ','), (182, 'Theodore'), (191, '"'), (192, 'Beaver'), (198, '"'), (200, 'Cleaver'), (207, "'s"), (210, 'elementary'), (221, 'school'), (228, 'teacher'), (236, 'in'), (239, 'the'), (243, 'CBS'), (247, 'and'), (251, 'ABC'), (255, 'sitcom'), (262, 'Leave'), (268, 'It'), (271, 'to'), (274, 'Beaver'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('Marion Burnside Randall', 0, 23), ('(October', 24, 32), ('October 8, 1935', 25, 40), ('October 26, 1984', 43, 59), ('the name', 78, 86), ('Sue Randall', 87, 98), ('an American actress', 104, 123), ('her role', 139, 147), ('the kindly Miss Alice Landers', 151, 180), ('Theodore "Beaver" Cleaver\'s elementary school teacher', 182, 235), ('the CBS and ABC sitcom', 239, 261), ('Leave It to Beaver', 262, 280)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'WP', 'VBD', 'IN', 'DT', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'RB', 'NNP', 'NNP', 'NNP', ',', 'NNP', '``', 'NNP', "''", 'NNP', 'POS', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNP', 'CC', 'NNP', 'NN', 'VB', 'PRP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

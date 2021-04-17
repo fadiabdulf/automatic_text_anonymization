@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jane Morgan (actress)</title>
+<link/>https://en.wikipedia.org/wiki/Jane_Morgan_(actress)
+<annotated>0</annotated>
+<originalabstract>Jane Morgan (December 6, 1880 – January 1, 1972) was a British-born American actress and singer whose career encompassed concert halls, vaudeville, the legitimate stage, radio, television, and film, best known as Eve Arden's nosy landlady Mrs. Davis on the radio and television versions of Our Miss Brooks.</originalabstract>
+<abstract>Jane_Morgan ( December_6 , 1880 – January_1_,_1972 ) was a_British-born_American_actress_and_singer whose_career encompassed concert_halls , vaudeville , the_legitimate_stage , radio , television , and film , best_known as Eve_Arden 's_nosy_landlady_Mrs._Davis on the_radio_and_television_versions of Our_Miss_Brooks .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jane'), (5, 'Morgan'), (12, '('), (13, 'December'), (22, '6'), (23, ','), (25, '1880'), (30, '–'), (32, 'January'), (40, '1'), (41, ','), (43, '1972'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'British-born'), (68, 'American'), (77, 'actress'), (85, 'and'), (89, 'singer'), (96, 'whose'), (102, 'career'), (109, 'encompassed'), (121, 'concert'), (129, 'halls'), (134, ','), (136, 'vaudeville'), (146, ','), (148, 'the'), (152, 'legitimate'), (163, 'stage'), (168, ','), (170, 'radio'), (175, ','), (177, 'television'), (187, ','), (189, 'and'), (193, 'film'), (197, ','), (199, 'best'), (204, 'known'), (210, 'as'), (213, 'Eve'), (217, 'Arden'), (222, '\'s'), (225, 'nosy'), (230, 'landlady'), (239, 'Mrs.'), (244, 'Davis'), (250, 'on'), (253, 'the'), (257, 'radio'), (263, 'and'), (267, 'television'), (278, 'versions'), (287, 'of'), (290, 'Our'), (294, 'Miss'), (299, 'Brooks'), (305, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jane Morgan',0, 11), ('December 6',13, 23), ('January 1, 1972',32, 47), ('a British-born American actress and singer',53, 95), ('whose career',96, 108), ('concert halls',121, 134), ('the legitimate stage',148, 168), ('best known',199, 209), ('Eve Arden',213, 222), ('\'s nosy landlady Mrs. Davis',222, 249), ('the radio and television versions',253, 286), ('Our Miss Brooks',290, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'WP$', 'NN', 'VBD', 'NN', 'NNS', ',', 'NN', ',', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'CC', 'NN', 'NNS', 'IN', 'PRP$', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jane'), (5, 'Morgan'), (12, '('), (13, 'December'), (22, '6'), (23, ','), (25, '1880'), (30, '–'), (32, 'January'), (40, '1'), (41, ','), (43, '1972'), (47, ')'), (49, 'was'), (53, 'a'), (55, 'British'), (62, '-'), (63, 'born'), (68, 'American'), (77, 'actress'), (85, 'and'), (89, 'singer'), (96, 'whose'), (102, 'career'), (109, 'encompassed'), (121, 'concert'), (129, 'halls'), (134, ','), (136, 'vaudeville'), (146, ','), (148, 'the'), (152, 'legitimate'), (163, 'stage'), (168, ','), (170, 'radio'), (175, ','), (177, 'television'), (187, ','), (189, 'and'), (193, 'film'), (197, ','), (199, 'best'), (204, 'known'), (210, 'as'), (213, 'Eve'), (217, 'Arden'), (222, "'s"), (225, 'nosy'), (230, 'landlady'), (239, 'Mrs.'), (244, 'Davis'), (250, 'on'), (253, 'the'), (257, 'radio'), (263, 'and'), (267, 'television'), (278, 'versions'), (287, 'of'), (290, 'Our'), (294, 'Miss'), (299, 'Brooks'), (305, '.')])</spacy_tokens>
+<spacy_chunks>[('Jane Morgan', 0, 11), ('(December', 12, 21), ('December 6, 1880', 13, 29), ('January 1, 1972', 32, 47), ('a British-born American actress', 53, 84), ('singer', 89, 95), ('concert halls', 121, 134), ('Vaudeville', 136, 146), ('the legitimate stage', 148, 168), ('television', 177, 187), ("Eve Arden's nosy landlady", 213, 238), ('Mrs. Davis', 239, 249), ('the radio and television versions', 253, 286), ('Our Miss Brooks', 290, 305)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'CC', 'NN', 'WP$', 'NN', 'VBD', 'NN', 'NNS', ',', 'NN', ',', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'CC', 'NN', ',', 'RBS', 'VBN', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'CC', 'NN', 'NNS', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

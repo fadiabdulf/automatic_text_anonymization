@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kate Miller</title>
+<link/>https://en.wikipedia.org/wiki/Kate_Miller
+<annotated>0</annotated>
+<originalabstract>Kate Miller (born October 24, 1969) is a professional American actress and voice over artist. Her credits include Broadway, Off Broadway, TV, Film, Animation, Soap Operas, commercials, narration, promos  books on tape.</originalabstract>
+<abstract>Kate_Miller ( born October_24_,_1969 ) is a_professional_American_actress_and_voice over artist . Her_credits include Broadway , Off Broadway , TV , Film , Animation , Soap_Operas , commercials , narration_,_promos_ on tape .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Kate'), (5, 'Miller'), (12, '('), (13, 'born'), (18, 'October'), (26, '24'), (28, ','), (30, '1969'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'professional'), (54, 'American'), (63, 'actress'), (71, 'and'), (75, 'voice'), (81, 'over'), (86, 'artist'), (92, '.'), (94, 'Her'), (98, 'credits'), (106, 'include'), (114, 'Broadway'), (122, ','), (124, 'Off'), (128, 'Broadway'), (136, ','), (138, 'TV'), (140, ','), (142, 'Film'), (146, ','), (148, 'Animation'), (157, ','), (159, 'Soap'), (164, 'Operas'), (170, ','), (172, 'commercials'), (183, ','), (185, 'narration'), (194, ','), (196, 'promos'), (203, ''), (205, 'books'), (211, 'on'), (214, 'tape'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Kate Miller',0, 11), ('October 24, 1969',18, 34), ('a professional American actress and voice',39, 80), ('Her credits',94, 105), ('Soap Operas',159, 170), ('narration, promos  books',185, 210)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NN', '.', 'PRP$', 'NNS', 'VBP', 'NNP', ',', 'IN', 'NNP', ',', 'NN', ',', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', ',', 'NNS', ',', 'NN', ',', 'NNS', 'CC', 'NNS', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Kate'), (5, 'Miller'), (12, '('), (13, 'born'), (18, 'October'), (26, '24'), (28, ','), (30, '1969'), (34, ')'), (36, 'is'), (39, 'a'), (41, 'professional'), (54, 'American'), (63, 'actress'), (71, 'and'), (75, 'voice'), (81, 'over'), (86, 'artist'), (92, '.'), (94, 'Her'), (98, 'credits'), (106, 'include'), (114, 'Broadway'), (122, ','), (124, 'Off'), (128, 'Broadway'), (136, ','), (138, 'TV'), (140, ','), (142, 'Film'), (146, ','), (148, 'Animation'), (157, ','), (159, 'Soap'), (164, 'Operas'), (170, ','), (172, 'commercials'), (183, ','), (185, 'narration'), (194, ','), (196, 'promos'), (204, 'books'), (210, 'on'), (213, 'tape'), (217, '.')])</spacy_tokens>
+<spacy_chunks>[('Kate Miller', 0, 11), ('October 24, 1969', 18, 34), ('a professional American actress', 39, 70), ('artist', 86, 92), ('Her credits', 94, 105), ('Broadway', 114, 122), ('Off Broadway', 124, 136), ('Animation', 148, 157), ('Soap Operas', 159, 170), ('commercials', 172, 183), ('narration', 185, 194)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NN', '.', 'PRP$', 'NNS', 'VBP', 'NNP', ',', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', ',', 'NNP', 'NNP', ',', 'NNS', ',', 'NN', ',', 'NNS', 'NNS', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

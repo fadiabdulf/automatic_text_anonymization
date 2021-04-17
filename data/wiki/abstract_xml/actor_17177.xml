@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jessie Robins</title>
+<link/>https://en.wikipedia.org/wiki/Jessie_Robins
+<annotated>0</annotated>
+<originalabstract>Jessie Robins (June 5, 1905 – August 10, 1991) was an English actress whose career lasted from 1958 to 1969. She was best recognised as Ringo Starr's "Auntie Jessie"  in The Beatles' made-for-television movie Magical Mystery Tour.</originalabstract>
+<abstract>Jessie_Robins ( June_5_,_1905 – August_10_,_1991 ) was an_English_actress whose_career lasted from 1958 to 1969 . She was_best_recognised as Ringo_Starr 's_"_Auntie_Jessie " in The_Beatles '_made-for-television_movie_Magical_Mystery_Tour .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jessie'), (7, 'Robins'), (14, '('), (15, 'June'), (20, '5'), (21, ','), (23, '1905'), (28, '–'), (30, 'August'), (37, '10'), (39, ','), (41, '1991'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'English'), (62, 'actress'), (70, 'whose'), (76, 'career'), (83, 'lasted'), (90, 'from'), (95, '1958'), (100, 'to'), (103, '1969'), (107, '.'), (109, 'She'), (113, 'was'), (117, 'best'), (122, 'recognised'), (133, 'as'), (136, 'Ringo'), (142, 'Starr'), (147, '\'s'), (150, '"'), (151, 'Auntie'), (158, 'Jessie'), (164, '"'), (167, 'in'), (170, 'The'), (174, 'Beatles'), (181, '\''), (183, 'made-for-television'), (203, 'movie'), (209, 'Magical'), (217, 'Mystery'), (225, 'Tour'), (229, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jessie Robins',0, 13), ('June 5, 1905',15, 27), ('August 10, 1991',30, 45), ('an English actress',51, 69), ('whose career',70, 82), ('was best recognised',113, 132), ('Ringo Starr',136, 147), ('\'s "Auntie Jessie',147, 164), ('The Beatles',170, 181), ('\' made-for-television movie Magical Mystery Tour',181, 229)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP$', 'NN', 'VBD', 'IN', 'CD', 'TO', 'CD', '.', 'PRP', 'VBD', 'JJS', 'VBN', 'IN', 'NNP', 'NNP', 'POS', '``', 'NNP', 'NNP', '\'\'', 'IN', 'DT', 'NNS', 'POS', 'JJ', 'NN', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jessie'), (7, 'Robins'), (14, '('), (15, 'June'), (20, '5'), (21, ','), (23, '1905'), (28, '–'), (30, 'August'), (37, '10'), (39, ','), (41, '1991'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'English'), (62, 'actress'), (70, 'whose'), (76, 'career'), (83, 'lasted'), (90, 'from'), (95, '1958'), (100, 'to'), (103, '1969'), (107, '.'), (109, 'She'), (113, 'was'), (117, 'best'), (122, 'recognised'), (133, 'as'), (136, 'Ringo'), (142, 'Starr'), (147, "'s"), (150, '"'), (151, 'Auntie'), (158, 'Jessie'), (164, '"'), (167, 'in'), (170, 'The'), (174, 'Beatles'), (181, "'"), (183, 'made'), (187, '-'), (188, 'for'), (191, '-'), (192, 'television'), (203, 'movie'), (209, 'Magical'), (217, 'Mystery'), (225, 'Tour'), (229, '.')])</spacy_tokens>
+<spacy_chunks>[('Jessie Robins', 0, 13), ('June 5, 1905', 15, 27), ('August 10, 1991', 30, 45), ('an English actress', 51, 69), ('whose career', 70, 82), ('Ringo Starr\'s "Auntie Jessie', 136, 164), ('The Beatles', 170, 181), ('television', 192, 202), ('Magical Mystery Tour', 209, 229)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'WP$', 'NN', 'VBD', 'IN', 'CD', 'IN', 'CD', '.', 'PRP', 'VBD', 'RBS', 'VBN', 'IN', 'NNP', 'NNP', 'POS', '``', 'NNP', 'NNP', "''", 'IN', 'DT', 'NNP', 'POS', 'VBN', 'HYPH', 'IN', 'HYPH', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

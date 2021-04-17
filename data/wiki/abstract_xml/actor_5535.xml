@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rex Reed</title>
+<link/>https://en.wikipedia.org/wiki/Rex_Reed
+<annotated>0</annotated>
+<originalabstract>Rex Taylor Reed (born October 2, 1938) is an American film critic and former co-host of the syndicated television show At the Movies.  He writes the column "On the Town with Rex Reed" for The New York Observer.</originalabstract>
+<abstract>Rex_Taylor_Reed ( born October_2_,_1938 ) is an_American_film_critic and former co-host of the_syndicated_television_show At the_Movies . He writes the_column " On the_Town with Rex_Reed " for The_New_York_Observer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rex'), (4, 'Taylor'), (11, 'Reed'), (16, '('), (17, 'born'), (22, 'October'), (30, '2'), (31, ','), (33, '1938'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'film'), (59, 'critic'), (66, 'and'), (70, 'former'), (77, 'co-host'), (85, 'of'), (88, 'the'), (92, 'syndicated'), (103, 'television'), (114, 'show'), (119, 'At'), (122, 'the'), (126, 'Movies'), (132, '.'), (135, 'He'), (138, 'writes'), (145, 'the'), (149, 'column'), (156, '"'), (157, 'On'), (160, 'the'), (164, 'Town'), (169, 'with'), (174, 'Rex'), (178, 'Reed'), (182, '"'), (184, 'for'), (188, 'The'), (192, 'New'), (196, 'York'), (201, 'Observer'), (209, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rex Taylor Reed',0, 15), ('October 2, 1938',22, 37), ('an American film critic',42, 65), ('the syndicated television show',88, 118), ('the Movies',122, 132), ('the column',145, 155), ('the Town',160, 168), ('Rex Reed',174, 182), ('The New York Observer',188, 209)]</opennlp_chunks>
+<stanford_pos>['NN', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'VB', 'IN', 'DT', 'VBN', 'NN', 'NN', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBZ', 'DT', 'NN', '``', 'IN', 'DT', 'NN', 'IN', 'NN', 'NNP', '\'\'', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rex'), (4, 'Taylor'), (11, 'Reed'), (16, '('), (17, 'born'), (22, 'October'), (30, '2'), (31, ','), (33, '1938'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'film'), (59, 'critic'), (66, 'and'), (70, 'former'), (77, 'co'), (79, '-'), (80, 'host'), (85, 'of'), (88, 'the'), (92, 'syndicated'), (103, 'television'), (114, 'show'), (119, 'At'), (122, 'the'), (126, 'Movies'), (132, '.'), (135, 'He'), (138, 'writes'), (145, 'the'), (149, 'column'), (156, '"'), (157, 'On'), (160, 'the'), (164, 'Town'), (169, 'with'), (174, 'Rex'), (178, 'Reed'), (182, '"'), (184, 'for'), (188, 'The'), (192, 'New'), (196, 'York'), (201, 'Observer'), (209, '.')])</spacy_tokens>
+<spacy_chunks>[('Rex Taylor Reed', 0, 15), ('October 2, 1938', 22, 37), ('an American film critic', 42, 65), ('former co-host', 70, 84), ('the syndicated television show', 88, 118), ('the Movies', 122, 132), ('the column', 145, 155), ('the Town', 160, 168), ('Rex Reed', 174, 182), ('The New York Observer', 188, 209)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'JJ', 'NN', 'NN', 'NN', 'IN', 'DT', 'VBN', 'NN', 'NN', 'IN', 'DT', 'NNPS', '.', 'PRP', 'VBZ', 'DT', 'NN', "''", 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NNP', "''", 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Healy (actor)</title>
+<link/>https://en.wikipedia.org/wiki/David_Healy_(actor)
+<annotated>0</annotated>
+<originalabstract>Timothy Malcolm Healy (born 29 January 1952) is an English actor, best known for playing Dennis Patterson in the television series Auf Wiedersehen, Pet, Les/Lesley in the ITV comedy-drama series Benidorm and Gastric in Still Open All Hours.</originalabstract>
+<abstract>Timothy_Malcolm_Healy ( born_29_January_1952 ) is an_English_actor , best_known for playing Dennis_Patterson in the_television_series_Auf_Wiedersehen , Pet , Les/Lesley in the_ITV_comedy-drama_series_Benidorm_and_Gastric in Still Open All_Hours .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Timothy'), (8, 'Malcolm'), (16, 'Healy'), (22, '('), (23, 'born'), (28, '29'), (31, 'January'), (39, '1952'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'English'), (59, 'actor'), (64, ','), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'playing'), (89, 'Dennis'), (96, 'Patterson'), (106, 'in'), (109, 'the'), (113, 'television'), (124, 'series'), (131, 'Auf'), (135, 'Wiedersehen'), (146, ','), (148, 'Pet'), (151, ','), (153, 'Les/Lesley'), (164, 'in'), (167, 'the'), (171, 'ITV'), (175, 'comedy-drama'), (188, 'series'), (195, 'Benidorm'), (204, 'and'), (208, 'Gastric'), (216, 'in'), (219, 'Still'), (225, 'Open'), (230, 'All'), (234, 'Hours'), (239, '.')])</stanford_tokens>
+<opennlp_chunks>[('Timothy Malcolm Healy',0, 21), ('born 29 January 1952',23, 43), ('an English actor',48, 64), ('best known',66, 76), ('Dennis Patterson',89, 105), ('the television series Auf Wiedersehen',109, 146), ('the ITV comedy-drama series Benidorm and Gastric',167, 215), ('All Hours',230, 239)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'CC', 'NNP', 'IN', 'RB', 'VB', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Timothy'), (8, 'Malcolm'), (16, 'Healy'), (22, '('), (23, 'born'), (28, '29'), (31, 'January'), (39, '1952'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'English'), (59, 'actor'), (64, ','), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'playing'), (89, 'Dennis'), (96, 'Patterson'), (106, 'in'), (109, 'the'), (113, 'television'), (124, 'series'), (131, 'Auf'), (135, 'Wiedersehen'), (146, ','), (148, 'Pet'), (151, ','), (153, 'Les'), (156, '/'), (157, 'Lesley'), (164, 'in'), (167, 'the'), (171, 'ITV'), (175, 'comedy'), (181, '-'), (182, 'drama'), (188, 'series'), (195, 'Benidorm'), (204, 'and'), (208, 'Gastric'), (216, 'in'), (219, 'Still'), (225, 'Open'), (230, 'All'), (234, 'Hours'), (239, '.')])</spacy_tokens>
+<spacy_chunks>[('Timothy Malcolm Healy', 0, 21), ('29 January 1952', 28, 43), ('an English actor', 48, 64), ('Dennis Patterson', 89, 105), ('the television series', 109, 130), ('Auf Wiedersehen', 131, 146), ('the ITV comedy-drama series', 167, 194), ('Benidorm', 195, 203), ('Gastric', 208, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', ',', 'NNP', ',', 'NNP', 'SYM', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'HYPH', 'NN', 'NN', 'NNP', 'CC', 'NNP', 'IN', 'RB', 'VB', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

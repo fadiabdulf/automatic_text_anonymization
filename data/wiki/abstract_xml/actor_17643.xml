@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Juliet Cowan</title>
+<link/>https://en.wikipedia.org/wiki/Juliet_Cowan
+<annotated>0</annotated>
+<originalabstract>Juliet Cowan (born 21 May 1974 in Belfast, Northern Ireland) is a British television, film and stage actress. Cowan has had various TV guest star roles in long-running shows such as EastEnders, Silent Witness and Casualty. Cowan has also had a recurring role in CBBC show The Sarah Jane Adventures and This Life.</originalabstract>
+<abstract>Juliet_Cowan ( born 21_May_1974 in Belfast , Northern_Ireland ) is a_British_television_,_film_and_stage_actress . Cowan has_had various_TV_guest_star_roles in long-running_shows such_as EastEnders , Silent_Witness_and_Casualty . Cowan has_also_had a_recurring_role in CBBC show The_Sarah_Jane_Adventures and This_Life .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Juliet'), (7, 'Cowan'), (13, '('), (14, 'born'), (19, '21'), (22, 'May'), (26, '1974'), (31, 'in'), (34, 'Belfast'), (41, ','), (43, 'Northern'), (52, 'Ireland'), (59, ')'), (61, 'is'), (64, 'a'), (66, 'British'), (74, 'television'), (84, ','), (86, 'film'), (91, 'and'), (95, 'stage'), (101, 'actress'), (108, '.'), (110, 'Cowan'), (116, 'has'), (120, 'had'), (124, 'various'), (132, 'TV'), (135, 'guest'), (141, 'star'), (146, 'roles'), (152, 'in'), (155, 'long-running'), (168, 'shows'), (174, 'such'), (179, 'as'), (182, 'EastEnders'), (192, ','), (194, 'Silent'), (201, 'Witness'), (209, 'and'), (213, 'Casualty'), (221, '.'), (223, 'Cowan'), (229, 'has'), (233, 'also'), (238, 'had'), (242, 'a'), (244, 'recurring'), (254, 'role'), (259, 'in'), (262, 'CBBC'), (267, 'show'), (272, 'The'), (276, 'Sarah'), (282, 'Jane'), (287, 'Adventures'), (298, 'and'), (302, 'This'), (307, 'Life'), (311, '.')])</stanford_tokens>
+<opennlp_chunks>[('Juliet Cowan',0, 12), ('21 May 1974',19, 30), ('Northern Ireland',43, 59), ('a British television, film and stage actress',64, 108), ('has had',116, 123), ('various TV guest star roles',124, 151), ('long-running shows',155, 173), ('such as',174, 181), ('Silent Witness and Casualty',194, 221), ('has also had',229, 241), ('a recurring role',242, 258), ('The Sarah Jane Adventures',272, 297), ('This Life',302, 311)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'JJ', 'NN', 'NN', 'NN', 'NNS', 'IN', 'JJ', 'NNS', 'JJ', 'IN', 'NNP', ',', 'JJ', 'NNP', 'CC', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'VBD', 'DT', 'VBG', 'NN', 'IN', 'NN', 'VBP', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Juliet'), (7, 'Cowan'), (13, '('), (14, 'born'), (19, '21'), (22, 'May'), (26, '1974'), (31, 'in'), (34, 'Belfast'), (41, ','), (43, 'Northern'), (52, 'Ireland'), (59, ')'), (61, 'is'), (64, 'a'), (66, 'British'), (74, 'television'), (84, ','), (86, 'film'), (91, 'and'), (95, 'stage'), (101, 'actress'), (108, '.'), (110, 'Cowan'), (116, 'has'), (120, 'had'), (124, 'various'), (132, 'TV'), (135, 'guest'), (141, 'star'), (146, 'roles'), (152, 'in'), (155, 'long'), (159, '-'), (160, 'running'), (168, 'shows'), (174, 'such'), (179, 'as'), (182, 'EastEnders'), (192, ','), (194, 'Silent'), (201, 'Witness'), (209, 'and'), (213, 'Casualty'), (221, '.'), (223, 'Cowan'), (229, 'has'), (233, 'also'), (238, 'had'), (242, 'a'), (244, 'recurring'), (254, 'role'), (259, 'in'), (262, 'CBBC'), (267, 'show'), (272, 'The'), (276, 'Sarah'), (282, 'Jane'), (287, 'Adventures'), (298, 'and'), (302, 'This'), (307, 'Life'), (311, '.')])</spacy_tokens>
+<spacy_chunks>[('Juliet Cowan', 0, 12), ('21 May 1974', 19, 30), ('Belfast, Northern Ireland', 34, 59), ('a British television', 64, 84), ('stage actress', 95, 108), ('various TV guest star roles', 124, 151), ('long-running shows', 155, 173), ('EastEnders', 182, 192), ('Silent Witness', 194, 208), ('Casualty', 213, 221), ('a recurring role', 242, 258), ('The Sarah Jane Adventures', 272, 297), ('This Life', 302, 311)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'JJ', 'NN', 'NN', 'NN', 'NNS', 'IN', 'RB', 'HYPH', 'NN', 'NNS', 'JJ', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'NNP', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'DT', 'VBG', 'NN', 'IN', 'NNP', 'VBP', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

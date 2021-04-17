@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nia Vardalos</title>
+<link/>https://en.wikipedia.org/wiki/Nia_Vardalos
+<annotated>0</annotated>
+<originalabstract>Antonia Eugenia "Nia" Vardalos (born September 24, 1962; Greek: Νία Βαρντάλος) is a Canadian-American actress, screenwriter, and producer of Greek descent. Her most notable work is the 2002 film My Big Fat Greek Wedding, which was based on a one-woman stage play she dramatized and in which she starred.</originalabstract>
+<abstract>Antonia_Eugenia_"_Nia_"_Vardalos ( born September_24_,_1962 ; Greek : Νία_Βαρντάλος ) is a_Canadian-American_actress , screenwriter , and producer of Greek_descent . Her_most_notable_work is the_2002_film My_Big_Fat_Greek_Wedding , which was_based on a_one-woman_stage_play she dramatized and in which she starred .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Antonia'), (8, 'Eugenia'), (16, '"'), (17, 'Nia'), (20, '"'), (22, 'Vardalos'), (31, '('), (32, 'born'), (37, 'September'), (47, '24'), (49, ','), (51, '1962'), (55, ';'), (57, 'Greek'), (62, ':'), (64, 'Νία'), (68, 'Βαρντάλος'), (77, ')'), (79, 'is'), (82, 'a'), (84, 'Canadian-American'), (102, 'actress'), (109, ','), (111, 'screenwriter'), (123, ','), (125, 'and'), (129, 'producer'), (138, 'of'), (141, 'Greek'), (147, 'descent'), (154, '.'), (156, 'Her'), (160, 'most'), (165, 'notable'), (173, 'work'), (178, 'is'), (181, 'the'), (185, '2002'), (190, 'film'), (195, 'My'), (198, 'Big'), (202, 'Fat'), (206, 'Greek'), (212, 'Wedding'), (219, ','), (221, 'which'), (227, 'was'), (231, 'based'), (237, 'on'), (240, 'a'), (242, 'one-woman'), (252, 'stage'), (258, 'play'), (263, 'she'), (267, 'dramatized'), (278, 'and'), (282, 'in'), (285, 'which'), (291, 'she'), (295, 'starred'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Antonia Eugenia "Nia" Vardalos',0, 30), ('September 24, 1962',37, 55), ('Νία Βαρντάλος',64, 77), ('a Canadian-American actress',82, 109), ('Greek descent',141, 154), ('Her most notable work',156, 177), ('the 2002 film',181, 194), ('My Big Fat Greek Wedding',195, 219), ('was based',227, 236), ('a one-woman stage play',240, 262)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', ':', 'JJ', ':', 'NN', 'NN', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'VBZ', 'DT', 'CD', 'NN', 'PRP$', 'JJ', 'NNP', 'JJ', 'NN', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'PRP', 'VBD', 'CC', 'IN', 'WDT', 'PRP', 'VBD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Antonia'), (8, 'Eugenia'), (16, '"'), (17, 'Nia'), (20, '"'), (22, 'Vardalos'), (31, '('), (32, 'born'), (37, 'September'), (47, '24'), (49, ','), (51, '1962'), (55, ';'), (57, 'Greek'), (62, ':'), (64, 'Νία'), (68, 'Βαρντάλος'), (77, ')'), (79, 'is'), (82, 'a'), (84, 'Canadian'), (92, '-'), (93, 'American'), (102, 'actress'), (109, ','), (111, 'screenwriter'), (123, ','), (125, 'and'), (129, 'producer'), (138, 'of'), (141, 'Greek'), (147, 'descent'), (154, '.'), (156, 'Her'), (160, 'most'), (165, 'notable'), (173, 'work'), (178, 'is'), (181, 'the'), (185, '2002'), (190, 'film'), (195, 'My'), (198, 'Big'), (202, 'Fat'), (206, 'Greek'), (212, 'Wedding'), (219, ','), (221, 'which'), (227, 'was'), (231, 'based'), (237, 'on'), (240, 'a'), (242, 'one'), (245, '-'), (246, 'woman'), (252, 'stage'), (258, 'play'), (263, 'she'), (267, 'dramatized'), (278, 'and'), (282, 'in'), (285, 'which'), (291, 'she'), (295, 'starred'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Antonia Eugenia "Nia" Vardalos', 0, 30), ('September 24, 1962', 37, 55), ('Νία Βαρντάλος', 64, 77), ('a Canadian-American actress', 82, 109), ('screenwriter', 111, 123), ('producer', 129, 137), ('Greek descent', 141, 154), ('Her most notable work', 156, 177), ('the 2002 film', 181, 194), ('My Big Fat Greek Wedding', 195, 219)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', ':', 'NNP', ':', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'IN', 'JJ', 'NN', '.', 'PRP$', 'RBS', 'JJ', 'NN', 'VBZ', 'DT', 'CD', 'NN', 'PRP$', 'JJ', 'JJ', 'NNP', 'NNP', ',', 'WDT', 'VBD', 'VBN', 'IN', 'DT', 'CD', 'HYPH', 'NN', 'NN', 'VB', 'PRP', 'VBD', 'CC', 'IN', 'WDT', 'PRP', 'VBD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

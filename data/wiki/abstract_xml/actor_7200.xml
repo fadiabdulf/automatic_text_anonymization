@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jay Wilsey</title>
+<link/>https://en.wikipedia.org/wiki/Jay_Wilsey
+<annotated>0</annotated>
+<originalabstract>Jay Wilsey (February 6, 1896 – October 25, 1961) was an American film actor (born Wilbert Jay Wilsey). He appeared in nearly 100 films between 1924 and 1944. He starred in a series of very low-budget westerns in the 1920s and 1930s, billed as Buffalo Bill Jr..</originalabstract>
+<abstract>Jay_Wilsey ( February_6_,_1896 – October_25_,_1961 ) was an_American_film_actor ( born Wilbert_Jay_Wilsey ) . He appeared in nearly_100_films between 1924_and_1944 . He starred in a_series of very_low-budget_westerns in the_1920s_and_1930s , billed as Buffalo_Bill_Jr . .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jay'), (4, 'Wilsey'), (11, '('), (12, 'February'), (21, '6'), (22, ','), (24, '1896'), (29, '–'), (31, 'October'), (39, '25'), (41, ','), (43, '1961'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actor'), (76, '('), (77, 'born'), (82, 'Wilbert'), (90, 'Jay'), (94, 'Wilsey'), (100, ')'), (101, '.'), (103, 'He'), (106, 'appeared'), (115, 'in'), (118, 'nearly'), (125, '100'), (129, 'films'), (135, 'between'), (143, '1924'), (148, 'and'), (152, '1944'), (156, '.'), (158, 'He'), (161, 'starred'), (169, 'in'), (172, 'a'), (174, 'series'), (181, 'of'), (184, 'very'), (189, 'low-budget'), (200, 'westerns'), (209, 'in'), (212, 'the'), (216, '1920s'), (222, 'and'), (226, '1930s'), (231, ','), (233, 'billed'), (240, 'as'), (243, 'Buffalo'), (251, 'Bill'), (256, 'Jr'), (258, '.'), (259, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jay Wilsey',0, 10), ('February 6, 1896',12, 28), ('October 25, 1961',31, 47), ('an American film actor',53, 75), ('Wilbert Jay Wilsey',82, 100), ('nearly 100 films',118, 134), ('1924 and 1944',143, 156), ('a series',172, 180), ('very low-budget westerns',184, 208), ('the 1920s and 1930s',212, 231), ('Buffalo Bill Jr',243, 258)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', '-RRB-', '.', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'RB', 'JJ', 'NNS', 'IN', 'DT', 'CD', 'CC', 'CD', ',', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', '.', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jay'), (4, 'Wilsey'), (11, '('), (12, 'February'), (21, '6'), (22, ','), (24, '1896'), (29, '–'), (31, 'October'), (39, '25'), (41, ','), (43, '1961'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'film'), (70, 'actor'), (76, '('), (77, 'born'), (82, 'Wilbert'), (90, 'Jay'), (94, 'Wilsey'), (100, ')'), (101, '.'), (103, 'He'), (106, 'appeared'), (115, 'in'), (118, 'nearly'), (125, '100'), (129, 'films'), (135, 'between'), (143, '1924'), (148, 'and'), (152, '1944'), (156, '.'), (158, 'He'), (161, 'starred'), (169, 'in'), (172, 'a'), (174, 'series'), (181, 'of'), (184, 'very'), (189, 'low'), (192, '-'), (193, 'budget'), (200, 'westerns'), (209, 'in'), (212, 'the'), (216, '1920s'), (222, 'and'), (226, '1930s'), (231, ','), (233, 'billed'), (240, 'as'), (243, 'Buffalo'), (251, 'Bill'), (256, 'Jr'), (258, '..')])</spacy_tokens>
+<spacy_chunks>[('Jay Wilsey', 0, 10), ('February 6, 1896', 12, 28), ('October 25, 1961', 31, 47), ('an American film actor', 53, 75), ('Wilbert Jay Wilsey', 82, 100), ('nearly 100 films', 118, 134), ('a series', 172, 180), ('very low-budget westerns', 184, 208), ('the 1920s', 212, 221), ('Buffalo Bill Jr', 243, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', '-RRB-', '.', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'IN', 'RB', 'JJ', 'HYPH', 'NN', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', ',', 'VBN', 'IN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

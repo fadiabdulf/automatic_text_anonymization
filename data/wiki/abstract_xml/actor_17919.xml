@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Montserrat Lombard</title>
+<link/>https://en.wikipedia.org/wiki/Montserrat_Lombard
+<annotated>0</annotated>
+<originalabstract>Montserrat Lombard (born 1 August 1982) is an English actress best known for playing WPC (later DC) Sharon 'Shaz' Granger in the BBC Drama series Ashes to Ashes.</originalabstract>
+<abstract>Montserrat_Lombard ( born 1_August_1982 ) is an_English_actress best_known for playing WPC ( later_DC ) Sharon_'_Shaz_'_Granger in the_BBC_Drama_series_Ashes to Ashes .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Montserrat'), (11, 'Lombard'), (19, '('), (20, 'born'), (25, '1'), (27, 'August'), (34, '1982'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'English'), (54, 'actress'), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'playing'), (85, 'WPC'), (89, '('), (90, 'later'), (96, 'DC'), (98, ')'), (100, 'Sharon'), (107, '\''), (108, 'Shaz'), (112, '\''), (114, 'Granger'), (122, 'in'), (125, 'the'), (129, 'BBC'), (133, 'Drama'), (139, 'series'), (146, 'Ashes'), (152, 'to'), (155, 'Ashes'), (160, '.')])</stanford_tokens>
+<opennlp_chunks>[('Montserrat Lombard',0, 18), ('1 August 1982',25, 38), ('an English actress',43, 61), ('best known',62, 72), ('later DC',90, 98), ('Sharon \'Shaz\' Granger',100, 121), ('the BBC Drama series Ashes',125, 151)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'NNP', '-LRB-', 'RB', 'NN', '-RRB-', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNS', 'TO', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Montserrat'), (11, 'Lombard'), (19, '('), (20, 'born'), (25, '1'), (27, 'August'), (34, '1982'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'English'), (54, 'actress'), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'playing'), (85, 'WPC'), (89, '('), (90, 'later'), (96, 'DC'), (98, ')'), (100, 'Sharon'), (107, "'"), (108, 'Shaz'), (112, "'"), (114, 'Granger'), (122, 'in'), (125, 'the'), (129, 'BBC'), (133, 'Drama'), (139, 'series'), (146, 'Ashes'), (152, 'to'), (155, 'Ashes'), (160, '.')])</spacy_tokens>
+<spacy_chunks>[('Montserrat Lombard', 0, 18), ('1 August 1982', 25, 38), ('an English actress', 43, 61), ("later DC) Sharon 'Shaz' Granger", 90, 121), ('the BBC Drama series', 125, 145), ('Ashes to Ashes', 146, 160)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'NNP', '-LRB-', 'RB', 'NNP', '-RRB-', 'NNP', '``', 'NNP', "''", 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNS', 'IN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

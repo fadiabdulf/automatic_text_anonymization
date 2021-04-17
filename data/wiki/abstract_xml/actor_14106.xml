@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Priscilla Moran</title>
+<link/>https://en.wikipedia.org/wiki/Priscilla_Moran
+<annotated>0</annotated>
+<originalabstract>Priscilla Moran (November 23, 1917 – November 11, 2006) was an American silent film actress. She was born in Sedalia, Missouri.
+She made her film debut in 1922, and retired from the silver screen in 1937 at the age of 20, having appeared in fourteen films.</originalabstract>
+<abstract>Priscilla_Moran ( November_23_,_1917 – November_11_,_2006 ) was an_American_silent_film_actress . She was_born in Sedalia , Missouri . She made her_film_debut in 1922 , and retired from the_silver_screen in 1937 at the_age of 20 , having_appeared in fourteen_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Priscilla'), (10, 'Moran'), (16, '('), (17, 'November'), (26, '23'), (28, ','), (30, '1917'), (35, '–'), (37, 'November'), (46, '11'), (48, ','), (50, '2006'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'silent'), (79, 'film'), (84, 'actress'), (91, '.'), (93, 'She'), (97, 'was'), (101, 'born'), (106, 'in'), (109, 'Sedalia'), (116, ','), (118, 'Missouri'), (126, '.'), (128, 'She'), (132, 'made'), (137, 'her'), (141, 'film'), (146, 'debut'), (152, 'in'), (155, '1922'), (159, ','), (161, 'and'), (165, 'retired'), (173, 'from'), (178, 'the'), (182, 'silver'), (189, 'screen'), (196, 'in'), (199, '1937'), (204, 'at'), (207, 'the'), (211, 'age'), (215, 'of'), (218, '20'), (220, ','), (222, 'having'), (229, 'appeared'), (238, 'in'), (241, 'fourteen'), (250, 'films'), (255, '.')])</stanford_tokens>
+<opennlp_chunks>[('Priscilla Moran',0, 15), ('November 23, 1917',17, 34), ('November 11, 2006',37, 54), ('an American silent film actress',60, 91), ('was born',97, 105), ('her film debut',137, 151), ('the silver screen',178, 195), ('the age',207, 214), ('having appeared',222, 237), ('fourteen films',241, 255)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'CD', ',', 'CC', 'VBN', 'IN', 'DT', 'NN', 'NN', 'IN', 'CD', 'IN', 'DT', 'NN', 'IN', 'CD', ',', 'VBG', 'VBN', 'IN', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Priscilla'), (10, 'Moran'), (16, '('), (17, 'November'), (26, '23'), (28, ','), (30, '1917'), (35, '–'), (37, 'November'), (46, '11'), (48, ','), (50, '2006'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'American'), (72, 'silent'), (79, 'film'), (84, 'actress'), (91, '.'), (93, 'She'), (97, 'was'), (101, 'born'), (106, 'in'), (109, 'Sedalia'), (116, ','), (118, 'Missouri'), (126, '.'), (128, 'She'), (132, 'made'), (137, 'her'), (141, 'film'), (146, 'debut'), (152, 'in'), (155, '1922'), (159, ','), (161, 'and'), (165, 'retired'), (173, 'from'), (178, 'the'), (182, 'silver'), (189, 'screen'), (196, 'in'), (199, '1937'), (204, 'at'), (207, 'the'), (211, 'age'), (215, 'of'), (218, '20'), (220, ','), (222, 'having'), (229, 'appeared'), (238, 'in'), (241, 'fourteen'), (250, 'films'), (255, '.')])</spacy_tokens>
+<spacy_chunks>[('Priscilla Moran', 0, 15), ('(November', 16, 25), ('November 23, 1917', 17, 34), ('November 11, 2006', 37, 54), ('an American silent film actress', 60, 91), ('Sedalia, Missouri', 109, 126), ('her film debut', 137, 151), ('the silver screen', 178, 195), ('the age', 207, 214), ('fourteen films', 241, 255)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'CD', ',', 'CC', 'VBN', 'IN', 'DT', 'NN', 'NN', 'IN', 'CD', 'IN', 'DT', 'NN', 'IN', 'CD', ',', 'VBG', 'VBN', 'IN', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

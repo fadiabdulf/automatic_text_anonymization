@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fay McKenzie</title>
+<link/>https://en.wikipedia.org/wiki/Fay_McKenzie
+<annotated>0</annotated>
+<originalabstract>Eunice Fay McKenzie (born February 19, 1918) is an American actress who starred in silent films as a child, but who is perhaps best known for her leading roles in five Gene Autry films from the early 1940s.</originalabstract>
+<abstract>Eunice_Fay_McKenzie ( born February_19_,_1918 ) is an_American_actress who starred in silent_films as a_child , but who is_perhaps_best_known for her_leading_roles in five_Gene_Autry_films from the_early_1940s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eunice'), (7, 'Fay'), (11, 'McKenzie'), (20, '('), (21, 'born'), (26, 'February'), (35, '19'), (37, ','), (39, '1918'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (68, 'who'), (72, 'starred'), (80, 'in'), (83, 'silent'), (90, 'films'), (96, 'as'), (99, 'a'), (101, 'child'), (106, ','), (108, 'but'), (112, 'who'), (116, 'is'), (119, 'perhaps'), (127, 'best'), (132, 'known'), (138, 'for'), (142, 'her'), (146, 'leading'), (154, 'roles'), (160, 'in'), (163, 'five'), (168, 'Gene'), (173, 'Autry'), (179, 'films'), (185, 'from'), (190, 'the'), (194, 'early'), (200, '1940s'), (205, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eunice Fay McKenzie',0, 19), ('February 19, 1918',26, 43), ('an American actress',48, 67), ('silent films',83, 95), ('a child',99, 106), ('is perhaps best known',116, 137), ('her leading roles',142, 159), ('five Gene Autry films',163, 184), ('the early 1940s',190, 205)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NN', ',', 'CC', 'WP', 'VBZ', 'RB', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'CD', 'NN', 'NNP', 'NNS', 'IN', 'DT', 'JJ', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eunice'), (7, 'Fay'), (11, 'McKenzie'), (20, '('), (21, 'born'), (26, 'February'), (35, '19'), (37, ','), (39, '1918'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actress'), (68, 'who'), (72, 'starred'), (80, 'in'), (83, 'silent'), (90, 'films'), (96, 'as'), (99, 'a'), (101, 'child'), (106, ','), (108, 'but'), (112, 'who'), (116, 'is'), (119, 'perhaps'), (127, 'best'), (132, 'known'), (138, 'for'), (142, 'her'), (146, 'leading'), (154, 'roles'), (160, 'in'), (163, 'five'), (168, 'Gene'), (173, 'Autry'), (179, 'films'), (185, 'from'), (190, 'the'), (194, 'early'), (200, '1940s'), (205, '.')])</spacy_tokens>
+<spacy_chunks>[('Eunice Fay McKenzie', 0, 19), ('February 19, 1918', 26, 43), ('an American actress', 48, 67), ('silent films', 83, 95), ('a child', 99, 106), ('her leading roles', 142, 159), ('five Gene Autry films', 163, 184), ('the early 1940s', 190, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NN', ',', 'CC', 'WP', 'VBZ', 'RB', 'RBS', 'VBN', 'IN', 'PRP$', 'JJ', 'NNS', 'IN', 'CD', 'NNP', 'NNP', 'NNS', 'IN', 'DT', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

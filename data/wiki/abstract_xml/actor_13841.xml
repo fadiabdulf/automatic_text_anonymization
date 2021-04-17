@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cady McClain</title>
+<link/>https://en.wikipedia.org/wiki/Cady_McClain
+<annotated>0</annotated>
+<originalabstract>Cady McClain (born Katie Jo McClain on October 13, 1969) is an American actress, singer, and author.</originalabstract>
+<abstract>Cady_McClain ( born Katie_Jo_McClain on October_13_,_1969 ) is an_American_actress , singer , and author .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cady'), (5, 'McClain'), (13, '('), (14, 'born'), (19, 'Katie'), (25, 'Jo'), (28, 'McClain'), (36, 'on'), (39, 'October'), (47, '13'), (49, ','), (51, '1969'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'actress'), (79, ','), (81, 'singer'), (87, ','), (89, 'and'), (93, 'author'), (99, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cady McClain',0, 12), ('Katie Jo McClain',19, 35), ('October 13, 1969',39, 55), ('an American actress',60, 79)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cady'), (5, 'McClain'), (13, '('), (14, 'born'), (19, 'Katie'), (25, 'Jo'), (28, 'McClain'), (36, 'on'), (39, 'October'), (47, '13'), (49, ','), (51, '1969'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'actress'), (79, ','), (81, 'singer'), (87, ','), (89, 'and'), (93, 'author'), (99, '.')])</spacy_tokens>
+<spacy_chunks>[('Cady McClain', 0, 12), ('Katie Jo McClain', 19, 35), ('October 13, 1969', 39, 55), ('an American actress', 60, 79), ('singer', 81, 87), ('Author', 93, 99)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

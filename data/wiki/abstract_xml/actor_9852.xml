@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gabriel de Gravone</title>
+<link/>https://en.wikipedia.org/wiki/Gabriel_de_Gravone
+<annotated>0</annotated>
+<originalabstract>Gabriel de Gravone (French pronunciation: ​[ɡabʁijɛl d(ə) ɡʁavɔn]; 1887–1972) was a French stage actor. He acted in forty films during the silent era, as well as directing one which he also starred in.</originalabstract>
+<abstract>Gabriel_de_Gravone ( French_pronunciation : [_ɡabʁijɛl_d ( ə ) ɡʁavɔn_] ; 1887 – 1972 ) was a_French_stage_actor . He acted in forty_films during the_silent_era , as_well_as directing one_which he also starred in .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gabriel'), (8, 'de'), (11, 'Gravone'), (19, '('), (20, 'French'), (27, 'pronunciation'), (40, ':'), (43, '['), (44, 'ɡabʁijɛl'), (53, 'd'), (54, '('), (55, 'ə'), (56, ')'), (58, 'ɡʁavɔn'), (64, ']'), (65, ';'), (67, '1887'), (71, '–'), (72, '1972'), (76, ')'), (78, 'was'), (82, 'a'), (84, 'French'), (91, 'stage'), (97, 'actor'), (102, '.'), (104, 'He'), (107, 'acted'), (113, 'in'), (116, 'forty'), (122, 'films'), (128, 'during'), (135, 'the'), (139, 'silent'), (146, 'era'), (149, ','), (151, 'as'), (154, 'well'), (159, 'as'), (162, 'directing'), (172, 'one'), (176, 'which'), (182, 'he'), (185, 'also'), (190, 'starred'), (198, 'in'), (200, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gabriel de Gravone',0, 18), ('French pronunciation',20, 40), ('[ɡabʁijɛl d',43, 54), ('ɡʁavɔn]',58, 65), ('a French stage actor',82, 102), ('forty films',116, 127), ('the silent era',135, 149), ('as well as',151, 161), ('one which',172, 181)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'NN', ':', '-LRB-', 'NN', 'NN', '-LRB-', 'NN', '-RRB-', 'NN', '-RRB-', ':', 'CD', ':', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'DT', 'JJ', 'NN', ',', 'RB', 'RB', 'IN', 'VBG', 'CD', 'WDT', 'PRP', 'RB', 'VBD', 'IN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gabriel'), (8, 'de'), (11, 'Gravone'), (19, '('), (20, 'French'), (27, 'pronunciation'), (40, ':'), (42, '\u200b[ɡabʁijɛl'), (53, 'd(ə'), (56, ')'), (58, 'ɡʁavɔn'), (64, ']'), (65, ';'), (67, '1887–1972'), (76, ')'), (78, 'was'), (82, 'a'), (84, 'French'), (91, 'stage'), (97, 'actor'), (102, '.'), (104, 'He'), (107, 'acted'), (113, 'in'), (116, 'forty'), (122, 'films'), (128, 'during'), (135, 'the'), (139, 'silent'), (146, 'era'), (149, ','), (151, 'as'), (154, 'well'), (159, 'as'), (162, 'directing'), (172, 'one'), (176, 'which'), (182, 'he'), (185, 'also'), (190, 'starred'), (198, 'in'), (200, '.')])</spacy_tokens>
+<spacy_chunks>[('Gabriel de Gravone', 0, 18), ('French pronunciation', 20, 40), ('d(ə) ɡʁavɔn', 53, 64), ('a French stage actor', 82, 102), ('forty films', 116, 127), ('the silent era', 135, 149)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'JJ', 'NN', ':', 'NFP', 'CD', '-RRB-', 'NN', '-RRB-', ':', 'LS', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'DT', 'JJ', 'NN', ',', 'RB', 'RB', 'IN', 'VBG', 'CD', 'WDT', 'PRP', 'RB', 'VBD', 'IN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

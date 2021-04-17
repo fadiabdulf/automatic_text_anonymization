@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eric Idle</title>
+<link/>https://en.wikipedia.org/wiki/Eric_Idle
+<annotated>0</annotated>
+<originalabstract>Eric Idle (born 29 March 1943) is an English comedian, actor, voice actor, author, singer-songwriter, musician, writer and comedic composer. Idle was a member of the British surreal comedy group Monty Python, a member of the parody rock band The Rutles, and the author of the Broadway musical Spamalot.</originalabstract>
+<abstract>Eric_Idle ( born_29_March_1943 ) is an_English_comedian , actor , voice_actor , author_,_singer-songwriter_,_musician_,_writer_and_comedic_composer . Idle was a_member of the_British_surreal_comedy_group_Monty_Python , a_member of the_parody_rock_band The_Rutles , and the_author of the_Broadway_musical_Spamalot .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eric'), (5, 'Idle'), (10, '('), (11, 'born'), (16, '29'), (19, 'March'), (25, '1943'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'English'), (45, 'comedian'), (53, ','), (55, 'actor'), (60, ','), (62, 'voice'), (68, 'actor'), (73, ','), (75, 'author'), (81, ','), (83, 'singer-songwriter'), (100, ','), (102, 'musician'), (110, ','), (112, 'writer'), (119, 'and'), (123, 'comedic'), (131, 'composer'), (139, '.'), (141, 'Idle'), (146, 'was'), (150, 'a'), (152, 'member'), (159, 'of'), (162, 'the'), (166, 'British'), (174, 'surreal'), (182, 'comedy'), (189, 'group'), (195, 'Monty'), (201, 'Python'), (207, ','), (209, 'a'), (211, 'member'), (218, 'of'), (221, 'the'), (225, 'parody'), (232, 'rock'), (237, 'band'), (242, 'The'), (246, 'Rutles'), (252, ','), (254, 'and'), (258, 'the'), (262, 'author'), (269, 'of'), (272, 'the'), (276, 'Broadway'), (285, 'musical'), (293, 'Spamalot'), (301, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eric Idle',0, 9), ('born 29 March 1943',11, 29), ('an English comedian',34, 53), ('voice actor',62, 73), ('author, singer-songwriter, musician, writer and comedic composer',75, 139), ('a member',150, 158), ('the British surreal comedy group Monty Python',162, 207), ('a member',209, 217), ('the parody rock band',221, 241), ('The Rutles',242, 252), ('the author',258, 268), ('the Broadway musical Spamalot',272, 301)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', '.', 'JJ', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'DT', 'NNPS', ',', 'CC', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eric'), (5, 'Idle'), (10, '('), (11, 'born'), (16, '29'), (19, 'March'), (25, '1943'), (29, ')'), (31, 'is'), (34, 'an'), (37, 'English'), (45, 'comedian'), (53, ','), (55, 'actor'), (60, ','), (62, 'voice'), (68, 'actor'), (73, ','), (75, 'author'), (81, ','), (83, 'singer'), (89, '-'), (90, 'songwriter'), (100, ','), (102, 'musician'), (110, ','), (112, 'writer'), (119, 'and'), (123, 'comedic'), (131, 'composer'), (139, '.'), (141, 'Idle'), (146, 'was'), (150, 'a'), (152, 'member'), (159, 'of'), (162, 'the'), (166, 'British'), (174, 'surreal'), (182, 'comedy'), (189, 'group'), (195, 'Monty'), (201, 'Python'), (207, ','), (209, 'a'), (211, 'member'), (218, 'of'), (221, 'the'), (225, 'parody'), (232, 'rock'), (237, 'band'), (242, 'The'), (246, 'Rutles'), (252, ','), (254, 'and'), (258, 'the'), (262, 'author'), (269, 'of'), (272, 'the'), (276, 'Broadway'), (285, 'musical'), (293, 'Spamalot'), (301, '.')])</spacy_tokens>
+<spacy_chunks>[('Eric Idle', 0, 9), ('29 March 1943', 16, 29), ('an English comedian', 34, 53), ('voice actor', 62, 73), ('author', 75, 81), ('singer-songwriter', 83, 100), ('musician', 102, 110), ('comedic composer', 123, 139), ('a member', 150, 158), ('the British surreal comedy group', 162, 194), ('Monty Python', 195, 207), ('the parody rock band', 221, 241), ('The Rutles', 242, 252), ('the author', 258, 268), ('the Broadway musical Spamalot', 272, 301)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'NN', 'HYPH', 'NN', ',', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'NNP', 'NNP', ',', 'DT', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN', 'DT', 'NNPS', ',', 'CC', 'DT', 'NN', 'IN', 'DT', 'NNP', 'JJ', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

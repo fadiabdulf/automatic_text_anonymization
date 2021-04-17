@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tracy Dali</title>
+<link/>https://en.wikipedia.org/wiki/Tracy_Dali
+<annotated>0</annotated>
+<originalabstract>Tracy Dali (born September 17, 1966) is an American actress and model.
+Dali was a cheerleader at University of Arizona.</originalabstract>
+<abstract>Tracy_Dali ( born September_17_,_1966 ) is an_American_actress_and_model . Dali was a_cheerleader at University of Arizona .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tracy'), (6, 'Dali'), (11, '('), (12, 'born'), (17, 'September'), (27, '17'), (29, ','), (31, '1966'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (60, 'and'), (64, 'model'), (69, '.'), (71, 'Dali'), (76, 'was'), (80, 'a'), (82, 'cheerleader'), (94, 'at'), (97, 'University'), (108, 'of'), (111, 'Arizona'), (118, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tracy Dali',0, 10), ('September 17, 1966',17, 35), ('an American actress and model',40, 69), ('a cheerleader',80, 93)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tracy'), (6, 'Dali'), (11, '('), (12, 'born'), (17, 'September'), (27, '17'), (29, ','), (31, '1966'), (35, ')'), (37, 'is'), (40, 'an'), (43, 'American'), (52, 'actress'), (60, 'and'), (64, 'model'), (69, '.'), (71, 'Dali'), (76, 'was'), (80, 'a'), (82, 'cheerleader'), (94, 'at'), (97, 'University'), (108, 'of'), (111, 'Arizona'), (118, '.')])</spacy_tokens>
+<spacy_chunks>[('Tracy Dali', 0, 10), ('September 17, 1966', 17, 35), ('an American actress', 40, 59), ('a cheerleader', 80, 93), ('University of Arizona', 97, 118)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

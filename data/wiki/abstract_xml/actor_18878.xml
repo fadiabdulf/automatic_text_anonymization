@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marie-France Pisier</title>
+<link/>https://en.wikipedia.org/wiki/Marie-France_Pisier
+<annotated>0</annotated>
+<originalabstract>Marie-France Pisier (10 May 1944 – 24 April 2011) was a French actress, screenwriter, and director. She appeared in numerous films of the French New Wave and twice earned the national César Award for Best Supporting Actress.</originalabstract>
+<abstract>Marie-France_Pisier ( 10_May_1944 – 24_April_2011 ) was a_French_actress , screenwriter , and director . She appeared in numerous_films of the_French_New_Wave and twice_earned the_national_César_Award for Best_Supporting_Actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie-France'), (13, 'Pisier'), (20, '('), (21, '10'), (24, 'May'), (28, '1944'), (33, '–'), (35, '24'), (38, 'April'), (44, '2011'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'actress'), (70, ','), (72, 'screenwriter'), (84, ','), (86, 'and'), (90, 'director'), (98, '.'), (100, 'She'), (104, 'appeared'), (113, 'in'), (116, 'numerous'), (125, 'films'), (131, 'of'), (134, 'the'), (138, 'French'), (145, 'New'), (149, 'Wave'), (154, 'and'), (158, 'twice'), (164, 'earned'), (171, 'the'), (175, 'national'), (184, 'César'), (190, 'Award'), (196, 'for'), (200, 'Best'), (205, 'Supporting'), (216, 'Actress'), (223, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie-France Pisier',0, 19), ('10 May 1944',21, 32), ('24 April 2011',35, 48), ('a French actress',54, 70), ('numerous films',116, 130), ('the French New Wave',134, 153), ('twice earned',158, 170), ('the national César Award',171, 195), ('Best Supporting Actress',200, 223)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'CC', 'RB', 'VBD', 'DT', 'JJ', 'NNP', 'NN', 'IN', 'JJS', 'VBG', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (5, '-'), (6, 'France'), (13, 'Pisier'), (20, '('), (21, '10'), (24, 'May'), (28, '1944'), (33, '–'), (35, '24'), (38, 'April'), (44, '2011'), (48, ')'), (50, 'was'), (54, 'a'), (56, 'French'), (63, 'actress'), (70, ','), (72, 'screenwriter'), (84, ','), (86, 'and'), (90, 'director'), (98, '.'), (100, 'She'), (104, 'appeared'), (113, 'in'), (116, 'numerous'), (125, 'films'), (131, 'of'), (134, 'the'), (138, 'French'), (145, 'New'), (149, 'Wave'), (154, 'and'), (158, 'twice'), (164, 'earned'), (171, 'the'), (175, 'national'), (184, 'César'), (190, 'Award'), (196, 'for'), (200, 'Best'), (205, 'Supporting'), (216, 'Actress'), (223, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie-France Pisier', 0, 19), ('(10 May', 20, 27), ('10 May 1944', 21, 32), ('24 April 2011', 35, 48), ('a French actress', 54, 70), ('screenwriter', 72, 84), ('director', 90, 98), ('numerous films', 116, 130), ('the French New Wave', 134, 153), ('the national César Award', 171, 195), ('César Award for Best Supporting Actress', 184, 223)]</spacy_chunks>
+<spacy_pos>['NNP', 'HYPH', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'JJ', 'NNP', 'NNP', 'CC', 'RB', 'VBD', 'DT', 'JJ', 'NNP', 'NNP', 'IN', 'NNP', 'VBG', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

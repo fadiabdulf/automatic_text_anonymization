@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frankie Howerd</title>
+<link/>https://en.wikipedia.org/wiki/Frankie_Howerd
+<annotated>0</annotated>
+<originalabstract>Francis Alick Howard,  (6 March 1917 – 19 April 1992), better known by his stage-name Frankie Howerd, was an English comedian and comic actor whose career, described by fellow comedian Barry Cryer as "a series of comebacks", spanned six decades.</originalabstract>
+<abstract>Francis_Alick_Howard , ( 6_March_1917 – 19_April_1992 ) , better_known by his_stage-name_Frankie_Howerd , was an_English_comedian and comic_actor whose_career , described by fellow_comedian_Barry_Cryer as " a_series of comebacks " , spanned six_decades .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Francis'), (8, 'Alick'), (14, 'Howard'), (20, ','), (23, '('), (24, '6'), (26, 'March'), (32, '1917'), (37, '–'), (39, '19'), (42, 'April'), (48, '1992'), (52, ')'), (53, ','), (55, 'better'), (62, 'known'), (68, 'by'), (71, 'his'), (75, 'stage-name'), (86, 'Frankie'), (94, 'Howerd'), (100, ','), (102, 'was'), (106, 'an'), (109, 'English'), (117, 'comedian'), (126, 'and'), (130, 'comic'), (136, 'actor'), (142, 'whose'), (148, 'career'), (154, ','), (156, 'described'), (166, 'by'), (169, 'fellow'), (176, 'comedian'), (185, 'Barry'), (191, 'Cryer'), (197, 'as'), (200, '"'), (201, 'a'), (203, 'series'), (210, 'of'), (213, 'comebacks'), (222, '"'), (223, ','), (225, 'spanned'), (233, 'six'), (237, 'decades'), (244, '.')])</stanford_tokens>
+<opennlp_chunks>[('Francis Alick Howard',0, 20), ('6 March 1917',24, 36), ('19 April 1992',39, 52), ('better known',55, 67), ('his stage-name Frankie Howerd',71, 100), ('an English comedian',106, 125), ('comic actor',130, 141), ('whose career',142, 154), ('fellow comedian Barry Cryer',169, 196), ('a series',201, 209), ('six decades',233, 244)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'JJ', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'WP$', 'NN', ',', 'VBN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', 'IN', '``', 'DT', 'NN', 'IN', 'NNS', '\'\'', ',', 'VBD', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Francis'), (8, 'Alick'), (14, 'Howard'), (20, ','), (23, '('), (24, '6'), (26, 'March'), (32, '1917'), (37, '–'), (39, '19'), (42, 'April'), (48, '1992'), (52, ')'), (53, ','), (55, 'better'), (62, 'known'), (68, 'by'), (71, 'his'), (75, 'stage'), (80, '-'), (81, 'name'), (86, 'Frankie'), (94, 'Howerd'), (100, ','), (102, 'was'), (106, 'an'), (109, 'English'), (117, 'comedian'), (126, 'and'), (130, 'comic'), (136, 'actor'), (142, 'whose'), (148, 'career'), (154, ','), (156, 'described'), (166, 'by'), (169, 'fellow'), (176, 'comedian'), (185, 'Barry'), (191, 'Cryer'), (197, 'as'), (200, '"'), (201, 'a'), (203, 'series'), (210, 'of'), (213, 'comebacks'), (222, '"'), (223, ','), (225, 'spanned'), (233, 'six'), (237, 'decades'), (244, '.')])</spacy_tokens>
+<spacy_chunks>[('Francis Alick Howard', 0, 20), ('(6 March', 23, 31), ('6 March 1917', 24, 36), ('19 April 1992', 39, 52), ('his stage-name Frankie Howerd', 71, 100), ('an English comedian', 106, 125), ('comic actor', 130, 141), ('whose career', 142, 154), ('fellow comedian Barry Cryer', 169, 196), ('"a series', 200, 209), ('comebacks', 213, 222)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'HYPH', 'NN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'WP$', 'NN', ',', 'VBN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', 'IN', '``', 'DT', 'NN', 'IN', 'NNS', "''", ',', 'VBD', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

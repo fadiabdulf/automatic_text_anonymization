@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Peta Wilson</title>
+<link/>https://en.wikipedia.org/wiki/Peta_Wilson
+<annotated>0</annotated>
+<originalabstract>Peta Gia Wilson (born 18 November 1970) is an Australian actress, lingerie designer and model. She is best known as Nikita in the television series La Femme Nikita.</originalabstract>
+<abstract>Peta_Gia_Wilson ( born_18_November_1970 ) is an_Australian_actress , lingerie_designer_and_model . She is_best_known as Nikita in the_television_series_La_Femme_Nikita .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Peta'), (5, 'Gia'), (9, 'Wilson'), (16, '('), (17, 'born'), (22, '18'), (25, 'November'), (34, '1970'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'Australian'), (57, 'actress'), (64, ','), (66, 'lingerie'), (75, 'designer'), (84, 'and'), (88, 'model'), (93, '.'), (95, 'She'), (99, 'is'), (102, 'best'), (107, 'known'), (113, 'as'), (116, 'Nikita'), (123, 'in'), (126, 'the'), (130, 'television'), (141, 'series'), (148, 'La'), (151, 'Femme'), (157, 'Nikita'), (163, '.')])</stanford_tokens>
+<opennlp_chunks>[('Peta Gia Wilson',0, 15), ('born 18 November 1970',17, 38), ('an Australian actress',43, 64), ('lingerie designer and model',66, 93), ('is best known',99, 112), ('the television series La Femme Nikita',126, 163)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Peta'), (5, 'Gia'), (9, 'Wilson'), (16, '('), (17, 'born'), (22, '18'), (25, 'November'), (34, '1970'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'Australian'), (57, 'actress'), (64, ','), (66, 'lingerie'), (75, 'designer'), (84, 'and'), (88, 'model'), (93, '.'), (95, 'She'), (99, 'is'), (102, 'best'), (107, 'known'), (113, 'as'), (116, 'Nikita'), (123, 'in'), (126, 'the'), (130, 'television'), (141, 'series'), (148, 'La'), (151, 'Femme'), (157, 'Nikita'), (163, '.')])</spacy_tokens>
+<spacy_chunks>[('Peta Gia Wilson', 0, 15), ('18 November 1970', 22, 38), ('an Australian actress', 43, 64), ('lingerie designer', 66, 83), ('Nikita', 116, 122), ('the television series', 126, 147), ('La Femme Nikita', 148, 163)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'VBN', 'IN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

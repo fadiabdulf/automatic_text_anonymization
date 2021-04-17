@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michel Berto</title>
+<link/>https://en.wikipedia.org/wiki/Michel_Berto
+<annotated>0</annotated>
+<originalabstract>Michel Berto (25 December 1939 in Grenoble – (15e) 25 December 1995 in Paris) was a French actor. He was married to actresses Juliet Berto and Marie Berto.</originalabstract>
+<abstract>Michel_Berto ( 25_December_1939 in Grenoble – ( 15e ) 25_December_1995 in Paris ) was a_French_actor . He was_married to actresses_Juliet_Berto and Marie_Berto .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michel'), (7, 'Berto'), (13, '('), (14, '25'), (17, 'December'), (26, '1939'), (31, 'in'), (34, 'Grenoble'), (43, '–'), (45, '('), (46, '15e'), (49, ')'), (51, '25'), (54, 'December'), (63, '1995'), (68, 'in'), (71, 'Paris'), (76, ')'), (78, 'was'), (82, 'a'), (84, 'French'), (91, 'actor'), (96, '.'), (98, 'He'), (101, 'was'), (105, 'married'), (113, 'to'), (116, 'actresses'), (126, 'Juliet'), (133, 'Berto'), (139, 'and'), (143, 'Marie'), (149, 'Berto'), (154, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michel Berto',0, 12), ('25 December 1939',14, 30), ('25 December 1995',51, 67), ('a French actor',82, 96), ('was married',101, 112), ('actresses Juliet Berto',116, 138), ('Marie Berto',143, 154)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', ':', '-LRB-', 'NN', '-RRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'TO', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michel'), (7, 'Berto'), (13, '('), (14, '25'), (17, 'December'), (26, '1939'), (31, 'in'), (34, 'Grenoble'), (43, '–'), (45, '('), (46, '15e'), (49, ')'), (51, '25'), (54, 'December'), (63, '1995'), (68, 'in'), (71, 'Paris'), (76, ')'), (78, 'was'), (82, 'a'), (84, 'French'), (91, 'actor'), (96, '.'), (98, 'He'), (101, 'was'), (105, 'married'), (113, 'to'), (116, 'actresses'), (126, 'Juliet'), (133, 'Berto'), (139, 'and'), (143, 'Marie'), (149, 'Berto'), (154, '.')])</spacy_tokens>
+<spacy_chunks>[('Michel Berto', 0, 12), ('25 December 1939', 14, 30), ('Grenoble', 34, 42), ('25 December 1995', 51, 67), ('1995 in', 63, 70), ('a French actor', 82, 96), ('actresses Juliet Berto', 116, 138), ('Marie Berto', 143, 154)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', '.', '-LRB-', 'CD', '-RRB-', 'CD', 'NNP', 'CD', 'IN', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'JJ', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maria Tucci</title>
+<link/>https://en.wikipedia.org/wiki/Maria_Tucci
+<annotated>0</annotated>
+<originalabstract>Maria Tucci (born June 19, 1941) is an Italian-American actress.She was nominated for the Tony Award for Best Featured Actress in a Play in 1967 for her performance in The Rose Tattoo. She played Koula in the 2015 mini-series The Slap.</originalabstract>
+<abstract>Maria_Tucci ( born June_19_,_1941 ) is an_Italian-American_actress.She was_nominated for the_Tony_Award for Best_Featured_Actress in a_Play in 1967 for her_performance in The_Rose_Tattoo . She played Koula in the_2015_mini-series The_Slap .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maria'), (6, 'Tucci'), (12, '('), (13, 'born'), (18, 'June'), (23, '19'), (25, ','), (27, '1941'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'Italian-American'), (56, 'actress.She'), (68, 'was'), (72, 'nominated'), (82, 'for'), (86, 'the'), (90, 'Tony'), (95, 'Award'), (101, 'for'), (105, 'Best'), (110, 'Featured'), (119, 'Actress'), (127, 'in'), (130, 'a'), (132, 'Play'), (137, 'in'), (140, '1967'), (145, 'for'), (149, 'her'), (153, 'performance'), (165, 'in'), (168, 'The'), (172, 'Rose'), (177, 'Tattoo'), (183, '.'), (185, 'She'), (189, 'played'), (196, 'Koula'), (202, 'in'), (205, 'the'), (209, '2015'), (214, 'mini-series'), (226, 'The'), (230, 'Slap'), (234, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maria Tucci',0, 11), ('June 19, 1941',18, 31), ('an Italian-American actress.She',36, 67), ('was nominated',68, 81), ('the Tony Award',86, 100), ('Best Featured Actress',105, 126), ('a Play',130, 136), ('her performance',149, 164), ('The Rose Tattoo',168, 183), ('the 2015 mini-series',205, 225), ('The Slap',226, 234)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'NNP', 'IN', 'DT', 'CD', 'NNS', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maria'), (6, 'Tucci'), (12, '('), (13, 'born'), (18, 'June'), (23, '19'), (25, ','), (27, '1941'), (31, ')'), (33, 'is'), (36, 'an'), (39, 'Italian'), (46, '-'), (47, 'American'), (56, 'actress'), (63, '.'), (64, 'She'), (68, 'was'), (72, 'nominated'), (82, 'for'), (86, 'the'), (90, 'Tony'), (95, 'Award'), (101, 'for'), (105, 'Best'), (110, 'Featured'), (119, 'Actress'), (127, 'in'), (130, 'a'), (132, 'Play'), (137, 'in'), (140, '1967'), (145, 'for'), (149, 'her'), (153, 'performance'), (165, 'in'), (168, 'The'), (172, 'Rose'), (177, 'Tattoo'), (183, '.'), (185, 'She'), (189, 'played'), (196, 'Koula'), (202, 'in'), (205, 'the'), (209, '2015'), (214, 'mini'), (218, '-'), (219, 'series'), (226, 'The'), (230, 'Slap'), (234, '.')])</spacy_tokens>
+<spacy_chunks>[('Maria Tucci', 0, 11), ('June 19, 1941', 18, 31), ('an Italian-American actress', 36, 63), ('the Tony Award', 86, 100), ('Tony Award for Best Featured Actress in a Play', 90, 136), ('her performance', 149, 164), ('The Rose Tattoo', 168, 183), ('the 2015 mini-series', 205, 225), ('The Slap', 226, 234)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'JJ', 'NNP', 'IN', 'DT', 'NN', 'IN', 'CD', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'NNP', 'IN', 'DT', 'CD', 'JJ', 'HYPH', 'NN', 'DT', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

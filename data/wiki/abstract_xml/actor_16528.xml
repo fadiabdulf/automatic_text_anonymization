@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Beverley Cressman</title>
+<link/>https://en.wikipedia.org/wiki/Beverley_Cressman
+<annotated>0</annotated>
+<originalabstract>Beverley Cressman is a British actor, best known for being the first person cast as Kate Lethbridge-Stewart. She appeared in two unofficial direct-to-video Doctor Who spin-offs, Downtime (1995), and Dæmos Rising (2004).</originalabstract>
+<abstract>Beverley_Cressman is a_British_actor , best_known for being the_first_person cast as Kate_Lethbridge-Stewart . She appeared in two_unofficial_direct-to-video_Doctor Who_spin-offs , Downtime_(_1995_) , and Dæmos Rising (_2004_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Beverley'), (9, 'Cressman'), (18, 'is'), (21, 'a'), (23, 'British'), (31, 'actor'), (36, ','), (38, 'best'), (43, 'known'), (49, 'for'), (53, 'being'), (59, 'the'), (63, 'first'), (69, 'person'), (76, 'cast'), (81, 'as'), (84, 'Kate'), (89, 'Lethbridge-Stewart'), (107, '.'), (109, 'She'), (113, 'appeared'), (122, 'in'), (125, 'two'), (129, 'unofficial'), (140, 'direct-to-video'), (156, 'Doctor'), (163, 'Who'), (167, 'spin-offs'), (176, ','), (178, 'Downtime'), (187, '('), (188, '1995'), (192, ')'), (193, ','), (195, 'and'), (199, 'Dæmos'), (205, 'Rising'), (212, '('), (213, '2004'), (217, ')'), (218, '.')])</stanford_tokens>
+<opennlp_chunks>[('Beverley Cressman',0, 17), ('a British actor',21, 36), ('best known',38, 48), ('the first person',59, 75), ('Kate Lethbridge-Stewart',84, 107), ('two unofficial direct-to-video Doctor',125, 162), ('Who spin-offs',163, 176), ('Downtime (1995)',178, 193), ('(2004)',212, 218)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'JJ', 'NN', 'NNP', 'WP', 'NNS', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'VBG', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Beverley'), (9, 'Cressman'), (18, 'is'), (21, 'a'), (23, 'British'), (31, 'actor'), (36, ','), (38, 'best'), (43, 'known'), (49, 'for'), (53, 'being'), (59, 'the'), (63, 'first'), (69, 'person'), (76, 'cast'), (81, 'as'), (84, 'Kate'), (89, 'Lethbridge'), (99, '-'), (100, 'Stewart'), (107, '.'), (109, 'She'), (113, 'appeared'), (122, 'in'), (125, 'two'), (129, 'unofficial'), (140, 'direct'), (146, '-'), (147, 'to'), (149, '-'), (150, 'video'), (156, 'Doctor'), (163, 'Who'), (167, 'spin'), (171, '-'), (172, 'offs'), (176, ','), (178, 'Downtime'), (187, '('), (188, '1995'), (192, ')'), (193, ','), (195, 'and'), (199, 'Dæmos'), (205, 'Rising'), (212, '('), (213, '2004'), (217, ')'), (218, '.')])</spacy_tokens>
+<spacy_chunks>[('Beverley Cressman', 0, 17), ('a British actor', 21, 36), ('the first person', 59, 75), ('Kate Lethbridge-Stewart', 84, 107), ('Direct-to-video', 140, 155), ('Doctor Who', 156, 166), ('Who spin-offs', 163, 176), ('Downtime', 178, 186), ('Dæmos Rising', 199, 211)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'VBG', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'NNP', 'NNP', 'HYPH', 'NNP', '.', 'PRP', 'VBD', 'IN', 'CD', 'JJ', 'JJ', 'HYPH', 'IN', 'HYPH', 'NN', 'NN', 'WP', 'NN', 'HYPH', 'NNS', ',', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'VBG', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eric Emerson</title>
+<link/>https://en.wikipedia.org/wiki/Eric_Emerson
+<annotated>0</annotated>
+<originalabstract>Eric Emerson (June 23, 1945 – May 28, 1975) was an American musician, dancer, and actor. Emerson is best known for his roles in films by pop artist Andy Warhol, and as a member of the seminal glam punk group, the Magic Tramps.</originalabstract>
+<abstract>Eric_Emerson ( June_23_,_1945 – May_28_,_1975 ) was an_American_musician , dancer , and actor . Emerson is_best_known for his_roles in films by pop_artist_Andy_Warhol , and as a_member of the_seminal_glam_punk_group , the_Magic_Tramps .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eric'), (5, 'Emerson'), (13, '('), (14, 'June'), (19, '23'), (21, ','), (23, '1945'), (28, '–'), (30, 'May'), (34, '28'), (36, ','), (38, '1975'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'musician'), (68, ','), (70, 'dancer'), (76, ','), (78, 'and'), (82, 'actor'), (87, '.'), (89, 'Emerson'), (97, 'is'), (100, 'best'), (105, 'known'), (111, 'for'), (115, 'his'), (119, 'roles'), (125, 'in'), (128, 'films'), (134, 'by'), (137, 'pop'), (141, 'artist'), (148, 'Andy'), (153, 'Warhol'), (159, ','), (161, 'and'), (165, 'as'), (168, 'a'), (170, 'member'), (177, 'of'), (180, 'the'), (184, 'seminal'), (192, 'glam'), (197, 'punk'), (202, 'group'), (207, ','), (209, 'the'), (213, 'Magic'), (219, 'Tramps'), (225, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eric Emerson',0, 12), ('June 23, 1945',14, 27), ('May 28, 1975',30, 42), ('an American musician',48, 68), ('is best known',97, 110), ('his roles',115, 124), ('pop artist Andy Warhol',137, 159), ('a member',168, 176), ('the seminal glam punk group',180, 207), ('the Magic Tramps',209, 225)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'IN', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'IN', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', ',', 'DT', 'NNP', 'NNPS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eric'), (5, 'Emerson'), (13, '('), (14, 'June'), (19, '23'), (21, ','), (23, '1945'), (28, '–'), (30, 'May'), (34, '28'), (36, ','), (38, '1975'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'musician'), (68, ','), (70, 'dancer'), (76, ','), (78, 'and'), (82, 'actor'), (87, '.'), (89, 'Emerson'), (97, 'is'), (100, 'best'), (105, 'known'), (111, 'for'), (115, 'his'), (119, 'roles'), (125, 'in'), (128, 'films'), (134, 'by'), (137, 'pop'), (141, 'artist'), (148, 'Andy'), (153, 'Warhol'), (159, ','), (161, 'and'), (165, 'as'), (168, 'a'), (170, 'member'), (177, 'of'), (180, 'the'), (184, 'seminal'), (192, 'glam'), (197, 'punk'), (202, 'group'), (207, ','), (209, 'the'), (213, 'Magic'), (219, 'Tramps'), (225, '.')])</spacy_tokens>
+<spacy_chunks>[('Eric Emerson', 0, 12), ('June 23, 1945', 14, 27), ('May 28, 1975', 30, 42), ('an American musician', 48, 68), ('dancer', 70, 76), ('his roles', 115, 124), ('pop artist Andy Warhol', 137, 159), ('a member', 168, 176), ('the seminal glam punk group', 180, 207), ('The Magic Tramps', 209, 225)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'NNS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNS', 'IN', 'NN', 'NN', 'NNP', 'NNP', ',', 'CC', 'IN', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', 'NN', ',', 'DT', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

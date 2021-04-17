@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Casey LaBow</title>
+<link/>https://en.wikipedia.org/wiki/Casey_LaBow
+<annotated>0</annotated>
+<originalabstract>Casey LaBow (born Samantha Casey Labow in New York City) is an American film producer and actress known for her role as Kate Denali in The Twilight Saga: Breaking Dawn – Part 1 and The Twilight Saga: Breaking Dawn – Part 2.</originalabstract>
+<abstract>Casey_LaBow ( born Samantha_Casey_Labow in New_York_City ) is an_American_film_producer_and_actress known for her_role as Kate_Denali in The_Twilight_Saga : Breaking Dawn – Part_1 and The_Twilight_Saga : Breaking Dawn – Part_2 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Casey'), (6, 'LaBow'), (12, '('), (13, 'born'), (18, 'Samantha'), (27, 'Casey'), (33, 'Labow'), (39, 'in'), (42, 'New'), (46, 'York'), (51, 'City'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'film'), (77, 'producer'), (86, 'and'), (90, 'actress'), (98, 'known'), (104, 'for'), (108, 'her'), (112, 'role'), (117, 'as'), (120, 'Kate'), (125, 'Denali'), (132, 'in'), (135, 'The'), (139, 'Twilight'), (148, 'Saga'), (152, ':'), (154, 'Breaking'), (163, 'Dawn'), (168, '–'), (170, 'Part'), (175, '1'), (177, 'and'), (181, 'The'), (185, 'Twilight'), (194, 'Saga'), (198, ':'), (200, 'Breaking'), (209, 'Dawn'), (214, '–'), (216, 'Part'), (221, '2'), (222, '.')])</stanford_tokens>
+<opennlp_chunks>[('Casey LaBow',0, 11), ('Samantha Casey Labow',18, 38), ('New York City',42, 55), ('an American film producer and actress',60, 97), ('her role',108, 116), ('Kate Denali',120, 131), ('The Twilight Saga',135, 152), ('Part 1',170, 176), ('The Twilight Saga',181, 198), ('Part 2',216, 222)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ':', 'VBG', 'NN', ':', 'NNP', 'CD', 'CC', 'DT', 'NNP', 'NNP', ':', 'VBG', 'NN', ':', 'NNP', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Casey'), (6, 'LaBow'), (12, '('), (13, 'born'), (18, 'Samantha'), (27, 'Casey'), (33, 'Labow'), (39, 'in'), (42, 'New'), (46, 'York'), (51, 'City'), (55, ')'), (57, 'is'), (60, 'an'), (63, 'American'), (72, 'film'), (77, 'producer'), (86, 'and'), (90, 'actress'), (98, 'known'), (104, 'for'), (108, 'her'), (112, 'role'), (117, 'as'), (120, 'Kate'), (125, 'Denali'), (132, 'in'), (135, 'The'), (139, 'Twilight'), (148, 'Saga'), (152, ':'), (154, 'Breaking'), (163, 'Dawn'), (168, '–'), (170, 'Part'), (175, '1'), (177, 'and'), (181, 'The'), (185, 'Twilight'), (194, 'Saga'), (198, ':'), (200, 'Breaking'), (209, 'Dawn'), (214, '–'), (216, 'Part'), (221, '2'), (222, '.')])</spacy_tokens>
+<spacy_chunks>[('Casey LaBow', 0, 11), ('(born Samantha Casey Labow', 12, 38), ('New York City', 42, 55), ('an American film producer', 60, 85), ('actress', 90, 97), ('her role', 108, 116), ('Kate Denali', 120, 131), ('The Twilight Saga: Breaking Dawn – Part 1', 135, 176), ('The Twilight Saga: Breaking Dawn – Part 2', 181, 222)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNP', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ':', 'NNP', 'NNP', ':', 'NN', 'CD', 'CC', 'DT', 'NNP', 'NNP', ':', 'NNP', 'NNP', ':', 'NN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

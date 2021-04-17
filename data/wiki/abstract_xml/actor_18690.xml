@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marlène Jobert</title>
+<link/>https://en.wikipedia.org/wiki/Marl%C3%A8ne_Jobert
+<annotated>0</annotated>
+<originalabstract>Marlène Jobert (born 4 November 1940) is a French actress, singer and author.</originalabstract>
+<abstract>Marlène_Jobert ( born 4_November_1940 ) is a_French_actress , singer_and_author .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marlène'), (8, 'Jobert'), (15, '('), (16, 'born'), (21, '4'), (23, 'November'), (32, '1940'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'French'), (50, 'actress'), (57, ','), (59, 'singer'), (66, 'and'), (70, 'author'), (76, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marlène Jobert',0, 14), ('4 November 1940',21, 36), ('a French actress',41, 57), ('singer and author',59, 76)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marlène'), (8, 'Jobert'), (15, '('), (16, 'born'), (21, '4'), (23, 'November'), (32, '1940'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'French'), (50, 'actress'), (57, ','), (59, 'singer'), (66, 'and'), (70, 'author'), (76, '.')])</spacy_tokens>
+<spacy_chunks>[('Marlène Jobert', 0, 14), ('4 November 1940', 21, 36), ('a French actress', 41, 57), ('singer', 59, 65), ('author', 70, 76)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

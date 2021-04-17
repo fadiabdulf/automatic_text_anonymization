@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Henry Thomas</title>
+<link/>https://en.wikipedia.org/wiki/Henry_Thomas
+<annotated>0</annotated>
+<originalabstract>Henry Jackson Thomas Jr. (born September 9, 1971) is an American actor and musician. His breakout role is in Steven Spielberg's film E.T. the Extra-Terrestrial.</originalabstract>
+<abstract>Henry_Jackson_Thomas_Jr. ( born September_9_,_1971 ) is an_American_actor_and_musician . His_breakout_role is in Steven_Spielberg 's_film E.T. the_Extra-Terrestrial .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Henry'), (6, 'Jackson'), (14, 'Thomas'), (21, 'Jr.'), (25, '('), (26, 'born'), (31, 'September'), (41, '9'), (42, ','), (44, '1971'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actor'), (71, 'and'), (75, 'musician'), (83, '.'), (85, 'His'), (89, 'breakout'), (98, 'role'), (103, 'is'), (106, 'in'), (109, 'Steven'), (116, 'Spielberg'), (125, '\'s'), (128, 'film'), (133, 'E.T.'), (138, 'the'), (142, 'Extra-Terrestrial'), (159, '.')])</stanford_tokens>
+<opennlp_chunks>[('Henry Jackson Thomas Jr.',0, 24), ('September 9, 1971',31, 48), ('an American actor and musician',53, 83), ('His breakout role',85, 102), ('Steven Spielberg',109, 125), ('\'s film',125, 132), ('the Extra-Terrestrial',138, 159)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'JJ', 'NN', 'VBZ', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'DT', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Henry'), (6, 'Jackson'), (14, 'Thomas'), (21, 'Jr.'), (25, '('), (26, 'born'), (31, 'September'), (41, '9'), (42, ','), (44, '1971'), (48, ')'), (50, 'is'), (53, 'an'), (56, 'American'), (65, 'actor'), (71, 'and'), (75, 'musician'), (83, '.'), (85, 'His'), (89, 'breakout'), (98, 'role'), (103, 'is'), (106, 'in'), (109, 'Steven'), (116, 'Spielberg'), (125, "'s"), (128, 'film'), (133, 'E.T.'), (138, 'the'), (142, 'Extra'), (147, '-'), (148, 'Terrestrial'), (159, '.')])</spacy_tokens>
+<spacy_chunks>[('Henry Jackson Thomas Jr.', 0, 24), ('September 9, 1971', 31, 48), ('an American actor', 53, 70), ('musician', 75, 83), ('His breakout role', 85, 102), ("Steven Spielberg's film", 109, 132), ('E.T. the Extra-Terrestrial', 133, 159)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP$', 'JJ', 'NN', 'VBZ', 'IN', 'NNP', 'NNP', 'POS', 'NN', 'NNP', 'DT', 'NNP', 'HYPH', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

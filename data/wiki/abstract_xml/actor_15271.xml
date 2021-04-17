@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jill St. John</title>
+<link/>https://en.wikipedia.org/wiki/Jill_St._John
+<annotated>0</annotated>
+<originalabstract>Jill St. John (born Jill Arlyn Oppenheim; August 19, 1940) is an American actress. She played Bond girl Tiffany Case in Diamonds Are Forever (1971).</originalabstract>
+<abstract>Jill_St._John ( born Jill_Arlyn_Oppenheim ; August_19_,_1940 ) is an_American_actress . She played Bond_girl_Tiffany_Case in Diamonds Are_Forever ( 1971_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jill'), (5, 'St.'), (9, 'John'), (14, '('), (15, 'born'), (20, 'Jill'), (25, 'Arlyn'), (31, 'Oppenheim'), (40, ';'), (42, 'August'), (49, '19'), (51, ','), (53, '1940'), (57, ')'), (59, 'is'), (62, 'an'), (65, 'American'), (74, 'actress'), (81, '.'), (83, 'She'), (87, 'played'), (94, 'Bond'), (99, 'girl'), (104, 'Tiffany'), (112, 'Case'), (117, 'in'), (120, 'Diamonds'), (129, 'Are'), (133, 'Forever'), (141, '('), (142, '1971'), (146, ')'), (147, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jill St. John',0, 13), ('Jill Arlyn Oppenheim',20, 40), ('August 19, 1940',42, 57), ('an American actress',62, 81), ('Bond girl Tiffany Case',94, 116), ('Are Forever',129, 140), ('1971)',142, 147)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'NNP', 'VBP', 'RB', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jill'), (5, 'St.'), (9, 'John'), (14, '('), (15, 'born'), (20, 'Jill'), (25, 'Arlyn'), (31, 'Oppenheim'), (40, ';'), (42, 'August'), (49, '19'), (51, ','), (53, '1940'), (57, ')'), (59, 'is'), (62, 'an'), (65, 'American'), (74, 'actress'), (81, '.'), (83, 'She'), (87, 'played'), (94, 'Bond'), (99, 'girl'), (104, 'Tiffany'), (112, 'Case'), (117, 'in'), (120, 'Diamonds'), (129, 'Are'), (133, 'Forever'), (141, '('), (142, '1971'), (146, ')'), (147, '.')])</spacy_tokens>
+<spacy_chunks>[('Jill St. John', 0, 13), ('August 19, 1940', 42, 57), ('an American actress', 62, 81), ('Bond girl Tiffany Case', 94, 116), ('Diamonds Are Forever', 120, 140)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'NNS', 'VBP', 'RB', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

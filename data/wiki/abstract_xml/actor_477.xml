@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jackson Beck</title>
+<link/>https://en.wikipedia.org/wiki/Jackson_Beck
+<annotated>0</annotated>
+<originalabstract>Jackson Beck (July 23, 1912 – July 28, 2004) was an American actor best known as the announcer on radio's The Adventures of Superman  and the voice of Bluto in the Famous era Popeye theatrical shorts.</originalabstract>
+<abstract>Jackson_Beck ( July_23_,_1912 – July_28_,_2004 ) was an_American_actor best_known as the_announcer on radio 's_The_Adventures of Superman and the_voice of Bluto in the_Famous_era_Popeye_theatrical_shorts .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jackson'), (8, 'Beck'), (13, '('), (14, 'July'), (19, '23'), (21, ','), (23, '1912'), (28, '–'), (30, 'July'), (35, '28'), (37, ','), (39, '2004'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'actor'), (67, 'best'), (72, 'known'), (78, 'as'), (81, 'the'), (85, 'announcer'), (95, 'on'), (98, 'radio'), (103, '\'s'), (106, 'The'), (110, 'Adventures'), (121, 'of'), (124, 'Superman'), (134, 'and'), (138, 'the'), (142, 'voice'), (148, 'of'), (151, 'Bluto'), (157, 'in'), (160, 'the'), (164, 'Famous'), (171, 'era'), (175, 'Popeye'), (182, 'theatrical'), (193, 'shorts'), (199, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jackson Beck',0, 12), ('July 23, 1912',14, 27), ('July 28, 2004',30, 43), ('an American actor',49, 66), ('best known',67, 77), ('the announcer',81, 94), ('\'s The Adventures',103, 120), ('the voice',138, 147), ('the Famous era Popeye theatrical shorts',160, 199)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NN', 'POS', 'DT', 'NNS', 'IN', 'NNP', 'CC', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jackson'), (8, 'Beck'), (13, '('), (14, 'July'), (19, '23'), (21, ','), (23, '1912'), (28, '–'), (30, 'July'), (35, '28'), (37, ','), (39, '2004'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'American'), (61, 'actor'), (67, 'best'), (72, 'known'), (78, 'as'), (81, 'the'), (85, 'announcer'), (95, 'on'), (98, 'radio'), (103, "'s"), (106, 'The'), (110, 'Adventures'), (121, 'of'), (124, 'Superman'), (134, 'and'), (138, 'the'), (142, 'voice'), (148, 'of'), (151, 'Bluto'), (157, 'in'), (160, 'the'), (164, 'Famous'), (171, 'era'), (175, 'Popeye'), (182, 'theatrical'), (193, 'shorts'), (199, '.')])</spacy_tokens>
+<spacy_chunks>[('Jackson Beck', 0, 12), ('July 23, 1912', 14, 27), ('July 28, 2004', 30, 43), ('an American actor', 49, 66), ('the announcer', 81, 94), ("radio's The Adventures", 98, 120), ('The Adventures of Superman', 106, 132), ('the voice', 138, 147), ('the Famous era', 160, 174), ('Popeye theatrical shorts', 175, 199)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NN', 'POS', 'DT', 'NNPS', 'IN', 'NNP', 'CC', 'DT', 'NN', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

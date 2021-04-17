@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Iris Stuart</title>
+<link/>https://en.wikipedia.org/wiki/Iris_Stuart
+<annotated>0</annotated>
+<originalabstract>Iris Stuart (born Frances McCann; February 2, 1903 – December 21, 1936) was a motion picture actress of the silent film era. Selected as a WAMPAS Baby Star of 1927, she had a brief career between 1926 and 1927 before retiring from acting. She died of tuberculosis in 1936.</originalabstract>
+<abstract>Iris_Stuart ( born Frances_McCann ; February_2_,_1903 – December_21_,_1936 ) was a_motion_picture_actress of the_silent_film_era . Selected as a_WAMPAS_Baby_Star of 1927 , she had a_brief_career between 1926_and_1927 before retiring from acting . She died of tuberculosis in 1936 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Iris'), (5, 'Stuart'), (12, '('), (13, 'born'), (18, 'Frances'), (26, 'McCann'), (32, ';'), (34, 'February'), (43, '2'), (44, ','), (46, '1903'), (51, '–'), (53, 'December'), (62, '21'), (64, ','), (66, '1936'), (70, ')'), (72, 'was'), (76, 'a'), (78, 'motion'), (85, 'picture'), (93, 'actress'), (101, 'of'), (104, 'the'), (108, 'silent'), (115, 'film'), (120, 'era'), (123, '.'), (125, 'Selected'), (134, 'as'), (137, 'a'), (139, 'WAMPAS'), (146, 'Baby'), (151, 'Star'), (156, 'of'), (159, '1927'), (163, ','), (165, 'she'), (169, 'had'), (173, 'a'), (175, 'brief'), (181, 'career'), (188, 'between'), (196, '1926'), (201, 'and'), (205, '1927'), (210, 'before'), (217, 'retiring'), (226, 'from'), (231, 'acting'), (237, '.'), (239, 'She'), (243, 'died'), (248, 'of'), (251, 'tuberculosis'), (264, 'in'), (267, '1936'), (271, '.')])</stanford_tokens>
+<opennlp_chunks>[('Iris Stuart',0, 11), ('Frances McCann',18, 32), ('February 2, 1903',34, 50), ('December 21, 1936',53, 70), ('a motion picture actress',76, 100), ('the silent film era',104, 123), ('a WAMPAS Baby Star',137, 155), ('a brief career',173, 187), ('1926 and 1927',196, 209)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'CD', 'CC', 'CD', 'IN', 'VBG', 'IN', 'VBG', '.', 'PRP', 'VBD', 'IN', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Iris'), (5, 'Stuart'), (12, '('), (13, 'born'), (18, 'Frances'), (26, 'McCann'), (32, ';'), (34, 'February'), (43, '2'), (44, ','), (46, '1903'), (51, '–'), (53, 'December'), (62, '21'), (64, ','), (66, '1936'), (70, ')'), (72, 'was'), (76, 'a'), (78, 'motion'), (85, 'picture'), (93, 'actress'), (101, 'of'), (104, 'the'), (108, 'silent'), (115, 'film'), (120, 'era'), (123, '.'), (125, 'Selected'), (134, 'as'), (137, 'a'), (139, 'WAMPAS'), (146, 'Baby'), (151, 'Star'), (156, 'of'), (159, '1927'), (163, ','), (165, 'she'), (169, 'had'), (173, 'a'), (175, 'brief'), (181, 'career'), (188, 'between'), (196, '1926'), (201, 'and'), (205, '1927'), (210, 'before'), (217, 'retiring'), (226, 'from'), (231, 'acting'), (237, '.'), (239, 'She'), (243, 'died'), (248, 'of'), (251, 'tuberculosis'), (264, 'in'), (267, '1936'), (271, '.')])</spacy_tokens>
+<spacy_chunks>[('Iris Stuart', 0, 11), ('(born Frances McCann', 12, 32), ('February 2, 1903', 34, 50), ('December 21, 1936', 53, 70), ('a motion picture actress', 76, 100), ('the silent film era', 104, 123), ('a WAMPAS Baby Star', 137, 155), ('a brief career', 173, 187), ('Tuberculosis', 251, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN', '.', 'VBN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'CD', ',', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'CD', 'CC', 'CD', 'IN', 'VBG', 'IN', 'VBG', '.', 'PRP', 'VBD', 'IN', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

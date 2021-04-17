@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Daniels (actor)</title>
+<link/>https://en.wikipedia.org/wiki/John_Daniels_(actor)
+<annotated>0</annotated>
+<originalabstract>John Daniels is from Gary, Indiana.He is an actor, songwriter, producer and club owner. He also launched his own magazine.</originalabstract>
+<abstract>John_Daniels is from Gary , Indiana.He is an_actor_,_songwriter_,_producer_and_club_owner . He also launched his_own_magazine .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Daniels'), (13, 'is'), (16, 'from'), (21, 'Gary'), (25, ','), (27, 'Indiana.He'), (38, 'is'), (41, 'an'), (44, 'actor'), (49, ','), (51, 'songwriter'), (61, ','), (63, 'producer'), (72, 'and'), (76, 'club'), (81, 'owner'), (86, '.'), (88, 'He'), (91, 'also'), (96, 'launched'), (105, 'his'), (109, 'own'), (113, 'magazine'), (121, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Daniels',0, 12), ('an actor, songwriter, producer and club owner',41, 86), ('his own magazine',105, 121)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'IN', 'NNP', ',', 'NNP', 'VBZ', 'DT', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'PRP$', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Daniels'), (13, 'is'), (16, 'from'), (21, 'Gary'), (25, ','), (27, 'Indiana'), (34, '.'), (35, 'He'), (38, 'is'), (41, 'an'), (44, 'actor'), (49, ','), (51, 'songwriter'), (61, ','), (63, 'producer'), (72, 'and'), (76, 'club'), (81, 'owner'), (86, '.'), (88, 'He'), (91, 'also'), (96, 'launched'), (105, 'his'), (109, 'own'), (113, 'magazine'), (121, '.')])</spacy_tokens>
+<spacy_chunks>[('John Daniels', 0, 12), ('Gary, Indiana', 21, 34), ('an actor', 41, 49), ('songwriter', 51, 61), ('producer', 63, 71), ('club owner', 76, 86), ('his own magazine', 105, 121)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'IN', 'NNP', ',', 'NNP', '.', 'PRP', 'VBZ', 'DT', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'RB', 'VBD', 'PRP$', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

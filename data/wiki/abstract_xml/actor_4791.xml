@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Moyles</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Moyles
+<annotated>0</annotated>
+<originalabstract>Jack Moyles (June 26, 1913 – January 16, 1973) was an American actor best known for starring as cafe owner/amateur detective Rocky Jordan in the CBS radio serials A Man Named Jordan and The Adventures of Rocky Jordan.</originalabstract>
+<abstract>Jack_Moyles ( June_26_,_1913 – January_16_,_1973 ) was an_American_actor best_known for starring as cafe_owner/amateur_detective_Rocky_Jordan in the_CBS_radio_serials A_Man Named Jordan and The_Adventures of Rocky_Jordan .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jack'), (5, 'Moyles'), (12, '('), (13, 'June'), (18, '26'), (20, ','), (22, '1913'), (27, '–'), (29, 'January'), (37, '16'), (39, ','), (41, '1973'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'starring'), (93, 'as'), (96, 'cafe'), (101, 'owner/amateur'), (115, 'detective'), (125, 'Rocky'), (131, 'Jordan'), (138, 'in'), (141, 'the'), (145, 'CBS'), (149, 'radio'), (155, 'serials'), (163, 'A'), (165, 'Man'), (169, 'Named'), (175, 'Jordan'), (182, 'and'), (186, 'The'), (190, 'Adventures'), (201, 'of'), (204, 'Rocky'), (210, 'Jordan'), (216, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jack Moyles',0, 11), ('June 26, 1913',13, 26), ('January 16, 1973',29, 45), ('an American actor',51, 68), ('best known',69, 79), ('cafe owner/amateur detective Rocky Jordan',96, 137), ('the CBS radio serials',141, 162), ('A Man',163, 168), ('The Adventures',186, 200), ('Rocky Jordan',204, 216)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', 'IN', 'NN', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNS', 'DT', 'NN', 'VBN', 'NNP', 'CC', 'DT', 'NNS', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jack'), (5, 'Moyles'), (12, '('), (13, 'June'), (18, '26'), (20, ','), (22, '1913'), (27, '–'), (29, 'January'), (37, '16'), (39, ','), (41, '1973'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'actor'), (69, 'best'), (74, 'known'), (80, 'for'), (84, 'starring'), (93, 'as'), (96, 'cafe'), (101, 'owner'), (106, '/'), (107, 'amateur'), (115, 'detective'), (125, 'Rocky'), (131, 'Jordan'), (138, 'in'), (141, 'the'), (145, 'CBS'), (149, 'radio'), (155, 'serials'), (163, 'A'), (165, 'Man'), (169, 'Named'), (175, 'Jordan'), (182, 'and'), (186, 'The'), (190, 'Adventures'), (201, 'of'), (204, 'Rocky'), (210, 'Jordan'), (216, '.')])</spacy_tokens>
+<spacy_chunks>[('Jack Moyles', 0, 11), ('June 26, 1913', 13, 26), ('January 16, 1973', 29, 45), ('an American actor', 51, 68), ('cafe owner/amateur detective', 96, 124), ('Rocky Jordan', 125, 137), ('the CBS radio serials', 141, 162), ('A Man', 163, 168)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', 'IN', 'NN', 'NN', 'SYM', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNS', 'DT', 'NNP', 'VBN', 'NNP', 'CC', 'DT', 'NNPS', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

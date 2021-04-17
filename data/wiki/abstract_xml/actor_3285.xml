@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ross Hunter</title>
+<link/>https://en.wikipedia.org/wiki/Ross_Hunter
+<annotated>0</annotated>
+<originalabstract>Ross Hunter (May 6, 1926 –  March 10, 1996) was an American film and television producer and actor. Hunter is best known for producing light comedies such as Pillow Talk (1959), and the glamorous melodramas Magnificent Obsession (1954), Imitation of Life (1959), and Back Street (1961).</originalabstract>
+<abstract>Ross_Hunter ( May_6_,_1926 – March_10_,_1996 ) was an_American_film_and_television_producer_and_actor . Hunter is_best_known for producing_light_comedies such_as Pillow_Talk_(_1959_) , and the_glamorous_melodramas Magnificent_Obsession_(_1954_) , Imitation of Life (_1959_) , and Back_Street_(_1961_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ross'), (5, 'Hunter'), (12, '('), (13, 'May'), (17, '6'), (18, ','), (20, '1926'), (25, '–'), (28, 'March'), (34, '10'), (36, ','), (38, '1996'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'film'), (65, 'and'), (69, 'television'), (80, 'producer'), (89, 'and'), (93, 'actor'), (98, '.'), (100, 'Hunter'), (107, 'is'), (110, 'best'), (115, 'known'), (121, 'for'), (125, 'producing'), (135, 'light'), (141, 'comedies'), (150, 'such'), (155, 'as'), (158, 'Pillow'), (165, 'Talk'), (170, '('), (171, '1959'), (175, ')'), (176, ','), (178, 'and'), (182, 'the'), (186, 'glamorous'), (196, 'melodramas'), (207, 'Magnificent'), (219, 'Obsession'), (229, '('), (230, '1954'), (234, ')'), (235, ','), (237, 'Imitation'), (247, 'of'), (250, 'Life'), (255, '('), (256, '1959'), (260, ')'), (261, ','), (263, 'and'), (267, 'Back'), (272, 'Street'), (279, '('), (280, '1961'), (284, ')'), (285, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ross Hunter',0, 11), ('May 6, 1926',13, 24), ('March 10, 1996',28, 42), ('an American film and television producer and actor',48, 98), ('is best known',107, 120), ('producing light comedies',125, 149), ('such as',150, 157), ('Pillow Talk (1959)',158, 176), ('the glamorous melodramas',182, 206), ('Magnificent Obsession (1954)',207, 235), ('(1959)',255, 261), ('Back Street (1961)',267, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'JJ', 'NNS', 'JJ', 'IN', 'NN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'JJ', 'NNS', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NN', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ross'), (5, 'Hunter'), (12, '('), (13, 'May'), (17, '6'), (18, ','), (20, '1926'), (25, '–'), (28, 'March'), (34, '10'), (36, ','), (38, '1996'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'film'), (65, 'and'), (69, 'television'), (80, 'producer'), (89, 'and'), (93, 'actor'), (98, '.'), (100, 'Hunter'), (107, 'is'), (110, 'best'), (115, 'known'), (121, 'for'), (125, 'producing'), (135, 'light'), (141, 'comedies'), (150, 'such'), (155, 'as'), (158, 'Pillow'), (165, 'Talk'), (170, '('), (171, '1959'), (175, ')'), (176, ','), (178, 'and'), (182, 'the'), (186, 'glamorous'), (196, 'melodramas'), (207, 'Magnificent'), (219, 'Obsession'), (229, '('), (230, '1954'), (234, ')'), (235, ','), (237, 'Imitation'), (247, 'of'), (250, 'Life'), (255, '('), (256, '1959'), (260, ')'), (261, ','), (263, 'and'), (267, 'Back'), (272, 'Street'), (279, '('), (280, '1961'), (284, ')'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('Ross Hunter', 0, 11), ('May 6, 1926', 13, 24), ('March 10, 1996', 28, 42), ('an American film and television producer', 48, 88), ('light comedies', 135, 149), ('Pillow Talk', 158, 169), ('the glamorous melodramas', 182, 206), ('Magnificent Obsession (1954', 207, 234), ('Imitation of Life (1959', 237, 260), ('Back Street (1961', 267, 284)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'CC', 'NN', '.', 'NNP', 'VBZ', 'RBS', 'VBN', 'IN', 'VBG', 'JJ', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'DT', 'JJ', 'NN', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

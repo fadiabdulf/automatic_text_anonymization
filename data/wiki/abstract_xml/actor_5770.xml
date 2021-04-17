@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joe E. Ross</title>
+<link/>https://en.wikipedia.org/wiki/Joe_E._Ross
+<annotated>0</annotated>
+<originalabstract>Joe E. Ross (born Joseph Roszawikz, March 15, 1914 – August 13, 1982) was an American actor known for his trademark "Ooh! Ooh!" exclamation, which he used in many of his roles. He starred in such TV sitcoms as The Phil Silvers Show and Car 54, Where Are You?.</originalabstract>
+<abstract>Joe_E._Ross ( born Joseph_Roszawikz , March_15_,_1914 – August_13_,_1982 ) was an_American_actor known for his_trademark_"_Ooh ! Ooh ! " exclamation , which he used in many of his_roles . He starred in such_TV_sitcoms as The_Phil_Silvers_Show and Car_54 , Where Are You ? .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joe'), (4, 'E.'), (7, 'Ross'), (12, '('), (13, 'born'), (18, 'Joseph'), (25, 'Roszawikz'), (34, ','), (36, 'March'), (42, '15'), (44, ','), (46, '1914'), (51, '–'), (53, 'August'), (60, '13'), (62, ','), (64, '1982'), (68, ')'), (70, 'was'), (74, 'an'), (77, 'American'), (86, 'actor'), (92, 'known'), (98, 'for'), (102, 'his'), (106, 'trademark'), (116, '"'), (117, 'Ooh'), (120, '!'), (122, 'Ooh'), (125, '!'), (126, '"'), (128, 'exclamation'), (139, ','), (141, 'which'), (147, 'he'), (150, 'used'), (155, 'in'), (158, 'many'), (163, 'of'), (166, 'his'), (170, 'roles'), (175, '.'), (177, 'He'), (180, 'starred'), (188, 'in'), (191, 'such'), (196, 'TV'), (199, 'sitcoms'), (207, 'as'), (210, 'The'), (214, 'Phil'), (219, 'Silvers'), (227, 'Show'), (232, 'and'), (236, 'Car'), (240, '54'), (242, ','), (244, 'Where'), (250, 'Are'), (254, 'You'), (257, '?'), (258, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joe E. Ross',0, 11), ('Joseph Roszawikz',18, 34), ('March 15, 1914',36, 50), ('August 13, 1982',53, 68), ('an American actor',74, 91), ('his trademark "Ooh',102, 120), ('his roles',166, 175), ('such TV sitcoms',191, 206), ('The Phil Silvers Show',210, 231), ('Car 54',236, 242)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', '``', 'NNP', '.', 'NNP', '.', '\'\'', 'NN', ',', 'WDT', 'PRP', 'VBD', 'IN', 'JJ', 'IN', 'PRP$', 'NNS', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'CD', ',', 'WRB', 'VBP', 'PRP', '.', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joe'), (4, 'E.'), (7, 'Ross'), (12, '('), (13, 'born'), (18, 'Joseph'), (25, 'Roszawikz'), (34, ','), (36, 'March'), (42, '15'), (44, ','), (46, '1914'), (51, '–'), (53, 'August'), (60, '13'), (62, ','), (64, '1982'), (68, ')'), (70, 'was'), (74, 'an'), (77, 'American'), (86, 'actor'), (92, 'known'), (98, 'for'), (102, 'his'), (106, 'trademark'), (116, '"'), (117, 'Ooh'), (120, '!'), (122, 'Ooh'), (125, '!'), (126, '"'), (128, 'exclamation'), (139, ','), (141, 'which'), (147, 'he'), (150, 'used'), (155, 'in'), (158, 'many'), (163, 'of'), (166, 'his'), (170, 'roles'), (175, '.'), (177, 'He'), (180, 'starred'), (188, 'in'), (191, 'such'), (196, 'TV'), (199, 'sitcoms'), (207, 'as'), (210, 'The'), (214, 'Phil'), (219, 'Silvers'), (227, 'Show'), (232, 'and'), (236, 'Car'), (240, '54'), (242, ','), (244, 'Where'), (250, 'Are'), (254, 'You'), (257, '?'), (258, '.')])</spacy_tokens>
+<spacy_chunks>[('Joe E. Ross', 0, 11), ('born Joseph Roszawikz', 13, 34), ('March 15, 1914', 36, 50), ('August 13, 1982', 53, 68), ('an American actor', 74, 91), ('his trademark', 102, 115), ('" exclamation', 126, 139), ('his roles', 166, 175), ('such TV sitcoms', 191, 206), ('The Phil Silvers Show', 210, 231), ('Car 54, Where Are You?', 236, 258)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', '``', 'UH', '.', 'UH', '.', "''", 'NN', ',', 'WDT', 'PRP', 'VBD', 'IN', 'JJ', 'IN', 'PRP$', 'NNS', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'CD', ',', 'WRB', 'VBP', 'PRP', '.', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

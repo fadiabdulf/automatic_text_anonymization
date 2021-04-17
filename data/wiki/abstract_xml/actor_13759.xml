@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alex Martin</title>
+<link/>https://en.wikipedia.org/wiki/Alex_Martin
+<annotated>0</annotated>
+<originalabstract>Alexandrea "Alex" Martin (born May 9, 1973) is an American actress and producer. She was awarded the title of Miss Golden Globe at the 1994 Golden Globe Awards.</originalabstract>
+<abstract>Alexandrea_"_Alex_"_Martin ( born May_9_,_1973 ) is an_American_actress_and_producer . She was_awarded the_title of Miss_Golden_Globe at the_1994_Golden_Globe_Awards .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alexandrea'), (11, '"'), (12, 'Alex'), (16, '"'), (18, 'Martin'), (25, '('), (26, 'born'), (31, 'May'), (35, '9'), (36, ','), (38, '1973'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actress'), (67, 'and'), (71, 'producer'), (79, '.'), (81, 'She'), (85, 'was'), (89, 'awarded'), (97, 'the'), (101, 'title'), (107, 'of'), (110, 'Miss'), (115, 'Golden'), (122, 'Globe'), (128, 'at'), (131, 'the'), (135, '1994'), (140, 'Golden'), (147, 'Globe'), (153, 'Awards'), (159, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alexandrea "Alex" Martin',0, 24), ('May 9, 1973',31, 42), ('an American actress and producer',47, 79), ('was awarded',85, 96), ('the title',97, 106), ('Miss Golden Globe',110, 127), ('the 1994 Golden Globe Awards',131, 159)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alexandrea'), (11, '"'), (12, 'Alex'), (16, '"'), (18, 'Martin'), (25, '('), (26, 'born'), (31, 'May'), (35, '9'), (36, ','), (38, '1973'), (42, ')'), (44, 'is'), (47, 'an'), (50, 'American'), (59, 'actress'), (67, 'and'), (71, 'producer'), (79, '.'), (81, 'She'), (85, 'was'), (89, 'awarded'), (97, 'the'), (101, 'title'), (107, 'of'), (110, 'Miss'), (115, 'Golden'), (122, 'Globe'), (128, 'at'), (131, 'the'), (135, '1994'), (140, 'Golden'), (147, 'Globe'), (153, 'Awards'), (159, '.')])</spacy_tokens>
+<spacy_chunks>[('Alexandrea "Alex" Martin', 0, 24), ('May 9, 1973', 31, 42), ('an American actress', 47, 66), ('producer', 71, 79), ('the title', 97, 106), ('Miss Golden Globe', 110, 127), ('the 1994 Golden Globe Awards', 131, 159)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', '``', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

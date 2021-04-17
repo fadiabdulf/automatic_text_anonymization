@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Steve Kanaly</title>
+<link/>https://en.wikipedia.org/wiki/Steve_Kanaly
+<annotated>0</annotated>
+<originalabstract>Steven Francis Kanaly (; born March 14, 1946) is an American actor, best known for his role as Ray Krebbs on the CBS primetime soap opera Dallas.</originalabstract>
+<abstract>Steven_Francis_Kanaly ( ; born March_14_,_1946 ) is an_American_actor , best_known for his_role as Ray_Krebbs on the_CBS_primetime_soap_opera_Dallas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Steven'), (7, 'Francis'), (15, 'Kanaly'), (22, '('), (23, ';'), (25, 'born'), (30, 'March'), (36, '14'), (38, ','), (40, '1946'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (66, ','), (68, 'best'), (73, 'known'), (79, 'for'), (83, 'his'), (87, 'role'), (92, 'as'), (95, 'Ray'), (99, 'Krebbs'), (106, 'on'), (109, 'the'), (113, 'CBS'), (117, 'primetime'), (127, 'soap'), (132, 'opera'), (138, 'Dallas'), (144, '.')])</stanford_tokens>
+<opennlp_chunks>[('Steven Francis Kanaly',0, 21), ('March 14, 1946',30, 44), ('an American actor',49, 66), ('best known',68, 78), ('his role',83, 91), ('Ray Krebbs',95, 105), ('the CBS primetime soap opera Dallas',109, 144)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Steven'), (7, 'Francis'), (15, 'Kanaly'), (22, '(;'), (25, 'born'), (30, 'March'), (36, '14'), (38, ','), (40, '1946'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actor'), (66, ','), (68, 'best'), (73, 'known'), (79, 'for'), (83, 'his'), (87, 'role'), (92, 'as'), (95, 'Ray'), (99, 'Krebbs'), (106, 'on'), (109, 'the'), (113, 'CBS'), (117, 'primetime'), (127, 'soap'), (132, 'opera'), (138, 'Dallas'), (144, '.')])</spacy_tokens>
+<spacy_chunks>[('Steven Francis Kanaly', 0, 21), ('March 14, 1946', 30, 44), ('an American actor', 49, 66), ('his role', 83, 91), ('Ray Krebbs', 95, 105), ('the CBS primetime soap opera', 109, 137), ('Dallas', 138, 144)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NN', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

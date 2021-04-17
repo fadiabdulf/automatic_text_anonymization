@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Charley Paddock</title>
+<link/>https://en.wikipedia.org/wiki/Charley_Paddock
+<annotated>0</annotated>
+<originalabstract>Charles William Paddock (August 11, 1900 – July 21, 1943) was an American athlete and two time Olympic champion.</originalabstract>
+<abstract>Charles_William_Paddock ( August_11_,_1900 – July_21_,_1943 ) was an_American_athlete and two_time Olympic_champion .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Charles'), (8, 'William'), (16, 'Paddock'), (24, '('), (25, 'August'), (32, '11'), (34, ','), (36, '1900'), (41, '–'), (43, 'July'), (48, '21'), (50, ','), (52, '1943'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'athlete'), (82, 'and'), (86, 'two'), (90, 'time'), (95, 'Olympic'), (103, 'champion'), (111, '.')])</stanford_tokens>
+<opennlp_chunks>[('Charles William Paddock',0, 23), ('August 11, 1900',25, 40), ('July 21, 1943',43, 56), ('an American athlete',62, 81), ('two time',86, 94), ('Olympic champion',95, 111)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'CD', 'NN', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Charles'), (8, 'William'), (16, 'Paddock'), (24, '('), (25, 'August'), (32, '11'), (34, ','), (36, '1900'), (41, '–'), (43, 'July'), (48, '21'), (50, ','), (52, '1943'), (56, ')'), (58, 'was'), (62, 'an'), (65, 'American'), (74, 'athlete'), (82, 'and'), (86, 'two'), (90, 'time'), (95, 'Olympic'), (103, 'champion'), (111, '.')])</spacy_tokens>
+<spacy_chunks>[('Charles William Paddock', 0, 23), ('(August', 24, 31), ('August 11, 1900', 25, 40), ('July 21, 1943', 43, 56), ('an American athlete', 62, 81), ('two time', 86, 94), ('Olympic champion', 95, 111)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'CD', 'NN', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

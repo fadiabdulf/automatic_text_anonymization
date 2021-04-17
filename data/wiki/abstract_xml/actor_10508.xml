@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ethel Azama</title>
+<link/>https://en.wikipedia.org/wiki/Ethel_Azama
+<annotated>0</annotated>
+<originalabstract>Ethel Azama (August 28, 1934  – March 7, 1984) was an American jazz and popular singer and recording artist. She sang regularly in nightclubs and other concert venues between the mid-1950s and 1984.
+Ethel was born and raised in Honolulu, Hawaii and was of Okinawan ancestry. She was a Nisei or second-generation Japanese American.</originalabstract>
+<abstract>Ethel_Azama ( August_28_,_1934 – March_7_,_1984 ) was an_American_jazz and popular_singer_and_recording_artist . She sang regularly in nightclubs and other_concert_venues between the_mid-1950s_and_1984 . Ethel was_born_and_raised in Honolulu , Hawaii and was of Okinawan_ancestry . She was a_Nisei_or_second-generation_Japanese_American .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ethel'), (6, 'Azama'), (12, '('), (13, 'August'), (20, '28'), (22, ','), (24, '1934'), (30, '–'), (32, 'March'), (38, '7'), (39, ','), (41, '1984'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'jazz'), (68, 'and'), (72, 'popular'), (80, 'singer'), (87, 'and'), (91, 'recording'), (101, 'artist'), (107, '.'), (109, 'She'), (113, 'sang'), (118, 'regularly'), (128, 'in'), (131, 'nightclubs'), (142, 'and'), (146, 'other'), (152, 'concert'), (160, 'venues'), (167, 'between'), (175, 'the'), (179, 'mid-1950s'), (189, 'and'), (193, '1984'), (197, '.'), (199, 'Ethel'), (205, 'was'), (209, 'born'), (214, 'and'), (218, 'raised'), (225, 'in'), (228, 'Honolulu'), (236, ','), (238, 'Hawaii'), (245, 'and'), (249, 'was'), (253, 'of'), (256, 'Okinawan'), (265, 'ancestry'), (273, '.'), (275, 'She'), (279, 'was'), (283, 'a'), (285, 'Nisei'), (291, 'or'), (294, 'second-generation'), (312, 'Japanese'), (321, 'American'), (329, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ethel Azama',0, 11), ('August 28, 1934',13, 28), ('March 7, 1984',32, 45), ('an American jazz',51, 67), ('popular singer and recording artist',72, 107), ('other concert venues',146, 166), ('the mid-1950s and 1984',175, 197), ('was born and raised',205, 224), ('Okinawan ancestry',256, 273), ('a Nisei or second-generation Japanese American',283, 329)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'IN', 'NNS', 'CC', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'CD', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'CC', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'CC', 'JJ', 'JJ', 'JJ', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ethel'), (6, 'Azama'), (12, '('), (13, 'August'), (20, '28'), (22, ','), (24, '1934'), (30, '–'), (32, 'March'), (38, '7'), (39, ','), (41, '1984'), (45, ')'), (47, 'was'), (51, 'an'), (54, 'American'), (63, 'jazz'), (68, 'and'), (72, 'popular'), (80, 'singer'), (87, 'and'), (91, 'recording'), (101, 'artist'), (107, '.'), (109, 'She'), (113, 'sang'), (118, 'regularly'), (128, 'in'), (131, 'nightclubs'), (142, 'and'), (146, 'other'), (152, 'concert'), (160, 'venues'), (167, 'between'), (175, 'the'), (179, 'mid-1950s'), (189, 'and'), (193, '1984'), (197, '.'), (199, 'Ethel'), (205, 'was'), (209, 'born'), (214, 'and'), (218, 'raised'), (225, 'in'), (228, 'Honolulu'), (236, ','), (238, 'Hawaii'), (245, 'and'), (249, 'was'), (253, 'of'), (256, 'Okinawan'), (265, 'ancestry'), (273, '.'), (275, 'She'), (279, 'was'), (283, 'a'), (285, 'Nisei'), (291, 'or'), (294, 'second'), (300, '-'), (301, 'generation'), (312, 'Japanese'), (321, 'American'), (329, '.')])</spacy_tokens>
+<spacy_chunks>[('Ethel Azama', 0, 11), ('(August', 12, 19), ('August 28, 1934', 13, 28), ('March 7, 1984', 32, 45), ('an American jazz', 51, 67), ('popular singer', 72, 86), ('recording artist', 91, 107), ('nightclubs', 131, 141), ('other concert venues', 146, 166), ('the mid-1950s', 175, 188), ('Honolulu, Hawaii', 228, 244), ('Okinawan ancestry', 256, 273), ('Japanese American', 312, 329)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'RB', 'IN', 'NNS', 'CC', 'JJ', 'NN', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'CD', '.', 'NNP', 'VBD', 'VBN', 'CC', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NN', '.', 'PRP', 'VBD', 'DT', 'NNP', 'CC', 'JJ', 'HYPH', 'NN', 'JJ', 'JJ', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

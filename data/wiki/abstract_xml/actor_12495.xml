@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Shirley Grey</title>
+<link/>https://en.wikipedia.org/wiki/Shirley_Grey
+<annotated>0</annotated>
+<originalabstract>Shirley Grey (April 11, 1902 – August 12, 1981) was an American actress. She appeared in 46 films between 1930 and 1935. She was born in Naugatuck, Connecticut and died in Jacksonville Beach, Florida.</originalabstract>
+<abstract>Shirley_Grey ( April_11_,_1902 – August_12 , 1981 ) was an_American_actress . She appeared in 46_films between 1930_and_1935 . She was_born in Naugatuck , Connecticut and died in Jacksonville_Beach , Florida .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Shirley'), (8, 'Grey'), (13, '('), (14, 'April'), (20, '11'), (22, ','), (24, '1902'), (29, '–'), (31, 'August'), (38, '12'), (40, ','), (42, '1981'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (71, '.'), (73, 'She'), (77, 'appeared'), (86, 'in'), (89, '46'), (92, 'films'), (98, 'between'), (106, '1930'), (111, 'and'), (115, '1935'), (119, '.'), (121, 'She'), (125, 'was'), (129, 'born'), (134, 'in'), (137, 'Naugatuck'), (146, ','), (148, 'Connecticut'), (160, 'and'), (164, 'died'), (169, 'in'), (172, 'Jacksonville'), (185, 'Beach'), (190, ','), (192, 'Florida'), (199, '.')])</stanford_tokens>
+<opennlp_chunks>[('Shirley Grey',0, 12), ('April 11, 1902',14, 28), ('August 12',31, 40), ('an American actress',52, 71), ('46 films',89, 97), ('1930 and 1935',106, 119), ('was born',125, 133), ('Jacksonville Beach',172, 190)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Shirley'), (8, 'Grey'), (13, '('), (14, 'April'), (20, '11'), (22, ','), (24, '1902'), (29, '–'), (31, 'August'), (38, '12'), (40, ','), (42, '1981'), (46, ')'), (48, 'was'), (52, 'an'), (55, 'American'), (64, 'actress'), (71, '.'), (73, 'She'), (77, 'appeared'), (86, 'in'), (89, '46'), (92, 'films'), (98, 'between'), (106, '1930'), (111, 'and'), (115, '1935'), (119, '.'), (121, 'She'), (125, 'was'), (129, 'born'), (134, 'in'), (137, 'Naugatuck'), (146, ','), (148, 'Connecticut'), (160, 'and'), (164, 'died'), (169, 'in'), (172, 'Jacksonville'), (185, 'Beach'), (190, ','), (192, 'Florida'), (199, '.')])</spacy_tokens>
+<spacy_chunks>[('Shirley Grey', 0, 12), ('April 11, 1902', 14, 28), ('August 12, 1981', 31, 46), ('an American actress', 52, 71), ('46 films', 89, 97), ('Naugatuck, Connecticut', 137, 159), ('Jacksonville Beach, Florida', 172, 199)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Alison LaPlaca</title>
+<link/>https://en.wikipedia.org/wiki/Alison_LaPlaca
+<annotated>0</annotated>
+<originalabstract>Alison LaPlaca (born December 16, 1959) is an American actress best known for the role of acid-tongued yuppie Linda Phillips in the Fox sitcoms Duet and its spin-off Open House, both of which aired in the late 1980s.</originalabstract>
+<abstract>Alison_LaPlaca ( born December_16_,_1959 ) is an_American_actress best_known for the_role of acid-tongued_yuppie_Linda_Phillips in the_Fox_sitcoms_Duet and its_spin-off_Open_House , both of which aired in the_late_1980s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Alison'), (7, 'LaPlaca'), (15, '('), (16, 'born'), (21, 'December'), (30, '16'), (32, ','), (34, '1959'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'the'), (82, 'role'), (87, 'of'), (90, 'acid-tongued'), (103, 'yuppie'), (110, 'Linda'), (116, 'Phillips'), (125, 'in'), (128, 'the'), (132, 'Fox'), (136, 'sitcoms'), (144, 'Duet'), (149, 'and'), (153, 'its'), (157, 'spin-off'), (166, 'Open'), (171, 'House'), (176, ','), (178, 'both'), (183, 'of'), (186, 'which'), (192, 'aired'), (198, 'in'), (201, 'the'), (205, 'late'), (210, '1980s'), (215, '.')])</stanford_tokens>
+<opennlp_chunks>[('Alison LaPlaca',0, 14), ('December 16, 1959',21, 38), ('an American actress',43, 62), ('best known',63, 73), ('the role',78, 86), ('acid-tongued yuppie Linda Phillips',90, 124), ('the Fox sitcoms Duet',128, 148), ('its spin-off Open House',153, 176), ('the late 1980s',201, 215)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNS', 'NNP', 'CC', 'PRP$', 'NN', 'NNP', 'NNP', ',', 'DT', 'IN', 'WDT', 'VBN', 'IN', 'DT', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Alison'), (7, 'LaPlaca'), (15, '('), (16, 'born'), (21, 'December'), (30, '16'), (32, ','), (34, '1959'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (63, 'best'), (68, 'known'), (74, 'for'), (78, 'the'), (82, 'role'), (87, 'of'), (90, 'acid'), (94, '-'), (95, 'tongued'), (103, 'yuppie'), (110, 'Linda'), (116, 'Phillips'), (125, 'in'), (128, 'the'), (132, 'Fox'), (136, 'sitcoms'), (144, 'Duet'), (149, 'and'), (153, 'its'), (157, 'spin'), (161, '-'), (162, 'off'), (166, 'Open'), (171, 'House'), (176, ','), (178, 'both'), (183, 'of'), (186, 'which'), (192, 'aired'), (198, 'in'), (201, 'the'), (205, 'late'), (210, '1980s'), (215, '.')])</spacy_tokens>
+<spacy_chunks>[('Alison LaPlaca', 0, 14), ('December 16, 1959', 21, 38), ('an American actress', 43, 62), ('the role', 78, 86), ('acid-tongued yuppie Linda Phillips', 90, 124), ('the Fox sitcoms Duet', 128, 148), ('its spin-off Open House', 153, 176), ('the late 1980s', 201, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NN', 'HYPH', 'VBN', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNS', 'NNP', 'CC', 'PRP$', 'NN', 'HYPH', 'RP', 'NNP', 'NNP', ',', 'DT', 'IN', 'WDT', 'VBD', 'IN', 'DT', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Fanny Valette</title>
+<link/>https://en.wikipedia.org/wiki/Fanny_Valette
+<annotated>0</annotated>
+<originalabstract>Fanny Valette (born 4 July 1986) is a French actress. 
+In January 2011 she parodied herself in the video to Max Boublil's comic song J'aime les moches ("I like ugly girls").</originalabstract>
+<abstract>Fanny_Valette ( born 4_July_1986 ) is a_French_actress . In January_2011 she parodied herself in the_video to Max_Boublil 's_comic_song J'aime_les_moches ( " I like ugly_girls " ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Fanny'), (6, 'Valette'), (14, '('), (15, 'born'), (20, '4'), (22, 'July'), (27, '1986'), (31, ')'), (33, 'is'), (36, 'a'), (38, 'French'), (45, 'actress'), (52, '.'), (55, 'In'), (58, 'January'), (66, '2011'), (71, 'she'), (75, 'parodied'), (84, 'herself'), (92, 'in'), (95, 'the'), (99, 'video'), (105, 'to'), (108, 'Max'), (112, 'Boublil'), (119, '\'s'), (122, 'comic'), (128, 'song'), (133, 'J\'aime'), (140, 'les'), (144, 'moches'), (151, '('), (152, '"'), (153, 'I'), (155, 'like'), (160, 'ugly'), (165, 'girls'), (170, '"'), (171, ')'), (172, '.')])</stanford_tokens>
+<opennlp_chunks>[('Fanny Valette',0, 13), ('4 July 1986',20, 31), ('a French actress',36, 52), ('January 2011',58, 70), ('the video',95, 104), ('Max Boublil',108, 119), ('\'s comic song',119, 132), ('J\'aime les moches',133, 150), ('ugly girls',160, 170)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'NNP', 'CD', 'PRP', 'VBD', 'PRP', 'IN', 'DT', 'NN', 'TO', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'NNP', 'FW', 'FW', '-LRB-', '``', 'PRP', 'VBP', 'JJ', 'NNS', '\'\'', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Fanny'), (6, 'Valette'), (14, '('), (15, 'born'), (20, '4'), (22, 'July'), (27, '1986'), (31, ')'), (33, 'is'), (36, 'a'), (38, 'French'), (45, 'actress'), (52, '.'), (55, 'In'), (58, 'January'), (66, '2011'), (71, 'she'), (75, 'parodied'), (84, 'herself'), (92, 'in'), (95, 'the'), (99, 'video'), (105, 'to'), (108, 'Max'), (112, 'Boublil'), (119, "'s"), (122, 'comic'), (128, 'song'), (133, "J'aime"), (140, 'les'), (144, 'moches'), (151, '('), (152, '"'), (153, 'I'), (155, 'like'), (160, 'ugly'), (165, 'girls'), (170, '"'), (171, ')'), (172, '.')])</spacy_tokens>
+<spacy_chunks>[('Fanny Valette', 0, 13), ('4 July 1986', 20, 31), ('a French actress', 36, 52), ('January', 58, 65), ('herself', 84, 91), ('the video', 95, 104), ("Max Boublil's comic song", 108, 132), ('moches', 144, 150), ('ugly girls', 160, 170)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'IN', 'NNP', 'CD', 'PRP', 'VBD', 'PRP', 'IN', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'JJ', 'NN', 'FW', 'FW', 'NNS', '-LRB-', '``', 'PRP', 'VBP', 'JJ', 'NNS', "''", '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

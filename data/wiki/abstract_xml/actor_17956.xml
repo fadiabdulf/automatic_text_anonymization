@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Eleanor Matsuura</title>
+<link/>https://en.wikipedia.org/wiki/Eleanor_Matsuura
+<annotated>0</annotated>
+<originalabstract>Eleanor Matsuura (born c. 1983) is an English actress, who is best known for her roles as Hannah Santo in Spooks: The Greater Good, Bev in Utopia and as PC Donna Prager in Cuffs.</originalabstract>
+<abstract>Eleanor_Matsuura ( born c. 1983 ) is an_English_actress , who is_best_known for her_roles as Hannah_Santo in Spooks : The_Greater_Good , Bev in Utopia and as PC_Donna_Prager in Cuffs .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Eleanor'), (8, 'Matsuura'), (17, '('), (18, 'born'), (23, 'c.'), (26, '1983'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'English'), (46, 'actress'), (53, ','), (55, 'who'), (59, 'is'), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'her'), (81, 'roles'), (87, 'as'), (90, 'Hannah'), (97, 'Santo'), (103, 'in'), (106, 'Spooks'), (112, ':'), (114, 'The'), (118, 'Greater'), (126, 'Good'), (130, ','), (132, 'Bev'), (136, 'in'), (139, 'Utopia'), (146, 'and'), (150, 'as'), (153, 'PC'), (156, 'Donna'), (162, 'Prager'), (169, 'in'), (172, 'Cuffs'), (177, '.')])</stanford_tokens>
+<opennlp_chunks>[('Eleanor Matsuura',0, 16), ('an English actress',35, 53), ('is best known',59, 72), ('her roles',77, 86), ('Hannah Santo',90, 102), ('The Greater Good',114, 130), ('PC Donna Prager',153, 168)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'IN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'WP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNPS', ':', 'DT', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'CC', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Eleanor'), (8, 'Matsuura'), (17, '('), (18, 'born'), (23, 'c.'), (26, '1983'), (30, ')'), (32, 'is'), (35, 'an'), (38, 'English'), (46, 'actress'), (53, ','), (55, 'who'), (59, 'is'), (62, 'best'), (67, 'known'), (73, 'for'), (77, 'her'), (81, 'roles'), (87, 'as'), (90, 'Hannah'), (97, 'Santo'), (103, 'in'), (106, 'Spooks'), (112, ':'), (114, 'The'), (118, 'Greater'), (126, 'Good'), (130, ','), (132, 'Bev'), (136, 'in'), (139, 'Utopia'), (146, 'and'), (150, 'as'), (153, 'PC'), (156, 'Donna'), (162, 'Prager'), (169, 'in'), (172, 'Cuffs'), (177, '.')])</spacy_tokens>
+<spacy_chunks>[('Eleanor Matsuura', 0, 16), ('born c.', 18, 25), ('an English actress', 35, 53), ('her roles', 77, 86), ('Hannah Santo', 90, 102), ('Spooks: The Greater Good', 106, 130), ('Utopia', 139, 145), ('PC Donna Prager', 153, 168)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NN', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'WP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'NNP', ':', 'DT', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', 'CC', 'IN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

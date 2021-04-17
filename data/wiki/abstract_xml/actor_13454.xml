@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Adriane Lenox</title>
+<link/>https://en.wikipedia.org/wiki/Adriane_Lenox
+<annotated>0</annotated>
+<originalabstract>Adriane Lenox (born September 11, 1956) is an American actress, best known for her performances in Broadway theatre. Her performance in the play Doubt: A Parable garnered her the Tony Award for Best Featured Actress in a Play in 2005. She received another Tony Award nomination for After Midnight in 2014.</originalabstract>
+<abstract>Adriane_Lenox ( born September_11_,_1956 ) is an_American_actress , best_known for her_performances in Broadway_theatre . Her_performance in the_play_Doubt : A_Parable garnered her_the_Tony_Award for Best_Featured_Actress in a_Play in 2005 . She received another_Tony_Award_nomination for After_Midnight in 2014 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Adriane'), (8, 'Lenox'), (14, '('), (15, 'born'), (20, 'September'), (30, '11'), (32, ','), (34, '1956'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (62, ','), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'her'), (83, 'performances'), (96, 'in'), (99, 'Broadway'), (108, 'theatre'), (115, '.'), (117, 'Her'), (121, 'performance'), (133, 'in'), (136, 'the'), (140, 'play'), (145, 'Doubt'), (150, ':'), (152, 'A'), (154, 'Parable'), (162, 'garnered'), (171, 'her'), (175, 'the'), (179, 'Tony'), (184, 'Award'), (190, 'for'), (194, 'Best'), (199, 'Featured'), (208, 'Actress'), (216, 'in'), (219, 'a'), (221, 'Play'), (226, 'in'), (229, '2005'), (233, '.'), (235, 'She'), (239, 'received'), (248, 'another'), (256, 'Tony'), (261, 'Award'), (267, 'nomination'), (278, 'for'), (282, 'After'), (288, 'Midnight'), (297, 'in'), (300, '2014'), (304, '.')])</stanford_tokens>
+<opennlp_chunks>[('Adriane Lenox',0, 13), ('September 11, 1956',20, 38), ('an American actress',43, 62), ('best known',64, 74), ('her performances',79, 95), ('Broadway theatre',99, 115), ('Her performance',117, 132), ('the play Doubt',136, 150), ('A Parable',152, 161), ('her the Tony Award',171, 189), ('Best Featured Actress',194, 215), ('a Play',219, 225), ('another Tony Award nomination',248, 277), ('After Midnight',282, 296)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NN', '.', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NNP', ':', 'NNP', 'NNP', 'VBD', 'PRP$', 'DT', 'NNP', 'NN', 'IN', 'JJS', 'JJ', 'NN', 'IN', 'DT', 'NNP', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NN', 'NN', 'IN', 'IN', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Adriane'), (8, 'Lenox'), (14, '('), (15, 'born'), (20, 'September'), (30, '11'), (32, ','), (34, '1956'), (38, ')'), (40, 'is'), (43, 'an'), (46, 'American'), (55, 'actress'), (62, ','), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'her'), (83, 'performances'), (96, 'in'), (99, 'Broadway'), (108, 'theatre'), (115, '.'), (117, 'Her'), (121, 'performance'), (133, 'in'), (136, 'the'), (140, 'play'), (145, 'Doubt'), (150, ':'), (152, 'A'), (154, 'Parable'), (162, 'garnered'), (171, 'her'), (175, 'the'), (179, 'Tony'), (184, 'Award'), (190, 'for'), (194, 'Best'), (199, 'Featured'), (208, 'Actress'), (216, 'in'), (219, 'a'), (221, 'Play'), (226, 'in'), (229, '2005'), (233, '.'), (235, 'She'), (239, 'received'), (248, 'another'), (256, 'Tony'), (261, 'Award'), (267, 'nomination'), (278, 'for'), (282, 'After'), (288, 'Midnight'), (297, 'in'), (300, '2014'), (304, '.')])</spacy_tokens>
+<spacy_chunks>[('Adriane Lenox', 0, 13), ('September 11, 1956', 20, 38), ('an American actress', 43, 62), ('her performances', 79, 95), ('Broadway theatre', 99, 115), ('the play', 136, 144), ('Doubt: A Parable', 145, 161), ('the Tony Award', 175, 189), ('Tony Award for Best Featured Actress in a Play', 179, 225), ('another Tony Award nomination', 248, 277), ('After Midnight', 282, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NN', '.', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', ':', 'DT', 'NN', 'VBD', 'PRP', 'DT', 'NNP', 'NNP', 'IN', 'NNP', 'JJ', 'NNP', 'IN', 'DT', 'NN', 'IN', 'CD', '.', 'PRP', 'VBD', 'DT', 'NNP', 'NNP', 'NN', 'IN', 'IN', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

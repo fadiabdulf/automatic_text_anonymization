@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sammy White (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Sammy_White_(actor)
+<annotated>0</annotated>
+<originalabstract>Sammy White (né Samuel Kwait; 28 May 1894 Providence, Rhode Island – 3 March 1960 Beverly Hills, California) was an American vaudeville song-and-dance comedian who appeared in a few films.  He appeared with Lew Clayton, as Clayton and White, in the Broadway show Schubert Gaieties of 1919.</originalabstract>
+<abstract>Sammy_White ( né_Samuel_Kwait ; 28_May_1894_Providence , Rhode_Island – 3_March_1960_Beverly_Hills , California ) was an_American_vaudeville_song-and-dance_comedian who appeared in a_few_films . He appeared with Lew_Clayton , as Clayton_and_White , in the_Broadway_show_Schubert_Gaieties of 1919 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sammy'), (6, 'White'), (12, '('), (13, 'né'), (16, 'Samuel'), (23, 'Kwait'), (28, ';'), (30, '28'), (33, 'May'), (37, '1894'), (42, 'Providence'), (52, ','), (54, 'Rhode'), (60, 'Island'), (67, '–'), (69, '3'), (71, 'March'), (77, '1960'), (82, 'Beverly'), (90, 'Hills'), (95, ','), (97, 'California'), (107, ')'), (109, 'was'), (113, 'an'), (116, 'American'), (125, 'vaudeville'), (136, 'song-and-dance'), (151, 'comedian'), (160, 'who'), (164, 'appeared'), (173, 'in'), (176, 'a'), (178, 'few'), (182, 'films'), (187, '.'), (190, 'He'), (193, 'appeared'), (202, 'with'), (207, 'Lew'), (211, 'Clayton'), (218, ','), (220, 'as'), (223, 'Clayton'), (231, 'and'), (235, 'White'), (240, ','), (242, 'in'), (245, 'the'), (249, 'Broadway'), (258, 'show'), (263, 'Schubert'), (272, 'Gaieties'), (281, 'of'), (284, '1919'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sammy White',0, 11), ('né Samuel Kwait',13, 28), ('28 May 1894 Providence',30, 52), ('Rhode Island',54, 66), ('3 March 1960 Beverly Hills',69, 95), ('an American vaudeville song-and-dance comedian',113, 159), ('a few films',176, 187), ('Lew Clayton',207, 218), ('Clayton and White',223, 240), ('the Broadway show Schubert Gaieties',245, 280)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'NNP', ',', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'CC', 'NNP', ',', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sammy'), (6, 'White'), (12, '('), (13, 'né'), (16, 'Samuel'), (23, 'Kwait'), (28, ';'), (30, '28'), (33, 'May'), (37, '1894'), (42, 'Providence'), (52, ','), (54, 'Rhode'), (60, 'Island'), (67, '–'), (69, '3'), (71, 'March'), (77, '1960'), (82, 'Beverly'), (90, 'Hills'), (95, ','), (97, 'California'), (107, ')'), (109, 'was'), (113, 'an'), (116, 'American'), (125, 'vaudeville'), (136, 'song'), (140, '-'), (141, 'and'), (144, '-'), (145, 'dance'), (151, 'comedian'), (160, 'who'), (164, 'appeared'), (173, 'in'), (176, 'a'), (178, 'few'), (182, 'films'), (187, '.'), (190, 'He'), (193, 'appeared'), (202, 'with'), (207, 'Lew'), (211, 'Clayton'), (218, ','), (220, 'as'), (223, 'Clayton'), (231, 'and'), (235, 'White'), (240, ','), (242, 'in'), (245, 'the'), (249, 'Broadway'), (258, 'show'), (263, 'Schubert'), (272, 'Gaieties'), (281, 'of'), (284, '1919'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Sammy White', 0, 11), ('(né Samuel Kwait', 12, 28), ('28 May 1894 Providence', 30, 52), ('Providence, Rhode Island', 42, 66), ('3 March 1960', 69, 81), ('Beverly Hills, California', 82, 107), ('an American vaudeville song-and-dance comedian', 113, 159), ('a few films', 176, 187), ('Lew Clayton', 207, 218), ('the Broadway', 245, 257), ('Schubert Gaieties', 263, 280)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'NNP', ',', 'NNP', 'NNP', 'IN', 'CD', 'NNP', 'CD', 'NNP', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'HYPH', 'CC', 'HYPH', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'JJ', 'NNS', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'IN', 'NNP', 'CC', 'NNP', ',', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

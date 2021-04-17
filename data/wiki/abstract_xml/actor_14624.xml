@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lee Purcell</title>
+<link/>https://en.wikipedia.org/wiki/Lee_Purcell
+<annotated>0</annotated>
+<originalabstract>Lee Purcell (nee Lee Jeune Williams on June 15, 1947) is an American actress who appeared in both motion pictures and television.</originalabstract>
+<abstract>Lee_Purcell ( nee_Lee_Jeune_Williams on June_15_,_1947 ) is an_American_actress who appeared in both_motion_pictures_and_television .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lee'), (4, 'Purcell'), (12, '('), (13, 'nee'), (17, 'Lee'), (21, 'Jeune'), (27, 'Williams'), (36, 'on'), (39, 'June'), (44, '15'), (46, ','), (48, '1947'), (52, ')'), (54, 'is'), (57, 'an'), (60, 'American'), (69, 'actress'), (77, 'who'), (81, 'appeared'), (90, 'in'), (93, 'both'), (98, 'motion'), (105, 'pictures'), (114, 'and'), (118, 'television'), (128, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lee Purcell',0, 11), ('nee Lee Jeune Williams',13, 35), ('June 15, 1947',39, 52), ('an American actress',57, 76), ('both motion pictures and television',93, 128)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NN', 'NNS', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lee'), (4, 'Purcell'), (12, '('), (13, 'nee'), (17, 'Lee'), (21, 'Jeune'), (27, 'Williams'), (36, 'on'), (39, 'June'), (44, '15'), (46, ','), (48, '1947'), (52, ')'), (54, 'is'), (57, 'an'), (60, 'American'), (69, 'actress'), (77, 'who'), (81, 'appeared'), (90, 'in'), (93, 'both'), (98, 'motion'), (105, 'pictures'), (114, 'and'), (118, 'television'), (128, '.')])</spacy_tokens>
+<spacy_chunks>[('Lee Purcell', 0, 11), ('nee Lee Jeune Williams', 13, 35), ('June 15, 1947', 39, 52), ('an American actress', 57, 76), ('both motion pictures', 93, 113), ('television', 118, 128)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NN', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'WP', 'VBD', 'IN', 'CC', 'NN', 'NNS', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

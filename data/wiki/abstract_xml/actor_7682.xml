@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michael Bentine</title>
+<link/>https://en.wikipedia.org/wiki/Michael_Bentine
+<annotated>0</annotated>
+<originalabstract>Michael Bentine, CBE (born Michael James Bentin; 26 January 1922 – 26 November 1996) was an English comedian, comic actor and founding member of the Goons. He was a Peruvian Briton. In 1971, Bentine received the Order of Merit of Peru following his fund-raising work for the 1970 Great Peruvian earthquake.</originalabstract>
+<abstract>Michael_Bentine , CBE ( born Michael_James_Bentin ; 26_January_1922 – 26_November_1996 ) was an_English_comedian , comic_actor and founding member of the_Goons . He was a_Peruvian_Briton . In 1971 , Bentine received the_Order of Merit of Peru following his_fund-raising_work for the_1970_Great_Peruvian_earthquake .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michael'), (8, 'Bentine'), (15, ','), (17, 'CBE'), (21, '('), (22, 'born'), (27, 'Michael'), (35, 'James'), (41, 'Bentin'), (47, ';'), (49, '26'), (52, 'January'), (60, '1922'), (65, '–'), (67, '26'), (70, 'November'), (79, '1996'), (83, ')'), (85, 'was'), (89, 'an'), (92, 'English'), (100, 'comedian'), (108, ','), (110, 'comic'), (116, 'actor'), (122, 'and'), (126, 'founding'), (135, 'member'), (142, 'of'), (145, 'the'), (149, 'Goons'), (154, '.'), (156, 'He'), (159, 'was'), (163, 'a'), (165, 'Peruvian'), (174, 'Briton'), (180, '.'), (182, 'In'), (185, '1971'), (189, ','), (191, 'Bentine'), (199, 'received'), (208, 'the'), (212, 'Order'), (218, 'of'), (221, 'Merit'), (227, 'of'), (230, 'Peru'), (235, 'following'), (245, 'his'), (249, 'fund-raising'), (262, 'work'), (267, 'for'), (271, 'the'), (275, '1970'), (280, 'Great'), (286, 'Peruvian'), (295, 'earthquake'), (305, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michael Bentine',0, 15), ('Michael James Bentin',27, 47), ('26 January 1922',49, 64), ('26 November 1996',67, 83), ('an English comedian',89, 108), ('comic actor',110, 121), ('the Goons',145, 154), ('a Peruvian Briton',163, 180), ('the Order',208, 217), ('his fund-raising work',245, 266), ('the 1970 Great Peruvian earthquake',271, 305)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', 'CC', 'VBG', 'NN', 'IN', 'DT', 'NNPS', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'DT', 'NN', 'IN', 'NN', 'IN', 'NNP', 'VBG', 'PRP$', 'NN', 'NN', 'IN', 'DT', 'CD', 'NNP', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michael'), (8, 'Bentine'), (15, ','), (17, 'CBE'), (21, '('), (22, 'born'), (27, 'Michael'), (35, 'James'), (41, 'Bentin'), (47, ';'), (49, '26'), (52, 'January'), (60, '1922'), (65, '–'), (67, '26'), (70, 'November'), (79, '1996'), (83, ')'), (85, 'was'), (89, 'an'), (92, 'English'), (100, 'comedian'), (108, ','), (110, 'comic'), (116, 'actor'), (122, 'and'), (126, 'founding'), (135, 'member'), (142, 'of'), (145, 'the'), (149, 'Goons'), (154, '.'), (156, 'He'), (159, 'was'), (163, 'a'), (165, 'Peruvian'), (174, 'Briton'), (180, '.'), (182, 'In'), (185, '1971'), (189, ','), (191, 'Bentine'), (199, 'received'), (208, 'the'), (212, 'Order'), (218, 'of'), (221, 'Merit'), (227, 'of'), (230, 'Peru'), (235, 'following'), (245, 'his'), (249, 'fund'), (253, '-'), (254, 'raising'), (262, 'work'), (267, 'for'), (271, 'the'), (275, '1970'), (280, 'Great'), (286, 'Peruvian'), (295, 'earthquake'), (305, '.')])</spacy_tokens>
+<spacy_chunks>[('Michael Bentine', 0, 15), ('Michael James Bentin', 27, 47), ('26 January 1922', 49, 64), ('26 November 1996', 67, 83), ('an English comedian', 89, 108), ('comic actor', 110, 121), ('founding member', 126, 141), ('the Goons', 145, 154), ('a Peruvian Briton', 163, 180), ('the Order', 208, 217), ('his fund-raising work', 245, 266), ('the 1970 Great Peruvian earthquake', 271, 305)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', 'CC', 'VBG', 'NN', 'IN', 'DT', 'NNPS', '.', 'PRP', 'VBD', 'DT', 'JJ', 'NNP', '.', 'IN', 'CD', ',', 'NNP', 'VBD', 'DT', 'NNP', 'IN', 'NNP', 'IN', 'NNP', 'VBG', 'PRP$', 'NN', 'HYPH', 'VBG', 'NN', 'IN', 'DT', 'CD', 'JJ', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

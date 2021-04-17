@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Juliette Jeffers</title>
+<link/>https://en.wikipedia.org/wiki/Juliette_Jeffers
+<annotated>0</annotated>
+<originalabstract>Juliette Jeffers is a Caribbean–American actress of St. Kitts and Nevis descent. Jeffers has appeared on several TV shows, films and TV commercials. Jeffers has also appeared in several theatre performances including "Batman and Robin in the Boogie Down" where she won the BRIO award for "Excellence in Acting".</originalabstract>
+<abstract>Juliette_Jeffers is a_Caribbean – American_actress of St._Kitts_and_Nevis_descent . Jeffers has_appeared on several_TV_shows_,_films_and_TV_commercials . Jeffers has_also_appeared in several_theatre_performances including " Batman_and_Robin in the_Boogie_Down " where she won the_BRIO_award for " Excellence in Acting_" .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Juliette'), (9, 'Jeffers'), (17, 'is'), (20, 'a'), (22, 'Caribbean'), (31, '–'), (32, 'American'), (41, 'actress'), (49, 'of'), (52, 'St.'), (56, 'Kitts'), (62, 'and'), (66, 'Nevis'), (72, 'descent'), (79, '.'), (81, 'Jeffers'), (89, 'has'), (93, 'appeared'), (102, 'on'), (105, 'several'), (113, 'TV'), (116, 'shows'), (121, ','), (123, 'films'), (129, 'and'), (133, 'TV'), (136, 'commercials'), (147, '.'), (149, 'Jeffers'), (157, 'has'), (161, 'also'), (166, 'appeared'), (175, 'in'), (178, 'several'), (186, 'theatre'), (194, 'performances'), (207, 'including'), (217, '"'), (218, 'Batman'), (225, 'and'), (229, 'Robin'), (235, 'in'), (238, 'the'), (242, 'Boogie'), (249, 'Down'), (253, '"'), (255, 'where'), (261, 'she'), (265, 'won'), (269, 'the'), (273, 'BRIO'), (278, 'award'), (284, 'for'), (288, '"'), (289, 'Excellence'), (300, 'in'), (303, 'Acting'), (309, '"'), (310, '.')])</stanford_tokens>
+<opennlp_chunks>[('Juliette Jeffers',0, 16), ('a Caribbean',20, 31), ('American actress',32, 48), ('St. Kitts and Nevis descent',52, 79), ('has appeared',89, 101), ('several TV shows, films and TV commercials',105, 147), ('has also appeared',157, 174), ('several theatre performances',178, 206), ('Batman and Robin',218, 234), ('the Boogie Down',238, 253), ('the BRIO award',269, 283), ('Acting"',303, 310)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NNP', ':', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'NNS', ',', 'NNS', 'CC', 'NN', 'NNS', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'NN', 'NNS', 'VBG', '``', 'NNP', 'CC', 'NNP', 'IN', 'DT', 'NNP', 'NNP', '\'\'', 'WRB', 'PRP', 'VBD', 'DT', 'NNP', 'NN', 'IN', '``', 'NN', 'IN', 'NNP', '\'\'', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Juliette'), (9, 'Jeffers'), (17, 'is'), (20, 'a'), (22, 'Caribbean'), (31, '–'), (32, 'American'), (41, 'actress'), (49, 'of'), (52, 'St.'), (56, 'Kitts'), (62, 'and'), (66, 'Nevis'), (72, 'descent'), (79, '.'), (81, 'Jeffers'), (89, 'has'), (93, 'appeared'), (102, 'on'), (105, 'several'), (113, 'TV'), (116, 'shows'), (121, ','), (123, 'films'), (129, 'and'), (133, 'TV'), (136, 'commercials'), (147, '.'), (149, 'Jeffers'), (157, 'has'), (161, 'also'), (166, 'appeared'), (175, 'in'), (178, 'several'), (186, 'theatre'), (194, 'performances'), (207, 'including'), (217, '"'), (218, 'Batman'), (225, 'and'), (229, 'Robin'), (235, 'in'), (238, 'the'), (242, 'Boogie'), (249, 'Down'), (253, '"'), (255, 'where'), (261, 'she'), (265, 'won'), (269, 'the'), (273, 'BRIO'), (278, 'award'), (284, 'for'), (288, '"'), (289, 'Excellence'), (300, 'in'), (303, 'Acting'), (309, '"'), (310, '.')])</spacy_tokens>
+<spacy_chunks>[('Juliette Jeffers', 0, 16), ('a Caribbean–American actress', 20, 48), ('St. Kitts and Nevis descent', 52, 79), ('several TV shows', 105, 121), ('TV commercials', 133, 147), ('several theatre performances', 178, 206), ('"Batman', 217, 224), ('the Boogie', 238, 248), ('the BRIO award', 269, 283), ('"Excellence', 288, 299), ('Acting', 303, 309)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'NNP', '.', 'JJ', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'NN', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'JJ', 'NN', 'NNS', ',', 'NNS', 'CC', 'NN', 'NNS', '.', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'JJ', 'NN', 'NNS', 'VBG', '``', 'NNP', 'CC', 'NNP', 'IN', 'DT', 'NNP', 'NNP', "''", 'WRB', 'PRP', 'VBD', 'DT', 'NN', 'NN', 'IN', '``', 'NNP', 'IN', 'NNP', "''", '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

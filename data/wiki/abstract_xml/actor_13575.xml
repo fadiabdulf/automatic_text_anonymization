@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Louise Lorraine</title>
+<link/>https://en.wikipedia.org/wiki/Louise_Lorraine
+<annotated>0</annotated>
+<originalabstract>Louise of Lorraine (French: Louise de Lorraine) (30 April 1553 – 29 January 1601), was Queen consort of France and briefly Queen consort of Poland and Grand Duchess consort of Lithuania by marriage to Henry III of France. As a Dowager Queen, she also held the title of Duchess of Berry from 1589 until her death.</originalabstract>
+<abstract>Louise of Lorraine ( French : Louise_de_Lorraine ) ( 30_April_1553 – 29_January_1601 ) , was Queen_consort of France and briefly_Queen_consort of Poland and Grand_Duchess_consort of Lithuania by marriage to Henry_III of France . As a_Dowager_Queen , she also held the_title of Duchess of Berry from 1589 until her_death .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Louise'), (7, 'of'), (10, 'Lorraine'), (19, '('), (20, 'French'), (26, ':'), (28, 'Louise'), (35, 'de'), (38, 'Lorraine'), (46, ')'), (48, '('), (49, '30'), (52, 'April'), (58, '1553'), (63, '–'), (65, '29'), (68, 'January'), (76, '1601'), (80, ')'), (81, ','), (83, 'was'), (87, 'Queen'), (93, 'consort'), (101, 'of'), (104, 'France'), (111, 'and'), (115, 'briefly'), (123, 'Queen'), (129, 'consort'), (137, 'of'), (140, 'Poland'), (147, 'and'), (151, 'Grand'), (157, 'Duchess'), (165, 'consort'), (173, 'of'), (176, 'Lithuania'), (186, 'by'), (189, 'marriage'), (198, 'to'), (201, 'Henry'), (207, 'III'), (211, 'of'), (214, 'France'), (220, '.'), (222, 'As'), (225, 'a'), (227, 'Dowager'), (235, 'Queen'), (240, ','), (242, 'she'), (246, 'also'), (251, 'held'), (256, 'the'), (260, 'title'), (266, 'of'), (269, 'Duchess'), (277, 'of'), (280, 'Berry'), (286, 'from'), (291, '1589'), (296, 'until'), (302, 'her'), (306, 'death'), (311, '.')])</stanford_tokens>
+<opennlp_chunks>[('Louise de Lorraine',28, 46), ('30 April 1553',49, 62), ('29 January 1601',65, 80), ('Queen consort',87, 100), ('briefly Queen consort',115, 136), ('Grand Duchess consort',151, 172), ('Henry III',201, 210), ('a Dowager Queen',225, 240), ('the title',256, 265), ('her death',302, 311)]</opennlp_chunks>
+<stanford_pos>['NNP', 'IN', 'NNP', '-LRB-', 'NNP', ':', 'NNP', 'NNP', 'NNP', '-RRB-', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'NNP', 'NN', 'IN', 'NNP', 'CC', 'NN', 'NN', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'NN', 'IN', 'NNP', 'IN', 'NN', 'TO', 'NNP', 'NNP', 'IN', 'NNP', '.', 'IN', 'DT', 'NNP', 'NNP', ',', 'PRP', 'RB', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Louise'), (7, 'of'), (10, 'Lorraine'), (19, '('), (20, 'French'), (26, ':'), (28, 'Louise'), (35, 'de'), (38, 'Lorraine'), (46, ')'), (48, '('), (49, '30'), (52, 'April'), (58, '1553'), (63, '–'), (65, '29'), (68, 'January'), (76, '1601'), (80, ')'), (81, ','), (83, 'was'), (87, 'Queen'), (93, 'consort'), (101, 'of'), (104, 'France'), (111, 'and'), (115, 'briefly'), (123, 'Queen'), (129, 'consort'), (137, 'of'), (140, 'Poland'), (147, 'and'), (151, 'Grand'), (157, 'Duchess'), (165, 'consort'), (173, 'of'), (176, 'Lithuania'), (186, 'by'), (189, 'marriage'), (198, 'to'), (201, 'Henry'), (207, 'III'), (211, 'of'), (214, 'France'), (220, '.'), (222, 'As'), (225, 'a'), (227, 'Dowager'), (235, 'Queen'), (240, ','), (242, 'she'), (246, 'also'), (251, 'held'), (256, 'the'), (260, 'title'), (266, 'of'), (269, 'Duchess'), (277, 'of'), (280, 'Berry'), (286, 'from'), (291, '1589'), (296, 'until'), (302, 'her'), (306, 'death'), (311, '.')])</spacy_tokens>
+<spacy_chunks>[('Lorraine', 10, 18), ('(French', 19, 26), ('Louise de Lorraine', 28, 46), ('30 April 1553', 49, 62), ('29 January 1601', 65, 80), ('Queen consort', 87, 100), ('France', 104, 110), ('briefly Queen consort', 115, 136), ('Poland', 140, 146), ('Grand Duchess', 151, 164), ('Lithuania', 176, 185), ('marriage', 189, 197), ('Henry III', 201, 210), ('a Dowager Queen', 225, 240), ('the title', 256, 265), ('her death', 302, 311)]</spacy_chunks>
+<spacy_pos>['NNP', 'IN', 'NNP', '-LRB-', 'NNP', ':', 'NNP', 'FW', 'NNP', '-RRB-', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'JJ', 'NN', 'IN', 'NNP', 'CC', 'RB', 'NNP', 'NN', 'IN', 'NNP', 'CC', 'NNP', 'NNP', 'NN', 'IN', 'NNP', 'IN', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNP', '.', 'IN', 'DT', 'NNP', 'NNP', ',', 'PRP', 'RB', 'VBD', 'DT', 'NN', 'IN', 'NNP', 'IN', 'NNP', 'IN', 'CD', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

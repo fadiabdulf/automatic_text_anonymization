@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dash Mihok</title>
+<link/>https://en.wikipedia.org/wiki/Dash_Mihok
+<annotated>0</annotated>
+<originalabstract>Dashiell Raymond Mihok (; born May 24, 1974) is an American actor best known for playing "Bunchy" Donovan in the Showtime drama Ray Donovan.</originalabstract>
+<abstract>Dashiell_Raymond_Mihok ( ; born May_24_,_1974 ) is an_American_actor best_known for playing_"_Bunchy_"_Donovan in the_Showtime_drama_Ray_Donovan .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dashiell'), (9, 'Raymond'), (17, 'Mihok'), (23, '('), (24, ';'), (26, 'born'), (31, 'May'), (35, '24'), (37, ','), (39, '1974'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actor'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'playing'), (89, '"'), (90, 'Bunchy'), (96, '"'), (98, 'Donovan'), (106, 'in'), (109, 'the'), (113, 'Showtime'), (122, 'drama'), (128, 'Ray'), (132, 'Donovan'), (139, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dashiell Raymond Mihok',0, 22), ('May 24, 1974',31, 43), ('an American actor',48, 65), ('best known',66, 76), ('playing "Bunchy" Donovan',81, 105), ('the Showtime drama Ray Donovan',109, 139)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', ':', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RB', 'VBN', 'IN', 'VBG', '``', 'NNP', '\'\'', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dashiell'), (9, 'Raymond'), (17, 'Mihok'), (23, '(;'), (26, 'born'), (31, 'May'), (35, '24'), (37, ','), (39, '1974'), (43, ')'), (45, 'is'), (48, 'an'), (51, 'American'), (60, 'actor'), (66, 'best'), (71, 'known'), (77, 'for'), (81, 'playing'), (89, '"'), (90, 'Bunchy'), (96, '"'), (98, 'Donovan'), (106, 'in'), (109, 'the'), (113, 'Showtime'), (122, 'drama'), (128, 'Ray'), (132, 'Donovan'), (139, '.')])</spacy_tokens>
+<spacy_chunks>[('Dashiell Raymond Mihok', 0, 22), ('May 24, 1974', 31, 43), ('an American actor', 48, 65), ('"Bunchy" Donovan', 89, 105), ('the Showtime drama', 109, 127), ('Ray Donovan', 128, 139)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'XX', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'RBS', 'VBN', 'IN', 'VBG', '``', 'NNP', "''", 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

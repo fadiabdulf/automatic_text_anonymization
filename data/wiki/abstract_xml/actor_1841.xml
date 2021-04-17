@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John T. Dillon (actor)</title>
+<link/>https://en.wikipedia.org/wiki/John_T._Dillon_(actor)
+<annotated>0</annotated>
+<originalabstract>John T. Dillon (June 19, 1876 – December 29, 1937) was an American actor of the silent era. He appeared in 136 films between 1908 and 1936. He died in Los Angeles, California from pneumonia. Actor Edward Dillon was his brother. They are not related to director John Francis Dillon.</originalabstract>
+<abstract>John_T._Dillon ( June_19_,_1876 – December_29_,_1937 ) was an_American_actor of the_silent_era . He appeared in 136_films between 1908_and_1936 . He died in Los_Angeles , California from pneumonia . Actor_Edward_Dillon was his_brother . They are_not_related to director_John_Francis_Dillon .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'T.'), (8, 'Dillon'), (15, '('), (16, 'June'), (21, '19'), (23, ','), (25, '1876'), (30, '–'), (32, 'December'), (41, '29'), (43, ','), (45, '1937'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'of'), (76, 'the'), (80, 'silent'), (87, 'era'), (90, '.'), (92, 'He'), (95, 'appeared'), (104, 'in'), (107, '136'), (111, 'films'), (117, 'between'), (125, '1908'), (130, 'and'), (134, '1936'), (138, '.'), (140, 'He'), (143, 'died'), (148, 'in'), (151, 'Los'), (155, 'Angeles'), (162, ','), (164, 'California'), (175, 'from'), (180, 'pneumonia'), (189, '.'), (191, 'Actor'), (197, 'Edward'), (204, 'Dillon'), (211, 'was'), (215, 'his'), (219, 'brother'), (226, '.'), (228, 'They'), (233, 'are'), (237, 'not'), (241, 'related'), (249, 'to'), (252, 'director'), (261, 'John'), (266, 'Francis'), (274, 'Dillon'), (280, '.')])</stanford_tokens>
+<opennlp_chunks>[('John T. Dillon',0, 14), ('June 19, 1876',16, 29), ('December 29, 1937',32, 49), ('an American actor',55, 72), ('the silent era',76, 90), ('136 films',107, 116), ('1908 and 1936',125, 138), ('Los Angeles',151, 162), ('Actor Edward Dillon',191, 210), ('his brother',215, 226), ('are not related',233, 248), ('director John Francis Dillon',252, 280)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NN', '.', 'NN', 'NNP', 'NNP', 'VBD', 'PRP$', 'NN', '.', 'PRP', 'VBP', 'RB', 'VBN', 'TO', 'NN', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'T.'), (8, 'Dillon'), (15, '('), (16, 'June'), (21, '19'), (23, ','), (25, '1876'), (30, '–'), (32, 'December'), (41, '29'), (43, ','), (45, '1937'), (49, ')'), (51, 'was'), (55, 'an'), (58, 'American'), (67, 'actor'), (73, 'of'), (76, 'the'), (80, 'silent'), (87, 'era'), (90, '.'), (92, 'He'), (95, 'appeared'), (104, 'in'), (107, '136'), (111, 'films'), (117, 'between'), (125, '1908'), (130, 'and'), (134, '1936'), (138, '.'), (140, 'He'), (143, 'died'), (148, 'in'), (151, 'Los'), (155, 'Angeles'), (162, ','), (164, 'California'), (175, 'from'), (180, 'pneumonia'), (189, '.'), (191, 'Actor'), (197, 'Edward'), (204, 'Dillon'), (211, 'was'), (215, 'his'), (219, 'brother'), (226, '.'), (228, 'They'), (233, 'are'), (237, 'not'), (241, 'related'), (249, 'to'), (252, 'director'), (261, 'John'), (266, 'Francis'), (274, 'Dillon'), (280, '.')])</spacy_tokens>
+<spacy_chunks>[('John T. Dillon', 0, 14), ('June 19, 1876', 16, 29), ('December 29, 1937', 32, 49), ('an American actor', 55, 72), ('the silent era', 76, 90), ('136 films', 107, 116), ('Los Angeles, California', 151, 174), ('Pneumonia', 180, 189), ('Actor Edward Dillon', 191, 210), ('his brother', 215, 226), ('director John Francis Dillon', 252, 280)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NN', '.', 'NNP', 'NNP', 'NNP', 'VBD', 'PRP$', 'NN', '.', 'PRP', 'VBP', 'RB', 'VBN', 'IN', 'NN', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

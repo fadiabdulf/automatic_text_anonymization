@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jay Belasco</title>
+<link/>https://en.wikipedia.org/wiki/Jay_Belasco
+<annotated>0</annotated>
+<originalabstract>Jay Belasco (January 11, 1888 in Brooklyn, New York City – May 1, 1949 in Santa Monica, California), born Reginald James Belasco, was an American film actor whose career mostly involved silent film.
+He was the cousin of actors Walter Belasco and David Belasco
+He died from a heart attack in 1949.</originalabstract>
+<abstract>Jay_Belasco ( January_11_,_1888 in Brooklyn , New_York_City – May_1_,_1949 in Santa_Monica , California ) , born Reginald_James_Belasco , was an_American_film_actor whose_career mostly_involved silent_film . He was the_cousin of actors_Walter_Belasco and David_Belasco He died from a_heart_attack in 1949 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jay'), (4, 'Belasco'), (12, '('), (13, 'January'), (21, '11'), (23, ','), (25, '1888'), (30, 'in'), (33, 'Brooklyn'), (41, ','), (43, 'New'), (47, 'York'), (52, 'City'), (57, '–'), (59, 'May'), (63, '1'), (64, ','), (66, '1949'), (71, 'in'), (74, 'Santa'), (80, 'Monica'), (86, ','), (88, 'California'), (98, ')'), (99, ','), (101, 'born'), (106, 'Reginald'), (115, 'James'), (121, 'Belasco'), (128, ','), (130, 'was'), (134, 'an'), (137, 'American'), (146, 'film'), (151, 'actor'), (157, 'whose'), (163, 'career'), (170, 'mostly'), (177, 'involved'), (186, 'silent'), (193, 'film'), (197, '.'), (199, 'He'), (202, 'was'), (206, 'the'), (210, 'cousin'), (217, 'of'), (220, 'actors'), (227, 'Walter'), (234, 'Belasco'), (242, 'and'), (246, 'David'), (252, 'Belasco'), (260, 'He'), (263, 'died'), (268, 'from'), (273, 'a'), (275, 'heart'), (281, 'attack'), (288, 'in'), (291, '1949'), (295, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jay Belasco',0, 11), ('January 11, 1888',13, 29), ('New York City',43, 56), ('May 1, 1949',59, 70), ('Santa Monica',74, 86), ('Reginald James Belasco',106, 128), ('an American film actor',134, 156), ('whose career',157, 169), ('mostly involved',170, 185), ('silent film',186, 197), ('the cousin',206, 216), ('actors Walter Belasco',220, 241), ('David Belasco',246, 259), ('a heart attack',273, 287)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP$', 'NN', 'RB', 'VBN', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jay'), (4, 'Belasco'), (12, '('), (13, 'January'), (21, '11'), (23, ','), (25, '1888'), (30, 'in'), (33, 'Brooklyn'), (41, ','), (43, 'New'), (47, 'York'), (52, 'City'), (57, '–'), (59, 'May'), (63, '1'), (64, ','), (66, '1949'), (71, 'in'), (74, 'Santa'), (80, 'Monica'), (86, ','), (88, 'California'), (98, ')'), (99, ','), (101, 'born'), (106, 'Reginald'), (115, 'James'), (121, 'Belasco'), (128, ','), (130, 'was'), (134, 'an'), (137, 'American'), (146, 'film'), (151, 'actor'), (157, 'whose'), (163, 'career'), (170, 'mostly'), (177, 'involved'), (186, 'silent'), (193, 'film'), (197, '.'), (199, 'He'), (202, 'was'), (206, 'the'), (210, 'cousin'), (217, 'of'), (220, 'actors'), (227, 'Walter'), (234, 'Belasco'), (242, 'and'), (246, 'David'), (252, 'Belasco'), (260, 'He'), (263, 'died'), (268, 'from'), (273, 'a'), (275, 'heart'), (281, 'attack'), (288, 'in'), (291, '1949'), (295, '.')])</spacy_tokens>
+<spacy_chunks>[('Jay Belasco', 0, 11), ('(January', 12, 20), ('January 11, 1888', 13, 29), ('Brooklyn, New York', 33, 51), ('New York City', 43, 56), ('May 1, 1949', 59, 70), ('Santa Monica, California', 74, 98), ('Reginald James Belasco', 106, 128), ('an American film actor', 134, 156), ('whose career', 157, 169), ('Silent film', 186, 197), ('the cousin', 206, 216), ('actors Walter Belasco', 220, 241), ('David Belasco', 246, 259), ('a heart attack', 273, 287)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', '.', 'NNP', 'CD', ',', 'CD', 'IN', 'NNP', 'NNP', ',', 'NNP', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP$', 'NN', 'RB', 'VBD', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'NNS', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', 'PRP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dana Gould</title>
+<link/>https://en.wikipedia.org/wiki/Dana_Gould
+<annotated>0</annotated>
+<originalabstract>Dana John Gould (born August 24, 1964) is an American stand-up comedian, actor, writer and voice artist who has been featured on HBO, Showtime, and Comedy Central.</originalabstract>
+<abstract>Dana_John_Gould ( born August_24 , 1964 ) is an_American_stand-up_comedian , actor_,_writer_and_voice_artist who has_been_featured on HBO , Showtime , and Comedy_Central .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dana'), (5, 'John'), (10, 'Gould'), (16, '('), (17, 'born'), (22, 'August'), (29, '24'), (31, ','), (33, '1964'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'stand-up'), (63, 'comedian'), (71, ','), (73, 'actor'), (78, ','), (80, 'writer'), (87, 'and'), (91, 'voice'), (97, 'artist'), (104, 'who'), (108, 'has'), (112, 'been'), (117, 'featured'), (126, 'on'), (129, 'HBO'), (132, ','), (134, 'Showtime'), (142, ','), (144, 'and'), (148, 'Comedy'), (155, 'Central'), (162, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dana John Gould',0, 15), ('August 24',22, 31), ('an American stand-up comedian',42, 71), ('actor, writer and voice artist',73, 103), ('has been featured',108, 125), ('Comedy Central',148, 162)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dana'), (5, 'John'), (10, 'Gould'), (16, '('), (17, 'born'), (22, 'August'), (29, '24'), (31, ','), (33, '1964'), (37, ')'), (39, 'is'), (42, 'an'), (45, 'American'), (54, 'stand'), (59, '-'), (60, 'up'), (63, 'comedian'), (71, ','), (73, 'actor'), (78, ','), (80, 'writer'), (87, 'and'), (91, 'voice'), (97, 'artist'), (104, 'who'), (108, 'has'), (112, 'been'), (117, 'featured'), (126, 'on'), (129, 'HBO'), (132, ','), (134, 'Showtime'), (142, ','), (144, 'and'), (148, 'Comedy'), (155, 'Central'), (162, '.')])</spacy_tokens>
+<spacy_chunks>[('Dana John Gould', 0, 15), ('August 24, 1964', 22, 37), ('an American stand-up comedian', 42, 71), ('writer', 80, 86), ('voice artist', 91, 103), ('Showtime', 134, 142), ('Comedy Central', 148, 162)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'VB', 'HYPH', 'RP', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBZ', 'VBN', 'VBN', 'IN', 'NNP', ',', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

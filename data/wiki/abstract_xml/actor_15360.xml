@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Meghan Strange</title>
+<link/>https://en.wikipedia.org/wiki/Meghan_Strange
+<annotated>0</annotated>
+<originalabstract>Meghan Strange is an American actress and voice actress. She is best known for her roles as Ruby from The Land Before Time television series and Robin from Sofia the First. She also voiced the character Harley Quinn on Batman: The Brave and the Bold and has appeared in a number of short films and children's TV shows.</originalabstract>
+<abstract>Meghan_Strange is an_American_actress_and_voice_actress . She is_best_known for her_roles as Ruby from The_Land Before Time_television_series and Robin from Sofia the_First . She also voiced the_character_Harley_Quinn on Batman : The_Brave and the_Bold and has_appeared in a_number of short_films and children 's_TV_shows .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Meghan'), (7, 'Strange'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'actress'), (38, 'and'), (42, 'voice'), (48, 'actress'), (55, '.'), (57, 'She'), (61, 'is'), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'her'), (83, 'roles'), (89, 'as'), (92, 'Ruby'), (97, 'from'), (102, 'The'), (106, 'Land'), (111, 'Before'), (118, 'Time'), (123, 'television'), (134, 'series'), (141, 'and'), (145, 'Robin'), (151, 'from'), (156, 'Sofia'), (162, 'the'), (166, 'First'), (171, '.'), (173, 'She'), (177, 'also'), (182, 'voiced'), (189, 'the'), (193, 'character'), (203, 'Harley'), (210, 'Quinn'), (216, 'on'), (219, 'Batman'), (225, ':'), (227, 'The'), (231, 'Brave'), (237, 'and'), (241, 'the'), (245, 'Bold'), (250, 'and'), (254, 'has'), (258, 'appeared'), (267, 'in'), (270, 'a'), (272, 'number'), (279, 'of'), (282, 'short'), (288, 'films'), (294, 'and'), (298, 'children'), (306, '\'s'), (309, 'TV'), (312, 'shows'), (317, '.')])</stanford_tokens>
+<opennlp_chunks>[('Meghan Strange',0, 14), ('an American actress and voice actress',18, 55), ('is best known',61, 74), ('her roles',79, 88), ('The Land',102, 110), ('Time television series',118, 140), ('the First',162, 171), ('the character Harley Quinn',189, 215), ('The Brave',227, 236), ('the Bold',241, 249), ('has appeared',254, 266), ('a number',270, 278), ('short films',282, 293), ('\'s TV shows',306, 317)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'IN', 'NNP', 'NN', 'NN', 'CC', 'NNP', 'IN', 'NNP', 'DT', 'NNP', '.', 'PRP', 'RB', 'VBD', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'NNP', ':', 'DT', 'NNP', 'CC', 'DT', 'JJ', 'CC', 'VBZ', 'VBN', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'NNS', 'POS', 'NN', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Meghan'), (7, 'Strange'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'actress'), (38, 'and'), (42, 'voice'), (48, 'actress'), (55, '.'), (57, 'She'), (61, 'is'), (64, 'best'), (69, 'known'), (75, 'for'), (79, 'her'), (83, 'roles'), (89, 'as'), (92, 'Ruby'), (97, 'from'), (102, 'The'), (106, 'Land'), (111, 'Before'), (118, 'Time'), (123, 'television'), (134, 'series'), (141, 'and'), (145, 'Robin'), (151, 'from'), (156, 'Sofia'), (162, 'the'), (166, 'First'), (171, '.'), (173, 'She'), (177, 'also'), (182, 'voiced'), (189, 'the'), (193, 'character'), (203, 'Harley'), (210, 'Quinn'), (216, 'on'), (219, 'Batman'), (225, ':'), (227, 'The'), (231, 'Brave'), (237, 'and'), (241, 'the'), (245, 'Bold'), (250, 'and'), (254, 'has'), (258, 'appeared'), (267, 'in'), (270, 'a'), (272, 'number'), (279, 'of'), (282, 'short'), (288, 'films'), (294, 'and'), (298, 'children'), (306, "'s"), (309, 'TV'), (312, 'shows'), (317, '.')])</spacy_tokens>
+<spacy_chunks>[('Meghan Strange', 0, 14), ('an American actress', 18, 37), ('voice actress', 42, 55), ('her roles', 79, 88), ('The Land Before Time', 102, 122), ('Time television series', 118, 140), ('Sofia the First', 156, 171), ('the character', 189, 202), ('Harley Quinn', 203, 215), ('Batman: The Brave and the Bold', 219, 249), ('a number', 270, 278), ('short films', 282, 293)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'NN', 'NN', 'CC', 'NNP', 'IN', 'NNP', 'DT', 'NNP', '.', 'PRP', 'RB', 'VBD', 'DT', 'NN', 'NNP', 'NNP', 'IN', 'NNP', ':', 'DT', 'NNP', 'CC', 'DT', 'NNP', 'CC', 'VBZ', 'VBN', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'NNS', 'POS', 'NN', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

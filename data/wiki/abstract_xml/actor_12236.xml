@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Gladys Gale</title>
+<link/>https://en.wikipedia.org/wiki/Gladys_Gale
+<annotated>0</annotated>
+<originalabstract>Gladys Gale (January 15, 1891 – October 4, 1948) was an American nightclub singer and vaudeville performer, before becoming a character actress in films during the 1930s and 1940s.  The wife of a millionaire, she led a checkered life before dying under mysterious circumstances in a Los Angeles hotel room under an assumed name.</originalabstract>
+<abstract>Gladys_Gale ( January_15_,_1891 – October_4_,_1948 ) was an_American_nightclub_singer_and_vaudeville_performer , before becoming a_character_actress in films during the_1930s_and_1940s . The_wife of a_millionaire , she led a_checkered_life before dying under mysterious_circumstances in a_Los_Angeles_hotel_room under an_assumed_name .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Gladys'), (7, 'Gale'), (12, '('), (13, 'January'), (21, '15'), (23, ','), (25, '1891'), (30, '–'), (32, 'October'), (40, '4'), (41, ','), (43, '1948'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'nightclub'), (75, 'singer'), (82, 'and'), (86, 'vaudeville'), (97, 'performer'), (106, ','), (108, 'before'), (115, 'becoming'), (124, 'a'), (126, 'character'), (136, 'actress'), (144, 'in'), (147, 'films'), (153, 'during'), (160, 'the'), (164, '1930s'), (170, 'and'), (174, '1940s'), (179, '.'), (182, 'The'), (186, 'wife'), (191, 'of'), (194, 'a'), (196, 'millionaire'), (207, ','), (209, 'she'), (213, 'led'), (217, 'a'), (219, 'checkered'), (229, 'life'), (234, 'before'), (241, 'dying'), (247, 'under'), (253, 'mysterious'), (264, 'circumstances'), (278, 'in'), (281, 'a'), (283, 'Los'), (287, 'Angeles'), (295, 'hotel'), (301, 'room'), (306, 'under'), (312, 'an'), (315, 'assumed'), (323, 'name'), (327, '.')])</stanford_tokens>
+<opennlp_chunks>[('Gladys Gale',0, 11), ('January 15, 1891',13, 29), ('October 4, 1948',32, 47), ('an American nightclub singer and vaudeville performer',53, 106), ('a character actress',124, 143), ('the 1930s and 1940s',160, 179), ('The wife',182, 190), ('a millionaire',194, 207), ('a checkered life',217, 233), ('mysterious circumstances',253, 277), ('a Los Angeles hotel room',281, 305), ('an assumed name',312, 327)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'IN', 'VBG', 'DT', 'NN', 'NN', 'IN', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'DT', 'NN', 'IN', 'DT', 'NN', ',', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'VBG', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Gladys'), (7, 'Gale'), (12, '('), (13, 'January'), (21, '15'), (23, ','), (25, '1891'), (30, '–'), (32, 'October'), (40, '4'), (41, ','), (43, '1948'), (47, ')'), (49, 'was'), (53, 'an'), (56, 'American'), (65, 'nightclub'), (75, 'singer'), (82, 'and'), (86, 'vaudeville'), (97, 'performer'), (106, ','), (108, 'before'), (115, 'becoming'), (124, 'a'), (126, 'character'), (136, 'actress'), (144, 'in'), (147, 'films'), (153, 'during'), (160, 'the'), (164, '1930s'), (170, 'and'), (174, '1940s'), (179, '.'), (182, 'The'), (186, 'wife'), (191, 'of'), (194, 'a'), (196, 'millionaire'), (207, ','), (209, 'she'), (213, 'led'), (217, 'a'), (219, 'checkered'), (229, 'life'), (234, 'before'), (241, 'dying'), (247, 'under'), (253, 'mysterious'), (264, 'circumstances'), (278, 'in'), (281, 'a'), (283, 'Los'), (287, 'Angeles'), (295, 'hotel'), (301, 'room'), (306, 'under'), (312, 'an'), (315, 'assumed'), (323, 'name'), (327, '.')])</spacy_tokens>
+<spacy_chunks>[('Gladys Gale', 0, 11), ('January 15, 1891', 13, 29), ('October 4, 1948', 32, 47), ('an American nightclub singer', 53, 81), ('Vaudeville performer', 86, 106), ('a character actress', 124, 143), ('the 1930s', 160, 169), ('The wife', 182, 190), ('a millionaire', 194, 207), ('a checkered life', 217, 233), ('mysterious circumstances', 253, 277), ('a Los Angeles hotel room', 281, 305), ('an assumed name', 312, 327)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'CC', 'NN', 'NN', ',', 'IN', 'VBG', 'DT', 'NN', 'NN', 'IN', 'NNS', 'IN', 'DT', 'NNS', 'CC', 'NNS', '.', 'DT', 'NN', 'IN', 'DT', 'NN', ',', 'PRP', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'VBG', 'IN', 'JJ', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

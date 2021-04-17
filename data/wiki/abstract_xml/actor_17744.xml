@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nell Tiger Free</title>
+<link/>https://en.wikipedia.org/wiki/Nell_Tiger_Free
+<annotated>0</annotated>
+<originalabstract>Nell Tiger Free is an English actress and singer best known for her role as Myrcella Baratheon in seasons 5 and 6 of the television series Game of Thrones, where she replaced Aimee Richardson. She is also known for roles as Chloe Crumb in the film version of Mr. Stink and Anna in the film Broken.</originalabstract>
+<abstract>Nell_Tiger_Free is an_English_actress_and_singer best_known for her_role as Myrcella_Baratheon in seasons 5_and_6 of the_television_series_Game of Thrones , where she replaced Aimee_Richardson . She is_also_known for roles as Chloe_Crumb in the_film_version of Mr._Stink and Anna in the_film Broken .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nell'), (5, 'Tiger'), (11, 'Free'), (16, 'is'), (19, 'an'), (22, 'English'), (30, 'actress'), (38, 'and'), (42, 'singer'), (49, 'best'), (54, 'known'), (60, 'for'), (64, 'her'), (68, 'role'), (73, 'as'), (76, 'Myrcella'), (85, 'Baratheon'), (95, 'in'), (98, 'seasons'), (106, '5'), (108, 'and'), (112, '6'), (114, 'of'), (117, 'the'), (121, 'television'), (132, 'series'), (139, 'Game'), (144, 'of'), (147, 'Thrones'), (154, ','), (156, 'where'), (162, 'she'), (166, 'replaced'), (175, 'Aimee'), (181, 'Richardson'), (191, '.'), (193, 'She'), (197, 'is'), (200, 'also'), (205, 'known'), (211, 'for'), (215, 'roles'), (221, 'as'), (224, 'Chloe'), (230, 'Crumb'), (236, 'in'), (239, 'the'), (243, 'film'), (248, 'version'), (256, 'of'), (259, 'Mr.'), (263, 'Stink'), (269, 'and'), (273, 'Anna'), (278, 'in'), (281, 'the'), (285, 'film'), (290, 'Broken'), (296, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nell Tiger Free',0, 15), ('an English actress and singer',19, 48), ('best known',49, 59), ('her role',64, 72), ('Myrcella Baratheon',76, 94), ('5 and 6',106, 113), ('the television series Game',117, 143), ('Aimee Richardson',175, 191), ('is also known',197, 210), ('Chloe Crumb',224, 235), ('the film version',239, 255), ('Mr. Stink',259, 268), ('the film',281, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNS', 'CD', 'CC', 'CD', 'IN', 'DT', 'NN', 'NN', 'NNP', 'IN', 'NNPS', ',', 'WRB', 'PRP', 'VBD', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'IN', 'DT', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nell'), (5, 'Tiger'), (11, 'Free'), (16, 'is'), (19, 'an'), (22, 'English'), (30, 'actress'), (38, 'and'), (42, 'singer'), (49, 'best'), (54, 'known'), (60, 'for'), (64, 'her'), (68, 'role'), (73, 'as'), (76, 'Myrcella'), (85, 'Baratheon'), (95, 'in'), (98, 'seasons'), (106, '5'), (108, 'and'), (112, '6'), (114, 'of'), (117, 'the'), (121, 'television'), (132, 'series'), (139, 'Game'), (144, 'of'), (147, 'Thrones'), (154, ','), (156, 'where'), (162, 'she'), (166, 'replaced'), (175, 'Aimee'), (181, 'Richardson'), (191, '.'), (193, 'She'), (197, 'is'), (200, 'also'), (205, 'known'), (211, 'for'), (215, 'roles'), (221, 'as'), (224, 'Chloe'), (230, 'Crumb'), (236, 'in'), (239, 'the'), (243, 'film'), (248, 'version'), (256, 'of'), (259, 'Mr.'), (263, 'Stink'), (269, 'and'), (273, 'Anna'), (278, 'in'), (281, 'the'), (285, 'film'), (290, 'Broken'), (296, '.')])</spacy_tokens>
+<spacy_chunks>[('Nell Tiger Free', 0, 15), ('an English actress', 19, 37), ('singer', 42, 48), ('her role', 64, 72), ('Myrcella Baratheon', 76, 94), ('seasons', 98, 105), ('the television series', 117, 138), ('Game of Thrones', 139, 154), ('Aimee Richardson', 175, 191), ('Chloe Crumb', 224, 235), ('the film version', 239, 255), ('Mr. Stink', 259, 268), ('Broken', 290, 296)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'NNS', 'CD', 'CC', 'CD', 'IN', 'DT', 'NN', 'NN', 'NNP', 'IN', 'NNPS', ',', 'WRB', 'PRP', 'VBD', 'NNP', 'NNP', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', 'IN', 'DT', 'NN', 'VBN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Noël-Noël</title>
+<link/>https://en.wikipedia.org/wiki/No%C3%ABl-No%C3%ABl
+<annotated>0</annotated>
+<originalabstract>Abelson murine leukemia viral oncogene homolog 1 also known as ABL1 is a protein that, in humans, is encoded by the ABL1 gene (previous symbol ABL) located on chromosome 9. c-Abl is sometimes used to refer to the version of the gene found within the mammalian genome, while v-Abl refers to the viral gene.</originalabstract>
+<abstract>Abelson_murine_leukemia_viral_oncogene_homolog_1 also known as ABL1 is a_protein that , in humans , is_encoded by the_ABL1_gene ( previous_symbol_ABL ) located on chromosome_9 . c-Abl is_sometimes_used_to_refer to the_version of the_gene found within the_mammalian_genome , while v-Abl refers to the_viral_gene .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Abelson'), (8, 'murine'), (15, 'leukemia'), (24, 'viral'), (30, 'oncogene'), (39, 'homolog'), (47, '1'), (49, 'also'), (54, 'known'), (60, 'as'), (63, 'ABL1'), (68, 'is'), (71, 'a'), (73, 'protein'), (81, 'that'), (85, ','), (87, 'in'), (90, 'humans'), (96, ','), (98, 'is'), (101, 'encoded'), (109, 'by'), (112, 'the'), (116, 'ABL1'), (121, 'gene'), (126, '('), (127, 'previous'), (136, 'symbol'), (143, 'ABL'), (146, ')'), (148, 'located'), (156, 'on'), (159, 'chromosome'), (170, '9'), (171, '.'), (173, 'c-Abl'), (179, 'is'), (182, 'sometimes'), (192, 'used'), (197, 'to'), (200, 'refer'), (206, 'to'), (209, 'the'), (213, 'version'), (221, 'of'), (224, 'the'), (228, 'gene'), (233, 'found'), (239, 'within'), (246, 'the'), (250, 'mammalian'), (260, 'genome'), (266, ','), (268, 'while'), (274, 'v-Abl'), (280, 'refers'), (287, 'to'), (290, 'the'), (294, 'viral'), (300, 'gene'), (304, '.')])</stanford_tokens>
+<opennlp_chunks>[('Abelson murine leukemia viral oncogene homolog 1',0, 48), ('a protein',71, 80), ('is encoded',98, 108), ('the ABL1 gene',112, 125), ('previous symbol ABL',127, 146), ('chromosome 9',159, 171), ('is sometimes used to refer',179, 205), ('the version',209, 220), ('the gene',224, 232), ('the mammalian genome',246, 266), ('the viral gene',290, 304)]</opennlp_chunks>
+<stanford_pos>['NN', 'JJ', 'NN', 'JJ', 'NN', 'NN', 'CD', 'RB', 'VBN', 'IN', 'NN', 'VBZ', 'DT', 'NN', 'WDT', ',', 'IN', 'NNS', ',', 'VBZ', 'VBN', 'IN', 'DT', 'NN', 'NN', '-LRB-', 'JJ', 'NN', 'NN', '-RRB-', 'JJ', 'IN', 'NN', 'CD', '.', 'NN', 'VBZ', 'RB', 'VBN', 'TO', 'VB', 'TO', 'DT', 'NN', 'IN', 'DT', 'NN', 'VBN', 'IN', 'DT', 'JJ', 'NN', ',', 'IN', 'NN', 'VBZ', 'TO', 'DT', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Abelson'), (8, 'murine'), (15, 'leukemia'), (24, 'viral'), (30, 'oncogene'), (39, 'homolog'), (47, '1'), (49, 'also'), (54, 'known'), (60, 'as'), (63, 'ABL1'), (68, 'is'), (71, 'a'), (73, 'protein'), (81, 'that'), (85, ','), (87, 'in'), (90, 'humans'), (96, ','), (98, 'is'), (101, 'encoded'), (109, 'by'), (112, 'the'), (116, 'ABL1'), (121, 'gene'), (126, '('), (127, 'previous'), (136, 'symbol'), (143, 'ABL'), (146, ')'), (148, 'located'), (156, 'on'), (159, 'chromosome'), (170, '9'), (171, '.'), (173, 'c'), (174, '-'), (175, 'Abl'), (179, 'is'), (182, 'sometimes'), (192, 'used'), (197, 'to'), (200, 'refer'), (206, 'to'), (209, 'the'), (213, 'version'), (221, 'of'), (224, 'the'), (228, 'gene'), (233, 'found'), (239, 'within'), (246, 'the'), (250, 'mammalian'), (260, 'genome'), (266, ','), (268, 'while'), (274, 'v'), (275, '-'), (276, 'Abl'), (280, 'refers'), (287, 'to'), (290, 'the'), (294, 'viral'), (300, 'gene'), (304, '.')])</spacy_tokens>
+<spacy_chunks>[('Abelson murine leukemia viral oncogene homolog', 0, 46), ('a protein', 71, 80), ('humans', 90, 96), ('the ABL1 gene', 112, 125), ('previous symbol ABL', 127, 146), ('chromosome', 159, 169), ('the version', 209, 220), ('the gene', 224, 232), ('the mammalian genome', 246, 266), ('the viral gene', 290, 304)]</spacy_chunks>
+<spacy_pos>['NN', 'NN', 'NN', 'JJ', 'NN', 'NN', 'CD', 'RB', 'VBN', 'IN', 'NNP', 'VBZ', 'DT', 'NN', 'WDT', ',', 'IN', 'NNS', ',', 'VBZ', 'VBN', 'IN', 'DT', 'NNP', 'NN', '-LRB-', 'JJ', 'NN', 'NNP', '-RRB-', 'VBN', 'IN', 'NN', 'CD', '.', 'LS', ':', 'NNP', 'VBZ', 'RB', 'VBN', 'TO', 'VB', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'VBD', 'IN', 'DT', 'JJ', 'NN', ',', 'IN', 'NN', ':', 'NNP', 'VBZ', 'IN', 'DT', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

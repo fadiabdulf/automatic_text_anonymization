@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marie Bell</title>
+<link/>https://en.wikipedia.org/wiki/Marie_Bell
+<annotated>0</annotated>
+<originalabstract>Marie Bell (December 23, 1900 – August 14, 1985), born Marie-Jeanne Bellon, was a French tragedian, comic actor and stage director.  She was the director of the Théâtre du Gymnase in Paris from 1962 onwards, and this theatre now bears her name.</originalabstract>
+<abstract>Marie_Bell ( December_23_,_1900 – August_14_,_1985 ) , born Marie-Jeanne_Bellon , was a_French_tragedian , comic_actor_and_stage_director . She was the_director of the_Théâtre_du_Gymnase in Paris from 1962_onwards , and this_theatre now bears her name .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marie'), (6, 'Bell'), (11, '('), (12, 'December'), (21, '23'), (23, ','), (25, '1900'), (30, '–'), (32, 'August'), (39, '14'), (41, ','), (43, '1985'), (47, ')'), (48, ','), (50, 'born'), (55, 'Marie-Jeanne'), (68, 'Bellon'), (74, ','), (76, 'was'), (80, 'a'), (82, 'French'), (89, 'tragedian'), (98, ','), (100, 'comic'), (106, 'actor'), (112, 'and'), (116, 'stage'), (122, 'director'), (130, '.'), (133, 'She'), (137, 'was'), (141, 'the'), (145, 'director'), (154, 'of'), (157, 'the'), (161, 'Théâtre'), (169, 'du'), (172, 'Gymnase'), (180, 'in'), (183, 'Paris'), (189, 'from'), (194, '1962'), (199, 'onwards'), (206, ','), (208, 'and'), (212, 'this'), (217, 'theatre'), (225, 'now'), (229, 'bears'), (235, 'her'), (239, 'name'), (243, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marie Bell',0, 10), ('December 23, 1900',12, 29), ('August 14, 1985',32, 47), ('Marie-Jeanne Bellon',55, 74), ('a French tragedian',80, 98), ('comic actor and stage director',100, 130), ('the director',141, 153), ('the Théâtre du Gymnase',157, 179), ('1962 onwards',194, 206), ('this theatre',212, 224)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'CD', 'NNS', ',', 'CC', 'DT', 'NN', 'RB', 'VBZ', 'PRP', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marie'), (6, 'Bell'), (11, '('), (12, 'December'), (21, '23'), (23, ','), (25, '1900'), (30, '–'), (32, 'August'), (39, '14'), (41, ','), (43, '1985'), (47, ')'), (48, ','), (50, 'born'), (55, 'Marie'), (60, '-'), (61, 'Jeanne'), (68, 'Bellon'), (74, ','), (76, 'was'), (80, 'a'), (82, 'French'), (89, 'tragedian'), (98, ','), (100, 'comic'), (106, 'actor'), (112, 'and'), (116, 'stage'), (122, 'director'), (130, '.'), (133, 'She'), (137, 'was'), (141, 'the'), (145, 'director'), (154, 'of'), (157, 'the'), (161, 'Théâtre'), (169, 'du'), (172, 'Gymnase'), (180, 'in'), (183, 'Paris'), (189, 'from'), (194, '1962'), (199, 'onwards'), (206, ','), (208, 'and'), (212, 'this'), (217, 'theatre'), (225, 'now'), (229, 'bears'), (235, 'her'), (239, 'name'), (243, '.')])</spacy_tokens>
+<spacy_chunks>[('Marie Bell', 0, 10), ('(December', 11, 20), ('December 23, 1900', 12, 29), ('August 14, 1985', 32, 47), ('Marie-Jeanne Bellon', 55, 74), ('a French tragedian', 80, 98), ('comic actor', 100, 111), ('Stage director', 116, 130), ('the director', 141, 153), ('the Théâtre du Gymnase', 157, 179), ('this theatre', 212, 224), ('her name', 235, 243)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBN', 'NNP', 'HYPH', 'NNP', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', ',', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'IN', 'CD', 'RB', ',', 'CC', 'DT', 'NN', 'RB', 'VBZ', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

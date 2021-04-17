@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Florence Hale</title>
+<link/>https://en.wikipedia.org/wiki/Florence_Hale
+<annotated>0</annotated>
+<originalabstract>Florence Hale (14 May 1887 – 2 April 1945), was an American actress. She appeared in 3 films between 1912 and 1922.
+She was born in Iowa, United States and died in San Diego, California.</originalabstract>
+<abstract>Florence_Hale ( 14_May_1887 – 2_April_1945 ) , was an_American_actress . She appeared in 3_films between 1912_and_1922 . She was_born in Iowa , United_States and died in San_Diego , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Florence'), (9, 'Hale'), (14, '('), (15, '14'), (18, 'May'), (22, '1887'), (27, '–'), (29, '2'), (31, 'April'), (37, '1945'), (41, ')'), (42, ','), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'appeared'), (82, 'in'), (85, '3'), (87, 'films'), (93, 'between'), (101, '1912'), (106, 'and'), (110, '1922'), (114, '.'), (116, 'She'), (120, 'was'), (124, 'born'), (129, 'in'), (132, 'Iowa'), (136, ','), (138, 'United'), (145, 'States'), (152, 'and'), (156, 'died'), (161, 'in'), (164, 'San'), (168, 'Diego'), (173, ','), (175, 'California'), (185, '.')])</stanford_tokens>
+<opennlp_chunks>[('Florence Hale',0, 13), ('14 May 1887',15, 26), ('2 April 1945',29, 41), ('an American actress',48, 67), ('3 films',85, 92), ('1912 and 1922',101, 114), ('was born',120, 128), ('United States',138, 151), ('San Diego',164, 173)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNPS', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Florence'), (9, 'Hale'), (14, '('), (15, '14'), (18, 'May'), (22, '1887'), (27, '–'), (29, '2'), (31, 'April'), (37, '1945'), (41, ')'), (42, ','), (44, 'was'), (48, 'an'), (51, 'American'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'appeared'), (82, 'in'), (85, '3'), (87, 'films'), (93, 'between'), (101, '1912'), (106, 'and'), (110, '1922'), (114, '.'), (116, 'She'), (120, 'was'), (124, 'born'), (129, 'in'), (132, 'Iowa'), (136, ','), (138, 'United'), (145, 'States'), (152, 'and'), (156, 'died'), (161, 'in'), (164, 'San'), (168, 'Diego'), (173, ','), (175, 'California'), (185, '.')])</spacy_tokens>
+<spacy_chunks>[('Florence Hale', 0, 13), ('14 May 1887', 15, 26), ('2 April 1945', 29, 41), ('an American actress', 48, 67), ('3 films', 85, 92), ('United States', 138, 151), ('San Diego, California', 164, 185)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'NNP', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lillian Lorraine</title>
+<link/>https://en.wikipedia.org/wiki/Lillian_Lorraine
+<annotated>0</annotated>
+<originalabstract>Not to be confused with silent film actress Louise Lorraine.Lillian Lorraine (January 1, 1892 – April 17, 1955) was an American stage and screen actress of the 1910s and 1920s, best known for her beauty and for being perhaps the most famous Ziegfeld Girl in the Broadway revues Ziegfeld Follies during the 1910s.</originalabstract>
+<abstract>Not to_be_confused with silent_film_actress_Louise_Lorraine.Lillian_Lorraine ( January_1_,_1892 – April_17_,_1955 ) was an_American_stage_and_screen_actress of the_1910s_and_1920s , best_known for her_beauty and for being perhaps the_most_famous_Ziegfeld_Girl in the_Broadway_revues_Ziegfeld_Follies during the_1910s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Not'), (4, 'to'), (7, 'be'), (10, 'confused'), (19, 'with'), (24, 'silent'), (31, 'film'), (36, 'actress'), (44, 'Louise'), (51, 'Lorraine.Lillian'), (68, 'Lorraine'), (77, '('), (78, 'January'), (86, '1'), (87, ','), (89, '1892'), (94, '–'), (96, 'April'), (102, '17'), (104, ','), (106, '1955'), (110, ')'), (112, 'was'), (116, 'an'), (119, 'American'), (128, 'stage'), (134, 'and'), (138, 'screen'), (145, 'actress'), (153, 'of'), (156, 'the'), (160, '1910s'), (166, 'and'), (170, '1920s'), (175, ','), (177, 'best'), (182, 'known'), (188, 'for'), (192, 'her'), (196, 'beauty'), (203, 'and'), (207, 'for'), (211, 'being'), (217, 'perhaps'), (225, 'the'), (229, 'most'), (234, 'famous'), (241, 'Ziegfeld'), (250, 'Girl'), (255, 'in'), (258, 'the'), (262, 'Broadway'), (271, 'revues'), (278, 'Ziegfeld'), (287, 'Follies'), (295, 'during'), (302, 'the'), (306, '1910s'), (311, '.')])</stanford_tokens>
+<opennlp_chunks>[('to be confused',4, 18), ('silent film actress Louise Lorraine.Lillian Lorraine',24, 76), ('January 1, 1892',78, 93), ('April 17, 1955',96, 110), ('an American stage and screen actress',116, 152), ('the 1910s and 1920s',156, 175), ('best known',177, 187), ('her beauty',192, 202), ('the most famous Ziegfeld Girl',225, 254), ('the Broadway revues Ziegfeld Follies',258, 294), ('the 1910s',302, 311)]</opennlp_chunks>
+<stanford_pos>['RB', 'TO', 'VB', 'VBN', 'IN', 'JJ', 'NN', 'NN', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'CD', 'CC', 'CD', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'CC', 'IN', 'VBG', 'RB', 'DT', 'RBS', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNS', 'NNP', 'NNP', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Not'), (4, 'to'), (7, 'be'), (10, 'confused'), (19, 'with'), (24, 'silent'), (31, 'film'), (36, 'actress'), (44, 'Louise'), (51, 'Lorraine'), (59, '.'), (60, 'Lillian'), (68, 'Lorraine'), (77, '('), (78, 'January'), (86, '1'), (87, ','), (89, '1892'), (94, '–'), (96, 'April'), (102, '17'), (104, ','), (106, '1955'), (110, ')'), (112, 'was'), (116, 'an'), (119, 'American'), (128, 'stage'), (134, 'and'), (138, 'screen'), (145, 'actress'), (153, 'of'), (156, 'the'), (160, '1910s'), (166, 'and'), (170, '1920s'), (175, ','), (177, 'best'), (182, 'known'), (188, 'for'), (192, 'her'), (196, 'beauty'), (203, 'and'), (207, 'for'), (211, 'being'), (217, 'perhaps'), (225, 'the'), (229, 'most'), (234, 'famous'), (241, 'Ziegfeld'), (250, 'Girl'), (255, 'in'), (258, 'the'), (262, 'Broadway'), (271, 'revues'), (278, 'Ziegfeld'), (287, 'Follies'), (295, 'during'), (302, 'the'), (306, '1910s'), (311, '.')])</spacy_tokens>
+<spacy_chunks>[('silent film actress Louise Lorraine', 24, 59), ('Lillian Lorraine', 60, 76), ('(January', 77, 85), ('January 1, 1892', 78, 93), ('April 17, 1955', 96, 110), ('an American stage', 116, 133), ('screen actress', 138, 152), ('the 1910s', 156, 165), ('her beauty', 192, 202), ('the most famous Ziegfeld Girl', 225, 254), ('the Broadway', 258, 270), ('Ziegfeld Follies', 278, 294)]</spacy_chunks>
+<spacy_pos>['RB', 'TO', 'VB', 'VBN', 'IN', 'JJ', 'NN', 'NN', 'NNP', 'NNP', '.', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', ',', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'CC', 'IN', 'VBG', 'RB', 'DT', 'RBS', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'VBZ', 'NNP', 'NNPS', 'IN', 'DT', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

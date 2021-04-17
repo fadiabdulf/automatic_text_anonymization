@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Godfrey Cass</title>
+<link/>https://en.wikipedia.org/wiki/Godfrey_Cass
+<annotated>0</annotated>
+<originalabstract>Godfrey Cass (1867 – 14 May 1951) was an Australian actor in the silent era. Between 1906 and 1935 he acted in nineteen film roles. He played Ned Kelly three times, and also had roles in a number of other bushranger movies including A Tale of the Australian Bush (1911) and Moondyne (1913).</originalabstract>
+<abstract>Godfrey_Cass ( 1867 – 14_May_1951 ) was an_Australian_actor in the_silent_era . Between 1906_and_1935 he acted in nineteen_film_roles . He played Ned_Kelly_three_times , and also had roles in a_number of other_bushranger_movies including A_Tale of the_Australian_Bush_(_1911_)_and_Moondyne_(_1913_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Godfrey'), (8, 'Cass'), (13, '('), (14, '1867'), (19, '–'), (21, '14'), (24, 'May'), (28, '1951'), (32, ')'), (34, 'was'), (38, 'an'), (41, 'Australian'), (52, 'actor'), (58, 'in'), (61, 'the'), (65, 'silent'), (72, 'era'), (75, '.'), (77, 'Between'), (85, '1906'), (90, 'and'), (94, '1935'), (99, 'he'), (102, 'acted'), (108, 'in'), (111, 'nineteen'), (120, 'film'), (125, 'roles'), (130, '.'), (132, 'He'), (135, 'played'), (142, 'Ned'), (146, 'Kelly'), (152, 'three'), (158, 'times'), (163, ','), (165, 'and'), (169, 'also'), (174, 'had'), (178, 'roles'), (184, 'in'), (187, 'a'), (189, 'number'), (196, 'of'), (199, 'other'), (205, 'bushranger'), (216, 'movies'), (223, 'including'), (233, 'A'), (235, 'Tale'), (240, 'of'), (243, 'the'), (247, 'Australian'), (258, 'Bush'), (263, '('), (264, '1911'), (268, ')'), (270, 'and'), (274, 'Moondyne'), (283, '('), (284, '1913'), (288, ')'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('Godfrey Cass',0, 12), ('14 May 1951',21, 32), ('an Australian actor',38, 57), ('the silent era',61, 75), ('1906 and 1935',85, 98), ('nineteen film roles',111, 130), ('Ned Kelly three times',142, 163), ('a number',187, 195), ('other bushranger movies',199, 222), ('A Tale',233, 239), ('the Australian Bush (1911) and Moondyne (1913)',243, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', 'CC', 'CD', 'PRP', 'VBD', 'IN', 'CD', 'NN', 'NNS', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'CD', 'NNS', ',', 'CC', 'RB', 'VBD', 'NNS', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NN', 'NNS', 'VBG', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NN', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Godfrey'), (8, 'Cass'), (13, '('), (14, '1867'), (19, '–'), (21, '14'), (24, 'May'), (28, '1951'), (32, ')'), (34, 'was'), (38, 'an'), (41, 'Australian'), (52, 'actor'), (58, 'in'), (61, 'the'), (65, 'silent'), (72, 'era'), (75, '.'), (77, 'Between'), (85, '1906'), (90, 'and'), (94, '1935'), (99, 'he'), (102, 'acted'), (108, 'in'), (111, 'nineteen'), (120, 'film'), (125, 'roles'), (130, '.'), (132, 'He'), (135, 'played'), (142, 'Ned'), (146, 'Kelly'), (152, 'three'), (158, 'times'), (163, ','), (165, 'and'), (169, 'also'), (174, 'had'), (178, 'roles'), (184, 'in'), (187, 'a'), (189, 'number'), (196, 'of'), (199, 'other'), (205, 'bushranger'), (216, 'movies'), (223, 'including'), (233, 'A'), (235, 'Tale'), (240, 'of'), (243, 'the'), (247, 'Australian'), (258, 'Bush'), (263, '('), (264, '1911'), (268, ')'), (270, 'and'), (274, 'Moondyne'), (283, '('), (284, '1913'), (288, ')'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('Godfrey Cass', 0, 12), ('14 May 1951', 21, 32), ('an Australian actor', 38, 57), ('the silent era', 61, 75), ('nineteen film roles', 111, 130), ('Ned Kelly', 142, 151), ('a number', 187, 195), ('other bushranger movies', 199, 222), ('A Tale of the Australian Bush', 233, 262), ('Moondyne', 274, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', 'CC', 'CD', 'PRP', 'VBD', 'IN', 'CD', 'NN', 'NNS', '.', 'PRP', 'VBD', 'NNP', 'NNP', 'CD', 'NNS', ',', 'CC', 'RB', 'VBD', 'NNS', 'IN', 'DT', 'NN', 'IN', 'JJ', 'NN', 'NNS', 'VBG', 'DT', 'NNP', 'IN', 'DT', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

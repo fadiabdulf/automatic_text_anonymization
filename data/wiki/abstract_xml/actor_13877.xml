@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Melinda McGraw</title>
+<link/>https://en.wikipedia.org/wiki/Melinda_McGraw
+<annotated>0</annotated>
+<originalabstract>Melinda McGraw is an American actress. She has starred in movies such as Albino Alligator (1996), Wrongfully Accused (1998), and Nutty Professor II: The Klumps (2000), and is also known for her television performances on The Commish, The X-Files, NCIS and Mad Men.</originalabstract>
+<abstract>Melinda_McGraw is an_American_actress . She has_starred in movies such_as Albino_Alligator_(_1996_) , Wrongfully Accused_(_1998_) , and Nutty_Professor_II : The_Klumps ( 2000_) , and is_also_known for her_television_performances on The_Commish , The_X-Files_,_NCIS_and_Mad_Men .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Melinda'), (8, 'McGraw'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'actress'), (37, '.'), (39, 'She'), (43, 'has'), (47, 'starred'), (55, 'in'), (58, 'movies'), (65, 'such'), (70, 'as'), (73, 'Albino'), (80, 'Alligator'), (90, '('), (91, '1996'), (95, ')'), (96, ','), (98, 'Wrongfully'), (109, 'Accused'), (117, '('), (118, '1998'), (122, ')'), (123, ','), (125, 'and'), (129, 'Nutty'), (135, 'Professor'), (145, 'II'), (147, ':'), (149, 'The'), (153, 'Klumps'), (160, '('), (161, '2000'), (165, ')'), (166, ','), (168, 'and'), (172, 'is'), (175, 'also'), (180, 'known'), (186, 'for'), (190, 'her'), (194, 'television'), (205, 'performances'), (218, 'on'), (221, 'The'), (225, 'Commish'), (232, ','), (234, 'The'), (238, 'X-Files'), (245, ','), (247, 'NCIS'), (252, 'and'), (256, 'Mad'), (260, 'Men'), (263, '.')])</stanford_tokens>
+<opennlp_chunks>[('Melinda McGraw',0, 14), ('an American actress',18, 37), ('has starred',43, 54), ('such as',65, 72), ('Albino Alligator (1996)',73, 96), ('Accused (1998)',109, 123), ('Nutty Professor II',129, 147), ('The Klumps',149, 159), ('2000)',161, 166), ('is also known',172, 185), ('her television performances',190, 217), ('The Commish',221, 232), ('The X-Files, NCIS and Mad Men',234, 263)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'RB', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', 'NNP', ':', 'DT', 'NNPS', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'DT', 'NN', ',', 'DT', 'NNP', ',', 'NNP', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Melinda'), (8, 'McGraw'), (15, 'is'), (18, 'an'), (21, 'American'), (30, 'actress'), (37, '.'), (39, 'She'), (43, 'has'), (47, 'starred'), (55, 'in'), (58, 'movies'), (65, 'such'), (70, 'as'), (73, 'Albino'), (80, 'Alligator'), (90, '('), (91, '1996'), (95, ')'), (96, ','), (98, 'Wrongfully'), (109, 'Accused'), (117, '('), (118, '1998'), (122, ')'), (123, ','), (125, 'and'), (129, 'Nutty'), (135, 'Professor'), (145, 'II'), (147, ':'), (149, 'The'), (153, 'Klumps'), (160, '('), (161, '2000'), (165, ')'), (166, ','), (168, 'and'), (172, 'is'), (175, 'also'), (180, 'known'), (186, 'for'), (190, 'her'), (194, 'television'), (205, 'performances'), (218, 'on'), (221, 'The'), (225, 'Commish'), (232, ','), (234, 'The'), (238, 'X'), (239, '-'), (240, 'Files'), (245, ','), (247, 'NCIS'), (252, 'and'), (256, 'Mad'), (260, 'Men'), (263, '.')])</spacy_tokens>
+<spacy_chunks>[('Melinda McGraw', 0, 14), ('an American actress', 18, 37), ('movies', 58, 64), ('Albino Alligator', 73, 89), ('Wrongfully Accused', 98, 116), ('Nutty Professor II: The Klumps', 129, 159), ('her television performances', 190, 217), ('The Commish', 221, 232), ('The X-Files', 234, 245), ('Mad Men', 256, 263)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'JJ', 'IN', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'RB', 'VBN', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', 'NNP', 'NNP', ':', 'DT', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NNS', 'IN', 'DT', 'NNP', ',', 'DT', 'NNP', 'NNP', 'NNPS', ',', 'NNP', 'CC', 'NNP', 'NNPS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

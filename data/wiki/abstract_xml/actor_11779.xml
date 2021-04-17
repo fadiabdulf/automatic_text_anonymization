@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Dovima</title>
+<link/>https://en.wikipedia.org/wiki/Dovima
+<annotated>0</annotated>
+<originalabstract>Dorothy Virginia Margaret Juba (December 11, 1927 – May 3, 1990), later known as Dorothy Horan, and best known as Dovima, was an American model during the 1950s.</originalabstract>
+<abstract>Dorothy_Virginia_Margaret_Juba ( December_11_,_1927 – May_3_,_1990 ) , later_known as Dorothy_Horan , and best_known as Dovima , was an_American_model during the_1950s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Dorothy'), (8, 'Virginia'), (17, 'Margaret'), (26, 'Juba'), (31, '('), (32, 'December'), (41, '11'), (43, ','), (45, '1927'), (50, '–'), (52, 'May'), (56, '3'), (57, ','), (59, '1990'), (63, ')'), (64, ','), (66, 'later'), (72, 'known'), (78, 'as'), (81, 'Dorothy'), (89, 'Horan'), (94, ','), (96, 'and'), (100, 'best'), (105, 'known'), (111, 'as'), (114, 'Dovima'), (120, ','), (122, 'was'), (126, 'an'), (129, 'American'), (138, 'model'), (144, 'during'), (151, 'the'), (155, '1950s'), (160, '.')])</stanford_tokens>
+<opennlp_chunks>[('Dorothy Virginia Margaret Juba',0, 30), ('December 11, 1927',32, 49), ('May 3, 1990',52, 63), ('later known',66, 77), ('Dorothy Horan',81, 94), ('best known',100, 110), ('an American model',126, 143), ('the 1950s',151, 160)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'CC', 'RB', 'VBN', 'IN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Dorothy'), (8, 'Virginia'), (17, 'Margaret'), (26, 'Juba'), (31, '('), (32, 'December'), (41, '11'), (43, ','), (45, '1927'), (50, '–'), (52, 'May'), (56, '3'), (57, ','), (59, '1990'), (63, ')'), (64, ','), (66, 'later'), (72, 'known'), (78, 'as'), (81, 'Dorothy'), (89, 'Horan'), (94, ','), (96, 'and'), (100, 'best'), (105, 'known'), (111, 'as'), (114, 'Dovima'), (120, ','), (122, 'was'), (126, 'an'), (129, 'American'), (138, 'model'), (144, 'during'), (151, 'the'), (155, '1950s'), (160, '.')])</spacy_tokens>
+<spacy_chunks>[('Dorothy Virginia Margaret Juba', 0, 30), ('December 11, 1927', 32, 49), ('May 3, 1990', 52, 63), ('Dorothy Horan', 81, 94), ('Dovima', 114, 120), ('an American model', 126, 143)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'NNP', 'NNP', ',', 'CC', 'RBS', 'VBN', 'IN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'DT', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

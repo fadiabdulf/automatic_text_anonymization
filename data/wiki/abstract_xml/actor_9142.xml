@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>George Silver (actor)</title>
+<link/>https://en.wikipedia.org/wiki/George_Silver_(actor)
+<annotated>0</annotated>
+<originalabstract>George Silver (14 November 1916 – June 1984) was an English actor, born in London.He was an actor, best known for The Meaning of Life (1983), Victor/Victoria (1982) and The Adventure of Sherlock Holmes' Smarter Brother (1975). Silver died in June, 1984.</originalabstract>
+<abstract>George_Silver ( 14_November_1916 – June_1984 ) was an_English_actor , born in London.He was an_actor , best_known for The_Meaning of Life ( 1983 ) , Victor/Victoria ( 1982 ) and The_Adventure of Sherlock_Holmes '_Smarter_Brother ( 1975 ) . Silver died in June , 1984 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'George'), (7, 'Silver'), (14, '('), (15, '14'), (18, 'November'), (27, '1916'), (32, '–'), (34, 'June'), (39, '1984'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'actor'), (65, ','), (67, 'born'), (72, 'in'), (75, 'London.He'), (85, 'was'), (89, 'an'), (92, 'actor'), (97, ','), (99, 'best'), (104, 'known'), (110, 'for'), (114, 'The'), (118, 'Meaning'), (126, 'of'), (129, 'Life'), (134, '('), (135, '1983'), (139, ')'), (140, ','), (142, 'Victor/Victoria'), (158, '('), (159, '1982'), (163, ')'), (165, 'and'), (169, 'The'), (173, 'Adventure'), (183, 'of'), (186, 'Sherlock'), (195, 'Holmes'), (201, '\''), (203, 'Smarter'), (211, 'Brother'), (219, '('), (220, '1975'), (224, ')'), (225, '.'), (227, 'Silver'), (234, 'died'), (239, 'in'), (242, 'June'), (246, ','), (248, '1984'), (252, '.')])</stanford_tokens>
+<opennlp_chunks>[('George Silver',0, 13), ('14 November 1916',15, 31), ('June 1984',34, 43), ('an English actor',49, 65), ('an actor',89, 97), ('best known',99, 109), ('The Meaning',114, 125), ('The Adventure',169, 182), ('Sherlock Holmes',186, 201), ('\' Smarter Brother',201, 218)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NN', 'VBD', 'DT', 'NN', ',', 'RB', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.', 'NN', 'VBD', 'IN', 'NNP', ',', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'George'), (7, 'Silver'), (14, '('), (15, '14'), (18, 'November'), (27, '1916'), (32, '–'), (34, 'June'), (39, '1984'), (43, ')'), (45, 'was'), (49, 'an'), (52, 'English'), (60, 'actor'), (65, ','), (67, 'born'), (72, 'in'), (75, 'London'), (81, '.'), (82, 'He'), (85, 'was'), (89, 'an'), (92, 'actor'), (97, ','), (99, 'best'), (104, 'known'), (110, 'for'), (114, 'The'), (118, 'Meaning'), (126, 'of'), (129, 'Life'), (134, '('), (135, '1983'), (139, ')'), (140, ','), (142, 'Victor'), (148, '/'), (149, 'Victoria'), (158, '('), (159, '1982'), (163, ')'), (165, 'and'), (169, 'The'), (173, 'Adventure'), (183, 'of'), (186, 'Sherlock'), (195, 'Holmes'), (201, "'"), (203, 'Smarter'), (211, 'Brother'), (219, '('), (220, '1975'), (224, ')'), (225, '.'), (227, 'Silver'), (234, 'died'), (239, 'in'), (242, 'June'), (246, ','), (248, '1984'), (252, '.')])</spacy_tokens>
+<spacy_chunks>[('George Silver', 0, 13), ('14 November 1916', 15, 31), ('an English actor', 49, 65), ('London', 75, 81), ('an actor', 89, 97), ('The Meaning', 114, 125), ('Victor/Victoria', 142, 157), ("The Adventure of Sherlock Holmes' Smarter Brother", 169, 218)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'VBN', 'IN', 'NNP', '.', 'PRP', 'VBD', 'DT', 'NN', ',', 'RBS', 'VBN', 'IN', 'DT', 'NN', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', 'SYM', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'POS', 'JJR', 'NN', '-LRB-', 'CD', '-RRB-', '.', 'NN', 'VBD', 'IN', 'NNP', ',', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

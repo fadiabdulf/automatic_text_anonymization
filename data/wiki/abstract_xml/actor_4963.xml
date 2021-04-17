@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Matt Nover</title>
+<link/>https://en.wikipedia.org/wiki/Matt_Nover
+<annotated>0</annotated>
+<originalabstract>Matthew Joseph Nover (born September 23, 1970) is an American former professional basketball player and actor. He played for C.B. Polaris World Murcia in the Liga ACB and for Sydney Kings in the Australian NBL. In 1994, he appeared in Blue Chips along with Nick Nolte, Anfernee Hardaway, and Shaquille O'Neal.</originalabstract>
+<abstract>Matthew_Joseph_Nover ( born September_23_,_1970 ) is an_American_former_professional_basketball_player_and_actor . He played for C.B._Polaris_World_Murcia in the_Liga_ACB and for Sydney_Kings in the_Australian_NBL . In 1994 , he appeared in Blue_Chips along with Nick_Nolte , Anfernee_Hardaway , and Shaquille_O'Neal .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Matthew'), (8, 'Joseph'), (15, 'Nover'), (21, '('), (22, 'born'), (27, 'September'), (37, '23'), (39, ','), (41, '1970'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'former'), (69, 'professional'), (82, 'basketball'), (93, 'player'), (100, 'and'), (104, 'actor'), (109, '.'), (111, 'He'), (114, 'played'), (121, 'for'), (125, 'C.B.'), (130, 'Polaris'), (138, 'World'), (144, 'Murcia'), (151, 'in'), (154, 'the'), (158, 'Liga'), (163, 'ACB'), (167, 'and'), (171, 'for'), (175, 'Sydney'), (182, 'Kings'), (188, 'in'), (191, 'the'), (195, 'Australian'), (206, 'NBL'), (209, '.'), (211, 'In'), (214, '1994'), (218, ','), (220, 'he'), (223, 'appeared'), (232, 'in'), (235, 'Blue'), (240, 'Chips'), (246, 'along'), (252, 'with'), (257, 'Nick'), (262, 'Nolte'), (267, ','), (269, 'Anfernee'), (278, 'Hardaway'), (286, ','), (288, 'and'), (292, 'Shaquille'), (302, 'O\'Neal'), (308, '.')])</stanford_tokens>
+<opennlp_chunks>[('Matthew Joseph Nover',0, 20), ('September 23, 1970',27, 45), ('an American former professional basketball player and actor',50, 109), ('C.B. Polaris World Murcia',125, 150), ('the Liga ACB',154, 166), ('Sydney Kings',175, 187), ('the Australian NBL',191, 209), ('Blue Chips',235, 245), ('Nick Nolte',257, 267), ('Anfernee Hardaway',269, 286), ('Shaquille O\'Neal',292, 308)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'IN', 'NNP', 'NNPS', 'IN', 'DT', 'JJ', 'NN', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'IN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Matthew'), (8, 'Joseph'), (15, 'Nover'), (21, '('), (22, 'born'), (27, 'September'), (37, '23'), (39, ','), (41, '1970'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'former'), (69, 'professional'), (82, 'basketball'), (93, 'player'), (100, 'and'), (104, 'actor'), (109, '.'), (111, 'He'), (114, 'played'), (121, 'for'), (125, 'C.B.'), (130, 'Polaris'), (138, 'World'), (144, 'Murcia'), (151, 'in'), (154, 'the'), (158, 'Liga'), (163, 'ACB'), (167, 'and'), (171, 'for'), (175, 'Sydney'), (182, 'Kings'), (188, 'in'), (191, 'the'), (195, 'Australian'), (206, 'NBL'), (209, '.'), (211, 'In'), (214, '1994'), (218, ','), (220, 'he'), (223, 'appeared'), (232, 'in'), (235, 'Blue'), (240, 'Chips'), (246, 'along'), (252, 'with'), (257, 'Nick'), (262, 'Nolte'), (267, ','), (269, 'Anfernee'), (278, 'Hardaway'), (286, ','), (288, 'and'), (292, 'Shaquille'), (302, "O'Neal"), (308, '.')])</spacy_tokens>
+<spacy_chunks>[('Matthew Joseph Nover', 0, 20), ('September 23, 1970', 27, 45), ('an American former professional basketball player', 50, 99), ('C.B. Polaris World Murcia', 125, 150), ('the Liga ACB', 154, 166), ('Sydney Kings', 175, 187), ('the Australian NBL', 191, 209), ('Blue Chips', 235, 245), ('Nick Nolte', 257, 267), ('Anfernee Hardaway', 269, 286), ("Shaquille O'Neal", 292, 308)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'JJ', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'IN', 'NNP', 'NNS', 'IN', 'DT', 'JJ', 'NNP', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'NNP', 'NNPS', 'IN', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

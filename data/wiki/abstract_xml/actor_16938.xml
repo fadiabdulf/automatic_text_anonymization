@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Louise Lombard</title>
+<link/>https://en.wikipedia.org/wiki/Louise_Lombard
+<annotated>0</annotated>
+<originalabstract>Louise Lombard (born Louise Marie Perkins; 13 September 1970), is an English actress. She is known for her roles as Evangeline Eliott in the BBC drama series The House of Eliott (1991–94) and Sofia Curtis in the CBS drama series CSI: Crime Scene Investigation (2004–11).</originalabstract>
+<abstract>Louise_Lombard ( born Louise_Marie_Perkins ; 13_September_1970 ) , is an_English_actress . She is_known for her_roles as Evangeline_Eliott in the_BBC_drama_series_The_House of Eliott_(_1991 – 94_) and Sofia_Curtis in the_CBS_drama_series_CSI : Crime_Scene_Investigation ( 2004 – 11_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Louise'), (7, 'Lombard'), (15, '('), (16, 'born'), (21, 'Louise'), (28, 'Marie'), (34, 'Perkins'), (41, ';'), (43, '13'), (46, 'September'), (56, '1970'), (60, ')'), (61, ','), (63, 'is'), (66, 'an'), (69, 'English'), (77, 'actress'), (84, '.'), (86, 'She'), (90, 'is'), (93, 'known'), (99, 'for'), (103, 'her'), (107, 'roles'), (113, 'as'), (116, 'Evangeline'), (127, 'Eliott'), (134, 'in'), (137, 'the'), (141, 'BBC'), (145, 'drama'), (151, 'series'), (158, 'The'), (162, 'House'), (168, 'of'), (171, 'Eliott'), (178, '('), (179, '1991'), (183, '–'), (184, '94'), (186, ')'), (188, 'and'), (192, 'Sofia'), (198, 'Curtis'), (205, 'in'), (208, 'the'), (212, 'CBS'), (216, 'drama'), (222, 'series'), (229, 'CSI'), (232, ':'), (234, 'Crime'), (240, 'Scene'), (246, 'Investigation'), (260, '('), (261, '2004'), (265, '–'), (266, '11'), (268, ')'), (269, '.')])</stanford_tokens>
+<opennlp_chunks>[('Louise Lombard',0, 14), ('Louise Marie Perkins',21, 41), ('13 September 1970',43, 60), ('an English actress',66, 84), ('is known',90, 98), ('her roles',103, 112), ('Evangeline Eliott',116, 133), ('the BBC drama series The House',137, 167), ('Eliott (1991',171, 183), ('94)',184, 187), ('Sofia Curtis',192, 204), ('the CBS drama series CSI',208, 232), ('Crime Scene Investigation',234, 259), ('11)',266, 269)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', ':', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Louise'), (7, 'Lombard'), (15, '('), (16, 'born'), (21, 'Louise'), (28, 'Marie'), (34, 'Perkins'), (41, ';'), (43, '13'), (46, 'September'), (56, '1970'), (60, ')'), (61, ','), (63, 'is'), (66, 'an'), (69, 'English'), (77, 'actress'), (84, '.'), (86, 'She'), (90, 'is'), (93, 'known'), (99, 'for'), (103, 'her'), (107, 'roles'), (113, 'as'), (116, 'Evangeline'), (127, 'Eliott'), (134, 'in'), (137, 'the'), (141, 'BBC'), (145, 'drama'), (151, 'series'), (158, 'The'), (162, 'House'), (168, 'of'), (171, 'Eliott'), (178, '('), (179, '1991–94'), (186, ')'), (188, 'and'), (192, 'Sofia'), (198, 'Curtis'), (205, 'in'), (208, 'the'), (212, 'CBS'), (216, 'drama'), (222, 'series'), (229, 'CSI'), (232, ':'), (234, 'Crime'), (240, 'Scene'), (246, 'Investigation'), (260, '('), (261, '2004–11'), (268, ')'), (269, '.')])</spacy_tokens>
+<spacy_chunks>[('Louise Lombard', 0, 14), ('Louise Marie Perkins', 21, 41), ('13 September 1970', 43, 60), ('an English actress', 66, 84), ('her roles', 103, 112), ('Evangeline Eliott', 116, 133), ('the BBC drama series', 137, 157), ('The House of Eliott', 158, 177), ('Sofia Curtis', 192, 204), ('the CBS drama series', 208, 228), ('CSI: Crime Scene Investigation', 229, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'DT', 'NNP', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', ':', 'NN', 'NN', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

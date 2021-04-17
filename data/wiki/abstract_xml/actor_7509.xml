@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>José María Rodero</title>
+<link/>https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Rodero
+<annotated>0</annotated>
+<originalabstract>José María Rodero Luján (26 December 1922 – 14 May 1991) was a Spanish actor, whose career spanned over 40 years.
+In 1947, he married with actress Elvira Quintillá, the couple remained together until his death in 1991 while he was preparing for the premiere of the play Hazme una noche.</originalabstract>
+<abstract>José_María_Rodero_Luján ( 26_December_1922 – 14_May_1991 ) was a_Spanish_actor , whose_career spanned over 40_years . In 1947 , he married with actress_Elvira_Quintillá , the_couple remained together until his_death in 1991 while he was_preparing for the_premiere of the_play Hazme_una_noche .</abstract>
+<stanford_tokens>OrderedDict([(0, 'José'), (5, 'María'), (11, 'Rodero'), (18, 'Luján'), (24, '('), (25, '26'), (28, 'December'), (37, '1922'), (42, '–'), (44, '14'), (47, 'May'), (51, '1991'), (55, ')'), (57, 'was'), (61, 'a'), (63, 'Spanish'), (71, 'actor'), (76, ','), (78, 'whose'), (84, 'career'), (91, 'spanned'), (99, 'over'), (104, '40'), (107, 'years'), (112, '.'), (114, 'In'), (117, '1947'), (121, ','), (123, 'he'), (126, 'married'), (134, 'with'), (139, 'actress'), (147, 'Elvira'), (154, 'Quintillá'), (163, ','), (165, 'the'), (169, 'couple'), (176, 'remained'), (185, 'together'), (194, 'until'), (200, 'his'), (204, 'death'), (210, 'in'), (213, '1991'), (218, 'while'), (224, 'he'), (227, 'was'), (231, 'preparing'), (241, 'for'), (245, 'the'), (249, 'premiere'), (258, 'of'), (261, 'the'), (265, 'play'), (270, 'Hazme'), (276, 'una'), (280, 'noche'), (285, '.')])</stanford_tokens>
+<opennlp_chunks>[('José María Rodero Luján',0, 23), ('26 December 1922',25, 41), ('14 May 1991',44, 55), ('a Spanish actor',61, 76), ('whose career',78, 90), ('40 years',104, 112), ('actress Elvira Quintillá',139, 163), ('the couple',165, 175), ('his death',200, 209), ('was preparing',227, 240), ('the premiere',245, 257), ('the play',261, 269), ('Hazme una noche',270, 285)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP$', 'NN', 'VBD', 'IN', 'CD', 'NNS', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'NN', 'NNP', 'NNP', ',', 'DT', 'NN', 'VBN', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'IN', 'PRP', 'VBD', 'VBG', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'NNP', 'FW', 'FW', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'José'), (5, 'María'), (11, 'Rodero'), (18, 'Luján'), (24, '('), (25, '26'), (28, 'December'), (37, '1922'), (42, '–'), (44, '14'), (47, 'May'), (51, '1991'), (55, ')'), (57, 'was'), (61, 'a'), (63, 'Spanish'), (71, 'actor'), (76, ','), (78, 'whose'), (84, 'career'), (91, 'spanned'), (99, 'over'), (104, '40'), (107, 'years'), (112, '.'), (114, 'In'), (117, '1947'), (121, ','), (123, 'he'), (126, 'married'), (134, 'with'), (139, 'actress'), (147, 'Elvira'), (154, 'Quintillá'), (163, ','), (165, 'the'), (169, 'couple'), (176, 'remained'), (185, 'together'), (194, 'until'), (200, 'his'), (204, 'death'), (210, 'in'), (213, '1991'), (218, 'while'), (224, 'he'), (227, 'was'), (231, 'preparing'), (241, 'for'), (245, 'the'), (249, 'premiere'), (258, 'of'), (261, 'the'), (265, 'play'), (270, 'Hazme'), (276, 'una'), (280, 'noche'), (285, '.')])</spacy_tokens>
+<spacy_chunks>[('José María Rodero Luján', 0, 23), ('(26 December', 24, 36), ('26 December 1922', 25, 41), ('14 May 1991', 44, 55), ('a Spanish actor', 61, 76), ('whose career', 78, 90), ('40 years', 104, 112), ('actress Elvira Quintillá', 139, 163), ('the couple', 165, 175), ('his death', 200, 209), ('the premiere', 245, 257), ('the play', 261, 269), ('Hazme una noche', 270, 285)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'WP$', 'NN', 'VBD', 'IN', 'CD', 'NNS', '.', 'IN', 'CD', ',', 'PRP', 'VBD', 'IN', 'NN', 'NNP', 'NNP', ',', 'DT', 'NN', 'VBD', 'RB', 'IN', 'PRP$', 'NN', 'IN', 'CD', 'IN', 'PRP', 'VBD', 'VBG', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN', 'NNP', 'UH', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

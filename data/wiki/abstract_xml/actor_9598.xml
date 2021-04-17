@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Stomy Bugsy</title>
+<link/>https://en.wikipedia.org/wiki/Stomy_Bugsy
+<annotated>0</annotated>
+<originalabstract>Stomy Bugsy (French pronunciation: ​[stɔmi bœɡˈzi]; born Gilles Duarte; 21 May 1972) is a French rapper and actor from Sarcelles, France.</originalabstract>
+<abstract>Stomy_Bugsy ( French_pronunciation : [_stɔmi_bœɡˈzi ] ; born Gilles_Duarte ; 21_May_1972 ) is a_French_rapper_and_actor from Sarcelles , France .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Stomy'), (6, 'Bugsy'), (12, '('), (13, 'French'), (20, 'pronunciation'), (33, ':'), (36, '['), (37, 'stɔmi'), (43, 'bœɡˈzi'), (49, ']'), (50, ';'), (52, 'born'), (57, 'Gilles'), (64, 'Duarte'), (70, ';'), (72, '21'), (75, 'May'), (79, '1972'), (83, ')'), (85, 'is'), (88, 'a'), (90, 'French'), (97, 'rapper'), (104, 'and'), (108, 'actor'), (114, 'from'), (119, 'Sarcelles'), (128, ','), (130, 'France'), (136, '.')])</stanford_tokens>
+<opennlp_chunks>[('Stomy Bugsy',0, 11), ('French pronunciation',13, 33), ('[stɔmi bœɡˈzi',36, 49), ('Gilles Duarte',57, 70), ('21 May 1972',72, 83), ('a French rapper and actor',88, 113)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'NN', ':', '-LRB-', 'FW', 'FW', '-RRB-', ':', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Stomy'), (6, 'Bugsy'), (12, '('), (13, 'French'), (20, 'pronunciation'), (33, ':'), (35, '\u200b[stɔmi'), (43, 'bœɡˈzi'), (49, ']'), (50, ';'), (52, 'born'), (57, 'Gilles'), (64, 'Duarte'), (70, ';'), (72, '21'), (75, 'May'), (79, '1972'), (83, ')'), (85, 'is'), (88, 'a'), (90, 'French'), (97, 'rapper'), (104, 'and'), (108, 'actor'), (114, 'from'), (119, 'Sarcelles'), (128, ','), (130, 'France'), (136, '.')])</spacy_tokens>
+<spacy_chunks>[('Stomy Bugsy', 0, 11), ('French pronunciation', 13, 33), ('\u200b[stɔmi bœɡˈzi', 35, 49), ('born Gilles Duarte', 52, 70), ('21 May 1972', 72, 83), ('a French rapper', 88, 103), ('Sarcelles', 119, 128), ('France', 130, 136)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'JJ', 'NN', ':', 'ADD', 'NN', '-RRB-', ':', 'VBN', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

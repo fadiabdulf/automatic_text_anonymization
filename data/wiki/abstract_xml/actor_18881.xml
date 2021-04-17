@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Polaire</title>
+<link/>https://en.wikipedia.org/wiki/Polaire
+<annotated>0</annotated>
+<originalabstract>Émilie Marie Bouchaud (14 May 1874 – 14 October 1939), better known by her stage name Polaire, was a French singer and actress. She was known for her extremely tight corset, dubbed the wasp waist, reportedly measuring less than 16 inches (41 cm), and her eccentric stage presence, which generated mixed receptions.</originalabstract>
+<abstract>Émilie_Marie_Bouchaud ( 14_May_1874 – 14_October_1939 ) , better_known by her_stage_name_Polaire , was a_French_singer_and_actress . She was_known for her_extremely_tight_corset , dubbed the_wasp_waist , reportedly measuring less_than_16_inches_(_41_cm_) , and her_eccentric_stage_presence , which generated mixed_receptions .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Émilie'), (7, 'Marie'), (13, 'Bouchaud'), (22, '('), (23, '14'), (26, 'May'), (30, '1874'), (35, '–'), (37, '14'), (40, 'October'), (48, '1939'), (52, ')'), (53, ','), (55, 'better'), (62, 'known'), (68, 'by'), (71, 'her'), (75, 'stage'), (81, 'name'), (86, 'Polaire'), (93, ','), (95, 'was'), (99, 'a'), (101, 'French'), (108, 'singer'), (115, 'and'), (119, 'actress'), (126, '.'), (128, 'She'), (132, 'was'), (136, 'known'), (142, 'for'), (146, 'her'), (150, 'extremely'), (160, 'tight'), (166, 'corset'), (172, ','), (174, 'dubbed'), (181, 'the'), (185, 'wasp'), (190, 'waist'), (195, ','), (197, 'reportedly'), (208, 'measuring'), (218, 'less'), (223, 'than'), (228, '16'), (231, 'inches'), (238, '('), (239, '41'), (242, 'cm'), (244, ')'), (245, ','), (247, 'and'), (251, 'her'), (255, 'eccentric'), (265, 'stage'), (271, 'presence'), (279, ','), (281, 'which'), (287, 'generated'), (297, 'mixed'), (303, 'receptions'), (313, '.')])</stanford_tokens>
+<opennlp_chunks>[('Émilie Marie Bouchaud',0, 21), ('14 May 1874',23, 34), ('14 October 1939',37, 52), ('better known',55, 67), ('her stage name Polaire',71, 93), ('a French singer and actress',99, 126), ('was known',132, 141), ('her extremely tight corset',146, 172), ('the wasp waist',181, 195), ('less than 16 inches (41 cm)',218, 245), ('her eccentric stage presence',251, 279), ('mixed receptions',297, 313)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'RB', 'JJ', 'NN', ',', 'VBD', 'DT', 'NN', 'NN', ',', 'RB', 'VBG', 'JJR', 'IN', 'CD', 'NNS', '-LRB-', 'CD', 'NN', '-RRB-', ',', 'CC', 'PRP$', 'JJ', 'NN', 'NN', ',', 'WDT', 'VBD', 'JJ', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Émilie'), (7, 'Marie'), (13, 'Bouchaud'), (22, '('), (23, '14'), (26, 'May'), (30, '1874'), (35, '–'), (37, '14'), (40, 'October'), (48, '1939'), (52, ')'), (53, ','), (55, 'better'), (62, 'known'), (68, 'by'), (71, 'her'), (75, 'stage'), (81, 'name'), (86, 'Polaire'), (93, ','), (95, 'was'), (99, 'a'), (101, 'French'), (108, 'singer'), (115, 'and'), (119, 'actress'), (126, '.'), (128, 'She'), (132, 'was'), (136, 'known'), (142, 'for'), (146, 'her'), (150, 'extremely'), (160, 'tight'), (166, 'corset'), (172, ','), (174, 'dubbed'), (181, 'the'), (185, 'wasp'), (190, 'waist'), (195, ','), (197, 'reportedly'), (208, 'measuring'), (218, 'less'), (223, 'than'), (228, '16'), (231, 'inches'), (238, '('), (239, '41'), (242, 'cm'), (244, ')'), (245, ','), (247, 'and'), (251, 'her'), (255, 'eccentric'), (265, 'stage'), (271, 'presence'), (279, ','), (281, 'which'), (287, 'generated'), (297, 'mixed'), (303, 'receptions'), (313, '.')])</spacy_tokens>
+<spacy_chunks>[('Émilie Marie Bouchaud', 0, 21), ('14 May 1874', 23, 34), ('14 October 1939', 37, 52), ('her stage name', 71, 85), ('Polaire', 86, 93), ('a French singer', 99, 114), ('actress', 119, 126), ('her extremely tight corset', 146, 172), ('Wasp waist', 185, 195), ('less than 16 inches', 218, 237), ('41 cm', 239, 244), ('her eccentric stage presence', 251, 279), ('mixed receptions', 297, 313)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'RBR', 'VBN', 'IN', 'PRP$', 'NN', 'NN', 'NNP', ',', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'RB', 'JJ', 'NN', ',', 'VBD', 'DT', 'NN', 'NN', ',', 'RB', 'VBG', 'JJR', 'IN', 'CD', 'NNS', '-LRB-', 'CD', 'NNS', '-RRB-', ',', 'CC', 'PRP$', 'JJ', 'NN', 'NN', ',', 'WDT', 'VBD', 'JJ', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

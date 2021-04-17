@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>David Rappaport</title>
+<link/>https://en.wikipedia.org/wiki/David_Rappaport
+<annotated>0</annotated>
+<originalabstract>David Stephen Rappaport (23 November 1951 – 2 May 1990) was an English actor with dwarfism. He was known for his roles in the films Time Bandits and The Bride, and television series such as L.A. Law, The Wizard and Captain Planet and the Planeteers. He was 3' 11" (1.19 m) in height.</originalabstract>
+<abstract>David_Stephen_Rappaport ( 23_November_1951 – 2_May_1990 ) was an_English_actor with dwarfism . He was_known for his_roles in the_films_Time_Bandits and The_Bride , and television_series such_as L.A._Law , The_Wizard_and_Captain_Planet and the_Planeteers . He was 3_'_11_"_(_1.19_m_) in height .</abstract>
+<stanford_tokens>OrderedDict([(0, 'David'), (6, 'Stephen'), (14, 'Rappaport'), (24, '('), (25, '23'), (28, 'November'), (37, '1951'), (42, '–'), (44, '2'), (46, 'May'), (50, '1990'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'English'), (71, 'actor'), (77, 'with'), (82, 'dwarfism'), (90, '.'), (92, 'He'), (95, 'was'), (99, 'known'), (105, 'for'), (109, 'his'), (113, 'roles'), (119, 'in'), (122, 'the'), (126, 'films'), (132, 'Time'), (137, 'Bandits'), (145, 'and'), (149, 'The'), (153, 'Bride'), (158, ','), (160, 'and'), (164, 'television'), (175, 'series'), (182, 'such'), (187, 'as'), (190, 'L.A.'), (195, 'Law'), (198, ','), (200, 'The'), (204, 'Wizard'), (211, 'and'), (215, 'Captain'), (223, 'Planet'), (230, 'and'), (234, 'the'), (238, 'Planeteers'), (248, '.'), (250, 'He'), (253, 'was'), (257, '3'), (258, '\''), (260, '11'), (262, '"'), (264, '('), (265, '1.19'), (270, 'm'), (271, ')'), (273, 'in'), (276, 'height'), (282, '.')])</stanford_tokens>
+<opennlp_chunks>[('David Stephen Rappaport',0, 23), ('23 November 1951',25, 41), ('2 May 1990',44, 54), ('an English actor',60, 76), ('was known',95, 104), ('his roles',109, 118), ('the films Time Bandits',122, 144), ('The Bride',149, 158), ('television series',164, 181), ('such as',182, 189), ('L.A. Law',190, 198), ('The Wizard and Captain Planet',200, 229), ('the Planeteers',234, 248), ('3\' 11" (1.19 m)',257, 272)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NNP', 'NNPS', 'CC', 'DT', 'NN', ',', 'CC', 'NN', 'NN', 'JJ', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNP', 'CC', 'NNP', 'NN', 'CC', 'DT', 'NNPS', '.', 'PRP', 'VBD', 'CD', '\'\'', 'CD', '\'\'', '-LRB-', 'CD', 'NN', '-RRB-', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'David'), (6, 'Stephen'), (14, 'Rappaport'), (24, '('), (25, '23'), (28, 'November'), (37, '1951'), (42, '–'), (44, '2'), (46, 'May'), (50, '1990'), (54, ')'), (56, 'was'), (60, 'an'), (63, 'English'), (71, 'actor'), (77, 'with'), (82, 'dwarfism'), (90, '.'), (92, 'He'), (95, 'was'), (99, 'known'), (105, 'for'), (109, 'his'), (113, 'roles'), (119, 'in'), (122, 'the'), (126, 'films'), (132, 'Time'), (137, 'Bandits'), (145, 'and'), (149, 'The'), (153, 'Bride'), (158, ','), (160, 'and'), (164, 'television'), (175, 'series'), (182, 'such'), (187, 'as'), (190, 'L.A.'), (195, 'Law'), (198, ','), (200, 'The'), (204, 'Wizard'), (211, 'and'), (215, 'Captain'), (223, 'Planet'), (230, 'and'), (234, 'the'), (238, 'Planeteers'), (248, '.'), (250, 'He'), (253, 'was'), (257, '3'), (258, "'"), (260, '11'), (262, '"'), (264, '('), (265, '1.19'), (270, 'm'), (271, ')'), (273, 'in'), (276, 'height'), (282, '.')])</spacy_tokens>
+<spacy_chunks>[('David Stephen Rappaport', 0, 23), ('23 November 1951', 25, 41), ('2 May 1990', 44, 54), ('an English actor', 60, 76), ('Dwarfism', 82, 90), ('his roles', 109, 118), ('the films', 122, 131), ('Time Bandits', 132, 144), ('The Bride', 149, 158), ('television series', 164, 181), ('L.A. Law', 190, 198), ('The Wizard', 200, 210), ('Captain Planet and the Planeteers', 215, 248), ('" (1.19 m', 262, 271), ('height', 276, 282)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'IN', 'NN', '.', 'PRP', 'VBD', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'DT', 'NNS', 'NNP', 'NNPS', 'CC', 'DT', 'NNP', ',', 'CC', 'NN', 'NN', 'JJ', 'IN', 'NNP', 'NNP', ',', 'DT', 'NNP', 'CC', 'NNP', 'NNP', 'CC', 'DT', 'NNPS', '.', 'PRP', 'VBD', 'CD', 'POS', 'CD', "''", '-LRB-', 'CD', 'NN', '-RRB-', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

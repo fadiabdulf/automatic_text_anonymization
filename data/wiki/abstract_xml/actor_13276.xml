@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Michelle Krusiec</title>
+<link/>https://en.wikipedia.org/wiki/Michelle_Krusiec
+<annotated>0</annotated>
+<originalabstract>Michelle Jacqueline Krusiec (born Ya-Huei Yang; Chinese: 楊雅慧; pinyin: Yáng Yǎhuì; October 2, 1974) is a Taiwanese American actress, writer and producer.</originalabstract>
+<abstract>Michelle_Jacqueline_Krusiec ( born Ya-Huei_Yang ; Chinese : 楊雅慧 ; pinyin : Yáng_Yǎhuì ; October_2_,_1974 ) is a_Taiwanese_American_actress_,_writer_and_producer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Michelle'), (9, 'Jacqueline'), (20, 'Krusiec'), (28, '('), (29, 'born'), (34, 'Ya-Huei'), (42, 'Yang'), (46, ';'), (48, 'Chinese'), (55, ':'), (57, '楊雅慧'), (60, ';'), (62, 'pinyin'), (68, ':'), (70, 'Yáng'), (75, 'Yǎhuì'), (80, ';'), (82, 'October'), (90, '2'), (91, ','), (93, '1974'), (97, ')'), (99, 'is'), (102, 'a'), (104, 'Taiwanese'), (114, 'American'), (123, 'actress'), (130, ','), (132, 'writer'), (139, 'and'), (143, 'producer'), (151, '.')])</stanford_tokens>
+<opennlp_chunks>[('Michelle Jacqueline Krusiec',0, 27), ('Ya-Huei Yang',34, 46), ('Yáng Yǎhuì',70, 80), ('October 2, 1974',82, 97), ('a Taiwanese American actress, writer and producer',102, 151)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ':', 'NNP', ':', 'CD', ':', 'NN', ':', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Michelle'), (9, 'Jacqueline'), (20, 'Krusiec'), (28, '('), (29, 'born'), (34, 'Ya'), (36, '-'), (37, 'Huei'), (42, 'Yang'), (46, ';'), (48, 'Chinese'), (55, ':'), (57, '楊雅慧'), (60, ';'), (62, 'pinyin'), (68, ':'), (70, 'Yáng'), (75, 'Yǎhuì'), (80, ';'), (82, 'October'), (90, '2'), (91, ','), (93, '1974'), (97, ')'), (99, 'is'), (102, 'a'), (104, 'Taiwanese'), (114, 'American'), (123, 'actress'), (130, ','), (132, 'writer'), (139, 'and'), (143, 'producer'), (151, '.')])</spacy_tokens>
+<spacy_chunks>[('Michelle Jacqueline Krusiec', 0, 27), ('(born Ya-Huei Yang', 28, 46), ('Chinese', 48, 55), ('Pinyin', 62, 68), ('Yáng Yǎhuì', 70, 80), ('October 2, 1974', 82, 97), ('a Taiwanese American actress', 102, 130), ('writer', 132, 138), ('producer', 143, 151)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'HYPH', 'NNP', 'NNP', ':', 'JJ', ':', 'NN', ':', 'NNP', ':', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

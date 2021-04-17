@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tamara Lees</title>
+<link/>https://en.wikipedia.org/wiki/Tamara_Lees
+<annotated>0</annotated>
+<originalabstract>Tamara Lees (14 December 1924 – 22 December 1999), born as, Diana Helena Tamara Mapplebeck was an Austrian-born English film actress. She appeared in 48 films between 1947 and 1961.</originalabstract>
+<abstract>Tamara_Lees ( 14_December_1924 – 22_December_1999 ) , born as , Diana_Helena_Tamara_Mapplebeck was an_Austrian-born_English_film_actress . She appeared in 48_films between 1947_and_1961 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tamara'), (7, 'Lees'), (12, '('), (13, '14'), (16, 'December'), (25, '1924'), (30, '–'), (32, '22'), (35, 'December'), (44, '1999'), (48, ')'), (49, ','), (51, 'born'), (56, 'as'), (58, ','), (60, 'Diana'), (66, 'Helena'), (73, 'Tamara'), (80, 'Mapplebeck'), (91, 'was'), (95, 'an'), (98, 'Austrian-born'), (112, 'English'), (120, 'film'), (125, 'actress'), (132, '.'), (134, 'She'), (138, 'appeared'), (147, 'in'), (150, '48'), (153, 'films'), (159, 'between'), (167, '1947'), (172, 'and'), (176, '1961'), (180, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tamara Lees',0, 11), ('14 December 1924',13, 29), ('22 December 1999',32, 48), ('Diana Helena Tamara Mapplebeck',60, 90), ('an Austrian-born English film actress',95, 132), ('48 films',150, 158), ('1947 and 1961',167, 180)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'RB', ',', 'NNP', 'NNP', 'NNP', 'NNP', 'VBD', 'DT', 'JJ', 'NNP', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tamara'), (7, 'Lees'), (12, '('), (13, '14'), (16, 'December'), (25, '1924'), (30, '–'), (32, '22'), (35, 'December'), (44, '1999'), (48, ')'), (49, ','), (51, 'born'), (56, 'as'), (58, ','), (60, 'Diana'), (66, 'Helena'), (73, 'Tamara'), (80, 'Mapplebeck'), (91, 'was'), (95, 'an'), (98, 'Austrian'), (106, '-'), (107, 'born'), (112, 'English'), (120, 'film'), (125, 'actress'), (132, '.'), (134, 'She'), (138, 'appeared'), (147, 'in'), (150, '48'), (153, 'films'), (159, 'between'), (167, '1947'), (172, 'and'), (176, '1961'), (180, '.')])</spacy_tokens>
+<spacy_chunks>[('Tamara Lees', 0, 11), ('14 December 1924', 13, 29), ('22 December 1999', 32, 48), ('Diana Helena Tamara Mapplebeck', 60, 90), ('an Austrian-born English film actress', 95, 132), ('48 films', 150, 158)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', ',', 'VBN', 'IN', ',', 'NNP', 'NNP', 'NNP', 'NNP', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

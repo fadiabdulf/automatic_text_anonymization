@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jean Rochefort</title>
+<link/>https://en.wikipedia.org/wiki/Jean_Rochefort
+<annotated>0</annotated>
+<originalabstract>Jean Raoul Robert Rochefort (French: [ʒã ʁɔʃ.fɔʁ]; 29 April 1930 – 9 October 2017) was a French stage and screen actor. He received many accolades, including a Honorary César in 1999, during his career.</originalabstract>
+<abstract>Jean_Raoul_Robert_Rochefort ( French : [_ʒã_ʁɔʃ.fɔʁ_] ; 29_April_1930 – 9_October_2017 ) was a_French_stage_and_screen_actor . He received many_accolades , including a_Honorary_César in 1999 , during his_career .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Jean'), (5, 'Raoul'), (11, 'Robert'), (18, 'Rochefort'), (28, '('), (29, 'French'), (35, ':'), (37, '['), (38, 'ʒã'), (41, 'ʁɔʃ.fɔʁ'), (48, ']'), (49, ';'), (51, '29'), (54, 'April'), (60, '1930'), (65, '–'), (67, '9'), (69, 'October'), (77, '2017'), (81, ')'), (83, 'was'), (87, 'a'), (89, 'French'), (96, 'stage'), (102, 'and'), (106, 'screen'), (113, 'actor'), (118, '.'), (120, 'He'), (123, 'received'), (132, 'many'), (137, 'accolades'), (146, ','), (148, 'including'), (158, 'a'), (160, 'Honorary'), (169, 'César'), (175, 'in'), (178, '1999'), (182, ','), (184, 'during'), (191, 'his'), (195, 'career'), (201, '.')])</stanford_tokens>
+<opennlp_chunks>[('Jean Raoul Robert Rochefort',0, 27), ('[ʒã ʁɔʃ.fɔʁ]',37, 49), ('29 April 1930',51, 64), ('9 October 2017',67, 81), ('a French stage and screen actor',87, 118), ('many accolades',132, 146), ('a Honorary César',158, 174), ('his career',191, 201)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NN', 'NN', '-RRB-', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'JJ', 'NNS', ',', 'VBG', 'DT', 'JJ', 'NN', 'IN', 'CD', ',', 'IN', 'PRP$', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Jean'), (5, 'Raoul'), (11, 'Robert'), (18, 'Rochefort'), (28, '('), (29, 'French'), (35, ':'), (37, '['), (38, 'ʒã'), (41, 'ʁɔʃ.fɔʁ'), (48, ']'), (49, ';'), (51, '29'), (54, 'April'), (60, '1930'), (65, '–'), (67, '9'), (69, 'October'), (77, '2017'), (81, ')'), (83, 'was'), (87, 'a'), (89, 'French'), (96, 'stage'), (102, 'and'), (106, 'screen'), (113, 'actor'), (118, '.'), (120, 'He'), (123, 'received'), (132, 'many'), (137, 'accolades'), (146, ','), (148, 'including'), (158, 'a'), (160, 'Honorary'), (169, 'César'), (175, 'in'), (178, '1999'), (182, ','), (184, 'during'), (191, 'his'), (195, 'career'), (201, '.')])</spacy_tokens>
+<spacy_chunks>[('Jean Raoul Robert Rochefort', 0, 27), ('(French', 28, 35), ('29 April 1930', 51, 64), ('9 October 2017', 67, 81), ('a French stage', 87, 101), ('screen actor', 106, 118), ('many accolades', 132, 146), ('a Honorary César', 158, 174), ('his career', 191, 201)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'XX', 'ADD', '-RRB-', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'JJ', 'NNS', ',', 'VBG', 'DT', 'NNP', 'NNP', 'IN', 'CD', ',', 'IN', 'PRP$', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

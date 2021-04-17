@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Phoebe Davies</title>
+<link/>https://en.wikipedia.org/wiki/Phoebe_Davies
+<annotated>0</annotated>
+<originalabstract>Phoebe Davies (February 7, 1864 – December 4, 1912) was a Welsh-born American stage actress who starred in over 4,000 performances of the Lottie Blair Parker play, Way Down East.</originalabstract>
+<abstract>Phoebe_Davies ( February_7_,_1864 – December_4_,_1912 ) was a_Welsh-born_American_stage_actress who starred in over_4,000_performances of the_Lottie_Blair_Parker play , Way_Down_East .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Phoebe'), (7, 'Davies'), (14, '('), (15, 'February'), (24, '7'), (25, ','), (27, '1864'), (32, '–'), (34, 'December'), (43, '4'), (44, ','), (46, '1912'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'Welsh-born'), (69, 'American'), (78, 'stage'), (84, 'actress'), (92, 'who'), (96, 'starred'), (104, 'in'), (107, 'over'), (112, '4,000'), (118, 'performances'), (131, 'of'), (134, 'the'), (138, 'Lottie'), (145, 'Blair'), (151, 'Parker'), (158, 'play'), (162, ','), (164, 'Way'), (168, 'Down'), (173, 'East'), (177, '.')])</stanford_tokens>
+<opennlp_chunks>[('Phoebe Davies',0, 13), ('February 7, 1864',15, 31), ('December 4, 1912',34, 50), ('a Welsh-born American stage actress',56, 91), ('over 4,000 performances',107, 130), ('the Lottie Blair Parker',134, 157), ('Way Down East',164, 177)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'VB', ',', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Phoebe'), (7, 'Davies'), (14, '('), (15, 'February'), (24, '7'), (25, ','), (27, '1864'), (32, '–'), (34, 'December'), (43, '4'), (44, ','), (46, '1912'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'Welsh'), (63, '-'), (64, 'born'), (69, 'American'), (78, 'stage'), (84, 'actress'), (92, 'who'), (96, 'starred'), (104, 'in'), (107, 'over'), (112, '4,000'), (118, 'performances'), (131, 'of'), (134, 'the'), (138, 'Lottie'), (145, 'Blair'), (151, 'Parker'), (158, 'play'), (162, ','), (164, 'Way'), (168, 'Down'), (173, 'East'), (177, '.')])</spacy_tokens>
+<spacy_chunks>[('Phoebe Davies', 0, 13), ('(February', 14, 23), ('February 7, 1864', 15, 31), ('December 4, 1912', 34, 50), ('a Welsh-born American stage actress', 56, 91), ('over 4,000 performances', 107, 130), ('Way Down East', 164, 177)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'DT', 'NNP', 'NNP', 'NNP', 'VBP', ',', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

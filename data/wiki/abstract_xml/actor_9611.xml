@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Julien Carette</title>
+<link/>https://en.wikipedia.org/wiki/Julien_Carette
+<annotated>0</annotated>
+<originalabstract>Julien Henri Carette (23 December 1897 – 20 July 1966) was a French film actor. He appeared in 127 films between 1931 and 1964. He suffered fatal burns when his nylon shirt caught fire from his cigarette; apparently he had fallen asleep while smoking.</originalabstract>
+<abstract>Julien_Henri_Carette ( 23_December_1897 – 20_July_1966 ) was a_French_film_actor . He appeared in 127_films between 1931_and_1964 . He suffered fatal_burns when his_nylon_shirt caught fire from his_cigarette ; apparently he had_fallen asleep while smoking .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Julien'), (7, 'Henri'), (13, 'Carette'), (21, '('), (22, '23'), (25, 'December'), (34, '1897'), (39, '–'), (41, '20'), (44, 'July'), (49, '1966'), (53, ')'), (55, 'was'), (59, 'a'), (61, 'French'), (68, 'film'), (73, 'actor'), (78, '.'), (80, 'He'), (83, 'appeared'), (92, 'in'), (95, '127'), (99, 'films'), (105, 'between'), (113, '1931'), (118, 'and'), (122, '1964'), (126, '.'), (128, 'He'), (131, 'suffered'), (140, 'fatal'), (146, 'burns'), (152, 'when'), (157, 'his'), (161, 'nylon'), (167, 'shirt'), (173, 'caught'), (180, 'fire'), (185, 'from'), (190, 'his'), (194, 'cigarette'), (203, ';'), (205, 'apparently'), (216, 'he'), (219, 'had'), (223, 'fallen'), (230, 'asleep'), (237, 'while'), (243, 'smoking'), (250, '.')])</stanford_tokens>
+<opennlp_chunks>[('Julien Henri Carette',0, 20), ('23 December 1897',22, 38), ('20 July 1966',41, 53), ('a French film actor',59, 78), ('127 films',95, 104), ('1931 and 1964',113, 126), ('fatal burns',140, 151), ('his nylon shirt',157, 172), ('his cigarette',190, 203), ('had fallen',219, 229)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'JJ', 'NNS', 'WRB', 'PRP$', 'NN', 'NN', 'VBD', 'NN', 'IN', 'PRP$', 'NN', ':', 'RB', 'PRP', 'VBD', 'VBN', 'RB', 'IN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Julien'), (7, 'Henri'), (13, 'Carette'), (21, '('), (22, '23'), (25, 'December'), (34, '1897'), (39, '–'), (41, '20'), (44, 'July'), (49, '1966'), (53, ')'), (55, 'was'), (59, 'a'), (61, 'French'), (68, 'film'), (73, 'actor'), (78, '.'), (80, 'He'), (83, 'appeared'), (92, 'in'), (95, '127'), (99, 'films'), (105, 'between'), (113, '1931'), (118, 'and'), (122, '1964'), (126, '.'), (128, 'He'), (131, 'suffered'), (140, 'fatal'), (146, 'burns'), (152, 'when'), (157, 'his'), (161, 'nylon'), (167, 'shirt'), (173, 'caught'), (180, 'fire'), (185, 'from'), (190, 'his'), (194, 'cigarette'), (203, ';'), (205, 'apparently'), (216, 'he'), (219, 'had'), (223, 'fallen'), (230, 'asleep'), (237, 'while'), (243, 'smoking'), (250, '.')])</spacy_tokens>
+<spacy_chunks>[('Julien Henri Carette', 0, 20), ('23 December 1897', 22, 38), ('20 July 1966', 41, 53), ('a French film actor', 59, 78), ('127 films', 95, 104), ('fatal burns', 140, 151), ('his nylon shirt', 157, 172), ('his cigarette', 190, 203)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'JJ', 'NNS', 'WRB', 'PRP$', 'NN', 'NN', 'VBN', 'NN', 'IN', 'PRP$', 'NN', ':', 'RB', 'PRP', 'VBD', 'VBN', 'JJ', 'IN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

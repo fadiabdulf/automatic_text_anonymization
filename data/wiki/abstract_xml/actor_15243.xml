@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Kath Soucie</title>
+<link/>https://en.wikipedia.org/wiki/Kath_Soucie
+<annotated>0</annotated>
+<originalabstract>Katherine Ellen Soucie () is an American actress and voice actress known for playing Linka in Captain Planet and the Planeteers, Lola Bunny in Space Jam, Fifi La Fume in Tiny Toon Adventures, Dexter's Mom in Dexter's Laboratory, Maddie Fenton in Danny Phantom and Phil, Lil and Betty DeVille in Rugrats.</originalabstract>
+<abstract>Katherine_Ellen_Soucie ( ) is an_American_actress_and_voice_actress known for playing_Linka in Captain_Planet and the_Planeteers , Lola_Bunny in Space_Jam , Fifi_La_Fume in Tiny_Toon_Adventures , Dexter 's_Mom in Dexter 's_Laboratory , Maddie_Fenton in Danny_Phantom and Phil_,_Lil_and_Betty_DeVille in Rugrats .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Katherine'), (10, 'Ellen'), (16, 'Soucie'), (23, '('), (24, ')'), (26, 'is'), (29, 'an'), (32, 'American'), (41, 'actress'), (49, 'and'), (53, 'voice'), (59, 'actress'), (67, 'known'), (73, 'for'), (77, 'playing'), (85, 'Linka'), (91, 'in'), (94, 'Captain'), (102, 'Planet'), (109, 'and'), (113, 'the'), (117, 'Planeteers'), (127, ','), (129, 'Lola'), (134, 'Bunny'), (140, 'in'), (143, 'Space'), (149, 'Jam'), (152, ','), (154, 'Fifi'), (159, 'La'), (162, 'Fume'), (167, 'in'), (170, 'Tiny'), (175, 'Toon'), (180, 'Adventures'), (190, ','), (192, 'Dexter'), (198, '\'s'), (201, 'Mom'), (205, 'in'), (208, 'Dexter'), (214, '\'s'), (217, 'Laboratory'), (227, ','), (229, 'Maddie'), (236, 'Fenton'), (243, 'in'), (246, 'Danny'), (252, 'Phantom'), (260, 'and'), (264, 'Phil'), (268, ','), (270, 'Lil'), (274, 'and'), (278, 'Betty'), (284, 'DeVille'), (292, 'in'), (295, 'Rugrats'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Katherine Ellen Soucie',0, 22), ('an American actress and voice actress',29, 66), ('playing Linka',77, 90), ('Captain Planet',94, 108), ('the Planeteers',113, 127), ('Lola Bunny',129, 139), ('Space Jam',143, 152), ('Fifi La Fume',154, 166), ('Tiny Toon Adventures',170, 190), ('\'s Mom',198, 204), ('\'s Laboratory',214, 227), ('Maddie Fenton',229, 242), ('Danny Phantom',246, 259), ('Phil, Lil and Betty DeVille',264, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'NNP', 'NN', 'CC', 'DT', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'NNPS', ',', 'NNP', 'POS', 'NN', 'IN', 'NNP', 'POS', 'NN', ',', 'NNP', 'NN', 'IN', 'NNP', 'NNP', 'CC', 'NNP', ',', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Katherine'), (10, 'Ellen'), (16, 'Soucie'), (23, '('), (24, ')'), (26, 'is'), (29, 'an'), (32, 'American'), (41, 'actress'), (49, 'and'), (53, 'voice'), (59, 'actress'), (67, 'known'), (73, 'for'), (77, 'playing'), (85, 'Linka'), (91, 'in'), (94, 'Captain'), (102, 'Planet'), (109, 'and'), (113, 'the'), (117, 'Planeteers'), (127, ','), (129, 'Lola'), (134, 'Bunny'), (140, 'in'), (143, 'Space'), (149, 'Jam'), (152, ','), (154, 'Fifi'), (159, 'La'), (162, 'Fume'), (167, 'in'), (170, 'Tiny'), (175, 'Toon'), (180, 'Adventures'), (190, ','), (192, 'Dexter'), (198, "'s"), (201, 'Mom'), (205, 'in'), (208, 'Dexter'), (214, "'s"), (217, 'Laboratory'), (227, ','), (229, 'Maddie'), (236, 'Fenton'), (243, 'in'), (246, 'Danny'), (252, 'Phantom'), (260, 'and'), (264, 'Phil'), (268, ','), (270, 'Lil'), (274, 'and'), (278, 'Betty'), (284, 'DeVille'), (292, 'in'), (295, 'Rugrats'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Katherine Ellen Soucie', 0, 22), ('an American actress', 29, 48), ('voice actress', 53, 66), ('Captain Planet and the Planeteers', 94, 127), ('Lola Bunny', 129, 139), ('Space Jam', 143, 152), ('Fifi La Fume', 154, 166), ('Tiny Toon Adventures', 170, 190), ("Dexter's Mom", 192, 204), ("Dexter's Laboratory", 208, 227), ('Maddie Fenton', 229, 242), ('Danny Phantom', 246, 259), ('Tom and', 256, 263), ('Betty DeVille', 278, 291), ('Rugrats', 295, 302)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', 'VBN', 'IN', 'VBG', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'DT', 'NNPS', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'NNP', 'IN', 'JJ', 'NNP', 'NNP', ',', 'NNP', 'POS', 'NNP', 'IN', 'NNP', 'POS', 'NNP', ',', 'NNP', 'NNP', 'IN', 'NNP', 'NNP', 'CC', 'NNP', ',', 'NNP', 'CC', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

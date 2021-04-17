@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lisa Arrindell Anderson</title>
+<link/>https://en.wikipedia.org/wiki/Lisa_Arrindell_Anderson
+<annotated>0</annotated>
+<originalabstract>Lisa Arrindell Anderson (born March 24, 1969) is an American actress. She has appeared in films Livin' Large (1991), Trial by Jury (1994), The Second Chance (2006) and Madea's Family Reunion (2006).</originalabstract>
+<abstract>Lisa_Arrindell_Anderson ( born March_24_,_1969 ) is an_American_actress . She has_appeared in films_Livin '_Large_(_1991_) , Trial by Jury_(_1994_) , The_Second_Chance_(_2006_) and Madea 's_Family_Reunion_(_2006_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lisa'), (5, 'Arrindell'), (15, 'Anderson'), (24, '('), (25, 'born'), (30, 'March'), (36, '24'), (38, ','), (40, '1969'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (68, '.'), (70, 'She'), (74, 'has'), (78, 'appeared'), (87, 'in'), (90, 'films'), (96, 'Livin'), (101, '\''), (103, 'Large'), (109, '('), (110, '1991'), (114, ')'), (115, ','), (117, 'Trial'), (123, 'by'), (126, 'Jury'), (131, '('), (132, '1994'), (136, ')'), (137, ','), (139, 'The'), (143, 'Second'), (150, 'Chance'), (157, '('), (158, '2006'), (162, ')'), (164, 'and'), (168, 'Madea'), (173, '\'s'), (176, 'Family'), (183, 'Reunion'), (191, '('), (192, '2006'), (196, ')'), (197, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lisa Arrindell Anderson',0, 23), ('March 24, 1969',30, 44), ('an American actress',49, 68), ('has appeared',74, 86), ('films Livin',90, 101), ('\' Large (1991)',101, 115), ('Jury (1994)',126, 137), ('The Second Chance (2006)',139, 163), ('\'s Family Reunion (2006)',173, 197)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'NNP', 'POS', 'JJ', '-LRB-', 'CD', '-RRB-', ',', 'NN', 'IN', 'NN', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'POS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lisa'), (5, 'Arrindell'), (15, 'Anderson'), (24, '('), (25, 'born'), (30, 'March'), (36, '24'), (38, ','), (40, '1969'), (44, ')'), (46, 'is'), (49, 'an'), (52, 'American'), (61, 'actress'), (68, '.'), (70, 'She'), (74, 'has'), (78, 'appeared'), (87, 'in'), (90, 'films'), (96, 'Livin'), (101, "'"), (103, 'Large'), (109, '('), (110, '1991'), (114, ')'), (115, ','), (117, 'Trial'), (123, 'by'), (126, 'Jury'), (131, '('), (132, '1994'), (136, ')'), (137, ','), (139, 'The'), (143, 'Second'), (150, 'Chance'), (157, '('), (158, '2006'), (162, ')'), (164, 'and'), (168, 'Madea'), (173, "'s"), (176, 'Family'), (183, 'Reunion'), (191, '('), (192, '2006'), (196, ')'), (197, '.')])</spacy_tokens>
+<spacy_chunks>[('Lisa Arrindell Anderson', 0, 23), ('March 24, 1969', 30, 44), ('an American actress', 49, 68), ("Livin' Large", 96, 108), (', Trial', 115, 122), ('Trial by Jury', 117, 130), ('The Second Chance', 139, 156), ("Madea's Family Reunion", 168, 190)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNS', 'NNP', 'POS', 'JJ', '-LRB-', 'CD', '-RRB-', ',', 'NN', 'IN', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'DT', 'JJ', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'POS', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

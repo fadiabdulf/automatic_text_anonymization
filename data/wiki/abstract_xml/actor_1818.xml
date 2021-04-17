@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nick Di Paolo</title>
+<link/>https://en.wikipedia.org/wiki/Nick_Di_Paolo
+<annotated>0</annotated>
+<originalabstract>Nicholas Rocco "Nick" Di Paolo (born January 31, 1962) is an American stand-up comedian, writer, actor, radio personality and podcast host. In July 2018, he launched his new audio and video podcast, The Nick Di Paolo Show. Was also an emcee on truTV Presents: World’s Dumbest.</originalabstract>
+<abstract>Nicholas_Rocco_"_Nick_"_Di_Paolo ( born January_31_,_1962 ) is an_American_stand-up_comedian , writer , actor , radio_personality_and_podcast_host . In July_2018 , he launched his_new_audio_and_video_podcast , The_Nick_Di_Paolo_Show . Was also an_emcee on truTV Presents : World ’s_Dumbest .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nicholas'), (9, 'Rocco'), (15, '"'), (16, 'Nick'), (20, '"'), (22, 'Di'), (25, 'Paolo'), (31, '('), (32, 'born'), (37, 'January'), (45, '31'), (47, ','), (49, '1962'), (53, ')'), (55, 'is'), (58, 'an'), (61, 'American'), (70, 'stand-up'), (79, 'comedian'), (87, ','), (89, 'writer'), (95, ','), (97, 'actor'), (102, ','), (104, 'radio'), (110, 'personality'), (122, 'and'), (126, 'podcast'), (134, 'host'), (138, '.'), (140, 'In'), (143, 'July'), (148, '2018'), (152, ','), (154, 'he'), (157, 'launched'), (166, 'his'), (170, 'new'), (174, 'audio'), (180, 'and'), (184, 'video'), (190, 'podcast'), (197, ','), (199, 'The'), (203, 'Nick'), (208, 'Di'), (211, 'Paolo'), (217, 'Show'), (221, '.'), (223, 'Was'), (227, 'also'), (232, 'an'), (235, 'emcee'), (241, 'on'), (244, 'truTV'), (250, 'Presents'), (258, ':'), (260, 'World'), (265, '’s'), (268, 'Dumbest'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nicholas Rocco "Nick" Di Paolo',0, 30), ('January 31, 1962',37, 53), ('an American stand-up comedian',58, 87), ('radio personality and podcast host',104, 138), ('July 2018',143, 152), ('his new audio and video podcast',166, 197), ('The Nick Di Paolo Show',199, 221), ('an emcee',232, 240), ('’s Dumbest',265, 275)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'NNP', 'CD', ',', 'PRP', 'VBD', 'PRP$', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'VBD', 'RB', 'DT', 'NN', 'IN', 'NNP', 'VBZ', ':', 'NNP', 'POS', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nicholas'), (9, 'Rocco'), (15, '"'), (16, 'Nick'), (20, '"'), (22, 'Di'), (25, 'Paolo'), (31, '('), (32, 'born'), (37, 'January'), (45, '31'), (47, ','), (49, '1962'), (53, ')'), (55, 'is'), (58, 'an'), (61, 'American'), (70, 'stand'), (75, '-'), (76, 'up'), (79, 'comedian'), (87, ','), (89, 'writer'), (95, ','), (97, 'actor'), (102, ','), (104, 'radio'), (110, 'personality'), (122, 'and'), (126, 'podcast'), (134, 'host'), (138, '.'), (140, 'In'), (143, 'July'), (148, '2018'), (152, ','), (154, 'he'), (157, 'launched'), (166, 'his'), (170, 'new'), (174, 'audio'), (180, 'and'), (184, 'video'), (190, 'podcast'), (197, ','), (199, 'The'), (203, 'Nick'), (208, 'Di'), (211, 'Paolo'), (217, 'Show'), (221, '.'), (223, 'Was'), (227, 'also'), (232, 'an'), (235, 'emcee'), (241, 'on'), (244, 'truTV'), (250, 'Presents'), (258, ':'), (260, 'World'), (265, '’s'), (268, 'Dumbest'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('Nicholas Rocco', 0, 14), ('"Nick" Di Paolo', 15, 30), ('January 31, 1962', 37, 53), ('an American stand-up comedian', 58, 87), ('writer', 89, 95), ('radio personality', 104, 121), ('podcast host', 126, 138), ('his new audio and video podcast', 166, 197), ('The Nick Di Paolo Show', 199, 221), ('an emcee', 232, 240), ('TruTV Presents:', 244, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '``', 'NNP', "''", 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'VB', 'HYPH', 'RP', 'NN', ',', 'NN', ',', 'NN', ',', 'NN', 'NN', 'CC', 'NN', 'NN', '.', 'IN', 'NNP', 'CD', ',', 'PRP', 'VBD', 'PRP$', 'JJ', 'NN', 'CC', 'NN', 'NN', ',', 'DT', 'NNP', 'NNP', 'NNP', 'NNP', '.', 'VBD', 'RB', 'DT', 'NN', 'IN', 'NNP', 'VBZ', ':', 'NNP', 'POS', 'JJS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Hanna R. Hall</title>
+<link/>https://en.wikipedia.org/wiki/Hanna_R._Hall
+<annotated>0</annotated>
+<originalabstract>Hanna Rose Hall (born July 9, 1984) is an American actress. She made her film debut in Forrest Gump (1994), and later appeared in Sofia Coppola's The Virgin Suicides (1999) and Rob Zombie's Halloween (2007).</originalabstract>
+<abstract>Hanna_Rose_Hall ( born July_9_,_1984 ) is an_American_actress . She made her_film_debut in Forrest_Gump_(_1994_) , and later_appeared in Sofia_Coppola 's_The_Virgin Suicides (_1999 ) and Rob_Zombie 's_Halloween_(_2007_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Hanna'), (6, 'Rose'), (11, 'Hall'), (16, '('), (17, 'born'), (22, 'July'), (27, '9'), (28, ','), (30, '1984'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'made'), (69, 'her'), (73, 'film'), (78, 'debut'), (84, 'in'), (87, 'Forrest'), (95, 'Gump'), (100, '('), (101, '1994'), (105, ')'), (106, ','), (108, 'and'), (112, 'later'), (118, 'appeared'), (127, 'in'), (130, 'Sofia'), (136, 'Coppola'), (143, '\'s'), (146, 'The'), (150, 'Virgin'), (157, 'Suicides'), (166, '('), (167, '1999'), (171, ')'), (173, 'and'), (177, 'Rob'), (181, 'Zombie'), (187, '\'s'), (190, 'Halloween'), (200, '('), (201, '2007'), (205, ')'), (206, '.')])</stanford_tokens>
+<opennlp_chunks>[('Hanna Rose Hall',0, 15), ('July 9, 1984',22, 34), ('an American actress',39, 58), ('her film debut',69, 83), ('Forrest Gump (1994)',87, 106), ('later appeared',112, 126), ('Sofia Coppola',130, 143), ('\'s The Virgin',143, 156), ('(1999',166, 171), ('Rob Zombie',177, 187), ('\'s Halloween (2007)',187, 206)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'POS', 'DT', 'NN', 'NNS', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'POS', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Hanna'), (6, 'Rose'), (11, 'Hall'), (16, '('), (17, 'born'), (22, 'July'), (27, '9'), (28, ','), (30, '1984'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'American'), (51, 'actress'), (58, '.'), (60, 'She'), (64, 'made'), (69, 'her'), (73, 'film'), (78, 'debut'), (84, 'in'), (87, 'Forrest'), (95, 'Gump'), (100, '('), (101, '1994'), (105, ')'), (106, ','), (108, 'and'), (112, 'later'), (118, 'appeared'), (127, 'in'), (130, 'Sofia'), (136, 'Coppola'), (143, "'s"), (146, 'The'), (150, 'Virgin'), (157, 'Suicides'), (166, '('), (167, '1999'), (171, ')'), (173, 'and'), (177, 'Rob'), (181, 'Zombie'), (187, "'s"), (190, 'Halloween'), (200, '('), (201, '2007'), (205, ')'), (206, '.')])</spacy_tokens>
+<spacy_chunks>[('Hanna Rose Hall', 0, 15), ('July 9, 1984', 22, 34), ('an American actress', 39, 58), ('her film debut', 69, 83), ('Forrest Gump', 87, 99), ("Sofia Coppola's The Virgin Suicides", 130, 165), ("Rob Zombie's Halloween", 177, 199), ('Halloween (2007', 190, 205)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'PRP$', 'NN', 'NN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'RB', 'VBD', 'IN', 'NNP', 'NNP', 'POS', 'DT', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', 'CC', 'NNP', 'NNP', 'POS', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

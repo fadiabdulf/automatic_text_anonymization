@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>John Derek</title>
+<link/>https://en.wikipedia.org/wiki/John_Derek
+<annotated>0</annotated>
+<originalabstract>John Derek (born Derek Delevan Harris; August 12, 1926 – May 22, 1998) was an American actor, director and photographer. He appeared in such films as Knock on Any Door, All the King's Men, and Rogues of Sherwood Forest. He was also known for launching the career of his fourth wife, Bo Derek.</originalabstract>
+<abstract>John_Derek ( born Derek_Delevan_Harris ; August_12_,_1926 – May_22_,_1998 ) was an_American_actor_,_director_and_photographer . He appeared in such_films as Knock on Any_Door , All the_King 's_Men , and Rogues of Sherwood_Forest . He was_also_known for launching the_career of his_fourth_wife , Bo_Derek .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Derek'), (11, '('), (12, 'born'), (17, 'Derek'), (23, 'Delevan'), (31, 'Harris'), (37, ';'), (39, 'August'), (46, '12'), (48, ','), (50, '1926'), (55, '–'), (57, 'May'), (61, '22'), (63, ','), (65, '1998'), (69, ')'), (71, 'was'), (75, 'an'), (78, 'American'), (87, 'actor'), (92, ','), (94, 'director'), (103, 'and'), (107, 'photographer'), (119, '.'), (121, 'He'), (124, 'appeared'), (133, 'in'), (136, 'such'), (141, 'films'), (147, 'as'), (150, 'Knock'), (156, 'on'), (159, 'Any'), (163, 'Door'), (167, ','), (169, 'All'), (173, 'the'), (177, 'King'), (181, '\'s'), (184, 'Men'), (187, ','), (189, 'and'), (193, 'Rogues'), (200, 'of'), (203, 'Sherwood'), (212, 'Forest'), (218, '.'), (220, 'He'), (223, 'was'), (227, 'also'), (232, 'known'), (238, 'for'), (242, 'launching'), (252, 'the'), (256, 'career'), (263, 'of'), (266, 'his'), (270, 'fourth'), (277, 'wife'), (281, ','), (283, 'Bo'), (286, 'Derek'), (291, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Derek',0, 10), ('Derek Delevan Harris',17, 37), ('August 12, 1926',39, 54), ('May 22, 1998',57, 69), ('an American actor, director and photographer',75, 119), ('such films',136, 146), ('Any Door',159, 167), ('the King',173, 181), ('\'s Men',181, 187), ('Sherwood Forest',203, 218), ('was also known',223, 237), ('the career',252, 262), ('his fourth wife',266, 281), ('Bo Derek',283, 291)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NNP', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'NN', 'IN', 'DT', 'NNP', ',', 'PDT', 'DT', 'NNP', 'POS', 'NN', ',', 'CC', 'NNS', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'PRP$', 'JJ', 'NN', ',', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Derek'), (11, '('), (12, 'born'), (17, 'Derek'), (23, 'Delevan'), (31, 'Harris'), (37, ';'), (39, 'August'), (46, '12'), (48, ','), (50, '1926'), (55, '–'), (57, 'May'), (61, '22'), (63, ','), (65, '1998'), (69, ')'), (71, 'was'), (75, 'an'), (78, 'American'), (87, 'actor'), (92, ','), (94, 'director'), (103, 'and'), (107, 'photographer'), (119, '.'), (121, 'He'), (124, 'appeared'), (133, 'in'), (136, 'such'), (141, 'films'), (147, 'as'), (150, 'Knock'), (156, 'on'), (159, 'Any'), (163, 'Door'), (167, ','), (169, 'All'), (173, 'the'), (177, 'King'), (181, "'s"), (184, 'Men'), (187, ','), (189, 'and'), (193, 'Rogues'), (200, 'of'), (203, 'Sherwood'), (212, 'Forest'), (218, '.'), (220, 'He'), (223, 'was'), (227, 'also'), (232, 'known'), (238, 'for'), (242, 'launching'), (252, 'the'), (256, 'career'), (263, 'of'), (266, 'his'), (270, 'fourth'), (277, 'wife'), (281, ','), (283, 'Bo'), (286, 'Derek'), (291, '.')])</spacy_tokens>
+<spacy_chunks>[('John Derek', 0, 10), ('born Derek Delevan Harris', 12, 37), ('August 12, 1926', 39, 54), ('May 22, 1998', 57, 69), ('an American actor', 75, 92), ('director', 94, 102), ('photographer', 107, 119), ('such films', 136, 146), ('Knock on Any Door', 150, 167), ("All the King's Men", 169, 187), ('Rogues of Sherwood Forest', 193, 218), ('the career', 252, 262), ('his fourth wife', 266, 281), ('Bo Derek', 283, 291)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', 'CC', 'NN', '.', 'PRP', 'VBD', 'IN', 'JJ', 'NNS', 'IN', 'NNP', 'IN', 'DT', 'NNP', ',', 'PDT', 'DT', 'NNP', 'POS', 'NNPS', ',', 'CC', 'NNP', 'IN', 'NNP', 'NNP', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', 'VBG', 'DT', 'NN', 'IN', 'PRP$', 'JJ', 'NN', ',', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

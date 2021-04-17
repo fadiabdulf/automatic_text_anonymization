@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Anna Lee</title>
+<link/>https://en.wikipedia.org/wiki/Anna_Lee
+<annotated>0</annotated>
+<originalabstract>Anna Lee, MBE (born Joan Boniface Winnifrith; 2 January 1913 – 14 May 2004) was a British-born American actress.</originalabstract>
+<abstract>Anna_Lee , MBE ( born Joan_Boniface_Winnifrith ; 2_January_1913 – 14_May_2004 ) was a_British-born_American_actress .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Anna'), (5, 'Lee'), (8, ','), (10, 'MBE'), (14, '('), (15, 'born'), (20, 'Joan'), (25, 'Boniface'), (34, 'Winnifrith'), (44, ';'), (46, '2'), (48, 'January'), (56, '1913'), (61, '–'), (63, '14'), (66, 'May'), (70, '2004'), (74, ')'), (76, 'was'), (80, 'a'), (82, 'British-born'), (95, 'American'), (104, 'actress'), (111, '.')])</stanford_tokens>
+<opennlp_chunks>[('Anna Lee',0, 8), ('Joan Boniface Winnifrith',20, 44), ('2 January 1913',46, 60), ('14 May 2004',63, 74), ('a British-born American actress',80, 111)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'JJ', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Anna'), (5, 'Lee'), (8, ','), (10, 'MBE'), (14, '('), (15, 'born'), (20, 'Joan'), (25, 'Boniface'), (34, 'Winnifrith'), (44, ';'), (46, '2'), (48, 'January'), (56, '1913'), (61, '–'), (63, '14'), (66, 'May'), (70, '2004'), (74, ')'), (76, 'was'), (80, 'a'), (82, 'British'), (89, '-'), (90, 'born'), (95, 'American'), (104, 'actress'), (111, '.')])</spacy_tokens>
+<spacy_chunks>[('Anna Lee', 0, 8), ('(born Joan Boniface Winnifrith', 14, 44), ('2 January 1913', 46, 60), ('14 May 2004', 63, 74), ('a British-born American actress', 80, 111)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

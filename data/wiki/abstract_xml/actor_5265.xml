@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Arthur Peterson Jr.</title>
+<link/>https://en.wikipedia.org/wiki/Arthur_Peterson_Jr.
+<annotated>0</annotated>
+<originalabstract>Arthur Peterson Jr. (November 18, 1912 – October 31, 1996) was an American actor. He played character and supporting roles on stage, television, and feature films. On television, he played the Major in the TV series Soap (1977–1981).</originalabstract>
+<abstract>Arthur_Peterson_Jr. ( November_18_,_1912 – October_31_,_1996 ) was an_American_actor . He played character and supporting roles on stage_,_television , and feature_films . On television , he played the_Major in the_TV_series_Soap_(_1977 – 1981_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Arthur'), (7, 'Peterson'), (16, 'Jr.'), (20, '('), (21, 'November'), (30, '18'), (32, ','), (34, '1912'), (39, '–'), (41, 'October'), (49, '31'), (51, ','), (53, '1996'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'played'), (92, 'character'), (102, 'and'), (106, 'supporting'), (117, 'roles'), (123, 'on'), (126, 'stage'), (131, ','), (133, 'television'), (143, ','), (145, 'and'), (149, 'feature'), (157, 'films'), (162, '.'), (164, 'On'), (167, 'television'), (177, ','), (179, 'he'), (182, 'played'), (189, 'the'), (193, 'Major'), (199, 'in'), (202, 'the'), (206, 'TV'), (209, 'series'), (216, 'Soap'), (221, '('), (222, '1977'), (226, '–'), (227, '1981'), (231, ')'), (232, '.')])</stanford_tokens>
+<opennlp_chunks>[('Arthur Peterson Jr.',0, 19), ('November 18, 1912',21, 38), ('October 31, 1996',41, 57), ('an American actor',63, 80), ('stage, television',126, 143), ('feature films',149, 162), ('the Major',189, 198), ('the TV series Soap (1977',202, 226), ('1981)',227, 232)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NN', 'CC', 'VBG', 'NNS', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NNS', '.', 'IN', 'NN', ',', 'PRP', 'VBD', 'DT', 'JJ', 'IN', 'DT', 'NN', 'NN', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Arthur'), (7, 'Peterson'), (16, 'Jr.'), (20, '('), (21, 'November'), (30, '18'), (32, ','), (34, '1912'), (39, '–'), (41, 'October'), (49, '31'), (51, ','), (53, '1996'), (57, ')'), (59, 'was'), (63, 'an'), (66, 'American'), (75, 'actor'), (80, '.'), (82, 'He'), (85, 'played'), (92, 'character'), (102, 'and'), (106, 'supporting'), (117, 'roles'), (123, 'on'), (126, 'stage'), (131, ','), (133, 'television'), (143, ','), (145, 'and'), (149, 'feature'), (157, 'films'), (162, '.'), (164, 'On'), (167, 'television'), (177, ','), (179, 'he'), (182, 'played'), (189, 'the'), (193, 'Major'), (199, 'in'), (202, 'the'), (206, 'TV'), (209, 'series'), (216, 'Soap'), (221, '('), (222, '1977–1981'), (231, ')'), (232, '.')])</spacy_tokens>
+<spacy_chunks>[('Arthur Peterson Jr.', 0, 19), ('November 18, 1912', 21, 38), ('October 31, 1996', 41, 57), ('an American actor', 63, 80), ('character', 92, 101), ('television', 133, 143), ('feature films', 149, 162), ('the Major', 189, 198), ('the TV series', 202, 215)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'NN', 'CC', 'VBG', 'NNS', 'IN', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NNS', '.', 'IN', 'NN', ',', 'PRP', 'VBD', 'DT', 'NNP', 'IN', 'DT', 'NN', 'NN', 'NN', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

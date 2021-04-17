@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Agnes Bruckner</title>
+<link/>https://en.wikipedia.org/wiki/Agnes_Bruckner
+<annotated>0</annotated>
+<originalabstract>Agnes Bruckner (born August 16, 1985) is an American actress and former model. She began acting on television in the late 1990s and has since appeared in several films, including The Woods, Blue Car, Murder by Numbers, Blood and Chocolate, and The Anna Nicole Story.</originalabstract>
+<abstract>Agnes_Bruckner ( born August_16_,_1985 ) is an_American_actress and former_model . She began_acting on television in the_late_1990s and has_since_appeared in several_films , including The_Woods , Blue_Car , Murder by Numbers_,_Blood_and_Chocolate , and The_Anna_Nicole_Story .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Agnes'), (6, 'Bruckner'), (15, '('), (16, 'born'), (21, 'August'), (28, '16'), (30, ','), (32, '1985'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (61, 'and'), (65, 'former'), (72, 'model'), (77, '.'), (79, 'She'), (83, 'began'), (89, 'acting'), (96, 'on'), (99, 'television'), (110, 'in'), (113, 'the'), (117, 'late'), (122, '1990s'), (128, 'and'), (132, 'has'), (136, 'since'), (142, 'appeared'), (151, 'in'), (154, 'several'), (162, 'films'), (167, ','), (169, 'including'), (179, 'The'), (183, 'Woods'), (188, ','), (190, 'Blue'), (195, 'Car'), (198, ','), (200, 'Murder'), (207, 'by'), (210, 'Numbers'), (217, ','), (219, 'Blood'), (225, 'and'), (229, 'Chocolate'), (238, ','), (240, 'and'), (244, 'The'), (248, 'Anna'), (253, 'Nicole'), (260, 'Story'), (265, '.')])</stanford_tokens>
+<opennlp_chunks>[('Agnes Bruckner',0, 14), ('August 16, 1985',21, 36), ('an American actress',41, 60), ('former model',65, 77), ('began acting',83, 95), ('the late 1990s',113, 127), ('has since appeared',132, 150), ('several films',154, 167), ('The Woods',179, 188), ('Blue Car',190, 198), ('Numbers, Blood and Chocolate',210, 238), ('The Anna Nicole Story',244, 265)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBG', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'VBZ', 'IN', 'VBN', 'IN', 'JJ', 'NNS', ',', 'VBG', 'DT', 'NNP', ',', 'NNP', 'NNP', ',', 'NN', 'IN', 'NNS', ',', 'NN', 'CC', 'NNP', ',', 'CC', 'DT', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Agnes'), (6, 'Bruckner'), (15, '('), (16, 'born'), (21, 'August'), (28, '16'), (30, ','), (32, '1985'), (36, ')'), (38, 'is'), (41, 'an'), (44, 'American'), (53, 'actress'), (61, 'and'), (65, 'former'), (72, 'model'), (77, '.'), (79, 'She'), (83, 'began'), (89, 'acting'), (96, 'on'), (99, 'television'), (110, 'in'), (113, 'the'), (117, 'late'), (122, '1990s'), (128, 'and'), (132, 'has'), (136, 'since'), (142, 'appeared'), (151, 'in'), (154, 'several'), (162, 'films'), (167, ','), (169, 'including'), (179, 'The'), (183, 'Woods'), (188, ','), (190, 'Blue'), (195, 'Car'), (198, ','), (200, 'Murder'), (207, 'by'), (210, 'Numbers'), (217, ','), (219, 'Blood'), (225, 'and'), (229, 'Chocolate'), (238, ','), (240, 'and'), (244, 'The'), (248, 'Anna'), (253, 'Nicole'), (260, 'Story'), (265, '.')])</spacy_tokens>
+<spacy_chunks>[('Agnes Bruckner', 0, 14), ('August 16, 1985', 21, 36), ('an American actress', 41, 60), ('former model', 65, 77), ('television', 99, 109), ('the late 1990s', 113, 127), ('several films', 154, 167), ('The Woods', 179, 188), ('Blue Car', 190, 198), ('Murder by Numbers', 200, 217), ('Blood and Chocolate', 219, 238), ('The Anna Nicole Story', 244, 265)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NN', '.', 'PRP', 'VBD', 'VBG', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'CC', 'VBZ', 'IN', 'VBN', 'IN', 'JJ', 'NNS', ',', 'VBG', 'DT', 'NNP', ',', 'NNP', 'NNP', ',', 'NN', 'IN', 'NNS', ',', 'NNP', 'CC', 'NNP', ',', 'CC', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

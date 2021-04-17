@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Haley</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Haley
+<annotated>0</annotated>
+<originalabstract>John Joseph Haley Jr (August 10, 1897 – June 6, 1979) was an American vaudevillian, actor, radio host, comedian, singer and dancer best known for his portrayal of the Tin Man and his farmhand counterpart "Hickory" in the classic 1939 MGM film The Wizard of Oz.</originalabstract>
+<abstract>John_Joseph_Haley_Jr ( August_10_,_1897 – June_6_,_1979 ) was an_American_vaudevillian , actor , radio_host , comedian , singer_and_dancer best_known for his_portrayal of the_Tin_Man and his_farmhand_counterpart_"_Hickory " in the_classic_1939_MGM_film The_Wizard of Oz .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Joseph'), (12, 'Haley'), (18, 'Jr'), (21, '('), (22, 'August'), (29, '10'), (31, ','), (33, '1897'), (38, '–'), (40, 'June'), (45, '6'), (46, ','), (48, '1979'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'vaudevillian'), (82, ','), (84, 'actor'), (89, ','), (91, 'radio'), (97, 'host'), (101, ','), (103, 'comedian'), (111, ','), (113, 'singer'), (120, 'and'), (124, 'dancer'), (131, 'best'), (136, 'known'), (142, 'for'), (146, 'his'), (150, 'portrayal'), (160, 'of'), (163, 'the'), (167, 'Tin'), (171, 'Man'), (175, 'and'), (179, 'his'), (183, 'farmhand'), (192, 'counterpart'), (204, '"'), (205, 'Hickory'), (212, '"'), (214, 'in'), (217, 'the'), (221, 'classic'), (229, '1939'), (234, 'MGM'), (238, 'film'), (243, 'The'), (247, 'Wizard'), (254, 'of'), (257, 'Oz'), (259, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Joseph Haley Jr',0, 20), ('August 10, 1897',22, 37), ('June 6, 1979',40, 52), ('an American vaudevillian',58, 82), ('radio host',91, 101), ('singer and dancer',113, 130), ('best known',131, 141), ('his portrayal',146, 159), ('the Tin Man',163, 174), ('his farmhand counterpart "Hickory',179, 212), ('the classic 1939 MGM film',217, 242), ('The Wizard',243, 253)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NN', 'NN', 'CC', 'PRP$', 'NN', 'NN', '``', 'NNP', '\'\'', 'IN', 'DT', 'JJ', 'CD', 'NNP', 'NN', 'DT', 'NNP', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Joseph'), (12, 'Haley'), (18, 'Jr'), (21, '('), (22, 'August'), (29, '10'), (31, ','), (33, '1897'), (38, '–'), (40, 'June'), (45, '6'), (46, ','), (48, '1979'), (52, ')'), (54, 'was'), (58, 'an'), (61, 'American'), (70, 'vaudevillian'), (82, ','), (84, 'actor'), (89, ','), (91, 'radio'), (97, 'host'), (101, ','), (103, 'comedian'), (111, ','), (113, 'singer'), (120, 'and'), (124, 'dancer'), (131, 'best'), (136, 'known'), (142, 'for'), (146, 'his'), (150, 'portrayal'), (160, 'of'), (163, 'the'), (167, 'Tin'), (171, 'Man'), (175, 'and'), (179, 'his'), (183, 'farmhand'), (192, 'counterpart'), (204, '"'), (205, 'Hickory'), (212, '"'), (214, 'in'), (217, 'the'), (221, 'classic'), (229, '1939'), (234, 'MGM'), (238, 'film'), (243, 'The'), (247, 'Wizard'), (254, 'of'), (257, 'Oz'), (259, '.')])</spacy_tokens>
+<spacy_chunks>[('John Joseph Haley Jr', 0, 20), ('(August', 21, 28), ('August 10, 1897', 22, 37), ('June 6, 1979', 40, 52), ('an American vaudevillian', 58, 82), ('radio host', 91, 101), ('comedian', 103, 111), ('singer', 113, 119), ('dancer', 124, 130), ('his portrayal', 146, 159), ('the Tin Man', 163, 174), ('his farmhand counterpart', 179, 203), ('Hickory', 205, 212), ('the classic 1939 MGM film', 217, 242), ('The Wizard of Oz', 243, 259)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'NN', 'NN', ',', 'NN', ',', 'NN', 'CC', 'NN', 'RBS', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'NNP', 'NNP', 'CC', 'PRP$', 'NN', 'NN', '``', 'NNP', "''", 'IN', 'DT', 'JJ', 'CD', 'NNP', 'NN', 'DT', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

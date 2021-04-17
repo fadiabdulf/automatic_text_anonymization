@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Marion Burns</title>
+<link/>https://en.wikipedia.org/wiki/Marion_Burns
+<annotated>0</annotated>
+<originalabstract>Marion Burns (August 9, 1907 – December 22, 1993) was an American film actress of the 1930s.  She is best known for having starred opposite John Wayne in the 1935 film The Dawn Rider and opposite him again that same year in Paradise Canyon.</originalabstract>
+<abstract>Marion_Burns ( August_9_,_1907 – December_22_,_1993 ) was an_American_film_actress of the_1930s . She is_best_known for having_starred opposite_John_Wayne in the_1935_film The_Dawn_Rider_and_opposite him again_that_same_year in Paradise_Canyon .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Marion'), (7, 'Burns'), (13, '('), (14, 'August'), (21, '9'), (22, ','), (24, '1907'), (29, '–'), (31, 'December'), (40, '22'), (42, ','), (44, '1993'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (71, 'actress'), (79, 'of'), (82, 'the'), (86, '1930s'), (91, '.'), (94, 'She'), (98, 'is'), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'having'), (123, 'starred'), (131, 'opposite'), (140, 'John'), (145, 'Wayne'), (151, 'in'), (154, 'the'), (158, '1935'), (163, 'film'), (168, 'The'), (172, 'Dawn'), (177, 'Rider'), (183, 'and'), (187, 'opposite'), (196, 'him'), (200, 'again'), (206, 'that'), (211, 'same'), (216, 'year'), (221, 'in'), (224, 'Paradise'), (233, 'Canyon'), (239, '.')])</stanford_tokens>
+<opennlp_chunks>[('Marion Burns',0, 12), ('August 9, 1907',14, 28), ('December 22, 1993',31, 48), ('an American film actress',54, 78), ('the 1930s',82, 91), ('is best known',98, 111), ('having starred',116, 130), ('opposite John Wayne',131, 150), ('the 1935 film',154, 167), ('The Dawn Rider and opposite',168, 195), ('again that same year',200, 220), ('Paradise Canyon',224, 239)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'VBG', 'VBN', 'JJ', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'DT', 'NNP', 'NNP', 'CC', 'JJ', 'PRP', 'RB', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Marion'), (7, 'Burns'), (13, '('), (14, 'August'), (21, '9'), (22, ','), (24, '1907'), (29, '–'), (31, 'December'), (40, '22'), (42, ','), (44, '1993'), (48, ')'), (50, 'was'), (54, 'an'), (57, 'American'), (66, 'film'), (71, 'actress'), (79, 'of'), (82, 'the'), (86, '1930s'), (91, '.'), (94, 'She'), (98, 'is'), (101, 'best'), (106, 'known'), (112, 'for'), (116, 'having'), (123, 'starred'), (131, 'opposite'), (140, 'John'), (145, 'Wayne'), (151, 'in'), (154, 'the'), (158, '1935'), (163, 'film'), (168, 'The'), (172, 'Dawn'), (177, 'Rider'), (183, 'and'), (187, 'opposite'), (196, 'him'), (200, 'again'), (206, 'that'), (211, 'same'), (216, 'year'), (221, 'in'), (224, 'Paradise'), (233, 'Canyon'), (239, '.')])</spacy_tokens>
+<spacy_chunks>[('Marion Burns', 0, 12), ('August 9, 1907', 14, 28), ('December 22, 1993', 31, 48), ('an American film actress', 54, 78), ('the 1930s', 82, 91), ('John Wayne', 140, 150), ('the 1935 film', 154, 167), ('The Dawn Rider', 168, 182), ('Paradise Canyon', 224, 239)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'VBG', 'VBN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'CD', 'NN', 'DT', 'NNP', 'NNP', 'CC', 'IN', 'PRP', 'RB', 'DT', 'JJ', 'NN', 'IN', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

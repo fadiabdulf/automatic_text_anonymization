@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Leo White</title>
+<link/>https://en.wikipedia.org/wiki/Leo_White
+<annotated>0</annotated>
+<originalabstract>Leo White (November 10, 1882 – September 20, 1948) was a German-born English-American film and stage actor who appeared as a character actor in many Charlie Chaplin films.</originalabstract>
+<abstract>Leo_White ( November_10_,_1882 – September_20_,_1948 ) was a_German-born_English-American_film_and_stage_actor who appeared as a_character_actor in many_Charlie_Chaplin_films .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Leo'), (4, 'White'), (10, '('), (11, 'November'), (20, '10'), (22, ','), (24, '1882'), (29, '–'), (31, 'September'), (41, '20'), (43, ','), (45, '1948'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'German-born'), (69, 'English-American'), (86, 'film'), (91, 'and'), (95, 'stage'), (101, 'actor'), (107, 'who'), (111, 'appeared'), (120, 'as'), (123, 'a'), (125, 'character'), (135, 'actor'), (141, 'in'), (144, 'many'), (149, 'Charlie'), (157, 'Chaplin'), (165, 'films'), (170, '.')])</stanford_tokens>
+<opennlp_chunks>[('Leo White',0, 9), ('November 10, 1882',11, 28), ('September 20, 1948',31, 49), ('a German-born English-American film and stage actor',55, 106), ('a character actor',123, 140), ('many Charlie Chaplin films',144, 170)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NNP', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'JJ', 'NNP', 'NNP', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Leo'), (4, 'White'), (10, '('), (11, 'November'), (20, '10'), (22, ','), (24, '1882'), (29, '–'), (31, 'September'), (41, '20'), (43, ','), (45, '1948'), (49, ')'), (51, 'was'), (55, 'a'), (57, 'German'), (63, '-'), (64, 'born'), (69, 'English'), (76, '-'), (77, 'American'), (86, 'film'), (91, 'and'), (95, 'stage'), (101, 'actor'), (107, 'who'), (111, 'appeared'), (120, 'as'), (123, 'a'), (125, 'character'), (135, 'actor'), (141, 'in'), (144, 'many'), (149, 'Charlie'), (157, 'Chaplin'), (165, 'films'), (170, '.')])</spacy_tokens>
+<spacy_chunks>[('Leo White', 0, 9), ('November 10, 1882', 11, 28), ('September 20, 1948', 31, 49), ('a German-born English-American film and stage actor', 55, 106), ('a character actor', 123, 140), ('many Charlie Chaplin films', 144, 170)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', 'JJ', 'HYPH', 'JJ', 'NN', 'CC', 'NN', 'NN', 'WP', 'VBD', 'IN', 'DT', 'NN', 'NN', 'IN', 'JJ', 'NNP', 'NNP', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

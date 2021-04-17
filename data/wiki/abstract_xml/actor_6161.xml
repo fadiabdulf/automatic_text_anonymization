@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Singin' Sam</title>
+<link/>https://en.wikipedia.org/wiki/Singin%27_Sam
+<annotated>0</annotated>
+<originalabstract>Singin' Sam aka Harry Frankel (January 27, 1888, Springfield, Ohio -June 12, 1948, Richmond, Indiana) was a minstrel performer, vaudevillian and popular personality during the early days of radio. He was best known as "Singin' Sam, the Barbasol Man" for his long association with that company.</originalabstract>
+<abstract>Singin '_Sam_aka_Harry_Frankel ( January_27_,_1888 , Springfield , Ohio - June_12_,_1948_,_Richmond_,_Indiana ) was a_minstrel_performer , vaudevillian and popular_personality during the_early_days of radio . He was_best_known as "_Singin_'_Sam , the_Barbasol_Man " for his_long_association with that_company .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Singin'), (6, '\''), (8, 'Sam'), (12, 'aka'), (16, 'Harry'), (22, 'Frankel'), (30, '('), (31, 'January'), (39, '27'), (41, ','), (43, '1888'), (47, ','), (49, 'Springfield'), (60, ','), (62, 'Ohio'), (67, '-'), (68, 'June'), (73, '12'), (75, ','), (77, '1948'), (81, ','), (83, 'Richmond'), (91, ','), (93, 'Indiana'), (100, ')'), (102, 'was'), (106, 'a'), (108, 'minstrel'), (117, 'performer'), (126, ','), (128, 'vaudevillian'), (141, 'and'), (145, 'popular'), (153, 'personality'), (165, 'during'), (172, 'the'), (176, 'early'), (182, 'days'), (187, 'of'), (190, 'radio'), (195, '.'), (197, 'He'), (200, 'was'), (204, 'best'), (209, 'known'), (215, 'as'), (218, '"'), (219, 'Singin'), (225, '\''), (227, 'Sam'), (230, ','), (232, 'the'), (236, 'Barbasol'), (245, 'Man'), (248, '"'), (250, 'for'), (254, 'his'), (258, 'long'), (263, 'association'), (275, 'with'), (280, 'that'), (285, 'company'), (292, '.')])</stanford_tokens>
+<opennlp_chunks>[('\' Sam aka Harry Frankel',6, 29), ('January 27, 1888',31, 47), ('June 12, 1948, Richmond, Indiana',68, 100), ('a minstrel performer',106, 126), ('popular personality',145, 164), ('the early days',172, 186), ('was best known',200, 214), ('"Singin\' Sam',218, 230), ('the Barbasol Man',232, 248), ('his long association',254, 274), ('that company',280, 292)]</opennlp_chunks>
+<stanford_pos>['VBG', '\'\'', 'NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'NN', 'NN', ',', 'NN', 'CC', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'NN', '.', 'PRP', 'VBD', 'RB', 'VBN', 'IN', '``', 'VBG', '\'\'', 'NNP', ',', 'DT', 'NNP', 'NN', '\'\'', 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Singin'), (6, "'"), (8, 'Sam'), (12, 'aka'), (16, 'Harry'), (22, 'Frankel'), (30, '('), (31, 'January'), (39, '27'), (41, ','), (43, '1888'), (47, ','), (49, 'Springfield'), (60, ','), (62, 'Ohio'), (67, '-June'), (73, '12'), (75, ','), (77, '1948'), (81, ','), (83, 'Richmond'), (91, ','), (93, 'Indiana'), (100, ')'), (102, 'was'), (106, 'a'), (108, 'minstrel'), (117, 'performer'), (126, ','), (128, 'vaudevillian'), (141, 'and'), (145, 'popular'), (153, 'personality'), (165, 'during'), (172, 'the'), (176, 'early'), (182, 'days'), (187, 'of'), (190, 'radio'), (195, '.'), (197, 'He'), (200, 'was'), (204, 'best'), (209, 'known'), (215, 'as'), (218, '"'), (219, 'Singin'), (225, "'"), (227, 'Sam'), (230, ','), (232, 'the'), (236, 'Barbasol'), (245, 'Man'), (248, '"'), (250, 'for'), (254, 'his'), (258, 'long'), (263, 'association'), (275, 'with'), (280, 'that'), (285, 'company'), (292, '.')])</spacy_tokens>
+<spacy_chunks>[('Harry Frankel', 16, 29), ('January 27, 1888', 31, 47), ('Springfield, Ohio', 49, 66), ('June 12, 1948', 68, 81), ('Richmond, Indiana', 83, 100), ('a minstrel performer', 106, 126), ('vaudevillian and popular personality', 128, 164), ('the early days', 172, 186), ('"Singin\' Sam', 218, 230), ('the Barbasol Man', 232, 248), ('his long association', 254, 274), ('that company', 280, 292)]</spacy_chunks>
+<spacy_pos>['VBG', '``', 'NNP', 'RB', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', 'HYPH', 'CD', ',', 'CD', ',', 'NNP', ',', 'NNP', '-RRB-', 'VBD', 'DT', 'NN', 'NN', ',', 'JJ', 'CC', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NNS', 'IN', 'NN', '.', 'PRP', 'VBD', 'RBS', 'VBN', 'IN', '``', 'VBG', "''", 'NNP', ',', 'DT', 'NNP', 'NNP', "''", 'IN', 'PRP$', 'JJ', 'NN', 'IN', 'DT', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

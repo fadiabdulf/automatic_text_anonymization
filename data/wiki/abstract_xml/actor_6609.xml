@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Frank M. Thomas</title>
+<link/>https://en.wikipedia.org/wiki/Frank_M._Thomas
+<annotated>0</annotated>
+<originalabstract>Frank Marion Thomas (July 13, 1889 – November 25, 1989), was an American character actor of stage, screen and television fame. He and his wife, actress Mona Bruns, both lived to 100 years old. He died the day before her 90th birthday; she died 11 years later. Their son was Frankie Thomas.</originalabstract>
+<abstract>Frank_Marion_Thomas ( July_13_,_1889 – November_25_,_1989 ) , was an_American_character_actor of stage_,_screen_and_television_fame . He and his_wife , actress_Mona_Bruns , both lived to 100_years old . He died the_day before her_90th_birthday ; she died 11_years later . Their_son was Frankie_Thomas .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Frank'), (6, 'Marion'), (13, 'Thomas'), (20, '('), (21, 'July'), (26, '13'), (28, ','), (30, '1889'), (35, '–'), (37, 'November'), (46, '25'), (48, ','), (50, '1989'), (54, ')'), (55, ','), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'character'), (83, 'actor'), (89, 'of'), (92, 'stage'), (97, ','), (99, 'screen'), (106, 'and'), (110, 'television'), (121, 'fame'), (125, '.'), (127, 'He'), (130, 'and'), (134, 'his'), (138, 'wife'), (142, ','), (144, 'actress'), (152, 'Mona'), (157, 'Bruns'), (162, ','), (164, 'both'), (169, 'lived'), (175, 'to'), (178, '100'), (182, 'years'), (188, 'old'), (191, '.'), (193, 'He'), (196, 'died'), (201, 'the'), (205, 'day'), (209, 'before'), (216, 'her'), (220, '90th'), (225, 'birthday'), (233, ';'), (235, 'she'), (239, 'died'), (244, '11'), (247, 'years'), (253, 'later'), (258, '.'), (260, 'Their'), (266, 'son'), (270, 'was'), (274, 'Frankie'), (282, 'Thomas'), (288, '.')])</stanford_tokens>
+<opennlp_chunks>[('Frank Marion Thomas',0, 19), ('July 13, 1889',21, 34), ('November 25, 1989',37, 54), ('an American character actor',61, 88), ('stage, screen and television fame',92, 125), ('his wife',134, 142), ('actress Mona Bruns',144, 162), ('100 years',178, 187), ('the day',201, 208), ('her 90th birthday',216, 233), ('11 years',244, 252), ('Their son',260, 269), ('Frankie Thomas',274, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'CC', 'PRP$', 'NN', ',', 'NN', 'NNP', 'NNP', ',', 'DT', 'VBD', 'TO', 'CD', 'NNS', 'JJ', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'PRP$', 'JJ', 'NN', ':', 'PRP', 'VBD', 'CD', 'NNS', 'RB', '.', 'PRP$', 'NN', 'VBD', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Frank'), (6, 'Marion'), (13, 'Thomas'), (20, '('), (21, 'July'), (26, '13'), (28, ','), (30, '1889'), (35, '–'), (37, 'November'), (46, '25'), (48, ','), (50, '1989'), (54, ')'), (55, ','), (57, 'was'), (61, 'an'), (64, 'American'), (73, 'character'), (83, 'actor'), (89, 'of'), (92, 'stage'), (97, ','), (99, 'screen'), (106, 'and'), (110, 'television'), (121, 'fame'), (125, '.'), (127, 'He'), (130, 'and'), (134, 'his'), (138, 'wife'), (142, ','), (144, 'actress'), (152, 'Mona'), (157, 'Bruns'), (162, ','), (164, 'both'), (169, 'lived'), (175, 'to'), (178, '100'), (182, 'years'), (188, 'old'), (191, '.'), (193, 'He'), (196, 'died'), (201, 'the'), (205, 'day'), (209, 'before'), (216, 'her'), (220, '90th'), (225, 'birthday'), (233, ';'), (235, 'she'), (239, 'died'), (244, '11'), (247, 'years'), (253, 'later'), (258, '.'), (260, 'Their'), (266, 'son'), (270, 'was'), (274, 'Frankie'), (282, 'Thomas'), (288, '.')])</spacy_tokens>
+<spacy_chunks>[('Frank Marion Thomas', 0, 19), ('July 13, 1889', 21, 34), ('November 25, 1989', 37, 54), ('an American character actor', 61, 88), ('screen', 99, 105), ('television fame', 110, 125), ('his wife', 134, 142), ('Mona Bruns', 152, 162), ('her 90th birthday', 216, 233), ('Their son', 260, 269), ('Frankie Thomas', 274, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', ',', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'NN', ',', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'CC', 'PRP$', 'NN', ',', 'NN', 'NNP', 'NNP', ',', 'DT', 'VBD', 'IN', 'CD', 'NNS', 'JJ', '.', 'PRP', 'VBD', 'DT', 'NN', 'IN', 'PRP$', 'JJ', 'NN', ':', 'PRP', 'VBD', 'CD', 'NNS', 'RB', '.', 'PRP$', 'NN', 'VBD', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

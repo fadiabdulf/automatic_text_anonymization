@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Paul Ford</title>
+<link/>https://en.wikipedia.org/wiki/Paul_Ford
+<annotated>0</annotated>
+<originalabstract>Paul Ford (November 2, 1901 – April 12, 1976) was an American character actor who came to specialize in authority figures whose ineptitude and pompous demeanor were played for comic effect, notably as Mayor Shinn in The Music Man (1962) and as Colonel John T. Hall in The Phil Silvers Show.</originalabstract>
+<abstract>Paul_Ford ( November_2_,_1901 – April_12_,_1976 ) was an_American_character_actor who came to specialize in authority_figures whose_ineptitude_and_pompous_demeanor were_played for comic_effect , notably as Mayor_Shinn in The_Music_Man ( 1962 ) and as Colonel_John_T._Hall in The_Phil_Silvers_Show .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Paul'), (5, 'Ford'), (10, '('), (11, 'November'), (20, '2'), (21, ','), (23, '1901'), (28, '–'), (30, 'April'), (36, '12'), (38, ','), (40, '1976'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'character'), (72, 'actor'), (78, 'who'), (82, 'came'), (87, 'to'), (90, 'specialize'), (101, 'in'), (104, 'authority'), (114, 'figures'), (122, 'whose'), (128, 'ineptitude'), (139, 'and'), (143, 'pompous'), (151, 'demeanor'), (160, 'were'), (165, 'played'), (172, 'for'), (176, 'comic'), (182, 'effect'), (188, ','), (190, 'notably'), (198, 'as'), (201, 'Mayor'), (207, 'Shinn'), (213, 'in'), (216, 'The'), (220, 'Music'), (226, 'Man'), (230, '('), (231, '1962'), (235, ')'), (237, 'and'), (241, 'as'), (244, 'Colonel'), (252, 'John'), (257, 'T.'), (260, 'Hall'), (265, 'in'), (268, 'The'), (272, 'Phil'), (277, 'Silvers'), (285, 'Show'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('Paul Ford',0, 9), ('November 2, 1901',11, 27), ('April 12, 1976',30, 44), ('an American character actor',50, 77), ('authority figures',104, 121), ('whose ineptitude and pompous demeanor',122, 159), ('were played',160, 171), ('comic effect',176, 188), ('Mayor Shinn',201, 212), ('The Music Man',216, 229), ('Colonel John T. Hall',244, 264), ('The Phil Silvers Show',268, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'TO', 'VB', 'IN', 'NN', 'NNS', 'WP$', 'NN', 'CC', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'JJ', 'NN', ',', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Paul'), (5, 'Ford'), (10, '('), (11, 'November'), (20, '2'), (21, ','), (23, '1901'), (28, '–'), (30, 'April'), (36, '12'), (38, ','), (40, '1976'), (44, ')'), (46, 'was'), (50, 'an'), (53, 'American'), (62, 'character'), (72, 'actor'), (78, 'who'), (82, 'came'), (87, 'to'), (90, 'specialize'), (101, 'in'), (104, 'authority'), (114, 'figures'), (122, 'whose'), (128, 'ineptitude'), (139, 'and'), (143, 'pompous'), (151, 'demeanor'), (160, 'were'), (165, 'played'), (172, 'for'), (176, 'comic'), (182, 'effect'), (188, ','), (190, 'notably'), (198, 'as'), (201, 'Mayor'), (207, 'Shinn'), (213, 'in'), (216, 'The'), (220, 'Music'), (226, 'Man'), (230, '('), (231, '1962'), (235, ')'), (237, 'and'), (241, 'as'), (244, 'Colonel'), (252, 'John'), (257, 'T.'), (260, 'Hall'), (265, 'in'), (268, 'The'), (272, 'Phil'), (277, 'Silvers'), (285, 'Show'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('Paul Ford', 0, 9), ('(November', 10, 19), ('November 2, 1901', 11, 27), ('April 12, 1976', 30, 44), ('an American character actor', 50, 77), ('authority figures', 104, 121), ('whose ineptitude', 122, 138), ('pompous demeanor', 143, 159), ('comic effect', 176, 188), ('Mayor Shinn', 201, 212), ('The Music Man (1962', 216, 235), ('Colonel John T. Hall', 244, 264), ('The Phil Silvers Show', 268, 289)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'WP', 'VBD', 'TO', 'VB', 'IN', 'NN', 'NNS', 'WP$', 'NN', 'CC', 'JJ', 'NN', 'VBD', 'VBN', 'IN', 'JJ', 'NN', ',', 'RB', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', '-LRB-', 'CD', '-RRB-', 'CC', 'IN', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

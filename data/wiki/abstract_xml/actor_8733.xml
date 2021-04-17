@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Tom McGuire (actor)</title>
+<link/>https://en.wikipedia.org/wiki/Tom_McGuire_(actor)
+<annotated>0</annotated>
+<originalabstract>Tom McGuire (1 September 1873 – 6 May 1954) was an English stage and film actor. He appeared in about 175 films between 1919 and 1949. He was born in Lancashire, England and died in Hollywood, California.</originalabstract>
+<abstract>Tom_McGuire ( 1_September_1873 – 6_May_1954 ) was an_English_stage_and_film_actor . He appeared in about_175_films between 1919_and_1949 . He was_born in Lancashire , England and died in Hollywood , California .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Tom'), (4, 'McGuire'), (12, '('), (13, '1'), (15, 'September'), (25, '1873'), (30, '–'), (32, '6'), (34, 'May'), (38, '1954'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'English'), (59, 'stage'), (65, 'and'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'appeared'), (93, 'in'), (96, 'about'), (102, '175'), (106, 'films'), (112, 'between'), (120, '1919'), (125, 'and'), (129, '1949'), (133, '.'), (135, 'He'), (138, 'was'), (142, 'born'), (147, 'in'), (150, 'Lancashire'), (160, ','), (162, 'England'), (170, 'and'), (174, 'died'), (179, 'in'), (182, 'Hollywood'), (191, ','), (193, 'California'), (203, '.')])</stanford_tokens>
+<opennlp_chunks>[('Tom McGuire',0, 11), ('1 September 1873',13, 29), ('6 May 1954',32, 42), ('an English stage and film actor',48, 79), ('about 175 films',96, 111), ('1919 and 1949',120, 133), ('was born',138, 146)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Tom'), (4, 'McGuire'), (12, '('), (13, '1'), (15, 'September'), (25, '1873'), (30, '–'), (32, '6'), (34, 'May'), (38, '1954'), (42, ')'), (44, 'was'), (48, 'an'), (51, 'English'), (59, 'stage'), (65, 'and'), (69, 'film'), (74, 'actor'), (79, '.'), (81, 'He'), (84, 'appeared'), (93, 'in'), (96, 'about'), (102, '175'), (106, 'films'), (112, 'between'), (120, '1919'), (125, 'and'), (129, '1949'), (133, '.'), (135, 'He'), (138, 'was'), (142, 'born'), (147, 'in'), (150, 'Lancashire'), (160, ','), (162, 'England'), (170, 'and'), (174, 'died'), (179, 'in'), (182, 'Hollywood'), (191, ','), (193, 'California'), (203, '.')])</spacy_tokens>
+<spacy_chunks>[('Tom McGuire', 0, 11), ('(1 September', 12, 24), ('1 September 1873', 13, 29), ('6 May 1954', 32, 42), ('an English stage', 48, 64), ('film actor', 69, 79), ('about 175 films', 96, 111), ('Lancashire', 150, 160), ('England', 162, 169), ('Hollywood', 182, 191), ('California', 193, 203)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', 'NN', '.', 'PRP', 'VBD', 'IN', 'RB', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'PRP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

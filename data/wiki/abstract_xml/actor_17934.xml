@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Ashley Madekwe</title>
+<link/>https://en.wikipedia.org/wiki/Ashley_Madekwe
+<annotated>0</annotated>
+<originalabstract>Ashley Madekwe (born 6 December 1983) is a Nigerian English actress. She is known for her roles as call girl Bambi in the ITV2 series Secret Diary of a Call Girl, social climber Ashley Davenport on the ABC drama series Revenge and the witch Tituba in the WGN America series Salem.</originalabstract>
+<abstract>Ashley_Madekwe ( born_6_December_1983 ) is a_Nigerian_English_actress . She is_known for her_roles as call_girl_Bambi in the_ITV2_series_Secret_Diary of a_Call_Girl_,_social_climber_Ashley_Davenport on the_ABC_drama_series_Revenge and the_witch Tituba in the_WGN_America_series_Salem .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Ashley'), (7, 'Madekwe'), (15, '('), (16, 'born'), (21, '6'), (23, 'December'), (32, '1983'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'Nigerian'), (52, 'English'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'is'), (76, 'known'), (82, 'for'), (86, 'her'), (90, 'roles'), (96, 'as'), (99, 'call'), (104, 'girl'), (109, 'Bambi'), (115, 'in'), (118, 'the'), (122, 'ITV2'), (127, 'series'), (134, 'Secret'), (141, 'Diary'), (147, 'of'), (150, 'a'), (152, 'Call'), (157, 'Girl'), (161, ','), (163, 'social'), (170, 'climber'), (178, 'Ashley'), (185, 'Davenport'), (195, 'on'), (198, 'the'), (202, 'ABC'), (206, 'drama'), (212, 'series'), (219, 'Revenge'), (227, 'and'), (231, 'the'), (235, 'witch'), (241, 'Tituba'), (248, 'in'), (251, 'the'), (255, 'WGN'), (259, 'America'), (267, 'series'), (274, 'Salem'), (279, '.')])</stanford_tokens>
+<opennlp_chunks>[('Ashley Madekwe',0, 14), ('born 6 December 1983',16, 36), ('a Nigerian English actress',41, 67), ('is known',73, 81), ('her roles',86, 95), ('call girl Bambi',99, 114), ('the ITV2 series Secret Diary',118, 146), ('a Call Girl, social climber Ashley Davenport',150, 194), ('the ABC drama series Revenge',198, 226), ('the witch',231, 240), ('the WGN America series Salem',251, 279)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NNP', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'JJ', 'NN', 'NNP', 'IN', 'DT', 'NN', 'NN', 'JJ', 'NN', 'IN', 'DT', 'NN', 'NNP', ',', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NN', 'CC', 'DT', 'NN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Ashley'), (7, 'Madekwe'), (15, '('), (16, 'born'), (21, '6'), (23, 'December'), (32, '1983'), (36, ')'), (38, 'is'), (41, 'a'), (43, 'Nigerian'), (52, 'English'), (60, 'actress'), (67, '.'), (69, 'She'), (73, 'is'), (76, 'known'), (82, 'for'), (86, 'her'), (90, 'roles'), (96, 'as'), (99, 'call'), (104, 'girl'), (109, 'Bambi'), (115, 'in'), (118, 'the'), (122, 'ITV2'), (127, 'series'), (134, 'Secret'), (141, 'Diary'), (147, 'of'), (150, 'a'), (152, 'Call'), (157, 'Girl'), (161, ','), (163, 'social'), (170, 'climber'), (178, 'Ashley'), (185, 'Davenport'), (195, 'on'), (198, 'the'), (202, 'ABC'), (206, 'drama'), (212, 'series'), (219, 'Revenge'), (227, 'and'), (231, 'the'), (235, 'witch'), (241, 'Tituba'), (248, 'in'), (251, 'the'), (255, 'WGN'), (259, 'America'), (267, 'series'), (274, 'Salem'), (279, '.')])</spacy_tokens>
+<spacy_chunks>[('Ashley Madekwe', 0, 14), ('6 December 1983', 21, 36), ('a Nigerian English actress', 41, 67), ('her roles', 86, 95), ('call girl Bambi', 99, 114), ('the ITV2 series', 118, 133), ('Secret Diary of a Call Girl', 134, 161), ('social climber Ashley Davenport', 163, 194), ('the ABC drama series Revenge', 198, 226), ('the witch', 231, 240), ('Tituba', 241, 247), ('the WGN America series', 251, 273)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'PRP$', 'NNS', 'IN', 'NN', 'NN', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NNP', ',', 'JJ', 'NN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'CC', 'DT', 'NN', 'NNP', 'IN', 'DT', 'NNP', 'NNP', 'NN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Nick Wilton</title>
+<link/>https://en.wikipedia.org/wiki/Nick_Wilton
+<annotated>0</annotated>
+<originalabstract>Nicholas Wilton (born 8 March 1957) is an English actor and scriptwriter. Best known for playing Mr Lister in the BBC soap opera EastEnders as a recurring character, Wilton has also appeared in Carrott's Lib, Fast Forward  and Jackanory.</originalabstract>
+<abstract>Nicholas_Wilton ( born 8_March_1957 ) is an_English_actor_and_scriptwriter . Best known for playing Mr_Lister in the_BBC_soap_opera_EastEnders as a_recurring_character , Wilton has_also_appeared in Carrott 's_Lib , Fast_Forward and Jackanory .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Nicholas'), (9, 'Wilton'), (16, '('), (17, 'born'), (22, '8'), (24, 'March'), (30, '1957'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actor'), (56, 'and'), (60, 'scriptwriter'), (72, '.'), (74, 'Best'), (79, 'known'), (85, 'for'), (89, 'playing'), (97, 'Mr'), (100, 'Lister'), (107, 'in'), (110, 'the'), (114, 'BBC'), (118, 'soap'), (123, 'opera'), (129, 'EastEnders'), (140, 'as'), (143, 'a'), (145, 'recurring'), (155, 'character'), (164, ','), (166, 'Wilton'), (173, 'has'), (177, 'also'), (182, 'appeared'), (191, 'in'), (194, 'Carrott'), (201, '\'s'), (204, 'Lib'), (207, ','), (209, 'Fast'), (214, 'Forward'), (223, 'and'), (227, 'Jackanory'), (236, '.')])</stanford_tokens>
+<opennlp_chunks>[('Nicholas Wilton',0, 15), ('8 March 1957',22, 34), ('an English actor and scriptwriter',39, 72), ('Mr Lister',97, 106), ('the BBC soap opera EastEnders',110, 139), ('a recurring character',143, 164), ('has also appeared',173, 190), ('\'s Lib',201, 207), ('Fast Forward',209, 221)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'JJS', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'IN', 'DT', 'VBG', 'NN', ',', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'POS', 'NNP', ',', 'JJ', 'RB', 'CC', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Nicholas'), (9, 'Wilton'), (16, '('), (17, 'born'), (22, '8'), (24, 'March'), (30, '1957'), (34, ')'), (36, 'is'), (39, 'an'), (42, 'English'), (50, 'actor'), (56, 'and'), (60, 'scriptwriter'), (72, '.'), (74, 'Best'), (79, 'known'), (85, 'for'), (89, 'playing'), (97, 'Mr'), (100, 'Lister'), (107, 'in'), (110, 'the'), (114, 'BBC'), (118, 'soap'), (123, 'opera'), (129, 'EastEnders'), (140, 'as'), (143, 'a'), (145, 'recurring'), (155, 'character'), (164, ','), (166, 'Wilton'), (173, 'has'), (177, 'also'), (182, 'appeared'), (191, 'in'), (194, 'Carrott'), (201, "'s"), (204, 'Lib'), (207, ','), (209, 'Fast'), (214, 'Forward'), (223, 'and'), (227, 'Jackanory'), (236, '.')])</spacy_tokens>
+<spacy_chunks>[('Nicholas Wilton', 0, 15), ('8 March 1957', 22, 34), ('an English actor', 39, 55), ('scriptwriter', 60, 72), ('Mr Lister', 97, 106), ('the BBC soap opera', 110, 128), ('EastEnders', 129, 139), ('a recurring character', 143, 164), ("Carrott's Lib", 194, 207), ('Fast Forward', 209, 221), ('Jackanory', 227, 236)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'CC', 'NN', '.', 'RBS', 'JJ', 'IN', 'VBG', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'IN', 'DT', 'VBG', 'NN', ',', 'NNP', 'VBZ', 'RB', 'VBN', 'IN', 'NNP', 'POS', 'NNP', ',', 'JJ', 'NNP', 'CC', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

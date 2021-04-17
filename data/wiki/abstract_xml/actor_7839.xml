@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Sydney Chaplin</title>
+<link/>https://en.wikipedia.org/wiki/Sydney_Chaplin
+<annotated>0</annotated>
+<originalabstract>Sydney John Chaplin (born Sydney John Hill, 16 March 1885 – 16 April 1965) was an English actor. He was the elder half-brother of Sir Charlie Chaplin and served as his business manager, and was the a half-uncle of the actor Sydney Chaplin (1926–2009), who was named after him.</originalabstract>
+<abstract>Sydney_John_Chaplin ( born Sydney_John_Hill , 16_March_1885 – 16_April_1965 ) was an_English_actor . He was the_elder_half-brother of Sir_Charlie_Chaplin and served as his_business_manager , and was the_a_half-uncle of the_actor_Sydney_Chaplin_(_1926 – 2009_) , who was_named after him .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Sydney'), (7, 'John'), (12, 'Chaplin'), (20, '('), (21, 'born'), (26, 'Sydney'), (33, 'John'), (38, 'Hill'), (42, ','), (44, '16'), (47, 'March'), (53, '1885'), (58, '–'), (60, '16'), (63, 'April'), (69, '1965'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'English'), (90, 'actor'), (95, '.'), (97, 'He'), (100, 'was'), (104, 'the'), (108, 'elder'), (114, 'half-brother'), (127, 'of'), (130, 'Sir'), (134, 'Charlie'), (142, 'Chaplin'), (150, 'and'), (154, 'served'), (161, 'as'), (164, 'his'), (168, 'business'), (177, 'manager'), (184, ','), (186, 'and'), (190, 'was'), (194, 'the'), (198, 'a'), (200, 'half-uncle'), (211, 'of'), (214, 'the'), (218, 'actor'), (224, 'Sydney'), (231, 'Chaplin'), (239, '('), (240, '1926'), (244, '–'), (245, '2009'), (249, ')'), (250, ','), (252, 'who'), (256, 'was'), (260, 'named'), (266, 'after'), (272, 'him'), (275, '.')])</stanford_tokens>
+<opennlp_chunks>[('Sydney John Chaplin',0, 19), ('Sydney John Hill',26, 42), ('16 March 1885',44, 57), ('16 April 1965',60, 73), ('an English actor',79, 95), ('the elder half-brother',104, 126), ('Sir Charlie Chaplin',130, 149), ('his business manager',164, 184), ('the a half-uncle',194, 210), ('the actor Sydney Chaplin (1926',214, 244), ('2009)',245, 250), ('was named',256, 265)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'NNP', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJR', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'PRP$', 'NN', 'NN', ',', 'CC', 'VBD', 'DT', 'DT', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', ':', 'CD', '-RRB-', ',', 'WP', 'VBD', 'VBN', 'IN', 'PRP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Sydney'), (7, 'John'), (12, 'Chaplin'), (20, '('), (21, 'born'), (26, 'Sydney'), (33, 'John'), (38, 'Hill'), (42, ','), (44, '16'), (47, 'March'), (53, '1885'), (58, '–'), (60, '16'), (63, 'April'), (69, '1965'), (73, ')'), (75, 'was'), (79, 'an'), (82, 'English'), (90, 'actor'), (95, '.'), (97, 'He'), (100, 'was'), (104, 'the'), (108, 'elder'), (114, 'half'), (118, '-'), (119, 'brother'), (127, 'of'), (130, 'Sir'), (134, 'Charlie'), (142, 'Chaplin'), (150, 'and'), (154, 'served'), (161, 'as'), (164, 'his'), (168, 'business'), (177, 'manager'), (184, ','), (186, 'and'), (190, 'was'), (194, 'the'), (198, 'a'), (200, 'half'), (204, '-'), (205, 'uncle'), (211, 'of'), (214, 'the'), (218, 'actor'), (224, 'Sydney'), (231, 'Chaplin'), (239, '('), (240, '1926–2009'), (249, ')'), (250, ','), (252, 'who'), (256, 'was'), (260, 'named'), (266, 'after'), (272, 'him'), (275, '.')])</spacy_tokens>
+<spacy_chunks>[('Sydney John Chaplin', 0, 19), ('born Sydney John Hill', 21, 42), ('16 March 1885', 44, 57), ('16 April 1965', 60, 73), ('an English actor', 79, 95), ('the elder half-brother', 104, 126), ('Sir Charlie Chaplin', 130, 149), ('his business manager', 164, 184), ('the a half-uncle', 194, 210), ('the actor', 214, 223), ('Sydney Chaplin', 224, 238)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'DT', 'JJR', 'JJ', 'HYPH', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'VBD', 'IN', 'PRP$', 'NN', 'NN', ',', 'CC', 'VBD', 'DT', 'DT', 'JJ', 'HYPH', 'NN', 'IN', 'DT', 'NN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'WP', 'VBD', 'VBN', 'IN', 'PRP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

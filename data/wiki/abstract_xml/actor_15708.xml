@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Cindy Vela</title>
+<link/>https://en.wikipedia.org/wiki/Cindy_Vela
+<annotated>0</annotated>
+<originalabstract>Cindy Vela (born January 4, 1979) is an American actress, model, and saxophonist. She has appeared in Black November (2012), Endgame (2015), and Camino (2016).</originalabstract>
+<abstract>Cindy_Vela ( born January_4_,_1979 ) is an_American_actress , model , and saxophonist . She has_appeared in Black_November_(_2012_) , Endgame_(_2015_) , and Camino_(_2016_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Cindy'), (6, 'Vela'), (11, '('), (12, 'born'), (17, 'January'), (25, '4'), (26, ','), (28, '1979'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actress'), (56, ','), (58, 'model'), (63, ','), (65, 'and'), (69, 'saxophonist'), (80, '.'), (82, 'She'), (86, 'has'), (90, 'appeared'), (99, 'in'), (102, 'Black'), (108, 'November'), (117, '('), (118, '2012'), (122, ')'), (123, ','), (125, 'Endgame'), (133, '('), (134, '2015'), (138, ')'), (139, ','), (141, 'and'), (145, 'Camino'), (152, '('), (153, '2016'), (157, ')'), (158, '.')])</stanford_tokens>
+<opennlp_chunks>[('Cindy Vela',0, 10), ('January 4, 1979',17, 32), ('an American actress',37, 56), ('has appeared',86, 98), ('Black November (2012)',102, 123), ('Endgame (2015)',125, 139), ('Camino (2016)',145, 158)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'JJ', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Cindy'), (6, 'Vela'), (11, '('), (12, 'born'), (17, 'January'), (25, '4'), (26, ','), (28, '1979'), (32, ')'), (34, 'is'), (37, 'an'), (40, 'American'), (49, 'actress'), (56, ','), (58, 'model'), (63, ','), (65, 'and'), (69, 'saxophonist'), (80, '.'), (82, 'She'), (86, 'has'), (90, 'appeared'), (99, 'in'), (102, 'Black'), (108, 'November'), (117, '('), (118, '2012'), (122, ')'), (123, ','), (125, 'Endgame'), (133, '('), (134, '2015'), (138, ')'), (139, ','), (141, 'and'), (145, 'Camino'), (152, '('), (153, '2016'), (157, ')'), (158, '.')])</spacy_tokens>
+<spacy_chunks>[('Cindy Vela', 0, 10), ('January 4, 1979', 17, 32), ('an American actress', 37, 56), ('Saxophonist', 69, 80), ('Black November', 102, 116), ('Endgame (2015', 125, 138), ('Camino (2016', 145, 157)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'NNP', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'NNP', '-LRB-', 'CD', '-RRB-', ',', 'CC', 'NNP', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Samy Naceri</title>
+<link/>https://en.wikipedia.org/wiki/Samy_Naceri
+<annotated>0</annotated>
+<originalabstract>Saïd "Samy" Naceri (French: [sami naseʁi]; born 2 July 1961) is a French actor known for his work in the four Taxi films and The Code (La Mentale).</originalabstract>
+<abstract>Saïd_"_Samy_"_Naceri ( French : [_sami_naseʁi_] ; born_2_July_1961 ) is a_French_actor known for his_work in the_four_Taxi_films and The_Code ( La_Mentale ) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Saïd'), (5, '"'), (6, 'Samy'), (10, '"'), (12, 'Naceri'), (19, '('), (20, 'French'), (26, ':'), (28, '['), (29, 'sami'), (34, 'naseʁi'), (40, ']'), (41, ';'), (43, 'born'), (48, '2'), (50, 'July'), (55, '1961'), (59, ')'), (61, 'is'), (64, 'a'), (66, 'French'), (73, 'actor'), (79, 'known'), (85, 'for'), (89, 'his'), (93, 'work'), (98, 'in'), (101, 'the'), (105, 'four'), (110, 'Taxi'), (115, 'films'), (121, 'and'), (125, 'The'), (129, 'Code'), (134, '('), (135, 'La'), (138, 'Mentale'), (145, ')'), (146, '.')])</stanford_tokens>
+<opennlp_chunks>[('Saïd "Samy" Naceri',0, 18), ('[sami naseʁi]',28, 41), ('born 2 July 1961',43, 59), ('a French actor',64, 78), ('his work',89, 97), ('the four Taxi films',101, 120), ('The Code',125, 133), ('La Mentale',135, 145)]</opennlp_chunks>
+<stanford_pos>['NNP', '``', 'NNP', '\'\'', 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'FW', 'FW', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NN', 'NNS', 'CC', 'DT', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Saïd'), (5, '"'), (6, 'Samy'), (10, '"'), (12, 'Naceri'), (19, '('), (20, 'French'), (26, ':'), (28, '['), (29, 'sami'), (34, 'naseʁi'), (40, ']'), (41, ';'), (43, 'born'), (48, '2'), (50, 'July'), (55, '1961'), (59, ')'), (61, 'is'), (64, 'a'), (66, 'French'), (73, 'actor'), (79, 'known'), (85, 'for'), (89, 'his'), (93, 'work'), (98, 'in'), (101, 'the'), (105, 'four'), (110, 'Taxi'), (115, 'films'), (121, 'and'), (125, 'The'), (129, 'Code'), (134, '('), (135, 'La'), (138, 'Mentale'), (145, ')'), (146, '.')])</spacy_tokens>
+<spacy_chunks>[('Saïd "Samy" Naceri', 0, 18), ('(French', 19, 26), ('2 July 1961', 48, 59), ('a French actor', 64, 78), ('his work', 89, 97), ('the four Taxi films', 101, 120), ('The Code', 125, 133), ('La Mentale', 135, 145)]</spacy_chunks>
+<spacy_pos>['NNP', '``', 'NNP', "''", 'NNP', '-LRB-', 'NNP', ':', '-LRB-', 'NNP', 'NNP', '-RRB-', ':', 'VBN', 'CD', 'NNP', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'DT', 'CD', 'NNP', 'NNS', 'CC', 'DT', 'NNP', '-LRB-', 'NNP', 'NNP', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

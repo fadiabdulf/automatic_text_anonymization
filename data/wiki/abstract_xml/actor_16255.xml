@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Rosario Soler</title>
+<link/>https://en.wikipedia.org/wiki/Rosario_Soler
+<annotated>0</annotated>
+<originalabstract>Rosario Soler (nickname, "La Patita"; Málaga, 16 August 1879 - Malaga, 22 November 1944) was a Spanish actress and singer.</originalabstract>
+<abstract>Rosario_Soler ( nickname , " La_Patita_" ; Málaga , 16_August_1879 - Malaga , 22_November_1944 ) was a_Spanish_actress_and_singer .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Rosario'), (8, 'Soler'), (14, '('), (15, 'nickname'), (23, ','), (25, '"'), (26, 'La'), (29, 'Patita'), (35, '"'), (36, ';'), (38, 'Málaga'), (44, ','), (46, '16'), (49, 'August'), (56, '1879'), (61, '-'), (63, 'Malaga'), (69, ','), (71, '22'), (74, 'November'), (83, '1944'), (87, ')'), (89, 'was'), (93, 'a'), (95, 'Spanish'), (103, 'actress'), (111, 'and'), (115, 'singer'), (121, '.')])</stanford_tokens>
+<opennlp_chunks>[('Rosario Soler',0, 13), ('La Patita"',26, 36), ('16 August 1879',46, 60), ('22 November 1944',71, 87), ('a Spanish actress and singer',93, 121)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NN', ',', '``', 'NNP', 'NNP', '\'\'', ':', 'NNP', ',', 'CD', 'NNP', 'NNS', ':', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Rosario'), (8, 'Soler'), (14, '('), (15, 'nickname'), (23, ','), (25, '"'), (26, 'La'), (29, 'Patita'), (35, '"'), (36, ';'), (38, 'Málaga'), (44, ','), (46, '16'), (49, 'August'), (56, '1879'), (61, '-'), (63, 'Malaga'), (69, ','), (71, '22'), (74, 'November'), (83, '1944'), (87, ')'), (89, 'was'), (93, 'a'), (95, 'Spanish'), (103, 'actress'), (111, 'and'), (115, 'singer'), (121, '.')])</spacy_tokens>
+<spacy_chunks>[('Rosario Soler', 0, 13), ('nickname', 15, 23), ('"La Patita', 25, 35), ('Málaga', 38, 44), ('16 August 1879', 46, 60), ('- Malaga', 61, 69), ('22 November 1944', 71, 87), ('a Spanish actress', 93, 110), ('singer', 115, 121)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NN', ',', '``', 'NNP', 'NNP', "''", ':', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'NNP', ',', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'CC', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

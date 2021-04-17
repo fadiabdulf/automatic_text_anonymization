@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Creighton Hale</title>
+<link/>https://en.wikipedia.org/wiki/Creighton_Hale
+<annotated>0</annotated>
+<originalabstract>Creighton Hale (born Patrick Fitzgerald, 24 May 1882 – 9 August 1965) was an Irish-American theatre, film, and television actor whose career extended more than a half-century, from the early 1900s to the end of the 1950s.</originalabstract>
+<abstract>Creighton_Hale ( born Patrick_Fitzgerald , 24_May_1882 – 9_August_1965 ) was an_Irish-American_theatre , film , and television_actor whose_career extended more_than_a_half-century , from the_early_1900s to the_end of the_1950s .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Creighton'), (10, 'Hale'), (15, '('), (16, 'born'), (21, 'Patrick'), (29, 'Fitzgerald'), (39, ','), (41, '24'), (44, 'May'), (48, '1882'), (53, '–'), (55, '9'), (57, 'August'), (64, '1965'), (68, ')'), (70, 'was'), (74, 'an'), (77, 'Irish-American'), (92, 'theatre'), (99, ','), (101, 'film'), (105, ','), (107, 'and'), (111, 'television'), (122, 'actor'), (128, 'whose'), (134, 'career'), (141, 'extended'), (150, 'more'), (155, 'than'), (160, 'a'), (162, 'half-century'), (174, ','), (176, 'from'), (181, 'the'), (185, 'early'), (191, '1900s'), (197, 'to'), (200, 'the'), (204, 'end'), (208, 'of'), (211, 'the'), (215, '1950s'), (220, '.')])</stanford_tokens>
+<opennlp_chunks>[('Creighton Hale',0, 14), ('Patrick Fitzgerald',21, 39), ('24 May 1882',41, 52), ('9 August 1965',55, 68), ('an Irish-American theatre',74, 99), ('television actor',111, 127), ('whose career',128, 140), ('more than a half-century',150, 174), ('the early 1900s',181, 196), ('the end',200, 207), ('the 1950s',211, 220)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', ':', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'JJR', 'IN', 'DT', 'NN', ',', 'IN', 'DT', 'JJ', 'CD', 'TO', 'DT', 'NN', 'IN', 'DT', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Creighton'), (10, 'Hale'), (15, '('), (16, 'born'), (21, 'Patrick'), (29, 'Fitzgerald'), (39, ','), (41, '24'), (44, 'May'), (48, '1882'), (53, '–'), (55, '9'), (57, 'August'), (64, '1965'), (68, ')'), (70, 'was'), (74, 'an'), (77, 'Irish'), (82, '-'), (83, 'American'), (92, 'theatre'), (99, ','), (101, 'film'), (105, ','), (107, 'and'), (111, 'television'), (122, 'actor'), (128, 'whose'), (134, 'career'), (141, 'extended'), (150, 'more'), (155, 'than'), (160, 'a'), (162, 'half'), (166, '-'), (167, 'century'), (174, ','), (176, 'from'), (181, 'the'), (185, 'early'), (191, '1900s'), (197, 'to'), (200, 'the'), (204, 'end'), (208, 'of'), (211, 'the'), (215, '1950s'), (220, '.')])</spacy_tokens>
+<spacy_chunks>[('Creighton Hale', 0, 14), ('born Patrick Fitzgerald', 16, 39), ('24 May 1882', 41, 52), ('9 August 1965', 55, 68), ('an Irish-American theatre', 74, 99), ('television actor', 111, 127), ('whose career', 128, 140), ('a half-century', 160, 174), ('the end', 200, 207), ('the 1950s', 211, 220)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', ',', 'CD', 'NNP', 'CD', 'SYM', 'CD', 'NNP', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'HYPH', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'NN', 'WP$', 'NN', 'VBD', 'JJR', 'IN', 'DT', 'JJ', 'HYPH', 'NN', ',', 'IN', 'DT', 'JJ', 'CD', 'IN', 'DT', 'NN', 'IN', 'DT', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

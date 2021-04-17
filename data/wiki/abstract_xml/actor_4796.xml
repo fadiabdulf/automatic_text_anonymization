@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Jack Mulhall</title>
+<link/>https://en.wikipedia.org/wiki/Jack_Mulhall
+<annotated>0</annotated>
+<originalabstract>John Joseph Francis Mulhall (October 7, 1887 – June 1, 1979) was an American film actor beginning in the silent film era who successfully transitioned to sound films, appearing in over 430 films in a career spanning 50 years.</originalabstract>
+<abstract>John_Joseph_Francis_Mulhall ( October_7_,_1887 – June_1_,_1979 ) was an_American_film_actor beginning in the_silent_film_era who successfully transitioned_to_sound films , appearing in over_430_films in a_career spanning 50_years .</abstract>
+<stanford_tokens>OrderedDict([(0, 'John'), (5, 'Joseph'), (12, 'Francis'), (20, 'Mulhall'), (28, '('), (29, 'October'), (37, '7'), (38, ','), (40, '1887'), (45, '–'), (47, 'June'), (52, '1'), (53, ','), (55, '1979'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'film'), (82, 'actor'), (88, 'beginning'), (98, 'in'), (101, 'the'), (105, 'silent'), (112, 'film'), (117, 'era'), (121, 'who'), (125, 'successfully'), (138, 'transitioned'), (151, 'to'), (154, 'sound'), (160, 'films'), (165, ','), (167, 'appearing'), (177, 'in'), (180, 'over'), (185, '430'), (189, 'films'), (195, 'in'), (198, 'a'), (200, 'career'), (207, 'spanning'), (216, '50'), (219, 'years'), (224, '.')])</stanford_tokens>
+<opennlp_chunks>[('John Joseph Francis Mulhall',0, 27), ('October 7, 1887',29, 44), ('June 1, 1979',47, 59), ('an American film actor',65, 87), ('the silent film era',101, 120), ('transitioned to sound',138, 159), ('over 430 films',180, 194), ('a career',198, 206), ('50 years',216, 224)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'VBG', 'IN', 'DT', 'JJ', 'NN', 'NN', 'WP', 'RB', 'VBD', 'TO', 'VB', 'NNS', ',', 'VBG', 'IN', 'IN', 'CD', 'NNS', 'IN', 'DT', 'NN', 'VBG', 'CD', 'NNS', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'John'), (5, 'Joseph'), (12, 'Francis'), (20, 'Mulhall'), (28, '('), (29, 'October'), (37, '7'), (38, ','), (40, '1887'), (45, '–'), (47, 'June'), (52, '1'), (53, ','), (55, '1979'), (59, ')'), (61, 'was'), (65, 'an'), (68, 'American'), (77, 'film'), (82, 'actor'), (88, 'beginning'), (98, 'in'), (101, 'the'), (105, 'silent'), (112, 'film'), (117, 'era'), (121, 'who'), (125, 'successfully'), (138, 'transitioned'), (151, 'to'), (154, 'sound'), (160, 'films'), (165, ','), (167, 'appearing'), (177, 'in'), (180, 'over'), (185, '430'), (189, 'films'), (195, 'in'), (198, 'a'), (200, 'career'), (207, 'spanning'), (216, '50'), (219, 'years'), (224, '.')])</spacy_tokens>
+<spacy_chunks>[('John Joseph Francis Mulhall', 0, 27), ('October 7, 1887', 29, 44), ('June 1, 1979', 47, 59), ('an American film actor', 65, 87), ('In the', 98, 104), ('the silent film era', 101, 120), ('sound films', 154, 165), ('over 430 films', 180, 194), ('a career', 198, 206), ('50 years', 216, 224)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'VBG', 'IN', 'DT', 'JJ', 'NN', 'NN', 'WP', 'RB', 'VBD', 'TO', 'VB', 'NNS', ',', 'VBG', 'RB', 'IN', 'CD', 'NNS', 'IN', 'DT', 'NN', 'VBG', 'CD', 'NNS', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

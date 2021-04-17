@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Maia Campbell</title>
+<link/>https://en.wikipedia.org/wiki/Maia_Campbell
+<annotated>0</annotated>
+<originalabstract>Maia Chinassa Campbell (born November 26, 1976) is an American film, television actress and model. She is best known for her role as Nicole on the 1994 FOX comedy-drama series South Central and her portrayal of Tiffany Warren in the NBC/UPN sitcom In the House for five seasons (1995–1998).</originalabstract>
+<abstract>Maia_Chinassa_Campbell ( born November_26_,_1976 ) is an_American_film , television_actress_and_model . She is_best_known for her_role as Nicole on the_1994_FOX_comedy-drama_series_South_Central and her_portrayal of Tiffany_Warren in the_NBC/UPN_sitcom In the_House for five_seasons_(_1995 – 1998_) .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Maia'), (5, 'Chinassa'), (14, 'Campbell'), (23, '('), (24, 'born'), (29, 'November'), (38, '26'), (40, ','), (42, '1976'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'film'), (67, ','), (69, 'television'), (80, 'actress'), (88, 'and'), (92, 'model'), (97, '.'), (99, 'She'), (103, 'is'), (106, 'best'), (111, 'known'), (117, 'for'), (121, 'her'), (125, 'role'), (130, 'as'), (133, 'Nicole'), (140, 'on'), (143, 'the'), (147, '1994'), (152, 'FOX'), (156, 'comedy-drama'), (169, 'series'), (176, 'South'), (182, 'Central'), (190, 'and'), (194, 'her'), (198, 'portrayal'), (208, 'of'), (211, 'Tiffany'), (219, 'Warren'), (226, 'in'), (229, 'the'), (233, 'NBC/UPN'), (241, 'sitcom'), (248, 'In'), (251, 'the'), (255, 'House'), (261, 'for'), (265, 'five'), (270, 'seasons'), (278, '('), (279, '1995'), (283, '–'), (284, '1998'), (288, ')'), (289, '.')])</stanford_tokens>
+<opennlp_chunks>[('Maia Chinassa Campbell',0, 22), ('November 26, 1976',29, 46), ('an American film',51, 67), ('television actress and model',69, 97), ('is best known',103, 116), ('her role',121, 129), ('the 1994 FOX comedy-drama series South Central',143, 189), ('her portrayal',194, 207), ('Tiffany Warren',211, 225), ('the NBC/UPN sitcom',229, 247), ('the House',251, 260), ('five seasons (1995',265, 283), ('1998)',284, 289)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RB', 'VBN', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NN', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'NNP', 'IN', 'CD', 'NNS', '-LRB-', 'CD', ':', 'CD', '-RRB-', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Maia'), (5, 'Chinassa'), (14, 'Campbell'), (23, '('), (24, 'born'), (29, 'November'), (38, '26'), (40, ','), (42, '1976'), (46, ')'), (48, 'is'), (51, 'an'), (54, 'American'), (63, 'film'), (67, ','), (69, 'television'), (80, 'actress'), (88, 'and'), (92, 'model'), (97, '.'), (99, 'She'), (103, 'is'), (106, 'best'), (111, 'known'), (117, 'for'), (121, 'her'), (125, 'role'), (130, 'as'), (133, 'Nicole'), (140, 'on'), (143, 'the'), (147, '1994'), (152, 'FOX'), (156, 'comedy'), (162, '-'), (163, 'drama'), (169, 'series'), (176, 'South'), (182, 'Central'), (190, 'and'), (194, 'her'), (198, 'portrayal'), (208, 'of'), (211, 'Tiffany'), (219, 'Warren'), (226, 'in'), (229, 'the'), (233, 'NBC'), (236, '/'), (237, 'UPN'), (241, 'sitcom'), (248, 'In'), (251, 'the'), (255, 'House'), (261, 'for'), (265, 'five'), (270, 'seasons'), (278, '('), (279, '1995–1998'), (288, ')'), (289, '.')])</spacy_tokens>
+<spacy_chunks>[('Maia Chinassa Campbell', 0, 22), ('November 26, 1976', 29, 46), ('an American film', 51, 67), ('television actress', 69, 87), ('her role', 121, 129), ('Nicole', 133, 139), ('the 1994 FOX comedy-drama series', 143, 175), ('South Central', 176, 189), ('her portrayal', 194, 207), ('Tiffany Warren', 211, 225), ('the NBC/UPN sitcom', 229, 247), ('In the House', 248, 260), ('five seasons', 265, 277)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', ',', 'NN', 'NN', 'CC', 'NN', '.', 'PRP', 'VBZ', 'RBS', 'JJ', 'IN', 'PRP$', 'NN', 'IN', 'NNP', 'IN', 'DT', 'CD', 'NNP', 'NN', 'HYPH', 'NN', 'NN', 'NNP', 'NNP', 'CC', 'PRP$', 'NN', 'IN', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'SYM', 'NNP', 'NN', 'IN', 'DT', 'NNP', 'IN', 'CD', 'NNS', '-LRB-', 'CD', '-RRB-', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

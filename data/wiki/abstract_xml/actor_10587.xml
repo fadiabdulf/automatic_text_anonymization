@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Joan Barclay</title>
+<link/>https://en.wikipedia.org/wiki/Joan_Barclay
+<annotated>0</annotated>
+<originalabstract>Joan Barclay (born Mary Elizabeth Greear, August 31, 1914 – November 22, 2002) was an American film actress of the 1930s and 1940s, starring mostly in B-movies and cliffhangers, with her career starting during the silent film era.</originalabstract>
+<abstract>Joan_Barclay ( born Mary_Elizabeth_Greear , August_31_,_1914 – November_22_,_2002 ) was an_American_film_actress of the_1930s_and_1940s , starring mostly in B-movies_and_cliffhangers , with her_career starting during the_silent_film_era .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Joan'), (5, 'Barclay'), (13, '('), (14, 'born'), (19, 'Mary'), (24, 'Elizabeth'), (34, 'Greear'), (40, ','), (42, 'August'), (49, '31'), (51, ','), (53, '1914'), (58, '–'), (60, 'November'), (69, '22'), (71, ','), (73, '2002'), (77, ')'), (79, 'was'), (83, 'an'), (86, 'American'), (95, 'film'), (100, 'actress'), (108, 'of'), (111, 'the'), (115, '1930s'), (121, 'and'), (125, '1940s'), (130, ','), (132, 'starring'), (141, 'mostly'), (148, 'in'), (151, 'B-movies'), (160, 'and'), (164, 'cliffhangers'), (176, ','), (178, 'with'), (183, 'her'), (187, 'career'), (194, 'starting'), (203, 'during'), (210, 'the'), (214, 'silent'), (221, 'film'), (226, 'era'), (229, '.')])</stanford_tokens>
+<opennlp_chunks>[('Joan Barclay',0, 12), ('Mary Elizabeth Greear',19, 40), ('August 31, 1914',42, 57), ('November 22, 2002',60, 77), ('an American film actress',83, 107), ('the 1930s and 1940s',111, 130), ('B-movies and cliffhangers',151, 176), ('her career',183, 193), ('the silent film era',210, 229)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', ',', 'VBG', 'RB', 'IN', 'NNS', 'CC', 'NNS', ',', 'IN', 'PRP$', 'NN', 'VBG', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Joan'), (5, 'Barclay'), (13, '('), (14, 'born'), (19, 'Mary'), (24, 'Elizabeth'), (34, 'Greear'), (40, ','), (42, 'August'), (49, '31'), (51, ','), (53, '1914'), (58, '–'), (60, 'November'), (69, '22'), (71, ','), (73, '2002'), (77, ')'), (79, 'was'), (83, 'an'), (86, 'American'), (95, 'film'), (100, 'actress'), (108, 'of'), (111, 'the'), (115, '1930s'), (121, 'and'), (125, '1940s'), (130, ','), (132, 'starring'), (141, 'mostly'), (148, 'in'), (151, 'B'), (152, '-'), (153, 'movies'), (160, 'and'), (164, 'cliffhangers'), (176, ','), (178, 'with'), (183, 'her'), (187, 'career'), (194, 'starting'), (203, 'during'), (210, 'the'), (214, 'silent'), (221, 'film'), (226, 'era'), (229, '.')])</spacy_tokens>
+<spacy_chunks>[('Joan Barclay', 0, 12), ('(born Mary Elizabeth Greear', 13, 40), ('August 31, 1914', 42, 57), ('November 22, 2002', 60, 77), ('an American film actress', 83, 107), ('the 1930s', 111, 120), ('B-movies', 151, 159), ('cliffhangers', 164, 176), ('her career', 183, 193), ('the silent film era', 210, 229)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'VBN', 'NNP', 'NNP', 'NNP', ',', 'NNP', 'CD', ',', 'CD', 'NNS', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NNS', 'CC', 'NNS', ',', 'VBG', 'RB', 'IN', 'NN', 'HYPH', 'NNS', 'CC', 'NNS', ',', 'IN', 'PRP$', 'NN', 'VBG', 'IN', 'DT', 'JJ', 'NN', 'NN', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

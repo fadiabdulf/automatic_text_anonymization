@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Buck Connors</title>
+<link/>https://en.wikipedia.org/wiki/Buck_Connors
+<annotated>0</annotated>
+<originalabstract>Buck Connors (November 22, 1880 – February 4, 1947) was an American actor. He appeared in 85 films between 1912 and 1941. The son of William L Conner and Leah Bowen, Buck was born in Streator, La Salle County, Illinois, and died in Quartzsite, Arizona. Buck is buried in Hi Jolly Cemetery in Quartzsite.</originalabstract>
+<abstract>Buck_Connors ( November_22 , 1880 – February_4_,_1947 ) was an_American_actor . He appeared in 85_films between 1912_and_1941 . The_son of William_L_Conner and Leah_Bowen , Buck was_born in Streator , La_Salle_County , Illinois , and died in Quartzsite , Arizona . Buck is_buried in Hi_Jolly_Cemetery in Quartzsite .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Buck'), (5, 'Connors'), (13, '('), (14, 'November'), (23, '22'), (25, ','), (27, '1880'), (32, '–'), (34, 'February'), (43, '4'), (44, ','), (46, '1947'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (73, '.'), (75, 'He'), (78, 'appeared'), (87, 'in'), (90, '85'), (93, 'films'), (99, 'between'), (107, '1912'), (112, 'and'), (116, '1941'), (120, '.'), (122, 'The'), (126, 'son'), (130, 'of'), (133, 'William'), (141, 'L'), (143, 'Conner'), (150, 'and'), (154, 'Leah'), (159, 'Bowen'), (164, ','), (166, 'Buck'), (171, 'was'), (175, 'born'), (180, 'in'), (183, 'Streator'), (191, ','), (193, 'La'), (196, 'Salle'), (202, 'County'), (208, ','), (210, 'Illinois'), (218, ','), (220, 'and'), (224, 'died'), (229, 'in'), (232, 'Quartzsite'), (242, ','), (244, 'Arizona'), (251, '.'), (253, 'Buck'), (258, 'is'), (261, 'buried'), (268, 'in'), (271, 'Hi'), (274, 'Jolly'), (280, 'Cemetery'), (289, 'in'), (292, 'Quartzsite'), (302, '.')])</stanford_tokens>
+<opennlp_chunks>[('Buck Connors',0, 12), ('November 22',14, 25), ('February 4, 1947',34, 50), ('an American actor',56, 73), ('85 films',90, 98), ('1912 and 1941',107, 120), ('The son',122, 129), ('William L Conner',133, 149), ('Leah Bowen',154, 164), ('was born',171, 179), ('La Salle County',193, 208), ('is buried',258, 267), ('Hi Jolly Cemetery',271, 288)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'NNP', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'UH', 'JJ', 'NN', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Buck'), (5, 'Connors'), (13, '('), (14, 'November'), (23, '22'), (25, ','), (27, '1880'), (32, '–'), (34, 'February'), (43, '4'), (44, ','), (46, '1947'), (50, ')'), (52, 'was'), (56, 'an'), (59, 'American'), (68, 'actor'), (73, '.'), (75, 'He'), (78, 'appeared'), (87, 'in'), (90, '85'), (93, 'films'), (99, 'between'), (107, '1912'), (112, 'and'), (116, '1941'), (120, '.'), (122, 'The'), (126, 'son'), (130, 'of'), (133, 'William'), (141, 'L'), (143, 'Conner'), (150, 'and'), (154, 'Leah'), (159, 'Bowen'), (164, ','), (166, 'Buck'), (171, 'was'), (175, 'born'), (180, 'in'), (183, 'Streator'), (191, ','), (193, 'La'), (196, 'Salle'), (202, 'County'), (208, ','), (210, 'Illinois'), (218, ','), (220, 'and'), (224, 'died'), (229, 'in'), (232, 'Quartzsite'), (242, ','), (244, 'Arizona'), (251, '.'), (253, 'Buck'), (258, 'is'), (261, 'buried'), (268, 'in'), (271, 'Hi'), (274, 'Jolly'), (280, 'Cemetery'), (289, 'in'), (292, 'Quartzsite'), (302, '.')])</spacy_tokens>
+<spacy_chunks>[('Buck Connors', 0, 12), ('(November', 13, 22), ('November 22, 1880', 14, 31), ('February 4, 1947', 34, 50), ('an American actor', 56, 73), ('85 films', 90, 98), ('The son', 122, 129), ('William L Conner', 133, 149), ('Leah Bowen', 154, 164), ('Streator,', 183, 192), ('La Salle County, Illinois', 193, 218), ('Quartzsite, Arizona', 232, 251), ('Hi Jolly Cemetery', 271, 288)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.', 'DT', 'NN', 'IN', 'NNP', 'NNP', 'NNP', 'CC', 'NNP', 'NNP', ',', 'NNP', 'VBD', 'VBN', 'IN', 'NNP', ',', 'NNP', 'NNP', 'NNP', ',', 'NNP', ',', 'CC', 'VBD', 'IN', 'NNP', ',', 'NNP', '.', 'NNP', 'VBZ', 'VBN', 'IN', 'UH', 'NNP', 'NNP', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

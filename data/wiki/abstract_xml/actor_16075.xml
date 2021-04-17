@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Lillian Worth</title>
+<link/>https://en.wikipedia.org/wiki/Lillian_Worth
+<annotated>0</annotated>
+<originalabstract>Lillian Worth (stage name), born Lillian Burgher Murphy, (June 24, 1884 – February 23, 1952) was an American actress. She appeared in 58 films between 1913 and 1937.</originalabstract>
+<abstract>Lillian_Worth ( stage_name ) , born Lillian_Burgher_Murphy , ( June_24_,_1884 – February_23_,_1952 ) was an_American_actress . She appeared in 58_films between 1913_and_1937 .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Lillian'), (8, 'Worth'), (14, '('), (15, 'stage'), (21, 'name'), (25, ')'), (26, ','), (28, 'born'), (33, 'Lillian'), (41, 'Burgher'), (49, 'Murphy'), (55, ','), (57, '('), (58, 'June'), (63, '24'), (65, ','), (67, '1884'), (72, '–'), (74, 'February'), (83, '23'), (85, ','), (87, '1952'), (91, ')'), (93, 'was'), (97, 'an'), (100, 'American'), (109, 'actress'), (116, '.'), (118, 'She'), (122, 'appeared'), (131, 'in'), (134, '58'), (137, 'films'), (143, 'between'), (151, '1913'), (156, 'and'), (160, '1937'), (164, '.')])</stanford_tokens>
+<opennlp_chunks>[('Lillian Worth',0, 13), ('stage name',15, 25), ('Lillian Burgher Murphy',33, 55), ('June 24, 1884',58, 71), ('February 23, 1952',74, 91), ('an American actress',97, 116), ('58 films',134, 142), ('1913 and 1937',151, 164)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', '-LRB-', 'NN', 'NN', '-RRB-', ',', 'VBN', 'NNP', 'NNP', 'NNP', ',', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Lillian'), (8, 'Worth'), (14, '('), (15, 'stage'), (21, 'name'), (25, ')'), (26, ','), (28, 'born'), (33, 'Lillian'), (41, 'Burgher'), (49, 'Murphy'), (55, ','), (57, '('), (58, 'June'), (63, '24'), (65, ','), (67, '1884'), (72, '–'), (74, 'February'), (83, '23'), (85, ','), (87, '1952'), (91, ')'), (93, 'was'), (97, 'an'), (100, 'American'), (109, 'actress'), (116, '.'), (118, 'She'), (122, 'appeared'), (131, 'in'), (134, '58'), (137, 'films'), (143, 'between'), (151, '1913'), (156, 'and'), (160, '1937'), (164, '.')])</spacy_tokens>
+<spacy_chunks>[('Lillian Worth', 0, 13), ('stage name', 15, 25), ('born Lillian Burgher Murphy', 28, 55), ('June 24, 1884', 58, 71), ('February 23, 1952', 74, 91), ('an American actress', 97, 116), ('58 films', 134, 142)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', '-LRB-', 'NN', 'NN', '-RRB-', ',', 'VBD', 'NNP', 'NNP', 'NNP', ',', '-LRB-', 'NNP', 'CD', ',', 'CD', 'SYM', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBD', 'IN', 'CD', 'NNS', 'IN', 'CD', 'CC', 'CD', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

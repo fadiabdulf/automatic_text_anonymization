@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Henry Simmons</title>
+<link/>https://en.wikipedia.org/wiki/Henry_Simmons
+<annotated>0</annotated>
+<originalabstract>Henry Oswald Simmons, Jr.  (born July 1, 1970) is an American actor. He is known for portraying NYPD Detective Baldwin Jones on the ABC police drama NYPD Blue, from 2000–2005, and as Agent Alphonso "Mack" MacKenzie on ABC's Agents of S.H.I.E.L.D..</originalabstract>
+<abstract>Henry_Oswald_Simmons , Jr . ( born July_1_,_1970_) is an_American_actor . He is_known for portraying NYPD_Detective_Baldwin_Jones on the_ABC_police_drama_NYPD_Blue , from 2000 – 2005 , and as Agent_Alphonso_"_Mack_"_MacKenzie on ABC 's_Agents of S.H.I.E.L.D. .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Henry'), (6, 'Oswald'), (13, 'Simmons'), (20, ','), (22, 'Jr'), (24, '.'), (27, '('), (28, 'born'), (33, 'July'), (38, '1'), (39, ','), (41, '1970'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'is'), (75, 'known'), (81, 'for'), (85, 'portraying'), (96, 'NYPD'), (101, 'Detective'), (111, 'Baldwin'), (119, 'Jones'), (125, 'on'), (128, 'the'), (132, 'ABC'), (136, 'police'), (143, 'drama'), (149, 'NYPD'), (154, 'Blue'), (158, ','), (160, 'from'), (165, '2000'), (169, '–'), (170, '2005'), (174, ','), (176, 'and'), (180, 'as'), (183, 'Agent'), (189, 'Alphonso'), (198, '"'), (199, 'Mack'), (203, '"'), (205, 'MacKenzie'), (215, 'on'), (218, 'ABC'), (221, '\'s'), (224, 'Agents'), (231, 'of'), (234, 'S.H.I.E.L.D.'), (246, '.')])</stanford_tokens>
+<opennlp_chunks>[('Henry Oswald Simmons',0, 20), ('July 1, 1970)',33, 46), ('an American actor',50, 67), ('is known',72, 80), ('NYPD Detective Baldwin Jones',96, 124), ('the ABC police drama NYPD Blue',128, 158), ('Agent Alphonso "Mack" MacKenzie',183, 214), ('\'s Agents',221, 230)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '.', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ',', 'IN', 'CD', ':', 'CD', ',', 'CC', 'IN', 'NNP', 'NNP', '``', 'NNP', '\'\'', 'NNP', 'IN', 'NNP', 'POS', 'NNS', 'IN', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Henry'), (6, 'Oswald'), (13, 'Simmons'), (20, ','), (22, 'Jr.'), (27, '('), (28, 'born'), (33, 'July'), (38, '1'), (39, ','), (41, '1970'), (45, ')'), (47, 'is'), (50, 'an'), (53, 'American'), (62, 'actor'), (67, '.'), (69, 'He'), (72, 'is'), (75, 'known'), (81, 'for'), (85, 'portraying'), (96, 'NYPD'), (101, 'Detective'), (111, 'Baldwin'), (119, 'Jones'), (125, 'on'), (128, 'the'), (132, 'ABC'), (136, 'police'), (143, 'drama'), (149, 'NYPD'), (154, 'Blue'), (158, ','), (160, 'from'), (165, '2000–2005'), (174, ','), (176, 'and'), (180, 'as'), (183, 'Agent'), (189, 'Alphonso'), (198, '"'), (199, 'Mack'), (203, '"'), (205, 'MacKenzie'), (215, 'on'), (218, 'ABC'), (221, "'s"), (224, 'Agents'), (231, 'of'), (234, 'S.H.I.E.L.D'), (245, '..')])</spacy_tokens>
+<spacy_chunks>[('Henry Oswald Simmons', 0, 20), ('July 1, 1970', 33, 45), ('an American actor', 50, 67), ('NYPD Detective Baldwin Jones', 96, 124), ('the ABC police drama', 128, 148), ('NYPD Blue', 149, 158), ('Agent Alphonso "Mack" MacKenzie', 183, 214), ("ABC's Agents", 218, 230), ('Agents of S.H.I.E.L.D.', 224, 246)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', ',', 'NNP', '-LRB-', 'VBN', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBZ', 'DT', 'JJ', 'NN', '.', 'PRP', 'VBZ', 'VBN', 'IN', 'VBG', 'NNP', 'NNP', 'NNP', 'NNP', 'IN', 'DT', 'NNP', 'NN', 'NN', 'NNP', 'NNP', ',', 'IN', 'CD', ',', 'CC', 'IN', 'NNP', 'NNP', "''", 'NNP', "''", 'NNP', 'IN', 'NNP', 'POS', 'NNPS', 'IN', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>

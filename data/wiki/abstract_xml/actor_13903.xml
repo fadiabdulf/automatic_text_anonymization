@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<title>Allyn Ann McLerie</title>
+<link/>https://en.wikipedia.org/wiki/Allyn_Ann_McLerie
+<annotated>0</annotated>
+<originalabstract>Allyn Ann McLerie (December 1, 1926 – May 21, 2018) was a Canadian-born, Brooklyn-reared actress, singer, and dancer who worked with many Golden Age musical theatre's major choreographers, including George Balanchine, Agnes de Mille, and Jerome Robbins.</originalabstract>
+<abstract>Allyn_Ann_McLerie ( December_1_,_1926 – May_21_,_2018 ) was a_Canadian-born , Brooklyn-reared_actress , singer , and dancer who worked with many_Golden_Age_musical_theatre 's_major_choreographers , including George_Balanchine , Agnes de Mille , and Jerome_Robbins .</abstract>
+<stanford_tokens>OrderedDict([(0, 'Allyn'), (6, 'Ann'), (10, 'McLerie'), (18, '('), (19, 'December'), (28, '1'), (29, ','), (31, '1926'), (36, '–'), (38, 'May'), (42, '21'), (44, ','), (46, '2018'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'Canadian-born'), (71, ','), (73, 'Brooklyn-reared'), (89, 'actress'), (96, ','), (98, 'singer'), (104, ','), (106, 'and'), (110, 'dancer'), (117, 'who'), (121, 'worked'), (128, 'with'), (133, 'many'), (138, 'Golden'), (145, 'Age'), (149, 'musical'), (157, 'theatre'), (164, '\'s'), (167, 'major'), (173, 'choreographers'), (187, ','), (189, 'including'), (199, 'George'), (206, 'Balanchine'), (216, ','), (218, 'Agnes'), (224, 'de'), (227, 'Mille'), (232, ','), (234, 'and'), (238, 'Jerome'), (245, 'Robbins'), (252, '.')])</stanford_tokens>
+<opennlp_chunks>[('Allyn Ann McLerie',0, 17), ('December 1, 1926',19, 35), ('May 21, 2018',38, 50), ('a Canadian-born',56, 71), ('Brooklyn-reared actress',73, 96), ('many Golden Age musical theatre',133, 164), ('\'s major choreographers',164, 187), ('George Balanchine',199, 216), ('Jerome Robbins',238, 252)]</opennlp_chunks>
+<stanford_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', ':', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NN', ',', 'JJ', 'NN', ',', 'NN', ',', 'CC', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNP', 'NNP', 'JJ', 'NN', 'POS', 'JJ', 'NNS', ',', 'VBG', 'NNP', 'NNP', ',', 'NNP', 'IN', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</stanford_pos>
+<microlabels1></microlabels1>
+<spacy_tokens>OrderedDict([(0, 'Allyn'), (6, 'Ann'), (10, 'McLerie'), (18, '('), (19, 'December'), (28, '1'), (29, ','), (31, '1926'), (36, '–'), (38, 'May'), (42, '21'), (44, ','), (46, '2018'), (50, ')'), (52, 'was'), (56, 'a'), (58, 'Canadian'), (66, '-'), (67, 'born'), (71, ','), (73, 'Brooklyn'), (81, '-'), (82, 'reared'), (89, 'actress'), (96, ','), (98, 'singer'), (104, ','), (106, 'and'), (110, 'dancer'), (117, 'who'), (121, 'worked'), (128, 'with'), (133, 'many'), (138, 'Golden'), (145, 'Age'), (149, 'musical'), (157, 'theatre'), (164, "'s"), (167, 'major'), (173, 'choreographers'), (187, ','), (189, 'including'), (199, 'George'), (206, 'Balanchine'), (216, ','), (218, 'Agnes'), (224, 'de'), (227, 'Mille'), (232, ','), (234, 'and'), (238, 'Jerome'), (245, 'Robbins'), (252, '.')])</spacy_tokens>
+<spacy_chunks>[('Allyn Ann McLerie', 0, 17), ('December 1, 1926', 19, 35), ('May 21, 2018', 38, 50), ('a Canadian-born, Brooklyn-reared actress', 56, 96), ('singer', 98, 104), ('dancer', 110, 116), ("many Golden Age musical theatre's major choreographers", 133, 187), ('George Balanchine', 199, 216), ('Agnes de Mille', 218, 232), ('Jerome Robbins', 238, 252)]</spacy_chunks>
+<spacy_pos>['NNP', 'NNP', 'NNP', '-LRB-', 'NNP', 'CD', ',', 'CD', '.', 'NNP', 'CD', ',', 'CD', '-RRB-', 'VBD', 'DT', 'NNP', 'HYPH', 'VBN', ',', 'NNP', 'HYPH', 'VBN', 'NN', ',', 'NN', ',', 'CC', 'NN', 'WP', 'VBD', 'IN', 'JJ', 'NNP', 'NNP', 'JJ', 'NN', 'POS', 'JJ', 'NNS', ',', 'VBG', 'NNP', 'NNP', ',', 'NNP', 'NNP', 'NNP', ',', 'CC', 'NNP', 'NNP', '.']</spacy_pos>
+<microlabels2></microlabels2>
+<nertext3></nertext3>
+<nertext4></nertext4>
+<nertext7></nertext7>
+<word2vec></word2vec>
+<word2vec_gen></word2vec_gen>
+<tags>
+</tags>
+</doc>
