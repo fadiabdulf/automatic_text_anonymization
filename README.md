@@ -10,10 +10,10 @@ This repository contains the code, notebooks, data related to the Journal paper 
 │   └───wiki\
 │       └───abstract_xml\
 └───notebooks\
-│   01_Train.ipynb
-│   02_Anonymize.ipynb
-│   03_Generalize.ipynb
-│   04_Re-identify.ipynb
+│   01_Train.ipynb\
+│   02_Anonymize.ipynb\
+│   03_Generalize.ipynb\
+│   04_Re-identify.ipynb\
 
 ## Running the code
 
