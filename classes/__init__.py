@@ -329,6 +329,8 @@ class DataLoader(object):
     def write_soup(self, path, file, soup, prettify=False):
         #pre_proc_tag(soup)
         #soup.find('doc').name = 'doc'
+        if not os.path.isdir(path):
+            os.mkdir(path)
         file_path = path + file
         with open(file_path, 'wb') as f:
             if not prettify:
@@ -713,8 +715,6 @@ class WordEmbedding(object):
         self.model.train(new_X, total_examples=len(new_X), epochs=epochs)
 
     def save(self, filename=None):
-        if not os.path.isdir('./models'):
-            os.mkdir('./models')
         if filename is None:
             filename = "models/{0}1_{1}_{2}_{3}_{4}.model".format(self.t, self.vec_size, self.window, self.sg, self.min_count)
         self._save_object(self.model, filename)
@@ -736,6 +736,9 @@ class WordEmbedding(object):
     
     def _save_object(self, obj, filename):
         #logging.info("save object started ...")
+        path = os.path.split(filename)[0]
+        if not os.path.isdir(path):
+            os.mkdir(path)
         with open(filename, 'wb') as output:  # Overwrites any existing file.
             pickle.dump(obj, output, pickle.HIGHEST_PROTOCOL)
         #logging.info("save object finished ...")
@@ -1353,8 +1356,6 @@ class Evaluator(object):
         newSoups = {}
         for key in tqdm(documents):
             soup = self.anonymize(documents[key], soups[key], key, threshold=threshold)
-            if not os.path.isdir('./evals'):
-                os.mkdir('./evals')
             newSoups[key] = self.loader.write_soup(path, key, soup)
         return newSoups
     
@@ -1468,8 +1469,6 @@ class Evaluator(object):
         for key in tqdm(documents):
             soup = self.anonymize(documents[key], soups[key], key, threshold=threshold)
             soup2 = self.generalize(key, documents[key], soup, best_g=best_g, threshold=threshold)
-            if not os.path.isdir('./generalized'):
-                os.mkdir('./generalized')
             newSoups[key] = self.loader.write_soup(path, key, soup2)
         return newSoups
     
@@ -1514,8 +1513,9 @@ class Evaluator(object):
                 
         #plt.title(title)
         plt.legend(handles=handlers, loc='best')
-        if not os.path.isdir('./figs'):
-            os.mkdir('./figs')
+        path = os.path.split(filename)[0]
+        if not os.path.isdir(path):
+            os.mkdir(path)
         plt.savefig(filename, bbox_inches='tight')
         plt.show()
         return es
