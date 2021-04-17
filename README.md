@@ -1,5 +1,5 @@
 # automatic_text_anonymization
-This repository contains the code, notebooks, data related to the Journal paper "Utility-Preserving Privacy Protection of Textual Documents"
+This repository contains the code, notebooks and data related to the Journal paper "Utility-Preserving Privacy Protection of Textual Documents"
 
 ## Project structure:
 
