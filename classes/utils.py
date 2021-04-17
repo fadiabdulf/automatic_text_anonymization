@@ -53,9 +53,15 @@ import time
 import math
 # import google api_id and api_key to get one you have to access:
 # https://developers.google.com/maps/documentation/embed/get-api-key
-from .secure import api_id, api_key
+try:
+    from .secure import api_id, api_key
+except:
+    print("secure.py not exist")
+    api_id = "123" 
+    api_key = "456"
 with open("../data/hits/hits.txt", "rb") as f:
     hits = ast.literal_eval(f.read().decode("utf-8").strip())
+oov = set()
 
 def google_search(search_term, api_key, cse_id, **kwargs):
     """Search in google"""
