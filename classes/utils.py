@@ -56,7 +56,7 @@ import math
 try:
     from .secure import api_id, api_key
 except:
-    print("secure.py not exist")
+    # print("secure.py not exist")
     api_id = "123" 
     api_key = "456"
 with open("../data/hits/hits.txt", "rb") as f:
