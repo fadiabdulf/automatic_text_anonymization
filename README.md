@@ -25,7 +25,7 @@ This repository contains the code, notebooks and data related to the Journal pap
 ## Running the code
 
 From the notebooks directory you can find the code which origenized as following:
-- Firstly, run 01_Train.ipynb notebook to install all the requirements and build the word embedding model.
+- Firstly, run 01_Train.ipynb notebook to install all the requirements and build the word embedding models.
 - Secondly, run 02_Anonymize.ipynb notebook to do the anonymization process and calculate the evaluation metrics.
 - Thirdly, run 03_Generalize.ipynb notebook to do the generalization process and calculate the evaluation metrics.
 - Finally, run 04_Re-identify.ipynb notebook to perform a re-identification attack.
