@@ -51,8 +51,10 @@ from googleapiclient.discovery import build
 import random
 import time
 import math
+import numpy as np
+import ast
 # import google api_id and api_key to get one you have to access:
-# https://developers.google.com/maps/documentation/embed/get-api-key
+# https://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search
 try:
     from .secure import api_id, api_key
 except:
@@ -62,6 +64,9 @@ except:
 with open("../data/hits/hits.txt", "rb") as f:
     hits = ast.literal_eval(f.read().decode("utf-8").strip())
 oov = set()
+avg = np.average([a for a in hits.values() if a > 0])
+hits['a'] = max(hits.values())
+api_first_call = False
 
 def google_search(search_term, api_key, cse_id, **kwargs):
     """Search in google"""
@@ -69,15 +74,16 @@ def google_search(search_term, api_key, cse_id, **kwargs):
     res = service.cse().list(q=search_term, cx=cse_id, **kwargs).execute()
     return res
 
-def results(words, hits=None):
+def gsearch(words, hits=None):
     """Calculate the hits from google responses"""
+    global api_first_call
     if hits is None:
         hits = {}
     if type(words) != list and type(words) != set:
         words = [words]
     rs = hits
     i = 0
-    wait = 1.0
+    wait = 0.01
     for word in words:
         if word in hits.keys() and hits[word] != -1:
             i = i + 1
@@ -85,15 +91,23 @@ def results(words, hits=None):
         try:
             time.sleep(wait)
             w = '%s' % word.replace('_', ' ')
+            # ws = [x.replace('_', ' ') for x in ws]
+            # if len(ws) == 2:
+            #     w = '%s' % ws[1].replace('_', ' ')
+            #     # w = '"%s" "%s"' % tuple(ws)
+            # else:
+            #     w = '%s' % word.replace('_', ' ')
             json_object = google_search(w, api_key, api_id)
             rs[word] = int(json_object['searchInformation']['totalResults'])
             # rs[word] = bing_search(w)
             # if i % 10 == 0:
             #     print("{0}, get the hits from bing for the entity {1} , count: {2}".format(i, word, rs[word]))
             i = i + 1
-        except:
+        except Exception as ex:
             rs[word] = -1
-            #break
+            if not api_first_call:
+                print(ex)
+                api_first_call = True
             pass
     return rs
 
@@ -104,11 +118,14 @@ def prop(s, hits):
     if not s in hits or hits[s] < 0:
         oov.add(s)
         return avg / (hits['a'] + 1.0)
-    return hits[s] / (hits['a'] + 1.0)
+    return hits[s] / (hits['a'] + 1.0)  
 
 def IC(s, hits):
     s = s.lower()
-    return -math.log(prop(s, hits), 2)
+    x = prop(s, hits)
+    if x <= 0:
+        x = 0.000001
+    return -math.log(x, 2)
 
 def my_split(t, spl=' ', glu='_'):
     entities = []
@@ -237,8 +254,9 @@ def Semantics(soup, tag='word2vec_gen', evaluate='p', lower=True, loader=None):
                     g = toks[i][1:toks[i].index('[')]
                     o = toks[i][toks[i].index('[')+1:toks[i].index(']')]
                     #print(c, toks[i], g, o)
-                    if not g.isupper():
-                        g = o + ' & ' + g
+                    # if not g.isupper():
+                    #     # g = o + ' & ' + g
+                    #     g = o + ' ' + g
                     c += 1
                 else:
                     g = term
@@ -253,15 +271,16 @@ def Semantics(soup, tag='word2vec_gen', evaluate='p', lower=True, loader=None):
                 g = toks[i][1:toks[i].index('[')]
                 o = toks[i][toks[i].index('[')+1:toks[i].index(']')]
                 #print(c, toks[i], g, o)
-                if not g.isupper():
-                    g = o + ' & ' + g
+                # if not g.isupper():
+                #     # g = o + ' & ' + g
+                #     g = o + ' ' + g
                 c += 1
         #print(term, g)
         if not g is None:
             if lower:
                 term = term.lower()
                 g = g.lower()
-            results([term, g], hits)
+            gsearch([term, g], hits)
             gs.append(g)
             ic += IC(g, hits)
     count = sum([1 if '[' in t and ']' in t and '{' in t and '}' in t else 0 for t in my_split(soup.find(tag).text.strip())])

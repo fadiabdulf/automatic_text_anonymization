@@ -1445,7 +1445,7 @@ class Evaluator(object):
                         elif best_g == 'med':
                             sim, w, tt = sorted(sims, key=lambda v: v[0])[len(sims) // 2]
                         else:
-                            sim, w, tt = sims[0]
+                            sim, w, tt = sims[best_g]
                         new_t = '{%s[%s]}' % (w.replace(' ', '_'), tt)
                     else:
                         #new_t = '{%s[%s]}' % ((gen[doc_id][t[0]]['class'], t[0]) \
@@ -1470,55 +1470,6 @@ class Evaluator(object):
             soup = self.anonymize(documents[key], soups[key], key, threshold=threshold)
             soup2 = self.generalize(key, documents[key], soup, best_g=best_g, threshold=threshold)
             newSoups[key] = self.loader.write_soup(path, key, soup2)
-        return newSoups
-    
-    def evaluate_plot(self, documents, soups, interval=0.05, all_comps=False, weighted_mean=False, tag='word2vec', 
-                      plots={'P': True, 'R': True, 'F1': True}, filename=None):
-        if filename is None:
-            filename="figs/img_{0}_{1}_{2}_{3}.pdf".format(self.emb.vec_size, self.emb.window, self.emb.sg, self.emb.min_count)
-        #title = "Title"
-        xlabel = "threshold"
-        ylabel = "Measures"
-        metrics = ['precision', 'recall', 'f1', 'precision CV', 'recall CV', 'f1 CV']
-        colors = ['b', 'g', 'r', 'c', 'y', 'w']
-        markers = ['-o', '-^', '--', '-+', '-x', '-.']
-        ts = np.arange(0.05, 1, interval)
-        # ts = np.arange(-1, 1, interval)
-        # ts = np.arange(-3, 1, interval)
-        es = {'P' : [], 'R' : [], 'F1': [], 'PC': [], 'RC': [], 'FC': []}
-        for t in tqdm(ts):
-            p, r, f1 = self.evaluate_all(documents, soups, threshold=t, all_comps=all_comps, 
-                                         weighted_mean=weighted_mean, tag=tag, silent=True)
-            es['P'].append(p)
-            es['R'].append(r)
-            es['F1'].append(f1)
-            if 'PC' in plots or 'RC' in plots or 'FC' in plots:
-                pc, rc, fc = self.coefficient_of_variation(documents, soups, threshold=t, all_comps=all_comps, 
-                                         weighted_mean=weighted_mean, tag=tag)
-                es['PC'].append(pc)
-                es['RC'].append(rc)
-                es['FC'].append(fc)
-        handlers = []
-        for i in range(len(plots)):
-            if isinstance(plots, dict):
-                k = list(plots)[i] 
-                if not plots[k]:
-                    continue
-            else:
-                k = plots[i]
-            handler, = plt.plot(ts, es[k], markers[i], label= metrics[i])
-            handlers.append(handler)
-            plt.xlabel(xlabel)
-            plt.ylabel(ylabel)
-                
-        #plt.title(title)
-        plt.legend(handles=handlers, loc='best')
-        path = os.path.split(filename)[0]
-        if not os.path.isdir(path):
-            os.mkdir(path)
-        plt.savefig(filename, bbox_inches='tight')
-        plt.show()
-        return es
+        return newSoups 
 
-
-        
+      
