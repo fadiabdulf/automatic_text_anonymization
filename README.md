@@ -7,7 +7,7 @@ This repository contains the code, notebooks and data related to the Journal pap
 ├───data\
 │&nbsp;&nbsp;&nbsp;├───hits\
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;entities_generalizations4.csv # Generalizations of the entities from YAGO and WordNet. \
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hits.txt                      # Hits of the terms from google search. \
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hits.txt                      # Number of hits for the terms (collected from google). \
 │&nbsp;&nbsp;&nbsp;├───NewArticles\
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiki_Actor_XYZ.xml            # New article from Wikipedia belong to a generalized entity. \
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... \
