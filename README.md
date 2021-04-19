@@ -5,22 +5,22 @@ This repository contains the code, notebooks and data related to the Journal pap
 
 ├───classes\
 ├───data\
-│   ├───hits\
-|           entities_generalizations4.csv # Generalization of the entities from YAGO and WordNet. \
-|           hits.txt                      # Hits of the terms from google search. \
-│   ├───NewArticles\
-|           wiki_Actor_XYZ.xml            # New article from Wikipedia belong to a generalized entity. \
-|           ... \
-│   └───wiki\
-│       └───abstract_xml\
-|               actor_1.xml               # Summary about an actor form wikipedia (if the annotation tag is 1, then the summary is manually annotated.). \
-|               actor_2.xml \
-|               ... \
+│&nbsp;&nbsp;&nbsp;├───hits\
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;entities_generalizations4.csv # Generalizations of the entities from YAGO and WordNet. \
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hits.txt                      # Hits of the terms from google search. \
+│&nbsp;&nbsp;&nbsp;├───NewArticles\
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiki_Actor_XYZ.xml            # New article from Wikipedia belong to a generalized entity. \
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... \
+│&nbsp;&nbsp;&nbsp;└───wiki\
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└───abstract_xml\
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;actor_1.xml               # Summary about an actor form wikipedia (if the annotation tag is 1, then the summary is manually annotated.). \
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;actor_2.xml \
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... \
 └───notebooks\
-│       01_Train.ipynb\
-│       02_Anonymize.ipynb\
-│       03_Generalize.ipynb\
-│       04_Re-identify.ipynb
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01_Train.ipynb\
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02_Anonymize.ipynb\
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03_Generalize.ipynb\
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04_Re-identify.ipynb
 
 ## Running the code
 
